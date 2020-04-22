@@ -1,0 +1,12 @@
+{
+  "name": "ror-wiki",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "git@github.com:reinventingorganizations/wiki.git",
+  "author": "Nothing AG <info@nothing.ch>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@11ty/eleventy": "^0.10.0"
+  }
+}
