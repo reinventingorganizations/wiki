@@ -1,9 +1,13 @@
 module.exports = function (eleventyConfig) {
-  var MarkdownIt = require("markdown-it"),
-    md = new MarkdownIt();
+  const markdownOptions = {
+    html: true,
+  };
 
-  eleventyConfig.addPassthroughCopy({ "static/admin": "admin" });
-  eleventyConfig.addPassthroughCopy("media");
+  const MarkdownIt = require("markdown-it"),
+    md = new MarkdownIt(markdownOptions);
+
+  md.use(require("markdown-it-footnote"));
+  eleventyConfig.setLibrary("md", md);
 
   eleventyConfig.addFilter("md", function (value) {
     if (!value) {
@@ -12,6 +16,9 @@ module.exports = function (eleventyConfig) {
 
     return md.render(value);
   });
+
+  eleventyConfig.addPassthroughCopy({ "static/admin": "admin" });
+  eleventyConfig.addPassthroughCopy("media");
 
   return {
     dir: {
