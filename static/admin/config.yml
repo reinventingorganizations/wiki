@@ -1,0 +1,161 @@
+backend:
+  name: git-gateway
+  branch: master
+media_folder: "media"
+local_backend: true
+collections:
+  - name: "theoryArticle"
+    label: "Theory Article"
+    folder: "content/theoryArticle"
+    create: true
+    identifier_field: name
+    slug: "{{key}}"
+    fields:
+      - {
+          label: "Layout",
+          name: "layout",
+          widget: "hidden",
+          default: "article",
+        }
+      - {
+          label: "Key (Short name of the article. Can't be changed after the article is created.)",
+          name: "key",
+          widget: "string",
+        }
+      - { label: "Name", name: "name", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - label: "FAQ"
+        name: "faq"
+        widget: "list"
+        fields:
+          - { label: Question, name: question, widget: string }
+          - { label: Answer, name: answer, widget: markdown, minimal: true }
+      - label: "Related Theory Articles"
+        name: "relatedTheoryArticle"
+        widget: "relation"
+        collection: "theoryArticle"
+        required: false
+        displayFields: ["name"]
+        valueField: "key"
+        searchFields: ["name"]
+        multiple: true
+      - label: "Related Process Articles"
+        name: "relatedProcessArticle"
+        widget: "relation"
+        collection: "processArticle"
+        required: false
+        displayFields: ["name"]
+        valueField: "key"
+        searchFields: ["name"]
+  - name: "processArticle"
+    label: "Process Article"
+    folder: "content/processArticle"
+    create: true
+    identifier_field: name
+    slug: "{{key}}"
+    fields:
+      - {
+          label: "Layout",
+          name: "layout",
+          widget: "hidden",
+          default: "article",
+        }
+      - {
+          label: "Key (Short name of the article. Can't be changed after the article is created.)",
+          name: "key",
+          widget: "string",
+        }
+      - { label: "Name", name: "name", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - label: "FAQ"
+        name: "faq"
+        widget: "list"
+        fields:
+          - { label: Question, name: question, widget: string }
+          - { label: Answer, name: answer, widget: markdown, minimal: true }
+      - label: "Related Theory Articles"
+        name: "relatedTheoryArticle"
+        widget: "relation"
+        collection: "theoryArticle"
+        required: false
+        displayFields: ["name"]
+        valueField: "key"
+        searchFields: ["name"]
+        multiple: true
+      - label: "Related Process Articles"
+        name: "relatedProcessArticle"
+        widget: "relation"
+        collection: "processArticle"
+        required: false
+        displayFields: ["name"]
+        valueField: "key"
+        searchFields: ["name"]
+        multiple: true
+  - name: "caseStudies"
+    label: "Case Studies"
+    folder: "content/caseStudies"
+    create: true
+    identifier_field: name
+    fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "case" }
+      - { label: "Name", name: "name", widget: "string" }
+      - {
+          label: "Introduction",
+          name: "introduction",
+          widget: "markdown",
+          minimal: true,
+        }
+      - {
+          label: "Industry",
+          name: "industry",
+          widget: "select",
+          options: ["Healthcare", "IT", "Outdoor"],
+        }
+      - {
+          label: "Geography",
+          name: "geography",
+          widget: "select",
+          options: ["Switzerland", "France", "USA"],
+        }
+      - {
+          label: "Company size",
+          name: "companySize",
+          widget: "select",
+          options: ["1-100", "101-200", "201-500", "> 500"],
+        }
+      - {
+          label: "Profit",
+          name: "profit",
+          widget: "select",
+          options: ["Profit", "non-profit"],
+        }
+      - label: "Theory"
+        name: "theory"
+        widget: "list"
+        fields:
+          - {
+              label: Topic,
+              name: topic,
+              widget: relation,
+              collection: "theoryArticle",
+              displayFields: ["name"],
+              valueField: "key",
+              searchFields: ["name"],
+            }
+          - { label: Title, name: title, widget: string }
+          - { label: Content, name: content, widget: markdown, minimal: true }
+      - label: "Process"
+        name: "process"
+        widget: "list"
+        fields:
+          - {
+              label: Topic,
+              name: topic,
+              widget: relation,
+              collection: "processArticle",
+              displayFields: ["name"],
+              valueField: "key",
+              searchFields: ["name"],
+            }
+          - { label: Title, name: title, widget: string }
+          - { label: Content, name: content, widget: markdown, minimal: true }

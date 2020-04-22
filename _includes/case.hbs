@@ -1,0 +1,31 @@
+---
+layout: base
+---
+
+<h1>{{ name }}</h1>
+
+{{{ md introduction }}}
+
+<ul>
+<li>{{ industry }}</li>
+<li>{{ geography }}</li>
+<li>{{ companySize }}</li>
+<li>{{ profit }}</li>
+</ul>
+
+<h2>Theories</h2>
+
+{{#each theory}}
+    
+    <h3>{{ title }}</h3>
+    <div>Topic: {{ topic }}</div>
+    {{{ md content }}}
+{{/each}}
+
+<h2>Process</h2>
+
+{{#each process}}
+    <h3>{{ title }}</h3>
+    <div>Topic: {{ topic }}</div>
+    {{{ md content }}}
+{{/each}}

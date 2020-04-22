@@ -1,0 +1,16 @@
+---
+layout: base
+---
+
+{{{ content }}}
+
+<ul>
+{{#each collections.all }}
+{{log this}}
+  {{#if data.name}}
+      <li>
+        <a href="{{ this.url }}">{{ data.name }}</a>
+      </li>
+  {{/if}}
+{{/each}}
+</ul>
