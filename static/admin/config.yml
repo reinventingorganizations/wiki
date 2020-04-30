@@ -1,6 +1,5 @@
 backend:
-  name: github
-  repo: reinventingorganizations/wiki
+  name: git-gateway
 media_folder: "media"
 local_backend: true
 collections:
