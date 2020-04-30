@@ -1,6 +1,6 @@
 ---
 layout: article
 key: board
-name: Board1
+name: Board
 ---
 Lorem ipsum Test Change
