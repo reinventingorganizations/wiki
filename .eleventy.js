@@ -18,6 +18,7 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addPassthroughCopy({ "static/admin": "admin" });
+  eleventyConfig.addPassthroughCopy("mail");
   eleventyConfig.addPassthroughCopy("media");
 
   return {
