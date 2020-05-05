@@ -56,4 +56,4 @@ Through these practices, a safe space is created. Then, each person is responsib
 
 ### Reimagined HR processes
 
-In addition to the practices described above, Teal organizations have reframed all of the key human resources processes— recruitment, onboarding, training, evaluation, compensation, dismissal— in ways to eliminate fear and feelings of separation and reclaim wholeness. See *Human Resource practices*.
+In addition to the practices described above, Teal organizations have reframed all of the key human resources processes— recruitment, onboarding, training, evaluation, compensation, dismissal— in ways to eliminate fear and feelings of separation and reclaim wholeness. See *Human Resource practices*. ABC
