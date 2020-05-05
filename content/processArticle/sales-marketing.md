@@ -52,5 +52,4 @@ InTealorganizations, self-set targets may exist, but top-down targets usually do
 
 Here are some concrete examples of what Sales and Marketing looks like inTealorganizat 
 
-
 <!--EndFragment-->
