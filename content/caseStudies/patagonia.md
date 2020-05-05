@@ -17,12 +17,12 @@ geography: USA
 companySize: "> 500"
 profit: Profit
 theory:
-  - topic: wholness
-    title: Children in Meetings
-    content: Lorem ipsum
   - topic: board
     title: Adoption of the B Corp certification
     content: Lorem ipsum
+  - topic: wholness
+    title: Test
+    content: test
 process:
   - topic: sales-marketing
     title: Marketing as “Don’t Buy Our Product”?!
