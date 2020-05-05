@@ -5,7 +5,7 @@ introduction: >-
   <!--StartFragment-->
 
 
-  **Patagonia, Inc.**is an American clothing company that markets and sells[outdoor](https://en.wikipedia.org/wiki/Outdoor "Outdoor")clothing. The company was founded by[Yvon Chouinard](https://en.wikipedia.org/wiki/Yvon_Chouinard "Yvon Chouinard")in 1973 and is based in[Ventura, California](https://en.wikipedia.org/wiki/Ventura,_California "Ventura, California").[\[1]](https://en.wikipedia.org/wiki/Patagonia,_Inc.#cite_note-1)Its logo is the outline of[Mount Fitz Roy](https://en.wikipedia.org/wiki/Mount_Fitz_Roy "Mount Fitz Roy"), the border between[Chile](https://en.wikipedia.org/wiki/Chile "Chile")and[Argentina](https://en.wikipedia.org/wiki/Argentina "Argentina"), in the region of[Patagonia](https://en.wikipedia.org/wiki/Patagonia "Patagonia").
+  **Patagonia, Inc.** is an American clothing company that markets and sells[outdoor](https://en.wikipedia.org/wiki/Outdoor "Outdoor")clothing. The company was founded by[Yvon Chouinard](https://en.wikipedia.org/wiki/Yvon_Chouinard "Yvon Chouinard")in 1973 and is based in[Ventura, California](https://en.wikipedia.org/wiki/Ventura,_California "Ventura, California").\[[1]](https://en.wikipedia.org/wiki/Patagonia,_Inc.#cite_note-1)Its logo is the outline of[Mount Fitz Roy](https://en.wikipedia.org/wiki/Mount_Fitz_Roy "Mount Fitz Roy"), the border between[Chile](https://en.wikipedia.org/wiki/Chile "Chile")and[Argentina](https://en.wikipedia.org/wiki/Argentina "Argentina"), in the region of[Patagonia](https://en.wikipedia.org/wiki/Patagonia "Patagonia").
 
 
   <!--EndFragment-->
