@@ -2,6 +2,9 @@
 layout: article
 key: wholness
 name: Wholeness
+relatedTheoryArticle:
+  - board
+relatedProcessArticle: sales-marketing
 ---
 ## A new perspective
 
