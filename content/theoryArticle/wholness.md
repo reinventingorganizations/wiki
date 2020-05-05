@@ -4,6 +4,7 @@ key: wholness
 name: Wholeness
 relatedTheoryArticle:
   - board
+  - wholness
 relatedProcessArticle: sales-marketing
 ---
 ## A new perspective
