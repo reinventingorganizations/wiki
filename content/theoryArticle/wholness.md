@@ -13,7 +13,7 @@ Workplaces have traditionally encouraged people to show up with their “profess
 
 Wisdom traditions from around the world speak to this from a deeper level: at heart, we are all profoundly interconnected and part of a whole, but it’s a truth we have forgotten. We are born into separation and raised to feel divided from our deeper nature, as well as from the people and life around us. Our deepest calling in life, these traditions tell us, is to reclaim wholeness, within ourselves and in our connection with the outside world. This spiritual insight inspires Teal Organizations’ second breakthrough: to create a space that supports us in our journey to wholeness. Extraordinary things begin to happen when we dare to bring all of who we are to work. Every time we leave a part of us behind, we cut ourselves off from part of our potential, of our creativity and energy. No wonder many workplaces feel somehow lifeless. In wholeness we are life-full. We discover in awe how much more life there is in us than we ever imagined. In our relationships with colleagues, much of what made the workplace unpleasant and inefficient vanishes; work becomes a vehicle where we help each other reveal our inner greatness and manifest our calling.^[https://www.yahoo.fr]
 
-^[www.yahoo.fr]
+Exemple. ^[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4511-4521). Nelson Parker. Kindle Edition.]
 
 
 ## In practice
