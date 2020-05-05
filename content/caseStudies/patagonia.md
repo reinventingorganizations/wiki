@@ -20,7 +20,7 @@ theory:
   - topic: board
     title: Adoption of the B Corp certification
     content: Lorem ipsum
-  - topic: wholness
+  - topic: wholeness
     title: Test
     content: test
 process:
