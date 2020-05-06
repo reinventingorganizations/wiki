@@ -26,8 +26,8 @@ process:
       since picked up on the idea and at random times of the year add brass
       figurines into their shipments, as little tokens of love to their
       counterparts working on assembly lines at Volkswagen or Volvo, who will
-      find the figurines when they unpack the boxes.^Laloux, Frederic
+      find the figurines when they unpack the boxes.^\\[Laloux, Frederic
       (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations
       Inspired by the Next Stage of Human Consciousness (Kindle Locations
-      4371-4378). Nelson Parker. Kindle Edition."
+      4371-4378). Nelson Parker. Kindle Edition.]"
 ---
