@@ -1,7 +1,7 @@
 ---
 layout: article
 key: Listening to Purpose
-name: ListeningtoPurpose
+name: Listening to Purpose
 faq:
   - question: How can we be sure the purpose is well known in the organization and
       that the decision-making process is based on it?
