@@ -16,7 +16,7 @@ As an organization’s guiding light switches from sales, profits and market sha
 
 ### Inside-out offer defined by purpose
 
-Earlier stage organizations will develop marketing strategies based heavily on an analysis of customers (using surveys, focus groups, etc.) with the objective of increasing sales, profit, market share, etc. often by creating artificial needs. This could be characterized as an “outside in” approach. Teal organizations take an “inside out” approach where product development and communication are driven by the desire to fulfill the organization’s purpose. See also Innovation and Product Development.  
+Earlier stage organizations will develop marketing strategies based heavily on an analysis of customers (using surveys, focus groups, etc.) with the objective of increasing sales, profit, market share, etc. often by creating artificial needs. This could be characterized as an “outside in” approach. Teal organizations take an “inside out” approach where product development and communication are driven by the desire to fulfill the organization’s purpose. See also [Innovation and Product Development](http://reinventingorganizationswiki.com/Innovation_and_Product_Development).  
 
 ### Marketing driven more by purpose than product
 
@@ -40,4 +40,4 @@ In Teal organizations, self-set targets may exist, but top-down targets usually 
 
 ## Concrete examples for inspiration
 
-Here are some concrete examples of what Sales and Marketing looks like in Teal organizations.
+   Here are some concrete examples of what Sales and Marketing looks like in Teal organizations.
