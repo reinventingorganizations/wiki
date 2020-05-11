@@ -5,4 +5,40 @@ templateEngineOverride: hbs,md
 
 <h1>{{ name }} </h1>
 
-{{{ content  }}}
+{{{ intro }}}
+
+<h2>A New Perspective</h2>
+
+{{{ md perspective  }}}
+
+<h2>In Practice</h2>
+
+{{{ md inPractice  }}}
+
+##  Frequently Asked Questions
+
+{{#each faq}}
+    <h3>{{question}}</h3>
+
+    {{{ md answer }}}
+{{/each}}
+
+## Concrete Organisational Cases 
+
+{{#each cases }}
+    <h3>{{ case.data.name }}</h3>
+    <div>
+        {{{ md content  }}}
+    </div>
+    <div>
+        <a href="{{ case.url }}">Get to know how this organisation manages other teal practices</a>
+    </div>
+{{/each}}
+
+## Related Topics 
+
+<ul>
+    {{#each topics}}
+        <li><a href="{{ this.url }}">{{ data.name }}</a></li>
+    {{/each}}
+</ul>

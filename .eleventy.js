@@ -4,7 +4,7 @@ module.exports = function (eleventyConfig) {
   };
 
   const MarkdownIt = require("markdown-it"),
-    md = new MarkdownIt(markdownOptions);
+    md = new MarkdownIt(markdownOptions).disable('code');;
 
   md.use(require("markdown-it-footnote"));
 
