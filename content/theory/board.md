@@ -3,6 +3,6 @@ layout: article
 tags: theory
 key: board
 name: Board
-category: teal-concepts
+category: Structure of an organization
 ---
 Lorem ipsum Test Change - hello
