@@ -3,7 +3,7 @@ layout: article
 key: sales-marketing
 name: Sales and Marketing
 faq: []
-relatedTheoryArticle:
+relatedTheory:
   - Listening to Purpose
 ---
 ## A new perspective

@@ -7,7 +7,7 @@ industry: Healthcare
 geography: France
 companySize: 201-500
 profit: Profit
-process:
+theory:
   - topic: sales-marketing
     title: Sending love to clients
     content: "Through a process of collective discussion, FAVI’s employees

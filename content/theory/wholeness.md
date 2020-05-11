@@ -3,9 +3,8 @@ layout: article
 key: wholeness
 name: Wholeness
 faq: []
-relatedTheoryArticle:
+relatedTheory:
   - wholness
-relatedProcessArticle: sales-marketing
 ---
 ## A new perspective
 

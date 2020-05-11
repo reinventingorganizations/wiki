@@ -13,9 +13,8 @@ faq:
       into their work. They are fulfilled as human beings, not as productive
       units. At the same time, the organization's evolutionary purpose is
       furthered and allowed to grow.
-relatedTheoryArticle:
+relatedTheory:
   - Listening to Purpose
-relatedProcessArticle: sales-marketing
 ---
 *"Nothing endures except change"'*
 

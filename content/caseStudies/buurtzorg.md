@@ -47,7 +47,6 @@ theory:
       Reinventing Organizations: A Guide to Creating Organizations Inspired by
       the Next Stage of Human Consciousness (Kindle Locations 4396-4406). Nelson
       Parker. Kindle Edition.]"
-process:
   - topic: sales-marketing
     title: Has grown from 4 people in 2007 to 10,000 employees in 2016 without using
       any marketing.

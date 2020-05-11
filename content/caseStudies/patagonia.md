@@ -20,7 +20,6 @@ theory:
   - topic: wholeness
     title: Test
     content: test
-process:
   - topic: sales-marketing
     title: Marketing as “Don’t Buy Our Product”?!
     content: "Where most brands use marketing to convert prospects into customers,

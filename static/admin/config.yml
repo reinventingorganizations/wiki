@@ -3,9 +3,9 @@ backend:
 media_folder: "media"
 local_backend: true
 collections:
-  - name: "theoryArticle"
-    label: "Theory Article"
-    folder: "content/theoryArticle"
+  - name: "theory"
+    label: "Theory"
+    folder: "content/theory"
     create: true
     identifier_field: name
     slug: "{{key}}"
@@ -17,7 +17,7 @@ collections:
           default: "article",
         }
       - {
-          label: "Key (Short name of the article. Can't be changed after the article is created.)",
+          label: "Key (Short name of the theory. Can't be changed after the theory is created.)",
           name: "key",
           widget: "string",
         }
@@ -29,62 +29,10 @@ collections:
         fields:
           - { label: Question, name: question, widget: string }
           - { label: Answer, name: answer, widget: markdown, minimal: true }
-      - label: "Related Theory Articles"
-        name: "relatedTheoryArticle"
+      - label: "Related Theory"
+        name: "relatedTheory"
         widget: "relation"
-        collection: "theoryArticle"
-        required: false
-        displayFields: ["name"]
-        valueField: "key"
-        searchFields: ["name"]
-        multiple: true
-      - label: "Related Process Articles"
-        name: "relatedProcessArticle"
-        widget: "relation"
-        collection: "processArticle"
-        required: false
-        displayFields: ["name"]
-        valueField: "key"
-        searchFields: ["name"]
-  - name: "processArticle"
-    label: "Process Article"
-    folder: "content/processArticle"
-    create: true
-    identifier_field: name
-    slug: "{{key}}"
-    fields:
-      - {
-          label: "Layout",
-          name: "layout",
-          widget: "hidden",
-          default: "article",
-        }
-      - {
-          label: "Key (Short name of the article. Can't be changed after the article is created.)",
-          name: "key",
-          widget: "string",
-        }
-      - { label: "Name", name: "name", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown" }
-      - label: "FAQ"
-        name: "faq"
-        widget: "list"
-        fields:
-          - { label: Question, name: question, widget: string }
-          - { label: Answer, name: answer, widget: markdown, minimal: true }
-      - label: "Related Theory Articles"
-        name: "relatedTheoryArticle"
-        widget: "relation"
-        collection: "theoryArticle"
-        required: false
-        displayFields: ["name"]
-        valueField: "key"
-        searchFields: ["name"]
-        multiple: true
-      - label: "Related Process Articles"
-        name: "relatedProcessArticle"
-        widget: "relation"
-        collection: "processArticle"
+        collection: "theory"
         required: false
         displayFields: ["name"]
         valueField: "key"
@@ -136,22 +84,7 @@ collections:
               label: Topic,
               name: topic,
               widget: relation,
-              collection: "theoryArticle",
-              displayFields: ["name"],
-              valueField: "key",
-              searchFields: ["name"],
-            }
-          - { label: Title, name: title, widget: string }
-          - { label: Content, name: content, widget: markdown, minimal: true }
-      - label: "Process"
-        name: "process"
-        widget: "list"
-        fields:
-          - {
-              label: Topic,
-              name: topic,
-              widget: relation,
-              collection: "processArticle",
+              collection: "theory",
               displayFields: ["name"],
               valueField: "key",
               searchFields: ["name"],
