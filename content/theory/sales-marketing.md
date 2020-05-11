@@ -1,12 +1,12 @@
 ---
 layout: article
+tags: theory
 key: sales-marketing
 name: Sales and Marketing
+category: Important Processes
 faq: []
 relatedTheory:
   - Listening to Purpose
-tags: theory
-category: teal-concepts
 ---
 ## A new perspective
 
