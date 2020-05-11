@@ -17,12 +17,24 @@ module.exports = function (eleventyConfig) {
     return md.render(value);
   });
 
+  eleventyConfig.addCollection("theoryNavigation", function(collection) {
+    let categories = collection.getFilteredByTag("theoryCategories"); 
+    return categories.map(_ => {
+      return {
+        data: _.data,
+        articles: collection.getFilteredByTag("theory").filter(item => item.data.category === _.data.key)
+      }
+    })
+  });
+ 
+
+
   eleventyConfig.addPassthroughCopy({ "static/admin": "admin" });
   eleventyConfig.addPassthroughCopy("mail");
   eleventyConfig.addPassthroughCopy("media");
 
   return {
-    dir: {
+    dir: { 
       input: "content",
       includes: "../_includes",
     },

@@ -4,9 +4,25 @@ layout: base
 
 {{{ content }}}
 
+
+
+<h2>Theory</h2>
+{{#each collections.theoryNavigation }}
+  <h3>{{ data.name }}</h3>
+  {{log articles}}
+  <ul>
+  {{#each articles  }}
+      <li>
+        <a href="{{ this.url }}">{{ data.name }}</a>
+      </li>
+  {{/each}}
+  </ul>
+{{/each}}
+
+<h2>Cases</h2>
+
 <ul>
-{{#each collections.all }}
-{{log this}}
+{{#each collections.cases }}
   {{#if data.name}}
       <li>
         <a href="{{ this.url }}">{{ data.name }}</a>

@@ -5,6 +5,8 @@ name: Wholeness
 faq: []
 relatedTheory:
   - wholness
+tags: theory
+category: teal-concepts
 ---
 ## A new perspective
 

@@ -15,6 +15,8 @@ faq:
       furthered and allowed to grow.
 relatedTheory:
   - Listening to Purpose
+tags: theory
+category: teal-concepts
 ---
 *"Nothing endures except change"'*
 

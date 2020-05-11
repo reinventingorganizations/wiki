@@ -17,11 +17,25 @@ collections:
           default: "article",
         }
       - {
+          label: "Tags",
+          name: "tags",
+          widget: "hidden",
+          default: "theory",
+        }
+      - {
           label: "Key (Short name of the theory. Can't be changed after the theory is created.)",
           name: "key",
           widget: "string",
         }
       - { label: "Name", name: "name", widget: "string" }
+      - label: "Category"
+        name: "category"
+        widget: "relation"
+        collection: "theoryCategories"
+        required: true
+        displayFields: ["name"]
+        valueField: "key"
+        searchFields: ["name"]
       - { label: "Body", name: "body", widget: "markdown" }
       - label: "FAQ"
         name: "faq"
@@ -38,6 +52,24 @@ collections:
         valueField: "key"
         searchFields: ["name"]
         multiple: true
+  - name: "theoryCategories"
+    label: "Theory Categories"
+    folder: "content/theoryCategories"
+    create: true
+    identifier_field: name
+    fields:
+      - {
+          label: "Tags",
+          name: "tags",
+          widget: "hidden",
+          default: "theoryCategories",
+        }
+      - {
+          label: "Key (Short name of the category. Can't be changed after the category is created.)",
+          name: "key",
+          widget: "string",
+        }
+      - { label: "Name", name: "name", widget: "string" }
   - name: "caseStudies"
     label: "Case Studies"
     folder: "content/caseStudies"
@@ -45,6 +77,12 @@ collections:
     identifier_field: name
     fields:
       - { label: "Layout", name: "layout", widget: "hidden", default: "case" }
+      - {
+          label: "Tags",
+          name: "tags",
+          widget: "hidden",
+          default: "cases",
+        }
       - { label: "Name", name: "name", widget: "string" }
       - {
           label: "Introduction",

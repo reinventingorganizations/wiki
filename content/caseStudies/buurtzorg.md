@@ -1,6 +1,7 @@
 ---
 layout: case
 name: Buurtzorg
+tags: cases
 introduction: "**Buurtzorg Nederland** is a Dutch home-care organization which
   has attracted international attention for its innovative use of independent
   nurse teams in delivering relatively low-cost care. Buurtzorg is Dutch for

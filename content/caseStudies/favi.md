@@ -1,6 +1,7 @@
 ---
 layout: case
 name: FAVI
+tags: cases
 introduction: "Favi is a French SME born in 1956 specialized in gearbox forks
   for cars and copper rotors. "
 industry: Healthcare

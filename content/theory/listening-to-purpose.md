@@ -19,6 +19,8 @@ faq:
     answer: See related article
       "[Strategy](http://reinventingorganizationswiki.com/Strategy)" under
       "Major Organizational Processes".
+tags: theory
+category: teal-concepts
 ---
 As described more fully in the Background article, “Evolutionary Purpose”, one of the defining characteristics of Teal organizations is how decision-making and actions are driven by a desire to fulfill the organization’s purpose, a purpose which evolves over time and which is distinct from maximizing profits or beating the competition. If we accept that an organization has its own energy, its own sense of direction, and that its members’ roles are to align with rather than dictate that direction, the question becomes, “How do we find out where it wants to go?” As a result, a critical organizational process in Teal organizations is what is often referred to as “Listening to Purpose.”
 

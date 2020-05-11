@@ -1,5 +1,6 @@
 ---
 layout: case
+tags: cases
 name: Patagonia
 introduction: >-
   **Patagonia, Inc.** is an American clothing company that markets and sells

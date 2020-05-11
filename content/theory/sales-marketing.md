@@ -5,6 +5,8 @@ name: Sales and Marketing
 faq: []
 relatedTheory:
   - Listening to Purpose
+tags: theory
+category: teal-concepts
 ---
 ## A new perspective
 

@@ -1,5 +1,6 @@
 ---
 layout: case
+tags: cases
 name: Sounds True
 introduction: "**Sounds True** is a multimedia publishing company founded in
   1985 by Tami Simon, with the mission of disseminating spiritual wisdom. The
