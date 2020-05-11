@@ -3,6 +3,6 @@ layout: article
 tags: theory
 key: board
 name: Board
-category: TestCategory
+category: teal-concepts
 ---
 Lorem ipsum Test Change - hello
