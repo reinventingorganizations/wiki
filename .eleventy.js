@@ -7,6 +7,13 @@ module.exports = function (eleventyConfig) {
     md = new MarkdownIt(markdownOptions);
 
   md.use(require("markdown-it-footnote"));
+
+  // The netlify rich-text editor will change `^[` to `^\[`, 
+  // which will break our footnotes. So we change it back here.
+  md.core.ruler.after('normalize', 'footnote_fixer', (state) => {
+    state.src = state.src.replace(/\^\\\[/g, "^[")
+  });
+
   eleventyConfig.setLibrary("md", md);
 
   eleventyConfig.addFilter("md", function (value) {
