@@ -100,14 +100,15 @@ collections:
             "R. Arts, entertainment and recreation",
             "S. Other service activities",
             "T. Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use",
-            "U. Activities of extraterritorial organizations and bodies"
+            "U. Activities of extraterritorial organizations and bodies",
+            "V. Others"
             ],
         }
       - {
           label: "Geography",
           name: "geography",
           widget: "select",
-          options: ["Switzerland", "France", "USA"],
+          options: ["Brazil, "Canada", "France", "Germany", "Global", "Japan", "Netherlands", "New Zealand", "Switzerland", "USA"],
         }
       - {
           label: "Company size",
