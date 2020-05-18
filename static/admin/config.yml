@@ -4,7 +4,7 @@ media_folder: "media"
 local_backend: true
 collections:
   - name: "theory"
-    label: "Theory"
+    label: "All Articles"
     folder: "content/theory"
     create: true
     identifier_field: name
@@ -55,24 +55,6 @@ collections:
         valueField: "key"
         searchFields: ["name"]
         multiple: true
-  - name: "theoryCategories"
-    label: "Theory Categories"
-    folder: "content/theoryCategories"
-    create: true
-    identifier_field: name
-    fields:
-      - {
-          label: "Tags",
-          name: "tags",
-          widget: "hidden",
-          default: "theoryCategories",
-        }
-      - {
-          label: "Key (Short name of the category. Can't be changed after the category is created.)",
-          name: "key",
-          widget: "string",
-        }
-      - { label: "Name", name: "name", widget: "string" }
   - name: "caseStudies"
     label: "Case Studies"
     folder: "content/caseStudies"
