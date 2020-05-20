@@ -55,6 +55,25 @@ collections:
         valueField: "key"
         searchFields: ["name"]
         multiple: true
+  - name: "theoryCategories"
+    hidden: true
+    label: "Theory Categories"
+    folder: "content/theoryCategories"
+    create: false
+    identifier_field: name
+    fields:
+      - {
+          label: "Tags",
+          name: "tags",
+          widget: "hidden",
+          default: "theoryCategories",
+        }
+      - {
+          label: "Key (Short name of the category. Can't be changed after the category is created.)",
+          name: "key",
+          widget: "string",
+        }
+      - { label: "Name", name: "name", widget: "string" }
   - name: "caseStudies"
     label: "Case Studies"
     folder: "content/caseStudies"
