@@ -127,7 +127,7 @@ collections:
           label: "Geography",
           name: "geography",
           widget: "select",
-          options: ["Brazil, "Canada", "France", "Germany", "Global", "Japan", "Netherlands", "New Zealand", "Switzerland", "USA"],
+          options: ["Brazil", "Canada", "France", "Germany", "Global", "Japan", "Netherlands", "New Zealand", "Switzerland", "USA"],
         }
       - {
           label: "Company size",
