@@ -68,5 +68,36 @@ faq:
 
 
       Having said this, at Morningstar, Chris Rufer, founder and 100% owner, sees no need for a board. People at Morningstar regard the company’s mission/purpose as their ultimate boss.
+  - question: Who will decide whether the CEO needs to go?
+    answer: "The conflict resolution process deals with this and can be started by
+      anyone who feels that a role-holder (including that of CEO) should be
+      changed. Note that In a Teal company, the \"CEO\" role may be different.
+      The \"CEO\" is an employee with the same rights and duties as anybody
+      else.\r
+
+      \r
+
+      At Favi, when Zobrist became CEO, he promised his position would be
+      submitted to a vote every 5 years.\r
+
+      \r
+
+      At Buurtzorg, the board does not appoint the CEO. This comes from
+      within the organization itself."
+  - question: Who should be part of the board?
+    answer: >-
+      Suitable people who:
+
+
+      * Understand the core purpose of the organization; 
+
+
+      * Are committed to its endeavours;
+
+
+      * Share its guiding beliefs;
+
+
+      * Can help connect the organization and develop relationships with its external environment.
 ---
 Lorem ipsum Test Change - hello
