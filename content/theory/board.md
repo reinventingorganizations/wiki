@@ -35,12 +35,12 @@ inPractice: >-
 
   * “Holding the space” or doing whatever possible to support the organization’s practice of a Teal approach. 
 
-    The board should also adopt Teal practices
 
+  #### The board should also adopt Teal practices
 
     In self-managing organizations, the board is part of the "advice process". For example, if a board member believes a decision is needed, she should seek advice from appropriate people throughout the organization. In so doing, she not only shows support for the practice, but also invites others to seek advice from the board. This means the division between the board and the rest of the company becomes more ‘porous’, reducing the need for "go-betweens".
 
-  #### The potential for conflict 
+  #### The potential for conflict
 
 
   As mentioned earlier, there is potential for conflict when board members do not have a deeply held Teal worldview, since a board generally has ultimate legal authority. Even for board members with a Teal worldview, there is potential for problems in for-profit organizations. This is because board members there have a fiduciary duty to shareholders, and there is at least the potential that Teal practices may not always be viewed as serving those fiduciary duties.
