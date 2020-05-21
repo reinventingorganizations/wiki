@@ -11,7 +11,8 @@ intro: "This section reviews the role of the board as well as some of the
 perspective: "The composition of the board in a Teal organization is crucial,
   says Frederic Laloux. He warns that, when adopting a Teal approach, “The only
   make-or-break factors are the worldview held by the top leadership and by the
-  owners/board of the organization.”[1]\r
+  owners/board of the organization.”^[Laloux, Frederic. Reinventing
+  Organizations. Nelson Parker (2014), page 238]
 
   \r
 
@@ -53,5 +54,19 @@ inPractice: >-
 
 
   Ultimately, the board is a construct of prior organizational stages, and it is as yet unclear exactly what its role should be under Teal or even if in its current form it is fully compatible with Teal.
+faq:
+  - question: If the organization is self-managing, why have a board?
+    answer: >-
+      1. A board might be a legal requirement, but more importantly it can act
+      as a "spaceholder" and protector of Teal practices. This obviously
+      necessitates that board members share the fundamental assumptions and the
+      values underpinning Teal.
+
+      1. It can add perspective, diversity and expertise on important decisions via the advice process.
+
+      1. It can facilitate the process of appointing a new "CEO", should the organization have a continuing need for such a role, when a transition is due.
+
+
+      Having said this, at Morningstar, Chris Rufer, founder and 100% owner, sees no need for a board. People at Morningstar regard the company’s mission/purpose as their ultimate boss.
 ---
 Lorem ipsum Test Change - hello
