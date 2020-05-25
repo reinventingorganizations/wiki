@@ -56,7 +56,7 @@ collections:
         searchFields: ["name"]
         multiple: true
   - name: "theoryCategories"
-    hidden: true
+    hide: true
     label: "Theory Categories"
     folder: "content/theoryCategories"
     create: false
