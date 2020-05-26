@@ -61,8 +61,16 @@ inPractice: >-
   These structures are not mutually exclusive, and some organizations exhibit a mixture of these types.
 
 
-  ![Michael K Sahota - 30 mai 2015 à 21:12](/media/parallel_teams.png "Parallel Teams")
+  ![Michael K Sahota - 30 mai 2015 à 21:12](/media/parallel_teams.png "Parallel Teams") This is the most common structure found to date in Teal organizations.^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 319.]Examples would include Buurtzorg (geographic teams) and FAVI (client teams) (see “Concrete examples for inspiration” below). This model is highly suitable when work can be broken down in ways that teams have a high degree of autonomy, without too much need for coordination across teams. They can then work side by side. In this model, it is within the team that colleagues define their roles and the mutual commitments they make to each other. Teams also typically handle their own recruitment, planning, establish their investment needs, devise a budget (if a budget is needed), track their financial and non-financial results, and so on.
 
-  This is the most common structure found to date in Teal organizations.^[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 319.]
+
+  In an ideal situation, each team is fully autonomous and performing all tasks from start to finish. When that is the case, every single person in the organization has the satisfaction of seeing the entire organization’s purpose come to life, and not just a small slice of it as is often the case in large specialized organizations. In practice, there will often be a need for some people or teams who take on coordinating or supporting roles with a more narrow focus:
+
+
+  * *Team coaches:* In Teal Organizations, there are no middle managers. But teams often feel a need to be supported by someone external that can help them work through problems. At Buurtzorg, they are called regional coaches; at RHD, hub leaders.
+
+  * *Supporting teams*: For some tasks, duplication in every team doesn’t make sense. At FAVI, for example, the great majority of teams are client facing―the Audi team, the Volkswagen team, etc. However, a few teams support other teams, such as the foundry team. It would not be practical for the teams to operate the foundry in turns, nor would it make sense to duplicate the equipment and have a foundry within each team. RHD has units responsible for areas such as training (its “miniversity”), real estate, and payroll, that support all the units in the field.
+
+  * *Supporting roles:* The self-management model pushes expertise down to the teams, rather than up into staff functions. But for certain specific expertise or for coordination purposes, creating a supporting role can make sense. At FAVI, for instance, there is an engineer who helps teams exchange innovations and best practices.
 ---
 to be removed
