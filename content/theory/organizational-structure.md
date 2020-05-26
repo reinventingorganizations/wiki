@@ -211,5 +211,49 @@ faq:
 
 
       In Teal organizations, people’s actions are guided by their sense of the organization’s evolutionary purpose, not by what they are being told to do by someone higher up the organizational chain. Self-managing systems, based on sense and respond as opposed to command and control, tend to evolve much faster and respond more quickly to changes in the environment. Pyramidal organizations tend to change through less frequent, less timely and more brutal re-organizations.
+  - question: What then, if any, is the role of a leader?
+    answer: "In today’s world, the predominant, default organizational model is that
+      of the pyramid, with an executive committee, middle managers, staff
+      functions, and policies and procedures to ensure control. Self-managing
+      systems are still the exception, and many people's default behaviors, even
+      in established self-managing organizations, can revert to those of more
+      traditional, hierarchical management. This might explain why in all
+      self-managing organizations to date, the founder or the most senior
+      “leader” has filled one particular role: that of \"holding the space\" of
+      distributed authority. Whenever people in the organization, consciously or
+      unconsciously, revert to traditional management control mechanisms, the
+      leader reminds everyone about the *fundamental assumptions* and encourages
+      them to find solutions in line with the self-managing nature of the
+      organization."
+  - question: If the organization is structured in teams, should there be structure
+      within the teams? Should there be a team leader?
+    answer: "In self-managed teams, many management tasks disappear, since people
+      are no longer being “managed”. Other tasks (planning, setting objectives,
+      monitoring team performance, recruiting, etc.) remain, and it is up to the
+      team to make it clear among themselves what the various roles and task
+      responsibilities of the team members are. In some cases, such tasks can
+      simply be spread among team members (I do the planning, you lead the
+      recruiting, etc.). Such a model works well when the nature of the team’s
+      operational roles allows for flexibility (e.g., knowledge workers who can
+      interrupt their primary work or nurses who can take time between patient
+      visits for administrative tasks). Other types of work require fixed and
+      dedicated hours that cannot be easily interrupted. Teachers, for instance,
+      can't easily leave the classroom and machine operators can't easily leave
+      their workplace. In such cases, it might be necessary to have a team
+      coordinator that isn't tied to a classroom or a machine to take on a
+      number of the management tasks.\r
+
+      \r
+
+      Having a team coordinator nevertheless carries a risk. Our cultural
+      baggage of hierarchy is so strong that over time, team coordinators could
+      start behaving like bosses and become the primary decision makers on their
+      teams. At FAVI, a simple but powerful relief valve exists. Should a team
+      leader find the taste of power too sweet, workers can choose at any moment
+      to join another team.\r
+
+      \r
+
+      See also, “Role Definition and Allocation”."
 ---
 to be removed
