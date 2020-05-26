@@ -227,8 +227,9 @@ faq:
       organization."
   - question: If the organization is structured in teams, should there be structure
       within the teams? Should there be a team leader?
-    answer: "In self-managed teams, many management tasks disappear, since people
-      are no longer being “managed”. Other tasks (planning, setting objectives,
+    answer: >-
+      In self-managed teams, many management tasks disappear, since people are
+      no longer being “managed”. Other tasks (planning, setting objectives,
       monitoring team performance, recruiting, etc.) remain, and it is up to the
       team to make it clear among themselves what the various roles and task
       responsibilities of the team members are. In some cases, such tasks can
@@ -241,19 +242,12 @@ faq:
       can't easily leave the classroom and machine operators can't easily leave
       their workplace. In such cases, it might be necessary to have a team
       coordinator that isn't tied to a classroom or a machine to take on a
-      number of the management tasks.\r
+      number of the management tasks.
 
-      \r
 
-      Having a team coordinator nevertheless carries a risk. Our cultural
-      baggage of hierarchy is so strong that over time, team coordinators could
-      start behaving like bosses and become the primary decision makers on their
-      teams. At FAVI, a simple but powerful relief valve exists. Should a team
-      leader find the taste of power too sweet, workers can choose at any moment
-      to join another team.\r
+      Having a team coordinator nevertheless carries a risk. Our cultural baggage of hierarchy is so strong that over time, team coordinators could start behaving like bosses and become the primary decision makers on their teams. At FAVI, a simple but powerful relief valve exists. Should a team leader find the taste of power too sweet, workers can choose at any moment to join another team.
 
-      \r
 
-      See also, “Role Definition and Allocation”."
+      See also, “*Role Definition and Allocation*”.
 ---
 to be removed
