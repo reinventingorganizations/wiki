@@ -28,7 +28,7 @@ perspective: 'All organizations prior to Teal were structured as pyramids for a
   Adaptive Systems, Wikipedia,
   <http://en.wikipedia.org/wiki/Complex_adaptive_system>]'
 inPractice: >-
-  ![30 mai 2015 à 21:12	756 × 230 (41 Kio)	Michael K Sahota]( "Parallel Teams")
+  ![]()
 
 
   Although the pyramid disappears in Teal, it would be a mistake to think that self-managing organizations are simply flat and structureless. Teal organizations to date seem to fall into three broad types of structure to fit the context in which they operate. These are described further below. However all share the common attributes of distributed authority and natural hierarchies.
@@ -38,5 +38,24 @@ inPractice: >-
 
 
   In traditional organizations, when power is concentrated at the top, bosses can approve or invalidate a decision made by a subordinate. In Teal organizations, power is distributed There are no bosses, only coaches. Anyone who senses a problem or an opportunity can initiate a decision making process, using methods that leverage the collective intelligence of the organization.
+
+
+  (...)
+
+
+  #### Archetypes of structure
+
+
+  Self-managing organizations adopt different forms to fit the context in which they operate. There seem to be three broad types of self-managing structures that have emerged so far: 
+
+
+  1. Parallel teams 
+
+  2. Web of individual contracting
+
+  3. Nested circles 
+
+
+  These structures are not mutually exclusive, and some organizations exhibit a mixture of these types.
 ---
 to be removed
