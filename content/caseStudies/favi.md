@@ -1,7 +1,7 @@
 ---
 layout: case
-name: FAVI
 tags: cases
+name: FAVI
 introduction: "Favi is a French SME born in 1956 specialized in gearbox forks
   for cars and copper rotors. "
 industry: Healthcare
@@ -31,4 +31,29 @@ theory:
       (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations
       Inspired by the Next Stage of Human Consciousness (Kindle Locations
       4371-4378). Nelson Parker. Kindle Edition.]"
+  - topic: Organizational Structure
+    title: FAVI employs a customer-based parallel team structure with supporting teams
+    content: "FAVI’s factory has more than 500 employees that are organized in 21
+      teams called “mini-factories” of 15 to 35 people. Most of the teams are
+      dedicated to a specific customer or customer type (the Volkswagen team,
+      the Audi team, the Volvo team, and so forth). There are a few upstream
+      production teams (the foundry team, the mold repair team, maintenance),
+      and support teams (engineering, quality, lab, administration, and sales
+      support). Each team self-organizes; there is no middle management, and
+      there are virtually no rules or procedures other than those that the teams
+      decide upon themselves. The staff functions have nearly all disappeared.
+      The former HR, planning, scheduling, engineering, production-IT and
+      purchasing departments have all been shut down. Their tasks have been
+      taken over by the operators in the teams, who do their own hiring,
+      purchasing, planning, and scheduling. The sales department has been
+      disbanded too. The sales account manager for Audi is now part of the Audi
+      team, just as the sales account manager for Volvo is part of the Volvo
+      team. There is no head of sales above the group of account managers. In
+      the old structure, white-collar workers in offices with windows
+      overlooking the shop floor planned in detail what the workers needed to
+      do, by when, and how. Now blue-collar workers effectively wear their own
+      white collars and no longer receive instructions from above.^[Laloux,
+      Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating
+      Organizations Inspired by the Next Stage of Human Consciousness (Kindle
+      Locations 1704-1715). Nelson Parker. Kindle Edition.]"
 ---
