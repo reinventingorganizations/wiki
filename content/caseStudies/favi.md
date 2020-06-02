@@ -4,7 +4,7 @@ tags: cases
 name: FAVI
 introduction: "Favi is a French SME born in 1956 specialized in gearbox forks
   for cars and copper rotors. "
-industry: Healthcare
+industry: C. Manufacturing
 geography: France
 companySize: 201-500
 profit: Profit
@@ -56,4 +56,22 @@ theory:
       Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating
       Organizations Inspired by the Next Stage of Human Consciousness (Kindle
       Locations 1704-1715). Nelson Parker. Kindle Edition.]"
+  - topic: Coordination
+    title: At FAVI, coordination happens organically on a voluntary basis through
+      regular meetings, temporary project teams and reverse delegation.
+    content: "At FAVI, production is organized by customer. This makes
+      load-balancing a significant issue: because customer orders fluctuate, on
+      any given day some teams might have too much work and others too little.
+      Rather than employing a COO or staff planner to make decisions about
+      allocating work across teams, FAVI chose a more organic and elegant
+      solution. At regular intervals, a group composed of one designated person
+      from each team comes together for a few minutes; they quickly discuss
+      which teams are over or understaffed; back in their teams, they ask for
+      volunteers to switch teams for a shift or two. The person from the Audi
+      team, for example, might ask who in the team is willing to spend the day
+      with the Volvo team. Things happen organically on a voluntary basis;
+      nobody is being allocated to a team by a higher authority.^[Laloux,
+      Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating
+      Organizations Inspired by the Next Stage of Human Consciousness (Kindle
+      Locations 1766-1772). Nelson Parker. Kindle Edition.]"
 ---
