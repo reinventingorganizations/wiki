@@ -118,5 +118,8 @@ faq:
       better fit the self-management structure and processes. In any case you
       need to set up a process where those values and ground rules can be
       regularly and collectively reviewed to ensure you keep on living them.
+relatedTheory:
+  - Listening to Purpose
+  - Evolutionary Purpose
 ---
 to be removed
