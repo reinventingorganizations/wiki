@@ -33,7 +33,7 @@ perspective: >-
   #### Orange Organisations
 
 
-  Orange organisations rely on continuous innovation and optimisation in order to compete. This means more need for coordination across units. The primary means of coordinating are meetings, a hierarchical decision-making structure and the creation of staff roles. Meetings, in particular, try to tap into the intelligence of the group. There are regular, fixed – often weekly – team meetings at every level of the organisation as well as numerous project and cross-functional meetings on specific initiatives.
+  [Orange organisations ](https://reinventingorganizations-wiki.netlify.app/theory/orange-paradigm-and-organizations/)rely on continuous innovation and optimisation in order to compete. This means more need for coordination across units. The primary means of coordinating are meetings, a hierarchical decision-making structure and the creation of staff roles. Meetings, in particular, try to tap into the intelligence of the group. There are regular, fixed – often weekly – team meetings at every level of the organisation as well as numerous project and cross-functional meetings on specific initiatives.
 
 
   #### Green Organisations
