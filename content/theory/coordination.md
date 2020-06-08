@@ -27,7 +27,7 @@ perspective: >-
   #### Amber Organisations
 
 
-  Amber organisations strive for order and predictability. Coordination happens mainly through formalized processes that everyone adheres to. The static nature of Amber organisations means there is little perceived need for coordinating actions beyond already established processes.
+  [Amber organisations](https://reinventingorganizations-wiki.netlify.app/theory/amber-paradigm-and-organizations/) strive for order and predictability. Coordination happens mainly through formalized processes that everyone adheres to. The static nature of Amber organisations means there is little perceived need for coordinating actions beyond already established processes.
 
 
   #### Orange Organisations
