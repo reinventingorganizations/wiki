@@ -21,7 +21,7 @@ perspective: >-
   #### Red Organisations[](https://reinventingorganizationswiki.com/index.php?title=Coordination&action=edit&section=2 "\<span>\<span>\</span>\<span>\<span>Red\</span>\</span>\</span> Organizations")
 
 
-  In Red organisations coordination happens ad hoc and is intrinsically fused with power: coordination is generally limited to the boss’s ability to enforce it.
+  In [Red organisations ](https://reinventingorganizations-wiki.netlify.app/theory/red-organizations/)coordination happens ad hoc and is intrinsically fused with power: coordination is generally limited to the boss’s ability to enforce it.
 
 
   #### Amber Organisations
