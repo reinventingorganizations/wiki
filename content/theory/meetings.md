@@ -142,7 +142,7 @@ inPractice: >-
 
   * Large group reflections at Heiligenfeld
 
-  * Culture/Values meetings
+  * [Culture/Values](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/culture-and-values) meetings
 
   * Praise meetings at ESBZ 
 
@@ -210,49 +210,22 @@ inPractice: >-
   Meeting cultures in Teal Organizations have adopted some of the ‘alternative meeting formats’ like Open Space, Art of Hosting, World Café etc.
 faq:
   - question: Doesn’t the advice process lead to more meetings rather than less?
-    answer: "Consulting with others, rather than making unilateral decisions, may
-      mean more meetings. However, this is often more than made up for by
-      savings elsewhere.\r
+    answer: >-
+      Consulting with others, rather than making unilateral decisions, may mean
+      more meetings. However, this is often more than made up for by savings
+      elsewhere.
 
-      \r
 
-      Frédéric Laloux, tells this story as an illustration:\r
+      Frédéric Laloux, tells this story as an illustration:
 
-      \r
 
-      “Jos de Blok, CEO of Buurtzorg, often applies the advice process by
-      posting a blog note to the Buurtzorg web in the evening, proposing
-      suggestions for new initiatives and decisions and asking for advice from
-      all the members of the organization. 24 hours later, 50-80% of the
-      employees will have read and perhaps commented. Maybe the overwhelming
-      response is \"yes, this is fine\", in which case the decision can just be
-      effectuated at this point. Alternatively, he will have received feedback
-      on how he might be overlooking important negative consequences, or how
-      this issue may be more complicated than he is aware off. In this case, he
-      might revise his proposal accordingly and repost it, or sense the need to
-      gather a voluntary group to deal with it. In any case this provides a
-      swift decision making process with very few meetings.\"\r
+      “Jos de Blok, CEO of [Buurtzorg](https://www.buurtzorgnederland.com/), often applies the advice process by posting a blog note to the Buurtzorg web in the evening, proposing suggestions for new initiatives and decisions and asking for advice from all the members of the organization. 24 hours later, 50-80% of the employees will have read and perhaps commented. Maybe the overwhelming response is "yes, this is fine", in which case the decision can just be effectuated at this point. Alternatively, he will have received feedback on how he might be overlooking important negative consequences, or how this issue may be more complicated than he is aware off. In this case, he might revise his proposal accordingly and repost it, or sense the need to gather a voluntary group to deal with it. In any case this provides a swift decision making process with very few meetings."
 
-      \r
 
-      Compare this to the process that typically takes place in a
-      traditional 9000 employee hierarchy. Say the CEO wants to change overtime
-      conditions:\r
+      Compare this to the process that typically takes place in a traditional 9000 employee hierarchy. Say the CEO wants to change overtime conditions:
 
-      \r
 
-      First he/she asks the Head of HR to prepare a proposal, who then
-      asks someone more junior to do 'the staff work'. The junior drafts a
-      proposal, maybe shows to a colleague and revises accordingly. Then the
-      Head of HR goes over the draft, and suggests further refinements, before
-      booking a meeting with the CEO who can make further changes. Then it goes
-      to the executive committee...and so on...They want more revisions, and it
-      goes down the line again, and back up again... It may now become
-      political, bringing another layer of complications. If it is now approved,
-      someone in internal communication works on it, and shows the CEO, again.
-      Finally, it is cascaded to the managers who prepare presentations to make
-      a team meetings. The total number meetings that may go into such a
-      decision is huge."
+      First he/she asks the Head of HR to prepare a proposal, who then asks someone more junior to do 'the staff work'. The junior drafts a proposal, maybe shows to a colleague and revises accordingly. Then the Head of HR goes over the draft, and suggests further refinements, before booking a meeting with the CEO who can make further changes. Then it goes to the executive committee...and so on...They want more revisions, and it goes down the line again, and back up again... It may now become political, bringing another layer of complications. If it is now approved, someone in internal communication works on it, and shows the CEO, again. Finally, it is cascaded to the managers who prepare presentations to make a team meetings. The total number meetings that may go into such a decision is huge.
 relatedTheory:
   - Culture and Values
 ---
