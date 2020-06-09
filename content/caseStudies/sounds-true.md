@@ -35,4 +35,8 @@ theory:
       the Next Stage of Human Consciousness (Kindle Locations 4413-4424). Nelson
       Parker. Kindle Edition.]"
     title: “Intuition is basically my entire existence”
+  - topic: Team and Community Building
+    title: At Sounds True, a bell rings everyday at 8:30 a.m.
+    content: Employees can join a 15-minute group meditation or simply sit in
+      silence at their desk for those minutes.
 ---
