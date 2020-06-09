@@ -114,4 +114,16 @@ theory:
       organizations have come to tightly allocate the time allowed for almost
       every service. . At Buurtzorg, patients stay in care only half as long,
       heal faster, and become more autonomous."
+  - topic: Information Flow
+    title: Uses information structure and transparency to provide the best service
+      to the customers
+    content: At[ Buurtzorg](https://www.buurtzorgnederland.com/), all data
+      concerning performance of all the teams is put on the company's intranet.
+      A team that struggles in one area can identifiy a team in the neighborhood
+      with outstanding results (which is not a threat, but an offer) and can ask
+      for advice and best practices. If there is an need for a decision, the
+      request is posted on the intranet. Teams can see every month how their
+      productivity compares to that of other teams. The data of other teams is
+      not anonymized or averaged out. Employees are trusted to handle the
+      positive and negative impacts of information with integrity.
 ---
