@@ -92,4 +92,23 @@ theory:
       the information offered and resonate to it. People in the audience shouted
       questions and proposals. Together they found a collective course of action
       to overcome the crisis."
+  - topic: Meetings
+    title: A rhythm of meetings to suit manufacturing.
+    content: >-
+      Weekly senior management meetings in [Favi](http://www.favi.com/) used to
+      include the heads of sales, production, maintenance, finance, HR, etc.
+      These are now held at the team level.  
+
+
+      Teams hold short regular meetings to align and make decisions as follows:
+
+
+      * a short tactical discussion at the start of every shift
+
+      * a weekly meeting with the sales account manager to discuss orders
+
+      * a monthly meeting with an open agenda
+
+
+      Beyond that, they tend to have no regularly scheduled meetings at all. If cross-team meetings occur, it’s in response to a specific need.
 ---
