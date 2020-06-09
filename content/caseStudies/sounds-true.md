@@ -37,6 +37,9 @@ theory:
     title: “Intuition is basically my entire existence”
   - topic: Team and Community Building
     title: At Sounds True, a bell rings everyday at 8:30 a.m.
-    content: Employees can join a 15-minute group meditation or simply sit in
-      silence at their desk for those minutes.
+    content: >-
+      **Example for Silence**
+
+
+      Employees can join a 15-minute group meditation or simply sit in silence at their desk for those minutes.
 ---
