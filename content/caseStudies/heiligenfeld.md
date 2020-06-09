@@ -17,7 +17,7 @@ theory:
       Every Tuesday morning 350 employees come together to engage in joint reflection. (Some colleagues need to stay with patients.)
 
 
-      Every week a new, relevant topic is put on the agenda. Topics have included: conflict resolution, dealing with failure, values, and similar.
+      Every week a new, relevant topic is put on the agenda. Topics have included: conflict resolution, dealing with failure, [values](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/culture-and-values), and similar.
 
 
       The meeting kicks off with a presentation to frame the subject matter.
