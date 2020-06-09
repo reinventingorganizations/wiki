@@ -126,4 +126,32 @@ theory:
       productivity compares to that of other teams. The data of other teams is
       not anonymized or averaged out. Employees are trusted to handle the
       positive and negative impacts of information with integrity.
+  - topic: Meetings
+    title: Small, self-managing teams provide flexibility.
+    content: >-
+      #### Team decision making procedure
+
+
+      [Buurtzorg](https://www.buurtzorgnederland.com/) teams use a very efficient method for problem solving and decision-making. They first choose a facilitator. The facilitator is not allowed to make any statements, suggestions, or decisions; she can only ask questions: “What is your proposal?” Or “What is the rationale for your proposal?”. All responses are listed on a flipchart.
+
+
+      Then all are reviewed, improved and refined.
+
+
+      In a third round, proposals are put up for decision. The basis for decision-making is not consensus. For a solution to be adopted it is enough that nobody has a principled objection. A person cannot veto a decision because she feels another solution (for example, hers!) would have been preferable. The perfect solution that all would embrace wholeheartedly might not exist, and its pursuit could prove exhausting. As long as there is no principled objection, a solution will be adopted, with the understanding that it can be revisited at any time when new information is available.  
+
+
+      If, despite their training and meeting techniques, teams get stuck, they can ask for external facilitation at any time.
+
+
+      #### Limiting ‘higher level’ regional coach meetings:
+
+
+      In many ways it would make good sense for Jos de Blok, CEO of Buurtzorg to meet regularly with the regional coaches: they have great insight into what’s happening in the field. Collectively, they could spot issues and opportunities and determine actions to take.
+
+
+      But this process would now be like an executive management committee--the opposite of what they want.
+
+
+      To avoid this, Jos de Block limits his meetings with the coaches to quarterly.
 ---
