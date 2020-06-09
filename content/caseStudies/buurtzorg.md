@@ -157,24 +157,9 @@ theory:
   - topic: Team and Community Building
     title: At Buurtzorg, all nurses are trained in “Intervisie,” a peer-coaching
       technique that originated in the Netherlands.
-    content: A nurse that wrestles with a certain question can ask colleagues on her
-      team to help her sort it out in a group coaching session. How should she
-      deal with a client that refuses to take lifesaving medication? How can she
-      help an elderly patient accept help from his children? How to say no to
-      clients to protect herself from burnout? Often, when a nurse struggles
-      with one of these matters, it is because the question brings up a broader
-      personal issue she hasn’t worked through. In these cases, a peer coaching
-      session can help. Some Buurtzorg teams allot an hour for peer coaching
-      every month; other teams convene when a team member requests it.
-      “Intervisie”, the process used at Buurtzorg, follows a strict format and
-      ground rules to prevent the group from administering the all-too-common
-      medicine of advice, admonitions, or reassurance. During most of the
-      process, team members can ask only open-ended questions; they become
-      fellow travelers into the mystery of the issue the person is dealing with.
-      A safe space is created that invites deep listening, authenticity, and
-      vulnerability - the necessary ingredients for inner truth to emerge. The
-      goal is for the nurse to see the problem in a new light and discover her
-      own solutions. It is at once a simple and beautiful process. Being
-      respectfully and compassionately “held” by a group is for many people a
-      new and unforgettable experience.
+    content: >-
+      **Example for Peer coaching**
+
+
+      A nurse that wrestles with a certain question can ask colleagues on her team to help her sort it out in a group coaching session. How should she deal with a client that refuses to take lifesaving medication? How can she help an elderly patient accept help from his children? How to say no to clients to protect herself from burnout? Often, when a nurse struggles with one of these matters, it is because the question brings up a broader personal issue she hasn’t worked through. In these cases, a peer coaching session can help. Some Buurtzorg teams allot an hour for peer coaching every month; other teams convene when a team member requests it. “Intervisie”, the process used at Buurtzorg, follows a strict format and ground rules to prevent the group from administering the all-too-common medicine of advice, admonitions, or reassurance. During most of the process, team members can ask only open-ended questions; they become fellow travelers into the mystery of the issue the person is dealing with. A safe space is created that invites deep listening, authenticity, and vulnerability - the necessary ingredients for inner truth to emerge. The goal is for the nurse to see the problem in a new light and discover her own solutions. It is at once a simple and beautiful process. Being respectfully and compassionately “held” by a group is for many people a new and unforgettable experience.
 ---
