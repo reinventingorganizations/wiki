@@ -39,4 +39,27 @@ theory:
 
 
       The common experience also fosters community and a common language. To approving chuckles in the room, an employee of Heiligenfeld once stood up at the end of one such meeting and said ‘ You know, I wish I could have more Heiligenfeld at home.
+  - topic: Team and Community Building
+    title: Heiligenfeld uses innovative management practices to create a supportive
+      work culture that fosters trust, empathy, and compassion while decreasing
+      conflict.
+    content: At Heiligenfeld, every Tuesday morning, 350 employees come together for
+      an hour and a quarter to engage in joint reflection. Every week, a new
+      topic that is relevant at the moment and conducive to self-reflection is
+      put on the agenda. Recent meetings have reflected on subjects as diverse
+      as conflict resolution, dealing with failure, company values,
+      interpersonal communication, bureaucracy, IT innovations, risk management,
+      personal health, and mindfulness. The meeting always kicks off with a
+      short presentation to frame the subject matter, followed by
+      self-reflection in small groups. Every group elects a facilitator who
+      enforces a few ground rules to create a space where it’s safe to explore,
+      to be authentic and vulnerable. In the confines of the small group, helped
+      by their colleagues’ listening, people dare to dig deep and gain new
+      insights about themselves and others. Colleagues are exposed every week to
+      a space made safe by ground rules that invites them to truly be
+      themselves. They learn to see each other in the light of their deep
+      humanity, in the beauty of their strengths and vulnerability. The trust,
+      empathy, and compassion that build up in the meeting expand well beyond
+      the confines of the meeting room. These feelings start to permeate the
+      whole organization.
 ---
