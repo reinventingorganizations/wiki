@@ -25,4 +25,13 @@ theory:
       they have encountered with values in the workplace or suggest changes to
       the Bill of Rights and Responsibilities . The meeting is well attended.
       Bob Fishman, RHD’s founder, makes a point to be present every time."
+  - topic: Safe Space
+    title: RHD has developed a written document called Bill of Rights and
+      Responsibilities that spell out detailed ground rules for encourage safe
+      behaviors and identify inacceptable behaviors (document attached)
+    content: RHD has developed over the years a beautiful and precisely worded "Bill
+      of Rights and Responsibilities for Employees and Consumers''. The document
+      covers, among other, the topics of conflict, expressing anger, recognizing
+      and managing hostility, decisions making, managing differences and open
+      communications.
 ---
