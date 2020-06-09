@@ -7,15 +7,48 @@ category: Daily practices
 intro: The topic of culture and values explore the different values, beliefs,
   ground rules and the resulting cultures of Teal organizations as well as
   practices for establishing and bringing culture and values to life.
-perspective: Teal organizations take shared values to the next level either
-  through clear ground rules or sharing beliefs about what is acceptable or
-  unacceptable. Most Teal organizations spend a lot of time during the
-  recruitment process informing candidates about the values of the organization
-  to determine whether there is a good culture fit. Teal organizations also set
-  practices to frequently review and question culture and values to ensure they
-  are truly lived by those in the organization. Some values that are often
-  present are trust, transparency, collective intelligence, wholeness and
-  authenticity.
+perspective: >-
+  Teal organizations take shared values to the next level either through clear
+  ground rules or sharing beliefs about what is acceptable or unacceptable. Most
+  Teal organizations spend a lot of time during the recruitment process
+  informing candidates about the values of the organization to determine whether
+  there is a good culture fit. Teal organizations also set practices to
+  frequently review and question culture and values to ensure they are truly
+  lived by those in the organization. Some values that are often present are
+  trust, transparency, collective intelligence, wholeness and authenticity.
+
+
+  ##### Red organizations 
+
+
+  In [Red organizations](https://reinventingorganizations-wiki.netlify.app/theory/red-organizations/), leaders typically demonstrate egocentric behaviors driven by their personal need for power and control. They are often impulsive and find ways to exert their dominance. This creates a culture of a fear, control, risk taking and submission. Close bonds are usually formed by those in the organization.
+
+
+  ##### Amber organizations 
+
+
+  In [Amber organizations](https://reinventingorganizations-wiki.netlify.app/theory/amber-paradigm-and-organizations/), stability and respect for the group norms are highly valued. The Amber leader looks for order, stability, and predictability. Change is viewed with suspicion. Control is maintained through institutions and bureaucracies. This tends to creates a culture of conformity. The focus is to do what is right and to fit in within the group norms. Thinking is dominated by whether one has the right appearance, behaviors, and thoughts. Social stability comes at the price of wearing a mask. People may distance themselves from their unique nature, personal desires, needs, and feelings; instead, embracing a socially acceptable self. The shadow side of this worldview is that workers are often viewed as mostly lazy, dishonest, and in need of direction. Management and supervision is believed to be necessary to ensure work is carried out properly.
+
+
+  ##### Orange organizations 
+
+
+  In [Orange organizations](https://reinventingorganizations-wiki.netlify.app/theory/orange-paradigm-and-organizations/) the underlying values are success, innovation, effectiveness, competing/winning, profit and recognition. This worldview is materialistic and rationality is highly valued. Only what can be seen and touched is real. The organizational metaphor is a ‘machine’. The culture can become highly professional, rational and sometimes soulless. Change is welcome provided it contributes to increased performance. Cross-organisation collaboration is valued and encouraged to speed up innovation and change. Management is strategic and focused on results rather than how to achieve them. Individual competence, results and achievements are valued and incentivized. Progression is based on merit rather than social standing or rank. 
+
+
+  ##### Green organizations 
+
+
+  In Green organizations relationships are valued sometimes at the expense of outcomes. Community, communication, collaboration, consensus, harmony, tolerance, integrity, respect, openness and equality are common values. Focus is on creating great workplace culture based on empowerment in order to boost employees' motivation. Although Green organizations are most often built on the traditional hierarchical model and structures, the culture is ill at ease with power and hierarchy. Participative and servant leadership approaches are valued to foster collaborative bottom up processes, developing shared values and a culture where people feel valued and empowered to contribute. The guiding metaphor is ‘family’. Whereas Orange organizations often use their values as a marketing tool, Green organizations embrace and live by them. 
+
+
+  ##### Teal organizations 
+
+
+  Teal organizations strive to create highly effective organizations that allow people to be fully human at work.. The culture of Teal organizations is shaped by the specific context and  purpose of the organization, not by personal assumptions, norms and concerns of the founders and leaders. The metaphor for the organization is a ‘living system’. As such it should be allowed to have its own autonomous identity and culture that can evolve with time. The culture and values are well integrated with the structure and processes. 
+
+
+  Teal organizations take shared values to the next level either through clear ground rules or sharing beliefs about what is acceptable or unacceptable. Most Teal organizations spend a lot of time during the recruitment process informing candidates about the values of the organization to determine whether there is a good culture fit. Teal organizations also set practices to frequently review and question culture and values to ensure they are truly lived by those in the organization. Some values that are often present are trust, transparency, collective intelligence, wholeness and authenticity.
 inPractice: >-
   #### Establishing values and ground rules
 
