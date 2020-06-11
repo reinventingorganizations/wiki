@@ -18,6 +18,9 @@ perspective: >-
   trust, transparency, collective intelligence, wholeness and authenticity.
 
 
+  Every historical stage has given birth to a distinct perspective on culture and values, and to very different practices:
+
+
   ##### Red organizations
 
 
