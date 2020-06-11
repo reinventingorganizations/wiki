@@ -48,7 +48,7 @@ perspective: >-
   ##### Teal organizations
 
 
-  Teal organizations strive to create highly effective organizations that allow people to be fully human at work.. The culture of Teal organizations is shaped by the specific context and  purpose of the organization, not by personal assumptions, norms and concerns of the founders and leaders. The metaphor for the organization is a ‘living system’. As such it should be allowed to have its own autonomous identity and culture that can evolve with time. The culture and values are well integrated with the structure and processes. 
+  Teal organizations strive to create highly effective organizations that allow people to be fully human at work.. The culture of Teal organizations is shaped by the specific context and  [purpose ](https://reinventingorganizations-wiki.netlify.app/theory/evolutionary-purpose/)of the organization, not by personal assumptions, norms and concerns of the founders and leaders. The metaphor for the organization is a ‘living system’. As such it should be allowed to have its own autonomous identity and culture that can evolve with time. The culture and values are well integrated with the structure and processes. 
 
 
   Teal organizations take shared values to the next level either through clear ground rules or sharing beliefs about what is acceptable or unacceptable. Most Teal organizations spend a lot of time during the recruitment process informing candidates about the values of the organization to determine whether there is a good culture fit. Teal organizations also set practices to frequently review and question culture and values to ensure they are truly lived by those in the organization. Some values that are often present are trust, transparency, collective intelligence, wholeness and authenticity.
@@ -59,7 +59,7 @@ inPractice: >-
   ##### *Defining a set of values*
 
 
-  Many organizations find it helpful to define a set of values. In Teal organizations, those values, together with purpose, are at the very core of the organization' s culture, influencing most behaviors and processes. Those values often stem from the founder's vision, and are typically collectively defined. Values and related ground rules are not fixed, they are openly discussed and amended so that they remain a faithful reflection of what people in the organization live and believe in. Some organizations set out a simple set of common beliefs, or assumptions about human endeavor and behavior.
+  Many organizations find it helpful to define a set of values. In Teal organizations, those values, together with [purpose](https://reinventingorganizations-wiki.netlify.app/theory/evolutionary-purpose/), are at the very core of the organization' s culture, influencing most behaviors and processes. Those values often stem from the founder's vision, and are typically collectively defined. Values and related ground rules are not fixed, they are openly discussed and amended so that they remain a faithful reflection of what people in the organization live and believe in. Some organizations set out a simple set of common beliefs, or assumptions about human endeavor and behavior.
 
 
   ##### *Ground rules for safe space*
@@ -68,7 +68,7 @@ inPractice: >-
   To show up fully in the presence of others, as Teal organizations encourage, people need to feel it is safe to do so. Having a defined set of values translated into clear "ground rules", when necessary, helps to do this.
 
 
-  Some examples are: RHD’s Bill of Rights and Responsibilities, Morning Star’s Colleague Principles, FAVI's fiches or Holacracy's Constitution. These documents provide a vision for a safe and productive workplace. They give colleagues a vocabulary to discuss healthy relationships, and they draw lines that separate recommended from unacceptable behaviors.
+  Some examples are: [RHD](http://www.rhd.org/)’s Bill of Rights and Responsibilities, [Morning Star](http://www.morningstarco.com/)’s Colleague Principles, [FAVI](http://www.favi.com/)'s fiches or [Holacracy](http://www.holacracy.org/)'s Constitution. These documents provide a vision for a safe and productive workplace. They give colleagues a vocabulary to discuss healthy relationships, and they draw lines that separate recommended from unacceptable behaviors.
 
 
   Some startups find it important to draft a full version of such a document early on. Others will develop one as they grow. Organizations make sure they are written collectively so that they are full owned by all the people.
@@ -98,7 +98,7 @@ inPractice: >-
   ### Values for the three Teal breakthroughs
 
 
-  The principles and practices outlines above support the three breakthroughs of self-management, wholeness and evolutionary purpose. 
+  The principles and practices outlines above support the three breakthroughs of [self-management](https://reinventingorganizations-wiki.netlify.app/theory/self-management/), [wholeness ](https://reinventingorganizations-wiki.netlify.app/theory/wholeness/)and [evolutionary purpose](https://reinventingorganizations-wiki.netlify.app/theory/evolutionary-purpose/). 
 
 
   #### Self-management
@@ -107,7 +107,7 @@ inPractice: >-
   Self-managing structures transcend the issue of culture versus systems. Inner and outer dimensions, culture and systems, work hand in hand, not in opposite directions. The following are some examples of the types of values/principles that support self-management:
 
 
-  * **Trust:** Teal practices are based on trust. Meet people with trust and they will respond with trust. Trust enables people to be fully responsible. It also lowers the need for hierarchy and control and enables self-management. 
+  * **Trust:** Teal practices are based on trust. Meet people with trust and they will respond with trust. Trust enables people to be fully responsible. It also lowers the need for hierarchy and control and enables [self-management](https://reinventingorganizations-wiki.netlify.app/theory/self-management/). 
 
   * **Transparency:** When people have access to business information, often held by management, they can act and take decisions that are good for the whole. When there is transparency and openness collective intelligence is available to all. Sensitive information can be shared because everyone is able and trusted to handle difficult news. 
 
@@ -132,17 +132,14 @@ inPractice: >-
   #### Evolutionary purpose
 
 
-  Listening deeply to both the organization and to ourselves is essential in finding evolutionary purpose. The following  are examples of the types of values/principles that support evolutionary purpose:
+  Listening deeply to both the organization and to ourselves is essential in finding [evolutionary purpose](https://reinventingorganizations-wiki.netlify.app/theory/evolutionary-purpose/). The following  are examples of the types of values/principles that support evolutionary purpose:
 
 
-  * **Collective purpose:** We view the organization as having a soul and purpose of its own. We try to listen in to where the organization wants to go and beware of forcing a direction onto it. 
-
+  * **Collective purpose:** We view the organization as having a soul and [purpose ](https://reinventingorganizations-wiki.netlify.app/theory/listening-to-purpose/)of its own. We try to listen in to where the organization wants to go and beware of forcing a direction onto it. 
 
   * **Individual purpose:** We have a duty to ourselves and to the organization to inquire into our personal sense of calling to see if and how it resonates with the organization’s purpose. We try to imbue our roles with our souls, not our egos. 
 
-
   * **Planning the future:** Trying to predict and control the future is futile. We make forecasts only when a specific decision requires us to do so. Everything will unfold with more grace if we stop trying to control and instead choose to simply sense and respond. 
-
 
   * **Purpose and Profit:** In the long run, there are no trade- offs between purpose and profits. If we focus on purpose, profits will follow.
 faq:
@@ -151,9 +148,11 @@ faq:
     answer: Not necessarily. If your values are consistent with your purpose and if
       those values truly define who you are as an organisation, it is better for
       you to keep them. Maybe the ground rules will need to be readapted to
-      better fit the self-management structure and processes. In any case you
-      need to set up a process where those values and ground rules can be
-      regularly and collectively reviewed to ensure you keep on living them.
+      better fit the [self-management
+      ](https://reinventingorganizations-wiki.netlify.app/theory/self-management/)structure
+      and processes. In any case you need to set up a process where those values
+      and ground rules can be regularly and collectively reviewed to ensure you
+      keep on living them.
 relatedTheory:
   - Listening to Purpose
   - Evolutionary Purpose
