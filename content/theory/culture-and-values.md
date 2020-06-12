@@ -48,7 +48,7 @@ perspective: >-
   ##### Teal organizations
 
 
-  Teal organizations strive to create highly effective organizations that allow people to be fully human at work.. The culture of Teal organizations is shaped by the specific context and  [purpose ](https://reinventingorganizations-wiki.netlify.app/theory/evolutionary-purpose/)of the organization, not by personal assumptions, norms and concerns of the founders and leaders. The metaphor for the organization is a ‘living system’. As such it should be allowed to have its own autonomous identity and culture that can evolve with time. The culture and values are well integrated with the structure and processes. 
+  [Teal organizations](https://reinventingorganizations-wiki.netlify.app/theory/teal-paradigm-and-organizations/) strive to create highly effective organizations that allow people to be fully human at work.. The culture of Teal organizations is shaped by the specific context and  [purpose ](https://reinventingorganizations-wiki.netlify.app/theory/evolutionary-purpose/)of the organization, not by personal assumptions, norms and concerns of the founders and leaders. The metaphor for the organization is a ‘living system’. As such it should be allowed to have its own autonomous identity and culture that can evolve with time. The culture and values are well integrated with the structure and processes. 
 
 
   Teal organizations take shared values to the next level either through clear ground rules or sharing beliefs about what is acceptable or unacceptable. Most Teal organizations spend a lot of time during the recruitment process informing candidates about the values of the organization to determine whether there is a good culture fit. Teal organizations also set practices to frequently review and question culture and values to ensure they are truly lived by those in the organization. Some values that are often present are trust, transparency, collective intelligence, wholeness and authenticity.
@@ -59,13 +59,13 @@ inPractice: >-
   ##### *Defining a set of values*
 
 
-  Many organizations find it helpful to define a set of values. In Teal organizations, those values, together with [purpose](https://reinventingorganizations-wiki.netlify.app/theory/evolutionary-purpose/), are at the very core of the organization' s culture, influencing most behaviors and processes. Those values often stem from the founder's vision, and are typically collectively defined. Values and related ground rules are not fixed, they are openly discussed and amended so that they remain a faithful reflection of what people in the organization live and believe in. Some organizations set out a simple set of common beliefs, or assumptions about human endeavor and behavior.
+  Many organizations find it helpful to define a set of values. In [Teal organizations](https://reinventingorganizations-wiki.netlify.app/theory/teal-paradigm-and-organizations/), those values, together with [purpose](https://reinventingorganizations-wiki.netlify.app/theory/evolutionary-purpose/), are at the very core of the organization' s culture, influencing most behaviors and processes. Those values often stem from the founder's vision, and are typically collectively defined. Values and related ground rules are not fixed, they are openly discussed and amended so that they remain a faithful reflection of what people in the organization live and believe in. Some organizations set out a simple set of common beliefs, or assumptions about human endeavor and behavior.
 
 
   ##### *Ground rules for safe space*
 
 
-  To show up fully in the presence of others, as Teal organizations encourage, people need to feel it is safe to do so. Having a defined set of values translated into clear "ground rules", when necessary, helps to do this.
+  To show up fully in the presence of others, as [Teal organizations](https://reinventingorganizations-wiki.netlify.app/theory/teal-paradigm-and-organizations/) encourage, people need to feel it is safe to do so. Having a defined set of values translated into clear "ground rules", when necessary, helps to do this.
 
 
   Some examples are: [RHD](http://www.rhd.org/)’s Bill of Rights and Responsibilities, [Morning Star](http://www.morningstarco.com/)’s Colleague Principles, [FAVI](http://www.favi.com/)'s fiches or [Holacracy](http://www.holacracy.org/)'s Constitution. These documents provide a vision for a safe and productive workplace. They give colleagues a vocabulary to discuss healthy relationships, and they draw lines that separate recommended from unacceptable behaviors.
@@ -77,7 +77,7 @@ inPractice: >-
   #### Bringing values to life
 
 
-  Teal organizations understand it takes more than a plaque on the wall to bring values and ground rules to life. They spend a significant amount of time and energy on training and involving everyone in a continuous process of revisiting them. Some examples of keeping values alive are:
+  [Teal organizations](https://reinventingorganizations-wiki.netlify.app/theory/teal-paradigm-and-organizations/) understand it takes more than a plaque on the wall to bring values and ground rules to life. They spend a significant amount of time and energy on training and involving everyone in a continuous process of revisiting them. Some examples of keeping values alive are:
 
 
   * Values Training: once the new recruits are onboard, they are trained in the set of values and ground rules. 
@@ -92,7 +92,7 @@ inPractice: >-
   #### Culture and value-based recruitment
 
 
-  Teal organizations understand that a person's attitude and behaviors are as important as their skills. Therefore significant energy is devoted to finding people that fit with the organization's culture and values. New recruits are carefully interviewed to ensure they can thrive in the environment. It is a two way discovery processes aiming at finding out if the organization and individual are meant to “journey together”. 
+  [Teal organizations](https://reinventingorganizations-wiki.netlify.app/theory/teal-paradigm-and-organizations/) understand that a person's attitude and behaviors are as important as their skills. Therefore significant energy is devoted to finding people that fit with the organization's culture and values. New recruits are carefully interviewed to ensure they can thrive in the environment. It is a two way discovery processes aiming at finding out if the organization and individual are meant to “journey together”. 
 
 
   ### Values for the three Teal breakthroughs
