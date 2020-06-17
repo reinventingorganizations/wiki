@@ -2,8 +2,8 @@
 layout: case
 tags: cases
 name: HolacracyOne
-introduction: HolacracyOne has created an effective set of meetings serving a
-  specific purpose.
+introduction: Founded in 2007 by Brian Robertson and Tom Thomison, HolacracyOne
+  is the company spearheading the development of the Holacracy framework.
 industry: S. Other service activities
 geography: USA
 companySize: 1-100
@@ -11,7 +11,7 @@ profit: Profit
 theory:
   - topic: Meetings
     title: HolacracyOne has created an effective set of meetings serving a specific
-      purpose.
+      purpose
     content: "In Holacracy there are 4 meeting types:\r
 
       \r
