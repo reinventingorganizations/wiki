@@ -73,4 +73,22 @@ theory:
       The process might sound formal and needs to get used to, but people
       who use it report they find it deeply liberating and dramatically
       efficient."
+  - topic: Coordination
+    title: HolocracyOne has set-up a company-wide Role Market Place to help
+      coordinate workload
+    content: >-
+      [HolacracyOne ](https://www.holacracy.org/holacracyone/about)has set up a
+      company-wide Role Marketplace in order to make trading roles easy. On the
+      company’s intranet is a file where colleagues can “rate” every role they
+      currently fill, using a scale of -3 to +3:
+
+
+      * If they find the role energizing (+) or draining (-). 
+
+      * If they find their talents aligned (+) or not (-) with this role. 
+
+      * If they find their current skills and knowledge conducive to (+) or limiting in (-) this role.
+
+
+      Using the same scale of -3 to +3, people can also signal their interest in roles currently filled by other people. The marketplace thus helps people wanting to offload or pick up roles.
 ---
