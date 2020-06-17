@@ -2,7 +2,14 @@
 layout: case
 tags: cases
 name: Holacracy
-introduction: Organizational operating model
+introduction: >-
+  Organizational operating model 
+
+
+  [Holacracy ](https://en.wikipedia.org/wiki/Holacracy)is a method of decentralized management and organizational governance, in which authority and decision-making are distributed throughout a holarchy of self-organizing teams rather than being vested in a management hierarchy
+
+
+  The Holacracy system was developed at Ternary Software, a company in Pennsylvania company.
 industry: V. Others
 geography: Global
 companySize: "> 500"
