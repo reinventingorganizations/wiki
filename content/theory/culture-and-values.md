@@ -24,7 +24,7 @@ perspective: >-
   ##### Red organizations
 
 
-  In [Red organizations](https://reinventingorganizations-wiki.netlify.app/theory/red-organizations/), leaders typically demonstrate egocentric behaviors driven by their personal need for power and control. They are often impulsive and find ways to exert their dominance. This creates a culture of a fear, control, risk taking and submission. Close bonds are usually formed by those in the organization.
+  In [Red organizations,](../red-organizations/) leaders typically demonstrate egocentric behaviors driven by their personal need for power and control. They are often impulsive and find ways to exert their dominance. This creates a culture of a fear, control, risk taking and submission. Close bonds are usually formed by those in the organization.
 
 
   ##### Amber organizations
