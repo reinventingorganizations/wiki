@@ -113,5 +113,7 @@ faq:
 
 
       The Teal approach to coordination allows an organization to function as a living system with its own sense for direction. Employees are coordinated as all their actions are guided by listening to the organization’s purpose. Trust in the collective intelligence of the system does away, in many cases, with the need for a master plan.
+relatedTheory:
+  - Meetings
 ---
 to be removed
