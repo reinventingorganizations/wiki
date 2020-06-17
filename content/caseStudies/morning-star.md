@@ -26,7 +26,8 @@ theory:
   - topic: Coordination
     title: At Morning Star, colleagues coordinate both ad hoc and through written
       annual agreements.
-    content: "Colleagues at Morningstar noticed that lots of people were buying
+    content: >-
+      Colleagues at Morningstar noticed that lots of people were buying
       threadlocker (an adhesive that prevents nuts and bolts from accidentally
       loosening) in dozens of different formats and from different vendors. They
       were not only losing out on volume discounts, but the uncoordinated
@@ -35,15 +36,12 @@ theory:
       Safety Data Sheet. A worker suggested that he could walk around the plant
       once a quarter to coordinate orders. A similar solution emerged for
       purchasing packaging materials where volume discounts can quickly add
-      up.^[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to
+      up.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to
       Creating Organizations Inspired by the Next Stage of Human Consciousness
-      (Kindle Locations 2394-2395). Nelson Parker. Kindle Edition.]\r
+      (Kindle Locations 2394-2395). Nelson Parker. Kindle Edition.]
 
-      \r
 
-      Another key mechanism for coordination at Morningstar is the
-      Colleague Letter of Understanding (or simply CLOU). See “Role Definition
-      and Allocation”/”Concrete examples for inspiration”/”Morningstar”."
+      Another key mechanism for coordination at Morningstar is the Colleague Letter of Understanding (or simply CLOU). See “[Role Definition and Allocation](../role-definition-and-allocation/)" and then Concrete examples for inspiration”/”Morningstar”.
   - topic: Role Definition and Allocation
     title: A formal process for defining and allocating roles which takes place once
       each year
