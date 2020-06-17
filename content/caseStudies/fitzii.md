@@ -2,13 +2,11 @@
 layout: case
 tags: cases
 name: Fitzii
-introduction: "Hiring software and services provider - Canada - 10 employees –
-  For profit\r
+introduction: >-
+  Hiring software and services provider - Canada - 10 employees – For profit
 
-  \r
 
-  Fitzii is organized in three parallel teams and uses a Venn diagram to
-  illustrate where teams overlap and share decision making."
+  [Fitzii ](https://fitzii.com/go/about/)is a Ian Martin Group company (hiring support)
 industry: J. Information and communication
 geography: Canada
 companySize: 1-100
@@ -66,4 +64,15 @@ theory:
       Generally, sound meeting practices and facilitation are highly
       valued, ex. De Bono techniques, task-based learning techniques, and the
       company’s own Doozy of a Question (DOAQ) meeting style are examples."
+  - topic: Coordination
+    title: Key to Fitzii’s coordination is a weekly update on the company’s social
+      network
+    content: >-
+      At [Fitzii](https://www.fitzii.com/go/about/), weekly updates take place
+      in an enterprise social network, called Yammer, which is key for sharing
+      information and receiving advice. Every core team member writes a weekly
+      update of her/his work activities, advice processes, and concerns.
+
+
+      Fitzii’s weekly updates are essential to its communication. Weekly updates ensure every team member has regular access to a wide variety of information about the business – everything from financial performance to customer concerns and the personal engagement of the individual – resulting in increased alignment and engagement of Fitzii team members. Fitzii’s ownership and advisory board are also members of the Yammer group, and they occasionally add comments of encouragement or raise difficult questions within the weekly updates or at advisory board meetings.
 ---
