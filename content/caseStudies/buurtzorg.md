@@ -162,4 +162,20 @@ theory:
 
 
       A nurse that wrestles with a certain question can ask colleagues on her team to help her sort it out in a group coaching session. How should she deal with a client that refuses to take lifesaving medication? How can she help an elderly patient accept help from his children? How to say no to clients to protect herself from burnout? Often, when a nurse struggles with one of these matters, it is because the question brings up a broader personal issue she hasn’t worked through. In these cases, a peer coaching session can help. Some Buurtzorg teams allot an hour for peer coaching every month; other teams convene when a team member requests it. “Intervisie”, the process used at Buurtzorg, follows a strict format and ground rules to prevent the group from administering the all-too-common medicine of advice, admonitions, or reassurance. During most of the process, team members can ask only open-ended questions; they become fellow travelers into the mystery of the issue the person is dealing with. A safe space is created that invites deep listening, authenticity, and vulnerability - the necessary ingredients for inner truth to emerge. The goal is for the nurse to see the problem in a new light and discover her own solutions. It is at once a simple and beautiful process. Being respectfully and compassionately “held” by a group is for many people a new and unforgettable experience.
+  - topic: Coordination
+    title: At Buurtzorg where 9000 nurses are scattered over the country, the
+      internal social network ‘BuurtzorgWeb’ plays a critical role in knowledge
+      sharing
+    content: >-
+      At [Buurtzorg](http://www.buurtzorgnederland.com/), the company’s internal
+      social network, “BuurtzorgWeb” plays a key role in the sharing of
+      knowledge. When there is vast knowledge spread throughout the organization
+      - the trick can be finding it. With BuurtzorgWeb, nurses can easily locate
+      and contact a colleague with a specific expertise. Questions can be posted
+      online in a continuous stream, similar to Facebook. Due to the high
+      engagement level on the platform, each question is seen by thousands of
+      colleagues in a few hours and attracts one or several responses.
+
+
+      In an example of how an initiative might scale in a Teal organization, a Buurtzorg team in the countryside recently developed a new concept - a boarding house for patients, to offer the patient’s primary caregiver a break. This concept was presented to all colleagues at a company retreat. Nobody at Buurtzorg made the call that this fit or did not fit Buurtzorg’s purpose or that resources should be allocated to scale the initiative. The concept will have to run its own course. If it is meant to scale, it will attract nurses in other teams to make it happen organically.
 ---
