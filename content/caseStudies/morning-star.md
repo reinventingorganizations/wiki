@@ -44,4 +44,30 @@ theory:
       Another key mechanism for coordination at Morningstar is the
       Colleague Letter of Understanding (or simply CLOU). See “Role Definition
       and Allocation”/”Concrete examples for inspiration”/”Morningstar”."
+  - topic: Role Definition and Allocation
+    title: A formal process for defining and allocating roles which takes place once
+      each year
+    content: >-
+      As a Morning Star colleague, you write a personal mission statement
+      (“Personal Commercial Mission” in Morning Star’s language) and spell out
+      all of the roles you commit to perform in a document called the Colleague
+      Letter of Understanding (or simply CLOU). Roles at Morning Star are
+      defined very specifically, so you might well hold 20 or 30 different roles
+      (one might be receiver of tomatoes at the unloading station, another might
+      be trainer of seasonal whole peel sorters). For each role, you specify;
+
+
+      * what it does,
+
+      * what authority you believe you should have (act, recommend, decide, or a combination thereof),
+
+      * what indicators will help you understand if you are doing a good job, and
+
+      * what improvements you hope to make on those indicators.
+
+
+      In a continuous process like Morning Star’s, each person in the chain receives tomatoes or paste in some form from someone upstream and delivers them in another form to someone downstream. This might explain why colleagues at Morning Star chose to discuss the CLOUs, once written or updated, not in a team setting but in a series of one-on-one discussions with colleagues up and downstream. 
+
+
+      Here is a [sample CLOU document](http://reinventingorganizationswiki.com/index.php?action=ajax&title=-&rs=SecureFileStore::getFile&f=/a/a9/MorningStar_Sample2011_CLOU.pdf). A more detailed discussions of CLOUs can be found [here](http://www.managementexchange.com/story/colleague-letter-understanding-replacing-jobs-commitments).^\[Source: http://www.managementexchange.com/story/colleague-letter-understanding-replacing-jobs-commitments]
 ---
