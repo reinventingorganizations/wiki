@@ -2,8 +2,15 @@
 layout: case
 tags: cases
 name: Morning Star
-introduction: At Morning Star, every management practice is inspired by two
-  basic social values.
+introduction: >-
+  The [Morning Star Company ](https://www.morningstarco.com/)is a
+  California-based agribusiness and food processing company. Morning Star
+  processes 25% of the California processing tomato production, and supplies
+  approximately 40% of the U.S. industrial tomato paste and diced tomato
+  markets. 
+
+
+  Wikipedia article : <https://en.wikipedia.org/wiki/The_Morning_Star_Company>
 industry: I. Accommodation and food service activities
 geography: USA
 companySize: 201-500
