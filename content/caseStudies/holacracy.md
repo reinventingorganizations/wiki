@@ -23,4 +23,15 @@ theory:
       cohesive, whole entity itself, while also having real responsibilities as
       a part of a larger entity. For a fuller description, see [Holacracy's
       website](http://www.holacracy.org/).
+  - topic: Coordination
+    title: Holacracy creates specific non-staff roles for coordination
+    content: In Holacracy's structure of nested circles, there are specific
+      coordinating roles called “links". Sub-circles elect a representative, the
+      “Rep Link”, for its overarching circle who sits on all that circle’s
+      meetings. The overarching circle sends a representative of its own, the
+      “Lead Link” to be part of the discussion in the sub-circle. Both roles
+      come with specific accountabilities to ensure proper coordination across
+      circle and sub-circle. See also “Role Definition and Allocation”/”Concrete
+      examples for inspiration”/”Holacracy” and [Holacracy's
+      constitution](http://www.holacracy.org/constitution).
 ---
