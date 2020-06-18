@@ -111,4 +111,17 @@ theory:
 
 
       Beyond that, they tend to have no regularly scheduled meetings at all. If cross-team meetings occur, it’s in response to a specific need.
+  - topic: Mood Management
+    title: "FAVI had a beautiful practice of gratitude and celebration: every
+      meeting in the company started with a round where each participant in turn
+      shared a brief story of someone they had recently thanked or
+      congratulated."
+    content: "This powerful practice start of the meeting at FAVI had a telling
+      effect on meetings: it nourished moods of possibility, gratitude,
+      celebration, and trust. Focusing on others and their accomplishments
+      shifts focus away from the personal preoccupations members might have
+      brought to the meeting. After a few years, this practice started feeling
+      staid to people at FAVI, and was dropped. It might show up again, perhaps
+      in another form. Such practices evolve. They should feel fresh and
+      meaningful, not formal and fixed. "
 ---
