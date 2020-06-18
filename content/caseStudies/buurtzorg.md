@@ -178,4 +178,25 @@ theory:
 
 
       In an example of how an initiative might scale in a Teal organization, a Buurtzorg team in the countryside recently developed a new concept - a boarding house for patients, to offer the patient’s primary caregiver a break. This concept was presented to all colleagues at a company retreat. Nobody at Buurtzorg made the call that this fit or did not fit Buurtzorg’s purpose or that resources should be allocated to scale the initiative. The concept will have to run its own course. If it is meant to scale, it will attract nurses in other teams to make it happen organically.
+  - topic: Conflict resolution
+    title: Conflict is handled collaboratively within the team structure, sometimes
+      with the help of a regional coach or mediator.
+    content: At Buurtzorg , nurses work in teams of 10 to 12, with each team serving
+      around 50 patients in a small, well-defined neighborhood. The team is in
+      charge of all the tasks that, in similar organisations, are fragmented
+      across different departments. The initial Buurtzorg training includes
+      techniques for conflict resolution and Nonviolent Communication developed
+      by Marshal Rosenberg. Conflicts are worked out collaboratively within the
+      team. For instance, when one person has lost the trust of the team, the
+      team tries to find a mutually agreeable solution. If that doesn’t work
+      out, the group calls in its regional coach or an external facilitator to
+      mediate. In almost all cases, the presence of a mediator brings
+      resolution. In some cases, the person and the team decide on some mutual
+      commitments and give it another go. In others, after some deliberation,
+      the person comes to see that trust is irrevocably broken and understands
+      it is time to leave. If no agreement can be found, as a last chance to try
+      to settle the matter, the team members can ask Jos de Blok, the founder,
+      to mediate. In the rare cases, where even this fails, they can ask him to
+      put an end to the person’s contract (legally, he is the only one who can
+      do so).
 ---
