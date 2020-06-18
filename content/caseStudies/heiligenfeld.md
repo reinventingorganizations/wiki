@@ -57,4 +57,25 @@ theory:
 
 
       Heiligenfeld has developed a simple practice of team supervision. The company works with four external coaches who each have their domain of expertise (relationships, organizational development, system thinking, leadership). There are a number of time slots with the coaches every month that teams can sign up for. The recommendation is for every team to hold at least one session a year; on average teams hold two to four. In the discussion, with the help of the outside supervisor, colleagues can explore what a tension reveals about themselves and how they can grow to resolve it.
+  - topic: Conflict resolution
+    title: Innovative management practices are used to create a supportive work
+      culture that fosters trust, empathy and compassion, while decreasing
+      conflict.
+    content: At Heiligenfeld every Tuesday morning, all 350 employees come together
+      for an hour and a quarter to engage in joint reflection. Every week, a new
+      topic that is current and conducive to self-reflection is put on the
+      agenda. Recent meetings have reflected on subjects as diverse as conflict
+      resolution, dealing with failure, company values, interpersonal
+      communication, bureaucracy, IT innovations, risk management, personal
+      health and mindfulness. The meeting always kicks off with a short
+      presentation to frame the subject matter, followed by self-reflection in
+      small groups. Every group elects a facilitator who enforces ground rules
+      that create a space where it’s safe to explore, to be authentic and
+      vulnerable. In the confines of the small group, helped by their
+      colleagues’ listening, people dare to dig deep and gain new insights about
+      themselves and others. Colleagues are exposed every week to a space made
+      safe by ground rules that invites them to truly be themselves. They learn
+      to see each other in the light of their deep humanity, in the beauty of
+      their strengths and vulnerability. The trust, empathy and compassion that
+      develop in these meetings expand to permeate the whole organization
 ---
