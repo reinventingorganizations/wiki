@@ -75,4 +75,58 @@ theory:
 
 
       Here is a [sample CLOU document](http://reinventingorganizationswiki.com/index.php?action=ajax&title=-&rs=SecureFileStore::getFile&f=/a/a9/MorningStar_Sample2011_CLOU.pdf). A more detailed discussions of CLOUs can be found [here](http://www.managementexchange.com/story/colleague-letter-understanding-replacing-jobs-commitments).^\[Source: http://www.managementexchange.com/story/colleague-letter-understanding-replacing-jobs-commitments]
+  - topic: Conflict resolution
+    title: Use a conflict resolution process called the “Direct Communication and
+      Gaining Agreement”, which supports parties in finding agreement. Mediators
+      may be called in for support, but they cannot impose a resolution from
+      above.
+    content: "Within Morning Star, there are 23 teams (called Business Units), but
+      no management positions and no HR department. Colleagues operate entirely
+      on self-managing principles that were established early in its history .
+      When the first tomato processing factory was built, Chris Rufer and the
+      company’s first employees met to define how they wanted to work together.
+      They decided that two basic social values should inspire every management
+      practice at Morning Star: individuals should never use force against other
+      people and they should honor their commitments. These values are at the
+      heart of the company’s conflict resolution process, which is described in
+      great detail in the “Colleague Principles”. This is a core document
+      outlining Morning Star’s self-managing practices. The conflict resolution
+      process (called “Direct Communication and Gaining Agreement”), applies to
+      any type of disagreement. This could be a difference of opinion about a
+      technical decision, an interpersonal conflict or a breach of values.
+      Specifically, it can be used in performance issues when one colleague
+      believes that another is not pulling his weight.\r
+
+      \r
+
+      Whatever the topic, the process starts with one person asking
+      another to gain agreement: In a first phase, they sit together and try to
+      sort it out privately. The initiator has to make a clear request (not a
+      judgment, not a demand), and the other person has to respond clearly to
+      the request (with a “yes,” a “no,” or a counterproposal).\r
+
+      \r
+
+      If they can’t find a solution agreeable to both of them, they
+      nominate a colleague they both trust to act as a mediator. The colleague
+      supports the parties in finding agreement but cannot impose a
+      resolution.\r
+
+      \r
+
+      If mediation fails, a panel of topic-relevant colleagues is
+      convened. The panel’s role, again, is to listen and help shape agreement.
+      It cannot force a decision, but usually carries enough moral weight for
+      matters to come to a conclusion.\r
+
+      \r
+
+      In an ultimate step, Chris Rufer, the founder and president, can be
+      called into the panel, to further reinforce the panel’s moral weight.
+      Since the disagreement is private, all parties are expected to respect
+      confidentiality during and after the processes. Of course, this
+      confidentiality also applies to the two persons at the heart of the
+      conflict. They must resolve their disagreement between themselves and are
+      discouraged from spreading the conflict by enlisting support and building
+      rival factions."
 ---
