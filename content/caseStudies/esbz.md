@@ -21,4 +21,42 @@ theory:
 
 
       Students and teachers credit this weekly session as the defining practice for the school’s extraordinary spirit of learning, collaboration, and maturity.
+  - topic: Mood Management
+    title: "ESBZ has an extraordinary trust and community-building practice based
+      around storytelling: the Friday afternoon “praise meeting” which fosters a
+      mood of gratitude."
+    content: "Each Friday afternoon, the entire school―students, teachers, and
+      staff―gathers for an hour in a large hall. They start by singing a song
+      together. The rest of the time together is unscripted. There is an open
+      microphone on stage, and a simple rule: we are here to praise and thank
+      each other.\r
+
+      \r
+
+      For the next 50 minutes, students and teachers who wish to do so
+      stand up, walk on stage, take the microphone, and praise or thank another
+      student or teacher for something they did or said during the week. They
+      then sit down and someone else takes the stage. Every person at the
+      microphone shares a mini-story that reveals something about two people―the
+      storyteller and the person being thanked.\r
+
+      \r
+
+      This practice erases boundaries between students and teachers. It’s
+      part of the human condition that everyone at some point feels down,
+      confused, or stuck and in need of help. And everyone has the gift of
+      empathy, of finding ways to offer support, comfort, and friendship. It
+      takes courage to stand up and praise others publicly, but in the school it
+      has become practice.\r
+
+      \r
+
+      Students don’t shy away from stories that are funny or touching, and
+      heartfelt. Students and teachers credit this weekly session as the
+      defining practice for the school’s extraordinary spirit of learning,
+      collaboration, and maturity. Each story of kindness, courage, care, or
+      professionalism told at the microphone is a thread woven into a rich
+      tapestry of gratitude that has become key to the school’s exceptional
+      learning culture. Faculty meetings have now integrated the same practice:
+      they always start with a round of praise. "
 ---
