@@ -57,4 +57,15 @@ theory:
       to information and information flow when dealing with outside parties.
       Information exchange with suppliers and customers via email and internet
       is used to fuel continous improvement."
+  - topic: Recruitment
+    title: Hiring is a relatively slow process, performed by peers over multiple
+      interviews.
+    content: >-
+      Yvon Chouinard founded what would later be called
+      [Patagonia](http://www.patagonia.com/) in 1957 to produce climbing pitons.
+      The California-based company has grown into a leading outdoor apparel
+      maker, committed to being a positive influence on the environment.
+
+
+      In Patagonia hire is made slowly with interview from peers, as much as possible from withiɳ.
 ---
