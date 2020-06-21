@@ -95,18 +95,19 @@ theory:
     title: "Tami Simon, the founder of Sounds True, tells the following story about
       its particular culture and how people may or may not fit in:"
     content: >-
-      One of the things I’ve found out at Sounds True is in the first three
-      months of employment a lot of the people don’t stay. … Sounds True, people
-      want to get to know who you are, they want you to be real, they don’t want
-      you to wear forty masks to work. It’s like―will the real person please
-      stand up? There is this sense of authenticity; who we are when we are not
-      at work is who we are when we are at work. That’s the kind of environment
-      that’s here and of course we try to screen for this and let people know
-      before they take the job, and a lot of people go “Oh I’m totally ready for
-      that.  I’m interested in that, that’s what I want.”  But then they come in
-      and may or may not be comfortable actually working in that kind of
-      environment where people when they stop in the hallway and ask “How are
-      you doing?” actually mean it! "How 'are' you doing?". 
+      One of the things I’ve found out at [Sounds
+      True](https://www.soundstrue.com/) is in the first three months of
+      employment a lot of the people don’t stay. … Sounds True, people want to
+      get to know who you are, they want you to be real, they don’t want you to
+      wear forty masks to work. It’s like―will the real person please stand up?
+      There is this sense of authenticity; who we are when we are not at work is
+      who we are when we are at work. That’s the kind of environment that’s here
+      and of course we try to screen for this and let people know before they
+      take the job, and a lot of people go “Oh I’m totally ready for that.  I’m
+      interested in that, that’s what I want.”  But then they come in and may or
+      may not be comfortable actually working in that kind of environment where
+      people when they stop in the hallway and ask “How are you doing?” actually
+      mean it! "How 'are' you doing?". 
 
 
       Listen to the interview by clicking hereː [here](https://www.optimize.me/)
