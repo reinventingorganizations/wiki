@@ -75,4 +75,22 @@ theory:
 
 
       Fitzii’s weekly updates are essential to its communication. Weekly updates ensure every team member has regular access to a wide variety of information about the business – everything from financial performance to customer concerns and the personal engagement of the individual – resulting in increased alignment and engagement of Fitzii team members. Fitzii’s ownership and advisory board are also members of the Yammer group, and they occasionally add comments of encouragement or raise difficult questions within the weekly updates or at advisory board meetings.
+  - topic: Recruitment
+    title: Hiring software and services provider - Canada - 10 employees – For
+      profit  Each team does its own hiring and members of other teams
+      participate in panel interviews; fit is evaluated using why/how/what
+      framework.
+    content: >-
+      [Fitzii](http://www.fitzii.com/), a recruitment company, follows rigorous
+      processes to evaluate new hires’ potential for success – including
+      psychometric testing and in-depth panel interviews. Hiring decisions rest
+      with the team doing the hiring, with representatives of every other team
+      involved in panel interviews. Focus is on ensuring the new hire will
+      experience meaningful work and be supported by the Fitzii team.
+
+
+      When hiring core team members, three essential types of fit are evaluated: • Why – alignment with Fitzii’s evolutionary purpose is evaluated in conversation during preliminary and panel interviews; there is a strong desire to find roles for people with clear purpose alignment • How – an individual’s behavioural traits, evaluated by psychometric testing within the Fitzii software • What – knowledge, skills, abilities related to the main role(s) the new hire will play, evaluated by the relevant functional team
+
+
+      These may or may not be equally important in every hire. For example, hiring a programmer requires a high level of knowledge, skill, and ability (what) whereas hiring a senior person who will set strategy requires a high level of purpose alignment (why).
 ---
