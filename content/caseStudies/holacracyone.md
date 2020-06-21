@@ -91,4 +91,21 @@ theory:
 
 
       Using the same scale of -3 to +3, people can also signal their interest in roles currently filled by other people. The marketplace thus helps people wanting to offload or pick up roles.
+  - topic: Recruitment
+    title: Team members qualify candidates based on fit for organization, purpose
+      and role.
+    content: >-
+      [HolacracyOne](http://www.holacracyone.com/) is a training, consulting,
+      and research company dedicated to spreading a new organizational model,
+      “holcacray”, originally developed by Brian Robertson and his team at
+      Ternary Software, a Philadelphia-based start-up. After transferring
+      Ternary to new leadership, Robertson co-founded HolacracyOne.
+
+
+      During the recruitment process, teammates check if
+
+
+      * the person is “fit for organization” i.e. Is this person in resonance and energized by the evolutionary purpose, intrinsically motivated and comfortable with complex ever changing environment.
+
+      * If yes, they check if the candidate is “fit for role”.
 ---
