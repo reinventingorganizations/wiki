@@ -94,4 +94,23 @@ theory:
       leaders who support a number of units. Hub leaders expect to be kept
       informed of major existing or potential problems. While they may advise or
       help, the responsibility for resolving problems stays with the unit."
+  - topic: Recruitment
+    title: Human Services - United States - 4,000 employees - Nonprofit  At RHD, the
+      HR service is responsible for providing training, support and education of
+      unit personnel regarding employment practices, but do not provide a
+      centralized hiring process. RHD uses frequent peer reflection in all
+      programs and groups to evaluate group composition, in order to adapt
+      recruiting so they can provide a diverse workplace.
+    content: >-
+      [Resources for Human Development (RHD)](https://www.rhd.org/) is a
+      Philadelphia-based nonprofit , 4,000 employees operating in 14 states,
+      serving people in need through a variety of homes, shelters, and programs
+      in areas such as mental disabilities, addiction recovery, and
+      homelessness. It was founded in 1970 by Robert Fishman.
+
+
+      In the [Bill of Rights and Responsibilities](http://www.rhd.org/docs/default-source/docs/RHDBillofRights.pdf?sfvrsn=0) (a document that spell out detailed ground rules for encouraging safe behaviors and identify inacceptable behaviors) is indicated that all programs and groups throughout the organization are requested to periodically look at the composition of the membership in their group, and to reflect on the reasons for and impacts of that composition. Based on such reflection, the group may want to make decisions about how it will move forward in creating and valuing a diverse membership.
+
+
+      RHD holds a bi-monthly “isms in the workplace meeting.” Anyone feeling that the organization should pay attention to a specific form or occurrence of racism, sexism, or any other “-ism” can join the meeting. If noticed that the organization as a whole tends to hire disproportionately more white than black people, or that women generally don’t step into certain roles; there is no obvious party to confront; everyone is called to find a solution.
 ---
