@@ -124,4 +124,8 @@ theory:
       staid to people at FAVI, and was dropped. It might show up again, perhaps
       in another form. Such practices evolve. They should feel fresh and
       meaningful, not formal and fixed. "
+  - topic: Recruitment
+    title: Uses an extended trial period, to ensure a mutual match.
+    content: "[FAVI](http://www.favi.com/) made extended use of the trial period for
+      both parties to test whether the match works out."
 ---
