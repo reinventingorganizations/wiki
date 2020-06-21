@@ -129,4 +129,30 @@ theory:
       conflict. They must resolve their disagreement between themselves and are
       discouraged from spreading the conflict by enlisting support and building
       rival factions."
+  - topic: Recruitment
+    title: Recruitment in Morning Star is a very demanding process, generally
+      including a multitude of interviews and a battery of diagnostics.
+    content: "Chris Rufer, the founder of Morning Star, estimates that, on average,
+      it takes a new associate a year or more to become fully functional in the
+      self-management environment. When the company was smaller, Chris Rufer
+      spent half a day interviewing every prospective employee, usually in the
+      candidate’s home. The bulk of the conversation focused on assessing the
+      fit between Morning Star’s philosophy and the applicant’s expectations.
+      Today every potential hire gets a two-hour introduction to self-
+      management and is interviewed by 10 to 12 Morning Star colleagues. Even
+      then, mistakes happen. Paul Green Jr., co-founder,  estimates that as many
+      as 50% of seasoned hires leave within two years because they have a hard
+      time adapting to the self management system. \r
+
+      \r
+
+      A colleague who wants to expand a Business Unit’s pay-roll must sell
+      the idea to his or her peers, who will ask for a job description and a
+      business case. If there’s a consensus to move ahead, the mechanics of
+      recruiting will get turned over to an in-house specialist.\r
+
+      \r
+
+      Emphasis is on fit for role and fit for the organization.  A major
+      point in fit for organization is passion for learning."
 ---
