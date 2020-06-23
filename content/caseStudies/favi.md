@@ -148,4 +148,28 @@ theory:
 
 
       [FAVI](http://www.favi.com/)’s onboarding process ends on a nice touch. New teammates who have gone through all the training modules of the first two months are asked to write an open letter to the group of colleagues they have joined. There are no instructions on what the letter should be about, so new hires often dig deep in their selfhood to find something worthwhile to say. The letters are, time and again, deeply touching accounts of gratitude and joy. Many blue-collar workers join [FAVI](http://www.favi.com/) scarred from past experience of mistrust and command and control. Joining an environment where they are considered trustworthy and where their voice counts is often a groundbreaking experience. For many machine operators, writing is not their preferred style of expression. Finding the right words for the letter can take a lot of effort, and the practice is akin to a ritual, a rite of passage into the community.
+  - topic: Training and Coaching
+    title: At FAVI, all engineers and administrative workers have been trained to
+      operate at least one machine on the shop floor. This training is put to
+      good use when orders must be rushed out. All hands are called on deck.
+      White-collar workers come from their office space to man the machines for
+      a few hours.
+    content: "It’s a wonderful community-building practice. People from engineering
+      and administration work under the guidance of the machine operators. They
+      see first-hand how hard this work can be, and how much skill it requires.
+      When the orders are shipped on time, colleagues share a sense of pride in
+      the accomplishment.\r
+
+      \r
+
+      FAVI also has a training program given to new members. But one
+      session, only, may insufficient for someone to unlearn old habits and pick
+      up new ones. The initial training modules are therefore expanded with
+      follow-up training and workshops interwoven into daily life. The CEO,
+      Jean- François Zobrist, used to chair a one-hour session every Friday
+      morning, open to whoever wanted to join. The topic: An in-depth look at
+      one of FAVI’s core organizational tools. (FAVI calls them fiches, or index
+      cards, as they are literally available in the form of index cards to
+      employees.) These include organization purpose, values, decision-making
+      mechanisms, and lean manufacturing techniques. "
 ---
