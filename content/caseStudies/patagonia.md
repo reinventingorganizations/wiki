@@ -116,7 +116,8 @@ theory:
       employees took the initiative. They got support from company leaders in
       the form of salries and facilities. They built a broad coalition, went to
       Washington, and lobbied. As a result, 1.2 million acres of wilderness were
-      protected"
+      protected. ^[Source: Laloux, Frederic. Reinventing Organizations. Nelson
+      Parker (2014), pages 160-172]"
     title: Environmental and social initiatives can start anywhere in the
       organization. To their surprise, they have found alignment to values may
       not undermine financial performance―indeed, quite the contrary.
