@@ -222,15 +222,32 @@ theory:
     title: At Buurtzorg, all nurses are trained in “Intervisie,” a peer-coaching
       technique that originated in the Netherlands.
     content: >-
-      A nurse wrestling with a question can ask her colleagues for help in a
-      group coaching session. *How should she deal with a client who refuses to
-      take life-* saving medication? *How can she help an elderly patient accept
-      help from his children? How to say "No" to clients, to protect herself
-      from burnout?*
+      **Peer Coaching**
+
+
+      A nurse wrestling with a question can ask her colleagues for help in a group coaching session. *How should she deal with a client who refuses to take life-* saving medication? *How can she help an elderly patient accept help from his children? How to say "No" to clients, to protect herself from burnout?*
 
 
       Some Buurtzorg teams allocate an hour for peer coaching every month; others convene whenever a team member requests it.
 
 
       “Intervisie,” the process used at Buurtzorg, follows a strict format with ground rules to prevent the group from administering simplistic advice, admonitions, or reassurances to each other. During the core process, members must ask only open-ended questions. This way they become fellow travelers into the mystery of the issue the person is dealing with. A safe space emerges that invites deep listening, authenticity, and vulnerability - the necessary ingredients for inner truth to emerge. The goal is for the nurse to see the problem in a new light and discover her own solutions. It is at once a simple and beautiful process.
+  - topic: Training and Coaching
+    title: At Buurtzorg the principle emerged that teams can spend a certain amount
+      on training without needing to consult.
+    content: >-
+      **Personal responsibility for training**
+
+
+      The nurses that work in self-managing teams decide on their own training needs, and look for the best provider - a medical supplier, a hospital department, or sometimes simply a pharmacist or another Buurtzorg team. It's accepted practice that a team can spend up to 3% of its revenues in training without needing to use the advice process.\
+
+      \
+
+      Jos de Blok, Buurtzorg’s founder, comments on how this freedom allows nurses to react quickly:
+
+
+      *"A remarkably high number of colleagues get themselves trained in specific medical conditions and technical equipment so that they can assist new clients in the best possible way. From drug pumps to dialysis and breathing devices, they learn how the equipment works and must be operated so that the number of professionals that deals with any client stays low. Because colleagues don’t need to ask if they can learn about something, their motivation to do so increases immediately. “It is as if I just woke up, because I start again to think of all sorts of possibilities,” is what you often hear at Buurtzorg."*
+
+
+      As the word spreads that the nurses can handle all sort of devices and techniques, doctors start prescribing treatment methods that improve patients’ lives - say, a drug pump for a person with chronic pain - that fall outside the limited standards handled by a traditional nursing organization.
 ---
