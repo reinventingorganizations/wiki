@@ -154,16 +154,22 @@ faq:
       first. Other criteria might include impact, urgency and affordability.
   - question: Do we need to assess the affordability of environmental and social
       initiatives?
-    answer: Self-management works to balance spending in line with
-      [values](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/culture-and-values)
-      and purpose. Employees’ own integrity and sense of self-censorship work
-      together to ensure that spending is in alignment. Just as [Teal
-      organizations](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/teal-paradigm-and-organizations)
-      do not measure accountability according to multiple bottom lines,
-      self-management guides spending within business capacity. [Teal
-      organizations](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/teal-paradigm-and-organizations)
-      sense and respond. Budgets are used to make decisions; not to control
-      variances.
+    answer: "[Self-management](https://reinventingorganizations-wiki.netlify.app/ad\
+      min/#/collections/theory/entries/self-management) works to balance
+      spending in line with
+      [values](https://reinventingorganizations-wiki.netlify.app/admin/#/collec\
+      tions/theory/entries/culture-and-values) and
+      [purpose](https://reinventingorganizations-wiki.netlify.app/admin/#/colle\
+      ctions/theory/entries/listening-to-purpose). Employees’ own integrity and
+      sense of self-censorship work together to ensure that spending is in
+      alignment. Just as [Teal
+      organizations](https://reinventingorganizations-wiki.netlify.app/admin/#/\
+      collections/theory/entries/teal-paradigm-and-organizations) do not measure
+      accountability according to multiple bottom lines, self-management guides
+      spending within business capacity. [Teal
+      organizations](https://reinventingorganizations-wiki.netlify.app/admin/#/\
+      collections/theory/entries/teal-paradigm-and-organizations) sense and
+      respond. Budgets are used to make decisions; not to control variances."
 relatedTheory:
   - Culture and Values
   - Self-Management
