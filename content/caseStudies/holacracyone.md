@@ -108,4 +108,22 @@ theory:
       * the person is “fit for organization” i.e. Is this person in resonance and energized by the evolutionary purpose, intrinsically motivated and comfortable with complex ever changing environment.
 
       * If yes, they check if the candidate is “fit for role”.
+  - topic: Role Definition and Allocation
+    title: An internal "Role Market place" to help in trading roles
+    content: >-
+      HolacracyOne has set up a company-wide Role Market Place in order to make
+      trading roles easy (in holacratic language, this is an “app;” it’s not
+      part of the basic operating system). On the company’s intranet is a file
+      where colleagues can “rate” every role they currently fill, using a scale
+      of -3 to +3:
+
+
+      * If they find the role energizing (+) or draining (-).
+
+      * If they find their talents aligned (+) or not (-) with this role.
+
+      * If they find their current skills and knowledge conducive to (+) or limiting in (-) this role.
+
+
+      Using the same scale of -3 to +3, people can also signal their interest in roles currently filled by other people. The market place helps people wanting to offload or pick up roles.
 ---
