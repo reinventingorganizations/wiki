@@ -218,4 +218,19 @@ theory:
       overcome the fragmented and costly way that social services are
       traditionally delivered ^[Source: Laloux, Frederic. Reinventing
       Organizations. Nelson Parker (2014), page 207]"
+  - topic: Training and Coaching
+    title: At Buurtzorg, all nurses are trained in “Intervisie,” a peer-coaching
+      technique that originated in the Netherlands.
+    content: >-
+      A nurse wrestling with a question can ask her colleagues for help in a
+      group coaching session. *How should she deal with a client who refuses to
+      take life-* saving medication? *How can she help an elderly patient accept
+      help from his children? How to say "No" to clients, to protect herself
+      from burnout?*
+
+
+      Some Buurtzorg teams allocate an hour for peer coaching every month; others convene whenever a team member requests it.
+
+
+      “Intervisie,” the process used at Buurtzorg, follows a strict format with ground rules to prevent the group from administering simplistic advice, admonitions, or reassurances to each other. During the core process, members must ask only open-ended questions. This way they become fellow travelers into the mystery of the issue the person is dealing with. A safe space emerges that invites deep listening, authenticity, and vulnerability - the necessary ingredients for inner truth to emerge. The goal is for the nurse to see the problem in a new light and discover her own solutions. It is at once a simple and beautiful process.
 ---
