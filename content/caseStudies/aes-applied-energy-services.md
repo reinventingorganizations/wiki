@@ -34,11 +34,13 @@ theory:
       rightness. Here is how AES expressed it in a public filing with the U.S.
       Securities and Exchange Commission when it offered stock to the public:
       \"An important element of AES is its commitment to four major 'shared'
-      values[2]. If the company perceives a conflict between these values and
-      profits, it will try to adhere to its values ― even if doing so might
-      result in diminished profits or foregone opportunities. Moreover, the
-      Company seeks to adhere to these values not as a means to achieve economic
-      success, but because adherence is a worthwhile goal in and of itself.\"\r
+      values ^[one of which is Social Responsibility, which triggered AES’s
+      decision to plant trees]. If the company perceives a conflict between
+      these values and profits, it will try to adhere to its values ― even if
+      doing so might result in diminished profits or foregone opportunities.
+      Moreover, the Company seeks to adhere to these values not as a means to
+      achieve economic success, but because adherence is a worthwhile goal in
+      and of itself.\"\r
 
       \r
 
