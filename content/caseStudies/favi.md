@@ -128,4 +128,24 @@ theory:
     title: Uses an extended trial period, to ensure a mutual match.
     content: "[FAVI](http://www.favi.com/) made extended use of the trial period for
       both parties to test whether the match works out."
+  - topic: Onboarding
+    title: FAVI newly hired engineers and administrative workers are trained at
+      operating at least one machine on the shop floor.  New hires also end
+      their onboarding process writing a free format open letter to the group of
+      colleagues they have joined, frequently expressing joy and gratitude.
+    content: >-
+      At [FAVI](http://www.favi.com/), the French automotive supplier, all
+      engineers and administrative workers have been trained to operate at least
+      one machine on the shop floor. The training is regularly put to good use:
+      when orders must be rushed out, it happens that all hands get called on
+      deck. White-collar workers come down from the office space on the first
+      floor to man the machines for a few hours. It’s a wonderful
+      community-building practice. People in engineering and administrative
+      roles work under the guidance of the machine operators. They witness
+      first-hand how hard the work on the machines can be and how much skill it
+      involves. At the end of the day, when the orders are out on time,
+      colleagues share a sense of pride in the work accomplisheɖ.
+
+
+      [FAVI](http://www.favi.com/)’s onboarding process ends on a nice touch. New teammates who have gone through all the training modules of the first two months are asked to write an open letter to the group of colleagues they have joined. There are no instructions on what the letter should be about, so new hires often dig deep in their selfhood to find something worthwhile to say. The letters are, time and again, deeply touching accounts of gratitude and joy. Many blue-collar workers join [FAVI](http://www.favi.com/) scarred from past experience of mistrust and command and control. Joining an environment where they are considered trustworthy and where their voice counts is often a groundbreaking experience. For many machine operators, writing is not their preferred style of expression. Finding the right words for the letter can take a lot of effort, and the practice is akin to a ritual, a rite of passage into the community.
 ---
