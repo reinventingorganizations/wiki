@@ -37,13 +37,13 @@ perspective: >-
   **Red organizations**
 
 
-  The Red paradigm is based on social management via power. The organization is subject to nature and the environment, which might dictate tribal rhythms. Red sees the environment through the filter of the potential for use. What in the environment is open to be had, so that we may increase our ability to survive and prosper?
+  The [Red paradigm](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/red-organizations) is based on social management via power. The organization is subject to nature and the environment, which might dictate tribal rhythms. Red sees the environment through the filter of the potential for use. What in the environment is open to be had, so that we may increase our ability to survive and prosper?
 
 
   **Amber organizations**
 
 
-  In the Amber paradigm, organizations tend to be self-contained, standing apart from the outside world, and run by a hierarchy. Social priorities favor those with status based on birth, education, and gender. The environment is viewed as predictable and organisations seek ways to control it for their benefit, for example in irrigation projects.
+  In the [Amber paradigm](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/amber-paradigm-and-organizations), organizations tend to be self-contained, standing apart from the outside world, and run by a hierarchy. Social priorities favor those with status based on birth, education, and gender. The environment is viewed as predictable and organisations seek ways to control it for their benefit, for example in irrigation projects.
 
 
   With Amber, the first high cultures in the world emerged. The stable structures and long-term processes introduced brought unprecedented change to social structure and their potential.
@@ -52,7 +52,7 @@ perspective: >-
   **Orange organizations**
 
 
-  The goal-oriented organization of the Orange paradigm is focused on solving tangible problems. Growth is a consequence of successfully reaching your objectives, with a surplus of resources (profit). Not reaching objectives will over time, result in the organization dying. Thereis a belief that the strongest and best organizations will survive.
+  The goal-oriented organization of the [Orange paradigm](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/orange-paradigm-and-organizations) is focused on solving tangible problems. Growth is a consequence of successfully reaching your objectives, with a surplus of resources (profit). Not reaching objectives will over time, result in the organization dying. Thereis a belief that the strongest and best organizations will survive.
 
 
   In Orange organizations, social and environmental efforts are usually focused on ensuring that legal obligations are met. This does not necessarily imply that Orange dismisses the value of these causes. It is rather that these organizations can only justify taking actions which benefit society and environment if these actions also contribute to the objectives of the organization. To Orange, such initiatives would otherwise need their own organization, with objectives that include those goals.
@@ -64,7 +64,7 @@ perspective: >-
   **Green organizations**
 
 
-  The Green paradigm considers the community (and by extension, the environment) as a stakeholder in the business. The pluralistic drive in Green means that it is important not only to be successful as an organization, but also to lift others up so that they also can be more successful.
+  The[ Green paradigm](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/green-paradigm-and-organizations) considers the community (and by extension, the environment) as a stakeholder in the business. The pluralistic drive in Green means that it is important not only to be successful as an organization, but also to lift others up so that they also can be more successful.
 
 
   Dialogue with stakeholders is part of green organizations and, at the time, one of the core issues in CSR strategies
@@ -76,17 +76,14 @@ perspective: >-
   **Teal organizations**
 
 
-  Teal organizations see themselves as part of a living system. That includes not only the organization itself but also the environment around it. Therefore, Teal organizations often take action to improve also their surroundings:
+  [Teal organizations](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/teal-paradigm-and-organizations) see themselves as part of a living system. That includes not only the organization itself but also the environment around it. Therefore, Teal organizations often take action to improve also their surroundings:
 
 
-  * Social and environmental responsibility arises from what is sensed to be “the right thing to do,” based on organizational values.
-
+  * Social and environmental responsibility arises from what is sensed to be “the right thing to do,” based on [organizational values](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/culture-and-values).
 
   * Significant steps are taken to reduce waste, toxicity, and other impacts on the biosphere.
 
-
   * New practices may spring from anywhere in the organization.
-
 
   * Cost need not be the prime determining factor. 
 
@@ -135,33 +132,38 @@ inPractice: >-
   Power is decentralized: passionate people can initiate activity from anywhere in the organization.
 
 
-  When Patagonia moved its warehouse to Reno, four employees noticed that most of Nevada’s wild land was not protected wilderness. They sparked an initiative that resulted in 1.2 million acres of wilderness being protected.
+  When [Patagonia](https://eu.patagonia.com/hu/en/home/) moved its warehouse to Reno, four employees noticed that most of Nevada’s wild land was not protected wilderness. They sparked an initiative that resulted in 1.2 million acres of wilderness being protected.
 
 
   #### Integrated into the business
 
 
-  Teal organizations do not (normally) have separate units for Corporate Social Responsibility. Buurtzorg adds new services in response to emerging social needs sensed by nurses, e.g. to help Alzheimer’s patients handle domestic chores.
+  [Teal organizations](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/teal-paradigm-and-organizations) do not (normally) have separate units for Corporate Social Responsibility. [Buurtzorg ](https://www.buurtzorgnederland.com/)adds new services in response to emerging social needs sensed by nurses, e.g. to help Alzheimer’s patients handle domestic chores.
 faq:
   - question: I want my organization to do more to benefit society and the
       environment. Where do I start?
     answer: Encourage conversations that allow employees to raise their concerns.
       Create an environment that champions new practices. Social and
-      environmental initiatives emerge when these values are aligned with the
-      purpose of the organization.
+      environmental initiatives emerge when these [values
+      ](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/culture-and-values)are
+      aligned with the purpose of the organization.
   - question: How do we prioritize (between) environmental and social initiatives?
     answer: Via the advice process, initiatives can be assessed for fit with values
-      and evolutionary purpose first. Other criteria might include impact,
-      urgency and affordability.
+      and [evolutionary
+      purpose](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/evolutionary-purpose)
+      first. Other criteria might include impact, urgency and affordability.
   - question: Do we need to assess the affordability of environmental and social
       initiatives?
-    answer: Self-management works to balance spending in line with values and
-      purpose. Employees’ own integrity and sense of self-censorship work
-      together to ensure that spending is in alignment. Just as Teal
-      organizations do not measure accountability according to multiple bottom
-      lines, self-management guides spending within business capacity. Teal
-      organizations sense and respond. Budgets are used to make decisions; not
-      to control variances.
+    answer: Self-management works to balance spending in line with
+      [values](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/culture-and-values)
+      and purpose. Employees’ own integrity and sense of self-censorship work
+      together to ensure that spending is in alignment. Just as [Teal
+      organizations](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/teal-paradigm-and-organizations)
+      do not measure accountability according to multiple bottom lines,
+      self-management guides spending within business capacity. [Teal
+      organizations](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/teal-paradigm-and-organizations)
+      sense and respond. Budgets are used to make decisions; not to control
+      variances.
 relatedTheory:
   - Culture and Values
   - Self-Management
