@@ -113,4 +113,12 @@ theory:
 
 
       RHD holds a bi-monthly “isms in the workplace meeting.” Anyone feeling that the organization should pay attention to a specific form or occurrence of racism, sexism, or any other “-ism” can join the meeting. If noticed that the organization as a whole tends to hire disproportionately more white than black people, or that women generally don’t step into certain roles; there is no obvious party to confront; everyone is called to find a solution.
+  - topic: Training and Coaching
+    title: RHD sponsors a coaching program that offers 10 free counseling sessions
+      for employees and/or their families every year.
+    content: "No one else in the organization needs to be informed about the theme
+      of the coaching, and it must not be a professional topic. The program is
+      built on trust: if an employee is seeking support from an external coach,
+      the topic must be important enough to be worth the money the company pays
+      for it"
 ---
