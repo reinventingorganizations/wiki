@@ -27,4 +27,24 @@ theory:
       trust other people. A bad hire would be someone who needs specific
       direction and waits to be told what to do. A poor hire would be someone
       who wasn’t flexible and who says, “It’s not my job.”'
+  - topic: Environmental and Social Management
+    title: "Via the advice process, AES employees initiate environmental and social
+      initiatives. "
+    content: "For AES, environmental and social initiatives start with inner
+      rightness. Here is how AES expressed it in a public filing with the U.S.
+      Securities and Exchange Commission when it offered stock to the public:
+      \"An important element of AES is its commitment to four major 'shared'
+      values[2]. If the company perceives a conflict between these values and
+      profits, it will try to adhere to its values ― even if doing so might
+      result in diminished profits or foregone opportunities. Moreover, the
+      Company seeks to adhere to these values not as a means to achieve economic
+      success, but because adherence is a worthwhile goal in and of itself.\"\r
+
+      \r
+
+      AES planted millions of trees to offset carbon emissions. This idea
+      came from an employee in in Los Angeles, not the senior team. Initially
+      there was no budget for this. Using the advice process, she built support
+      for the money AES should put into tree planting. ^[Source: Laloux,
+      Frederic. Reinventing Organizations. Nelson Parker (2014), pages 160-172]"
 ---
