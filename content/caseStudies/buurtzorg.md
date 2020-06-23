@@ -199,4 +199,23 @@ theory:
       to mediate. In the rare cases, where even this fails, they can ask him to
       put an end to the person’s contract (legally, he is the only one who can
       do so).
+  - topic: Environmental and Social Management
+    title: At Buurtzorg, social initiatives emerge from the interaction with the
+      communities they serve.
+    content: "One example is the creation of a unit called “Buurtdienst”
+      (“neighborhood services”), which helps people like Alzheimer’s patients to
+      handle domestic chores. Working with the same structure of small,
+      self-organizing teams as in the nursing division, this project has grown
+      to 750 employees in two years.\r
+
+      \r
+
+      The organization was also approached by youth workers. In 2012, the
+      first two teams of “Buurtzorg Jong” (“Buurtzorg Young”) started working
+      with neglected or delinquent children. Social workers, educators and
+      nurses work together with children and their families in their homes, and
+      in collaboration with police, schools, and family doctors. They hope to
+      overcome the fragmented and costly way that social services are
+      traditionally delivered ^[Source: Laloux, Frederic. Reinventing
+      Organizations. Nelson Parker (2014), page 207]"
 ---
