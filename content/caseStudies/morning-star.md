@@ -208,4 +208,18 @@ theory:
       with new ideas. These targets are mostly set at a local level, for one
       machine or one process step, where the outcomes can be predicted with some
       certainty."
+  - topic: Feedback and Performance Management
+    title: Morning Star has developed a team based feedback process for when the
+      work carried out can't be compared easily.
+    content: Teams that do very different work (for example, tomato sorting, steam
+      generation and packaging) don’t share metrics to get feedback on their
+      performance. Instead, each team makes an annual self-evaluation
+      presentation to a group of their colleagues. The group includes Chris
+      Rufer, the President and anyone else who wants to join in. They are
+      expected to talk openly about what went well, what didn’t, how well they
+      have used company resources and what their plans are for the coming year.
+      Each presentation lasts several hours and is carefully prepared. They
+      expect tough questions from their colleagues and receive much input. This
+      enables them to review what they have done and refine their plans^[Laloux,
+      Frederic. Reinventing Organizations. Nelson Parker (2014), page 124, 125].
 ---
