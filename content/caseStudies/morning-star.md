@@ -155,4 +155,19 @@ theory:
 
       Emphasis is on fit for role and fit for the organization.  A major
       point in fit for organization is passion for learning."
+  - topic: Commitment, Working Hours and Flexibility
+    title: Each colleague at Morning Star has a work schedule commitment.
+    content: The work schedule commitment captures how many hours a person can
+      commit to work during low and high season (when the tomatoes are harvested
+      and processed), providing a clear basis on which colleagues can discuss
+      and manage their time collectively whilst still fulfilling the
+      organization’s purpose. The work schedule commitment is captured in
+      [Morning Star](https://www.morningstarco.com/)’s colleague letter of
+      understanding or CLOU, which also includes a personal mission statement
+      and detailed information about the roles a person currently commits to, as
+      well as improvements they hope to make. This more formal way of capturing
+      commitment plays to Morning Star's need for continuous improvement to
+      increase efficiency as it is essentially a low-margin, commodity
+      business^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker
+      (2014), page 182-183].
 ---
