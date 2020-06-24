@@ -3,7 +3,7 @@ layout: case
 tags: cases
 name: Realize!
 introduction: Consulting - Netherlands - 4 partners - For Profit
-industry: V. Others
+industry: M. Professional, scientific and technical activities
 geography: Netherlands
 companySize: 1-100
 profit: Profit
