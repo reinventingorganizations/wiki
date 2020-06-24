@@ -222,4 +222,23 @@ theory:
       expect tough questions from their colleagues and receive much input. This
       enables them to review what they have done and refine their plans^[Laloux,
       Frederic. Reinventing Organizations. Nelson Parker (2014), page 124, 125].
+  - topic: Compensation and incentives
+    title: Salaries are self-initiated, calibrated by the advice given by an elected
+      salary committee, and if needed, using the conflict resolution process.
+    content: >-
+      If you work at Morning Star, then once a year, along with all your
+      colleagues, you write a letter stating the raise in salary you believe to
+      be fair for yourself and why. In an uneventful year, you are likely to
+      stick with a cost-of-living adjustment. But if you feel you have taken on
+      more challenging roles or made special contributions, you can choose a
+      higher percentage. You back up the letter with the peer-based feedback you
+      received from your CLOU colleagues (the people with whom you concluded
+      one-on-one contracts a year earlier) and any relevant data on performance
+      indicators you are responsible for.
+
+
+      You then share your letter with a handful of colleagues that were elected into a compensation committee (there is one such committee in each of the company’s four locations). The committee’s job is to review all the letters it receives, calibrate them, and provide feedback. It might tell you that you’ve been too humble about your accomplishments and that you should consider going for a bigger raise. Or it might tell you that, in comparison to your peers, the salary increase you granted yourself seems on the high side. The committee has only advisory power and cannot impose its decision, but the process to set salaries is understood to be part of Morning Star's "Gaining Agreement" process. If you choose to ignore the committee's advice for you to lower your salary raise, the committee can choose to enter into the Gaining Agreement process (a conflict resolution process) with you to create a space and time to explore in more depth where your and the committee’s assessments diverge and to help you and the committee reach agreement.
+
+
+      Morning Star’s experience is that people prove to be remarkably skillful at assessing a fair compensation for themselves. In any given year, roughly a quarter of people choose salary increases above the cost-of-living adjustment. Only a handful of people throughout the company receive feedback that they might have aimed too high. [Gary Hamel, “First, Let’s Fire All the Managers,” Harvard Business Review, December 2011, [http://hbr.org/2011/12/first-lets-fire-all-the-managers](https://hbr.org/2011/12/first-lets-fire-all-the-managers). and interviews Frederic Laloux at Morning Star Self-Management Institute.]
 ---
