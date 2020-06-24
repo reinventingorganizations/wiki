@@ -111,4 +111,20 @@ theory:
 
 
       Listen to the interview by clicking hereː [here](https://www.optimize.me/)
+  - topic: Feedback and Performance Management
+    title: "Sounds True has a three step appraisal process that turns an appraisal
+      discussion into an experience of genuine inquiry and celebration. "
+    content: >-
+      [Sounds True](https://www.soundstrue.com/) has a three step appraisal
+      process:
+
+
+      * In phase 1, employees reflect on their performance and aspirations based on a list of questions to trigger thinking.
+
+      * In phase 2, the practice starts with a minute of silence where colleagues are asked to hold the person receiving feedback in their hearts and try to let go of any form of judgement. Then, in turn, each person sits in front of their colleague and talks openly about what they most value in their colleague and reflect on one area where they think they could grow.
+
+      * Finally in phase 3, the employee and a colleague reflect on the feedback through a deeper conversation to learn and decide what happens next.
+
+
+      Feedback about how individuals can improve is given in the natural course of events throughout the year and not saved up for the annual appraisal.
 ---
