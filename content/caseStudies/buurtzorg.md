@@ -271,4 +271,10 @@ theory:
       management tasks somewhat spread out at all times. There is a risk, as
       some teams have experienced that hierarchical structures creep back in
       when too many management roles are delegated to a single team member.
+  - topic: Objectives and Target Setting
+    title: Teams set their own objectives.
+    content: In [Buurtzorg](http://www.buurtzorgnederland.com/), teams are required
+      to make yearly plans for initiatives they want to take in the areas of
+      client care and quality, training, organization, and other issues. All
+      mature teams have a target for billable hours of 60 -65 percent.
 ---
