@@ -71,4 +71,26 @@ theory:
 
 
       Holacracy's constitution stipulates that certain specific roles (the facilitator, the secretary, the Lead Link and the "Rep Link") are appointed using a consent-based election. All other roles are appointed by the person holding the team's Lead Link role. (See [Holacracy's constitution ](http://www.holacracy.org/constitution)for a detailed description of the process).
+  - topic: Job Titles and Job Descriptions
+    title: 'A worker in a Holacracy might "energize" any number of roles in any
+      number of Circles. Each role has a purpose expressed within the larger
+      purpose of the Circle, and a set of accountabilities to enact.
+      Additionally, some roles have Domains: sensitive areas where they hold
+      absolute authority.'
+    content: >-
+      How accountabilities are fulfilled is up to the role-holder. The
+      role-holder is also responsible for tracking and making visible the "next
+      actions" they deem necessary for each accountability, as well as the
+      timeline for completion. Projects are also tracked in this way. This
+      ensures that others who are energizing roles with dependency on another
+      are kept aware of how key accountabilities are progressing; additionally,
+      one role can ask another to prioritize a request specific to a dependency;
+      the role-holder is then required to prioritize the request over those
+      accountabilities where a request has not been made.
+
+
+      Roles are created and amended in a governance process. The question of who fills what role is typically an obvious choice, with whomever proposed the creation of a new role typically being the one who fills it; however, it is the purview of the Circle's Lead Link to assign anyone within the organization to a role in those instances where the choice is less obvious.
+
+
+      How one leaves a role varies from organization to organization. Constitutionally, it is the responsibility of the Lead Link to remove a person from a role when necessary. Some organizations, like the [Whidbey Institute](http://whidbeyinstitute.org/), create a roles marketplace where those who wish to move on from a particular role can let others know that it is available; anyone interested in taking on that role may do so through the authority of the Lead Link.
 ---
