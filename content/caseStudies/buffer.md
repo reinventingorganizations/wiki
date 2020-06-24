@@ -3,7 +3,7 @@ layout: case
 tags: cases
 name: Buffer
 introduction: Social media start up - Global - 40 people - For Profit.
-industry: J. Information and communication
+industry: M. Professional, scientific and technical activities
 geography: Global
 companySize: 1-100
 profit: Profit
