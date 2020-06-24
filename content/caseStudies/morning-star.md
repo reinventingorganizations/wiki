@@ -170,4 +170,42 @@ theory:
       increase efficiency as it is essentially a low-margin, commodity
       business^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker
       (2014), page 182-183].
+  - topic: Objectives and Target Setting
+    title: In Morning Star, colleagues give each other an undertaking to deliver
+      certain volumes, since each section is dependent on the output of the
+      preceding section to deliver its output.
+    content: "As a Morning Star colleague, you write a personal mission statement
+      (“Personal Commercial Mission” in Morning Star’s language) and spell out
+      all of the roles you commit to in a document called Colleague Letter of
+      Understanding (or simply CLOU). Roles at Morning Star are defined very
+      specifically, so you might well hold 20 or 30 different roles (one might
+      be receiver of tomatoes at the unloading station, another might be trainer
+      of seasonal whole peel sorters). For each role, you specify what it does,
+      what authority you believe you should have (act, recommend, decide, or a
+      combination thereof), what indicators will help you understand if you are
+      doing a good job, and what improvements you hope to make on those
+      indicators.\r
+
+      \r
+
+      Why this level of formality and granularity? In a continuous process
+      like Morning Star’s, each person in the chain receives tomatoes or paste
+      in some form from someone upstream and delivers them in another form to
+      someone downstream. Therefore, colleagues at Morning Star chose to discuss
+      the CLOUs, once written or updated, not in a team setting (which most
+      self-managing organizations do), but in a series of one-on-one discussions
+      with the handful of colleagues up and down-stream that people interact
+      with most. People discuss and negotiate what’s written in each other’s
+      CLOU documents very seriously— they want to make sure that people upstream
+      commit to supplying them with the right input, so that they can in turn
+      deliver to people downstream what they committed to.\r
+
+      \r
+
+      Colleagues at Morning Star set themselves targets for their part of
+      the process, to stimulate continuous improvement. They measure indicators,
+      compare them to the self-set targets, analyze root causes, and experiment
+      with new ideas. These targets are mostly set at a local level, for one
+      machine or one process step, where the outcomes can be predicted with some
+      certainty."
 ---
