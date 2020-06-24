@@ -3,7 +3,7 @@ layout: case
 tags: cases
 name: Hanno
 introduction: Digital design agency - Worldwide - 8 'shipmates' - For Profit.
-industry: V. Others
+industry: M. Professional, scientific and technical activities
 geography: Global
 companySize: 1-100
 profit: Profit
