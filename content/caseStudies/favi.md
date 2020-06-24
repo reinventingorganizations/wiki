@@ -204,4 +204,21 @@ theory:
       no meaningful way of coercing people into desired behavior; they certainly
       don’t have the authority to fire people unilaterally. If they start to
       behave autocratically, people can simply walk away"
+  - topic: Objectives and Target Setting
+    title: Sales teams have no sales targets.
+    content: >-
+      At [Favi](http://www.favi.com/), sales account roles are part of the
+      product team, for example the Audi team. No one gives them sales targets.
+      Their motivation is to serve their clients well and, in the face of
+      Chinese competition, to maintain and when possible increase the number of
+      jobs the factory can provide. To account managers, feeding their team with
+      work is a motivation far stronger than any sales target from a Head of
+      Sales could ever provide. At Favi, sales orders are always discussed in
+      terms of employment, not in monetary terms; so there is no "we got a
+      million order" but rather "we got an order for 10 people's work". This is
+      in line with the organization's purpose, which is to create jobs in an
+      area where jobs are scarce.
+
+
+      Incidentally, workers at Favi do not get production targets either. They are well aware of the impact China has on their market, given the feedback they receive from their sales account managers. Operators set themselves target times to machine their pieces, and they monitor their performance against that target.
 ---
