@@ -182,4 +182,26 @@ theory:
       was quickly found without the need for a formal HR approval process of
       management approval^\[Laloux, Frederic. Reinventing Organizations. Nelson
       Parker (2014), page 183].
+  - topic: Job Titles and Job Descriptions
+    title: A worker at FAVI might operate a number of different machines, be in
+      charge of ordering supplies for his team, lead a number of continuous
+      improvement actions, and be responsible for recruitment to his team.
+      Except perhaps for recruitment purposes, no one bothers to write down a
+      job description.
+    content: "However, at [FAVI](http://www.favi.com/), one person on the team holds
+      most management roles for the team ([FAVI](http://www.favi.com/) calls
+      them, rather unhelpfully, a “team leader”, which might imply hierarchical
+      power over their colleagues). FAVI found it works best to have one person
+      free to roam among the team and only operate a machine occasionally when a
+      helping hand is needed. FAVI’s team leaders act as coaches for their
+      colleagues, as a clearinghouse for information, and as a point person when
+      coordination is needed with other teams. This choice nevertheless carries
+      a risk. Our cultural baggage of hierarchy is so strong that over time,
+      team leaders could start behaving like bosses and become the primary
+      decision makers on their teams. At FAVI, a simple but powerful relief
+      valve exists, should a team leader find the taste of power too sweet:
+      workers can choose at any moment to join another team. Team leaders have
+      no meaningful way of coercing people into desired behavior; they certainly
+      don’t have the authority to fire people unilaterally. If they start to
+      behave autocratically, people can simply walk away"
 ---
