@@ -126,4 +126,17 @@ theory:
 
 
       Using the same scale of -3 to +3, people can also signal their interest in roles currently filled by other people. The market place helps people wanting to offload or pick up roles.
+  - topic: Commitment, Working Hours and Flexibility
+    title: HolacracyOne uses a regular meeting practice for colleagues to share and
+      discuss commitment.
+    content: During these meetings, colleagues discuss how much time and energy, at
+      that moment in their lives, they want to commit to the organization’s
+      purpose. The rationale behind this regular meeting is for each person to
+      make a conscious choice about how much time and energy they are willing to
+      commit. At the same time, the meeting practice gives all colleagues a
+      conscious way of holding and recognizing that as humans, everyone has
+      multiple endeavors that interest and enliven them, and that each person is
+      choosing how much time and energy they want to give to any particular
+      purpose^[Laloux, Frederic. Reinventing Organizations. Nelson Parker
+      (2014), page 182].
 ---
