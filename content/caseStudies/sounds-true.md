@@ -126,5 +126,5 @@ theory:
       * Finally in phase 3, the employee and a colleague reflect on the feedback through a deeper conversation to learn and decide what happens next.
 
 
-      Feedback about how individuals can improve is given in the natural course of events throughout the year and not saved up for the annual appraisal.
+      Feedback about how individuals can improve is given in the natural course of events throughout the year and not saved up for the annual appraisal.^[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 183]
 ---
