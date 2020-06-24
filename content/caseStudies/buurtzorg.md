@@ -260,4 +260,15 @@ theory:
       solution such as temporarily taking on fewer new clients or moving the
       care of a patient to another nurse or team if needed^[Laloux, Frederic.
       Reinventing Organizations. Nelson Parker (2014), page 183].\r"
+  - topic: Job Titles and Job Descriptions
+    title: Buurtzorg  is a not for profit provider of community healthcare in
+      Holland, they create fluidity in roles through their 10 - 12 member self
+      managing teams.
+    content: A nurse at Buurtzorg whose patients suddenly require more care might
+      ask a colleague to take over her role of team planner for instance. For a
+      while some nurses might carry more than their fair share of management
+      tasks for the team and less at other times.The Teams are careful to keep
+      management tasks somewhat spread out at all times. There is a risk, as
+      some teams have experienced that hierarchical structures creep back in
+      when too many management roles are delegated to a single team member.
 ---
