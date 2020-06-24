@@ -111,4 +111,22 @@ theory:
       (responsibility). Monthly in-person team meetings rotate between the two
       locations; an annual in-person team retreat provides quality structured
       and unstructured interaction.
+  - topic: Job Titles and Job Descriptions
+    title: Fitzii has no set job descriptions; coworkers perform one or more roles
+      based on their interests, talents, and the needs of the organization. A
+      standard job title practice gives both guidance and flexibility when a
+      title is useful.
+    content: >-
+      [Fitzii](https://www.fitzii.com/go) has no set job descriptions; coworkers
+      perform one or more roles based on their interests, talents, and the needs
+      of the organization.
+
+
+      Coworkers have one core role. Based on that core role, they are members of one of three functional teams – product & development, sales & marketing, and hiring success. Coworkers also have other roles not related to their core role. For convenience, simple lists of these roles exist in the company social network. They are as simple as “Hiring practice - Luz” so that it’s easy to identify the person currently playing a role.
+
+
+      Otherwise, roles are not described per se; but if the goal of a traditional job description is to make clear what each person should be doing, the equivalent source of guidance is each team’s goals and plans document, which makes clear the current priorities of that team. In that sense, a coworker’s job description is to make progress on Fitzii’s purpose, specifically by achieving the goals and plans her functional team has committed to.
+
+
+      Regarding job titles, it is common practice to use one’s team name as a title. For example – introducing oneself as “Carla from hiring success” or signing an email: Carla, Hiring Success, Fitzii. At the same time, in situations when it is more practical to use a conventional title, each person has freedom to do so. For example, it might be practical for a member of the sales & marketing team to identify himself as Fitzii’s marketing manager when addressing marketing services vendors. There is either enough peer pressure or good sense to avoid fancier ego-driven titles!
 ---
