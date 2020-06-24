@@ -61,4 +61,22 @@ theory:
       manufacturing tour, for new hires to take up a role that wasn’t the one
       they were hired for. They stumble upon a new interest or some urgent need
       and end up in a different place.
+  - topic: Feedback and Performance Management
+    title: Sun Hydraulics has developed a simple process for framing positive annual
+      appraisals.
+    content: >-
+      [Sun Hydraulics](http://www.sunhydraulics.com/) uses four simple
+      statements in order to frame a positive discussion around performance:
+
+
+      * State an admirable feature about the employee.
+
+      * Ask what contributions they have made to Sun.
+
+      * Ask what contributions they would like to make at Sun.
+
+      * Ask how Sun can help them.
+
+
+      Feedback about how individuals can improve is given in the natural course of events throughout the year and not saved up for the annual appraisal.^[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 186]
 ---
