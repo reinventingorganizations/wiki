@@ -121,4 +121,25 @@ theory:
       built on trust: if an employee is seeking support from an external coach,
       the topic must be important enough to be worth the money the company pays
       for it"
+  - topic: Job Titles and Job Descriptions
+    title: "Bob Fishman, the founder of RHD, explains the benefits of not using job
+      descriptions in his organization: RHD consciously does not use job
+      descriptions. Instead, the assumption that people are essentially good
+      leads us to believe that, once an employee has a general sense of the job,
+      he or she will want to shape the way it is done."
+    content: "*Thelma, for instance, had already been working as a receptionist at
+      our new outpatient clinic for many years when she asked me for a job
+      description. … I felt, and so told her, that it was absurd for me to
+      define the details of her work since she was already doing a quality job.
+      One of her outstanding behaviors was the kindness with which she greeted
+      our clients, brought them coffee, and made sure that the therapist took
+      them into the therapy room in a timely manner. Delineating her kindness
+      was impossible: words would never have done justice to her heartfelt
+      warmth. Thelma already knew how to perform her job and a detailed job
+      description, I believed, would have done her more harm than good. … There
+      is no single way to define a job, and no supervisor has the answer to how
+      another person’s job should be performed. If … I imposed my view on her
+      job, the corporation would, in effect, lose her special contribution - her
+      way of managing the relationship between people. That would have been a
+      great loss.*"
 ---
