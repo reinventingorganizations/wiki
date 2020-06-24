@@ -129,4 +129,31 @@ theory:
 
 
       Regarding job titles, it is common practice to use one’s team name as a title. For example – introducing oneself as “Carla from hiring success” or signing an email: Carla, Hiring Success, Fitzii. At the same time, in situations when it is more practical to use a conventional title, each person has freedom to do so. For example, it might be practical for a member of the sales & marketing team to identify himself as Fitzii’s marketing manager when addressing marketing services vendors. There is either enough peer pressure or good sense to avoid fancier ego-driven titles!
+  - topic: Feedback and Performance Management
+    title: Fitzii coworkers cite an annual, structured, self and peer review process
+      as a highlight of their work and relationships.
+    content: >-
+      At [Fitzii](http://www.fitzii.com/), feedback of all kinds is frequently
+      sought and given.
+
+
+      Annually, every Fitzii coworker completes a self-assessment, answering these two questions (in an online performance management tool):
+
+
+      * Assess your past year in terms of your accomplishments, important learning, and even mistakes that led to growth. Then tell us what areas of your performance you'd particularly like to get feedback about.
+
+
+      Self-assessments are then shared with every other member of the Fitzii team, who review the content before responding with answers to these two questions:
+
+
+      * What did NAME do well? Be sure to include the one thing you most value about working with NAME.
+
+
+      * Considering how you have been affected by NAME, and what areas she's interested in hearing about, what is the feedback you would like to give that could best help her grow or improve?
+
+
+      Peers are encouraged to write in “I” language and to share how they have been inspired, touch, hurt, etc. by the other person’s contributions. Feedback is not presented as objective truth. No numerical ratings or rankings are used.
+
+
+      Each coworker then receives and reviews the feedback and prepares to attend a whole-team discussion in which every person shares new insights from the feedback process, as well as actions he or she wishes to take in response.
 ---
