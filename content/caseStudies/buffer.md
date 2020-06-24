@@ -63,5 +63,5 @@ theory:
       #### Transparency
 
 
-      The compensation of every colleague in Buffer is public, not only to colleagues themselves, but even to the [outside world](https://buffer.com/transparency).
+      The compensation of every colleague in Buffer is public, not only to colleagues themselves, but even to the [outside world](https://buffer.com/transparency). ^[Courtney Seiter, colleague at Buffer, May 2015]
 ---
