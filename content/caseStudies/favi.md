@@ -172,4 +172,14 @@ theory:
       cards, as they are literally available in the form of index cards to
       employees.) These include organization purpose, values, decision-making
       mechanisms, and lean manufacturing techniques. "
+  - topic: Commitment, Working Hours and Flexibility
+    title: At Favi, no one clocks in and out but workers still work in shift
+      patterns and are expected to spend roughly this time on the shop floor.
+    content: An operator at [Favi](http://www.favi.com/) who was having a house
+      built, brought the topic up with his team. To be on site with the
+      builders, he wanted to switch to the night shift. He asked if a colleague
+      would be willing to swap shifts for a four month period. An arrangement
+      was quickly found without the need for a formal HR approval process of
+      management approval^\[Laloux, Frederic. Reinventing Organizations. Nelson
+      Parker (2014), page 183].
 ---
