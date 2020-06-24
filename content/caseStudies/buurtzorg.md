@@ -250,4 +250,14 @@ theory:
 
 
       As the word spreads that the nurses can handle all sort of devices and techniques, doctors start prescribing treatment methods that improve patients’ lives - say, a drug pump for a person with chronic pain - that fall outside the limited standards handled by a traditional nursing organization.
+  - topic: Commitment, Working Hours and Flexibility
+    title: At Buurtzorg, the structure of small, self-managing teams helps in
+      providing flexibility.
+    content: "If a nurse wants to reduce her working hours, perhaps because she has
+      a sick parent to take care of for instance, the team will re-shuffle
+      existing clients and temporarily take in fewer new clients. The nurse will
+      discuss her other commitments with her team and together they will find a
+      solution such as temporarily taking on fewer new clients or moving the
+      care of a patient to another nurse or team if needed^[Laloux, Frederic.
+      Reinventing Organizations. Nelson Parker (2014), page 183].\r"
 ---
