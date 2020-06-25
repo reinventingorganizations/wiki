@@ -142,4 +142,22 @@ theory:
       job, the corporation would, in effect, lose her special contribution - her
       way of managing the relationship between people. That would have been a
       great loss.*"
+  - topic: Compensation and incentives
+    title: RHD has put in place a number of practices to boost the lowest salaries
+      and reduce pay inequality
+    content: RHD, a Philadelphia based non-profit, holds the principle that when
+      there is room for salary increases, they should be disproportionately
+      geared toward the lowest salaries first. The CEO’s salary is capped to a
+      maximum of 14 times the lowest salary in the organization. One can argue
+      about the multiple―is it too high or too low?―but RHD introduced a clever
+      twist by capping the highest salary not based on the average or median
+      salary, as many Green Organizations have started doing, but on the lowest.
+      It’s now very much in the CEO’s and the leadership’s own interest to
+      ensure that even the colleagues with the lowest qualification earn enough
+      for a decent living. Next to this direct focus on entry-level salaries,
+      RHD has set up a scholarship fund to offer staff members opportunities to
+      pursue formal education and increase their earning potential. And it has
+      instituted a companion currency, the RHD Equal Dollar, that allows
+      lower-paid colleagues to increase their access to goods and services by
+      trading with each other and with their local community.
 ---
