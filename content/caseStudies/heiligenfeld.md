@@ -78,4 +78,17 @@ theory:
       to see each other in the light of their deep humanity, in the beauty of
       their strengths and vulnerability. The trust, empathy and compassion that
       develop in these meetings expand to permeate the whole organization
+  - topic: Strategy
+    title: Strategy is developed through sensing rather than forecasting.
+    content: "Heiligenfeld uses large group meetings at regular intervals to sense
+      into its future. From one such session, the vision emerged of bringing
+      Heiligenfeld’s holistic approach to mental illness to families with
+      children and adolescents. Wouldn’t it be wonderful if patients could be
+      treated together with their close family members, in a way that would
+      specifically address and honor the family ties in the therapy? A year
+      later, they opened, a new mental health hospital specifically dedicated to
+      therapy for families.^[Laloux, Frederic (2014-02-09). Reinventing
+      Organizations: A Guide to Creating Organizations Inspired by the Next
+      Stage of Human Consciousness (Kindle Locations 4460-4463). Nelson Parker.
+      Kindle Edition.]"
 ---
