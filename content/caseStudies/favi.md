@@ -266,4 +266,25 @@ theory:
 
 
       The product development process that FAVI used to achieve this breakthrough was developed in collaboration with a Japanese professor, Shoji Shiba. It is a design process that explicitly factors in emotions, beauty and intuition^[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 209]
+  - topic: Purchasing and Investments
+    title: FAVI implemented a practice of bottom-up planning based on trust towards
+      its teams to come up with realistic budget requests. In case of conflicts,
+      representatives of each team sort out problems on their own.
+    content: >-
+      Once a year, every team at [FAVI](http://www.favi.com/) establishes the
+      investment budget for the next year - new machines, new tooling, and so
+      on. In most organizations, the finance department challenges these
+      requests and ultimately the executive committee or the CEO arbitrates
+      across departments to channel more money in one direction or another. This
+      opens up the can of worms of politics. Everyone jockeys for a bigger part
+      of the pie. For middle managers, the size of the budget is often the
+      yardstick by which their status is measured. They try, as best as they
+      can, to influence the decision makers in the executive committee through
+      any formal and informal channels at their disposal.
+
+
+      At FAVI, there are no middle managers that fight for budgets, and their CEO Jean-Francois Zobrist refused to play the role of the father who would decide how to divide up the candy among his children. Teams know that no haggling will take place, so they don’t throw in inflated numbers to start with; they make realistic requests based on realistic needs. In most years, when the budgets of the teams are added up, the resulting number is reasonable, and all plans get the green light, with neither discussion nor scrutiny. Teams are trusted to do the right thing; if one team were to get itself golden-plated machines, other teams would quickly notice, and peer-pressure would self-regulate the problem away. In those years where the combined projects exceed what would be reasonable, the CEO simply asks teams to sit together and to come back to him with a revised plan. Representatives from each team come together and put all the plans on a table. They look at what is most important and what might be deferred in everyone’s plans. In one or two meetings, the problem is always sorted out.
+
+
+      Like other roles, the traditional purchasing and investments tasks of a manager - budgeting, planning, and controlling - are scattered among various members of a team. A worker at [FAVI](http://www.favi.com/), might operate a number of different machines, be in charge of ordering supplies for his team, lead a number of continuous improvement actions, and be responsible for recruitment to his team^[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 77-79 and following]
 ---
