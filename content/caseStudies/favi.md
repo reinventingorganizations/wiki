@@ -221,4 +221,49 @@ theory:
 
 
       Incidentally, workers at Favi do not get production targets either. They are well aware of the impact China has on their market, given the feedback they receive from their sales account managers. Operators set themselves target times to machine their pieces, and they monitor their performance against that target.
+  - topic: Strategy
+    title: FAVI invents the first method for molding 100 % pure copper - for
+      challenge and beauty, with zero market research.
+    content: "In the 1990s, Zobrist (CEO) and a few colleagues at FAVI became
+      fascinated with the following idea: foundries always produce alloys,
+      because pure copper cannot be molded. What if FAVI could somehow do the
+      impossible - shape industrial products made of 100 percent pure copper?
+      They started tinkering.\r
+
+      \r
+
+      Would there be a market for such products? They had no idea, but
+      they didn't care to commission a market study. Pure copper has some
+      properties, like electrical conductivity, that alloys don't have; such a
+      property must have a purpose. What really got them excited was not the
+      market they might discover. They were excited by the beauty of the
+      seemingly impossible: to shape pure copper.\r
+
+      \r
+
+      After two years of tinkering, they succeeded. And as they had
+      imagined, a market came knocking at their door. Pure copper rotors have
+      interesting properties in electrical motors. This is now an important
+      business for FAVI.^[Laloux, Frederic. Reinventing Organizations. Nelson
+      Parker (2014), page 208]"
+  - topic: Strategy
+    title: FAVI invents a new antiseptic copper alloy for hospitals using aesthetics
+      and intuition.
+    content: >-
+      Metallurgists have long known that copper has antiseptic properties. *It's
+      a shame*, people at [FAVI](http://www.favi.com/) thought, *that this
+      property isn't put to use in products*. A team started tinkering with
+      antimicrobial copper equipment for hospitals. A prototype soon gave
+      promising results, but Zobrist (CEO) was bothered by its color. The
+      reddish color of copper evokes the faded world of old 19th-century
+      sanatoriums, he found.
+
+
+      Zobrist (CEO) asked the project team if they could make a prototype with a silver-colored alloy, to give it the shine of stainless steel we associate with modern equipment. The team scoffed: This simply made no sense. The added material for the alloy would make the copper lose its antiseptic properties. Zobrist (CEO) knew he had no ground to stand on. But he was possessed by a deep aesthetic and intuitive sense that it was worth pursuing. He managed to persuade the team into giving it a try.
+
+
+      To everybody's surprise, and for reasons still unclear, the silver-color alloy not only kept the copper's antiseptic properties, it enhanced them. A new market opened for FAVI.
+
+
+      The product development process that FAVI used to achieve this breakthrough was developed in collaboration with a Japanese professor, Shoji Shiba. It is a design process that explicitly factors in emotions, beauty and intuition^[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 209]
 ---
