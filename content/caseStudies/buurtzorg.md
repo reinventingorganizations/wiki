@@ -311,4 +311,41 @@ theory:
       (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations
       Inspired by the Next Stage of Human Consciousness (Kindle Locations
       4396-4401). Nelson Parker. Kindle Edition.]"
+  - topic: Strategy
+    title: Buurtzorg develops a new boarding house to support overwhelmed relatives
+      of their patients.
+    content: >-
+      One team in the countryside had an idea: A boarding house for patients, to
+      offer the patient's primary caregiver a break. With most patients,
+      [Buurtzorg](http://www.buurtzorgnederland.com/) provides medical care, but
+      someone else - often the patient's husband or wife, sometimes a patient's
+      child - is really the primary caretaker. It is not unusual for the husband
+      or wife, often elderly as well, to be exhausted by the constant care of
+      the patient, sometimes 24 hours a day. If the strain becomes too much, the
+      caregiver can fall sick too.
+
+
+      *Wouldn't it be wonderful*, one team of nurses thought, *if we could have a place where we could take in our patients for a day or two, or even a week - a sort of bed and breakfast and lunch and dinner and care - so that their primary caretaker could take a break and rest?* One of the nurses had inherited a small farmhouse in the countryside. Together, the team transformed it into a Buurtzorg boarding house.
+
+
+      The idea of boarding houses will run its own course. If it is meant to be, if it has enough life force, it will attract nurses from other teams to make it happen and carry Buurtzorg into a new dimension of care. Otherwise, it will remain a small scale experiment^[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 200]
+  - topic: Strategy
+    title: Buurtzorg develops a new service concept, Buurtzorg+, to improve injury
+      prevention.
+    content: Two nurses on a [Buurtzorg](https://www.buurtzorgnederland.com/) team
+      found themselves pondering the fact that elderly people, when they fall,
+      often break their hips. Hip replacements are routine surgery, but patients
+      don’t always recover the same autonomy. Could Buurtzorg play a role in
+      preventing its older patients from falling down? The two nurses
+      experimented and created a partnership with a physiotherapist and an
+      occupational therapist from their neighborhood. They advised patients on
+      small changes they could bring to their home interiors, and changes of
+      habits that would minimize risks of falling down. Other teams showed
+      interest, and the approach, now called Buurtzorg+, has spread throughout
+      the country. The two nurses sensed a need, and with the power of
+      self-management acted upon it. Self-management helped the idea to spread.
+      Any team interested in Buurtzorg+ can sign up for a training event that
+      teaches them the basics of how the concept works and how to create such a
+      partnership in their neighborhood^\[Laloux, Frederic. Reinventing
+      Organizations. Nelson Parker (2014), page 203]
 ---
