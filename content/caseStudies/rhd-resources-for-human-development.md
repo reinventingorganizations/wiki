@@ -160,4 +160,21 @@ theory:
       instituted a companion currency, the RHD Equal Dollar, that allows
       lower-paid colleagues to increase their access to goods and services by
       trading with each other and with their local community.
+  - topic: Purchasing and Investments
+    title: RHD runs its organization based on self-managing units which are
+      responsible for their entire operation, from defining a strategy to
+      recruiting and purchasing, from budgeting to monitoring results.
+      Investment decisions stay within the units, which are counseled by budget
+      managers who bring in financial expertise.
+    content: Each of [RHD](https://www.rhd.org/)’s programs is run by a
+      self-managing team, with an average of 20 and at most 40 to 50 people.
+      Units, as these teams are called within RHD, are encouraged to develop
+      their own sense of purpose, pride, and identity. Within the units, there
+      are no job descriptions. Units are responsible for their entire operation,
+      from defining a strategy to recruiting and purchasing, from budgeting to
+      monitoring results. Central staff at headquarters is kept to a minimum.
+      Specialist staff - for instance, the budget managers that support teams in
+      financial matters or specialists in clinical review - can counsel teams,
+      but the final decision is kept in the unit. ^[Laloux, Frederic.
+      Reinventing Organizations. Nelson Parker (2014), page 148 and following]
 ---
