@@ -139,4 +139,19 @@ theory:
       choosing how much time and energy they want to give to any particular
       purpose^[Laloux, Frederic. Reinventing Organizations. Nelson Parker
       (2014), page 182].
+  - topic: Compensation and incentives
+    title: "HolacracyOne, the small consultancy/training company behind Holacracy,
+      uses a ranking mechanism, which feeds an algorithm that allocates
+      colleagues to salary bands. "
+    content: >-
+      Once a year, colleagues at HolacracyOne fill out a survey for all their
+      colleagues, consisting of only two questions:
+
+
+      * “This person contributes (much) more or (much) less than me.” (On a scale of -3 to +3)
+
+      * “This person has a good basis to evaluate me.” (On a scale of 1 to 5)
+
+
+      A simple algorithm crunches through the answers and groups colleagues into a few salary buckets. The more experienced, knowledgeable, and hard-working people land in the higher buckets that earn bigger salaries; the more junior, less experienced colleagues naturally gravitate toward buckets with lower salaries.^[Interview Frederic Laloux with Tom Thomison, 2013]
 ---
