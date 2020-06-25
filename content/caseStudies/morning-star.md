@@ -241,4 +241,20 @@ theory:
 
 
       Morning Star’s experience is that people prove to be remarkably skillful at assessing a fair compensation for themselves. In any given year, roughly a quarter of people choose salary increases above the cost-of-living adjustment. Only a handful of people throughout the company receive feedback that they might have aimed too high. [Gary Hamel, “First, Let’s Fire All the Managers,” Harvard Business Review, December 2011, [http://hbr.org/2011/12/first-lets-fire-all-the-managers](https://hbr.org/2011/12/first-lets-fire-all-the-managers). and interviews Frederic Laloux at Morning Star Self-Management Institute.]
+  - topic: Purchasing and Investments
+    title: Morning Star implemented a strong performance evaluation process, which
+      includes a view on the effectiveness of using company resources and an
+      annual presentation of investment plans to a panel of peers.
+    content: At [Morningstar](https://www.morningstarco.com/), every year in
+      January, teams present a self-evaluation to a group of colleagues, which
+      inludes Chris Rufer (the founder and president) and anyone else who cares
+      to join. They are expected to talk candidly about what went well during
+      the past year and what didn’t, how effectively they used company
+      resources, and what they plan to do in the next year. It’s not a
+      superficial effort; each presentation lasts for a few hours, and teams can
+      expect challenging, sometimes grilling questions from their colleagues. In
+      the course of a month, all teams make presentations; teams that haven’t
+      performed well have received much input from their peers and know they
+      have homework to do ^[Laloux, Frederic. Reinventing Organizations. Nelson
+      Parker (2014), page 125]
 ---
