@@ -29,5 +29,5 @@ theory:
       * Product Contribution
 
 
-      Each of these metrics is given equal weight in compiling a stack ranking of all the employees in a given group. Once the intra-group ranking is done, the information gets pooled for the company as a whole and is used to determine compensation. The system is based on a belief that these four metrics are the most appropriate for determining the "correct" compensation and that they in turn are best determined through a peer-based valuation process (which the company believes is less likely to be subject to bias given its flat organizational structure).
+      Each of these metrics is given equal weight in compiling a stack ranking of all the employees in a given group. Once the intra-group ranking is done, the information gets pooled for the company as a whole and is used to determine compensation. The system is based on a belief that these four metrics are the most appropriate for determining the "correct" compensation and that they in turn are best determined through a peer-based valuation process (which the company believes is less likely to be subject to bias given its flat organizational structure).^[Valve Handbook for New Employees; 2012]
 ---
