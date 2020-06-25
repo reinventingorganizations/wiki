@@ -49,4 +49,24 @@ theory:
       there was no budget for this. Using the advice process, she built support
       for the money AES should put into tree planting. ^[Source: Laloux,
       Frederic. Reinventing Organizations. Nelson Parker (2014), pages 160-172]"
+  - topic: Strategy
+    title: Strategic decisions can be made by anyone, often through an advice process.
+    content: "A recently hired financial analyst at AES informed the CEO, Dennis
+      Bakke, that he was intending to leave his role to go back to his native
+      Pakistan and research the opportunity for electricity-generating capacity
+      there on behalf of AES. Bakke expressed skepticism, telling him that
+      despite encouragement from the U.S. Department of State to expand into
+      Pakistan several years earlier, they declined due to concern over high
+      levels of corruption there.\r
+
+      \r
+
+      Despite the CEO’s recommendation, the analyst decided to go to
+      Pakistan, effectively creating a new position for himself as business
+      developer, retaining his previous salary. Six months later, he invited
+      Bakke to Pakistan to meet the prime minister. Two and a half years later,
+      a $ 700 million power plant was running.^[ Laloux, Frederic (2014-02-09).
+      Reinventing Organizations: A Guide to Creating Organizations Inspired by
+      the Next Stage of Human Consciousness (Kindle Locations 2245-2254). Nelson
+      Parker. Kindle Edition.]"
 ---
