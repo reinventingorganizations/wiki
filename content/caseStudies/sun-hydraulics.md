@@ -79,4 +79,29 @@ theory:
 
 
       Feedback about how individuals can improve is given in the natural course of events throughout the year and not saved up for the annual appraisal.^[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 186]
+  - topic: Purchasing and Investments
+    title: Sun Hydraulics dropped most formalities of project planning, thereby
+      freeing up productive capacity.
+    content: At [Sun Hydraulics](http://www.sunhydraulics/) project and investment
+      management is radically simplified. There is no management that wants to
+      understand and control the complexity. Projects happen organically and
+      informally. Engineers are typically working on several projects in
+      parallel. They constantly rearrange their priorities, based on what they
+      sense is the most important, most urgent, or most fun to do. Google has
+      the famous practice of “20 percent time” - engineers are free to decide
+      how to spend their Fridays. Sun and other self-managing organizations
+      basically extend this to the whole week. There is no master plan. There
+      are no project charters and no one bothers with staffing people on
+      projects. Project teams form organically and disband again when work is
+      done. Nobody knows if projects are on time or on budget, because for 90
+      percent of the projects, no one cares to put a timeline on paper or to
+      establish a budget. A huge amount of time is freed by dropping all the
+      formalities of project planning - writing the plan, getting approval,
+      reporting on progress, explaining variations, rescheduling, and
+      re-estimating, not to mention the politics that go into securing resources
+      for one’s project or to find someone to blame when projects are over time
+      or over budget. When Kirsten Regal, one of Sun’s leaders, was asked about
+      how little their meeting rooms seemed to be used, she quipped, “We don’t
+      waste time being busy.^[Laloux, Frederic. Reinventing Organizations.
+      Nelson Parker (2014), page 84 and following]
 ---
