@@ -287,4 +287,24 @@ theory:
 
 
       Like other roles, the traditional purchasing and investments tasks of a manager - budgeting, planning, and controlling - are scattered among various members of a team. A worker at [FAVI](http://www.favi.com/), might operate a number of different machines, be in charge of ordering supplies for his team, lead a number of continuous improvement actions, and be responsible for recruitment to his team^[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 77-79 and following]
+  - topic: Budgeting and Controlling
+    title: FAVI implemented a practice of bottom-up planning based on trust towards
+      its teams to come up with realistic budget requests.  In case of
+      conflicts, representatives of each team sort out problems on their own.
+    content: >-
+      The traditional practice in organizations, says FAVI, is to look five
+      years ahead and make plans for the next year. FAVI believes we should
+      think like farmers; look 20 years ahead, and plan only for the next day.
+      One must look far out to decide which fruit trees to plant or which crops
+      to grow. But it makes no sense to plan at the beginning of the year the
+      precise date for harvest. As hard as we try, we cannot control the
+      weather, the crops, or the soil. They all have a life of their own beyond
+      our control. A farmer who would stick rigidly to plan, instead of sensing
+      and adjusting to reality, would quickly grow hungry.
+
+
+      FAVI finds it needs a basic budget to help make certain decisions. Once a year, every operating team (FAVI is organized by client teams, e.g., the Volkswagen team, the Volvo team, etc, and by support teams, e.g., the foundry team, the maintenance team, etc.) makes a monthly forecast for the year to come of sales and costs. The numbers are added up, and whatever the result, it is considered the budget for FAVI overall. That budget can then be used to inform decision making, for instance, to determine the expected tonnage of metal that will be bought for which a supply contract must be secured.
+
+
+      The budget is not used to track mostly performance: there is no monthly comparison of actuals vs budget. Teams simply track their monthly numbers and if the numbers are unsatisfactory (as compared to the previous month or year, or to some ratio) they discuss corrective action. In its management manifesto, FAVI captures the thinking about budgets in a provocative statement; “*In the new way of thinking, we aim to make money without knowing how we do it, as opposed to the old way of losing money knowing exactly how we lose it*.” FAVI is privately owned and doesn’t need to report to outside shareholders.
 ---
