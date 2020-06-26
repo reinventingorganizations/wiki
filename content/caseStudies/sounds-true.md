@@ -127,4 +127,13 @@ theory:
 
 
       Feedback about how individuals can improve is given in the natural course of events throughout the year and not saved up for the annual appraisal.^[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 183]
+  - topic: Ownership
+    title: An example of outside investors compatible with Teal
+    content: "Through careful selection of investors, Tami Simon has been able to
+      bring in outside equity capital without sacrificing the company’s
+      commitment to Teal practices and to multiple bottom lines. These investors
+      are considered to be one of its key stakeholders: “We are committed to
+      growing the long-term value of the business through careful planning and
+      re-investing our profits into innovation and
+      growth.”^[<http://www.soundstrue.com/store/about-us/core-values>]"
 ---
