@@ -177,4 +177,10 @@ theory:
       financial matters or specialists in clinical review - can counsel teams,
       but the final decision is kept in the unit. ^[Laloux, Frederic.
       Reinventing Organizations. Nelson Parker (2014), page 148 and following]
+  - topic: Fundamental Assumptions
+    title: Three beliefs for people, workers and management.
+    content: |-
+      1. All people are of equal human worth.
+      2. People are essentially good, unless proven otherwise.
+      3. There is no single way to manage corporate issues well.
 ---
