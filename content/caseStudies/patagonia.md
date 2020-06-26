@@ -124,18 +124,19 @@ theory:
   - topic: Ownership
     title: A privately held company formalizes its practices.
     content: Patagonia, the outdoor apparel maker, is 100% owned by its founder,
-      Yves Chouinard and his wife. \[7] Mr. Chouinard can therefore presumably
-      do whatever he wants with Patagonia, and this no doubt has given him great
-      freedom to guide the company into a Teal organization. Interestingly
-      though, Patagonia has gone to the trouble of attaining benefit corporation
-      status, perhaps as a result of Chouinard’s desire to give the company some
-      protection from potential future owners or perhaps out of a desire to make
-      a symbolic gesture. Patagonia has gone even further by becoming the first
-      Californian company to achieve “B Corp certification” at the beginning of
-      2012 (while often confused, “benefit corporation” and “B Corp” are not the
-      same). B Corp certification is a private certification issued by B Lab, a
-      global non-profit, to companies which meet its standards of “verified,
-      overall social and environmental performance, public transparency and
-      legal
+      Yves Chouinard and his wife.^[Patagonia's Founder Is America's Most
+      Unlikely Business Guru; Wall St. Journal Magazine; April 26, 2012] Mr.
+      Chouinard can therefore presumably do whatever he wants with Patagonia,
+      and this no doubt has given him great freedom to guide the company into a
+      Teal organization. Interestingly though, Patagonia has gone to the trouble
+      of attaining benefit corporation status, perhaps as a result of
+      Chouinard’s desire to give the company some protection from potential
+      future owners or perhaps out of a desire to make a symbolic gesture.
+      Patagonia has gone even further by becoming the first Californian company
+      to achieve “B Corp certification” at the beginning of 2012 (while often
+      confused, “benefit corporation” and “B Corp” are not the same). B Corp
+      certification is a private certification issued by B Lab, a global
+      non-profit, to companies which meet its standards of “verified, overall
+      social and environmental performance, public transparency and legal
       accountability.”^[<https://www.bcorporation.net/what-are-b-corps/about-b-lab>]
 ---
