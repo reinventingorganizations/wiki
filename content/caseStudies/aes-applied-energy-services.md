@@ -181,4 +181,51 @@ theory:
       full transparency about the scope and timeframe of top-down
       decision-making, and appoint someone to make those decisions who will not
       be suspected of continuing to exert such powers when the crisis is over. "
+  - topic: Fundamental Assumptions
+    title: "During transition, two sets of belief systems were opposed to each
+      other: the traditional Amber/Orange belief system and the new set,
+      regarding self-management the logical way to operate. The traditional
+      belief set was made explicit together with the colleagues, which made it
+      very powerful and confrontational."
+    content: >-
+      Here is how Dennis Bakke (CEO of AES at that time) summarizes the
+      assumptions workers feel bosses have about them:
+
+
+      * Workers are lazy. If they are not watched, they will not work diligently.
+
+      * Workers work primarily for money. They will do what it takes to make as much money as possible.
+
+      * Workers put their own interest ahead of what is best for the organization. They are selfish.
+
+      * Workers perform best and are most effective if they have one simple repeatable task to accomplish.
+
+      * Workers are not capable of making good decisions about important matters that affect the economic performance of the company. Bosses are good at making decisions.
+
+      * Workers do not want to be responsible for their actions or for decisions that affect the performance of the organization.
+
+      * Workers need care and protection, just as children need the care of their parents.
+
+      * Workers should be compensated by the hour or by the number of "pieces" produced. Bosses should be paid a salary and possibly receive bonuses and stock.
+
+      * Workers are like interchangeable parts of machines. One "good" worker is pretty much the same as another "good" worker.
+
+      * Workers need to be told what to do, when to do it, and how to do it. Bosses need to hold them accountable.
+
+
+      And here are the new assumptions :
+
+
+      AES people :
+
+
+      * Are creative, thoughtful, trustworthy adults, capable of making important decisions;
+
+      * Are accountable and responsible for their decisions and actions;
+
+      * Are fallible. We make mistakes, sometimes on purpose;
+
+      * Are unique and
+
+      * Want to use their talents and skills to make a positive contribution to the organization and the world.
 ---
