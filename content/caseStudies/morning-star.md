@@ -257,4 +257,9 @@ theory:
       performed well have received much input from their peers and know they
       have homework to do ^[Laloux, Frederic. Reinventing Organizations. Nelson
       Parker (2014), page 125]
+  - topic: Fundamental Assumptions
+    title: Two core beliefs about workers and responsibilities.
+    content: |-
+      1. Individuals shall work with no use of force or coercion.
+      2. Individuals shall keep commitments.
 ---
