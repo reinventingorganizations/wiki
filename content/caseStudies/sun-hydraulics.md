@@ -125,4 +125,23 @@ theory:
       \
 
       Most business leaders would feel naked without budgets and forecasts. When the question was put to Carlson "How do you deal with having no forecasts to compare people’s performance to? For instance, how do you know if the guys in Germany (where Sun has a plant) were doing a good job last year, if you have no target to compare against?"*,* his answer came shooting out of the barrel: *Who knows? Who cares? They are all working hard, doing the best they can. We have good people in all the places around the world and if I need that sort of scorecard I probably got the wrong person. That’s just the way we operate. … If I’m the head of sales of Sun in the US and you ask me what is the forecast, I have no clue! How could I generate one anyway? … At the end of the day, there is so much outside of your control. … It’s impossible to predict the unpredictable.*
+  - topic: Ownership
+    title: A public company since 1997 holds its commitment to Teal.
+    content: "Sun Hydraulics, a company that was founded in 1970 by two engineers,
+      designs and manufactures hydraulic cartridge valves and manifolds. It has
+      been a publicly owned company since 1997 with factories in Florida (where
+      it is headquartered), Kansas, England, Germany, and Korea. Its shares are
+      traded on NASDAQ, and as of June 1, 2016 Sun had a market capitalization
+      of nearly $800 million. While the founder’s family still has a significant
+      stake in Sun, they do not exercise majority control.^[As of March 1, 2016,
+      Christine L. Koski, the daughter of the deceased founder of the Company,
+      Robert E. Koski, is a member of the board of directors, and she, along
+      with other family members, own or control approximately 14% of the
+      outstanding shares of Sun’s common stock. Source: Sun Hydraulics
+      Corporation 10-K filed March 31, 2016; p. 11.\r
+
+      ] Sun would seem to be an important case of a company able to
+      maintain a commitment to Teal despite a traditional corporate structure
+      and a dispersed and fluid ownership. Maybe Teal organizations and non-Teal
+      ownership can be compatible after all?"
 ---
