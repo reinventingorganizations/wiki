@@ -262,4 +262,16 @@ theory:
     content: |-
       1. Individuals shall work with no use of force or coercion.
       2. Individuals shall keep commitments.
+  - topic: Ownership
+    title: A privately held company grows without diluting its ownership.
+    content: "Chris Rufer founded Morningstar in 1970 and to this day owns 100% of
+      the company and is its sole board member. Recognizing the potential
+      hazards of having partners who might not unconditionally support his
+      pursuit of self-management, he has foregone taking in new investors but
+      rather has relied on loans to fund his growth. Growing in this way from a
+      single truck operation to the world’s largest tomato processor (a
+      traditionally low margin as well as capital intensive business) is
+      extraordinary, but perhaps Chris would argue, essential to its
+      success.[Laloux, Frederic. Reinventing Organizations. Nelson Parker
+      (2014), page 289].\r"
 ---
