@@ -392,4 +392,24 @@ theory:
       Guide to Creating Organizations Inspired by the Next Stage of Human
       Consciousness (Kindle Locations 4334-4351). Nelson Parker. Kindle
       Edition.]"
+  - topic: Crisis Management
+    title: Joe de Blok averted a cash crunch by asking his nurses to work harder
+    content: "Buurtzorg faced a crisis in 2010 and mastered it using the advice
+      process. The young company was growing at breakneck speed when Jos de Blok
+      heard that health insurance companies had threatened to withhold €4
+      million in payments to Buurtzorg, citing technical reasons (the more
+      likely reason: the insurance companies wanted to signal to Buurtzorg that
+      it was growing too fast at the expense of established providers). A cash
+      crunch loomed. Jos de Blok wrote an internal blog post to the nurses
+      exposing the problem. He put forward two solutions: either Buurtzorg could
+      temporarily stop growing (new teams cost money at first) or nurses could
+      commit to increasing productivity (increasing client work within the
+      contract hours). In the blog comments, nurses overwhelmingly chose to work
+      harder because they didn’t like the alternative: slower growth would have
+      meant saying no to clients and nurses wanting to join Buurtzorg. In a
+      matter of a day or two, a solution to the cash problem was found (and
+      after some time, the insurance companies eventually disbursed the withheld
+      funds).\r
+
+      \r\n"
 ---
