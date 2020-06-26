@@ -263,4 +263,20 @@ theory:
       frustrating months, Bakke left, which freed the board to direct the
       conversion of AES to traditional management practices.^[Laloux, Frederic.
       Reinventing Organizations. Nelson Parker (2014), pages 253-254]"
+  - topic: Project teams and task forces
+    title: AES replaced staff with task forces and mandated time allocated to them.
+    content: >-
+      With 40,000 people scattered around the globe but only around 100 staff in
+      its headquarters in Arlington, Virginia,
+      [AES](https://www.aes.com/home/default.aspx) had no central maintenance or
+      safety departments, no purchasing, no HR, and no internal audit
+      departments. The company came up with the "80-20 rule": every person
+      working at AES, from cleaning staff to engineer, was expected to spend on
+      average 80 percent of their time on their primary role and make themselves
+      available for the other 20 percent in one or more of the many tasks forces
+      that existed around the company.^[Laloux, Frederic. Reinventing
+      Organizations. Nelson Parker (2014), page 89].
+
+
+      Note that AES was handed over to new management in 2001, who decided to revert to more conventional management approaches.
 ---
