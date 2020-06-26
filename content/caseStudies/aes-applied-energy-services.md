@@ -145,4 +145,40 @@ theory:
       that was taking place day in and day out in the voluntary task
       forces.^[Laloux, Frederic. Reinventing Organizations. Nelson Parker
       (2014), page 88 and following]"
+  - topic: Crisis Management
+    title: AES suspends the advice process as gracefully as possible
+    content: "In fall of 2001, after the terrorist attacks and the collapse of
+      Enron, AES’s stock price plummeted. The company needed access to capital
+      markets to serve its high debt levels but found them suddenly closed.
+      Swift and drastic action was needed to prevent bankruptcy. A critical
+      question was: how many and which power plants would need to be sold off to
+      raise the necessary cash? With 40,000 people spread around the world,
+      Dennis Bakke, the CEO, could hardly convene everybody and stand on a
+      soapbox like Zobrist at FAVI. And the problem was so complex that he
+      couldn’t simply send out a blog post with two alternatives, like Jos de
+      Blok did at Buurtzorg.\r
+
+      \r
+
+      Bakke chose a course of action that temporarily suspended the advice
+      process in a way that nevertheless minimized the risk of under-mining
+      trust in self-management. He didn’t work out a plan behind closed doors
+      with his management team; instead, he publicly announced that top-down
+      decision-making would be made during a limited time for a limited number
+      of decisions, albeit critical ones. The advice process would remain in
+      force for all other decisions. To investigate the best course of action
+      and make the tough calls, Bakke appointed Bill Luraschi, a young and
+      brilliant general counsel. Luraschi wasn’t regarded as one of the most
+      senior leaders nor as someone who would seek a leading role in the future.
+      The signal was clear: the senior leaders of the organization were not
+      looking to exert more power. Top-down decision-making would be handled by
+      someone with no thirst for power, and it really would be temporary.\r
+
+      \r
+
+      If the advice process needs to be suspended in times of crisis,
+      these two guidelines can serve to maintain trust in self-management: give
+      full transparency about the scope and timeframe of top-down
+      decision-making, and appoint someone to make those decisions who will not
+      be suspected of continuing to exert such powers when the crisis is over. "
 ---
