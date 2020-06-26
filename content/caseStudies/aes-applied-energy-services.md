@@ -228,4 +228,39 @@ theory:
       * Are unique and
 
       * Want to use their talents and skills to make a positive contribution to the organization and the world.
+  - topic: Ownership
+    title: A publicly held company reverses its ways during difficult times.
+    content: "AES, an energy generation and distribution powerhouse was co-founded
+      in 1982 by Roger Sant and Dennis Bakke. Under Sant’s leadership as CEO
+      until 1994, and then with Bakke at the helm, it grew from a two-person
+      firm into a global energy producer employing 40,000 people in plants
+      located in more than 30 countries around the world.\r
+
+      \r
+
+      AES became a Wall Street darling after it was publicly listed in
+      1991. For years, while the company was going from success to success, the
+      board members were supportive of AES’s radically decentralized and
+      trust-based decision-making. And yet as Bakke commented, “Most board
+      members loved the AES approach primarily because they believed it pushed
+      the stock price up, not because it was the ‘right’ way to operate an
+      organization.”\r
+
+      \r
+
+      AES’s fortunes turned in the early 2000’s. Following the dotcom
+      bubble burst, the 9/11 terrorist attacks and the Enron bankruptcy, which
+      caused near panic among energy investors, AES’s stock price, which had
+      peaked at $70, declined to as low as $5. AES’s earlier decisions to invest
+      in “merchant plants” that sold electricity in the spot market as opposed
+      to under long-term contracts and to finance much of its growth with debt
+      no doubt contributed to its troubles. However, these decisions could not
+      be attributed solely to its decentralized structure as they had been
+      discussed and agreed to all the way up to the board level. Nevertheless,
+      fear took over among board members, and they imposed greatly increased
+      oversight including the hiring of lawyers and consultants as well as a
+      co-CEO whose directives Bakke was asked to carry out. After nine
+      frustrating months, Bakke left, which freed the board to direct the
+      conversion of AES to traditional management practices.^[Laloux, Frederic.
+      Reinventing Organizations. Nelson Parker (2014), pages 253-254]"
 ---
