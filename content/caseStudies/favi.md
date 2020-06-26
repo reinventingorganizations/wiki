@@ -307,4 +307,43 @@ theory:
 
 
       The budget is not used to track mostly performance: there is no monthly comparison of actuals vs budget. Teams simply track their monthly numbers and if the numbers are unsatisfactory (as compared to the previous month or year, or to some ratio) they discuss corrective action. In its management manifesto, FAVI captures the thinking about budgets in a provocative statement; “*In the new way of thinking, we aim to make money without knowing how we do it, as opposed to the old way of losing money knowing exactly how we lose it*.” FAVI is privately owned and doesn’t need to report to outside shareholders.
+  - topic: Crisis Management
+    title: CEO of FAVI, Jean-Francois Zobrist asks everyone on the shop floor for
+      help in the wake of the first Gulf War.
+    content: "It was a common occurrence, that when faced with difficult and
+      critical decisions at FAVI, Zobrist would readily admit he needed help to
+      find a good answer. On impulse, he would go around the shop floor and ask
+      everyone to stop machines, and he would climb on a soapbox and share the
+      problem with all the employees, trying to figure the course of action. The
+      first major crisis under his leadership occurred in 1990 when car orders
+      plummeted in the wake of the first Gulf War. Stocks were piling up, and
+      there simply wasn't enough work to keep workers busy. Capacity and costs
+      needed to be reduced.\r
+
+      \r
+
+      There was one obvious solution: fire the temp workers. But at FAVI,
+      no one was really considered a temp worker. For reasons related to labor
+      laws in France, new recruits were hired as temp workers for 18 months
+      before they were offered a full contract. Most of them were already
+      considered full members of their teams. By firing the temps, FAVI would
+      rescind its moral commitment to them, and it would lose talent it had
+      invested in, with a recovery perhaps only a few months away. With many
+      questions and no clear answers, Zobrist found himself on the soapbox and
+      shared his dilemma with all employees in that shift (including the temp
+      workers whose fate was being discussed). People in the audience shouted
+      questions and proposals. One worker said, \"This month, why don't we all
+      work only three weeks and get three weeks' pay, and we keep the temp
+      workers? If we need to we will do the same thing next month as well.\"
+      Heads nodded, and the proposal was put to a vote.\r
+
+      \r
+
+      To Zobrist's surprise, there was unanimous agreement. Workers had
+      just agreed to a temporary 25 percent salary cut. In less than an hour,
+      the problem was solved and machine noise reverberated around the factory
+      again. Zobrist’s ability to keep his fear in check paved the way for a
+      radically more productive and empowering approach and showed that it is
+      possible to confront employees with a harsh problem and let them
+      self-organize their way out of it."
 ---
