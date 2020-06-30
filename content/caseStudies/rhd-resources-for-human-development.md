@@ -183,4 +183,25 @@ theory:
       1. All people are of equal human worth.
       2. People are essentially good, unless proven otherwise.
       3. There is no single way to manage corporate issues well.
+  - topic: wholeness
+    title: An organizational Bill of Rights
+    content: >-
+      RHD has developed over the years a beautiful and precisely worded Bill of
+      Rights and Responsibilities for Employees and Consumers. The first two
+      articles spell out RHD’s objective of creating a safe environment and
+      constructively managing conflict and anger. (Later articles deal with
+      topics related to self-management.) The premise is maintained that
+      conflict is inevitable, but that hostile behaviors are not:
+
+
+      *This corporation has chosen to operate with several basic assumptions. One of those assumptions is that there are multiple “right” ways or paths we can follow in making decisions, thus there is no one “true” or “absolute” reality. Each person in a situation holds his/ her own view of reality, and his/ her own perspective about the most effective way to do things. This assumption allows us to recognize that conflict is inevitable and that people will disagree in the workplace. While conflict and difference (or disagreement) are to be expected, explosive or otherwise hostile expressions of anger are not acceptable in RHD. As a member of the RHD community, it is important to be able to do two things: a) Separate from our own need to be “right” in order to hear and respect others’ realities and perspectives: and, b) Differentiate between thoughts (what’s going on inside your head) and behaviors (what you do or say).^\[Robert Fishman and Barbara Fishman, The Common Good Corporation: The Experiment Has Worked! (Philadelphia: The Journey to Oz Press, 2006), 165.]*
+
+
+      The document goes on to spell out in detail five unacceptable expressions of hostility. The first, demeaning speech and behavior, is described in the following terms:
+
+
+      *Demeaning speech and behavior involves any verbal or nonverbal behavior that someone experiences as undermining of that person’s self-esteem and implies that he/she is less than worthy as a human being. Such behaviors include, but are not limited to, name-calling, ridicule, sarcasm, or other actions which “put down” people. Demeaning a person with such physical behaviors as rolling one’s eyes when the person speaks or otherwise negating her importance as a member of the community is also unacceptable. Anyone encountering such hostile behavior has the right and responsibility to surface it as an issue.^\[Robert Fishman and Barbara Fishman, The Common Good Corporation: The Experiment Has Worked! (Philadelphia: The Journey to Oz Press, 2006), 165.]*
+
+
+      Other expressions of hostility ”negative triangulated messages,” “threat of abandonment,” “disconfirming the other person’s reality,” and “intimidation/explosion” are defined in an equally precise manner.^[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3332-3349). Nelson Parker. Kindle Edition.]
 ---
