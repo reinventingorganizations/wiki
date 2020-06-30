@@ -315,5 +315,11 @@ faq:
       to avoid a narrow fixation on profits. From a Teal perspective, a wider
       perspective already exists. Purpose, integrity and wholeness should
       transcend the primacy of profits.  "
+relatedTheory:
+  - Self-Management
+  - Evolutionary Purpose
+  - Conflict resolution
+  - Meetings
+  - Organizational Structure
 ---
 to be removed
