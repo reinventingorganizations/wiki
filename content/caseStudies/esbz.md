@@ -69,4 +69,23 @@ theory:
       class gets together at a fixed time each week to discuss and deal with
       tensions in the group. The meeting is facilitated by a student who
       enforces a number of ground rules that keep the discussion safe.
+  - topic: wholeness
+    title: The "Praise Meeting"
+    content: "[ESBZ ](http://www.ev-schule-zentrum.de/aktuell/)has an extraordinary
+      trust and community-building practice based around storytelling: the
+      “praise meeting.” Every Friday afternoon, the entire school— students,
+      teachers, and staff— comes together for an hour in a large hall. They
+      always start by singing a song together, to settle into community. All the
+      rest of the time together is unscripted. There is an open microphone on
+      stage, with a simple rule: we are here to praise and thank each other. For
+      the next 50 minutes, students and teachers who feel called to do so stand
+      up, walk up on stage, take the microphone, and praise or thank another
+      student or teacher for something they did or said earlier in the week;
+      then they go sit down again and someone else takes the stage. Every person
+      at the microphone shares what is essentially a miniature story that
+      reveals something about two people— the storyteller and the person being
+      praised or thanked— in their struggles and in their glories.[Laloux,
+      Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating
+      Organizations Inspired by the Next Stage of Human Consciousness (Kindle
+      Locations 3517-3524). Nelson Parker. Kindle Edition.]"
 ---
