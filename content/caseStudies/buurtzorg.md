@@ -433,4 +433,26 @@ theory:
       Reinventing Organizations: A Guide to Creating Organizations Inspired by
       the Next Stage of Human Consciousness (Kindle Locations 1498-1505). Nelson
       Parker. Kindle Edition.]"
+  - topic: Decision Making
+    title: Buurtzorg has found an effective way for making decisions that affect
+      large numbers of people.
+    content: >-
+      [Buurtzorg ](http://www.buurtzorgnederland.com/)uses social media (as
+      mentioned above) in a powerful and way to support the advice process.  For
+      example, if all 9,000 employees must be consulted, Jos de Blok, the
+      founder, posts his suggestions on-line. He posts regularly, from the
+      heart, without PR polish (there is no communications department at
+      Buurtzorg), often at 10pm at night from his home.
+
+
+      Given the respect he enjoys, his posts are widely read. Typically, 24 hours later, a majority of nurses will have read the post. Within hours, these posts evoke dozens, sometimes hundreds, of comments. 
+
+
+      This can make for fast decision-making. If the comments signal agreement, it is made within hours. If debate ensues, the proposal is amended and floated again. Or a workgroup is set up to refine it.
+
+
+      This kind of leadership by blog post requires a degree of trust, candor and vulnerability that few CEOs in would feel comfortable with. Once a post is published, there is no going back. Critical comments and rebukes are for all to see; they cannot be erased and cannot be ignored. And what the organization does with the post is beyond the CEO’s control.
+
+
+      What seems risky when looked at through a traditional lens is wonderfully efficient from a Teal perspective. A post made from the comfort of a sofa at home can be a decision by next afternoon, endorsed by thousands of people in the organization. An idea or concern about where the industry is going? Write a short post, and you get to know how the organization reacts. If people disagree with your thought, you have lost 15 minutes of your time … but gained a new insight into what the organization thinks. When we think of how decision-making happens in large organizations today (the PowerPoint decks that need to be written, the lengthy steering committee and executive meetings where decisions get debated, followed by top-down communications where every word is weighted), we can only marvel at the efficiency of leadership and decision making within Buurtzorg.
 ---
