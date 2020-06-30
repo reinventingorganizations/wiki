@@ -412,4 +412,25 @@ theory:
       funds).\r
 
       \r\n"
+  - title: A vast organization run almost entirely with small, independent teams
+    topic: Self-Management
+    content: "Within Buurtzorg (which means “neighborhood care” in Dutch), nurses
+      work in teams of 10 to 12, with each team serving around 50 patients in a
+      small, well-defined neighborhood. The team is in charge of all the tasks
+      that were previously fragmented across different departments. They are
+      responsible not only for providing care, but for deciding how many and
+      which patients to serve. They do the intake, the planning, the vacation
+      and holiday scheduling, and the administration. They decide where to rent
+      an office and how to decorate it. They determine how best to integrate
+      with the local community, which doctors and pharmacies to reach out to,
+      and how to best work with local hospitals. They decide when they meet and
+      how they will distribute tasks among themselves, and they make up their
+      individual and team training plans. They decide if they need to expand the
+      team or split it in two if there are more patients than they can keep up
+      with, and they monitor their own performance and decide on corrective
+      action if productivity drops. There is no leader within the team;
+      important decisions are made collectively.^[Laloux, Frederic (2014-02-09).
+      Reinventing Organizations: A Guide to Creating Organizations Inspired by
+      the Next Stage of Human Consciousness (Kindle Locations 1498-1505). Nelson
+      Parker. Kindle Edition.]"
 ---
