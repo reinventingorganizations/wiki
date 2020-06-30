@@ -136,4 +136,29 @@ theory:
       growing the long-term value of the business through careful planning and
       re-investing our profits into innovation and
       growth.”^[<http://www.soundstrue.com/store/about-us/core-values>]"
+  - topic: wholeness
+    content: >-
+      In the early days, Tami Simon, the founder and CEO of
+      <http://www.soundstrue.com> Sounds True, brought her dog along to the
+      office. When the business expanded and employees were hired, it didn’t
+      take long for some of them to ask if they too could bring their dogs to
+      work. Tami couldn’t think of a reason to refuse. Today it is not rare for
+      a meeting to take place with two or three dogs lying at people’s feet.
+      Something special happens within the presence of dogs, colleagues noticed.
+      Animals tend to ground us, to bring out the better sides of our nature.
+      The simple practice of petting a dog tends to soothe us, to reconnect us
+      to our body, and to calm down our spinning minds. And when it’s a
+      colleague’s dog we pet, or a colleague that pets ours, we subtly build
+      community. People found that the decision to open the company’s doors
+      didn’t only allow in dogs, but more human life as well.^\[Laloux, Frederic
+      (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations
+      Inspired by the Next Stage of Human Consciousness (Kindle Locations
+      3182-3190). Nelson Parker. Kindle Edition.]
+
+
+      A number of years ago, a colleague at Sounds True took it upon herself to organize an “Art Salon” on a Friday afternoon. Everyone was invited to share some artistic passion with his or her colleagues. Walls throughout the office were filled with photographs and paintings. A small stage was erected for people to perform. Some colleagues chose to sing (some songs composed about life in the company were particular hits), others juggled or danced tango. People enjoyed themselves so much that the salon has turned into an annual event. Tami wasn’t involved in setting up the first salon, but she sees that it has become an important element in the company culture:
+
+
+      *I realized these events are saying to people, “You get to be a whole person. This part of you, it may not fit to do it as part of your job every day. … But the fact that you can now juggle five balls is actually cool. And on a Friday afternoon, we want to sit back and have a glass of wine and watch you do this and acknowledge this part of you.” That is part of what I think makes people feel \[that that] the wholeness of who they are is actually welcome. Because we do welcome it, we want to see it.*^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3544-3553). Nelson Parker. Kindle Edition.]
+    title: Dogs and Art Salons
 ---
