@@ -49,7 +49,7 @@ inPractice: >-
   #### No job descriptions or job titles
 
 
-  There are typically no job descriptions or job titles in Teal organizations. Rather each individual has a number of roles that he/she has agreed to and committed to fulfill. When someone senses an issue or an opportunity that calls for a new role, someone simply steps forward and offers to take on that role. See also Job Titles and Job Descriptions and Role Definition and Allocation.
+  There are typically no job descriptions or job titles in Teal organizations. Rather each individual has a number of roles that he/she has agreed to and committed to fulfill. When someone senses an issue or an opportunity that calls for a new role, someone simply steps forward and offers to take on that role. See also [Job Titles and Job Descriptions](../job-titles-and-job-descriptions/) and [Role Definition and Allocation](../role-definition-and-allocation/).
 
 
   #### Distributed decision-making
@@ -61,13 +61,13 @@ inPractice: >-
   #### Open Information flow
 
 
-  Everybody is given access to all information at the same time. See also Information Flow.
+  Everybody is given access to all information at the same time. See also [Information Flow](../information-flow/).
 
 
   #### Conflict resolution
 
 
-  Disagreements are resolved among peers using a well defined conflict resolution process. Peers hold each other accountable for their mutual commitments. See also Conflict Resolution.
+  Disagreements are resolved among peers using a well defined conflict resolution process. Peers hold each other accountable for their mutual commitments. See also [Conflict Resolution](../conflict-resolution/).
 faq:
   - question: Is there any evidence this actually works?
     answer: >-
@@ -118,4 +118,4 @@ faq:
 
       *Morning Star is a collection of naturally dynamic hierarchies. There isn’t one formal hierarchy; there are many informal ones. On any issue some colleagues will have a bigger say than others will, depending on their expertise and willingness to help. These are hierarchies of influence, not position, and they’re built from the bottom up. At Morning Star one accumulates authority by demonstrating expertise, helping peers, and adding value. Stop doing those things, and your influence wanes— as will your pay.*^\[Gary Hamel, “First, Let’s Fire All the Managers,” Harvard Business Review, December 2011, http:// hbr.org/ 2011/ 12/ first-lets-fire-all-the-managers, accessed April 11, 2012.]
 ---
-test
+remove
