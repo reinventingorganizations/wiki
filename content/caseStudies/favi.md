@@ -374,4 +374,18 @@ theory:
       * There is no performance without happiness. To be happy, we need to be responsible. To be responsible, we must understand why and for whom we work, and be free to decide how.
 
       * Value is created on the shop floor. Shop floor operators craft the products, the CEO and staff at best serve to support them. At worst, they are costly distractions.
+  - topic: Self-Management
+    title: A competitive global supplier run without middle management
+    content: "FAVI’s factory has more than 500 employees that are organized in 21
+      teams called “mini-factories” of 15 to 35 people. Most of the teams are
+      dedicated to a specific customer or customer type (the Volkswagen team,
+      the Audi team, the Volvo team, the water meter team, and so forth). There
+      are a few upstream production teams (the foundry team, the mold repair
+      team, maintenance), and support teams (engineering, quality, lab,
+      administration, and sales support). Each team self-organizes; there is no
+      middle management, and there are virtually no rules or procedures other
+      than those that the teams decide upon themselves.^[Laloux, Frederic
+      (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations
+      Inspired by the Next Stage of Human Consciousness (Kindle Locations
+      1704-1708). Nelson Parker. Kindle Edition.]"
 ---
