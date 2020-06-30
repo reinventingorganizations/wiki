@@ -55,7 +55,7 @@ inPractice: >-
   #### Distributed decision-making
 
 
-  Decision-making is highly distributed. Decisions do not need to be validated by the hierarchy nor by consensus of the community. Any person can make any decision after seeking advice from 1) everyone who will be meaningfully affected, and 2) people with expertise in the matter. See also Decision Making.
+  Decision-making is highly distributed. Decisions do not need to be validated by the hierarchy nor by consensus of the community. Any person can make any decision after seeking advice from 1) everyone who will be meaningfully affected, and 2) people with expertise in the matter. See also [Decision Making](../decision-making/).
 
 
   #### Open Information flow
