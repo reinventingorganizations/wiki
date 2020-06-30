@@ -458,14 +458,14 @@ theory:
   - topic: Decision Making
     title: Buurtzorg uses a formal when decisions are made within a team
     content: >-
-      Buurtzorg's employees work in 750+ teams of 10-12 people. These teams are
-      largely autonomous. Many decisions (say how the night shifts are handled,
-      if there is room to accept more clients, etc.) affect the whole team, but
-      no one else. Then, it makes sense for the advice process to take place
-      within a team meeting. Buurtzorg uses a specific method for decisions
-      called “Solution-Driven Methods of Interaction" developed by Ben Wenting
-      and Astrid Vermeer of the Instituut voor Samenwerkingsvraagstukken in the
-      Netherlands.
+      [Buurtzorg's ](http://www.buurtzorgnederland.com/)employees work in 750+
+      teams of 10-12 people. These teams are largely autonomous. Many decisions
+      (say how the night shifts are handled, if there is room to accept more
+      clients, etc.) affect the whole team, but no one else. Then, it makes
+      sense for the advice process to take place within a team meeting.
+      Buurtzorg uses a specific method for decisions called “Solution-Driven
+      Methods of Interaction" developed by Ben Wenting and Astrid Vermeer of the
+      Instituut voor Samenwerkingsvraagstukken in the Netherlands.
 
 
       * The group chooses a facilitator for the meeting.
