@@ -274,4 +274,15 @@ theory:
       extraordinary, but perhaps Chris would argue, essential to its
       success.[Laloux, Frederic. Reinventing Organizations. Nelson Parker
       (2014), page 289].\r"
+  - topic: Decision Making
+    title: "Morning Star uses the advice process. Here is an example: it was used
+      when a new strategy was proposed that would affect all employees. "
+    content: A few years ago, before the advent of internal social networks, Chris
+      Rufer, the founder, owner and CEO of [Morning
+      Star](http://www.morningstarco.com/), felt the need for a new strategic
+      direction at Morning Star. He wrote a memo that he sent to all colleagues,
+      with an invitation to a company-wide meeting (the different locations
+      joined by videoconference). He shared his idea, and the reasons for it. He
+      asked everyone to contact him personally after the meeting with any
+      questions, concerns, comments, and advice on his plans.
 ---
