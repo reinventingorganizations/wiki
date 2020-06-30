@@ -455,4 +455,24 @@ theory:
 
 
       What seems risky when looked at through a traditional lens is wonderfully efficient from a Teal perspective. A post made from the comfort of a sofa at home can be a decision by next afternoon, endorsed by thousands of people in the organization. An idea or concern about where the industry is going? Write a short post, and you get to know how the organization reacts. If people disagree with your thought, you have lost 15 minutes of your time … but gained a new insight into what the organization thinks. When we think of how decision-making happens in large organizations today (the PowerPoint decks that need to be written, the lengthy steering committee and executive meetings where decisions get debated, followed by top-down communications where every word is weighted), we can only marvel at the efficiency of leadership and decision making within Buurtzorg.
+  - topic: Decision Making
+    title: Buurtzorg uses a formal when decisions are made within a team
+    content: >-
+      Buurtzorg's employees work in 750+ teams of 10-12 people. These teams are
+      largely autonomous. Many decisions (say how the night shifts are handled,
+      if there is room to accept more clients, etc.) affect the whole team, but
+      no one else. Then, it makes sense for the advice process to take place
+      within a team meeting. Buurtzorg uses a specific method for decisions
+      called “Solution-Driven Methods of Interaction" developed by Ben Wenting
+      and Astrid Vermeer of the Instituut voor Samenwerkingsvraagstukken in the
+      Netherlands.
+
+
+      * The group chooses a facilitator for the meeting.
+
+      * The agenda of topics is put together on the spot. The facilitator can only ask questions: “What is your proposal?” or “What is the rationale for your proposal?” All proposals are listed on a flipchart.
+
+      * Topics are then addressed one by one. In the first round, proposals are reviewed, and refined.
+
+      * In a second, proposals are put to group decision based on a consent (not consensus). For a solution to be adopted, it is enough that nobody has a principled objection. If there are none, the solution will be adopted, with the understanding that it can be revisited at any time when new information is available.
 ---
