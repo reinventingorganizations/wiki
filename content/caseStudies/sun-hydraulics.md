@@ -162,4 +162,23 @@ theory:
       being busy\".^[Laloux, Frederic (2014-02-09). Reinventing Organizations: A
       Guide to Creating Organizations Inspired by the Next Stage of Human
       Consciousness (Kindle Location 1927). Nelson Parker. Kindle Edition.]"
+  - topic: Self-Management
+    title: A global, engineering company run largely without hierarchy or central
+      control
+    content: "[Sun Hydraulics](http://www.sunhydraulics.com/) is a global producer
+      of hydraulic cartridge valves and manifolds with hundreds of engineering
+      projects running in parallel. Despite this, there is no master plan. There
+      are no project charters and no one bothers with staffing people on
+      projects. Project teams form organically and disband again when work is
+      done. Nobody knows if projects are on time or on budget, because for 90
+      percent of the projects, no one cares to put a timeline on paper or to
+      establish a budget. A huge amount of time is freed by dropping all the
+      formalities of project planning - writing the plan, getting approval,
+      reporting on progress, explaining variations, rescheduling, and
+      re-estimating, not to mention the politics that go into securing resources
+      for one's project or to find someone to blame when projects are over time
+      or over budget. According to one of Sun's leaders, \"We don't waste time
+      being busy\".^[Laloux, Frederic (2014-02-09). Reinventing Organizations: A
+      Guide to Creating Organizations Inspired by the Next Stage of Human
+      Consciousness (Kindle Location 1927). Nelson Parker. Kindle Edition.]"
 ---
