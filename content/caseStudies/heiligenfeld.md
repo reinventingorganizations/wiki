@@ -91,4 +91,58 @@ theory:
       Organizations: A Guide to Creating Organizations Inspired by the Next
       Stage of Human Consciousness (Kindle Locations 4460-4463). Nelson Parker.
       Kindle Edition.]"
+  - topic: wholeness
+    title: Company-wide reflection
+    content: "Among the great number of innovative management practices Heiligenfeld
+      has introduced over the years, employees often credit one practice in
+      particular for making the company an outstanding workplace. Every Tuesday
+      morning, 350 or so employees come together for an hour and a quarter to
+      engage in joint reflection (as many as don’t need to be with patients and
+      as the size of the room will allow). Each week, a new topic that is
+      relevant at the moment and conducive to self-reflection is put on the
+      agenda - subjects as diverse as conflict resolution, dealing with failure,
+      company values, interpersonal communication, bureaucracy, IT innovations,
+      risk management, personal health, and mindfulness.\r
+
+      \r
+
+      The meeting always kicks off with a short presentation to frame the
+      subject matter. But the heart of the meeting happens in small groups
+      engaged in self-reflection. Let’s take the example of the topic “dealing
+      with failure” to illustrate how this event plays out at Heiligenfeld. The
+      short plenary presentation introduces ways to deal gracefully with
+      failure— how new possibilities open up when we stop being judgmental about
+      our failures; how from a higher place of consciousness we can view failure
+      as life’s invitation to expand our skills and awareness and grow into more
+      of who we are.\r
+
+      \r
+
+      After this short introduction, people shuffle their chairs around to
+      create groups of six to ten people. In the groups, people are asked to
+      reflect on the topic— how they deal with failure in their lives, at work
+      and at home, individually and collectively. Every group elects a
+      facilitator who enforces a few ground rules to create a space where it’s
+      safe to explore, to be authentic and vulnerable. In the confines of the
+      small group, helped by their colleagues’ listening, people dare to dig
+      deep and gain new insights about themselves and others. At some point, a
+      microphone goes around the room and people who feel inclined to do so
+      share what came up for them in the discussion. There is no scripted
+      outcome to these meetings, no expected end product; everyone comes out of
+      the meeting with his or her own personal learning. Often, collective
+      insights emerge, as well as decisions and initiatives that are then
+      carried out when people go back to work.\r
+
+      \r
+
+      It’s a time-consuming practice for sure - 75 minutes every week for
+      more than half of the company. But people at Heiligenfeld say the benefits
+      far outweigh the costs. These large group meetings are like a company-wide
+      training program on steroids; the whole organization grows its way through
+      one topic after another, week after week.[Laloux, Frederic (2014-02-09).
+      Reinventing Organizations: A Guide to Creating Organizations Inspired by
+      the Next Stage of Human Consciousness (Kindle Locations 3409-3430). Nelson
+      Parker. Kindle Edition.]\r
+
+      \r\n"
 ---
