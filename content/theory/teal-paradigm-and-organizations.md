@@ -189,7 +189,7 @@ intro: >-
   Teal organizations are run by self-managing teams. These teams consists of workers who each fulfill certain roles, including functional and managerial duties. All decisions are made using a simple advice process and/or a conflict resolution process when appropriate. There is no centralized control. Values are no longer given perfunctory attention but are actually lived in how people behave in the organization. Everyone listens to the organization’s purpose and takes action accordingly while sensing for changes in the environment. Out of these collective actions, the behavior of the organization emerges.
 
 
-  Please leave your feedback regarding the usefulness of the wiki, in order for the voluntary team to improve it over time!
+  **Please [leave your feedback](https://docs.google.com/forms/d/e/1FAIpQLSeKJ9e_35o57wtjr5F2NrlptK1ULTCawjJqSqOxNdvQ1lWFzA/viewform?c=0&w=1) regarding the usefulness of the wiki, in order for the voluntary team to improve it over time!**
 perspective: remove
 inPractice: remove
 ---
