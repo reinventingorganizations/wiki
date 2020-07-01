@@ -23,7 +23,7 @@ perspective: >-
   #### Red organizations
 
 
-  In the [Red paradigm](red-organizations), decisions of any consequence are made by the boss/chief. Employees must seek his or her approval, or risk severe consequences. Red organizations can be efficient, but control, exercised through fear, limits the willingness of members to make independent decisions.
+  In the Red paradigm, decisions of any consequence are made by the boss/chief. Employees must seek his or her approval, or risk severe consequences. Red organizations can be efficient, but control, exercised through fear, limits the willingness of members to make independent decisions.
 
 
   #### Amber organizations
