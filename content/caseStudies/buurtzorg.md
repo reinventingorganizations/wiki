@@ -475,4 +475,26 @@ theory:
       * Topics are then addressed one by one. In the first round, proposals are reviewed, and refined.
 
       * In a second, proposals are put to group decision based on a consent (not consensus). For a solution to be adopted, it is enough that nobody has a principled objection. If there are none, the solution will be adopted, with the understanding that it can be revisited at any time when new information is available.
+  - topic: Evolutionary Purpose
+    title: help sick and elderly patients live a more autonomous and meaningful life
+    content: "For Buurtzorg, its purpose— to help sick and elderly patients live a
+      more autonomous and meaningful life— is paramount, so much so that Jos de
+      Blok, its founder, has documented and published Buurtzorg’s revolutionary
+      ways of operating in great detail, to invite competition to imitate him.
+      He accepts all invitations from competitors to explain his methods. He and
+      a colleague are deeply involved as advisors to ZorgAccent, a direct
+      competitor, and don’t ask to be compensated for it. From an Orange
+      perspective, this attitude makes no sense. Buurtzorg’s breakthrough
+      organizational innovations are its equivalent to Coca-Cola’s secret
+      formula: a competitive advantage that should be locked up in a vault. But
+      from an Evolutionary-Teal perspective, the defining purpose is not
+      Buurtzorg’s market share or Jos de Blok’s personal success. What matters
+      is patients living a healthy, autonomous and meaningful life. De Blok
+      says, “In my perspective, the whole notion of competition is idiotic. It
+      really makes no sense. You try to figure out how you can best organize
+      things to provide the best care. If you then share the knowledge and the
+      information, things will change more quickly”.^[Laloux, Frederic
+      (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations
+      Inspired by the Next Stage of Human Consciousness (Kindle Locations
+      4215-4224). Nelson Parker. Kindle Edition.]"
 ---
