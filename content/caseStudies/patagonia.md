@@ -156,67 +156,25 @@ theory:
       Inspired by the Next Stage of Human Consciousness (Kindle Locations
       3191-3196). Nelson Parker. Kindle Edition.]"
   - topic: Evolutionary Purpose
-    content: "Yvon Chouinard, the founder and owner of Patagonia, didn’t set out to
+    content: >-
+      Yvon Chouinard, the founder and owner of Patagonia, didn’t set out to
       create a business at all, initially. Probably one of the people most
       unlikely to become a business founder, he stumbled on the purpose that
-      would turn into a $540 million company employing 1,350 people.\r
+      would turn into a $540 million company employing 1,350 people.
 
-      \r
 
-      As a kid, he spent every free minute outdoors— rock-climbing,
-      diving, and training hawks for hunting. A misfit in school, Chouinard
-      remembers that the classroom was mostly “an opportunity for me to practice
-      holding my breath, so that on weekends I could free-dive deeper to catch
-      the abundant abalone and lobster off the Malibu coast.” When he left
-      school, he lived with no income, finding shelter in shacks on the beach or
-      near the mountains, hopping on freight trains in pursuit of the next climb
-      or dive. In 1957, he bought a used coal-fired forge from a junkyard and
-      taught himself blacksmithing to make his own climbing pitons. When a few
-      friends asked him to produce pitons for them, he found a way to sustain
-      his simple lifestyle. For years, he would fabricate pitons in the winter
-      months, making just enough money to spend April to July on the walls of
-      Yosemite, devote the summer to the mountains of Wyoming, and then go back
-      to Yosemite in the fall until snow fell in November. He wouldn’t have been
-      considered a businessman by anybody, least of all himself. Now, as the
-      owner of a multimillion-dollar company, he has turned into one, but he
-      hasn’t lost sight of the lights and shadows of the profession:\r
+      As a kid, he spent every free minute outdoors— rock-climbing, diving, and training hawks for hunting. A misfit in school, Chouinard remembers that the classroom was mostly “an opportunity for me to practice holding my breath, so that on weekends I could free-dive deeper to catch the abundant abalone and lobster off the Malibu coast.” When he left school, he lived with no income, finding shelter in shacks on the beach or near the mountains, hopping on freight trains in pursuit of the next climb or dive. In 1957, he bought a used coal-fired forge from a junkyard and taught himself blacksmithing to make his own climbing pitons. When a few friends asked him to produce pitons for them, he found a way to sustain his simple lifestyle. For years, he would fabricate pitons in the winter months, making just enough money to spend April to July on the walls of Yosemite, devote the summer to the mountains of Wyoming, and then go back to Yosemite in the fall until snow fell in November. He wouldn’t have been considered a businessman by anybody, least of all himself. Now, as the owner of a multimillion-dollar company, he has turned into one, but he hasn’t lost sight of the lights and shadows of the profession:
 
-      \r
 
-      \"I’ve been a businessman for almost fifty years. It’s as difficult
-      for me to say those words as it is for someone to admit to being an
-      alcoholic or a lawyer. I’ve never respected the profession. It’s business
-      that has to take the majority of the blame for being the enemy of nature,
-      for destroying native cultures, for taking from the poor and giving to the
-      rich, and poisoning the earth with the effluent from its factories. Yet
-      business can produce food, cure disease, control population, employ
-      people, and generally enrich our lives. And it can do these good things
-      and make a profit without losing its soul.\"^[Yvon Chouinard, Let My
-      People Go Surfing, p. 3.]\r
+      > "I’ve been a businessman for almost fifty years. It’s as difficult for me to say those words as it is for someone to admit to being an alcoholic or a lawyer. I’ve never respected the profession. It’s business that has to take the majority of the blame for being the enemy of nature, for destroying native cultures, for taking from the poor and giving to the rich, and poisoning the earth with the effluent from its factories. Yet business can produce food, cure disease, control population, employ people, and generally enrich our lives. And it can do these good things and make a profit without losing its soul."^\[Yvon Chouinard, Let My People Go Surfing, p. 3.]
 
-      Chouinard’s defining experience as a businessman came as he climbed
-      up a mountain in 1970.\r
 
-      \r
+      Chouinard’s defining experience as a businessman came as he climbed up a mountain in 1970.
 
-      \"After an ascent of the Nose route on El Capitan, which had been
-      pristine a few summers earlier, I came home disgusted with the degradation
-      I had seen. The repeated hammering of hard steel pitons, during both
-      placement and removal in the same fragile cracks, were severely
-      disfiguring the rock. Frost [his friend and partner in the forge] and I
-      decided we would phase out the piton business. … Pitons were the mainstay
-      of our business, but we were destroying the very rocks we loved.\"^[Yvon
-      Chouinard, Let My People Go Surfing, p. 31.]\r
 
-      Chouinard and Frost found an alternative to hard steel pitons:
-      aluminum chocks that can be wedged by hand and leave the rock unaltered.
-      Two years later, Chouinard edited his first product catalog, and within a
-      few months, the piton business was done; chocks sold faster than they
-      could be made. Yvon Chouinard stumbled upon a need of the climbing world
-      when he found a way for the activity he and others loved not to create
-      environmental damage.^[Laloux, Frederic (2014-02-09). Reinventing
-      Organizations: A Guide to Creating Organizations Inspired by the Next
-      Stage of Human Consciousness (Kindle Locations 4267-4295). Nelson Parker.
-      Kindle Edition]"
+      > "After an ascent of the Nose route on El Capitan, which had been pristine a few summers earlier, I came home disgusted with the degradation I had seen. The repeated hammering of hard steel pitons, during both placement and removal in the same fragile cracks, were severely disfiguring the rock. Frost \[his friend and partner in the forge] and I decided we would phase out the piton business. … Pitons were the mainstay of our business, but we were destroying the very rocks we loved."^\[Yvon Chouinard, Let My People Go Surfing, p. 31.]
+
+
+      Chouinard and Frost found an alternative to hard steel pitons: aluminum chocks that can be wedged by hand and leave the rock unaltered. Two years later, Chouinard edited his first product catalog, and within a few months, the piton business was done; chocks sold faster than they could be made. Yvon Chouinard stumbled upon a need of the climbing world when he found a way for the activity he and others loved not to create environmental damage.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4267-4295). Nelson Parker. Kindle Edition]
     title: " Let My People Go Surfing"
 ---
