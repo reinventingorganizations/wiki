@@ -13,7 +13,7 @@ intro: >-
   packs are a good metaphor for Red organizations.
 
 
-  #### Red stage of consciousness
+  ### Red stage of consciousness
 
 
   Historically, the Red stage consciousness seems to have emerged about 10,000 years ago, bringing forth the first chiefdoms and proto-empires. The first forms of organization emerged at this time. 
@@ -25,7 +25,7 @@ intro: >-
   Role differentiation becomes viable― or in other words, there is a meaningful division of labor. There is a chief and there are foot soldiers. Slavery emerges on a large scale, now that tasks can be isolated and given to enemies from neighboring tribes that have been defeated and put into bondage. Historically, this has led to chiefdoms ruling  hundreds and even thousands of people. Red functioning can still be found in adults in many tribal societies in the world today and in underprivileged areas amidst developed societies. Every paradigm has its sweet spot, a context in which it is most appropriate. Red is highly suitable for hostile environments: combat zones, civil wars, failed states, prisons, or violent inner-city neighborhoods.
 
 
-  #### Characteristics of Red organizations
+  ### Characteristics of Red organizations
 
 
   Organizations molded in Red consciousness first appeared in the form of small conquering armies, when the more powerful chiefdoms grew into proto-empires. They can still be found today in the form of street gangs and mafias. Today’s Red Organizations borrow tools and ideas from modernity―think about organized crime’s use of weaponry and information technology. But their structures and practices are for the most part still molded in the Red paradigm.
