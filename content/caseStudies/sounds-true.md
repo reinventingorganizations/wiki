@@ -161,4 +161,17 @@ theory:
 
       *I realized these events are saying to people, “You get to be a whole person. This part of you, it may not fit to do it as part of your job every day. … But the fact that you can now juggle five balls is actually cool. And on a Friday afternoon, we want to sit back and have a glass of wine and watch you do this and acknowledge this part of you.” That is part of what I think makes people feel \[that that] the wholeness of who they are is actually welcome. Because we do welcome it, we want to see it.*^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3544-3553). Nelson Parker. Kindle Edition.]
     title: Dogs and Art Salons
+  - topic: Evolutionary Purpose
+    content: >-
+      For Tami Simon, founder of Sounds True, purpose came before business:
+
+
+      > I’m kind of a strange person in a certain way. I dropped out of college because I didn’t feel like I actually could be myself in an academic environment. … I felt that in the academic environment I was being asked to pose as somebody who had answers to questions when instead I had experiences that I wanted to explore more deeply. … I went into a deep internal process where I prayed extremely hard and the prayer had to do with being of service. … The way I was thinking as a 20-, 21-year-old college dropout was, “Could I please be given the opportunity to take the talents that I have and all the gifts that I have been given by a very supporting and loving family and terrific opportunities for higher education … and give back in some way?” … The prayer was, “God, I’m willing to do your work. Please show me what it is. Please just show me what it is.”
+
+
+      > This phrase “willing to do your work” was very important to me because I didn’t want to be willful. I didn’t want to insist that it had to go my way. At the same time I didn’t want to be will-less where I was simply waiting in a coffee shop to be discovered. …
+
+
+      > I feel like Sounds True, this business, came to me as a 21-, 22-year-old as a gift and as a kind of covenant with the universe, a kind of bond where I said, “I’ll serve you. I’ll work really hard,” and the other side of it was, “You’ll be supported, you’ll be shown, doors will open, you’ll meet the people, opportunities will happen.” It’s this sense of a cosmic agreement that … I could help distribute spiritual teachings from different wisdom traditions from around the world. And I could do it with sincerity and devotion. That was my outlook from the beginning. It was never really about me per se. I wanted to be myself, I wanted to be authentic, and I wanted to make a contribution.^[Tami Simon, interviewed by Diederick Janse and Ewan Townhead, podcast series “Waking up the Workplace,” episode “Even Sages need a Business Plan,” April 14, 2011.]
+    title: '"Purpose comes before business"'
 ---
