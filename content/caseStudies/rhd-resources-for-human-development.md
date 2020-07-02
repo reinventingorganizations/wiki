@@ -204,4 +204,10 @@ theory:
 
 
       Other expressions of hostility ”negative triangulated messages,” “threat of abandonment,” “disconfirming the other person’s reality,” and “intimidation/explosion” are defined in an equally precise manner.^[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3332-3349). Nelson Parker. Kindle Edition.]
+  - topic: Fundamental Assumptions
+    title: Three beliefs for people, workers and management.
+    content: |-
+      1. All people are of equal human worth.
+      1. People are essentially good, unless proven otherwise.
+      1. There is no single way to manage corporate issues well.
 ---
