@@ -388,4 +388,45 @@ theory:
       (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations
       Inspired by the Next Stage of Human Consciousness (Kindle Locations
       1704-1708). Nelson Parker. Kindle Edition.]"
+  - topic: Listening to Purpose
+    title: soul searching prompted by a proposed order that came out of the blue
+    content: "Early on in his tenure as CEO, Jean-François Zobrist invited all the
+      factory employees to a meeting to figure out the organization’s raison
+      d’être. The soul searching was prompted by a proposed order that came out
+      of the blue from a French car manufacturer. Could they, within a year,
+      supply not only a gear fork, but a full gearbox? This single order would
+      be larger than all of FAVI’s existing business. Many people thought it was
+      too risky. Zobrist felt the decision could not be made without inquiring
+      into the purpose of the organization. In keeping with his style, he
+      involved the whole company, in meetings with subgroups of 15 people at a
+      time on Friday afternoons. He showed up at the meeting with no agenda and
+      no process; he trusted that his colleagues would somehow self-organize in
+      these meetings, reconvening every Friday if needed, until they had
+      answered this most fundamental question: what is our purpose?\r
+
+      \r
+
+      After much discussion, when the obvious but superficial ideas had
+      been discarded, the answer emerged with clarity. FAVI has two reasons for
+      existence, two fundamental purposes: the first is to provide meaningful
+      work in the area of Hallencourt, a rural area in northern France where
+      good work is rare; the second is to give and receive love from clients.\r
+
+      \r
+
+      At FAVI, love, a word rarely heard in the world of business, has
+      taken on real meaning. Operators don’t just send products to their
+      clients, they send products into which they have put their heart. A few
+      years ago, around Christmas time, an operator at FAVI molded excess brass
+      into a few small figurines of Santa and of reindeers. He added the
+      figurines into the boxes of finished products, rather like kids put a
+      message in a bottle they throw out to sea, imagining that someone,
+      somewhere, would find it. Other operators have since picked up on the idea
+      and at random times of the year add brass figurines into their shipments,
+      as little tokens of love to their counterparts working on assembly lines
+      at Volkswagen or Volvo, who will find the figurines when they unpack the
+      boxes. ^[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide
+      to Creating Organizations Inspired by the Next Stage of Human
+      Consciousness (Kindle Locations 4363-4378). Nelson Parker. Kindle
+      Edition]."
 ---
