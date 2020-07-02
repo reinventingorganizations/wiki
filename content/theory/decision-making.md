@@ -10,11 +10,11 @@ intro: "The topic of decision-making discusses how decisions are made within
 
   \n"
 perspective: >-
-  In [Teal organizations](../teal-paradigm-and-organizations/) decision-making
-  is highly distributed. Front-line individuals or teams have the opportunity to
-  make decisions that affect their work. While these decisions may not need to
-  be validated by a hierarchy or consensus, it is expected that experts, and
-  those affected, should be involved.
+  In Teal organizations decision-making is highly distributed. Front-line
+  individuals or teams have the opportunity to make decisions that affect their
+  work. While these decisions may not need to be validated by a hierarchy or
+  consensus, it is expected that experts, and those affected, should be
+  involved.
 
 
   Every historical stage has given birth to a distinct perspective on decision making and to very different practices. In earlier periods, decisions may have been made at the top. Today, some organizations consciously try to "empower" people at the bottom. 
