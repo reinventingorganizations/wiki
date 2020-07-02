@@ -19,7 +19,7 @@ perspective: >-
   #### Red Organizations
 
 
-  Fundamental assumptions from a Red perspective are:
+  Fundamental assumptions from a [Red perspective](../red-organizations/) are:
 
 
   * The world has endless resources that can be exploited. People outside the organization/tribe can be exploited too.
@@ -42,12 +42,10 @@ perspective: >-
   (Leadership style: predatory, Metaphor: Wolf Pack)
 
 
-
-
   #### Amber Organizations
 
 
-  Fundamental assumptions from an Amber perspective are:
+  Fundamental assumptions from an [Amber perspective](../amber-paradigm-and-organizations/) are:
 
 
   * The world is (or should be) immutable, comprehensible and controllable. What worked in the past will work in the future. ***Stability (safety) and loyalty*** are essential. Change is to be viewed with suspicion. Leaving the organization is the last option.
@@ -68,7 +66,7 @@ perspective: >-
   #### Orange Organizations
 
 
-  Fundamental assumptions from an Orange perspective are:
+  Fundamental assumptions from an [Orange perspective](../orange-paradigm-and-organizations/) are:
 
 
   * The world is full of possibilities and challenges waiting to be discovered and taken up. If one is smart and works hard enough, all the benefits of high status can be had. If one does not make it, it is one's own fault.
@@ -93,7 +91,7 @@ perspective: >-
   #### Green Organizations
 
 
-  Fundamental assumptions from a Green perspective are:
+  Fundamental assumptions from a [Green perspective ](../green-paradigm-and-organizations/)are:
 
 
   * Materialistic obsession, social inequality and loss of community are bad. Relationships are more important than outcomes. What is essential is ***belonging and harmony***.
@@ -145,7 +143,7 @@ inPractice: >-
   #### Checking with the fundamental assumptions in daily processes
 
 
-  Colleagues in Teal organizations routinely check the way daily practices (meetings, conflict resolution, team / community building, decision making) are conducted – and the outcomes they generate with the values and underlying fundamental assumptions.  
+  Colleagues in Teal organizations routinely check the way daily practices ([meetings](../meetings/), [conflict resolution](../conflict-resolution/), [team / community building](../team-and-community-building/), [decision making](../decision-making/)) are conducted – and the outcomes they generate with the [values ](../culture-and-values/)and underlying fundamental assumptions.  
 
 
   #### Articulating both sets of assumptions when transforming an existing organization
@@ -194,7 +192,7 @@ inPractice: >-
 
   * Every one of us is able to handle difficult and sensitive news.
 
-  * We believe in the power of collective intelligence. Nobody is as smart as everybody. Therefore all decisions will be made with the "advice process".
+  * We believe in the power of collective intelligence. Nobody is as smart as everybody. Therefore all decisions will be made with the "[advice process](../decision-making/)".
 
 
   ##### *Responsibility and accountability*
