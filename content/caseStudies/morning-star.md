@@ -285,4 +285,9 @@ theory:
       joined by videoconference). He shared his idea, and the reasons for it. He
       asked everyone to contact him personally after the meeting with any
       questions, concerns, comments, and advice on his plans.
+  - topic: Fundamental Assumptions
+    title: Two core beliefs about workers and responsibilities.
+    content: |-
+      1. Individuals shall work with no use of force or coercion.
+      1. Individuals shall keep commitments.
 ---
