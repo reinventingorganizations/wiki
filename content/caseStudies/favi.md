@@ -429,4 +429,32 @@ theory:
       to Creating Organizations Inspired by the Next Stage of Human
       Consciousness (Kindle Locations 4363-4378). Nelson Parker. Kindle
       Edition]."
+  - topic: Fundamental Assumptions
+    title: Leader Jean François Zobrist analyzed the organization chart of the
+      traditionally run factory in the 1980's. Together with his colleagues, he
+      made explicit the underlying assumptions about men and women in the
+      organization. Then they defined three new assumptions, that over time have
+      become mantras inside the factory.
+    content: >-
+      At FAVI in the 1980's, regarding the organizational practices, men and
+      women were considered to be :
+
+
+      * **Thieves**, because everything was locked up in storage rooms.
+
+      * **Lazy**, as their working time was controlled and every late showing punished by somebody (who didn't care to inquire about the reasons for being late).
+
+      * **Not dependable**, because all their production was controlled by somebody else – who must not have been very dependable either because general control mechanisms had been put in place.
+
+      * **Not intelligent**, as a "manufacturing engineering" department did the thinking for them.
+
+
+      Here are the new assumptions :
+
+
+      * People are systematically considered to be good (reliable, self-motivated, trustworthy, intelligent).
+
+      * There is no performance without happiness. To be happy, we need to be responsible. To be responsible, we must understand why and for whom we work, and be free to decide how.
+
+      * Value is created on the shop floor. Shop floor operators craft the products, the CEO and staff at best serve to support them. At worst, they are costly distractions.
 ---
