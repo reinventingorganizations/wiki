@@ -8,12 +8,12 @@ intro: The topic of job titles and job descriptions includes the process of how
   roles and responsibilities are defined and by whom, how they evolve and how
   they are formalized within the organization.
 perspective: >-
-  In Teal organizations jobs are defined by people rather than the
-  organization.: They emerge from a multitude of roles and responsibilities that
-  reflect the interests, talents, and the needs of the organization. By focusing
-  on what needs to happen rather than jobs, Teal organizations are often more
-  adaptable and responsive increasing their capacity to operate as a living
-  system.
+  In [Teal organizations](../teal-paradigm-and-organizations) jobs are defined
+  by people rather than the organization.: They emerge from a multitude of roles
+  and responsibilities that reflect the interests, talents, and the needs of the
+  organization. By focusing on what needs to happen rather than jobs, Teal
+  organizations are often more adaptable and responsive increasing their
+  capacity to operate as a living system.
 
   Every historical stage has given birth to a distinct perspective on job titles and job descriptions, and to very different practices:
 
