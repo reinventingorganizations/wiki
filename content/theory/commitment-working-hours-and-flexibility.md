@@ -70,9 +70,10 @@ perspective: >-
 
   * There is a shared understanding that at times, individuals may need to vary their commitment to work. These situations are shared and openly discussed so that the task in hand can be completed with everyone’s support.
 inPractice: >-
-  Teal organizations start from the premise that even for routine work, people
-  have a sense of pride and want to do a good job. People are systematically
-  considered to be reliable, self-motivated, trustworthy and intelligent.
+  [Teal organizations](../teal-paradigm-and-organizations) start from the
+  premise that even for routine work, people have a sense of pride and want to
+  do a good job. People are systematically considered to be reliable,
+  self-motivated, trustworthy and intelligent.
 
 
   ##### **Commitment**
