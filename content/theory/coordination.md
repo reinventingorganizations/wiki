@@ -93,7 +93,7 @@ inPractice: >-
   #### The Advice process
 
 
-  Self-managing organizations use a decision making processes (often called the "advice process") that transcends more traditional top-down or consensus-based mechanisms. The advice process is a powerful, daily mechanism to coordinate actions in self-managing organizations. When a colleague reaches out to other colleagues to share her proposed decision and listens to their advice, she is in effect creating coordination. When she later informs colleagues about the final decision, coordination has already happened. The advice process is at the heart of coordination in Teal organizations.
+  Self-managing organizations use a [decision making](../decision-making/) processes (often called the "advice process") that transcends more traditional top-down or consensus-based mechanisms. The advice process is a powerful, daily mechanism to coordinate actions in self-managing organizations. When a colleague reaches out to other colleagues to share her proposed decision and listens to their advice, she is in effect creating coordination. When she later informs colleagues about the final decision, coordination has already happened. The advice process is at the heart of coordination in Teal organizations.
 faq:
   - question: How do these practices link with the three Teal breakthroughs?
     answer: >-
