@@ -39,7 +39,7 @@ perspective: >-
   #### Green Organisations
 
 
-  In [Green organisations](/green-paradigm-and-organizations/) coordination is often time consuming as the culture in these organisations tends to be more sensitive to people’s feelings. A lot of time is spent on bringing potentially opposing points of view to consensus. This egalitarian approach can lead to frustratingly long meetings and a lack of effective decision taking. As a result, colleagues sometimes feel the need to revert to power games behind the scenes to get things moving.
+  In [Green organisations](../green-paradigm-and-organizations/) coordination is often time consuming as the culture in these organisations tends to be more sensitive to people’s feelings. A lot of time is spent on bringing potentially opposing points of view to consensus. This egalitarian approach can lead to frustratingly long meetings and a lack of effective decision taking. As a result, colleagues sometimes feel the need to revert to power games behind the scenes to get things moving.
 inPractice: >-
   In a pyramid structure, meetings are needed at every level to gather, package,
   filter, and transmit information as it flows up and down the chain of command.
