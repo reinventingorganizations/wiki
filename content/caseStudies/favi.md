@@ -246,7 +246,7 @@ theory:
       interesting properties in electrical motors. This is now an important
       business for FAVI.^[Laloux, Frederic. Reinventing Organizations. Nelson
       Parker (2014), page 208]"
-  - topic: Strategy
+  - topic: Innovation and Product Development
     title: FAVI invents a new antiseptic copper alloy for hospitals using aesthetics
       and intuition.
     content: >-
