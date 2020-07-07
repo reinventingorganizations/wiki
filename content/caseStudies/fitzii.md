@@ -156,4 +156,14 @@ theory:
 
 
       Each coworker then receives and reviews the feedback and prepares to attend a whole-team discussion in which every person shares new insights from the feedback process, as well as actions he or she wishes to take in response.
+  - topic: board
+    title: Board meetings are transparent and use a real-time agenda.
+    content: >-
+      [Fitzii ](http://www.fitzii.com/)is owned by a [B
+      Corp](http://www.bcorporation.net/), The Ian Martin Group, whose CEO and
+      senior leaders act as an advisory board. Monthly meetings between the two
+      groups focus on surfacing conflict and seeking advice.
+
+
+      The meeting agenda is created in “real time” at the beginning of every meeting. This reduces bureaucracy and any politicking for topics that may not interest the whole group, or have urgency. Each team head and board member shares four items: what s/he is a) focused on, b) excited about, c) concerned about, and d) tasks that need immediate attention. Urgent topics, and those of broad interest, are discussed, and others deferred. Meeting notes are accessible to all Fitzii team members.
 ---
