@@ -8,19 +8,42 @@ intro: "This section reviews the role of the board as well as some of the
   practices and ways of working as a board under Teal.\r
 
   \r\n"
-perspective: "The composition of the board in a Teal organization is crucial,
-  says Frederic Laloux. He warns that, when adopting a Teal approach, “The only
-  make-or-break factors are the worldview held by the top leadership and by the
-  owners/board of the organization.”^[Laloux, Frederic. Reinventing
-  Organizations. Nelson Parker (2014), page 238]
+perspective: >-
+  The composition of the board in a Teal organization is crucial, says Frederic
+  Laloux. He warns that, when adopting a Teal approach, “The only make-or-break
+  factors are the worldview held by the top leadership and by the owners/board
+  of the organization.”^\[Laloux, Frederic. Reinventing Organizations. Nelson
+  Parker (2014), page 238]
 
-  \r
 
-  Why is this so? Because history shows that boards may well support Teal
-  practices when things are going well. But, under pressure, the support of
-  outsiders—who typically make up the board and may not have worked in a similar
-  environment before—can evaporate quickly, and under our current legal
-  structure, boards continue to have ultimate authority."
+  Why is this so? Because history shows that boards may well support Teal practices when things are going well. But, under pressure, the support of outsiders—who typically make up the board and may not have worked in a similar environment before—can evaporate quickly, and under our current legal structure, boards continue to have ultimate authority.
+
+
+  **The board’s role in earlier stage organizations can be characterized as follows:**
+
+
+  #### Red Organizations
+
+
+  In the [Red organization](../red-organizations/), while the Chief/Boss might confide in trusted colleagues or family, the real power is exercised by one person. A ‘board of oversight’ is not welcomed, nor appropriate, in these circumstances.
+
+
+  #### Amber Organizations
+
+
+  In the [Amber organization](../amber-paradigm-and-organizations/), the typical board is a small social class at the top of a rigid hierarchy. There may be formal criteria for inclusion, or a qualification process. The board plays the role of "guardian": it ensures that traditions, rules and processes are respected.
+
+
+  #### Orange Organizations
+
+
+  In the [Orange paradigm](../orange-paradigm-and-organizations/), the board exists to hold management accountable on behalf of the shareholders/owners or in the case of a non-profit on behalf of its funders, . Its focus is on targets, results, strategies, controls and succession. It is responsible for appointing and, if necessary, dismissing the CEO.
+
+
+  #### Green Organizations
+
+
+  In [Green organizations](../green-paradigm-and-organizations/), board responsibilities are similar to those in Orange but more likely to include acting as guardians of the organization’s purpose/values and of the interests of multiple stakeholders. In Green for-profit organizations, shareholders are often viewed as just one of the stakeholder groups, and individual board members can be designated to specifically represent the interest of other stakeholders, such as employees.
 inPractice: >-
   ### The board needs to adopt Teal thinking
 
@@ -59,31 +82,29 @@ faq:
     answer: >-
       1. A board might be a legal requirement, but more importantly it can act
       as a "spaceholder" and protector of Teal practices. This obviously
-      necessitates that board members share the fundamental assumptions and the
-      values underpinning Teal.
+      necessitates that board members share the [fundamental
+      assumptions](../fundamental-assumptions/) and the [values
+      ](../culture-and-values/)underpinning Teal.
 
-      1. It can add perspective, diversity and expertise on important decisions via the advice process.
+      2. It can add perspective, diversity and expertise on important decisions via the advice process.
 
-      1. It can facilitate the process of appointing a new "CEO", should the organization have a continuing need for such a role, when a transition is due.
+      3. It can facilitate the process of appointing a new "CEO", should the organization have a continuing need for such a role, when a transition is due.
 
 
       Having said this, at Morningstar, Chris Rufer, founder and 100% owner, sees no need for a board. People at Morningstar regard the company’s mission/purpose as their ultimate boss.
   - question: Who will decide whether the CEO needs to go?
-    answer: "The conflict resolution process deals with this and can be started by
-      anyone who feels that a role-holder (including that of CEO) should be
-      changed. Note that In a Teal company, the \"CEO\" role may be different.
-      The \"CEO\" is an employee with the same rights and duties as anybody
-      else.\r
+    answer: >-
+      The [conflict resolution ](../conflict-resolution/)process deals with this
+      and can be started by anyone who feels that a role-holder (including that
+      of CEO) should be changed. Note that In a Teal company, the "CEO" role may
+      be different. The "CEO" is an employee with the same rights and duties as
+      anybody else.
 
-      \r
 
-      At Favi, when Zobrist became CEO, he promised his position would be
-      submitted to a vote every 5 years.\r
+      At Favi, when Zobrist became CEO, he promised his position would be submitted to a vote every 5 years.
 
-      \r
 
-      At Buurtzorg, the board does not appoint the CEO. This comes from
-      within the organization itself."
+      At Buurtzorg, the board does not appoint the CEO. This comes from within the organization itself.
   - question: Who should be part of the board?
     answer: >-
       Suitable people who:
@@ -99,5 +120,10 @@ faq:
 
 
       * Can help connect the organization and develop relationships with its external environment.
+relatedTheory:
+  - Strategy
+  - Organizational Structure
+  - Ownership
+  - Decision Making
 ---
-Lorem ipsum Test Change - hello
+To be removed
