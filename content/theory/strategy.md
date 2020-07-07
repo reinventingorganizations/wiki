@@ -16,31 +16,31 @@ perspective: >-
   #### **Red Organizations**
 
 
-  Red organizations don't typically develop long-term goals or strategies beyond survival. The chief(s) seek short-term gains to maintain power, and to respond to threats and opportunities as they arise.
+  [Red organizations](../red-organizations/) don't typically develop long-term goals or strategies beyond survival. The chief(s) seek short-term gains to maintain power, and to respond to threats and opportunities as they arise.
 
 
   #### **Amber Organizations**
 
 
-  Amber organizations can develop strategies but do not emphasize them, as the world is viewed as relatively unchanging and predictable. The emphasis is rather on processes. To the extent strategies are developed, this is done very much at the top of the hierarchy only. Decisions are handed down to workers at the bottom, with information shared only as needed.
+  [Amber organizations](../amber-paradigm-and-organizations/) can develop strategies but do not emphasize them, as the world is viewed as relatively unchanging and predictable. The emphasis is rather on processes. To the extent strategies are developed, this is done very much at the top of the hierarchy only. Decisions are handed down to workers at the bottom, with information shared only as needed.
 
 
   #### **Orange Organizations**
 
 
-  In an Orange organization, strategy becomes much more important, as the world is viewed as increasingly dynamic. However, while the world is considered increasingly complicated, it is still viewed as predictable. Strategy is still generally a very top-down process but transitions from command and control to predict and control. In order to maintain competitive advantage, the Orange paradigm concludes that large parts of the organization must be empowered and given some room to think and execute on their own. This gave rise to management by objectives – top management formulates an overall direction and cascades down objectives and milestones to reach the desired outcome. This has resulted in familiar processes such as regular strategic planning, yearly budgeting, balanced scorecards and key performance indicators.
+  In an [Orange organization](../orange-paradigm-and-organizations/), strategy becomes much more important, as the world is viewed as increasingly dynamic. However, while the world is considered increasingly complicated, it is still viewed as predictable. Strategy is still generally a very top-down process but transitions from command and control to predict and control. In order to maintain competitive advantage, the Orange paradigm concludes that large parts of the organization must be empowered and given some room to think and execute on their own. This gave rise to management by objectives – top management formulates an overall direction and cascades down objectives and milestones to reach the desired outcome. This has resulted in familiar processes such as regular strategic planning, yearly budgeting, balanced scorecards and key performance indicators.
 
 
   #### **Green Organizations**
 
 
-  In Green organizations, the organizational structure is further decentralized: lower ranks are increasingly empowered and a key responsibility of leaders is to facilitate this empowerment. However, Green organizations typically maintain some sort of hierarchical structure with strategic direction principally coming from the top. Strategy is also now enlisted in the service of purpose, which goes beyond Orange objectives of winning and profit.
+  In [Green organizations](../green-paradigm-and-organizations/), the organizational structure is further decentralized: lower ranks are increasingly empowered and a key responsibility of leaders is to facilitate this empowerment. However, Green organizations typically maintain some sort of hierarchical structure with strategic direction principally coming from the top. Strategy is also now enlisted in the service of purpose, which goes beyond Orange objectives of winning and profit.
 
 
   #### **Teal Organizations**
 
 
-  In Teal organizations, power is diffused. Self-management replaces the hierarchy. Strategic thinking can come from anywhere, not just the top. Team members can offer advice, suggest initiatives, recommend change--as long as they consult with interested parties along the way. The use of the 'advice process' is the crucial enabling ingredient. Strategy is also inextricably linked to purpose, and conventional strategic planning is replaced by “listening to purpose”.
+  In [Teal organizations](../teal-paradigm-and-organizations/), power is diffused. Self-management replaces the hierarchy. Strategic thinking can come from anywhere, not just the top. Team members can offer advice, suggest initiatives, recommend change--as long as they consult with interested parties along the way. The use of the 'advice process' is the crucial enabling ingredient. Strategy is also inextricably linked to purpose, and conventional strategic planning is replaced by “listening to purpose”.
 inPractice: >-
   #### **Strategy as an organic process**
 
@@ -110,5 +110,8 @@ faq:
       *While Holacracy’s approach to strategy resists relying on predictions, that’s not to say all forward-looking projections and anticipatory thinking are useless. In this regard, it’s helpful to understand the difference between a prediction and a projection. “Predict” comes from the Latin præ-, “before,” and dicere, “to say”— thus it literally means “to say before,” or “to foretell, prophesize.” “Project,” on the other hand, is from the Latin pro-, “forward,” and jacere, “to throw”— thus, “to throw forth.” In order to throw forth, you must be firmly grounded in the place you are starting from: the present reality. Getting real data and “throwing it forth” to get a sense of where events are headed is often useful to better understand your context, and it is different than “foretelling and prophesizing” where reality will be in the future.*^[Robertson, Brian J. (2015-06-02). Holacracy: The New Management System for a Rapidly Changing World (Kindle Locations 1834-1842). Henry Holt and Co.. Kindle Edition.]
 relatedTheory:
   - Listening to Purpose
+  - Innovation and Product Development
+  - Budgeting and Controlling
+  - Decision Making
 ---
 to be removed
