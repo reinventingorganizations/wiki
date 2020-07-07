@@ -64,11 +64,12 @@ theory:
       community and encourages the surfacing and resolution of conflict.
     content: At ESBZ , a large school has been broken down into smaller, self
       governing units, to create a sense of community within mini-schools. In
-      addition, all teachers and students are trained in Nonviolent
-      Communication. Utilizing these and other conflict resolution skills, every
-      class gets together at a fixed time each week to discuss and deal with
-      tensions in the group. The meeting is facilitated by a student who
-      enforces a number of ground rules that keep the discussion safe.
+      addition, all teachers and students are trained in [Nonviolent
+      Communication](https://en.wikipedia.org/wiki/Nonviolent_Communication).
+      Utilizing these and other conflict resolution skills, every class gets
+      together at a fixed time each week to discuss and deal with tensions in
+      the group. The meeting is facilitated by a student who enforces a number
+      of ground rules that keep the discussion safe.
   - topic: wholeness
     title: The "Praise Meeting"
     content: "[ESBZ ](http://www.ev-schule-zentrum.de/aktuell/)has an extraordinary
