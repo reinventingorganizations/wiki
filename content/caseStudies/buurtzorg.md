@@ -132,7 +132,7 @@ theory:
       #### Team decision making procedure
 
 
-      [Buurtzorg](https://www.buurtzorgnederland.com/) teams use a very efficient method for problem solving and decision-making. They first choose a facilitator. The facilitator is not allowed to make any statements, suggestions, or decisions; she can only ask questions: “What is your proposal?” Or “What is the rationale for your proposal?”. All responses are listed on a flipchart.
+      [Buurtzorg](https://www.buurtzorgnederland.com/) teams use a very efficient method for problem solving and [decision-making](../decision-making/). They first choose a facilitator. The facilitator is not allowed to make any statements, suggestions, or decisions; she can only ask questions: “What is your proposal?” Or “What is the rationale for your proposal?”. All responses are listed on a flipchart.
 
 
       Then all are reviewed, improved and refined.
