@@ -21,37 +21,37 @@ perspective: >-
   Every historical stage has given birth to a distinct perspective on conflict resolution and to very different practices:
 
 
-  #### **Red organizations** 
+  #### **Red organizations**
 
 
-  In the Red paradigm, there is dominant exercise of power by the boss or leader to keep others in line. Fear is the glue of the organization. In general, conflict is handled by suppression, power or dominance, and strict rules are enforced by fear of consequences.
+  In the [Red paradigm](../red-organizations/), there is dominant exercise of power by the boss or leader to keep others in line. Fear is the glue of the organization. In general, conflict is handled by suppression, power or dominance, and strict rules are enforced by fear of consequences.
 
 
-  #### **Amber organizations** 
+  #### **Amber organizations**
 
 
-  The Amber paradigm has formalized roles within a hierarchical pyramid structure and top-down command and control (what and how). Stability is valued above all and is maintained through clearly defined roles and processes.
+  The [Amber paradigm](../amber-paradigm-and-organizations/) has formalized roles within a hierarchical pyramid structure and top-down command and control (what and how). Stability is valued above all and is maintained through clearly defined roles and processes.
 
 
   Methods for managing conflict include avoidance or suppression. Rules are imposed by those with authority and may be enforced through legal action. These types of organizations have strong HR processes for managing conflict and grievances between employee and employer.
 
 
-  #### **Orange organizations** 
+  #### **Orange organizations**
 
 
-  In the Orange paradigm, there is also a hierarchical structure, but management is by objective (definition of the what; with more freedom on the how). In many Orange organisations, although there are formal conflict resolution procedures, conflict is often not well adressed. Although individuals are often encouraged to resolve disagreements by themselves, conflict may often need to be settled by intervention from a third party. This is most often done by referring the issue to the boss or by deferring to HR policies and procedures. These procedures create a level of objective independence from the those in conflict.
+  In the [Orange paradigm](../orange-paradigm-and-organizations/), there is also a hierarchical structure, but management is by objective (definition of the what; with more freedom on the how). In many Orange organisations, although there are formal conflict resolution procedures, conflict is often not well adressed. Although individuals are often encouraged to resolve disagreements by themselves, conflict may often need to be settled by intervention from a third party. This is most often done by referring the issue to the boss or by deferring to HR policies and procedures. These procedures create a level of objective independence from the those in conflict.
 
 
-  #### **Green organizations** 
+  #### **Green organizations**
 
 
-  The Green paradigm again uses a classical pyramid structure, but with a stronger focus on empowerment. Green organizations have values-based cultures that include principles of integrity, respect, and openness. There is a large investment in fostering collaboration, communication, problem solving and drafting agreements that meet underlying needs. These processes can sometimes remove the source of conflict. When they do arise, conflicts can take a long time to resolve as groups seek to find a harmonious solution. However, the boss is usually the final arbiter in conflict situations.
+  The [Green paradigm ](../green-paradigm-and-organizations/)again uses a classical pyramid structure, but with a stronger focus on empowerment. Green organizations have values-based cultures that include principles of integrity, respect, and openness. There is a large investment in fostering collaboration, communication, problem solving and drafting agreements that meet underlying needs. These processes can sometimes remove the source of conflict. When they do arise, conflicts can take a long time to resolve as groups seek to find a harmonious solution. However, the boss is usually the final arbiter in conflict situations.
 
 
-  #### **Teal organizations** 
+  #### **Teal organizations**
 
 
-  In Teal organizations, conflict is seen as a natural part of human interaction and, when safely supported, is often viewed as healthy and creative. Conflict handled with grace and tenderness can create possibility and learning for all involved. In Teal organizations time is regularly devoted to surface and address conflicts in individual and group settings. Often formal, multi-step conflict resolution practices are used and everyone is trained in conflict management. Conflict is restricted to the parties involved, and mediators, or peers who might be asked to serve on a mediating panel. Such a panel rarely has responsibility to impose a solution. The focus is instead on helping the involved parties find a solution.
+  In [Teal organizations](../teal-paradigm-and-organizations/), conflict is seen as a natural part of human interaction and, when safely supported, is often viewed as healthy and creative. Conflict handled with grace and tenderness can create possibility and learning for all involved. In Teal organizations time is regularly devoted to surface and address conflicts in individual and group settings. Often formal, multi-step conflict resolution practices are used and everyone is trained in conflict management. Conflict is restricted to the parties involved, and mediators, or peers who might be asked to serve on a mediating panel. Such a panel rarely has responsibility to impose a solution. The focus is instead on helping the involved parties find a solution.
 inPractice: >-
   **An organizational culture that supports effective conflict resolution** 
 
@@ -96,7 +96,7 @@ inPractice: >-
   ##### ***Bringing tensions to the surface***
 
 
-  It can be hard for someone to stand up to a colleague and say, “We need to talk.”. Processes used by some organizations include regularly scheduled group meetings, company retreats, purpose circles and values days. Surfacing becomes a way of helping others to view conflict as normal, creative and a way of learning about diversity and difference. These practices enable others to share their vulnerabilities, see creating safe spaces.
+  It can be hard for someone to stand up to a colleague and say, “We need to talk.”. Processes used by some organizations include regularly scheduled group meetings, company retreats, purpose circles and values days. Surfacing becomes a way of helping others to view conflict as normal, creative and a way of learning about diversity and difference. These practices enable others to share their vulnerabilities, see [creating safe spaces](../safe-space/).
 
 
   Here are some examples:
@@ -109,7 +109,7 @@ inPractice: >-
   * RHD holds a bi-monthly “-isms in the workplace" meeting. Anyone feeling that the organization should pay attention to a specific form or occurrence of racism, sexism, or any other “-ism” can join the meeting. 
 
 
-  ##### ***Conflict resolution processes*** 
+  ##### ***Conflict resolution processes***
 
 
   In self-managing organisations, having a clear and well understood conflict resolution process helps people raise issues. Typical conflict resolution mechanisms include: one-on-one discussion, mediation by a peer and mediation by a panel. Some organizations also use team or individual coaching to work through an upset.
@@ -120,20 +120,17 @@ inPractice: >-
 
   * In the first phase, the two people sit together and try to sort it out privately. 
 
-
   * If they can’t find a solution agreeable to both, they nominate a colleague they both trust to act as a mediator. The mediator doesn’t impose a decision. Rather he or she supports the participants in coming to their own solution. 
 
-
   * If mediation fails, a panel of topic-relevant colleagues is convened. Again the panel does not impose a solution. 
-
 
   * If resolution is not found, the founder or president might be called into the panel to add to the panel’s moral weight (but again, not to impose a solution). 
 
 
-  ##### ***Training in Interpersonal skills*** 
+  ##### ***Training in Interpersonal skills***
 
 
-  Because effective conflict resolution skills are so central in self-managing organizations, many organizations train all their colleagues in interpersonal skills to enable them to deal gracefully with conflict. Generally in their first weeks at work, new hires are given foundational training including: self-management, deep listening, dealing constructively with conflict and creating a safe environment. For instance, companies like ESBZ and Buurtzorg train colleagues in Nonviolent Communication developed by Marshal Rosenberg.
+  Because effective conflict resolution skills are so central in self-managing organizations, many organizations train all their colleagues in interpersonal skills to enable them to deal gracefully with conflict. Generally in their first weeks at work, new hires are given foundational training including: self-management, deep listening, dealing constructively with conflict and creating a safe environment. For instance, companies like ESBZ and Buurtzorg train colleagues in [Nonviolent Communication ](https://en.wikipedia.org/wiki/Nonviolent_Communication)developed by Marshal Rosenberg.
 faq:
   - question: If so much time is spent talking through every conflict, when does the
       work get done?
@@ -173,5 +170,8 @@ faq:
       ultimately the participants must find their own solution.
 relatedTheory:
   - Culture and Values
+  - Onboarding
+  - Dismissal
+  - Training and Coaching
 ---
 to be deleted
