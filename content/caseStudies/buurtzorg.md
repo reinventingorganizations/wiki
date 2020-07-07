@@ -513,4 +513,15 @@ theory:
       The Buurtzorg by-laws state that the board is not responsible for
       CEO appointment. This comes from within the organization itself.
       ^[Interview Jos de Blok with Frederic Laloux in 2013]"
+  - topic: Dismissal
+    title: Dismissals are self-managed, using a mediated conflict resolution process.
+    content: >-
+      Dismissals are self-managed, using a mediated [conflict
+      resolution](../conflict-resolution/) process.
+
+
+      At [Buurtzorg](http://www.buurtzorgnederland.com/), if someone has lost the trust of the team, they try to find a mutually agreeable solution. If that doesn’t work out, the group calls in the regional coach or external facilitator to mediate. In almost all cases, the presence of a mediator brings resolution. In some cases, the person and the team decide on some mutual commitments and give it another go.
+
+
+      In others, after some deliberation, the person comes to see that trust is irrevocably broken and understands it is time to leave. If no agreement can be found, and as a last attempt to settle the matter, team members can ask Jos de Blok, the founder, to mediate. In the rare case where even that fails, they can ask him to put an end to the person’s contract (legally, he is the only one who can do so)^[Source: Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 128].
 ---
