@@ -18,7 +18,7 @@ perspective: >-
   ### Red organizations
 
 
-  In [Red organizations](https://reinventingorganizations-wiki.netlify.app/theory/red-organizations/), meetings are held when the Chief or Boss feels they are necessary. They might be held to make announcements, pass judgements or to conduct ceremonies. Sometimes they are held, to seek counsel or gather information.
+  In [Red organizations](../red-organizations/), meetings are held when the Chief or Boss feels they are necessary. They might be held to make announcements, pass judgements or to conduct ceremonies. Sometimes they are held, to seek counsel or gather information.
 
 
   ### Amber organizations
@@ -56,7 +56,7 @@ perspective: >-
   ### Green organizations
 
 
-  In Green organizations, aim to serve multiple stakeholders with equality, respect and inclusion. This requires meeting with them. Consensus is valued, but may be gruelling to achieve.
+  In [Green organizations](../green-paradigm-and-organizations/), aim to serve multiple stakeholders with equality, respect and inclusion. This requires meeting with them. Consensus is valued, but may be gruelling to achieve.
 
 
   Meetings are not only about planning and reporting (as in Orange organizations), but are also about sustaining a sense of ownership, inclusion and empowerment: in other words, creating a values-based culture.  As a result, meeting practices tend to be more attentive to the underlying processes within the group.
@@ -65,7 +65,7 @@ perspective: >-
   ### Teal organizations
 
 
-  Self-organization allows members of Teal organizations to take responsibility for making decisions without the need for approval or consensus. As a result there are usually far fewer meetings required.
+  [Self-organization ](../self-management/)allows members of [Teal organizations](../teal-paradigm-and-organizations/) to take responsibility for making decisions without the need for approval or consensus. As a result there are usually far fewer meetings required.
 
 
   Meetings tend to be held only when they are necessary. Reasons include:
@@ -83,13 +83,13 @@ inPractice: >-
   #### *Meeting activity is limited and arises from the 'need to meet'*
 
 
-  Meetings can arise spontaneously whenever a member of the organization senses a need, and takes the initiative.  Meeting structures and facilitation support this self-organizing spirit. The increased transparency in Teal organizations reduces the number and length of some meetings. When meetings are held, care is taken to use specific practices that foster a sense of wholeness.
+  Meetings can arise spontaneously whenever a member of the organization senses a need, and takes the initiative.  Meeting structures and facilitation support this [self-organizing ](../self-management/)spirit. The increased transparency in Teal organizations reduces the number and length of some meetings. When meetings are held, care is taken to use specific practices that foster a sense of [wholeness](../wholeness/).
 
 
   #### *Self-management requires far fewer meetings*
 
 
-  Overall there tend to be fewer meetings in Teal organizations. In a traditional pyramid structure, meetings are needed to gather, package, filter and transmit information as it flows up and down the chain of command.  In self-managing structures, the need for many of these meetings falls away. Whereas in Green organizations meetings may be a way of building ‘bottom up’ involvement, this is already 'built in' to a self-managing structure.
+  Overall there tend to be fewer meetings in [Teal organizations](../teal-paradigm-and-organizations/). In a traditional pyramid structure, meetings are needed to gather, package, filter and transmit information as it flows up and down the chain of command.  In self-managing structures, the need for many of these meetings falls away. Whereas in [Green organizations](../green-paradigm-and-organizations/) meetings may be a way of building ‘bottom up’ involvement, this is already 'built in' to a self-managing structure.
 
 
   #### *Regular meetings at the operational team/circle level*
@@ -128,23 +128,23 @@ inPractice: >-
   Examples include:
 
 
-  * Team decision-making meetings at Buurtzorg 
+  * Team [decision-making ](../decision-making/)meetings at [Buurtzorg ](http://www.buurtzorgnederland.com/)
 
-  * Holocratic Governance vs. Tactical meetings at HolocracyOne 
+  * Holocratic Governance vs. Tactical meetings at [HolocracyOne ](http://www.holacracy.org/)
 
-  * On-boarding meetings / Departure meetings as at CC&R 
+  * [On-boarding ](../onboarding/)meetings / Departure meetings as at [CC&R ](http://www.couragerenewal.org/)
 
   * Appraisal meetings
 
-  * Conflict resolution meetings
+  * [Conflict resolution](../conflict-resolution/) meetings
 
-  * Listening to purpose meetings
+  * [Listening to purpose ](../listening-to-purpose/)meetings
 
-  * Large group reflections at Heiligenfeld
+  * Large group reflections at [Heiligenfeld](http://www.heiligenfeld.de/)
 
-  * [Culture/Values](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/culture-and-values) meetings
+  * [Culture/Values](../culture-and-values/) meetings
 
-  * Praise meetings at ESBZ 
+  * Praise meetings at [ESBZ ](http://www.ev-schule-zentrum.de/aktuell/)
 
 
   #### Highlighting sense of wholeness and purpose
@@ -153,7 +153,7 @@ inPractice: >-
   Meetings bring out the best and the worst of human nature.
 
 
-  In the best, they are places where others help us listen in to what we really care about. But meetings can also be playfields for egos. To feel safe, some seek to dominate proceedings. Others withdraw. In self-managingorganizations the absence of a boss takes some of these fears out of the room. But in a group of peers egos can dominate just as well. A variety of approaches support productive interactions consistent with wholeness and purpose.
+  In the best, they are places where others help us listen in to what we really care about. But meetings can also be playfields for egos. To feel safe, some seek to dominate proceedings. Others withdraw. In self-managingorganizations the absence of a boss takes some of these fears out of the room. But in a group of peers egos can dominate just as well. A variety of approaches support productive interactions consistent with [wholeness ](/wholeness/)and [purpose](../listening-to-purpose/).
 
 
   #### Training in meeting practices
@@ -168,7 +168,7 @@ inPractice: >-
   #### Starting at the right place
 
 
-  The beginning of a meeting sets the mood.Teal Organizations may use the following practices:
+  The beginning of a meeting sets the mood. [Teal Organizations ](../teal-paradigm-and-organizations/)may use the following practices:
 
 
   * One widespread practice is to start with a 'check-in' round. Participants share how they feel in the moment, as they enter. The helps all to listen within, to their bodies and sensations, and to build awareness. Naming an emotion is often all it takes to deal with it.  Thus, this practice helps participants let go of distractions while supporting everyone to be present for the current meeting. 
@@ -207,7 +207,7 @@ inPractice: >-
   Upcoming meetings may be listed on the intranet. This allows anyone who wants to share concerns or ideas to attend.  This transparency may extend to outsiders via streaming on the internet. Some claim this transparency results in closer relations with their external partners.
 
 
-  Meeting cultures in Teal Organizations have adopted some of the ‘alternative meeting formats’ like Open Space, Art of Hosting, World Café etc.
+  Meeting cultures in [Teal Organizations ](../teal-paradigm-and-organizations/)have adopted some of the ‘alternative meeting formats’ like Open Space, Art of Hosting, World Café etc.
 faq:
   - question: Doesn’t the advice process lead to more meetings rather than less?
     answer: >-
@@ -219,7 +219,7 @@ faq:
       Frédéric Laloux, tells this story as an illustration:
 
 
-      “Jos de Blok, CEO of [Buurtzorg](https://www.buurtzorgnederland.com/), often applies the advice process by posting a blog note to the Buurtzorg web in the evening, proposing suggestions for new initiatives and decisions and asking for advice from all the members of the organization. 24 hours later, 50-80% of the employees will have read and perhaps commented. Maybe the overwhelming response is "yes, this is fine", in which case the decision can just be effectuated at this point. Alternatively, he will have received feedback on how he might be overlooking important negative consequences, or how this issue may be more complicated than he is aware off. In this case, he might revise his proposal accordingly and repost it, or sense the need to gather a voluntary group to deal with it. In any case this provides a swift decision making process with very few meetings."
+      “Jos de Blok, CEO of [Buurtzorg](https://www.buurtzorgnederland.com/), often applies the advice process by posting a blog note to the Buurtzorg web in the evening, proposing suggestions for new initiatives and decisions and asking for advice from all the members of the organization. 24 hours later, 50-80% of the employees will have read and perhaps commented. Maybe the overwhelming response is "yes, this is fine", in which case the decision can just be effectuated at this point. Alternatively, he will have received feedback on how he might be overlooking important negative consequences, or how this issue may be more complicated than he is aware off. In this case, he might revise his proposal accordingly and repost it, or sense the need to gather a voluntary group to deal with it. In any case this provides a swift [decision making process](../decision-making/) with very few meetings."
 
 
       Compare this to the process that typically takes place in a traditional 9000 employee hierarchy. Say the CEO wants to change overtime conditions:
@@ -228,5 +228,11 @@ faq:
       First he/she asks the Head of HR to prepare a proposal, who then asks someone more junior to do 'the staff work'. The junior drafts a proposal, maybe shows to a colleague and revises accordingly. Then the Head of HR goes over the draft, and suggests further refinements, before booking a meeting with the CEO who can make further changes. Then it goes to the executive committee...and so on...They want more revisions, and it goes down the line again, and back up again... It may now become political, bringing another layer of complications. If it is now approved, someone in internal communication works on it, and shows the CEO, again. Finally, it is cascaded to the managers who prepare presentations to make a team meetings. The total number meetings that may go into such a decision is huge.
 relatedTheory:
   - Culture and Values
+  - Feedback and Performance Management
+  - Decision Making
+  - Mood Management
+  - Onboarding
+  - Training and Coaching
+  - Creating Safe Space
 ---
 removed
