@@ -24,31 +24,31 @@ perspective: >-
   ##### Red organizations
 
 
-  In Red organizations, leaders typically demonstrate egocentric behaviors driven by their personal need for power and control. They are often impulsive and find ways to exert their dominance. This creates a culture of a fear, control, risk taking and submission. Close bonds are usually formed by those in the organization.
+  In [Red organizations](../red-organizations/), leaders typically demonstrate egocentric behaviors driven by their personal need for power and control. They are often impulsive and find ways to exert their dominance. This creates a culture of a fear, control, risk taking and submission. Close bonds are usually formed by those in the organization.
 
 
   ##### Amber organizations
 
 
-  In Amber organizations, stability and respect for the group norms are highly valued. The Amber leader looks for order, stability, and predictability. Change is viewed with suspicion. Control is maintained through institutions and bureaucracies. This tends to creates a culture of conformity. The focus is to do what is right and to fit in within the group norms. Thinking is dominated by whether one has the right appearance, behaviors, and thoughts. Social stability comes at the price of wearing a mask. People may distance themselves from their unique nature, personal desires, needs, and feelings; instead, embracing a socially acceptable self. The shadow side of this worldview is that workers are often viewed as mostly lazy, dishonest, and in need of direction. Management and supervision is believed to be necessary to ensure work is carried out properly.
+  In [Amber organizations](../amber-paradigm-and-organizations/), stability and respect for the group norms are highly valued. The Amber leader looks for order, stability, and predictability. Change is viewed with suspicion. Control is maintained through institutions and bureaucracies. This tends to creates a culture of conformity. The focus is to do what is right and to fit in within the group norms. Thinking is dominated by whether one has the right appearance, behaviors, and thoughts. Social stability comes at the price of wearing a mask. People may distance themselves from their unique nature, personal desires, needs, and feelings; instead, embracing a socially acceptable self. The shadow side of this worldview is that workers are often viewed as mostly lazy, dishonest, and in need of direction. Management and supervision is believed to be necessary to ensure work is carried out properly.
 
 
   ##### Orange organizations
 
 
-  In Orange organizations the underlying values are success, innovation, effectiveness, competing/winning, profit and recognition. This worldview is materialistic and rationality is highly valued. Only what can be seen and touched is real. The organizational metaphor is a ‘machine’. The culture can become highly professional, rational and sometimes soulless. Change is welcome provided it contributes to increased performance. Cross-organisation collaboration is valued and encouraged to speed up innovation and change. Management is strategic and focused on results rather than how to achieve them. Individual competence, results and achievements are valued and incentivized. Progression is based on merit rather than social standing or rank. 
+  In [Orange organizations](../orange-paradigm-and-organizations/) the underlying values are success, innovation, effectiveness, competing/winning, profit and recognition. This worldview is materialistic and rationality is highly valued. Only what can be seen and touched is real. The organizational metaphor is a ‘machine’. The culture can become highly professional, rational and sometimes soulless. Change is welcome provided it contributes to increased performance. Cross-organisation collaboration is valued and encouraged to speed up innovation and change. Management is strategic and focused on results rather than how to achieve them. Individual competence, results and achievements are valued and incentivized. Progression is based on merit rather than social standing or rank. 
 
 
   ##### Green organizations
 
 
-  In Green organizations relationships are valued sometimes at the expense of outcomes. Community, communication, collaboration, consensus, harmony, tolerance, integrity, respect, openness and equality are common values. Focus is on creating great workplace culture based on empowerment in order to boost employees' motivation. Although Green organizations are most often built on the traditional hierarchical model and structures, the culture is ill at ease with power and hierarchy. Participative and servant leadership approaches are valued to foster collaborative bottom up processes, developing shared values and a culture where people feel valued and empowered to contribute. The guiding metaphor is ‘family’. Whereas Orange organizations often use their values as a marketing tool, Green organizations embrace and live by them. 
+  In [Green organizations](../green-paradigm-and-organizations/) relationships are valued sometimes at the expense of outcomes. Community, communication, collaboration, consensus, harmony, tolerance, integrity, respect, openness and equality are common values. Focus is on creating great workplace culture based on empowerment in order to boost employees' motivation. Although Green organizations are most often built on the traditional hierarchical model and structures, the culture is ill at ease with power and hierarchy. Participative and servant leadership approaches are valued to foster collaborative bottom up processes, developing shared values and a culture where people feel valued and empowered to contribute. The guiding metaphor is ‘family’. Whereas Orange organizations often use their values as a marketing tool, Green organizations embrace and live by them. 
 
 
   ##### Teal organizations
 
 
-  Teal organizations strive to create highly effective organizations that allow people to be fully human at work.. The culture of Teal organizations is shaped by the specific context and  [purpose ](https://reinventingorganizations-wiki.netlify.app/theory/evolutionary-purpose/)of the organization, not by personal assumptions, norms and concerns of the founders and leaders. The metaphor for the organization is a ‘living system’. As such it should be allowed to have its own autonomous identity and culture that can evolve with time. The culture and values are well integrated with the structure and processes. 
+  [Teal organizations ](../teal-paradigm-and-organizations/)strive to create highly effective organizations that allow people to be fully human at work.. The culture of Teal organizations is shaped by the specific context and  [purpose ](https://reinventingorganizations-wiki.netlify.app/theory/evolutionary-purpose/)of the organization, not by personal assumptions, norms and concerns of the founders and leaders. The metaphor for the organization is a ‘living system’. As such it should be allowed to have its own autonomous identity and culture that can evolve with time. The culture and values are well integrated with the structure and processes. 
 
 
   Teal organizations take shared values to the next level either through clear ground rules or sharing beliefs about what is acceptable or unacceptable. Most Teal organizations spend a lot of time during the recruitment process informing candidates about the values of the organization to determine whether there is a good culture fit. Teal organizations also set practices to frequently review and question culture and values to ensure they are truly lived by those in the organization. Some values that are often present are trust, transparency, collective intelligence, wholeness and authenticity.
@@ -59,13 +59,13 @@ inPractice: >-
   ##### *Defining a set of values*
 
 
-  Many organizations find it helpful to define a set of values. In [Teal organizations](https://reinventingorganizations-wiki.netlify.app/theory/teal-paradigm-and-organizations/), those values, together with [purpose](https://reinventingorganizations-wiki.netlify.app/theory/evolutionary-purpose/), are at the very core of the organization' s culture, influencing most behaviors and processes. Those values often stem from the founder's vision, and are typically collectively defined. Values and related ground rules are not fixed, they are openly discussed and amended so that they remain a faithful reflection of what people in the organization live and believe in. Some organizations set out a simple set of common beliefs, or assumptions about human endeavor and behavior.
+  Many organizations find it helpful to define a set of values. In [Teal organizations](../teal-paradigm-and-organizations/), those values, together with [purpose](../evolutionary-purpose/), are at the very core of the organization' s culture, influencing most behaviors and processes. Those values often stem from the founder's vision, and are typically collectively defined. Values and related ground rules are not fixed, they are openly discussed and amended so that they remain a faithful reflection of what people in the organization live and believe in. Some organizations set out a simple set of common beliefs, or assumptions about human endeavor and behavior.
 
 
   ##### *Ground rules for safe space*
 
 
-  To show up fully in the presence of others, as [Teal organizations](https://reinventingorganizations-wiki.netlify.app/theory/teal-paradigm-and-organizations/) encourage, people need to feel it is safe to do so. Having a defined set of values translated into clear "ground rules", when necessary, helps to do this.
+  To show up fully in the presence of others, as [Teal organizations ](../teal-paradigm-and-organizations/)encourage, people need to feel it is safe to do so. Having a defined set of values translated into clear "ground rules", when necessary, helps to do this.
 
 
   Some examples are: [RHD](http://www.rhd.org/)’s Bill of Rights and Responsibilities, [Morning Star](http://www.morningstarco.com/)’s Colleague Principles, [FAVI](http://www.favi.com/)'s fiches or [Holacracy](http://www.holacracy.org/)'s Constitution. These documents provide a vision for a safe and productive workplace. They give colleagues a vocabulary to discuss healthy relationships, and they draw lines that separate recommended from unacceptable behaviors.
@@ -77,7 +77,7 @@ inPractice: >-
   #### Bringing values to life
 
 
-  [Teal organizations](https://reinventingorganizations-wiki.netlify.app/theory/teal-paradigm-and-organizations/) understand it takes more than a plaque on the wall to bring values and ground rules to life. They spend a significant amount of time and energy on training and involving everyone in a continuous process of revisiting them. Some examples of keeping values alive are:
+  [Teal organizations](../teal-paradigm-and-organizations/) understand it takes more than a plaque on the wall to bring values and ground rules to life. They spend a significant amount of time and energy on training and involving everyone in a continuous process of revisiting them. Some examples of keeping values alive are:
 
 
   * Values Training: once the new recruits are onboard, they are trained in the set of values and ground rules. 
@@ -92,13 +92,13 @@ inPractice: >-
   #### Culture and value-based recruitment
 
 
-  [Teal organizations](https://reinventingorganizations-wiki.netlify.app/theory/teal-paradigm-and-organizations/) understand that a person's attitude and behaviors are as important as their skills. Therefore significant energy is devoted to finding people that fit with the organization's culture and values. New recruits are carefully interviewed to ensure they can thrive in the environment. It is a two way discovery processes aiming at finding out if the organization and individual are meant to “journey together”. 
+  [Teal organizations](../teal-paradigm-and-organizations/) understand that a person's attitude and behaviors are as important as their skills. Therefore significant energy is devoted to finding people that fit with the organization's culture and values. New recruits are carefully interviewed to ensure they can thrive in the environment. It is a two way discovery processes aiming at finding out if the organization and individual are meant to “journey together”. 
 
 
   ### Values for the three Teal breakthroughs
 
 
-  The principles and practices outlines above support the three breakthroughs of [self-management](https://reinventingorganizations-wiki.netlify.app/theory/self-management/), [wholeness ](https://reinventingorganizations-wiki.netlify.app/theory/wholeness/)and [evolutionary purpose](https://reinventingorganizations-wiki.netlify.app/theory/evolutionary-purpose/). 
+  The principles and practices outlines above support the three breakthroughs of [self-management](../self-management/), [wholeness ](../wholeness/)and [evolutionary purpose](../evolutionary-purpose/). 
 
 
   #### Self-management
@@ -107,11 +107,11 @@ inPractice: >-
   Self-managing structures transcend the issue of culture versus systems. Inner and outer dimensions, culture and systems, work hand in hand, not in opposite directions. The following are some examples of the types of values/principles that support self-management:
 
 
-  * **Trust:** Teal practices are based on trust. Meet people with trust and they will respond with trust. Trust enables people to be fully responsible. It also lowers the need for hierarchy and control and enables [self-management](https://reinventingorganizations-wiki.netlify.app/theory/self-management/). 
+  * **Trust:** Teal practices are based on trust. Meet people with trust and they will respond with trust. Trust enables people to be fully responsible. It also lowers the need for hierarchy and control and enables [self-management](../self-management/). 
 
   * **Transparency:** When people have access to business information, often held by management, they can act and take decisions that are good for the whole. When there is transparency and openness collective intelligence is available to all. Sensitive information can be shared because everyone is able and trusted to handle difficult news. 
 
-  * **Responsibility and accountability:** Everyone has a responsibility to the organization for sensing issues or opportunities and addressing them. People are expected to be comfortable with holding each other accountable for their commitments, through feedback and respectful confrontation.
+  * **Responsibility and accountability:** Everyone has a responsibility to the organization for sensing issues or opportunities and addressing them. People are expected to be comfortable with holding each other accountable for their [commitments](../commitment-working-hours-and-flexibility/), through [feedback](../feedback-and-performance-management/) and respectful confrontation.
 
 
   #### Wholeness
@@ -132,7 +132,7 @@ inPractice: >-
   #### Evolutionary purpose
 
 
-  Listening deeply to both the organization and to ourselves is essential in finding [evolutionary purpose](https://reinventingorganizations-wiki.netlify.app/theory/evolutionary-purpose/). The following  are examples of the types of values/principles that support evolutionary purpose:
+  Listening deeply to both the organization and to ourselves is essential in finding[ evolutionary purpose.](../evolutionary-purpose/) The following  are examples of the types of values/principles that support evolutionary purpose:
 
 
   * **Collective purpose:** We view the organization as having a soul and [purpose ](https://reinventingorganizations-wiki.netlify.app/theory/listening-to-purpose/)of its own. We try to listen in to where the organization wants to go and beware of forcing a direction onto it. 
@@ -156,5 +156,8 @@ faq:
 relatedTheory:
   - Listening to Purpose
   - Evolutionary Purpose
+  - Fundamental Assumptions
+  - Safe Space
+  - Mood Management
 ---
 to be removed
