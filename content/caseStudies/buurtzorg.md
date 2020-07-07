@@ -497,4 +497,20 @@ theory:
       (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations
       Inspired by the Next Stage of Human Consciousness (Kindle Locations
       4215-4224). Nelson Parker. Kindle Edition.]"
+  - topic: board
+    title: Buurtzorg needed to replace some board members.
+    content: "At Buurtzorg's founding, Jos de Blok chose members of the board based
+      on their expertise—for example, a family doctor, a banker, a lawyer, etc.
+      Some were not comfortable with self-managing practices. Others wanted
+      financial projections and budgets, and similar, traditional ‘tools’. Over
+      time, de Blok persuaded several to resign and replaced them with others
+      more comfortable with Buurtzorg's novel principles and practices. In
+      practice, the Buurtzorg board serves as a sounding board for Jos de Blok
+      and his colleagues.\r
+
+      \r
+
+      The Buurtzorg by-laws state that the board is not responsible for
+      CEO appointment. This comes from within the organization itself.
+      ^[Interview Jos de Blok with Frederic Laloux in 2013]"
 ---
