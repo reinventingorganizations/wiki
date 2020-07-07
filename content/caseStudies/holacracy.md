@@ -161,4 +161,10 @@ theory:
 
 
       If person A makes an autocratic decision that frustrates person B who has an obvious stake in that decision, person B is likely to bring up the topic in the next governance meeting. For example, if person (A), whose role it is to book meeting venues, chooses a new venue without discussing it with the main trainer (B) who has ideas as to what kind of venue is necessary for that specific training. The trainer (B) will suggest to amend the role of person A so that person A must consult the trainer before making decisions on venues in the future. Ultimately it boils down to the same: either person A spontaneously and informally seeks advice from person B, or it is likely that the role person A is currently energizing will be changed so that this role must formally seek advice from the trainer role (person B) before deciding on a venue.
+  - topic: board
+    title: A constitution that a board can adopt.
+    content: "[Holacracy ](http://holocracyone.com/)has drafted a constitution which
+      complies with U.S. corporate law. It gives shareholders a say in matters
+      related to finance, but prevents them from unilaterally imposing a
+      strategy."
 ---
