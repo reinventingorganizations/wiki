@@ -311,7 +311,7 @@ theory:
       (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations
       Inspired by the Next Stage of Human Consciousness (Kindle Locations
       4396-4401). Nelson Parker. Kindle Edition.]"
-  - topic: Strategy
+  - topic: Innovation and Product Development
     title: Buurtzorg develops a new boarding house to support overwhelmed relatives
       of their patients.
     content: >-
@@ -329,7 +329,7 @@ theory:
 
 
       The idea of boarding houses will run its own course. If it is meant to be, if it has enough life force, it will attract nurses from other teams to make it happen and carry Buurtzorg into a new dimension of care. Otherwise, it will remain a small scale experiment^[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 200]
-  - topic: Strategy
+  - topic: Innovation and Product Development
     title: Buurtzorg develops a new service concept, Buurtzorg+, to improve injury
       prevention.
     content: Two nurses on a [Buurtzorg](https://www.buurtzorgnederland.com/) team
