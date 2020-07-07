@@ -264,7 +264,7 @@ theory:
       2. Individuals shall keep commitments.
   - topic: Ownership
     title: A privately held company grows without diluting its ownership.
-    content: "Chris Rufer founded Morningstar in 1970 and to this day owns 100% of
+    content: Chris Rufer founded Morningstar in 1970 and to this day owns 100% of
       the company and is its sole board member. Recognizing the potential
       hazards of having partners who might not unconditionally support his
       pursuit of self-management, he has foregone taking in new investors but
@@ -272,8 +272,8 @@ theory:
       single truck operation to the world’s largest tomato processor (a
       traditionally low margin as well as capital intensive business) is
       extraordinary, but perhaps Chris would argue, essential to its
-      success.[Laloux, Frederic. Reinventing Organizations. Nelson Parker
-      (2014), page 289].\r"
+      success.^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker
+      (2014), page 289].
   - topic: Decision Making
     title: "Morning Star uses the advice process. Here is an example: it was used
       when a new strategy was proposed that would affect all employees. "
