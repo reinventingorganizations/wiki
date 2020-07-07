@@ -12,67 +12,39 @@ theory:
   - topic: Meetings
     title: HolacracyOne has created an effective set of meetings serving a specific
       purpose
-    content: "In Holacracy there are 4 meeting types:\r
+    content: >-
+      In Holacracy there are 4 meeting types:
 
-      \r
 
-      All meetings start with a 'check-in\" and close with a
-      'check-out'.\r
+      All meetings start with a 'check-in" and close with a 'check-out'.
 
-      \r
 
-      Tactical meetings:  These short daily or weekly meetings serve the
-      operational process. Here work is coordinated. Operational processes are
-      addressed, actions decided, and things get done. \r
+      Tactical meetings:  These short daily or weekly meetings serve the operational process. Here work is coordinated. Operational processes are addressed, actions decided, and things get done. 
 
-      \r
 
-      Strategic meetings:  These rare meetings have no specific form and
-      process thinking about how to best serve the evolutionary purpose.\r
+      Strategic meetings:  These rare meetings have no specific form and process thinking about how to best serve the [evolutionary purpose.](../evolutionary-purpose/)
 
-      \r
 
-      Special topic meetings:   Held when a topic calls for special
-      attention. These meetings also have no specific form.\r
+      Special topic meetings:   Held when a topic calls for special attention. These meetings also have no specific form.
 
-      \r
 
-      Governance meetings:  These meetings are restricted to roles, and
-      collaboration; not the rough and tumble of getting work done. The latter
-      are for tactical meetings.  Governance meetings are held generally every
-      month. They follow strict process to ensure everybone’s voice is heard and
-      that no one can dominate decision-making. A facilitator guides the
-      proceeding via the following process:\r
+      Governance meetings:  These meetings are restricted to roles, and collaboration; not the rough and tumble of getting work done. The latter are for tactical meetings.  Governance meetings are held generally every month. They follow strict process to ensure everybone’s voice is heard and that no one can dominate [decision-making](../decision-making/). A facilitator guides the proceeding via the following process:
 
-      \r
 
-      1. Present proposal\r
+      1. Present proposal
 
-      \r
+      2. Clarifying questions
 
-      1. Clarifying questions\r
+      3. Reaction round
 
-      \r
+      4. Amend and clarify
 
-      1. Reaction round\r
+      5. Objection round
 
-      \r
+      6. Integration
 
-      1. Amend and clarify\r
 
-      \r
-
-      1. Objection round\r
-
-      \r
-
-      1. Integration\r
-
-      \r
-
-      The process might sound formal and needs to get used to, but people
-      who use it report they find it deeply liberating and dramatically
-      efficient."
+      The process might sound formal and needs to get used to, but people who use it report they find it deeply liberating and dramatically efficient.
   - topic: Coordination
     title: HolocracyOne has set-up a company-wide Role Market Place to help
       coordinate workload
