@@ -221,7 +221,7 @@ theory:
 
 
       Incidentally, workers at Favi do not get production targets either. They are well aware of the impact China has on their market, given the feedback they receive from their sales account managers. Operators set themselves target times to machine their pieces, and they monitor their performance against that target.
-  - topic: Strategy
+  - topic: Innovation and Product Development
     title: FAVI invents the first method for molding 100 % pure copper - for
       challenge and beauty, with zero market research.
     content: "In the 1990s, Zobrist (CEO) and a few colleagues at FAVI became
