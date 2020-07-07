@@ -17,7 +17,10 @@ profit: Profit
 theory:
   - topic: board
     title: Adoption of the B Corp certification
-    content: Lorem ipsum
+    content: "[Patagonia ](http://www.patagonia.com/)became the first certified B
+      Corp in California in January 2012. A B Corporation is a for-profit
+      company with a specific social or environmental purpose. The board is
+      obliged to protect these non-financial interests."
   - topic: wholeness
     title: Test
     content: test
