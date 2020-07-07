@@ -185,20 +185,21 @@ theory:
       around 50 patients in a small, well-defined neighborhood. The team is in
       charge of all the tasks that, in similar organisations, are fragmented
       across different departments. The initial Buurtzorg training includes
-      techniques for conflict resolution and Nonviolent Communication developed
-      by Marshal Rosenberg. Conflicts are worked out collaboratively within the
-      team. For instance, when one person has lost the trust of the team, the
-      team tries to find a mutually agreeable solution. If that doesn’t work
-      out, the group calls in its regional coach or an external facilitator to
-      mediate. In almost all cases, the presence of a mediator brings
-      resolution. In some cases, the person and the team decide on some mutual
-      commitments and give it another go. In others, after some deliberation,
-      the person comes to see that trust is irrevocably broken and understands
-      it is time to leave. If no agreement can be found, as a last chance to try
-      to settle the matter, the team members can ask Jos de Blok, the founder,
-      to mediate. In the rare cases, where even this fails, they can ask him to
-      put an end to the person’s contract (legally, he is the only one who can
-      do so).
+      techniques for conflict resolution and [Nonviolent
+      Communication](https://en.wikipedia.org/wiki/Nonviolent_Communication)
+      developed by Marshal Rosenberg. Conflicts are worked out collaboratively
+      within the team. For instance, when one person has lost the trust of the
+      team, the team tries to find a mutually agreeable solution. If that
+      doesn’t work out, the group calls in its regional coach or an external
+      facilitator to mediate. In almost all cases, the presence of a mediator
+      brings resolution. In some cases, the person and the team decide on some
+      mutual commitments and give it another go. In others, after some
+      deliberation, the person comes to see that trust is irrevocably broken and
+      understands it is time to leave. If no agreement can be found, as a last
+      chance to try to settle the matter, the team members can ask Jos de Blok,
+      the founder, to mediate. In the rare cases, where even this fails, they
+      can ask him to put an end to the person’s contract (legally, he is the
+      only one who can do so).
   - topic: Environmental and Social Management
     title: At Buurtzorg, social initiatives emerge from the interaction with the
       communities they serve.
