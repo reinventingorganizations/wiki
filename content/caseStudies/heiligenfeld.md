@@ -56,7 +56,7 @@ theory:
       **Example for Team supervision**
 
 
-      Heiligenfeld has developed a simple practice of team supervision. The company works with four external coaches who each have their domain of expertise (relationships, organizational development, system thinking, leadership). There are a number of time slots with the coaches every month that teams can sign up for. The recommendation is for every team to hold at least one session a year; on average teams hold two to four. In the discussion, with the help of the outside supervisor, colleagues can explore what a tension reveals about themselves and how they can grow to resolve it.
+      [Heiligenfeld ](http://www.heiligenfeld.de/)has developed a simple practice of team supervision. The company works with four external coaches who each have their domain of expertise (relationships, organizational development, system thinking, leadership). There are a number of time slots with the coaches every month that teams can sign up for. The recommendation is for every team to hold at least one session a year; on average teams hold two to four. In the discussion, with the help of the outside supervisor, colleagues can explore what a tension reveals about themselves and how they can grow to resolve it.
   - topic: Conflict resolution
     title: Innovative management practices are used to create a supportive work
       culture that fosters trust, empathy and compassion, while decreasing
