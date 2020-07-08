@@ -290,4 +290,38 @@ theory:
     content: |-
       1. Individuals shall work with no use of force or coercion.
       1. Individuals shall keep commitments.
+  - topic: Dismissal
+    title: Dismissals can be initiated by any individual, using the conflict
+      resolution process if needed.
+    content: >-
+      At [Morning Star](http://www.morningstarco.com/), the process is almost
+      identical to the one used at
+      [Buurtzorg](http://www.buurtzorgnederland.com/), except that it is
+      initiated by an individual rather than a team. Morning Star views a
+      dismissal as the final step in a conflict and therefore uses its [conflict
+      resolution](../conflict-resolution/) mechanism to deal with the situation.
+      The process starts when one person asks another to leave the organization.
+      Suppose that someone finds that a colleague has fundamentally breached a
+      company value (perhaps the person made an important decision without
+      requesting [advice ](../decision-making/)from colleagues) or that a
+      colleague is failing time after time to live up to his
+      [commitments](../commitment-working-hours-and-flexibility/), despite a
+      number of previous attempts to improve the situation. She can initiate a
+      conflict resolution process, asking her colleague to resign. If the person
+      asked to leave does not agree, a four-stage conflict resolution process
+      begins:
+
+
+      In a first phase, they sit together and try to sort it out. In the discussion, the person asked to leave can suggest ways to restore trust. Or perhaps he will come to see that he has irrevocably lost the trust of his colleagues and that he is better off looking for work elsewhere.
+
+      If they can’t agree on an outcome, another colleague is called in as a mediator.
+
+      If necessary, in a third step, a panel of colleagues is asked to mediate.
+
+      As a last resort, Chris Rufer, the founder and president, is asked to join the panel.
+
+      People asked to mediate or sit on a panel take their role very seriously. Morning Star’s principle of not using force against anyone is at stake. They are not a jury, passing a verdict on a colleague. Their role is to explore every possible way to restore trust in the relationship. The process can take a long time if needed. Only when the person who has been asked to leave sees that colleagues genuinely tried to find a solution and that none could be found, will he come to accept that resignation is the reasonable outcome. Therein lies the power and legitimacy of the process.
+
+
+      Because Morning Star views a dismissal as a private conflict between two persons, everyone is under the understanding of full confidentiality (as is always the case with the conflict resolution mechanism). As a result, no data exist of how often this happens. . Some more senior employees report that they have been part of a handful of panels over the years. They are advocates for the method. The panel discussions are never easy they report, but they do help people reach fair and reasonable outcomes^[Source: Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), pages 128-129].
 ---
