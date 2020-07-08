@@ -76,22 +76,16 @@ theory:
       Locations 1766-1772). Nelson Parker. Kindle Edition.]"
   - topic: Information Flow
     title: Information flow in time of crisis.
-    content: "When Jean-Francois Zobrist, the CEO of FAVI, was faced with difficult
-      and critical decisions at the company, he readily admitted he needed help
-      to find a good answer. More than once, on impulse, he went around the shop
-      floor, asked everybody to stop the machines, climbed on a soapbox and
-      shared his problem with all employees, trying to figure out a course of
-      action.\r
+    content: >-
+      When Jean-Francois Zobrist, the CEO of [FAVI](http://www.favi.com/), was
+      faced with difficult and critical decisions at the company, he readily
+      admitted he needed help to find a good answer. More than once, on impulse,
+      he went around the shop floor, asked everybody to stop the machines,
+      climbed on a soapbox and shared his problem with all employees, trying to
+      figure out a course of action.
 
-      \r
 
-      In time of crisis, he openly shared information with all employees
-      about the reality of the situation, trusting them to handle it. As a
-      result, employees did not retain a false sense of safety. Everybody,
-      regardless of any rank, could take the opportunity to sense the impact of
-      the information offered and resonate to it. People in the audience shouted
-      questions and proposals. Together they found a collective course of action
-      to overcome the crisis."
+      In time of crisis, he openly shared information with all employees about the reality of the situation, trusting them to handle it. As a result, employees did not retain a false sense of safety. Everybody, regardless of any rank, could take the opportunity to sense the impact of the information offered and resonate to it. People in the audience shouted questions and proposals. Together they found a collective course of action to overcome the crisis.
   - topic: Meetings
     title: A rhythm of meetings to suit manufacturing.
     content: >-
