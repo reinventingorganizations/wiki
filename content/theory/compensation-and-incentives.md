@@ -10,10 +10,10 @@ intro: "The topic of compensation and incentives includes the process of how
 
   \r\n"
 perspective: >-
-  In Teal Organizations, compensation is determined not only in a different way,
-  but takes on a fundamentally different nature and level of importance.
-  Typically these organizations exhibit the following general characteristics
-  with regard to compensation:
+  In [Teal Organizations,](../teal-paradigm-and-organizations/) compensation is
+  determined not only in a different way, but takes on a fundamentally different
+  nature and level of importance. Typically these organizations exhibit the
+  following general characteristics with regard to compensation:
 
 
   * People set their own salaries, with guidance from their peers.
@@ -29,25 +29,25 @@ perspective: >-
   #### **Red Organizations**
 
 
-  In the Red paradigm, the prerogative of the boss is to freely, on a whim, decide to increase or reduce pay. There are no formal processes for negotiating on pay, nor any formal, documented incentive processes.
+  In the [Red paradigm](../red-organizations/), the prerogative of the boss is to freely, on a whim, decide to increase or reduce pay. There are no formal processes for negotiating on pay, nor any formal, documented incentive processes.
 
 
   #### **Amber Organizations**
 
 
-  In the Amber paradigm, compensation is generally fixed and determined by a person’s level in the hierarchy (or other fixed status marker, such as the person’s type of university degree). There are no individual salary negotiations, no incentives. It’s “same work, same pay”.
+  In the [Amber paradigm](../amber-paradigm-and-organizations/), compensation is generally fixed and determined by a person’s level in the hierarchy (or other fixed status marker, such as the person’s type of university degree). There are no individual salary negotiations, no incentives. It’s “same work, same pay”.
 
 
   #### **Orange Organizations**
 
 
-  In the Orange paradigm, there is some individual negotiation of base salary, and people generally fall into salary bands. A boss has some freedom to increase someone’s pay within that salary band. Orange believes strongly in individual targets and incentives. If people reach predetermined targets (that ideally belong to a cascaded system of targets or budget that builds up to strong creation of shareholder value), they will receive a hardy bonus. Strong differences in pay between top and bottom earners are seen as perfectly acceptable, as they reflect people’s merits and contributions.
+  In the [Orange paradigm](../orange-paradigm-and-organizations/), there is some individual negotiation of base salary, and people generally fall into salary bands. A boss has some freedom to increase someone’s pay within that salary band. Orange believes strongly in individual targets and incentives. If people reach predetermined targets (that ideally belong to a cascaded system of targets or budget that builds up to strong creation of shareholder value), they will receive a hardy bonus. Strong differences in pay between top and bottom earners are seen as perfectly acceptable, as they reflect people’s merits and contributions.
 
 
   #### **Green Organizatio**ns
 
 
-  The Green paradigm believes in cooperation as much as in competition; individual incentives begin to make way for team bonuses. Attempts are made to reduce the difference between the highest and lowest earners in the workplace, for instance through a maximum multiple between the CEO pay and the median (or lowest) salary in the organization.
+  The [Green paradigm](../green-paradigm-and-organizations/) believes in cooperation as much as in competition; individual incentives begin to make way for team bonuses. Attempts are made to reduce the difference between the highest and lowest earners in the workplace, for instance through a maximum multiple between the CEO pay and the median (or lowest) salary in the organization.
 inPractice: >-
   #### **How salaries are set and by whom**
 
@@ -67,7 +67,7 @@ inPractice: >-
   ##### ***Self-set (advice-based) systems***
 
 
-  A more empowering version is one where people set their own salaries, calibrated by the advice process from their peers. In this case, generally once a year, people propose what salary raise they believe to be appropriate for themselves, and the justifications for their proposal. This input is reviewed by a number of peers (e.g. in an elected salary advice group) who give individual advice on that proposal, based on a calibration across colleagues. Individuals can then choose to follow the advice they have received or not, and their choice is made public. If it so chooses, the salary advice group can choose to declare a conflict and invoke the conflict resolution mechanism.
+  A more empowering version is one where people set their own salaries, calibrated by the advice process from their peers. In this case, generally once a year, people propose what salary raise they believe to be appropriate for themselves, and the justifications for their proposal. This input is reviewed by a number of peers (e.g. in an elected salary advice group) who give individual advice on that proposal, based on a calibration across colleagues. Individuals can then choose to follow the advice they have received or not, and their choice is made public. If it so chooses, the salary advice group can choose to declare a conflict and invoke the [conflict resolution mechanism](../conflict-resolution/).
 
 
   The process cuts through much of the haggling, strategizing, complaining, and "sucking up" that happens when salaries are set by one's boss. If people are unhappy with their salary, they can simply raise it. And they will face the consequences of their choices, if they decide to place themselves too far outside their peers' advice.
@@ -79,7 +79,7 @@ inPractice: >-
   In the Teal paradigm, people value intrinsic over extrinsic motivators. Once people make enough money to cover their basic needs, what matters most is that work is meaningful and that they can express their talents and callings at work. In the book *Drive*, Daniel Pink concludes from a great amount of research on the matter that in today’s complex work settings, incentives are mostly counterproductive, reducing rather than enhancing people’s performance.
 
 
-  The consequence is that Teal Organizations generally operate without explicit financial incentives at individual and team level. No one, not even sales people, has targets or incentives and there are rarely individual bonuses or stock options. Instead, at the end of very profitable years, some part of the profit will be shared with all employees (in some cases everyone receives the same fixed percent of base salary, in others everyone receives the same fixed amount). See also Ownership.
+  The consequence is that Teal Organizations generally operate without explicit financial incentives at individual and team level. No one, not even sales people, has targets or incentives and there are rarely individual bonuses or stock options. Instead, at the end of very profitable years, some part of the profit will be shared with all employees (in some cases everyone receives the same fixed percent of base salary, in others everyone receives the same fixed amount). See also [Ownership](../ownership/).
 
 
   #### **Compensation inequality**
@@ -117,33 +117,24 @@ faq:
 
       For this reason, many organizations choose to make information totally public. (The social media app maker Buffer even publishes everyone's salary online). Some organizations, like the tomato-processing company Morning Star, have chosen to make the *salary increase percentages* public within the organization, but not the base salary. That might be an intermediary step towards full transparency for an organization to take.
   - question: What happens in times of crisis?
-    answer: "There are several documented examples of self-managing organizations
-      where colleagues have voluntarily decided to temporarily reduce their
-      salaries to weather a downturn so as to avoid having to lay-off staff. In
-      self-managing organizations, all information tends to be public and there
-      is generally a high level of maturity and literacy when it comes to
-      financial matters. In a traditional organization, when revenues are down
-      and the organization faces heavy losses, plans are often made secretly
-      within HR for redundancies. In self-managing organizations, everyone sees
-      the storm coming. Someone, at some point, calls in everyone (or in a large
-      organization, might invite a cross-section of the organization) to a
-      meeting to say: what do we do? From the group, solutions emerge, which in
-      many cases simply come down to everyone agreeing to a temporary salary
-      reduction (with often the highest salaries taking a higher percentage
-      cut). \r
+    answer: >-
+      There are several documented examples of self-managing organizations where
+      colleagues have voluntarily decided to temporarily reduce their salaries
+      to weather a downturn so as to avoid having to lay-off staff. In
+      self-managing organizations, all [information tends to be
+      public](../information-flow/) and there is generally a high level of
+      maturity and literacy when it comes to financial matters. In a traditional
+      organization, when revenues are down and the organization faces heavy
+      losses, plans are often made secretly within HR for redundancies. In
+      self-managing organizations, everyone sees the storm coming. Someone, at
+      some point, calls in everyone (or in a large organization, might invite a
+      cross-section of the organization) to a meeting to say: what do we do?
+      From the group, solutions emerge, which in many cases simply come down to
+      everyone agreeing to a temporary salary reduction (with often the highest
+      salaries taking a higher percentage cut). 
 
-      \r
 
-      Semco, the Brazilian firm that Ricardo Semler's bestseller Maverick
-      made famous, has put in place a \"voluntary risk program\" to
-      institutionalize such salary reductions to protect the organization in
-      times of crisis (to which Brazil has been prone over the last several
-      decades). Employees are offered the option of a risk salary program. They
-      take a pay cut of 25 percent and then receive a supplement raising their
-      compensation to 125 percent if the company has a good year. If the company
-      does poorly, they only receive 75 percent of their salary. As the good
-      years outweigh the bad, the deal is favorable to employees willing to take
-      a risk."
+      Semco, the Brazilian firm that Ricardo Semler's bestseller Maverick made famous, has put in place a "voluntary risk program" to institutionalize such salary reductions to protect the organization in times of crisis (to which Brazil has been prone over the last several decades). Employees are offered the option of a risk salary program. They take a pay cut of 25 percent and then receive a supplement raising their compensation to 125 percent if the company has a good year. If the company does poorly, they only receive 75 percent of their salary. As the good years outweigh the bad, the deal is favorable to employees willing to take a risk.
   - question: How do these practices link with the three Teal breakthroughs?
     answer: >-
       #### **Self-management**
@@ -173,5 +164,6 @@ faq:
       \[Teal organizations are built on the premise that individuals are primarily motivated, after attaining basic needs, by intrinsic factors such as the pursuit of purpose. Thus, they tend not to exhibit the primacy of compensation, including added incentives, typical in Orange or even Green.]
 relatedTheory:
   - Feedback and Performance Management
+  - Dismissal
 ---
 to be removed
