@@ -281,22 +281,16 @@ theory:
   - topic: Feedback and Performance Management
     title: Buurtzorg openly compares team results across the organization and has
       developed a process for giving individual feedback within a team.
-    content: "Each community nursing team manages its own processes and service
+    content: >-
+      Each community nursing team at [Buurtzorg
+      ](http://www.buurtzorgnederland.com/)manages its own processes and service
       delivery. These are shared so that others can adopt developments and good
       practice if they choose. Team performance is shared openly, making very
       apparent which teams are at the bottom of the list. Teams are motivated to
-      improve their performance out of pride, not shame.\r
+      improve their performance out of pride, not shame.
 
-      \r
 
-      All the organization stipulates is that each team must hold annual
-      appraisals based on a competency model that the team has developed. Each
-      team chooses its own format to give feedback. One team decided, for
-      example, to give feedback in groups of three. Everyone prepares their
-      self-evaluation and feedback for the other two. The process allows people
-      to gauge their self-perception against the views of their
-      colleagues[Laloux, Frederic. Reinventing Organizations. Nelson Parker
-      (2014), page 126]. "
+      All the organization stipulates is that each team must hold annual appraisals based on a competency model that the team has developed. Each team chooses its own format to give feedback. One team decided, for example, to give feedback in groups of three. Everyone prepares their self-evaluation and feedback for the other two. The process allows people to gauge their self-perception against the views of their colleagues\[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 126].
   - topic: Strategy
     title: Employees are empowered to self-manage and make changes when needed.
     content: "Two nurses on a Buurtzorg team found themselves pondering the fact
