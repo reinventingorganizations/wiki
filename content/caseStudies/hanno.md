@@ -54,5 +54,5 @@ theory:
       #### **Further information**
 
 
-      Details of this journey and its further evolution are documented in Hanno's online logbook.
+      Details of this journey and its further evolution are documented in Hanno's online logbook.^[Source: https://logbook.hanno.co/choose-your-own-salary/]
 ---
