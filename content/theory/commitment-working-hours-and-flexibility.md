@@ -8,7 +8,7 @@ intro: The topic of commitment, working hours and flexibility includes the
   process of how working hours are set, what commitment a person is expected to
   provide and how organizations respond to changing demands.
 perspective: >-
-  Working Hours
+  #### Working Hours
 
 
   In traditional hierarchies, working hours are specified in an employment contract. There is often an underlying fear that people will not work the hours they are paid for without monitoring, especially at the lower levels in an organization.
@@ -20,13 +20,13 @@ perspective: >-
   When an organization isn’t ready for self-management, self-set working hours can be a good first step. This approach starts to build greater trust and collaboration between boss and subordinate when it works well.
 
 
-  Commitments
+  #### Commitments
 
 
   When colleagues work in a culture where it is normal and necessary to share other commitments in their lives, authenticity and being whole at work are embraced. Openness about personal commitments can develop stronger relationships amongst colleagues and result in a culture where colleagues support each other.
 
 
-  In times of need or crisis, for example in high season,  it is common in Teal organizations for workers, to voluntarily work longer hours to complete a task with motivation and pride, supporting their colleagues and working towards the purpose of the organization.
+  In times of need or crisis, for example in high season,  it is common in [Teal organizations](../teal-paradigm-and-organizations/) for workers, to voluntarily work longer hours to complete a task with motivation and pride, supporting their colleagues and working towards the purpose of the organization.
 
   Every historical stage has given birth to a distinct perspective on commitment, working hours and flexibility, and to very different practices:
 
@@ -34,31 +34,31 @@ perspective: >-
   #### **Red organizations**
 
 
-  In Red organizations, the boss determines working hours for each person. There is no formal process of setting and/or monitoring working hours. People belong to the organization and are expected to be available when needed.
+  In [Red organizations](../red-organizations/), the boss determines working hours for each person. There is no formal process of setting and/or monitoring working hours. People belong to the organization and are expected to be available when needed.
 
 
   #### **Amber organizations**
 
 
-  In Amber OrganizationsAmber organizations, working hours are determined by senior leaders and specified in an employment contract. They decide what work is to be carried out and how working hours will be monitored.
+  In [Amber Organizations](../amber-paradigm-and-organizations/), working hours are determined by senior leaders and specified in an employment contract. They decide what work is to be carried out and how working hours will be monitored.
 
 
   #### **Orange organizations**
 
 
-  In Orange organizations, people generally fall into one of two camps. There are those (often in manual roles) who work a fixed set of hours clocking in and clocking out, and those (often in management positions), who are expected to get their work done regardless of the hours stated in their contract.
+  In [Orange organizations](../orange-paradigm-and-organizations/), people generally fall into one of two camps. There are those (often in manual roles) who work a fixed set of hours clocking in and clocking out, and those (often in management positions), who are expected to get their work done regardless of the hours stated in their contract.
 
 
   #### **Green organizations**
 
 
-  In Green organizations, there is typically a culture of co-operation where people are empowered to work the hours they choose albeit within a defined structure. Flex-time is often used for lower-level workers in order to allow people to fit work in with the rest of their life. Working from home is a realistic option for those whose role allows it.
+  In [Green organizations](../green-paradigm-and-organizations/), there is typically a culture of co-operation where people are empowered to work the hours they choose albeit within a defined structure. Flex-time is often used for lower-level workers in order to allow people to fit work in with the rest of their life. Working from home is a realistic option for those whose role allows it.
 
 
   #### **Teal organizations**
 
 
-  On the surface, Teal organizations may not look so different from Green ones relative to commitment, working hours and flexibility. The difference is in maturity and coherence. Whereas a Green organization might make the practices outlines above available to specific populations, a Teal organization would make these practices widely available as a normal part of the way they operate.
+  On the surface, [Teal organizations ](../teal-paradigm-and-organizations/)may not look so different from Green ones relative to commitment, working hours and flexibility. The difference is in maturity and coherence. Whereas a Green organization might make the practices outlines above available to specific populations, a Teal organization would make these practices widely available as a normal part of the way they operate.
 
 
   Teal organizations often exhibit the following general measures:
@@ -70,9 +70,10 @@ perspective: >-
 
   * There is a shared understanding that at times, individuals may need to vary their commitment to work. These situations are shared and openly discussed so that the task in hand can be completed with everyone’s support.
 inPractice: >-
-  Teal organizations start from the premise that even for routine work, people
-  have a sense of pride and want to do a good job. People are systematically
-  considered to be reliable, self-motivated, trustworthy and intelligent.
+  [Teal organizations ](../teal-paradigm-and-organizations/)start from the
+  premise that even for routine work, people have a sense of pride and want to
+  do a good job. People are systematically considered to be reliable,
+  self-motivated, trustworthy and intelligent.
 
 
   ##### **Commitment**
@@ -84,7 +85,7 @@ inPractice: >-
   ##### **Working hours/flex-time**
 
 
-  In Teal organizations people are trusted to work the hours they need to achieve their own goals. There is no requirement for monitoring of working hours, or clocking in and out, or flex-time. In some Teal organizations such as [FAVI](http://www.favi.com/)and [Sun Hydraulics](http://www.sunhydraulics.com/), the working day is still divided into shifts, which is roughly the time colleagues are expected to spend on the shop floor, but it is not uncommon to see an operator stay on during the following shift to finish a job because he/she knows it needs to be done.
+  In Teal organizations people are trusted to work the hours they need to achieve their own goals. There is no requirement for monitoring of working hours, or clocking in and out, or flex-time. In some Teal organizations such as [FAVI](http://www.favi.com/) and [Sun Hydraulics](http://www.sunhydraulics.com/), the working day is still divided into shifts, which is roughly the time colleagues are expected to spend on the shop floor, but it is not uncommon to see an operator stay on during the following shift to finish a job because he/she knows it needs to be done.
 
 
   ##### **In times of need**
@@ -111,5 +112,7 @@ faq:
       salary process.
 relatedTheory:
   - Meetings
+  - Listening to Purpose
+  - Compensation and incentives
 ---
 to be removed
