@@ -8,12 +8,12 @@ intro: The topic of job titles and job descriptions includes the process of how
   roles and responsibilities are defined and by whom, how they evolve and how
   they are formalized within the organization.
 perspective: >-
-  In Teal organizations jobs are defined by people rather than the
-  organization.: They emerge from a multitude of roles and responsibilities that
-  reflect the interests, talents, and the needs of the organization. By focusing
-  on what needs to happen rather than jobs, Teal organizations are often more
-  adaptable and responsive increasing their capacity to operate as a living
-  system.
+  In [Teal organizations](../teal-paradigm-and-organizations/) jobs are defined
+  by people rather than the organization.: They emerge from a multitude of roles
+  and responsibilities that reflect the interests, talents, and the needs of the
+  organization. By focusing on what needs to happen rather than jobs, Teal
+  organizations are often more adaptable and responsive increasing their
+  capacity to operate as a living system.
 
   Every historical stage has given birth to a distinct perspective on job titles and job descriptions, and to very different practices:
 
@@ -21,31 +21,31 @@ perspective: >-
   #### **Red organizations**
 
 
-  The defining characteristic of Red Organizations is the continuous exercise of power in interpersonal relationships. Overall, there is no formal structured hierarchy and there are no job titles or formalized job descriptions, although maybe clearly delineated roles. The chief must demonstrate overwhelming power and bend others to his will to stay in position. To provide some stability, the chief surrounds himself with family members (who tend to be more loyal) and buys their allegiance by sharing the spoils. Each member of his close guard in turn looks after his own people and keeps them in line.
+  The defining characteristic of [Red Organizations ](../red-organizations/)is the continuous exercise of power in interpersonal relationships. Overall, there is no formal structured hierarchy and there are no job titles or formalized job descriptions, although maybe clearly delineated roles. The chief must demonstrate overwhelming power and bend others to his will to stay in position. To provide some stability, the chief surrounds himself with family members (who tend to be more loyal) and buys their allegiance by sharing the spoils. Each member of his close guard in turn looks after his own people and keeps them in line.
 
 
   #### **Amber organizations**
 
 
-  Amber Organizations bring stability to power with formal titles, well -defined hierarchies and organization charts. The overall structure is a ‘pyramid’, with a cascade of formal reporting lines from top managers or leaders to subordinates. Clear rules stipulate who can do what. Job descriptions and titles are set by the senior leaders to create homogeneity across the organisation. . Many schools, churches, and the Civil Service operate this way today with standardized job descriptions and pay bands. The advantage of this approach is that it enables organisations to achieve on a significant scale. In the process it provides stability and certainty for those employed.
+  [Amber Organizations](../amber-paradigm-and-organizations/) bring stability to power with formal titles, well -defined hierarchies and organization charts. The overall structure is a ‘pyramid’, with a cascade of formal reporting lines from top managers or leaders to subordinates. Clear rules stipulate who can do what. Job descriptions and titles are set by the senior leaders to create homogeneity across the organisation. . Many schools, churches, and the Civil Service operate this way today with standardized job descriptions and pay bands. The advantage of this approach is that it enables organisations to achieve on a significant scale. In the process it provides stability and certainty for those employed.
 
 
   #### **Orange organizations**
 
 
-  Orange Organizations also have organization charts, well-defined job titles and job descriptions. Meritocracy is valued allowing anybody to move up the ladder if they are able. People are not expected to ‘know their place’ and remain in a pre-destined role. Each position will have a job description and title to reflect their place in the organization. The process for defining a job description is more fluid, with the emphasis likely to be on end results rather than duties. Titles matter in these organisations because they describe both the area of responsibility of the jobholder and their status.
+  [Orange Organizations ](../orange-paradigm-and-organizations/)also have organization charts, well-defined job titles and job descriptions. Meritocracy is valued allowing anybody to move up the ladder if they are able. People are not expected to ‘know their place’ and remain in a pre-destined role. Each position will have a job description and title to reflect their place in the organization. The process for defining a job description is more fluid, with the emphasis likely to be on end results rather than duties. Titles matter in these organisations because they describe both the area of responsibility of the jobholder and their status.
 
 
   #### **Green organizations**
 
 
-  Green Organizations also have a hierarchical approach, but are more likely to talk about roles than jobs. Areas of responsibility are defined through the organization charts. Decision making is pushed down to frontline workers who can often make significant  decisions without management approval. Jobs and roles are likely to be more generic and fluid, leaving a degree of freedom in how they are carried out. Titles are less important and employees are often referred to as citizens or family members. Job descriptions refer to external and internal stakeholders and stress the importance of relationship management. The HR team play a key role in describing jobs so that they fit the values and purpose of the organization. 
+  [Green Organizations ](../green-paradigm-and-organizations/)also have a hierarchical approach, but are more likely to talk about roles than jobs. Areas of responsibility are defined through the organization charts. Decision making is pushed down to front-line workers who can often make significant  decisions without management approval. Jobs and roles are likely to be more generic and fluid, leaving a degree of freedom in how they are carried out. Titles are less important and employees are often referred to as citizens or family members. Job descriptions refer to external and internal stakeholders and stress the importance of relationship management. The HR team play a key role in describing jobs so that they fit the values and purpose of the organization. 
 
 
   #### **Teal organizations**
 
 
-  in Teal organizations jobs are defined by people rather than the organization.: Jobs emerge from a multitude of roles and responsibilities that reflect the interests, talents, and the needs of the organization. There are often no job titles or job descriptions. If job descriptions they do exist, they tend to be short, describing a set of accountabilities to the team and/or each other. In some Teal organizations titles are used to denote role and function, in others there are no titles at all. People typically have the option to switch and trade roles according to workload and preferences.  By focusing on what needs to happen rather than jobs, Teal organizations are often more adaptable and responsive increasing their capacity to operate as a living system.
+  in [Teal organizations](../teal-paradigm-and-organizations/) jobs are defined by people rather than the organization.: Jobs emerge from a multitude of roles and responsibilities that reflect the interests, talents, and the needs of the organization. There are often no job titles or job descriptions. If job descriptions they do exist, they tend to be short, describing a set of accountabilities to the team and/or each other. In some Teal organizations titles are used to denote role and function, in others there are no titles at all. People typically have the option to switch and trade roles according to workload and preferences.  By focusing on what needs to happen rather than jobs, Teal organizations are often more adaptable and responsive increasing their capacity to operate as a living system.
 inPractice: >-
   #### **Granular roles vs. defined jobs**
 
@@ -74,7 +74,7 @@ inPractice: >-
   Not everyone is equal and all the jobs are not the same. Some roles have a rather narrow scope (say, the role of operating a certain machine or cleaning the office), while other roles take a broader perspective (for instance, the role of designing a new product line). The fluid arrangement of roles (instead of defined job descriptions) also allows for a better matching of talent with roles.
 
 
-  In Teal organizations there is usually one person recognized for taking the broadest perspective, and usually they are called the CEO, at least by the outside world (even though they don't hold the same responsibilities and power as a traditional CEO). Some well-defined roles can be named,. but for the vast majority of employees, people don’t bother trying to find a label to capture the different roles they hold at any one point in time. In many  The language of employee or staff is often dropped entirely and in some cases replaced with the word, "colleague".
+  In [Teal organizations](../teal-paradigm-and-organizations/) there is usually one person recognized for taking the broadest perspective, and usually they are called the CEO, at least by the outside world (even though they don't hold the same responsibilities and power as a traditional CEO). Some well-defined roles can be named,. but for the vast majority of employees, people don’t bother trying to find a label to capture the different roles they hold at any one point in time. In many  The language of employee or staff is often dropped entirely and in some cases replaced with the word, "colleague".
 
 
   #### **Management tasks within roles**
@@ -103,5 +103,6 @@ faq:
 relatedTheory:
   - Organizational Structure
   - Recruitment
+  - Decision Making
 ---
 to be removed
