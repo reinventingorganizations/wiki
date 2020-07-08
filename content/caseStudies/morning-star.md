@@ -211,17 +211,18 @@ theory:
   - topic: Feedback and Performance Management
     title: Morning Star has developed a team based feedback process for when the
       work carried out can't be compared easily.
-    content: Teams that do very different work (for example, tomato sorting, steam
-      generation and packaging) don’t share metrics to get feedback on their
-      performance. Instead, each team makes an annual self-evaluation
-      presentation to a group of their colleagues. The group includes Chris
-      Rufer, the President and anyone else who wants to join in. They are
-      expected to talk openly about what went well, what didn’t, how well they
-      have used company resources and what their plans are for the coming year.
-      Each presentation lasts several hours and is carefully prepared. They
-      expect tough questions from their colleagues and receive much input. This
-      enables them to review what they have done and refine their plans^[Laloux,
-      Frederic. Reinventing Organizations. Nelson Parker (2014), page 124, 125].
+    content: "[Morning Star ](http://www.morningstarco.com/)Teams that do very
+      different work (for example, tomato sorting, steam generation and
+      packaging) don’t share metrics to get feedback on their performance.
+      Instead, each team makes an annual self-evaluation presentation to a group
+      of their colleagues. The group includes Chris Rufer, the President and
+      anyone else who wants to join in. They are expected to talk openly about
+      what went well, what didn’t, how well they have used company resources and
+      what their plans are for the coming year. Each presentation lasts several
+      hours and is carefully prepared. They expect tough questions from their
+      colleagues and receive much input. This enables them to review what they
+      have done and refine their plans^\\[Laloux, Frederic. Reinventing
+      Organizations. Nelson Parker (2014), page 124, 125]."
   - topic: Compensation and incentives
     title: Salaries are self-initiated, calibrated by the advice given by an elected
       salary committee, and if needed, using the conflict resolution process.
