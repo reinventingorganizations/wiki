@@ -41,7 +41,7 @@ theory:
       **Example for Silence**
 
 
-      Employees can join a 15-minute group meditation or simply sit in silence at their desk for those minutes.
+      At [Sounds True](http://www.soundstrue.com/) mployees can join a 15-minute group meditation or simply sit in silence at their desk for those minutes.
   - topic: Mood Management
     title: At Sounds True members of the organization came up with two ideas for
       Wholeness Events. These promote a mood of fun, trust, wholeness and
