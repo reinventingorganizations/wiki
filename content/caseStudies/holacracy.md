@@ -171,16 +171,12 @@ theory:
     title: In the Holacracy model, a person can be removed from their roles but
       still stay in the member pool and take time to hunt for new roles. If this
       fails, a custom dismissal process, such as a peer removal, can be
-      initiated^[Interview Frederic Laloux with Brian J. Robertson, 2013].
+      initiated.
     content: >-
-      [Holacracy ](http://www.holacracy.org/)does not prescribe a specific
-      process for dismissals. Starting and terminating people’s contracts
-      originally lands in the scope of the top circle, who can then assign that
-      authority as they see fit. For example, there can be an HR role that has
-      authority to hire and fire. Or in the partnership model (as in
-      [HolacracyOne](http://www.holacracy.org/)) there is a partnership removal
-      process with partner peer review (similar to [Morning
-      Star](http://www.morningstarco.com/)).
+      See ^[Interview Frederic Laloux with Brian J. Robertson, 2013]
+
+
+      [Holacracy ](http://www.holacracy.org/)does not prescribe a specific process for dismissals. Starting and terminating people’s contracts originally lands in the scope of the top circle, who can then assign that authority as they see fit. For example, there can be an HR role that has authority to hire and fire. Or in the partnership model (as in [HolacracyOne](http://www.holacracy.org/)) there is a partnership removal process with partner peer review (similar to [Morning Star](http://www.morningstarco.com/)).
 
 
       Because there is no fusion of person and title, the lead link in any circle is free to make a decision and remove somebody from a specific role. The person is not fired in this case, but remains in a member pool and must pitch for other roles. If no new role can be found, the person either leaves voluntarily, or a custom dismissal process is triggered.
