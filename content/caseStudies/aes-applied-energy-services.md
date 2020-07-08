@@ -342,4 +342,17 @@ theory:
 
       * Want to use their talents and skills to make a positive
       contribution to the organization and the world. "
+  - topic: Dismissal
+    title: AES introduced a generous severance program and a loan fund to make
+      post-acquisition layoffs mostly voluntary and less traumatic.
+    content: >-
+      [AES ](http://www.aes.com/)has demonstrated a distinctively Teal approach
+      to layoffs due to structural overstaffing after buying power plants
+      previously owned by governments. After the acquisition, AES had to lay off
+      hundreds of people and managed to do that relatively painlessly through a
+      special voluntary severance program. Here is Dennis Bakke‘s, CEO,
+      perspective on the matter:
+
+
+      *"The right size of a workforce is equal to the number of people needed to make the workplace fun. Having too many employees demoralizes colleagues and causes turf battles. A very astute AES plant manager in Northern Ireland told me that arguments over turf are good indicators that the facility has too many people. No one worries about who does what when there is enough work to go around. My belief that business should not carry unneeded employees does not mean that they should be given pink slips and hustled out the door. Departing employees need time to make the transitions to new work. Organizations should be generous with severance arrangements. We encountered overstaffing almost every time we made an acquisition. One of the first things we did after acquiring a business was to set up a generous and voluntary severance program. Only rarely were individuals asked to leave. In Panama, AES created a loan fund for employees who took the severance package. A year later, I traveled to a celebration lunch with former employees who had left the company. Seventy-one new businesses had been started by these former employees, most of whom tapped the AES loan fund. Even with generous voluntary severance arrangements, the changeover from a company you know to one you don’t can be traumatic. I strongly believe that these difficult transitions are a necessary evil that forces employees and organizations to adjust to a dynamic world. Part of the joy of work is learning new roles and taking on new responsibilities. Job security is attractive gift wrapping, but seldom is there anything of lasting value inside.*"^\[Source: Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), pages 187-188]
 ---
