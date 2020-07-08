@@ -424,4 +424,44 @@ theory:
       to Creating Organizations Inspired by the Next Stage of Human
       Consciousness (Kindle Locations 4363-4378). Nelson Parker. Kindle
       Edition]."
+  - topic: Dismissal
+    title: A novel alternative to dismissal in a time of crisis
+    content: "When CEO Jean-François Zobrist was faced with critical decisions, he
+      readily looked to the workforce for help. More than once, on impulse, he
+      went around the shop floor, asked everybody to stop the machines, climbed
+      on a soapbox and shared his problem.\r
+
+      \r
+
+      His first major crisis happened in 1990 when orders plummeted in the
+      wake of the First Gulf War. there simply wasn’t enough work to keep
+      workers busy. Capacity and costs needed to be reduced. There was one
+      obvious solution: fire the temp workers.\r
+
+      \r
+
+      But at FAVI, no one was really considered a temp worker. For reasons
+      related to labor laws in France, new recruits were hired as temp workers
+      for 18 months before being offered a full contract. Most were already
+      considered full members of their teams. By firing them, FAVI would rescind
+      its moral commitment to them, and it would lose talent it had invested in,
+      with a recovery perhaps only a few months away.\r
+
+      \r
+
+      With no clear answers, Zobrist found himself on the soapbox and
+      shared his dilemma with all employees (including the temp workers whose
+      fate was being discussed). People shouted questions and proposals. One
+      said, “This month, why don’t we all work only three weeks and get three
+      weeks’ pay, and we keep the temp workers? If we need to, we will do the
+      same thing next month as well.”\r
+
+      \r
+
+      Heads nodded, the proposal was put to a vote, and unanimously
+      agreed. Workers just agreed to a temporary 25 percent salary cut. In less
+      than an hour, the problem was solved and machine noise reverberated around
+      the factory again.\r
+
+      \r\n"
 ---
