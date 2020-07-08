@@ -38,13 +38,13 @@ perspective: >-
   #### Red Organizations
 
 
-  The status of group members is denoted by their proximity to the leader. Role allocation is at his discretion (or that of his close allies). A failure to align with the leader’s wishes will likely result in a loss of status. Loyalty and success are likely to earn more power. Family ties to the leader may also determine status.
+  In [Red Organizations](../red-organizations/) the status of group members is denoted by their proximity to the leader. Role allocation is at his discretion (or that of his close allies). A failure to align with the leader’s wishes will likely result in a loss of status. Loyalty and success are likely to earn more power. Family ties to the leader may also determine status.
 
 
   #### Amber Organizations
 
 
-  Formal charts, hierarchies and titles are typical in Amber organizations. Roles and promotions are based on formal processes. Power can be a function of:
+  Formal charts, hierarchies and titles are typical in [Amber organizations](../amber-paradigm-and-organizations/). Roles and promotions are based on formal processes. Power can be a function of:
 
 
   * The personal opinion of a higher ranking member
@@ -57,7 +57,7 @@ perspective: >-
   #### Orange Organizations
 
 
-  Roles in Orange are fixed, tied to a box in an organization chart, and documented in a “job description”. Many roles focus in part or whole on “managing” those below in the hierarchy. Thus roles are inevitably linked to seniority, title and promotion.
+  Roles in [Orange ](../orange-paradigm-and-organizations/)are fixed, tied to a box in an organization chart, and documented in a “job description”. Many roles focus in part or whole on “managing” those below in the hierarchy. Thus roles are inevitably linked to seniority, title and promotion.
 
 
   Thus roles become interwoven with other activities like succession planning, job rotation and talent management. These are designed to groom "high potentials" for future management roles
@@ -66,7 +66,7 @@ perspective: >-
   #### Green Organizations
 
 
-  Green organizations are similar to Orange in respect of roles. But the emphasis on ‘managing’ others is tempered by encouragement to act as servant leaders. In some companies, subordinates can select the person to fill the role of their manager.
+  [Green organizations](../green-paradigm-and-organizations/) are similar to Orange in respect of roles. But the emphasis on ‘managing’ others is tempered by encouragement to act as servant leaders. In some companies, subordinates can select the person to fill the role of their manager.
 inPractice: >-
   #### Roles instead of jobs
 
@@ -119,7 +119,7 @@ inPractice: >-
   In some cases, several candidates express heavy interest in the same role and a more formal process might be called for: 
 
 
-  * *Interviews*: Candidates may be interviewed by those who will work closely with them.  Interviewers can choose to decide on the winning candidate using a number of decision making mechanisms, such as consensus, majority vote or the advice process. 
+  * *Interviews*: Candidates may be interviewed by those who will work closely with them.  Interviewers can choose to decide on the winning candidate using a number of [decision making](../decision-making/) mechanisms, such as consensus, majority vote or the advice process. 
 
   * *Elections*: [Sociocracy ](https://en.wikipedia.org/wiki/Sociocracy)and [Holacracy ](http://www.holacracy.org/)use a consent-based election process for certain roles. Colleagues nominate their preferred candidates. A facilitator then helps the group to decide.
 
@@ -137,13 +137,12 @@ inPractice: >-
   #### Scope of responsibility
 
 
-  In Teal Organizations, while people have clear roles and responsibilities, their concerns need not be limited to these. They can take the wellbeing of the whole organization to heart. Then, via the advice process, anyone can take action if they sense an issue. As there are no bosses, there is no one to say, “That is none of your business.”
+  In Teal Organizations, while people have clear roles and responsibilities, their concerns need not be limited to these. They can take the well-being of the whole organization to heart. Then, via the [advice process](../decision-making/), anyone can take action if they sense an issue. As there are no bosses, there is no one to say, “That is none of your business.”
 
 
   [Morning Star](http://morningstarco.com/) talks about "total responsibility”. All colleagues are obliged to do something when they sense an issue, even if it’s outside the scope of their roles. That usually means talking about the problem or opportunity with a colleague whose role does relate to the topic. It’s considered unacceptable to say: “Somebody should do something about this problem”, and leave it at that.
 faq:
-  - question: "  [masquer]  Why do we need roles? Can't we work without formalizing
-      any roles?"
+  - question: Why do we need roles? Can't we work without formalizing any roles?
     answer: "By the very nature of the division of labor in organizations, people
       end up taking up certain roles. Colleagues often feel a need for clarity
       around these roles, for example \"I need help with X: who can I talk
@@ -159,62 +158,43 @@ faq:
       definitions.  Remember, roles can be fluidly created, modified, exchanged
       and scrapped, using peer-based rather than top-down processes. "
   - question: What kind of "management" roles can be given to team members?
-    answer: "In traditional organizations, managers act on behalf of those below
-      them. Many such ‘management’ tasks disappear in self-managing
-      organizations. Those that are still needed can be distributed among team
-      members. For example:\r
-
-      \r
-
-      * Anticipating: Everyone can anticipate the future, but some teams
-      might find it useful to have one person dedicate time to anticipate the
-      need for long term changes.\r
-
-      * Planning: This can be further broken down, for instance into shift
-      planning, raw material planning, etc. \r
-
-      Setting objectives: Individuals and teams can set objectives to spur
-      themselves on. One person can take the lead using the advice process. \r
-
-      * Monitoring performance indicators: Compiling data into easy to
-      understand insights to share with the team.\r
-
-      * Recruiting: Taking the lead in the recruitment process of new team
-      members.\r
-
-      * On-boarding: Taking the lead in organizing the on-boarding of new
-      team members.\r
-
-      * Coaching: Coaching junior team members, or anyone asking for
-      coaching.\r
-
-      * Mediating: Mediating conflicts.\r
-
-      * Facilitating: Facilitating team meetings and decision making
-      processes.\r
-
-      * Scribe: Documenting important conversations and decisions of the
-      team.\r
-
-      * Knowledge management: Capturing and codifying  insights.\r
-
-      * Continuous improvement: Taking the lead in maintaining processes
-      for continuous improvement.\r
-
-      * Coordinating with outside parties: Being the contact person for
-      certain constituencies outside of the team (\"I'm coordinating with the
-      marketing team\") or outside the organization (\"I'm coordinating with
-      hospitals, you are liaising with pharmacies\"). \r
-
-      * Sensing team mood: Sensing how the team as a whole and persons
-      within the team feel, and initiate conversations when needed.\r
-
-      * Organizing social events: Creating events that build community
-      feeling.\r
+    answer: >-
+      In traditional organizations, managers act on behalf of those below them.
+      Many such ‘management’ tasks disappear in self-managing organizations.
+      Those that are still needed can be distributed among team members. For
+      example:
 
 
-      The advice process is the basis for which to make decision in these
-      roles."
+      * *Anticipating*: Everyone can anticipate the future, but some teams might find it useful to have one person dedicate time to anticipate the need for long term changes.
+
+      * *Planning*: This can be further broken down, for instance into shift planning, raw material planning, etc. 
+        Setting objectives: Individuals and teams can set objectives to spur themselves on. One person can take the lead using the advice process. 
+      * *Monitoring performance indicators*: Compiling data into easy to understand insights to share with the team.
+
+      * *Recruiting*: Taking the lead in the recruitment process of new team members.
+
+      * *On-boarding:* Taking the lead in organizing the on-boarding of new team members.
+
+      * *Coaching*: Coaching junior team members, or anyone asking for coaching.
+
+      * *Mediating*: Mediating conflicts.
+
+      * *Facilitating*: Facilitating team meetings and decision making processes.
+
+      * *Scribe*: Documenting important conversations and decisions of the team.
+
+      * *Knowledge management*: Capturing and codifying  insights.
+
+      * *Continuous improvement*: Taking the lead in maintaining processes for continuous improvement.
+
+      * *Coordinating with outside parties*: Being the contact person for certain constituencies outside of the team ("I'm coordinating with the marketing team") or outside the organization ("I'm coordinating with hospitals, you are liaising with pharmacies"). 
+
+      * *Sensing team mood*: Sensing how the team as a whole and persons within the team feel, and initiate conversations when needed.
+
+      * *Organizing social events*: Creating events that build community feeling.
+
+
+      The advice process is the basis for which to make decision in these roles.
   - question: How do these practices link with the three Teal breakthroughs?
     answer: >-
       #### Self-management
@@ -235,5 +215,6 @@ faq:
       When processes and a culture exists that help roles evolve continuously, it helps the organization adapt and support its evolving purpose.
 relatedTheory:
   - Organizational Structure
+  - Job Titles and Job Descriptions
 ---
 to be removed
