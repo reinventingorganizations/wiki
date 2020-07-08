@@ -15,48 +15,51 @@ perspective: >-
   targets, when they feel it is necessary.
 
 
-  Teal organizations evolve through sensing and responding to the environment. The process of listening to evolutionary purpose is used to decide on the next steps for a team or for the whole organization.
+  Teal organizations evolve through sensing and responding to the environment. The process of listening to [evolutionary purpose](../evolutionary-purpose/) is used to decide on the next steps for a team or for the whole organization.
+
 
   Every historical stage has given birth to a distinct perspective on job titles and job descriptions, and to very different practices:
 
-  Red Organizations
 
-  Red organizations are characterized by opportunistic and often reactive behaviors. Rather than being a formal process, objectives and target setting is an inherent aspect of protecting and/or expanding one's power base.
+  #### **Red Organizations**
+
+
+  [Red organizations](../red-organizations/) are characterized by opportunistic and often reactive behaviors. Rather than being a formal process, objectives and target setting is an inherent aspect of protecting and/or expanding one's power base.
 
 
   #### **Amber Organizations**
 
 
-  In Amber organizations objectives are set by senior management. The only input from lower levels is technical or operational information, either as part of their jobs or by special request from above. The roll-out of the plans to achieve these objectives are in the form of directives to lower levels, with targets as part of the directives. Employees have little direct contact with top management, and are expected to follow orders, even if their experience / knowledge of local conditions suggest different actions.
+  In [Amber organizations](../amber-paradigm-and-organizations/) objectives are set by senior management. The only input from lower levels is technical or operational information, either as part of their jobs or by special request from above. The roll-out of the plans to achieve these objectives are in the form of directives to lower levels, with targets as part of the directives. Employees have little direct contact with top management, and are expected to follow orders, even if their experience / knowledge of local conditions suggest different actions.
 
 
   #### **Orange Organizations**
 
 
-  Orange organizations formalize the process of strategic planning, setting vision, mission, values and objectives as part of a formal planning process and through the lens of the organization as a machine. This starts at the Board and Executive level followed up with business units, teams or departments. These lower levels are expected to develop their own strategic plans aligned with the corporate vision, mission and objectives.
+  [Orange organizations](../Orange_Organizations) formalize the process of strategic planning, setting vision, mission, values and objectives as part of a formal planning process and through the lens of the organization as a machine. This starts at the Board and Executive level followed up with business units, teams or departments. These lower levels are expected to develop their own strategic plans aligned with the corporate vision, mission and objectives.
 
 
-  Targets are hence set at the various levels to achieve the objectives as part of a move from the ‘command and control’ of Amber to one of ‘predict and control’. Top management formulates the overall direction and strategy and this is cascaded through the organization as targets, goals and objectives. Managers and staff are given freedom to use their creativity to achieve these objectives and may be offered incentives to do so. When aligned well, middle management, and to some extent lower levels, have the freedom to determine how they will achieve their objectives. When not thoughtfully aligned this approach can lead to gaming of targets, with teams sometimes working against each other to achieve their own goals.
+  Targets are hence set at the various levels to achieve the objectives as part of a move from the ‘command and control’ of [Amber ](../amber-paradigm-and-organizations/)to one of ‘predict and control’. Top management formulates the overall direction and strategy and this is cascaded through the organization as targets, goals and objectives. Managers and staff are given freedom to use their creativity to achieve these objectives and may be offered incentives to do so. When aligned well, middle management, and to some extent lower levels, have the freedom to determine how they will achieve their objectives. When not thoughtfully aligned this approach can lead to gaming of targets, with teams sometimes working against each other to achieve their own goals.
 
 
   #### **Green Organizations**
 
 
-  A metaphor that is sometimes used to describe consensus-focused Green organization is that of “family.” Green is uneasy with power and hierarchy and shifts authority and decision-making from managers to staff members. In practice successful Green organizations do have hierarchical structures. Managers often operate as servant leaders who are there to support and develop their employees. Objectives and targets are often set by consensus at the team level to support a predefined vision and mission.
+  A metaphor that is sometimes used to describe consensus-focused [Green organization ](../green-paradigm-and-organizations/)is that of “family.” Green is uneasy with power and hierarchy and shifts authority and decision-making from managers to staff members. In practice successful Green organizations do have hierarchical structures. Managers often operate as servant leaders who are there to support and develop their employees. Objectives and targets are often set by consensus at the team level to support a predefined vision and mission.
 
 
   #### **Teal Organizations**
 
 
-  Using the metaphor of a living system,Teal organizations organize around a clear sense of purpose This is not a purpose (mission) set by top management, but one that is allowed to evolve and is shared by all members of the organization.
+  Using the metaphor of a living system,[Teal organizations](../teal-paradigm-and-organizations/) organize around a clear sense of [purpose ](../listening-to-purpose/)This is not a purpose (mission) set by top management, but one that is allowed to evolve and is shared by all members of the organization.
 
 
-  Aligned with the organization's purpose, planning is based on "sense and respond", with an emphasis on an agile approach to finding workable solutions. This adaptive process is similar to lean start-up and \[software development] principles. Decision-making is carried out within a framework of organization-wide values and balanced through an advice process. Strategy emerges organically from the interaction of employees with the Teal organizational environment. Self-managing employees may set objectives for themselves, or a team may decide on an objective, e.g. faster turnaround time, but there are no sales, efficiency or other targets. The process of seeking advice from colleagues and specialists before committing to a project or change ensures that all aspects, including financial responsibility, is taken into consideration. Part of the value system is that no single member or group of members may put the organization at risk with ill-considered or selfish actions or projects.
+  Aligned with the organization's purpose, planning is based on "sense and respond", with an emphasis on an agile approach to finding workable solutions. This adaptive process is similar to lean start-up and [[software development](https://en.wikipedia.org/wiki/Agile_software_development%7Cagile)] principles. Decision-making is carried out within a framework of organization-wide values and balanced through an [advice process](../decision-making/). Strategy emerges organically from the interaction of employees with the Teal organizational environment. Self-managing employees may set objectives for themselves, or a team may decide on an objective, e.g. faster turnaround time, but there are no sales, efficiency or other targets. The process of seeking advice from colleagues and specialists before committing to a project or change ensures that all aspects, including financial responsibility, is taken into consideration. Part of the value system is that no single member or group of members may put the organization at risk with ill-considered or selfish actions or projects.
 inPractice: >-
   #### **The problem with objectives**
 
 
-  In the Orange-Achievement paradigm, objectives and targets are the key drivers for success. They are the glue that holds the organization together, and give meaning to its existence. In the Teal-Evolutionary paradigm, purpose  and values drive the organization. The objective is to bring to life the purpose of the organization. There are no formal systems or top-down processes in place for setting objectives and targets. All the functions of management (planning, organizing, direction-setting, investments, budgeting, etc) are done by the people doing the work. In general, Teal-Evolutionary organizations tend not to set objectives or targets.
+  In the Orange-Achievement paradigm, objectives and targets are the key drivers for success. They are the glue that holds the organization together, and give meaning to its existence. In the Teal-Evolutionary paradigm, [purpose  ](../listening-to-purpose/)and [values ](../culture-and-values/)drive the organization. The objective is to bring to life the purpose of the organization. There are no formal systems or top-down processes in place for setting objectives and targets. All the functions of management (planning, organizing, direction-setting, investments, budgeting, etc) are done by the people doing the work. In general, Teal-Evolutionary organizations tend not to set objectives or targets.
 
 
   From a Teal-Evolutionary perspective, objectives and targets are problematic:
@@ -107,28 +110,25 @@ inPractice: >-
 faq:
   - question: If no sales targets are set, how will the company know how much to
       sell to achieve both break even and profitability?
-    answer: "Financial information is available to all, and everybody is trained to
+    answer: >-
+      Financial information is available to all, and everybody is trained to
       read and understand financial information. They are also trained how to
       relate the information to their activities. Since every member is
       responsible for the health of the whole organization, they know exactly
-      what outputs are required to keep the organization financially healthy.\r
+      what outputs are required to keep the organization financially healthy.
 
-      \r
 
-      Whether the teams have specific persons in sales roles, or are
-      responsible for sales as part of their ongoing duties, everybody has a
-      clear idea of what is happening in the marketplace, what customers' needs
-      are and what other offerings there are.\r
+      Whether the teams have specific persons in sales roles, or are responsible for sales as part of their ongoing duties, everybody has a clear idea of what is happening in the marketplace, what customers' needs are and what other offerings there are.
 
-      \r
 
-      The beauty of the self-organizing nature of Teal organizations is
-      that they can sense and adapt to market changes in real-time.
-      Orange-Achievement organizations have to wait for feedback from sales
-      teams and market research, then go through a laborious target setting and
-      decision making process and then implement changes."
+      The beauty of the [self-organizing ](../self-management/)nature of [Teal organizations](../teal-paradigm-and-organizations/) is that they can sense and adapt to market changes in real-time. Orange-Achievement organizations have to wait for feedback from sales teams and market research, then go through a laborious target setting and decision making process and then implement changes.
 relatedTheory:
   - Coordination
   - Evolutionary Purpose
+  - Listening to Purpose
+  - Budgeting and Controlling
+  - Decision Making
+  - Feedback and Performance Management
+  - Strategy
 ---
 to be removed
