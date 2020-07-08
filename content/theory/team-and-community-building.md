@@ -9,12 +9,13 @@ intro: Team / Community Building is a key factor in group achievements. The
   their appreciation of the collective consciousness of the group. This section
   looks at different approaches and ways to strengthen the bonds within a team.
 perspective: >-
-  In Teal organizations, teams are guided by a common purpose and a high level
-  of awareness and connectedness between employees. People share for the common
-  good. Weaknesses are seen as sensitivities (rather than flaws) that can help
-  the group learn and grow without the need for supervisors or managers.
-  Tensions freely rise up from within and are resolved at the heart of the team.
-  As organizations move towards Teal, the bonds between people become deeper,
+  In [Teal organizations](../teal-paradigm-and-organizations/), teams are guided
+  by a common [purpose ](../listening-to-purpose/)and a high level of awareness
+  and connectedness between employees. People share for the common good.
+  Weaknesses are seen as sensitivities (rather than flaws) that can help the
+  group learn and grow without the need for supervisors or managers. Tensions
+  freely rise up from within and are resolved at the heart of the team. As
+  organizations move towards Teal, the bonds between people become deeper,
   stronger and more open.
 
 
@@ -24,36 +25,36 @@ perspective: >-
   ### Red organizations
 
 
-  In [Red organization](https://reinventingorganizations-wiki.netlify.app/theory/red-organizations/)s, teams are held by the leader’s charisma and his ability to transmit his energy and goals to his employees. The leader’s strength and power protects the community from its fears and worries about the outside world.
+  In [Red organizations](../red-organizations/), teams are held by the leader’s charisma and his ability to transmit his energy and goals to his employees. The leader’s strength and power protects the community from its fears and worries about the outside world.
 
 
   ### Amber organizations
 
 
-  In [Amber organizations](https://reinventingorganizations-wiki.netlify.app/theory/amber-paradigm-and-organizations/), managers are responsible for the results of their teams. Instructions are given and clear parameters, processes and policies guide decision making. Team efficiency generally depends on the ability of its’ managers to communicate objectives in a clear and realistic way. Two way communication is often considered unnecessary. Employees often feel a strong sense of belonging to their organization and form close bonds within their peer group. People usually socialize with others at the same level in the organization.
+  In [Amber organizations](../amber-paradigm-and-organizations/), managers are responsible for the results of their teams. Instructions are given and clear parameters, processes and policies guide decision making. Team efficiency generally depends on the ability of its’ managers to communicate objectives in a clear and realistic way. Two way communication is often considered unnecessary. Employees often feel a strong sense of belonging to their organization and form close bonds within their peer group. People usually socialize with others at the same level in the organization.
 
 
   ### Orange organizations
 
 
-  In [Orange organizations](https://reinventingorganizations-wiki.netlify.app/theory/orange-paradigm-and-organizations/) teamwork skills are seen as a way to help improve employee performance and productivity. Orange organizations often promote team building activities and incorporate them into the fabric of the company. Team building is considered as a competitive activity. Events are sometimes designed to provide strong emotional experiences (facing challenges, extreme sports, parties, etc.) to bond people together. Learning about different personality types is often included so that people learn to adapt their behavior for the benefit of the team.
+  In [Orange organizations](../orange-paradigm-and-organizations/) teamwork skills are seen as a way to help improve employee performance and productivity. Orange organizations often promote team building activities and incorporate them into the fabric of the company. Team building is considered as a competitive activity. Events are sometimes designed to provide strong emotional experiences (facing challenges, extreme sports, parties, etc.) to bond people together. Learning about different personality types is often included so that people learn to adapt their behavior for the benefit of the team.
 
 
   ### Green organizations
 
 
-  In Green organizations, there is room for sharing feelings and emotions with colleagues. Fun and social activities are often organized so that people can get to know each other better. This increases understanding and confidence between peers. Team building is also designed to support the development of shared values and vision through bottom up processes. Team or community building activities are usually driven by HR initiatives. Green organizations also frequently invest in external community engagement and community building as part of their social responsibility strategy.
+  In [Green organizations](../green-paradigm-and-organizations/), there is room for sharing feelings and emotions with colleagues. Fun and social activities are often organized so that people can get to know each other better. This increases understanding and confidence between peers. Team building is also designed to support the development of shared values and vision through bottom up processes. Team or community building activities are usually driven by HR initiatives. Green organizations also frequently invest in external community engagement and community building as part of their social responsibility strategy.
 
 
   ### Teal organizations
 
 
-  In Teal organizations, the strength of connection between people tends to produce an environment where collective intelligence is encouraged and listened to. Everyone contributes in their own way, recognizing that when the group thrives – they thrive. People are encouraged to bring all of themselves to work , sharing vulnerability, ideas and strengths in a trustful environment. They use practices that support open and trusting communication, encouraging creativity in the workplace. They also often encourage taking time to be still and reflective through meditation or silent practices.
+  In [Teal organizations](../teal-paradigm-and-organizations/), the strength of connection between people tends to produce an environment where collective intelligence is encouraged and listened to. Everyone contributes in their own way, recognizing that when the group thrives – they thrive. People are encouraged to bring all of themselves to work , sharing vulnerability, ideas and strengths in a trustful environment. They use practices that support open and trusting communication, encouraging creativity in the workplace. They also often encourage taking time to be still and reflective through meditation or silent practices.
 inPractice: >-
   ### Bringing our whole selves to work
 
 
-  Teal organizations encourage practices and ways of working that honor the whole person. Feelings, thoughts, physical attributes and in some cases spiritual aspects of life are celebrated. Connection is supported by the development of a common language for people to express their feelings and thoughts. Teal organizations support community and team building by creating and attending to a safe and open workplace . Practices of group reflection are encouraged to develop collective intelligence. Team building becomes part of the day to day work of these organizations and is no longer a separate activity for "team away days".
+  [Teal organizations](../teal-paradigm-and-organizations/) encourage practices and ways of working that honor the whole person. Feelings, thoughts, physical attributes and in some cases spiritual aspects of life are celebrated. Connection is supported by the development of a common language for people to express their feelings and thoughts. Teal organizations support community and team building by creating and attending to a [safe and open workplace](../safe-space/). Practices of group reflection are encouraged to develop collective intelligence. Team building becomes part of the day to day work of these organizations and is no longer a separate activity for "team away days".
 
 
   ### Reflective Practices
@@ -87,13 +88,13 @@ inPractice: >-
   ### Silence
 
 
-  To listen to our inner wisdom , we need to find time to slow down and be still amidst the noise and buzz of the work place. Teal organizations typically support practices of mindfulness and silence in the workplace. Organizations like Sounds True or Heiligenfeld offer space and time for silence or meditation, sometimes when the day starts, or at points during the working day. Collaborating in silence brings a special quality to relationships between colleagues. It requires a new level of mindfulness, listening less to what colleagues say, and more to their presence, feelings, and intentions.
+  To listen to our inner wisdom , we need to find time to slow down and be still amidst the noise and buzz of the work place. Teal organizations typically support practices of mindfulness and silence in the workplace. Organizations like [Sounds True](http://www.soundstrue.com/) or [Heiligenfeld ](http://www.heiligenfeld.de/)offer space and time for silence or meditation, sometimes when the day starts, or at points during the working day. Collaborating in silence brings a special quality to relationships between colleagues. It requires a new level of mindfulness, listening less to what colleagues say, and more to their presence, feelings, and intentions.
 
 
   ### Team supervision / Conflict resolution
 
 
-  Working in teams, which is what most people do in self-managing organizations, invariably brings up tensions. Employees run into colleagues with different styles, preferences, and belief systems. They can choose, as most organizations do, to sweep the tensions under the rug. Or they can choose to confront and address them. Doing so invariably allows those involved to grow. When tensions and feelings are shared in a productive and respectful way, issues can be identified and resolved for the good of the organization. Conflict resolution skills are thus often necessary to improve team work.
+  Working in teams, which is what most people do in [self-managing ](../self-management/)organizations, invariably brings up tensions. Employees run into colleagues with different styles, preferences, and belief systems. They can choose, as most organizations do, to sweep the tensions under the rug. Or they can choose to confront and address them. Doing so invariably allows those involved to grow. When tensions and feelings are shared in a productive and respectful way, issues can be identified and resolved for the good of the organization. [Conflict resolution](../conflict-resolution/) skills are thus often necessary to improve team work.
 
 
   ### Storytelling
@@ -127,5 +128,8 @@ faq:
       themselves in genuine ways are very important, also for that reason."
 relatedTheory:
   - Culture and Values
+  - Conflict resolution
+  - Creating Safe Space
+  - Mood Management
 ---
 removed
