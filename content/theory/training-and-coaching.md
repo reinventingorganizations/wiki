@@ -10,7 +10,7 @@ perspective: >-
   #### A new perspective
 
 
-  Teal organizations are self-managed, and can provide exceptional learning opportunities. Everyone is encouraged to develop their roles and, the more they embrace opportunities, the more they learn. The key difference is that people take responsibility for their own development. There is no HR department running training courses to fill roles in the organization. It is common though for Teal organizations to offer significant on-boarding
+  Teal organizations are self-managed, and can provide exceptional learning opportunities. Everyone is encouraged to develop their roles and, the more they embrace opportunities, the more they learn. The key difference is that people take responsibility for their own development. There is no HR department running training courses to fill roles in the organization. It is common though for [Teal organizations](../teal-paradigm-and-organizations/) to offer significant [on-boarding](../onboarding/)
 
 
   Every historical stage has brought a distinctive approach to training and coaching.
@@ -19,19 +19,19 @@ perspective: >-
   #### **Red organizations**
 
 
-  In Red organizations it is important to learn about power: how it is acquired, and how it is used. This learning comes by watching and listening. There may be 'initiation' rites. There may be training in the tools of the trade. Beyond that, most knowledge is acquired by watching and listening as one obtains more and more seniority - like an informal apprenticeship.
+  In [Red organizations](../red-organizations/) it is important to learn about power: how it is acquired, and how it is used. This learning comes by watching and listening. There may be 'initiation' rites. There may be training in the tools of the trade. Beyond that, most knowledge is acquired by watching and listening as one obtains more and more seniority - like an informal apprenticeship.
 
 
   #### **Amber organizations**
 
 
-  In Amber organizations roles are clearly divided and specific. Training is provided to enable those at each level in the organization to carry out their duties and responsibilities effectively (for example officer training in the military). For some, vocational training is offered by independent institutions (vocational schools or universities). The qualification can be  specific to a particular profession. On-going training often takes place on-the-job, enabling the best at each level to be considered for promotion.
+  In [Amber organizations](../amber-paradigm-and-organizations/) roles are clearly divided and specific. Training is provided to enable those at each level in the organization to carry out their duties and responsibilities effectively (for example officer training in the military). For some, vocational training is offered by independent institutions (vocational schools or universities). The qualification can be  specific to a particular profession. On-going training often takes place on-the-job, enabling the best at each level to be considered for promotion.
 
 
   #### **Orange organizations**
 
 
-  Orange organizations have adopted the revolutionary premise of meritocracy. In principle, anybody can move up the ladder. The mail room boy can become the CEO - even if that boy happens to be a girl or have a minority back-ground. This progress is supported by a Training Department, often a sub-section of HR. It is not unusual to have lists of competencies required for each role in the organization (sales people, technicians, new managers, emerging managers, senior managers, and so on). The pervasive thinking is that talent should be developed to fill the present and future boxes on the organization chart. This breakthrough in social fairness gives people options, at least in principle, to pursue the path that best suits their talents.
+  [Orange organizations](../orange-paradigm-and-organizations/) have adopted the revolutionary premise of meritocracy. In principle, anybody can move up the ladder. The mail room boy can become the CEO - even if that boy happens to be a girl or have a minority back-ground. This progress is supported by a Training Department, often a sub-section of HR. It is not unusual to have lists of competencies required for each role in the organization (sales people, technicians, new managers, emerging managers, senior managers, and so on). The pervasive thinking is that talent should be developed to fill the present and future boxes on the organization chart. This breakthrough in social fairness gives people options, at least in principle, to pursue the path that best suits their talents.
 
 
   Coaching is often available to senior managers and leaders to help them settle into new roles and perform better. Coaching is usually not available to those lower down in the organization.
@@ -40,7 +40,7 @@ perspective: >-
   #### **Green organizations**
 
 
-  Green organizations build on the practices of Orange organizations by adding a twist to management development. Managers are expected to be in service to those they lead, support and serve. Candidates for management positions are often screened for mindset and behavior to assess:
+  [Green organizations](../green-paradigm-and-organizations/) build on the practices of Orange organizations by adding a twist to management development. Managers are expected to be in service to those they lead, support and serve. Candidates for management positions are often screened for mindset and behavior to assess:
 
 
   * whether they are ready to share power?
@@ -59,12 +59,12 @@ perspective: >-
   #### **Teal organizations**
 
 
-  Teal organizations do not have an HR function. However, because they are self-managed, they can provide exceptional learning opportunities. Everyone is encouraged to develop their roles and try out new things. The more they embrace opportunities, the more they learn--either from their colleagues or from the training taken to develop new skills. The key difference is that people take responsibility for their own development. There is no HR department running training courses to fill roles in the organization. Teal organizations still invest in skills training. But this is often delivered by colleagues. It is common for Teal organizations to offer significant on-boarding training. It is difficult to transfer from a traditional organization without learning the new rules, and unlearning the old ones.
+  [Teal organizations](../teal-paradigm-and-organizations/) do not have an HR function. However, because they are self-managed, they can provide exceptional learning opportunities. Everyone is encouraged to develop their roles and try out new things. The more they embrace opportunities, the more they learn--either from their colleagues or from the training taken to develop new skills. The key difference is that people take responsibility for their own development. There is no HR department running training courses to fill roles in the organization. Teal organizations still invest in skills training. But this is often delivered by colleagues. It is common for Teal organizations to offer significant on-boarding training. It is difficult to transfer from a traditional organization without learning the new rules, and unlearning the old ones.
 inPractice: >-
   #### **Training**
 
 
-  In a Teal organization there is no need for career development programs. Instead training tends to focus on personal growth and building a common culture. Skill training programs are still needed and are open to all those who require them. They are often led by colleagues rather than external trainers because the training then becomes deeply infused with the company’s values and culture.
+  In a Teal organization there is no need for career development programs. Instead training tends to focus on personal growth and building a common culture. Skill training programs are still needed and are open to all those who require them. They are often led by colleagues rather than external trainers because the training then becomes deeply infused with the company’s [values and culture](../culture-and-values/).
 
 
   ##### ***Personal responsibility and freedom for training***
@@ -91,7 +91,7 @@ inPractice: >-
   Training tends to be a continuous process for all in the organization. This typically happens through the advice process and through dedicating time to support the organizational culture.
 
 
-  The advice process enables people to talk to and seek the advice of a range of people they would probably not have to deal with in a more conventional organization. As a consequence much is learnt about wide range of issues. The variety of roles that people take on also encourages this process.<!--StartFragment-->
+  The advice process enables people to talk to and seek the advice of a range of people they would probably not have to deal with in a more conventional organization. As a consequence much is learnt about wide range of issues. The variety of roles that people take on also encourages this process.
 
 
   Teal organizations also end to run regular sessions to help build and develop the culture. These can include sessions where people can work on their own development with group support through to workshops designed to tune into the purpose of the organization. At [FAVI](http://www.favi.com/) Jean-François Zobrist hosted a session every Friday morning to address a specific cultural issue; these were open to anyone.
@@ -144,8 +144,8 @@ faq:
       are wasted.
 relatedTheory:
   - Onboarding
-  - Safe Space
   - Culture and Values
   - Meetings
+  - Creating Safe Space
 ---
 to be removed
