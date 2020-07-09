@@ -34,19 +34,19 @@ perspective: >-
   #### Red organizations
 
 
-  In Red Organizations, change is directed by the boss. A Red organization can often adapt quickly in chaotic environments, because the leader can initiate rapid change, if necessary through intimidation. Change typically consists of immediate reactions to threats and opportunities rather than a response to more gradual and longer term (although no less important) developments. Little attention is paid to altering ingrained patterns of employee behavior over time.
+  In [Red Organizations](../red-organizations/), change is directed by the boss. A Red organization can often adapt quickly in chaotic environments, because the leader can initiate rapid change, if necessary through intimidation. Change typically consists of immediate reactions to threats and opportunities rather than a response to more gradual and longer term (although no less important) developments. Little attention is paid to altering ingrained patterns of employee behavior over time.
 
 
   #### Amber organizations
 
 
-  The Amber paradigm believes the world is (or should) be essentially immutable: what was true yesterday should be true today and tomorrow. It is built around an orderly structure and formal, stable processes. Change is primarily via small improvements to enhance the excellence of existing processes and traditions. Amber organizations can display a strong resistance to the need for change, especially if the nature of the change threatens ideological boundaries or social norms. When outside forces do impose the need for change, the change is mandated top-down with little thought of how change could be planned to minimize resistance. In that sense, there is little or no "change management" to speak of. 
+  The [Amber paradigm](../amber-paradigm-and-organizations/) believes the world is (or should) be essentially immutable: what was true yesterday should be true today and tomorrow. It is built around an orderly structure and formal, stable processes. Change is primarily via small improvements to enhance the excellence of existing processes and traditions. Amber organizations can display a strong resistance to the need for change, especially if the nature of the change threatens ideological boundaries or social norms. When outside forces do impose the need for change, the change is mandated top-down with little thought of how change could be planned to minimize resistance. In that sense, there is little or no "change management" to speak of. 
 
 
   #### Orange organizations
 
 
-  Orange organizations are more likely to embrace change. Innovation is the key to outperforming competitors. Change should be constant. Unfortunately, as Orange organizations are typically structured as hierarchical pyramids, change can be difficult. Thus, the constant pursuit of change, hindered by the static nature of the organization, gave rise to "change management" and an industry of tools and consultancies to help organizations overcome their internal resistance to change.^[For prominent theories developed to facilitate organizational change, see for instance Kurt Lewin’s three-stage model of change and John Kotter’s eight-step process for leading change.]
+  [Orange organizations](../orange-paradigm-and-organizations/) are more likely to embrace change. Innovation is the key to outperforming competitors. Change should be constant. Unfortunately, as Orange organizations are typically structured as hierarchical pyramids, change can be difficult. Thus, the constant pursuit of change, hindered by the static nature of the organization, gave rise to "change management" and an industry of tools and consultancies to help organizations overcome their internal resistance to change.^\[For prominent theories developed to facilitate organizational change, see for instance Kurt Lewin’s three-stage model of change and John Kotter’s eight-step process for leading change.]
 
 
   In Orange, the dominant perspective on change comes from engineering. The typical steps to any change (e.g., re-organizations, re-structuring, re-branding, re-positioning, etc.) are to diagnose the current situation, design the desired future state, and then plan the change journey from here to there. For large change projects, this might involve several projects, program milestones and a central "program office" that reports to the top leadership. This kind of change planning is typically performed by a small team of senior leaders or "high potentials", sometimes with the help of external consultants. When their plan is approved by senior management, it is communicated throughout the organization, often with some “burning platform” message (“we must act now, or we are doomed”) due to the perceived need to provide the necessary motivation for change. Consistent with the Orange metaphor likening the organization to a machine, the phrase “drive change” is common. Change, in others words, is done to people, not via people.
@@ -55,7 +55,7 @@ perspective: >-
   #### Green organizations
 
 
-  Green organizations try to be more consensual. Having only a handful of people design the future state and change process sits uncomfortably with Green's ideal of empowerment. More people are likely to be involved. This might take the form of large group workshops and innovative facilitation techniques (think for instance, Appreciative Inquiry, Theory U, Open Space, etc.) in which a large number of colleagues participate. The every-day hierarchical structure of the organization is suspended temporarily to make room for an organic process of collective intelligence. The outcomes are then fed back into the traditional structures and processes of the organization. Involving a larger number of colleagues in the planning of change can feel risky for the senior leadership (what if the group veers in a direction we don't want?), but it tends to increase the buy-in of employees and improve future designs by capturing the insights of collective intelligence.
+  [Green organizations](../green-paradigm-and-organizations/) try to be more consensual. Having only a handful of people design the future state and change process sits uncomfortably with Green's ideal of empowerment. More people are likely to be involved. This might take the form of large group workshops and innovative facilitation techniques (think for instance, Appreciative Inquiry, Theory U, Open Space, etc.) in which a large number of colleagues participate. The every-day hierarchical structure of the organization is suspended temporarily to make room for an organic process of collective intelligence. The outcomes are then fed back into the traditional structures and processes of the organization. Involving a larger number of colleagues in the planning of change can feel risky for the senior leadership (what if the group veers in a direction we don't want?), but it tends to increase the buy-in of employees and improve future designs by capturing the insights of collective intelligence.
 inPractice: >-
   Change management is less of an issue in Teal organizations. Change tends to
   happen more naturally, and continuously, with less effort or management. It's
@@ -87,10 +87,10 @@ faq:
       of changes that build up over time. In other cases, a sudden, external
       shock occurs (say, the biggest client goes bust, or a key regulation
       changes). In such circumstances, drastic and quick actions may be
-      necessary, calling for the advice process to be suspended, and for
-      decisions to be made quickly by a small group of people or even an
-      individual. However, it is made clear to all that such a suspension is
-      temporary. See “Crisis Management”.
+      necessary, calling for the [advice process](../decision-making/) to be
+      suspended, and for decisions to be made quickly by a small group of people
+      or even an individual. However, it is made clear to all that such a
+      suspension is temporary. See “Crisis Management”.
   - question: How do these practices link with the three Teal breakthroughs?
     answer: >-
       All three Teal breakthroughs support a more fluid, organic approach to
@@ -116,5 +116,8 @@ faq:
 relatedTheory:
   - Listening to Purpose
   - Evolutionary Purpose
+  - Decision Making
+  - Crisis Management
+  - Project teams and task forces
 ---
 to be removed
