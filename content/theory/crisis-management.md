@@ -4,11 +4,9 @@ tags: theory
 key: Crisis Management
 name: Crisis Management
 category: Important Processes
-intro: "The topic of Crisis Management addresses the organizational process of
+intro: The topic of Crisis Management addresses the organizational process of
   making swift or particularly challenging decisions at times of crisis, and how
-  this may differ from regular decision making processes.\r
-
-  \r\n"
+  this may differ from regular [decision making](../decision-making/) processes.
 perspective: >-
   In a Teal organization, everyone is involved in decision making to allow the
   best response to emerge from collective intelligence. 
@@ -19,25 +17,25 @@ perspective: >-
   #### Red Organizations
 
 
-  In the Red paradigm, the organization's short term planning horizon and its reactive nature makes it familiar with crises. Decisions can be made on a whim and are passed down to employees from above by using the Red breakthrough of command authority.
+  In the [Red paradigm](../red-organizations/), the organization's short term planning horizon and its reactive nature makes it familiar with crises. Decisions can be made on a whim and are passed down to employees from above by using the Red breakthrough of command authority.
 
 
   #### Amber Organizations
 
 
-  In the Amber paradigm, the organization is more stable and predictable.  Processes and procedures define the way things are done. It is assumed that workers need direction.  In the unpredictable realm of crisis, the CEO and highest management make decisions which are then translated into orders for those further down the hierarchy. They are expected to follow without question.
+  In the [Amber paradigm](../amber-paradigm-and-organizations/), the organization is more stable and predictable.  Processes and procedures define the way things are done. It is assumed that workers need direction.  In the unpredictable realm of crisis, the CEO and highest management make decisions which are then translated into orders for those further down the hierarchy. They are expected to follow without question.
 
 
   #### Orange Organizations
 
 
-  In the Orange paradigm, decision making is based on effectiveness, measured by impact on measures like profit and market share. Decision-making in Orange is based more on expertise than on hierarchy. In crisis a task force of select advisors might meet confidentially to advise the CEO and board. Top management will be under pressure to regain control and as a consequence decision making may be centralized in the hands of the senior executives . Decisions are typically communicated after they are made and then expected to be implemented swiftly.
+  In the [Orange paradigm](../orange-paradigm-and-organizations/), decision making is based on effectiveness, measured by impact on measures like profit and market share. Decision-making in Orange is based more on expertise than on hierarchy. In crisis a task force of select advisors might meet confidentially to advise the CEO and board. Top management will be under pressure to regain control and as a consequence decision making may be centralized in the hands of the senior executives . Decisions are typically communicated after they are made and then expected to be implemented swiftly.
 
 
   #### Green Organizations
 
 
-  In values-driven, purpose-led Green organizations, decentralization and empowerment help to push day-to-day decision making down to frontline workers who can make them without management approval. For far-reaching decisions, consensus is valued, and sought, by senior management before they act. Crises challenge these practices. For highly contentious and time-sensitive decisions, it may be that the CEO steps in, suspends the consensus model, and makes a top down determination.
+  In values-driven, purpose-led [Green organizations](../green-paradigm-and-organizations/), decentralization and empowerment help to push day-to-day decision making down to frontline workers who can make them without management approval. For far-reaching decisions, consensus is valued, and sought, by senior management before they act. Crises challenge these practices. For highly contentious and time-sensitive decisions, it may be that the CEO steps in, suspends the consensus model, and makes a top down determination.
 
 
   #### Teal Organizations
@@ -48,7 +46,7 @@ inPractice: >-
   #### Upholding the advice process
 
 
-  The regular decision making model adopted by Teal organizations is the advice process, which distributes decision-making. This remains the preferred approach to deal with crisis situations.
+  The regular [decision making](../decision-making/) model adopted by Teal organizations is the advice process, which distributes decision-making. This remains the preferred approach to deal with crisis situations.
 
 
   ##### *Trusting the process*
@@ -115,5 +113,6 @@ relatedTheory:
   - wholeness
   - Evolutionary Purpose
   - Change Management
+  - Decision Making
 ---
 to be removed
