@@ -22,7 +22,7 @@ perspective: >-
   Nelson Parker. Kindle Edition.]
 
 
-  For Teal organizations, the impetus for innovation stems from an organization’s evolutionary purpose. The concept of innovation expands beyond benefit to the organization and is not approached through the traditional lenses of profit and competition. To evaluate if an innovation is worthwhile, Teal uses a wide range of evidence of beauty, creativity and ultimately service to the organization's purpose and therefore to society.
+  For [Teal organizations](../teal-paradigm-and-organizations/), the impetus for innovation stems from an organization’s [evolutionary purpose](../evolutionary-purpose/). The concept of innovation expands beyond benefit to the organization and is not approached through the traditional lenses of profit and competition. To evaluate if an innovation is worthwhile, Teal uses a wide range of evidence of beauty, creativity and ultimately service to the organization's purpose and therefore to society.
 
 
   For more on innovation and product development in earlier stage organizations:
@@ -31,25 +31,25 @@ perspective: >-
   #### **Red organizations**
 
 
-  Red organizations are opportunistic and adaptive in response to their circumstances, but without organizing specifically for innovation.
+  [Red organizations](../red-organizations/) are opportunistic and adaptive in response to their circumstances, but without organizing specifically for innovation.
 
 
   #### Amber organizations
 
 
-  Amber organizations value predictable processes. Their sustained existence is tied to the maintenance of proven tools and roles. Innovations are adopted, cautiously, after top-down endorsement.
+  [Amber organizations](../amber-paradigm-and-organizations/) value predictable processes. Their sustained existence is tied to the maintenance of proven tools and roles. Innovations are adopted, cautiously, after top-down endorsement.
 
 
   #### Orange organizations
 
 
-  With Orange, innovation becomes a core practice. It is necessary to stay competitive. At the organization level, there is investment in R&D. Research centers might be established. At the operating level, units are encouraged to be creative in how they achieve their targets. All these activities are subject to review in the regular operating and strategic planning cycles.
+  With [Orange](../orange-paradigm-and-organizations/), innovation becomes a core practice. It is necessary to stay competitive. At the organization level, there is investment in R&D. Research centers might be established. At the operating level, units are encouraged to be creative in how they achieve their targets. All these activities are subject to review in the regular operating and strategic planning cycles.
 
 
   #### Green organizations
 
 
-  Green organizations are values-based. This colors their approach to innovation. It’s not only about making money, but about also serving their greater purpose. This is reflected in product development/selection at, say, a place like Whole Foods. And it encourages service level initiative—as at Southwestern Airlines. Their multi-stakeholder view encourages them to find novel approaches to labor relations, employee empowerment, customer service, shareholder interests, and the communities of which they are a part.
+  [Green organizations](../green-paradigm-and-organizations/) are values-based. This colors their approach to innovation. It’s not only about making money, but about also serving their greater purpose. This is reflected in product development/selection at, say, a place like Whole Foods. And it encourages service level initiative—as at Southwestern Airlines. Their multi-stakeholder view encourages them to find novel approaches to labor relations, employee empowerment, customer service, shareholder interests, and the communities of which they are a part.
 inPractice: >-
   In Teal, the focus is to find better ways to serve the organization's unique
   sense of evolutionary purpose, rather than out-think the competition. Members
@@ -121,22 +121,23 @@ faq:
       #### Self-management
 
 
-      Self management allows anybody to innovate and develop improvements in products and services with minimal delay. The empathetic understanding that frontline staff have for their customers can be used to act on observed needs.
+      [Self management](../self-management/) allows anybody to innovate and develop improvements in products and services with minimal delay. The empathetic understanding that frontline staff have for their customers can be used to act on observed needs.
 
 
       #### Wholeness
 
 
-      Wholeness is integrated into the design and product development process through a "whole brain" approach. Teal innovation designs for aspects such as beauty and through intuition as well as more traditional market or customer analysis.
+      [Wholeness](../wholeness/) is integrated into the design and product development process through a "whole brain" approach. Teal innovation designs for aspects such as beauty and through intuition as well as more traditional market or customer analysis.
 
 
       #### Evolutionary purpose
 
 
-      In Teal, innovations are selected first and foremost based on fit with the organization's purpose. Furthermore, innovation plays a key role in the evolution of that purpose.
+      In Teal, innovations are selected first and foremost based on fit with the organization's [purpose](../evolutionary-purpose/). Furthermore, innovation plays a key role in the evolution of that purpose.
 relatedTheory:
   - sales-marketing
   - Strategy
   - Listening to Purpose
+  - Project teams and task forces
 ---
 to be removed
