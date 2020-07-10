@@ -219,28 +219,18 @@ theory:
   - topic: Innovation and Product Development
     title: FAVI invents the first method for molding 100 % pure copper - for
       challenge and beauty, with zero market research.
-    content: "In the 1990s, Zobrist (CEO) and a few colleagues at FAVI became
-      fascinated with the following idea: foundries always produce alloys,
-      because pure copper cannot be molded. What if FAVI could somehow do the
-      impossible - shape industrial products made of 100 percent pure copper?
-      They started tinkering.\r
+    content: >-
+      In the 1990s, Zobrist (CEO) and a few colleagues at [FAVI
+      ](http://www.favi.com/)became fascinated with the following idea:
+      foundries always produce alloys, because pure copper cannot be molded.
+      What if FAVI could somehow do the impossible - shape industrial products
+      made of 100 percent pure copper? They started tinkering.
 
-      \r
 
-      Would there be a market for such products? They had no idea, but
-      they didn't care to commission a market study. Pure copper has some
-      properties, like electrical conductivity, that alloys don't have; such a
-      property must have a purpose. What really got them excited was not the
-      market they might discover. They were excited by the beauty of the
-      seemingly impossible: to shape pure copper.\r
+      Would there be a market for such products? They had no idea, but they didn't care to commission a market study. Pure copper has some properties, like electrical conductivity, that alloys don't have; such a property must have a purpose. What really got them excited was not the market they might discover. They were excited by the beauty of the seemingly impossible: to shape pure copper.
 
-      \r
 
-      After two years of tinkering, they succeeded. And as they had
-      imagined, a market came knocking at their door. Pure copper rotors have
-      interesting properties in electrical motors. This is now an important
-      business for FAVI.^[Laloux, Frederic. Reinventing Organizations. Nelson
-      Parker (2014), page 208]"
+      After two years of tinkering, they succeeded. And as they had imagined, a market came knocking at their door. Pure copper rotors have interesting properties in electrical motors. This is now an important business for FAVI.^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 208]
   - topic: Innovation and Product Development
     title: FAVI invents a new antiseptic copper alloy for hospitals using aesthetics
       and intuition.
