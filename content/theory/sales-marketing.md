@@ -4,7 +4,7 @@ tags: theory
 key: sales-marketing
 name: Sales and Marketing
 category: Important Processes
-intro: the required intro
+intro: This article discusses sales and marketing processes in Teal organizations.
 perspective: >-
   Starting with the Orange paradigm, businesses have become highly sophisticated
   at segmenting customers based on their conscious and unconscious needs,
@@ -28,7 +28,7 @@ inPractice: >-
   ### Inside-out offer defined by purpose
 
 
-  Earlier stage organizations will develop marketing strategies based heavily on an analysis of customers (using surveys, focus groups, etc.) with the objective of increasing sales, profit, market share, etc. often by creating artificial needs. This could be characterized as an “outside in” approach. Teal organizations take an “inside out” approach where product development and communication are driven by the desire to fulfill the organization’s purpose. See also [Innovation and Product Development](http://reinventingorganizationswiki.com/Innovation_and_Product_Development).  
+  Earlier stage organizations will develop marketing strategies based heavily on an analysis of customers (using surveys, focus groups, etc.) with the objective of increasing sales, profit, market share, etc. often by creating artificial needs. This could be characterized as an “outside in” approach. Teal organizations take an “inside out” approach where product development and communication are driven by the desire to fulfill the organization’s purpose. See also[ Innovation and Product Development](../innovation-and-product-development/).  
 
 
   ### Marketing driven more by purpose than product
@@ -63,5 +63,7 @@ inPractice: >-
 faq: []
 relatedTheory:
   - Listening to Purpose
+  - Evolutionary Purpose
+  - Innovation and Product Development
 ---
-the required body.
+to be removed
