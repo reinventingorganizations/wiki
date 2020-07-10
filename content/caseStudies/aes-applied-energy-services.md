@@ -117,6 +117,7 @@ theory:
       about the total aspect of the business, they’ll never be the same.”*
       ^[Alex Markels, \"Blank Check,\" The Wall Street Journal, April 9, 1998)]
 
+
       At AES, every team established its investment budget once a year.
       Budgets would be added up at the plant level, sometimes running as high as
       $300 million in a year. When teams were satisfied with the consolidated
