@@ -46,7 +46,7 @@ inPractice: >-
   #### Radically simplified project management
 
 
-  In Teal organizations, there are no project or program managers, no software systems or Gantt charts to organize or control the various projects underway. There is minimal project budgeting, no master plan and rarely a timeline. A huge amount of time is freed by dropping all the formalities of project planning— writing the plan, getting approval, reporting on progress, explaining variations, rescheduling, and re-estimating, not to mention the politics that go into securing resources for one’s project or to find someone to blame when projects are over time or over budget.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 1924-1927). Nelson Parker. Kindle Edition.]
+  In Teal organizations, there are no project or program managers, no software systems or Gantt charts to organize or control the various projects underway. There is minimal project budgeting, no master plan and rarely a timeline. A huge amount of time is freed by dropping all the formalities of project planning— writing the plan, getting approval, reporting on progress, explaining variations, rescheduling, and re-estimating, not to mention the politics that go into securing resources for one’s project or to find someone to blame when projects are over time or over budget.^[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 1924-1927). Nelson Parker. Kindle Edition.]
 
 
   #### Fluid physical space
@@ -55,13 +55,13 @@ inPractice: >-
   In companies where Teal projects and task forces are standard, the architectural layout may be designed to support a fluid structure. The office at Sun Hydraulics is a big open space with custom-designed cubicles that go only waist high. At a glance, people can see who is there and can overhear many conversations. It greatly improves collaboration, colleagues say.
 
 
-  At [Valve](https://www.valvesoftware.com/hu/), a Seattle game developer, all employees have desks on wheels. They roll their desks around depending on the projects they join or leave. The company has even designed an intranet app so colleagues could locate each other easily. It displays an office map, in real-time, showing where people have plugged in their computers.^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 85-6]
+  At [Valve](https://www.valvesoftware.com/hu/), a Seattle game developer, all employees have desks on wheels. They roll their desks around depending on the projects they join or leave. The company has even designed an intranet app so colleagues could locate each other easily. It displays an office map, in real-time, showing where people have plugged in their computers.^[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 85-6]
 
 
   #### Task forces instead of formal staff departments
 
 
-  In Teal companies, voluntary task forces are often used to perform tasks typically carried out by traditional staff departments. This has multiple benefits: Employees can find ways to express talents and gifts their primary role might not call for. They can develop areas of expertise that can then be shared with others in the organization. Task forces are also formidable learning opportunities; people pick up technical and leadership skills from more experienced colleagues in a modern-day form of apprenticeship. \[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 90] See also Staff Functions
+  In Teal companies, voluntary task forces are often used to perform tasks typically carried out by traditional staff departments. This has multiple benefits: Employees can find ways to express talents and gifts their primary role might not call for. They can develop areas of expertise that can then be shared with others in the organization. Task forces are also formidable learning opportunities; people pick up technical and leadership skills from more experienced colleagues in a modern-day form of apprenticeship.^[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 90] See also Staff Functions
 faq:
   - question: Doesn’t this lead to chaos?
     answer: Teal organizations trust the collective intelligence of the system.
