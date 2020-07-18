@@ -519,4 +519,30 @@ theory:
 
 
       In others, after some deliberation, the person comes to see that trust is irrevocably broken and understands it is time to leave. If no agreement can be found, and as a last attempt to settle the matter, team members can ask Jos de Blok, the founder, to mediate. In the rare case where even that fails, they can ask him to put an end to the person’s contract (legally, he is the only one who can do so)^[Source: Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 128].
+  - topic: Staff Functions
+    title: Buurtzorg has a bare minimum central staff and has put in place
+      mechanisms to leverage its decentralized expertise.
+    content: >-
+      Buurtzorg has 9,000 employees, with a headquarters of only 40. There are
+      no typical staff roles (no CFO, head of HR, etc.). Most headquarters
+      employees are involved in administrative tasks (social security
+      administration, for instance).
+
+
+      How is it possible to manage a 9,000-person-strong organization with such a bare bones headquarters? Many of the typical staff tasks are simply devolved back to the teams. Take recruitment for example: when a team feels the need to expand, it does its own recruiting (the regional coach might give advice when asked, but is not involved in the decision). Chances are that the team will co-opt somebody who fits in well. Because the team members make the decision themselves, they are emotionally invested in making the recruit successful.
+
+
+      How about expertise? At Buurtzorg, it doesn’t make sense for every one of the roughly 600 Buurtzorg teams to develop expertise in every arcane medical condition they might encounter. But rather than create staff roles, Buurtzorg has developed a number of effective alternatives to deal with a need for expertise, both medical and non-medical:
+
+
+      * Nurses on the teams are encouraged to build up expertise and become contact points beyond their team. Through Buurtzorg’s intranet, nurses can easily identify and access colleagues with relevant expertise in a specific subject area.
+
+      * Occasionally, volunteer task forces of nurses are set up to, in addition to their work with patients, investigate a new topic and build up expertise (for instance, how Buurtzorg should adapt in response to new legislation).
+
+      * When needed, an expert can be hired as a consultant , rather than brought into a staff role.
+
+      * If a staff person is hired, they have no decision-making authority over teams.
+
+
+      As an illustration, in a meeting of Buurtzorg’s regional coaches, a suggestion was made to hire a specialist in labor law, a topic many teams occasionally need assistance with. The suggestion made sense. And yet, other avenues were explored After closer examination, it appeared that most questions were recurring, and so the group decided to create a self-help section of “frequently asked questions on labor law” on Buurtzorg’s intranet. This took care of most questions, but a year later, the group realized that some questions still popped up for which the FAQ provided no answers. It was decided to contract a freelance expert for a few days per month who would answer questions from teams on request.^[Source: Laloux, Frederic. Reinventing Organizations. Nelson Parker, Brussels, Belgium (2014)]
 ---
