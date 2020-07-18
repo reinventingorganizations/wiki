@@ -112,7 +112,6 @@ faq:
 
       Central staff functions tend to make the organization more static and prevent innovations from happening freely at the margins, thereby slowing down the unfolding of the organization's purpose. Dealing in decentralized ways with the need for expertise, economies of scale and joint standards increases an organization's agility, and thereby its potential to pursue its evolutionary purpose.
 relatedTheory:
-  - Organizational Structure
-  - Decision Making
+  - Coordination
 ---
 to be removed
