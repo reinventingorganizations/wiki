@@ -454,4 +454,43 @@ theory:
       the factory again.\r
 
       \r\n"
+  - topic: Staff Functions
+    title: At FAVI, almost all central staff functions have disappeared and been
+      integrated into "mini-factories".
+    content: "Today, FAVI has more than 500 employees who are organized into 21
+      teams called “mini-factories” of 15 to 35 people. Most of the teams are
+      dedicated to a specific customer or customer type (the Volkswagen team,
+      the Audi team, the Volvo team, the water meter team, and so forth). There
+      are a few upstream production teams (the foundry team, the mold repair
+      team, maintenance), and support teams (engineering, quality, lab,
+      administration, and sales support). Each team self-organizes; there is no
+      middle management, and there are virtually no rules or procedures other
+      than those that the teams decide upon themselves.\r
+
+      \r
+
+      The staff functions have nearly all disappeared. The former HR,
+      planning, scheduling, engineering, production, IT and purchasing
+      departments have all been shut down. Their tasks have been taken over by
+      the operators in the teams, who do their own hiring, purchasing, planning,
+      and scheduling.\r
+
+      \r
+
+      When opportunities arise that span the boundaries of several teams,
+      FAVI workers self-nominate to create a temporary project team. Sometimes a
+      person is appointed for a staff role to coordinate across teams, but that
+      person receives no authority to impose decisions on the teams. For
+      example, at FAVI there is Denis, an engineer, whose role is to help teams
+      exchange insights and best practices. He spends his days encouraging
+      machine operators to go and see what other teams have come up with. He
+      can’t coerce a team into adopting another team’s ideas. He must get them
+      interested and excited. If he fails to do so, if teams stop seeing added
+      value in his work, then his role will naturally disappear, and Denis will
+      need to find himself another role to fill. In the true sense of the word,
+      he has a support function. This is highly unusual for manufacturing
+      environments - an engineer who is in service to and not in command of
+      less-educated (but highly skilled) blue-collar workers..^[Source: Laloux,
+      Frederic. Reinventing Organizations. Nelson Parker, Brussels, Belgium
+      (2014)]"
 ---
