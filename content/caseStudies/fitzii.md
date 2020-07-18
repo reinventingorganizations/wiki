@@ -149,4 +149,21 @@ theory:
 
 
       The meeting agenda is created in “real time” at the beginning of every meeting. This reduces bureaucracy and any politicking for topics that may not interest the whole group, or have urgency. Each team head and board member shares four items: what s/he is a) focused on, b) excited about, c) concerned about, and d) tasks that need immediate attention. Urgent topics, and those of broad interest, are discussed, and others deferred. Meeting notes are accessible to all Fitzii team members.
+  - topic: Staff Functions
+    title: Fitzii has no dedicated staff functions. Individuals from functional
+      teams volunteer to act as stewards of various staff functions, as needed.
+    content: >-
+      Fitzii is organized in three parallel teams along functional lines –
+      product & development, sales & marketing, and hiring success. Every Fitzii
+      employee is a member of one of these teams, depending on his or her core
+      role.
+
+
+      In addition, Fitzii team members volunteer to steward various staff roles such as finances, purchasing, and human resources. The individual steward accumulates expertise and moves decisions, actions, and projects forward. These allocations are based on individual interest and the team’s overall needs.
+
+
+      A practical example: when Fitzii developed a peer-based 360-degree feedback process, various team members were interested in contributing. Initially, development of the new feedback process lagged as no one was clearly responsible for moving it forward. When the team noticed this, one coworker from the product & development team took the role of steward of the feedback process. He collected advice and opinions from other interested coworkers, proposed a process based on their advice, and took over practical implementation of the new practice. In that sense, the role is less about authority over a particular staff function and more about serving the team’s practical needs.
+
+
+      Additionally, the team has regular access to subject matter experts from its parent company, the [Ian Martin Group,](http://ianmartin.com/) as well as external experts, such as legal counsel.
 ---
