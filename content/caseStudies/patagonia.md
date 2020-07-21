@@ -72,55 +72,19 @@ theory:
 
       In Patagonia hire is made slowly with interview from peers, as much as possible from withiɳ.
   - topic: Environmental and Social Management
-    content: "Patagonia embraced reduction of their environmental foot-print ― even
-      at the risk of negative impact to the bottom line. Yvon Chouinard,
-      Patagonia’s founder, gives this example:\r
+    content: >-
+      [Patagonia ](http://www.patagonia.com/)embraced reduction of their
+      environmental foot-print ― even at the risk of negative impact to the
+      bottom line. Yvon Chouinard, Patagonia’s founder, gives this example:
 
-      \r
 
-      \"In the mid-nineties, we decided to change the packaging of our
-      thermal underwear. We were using a thick, wraparound cardboard header
-      inside a heavy Ziploc plastic bag... For the heavier-weight expedition
-      underwear, we decided to go without any packaging at all and hang them up
-      like regular clothing... For the underwear made of lighter-weight
-      material, we just rolled them up and put a rubber band around them. We
-      were warned to be prepared for a 30 percent cut in sales... we were
-      competing with companies...extremely competitive with their packaging...
-      We did it anyway because it was the right thing to do. The first year this
-      practice kept twelve tons of material from being shipped around the
-      world... and being dumped into landfills... it saved the company $150,000
-      in unnecessary packaging... (and) brought us a 25 percent increase in
-      thermal underwear sales. Since they weren’t hidden away in a package and
-      had to be displayed like the regular clothing, people could feel the
-      material and appreciate the quality. And since they were displayed like
-      the other clothes, we were forced to make our underwear look like regular
-      clothing, to the point that now most Capilene underwear tops can be worn
-      as a regular shirt, fulfilling our goal of making clothes that are
-      multifunctional.\"\r
+      "In the mid-nineties, we decided to change the packaging of our thermal underwear. We were using a thick, wraparound cardboard header inside a heavy Ziploc plastic bag... For the heavier-weight expedition underwear, we decided to go without any packaging at all and hang them up like regular clothing... For the underwear made of lighter-weight material, we just rolled them up and put a rubber band around them. We were warned to be prepared for a 30 percent cut in sales... we were competing with companies...extremely competitive with their packaging... We did it anyway because it was the right thing to do. The first year this practice kept twelve tons of material from being shipped around the world... and being dumped into landfills... it saved the company $150,000 in unnecessary packaging... (and) brought us a 25 percent increase in thermal underwear sales. Since they weren’t hidden away in a package and had to be displayed like the regular clothing, people could feel the material and appreciate the quality. And since they were displayed like the other clothes, we were forced to make our underwear look like regular clothing, to the point that now most Capilene underwear tops can be worn as a regular shirt, fulfilling our goal of making clothes that are multifunctional."
 
-      \r
 
-      Most strikingly, Patagonia resolved in the summer of 1994 to replace
-      all conventionally grown cotton with organic cotton... The raw material
-      cost three times more, and the cotton product line was reduced from 91
-      styles to 66. It was a big risk. And yet Patagonia felt there was no
-      alternative... cotton fields that covered only three percent of the
-      world’s farmland were responsible for 10 percent of the worldwide use of
-      pesticide and 25 percent of the use of insecticides. Against all
-      expectations, Patagonia’s organic cotton program turned out to be
-      financially beneficial. More importantly, it has convinced others in the
-      industry to follow suit.\r
+      Most strikingly, [Patagonia ](http://www.patagonia.com/)resolved in the summer of 1994 to replace all conventionally grown cotton with organic cotton... The raw material cost three times more, and the cotton product line was reduced from 91 styles to 66. It was a big risk. And yet Patagonia felt there was no alternative... cotton fields that covered only three percent of the world’s farmland were responsible for 10 percent of the worldwide use of pesticide and 25 percent of the use of insecticides. Against all expectations, Patagonia’s organic cotton program turned out to be financially beneficial. More importantly, it has convinced others in the industry to follow suit.
 
-      \r
 
-      When the company moved its warehouse from California to Nevada, many
-      colleagues moved too. Some realized that Nevada has lots of wild country
-      and federal land, but very little of it was protected as wilderness. Four
-      employees took the initiative. They got support from company leaders in
-      the form of salries and facilities. They built a broad coalition, went to
-      Washington, and lobbied. As a result, 1.2 million acres of wilderness were
-      protected. ^[Source: Laloux, Frederic. Reinventing Organizations. Nelson
-      Parker (2014), pages 160-172]"
+      When the company moved its warehouse from California to Nevada, many colleagues moved too. Some realized that Nevada has lots of wild country and federal land, but very little of it was protected as wilderness. Four employees took the initiative. They got support from company leaders in the form of salries and facilities. They built a broad coalition, went to Washington, and lobbied. As a result, 1.2 million acres of wilderness were protected. ^\[Source: Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), pages 160-172]
     title: Environmental and social initiatives can start anywhere in the
       organization. To their surprise, they have found alignment to values may
       not undermine financial performance―indeed, quite the contrary.
