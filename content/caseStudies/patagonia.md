@@ -21,9 +21,6 @@ theory:
       Corp in California in January 2012. A B Corporation is a for-profit
       company with a specific social or environmental purpose. The board is
       obliged to protect these non-financial interests."
-  - topic: wholeness
-    title: Test
-    content: test
   - topic: sales-marketing
     title: Marketing as “Don’t Buy Our Product”?!
     content: "Where most brands use marketing to convert prospects into customers,
