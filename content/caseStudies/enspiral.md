@@ -19,6 +19,6 @@ theory:
       themselves. Enspiral is also a network building shared commons, and
       pursuing shared aspirations, that call for collective agreements and
       commitments. There are a variety of situations where it is useful or
-      necessary to make a formal decision as a group.[ See details
-      here.](https://handbook.enspiral.com/decisions_agreement.html)
+      necessary to make a formal decision as a group. [See details
+      here.](https://handbook.enspiral.com/agreements/decisions.html)
 ---
