@@ -38,8 +38,9 @@ theory:
       meetings. The overarching circle sends a representative of its own, the
       “Lead Link” to be part of the discussion in the sub-circle. Both roles
       come with specific accountabilities to ensure proper coordination across
-      circle and sub-circle. See also “Role Definition and Allocation”/”Concrete
-      examples for inspiration”/”Holacracy” and [Holacracy's
+      circle and sub-circle. See also “[Role Definition and
+      Allocation](../role-definition-and-allocation/)”/”Concrete examples for
+      inspiration”/”Holacracy” and [Holacracy's
       constitution](http://www.holacracy.org/constitution).
   - topic: Role Definition and Allocation
     title: A well defined process to create, modify and assign roles
