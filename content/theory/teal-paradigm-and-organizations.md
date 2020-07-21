@@ -14,7 +14,7 @@ intro: >-
   > John Naisbitt
 
 
-  The Teal paradigm refers to the next stage in the evolution of human consciousness.^\[This stage corresponds to Gebser’s “Integral,” Loevinger’s “Integrated,” Cook-Greuter’s “Construct-Aware,” Kegan’s “Inter-individual,” Torbert’s “Strategist” and “Alchemist,” Graves’ “AN,” Spiral Dynamics’ “Yellow,” Maslow’s “Self-actualization,” Wade’s “Authentic,” and others; it is often referred to as integral.] When applied to organizations, this paradigm views the organization as an independent force with its own purpose, and not merely as a vehicle for achieving management's objectives. Teal organizations are characterized by self-organization and self-management. The hierarchical "predict and control" pyramid of Orange is replaced with a decentralized structure consisting of small teams that take responsibility for their own governance and for how they interact with other parts of the organization. Assigned positions and job descriptions are replaced with a multiplicity of roles, often self-selected and fluid. People’s actions are guided not by orders from someone up the chain of command but by ‘listening’ to the organization’s purpose. Unlike the highly static nature of [Amber](../amber-paradigm-and-organizations/), [Orange](https://reinventingorganizations-wiki.netlify.app/theory/orange-paradigm-and-organizations/) and [Green ](https://reinventingorganizations-wiki.netlify.app/theory/green-paradigm-and-organizations/)organizations, the organizational structure in Teal is characterized by rapid change and adaptation, as adjustments are continuously made to better serve the organization's purpose.
+  The Teal paradigm refers to the next stage in the evolution of human consciousness.^\[This stage corresponds to Gebser’s “Integral,” Loevinger’s “Integrated,” Cook-Greuter’s “Construct-Aware,” Kegan’s “Inter-individual,” Torbert’s “Strategist” and “Alchemist,” Graves’ “AN,” Spiral Dynamics’ “Yellow,” Maslow’s “Self-actualization,” Wade’s “Authentic,” and others; it is often referred to as integral.] When applied to organizations, this paradigm views the organization as an independent force with its own purpose, and not merely as a vehicle for achieving management's objectives. Teal organizations are characterized by self-organization and self-management. The hierarchical "predict and control" pyramid of Orange is replaced with a decentralized structure consisting of small teams that take responsibility for their own governance and for how they interact with other parts of the organization. Assigned positions and job descriptions are replaced with a multiplicity of roles, often self-selected and fluid. People’s actions are guided not by orders from someone up the chain of command but by ‘listening’ to the organization’s purpose. Unlike the highly static nature of [Amber](../amber-paradigm-and-organizations/), [Orange](../orange-paradigm-and-organizations/) and [Green ](../green-paradigm-and-organizations/)organizations, the organizational structure in Teal is characterized by rapid change and adaptation, as adjustments are continuously made to better serve the organization's purpose.
 
 
   #### Teal stage of consciousness
@@ -140,19 +140,19 @@ intro: >-
   ##### Teal breakthrough 1: Self-Management
 
 
-  Teal Organizations have found the key to operate effectively, even at a large scale, with a system based on peer relationships, without the need for either hierarchy or consensus. (See [Self-Management](https://reinventingorganizations-wiki.netlify.app/theory/self-management/)).
+  Teal Organizations have found the key to operate effectively, even at a large scale, with a system based on peer relationships, without the need for either hierarchy or consensus. (See [Self-Management](../self-management/)).
 
 
   ##### Teal breakthrough 2: Wholeness
 
 
-  Organizations have always been places that encourage people to show up with a narrow “professional” self and to check other parts of the self at the door. They often require us to show a masculine resolve, to display determination and strength, and to hide doubts and vulnerability. Rationality rules as king, while the emotional, intuitive, and spiritual parts of ourselves often feel unwelcome, out of place. Teal Organizations have developed a consistent set of practices that invite us to reclaim our inner wholeness and bring all of who we are to work. (See [Wholeness](https://reinventingorganizations-wiki.netlify.app/theory/wholeness/)).
+  Organizations have always been places that encourage people to show up with a narrow “professional” self and to check other parts of the self at the door. They often require us to show a masculine resolve, to display determination and strength, and to hide doubts and vulnerability. Rationality rules as king, while the emotional, intuitive, and spiritual parts of ourselves often feel unwelcome, out of place. Teal Organizations have developed a consistent set of practices that invite us to reclaim our inner wholeness and bring all of who we are to work. (See [Wholeness](../wholeness/)).
 
 
   ##### Teal breakthrough 3: Evolutionary Purpose
 
 
-  Teal Organizations are seen as having a life and a sense of direction of their own. Instead of trying to predict and control the future, members of the organization are invited to listen in and understand what the organization wants to become, what purpose it wants to serve. (See [Evolutionary Purpose](https://reinventingorganizations-wiki.netlify.app/theory/evolutionary-purpose/)).
+  Teal Organizations are seen as having a life and a sense of direction of their own. Instead of trying to predict and control the future, members of the organization are invited to listen in and understand what the organization wants to become, what purpose it wants to serve. (See [Evolutionary Purpose](../evolutionary-purpose/)).
 
 
   ##### Teal metaphor: organizations as living systems
