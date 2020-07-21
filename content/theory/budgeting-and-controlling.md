@@ -135,27 +135,17 @@ faq:
       If, however, for some reason an organization feels it needs to keep its spending below what would naturally happen with the advice process (because the organization is cash-strapped, or because there are more opportunities to pursue than cash available), a budget process can be established as a means to have a conversation about spending priorities. In practice, such processes can be set up in ways that are similar to those used to determine [investment](../purchasing-and-investments/) budgets.
   - question: Some type of budgeting might be necessary to ensure the operation of a
       production line for example?
-    answer: "In keeping with the general principle of \"form follows function\"; if
+    answer: >-
+      In keeping with the general principle of "form follows function"; if
       colleagues feel a need for a budget, then by any means, establish a
       budget.  If a production line feels it needs a cost budget, colleagues can
-      convene and create it.\r
+      convene and create it.
 
-      \r
 
-      Before establishing such a budget, it's worthwhile wondering: why do
-      we need a budget?  Often the answer is simply \"to control our
-      costs\".  In many cases, in order to control your costs, you don't need to
-      anticipate the future with a budget.  It's enough to measure and monitor
-      your cost after the facts on a recurring basis - say every month.\r
+      Before establishing such a budget, it's worthwhile wondering: why do we need a budget?  Often the answer is simply "to control our costs".  In many cases, in order to control your costs, you don't need to ***anticipate*** the future with a budget.  It's enough to measure and monitor your cost ***after the facts*** on a recurring basis - say every month.
 
-      \r
 
-      We are so used to budgets, and the illusion of control they provide,
-      that we might simply establish a budget out of habit, because we feel
-      naked in the absence of budgets.  The key question is: \"what's the kind
-      of decision we need to take for which we need a budget?\".  A budget is
-      needed only if it helps anticipate, if the presence of a budget would lead
-      to a different decision on a specific decision. "
+      We are so used to budgets, and the illusion of control they provide, that we might simply establish a budget out of habit, because we feel naked in the absence of budgets.  The key question is: "what's the kind of decision we need to take for which we need a budget?".  A budget is needed only if it helps anticipate, if the presence of a budget would lead to a different decision on a specific decision.
 relatedTheory:
   - Purchasing and Investments
   - Decision Making
