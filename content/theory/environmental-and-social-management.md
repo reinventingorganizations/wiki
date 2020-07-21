@@ -58,7 +58,7 @@ perspective: >-
   In Orange organizations, social and environmental efforts are usually focused on ensuring that legal obligations are met. This does not necessarily imply that Orange dismisses the value of these causes. It is rather that these organizations can only justify taking actions which benefit society and environment if these actions also contribute to the objectives of the organization. To Orange, such initiatives would otherwise need their own organization, with objectives that include those goals.
 
 
-  Some Orange organizations have embraced practices of Corporate Social Responsibility constructively. Some contributions have been remarkable. Orange organizations frequently use their CSR initiatives to support their brand image through marketing.  
+  Some Orange organizations have embraced practices of [Corporate Social Responsibility ](https://en.wikipedia.org/wiki/Corporate_social_responsibility)constructively. Some contributions have been remarkable. Orange organizations frequently use their CSR initiatives to support their brand image through marketing.  
 
 
   **Green organizations**
@@ -70,7 +70,7 @@ perspective: >-
   Dialogue with stakeholders is part of green organizations and, at the time, one of the core issues in CSR strategies
 
 
-  The organization's mission is likely to include social responsibility. For example, Green organizations might work with suppliers in developing countries to maintain humane working conditions. They may focus on their carbon foot-print or strive to make products and packaging recyclable.
+  The organization's mission is likely to include [social responsibility](https://en.wikipedia.org/wiki/Social_responsibility). For example, [Green organizations](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/green-paradigm-and-organizations)  might work with suppliers in developing countries to maintain humane working conditions. They may focus on their [carbon foot-print](https://en.wikipedia.org/wiki/Carbon_footprint) or strive to make products and packaging recyclable.
 
 
   **Teal organizations**
@@ -105,7 +105,7 @@ inPractice: >-
   #### Values before profit
 
 
-  Teal organizations strive to manage environmental and social practices ahead of profits. As AES said in a public hearing: “If the company perceives a conflict between ... values and profits, it will try to adhere to its values - even if doing so might result in diminished profits or foregone opportunities”.
+  Teal organizations strive to manage environmental and social practices ahead of profits. As [AES ](http://www.aes.com/)said in a public hearing: “If the company perceives a conflict between ... values and profits, it will try to adhere to its values - even if doing so might result in diminished profits or foregone opportunities”.
 
 
   #### Organization and environment are interdependent
@@ -148,8 +148,8 @@ faq:
       ](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/culture-and-values)are
       aligned with the purpose of the organization.
   - question: How do we prioritize (between) environmental and social initiatives?
-    answer: Via the advice process, initiatives can be assessed for fit with values
-      and [evolutionary
+    answer: Via the [advice process](../decision-making/), initiatives can be
+      assessed for fit with values and [evolutionary
       purpose](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/evolutionary-purpose)
       first. Other criteria might include impact, urgency and affordability.
   - question: Do we need to assess the affordability of environmental and social
