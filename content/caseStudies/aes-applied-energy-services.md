@@ -30,25 +30,21 @@ theory:
   - topic: Environmental and Social Management
     title: "Via the advice process, AES employees initiate environmental and social
       initiatives. "
-    content: "For AES, environmental and social initiatives start with inner
-      rightness. Here is how AES expressed it in a public filing with the U.S.
-      Securities and Exchange Commission when it offered stock to the public:
-      \"An important element of AES is its commitment to four major 'shared'
-      values ^[one of which is Social Responsibility, which triggered AES’s
-      decision to plant trees]. If the company perceives a conflict between
-      these values and profits, it will try to adhere to its values ― even if
-      doing so might result in diminished profits or foregone opportunities.
-      Moreover, the Company seeks to adhere to these values not as a means to
-      achieve economic success, but because adherence is a worthwhile goal in
-      and of itself.\"\r
+    content: >-
+      For [AES](http://www.aes.com/), environmental and social initiatives start
+      with inner rightness. Here is how AES expressed it in a public filing with
+      the U.S. Securities and Exchange Commission when it offered stock to the
+      public: "An important element of AES is its commitment to four major
+      'shared' values ^\[one of which is Social Responsibility, which triggered
+      AES’s decision to plant trees]. If the company perceives a conflict
+      between these values and profits, it will try to adhere to its values ―
+      even if doing so might result in diminished profits or foregone
+      opportunities. Moreover, the Company seeks to adhere to these values not
+      as a means to achieve economic success, but because adherence is a
+      worthwhile goal in and of itself."
 
-      \r
 
-      AES planted millions of trees to offset carbon emissions. This idea
-      came from an employee in in Los Angeles, not the senior team. Initially
-      there was no budget for this. Using the advice process, she built support
-      for the money AES should put into tree planting. ^[Source: Laloux,
-      Frederic. Reinventing Organizations. Nelson Parker (2014), pages 160-172]"
+      AES planted millions of trees to offset carbon emissions. This idea came from an employee in in Los Angeles, not the senior team. Initially there was no budget for this. Using the advice process, she built support for the money AES should put into tree planting. ^\[Source: Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), pages 160-172]
   - topic: Strategy
     title: Strategic decisions can be made by anyone, often through an advice process.
     content: "A recently hired financial analyst at AES informed the CEO, Dennis
