@@ -5,9 +5,15 @@ key: Teal Paradigm and Organizations
 name: Teal Paradigm and Organizations
 category: teal-concepts
 intro: >-
-  > *The most exciting breakthroughs of the twenty-first century will not occur
-  because of technology, but because of an expanding concept of what it means to
-  be human.*
+  >
+
+  >
+
+  > ![]()
+
+  >
+
+  > *The most exciting breakthroughs of the twenty-first century will not occur because of technology, but because of an expanding concept of what it means to be human.*
 
   >
 
