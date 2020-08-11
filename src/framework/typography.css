@@ -24,9 +24,8 @@ body {
     --ror-font-left-navigation3: 400 1.125rem/1.375 rem var(--ror-scala-font-stack);
 }
 
-@media (min-width: 47.9375em) {
+@media (max-width: 47.9375em) {
     body {
-        background-color: blue;
-        color: red;
+        /* TODO: reponsive fonts */
     }
 }
