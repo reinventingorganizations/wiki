@@ -13,8 +13,11 @@
 </head>
 
 <body>
-    {{{ content }}}
 
-  <script type="module" src="/_dist_/main.js"></script>
+    <main class="l-main">
+      {{ content | safe }}
+    </main>
+
+    <script type="module" src="/_dist_/main.js"></script>
 </body>
 </html>
