@@ -3,30 +3,47 @@
 @import "components/navigation.css";
 
 body {
-    margin: 0;
-    padding: 0;
-    background-color: var(--ror-color-background);
-    color: var(--ror-color-text);
-    font: var(--ror-font-text);
+  --ror-space-base: 16px;
+  --ror-space-big-1: 20px;
+  --ror-space-big-2: 24px;
+
+  margin: 0;
+  padding: 0;
+  background-color: var(--ror-color-background);
+  color: var(--ror-color-text);
+  font: var(--ror-font-text);
+}
+
+.visuallyhidden {
+  position: absolute;
+  left: -10000px;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
 }
 
 .l-main {
-    --ror-main-width: 41.25rem;
-    --ror-main-margin: auto;
-    --ror-wide-element-margin: -2.4375rem;
+  --ror-main-width: 41.25rem;
+  --ror-main-margin: auto;
+  --ror-wide-element-margin: -2.4375rem;
 
-    width: var(--ror-main-width);
-    margin: 0 var(--ror-main-margin);
-    overflow-y: scroll;
+  width: var(--ror-main-width);
+  margin: 0 var(--ror-main-margin);
 }
 
 .l-page {
-    display: flex;
+  display: flex;
+}
+
+@media (max-width: 79.99em) {
+  .l-page {
+      flex-direction: column;
+  }
 }
 
 @media (max-width: 47.99em) {
-    .l-main {
-        --ror-main-width: auto;
-        --ror-main-margin: 1.5rem;
-    }
+  .l-main {
+    --ror-main-width: auto;
+    --ror-main-margin: 1.5rem;
+  }
 }

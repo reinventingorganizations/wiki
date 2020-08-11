@@ -42,6 +42,7 @@ module.exports = function (eleventyConfig) {
 
 
   eleventyConfig.addPassthroughCopy({ "static/admin": "admin" });
+  eleventyConfig.addPassthroughCopy({ "static/images": "images" });
   eleventyConfig.addPassthroughCopy("mail");
   eleventyConfig.addPassthroughCopy("media");
 
