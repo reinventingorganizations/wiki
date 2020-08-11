@@ -1,5 +1,5 @@
-@import "./framework/typography.css";
-@import "./framework/colors.css";
+@import "framework/typography.css";
+@import "framework/colors.css";
 
 body {
     margin: 0;
