@@ -24,6 +24,11 @@ module.exports = function (eleventyConfig) {
     return md.render(value);
   });
 
+  eleventyConfig.addFilter("translate", function(key) {
+    const translations = require("./translations.json")
+    return translations[key] || key
+  })
+
   eleventyConfig.addCollection("theoryNavigation", function(collection) {
     let categories = collection.getFilteredByTag("theoryCategories"); 
     return categories.map(_ => {
