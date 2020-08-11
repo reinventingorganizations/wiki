@@ -13,10 +13,13 @@
 </head>
 
 <body>
+    <div class="l-page">
+      {% include './components/navigation.njk' %}
 
-    <main class="l-main">
-      {{ content | safe }}
-    </main>
+      <main class="l-main">
+        {{ content | safe }}
+      </main>
+    </div>
 
     <script type="module" src="/_dist_/main.js"></script>
 </body>

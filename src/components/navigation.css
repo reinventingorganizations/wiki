@@ -1,0 +1,15 @@
+:root {
+    --ror-navigation-width: 21rem;
+}
+
+.c-navigation {
+    width: var(--ror-navigation-width);
+    overflow-y: auto;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+}
+
+.c-navigationSpacer {
+    width: var(--ror-navigation-width);
+}

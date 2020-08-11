@@ -1,0 +1,32 @@
+<nav aria-label="{{ 'mainNavigation' | translate }}" class="c-navigation">
+
+  <ul>
+    <li class="c-navigation__level1">
+      <button class="c-navigation__level1_toggler">
+        {{ 'articles' | translate }}
+      </button>
+      <ul>
+        {% for category in collections.theoryNavigation %}
+          <li class="c-navigation__level2">
+            <button class="c-navigation__level2_toggler">
+              {{ category.data.name }}
+            </button>
+            <ul>
+              {% for category in category.articles %}
+                <li class="c-navigation__level3">
+                  <a href="{{ category.url }}">{{ category.data.name }}</a>
+                </li>
+              {% endfor %}
+            </ul>
+          </li>
+        {% endfor %}
+      </ul>
+    </li>
+    <li class="c-navigation__level1">
+      <a href="/cases">{{ 'cases' | translate }}</a>
+    </li>
+  </ul>
+</nav>
+
+<div class="c-navigationSpacer">
+</div>

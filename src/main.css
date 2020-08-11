@@ -1,5 +1,6 @@
 @import "framework/typography.css";
 @import "framework/colors.css";
+@import "components/navigation.css";
 
 body {
     margin: 0;
@@ -7,4 +8,25 @@ body {
     background-color: var(--ror-color-background);
     color: var(--ror-color-text);
     font: var(--ror-font-text);
+}
+
+.l-main {
+    --ror-main-width: 41.25rem;
+    --ror-main-margin: auto;
+    --ror-wide-element-margin: -2.4375rem;
+
+    width: var(--ror-main-width);
+    margin: 0 var(--ror-main-margin);
+    overflow-y: scroll;
+}
+
+.l-page {
+    display: flex;
+}
+
+@media (max-width: 47.99em) {
+    .l-main {
+        --ror-main-width: auto;
+        --ror-main-margin: 1.5rem;
+    }
 }
