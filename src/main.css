@@ -1,6 +1,10 @@
 @import "./framework/typography.css";
+@import "./framework/colors.css";
 
 body {
     margin: 0;
     padding: 0;
+    background-color: var(--ror-color-background);
+    color: var(--ror-color-text);
+    font: var(--ror-font-text);
 }
