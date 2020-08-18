@@ -19,11 +19,9 @@ define(
         this.burger.navigationOpen = this.navigationOpen;
 
         if (this.navigationOpen) {
-            lockScreen();
-            this.mainNavigation.classList.add('is-open')
+            this.element.classList.add('is-open')
         } else {
-            unlockScreen();
-            this.mainNavigation.classList.remove('is-open')
+            this.element.classList.add('is-open')
         }
       }
   }

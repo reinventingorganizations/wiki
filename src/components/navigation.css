@@ -6,12 +6,13 @@
 
 .c-navigation {
     width: var(--ror-navigation-width);
-    overflow-y: auto;
-    overflow-x: hidden;
     position: fixed;
     top: 0;
     bottom: 0;
     border-right: 4px solid white;
+    /* Create an own stack-container, so that z-index management is local to navigation */
+    position: relative;
+    z-index: 0;
 }
 
 .c-navigationSpacer {
@@ -54,6 +55,11 @@
     -webkit-appearance: none;
 }
 
+.c-navigation__main_navigation {
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
 @media (max-width: 79.99em) {
     :root {
         --ror-navigation-headline-vertical-padding: 10px;
@@ -68,24 +74,18 @@
         position: static;
         border-right: none;
         width: 100vw;
-        overflow-x: hidden;
+    }
+
+    .c-navigation.is-open .c-navigation__headline {
+        position: sticky;
+        background-color: var(--ror-color-background);
+        top: 0;
+        z-index: 1;
     }
 
     .c-navigation__main_navigation {
-        position: fixed;
-        top: calc(74px + 4px + 2 * var(--ror-navigation-headline-vertical-padding));
-        bottom: 0;
-        background-color: var(--ror-color-background);
-        transform: translateX(100%);
-        transition: transform ease-in-out 0.5s;
-        border-left: 4px white solid;
-        width: calc(4px + 100%);
-        overflow-x: hidden;
-        overflow-y: auto;
-        height: calc(100vh - (74px + 4px + 2 * var(--ror-navigation-headline-vertical-padding)));
-    }
-
-    .c-navigation__main_navigation.is-open {
-        transform: translateX(-4px);
+        position: static;
+        display: none;
+        border-bottom: 4px white solid;
     }
 }
