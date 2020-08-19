@@ -18,29 +18,29 @@
       </span>
     </a>
   </div>
-
   <div class="c-navigation__main_navigation" data-component='mainNavigation'>
     <ul>
       <li class="c-navigation__level1">
-        <button class="c-navigation__level1_toggler c-navigation__level1_link" data-component="itemToggler">
+        <button class="c-navigation__level1_toggler c-navigation__level1_link {{ 'is-open' if 'theory' in tags }}" data-component="itemToggler">
           {{ 'articles' | translate }}
           <svg class="c-navigation__toggle_icon">
             <use xlink:href="#chevron-down"/>
           </svg>
         </button>
         <ul class="c-navigation__toggle_target">
-          {% for category in collections.theoryNavigation %}
+          {% for navigationCategory in collections.theoryNavigation %}
             <li class="c-navigation__level2">
-              <button class="c-navigation__level2_toggler" data-component="itemToggler">
-                {{ category.data.name }}
+              <button class="c-navigation__level2_toggler {{ 'is-open' if navigationCategory.data.key == category}}"
+                      data-component="itemToggler">
+                {{ navigationCategory.data.name }}
                 <svg class="c-navigation__toggle_icon c-navigation__toggle_icon_small">
                   <use xlink:href="#chevron-down-small"/>
                 </svg>
               </button>
               <ul class="c-navigation__toggle_target">
-                {% for category in category.articles %}
-                  <li class="c-navigation__level3">
-                    <a href="{{ category.url }}" class="c-navigation__level3_link">{{ category.data.name }}</a>
+                {% for article in navigationCategory.articles %}
+                  <li class="c-navigation__level3 {{ 'is-active' if article.url in page.url }}">
+                    <a href="{{ article.url }}" class="c-navigation__level3_link">{{ article.data.name }}</a>
                   </li>
                 {% endfor %}
               </ul>
