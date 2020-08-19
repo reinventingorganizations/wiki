@@ -1,44 +1,44 @@
 ---
 layout: base
-templateEngineOverride: hbs,md
+templateEngineOverride: njk,md
 ---
 
 <h1>{{ name }} </h1>
 
-{{{ intro }}}
+{{ intro }}
 
 <h2>A New Perspective</h2>
 
-{{{ md perspective  }}}
+{{ perspective | md | safe }}
 
 <h2>In Practice</h2>
 
-{{{ md inPractice  }}}
+{{ inPractice | md | safe }}
 
 ##  Frequently Asked Questions
 
-{{#each faq}}
-    <h3>{{question}}</h3>
+{% for item in faq %}
+    <h3>{{item.question}}</h3>
 
-    {{{ md answer }}}
-{{/each}}
+    {{ item.answer | md | safe }}
+{% endfor %}
 
 ## Concrete Organisational Cases 
 
-{{#each cases }}
+{% for case in cases %}
     <h3>{{ case.data.name }}</h3>
     <div>
-        {{{ md content  }}}
+        {{ case.content | md | safe }}
     </div>
     <div>
         <a href="{{ case.url }}">Get to know how this organisation manages other teal practices</a>
     </div>
-{{/each}}
+{% endfor %}
 
 ## Related Topics 
 
 <ul>
-    {{#each topics}}
+    {% for topic in topics %}
         <li><a href="{{ this.url }}">{{ data.name }}</a></li>
-    {{/each}}
+    {% endfor %}
 </ul>

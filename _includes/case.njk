@@ -4,7 +4,7 @@ layout: base
 
 <h1>{{ name }}</h1>
 
-{{{ md introduction }}}
+{{ introduction | md | safe }}
 
 <ul>
 <li>{{ industry }}</li>
@@ -15,9 +15,9 @@ layout: base
 
 <h2>Theory and Structure</h2>
 
-{{#each theory}}
-    
-    <h3>{{ title }}</h3>
-    <div>Topic: {{ topic }}</div>
-    {{{ md content }}}
-{{/each}}
+{% for item in theory %}
+
+    <h3>{{ item.title }}</h3>
+    <div>Topic: {{ item.topic }}</div>
+    {{ item.content | md | safe }}
+{% endfor %}

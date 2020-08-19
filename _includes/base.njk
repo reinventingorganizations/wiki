@@ -9,12 +9,19 @@
 
   <meta name="theme-color" content="#fafafa">
   <link rel="stylesheet" type="text/css" href="/_dist_/main.css" media="screen"/>
-  <link rel="stylesheet" href="https://use.typekit.net/ubl6nlt.css" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="https://use.typekit.net/ubl6nlt.css">
 </head>
 
 <body>
-    {{{ content }}}
+    {% include './components/icons.njk' %}
+    <div class="l-page">
+      {% include './components/navigation.njk' %}
 
-  <script type="module" src="/_dist_/main.js"></script>
+      <main class="l-main">
+        {{ content | safe }}
+      </main>
+    </div>
+
+    <script type="module" src="/_dist_/main.js"></script>
 </body>
 </html>

@@ -1,1 +1,1 @@
-console.log('lala');
+import './components/navigation.js';

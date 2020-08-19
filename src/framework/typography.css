@@ -1,6 +1,6 @@
 body {
     --ror-maiola-font-stack: Maiola, serif;
-    --ror-scala-font-stack: ff-scala-sans-pro, sans-serif;
+    --ror-scala-font-stack: "ff-scala-sans-pro", sans-serif;
     --ror-font-headline-huge: 400 3.75rem/4.125rem var(--ror-maiola-font-stack);
     --ror-font-headline-huge-letter-spacing: -0.0125rem;
     --ror-font-headline-large: 500 3rem/3.375rem var(--ror-maiola-font-stack);
@@ -19,8 +19,8 @@ body {
     --ror-font-notes-references: italic 400 1.125rem/1.5625rem var(--ror-scala-font-stack);
 
     --ror-font-left-navigation1: 400 1.875rem/2.25rem var(--ror-maiola-font-stack);
-    --ror-font-left-navigation2: 500 1.1875rem/1.1875 rem var(--ror-maiola-font-stack);
-    --ror-font-left-navigation3: 400 1.125rem/1.375 rem var(--ror-scala-font-stack);
+    --ror-font-left-navigation2: 500 1.1875rem/1.1875rem var(--ror-maiola-font-stack);
+    --ror-font-left-navigation3: 400 1.125rem/1.375rem var(--ror-scala-font-stack);
 }
 
 @media (max-width: 47.9375em) {
