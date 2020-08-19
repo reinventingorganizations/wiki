@@ -1,0 +1,26 @@
+.c-richtext blockquote {
+    padding-left: 24px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    border-left: 2px solid var(--ror-color-teal);
+    margin: 0;
+}
+
+.c-richtext blockquote em {
+    display: block;
+    font: var(--ror-font-quote);
+}
+
+.c-richtext blockquote strong {
+    display: block;
+    font: var(--ror-font-quotee);
+    margin-top: 12px;
+}
+
+.c-richtext blockquote strong::before {
+    content: "—";
+}
+
+.c-richtext blockquote p {
+    margin: 0;
+}

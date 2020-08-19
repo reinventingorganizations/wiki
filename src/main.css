@@ -1,6 +1,12 @@
 @import "framework/typography.css";
 @import "framework/colors.css";
 @import "components/navigation.css";
+@import "components/title.css";
+@import "components/richtext.css";
+@import "components/toggler.css";
+@import "components/collapsible.css";
+@import "components/topiclist.css";
+@import "components/footnotes.css";
 
 body {
   --ror-space-base: 16px;
@@ -20,6 +26,11 @@ body {
   width: 1px;
   height: 1px;
   overflow: hidden;
+}
+
+
+a {
+  color: var(--ror-color-teal);
 }
 
 .c-icons_definition {

@@ -181,22 +181,6 @@
   border-bottom: var(--ror-navigation-separator);
 }
 
-[data-component="itemToggler"] ~ .c-navigation__toggle_target {
-    display: none;
-}
-
-[data-component="itemToggler"].is-open ~ .c-navigation__toggle_target {
-    display: block;
-}
-
-.c-navigation__toggle_icon {
-    transition: transform 0.25s ease-in-out;
-}
-
-[data-component="itemToggler"].is-open .c-navigation__toggle_icon {
-    transform: rotate(180deg);
-}
-
 @media (max-width: 79.99em) {
   :root {
     --ror-navigation-headline-vertical-padding: 10px;

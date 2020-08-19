@@ -3,42 +3,83 @@ layout: base
 templateEngineOverride: njk,md
 ---
 
-<h1>{{ name }} </h1>
+<h1 class="c-title c-title--page">{{ name }}
+</h1>
 
-{{ intro }}
+<div class="c-richtext">
 
-<h2>A New Perspective</h2>
+{{ intro | safe }}
 
-{{ perspective | md | safe }}
+</div>
 
-<h2>In Practice</h2>
+<h2 class="c-title c-title--section">A New Perspective</h2>
 
-{{ inPractice | md | safe }}
+<div class="c-richtext">
 
-##  Frequently Asked Questions
+{{ perspective | safe }}
+
+</div>
+
+<h2 class="c-title c-title--section">In Practice</h2>
+
+<div class="c-richtext">
+
+{{ inPractice | safe }}
+
+</div>
+
+<h2 class="c-title c-title--section" id="faq">Frequently Asked Questions</h2>
 
 {% for item in faq %}
-    <h3>{{item.question}}</h3>
+    <div class="c-collapsible">
+        <h3 class="c-collapsible__title" data-component="toggler">
+            <button class="c-collapsible__button">
+                {{item.question}}
+                <svg class="c-toggler__icon c-collapsible__icon" focusable="false">
+                    <use xlink:href="#chevron-down"/>
+                </svg>
+            </button>
+        </h3>
+        <div class="c-toggler__target c-collapsible__content c-richtext">
 
-    {{ item.answer | md | safe }}
+            {{ item.answer | safe }}
+
+        </div>
+    </div>
+
 {% endfor %}
 
-## Concrete Organisational Cases 
+<h2 class="c-title c-title--section">Concrete Organisational Cases</h2>
 
 {% for case in cases %}
-    <h3>{{ case.data.name }}</h3>
-    <div>
-        {{ case.content | md | safe }}
-    </div>
-    <div>
-        <a href="{{ case.url }}">Get to know how this organisation manages other teal practices</a>
+    <div class="c-collapsible">
+        <h3 class="c-collapsible__title" data-component="toggler">
+            <button class="c-collapsible__button">{{ case.case.data.name }}
+                <svg class="c-toggler__icon c-collapsible__icon" focusable="false">
+                    <use xlink:href="#chevron-down"/>
+                </svg>
+            </button>
+        </h3>
+        <div class="c-toggler__target c-collapsible__content c-richtext">
+
+            {{ case.content | safe }}
+
+            <div>
+                <a href="{{ case.case.url }}">Get to know how this organisation manages other teal practices</a>
+            </div>
+        </div>
     </div>
 {% endfor %}
 
-## Related Topics 
+    <h2 class="c-title c-title--section" id="relatedTopics">Related Topics</h2>
 
-<ul>
-    {% for topic in topics %}
-        <li><a href="{{ this.url }}">{{ data.name }}</a></li>
-    {% endfor %}
-</ul>
+    <ul class="c-topiclist">
+        {% for topic in topics %}
+            <li class="c-topiclist__item">
+                <a href="{{ topic.url }}" class="c-topiclist__link">{{ topic.data.name }}</a>
+            </li>
+        {% endfor %}
+    </ul>
+
+    <h2 class="c-title c-title--section">Notes and references
+    </h2>

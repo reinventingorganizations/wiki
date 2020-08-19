@@ -32,9 +32,3 @@ define('[data-component="navigationBurger"]', {
     );
   },
 });
-
-define('[data-component="itemToggler"]', {
-  onClick(event) {
-    this.element.classList.toggle("is-open");
-  },
-});

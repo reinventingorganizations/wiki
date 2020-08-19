@@ -1,0 +1,8 @@
+.c-title--page {
+    font: var(--ror-font-headline-huge);
+    letter-spacing: var(--ror-font-headline-huge-letter-spacing);
+}
+
+.c-title--section {
+    font: var(--ror-font-headline-large);
+}
