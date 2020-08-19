@@ -63,6 +63,30 @@
   -webkit-appearance: none;
 }
 
+.c-navigation__burger_icon {
+  overflow: visible;
+}
+
+.c-navigation__burger_top_line,
+.c-navigation__burger_middle_line,
+.c-navigation__burger_bottom_line {
+  transition: all ease-in-out 0.5s;
+}
+
+.c-navigation.is-open .c-navigation__burger_top_line {
+  transform: translateX(-1px) rotateZ(-45deg) scaleX(calc(20/22));
+  transform-origin: 22px 1px;
+}
+
+.c-navigation.is-open .c-navigation__burger_middle_line {
+  opacity: 0;
+}
+
+.c-navigation.is-open .c-navigation__burger_bottom_line {
+  transform: translateX(-1px) translateY(0.5px) rotateZ(45deg) scaleX(calc(20/19));
+  transform-origin: 22px 15.142135624px;
+}
+
 .c-navigation__main_navigation {
   overflow-x: hidden;
   overflow-y: auto;

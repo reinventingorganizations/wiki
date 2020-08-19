@@ -1,11 +1,12 @@
 <nav aria-label="{{ 'mainNavigation' | translate }}" class="c-navigation is-open" data-component="navigation">
   <div class="c-navigation__headline">
     <button class="c-navigation__burger" data-component="navigationBurger">
-      <svg width="22" height="16" viewbox="0 0 22 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <rect width="22" height="2" rx="1" fill="#393C3C"/>
-        <rect x="8" y="7" width="14" height="2" rx="1" fill="#393C3C"/>
-        <rect x="3" y="14" width="19" height="2" rx="1" fill="#393C3C"/>
+      <svg class="c-navigation__burger_icon" width="22" height="16" viewbox="0 0 22 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <rect class="c-navigation__burger_top_line" width="22" height="2" rx="1" fill="#393C3C"/>
+        <rect class="c-navigation__burger_middle_line" x="8" y="7" width="14" height="2" rx="1" fill="#393C3C"/>
+        <rect class="c-navigation__burger_bottom_line" x="3" y="14" width="19" height="2" rx="1" fill="#393C3C"/>
       </svg>
+
       <span class="visuallyhidden">{{ 'openMenu' | translate }}</span>
     </button>
 
