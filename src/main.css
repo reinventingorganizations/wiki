@@ -22,6 +22,10 @@ body {
   overflow: hidden;
 }
 
+.c-icons_definition {
+  display: none;
+}
+
 .l-main {
   --ror-main-width: 41.25rem;
   --ror-main-margin: auto;

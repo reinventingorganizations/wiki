@@ -1,91 +1,206 @@
 :root {
-    --ror-navigation-width: 21rem;
-    --ror-navigation-headline-vertical-padding: 30px;
-    --ror-navigation-headline-horizontal-padding: 24px;
+  --ror-navigation-width: 21rem;
+  --ror-navigation-headline-vertical-padding: 30px;
+  --ror-navigation-headline-horizontal-padding: 24px;
+  --ror-navigation-items-right-padding: 20px;
+  --ror-navigation-level1-left-padding: 32px;
+  --ror-navigation-level1-vertical-padding: 24px;
+  --ror-navigation-level2-left-padding: 48px;
+  --ror-navigation-level2-vertical-padding: 16px;
+  --ror-navigation-level3-left-padding: 64px;
+  --ror-navigation-level3-vertical-padding: 8px;
+  --ror-navigation-separator: white solid 1px;
 }
 
 .c-navigation {
-    width: var(--ror-navigation-width);
-    position: fixed;
-    top: 0;
-    bottom: 0;
-    border-right: 4px solid white;
-    /* Create an own stack-container, so that z-index management is local to navigation */
-    position: relative;
-    z-index: 0;
+  width: var(--ror-navigation-width);
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  border-right: 4px solid white;
+  z-index: 0;
 }
 
+/* Placeholder on large viewports to push the content to the right */
 .c-navigationSpacer {
-    width: var(--ror-navigation-width);
+  width: var(--ror-navigation-width);
 }
 
 .c-navigation__headline {
-    display: flex;
-    flex-direction: row-reverse;
-    padding: var(--ror-navigation-headline-vertical-padding) var(--ror-navigation-headline-horizontal-padding);
-    border-bottom: 4px solid white;
+  display: flex;
+  flex-direction: row-reverse;
+  padding: var(--ror-navigation-headline-vertical-padding)
+    var(--ror-navigation-headline-horizontal-padding);
+  border-bottom: 4px solid white;
 }
 
 .c-navigation__site_title {
-    display: flex;
-    align-items: center;
-    font: var(--ror-font-headline-small);
-    color: var(--ror-color-text);
-    text-decoration: none;
-    flex: 1;
+  display: flex;
+  align-items: center;
+  font: var(--ror-font-headline-small);
+  color: var(--ror-color-text);
+  text-decoration: none;
+  flex: 1;
 }
 
 .c-navigation__logo {
-    border-radius: 50%;
-    margin-right: 18px;
+  border-radius: 50%;
+  margin-right: 18px;
 }
 
 .c-navigation__site-title-text {
-    max-width: 20ch;
-    flex: 1;
+  max-width: 20ch;
+  flex: 1;
 }
 
 .c-navigation__burger {
-    display:  none;
-    border: none;
-    margin: 0;
-    padding: 0;
-    width: auto;
-    background: transparent;
-    -webkit-appearance: none;
+  display: none;
+  border: none;
+  margin: 0;
+  padding: 0;
+  width: auto;
+  background: transparent;
+  -webkit-appearance: none;
 }
 
 .c-navigation__main_navigation {
-    overflow-x: hidden;
-    overflow-y: auto;
+  overflow-x: hidden;
+  overflow-y: auto;
+  padding-top: 8px;
+}
+
+/* Reset list styles */
+.c-navigation__main_navigation li {
+  list-style: none;
+}
+.c-navigation__main_navigation ul {
+  margin: 0;
+  padding: 0;
+}
+
+/* Reset button styles */
+.c-navigation__level1_toggler,
+.c-navigation__level2_toggler {
+  border: none;
+  margin: 0;
+  padding: 0;
+  width: auto;
+  background: transparent;
+  -webkit-appearance: none;
+  cursor: pointer;
+}
+
+.c-navigation__level1_toggler,
+.c-navigation__level2_toggler {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  text-align: left;
+}
+
+.c-navigation__level1_link {
+  font: var(--ror-font-left-navigation1);
+  padding-left: var(--ror-navigation-level1-left-padding);
+  padding-right: var(--ror-navigation-items-right-padding);
+  padding-top: var(--ror-navigation-level1-vertical-padding);
+  padding-bottom: var(--ror-navigation-level1-vertical-padding);
+  color: var(--ror-color-text);
+  display: flex;
+  text-decoration: none;
+}
+
+.c-navigation__level2_toggler {
+  font: var(--ror-font-left-navigation2);
+  padding-left: var(--ror-navigation-level2-left-padding);
+  padding-right: var(--ror-navigation-items-right-padding);
+  padding-top: var(--ror-navigation-level2-vertical-padding);
+  padding-bottom: var(--ror-navigation-level2-vertical-padding);
+}
+
+.c-navigation__toggle_icon {
+  width: 18px;
+  height: 11px;
+  color: var(--ror-color-teal);
+  margin-left: 6px;
+}
+
+.c-navigation__toggle_icon_small {
+  width: 12px;
+  height: 8px;
+}
+
+.c-navigation__level3_link {
+  font: var(--ror-font-left-navigation3);
+  color: var(--ror-color-text);
+  text-decoration: none;
+  padding-left: var(--ror-navigation-level3-left-padding);
+  padding-top: var(--ror-navigation-level3-vertical-padding);
+  padding-bottom: var(--ror-navigation-level3-vertical-padding);
+  padding-right: var(--ror-navigation-items-right-padding);
+  /* Ensures that when a link is multi line, the padding is applied to the block and not only the first line */
+  display: inline-block;
+}
+
+.c-navigation__level1_toggler:hover,
+.c-navigation__level2_toggler:hover,
+.c-navigation__level3_link:hover {
+  color: var(--ror-color-teal);
+}
+
+.c-navigation__level1_toggler,
+.c-navigation__level2 {
+  border-bottom: var(--ror-navigation-separator);
+}
+
+[data-component="itemToggler"] ~ .c-navigation__toggle_target {
+    display: none;
+}
+
+[data-component="itemToggler"].is-open ~ .c-navigation__toggle_target {
+    display: block;
+}
+
+.c-navigation__toggle_icon {
+    transition: transform 0.25s ease-in-out;
+}
+
+[data-component="itemToggler"].is-open .c-navigation__toggle_icon {
+    transform: rotate(180deg);
 }
 
 @media (max-width: 79.99em) {
-    :root {
-        --ror-navigation-headline-vertical-padding: 10px;
-        --ror-navigation-headline-horizontal-padding: 24px;
-    }
+  :root {
+    --ror-navigation-headline-vertical-padding: 10px;
+    --ror-navigation-headline-horizontal-padding: 24px;
+  }
 
-    .c-navigation__burger {
-        display: block;
-    }
+  .c-navigation__burger {
+    display: block;
+  }
 
-    .c-navigation {
-        position: static;
-        border-right: none;
-        width: 100vw;
-    }
+  .c-navigation {
+    /* Reset from fixed to "statick", but using relative, 
+         to Create an own stack-container, so that z-index management is local to navigation */
+    position: relative;
+    border-right: none;
+    width: 100vw;
+  }
 
-    .c-navigation.is-open .c-navigation__headline {
-        position: sticky;
-        background-color: var(--ror-color-background);
-        top: 0;
-        z-index: 1;
-    }
+  .c-navigation.is-open .c-navigation__headline {
+    position: sticky;
+    background-color: var(--ror-color-background);
+    top: 0;
+    z-index: 1;
+  }
 
-    .c-navigation__main_navigation {
-        position: static;
-        display: none;
-        border-bottom: 4px white solid;
-    }
+  .c-navigation__main_navigation {
+    position: static;
+    display: none;
+    border-bottom: 4px white solid;
+  }
+
+  .c-navigation.is-open .c-navigation__main_navigation {
+    display: block;
+  }
 }

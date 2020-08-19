@@ -1,6 +1,4 @@
-<nav aria-label="{{ 'mainNavigation' | translate }}"
-      class="c-navigation" 
-      data-component="navigation">
+<nav aria-label="{{ 'mainNavigation' | translate }}" class="c-navigation is-open" data-component="navigation">
   <div class="c-navigation__headline">
     <button class="c-navigation__burger" data-component="navigationBurger">
       <svg width="22" height="16" viewbox="0 0 22 16" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -23,19 +21,25 @@
   <div class="c-navigation__main_navigation" data-component='mainNavigation'>
     <ul>
       <li class="c-navigation__level1">
-        <button class="c-navigation__level1_toggler">
+        <button class="c-navigation__level1_toggler c-navigation__level1_link" data-component="itemToggler">
           {{ 'articles' | translate }}
+          <svg class="c-navigation__toggle_icon">
+            <use xlink:href="#chevron-down"/>
+          </svg>
         </button>
-        <ul>
+        <ul class="c-navigation__toggle_target">
           {% for category in collections.theoryNavigation %}
             <li class="c-navigation__level2">
-              <button class="c-navigation__level2_toggler">
+              <button class="c-navigation__level2_toggler" data-component="itemToggler">
                 {{ category.data.name }}
+                <svg class="c-navigation__toggle_icon c-navigation__toggle_icon_small">
+                  <use xlink:href="#chevron-down-small"/>
+                </svg>
               </button>
-              <ul>
+              <ul class="c-navigation__toggle_target">
                 {% for category in category.articles %}
                   <li class="c-navigation__level3">
-                    <a href="{{ category.url }}">{{ category.data.name }}</a>
+                    <a href="{{ category.url }}" class="c-navigation__level3_link">{{ category.data.name }}</a>
                   </li>
                 {% endfor %}
               </ul>
@@ -44,7 +48,7 @@
         </ul>
       </li>
       <li class="c-navigation__level1">
-        <a href="/cases">{{ 'cases' | translate }}</a>
+        <a href="/cases" class="c-navigation__level1_link">{{ 'cases' | translate }}</a>
       </li>
     </ul>
   </div>
