@@ -8,6 +8,7 @@
 @import "components/topiclist.css";
 @import "components/footnotes.css";
 @import "components/caselist.css";
+@import "components/caseattributes.css";
 
 body {
   --ror-space-base: 16px;
@@ -37,6 +38,10 @@ a {
   font: var(--ror-font-label);
 }
 
+.u-font-label-small {
+  font: var(--ror-font-label-small);
+}
+
 .c-icons_definition {
   display: none;
 }
@@ -64,5 +69,6 @@ a {
   .l-main {
     --ror-main-width: auto;
     --ror-main-margin: 1.5rem;
+    --ror-wide-element-margin: calc(-1 * var(--ror-main-margin));
   }
 }

@@ -31,21 +31,23 @@ templateEngineOverride: njk,md
 <h2 class="c-title c-title--section" id="faq">Frequently Asked Questions</h2>
 
 {% for item in faq %}
-    <div class="c-collapsible">
-        <h3 class="c-collapsible__title" data-component="toggler">
-            <button class="c-collapsible__button u-font-label">
-                {{item.question}}
-                <svg class="c-toggler__icon c-collapsible__icon" focusable="false">
-                    <use xlink:href="#chevron-down"/>
-                </svg>
-            </button>
-        </h3>
-        <div class="c-toggler__target c-collapsible__content c-richtext">
+<div class="c-collapsible">
+    <h3 class="c-collapsible__title" data-component="toggler">
+        <button class="c-collapsible__button u-font-label">
+            {{item.question}}
+            <svg class="c-toggler__icon c-collapsible__icon" focusable="false">
+                <use xlink:href="#chevron-down"/>
+            </svg>
+        </button>
+    </h3>
+    <div class="c-toggler__target c-collapsible__content c-richtext">
 
-            {{ item.answer | safe }}
 
-        </div>
+{{ item.answer | safe }}
+
+
     </div>
+</div>
 
 {% endfor %}
 
@@ -54,7 +56,36 @@ templateEngineOverride: njk,md
 {% for case in cases %}
     <div class="c-collapsible">
         <h3 class="c-collapsible__title" data-component="toggler">
-            <button class="c-collapsible__button">{{ case.case.data.name }}
+            <button class="c-collapsible__button">
+                <span>
+                    <span>{{ case.case.data.name }}</span>
+                    <ul class="c-caseattributes c-caseattributes--inline u-font-label-small">
+                        <li class="c-caseattributes__item">
+                            <svg class="c-caseicon c-caseattributes_icon" focusable="false">
+                                <use xlink:href="#lightning"/>
+                            </svg>
+                            {{ case.case.data.industry }}
+                        </li>
+                        <li class="c-caseattributes__item">
+                            <svg class="c-caseicon c-caseattributes_icon" focusable="false">
+                                <use xlink:href="#globe"/>
+                            </svg>
+                            {{ case.case.data.geography }}
+                        </li>
+                        <li class="c-caseattributes__item">
+                            <svg class="c-caseicon c-caseattributes_icon" focusable="false">
+                                <use xlink:href="#box"/>
+                            </svg>
+                            {{ case.case.data.companySize }}
+                        </li>
+                        <li class="c-caseattributes__item">
+                            <svg class="c-caseicon c-caseattributes_icon" focusable="false">
+                                <use xlink:href="#moneyBag"/>
+                            </svg>
+                            {{ case.case.data.profit }}
+                        </li>
+                    </ul>
+                </span>
                 <svg class="c-toggler__icon c-collapsible__icon" focusable="false">
                     <use xlink:href="#chevron-down"/>
                 </svg>
@@ -62,7 +93,10 @@ templateEngineOverride: njk,md
         </h3>
         <div class="c-toggler__target c-collapsible__content c-richtext">
 
-            {{ case.content | safe }}
+
+{{ case.content | safe }}
+
+
 
             <div>
                 <a href="{{ case.case.url }}">Get to know how this organisation manages other teal practices</a>

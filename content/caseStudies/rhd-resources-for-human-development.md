@@ -172,8 +172,11 @@ theory:
     title: Three beliefs for people, workers and management.
     content: |-
       1. All people are of equal human worth.
+
       2. People are essentially good, unless proven otherwise.
+
       3. There is no single way to manage corporate issues well.
+
   - topic: wholeness
     title: An organizational Bill of Rights
     content: >-
