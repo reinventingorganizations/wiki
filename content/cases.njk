@@ -1,0 +1,16 @@
+---
+layout: base
+---
+
+<h1 class="c-title c-title--page">Browse for organizations that implemented teal practices</h1>
+
+
+<ul class="c-caselist">
+{% for case in collections.cases %}
+    <li class="c-caselist__item">
+        <a href="{{case.url}}" class="c-caselist__link">
+             {{case.data.name}}
+        </a>
+    </li>
+{% endfor %}
+</ul>
