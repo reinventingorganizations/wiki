@@ -1,8 +1,8 @@
 
 module.exports = {
     "mount": {
+      "src": "/_dist_",
       "_output": "/",
-      "src": "/_dist_"
     },
     "plugins": [
       [
@@ -10,7 +10,7 @@ module.exports = {
         { "cmd": "eleventy", "watch": "$1 --watch" }
       ],
       process.env.NODE_ENV === 'production' ?
-        ["@snowpack/plugin-build-script", { "cmd": "postcss", "input": [".css"], "output": [".css"]}] : 
+        ["@snowpack/plugin-run-script", { "cmd": "postcss src/main.css -o _output/_dist_/main.css"}] : 
         undefined
     ].filter(_ => Boolean(_))
   }

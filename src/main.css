@@ -46,10 +46,13 @@ a {
   display: none;
 }
 
-.l-main {
+:root {
   --ror-main-width: 41.25rem;
   --ror-main-margin: auto;
   --ror-wide-element-margin: -2.4375rem;
+}
+
+.l-main {
 
   width: var(--ror-main-width);
   margin: 0 var(--ror-main-margin);

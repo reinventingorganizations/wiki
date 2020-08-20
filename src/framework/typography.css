@@ -1,4 +1,4 @@
-body {
+:root {
     --ror-maiola-font-stack: Maiola, serif;
     --ror-scala-font-stack: "ff-scala-sans-pro", sans-serif;
     --ror-font-headline-huge: 400 3.75rem/4.125rem var(--ror-maiola-font-stack);
