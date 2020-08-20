@@ -1,23 +1,44 @@
 ---
 layout: base
+templateEngineOverride: njk,md
 ---
 
-<h1>{{ name }}</h1>
+<h1 class="c-title c-title--page">{{ name }}</h1>
 
-{{ introduction | md | safe }}
+<div class="c-richtext">
 
-<ul>
-<li>{{ industry }}</li>
-<li>{{ geography }}</li>
-<li>{{ companySize }}</li>
-<li>{{ profit }}</li>
+{{ introduction | safe }}
+
+</div>
+
+<ul class="c-caseattributes">
+    <li class="c-caseattributes_item">{{ industry }}</li>
+    <li class="c-caseattributes_item">{{ geography }}</li>
+    <li class="c-caseattributes_item">{{ companySize }}</li>
+    <li class="c-caseattributes_item">{{ profit }}</li>
 </ul>
 
-<h2>Theory and Structure</h2>
+<h2 class="c-title c-title--section">Theory and Structure</h2>
 
 {% for item in theory %}
+<div class="c-collapsible">
+    <h3 class="c-collapsible__title" data-component="toggler">
+        <button class="c-collapsible__button">
+            <div>
+                <div class="u-font-label" style="margin-bottom: 4px">{{ item.topic }}</div>
+                <div>{{ item.title }}</div>
+            </div>
+            <svg class="c-toggler__icon c-collapsible__icon" focusable="false">
+                <use xlink:href="#chevron-down"/>
+            </svg>
+        </button>
+    </h3>
+    <div class="c-toggler__target c-collapsible__content c-richtext">
 
-    <h3>{{ item.title }}</h3>
-    <div>Topic: {{ item.topic }}</div>
-    {{ item.content | md | safe }}
+        {{ item.content | safe }}
+
+    </div>
+</div>
 {% endfor %}
+
+<h2 class="c-title c-title--section">Notes and references</h2>

@@ -29,9 +29,12 @@ body {
   overflow: hidden;
 }
 
-
 a {
   color: var(--ror-color-teal);
+}
+
+.u-font-label {
+  font: var(--ror-font-label);
 }
 
 .c-icons_definition {
