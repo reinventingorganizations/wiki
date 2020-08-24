@@ -1,0 +1,20 @@
+{
+  "footerLinks": [
+    {
+      "title": "About this wiki",
+      "link": "/about"
+    },
+    {
+      "title": "Contribute",
+      "link": "/contribute"
+    },
+    {
+      "title": "Feedback",
+      "link": "/"
+    },
+    {
+      "title": "Get the book",
+      "link": "/"
+    }
+  ]
+}

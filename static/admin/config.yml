@@ -180,3 +180,16 @@ collections:
             - { label: Title, name: title, widget: string }
             - { label: Image, name: image, widget: image }
             - { label: Link, name: link, widget: string }
+  - label: "Configuration"
+    name: "configuration"
+    files:
+      - label: "Footer"
+        name: "footer"
+        file: "_data/footer.json"
+        fields:
+          - label: "Footer Links"
+            name: "footerLinks"
+            widget: "list"
+            fields:
+            - { label: Title, name: title, widget: string }
+            - { label: Link, name: link, widget: string }

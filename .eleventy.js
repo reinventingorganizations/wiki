@@ -56,6 +56,7 @@ module.exports = function (eleventyConfig) {
       input: "content",
       includes: "../_includes",
       output: '_output',
+      data: '../_data'
     },
   };
 };
