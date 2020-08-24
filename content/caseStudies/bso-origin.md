@@ -2,6 +2,7 @@
 layout: case
 tags: cases
 name: BSO / Origin
+date: 2020-08-24T20:05:33.747Z
 introduction: IT consulting - Global - 10,000 employees - For profit
 industry: J. Information and communication
 geography: Global

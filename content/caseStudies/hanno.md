@@ -1,5 +1,6 @@
 ---
 layout: case
+date: Last Modified
 tags: cases
 name: Hanno
 introduction: Digital design agency - Worldwide - 8 'shipmates' - For Profit.

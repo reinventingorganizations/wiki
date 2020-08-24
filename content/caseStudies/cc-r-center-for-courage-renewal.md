@@ -1,5 +1,6 @@
 ---
 layout: case
+date: Last Modified
 tags: cases
 name: CC&R (Center for Courage & Renewal)
 introduction: CC&R has created meetings for welcoming and farewelling personnel.

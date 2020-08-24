@@ -1,5 +1,6 @@
 ---
 layout: case
+date: Last Modified
 tags: cases
 name: Valve
 introduction: Software - US - 330 Employees - For Profit.

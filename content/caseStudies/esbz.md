@@ -1,5 +1,6 @@
 ---
 layout: case
+date: Last Modified
 tags: cases
 name: ESBZ
 introduction: ESBZ is recognized for its innovative curriculum and organization model.

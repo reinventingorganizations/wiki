@@ -1,5 +1,6 @@
 ---
 layout: case
+date: Last Modified
 tags: cases
 name: AES (Applied Energy Services)
 introduction: AES uses the practice of a survey to stimulate discussions about

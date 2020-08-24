@@ -1,5 +1,6 @@
 ---
 layout: case
+date: Last Modified
 tags: cases
 name: Heiligenfeld
 introduction: Heiligenfeld have weekly, large group reflective meetings.

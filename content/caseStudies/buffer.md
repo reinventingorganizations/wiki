@@ -1,5 +1,6 @@
 ---
 layout: case
+date: Last Modified
 tags: cases
 name: Buffer
 introduction: Social media start up - Global - 40 people - For Profit.

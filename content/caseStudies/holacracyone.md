@@ -1,5 +1,6 @@
 ---
 layout: case
+date: Last Modified
 tags: cases
 name: HolacracyOne
 introduction: Founded in 2007 by Brian Robertson and Tom Thomison, HolacracyOne

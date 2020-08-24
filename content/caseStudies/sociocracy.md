@@ -1,5 +1,6 @@
 ---
 layout: case
+date: Last Modified
 tags: cases
 name: Sociocracy
 introduction: Sociocracy, also called dynamic governance, is a system of

@@ -88,6 +88,7 @@ collections:
           default: "cases",
         }
       - { label: "Name", name: "name", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime"}
       - {
           label: "Introduction",
           name: "introduction",
@@ -156,3 +157,26 @@ collections:
             }
           - { label: Title, name: title, widget: string }
           - { label: Content, name: content, widget: markdown, minimal: true }
+  - label: "Pages"
+    name: "pages"
+    files:
+      - label: "Home"
+        name: "home"
+        file: "content/index.md"
+        fields:
+          - {
+              label: "Layout",
+              name: "layout",
+              widget: "hidden",
+              default: "home",
+            }
+          - {label: Tagline, name: tagline, widget: string}
+          - {label: Title, name: title, widget: string}
+          - {label: Intro, name: intro, widget: markdown} 
+          - label: "Topics"
+            name: "topics"
+            widget: "list"
+            fields:
+            - { label: Title, name: title, widget: string }
+            - { label: Image, name: image, widget: image }
+            - { label: Link, name: link, widget: string }

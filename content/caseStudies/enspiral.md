@@ -1,5 +1,6 @@
 ---
 layout: case
+date: Last Modified
 tags: cases
 name: Enspiral
 introduction: The Enspiral Foundation is a charitable company co-owned by the
