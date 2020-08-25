@@ -155,6 +155,7 @@
   height: 8px;
 }
 
+.c-navigation__level1.is-active .c-navigation__level1_link,
 .c-navigation__level3.is-active .c-navigation__level3_link {
   color: var(--ror-color-teal);
 }

@@ -48,7 +48,7 @@
           {% endfor %}
         </ul>
       </li>
-      <li class="c-navigation__level1">
+      <li class="c-navigation__level1 {{ 'is-active' if '/cases' in page.url }}">
         <a href="/cases" class="c-navigation__level1_link">{{ 'cases' | translate }}</a>
       </li>
     </ul>

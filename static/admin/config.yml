@@ -74,9 +74,9 @@ collections:
           widget: "string",
         }
       - { label: "Name", name: "name", widget: "string" }
-  - name: "caseStudies"
+  - name: "cases"
     label: "Case Studies"
-    folder: "content/caseStudies"
+    folder: "content/cases"
     create: true
     identifier_field: name
     fields:
