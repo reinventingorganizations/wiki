@@ -43,8 +43,12 @@ module.exports = function (eleventyConfig) {
       }
     })
   });
- 
 
+  eleventyConfig.addCollection("casesByName", function(collection) {
+    return collection.getFilteredByTag('cases').sort((a,b) => {
+      return a.data.name.localeCompare(b.data.name);
+    });
+  })
 
   eleventyConfig.addPassthroughCopy({ "static/admin": "admin" });
   eleventyConfig.addPassthroughCopy({ "static/images": "images" });
