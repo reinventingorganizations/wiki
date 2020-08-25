@@ -54,6 +54,9 @@ a {
 
 .l-maincontainer {
   flex-grow: 1;
+  /* We need this, else in IE11 our width on l-main won't be recongnised. */
+  display: flex;
+  flex-direction: column;
 }
 
 .l-main {

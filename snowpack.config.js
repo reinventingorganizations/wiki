@@ -5,6 +5,7 @@ module.exports = {
       "_output": "/",
     },
     "plugins": [
+      ["@snowpack/plugin-webpack", {outputPattern: {js: '_dist_/main.js'}}],
       [
         "@snowpack/plugin-run-script",
         { "cmd": "eleventy", "watch": "$1 --watch" }
