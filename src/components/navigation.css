@@ -19,6 +19,7 @@
   bottom: 0;
   border-right: 4px solid white;
   z-index: 0;
+  overflow-y: auto;
 }
 
 /* Placeholder on large viewports to push the content to the right */
@@ -192,11 +193,12 @@
   }
 
   .c-navigation {
-    /* Reset from fixed to "statick", but using relative, 
+    /* Reset from fixed to "static", but using relative, 
          to Create an own stack-container, so that z-index management is local to navigation */
     position: relative;
     border-right: none;
     width: 100vw;
+    overflow-y: none;
   }
 
   .c-navigation.is-open .c-navigation__headline {
