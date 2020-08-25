@@ -186,8 +186,8 @@ a {
 
 @media (max-width: 79.99em) {
   .l-home {
-    margin-left: var(--ror-main-element-margin);
-    margin-right: var(--ror-main-element-margin);
+    margin-left: 0;
+    margin-right: 0;
     padding-top: 50px;
   }
 }
