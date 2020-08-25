@@ -102,7 +102,6 @@ intro: >-
 
 
   If there are barriers inside the organization, there is a moat between the organization and the outside world. Amber organizations try wherever possible to be self-contained and autonomous. Early car factories had their own rubber plantations and steel mills, operated their own bakeries, and provided social housing. Employees also “belong” to the organization: employment is assumed to be lifelong, and much of people’s social life revolves around the organization. The possibility of dismissal therefore carries a double threat: employees risk losing both the identity the work gives them as well as the social fabric they are embedded in. Someone who decides to leave the organization is often met with bewilderment, if not accused of betrayal. Many of today’s Amber organizations still have lifetime employment as an underlying norm. For those who decide to leave, the process is often painful―akin to shedding an old life and having to reinvent a new one.
-perspective: remove
-inPractice: remove
+perspective: ""
+inPractice: ""
 ---
-remove

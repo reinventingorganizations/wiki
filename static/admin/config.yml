@@ -36,10 +36,10 @@ collections:
         displayFields: ["name"]
         valueField: "key"
         searchFields: ["name"]
-      - { label: "Introduction", name: "intro", widget: "markdown" }
-      - { label: "A new perspective", name: "perspective", widget: "markdown" }
-      - { label: "In Practice", name: "inPractice", widget: "markdown" }
-      - { label: "Body (not used anymore)", name: "body", widget: "markdown" }
+      - { label: "Introduction", name: "intro", widget: "markdown", required: false }
+      - { label: "A new perspective", name: "perspective", widget: "markdown", required: false }
+      - { label: "In Practice", name: "inPractice", widget: "markdown", required: false }
+      - { label: "Body (not used anymore)", name: "body", widget: "markdown", required: false }
       - label: "FAQ"
         name: "faq"
         widget: "list"

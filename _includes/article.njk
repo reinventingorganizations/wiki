@@ -12,6 +12,10 @@ templateEngineOverride: njk,md
 
 </div>
 
+
+
+{% if perspective %}
+
 <h2 class="c-title c-title--section">A New Perspective</h2>
 
 <div class="c-richtext">
@@ -20,6 +24,10 @@ templateEngineOverride: njk,md
 
 </div>
 
+{% endif %}
+
+{% if inPractice %}
+
 <h2 class="c-title c-title--section">In Practice</h2>
 
 <div class="c-richtext">
@@ -27,6 +35,10 @@ templateEngineOverride: njk,md
 {{ inPractice | safe }}
 
 </div>
+
+{% endif %}
+
+{% if faq.length > 0 %}
 
 <h2 class="c-title c-title--section" id="faq">Frequently Asked Questions</h2>
 
@@ -50,6 +62,10 @@ templateEngineOverride: njk,md
 </div>
 
 {% endfor %}
+
+{% endif %}
+
+{% if cases.length > 0 %}
 
 <h2 class="c-title c-title--section">Concrete Organisational Cases</h2>
 
@@ -105,15 +121,21 @@ templateEngineOverride: njk,md
     </div>
 {% endfor %}
 
-    <h2 class="c-title c-title--section" id="relatedTopics">Related Topics</h2>
+{% endif %}
 
-    <ul class="c-topiclist">
-        {% for topic in topics %}
-            <li class="c-topiclist__item">
-                <a href="{{ topic.url }}" class="c-topiclist__link">{{ topic.data.name }}</a>
-            </li>
-        {% endfor %}
-    </ul>
+{% if topics.length > 0 %}
 
-    <h2 class="c-title c-title--section">Notes and references
-    </h2>
+<h2 class="c-title c-title--section" id="relatedTopics">Related Topics</h2>
+
+<ul class="c-topiclist">
+    {% for topic in topics %}
+        <li class="c-topiclist__item">
+            <a href="{{ topic.url }}" class="c-topiclist__link">{{ topic.data.name }}</a>
+        </li>
+    {% endfor %}
+</ul>
+
+{% endif %}
+
+<h2 class="c-title c-title--section">Notes and references
+</h2>
