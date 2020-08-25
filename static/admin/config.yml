@@ -180,6 +180,30 @@ collections:
             - { label: Title, name: title, widget: string }
             - { label: Image, name: image, widget: image }
             - { label: Link, name: link, widget: string }
+      - label: "About"
+        name: "about"
+        file: "content/about.md"
+        fields:
+          - {
+              label: "Layout",
+              name: "layout",
+              widget: "hidden",
+              default: "content",
+            }
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: markdown} 
+      - label: "Contribute"
+        name: "contribute"
+        file: "content/contribute.md"
+        fields:
+          - {
+              label: "Layout",
+              name: "layout",
+              widget: "hidden",
+              default: "content",
+            }
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: markdown} 
   - label: "Configuration"
     name: "configuration"
     files:
