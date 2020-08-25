@@ -1,5 +1,6 @@
 ---
 layout: home
+name: Home
 tagline: A hearthy welcome to the
 title: Reinventing Organizations Wiki
 intro: This wiki is based on the book Reinventing Organizations by Frederic
@@ -7,7 +8,7 @@ intro: This wiki is based on the book Reinventing Organizations by Frederic
   organizations, emerging all over the world, that operate in a very different
   and perhaps more evolved way.
 topics:
-  - title: I want to know more  about the reinvention of organizations
+  - title: I want to know more about the reinvention of organizations
     image: /media/home_reinvention.png
     link: /
   - title: How do the processes differ from conventional organizations?

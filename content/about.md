@@ -1,5 +1,5 @@
 ---
 layout: content
-title: About
+name: About
 ---
 Lorem ipsum up

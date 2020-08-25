@@ -1,5 +1,5 @@
 ---
 layout: content
-title: Contribute
+name: Contribute
 ---
 Lorem ipsum

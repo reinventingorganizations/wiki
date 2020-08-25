@@ -190,7 +190,7 @@ collections:
               widget: "hidden",
               default: "content",
             }
-          - {label: Title, name: title, widget: string}
+          - {label: Title, name: name, widget: string}
           - {label: Body, name: body, widget: markdown} 
       - label: "Contribute"
         name: "contribute"
@@ -202,7 +202,7 @@ collections:
               widget: "hidden",
               default: "content",
             }
-          - {label: Title, name: title, widget: string}
+          - {label: Title, name: name, widget: string}
           - {label: Body, name: body, widget: markdown} 
   - label: "Configuration"
     name: "configuration"
