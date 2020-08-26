@@ -55,6 +55,7 @@ collections:
         valueField: "key"
         searchFields: ["name"]
         multiple: true
+        optionsLength: 1000
   - name: "theoryCategories"
     hide: true
     label: "Theory Categories"
