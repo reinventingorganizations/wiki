@@ -181,6 +181,30 @@ collections:
             - { label: Title, name: title, widget: string }
             - { label: Image, name: image, widget: image }
             - { label: Link, name: link, widget: string }
+      - label: "Teal Concepts"
+        name: "tealconcepts"
+        file: "content/tealconcepts.md"
+        fields:
+          - {
+              label: "Layout",
+              name: "layout",
+              widget: "hidden",
+              default: "content",
+            }
+          - {label: Title, name: name, widget: string}
+          - {label: Body, name: body, widget: markdown} 
+      - label: "Teal Practices"
+        name: "tealpractices"
+        file: "content/tealpractices.md"
+        fields:
+          - {
+              label: "Layout",
+              name: "layout",
+              widget: "hidden",
+              default: "content",
+            }
+          - {label: Title, name: name, widget: string}
+          - {label: Body, name: body, widget: markdown} 
       - label: "About"
         name: "about"
         file: "content/about.md"
