@@ -23,18 +23,18 @@ pagination:
             {{ intro }}
         </div>
 
-        <a href="/cases" class="l-home__cta">
-            Discover Teal Organizations
+        <a href="/tealpractices" class="l-home__cta">
+            Discover Teal Practices
         </a>
     </div>
 
     <h2 class="c-title--section">
-        Are you new to this topic?
+        A new paradigm in Practice
     </h2>
     <ul class="l-home__topics">
         {% for topic in topics %}
             <li class="l-home__topic">
-                <a href="{{ topic.url }}" class="l-home__topiclink">
+                <a href="{{ topic.link }}" class="l-home__topiclink">
                     <img class="l-home__image" src="{{ topic.image }}" alt="" />
                     {{ topic.title }}
                 </a>
