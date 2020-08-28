@@ -8,15 +8,15 @@ intro: This wiki is based on the book Reinventing Organizations by Frederic
   organizations, emerging all over the world, that operate in a very different
   and perhaps more evolved way.
 topics:
-  - title: I want to know more about the reinvention of organizations
+  - title: Overview of the main teal concepts
     image: /media/home_reinvention.png
-    link: /
-  - title: How do the processes differ from conventional organizations?
+    link: /about
+  - title: Overview of all the teal practices
     image: /media/home_difference.png
-    link: /
-  - title: Show me some real-world examples of reinvented organizations
+    link: /contribute
+  - title: Concrete cases for inspiration
     image: /media/home_cases.png
-    link: /
+    link: /cases
 ---
 
 # Responsive Organisations Wiki
