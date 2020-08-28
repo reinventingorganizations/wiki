@@ -2,6 +2,8 @@
 layout: content
 name: Teal Practices
 ---
+# Teal Practices
+
 * Daily Practices
   * [Conflict resolution](https://reinventingorganizations-wiki.netlify.app/theory/conflict-resolution/)
   * [Culture and Values](https://reinventingorganizations-wiki.netlify.app/theory/culture-and-values/)
