@@ -1,0 +1,22 @@
+.c-caselist {
+    padding: 0;
+    margin-left: var(--ror-wide-element-margin);
+    margin-right: var(--ror-wide-element-margin);
+}
+
+.c-caselist__item {
+    background: white;
+    border-radius: 4px;
+    margin-bottom: 12px;
+    display: block;
+    list-style: none;
+}
+
+.c-caselist__link {
+    color: inherit;
+    font: inherit;
+    text-decoration: inherit;
+    cursor: pointer;
+    display: block;
+    padding: 16px calc(-1 * var(--ror-wide-element-margin));
+}

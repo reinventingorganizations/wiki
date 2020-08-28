@@ -7,10 +7,34 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "@11ty/eleventy": "^0.10.0",
-    "markdown-it-footnote": "^3.0.2"
+    "@11ty/eleventy": "^0.11.0",
+    "@babel/core": "^7.11.4",
+    "@babel/preset-env": "^7.11.0",
+    "@snowpack/plugin-run-script": "^2.0.4",
+    "core-js": "^3.6.5",
+    "cssnano": "^4.1.10",
+    "markdown-it-container": "^3.0.0",
+    "markdown-it-footnote": "^3.0.2",
+    "postcss-cli": "^7.1.1",
+    "postcss-css-variables": "^0.17.0",
+    "postcss-import": "^12.0.1",
+    "snowpack": "^2.7.7",
+    "wicked-elements": "^3.1.1"
   },
   "scripts": {
-    "start": "eleventy --serve"
+    "start": "snowpack dev",
+    "build": "snowpack build",
+    "test": "echo \"This template does not include a test runner by default.\" && exit 1",
+    "format": "prettier --write \"src/**/*.js\"",
+    "lint": "prettier --check \"src/**/*.js\""
+  },
+  "browserslist": [
+    "> 0.5%",
+    "last 2 versions",
+    "Firefox ESR",
+    "not dead"
+  ],
+  "devDependencies": {
+    "@snowpack/plugin-webpack": "^2.0.5"
   }
 }

@@ -1,0 +1,27 @@
+.c-caseattributes {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.c-caseattributes__item {
+    flex: none;
+    flex-basis: 50%;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    max-width: 100%;
+}
+
+
+.c-caseattributes--inline .c-caseattributes__item {
+    flex-basis: auto;
+    margin-right: 1rem;
+}
+
+.c-caseattributes_icon {
+    width: 16px;
+    height: 16px;
+    margin-right: 0.5rem;
+}
