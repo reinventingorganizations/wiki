@@ -48,8 +48,8 @@ name: Teal Practices
 
 
 ## History of Organizational Development
+  * [Red Paradigm and Organizations](/theory/red-organizations/)
   * [Amber Paradigm and Organizations](/theory/amber-paradigm-and-organizations/)
-  * [Red Paradigm and Organizations]/theory/red-organizations/)
   * [Orange Paradigm and Organizations](/theory/orange-paradigm-and-organizations/)
   * [Green Paradigm and Organizations](/theory/green-paradigm-and-organizations/)
   * [Developmental Perspective on Organizations](/theory/developmental-perspective-on-organizations/)
