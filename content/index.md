@@ -1,7 +1,7 @@
 ---
 layout: home
 name: Home
-tagline: A hearthy welcome to the
+tagline: A hearty welcome to the
 title: Reinventing Organizations Wiki
 intro: This wiki is based on the book Reinventing Organizations by Frederic
   Laloux. Its purpose is to explain the features and characteristics of
