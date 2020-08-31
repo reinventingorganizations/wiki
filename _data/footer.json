@@ -1,8 +1,16 @@
 {
   "footerLinks": [
     {
-      "title": "Contribute / Give feedback",
+      "title": "Give feedback",
+      "link": "https://goo.gl/forms/GGm7TsXM7BBxOmpi1"
+    },
+    {
+      "title": "Contribute",
       "link": "https://surveyheart.com/form/5f12c56c042b2b3696da7a2e"
+    },
+    {
+      "title": "Donate",
+      "link": "https://opencollective.com/tealwiki"
     },
     {
       "title": "Get the book",
