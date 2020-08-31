@@ -10,10 +10,10 @@ intro: This wiki is based on the book Reinventing Organizations by Frederic
 topics:
   - title: Teal Concepts
     image: /media/home_reinvention.png
-    link: /about
+    link: /tealconcepts
   - title: Teal Practices
     image: /media/home_difference.png
-    link: /contribute
+    link: /tealpractices
   - title: Concrete cases for inspiration
     image: /media/home_cases.png
     link: /cases
