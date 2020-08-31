@@ -1,8 +1,8 @@
-
 ---
 layout: content
 name: Teal Practices
 ---
+
 # Teal Practices
 
 * Daily Practices
