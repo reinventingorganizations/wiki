@@ -119,5 +119,6 @@ relatedTheory:
   - Decision Making
   - Role Definition and Allocation
   - Information Flow
+  - Staff Functions
 ---
 to be removed
