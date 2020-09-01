@@ -157,7 +157,7 @@ relatedTheory:
   - Listening to Purpose
   - Evolutionary Purpose
   - Fundamental Assumptions
-  - Safe Space
   - Mood Management
+  - Creating Safe Space
 ---
 to be removed
