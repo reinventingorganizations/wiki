@@ -173,5 +173,8 @@ faq:
 relatedTheory:
   - Culture and Values
   - Self-Management
+  - Decision Making
+  - Listening to Purpose
+  - wholeness
 ---
 done
