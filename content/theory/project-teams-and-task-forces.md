@@ -121,5 +121,6 @@ relatedTheory:
   - Fundamental Assumptions
   - Innovation and Product Development
   - Change Management
+  - Staff Functions
 ---
 to be removed
