@@ -4,8 +4,12 @@ tags: theory
 key: Organizational Structure
 name: Organizational Structure
 category: Structure of an organization
-intro: "This article discusses the structures through which people coordinate
-  work and distribute power in Teal organizations.\r\n"
+intro: >-
+  This article discusses the structures through which people coordinate work and
+  distribute power in Teal organizations.
+
+
+  ![](/media/2_058f-self-management-etienne-medium.png)
 perspective: >-
   All organizations prior to Teal were structured as pyramids for a simple
   reason: it is a natural consequence of the boss-subordinate relationship. In
