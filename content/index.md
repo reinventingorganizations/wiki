@@ -9,7 +9,7 @@ intro: This wiki is based on the book Reinventing Organizations by Frederic
   and perhaps more evolved way.
 topics:
   - title: Teal Concepts
-    image: /media/home_reinvention.png
+    image: /media/home_reinvention-etienne-small.png
     link: /tealconcepts
   - title: Teal Practices
     image: /media/home_difference.png
