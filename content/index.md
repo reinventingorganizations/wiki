@@ -3,10 +3,14 @@ layout: home
 name: Home
 tagline: A hearty welcome to the
 title: Reinventing Organizations Wiki
-intro: This wiki is based on the book Reinventing Organizations by Frederic
-  Laloux. Its purpose is to explain the features and characteristics of
-  organizations, emerging all over the world, that operate in a very different
-  and perhaps more evolved way.
+intro: >-
+  This wiki is based on the book Reinventing Organizations by Frederic Laloux.
+  Its purpose is to explain the features and characteristics of organizations,
+  emerging all over the world, that operate in a very different and perhaps more
+  evolved way.
+
+
+  The wiki is best used as a reference, a sort of handbook, for leaders looking to upgrade specific management practices in their organization.
 topics:
   - title: Teal Concepts
     image: /media/home_reinvention.png
