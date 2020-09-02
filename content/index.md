@@ -12,10 +12,10 @@ topics:
     image: /media/home_reinvention-etienne-small.png
     link: /tealconcepts
   - title: Teal Practices
-    image: /media/home_difference.png
+    image: /media/home_difference-etrienne-small.png
     link: /tealpractices
   - title: Concrete cases for inspiration
-    image: /media/home_cases.png
+    image: /media/home_cases-etienne-small.png
     link: /cases
 ---
 
