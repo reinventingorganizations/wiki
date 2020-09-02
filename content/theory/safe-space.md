@@ -4,9 +4,13 @@ tags: theory
 key: Creating Safe Space
 name: Safe Space
 category: Daily practices
-intro: This article covers the topic of how organizations can create a space
-  that enables the safety necessary for colleagues to feel they can show up
-  whole at work.
+intro: >-
+  This article covers the topic of how organizations can create a space that
+  enables the safety necessary for colleagues to feel they can show up whole at
+  work.
+
+
+  ![](/media/safe-space.png)
 perspective: >-
   [Teal organizations](../teal-paradigm-and-organizations/) aim to establish a
   safe space that allows colleagues to show up with all of who they are, their
