@@ -48,7 +48,7 @@ name: Teal Practices
 * [Project teams and task forces](/theory/project-teams-and-task-forces/)
 * [Staff Functions](/theory/staff-functions/)
 
-![](/media/1_018.png)
+![](/media/1_018-small.png)
 
 ## History of Organizational Development
 
