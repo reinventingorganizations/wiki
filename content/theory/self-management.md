@@ -9,7 +9,7 @@ intro: >-
   “breakthroughs” brought about by Teal organizations.
 
 
-  ![](/media/2_058f-self-management-etienne-medium.png)
+  ![](/media/2_058f-self-management-medium.png)
 perspective: >-
   Leading scientists believe that the principal science of the next century will
   be the study of complex, autocatalytic, self-organizing, non-linear, and
