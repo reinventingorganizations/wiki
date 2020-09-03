@@ -8,7 +8,7 @@ introduction: >-
   copper rotors. 
 
 
-  ![](/media/2_058n-favi.png)
+  ![](/media/2_058n-favi-medium-small.png)
 industry: C. Manufacturing
 geography: France
 companySize: 201-500
