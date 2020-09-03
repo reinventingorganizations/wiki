@@ -9,7 +9,7 @@ intro: >-
   distribute power in Teal organizations.
 
 
-  ![](/media/2_058f-self-management-etienne-medium.png)
+  ![](/media/2_058f-org-structure-medium-small.png)
 perspective: >-
   All organizations prior to Teal were structured as pyramids for a simple
   reason: it is a natural consequence of the boss-subordinate relationship. In
