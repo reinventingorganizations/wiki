@@ -10,7 +10,7 @@ intro: >-
   work.
 
 
-  ![](/media/safe-space.png)
+  ![](/media/safe-space-medium-small.png)
 perspective: >-
   [Teal organizations](../teal-paradigm-and-organizations/) aim to establish a
   safe space that allows colleagues to show up with all of who they are, their
