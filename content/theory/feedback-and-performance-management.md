@@ -4,8 +4,12 @@ tags: theory
 key: Feedback and Performance Management
 name: Feedback and Performance Management
 category: People practices
-intro: This topic looks at how feedback and performance management are handled
-  in Teal organizations.
+intro: >-
+  This topic looks at how feedback and performance management are handled in
+  Teal organizations.
+
+
+  ![](/media/feedback.jpg)
 perspective: >-
   The transparency inherent in Teal organizations means that all members of the
   organization are constantly receiving feedback, both implicitly - information
