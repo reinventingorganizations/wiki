@@ -4,9 +4,13 @@ tags: theory
 key: Commitment, Working Hours and Flexibility
 name: Commitment, Working Hours and Flexibility
 category: People practices
-intro: The topic of commitment, working hours and flexibility includes the
-  process of how working hours are set, what commitment a person is expected to
-  provide and how organizations respond to changing demands.
+intro: >-
+  The topic of commitment, working hours and flexibility includes the process of
+  how working hours are set, what commitment a person is expected to provide and
+  how organizations respond to changing demands.
+
+
+  ![](/media/agenda.jpg)
 perspective: >-
   #### Working Hours
 
