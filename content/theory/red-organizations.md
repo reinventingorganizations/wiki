@@ -13,6 +13,9 @@ intro: >-
   packs are a good metaphor for Red organizations.
 
 
+  ![](/media/red.jpg)
+
+
   ### Red stage of consciousness
 
 
