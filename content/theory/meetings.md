@@ -4,8 +4,12 @@ tags: theory
 key: Meetings
 name: Meetings
 category: Daily practices
-intro: The topic of meetings discusses when, how and for what purpose meetings
-  are organized.
+intro: >-
+  The topic of meetings discusses when, how and for what purpose meetings are
+  organized.
+
+
+  ![](/media/meetings.jpg)
 perspective: >-
   Meetings serve different purposes depending on the stage of the organization.
   The number of meetings held typically grows as organizations develop, peaking
