@@ -4,9 +4,13 @@ tags: theory
 key: Crisis Management
 name: Crisis Management
 category: Important Processes
-intro: The topic of Crisis Management addresses the organizational process of
-  making swift or particularly challenging decisions at times of crisis, and how
-  this may differ from regular [decision making](../decision-making/) processes.
+intro: >-
+  The topic of Crisis Management addresses the organizational process of making
+  swift or particularly challenging decisions at times of crisis, and how this
+  may differ from regular [decision making](../decision-making/) processes.
+
+
+  ![](/media/crisis.jpg)
 perspective: >-
   In a Teal organization, everyone is involved in decision making to allow the
   best response to emerge from collective intelligence. 
