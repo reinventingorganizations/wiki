@@ -13,7 +13,7 @@ intro: >-
   Nature, humankind, relationships: everything evolves, driven by a life force, to adapt, transform and grow. From a Teal perspective, organizations are viewed as an independent energy field with a purpose that transcends its stakeholders. In this paradigm, we don’t own or run the organization; instead we are stewards, listening to where it needs to go and helping it to do its work in the world..
 
 
-  ![](/media/evolutionary-purpose.jpg)
+  ![](/media/evolutionary-purpose-2.jpg)
 perspective: >-
   > *"Like any living system, every organization co-evolves. Its character
   and  capabilities emerge as it plays with possibilities. It messes about with
