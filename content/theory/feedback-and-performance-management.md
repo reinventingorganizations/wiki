@@ -18,6 +18,9 @@ perspective: >-
   they have about how individuals and the team are doing.
 
 
+  ![](/media/evaluation-teal.jpg)
+
+
   In Teal organizations, people are intrinsically motivated to perform through their commitment to the organization's [evolutionary purpose](../evolutionary-purpose/). Performance is managed primarily at a team level through peer feedback and emulation. Information and results are openly shared and people are trusted to know how the organization and other teams are performing. Giving feedback is a responsibility shared by all and happens routinely at both a team and individual level. Feedback is especially powerful in a Teal organization because it is intentionally non-judgmental, and feedback is given in a spirit of open exploration and acceptance. Teal values the whole person, not just the job they are doing.
 
 
