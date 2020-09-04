@@ -1,14 +1,17 @@
 ---
 layout: case
-date: Last Modified
 tags: cases
 name: Morning Star
+date: Last Modified
 introduction: >-
   The [Morning Star Company ](https://www.morningstarco.com/)is a
   California-based agribusiness and food processing company. Morning Star
   processes 25% of the California processing tomato production, and supplies
   approximately 40% of the U.S. industrial tomato paste and diced tomato
   markets. 
+
+
+  ![](/media/morning-star.jpg)
 
 
   Wikipedia article : <https://en.wikipedia.org/wiki/The_Morning_Star_Company>
