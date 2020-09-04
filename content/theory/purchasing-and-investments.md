@@ -4,10 +4,12 @@ tags: theory
 key: Purchasing and Investments
 name: Purchasing and Investments
 category: Important Processes
-intro: "This article describes how purchasing and investments are handled in
-  Teal organisations.\r
+intro: >-
+  This article describes how purchasing and investments are handled in Teal
+  organisations.
 
-  \r\n"
+
+  ![](/media/compensation-and-incentives.jpg)
 perspective: >-
   With respect to purchasing and investments, [Teal
   organizations](../teal-paradigm-and-organizations/) exhibit the following
