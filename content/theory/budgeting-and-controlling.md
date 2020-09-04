@@ -4,12 +4,14 @@ tags: theory
 key: Budgeting and Controlling
 name: Budgeting and Controlling
 category: Important Processes
-intro: "Organisations prepare financial budgets and monitor performance against
-  them to control their operations and to determine how well objectives and
-  targets are achieved This article deals with how budgets are established,
-  monitored and what control practices are used to achieve results.\r
+intro: >-
+  Organisations prepare financial budgets and monitor performance against them
+  to control their operations and to determine how well objectives and targets
+  are achieved This article deals with how budgets are established, monitored
+  and what control practices are used to achieve results.
 
-  \r\n"
+
+  ![](/media/budgeting-and-controlling.jpg)
 perspective: >-
   Budgeting can be one of the more challenging areas for companies making the
   shift to Teal. The Teal practice of sensing and responding to current
