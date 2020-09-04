@@ -4,10 +4,12 @@ tags: theory
 key: Change Management
 name: Change Management
 category: Important Processes
-intro: "This article discusses the difference between traditional “change
-  management” and the evolutionary process of change under Teal.\r
+intro: >-
+  This article discusses the difference between traditional “change management”
+  and the evolutionary process of change under Teal.
 
-  \r\n"
+
+  ![](/media/complicated.jpg)
 perspective: >-
   In the machine paradigm of Orange, organizations are viewed as fixed systems.
   These systems don’t have an inner capacity for change. Force must be applied
@@ -23,6 +25,9 @@ perspective: >-
 
 
   Thus, change tends to happen in a series of ‘jumps’. This is not a fluid, emergent process. It’s a series of discrete and usually disruptive movements, from one relatively static state to another.
+
+
+  ![](/media/complex.jpg)
 
 
   In contrast, living systems seem to have the capacity to sense change in the environment and adapt from within. In a forest, no master tree plans and dictates to the other trees what to do when rain fails to fall or when spring chooses to come early. The whole ecosystem reacts creatively, in the moment. Teal organizations approach change in a similar way. People are encouraged to act on what they sense is needed. They are not confined by static job descriptions, fixed reporting lines, or functional discipline. They react creatively to life’s emerging, non-linear changes. Change is expected. It happens naturally, all the time^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4671-4688). Nelson Parker. Kindle Edition.]
