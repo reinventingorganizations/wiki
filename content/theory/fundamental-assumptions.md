@@ -4,12 +4,14 @@ tags: theory
 key: Fundamental Assumptions
 name: Fundamental Assumptions
 category: teal-concepts
-intro: "The topic of fundamental assumptions explains how deeply held, often
+intro: >-
+  The topic of fundamental assumptions explains how deeply held, often
   unconscious assumptions (about people, their motivations, role in the world
   and workplace, the meaning of life etc.) lie at the root of organizational
-  models and practices\r
+  models and practices
 
-  \r\n"
+
+  ![](/media/fundamental-assumptions.jpg)
 perspective: >-
   Every historical stage has given birth to fundamental assumptions, a distinct
   perspective on people and their motivations, and to very different approaches
