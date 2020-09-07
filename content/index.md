@@ -14,9 +14,6 @@ intro: >-
 
 
   It is a labor of love, the work of a joyful community, dedicated to soulful organizations everywhere coming to life.
-
-
-  We  invite you to [contribute ](https://surveyheart.com/form/5f12c56c042b2b3696da7a2e)by updating the relevant pages with your own learning and experience.
 topics:
   - title: Teal Concepts
     image: /media/home_reinvention-etienne-small.png
