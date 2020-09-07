@@ -14,7 +14,7 @@ intro: As described more fully in the Background article, “Evolutionary
   question becomes, “How do we find out where it wants to go?” As a result, a
   critical organizational process in Teal organizations is what is often
   referred to as “Listening to Purpose.”
-perspective: TO BE REMOVED
+perspective: ""
 inPractice: >-
   #### Sensing Approaches
 
