@@ -4,10 +4,12 @@ tags: theory
 key: Innovation and Product Development
 name: Innovation and Product Development
 category: Important Processes
-intro: "This topic, Innovation and Product Development, describes how advances
-  and improvements occur in Teal organizations.\r
+intro: >-
+  This topic, Innovation and Product Development, describes how advances and
+  improvements occur in Teal organizations.
 
-  \r\n"
+
+  ![](/media/complicated.jpg)
 perspective: >-
   *One of Orange’s shadows is “innovation gone mad.” With most of our basic
   needs taken care of, businesses increasingly try to create needs, feeding the
