@@ -4,10 +4,8 @@ tags: theory
 key: board
 name: Board
 category: Structure of an organization
-intro: "This section reviews the role of the board as well as some of the
-  practices and ways of working as a board under Teal.\r
-
-  \r\n"
+intro: This section reviews the role of the board as well as some of the
+  practices and ways of working as a board under Teal.
 perspective: >-
   The composition of the board in a Teal organization is crucial, says Frederic
   Laloux. He warns that, when adopting a Teal approach, “The only make-or-break
@@ -59,6 +57,7 @@ inPractice: >-
 
   * “Holding the space” or doing whatever possible to support the organization’s practice of a Teal approach. 
 
+    ![](/media/board.jpg)
 
   #### The board should also adopt Teal practices
 
