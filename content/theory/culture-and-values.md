@@ -4,9 +4,13 @@ tags: theory
 key: Culture and Values
 name: Culture and Values
 category: Daily practices
-intro: The topic of culture and values explore the different values, beliefs,
-  ground rules and the resulting cultures of Teal organizations as well as
-  practices for establishing and bringing culture and values to life.
+intro: >-
+  The topic of culture and values explore the different values, beliefs, ground
+  rules and the resulting cultures of Teal organizations as well as practices
+  for establishing and bringing culture and values to life.
+
+
+  ![](/media/tree.jpg)
 perspective: >-
   Teal organizations take shared values to the next level either through clear
   ground rules or sharing beliefs about what is acceptable or unacceptable. Most
