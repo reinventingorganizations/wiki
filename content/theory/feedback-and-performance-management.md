@@ -42,6 +42,9 @@ perspective: >-
   #### **Orange organizations**
 
 
+  ![](/media/performance.jpg)
+
+
   In [Orange organizations](../orange-paradigm-and-organizations/), performance management is focused on the achievement of objectives and goals. Individuals are held to account by measuring (and rating) their performance against "stretch" targets set by management. Innovation and achievement are highly valued with outcomes measured through metrics (where possible). Feedback is a top-down process, focused on job performance and designed to encourage greater results.
 
 
