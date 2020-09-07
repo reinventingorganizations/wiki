@@ -4,12 +4,14 @@ tags: theory
 key: Onboarding
 name: Onboarding
 category: People practices
-intro: "The topic of onboarding describes how new colleagues are welcomed and
+intro: >-
+  The topic of onboarding describes how new colleagues are welcomed and
   supported when they join an organization. It covers training activities and
   rotation programs to help new joiners integrate successfully into the
-  organizational and its culture.\r
+  organizational and its culture.
 
-  \r\n"
+
+  ![](/media/all-stages.jpg)
 perspective: >-
   [Teal organizations](../teal-paradigm-and-organizations/) invest significant
   time in welcoming and training new colleagues. This often includes learning
