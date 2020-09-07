@@ -17,6 +17,9 @@ intro: >-
   operate from this paradigm today. 
 
 
+  ![](/media/orange.jpg)
+
+
   #### Orange stage of consciousness
 
 

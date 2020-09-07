@@ -4,10 +4,10 @@ tags: theory
 key: Staff Functions
 name: Staff Functions
 category: Structure of an organization
-intro: "This article addresses how staff functions are handled in Teal
-  organizations.\r
+intro: |-
+  This article addresses how staff functions are handled in Teal organizations.
 
-  \n"
+  ![](/media/staff-functions.jpg)
 perspective: "In the last decades, we have witnessed, especially in large
   organizations, a proliferation of staff functions: human resources (HR),
   strategic planning, legal affairs, finance, internal communications, risk

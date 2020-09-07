@@ -4,11 +4,13 @@ tags: theory
 key: Compensation and incentives
 name: Compensation and incentives
 category: People practices
-intro: "The topic of compensation and incentives includes the process of how
-  salaries are set and by whom, the types of incentives being used, and the
-  issue of compensation inequality.\r
+intro: >-
+  The topic of compensation and incentives includes the process of how salaries
+  are set and by whom, the types of incentives being used, and the issue of
+  compensation inequality.
 
-  \r\n"
+
+  ![](/media/compensation-and-incentives-2.jpg)
 perspective: >-
   In [Teal Organizations,](../teal-paradigm-and-organizations/) compensation is
   determined not only in a different way, but takes on a fundamentally different

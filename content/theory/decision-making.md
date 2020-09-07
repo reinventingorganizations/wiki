@@ -4,11 +4,13 @@ tags: theory
 key: Decision Making
 name: Decision Making
 category: Daily practices
-intro: "The topic of decision-making discusses how decisions are made within
+intro: >-
+  The topic of decision-making discusses how decisions are made within
   organizations, and by whom. In Teal organizations, decision-making authority
-  is truly distributed throughout the organization.\r
+  is truly distributed throughout the organization.
 
-  \n"
+
+  ![](/media/decision.jpg)
 perspective: >-
   In [Teal organizations](../teal-paradigm-and-organizations/) decision-making
   is highly distributed. Front-line individuals or teams have the opportunity to

@@ -4,10 +4,12 @@ tags: theory
 key: wholeness
 name: Wholeness
 category: teal-concepts
-intro: "This article discusses one of the three foundational “breakthroughs”
-  common to Teal organizations.\r
+intro: >-
+  This article discusses one of the three foundational “breakthroughs” common to
+  Teal organizations.
 
-  \r\n"
+
+  ![](/media/wholeness.jpg)
 perspective: >-
   Workplaces have traditionally encouraged people to show up with their
   “professional” self and to check all other parts of themselves at the door.

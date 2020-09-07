@@ -15,6 +15,9 @@ intro: >-
   all stakeholders. Family is the dominant metaphor.
 
 
+  ![](/media/green.jpg)
+
+
   #### Green stage of consciousness
 
 

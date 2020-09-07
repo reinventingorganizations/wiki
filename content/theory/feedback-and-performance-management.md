@@ -4,14 +4,21 @@ tags: theory
 key: Feedback and Performance Management
 name: Feedback and Performance Management
 category: People practices
-intro: This topic looks at how feedback and performance management are handled
-  in Teal organizations.
+intro: >-
+  This topic looks at how feedback and performance management are handled in
+  Teal organizations.
+
+
+  ![](/media/feedback.jpg)
 perspective: >-
   The transparency inherent in Teal organizations means that all members of the
   organization are constantly receiving feedback, both implicitly - information
   is freely available about how the organization as a whole is doing - and
   explicitly - colleagues share openly with each other the thoughts and feelings
   they have about how individuals and the team are doing.
+
+
+  ![](/media/evaluation-teal.jpg)
 
 
   In Teal organizations, people are intrinsically motivated to perform through their commitment to the organization's [evolutionary purpose](../evolutionary-purpose/). Performance is managed primarily at a team level through peer feedback and emulation. Information and results are openly shared and people are trusted to know how the organization and other teams are performing. Giving feedback is a responsibility shared by all and happens routinely at both a team and individual level. Feedback is especially powerful in a Teal organization because it is intentionally non-judgmental, and feedback is given in a spirit of open exploration and acceptance. Teal values the whole person, not just the job they are doing.
@@ -33,6 +40,9 @@ perspective: >-
 
 
   #### **Orange organizations**
+
+
+  ![](/media/performance.jpg)
 
 
   In [Orange organizations](../orange-paradigm-and-organizations/), performance management is focused on the achievement of objectives and goals. Individuals are held to account by measuring (and rating) their performance against "stretch" targets set by management. Innovation and achievement are highly valued with outcomes measured through metrics (where possible). Feedback is a top-down process, focused on job performance and designed to encourage greater results.

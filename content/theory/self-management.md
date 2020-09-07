@@ -4,10 +4,12 @@ tags: theory
 key: Self-Management
 name: Self-Management
 category: teal-concepts
-intro: "This article discusses one of the three fundamental innovations or
-  “breakthroughs” brought about by Teal organizations.\r
+intro: >-
+  This article discusses one of the three fundamental innovations or
+  “breakthroughs” brought about by Teal organizations.
 
-  \r\n"
+
+  ![](/media/2_058f-self-management-medium-small.png)
 perspective: >-
   Leading scientists believe that the principal science of the next century will
   be the study of complex, autocatalytic, self-organizing, non-linear, and

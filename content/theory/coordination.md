@@ -4,10 +4,12 @@ tags: theory
 key: Coordination
 name: Coordination
 category: Structure of an organization
-intro: "The topic of coordination covers the process of organizing work and
-  exchanging knowledge across the organization.\r
+intro: >-
+  The topic of coordination covers the process of organizing work and exchanging
+  knowledge across the organization.
 
-  \r\n"
+
+  ![](/media/coordination.jpg)
 perspective: >-
   In Teal organisations, the need for coordination does not go away. However,
   the bosses, staff roles and endless meetings typically used to accomplish such

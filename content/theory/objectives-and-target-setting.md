@@ -4,9 +4,13 @@ tags: theory
 key: Objectives and Target Setting
 name: Objectives and Target Setting
 category: People practices
-intro: This section outlines the role of objectives and target setting, in
-  particular we discuss the processes for enabling goals and ambition to be
-  achieved in the absence of formalized target setting processes.
+intro: >-
+  This section outlines the role of objectives and target setting, in particular
+  we discuss the processes for enabling goals and ambition to be achieved in the
+  absence of formalized target setting processes.
+
+
+  ![](/media/objectives.jpg)
 perspective: >-
   Rather than depending on management to set direction, in Teal organizations,
   teams and individuals are intrinsically driven to fulfill the purpose of the

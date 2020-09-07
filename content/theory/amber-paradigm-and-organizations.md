@@ -20,6 +20,9 @@ intro: >-
   most significant Amber organization is the Catholic Church. 
 
 
+  ![](/media/amber.jpg)
+
+
   #### Amber stage of consciousness
 
 

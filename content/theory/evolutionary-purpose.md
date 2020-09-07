@@ -7,13 +7,16 @@ category: teal-concepts
 intro: >-
   *"Nothing endures except change"'* 
 
-  Heraclitus^[Heraclitus, quoted by Diogenes Laërtius in Lives and Opinions of Eminent Philosophers]
+  Heraclitus^\[Heraclitus, quoted by Diogenes Laërtius in Lives and Opinions of Eminent Philosophers]
 
 
   Nature, humankind, relationships: everything evolves, driven by a life force, to adapt, transform and grow. From a Teal perspective, organizations are viewed as an independent energy field with a purpose that transcends its stakeholders. In this paradigm, we don’t own or run the organization; instead we are stewards, listening to where it needs to go and helping it to do its work in the world..
+
+
+  ![](/media/evolutionary-purpose-2.jpg)
 perspective: >-
-  > *"Like any living system, every organization co-evolves. Its character and 
-  capabilities emerge as it plays with possibilities. It messes about with
+  > *"Like any living system, every organization co-evolves. Its character
+  and  capabilities emerge as it plays with possibilities. It messes about with
   others until a workable system appears. This system has abilities and beliefs
   no one planned. It accomplishes work in ways no one designed.  It has
   relationships no one mandated. While we worry about designs and structures,

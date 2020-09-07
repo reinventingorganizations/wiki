@@ -4,11 +4,13 @@ tags: theory
 key: Dismissal
 name: Dismissal
 category: People practices
-intro: "Even in Teal organizations, people do not always fit in or perform
-  adequately. But when this occurs, the responses in Teal are different from
-  earlier stage organizations.\r
+intro: >-
+  Even in Teal organizations, people do not always fit in or perform adequately.
+  But when this occurs, the responses in Teal are different from earlier stage
+  organizations.
 
-  \r\n"
+
+  ![](/media/dismissal.jpg)
 perspective: >-
   In Teal organizations, dismissals are rare. Roles tend to evolve to fit an
   individual’s strengths, and people are generally highly motivated by both a

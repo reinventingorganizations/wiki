@@ -4,8 +4,12 @@ tags: theory
 key: Organizational Structure
 name: Organizational Structure
 category: Structure of an organization
-intro: "This article discusses the structures through which people coordinate
-  work and distribute power in Teal organizations.\r\n"
+intro: >-
+  This article discusses the structures through which people coordinate work and
+  distribute power in Teal organizations.
+
+
+  ![](/media/2_058f-org-structure-medium-small.png)
 perspective: >-
   All organizations prior to Teal were structured as pyramids for a simple
   reason: it is a natural consequence of the boss-subordinate relationship. In
@@ -94,7 +98,10 @@ inPractice: >-
   These structures are not mutually exclusive, and some organizations exhibit a mixture of these types.
 
 
-  ![Michael K Sahota - 30 mai 2015 à 21:12](/media/parallel_teams.png "Parallel Teams") This is the most common structure found to date in Teal organizations.^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 319.]Examples would include Buurtzorg (geographic teams) and FAVI (client teams) (see “Concrete examples for inspiration” below). This model is highly suitable when work can be broken down in ways that teams have a high degree of autonomy, without too much need for coordination across teams. They can then work side by side. In this model, it is within the team that colleagues define their roles and the mutual commitments they make to each other. Teams also typically handle their own recruitment, planning, establish their investment needs, devise a budget (if a budget is needed), track their financial and non-financial results, and so on.
+  ![](/media/parallel_teams-medium.png)
+
+
+  This is the most common structure found to date in Teal organizations.^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 319.]Examples would include Buurtzorg (geographic teams) and FAVI (client teams) (see “Concrete examples for inspiration” below). This model is highly suitable when work can be broken down in ways that teams have a high degree of autonomy, without too much need for coordination across teams. They can then work side by side. In this model, it is within the team that colleagues define their roles and the mutual commitments they make to each other. Teams also typically handle their own recruitment, planning, establish their investment needs, devise a budget (if a budget is needed), track their financial and non-financial results, and so on.
 
 
   In an ideal situation, each team is fully autonomous and performing all tasks from start to finish. When that is the case, every single person in the organization has the satisfaction of seeing the entire organization’s purpose come to life, and not just a small slice of it as is often the case in large specialized organizations. In practice, there will often be a need for some people or teams who take on coordinating or supporting roles with a more narrow focus:
@@ -122,7 +129,7 @@ inPractice: >-
   ##### *Nested teams (Circles)*
 
 
-  ![Frederic Laloux - 29 juin 2015 à 12:22 - Update file of nested teams (presented as concentric circles rather than stacked in a pyramidal fashion ](/media/nested_teams_2.png "Nested Teams")
+  ![Frederic Laloux - 29 juin 2015 à 12:22 - Update file of nested teams (presented as concentric circles rather than stacked in a pyramidal fashion ](/media/nested_teams_2-medium.png "Nested Teams")
 
 
   Some industries have not only long, but also deep value chains, when certain steps in the value chain involve both a large number of people and complex tasks (for instance, research in a pharmaceutical company or marketing in a large retail bank). Consumer electronics firms, large media companies, banks, insurance companies, car manufacturers, aerospace companies, and airline companies are likely to have long and deep value chains. For these types of companies, nested teams (often called circles) might be particularly appropriate, as they allow an overall purpose to be broken down into successively less complex and more manageable pieces.

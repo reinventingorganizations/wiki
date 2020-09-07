@@ -4,10 +4,12 @@ tags: theory
 key: Strategy
 name: Strategy
 category: Important Processes
-intro: "The topic of Strategy covers how the traditional process of strategic
-  planning plays out in Teal organizations.\r
+intro: >-
+  The topic of Strategy covers how the traditional process of strategic planning
+  plays out in Teal organizations.
 
-  \r\n"
+
+  ![](/media/evolutionary-purpose.jpg)
 perspective: >-
   Every historical stage has given birth to a distinct perspective on strategy,
   and to very different practices:
