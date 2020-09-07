@@ -4,9 +4,13 @@ tags: theory
 key: Conflict resolution
 name: Conflict resolution
 category: Daily practices
-intro: The topic of Conflict Resolution includes how conflicts are dealt with
-  and by whom. In particular we discuss the types of processes used, factors
-  that reduce conflict avoidance and structures that prevent conflict.
+intro: >-
+  The topic of Conflict Resolution includes how conflicts are dealt with and by
+  whom. In particular we discuss the types of processes used, factors that
+  reduce conflict avoidance and structures that prevent conflict.
+
+
+  ![](/media/conflict.jpg)
 perspective: >-
   Conflict resolution is a vital piece of the system in a Teal organization. If
   there is no boss to act as a conflict meditator, then a new process to handle
