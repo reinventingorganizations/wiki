@@ -9,7 +9,7 @@ intro: >-
   organized.
 
 
-  ![](/media/meetings.jpg)
+  ![](/media/meetings-2.jpg)
 perspective: >-
   Meetings serve different purposes depending on the stage of the organization.
   The number of meetings held typically grows as organizations develop, peaking
