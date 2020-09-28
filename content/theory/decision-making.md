@@ -174,7 +174,7 @@ inPractice: >-
   For many leaders, unlearning the habit of making all the decisions is hard. It requires commitment and mindfulness. If you find yourself falling into the old pattern, take the opportunity to acknowledge your mistake, and restate the importance of the process. This can turn a mistake into a powerful learning moment. Better habits are formed through repeated practice.
 
 
-  #### Consent-based decision making
+  ### Consent-based decision making
 
 
   A variation of the advice process is consent-based decision making. "Consent" is different from "consensus" in the sense of unanimity. The consent principle says that a decision can be made as long as no one has a reasoned, substantial objection (also known as a "block"). Consent doesn't mean everyone loves the decision, but that they can live with it. 
