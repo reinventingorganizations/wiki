@@ -51,7 +51,7 @@ perspective: >-
 
   In Evolutionary-Teal, there is a shift from external to internal yardsticks in decision-making. People are now concerned with the question of inner rightness: does this decision seem right? Am I being true to myself? Is this in line with who I sense I am? Am I being of service to the world? With fewer ego-fears, people are able to make decisions that might seem risky. All the possible outcomes may not have been weighed up, but the decision resonates with deep inner convictions. People develop a sensitivity for situations that don’t quite feel right, and situations that demand that they speak up and take action, even in the face of opposition or with seemingly low odds of success. This is born out of a sense of integrity and authenticity.
 inPractice: >-
-  #### The advice process
+  ### The advice process
 
 
   Almost all [Teal organizations](../teal-paradigm-and-organizations/) use, in one form or another, what an early practitioner ([AES](http://www.aes.com/)) called the “advice process.” 
