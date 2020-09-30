@@ -69,7 +69,7 @@ inPractice: >-
   In practice, this process proves remarkably effective. It allows anybody to seize the initiative. Power is no longer a zero-sum game. Everyone is powerful via the advice process.
 
 
-  ##### It's not consensus
+  #### It's not consensus
 
 
   We often imagine decisions can be made in only two ways: either by the person with authority (someone calls the shots; some people might be frustrated; but at least things get done), or by unanimous agreement (everyone gets a say, but it can be frustratingly slow).
