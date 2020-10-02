@@ -5,7 +5,7 @@ key: Teal Paradigm and Organizations
 name: Teal Paradigm and Organizations
 category: teal-concepts
 intro: >-
-  > ![](/media/adaptative.jpg)
+  > ![](/media/adaptative-small.jpg)
 
   >
 
