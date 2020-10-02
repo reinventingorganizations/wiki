@@ -107,7 +107,7 @@ intro: >-
 
 
   One might argue that the reason “leaders” have played such an important role in Teal organizations to date is because these organizations (and we as a civilization) are making a transition from earlier stages reliant on the traditional type of leader. Perhaps in the not too distant future, Teal organizations will fully and truly emerge without assistance from a single or small group of enlightened individuals.
-perspective: to be removed
-inPractice: to be removed
+perspective: ""
+inPractice: ""
 ---
 to be removed
