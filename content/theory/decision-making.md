@@ -189,6 +189,9 @@ inPractice: >-
   Some methods, like Holacracy, deem an objection valid only if the argument passes stringent tests, such as it makes matters worse. A colleague cannot block a proposal simply because he or she thinks they have a better proposal, or because they don't love an idea.
 
 
+  (for a description of Consent Based Decision, see[ https://thedecider.app/consent-decision-making](https://thedecider.app/consent-decision-making))
+
+
   #### The advice process within a hierarchy
 
 
@@ -211,6 +214,14 @@ inPractice: >-
   * **Intuition**: Wisdom can be found in intuition, too. Intuition honors the ambiguous, paradoxical, non-linear nature of reality. We unconsciously connect patterns in ways that our rational mind cannot. Many great minds, like Einstein, had a deep reverence for intuition. They claim it is a muscle that can be trained. Learning to pay attention to intuitions, to question them for guidance, allows intuitive answers to surface.
 
   * **Paradoxical thinking**: A Teal breakthrough is the ability to live with paradox; beyond "either-or" to "both-and" thinking. Breathing in and breathing out illustrates the difference. Either-or thinking sees them as opposites. Both-and thinking sees them as needing each other. The more we can breathe in, the more we can breathe out. One such paradox is the advice process: it is a decision-making process that at once encourages individual initiative and the voice of the collective. It's both-and.
+
+
+  #### More to read
+
+
+  An Introduction to the Advice Process, with a video of Frédéric Laloux on this topic
+
+  <http://dev.alchemi.co.uk/adviceprocess/#/page/5cf823717fb0de42f3aeddfc>
 faq:
   - question: What prevents people from simply not requesting or ignoring advice?
     answer: >-
