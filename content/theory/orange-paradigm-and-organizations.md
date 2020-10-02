@@ -109,7 +109,7 @@ intro: >-
 
 
   The machine metaphor also reveals the dynamic nature of organizations in Orange (as compared to Amber, where we think of organizations as rigid, unchanging sets of rules and hierarchies). There is room for energy, creativity, and innovation. At the same time, the metaphor of the machine indicates that these organizations, however much they brim with activity, can still feel lifeless and soulless.
-perspective: remove
-inPractice: remove
+perspective: ""
+inPractice: ""
 ---
 remove
