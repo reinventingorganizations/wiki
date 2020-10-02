@@ -38,7 +38,7 @@ intro: >-
 
 
   Present-centeredness makes Red Organizations poor at planning and strategizing but highly reactive to new threats and opportunities that they can pursue ruthlessly. They are therefore well adapted to chaotic environments (in civil wars or in failed states) but are ill-suited to achieve complex outcomes in stable environments where planning and strategizing are possible.
-perspective: "  remove"
-inPractice: "   remove"
+perspective: ""
+inPractice: ""
 ---
    remove
