@@ -10,7 +10,7 @@ intro: >-
   compensation inequality.
 
 
-  ![](/media/compensation-and-incentives-2.jpg)
+  ![](/media/compensation-and-incentives-2-small.jpg)
 perspective: >-
   In [Teal Organizations,](../teal-paradigm-and-organizations/) compensation is
   determined not only in a different way, but takes on a fundamentally different
