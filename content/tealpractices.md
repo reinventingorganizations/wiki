@@ -2,11 +2,11 @@
 layout: content
 name: Teal Practices
 ---
-# Key organizational structures and practices
+## Key organizational structures and practices
 
 ![](/media/structure.jpg)
 
-## Structure
+### Structure
 
 * [Organizational Structure](/theory/organizational-structure/)
 * [Staff Functions](/theory/staff-functions/)
@@ -18,7 +18,7 @@ name: Teal Practices
 
 ![](/media/key-business-processes.jpg)
 
-## Key business processes
+### Key business processes
 
 * [Strategy](/theory/strategy/)
 * [Innovation and Product Development](/theory/innovation-and-product-development/)
@@ -31,7 +31,7 @@ name: Teal Practices
 
 ![](/media/people-practices.jpg)
 
-## People practices
+### People practices
 
 * [Recruitment](/theory/recruitment/)
 * [Onboarding](/theory/onboarding/)
@@ -46,7 +46,7 @@ name: Teal Practices
 
 ![](/media/daily-organizational-practices.jpg)
 
-## Daily organizational practices
+### Daily organizational practices
 
 * [Fundamental Assumptions](/theory/fundamental-assumptions/)
 * [Meetings](/theory/meetings/)
