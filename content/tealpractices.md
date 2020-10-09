@@ -1,6 +1,6 @@
 ---
 layout: content
-name: Teal Practices
+name: Key organizational structures and practices
 ---
 ## Key organizational structures and practices
 
