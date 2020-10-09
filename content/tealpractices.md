@@ -8,12 +8,43 @@ name: Teal Practices
 
 ## Structure
 
-* [Board](/theory/board/)
-* [Coordination](/theory/coordination/)
 * [Organizational Structure](/theory/organizational-structure/)
-* [Ownership](/theory/ownership/)
+* [Staff Functions](/theory/staff-functions/)
+* [Coordination](/theory/coordination/)
 * [Project teams and task forces](/theory/project-teams-and-task-forces/)
-* [Staff Functions](/theory/staff-functions/)## Daily Practices
+* [Board](/theory/board/)
+* [Ownership](/theory/ownership/)
+
+
+![](/media/key-business-processes.jpg)
+
+## Key business processes
+
+* [Strategy](/theory/strategy/)
+* [Innovation and Product Development](/theory/innovation-and-product-development/)
+* [Sales and Marketing](/theory/sales-marketing/)
+* [Purchasing and Investments](/theory/purchasing-and-investments/)
+* [Budgeting and Controlling](/theory/budgeting-and-controlling/)
+* [Environmental and Social Management](/theory/environmental-and-social-management/)
+* [Change Management](/theory/change-management/)
+* [Crisis Management](/theory/crisis-management/)
+
+![](/media/people-practices.jpg)
+
+## People practices
+
+* [Recruitment](/theory/recruitment/)
+* [Onboarding](/theory/onboarding/)
+* [Training and Coaching](/theory/training-and-coaching/)
+* [Commitment, Working Hours and Flexibility](/theory/commitment-working-hours-and-flexibility/)
+* [Job Titles and Job Descriptions](/theory/job-titles-and-job-descriptions/)
+* [Objectives and Target Setting](/theory/objectives-and-target-setting/)
+* [Feedback and Performance Management](/theory/feedback-and-performance-management/)
+* [Compensation and incentives](/theory/compensation-and-incentives/)
+* [Role Definition and Allocation](/theory/role-definition-and-allocation/)
+* [Dismissal](/theory/dismissal/)
+
+![](/media/daily-organizational-practices.jpg)
 
 ## Daily organizational practices
 
@@ -27,32 +58,6 @@ name: Teal Practices
 * [Team and Community Building](/theory/team-and-community-building/)
 * [Mood Management](/theory/mood-management/)
 * [Listening to Purpose](/theory/listening-to-purpose/)
-
-
-
-## Important Processes
-
-* [Budgeting and Controlling](/theory/budgeting-and-controlling/)
-* [Change Management](/theory/change-management/)
-* [Crisis Management](/theory/crisis-management/)
-* [Environmental and Social Management](/theory/environmental-and-social-management/)
-* [Innovation and Product Development](/theory/innovation-and-product-development/)
-* [Purchasing and Investments](/theory/purchasing-and-investments/)
-* [Sales and Marketing](/theory/sales-marketing/)
-* [Strategy](/theory/strategy/)
-
-## People practices
-
-* [Commitment, Working Hours and Flexibility](/theory/commitment-working-hours-and-flexibility/)
-* [Compensation and incentives](/theory/compensation-and-incentives/)
-* [Dismissal](/theory/dismissal/)
-* [Feedback and Performance Management](/theory/feedback-and-performance-management/)
-* [Job Titles and Job Descriptions](/theory/job-titles-and-job-descriptions/)
-* [Objectives and Target Setting](/theory/objectives-and-target-setting/)
-* [Onboarding](/theory/onboarding/)
-* [Recruitment](/theory/recruitment/)
-* [Role Definition and Allocation](/theory/role-definition-and-allocation/)
-* [Training and Coaching](/theory/training-and-coaching/)
 
 ![](/media/1_018-small.png)
 
