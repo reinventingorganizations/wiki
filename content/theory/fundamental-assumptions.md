@@ -3,7 +3,7 @@ layout: article
 tags: theory
 key: Fundamental Assumptions
 name: Fundamental Assumptions
-category: teal-concepts
+category: Daily practices
 intro: >-
   The topic of fundamental assumptions explains how deeply held, often
   unconscious assumptions (about people, their motivations, role in the world
