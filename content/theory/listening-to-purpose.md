@@ -3,7 +3,7 @@ layout: article
 tags: theory
 key: Listening to Purpose
 name: Listening to Purpose
-category: teal-concepts
+category: Daily practices
 intro: >-
   ![](/media/listening-to-purpose.jpg)
 
