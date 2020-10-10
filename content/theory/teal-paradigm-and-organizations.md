@@ -3,7 +3,7 @@ layout: article
 tags: theory
 key: Teal Paradigm and Organizations
 name: Teal Paradigm and Organizations
-category: teal-concepts
+category: history
 intro: >-
   > ![](/media/adaptative-small.jpg)
 
