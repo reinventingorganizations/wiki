@@ -15,6 +15,7 @@ name: Key organizational structures and practices
 * [Board](/theory/board/)
 * [Ownership](/theory/ownership/)
 
+  \--------------------------------------
 
 ![](/media/key-business-processes.jpg)
 
@@ -28,6 +29,8 @@ name: Key organizational structures and practices
 * [Environmental and Social Management](/theory/environmental-and-social-management/)
 * [Change Management](/theory/change-management/)
 * [Crisis Management](/theory/crisis-management/)
+
+  \--------------------------------------
 
 ![](/media/people-practices.jpg)
 
@@ -44,6 +47,8 @@ name: Key organizational structures and practices
 * [Role Definition and Allocation](/theory/role-definition-and-allocation/)
 * [Dismissal](/theory/dismissal/)
 
+  \--------------------------------------
+
 ![](/media/daily-organizational-practices.jpg)
 
 ### Daily organizational practices
@@ -58,6 +63,8 @@ name: Key organizational structures and practices
 * [Team and Community Building](/theory/team-and-community-building/)
 * [Mood Management](/theory/mood-management/)
 * [Listening to Purpose](/theory/listening-to-purpose/)
+
+  \--------------------------------------
 
 ![](/media/1_018-small.png)
 
