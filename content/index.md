@@ -15,7 +15,7 @@ topics:
   - title: Teal Concepts
     image: /media/home_reinvention-etienne-small.png
     link: /tealconcepts
-  - title: Teal Practices
+  - title: Key organizational structures and practices
     image: /media/home_difference-etrienne-small.png
     link: /tealpractices
   - title: Concrete cases for inspiration
