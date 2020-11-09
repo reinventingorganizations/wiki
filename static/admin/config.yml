@@ -51,6 +51,7 @@ collections:
           widget: "string",
         }
       - { label: "Name", name: "name", widget: "string" }
+      - { label: "Sort order", name: "sortOrder", widget: "number" }
       - label: "Category"
         name: "category"
         widget: "relation"

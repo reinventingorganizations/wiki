@@ -1,23 +1,20 @@
-
-
 module.exports = function (eleventyConfig) {
   const markdownOptions = {
     html: true,
   };
 
   const MarkdownIt = require("markdown-it"),
-    md = new MarkdownIt(markdownOptions).disable('code'),
-    mdContainer = require('markdown-it-container');
+    md = new MarkdownIt(markdownOptions).disable("code"),
+    mdContainer = require("markdown-it-container");
 
   md.use(require("markdown-it-footnote"));
-  md.use(mdContainer, 'c-richtext');
+  md.use(mdContainer, "c-richtext");
 
-  // The netlify rich-text editor will change `^[` to `^\[`, 
+  // The netlify rich-text editor will change `^[` to `^\[`,
   // which will break our footnotes. So we change it back here.
-  md.core.ruler.after('normalize', 'footnote_fixer', (state) => {
-    state.src = state.src.replace(/\^\\\[/g, "^[")
+  md.core.ruler.after("normalize", "footnote_fixer", (state) => {
+    state.src = state.src.replace(/\^\\\[/g, "^[");
   });
-
 
   eleventyConfig.setLibrary("md", md);
 
@@ -29,26 +26,37 @@ module.exports = function (eleventyConfig) {
     return md.render(value);
   });
 
-  eleventyConfig.addFilter("translate", function(key) {
-    const translations = require("./translations.json")
-    return translations[key] || key
-  })
-
-  eleventyConfig.addCollection("theoryNavigation", function(collection) {
-    let categories = collection.getFilteredByTag("theoryCategories"); 
-    return categories.map(_ => {
-      return {
-        data: _.data,
-        articles: collection.getFilteredByTag("theory").filter(item => item.data.category === _.data.key)
-      }
-    })
+  eleventyConfig.addFilter("translate", function (key) {
+    const translations = require("./translations.json");
+    return translations[key] || key;
   });
 
-  eleventyConfig.addCollection("casesByName", function(collection) {
-    return collection.getFilteredByTag('cases').sort((a,b) => {
+  eleventyConfig.addCollection("theoryNavigation", function (collection) {
+    let categories = collection.getFilteredByTag("theoryCategories");
+    return categories.map((_) => {
+      return {
+        data: _.data,
+        articles: collection
+          .getFilteredByTag("theory")
+          .filter((item) => item.data.category === _.data.key)
+          .sort((a, b) => {
+            const value = (a.data.sortOrder || 0) - (b.data.sortOrder || 0);
+
+            if (value === 0 && a.name && b.data.name) {
+              return a.data.name.localeCompare(b.data.name)
+            }
+            console.log(value)
+            return value;
+          }),
+      };
+    });
+  });
+
+  eleventyConfig.addCollection("casesByName", function (collection) {
+    return collection.getFilteredByTag("cases").sort((a, b) => {
       return a.data.name.localeCompare(b.data.name);
     });
-  })
+  });
 
   eleventyConfig.addPassthroughCopy({ "static/admin": "admin" });
   eleventyConfig.addPassthroughCopy({ "static/images": "images" });
@@ -56,11 +64,11 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("media");
 
   return {
-    dir: { 
+    dir: {
       input: "content",
       includes: "../_includes",
-      output: '_output',
-      data: '../_data'
+      output: "_output",
+      data: "../_data",
     },
   };
 };
