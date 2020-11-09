@@ -1,6 +1,6 @@
 ---
 layout: case
-date: Last Modified
+date: 2020-11-09
 tags: cases
 name: Elbdudler
 introduction: Social media consulting - Germany - 34 people - For Profit.

@@ -2,7 +2,7 @@
 layout: case
 tags: cases
 name: Morning Star
-date: Last Modified
+date: 2020-11-09
 introduction: >-
   The [Morning Star Company ](https://www.morningstarco.com/)is a
   California-based agribusiness and food processing company. Morning Star

@@ -3,6 +3,7 @@ layout: article
 tags: theory
 key: Amber Paradigm and Organizations
 name: Amber Paradigm and Organizations
+sortOrder: 20
 category: history
 intro: >-
   The Amber stage of consciousness^\[This stage corresponds to Gebser’s

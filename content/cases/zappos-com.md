@@ -1,6 +1,6 @@
 ---
 layout: case
-date: Last Modified
+date: 2020-11-09
 tags: cases
 name: Zappos.com
 introduction: Zappos.com is famous for its outstanding culture, offers its new

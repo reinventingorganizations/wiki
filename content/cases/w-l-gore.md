@@ -1,6 +1,6 @@
 ---
 layout: case
-date: Last Modified
+date: 2020-11-09
 tags: cases
 name: W.L.Gore
 introduction: Industrial conglomerate - Global - 10.000 associates - For Profit

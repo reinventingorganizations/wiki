@@ -2,7 +2,7 @@
 layout: case
 tags: cases
 name: FAVI
-date: Last Modified
+date: 2020-11-09
 introduction: >-
   Favi is a French SME born in 1956 specialized in gearbox forks for cars and
   copper rotors. 

@@ -1,6 +1,7 @@
 ---
 layout: article
 tags: theory
+sortOrder: 3
 key: Teal Paradigm and Organizations
 name: Teal Paradigm and Organizations
 category: history

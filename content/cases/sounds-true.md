@@ -1,6 +1,6 @@
 ---
 layout: case
-date: Last Modified
+date: 2020-11-09
 tags: cases
 name: Sounds True
 introduction: "**Sounds True** is a multimedia publishing company founded in

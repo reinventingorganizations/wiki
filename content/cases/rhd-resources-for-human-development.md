@@ -1,6 +1,6 @@
 ---
 layout: case
-date: Last Modified
+date: 2020-11-09
 tags: cases
 name: RHD (Resources for Human Development)
 introduction: RHD has developed over the years a beautiful and precisely worded
