@@ -14,10 +14,10 @@ intro: >
 topics:
   - title: Teal Concepts
     image: /media/home_reinvention-etienne-small.png
-    link: /tealconcepts
+    link: /pages/tealconcepts
   - title: Key structures and practices
     image: /media/home_difference-etrienne-small.png
-    link: /tealpractices
+    link: /pages/tealpractices
   - title: Concrete cases for inspiration
     image: /media/home_cases-etienne-small.png
     link: /cases
