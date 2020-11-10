@@ -3,7 +3,7 @@ layout: article
 tags: theory
 key: Self-Management
 name: Self-Management
-sortOrder: -1
+sortOrder: 1
 category: teal-concepts
 intro: >-
   This article discusses one of the three fundamental innovations or
