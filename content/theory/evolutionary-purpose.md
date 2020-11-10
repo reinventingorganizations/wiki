@@ -3,6 +3,7 @@ layout: article
 tags: theory
 key: Evolutionary Purpose
 name: Evolutionary Purpose
+sortOrder: 2
 category: teal-concepts
 intro: >-
   *"Nothing endures except change"'* 
