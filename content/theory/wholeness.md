@@ -3,6 +3,7 @@ layout: article
 tags: theory
 key: wholeness
 name: Wholeness
+sortOrder: 3
 category: teal-concepts
 intro: >-
   This article discusses one of the three foundational “breakthroughs” common to
