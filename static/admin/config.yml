@@ -187,7 +187,7 @@ collections:
     folder: "content/pages"
     create: true
     identifier_field: name
-    slug: "{{key}}"
+    slug: "{{name}}"
     fields:
       - {
           label: "Layout",
