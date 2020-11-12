@@ -3,6 +3,7 @@ layout: article
 tags: theory
 key: Compensation and incentives
 name: Compensation and incentives
+sortOrder: 8
 category: People practices
 intro: >-
   The topic of compensation and incentives includes the process of how salaries
