@@ -1,9 +1,9 @@
 ---
 layout: article
 tags: theory
-sortOrder: 3
 key: Teal Paradigm and Organizations
 name: Teal Paradigm and Organizations
+sortOrder: 6
 category: history
 intro: >-
   > ![](/media/adaptative-small.jpg)
