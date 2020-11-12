@@ -3,6 +3,7 @@ layout: article
 tags: theory
 key: Recruitment
 name: Recruitment
+sortOrder: 1
 category: People practices
 intro: This topic addresses recruitment and describes the processes for how
   external candidates are recruited into the organization, including  who
