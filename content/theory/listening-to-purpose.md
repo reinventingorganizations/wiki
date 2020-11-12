@@ -3,6 +3,7 @@ layout: article
 tags: theory
 key: Listening to Purpose
 name: Listening to Purpose
+sortOrder: 10
 category: Daily practices
 intro: >-
   ![](/media/listening-to-purpose.jpg)
