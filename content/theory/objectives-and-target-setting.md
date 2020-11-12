@@ -3,6 +3,7 @@ layout: article
 tags: theory
 key: Objectives and Target Setting
 name: Objectives and Target Setting
+sortOrder: 6
 category: People practices
 intro: >-
   This section outlines the role of objectives and target setting, in particular
