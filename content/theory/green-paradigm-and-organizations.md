@@ -3,6 +3,7 @@ layout: article
 tags: theory
 key: Green Paradigm and Organizations
 name: Green Paradigm and Organizations
+sortOrder: 5
 category: history
 intro: >-
   Green organizations reflect the Green stage of consciousness^\[This stage
