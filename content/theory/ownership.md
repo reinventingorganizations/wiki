@@ -3,6 +3,7 @@ layout: article
 tags: theory
 key: Ownership
 name: Ownership
+sortOrder: 6
 category: Structure of an organization
 intro: "This article discusses the structure of ownership under Teal and the
   implications for the types of owners of Teal organizations.\r
