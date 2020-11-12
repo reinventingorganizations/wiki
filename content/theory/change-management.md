@@ -3,6 +3,7 @@ layout: article
 tags: theory
 key: Change Management
 name: Change Management
+sortOrder: 7
 category: Important Processes
 intro: >-
   This article discusses the difference between traditional “change management”
