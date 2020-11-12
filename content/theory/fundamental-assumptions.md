@@ -3,6 +3,7 @@ layout: article
 tags: theory
 key: Fundamental Assumptions
 name: Fundamental Assumptions
+sortOrder: 1
 category: Daily practices
 intro: >-
   The topic of fundamental assumptions explains how deeply held, often
