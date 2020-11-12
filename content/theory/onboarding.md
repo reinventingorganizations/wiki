@@ -3,6 +3,7 @@ layout: article
 tags: theory
 key: Onboarding
 name: Onboarding
+sortOrder: 2
 category: People practices
 intro: >-
   The topic of onboarding describes how new colleagues are welcomed and
