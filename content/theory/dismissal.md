@@ -3,6 +3,7 @@ layout: article
 tags: theory
 key: Dismissal
 name: Dismissal
+sortOrder: 10
 category: People practices
 intro: >-
   Even in Teal organizations, people do not always fit in or perform adequately.
