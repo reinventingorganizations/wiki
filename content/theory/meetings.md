@@ -3,6 +3,7 @@ layout: article
 tags: theory
 key: Meetings
 name: Meetings
+sortOrder: 2
 category: Daily practices
 intro: >-
   The topic of meetings discusses when, how and for what purpose meetings are
