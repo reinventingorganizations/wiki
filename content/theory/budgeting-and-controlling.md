@@ -3,6 +3,7 @@ layout: article
 tags: theory
 key: Budgeting and Controlling
 name: Budgeting and Controlling
+sortOrder: 5
 category: Important Processes
 intro: >-
   Organisations prepare financial budgets and monitor performance against them
