@@ -3,6 +3,7 @@ layout: article
 tags: theory
 key: Job Titles and Job Descriptions
 name: Job Titles and Job Descriptions
+sortOrder: 5
 category: People practices
 intro: The topic of job titles and job descriptions includes the process of how
   roles and responsibilities are defined and by whom, how they evolve and how
