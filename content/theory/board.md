@@ -3,6 +3,7 @@ layout: article
 tags: theory
 key: board
 name: Board
+sortOrder: 5
 category: Structure of an organization
 intro: >-
   ![](/media/board.jpg)
