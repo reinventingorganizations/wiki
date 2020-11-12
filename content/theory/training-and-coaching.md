@@ -3,6 +3,7 @@ layout: article
 tags: theory
 key: Training and Coaching
 name: Training and Coaching
+sortOrder: 3
 category: People practices
 intro: Training and coaching is about how organizations develop knowledge,
   skills and a help people understand the culture. so they can contribute fully.
