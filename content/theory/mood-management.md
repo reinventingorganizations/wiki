@@ -3,6 +3,7 @@ layout: article
 tags: theory
 key: Mood Management
 name: Mood Management
+sortOrder: 9
 category: Daily practices
 intro: Moods influence possibilities. The topic of mood management summarizes
   how moods are dealt with in different types of organizations, and how
