@@ -3,6 +3,7 @@ layout: article
 tags: theory
 key: Strategy
 name: Strategy
+sortOrder: 1
 category: Important Processes
 intro: >-
   The topic of Strategy covers how the traditional process of strategic planning
