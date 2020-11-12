@@ -3,6 +3,7 @@ layout: article
 tags: theory
 key: Orange Paradigm and Organizations
 name: Orange Paradigm and Organizations
+sortOrder: 4
 category: history
 intro: >-
   Orange organizations represent the advance of the scientific and industrial
