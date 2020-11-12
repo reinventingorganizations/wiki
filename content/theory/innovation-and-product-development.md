@@ -3,6 +3,7 @@ layout: article
 tags: theory
 key: Innovation and Product Development
 name: Innovation and Product Development
+sortOrder: 2
 category: Important Processes
 intro: >-
   This topic, Innovation and Product Development, describes how advances and
