@@ -3,6 +3,7 @@ layout: article
 tags: theory
 key: Red Organizations
 name: Red Paradigm and Organizations
+sortOrder: 2
 category: history
 intro: >-
   Red organizations are molded on the Red stage of consciousness, which sees the
