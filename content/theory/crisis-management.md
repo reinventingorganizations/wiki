@@ -3,6 +3,7 @@ layout: article
 tags: theory
 key: Crisis Management
 name: Crisis Management
+sortOrder: 8
 category: Important Processes
 intro: >-
   The topic of Crisis Management addresses the organizational process of making
