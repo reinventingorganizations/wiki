@@ -3,6 +3,7 @@ layout: article
 tags: theory
 key: Culture and Values
 name: Culture and Values
+sortOrder: 6
 category: Daily practices
 intro: >-
   The topic of culture and values explore the different values, beliefs, ground
