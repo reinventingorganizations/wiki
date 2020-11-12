@@ -3,6 +3,7 @@ layout: article
 tags: theory
 key: Team and Community Building
 name: Team and Community Building
+sortOrder: 8
 category: Daily practices
 intro: Team / Community Building is a key factor in group achievements. The
   effectiveness of a team depends on the relationships between team members and
