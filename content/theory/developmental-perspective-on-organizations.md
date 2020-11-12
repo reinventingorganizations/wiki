@@ -3,6 +3,7 @@ layout: article
 tags: theory
 key: Developmental Perspective on Organizations
 name: Developmental Perspective on Organizations
+sortOrder: 1
 category: history
 intro: >-
   This article discusses developmental models and their application to
