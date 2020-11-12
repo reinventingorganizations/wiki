@@ -3,6 +3,7 @@ layout: article
 tags: theory
 key: Purchasing and Investments
 name: Purchasing and Investments
+sortOrder: 4
 category: Important Processes
 intro: >-
   This article describes how purchasing and investments are handled in Teal
