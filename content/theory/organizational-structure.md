@@ -3,6 +3,7 @@ layout: article
 tags: theory
 key: Organizational Structure
 name: Organizational Structure
+sortOrder: 1
 category: Structure of an organization
 intro: >-
   This article discusses the structures through which people coordinate work and
