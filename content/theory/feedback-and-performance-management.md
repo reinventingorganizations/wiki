@@ -3,6 +3,7 @@ layout: article
 tags: theory
 key: Feedback and Performance Management
 name: Feedback and Performance Management
+sortOrder: 7
 category: People practices
 intro: >-
   This topic looks at how feedback and performance management are handled in
