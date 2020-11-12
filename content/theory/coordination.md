@@ -3,6 +3,7 @@ layout: article
 tags: theory
 key: Coordination
 name: Coordination
+sortOrder: 3
 category: Structure of an organization
 intro: >-
   The topic of coordination covers the process of organizing work and exchanging
