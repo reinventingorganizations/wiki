@@ -3,6 +3,7 @@ layout: article
 tags: theory
 key: Creating Safe Space
 name: Safe Space
+sortOrder: 7
 category: Daily practices
 intro: >-
   This article covers the topic of how organizations can create a space that
