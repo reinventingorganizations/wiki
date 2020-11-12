@@ -3,6 +3,7 @@ layout: article
 tags: theory
 key: Decision Making
 name: Decision Making
+sortOrder: 3
 category: Daily practices
 intro: >-
   The topic of decision-making discusses how decisions are made within
