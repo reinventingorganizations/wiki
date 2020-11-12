@@ -3,6 +3,7 @@ layout: article
 tags: theory
 key: Conflict resolution
 name: Conflict resolution
+sortOrder: 4
 category: Daily practices
 intro: >-
   The topic of Conflict Resolution includes how conflicts are dealt with and by
