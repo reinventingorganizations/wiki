@@ -1,17 +1,18 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
 name: AES (Applied Energy Services)
-introduction: AES uses the practice of a survey to stimulate discussions about
-  values and ground rules.
+date: 2020-11-09
+introduction: The AES Corporation is a Fcompany that generates and distributes
+  electrical power. AES is headquartered in Arlington, Virginia see
+  https://en.wikipedia.org/wiki/AES_Corporation
 industry: D. Electricity, gas, steam and air conditioning supply
 geography: Global
 companySize: "> 500"
 profit: Profit
 theory:
   - topic: Culture and Values
-    title: AES uses the practice of a survey to stimulate discussions about values
+    title: AES used the practice of a survey to stimulate discussions about values
       and ground rules.
     content: "Annual survey: Many organizations cultivate discussion about values
       and ground rules through an annual survey. At [AES](http://www.aes.com/),
