@@ -3,7 +3,9 @@ layout: case
 tags: cases
 name: BSO / Origin
 date: 2020-08-24T20:05:33.747Z
-introduction: IT consulting - Global - 10,000 employees - For profit
+introduction: Originally IT consulting - Global - 10,000 employees - For profit.
+  A European information technology company founded by Eckart Wintzen, now a
+  part of Atos
 industry: J. Information and communication
 geography: Global
 companySize: "> 500"
