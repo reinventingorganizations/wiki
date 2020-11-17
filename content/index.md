@@ -23,7 +23,7 @@ topics:
     link: /cases
   - title: History of Organizational Development
     image: /media/1_018-small.png
-    link: /history-of-organizational-development
+    link: /pages/history-of-organizational-development
 ---
 
 # Responsive Organisations Wiki
