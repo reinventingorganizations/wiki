@@ -21,9 +21,6 @@ topics:
   - title: Concrete cases for inspiration
     image: /media/home_cases-etienne-small.png
     link: /cases
-  - title: History of Organizational Development
-    image: /media/1_018-xxtrasmall.jpg
-    link: /pages/history-of-organizational-development
 ---
 
 # Responsive Organisations Wiki
