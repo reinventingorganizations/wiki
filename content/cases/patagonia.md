@@ -1,8 +1,8 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
 name: Patagonia
+date: 2020-11-17T14:59:20.385Z
 introduction: >-
   **Patagonia, Inc.** is an American clothing company that markets and sells
   outdoor clothing. The company was founded by Yvon Chouinard in 1973 and is
