@@ -1,8 +1,8 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
 name: Valve
+date: 2020-11-17T14:57:26.749Z
 introduction: Software - US - 330 Employees - For Profit.
 industry: J. Information and communication
 geography: USA
