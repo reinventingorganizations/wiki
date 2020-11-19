@@ -18,9 +18,9 @@ The Charter lays out the vision the founders of the wiki shared when the wiki wa
 7. The wiki’s governance seeks inspiration from the very structures and practices it describes
 8. The wiki’s content falls under creative commons
 
-   ![](/media/book_image.png)
+   ![](/media/3_025-founding-charter.jpg)
 
-   \--------------------------------------------------------------
+
 
 <!---->
 
