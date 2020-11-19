@@ -2,6 +2,8 @@
 layout: content
 name: About
 ---
+![](/media/evolutionary-purpose.jpg)
+
 #### For leaders transforming their organizations...
 
 #### And for students, academics, coaches, bloggers...
