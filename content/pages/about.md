@@ -6,7 +6,7 @@ name: About
 
 #### And for students, academics, coaches, bloggers...
 
-This wiki is meant as a gift for leaders who feel called to create radically more soulful and purposeful organizations (more in the wiki’s founding charter). And it wants to be a resource that makes next-generation practices more visible and understandable for bloggers, media students, academics, and the broader public.
+This wiki is meant as a gift for leaders who feel called to create radically more soulful and purposeful organizations (more in the wiki’s [founding charter](../founding-charter)). And it wants to be a resource that makes next-generation practices more visible and understandable for bloggers, media students, academics, and the broader public.
 
 #### A sharp focus on next-stage organizational practices
 
