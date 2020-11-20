@@ -2,7 +2,9 @@
 layout: content
 name: DRAFT The synergy between the wiki and Enlivening Edge magazine
 ---
-#### Why is a synergy between these 2 sources for inspiration key?
+![](/media/enlivening-edge-and-wiki-synergy.jpg)
+
+#### Why  a synergy between these 2 sources for inspiration ?
 
 * This synergy is connecting 2 aspects of the same reality: a story for inspiration (Enlivening Edge) and articles to support a go for action
   (wiki)
@@ -14,13 +16,13 @@ name: DRAFT The synergy between the wiki and Enlivening Edge magazine
 * creates a culture of common understanding of Teal
 * ... anything else you would think about ...
 
-#### How to contribute
+#### How to contribute?
 
 * For EE : https://www.enliveningedge.org/enlivening-edge-writers-guidelines/ page.
 * For the wiki : /pages/editing-guidelines
 * Organizations can write one or both articles. 
 
-#### What to contribute with
+#### What to contribute with?
 
 * An Enlivening Edge Magazine story that can inspire people/organizations 
 
