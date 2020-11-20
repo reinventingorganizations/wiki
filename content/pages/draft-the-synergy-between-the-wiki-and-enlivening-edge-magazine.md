@@ -6,8 +6,7 @@ name: DRAFT The synergy between the wiki and Enlivening Edge magazine
 
 #### Why  a synergy between these 2 sources for inspiration ?
 
-* This synergy is connecting 2 aspects of the same reality: a story for inspiration (Enlivening Edge) and articles to support a go for action
-  (wiki)
+* This synergy is connecting 2 aspects of the same reality: a story for inspiration ([Enlivening Edge](https://www.enliveningedge.org/)) and articles to support a go for action ([wiki](http://reinventingorganizationswiki.com/))
 * The wiki gives a structure for people who want more than being in flow, browsing, and discovering, it is there when you need to find things again. Wiki is structure, and it can refer back to an EE article. EE can also include the personal inspiring stories. EE enables searching for topics. There is a synergistic difference: Wiki connects people with knowledge, and EE is purposed ultimately to connect people with people.
 * it is connecting the rich resources available for people interested to learn more about new organization's paradigm
 * EE is enabling writers to tell more of their story, extending to different aspects
