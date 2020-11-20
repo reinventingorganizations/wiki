@@ -16,4 +16,18 @@ This is a crowdsourced list of all quality criteria an article need to fulfill b
 
 All editors who do more than correcting simple typos should be familiar with this list. Please take time to read it so you join the editing spirit of the rest of this community. Welcome!
 
+#### Structure
+
 ![](/media/editing-structure.jpg)
+
+#### Language
+
+![](/media/editing-language.jpg)
+
+#### Format
+
+![](/media/editing-format.jpg)
+
+#### Proof
+
+![](/media/editing-proof.jpg)
