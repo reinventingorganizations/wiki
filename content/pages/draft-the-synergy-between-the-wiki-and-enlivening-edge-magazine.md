@@ -14,7 +14,6 @@ name: DRAFT The synergy between the wiki and Enlivening Edge magazine
 * this is making the sharing stories less labor-intensive for us, which benefits everyone
 * this creates more Teal "artifacts" in the world that people can discover and connect with like-minded people
 * creates a culture of common understanding of Teal
-* ... anything else you would think about ...
 
 #### How to contribute?
 
