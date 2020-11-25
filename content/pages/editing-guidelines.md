@@ -12,7 +12,7 @@ The article below goes in details of what was established in 2015 when the wiki 
 * **concrete, practical, actionable, helping readers to understand how this is happening in your organization reality**
 * **using a neutral tone, no advertisement**
 
-This is a crowdsourced list of all quality criteria an article need to fulfill before we think it's ready for public consumption. The goal with this list is to aim for a high degree of quality, and to create consistency across the wiki.
+If you want now more details about the guidelines for editing the articles thenmselves, this is a crowdsourced list of all quality criteria an article need to fulfill before we think it's ready for public consumption. The goal with this list is to aim for a high degree of quality, and to create consistency across the wiki.
 
 All editors who do more than correcting simple typos should be familiar with this list. Please take time to read it so you join the editing spirit of the rest of this community. Welcome!
 
@@ -108,6 +108,6 @@ The proof editor proofreads the article for spelling, grammar, punctuation, refe
 * Use US english for spelling and punctuation
 * "Sentence case" for headings = capitalize only the first word (so "Frequently asked questions" and not "Frequently Asked Questions")
 * Bibliography entry: If you refer to publications other than RO, use the following formats to record them in the bibliography:
-a. Books: Earp, Wyatt. Organizing Gunfights in Early Southwest Communities. Pima County Publishers, Tombstone, AZ, USA (1928).
-b. Periodicals: Holiday, Doc. “Friends and Enemies.” Personal Relationships in Pima County, Vol 1, No 1 (1929): 22-45.
-c. The above follows the Chicago Style manual. If you have other kinds of pubs, see here for formatting: https://owl.english.purdue.edu/owl/resource/717/04/
+  a. Books: Earp, Wyatt. Organizing Gunfights in Early Southwest Communities. Pima County Publishers, Tombstone, AZ, USA (1928).
+  b. Periodicals: Holiday, Doc. “Friends and Enemies.” Personal Relationships in Pima County, Vol 1, No 1 (1929): 22-45.
+  c. The above follows the Chicago Style manual. If you have other kinds of pubs, see here for formatting: https://owl.english.purdue.edu/owl/resource/717/04/
