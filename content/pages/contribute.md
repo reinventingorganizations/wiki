@@ -4,7 +4,7 @@ name: DRAFT Participation & Governance
 ---
 #### Participation
 
-Anyone who feels drawn to wiki’s purpose, who resonates with the charter and wants to participate is welcome.
+Anyone who feels drawn to the wiki’s purpose, who resonates with the charter and who wants to participate is welcome.
 
 People participate as individuals, not as organizations (although organizations, say a think-tank or a network of consultants, that decide to support the wiki are of course welcome. They can encourage their members to contribute their skills and energy, and donate financial resources).
 
@@ -21,7 +21,7 @@ After the wikithon is over, any person can propose him or herself for any role (
 
 People who want to be contribute as content editors or language editors can simply go and get busy, after introducing themselves on the Facebook group of the wiki. No appointment process for these two roles.
 
-For all other roles, the appointment process remains the same. The person nominating him/herself writes to all other group members in the Facebook group:
+For all other roles, the appointment process remains the same. The person nominating him/herself writes to all other group members in the Facebook group explaining:
 
 why he/she wants to contribute in that role
 what skills he/she brings
@@ -29,10 +29,10 @@ what support he/she requests
 and what commitment in the role he/she can make.
 Based on the comments and questions to that post (which are the advice from the group in the advice process), one person in the group will take the lead and confirm the person in the role (or not, and then explain why)
 
-(If it is ever needed to revoke someone from an existing role, this happens through another person starting a conflict resolution process)
+(If there is ever a need to remove someone from an existing role, this can happen through another person starting a conflict resolution process)
 
 Advice process
-Any decision gets made using the advice process. The advice process states that anyone can make any decision, provided he/she has sought advice from 1) people with expertise and 2) people who will be meaningfully affected by the decision
+All significant decisions get made using the advice process. The advice process states that anyone can make any decision, provided he/she has sought advice from 1) people with expertise and 2) people who will be meaningfully affected by the decision
 
 Typically, the bigger the decision, the more people need to be consulted. For a small decision (making an edit) no-one needs to be consulted. For important decisions, perhaps all contributors need to be consulted. This is best done by posting the proposed decision with request for advice on the Facebook group of the wiki. In some extremely important cases, perhaps a panel of users should be drawn in too.
 
@@ -47,7 +47,7 @@ If the conflicting parties still don’t find resolution, they ask a panel of 4 
 Celebration process
 Any noteworthy intermediary progress as well as major achievement deserves to be celebrated, as well as any significant contribution.
 
-We are all donating our time and skills here, so it’s especially nice to feel others appreciate what we do. And life is too short not to celebrate emoticon
+We are all donating our time and skills here, so it’s especially nice to feel others appreciate what we do. 
 
 This can happen in many ways. The simplest way is for anyone to post a message on the Facebook and/or a special wiki page, and others to send back messages to congratulate/celebrate. Perhaps we can invent other ways?
 
