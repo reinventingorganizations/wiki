@@ -18,8 +18,8 @@ name: DRAFT The synergy between the wiki and Enlivening Edge magazine
 
 #### How to contribute?
 
-* For EE : https://www.enliveningedge.org/enlivening-edge-writers-guidelines/ page.
-* For the wiki : /pages/editing-guidelines
+* For EE : <https://www.enliveningedge.org/enlivening-edge-writers-guidelines/> page.
+* For the wiki : [/pages/editing-guidelines](/pages/editing-guidelines)
 * Organizations can write one or both articles. 
 
 #### What to contribute with?
