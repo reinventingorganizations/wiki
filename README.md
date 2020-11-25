@@ -1,4 +1,4 @@
-# Reinventing Organisations Wiki FR
+# Reinventing Organisations Wiki RU
 
 The wiki content is versioned in the repository itself as markdown files in the `content` folder.
 The markdown files are then transformed with [Eleventy](https://www.11ty.dev/) to an HTML site.
