@@ -2,6 +2,8 @@
 layout: content
 name: DRAFT The synergy between the wiki and Enlivening Edge magazine
 ---
+### Synergy between the Wiki and Enlivening Edge magazine
+
 ![](/media/enlivening-edge-and-wiki-synergy.jpg)
 
 #### Why  a synergy between these 2 sources for inspiration ?
