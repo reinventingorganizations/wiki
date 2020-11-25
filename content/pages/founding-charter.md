@@ -20,8 +20,6 @@ The Charter lays out the vision the founders of the wiki shared when the wiki wa
 
    ![](/media/3_025-founding-charter.jpg)
 
-
-
 <!---->
 
 1. ##### The Wiki focuses on the next stage of organizations…
@@ -40,11 +38,11 @@ What matters most from the wiki’s perspective is identifying the overlap betwe
 
 3. ##### The wiki seeks to be useful for people trying to establish next generation organizations.
 
-   The ultimate yardstick to make decisions on editing the wiki is “what will be most useful for people turning to this wiki for help in creating a next generation organization?”
+   The ultimate yardstick to help make decisions on editing the wiki is “what will be most useful for people who desire to create a next generation organization?”
 
 We interpret useful as the right combination of the minimum necessary amount of theory with concise descriptions of the most powerful examples of practices, either already implemented in existing organizations, or conceived by wiki contributors and yet to be tested in reality.
 
-Other polarities to keep in mind to seek usefulness: keeping articles short vs. having practical, detailed descriptions; seeking to be comprehensive in terms of topics covered vs. keeping to a reasonable number of entries.
+Other considerations are: keeping articles short vs. having practical, detailed descriptions; seeking to be comprehensive in terms of topics covered vs. keeping to a reasonable number of entries.
 
 4. ##### We do the hard work of synthesizing case examples
 
