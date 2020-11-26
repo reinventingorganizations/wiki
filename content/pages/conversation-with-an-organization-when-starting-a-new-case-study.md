@@ -23,4 +23,8 @@ name: Conversation with an Organization when starting a new case study
 
 * The organization will stay in link with the wiki team contact for support
 
-* It is possible that the organization, beyond their practice description(s), would like to give more context to their case, tell the story (why did they choose to go to Teal, who had emboded this in their organisation, .... any inspiring detail). They can then choose to write an article for Enlivening Edge Magazine ( check /pages/
+* It is possible that the organization, beyond their practice description(s), would like to give more context to their case, tell the story (why did they choose to go to Teal, who had emboded this in their organisation, .... any inspiring detail). They can then choose to write an article for Enlivening Edge Magazine ( check /pages/draft-the-synergy-between-the-wiki-and-enlivening-edge-magazine for the details about the synergy between Wiki and EE)
+
+* If an EE article is writen in future , it is key to cross link artciles between EE and Wiki cases.
+
+* Keep this exercise small at start, iterative, realistic, and make it a joyfull experience! 
