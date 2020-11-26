@@ -13,7 +13,7 @@ intro: >-
   It is a labor of love, the work of a joyful community, dedicated to soulful organizations everywhere coming to life. We  invite you to[ join us and contribute](/pages/how-can-you-contribute)  to add cases and insights to this wiki.
 
 
-  [Click here ](/pages/translations/)for translations (Hungarian and Spanish available today, but more to come)
+  [Click here ](/pages/translations/)for translations (Hungarian and Spanish available today ... and more to come)
 topics:
   - title: Teal Concepts
     image: /media/home_reinvention-etienne-small.png
