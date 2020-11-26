@@ -2,6 +2,8 @@
 layout: content
 name: How can you contribute?
 ---
+### How can you contribute?
+
 #### You can of course [donate](https://opencollective.com/tealwiki), so that we can continue maintaining and growing this website which is dedicated to inspire organizations on their transformation journey.
 
 #### And if you are ready to give some time to this initiative, there are 3  ways in which you can contribute.
