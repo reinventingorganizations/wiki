@@ -12,7 +12,7 @@ intro: >-
   It is a labor of love, the work of a joyful community, dedicated to soulful organizations everywhere coming to life. We  invite you to[ join us and contribute](/pages/how-can-you-contribute)  to add cases and insights to this wiki.
 
 
-  ![](/media/flagspain.ico)      [Click here ](/media/flaggreatbritain.jpg)
+  ![](/media/FlagGreatBritain small.jpg)      [Click here ](/media/flaggreatbritain.jpg)
 topics:
   - title: Teal Concepts
     image: /media/home_reinvention-etienne-small.png
