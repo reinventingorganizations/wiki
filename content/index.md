@@ -4,9 +4,11 @@ name: Home
 tagline: A hearty welcome to the
 title: Reinventing Organizations Wiki
 intro: >-
-  **BIENVENUE !
+  **BIENVENUE !**
 
-  le WIKI EST EN CREATION
+
+
+  **le WIKI EST EN CREATION
 
   La plupart des articles sont en cours de rédaction
 
