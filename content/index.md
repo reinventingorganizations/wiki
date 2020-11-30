@@ -4,13 +4,24 @@ name: Home
 tagline: A hearty welcome to the
 title: Reinventing Organizations Wiki
 intro: >-
-  FR
+  **BIENVENUE !
+
+  le WIKI EST EN CREATION
+
+  La plupart des articles sont en cours de rédaction
+
+  VOUS ETES LES BIENVENUS POUR Y CONTRIBUER**
 
 
-  This wiki is based on the book Reinventing Organizations by Frederic Laloux. Its primary purpose is to serve as a practical guide for leaders who are reinventing their organization and are looking for inspiration as they upgrade specific management practices in their organization.
+  **Notre ambition**
+
+  Contribuer au développement de l'intelligence collective en permettant à tous ceux qui s'y intéressent de s'informer et de comprendre comment des groupes humains (entreprises, organisations à but non lucratif, administration, écoles...)  peuvent fonctionner de façon innovante, en combinant efficacité de l'organisation et motivation de ses membres. 
 
 
-  It is a labor of love, the work of a joyful community, dedicated to soulful organizations everywhere coming to life. We  invite you to[ join us and contribute](/pages/how-can-you-contribute)  to add cases and insights to this wiki.
+
+  **Notre objectif**
+
+  Mettre à disposition de toute personne s'interrogeant sur ces sujets et sur les nouvelles formes d'organisation émergentes ("Teal orgs", "Entreprises libérées"..) une information neutre, factuelle, actualisée et classée par thèmes.
 topics:
   - title: Teal Concepts
     image: /media/home_reinvention-etienne-small.png
