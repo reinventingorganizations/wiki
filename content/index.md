@@ -4,7 +4,7 @@ name: Home
 tagline: A hearty welcome to the
 title: Reinventing Organizations Wiki
 intro: >-
-  ![](/media/flagfrance.png)      **BIENVENUE !**
+  ![](/media/flagfrance.png)      **         BIENVENUE !**
 
 
 
