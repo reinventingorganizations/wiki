@@ -1,11 +1,11 @@
 {
   "footerLinks": [
     {
-      "title": "Donate",
+      "title": "Fire un don",
       "link": "https://opencollective.com/tealwiki"
     },
     {
-      "title": "Give feedback",
+      "title": "Faire un retour",
       "link": "https://surveyheart.com/form/5fb7b793ef396770afbeb29e"
     },
     {
@@ -23,14 +23,6 @@
     {
       "title": "Watch videos (Insights for the Journey)",
       "link": "https://thejourney.reinventingorganizations.com/videos.html"
-    },
-    {
-      "title": "Hungarian Wiki",
-      "link": "https://reinventingorganizationswiki.hu/"
-    },
-    {
-      "title": "Spanish Wiki",
-      "link": "http://www.reinventarlasorganizacioneswiki.com/"
     },
     {
       "link": "/pages/about/",
