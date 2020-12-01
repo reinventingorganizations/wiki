@@ -4,7 +4,7 @@ name: Home
 tagline: A hearty welcome to the
 title: Reinventing Organizations Wiki
 intro: >-
-  ![](/media/flagRussia.ico)   
+  ![](/media/flagRussia.jpg)   
 
 
   This **Russian** wiki is based on the book Reinventing Organizations by Frederic Laloux. Its primary purpose is to serve as a practical guide for leaders who are reinventing their organization and are looking for inspiration as they upgrade specific management practices in their organization.
