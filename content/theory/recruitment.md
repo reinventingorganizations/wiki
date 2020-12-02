@@ -9,16 +9,8 @@ intro: This topic addresses recruitment and describes the processes for how
   external candidates are recruited into the organization, including  who
   recruits and how the interview process is conducted.
 perspective: >-
-  In [Teal organizations](../teal-paradigm-and-organizations), recruitment is
-  led by the team in need of a new member. Conversations with candidates tend to
-  center around three topics: Fit with the role, fit with the organization, and
-  fit with the purpose. The last two are often considered more important, as in
-  self-managing organizations, there is much fluidity around roles. A period of
-  testing is often arranged so that both parties can honestly assess if the
-  match is meant to be.
-
-
-  Every historical stage has given birth to a distinct perspective on recruitment and to very different practices.
+  Every historical stage has given birth to a distinct perspective on
+  recruitment and to very different practices.
 
 
   #### **Red organizations**
@@ -48,7 +40,7 @@ perspective: >-
   #### **Teal Organizations**
 
 
-  In [Teal Organizations,](../teal-paradigm-and-organizations/) recruitment is led by the team in need of a new member, not by Human Resources (often, an HR function doesn’t exist.) Conversations with candidates tend to center around three topics: Fit with the role, fit with the organization, and fit with the purpose. The last two are often considered more important, as in self-managing organizations, there is much fluidity around roles.
+  In [Teal Organizations,](../teal-paradigm-and-organizations/) recruitment is led by the team in need of a new member, not by Human Resources (often, an HR function doesn’t exist.) Conversations with candidates tend to center around three topics: Fit with the role, fit with the organization, and fit with the purpose. The last two are often considered more important, as in self-managing organizations, there is much fluidity around roles. A period of testing is often arranged so that both parties can honestly assess if the match is meant to be.
 
 
   Teal organizations try to be mindful of the temptation to ‘look good’ to candidates during recruitment. The premise is that both parties are trying to answer one simple, fundamental question: Do we sense that we are meant to journey together? This question can only be meaningfully answered when conversations are rooted in honesty and integrity, with a willingness to inquire deeply and openly.
