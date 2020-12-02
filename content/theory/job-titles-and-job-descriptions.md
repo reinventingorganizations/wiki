@@ -75,7 +75,7 @@ inPractice: >-
   Not everyone is equal and all the jobs are not the same. Some roles have a rather narrow scope (say, the role of operating a certain machine or cleaning the office), while other roles take a broader perspective (for instance, the role of designing a new product line). The fluid arrangement of roles (instead of defined job descriptions) also allows for a better matching of talent with roles.
 
 
-  In [Teal organizations](../teal-paradigm-and-organizations/) there is usually one person recognized for taking the broadest perspective, and usually they are called the CEO, at least by the outside world (even though they don't hold the same responsibilities and power as a traditional CEO). Some well-defined roles can be named,. but for the vast majority of employees, people don’t bother trying to find a label to capture the different roles they hold at any one point in time. In many  The language of employee or staff is often dropped entirely and in some cases replaced with the word, "colleague".
+  In [Teal organizations](../teal-paradigm-and-organizations/) there is usually one person recognized for taking the broadest perspective, and usually they are called the CEO, at least by the outside world (even though they don't hold the same responsibilities and power as a traditional CEO). Some well-defined roles can be named, but for the vast majority of employees, people don’t bother trying to find a label to capture the different roles they hold at any one point in time. In many cases the language of employee or staff is often dropped entirely and in some cases replaced with the word, "colleague".
 
 
   #### **Management tasks within roles**
