@@ -14,13 +14,8 @@ intro: >-
 
   ![](/media/all-stages.jpg)
 perspective: >-
-  [Teal organizations](../teal-paradigm-and-organizations/) invest significant
-  time in welcoming and training new colleagues. This often includes learning
-  new relational skills, understanding what self-management means in practice
-  and going through a rotation program. These programs teach common skills and
-  provide an opportunity for new colleagues to meet a wide range of people.
-
-  Every historical stage has given birth to a distinct perspective on onboarding, and to very different practices:
+  Every historical stage has given birth to a distinct perspective on
+  onboarding, and to very different practices:
 
 
   #### **Red Organizations**
