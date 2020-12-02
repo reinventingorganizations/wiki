@@ -100,7 +100,7 @@ inPractice: >-
   [Teal organizations](../teal-paradigm-and-organizations/) understand that a person's attitude and behaviors are as important as their skills. Therefore significant energy is devoted to finding people that fit with the organization's culture and values. New recruits are carefully interviewed to ensure they can thrive in the environment. It is a two way discovery processes aiming at finding out if the organization and individual are meant to “journey together”. 
 
 
-  ### Values for the three Teal breakthroughs
+  #### Values for the three Teal breakthroughs
 
 
   The principles and practices outlines above support the three breakthroughs of [self-management](../self-management/), [wholeness ](../wholeness/)and [evolutionary purpose](../evolutionary-purpose/). 
