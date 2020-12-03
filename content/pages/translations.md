@@ -2,7 +2,7 @@
 layout: content
 name: Translations
 ---
-### This wiki can easily host branches with local language
+### This wiki can easily host branches with local languages
 
 Please [let us know](https://reinventingorganizationswiki.com/pages/how-can-you-contribute/) if you feel an impulse to start translating, we will help you setting it up.
 
