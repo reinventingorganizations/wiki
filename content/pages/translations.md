@@ -6,7 +6,7 @@ name: Translations
 
 Please [let us know](https://reinventingorganizationswiki.com/pages/how-can-you-contribute/) if you feel an impulse to start translating, we will help you setting it up.
 
-![](/media/languages-write.jpg)
+![](/media/flags-mosaic-world-11621414.jpg)
 
 ### Here are the translations of this Wiki that are available …
 
