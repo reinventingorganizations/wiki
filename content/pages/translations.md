@@ -12,12 +12,12 @@ Please [let us know](https://reinventingorganizationswiki.com/pages/how-can-you-
 
 ![](/media/flaghungary.jpg)      Hungarian Wiki <https://reinventingorganizationswiki.hu/>
 
-![](/media/flagspain.ico)      Spanish Wiki <http://www.reinventarlasorganizacioneswiki.com/>
+![](/media/flagspain.jpg)      Spanish Wiki <http://www.reinventarlasorganizacioneswiki.com/>
 
 ### … or in progress
 
-![](/media/flagfrance.ico)      French Wiki <https://fr.reinventingorganizationswiki.com/>
+![](/media/flagfrance.jpg)      French Wiki <https://fr.reinventingorganizationswiki.com/>
 
-![](/media/flagrussia.ico)      Russian Wiki [https://ru.reinventingorganizationswiki.com/](<https://ru.reinventingorganizationswiki.com/>)
+![](/media/flagrussia.jpg)      Russian Wiki [https://ru.reinventingorganizationswiki.com/](<https://ru.reinventingorganizationswiki.com/>)
 
-![](/media/flagchina.ico)       Chinese Wiki <https://cn.reinventingorganizationswiki.com/>
+![](/media/flagchina.jpg)       Chinese Wiki <https://cn.reinventingorganizationswiki.com/>
