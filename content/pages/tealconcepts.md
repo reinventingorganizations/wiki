@@ -12,7 +12,11 @@ name: Teal Concepts
 * [Wholeness](/theory/wholeness/)
 * [Evolutionary Purpose](/theory/evolutionary-purpose/)
 
-## ... and you can also check
+
+
+
+
+
 
 ![](/media/1_018-small.png)
 
