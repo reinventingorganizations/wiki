@@ -2,6 +2,12 @@
 layout: content
 name: Translations
 ---
+### This wiki can easily host branches with local language
+
+Please [let us know](https://reinventingorganizationswiki.com/pages/how-can-you-contribute/) if you feel an impulse to start translating, we will help you setting it up.
+
+![](/media/languages-write.jpg)
+
 ### Here are the translations of this Wiki that are available …
 
 ![](/media/flaghungary.ico)      Hungarian Wiki <https://reinventingorganizationswiki.hu/>
