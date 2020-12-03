@@ -21,4 +21,4 @@ name: Conversation with an Organization when starting a new case study
 * If an EE article is written in future , it is key to cross link articles between EE and Wiki cases.
 * Keep this exercise small at start, iterative, realistic, and make it a joyful experience!
 
-[You can use this spreadsheet](https://drive.google.com/file/d/1aQoSCt9FE77mQK4s24CIHiSI1UUlXqo-/view?usp=sharing) to help understanding what are the most illustrative topics and who are the main contacts to describe the Teal practices.
+[You can use this spreadsheet](https://drive.google.com/file/d/1eivx4sUpD-DUvGZ0zxV0QLBJyx2oORDV/view?usp=sharing) to help understanding what are the most illustrative topics and who are the main contacts to describe the Teal practices.
