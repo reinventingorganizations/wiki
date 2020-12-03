@@ -2,7 +2,7 @@
 layout: content
 name: Onboarding new contributors
 ---
-### Onboarding Reinventing Organizations Wiki contributors
+### Onboarding new Wiki contributors
 
 ![](/media/tree.jpg)
 
