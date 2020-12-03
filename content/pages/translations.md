@@ -16,7 +16,7 @@ Please [let us know](https://reinventingorganizationswiki.com/pages/how-can-you-
 
 ### … or in progress
 
-![](/media/flagfrance.jpg)      French Wiki <https://fr.reinventingorganizationswiki.com/>
+![](/media/flagfrance.png)      French Wiki <https://fr.reinventingorganizationswiki.com/>
 
 ![](/media/flagrussia.jpg)      Russian Wiki [https://ru.reinventingorganizationswiki.com/](<https://ru.reinventingorganizationswiki.com/>)
 
