@@ -4,7 +4,7 @@ name: Onboarding new contributors
 ---
 ### Onboarding new Wiki contributors
 
-![](/media/tree.jpg)
+![](/media/evolutionary-purpose-2.jpg)
 
 * #### Invite the person as member of the **Trello** Board <https://trello.com/b/a0Bm3Zed/rowiki-articles>
 * #### For content contributors (articles / cases)
