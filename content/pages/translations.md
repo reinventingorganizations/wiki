@@ -10,7 +10,7 @@ Please [let us know](https://reinventingorganizationswiki.com/pages/how-can-you-
 
 ### Here are the translations of this Wiki that are available …
 
-![](/media/flaghungary.ico)      Hungarian Wiki <https://reinventingorganizationswiki.hu/>
+![](/media/flaghungary.jpg)      Hungarian Wiki <https://reinventingorganizationswiki.hu/>
 
 ![](/media/flagspain.ico)      Spanish Wiki <http://www.reinventarlasorganizacioneswiki.com/>
 
