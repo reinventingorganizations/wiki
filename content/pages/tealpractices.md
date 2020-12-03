@@ -64,11 +64,23 @@ name: Key organizational structures and practices
 * [Mood Management](/theory/mood-management/)
 * [Listening to Purpose](/theory/listening-to-purpose/)
 
-  \--------------------------------------
+\--------------------------------------
+
+## Background articles
+
+### Teal Concepts
+
+![](/media/fundamental-assumptions.jpg)
+
+Short resume about the main teal concepts described in the book
+
+* [Self-Management](/theory/self-management/)
+* [Wholeness](/theory/wholeness/)
+* [Evolutionary Purpose](/theory/evolutionary-purpose/)
+
+### History of Organizational Development
 
 ![](/media/1_018-small.png)
-
-## History of Organizational Development
 
 * [Developmental Perspective on Organizations](/theory/developmental-perspective-on-organizations/)
 * [Red Paradigm and Organizations](/theory/red-organizations/)
