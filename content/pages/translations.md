@@ -10,8 +10,8 @@ name: Translations
 
 ### … or in progress
 
-![](/media/flagfrance.ico)      French Wiki <http://reinventingorganizationswiki.com/fr>
+![](/media/flagfrance.ico)      French Wiki <https://fr.reinventingorganizationswiki.com/>
 
-![](/media/flagrussia.ico)      Russian Wiki <http://reinventingorganizationswiki.com/ru>
+![](/media/flagrussia.ico)      Russian Wiki <https://ru.reinventingorganizationswiki.com/>
 
-![](/media/flagchina.ico)    Chinese Wiki (to come)
+![](/media/flagchina.ico)       Chinese Wiki <https://cn.reinventingorganizationswiki.com/>
