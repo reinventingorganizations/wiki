@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Culture and Values
-name: Culture and Values
+name: Культура и Ценности
 sortOrder: 6
 category: Daily practices
 intro: >-
