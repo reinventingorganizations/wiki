@@ -4,6 +4,8 @@ name: About
 ---
 ![](/media/evolutionary-purpose.jpg)
 
+## About this Wiki
+
 #### For leaders transforming their organizations...
 
 #### And for students, academics, coaches, bloggers...
