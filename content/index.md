@@ -1,7 +1,7 @@
 ---
 layout: home
 name: Home
-tagline: A hearty welcome to the
+tagline: Добро пожаловать в русскоязычную версию
 title: Reinventing Organizations Wiki
 intro: >-
   ![](/media/flagRussia.jpg)   
