@@ -4,23 +4,23 @@ name: Teal Concepts
 ---
 ![](/media/fundamental-assumptions.jpg)
 
-# Teal Concepts
+# 蔚蓝概念
 
-\[Short resume about the main teal concepts described in the book]
+\[简单介绍原著中主要的蔚蓝概念]
 
-* [Self-Management](/theory/self-management/)
-* [Wholeness](/theory/wholeness/)
-* [Evolutionary Purpose](/theory/evolutionary-purpose/)
+* [](/theory/self-management/)[自我管理](//cn--reinventingorganizations-wiki.netlify.app/theory/self-management/)[](/theory/self-management/)
+* [](/theory/wholeness/)[完整人性](//cn-reinventingorganizations-wiki.netlify.app/theory/wholeness/)[](/theory/wholeness/)
+* [进化目标](//cn-reinventingorganizations-wiki.netlify.app/theory/evolutionary-purpose/)
 
-## ... and you can also check
+## 更多阅读......
 
 ![](/media/1_018-small.png)
 
-## History of Organizational Development
+## 组织进化史
 
-* [Developmental Perspective on Organizations](/theory/developmental-perspective-on-organizations/)
-* [Red Paradigm and Organizations](/theory/red-organizations/)
-* [Amber Paradigm and Organizations](/theory/amber-paradigm-and-organizations/)
-* [Orange Paradigm and Organizations](/theory/orange-paradigm-and-organizations/)
-* [Green Paradigm and Organizations](/theory/green-paradigm-and-organizations/)
-* [Teal Paradigm and Organizations](../theory/teal-paradigm-and-organizations/)
+* [组织发展观](/theory/developmental-perspective-on-organizations/)
+* [红色模式与组织](/theory/red-organizations/)
+* [琥珀模式与组织](/theory/amber-paradigm-and-organizations/)
+* [橙色模式与组织](/theory/orange-paradigm-and-organizations/)
+* [绿色模式与组织](/theory/green-paradigm-and-organizations/)
+* [蔚蓝莫斯与组织](../theory/teal-paradigm-and-organizations/)
