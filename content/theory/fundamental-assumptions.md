@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Fundamental Assumptions
-name: Fundamental Assumptions
+name: 基本假设
 sortOrder: 1
 category: Daily practices
 intro: >-
