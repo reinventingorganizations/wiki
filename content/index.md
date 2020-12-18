@@ -25,6 +25,9 @@ intro: >-
   **Notre objectif**
 
   Mettre à disposition de toute personne s'interrogeant sur ces sujets et sur les nouvelles formes d'organisation émergentes ("Teal orgs", "Entreprises libérées"..) une information neutre, factuelle, actualisée et classée par thèmes.
+
+
+  ![](/media/flagGreatBritainXXS.png)    [cliquez ici](/pages/translations) pour accéder aux traductions de ce Wiki (le hongrois et l'espagnol sont disponibles dès aujourd'hui - le russe, le chinois et le français sont en cours)
 topics:
   - title: Teal Concepts
     image: /media/home_reinvention-etienne-small.png
