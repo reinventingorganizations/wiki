@@ -1,7 +1,7 @@
 ---
 layout: home
 name: Home
-tagline: A hearty welcome to the
+tagline: A hearty welcome to the refreshed
 title: Reinventing Organizations Wiki
 intro: >-
   This wiki is based on the book Reinventing Organizations by Frederic Laloux.
