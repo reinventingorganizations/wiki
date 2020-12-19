@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Teal Paradigm and Organizations
-name: Teal Paradigm and Organizations
+name: 蔚蓝意识模式与组织
 sortOrder: 6
 category: history
 intro: >-
@@ -10,14 +10,10 @@ intro: >-
 
   >
 
-  > *The most exciting breakthroughs of the twenty-first century will not occur because of technology, but because of an expanding concept of what it means to be human.*
-
-  >
-
-  > John Naisbitt
+  > *二十一世纪最令人兴奋的突破不会因科技而发生，而是对人性真正意义的广泛传播。*--约翰 奈斯比特
 
 
-  The Teal paradigm refers to the next stage in the evolution of human consciousness.^\[This stage corresponds to Gebser’s “Integral,” Loevinger’s “Integrated,” Cook-Greuter’s “Construct-Aware,” Kegan’s “Inter-individual,” Torbert’s “Strategist” and “Alchemist,” Graves’ “AN,” Spiral Dynamics’ “Yellow,” Maslow’s “Self-actualization,” Wade’s “Authentic,” and others; it is often referred to as integral.] When applied to organizations, this paradigm views the organization as an independent force with its own purpose, and not merely as a vehicle for achieving management's objectives. Teal organizations are characterized by self-organization and self-management. The hierarchical "predict and control" pyramid of Orange is replaced with a decentralized structure consisting of small teams that take responsibility for their own governance and for how they interact with other parts of the organization. Assigned positions and job descriptions are replaced with a multiplicity of roles, often self-selected and fluid. People’s actions are guided not by orders from someone up the chain of command but by ‘listening’ to the organization’s purpose. Unlike the highly static nature of [Amber](../amber-paradigm-and-organizations/), [Orange](../orange-paradigm-and-organizations/) and [Green ](../green-paradigm-and-organizations/)organizations, the organizational structure in Teal is characterized by rapid change and adaptation, as adjustments are continuously made to better serve the organization's purpose.
+  蔚蓝模式是人类意识进化的下一个阶段。^\[这个意识阶段类比于 Gebser’s 所说的“积分体,” Loevinger’s所说的 “集合体,” Cook-Greuter’s 的“结构性觉知,” Kegan’s 的“互联个体,” Torbert’s 的“战略家” 和 “炼金者,” Graves’ 的“AN,” Spiral Dynamics’ 的“黄色意识,” Maslow’s 的“自我创化,” Wade’s的 “至高主权,” 以及其他（造翼者的主权积分体）; 最普遍的称呼是积分体，共同体，集合体。]蔚蓝意识运用在组织机构角度时，就是将组织看作一种独立存在的力量，拥有其本身的目标，而不仅仅是一种实现管理目的的载具。蔚蓝组织的特点是自我组织和自我管理。橙色历史阶段的传统等级制度，即”预测和控制“的金字塔，被一种由许多小团队组成的去中心结构所替代。这些团队负责自我经营管理，能主权决定与组织内其他细胞的互动方式。传统的角色任命和岗位定义，被一人复数岗位的方式替代。蔚蓝岗位一般由成员自我选择决定并具有流动性。成员的行动不是由指令系统链条上游的某个上司命令来指导，而是通过成员”聆听“组织的目标来自行安排。蔚蓝结构组织的特点是，能敏捷变化，具有良好的适应性，为更好的服务于组织的目标而自动进行着微调。这跟传统的 [琥珀](../amber-paradigm-and-organizations/), [橙色](../orange-paradigm-and-organizations/) 和 [绿色](../green-paradigm-and-organizations/)组织都很不同。
 
 
   #### Teal stage of consciousness
