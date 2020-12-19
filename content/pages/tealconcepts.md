@@ -6,7 +6,7 @@ name: Teal Concepts
 
 # 蔚蓝概念
 
-\[简单介绍原著中主要的蔚蓝概念]
+[简单介绍原著中主要的[蔚蓝概念](https://cn--reinventingorganizations-wiki.netlify.app/theory/teal-paradigm-and-organizations/)]
 
 * [](/theory/self-management/)[自我管理](//cn--reinventingorganizations-wiki.netlify.app/theory/self-management/)[](/theory/self-management/)
 * [](/theory/wholeness/)[完整人性](//cn-reinventingorganizations-wiki.netlify.app/theory/wholeness/)[](/theory/wholeness/)
