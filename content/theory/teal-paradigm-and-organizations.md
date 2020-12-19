@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Teal Paradigm and Organizations
-name: 蔚蓝意识模式与组织
+name: 蔚蓝模式与组织
 sortOrder: 6
 category: history
 intro: >-
@@ -16,10 +16,10 @@ intro: >-
   蔚蓝模式是人类意识进化的下一个阶段。^\[这个意识阶段类比于 Gebser’s 所说的“积分体,” Loevinger’s所说的 “集合体,” Cook-Greuter’s 的“结构性觉知,” Kegan’s 的“互联个体,” Torbert’s 的“战略家” 和 “炼金者,” Graves’ 的“AN,” Spiral Dynamics’ 的“黄色意识,” Maslow’s 的“自我创化,” Wade’s的 “至高主权,” 以及其他（造翼者的主权积分体）; 最普遍的称呼是积分体，共同体，集合体。]蔚蓝意识运用在组织机构角度时，就是将组织看作一种独立存在的力量，拥有其本身的目标，而不仅仅是一种实现管理目的的载具。蔚蓝组织的特点是自我组织和自我管理。橙色历史阶段的传统等级制度，即”预测和控制“的金字塔，被一种由许多小团队组成的去中心结构所替代。这些团队负责自我经营管理，能主权决定与组织内其他细胞的互动方式。传统的角色任命和岗位定义，被一人复数岗位的方式替代。蔚蓝岗位一般由成员自我选择决定并具有流动性。成员的行动不是由指令系统链条上游的某个上司命令来指导，而是通过成员”聆听“组织的目标来自行安排。蔚蓝结构组织的特点是，能敏捷变化，具有良好的适应性，为更好的服务于组织的目标而自动进行着微调。这跟传统的 [琥珀](../amber-paradigm-and-organizations/), [橙色](../orange-paradigm-and-organizations/) 和 [绿色](../green-paradigm-and-organizations/)组织都很不同。
 
 
-  #### Teal stage of consciousness
+  #### 蔚蓝意识阶段
 
 
-  To understand the Teal organizational paradigm it is necessary to understand the level of human consciousness that it comes from. [Abraham Maslow](https://en.wikipedia.org/wiki/Abraham_Maslow), the pioneering psychologist, and other authors agree that the shift from Green to Teal is a particularly momentous one in the human journey — so much so that[ Clare W. Graves](https://en.wikipedia.org/wiki/Clare_W._Graves), another psychologist known for his work in developmental models, and others in his wake have used the term “first-tier” consciousness for all stages up to and including Green and the term “second-tier” for the stages starting with Teal. All “first-tier” stages consider that their worldview is the only valid one, and that all other people are dangerously mistaken.^\[To oversimplify: people who see the world differently are weaklings to be taken advantage of (Red), heretics to be brought back to the one true way (Blue), fools who don’t know how to play the game of success (Orange), or intolerant people who won’t give everyone a voice (Green). Source: Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 6912-6914). Nelson Parker. Kindle Edition.] People transitioning to Teal can accept, for the first time, that there is an evolution in consciousness, that there is a momentum in evolution towards ever more complex and refined ways of dealing with the world (hence the term “Evolutionary-Teal”).^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Location 1097-1107). Nelson Parker. Kindle Edition.]^\[ASimpler Way, by Margaret J Wheatley and Myron Kellner-Rodgers (Berrett-Koehler Publishers, 1999) is a simple but beautiful treatise on Teal consciousness in organizations.] See also[ Developmental Perspective on Organizations](../developmental-perspective-on-organizations/).
+  要理解蔚蓝组织模式，需要先理解人类意识的不同阶段，意识的层级是此蔚蓝模式的依据。前卫心理学家[阿伯拉汉 马斯洛](https://en.wikipedia.org/wiki/Abraham_Maslow)以及其他一些作家都认为，意识从绿色阶段朝向蔚蓝阶段的转型，是人类旅程中的一个特殊里程碑--另一位因发展模式研究而著称的心理学家[ C克蕾雅 W 格瑞夫](https://en.wikipedia.org/wiki/Clare_W._Graves) 的看法，在被沿袭引用时提到：“第一阶意识”（1.0），代表绿色意识层级之前所有的意识阶段，“第二阶意识”（2.0），则代表从蔚蓝意识阶段开始的各种未来意识阶段。所有处于第一阶意识阶段的人都认为，只有自己的世界观是唯一正确的，其他人都犯了很危险的错误。^\[To oversimplify: people who see the world differently are weaklings to be taken advantage of (Red), heretics to be brought back to the one true way (Blue), fools who don’t know how to play the game of success (Orange), or intolerant people who won’t give everyone a voice (Green). Source: Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 6912-6914). Nelson Parker. Kindle Edition.] 转型进入蔚蓝意识的人们，有史以来第一次，获得了智慧而承认意识是在进化，认识到意识在一个动量的引导下，朝着愈发复杂并能更加有效的对处这个世界的方向，持续不断的进化着（所以才有“进化性蔚蓝”的提法）。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Location 1097-1107). Nelson Parker. Kindle Edition.]^\[ASimpler Way, by Margaret J Wheatley and Myron Kellner-Rodgers (Berrett-Koehler Publishers, 1999) is a simple but beautiful treatise on Teal consciousness in organizations.] 请参见[组织发展观](../developmental-perspective-on-organizations/)。
 
 
   ##### Taming the fears of the ego
