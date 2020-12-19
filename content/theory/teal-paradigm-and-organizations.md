@@ -31,13 +31,13 @@ intro: >-
   是什么替代了恐惧？是信任生命本就丰盛的能力。所有古老智慧都提到一个重要真相，提到两种基本的生活方式：基于恐惧与缺乏，或基于信任与丰盛。在进化性蔚蓝意识阶段，我们越过一道鸿沟，学会去压制自己对人和事的控制欲。我们终于学会相信，即使发生了某些不可预测的事，或即使做错了事，一切都还是会好转，并且相信，即使不能好转，生命依然会给我们一个学习和成长的机会。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Location 1108-1119). Nelson Parker. Kindle Edition.]
 
 
-  ##### Inner rightness as compass
+  ##### 内在正义感的导航
 
 
-  When we are fused with our ego, we are driven to make decisions informed by external factors — what others will think or what outcomes can be achieved. In the Impulsive-Red perspective, a good decision is the one that gets me what I want. In Conformist-Amber, we hold decisions up to the light of conformity to social norms. Decisions beyond what one’s family, religion, or social class considers legitimate cause guilt and shame. In Achievement-Orange, effectiveness and success are the yardsticks by which decisions are made. In Pluralistic-Green, matters are judged by the criteria of belonging and harmony. In Evolutionary-Teal, we shift from external to internal yardsticks in our decision-making. We are now concerned with the question of inner rightness: Does this decision seem right? Am I being true to myself? Is this in line with who I sense I’m called to become? Am I being of service to the world?
+  W当我们被自大触发，就会被迫因外在要素而做出决策— 会被他人的看法，或结果如何等要素制约（而失去主权决策能力）。在冲动红色的见解中，好决策的标准就是能否帮助自己得到所求。在合群琥珀见解中，人们则根据与社会主流的适配性做出决策。那些超越了个人家族，宗教或社会阶层认定常识的决策，会带来罪恶感和羞辱感。在成功学橙色见解中，效果和成果是决策的标杆。在多元化绿色见解中，决策标准则是归属感与和谐一致感。在进化性蔚蓝见解中，我们的决策依据，从外在标杆转型到内在尺度。我们关注内在正义感：这个决定感觉对不？我是否对自己真诚？这是否符合我感觉到的那个内在身份呼唤？我是否在服务世界？
 
 
-  With fewer ego-fears, we are able to make decisions that might seem risky, where we haven’t weighed all possible outcomes, but that resonate with deep inner convictions. We develop a sensitivity for situations that don’t quite feel right, situations that demand that we speak up and take action, even in the face of opposition or with seemingly low odds of success, out of a sense of integrity and authenticity. Recognition, success, wealth, and belonging are viewed as pleasurable experiences, but also as tempting traps for the ego. In contrast with previous stages, the order is reversed: we do not pursue recognition, success, wealth, and belonging to live a good life. We pursue a life well-lived, and the consequence might just be recognition, success, wealth, and love.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Location 1121-1134). Nelson Parker. Kindle Edition.]
+  如果能按捺自大人格，我们就有能力做出一些看起来有风险的决策—不必衡量所有可能的结果，只是跟随那个最深内在的坚毅共鸣。我们就能开发出一种对不妥状况的直觉敏感性，感觉到一些需要我们开口和采取行动的状况，即使遭到反对或成功概率不大，也会出于整体感和使命感而做出决策。旧模式中的认可，成果，财富，和归属感，都被看作是值得推崇的体验，但同时隐含着诱惑自大的陷阱。蔚蓝模式跟之前各种意识阶段不同，目的与结果的顺序发生了改变：追求认可，成果，财富和归属感，并不是精彩人生的必要条件。我们追求一种精彩的活法，其结果会自然的带来认可，成果，财富和爱。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Location 1121-1134). Nelson Parker. Kindle Edition.]
 
 
   ##### Life as a journey of unfolding
