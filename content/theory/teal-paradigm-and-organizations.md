@@ -157,35 +157,35 @@ intro: >-
   ##### 蔚蓝比喻：组织是个鲜活的生命系统
 
 
-  T蔚蓝组织要打造的理想职场可以比喻为生命体（蔚蓝组织也可以叫仿生组织）。成功导向的橙色模式的比喻是机器，多元化的绿色的比喻是家庭，而蔚蓝组织将自己看作有机体或生命系统。生命，在其所有的进化智慧中，维持着一种人类无法理解的美妙生态体系，持续朝着更完整一体、更复杂、更有意识的方向成长进化。大自然中的变化无时无处不在，这些变化是自组织的、源于每个细胞和器官的进化渴望，不需要任何中央指令和控制塔发出指令或拨动操纵杆。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 1299-1303). Nelson Parker. Kindle Edition.]
+  蔚蓝组织要打造的理想职场可以比喻为生命体（蔚蓝组织也可以叫仿生组织）。成功导向的橙色模式的比喻是机器，多元化的绿色的比喻是家庭，而蔚蓝组织将自己看作有机体或生命系统。生命，在其所有的进化智慧中，维持着一种人类无法理解的美妙生态体系，持续朝着更完整一体、更复杂、更有意识的方向成长进化。大自然中的变化无时无处不在，这些变化是自组织的、源于每个细胞和器官的进化渴望，不需要任何中央指令和控制塔发出指令或拨动操纵杆。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 1299-1303). Nelson Parker. Kindle Edition.]
 
 
-  ##### Teal organizations as "complex adaptive systems"
+  ##### 蔚蓝组织是 "复杂的适应性系统"
 
 
-  An Evolutionary-Teal organization exhibits many properties of a [Complex Adaptive System](https://en.wikipedia.org/wiki/Complex_adaptive_system) ^\[Complex adaptive systems are self-organizing systems that shows behavior which cannot be inferred from the behavior of their elements. Melanie Mitchell in Complexity, A Guided Tour, defines a complex adaptive system as "a system in which large networks of components with no central control and simple rules of operation give rise to complex collective behavior, sophisticated information processing and adaptation via learning or evolution" (p13). Human beings are perfect examples of complex adaptive systems: The behavior of our brains, hands, feet, lungs, heart, etc., seen individually, does not indicate what our behavior will be. However, non-animate systems can also exhibit complex, adaptive behavior, for example the economy or a stock exchange. For a fuller discussion of organizations as complex adaptive systems, readers can refer to Margaret J. Wheatley, Leadership and the New Science, 3rd Ed., Berrett-Koehler Publishers, 2006 and to Elizabeth McMillan, Complexity, Management and the Dynamics of Change, Routledge, 2008. Melanie Mitchell's Complexity, A Guided Tour (Oxford University Press, 2009) is also an excellent layman's introduction to the science of complex adaptive systems.]
+  蔚蓝组织会彰显很多[复杂的适应性系统](https://en.wikipedia.org/wiki/Complex_adaptive_system)特有的属性^\[Complex adaptive systems are self-organizing systems that shows behavior which cannot be inferred from the behavior of their elements. Melanie Mitchell in Complexity, A Guided Tour, defines a complex adaptive system as "a system in which large networks of components with no central control and simple rules of operation give rise to complex collective behavior, sophisticated information processing and adaptation via learning or evolution" (p13). Human beings are perfect examples of complex adaptive systems: The behavior of our brains, hands, feet, lungs, heart, etc., seen individually, does not indicate what our behavior will be. However, non-animate systems can also exhibit complex, adaptive behavior, for example the economy or a stock exchange. For a fuller discussion of organizations as complex adaptive systems, readers can refer to Margaret J. Wheatley, Leadership and the New Science, 3rd Ed., Berrett-Koehler Publishers, 2006 and to Elizabeth McMillan, Complexity, Management and the Dynamics of Change, Routledge, 2008. Melanie Mitchell's Complexity, A Guided Tour (Oxford University Press, 2009) is also an excellent layman's introduction to the science of complex adaptive systems.]
 
 
-  1. It has a purpose of its own, distinct from the purposes or objectives of its members, 
+  1. 有着组织自己的目标，不同于其成员的目标或目的。 
 
-  2. It consists of a number of elements (members or teams),
+  2. 由复数单元组成（成员或团队）。
 
-  3. The elements interact, in a non-linear way, to achieve the purpose of the system,
+  3. 其单元之间通过非线性互动而达成系统的目标。
 
-  4. The interaction and relationships between elements are based on a few simple rules or guiding principles,
+  4. 单元之间的互动和关系，一般基于少数几个简单规则或指导性原则。
 
-  5. The nature of the relationships and number of interactions between the elements result in emergent behavior - the behavior of the system is not the sum of the behaviors of the elements,
+  5. 这些关系的质量以及单元之间互动的数量，会衍生出不可预料的行为—系统整体的行为不等于单元行为的单纯合计。
 
-  6. The elements produce and use signals and information (sensing) from both external and internal environments and react accordingly,
+  6. 各单元自发生产并运用从外界和内部环境（感觉到）的各种信号和信息，并据此做出反应行动。
 
-  7. There is no central control,
+  7. 无中央控制。
 
-  8. The elements self-organize, that is, change the relationships between themselves to adapt to changes in the environment,
+  8. 各单元具有自组织功能，会随时改变这种内部成员的关系去适应环境变化。
 
-  9. The elements learn from history, and from the environment, and adapt accordingly to ensure the survival of the system.
+  9. 单元自动的从历史和环境中学习和成长，并据此适应环境以保证系统的生存。
 
 
-  Teal organizations are run by self-managing teams. These teams consists of workers who each fulfill certain roles, including functional and managerial duties. All decisions are made using a simple advice process and/or a conflict resolution process when appropriate. There is no centralized control. Values are no longer given perfunctory attention but are actually lived in how people behave in the organization. Everyone listens to the organization’s purpose and takes action accordingly while sensing for changes in the environment. Out of these collective actions, the behavior of the organization emerges.
+  蔚蓝组织由自我管理的团队主导运营。这些团队由一线成员组成，每个人担当一些特定的角色，包括功能性任务和管理角色。无中央控制。不再只是形式化的关注价值观，而是通过组织内人们的实际行为实演价值观。每个人都自主自觉的聆听组织的目标，当感觉到环境变化时就随之采取行动。从成员的集体行动中，会自然衍生出组织层面的行为。
 
 
   **Please [leave your feedback](https://docs.google.com/forms/d/e/1FAIpQLSeKJ9e_35o57wtjr5F2NrlptK1ULTCawjJqSqOxNdvQ1lWFzA/viewform?c=0&w=1) regarding the usefulness of the wiki, in order for the voluntary team to improve it over time!**
