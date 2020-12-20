@@ -124,10 +124,10 @@ intro: >-
   不再评判自己和他人的人际关系会呈现一种新的质地。这让我们的内在聆听不再局限于收集一些，用于更有效的说服、教育、矫正他人的信息。我们开始打造一个摒除评判的共享的安心安全空间。在这个共享空间里，自己的深层聆听，可以帮助他人发现他们自己的内在声音和真相，他们也会同样的帮助我们。在橙色阶段，我们从琥珀阶段那种强制和一统化的社区文化中解脱出来。现在，我们得到机会重建一种基于新基础的社区文化（社区2.0）.我们在这个社区中可以互相聆听，走向自我自主和整体性（主权及分体）道路。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Location 1225-1234). Nelson Parker. Kindle Edition.]
 
 
-  ##### Wholeness with life and nature
+  ##### 与生命和大自然的整体性
 
 
-  Paradoxically, again, the more we learn to be true to our unique self, the more it dawns on us that we are just one expression of something larger, an interconnected web of life and consciousness. That realization can be elating but also painful — we now comprehend how deeply our relationship with life and nature has been broken. We strive to repair that relationship, not from a place of moral obligation, but from an inner awareness, knowing that we are not separate from but one with nature. We see the foolishness and arrogance of mankind’s stance of putting itself above the rest of life and try to find a more truthful and humble place in the midst of it. Often, rekindling our relationship with life and nature causes us to pursue a simpler life, less cluttered by possessions we thought we needed until we understood that we are rich not through the things we own, but through the relationships that nourish our soul.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Location 1235-1242). Nelson Parker. Kindle Edition.]
+  我们再次不无嘲讽的发现，越是学会真诚对待独特的自我，就愈发觉察到自己其实是某些更大而互联的生命和意识之网的一个表达单元。这个觉察虽然能提升意识，同时也带来痛苦。因为我们发现，自己与生命和大自然的整体性关系已经彻底断裂了。于是我们开始奋力修复这个关系，不是基于一个道德责任次元，而是源于内在觉知：知道自己不是分离的碎片，而是与大自然一体的生命。我们开始认识到，人类将自己放在高于其他生命的位置，这种态度是何等的愚蠢和傲慢。于是我们开始寻求在大自然这个整体中，找到一个适合自己的、更加真诚而谦卑的定位。重新点燃我们与生命和大自然的有机关联，一般会让我们开始追求一种简单的生活，不再在生活中塞满自己曾以为会需要的财物（不再贪婪），终于觉悟到富有并非通过所拥有的财物来定义，而是通过那些滋养自己灵魂的丰盈关系来衡量。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Location 1235-1242). Nelson Parker. Kindle Edition.]
 
 
   #### Breakthroughs and characteristics of Teal organizations
