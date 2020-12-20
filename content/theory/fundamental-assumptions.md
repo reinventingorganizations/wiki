@@ -40,16 +40,16 @@ perspective: >-
   #### 琥珀组织
 
 
-  Fundamental assumptions from an [Amber perspective](../amber-paradigm-and-organizations/) are:
+  从[A琥珀视角](../amber-paradigm-and-organizations/)出发的基本假设是:
 
 
-  * The world is (or should be) immutable, comprehensible and controllable. What worked in the past will work in the future. ***Stability (safety) and loyalty*** are essential. Change is to be viewed with suspicion. Leaving the organization is the last option.
+  * 世界是（或应该是）不变的、可理解的和可控的。过去有用的东西将来也会有用。***稳定（安全）和忠诚***是必不可少的。人们对变化持怀疑态度。除非万不得已不会离开公司。
 
-  * Things are either right or wrong. There is always an institutional authority to be obeyed: rules, procedures, etc. Personal opinions are not relevant. Guilt is inescapable, when being in the wrong.
+  * 事情非对即错。需要一套必须遵守的组织权威：规则、程序等。个人意见与此无关。人在犯错误时自然感到内疚。
 
-  * You follow the rules and the expectations that society has on you, even if it means wearing a social mask of virtue. Self-control is highly valued.
+  * 要遵循社会强加于你的规则和期望，即使这意味着要戴上伪善道德的社会面具。鼓励自我控制和压抑。
 
-  * People are mostly lazy, dishonest, unintelligent and in need of direction. They must be supervised and told what is expected from them. Thus there must be a clear chain of command, formal processes, and clear cut rules that stipulate who can do what.
+  * 人的本性基本上是懒惰、不诚实、不聪明、需要指导。人们必须受到监督，并时刻提醒他们需要做什么。因此需要有明确的指挥链条、形式化的流程以及明晰定义的规则，用来规定谁可以做什么。
 
   * Everyone is replaceable by someone who can take over the same role in the process. Innovation, critical thinking and self-expression are not needed. Information is to be shared on a need-to-know basis.
 
