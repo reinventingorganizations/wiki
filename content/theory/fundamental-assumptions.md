@@ -13,10 +13,10 @@ perspective: >-
   人类组织在每一个历史阶段，都产生了特有的基本假设、对人及其动机的不同看法，以及与世界互动时截然不同的方法。
 
 
-  #### Red Organizations
+  #### 红色组织
 
 
-  Fundamental assumptions from a [Red perspective](../red-organizations/) are:
+  从[红色视角](../red-organizations/)出发的基本假设是:
 
 
   * The world has endless resources that can be exploited. People outside the organization/tribe can be exploited too.
