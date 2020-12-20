@@ -100,19 +100,19 @@ intro: >-
   进化的蔚蓝意识翻开了历史性的篇章，将所有这些侧面融会贯通灵活运用：毫无恐惧的理性思维，以及一些能在情绪，直觉，事件，矛盾中找到的智慧等。从橙色的理性减法世界观，转型到后现代化的绿色世界观，再到达一种对高次元觉知的全方位尝试。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Location 1179-1207). Nelson Parker. Kindle Edition.]
 
 
-  ##### Striving for wholeness
+  ##### 奔向完整人性
 
 
-  Disidentifying from the ego is one more step of liberation on the human journey. But with disidentification comes separation, and people operating at this stage often develop a keen sense of how far we have let separation fragment our lives and how much it has cost us. We have let our busy egos trump the quiet voice of our soul; many cultures often celebrate the mind and neglect the body; value the masculine above the feminine; and many of us have lost community and our innate connection with nature.
+  从自大人格身份认知中解脱出来（意识1.0小我的越狱），是人类旅程的又一次进阶解放。但随着身份的解体也会出现分离。运作于蔚蓝阶段的人们一般能开发出一种深沉的感受，看到自己曾经如此这般的允许分离能量将自己的人生切割成无数碎片，并认识到这个分离状况的惨重代价。我们一直让那个繁忙的虚荣人格胜过了自己灵魂的安静发音。很多文化都颂扬头脑思维而贬低身体。重阳轻阴导致很多人都失去了在和谐社区生活的机会，失去了与内在自我和大自然的连接感。
 
 
-  With this stage comes a deep yearning for wholeness — bringing together the ego and the deeper parts of the self; integrating mind, body, and soul; cultivating both the feminine and masculine parts within; being whole in relation to others; and repairing our broken relationship with life and nature. Often the shift to Teal comes with an opening to a transcendent spiritual realm and a profound sense that at some level, we are all connected and part of one big whole. After many successive steps of disidentification, as we learn to be fully independent and true to ourselves, it dawns on us that, paradoxically, we are profoundly part of everything.
+  随着蔚蓝意识阶段的到来，产生了一种对完整性的深沉渴望—渴望虚荣人格与更深自我侧面的融合和完整化。即将思想、身体、和灵魂（身心脑灵）融合一体。同时滋养内在的阴和阳两个侧面。在与他人的交往中表达完整人性。修复自己那些与生命和大自然之间的破裂关系。朝向蔚蓝的转型，通常伴随着一种对透明的内在灵性次元打开自己的开放感，以及一种深刻的感觉：觉察到我们在某个层面都彼此互联着，都是一个巨大整体生命的细胞单元。在经历了多个逐步脱离旧身份认知的阶段后，当我们学会完全的独立自主并对自己真诚，就会不无嘲讽而自然的发现，我们每一个事实上都是那个“一切所是（宇宙人格）”的重要组件。
 
 
-  This longing for wholeness is at odds with the separation that most existing workplaces foster, albeit unconsciously — overemphasizing the ego and the rational while negating the spiritual and emotional; separating people based on the departments they work in, their rank, background, or level of performance; separating the professional from the personal; separating the organization from its competitors and the ecosystem it is embedded in.
+  蔚蓝个体的这种对整体性的渴望，与多数传统职场在无意中培育着的分离能量格格不入，分离能量过度强调虚荣人格和理性而轻视灵性和情绪，并基于工作的部门、职级、背景、或业绩来区分成员。将专家与个人分开。将组织与其竞争对手分开，与其或赖以生存生态环境分开。
 
 
-  Vocabulary we use is often revealing: in organizations, we often speak about “work-life balance” a notion that shows how little life is left in work when we have separated ourselves from so much that truly matters. For people transitioning to Teal, these separations in the workplace often become so painful that they choose to leave organizational life for some form of self-employment, a more accommodating context to find wholeness with themselves and with others.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Location 1209-1224). Nelson Parker. Kindle Edition.]
+  人类语言一般会彰显这些特征：在很多传统组织内，会经常谈到“工作与人生”的平衡。这个说法隐含的表明，在工作中，个人生活的要素所剩无几，我们为了工作而被迫剥离了人生中很多真正重要的部分。对那些朝向蔚蓝转型的人们而言，对传统职场的这些分离能量，一般会搞到非常痛苦。他们一般选择脱离在某个组织内的生活，而进入某种个体户的生态。寻找一种更容易适应的环境，更有助于通过自己和他人找到完整人性的工作。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Location 1209-1224). Nelson Parker. Kindle Edition.]
 
 
   ##### Wholeness in relation to others
