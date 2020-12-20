@@ -154,10 +154,10 @@ intro: >-
   蔚蓝组织是一种具有生命和自我方向感的存在体。组织成员不要试图预测或控制组织的未来方向，而是鼓励成员积极聆听并理解组织自身想要变成什么样子，想要服务于何种目的。 (参见 [进化目标](../evolutionary-purpose/))。
 
 
-  ##### Teal metaphor: organizations as living systems
+  ##### 蔚蓝比喻：组织是个鲜活的生命系统
 
 
-  Teal organizations have a useful metaphor for the workplaces they aspire to create. Whereas Achievement-Orange speaks of organizations as machines and Pluralistic-Green uses the metaphor of families, Teal organizations refer to themselves as living organisms or living systems. Life, in all its evolutionary wisdom, manages ecosystems of unfathomable beauty, ever evolving toward more wholeness, complexity, and consciousness. Change in nature happens everywhere, all the time, in a self-organizing urge that comes from every cell and every organism, with no need for central command and control to give orders or pull the levers.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 1299-1303). Nelson Parker. Kindle Edition.]
+  T蔚蓝组织要打造的理想职场可以比喻为生命体（蔚蓝组织也可以叫仿生组织）。成功导向的橙色模式的比喻是机器，多元化的绿色的比喻是家庭，而蔚蓝组织将自己看作有机体或生命系统。生命，在其所有的进化智慧中，维持着一种人类无法理解的美妙生态体系，持续朝着更完整一体、更复杂、更有意识的方向成长进化。大自然中的变化无时无处不在，这些变化是自组织的、源于每个细胞和器官的进化渴望，不需要任何中央指令和控制塔发出指令或拨动操纵杆。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 1299-1303). Nelson Parker. Kindle Edition.]
 
 
   ##### Teal organizations as "complex adaptive systems"
