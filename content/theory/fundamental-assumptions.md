@@ -51,11 +51,11 @@ perspective: >-
 
   * 人的本性基本上是懒惰、不诚实、不聪明、需要指导。人们必须受到监督，并时刻提醒他们需要做什么。因此需要有明确的指挥链条、形式化的流程以及明晰定义的规则，用来规定谁可以做什么。
 
-  * Everyone is replaceable by someone who can take over the same role in the process. Innovation, critical thinking and self-expression are not needed. Information is to be shared on a need-to-know basis.
+  * 每个人都有可替代性，随时都能被另一个在流程中扮演相同角色的人取代。不需要创新性、批判性思维和自我表达。信息共享的规则是，只告知该阶层需要知道的最小限度信息。
 
-  * Success means performing your role in the organization in a perfect way ("You *are* your job and your place in society is more or less clear from birth.")
+  * 成功意味着以完美的方式履行自己在组织中的角色（“你就是你的工作，你在社会中的地位从出生起，就基本上被明确注定了。”）
 
-  * (Leadership style: authoritarian - paternalistic. Metaphor: Army.)
+  * (领导风格：专制-家长式。比喻：军队。)
 
 
   #### Orange Organizations
