@@ -5,18 +5,12 @@ key: Fundamental Assumptions
 name: 基本假设
 sortOrder: 1
 category: Daily practices
-intro: >-
-  The topic of fundamental assumptions explains how deeply held, often
-  unconscious assumptions (about people, their motivations, role in the world
-  and workplace, the meaning of life etc.) lie at the root of organizational
-  models and practices
-
+intro: |-
+  本页介绍一些根深蒂固的，潜藏在组织模式和实践根源部位的，通常是无意识的（关于人性及其动机、人在世界和职场中的角色、生命的意义等的）基本假设。
 
   ![](/media/fundamental-assumptions.jpg)
 perspective: >-
-  Every historical stage has given birth to fundamental assumptions, a distinct
-  perspective on people and their motivations, and to very different approaches
-  to engaging with the world.
+  人类组织在每一个历史阶段，都产生了特有的基本假设、对人及其动机的不同看法，以及与世界互动时截然不同的方法。
 
 
   #### Red Organizations
