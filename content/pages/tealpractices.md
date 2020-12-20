@@ -51,18 +51,18 @@ name: Key organizational structures and practices
 
 ![](/media/daily-organizational-practices.jpg)
 
-### Daily organizational practices
+### 日常流程
 
-* [Fundamental Assumptions](/theory/fundamental-assumptions/)
-* [Meetings](/theory/meetings/)
-* [Decision Making](/theory/decision-making/)
-* [Conflict resolution](/theory/conflict-resolution/)
-* [Information Flow](/theory/information-flow/)
-* [Culture and Values](/theory/culture-and-values/)
-* [Creating Safe Space](/theory/safe-space/)
-* [Team and Community Building](/theory/team-and-community-building/)
-* [Mood Management](/theory/mood-management/)
-* [Listening to Purpose](/theory/listening-to-purpose/)
+* [基本假设](/theory/fundamental-assumptions/)
+* [会议](/theory/meetings/)
+* [决策](/theory/decision-making/)
+* [冲突解决](/theory/conflict-resolution/)
+* [信息流](/theory/information-flow/)
+* [文化与价值观](/theory/culture-and-values/)
+* [安心安全空间](/theory/safe-space/)
+* [团队与社区建设](/theory/team-and-community-building/)
+* [情绪管理](/theory/mood-management/)
+* [聆听目标](/theory/listening-to-purpose/)
 
   \--------------------------------------
 
