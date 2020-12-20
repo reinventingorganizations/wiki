@@ -73,10 +73,10 @@ intro: >-
   ##### 优雅的面对逆境
 
 
-  When life is seen as a journey of discovery, then we learn to deal more gracefully with the setbacks, the mistakes, and the roadblocks in our life. We can start to grasp the spiritual insight that there are no mistakes, simply experiences that point us to a deeper truth about ourselves and the world. In previous stages, life’s roadblocks (an illness, a bad boss, a difficult marriage) are seen as unfair rolls of the dice. We meet them with anger, shame, or blame, and these feelings disconnect us from others and ourselves. In Teal, obstacles are seen as life’s way to teach us about ourselves and about the world. We are ready to let go of anger, shame, and blame, which are useful shields for the ego but poor teachers for the soul. We embrace the possibility that we played a part in creating the problem, and inquire what we can learn so as to grow from it.
+  当我们把人生看作一个探索体验和发现的旅程，就能学会更加优雅的对待生命中的各种挫折、失误和沟沟坎坎。我们就开始理解到一种灵性洞见，知道其实错误并不存在，错误只是一些能将我们引向一种关于内在自我和外在世界更深层真相认知的体验（炼金智慧）。在之前的各个意识层级中，人生的坎坷（疾病，不佳上司，不顺婚姻）被看作一种轮盘赌中的坏运气。我们会用愤怒，屈辱或抱怨来处理这些境遇，但这些负面情感会切断我们与他人和自我内在的连接感。在蔚蓝意识阶段，障碍被看作生命用来培训我们认知自我和世界真相的途径。在蔚蓝阶段，我们已经准备好放下愤怒，委屈和抱怨。这些虽然是虚荣性和自大人格的有效铠甲，但却不是灵魂的合格导师。我们开始学会承认一种可能性，即这些问题的一部分责任可能就在于自己。于是学会沉思：自己从挫折中学到了何种有助于成长的智慧。
 
 
-  In earlier paradigms, we often convince ourselves that everything is all right until a problem has snowballed and hits us like an avalanche, forcing change into our life. Now, we tend to make frequent small adjustments, as we learn and grow from problems we encounter along the way. In previous stages, change on a personal level feels threatening. As of Evolutionary-Teal, there is often an enjoyable tension in the journey of personal growth. ^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Location 1169-1177). Nelson Parker. Kindle Edition.]
+  在之前各个意识阶段中，我们经常习惯性的说服自己一切都很好，直到一个问题滚雪球式的发生并导致雪崩般袭来，才被迫开始调整人生。在蔚蓝阶段，我们已经有能力不断进行微调，并通过人生旅途遇到的困难体验而积累智慧并成长。在以前的各种意识阶段，个人层面的变化会带来恐惧感。但在进化主题的蔚蓝阶段，个人成长旅途中，一种愉快的紧张感化为了动力和常态。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Location 1169-1177). Nelson Parker. Kindle Edition.]
 
 
   ##### Wisdom beyond rationality
