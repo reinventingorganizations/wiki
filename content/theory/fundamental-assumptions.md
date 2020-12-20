@@ -91,15 +91,15 @@ perspective: >-
 
   * 拜金主义、社会不平等和社区感丧失都是不理想的。关系比结果更重要。最重要的是**归属感与和谐**。
 
-  * People are essentially good. Everyone’s point of view and opinion is valuable. Conflict or competition are not the only laws of nature, co-operation is also in our genes. Shared values work better than strict rules and policies.
+  * 人之初性本善。每个人的观点和意见都是有价值的。冲突或竞争不是自然界唯一的规律，协作也是我们的基因。共同的价值观比严格的规则和政策更有效。
 
-  * Everyone has talents. Diversity leads to better results. Avoid conflict at all cost. Use bottom up processes for input and aim for consensus for decisions.
+  * 每个人都有天赋。多样性能带来更好的结果。要不惜一切代价避免冲突。采用自下而上的流程汲取决策信息，决策方法是并达成共识（民主）。
 
-  * At work, people must be able to grow and reach their full potential. Management (HR) should create the necessary conditions. This means leaving a lot of room for discussion, for learning and mistakes. It means stimulating people to work in teams. Leadership should be in service to those being led.
+  * 人们必须能在工作中成长并充分发挥天赋潜力。管理层（HR）应创造必要的条件。这意味着要给讨论、学习和犯错误留下很大的空间。激励人们的团队协作精神。领导为被领导者服务。
 
-  * All people are of equal value. We are separate and many forces in society pull us apart or into inequality, so achieving deep communion between people is something we have to work for. There are multiple stakeholders - not only shareholders. They deserve equal attention. Nature, the local community and society as a whole are to be considered as stakeholders.
+  * 人人平等。认为人是分离的，社会上的许多力量把我们分开或陷入不平等，因此为了实现人与人之间的深度交流，就必须去努力。除了股东之外，还存在着多方其他的利益相关者。他们应该得到同等的关注。大自然、局部社区和整个社会都应被视为广义的利益相关者。
 
-  * (Leadership style: catalytic/co-creative, "team oriented, collaborative, servant leadership". Metaphor: Family.)
+  * (领导风格：催化/协同创新，“团队导向、协作、服务型领导”。比喻：家庭。)
 
 
   #### Teal Organizations
