@@ -52,7 +52,7 @@ intro: >-
   > *在对职业的理解背后藏着一个，自大人格不想听的真相，因为那个真相威胁着人格的遮羞布：每个人都拥有一个跟那个日常意识之“小我”不同的生命，是试图通过这个“小我”表达的整体生命，“小我”只是那个生命的容器。...要感觉到这两者的不同，需要长时间艰难体验的磨砺，才可能感觉到那个藏在被称为“我”的人生体验背后的流动，那个更深层、更真实、一如既往的静候着被我们讴歌的生命。^\[Source:23 Parker Palmer, Let Your Life Speak: Listening for the Voice of Vocation (San Francisco: Jossey-Bass, 2000), 5.]*
 
 
-  Many people transitioning to this stage take up practices like meditation, centering, martial arts, yoga, or simply walking in nature to find a quiet place that allows the inner voice of the soul to speak its truth and guidance. Individuals who live from this perspective and connect to a deeper sense of purpose can become quite fearless in pursuit of their calling. With their ego under control, they don’t fear failure as much as not trying. Clare Graves’ favorite phrase to describe someone operating from Teal was “a person who has ambition, but is not ambitious.”
+  很多人通过冥想、聚焦、武术、瑜伽、或单纯在大自然中散步，来催化这个朝向意识2.0阶段的转型，找到一个安静空间，允许内在灵魂的声音吐露其真相并指导人生。活在这个意识阶段见解中的个体，连接着一种更深层的目标，可以几乎毫无恐惧的追求自己的使命。他们掌控了虚荣心和自大人格，不再因恐惧失败而放弃尝试。克蕾雅格瑞夫有一句名言，说具有蔚蓝意识的人是“一个有抱负但无野心的人”。
 
 
   Growing into their true nature and working toward their calling is their driving force, so much so that to others who don’t come from the same perspective, persons operating from Teal can sometimes come across as impatient with people who impede their personal growth, or with situations that don’t feel aligned with the purpose they perceive for their life.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Location 1136-1157). Nelson Parker. Kindle Edition.]
