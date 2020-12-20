@@ -2,33 +2,33 @@
 layout: content
 name: Key organizational structures and practices
 ---
-## Key organizational structures and practices
+## 关键结构与方法
 
 ![](/media/structure.jpg)
 
-### Structure
+### 组织结构
 
-* [Organizational Structure](/theory/organizational-structure/)
-* [Staff Functions](/theory/staff-functions/)
-* [Coordination](/theory/coordination/)
-* [Project teams and task forces](/theory/project-teams-and-task-forces/)
-* [Board](/theory/board/)
-* [Ownership](/theory/ownership/)
+* [组织结构](/theory/organizational-structure/)
+* [管理职能](/theory/staff-functions/)
+* [协作](/theory/coordination/)
+* [项目团队与工作组](/theory/project-teams-and-task-forces/)
+* [董事会](/theory/board/)
+* [股东](/theory/ownership/)
 
   \--------------------------------------
 
 ![](/media/key-business-processes.jpg)
 
-### Key business processes
+### 重要流程
 
-* [Strategy](/theory/strategy/)
-* [Innovation and Product Development](/theory/innovation-and-product-development/)
-* [Sales and Marketing](/theory/sales-marketing/)
-* [Purchasing and Investments](/theory/purchasing-and-investments/)
-* [Budgeting and Controlling](/theory/budgeting-and-controlling/)
-* [Environmental and Social Management](/theory/environmental-and-social-management/)
-* [Change Management](/theory/change-management/)
-* [Crisis Management](/theory/crisis-management/)
+* [战略](/theory/strategy/)
+* [创新与产品开发](/theory/innovation-and-product-development/)
+* [营销与市场战略](/theory/sales-marketing/)
+* [进货与投资](/theory/purchasing-and-investments/)
+* [预算与控制](/theory/budgeting-and-controlling/)
+* [环境与社会责任](/theory/environmental-and-social-management/)
+* [变化管理](/theory/change-management/)
+* [危机管理](/theory/crisis-management/)
 
   \--------------------------------------
 
