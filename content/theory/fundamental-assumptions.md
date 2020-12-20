@@ -19,9 +19,9 @@ perspective: >-
   从[红色视角](../red-organizations/)出发的基本假设是:
 
 
-  * The world has endless resources that can be exploited. People outside the organization/tribe can be exploited too.
+  * 可以掠夺世界上的无尽资源而据为己用。也可以掠夺组织/部落以外的人。
 
-  * The world is a hostile place. "It is me or you". Conquered territory has to be defended through (constant) struggle and vigilance. If one does not react swiftly to the environment, everything will be taken away.
+  * 世界是个充满敌意的地方。“你死我活”。征服到的领土必须通过（不断的）斗争和警惕来保卫。如果一个人不能对环境做出迅速反应，就会失去一切。
 
   * Structure in society is all about ***power and respect.*** There is a natural pecking order which ensures that only "the best" survive and thrive. To survive, one either has to be dominant to take advantage, or submissive for protection.
 
