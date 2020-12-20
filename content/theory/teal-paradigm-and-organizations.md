@@ -151,7 +151,7 @@ intro: >-
   ##### 蔚蓝突破 3: 进化目标
 
 
-  Teal Organizations are seen as having a life and a sense of direction of their own. Instead of trying to predict and control the future, members of the organization are invited to listen in and understand what the organization wants to become, what purpose it wants to serve. (See [Evolutionary Purpose](../evolutionary-purpose/)).
+  蔚蓝组织是一种具有生命和自我方向感的存在体。组织成员不要试图预测或控制组织的未来方向，而是鼓励成员积极聆听并理解组织自身想要变成什么样子，想要服务于何种目的。 (参见 [进化目标](../evolutionary-purpose/))。
 
 
   ##### Teal metaphor: organizations as living systems
