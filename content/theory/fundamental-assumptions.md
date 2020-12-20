@@ -58,29 +58,29 @@ perspective: >-
   * (领导风格：专制-家长式。比喻：军队。)
 
 
-  #### Orange Organizations
+  #### 橙色组织
 
 
-  Fundamental assumptions from an [Orange perspective](../orange-paradigm-and-organizations/) are:
+  从 [橙色视角](../orange-paradigm-and-organizations/) 出发的基本假设是:
 
 
-  * The world is full of possibilities and challenges waiting to be discovered and taken up. If one is smart and works hard enough, all the benefits of high status can be had. If one does not make it, it is one's own fault.
+  * 这个世界充满了各种可能性和挑战，在等待我们去发现和解决。如果一个人足够聪明，工作足够努力，就可以获得身居高位的所有待遇。如果做不到，那是他自己的错。
 
-  * ***Material results and status*** are essential. What counts is the financial bottom line: the (only) real measure for success is money and material wealth. This is what ultimately motivates people.
+  * **实质性的结果和地位**至关重要（名利）。财务底线最重要：衡量成功的真正（唯一）标准是金钱和物质财富。这些才是人们最终的动力。
 
-  * Truth is what works. Pragmatism is more valuable than authority. Rationality is valued above all else. Emotions, doubts, dreams, questions of meaning and purpose do not belong in the workplace. They are a distraction to achieving our goals. Being professional means keeping private life private.
+  * 有用即真理。实用主义比权威更有价值。理性高于一切。情绪、怀疑、梦想、意义和目标等话题不属于职场。这些人性表达会分散我们实现目标的注意力。做个职业人士，意味着隐藏私生活。
 
-  * Social acceptance is important, because one needs others to reach the own goals and acknowledge the own success. One has to wear a professional mask of success and control.
+  * 被社会接受非常重要，因为人要靠别人才能实现自己的目标，评估自己的成功。人必须戴上有助于成功与控制的职业面具
 
-  * Only the best in their field can and should make it to the top. Competition is everywhere and should be encouraged. To survive and thrive, one has to outsmart others and beat competition.
+  * 只有领域里的精英，才能并且应该登上塔顶。竞争无处不在，应该鼓励竞争。为了生存和繁荣，人必须智胜他人，在竞争中取胜。
 
-  * Innovation is a necessity for growth. Change is the only constant thing. There is no room or time to tolerate mistakes and weaknesses.
+  * 创新是经济增长的必要条件。变化是唯一不变的东西。没有时间和空间去容忍错误和弱点。
 
-  * It is important to have clear goals. Achieving the next external goal (getting the next promotion, finding a life partner, buying a new car,…) will make one happy.
+  * 具有明确的目标很重要。幸福感的前提是实现下一个外部目标（获得下一次晋升、找到生活伴侣、购买新车……）。
 
-  * When people are all by themselves, nothing good will come out of it. Although they can think up to a certain point and decide on *how* they do their job, they are in need of direction. People need to be motivated by external rewards and competition to perform at their peak. Management needs to set clear goals, incentive schemes, and control. Management has to be in control.
+  * 如果让成员完全的自我管理，一定不会有好结果。虽然成员有一定的自由度来决定如何完成自己工作，但基本上都需要方向性指导。人们需要得到外在的奖励和竞争的激励，才能在巅峰时期做出出色表现。管理层要负责为部下设定明确的目标、激励计划和控制。管理层必须控制局面。
 
-  * (Leadership style: expert/achiever, "problem solving, strategic, outcome oriented". Metaphor: Machine.)
+  * (领导风格：职业专家/成功者，“解决问题、战略性、结果导向型”。比喻：机器。)
 
 
   #### Green Organizations
