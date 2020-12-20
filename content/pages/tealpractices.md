@@ -34,18 +34,18 @@ name: Key organizational structures and practices
 
 ![](/media/people-practices.jpg)
 
-### People practices
+### 人力资源
 
-* [Recruitment](/theory/recruitment/)
-* [Onboarding](/theory/onboarding/)
-* [Training and Coaching](/theory/training-and-coaching/)
-* [Commitment, Working Hours and Flexibility](/theory/commitment-working-hours-and-flexibility/)
-* [Job Titles and Job Descriptions](/theory/job-titles-and-job-descriptions/)
-* [Objectives and Target Setting](/theory/objectives-and-target-setting/)
-* [Feedback and Performance Management](/theory/feedback-and-performance-management/)
-* [Compensation and incentives](/theory/compensation-and-incentives/)
-* [Role Definition and Allocation](/theory/role-definition-and-allocation/)
-* [Dismissal](/theory/dismissal/)
+* [招聘](/theory/recruitment/)
+* [入职](/theory/onboarding/)
+* [培训与辅导](/theory/training-and-coaching/)
+* [任务承诺、工作时间和弹性化](/theory/commitment-working-hours-and-flexibility/)
+* [职称与工作描述](/theory/job-titles-and-job-descriptions/)
+* [目标与指标](/theory/objectives-and-target-setting/)
+* [反馈与业绩管理](/theory/feedback-and-performance-management/)
+* [薪酬与激励](/theory/compensation-and-incentives/)
+* [岗位定义与任务分派](/theory/role-definition-and-allocation/)
+* [解雇](/theory/dismissal/)
 
   \--------------------------------------
 
