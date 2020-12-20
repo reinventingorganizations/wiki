@@ -102,29 +102,29 @@ perspective: >-
   * (领导风格：催化/协同创新，“团队导向、协作、服务型领导”。比喻：家庭。)
 
 
-  #### Teal Organizations
+  #### 蔚蓝组织
 
 
-  Fundamental assumptions from a Teal perspective are:
+  从蔚蓝视角出发的基本假设是:
 
 
-  * Human beings and organizations as living systems are full of potential waiting to unfold. Building on strengths is more important than focusing on weaknesses.
+  * 人类和人类组织都是有自我生命的有机系统，充满了等待展开的潜力。开发优势比关注弱点更重要。
 
-  * One can ***trust*** ***the abundance of life.*** People and organizations who share the same life serving goals are allies rather than competitors.
+  * 人可以**相信生命是丰盈的**。共享着‘为生命服务’这种共同目标的人和组织是盟友而不是竞争对手。
 
-  * All of life is intrinsically interconnected. As humans and individuals, we share a place in the grand scheme of life. Having equal human value is self-evident, and does not require struggle or sameness in form or expression.
+  * 所有生命都通过内在联系在一起（整体性）。作为人类和个人，我们在生命的大蓝图中共享着一个位置。人人具有同等的价值，这是不言而喻的，所以不需要形式化的刻意争取或表现平等性。
 
-  * The goal of life is ***becoming the truest expression of oneself***, to honor one's birthright and callings, and to be of service to humanity and the world. Your contribution is developing your own unique strengths and expressions, and then leading life's joy through that into this world, thereby playing your tune in the symphony of life.
+  * 人生的目标是，**成为最真实完整的自我表达**，尊重自己与生俱来的权利，以及为人类和世界服务的使命。个人对组织和社会的最大贡献，就是积极开发出自己独特的优势力量和表达方式，进而通过这些力量表达将生活的喜悦带入这个世界，在生命的交响乐中演奏你独一无二的音符曲调。
 
-  * One is not one's Ego. "Don’t let the need to look good, to be successful, to fit in,… run your life."
+  * 虚荣心和自大人格不是人的真实身份。“不要让外表好看、成功、融入社会等……来统治你的人生。”
 
-  * If one keeps the channel open, one can listen into the life that wants to be lived through oneself – or the purpose that wants to be served by the organization. Life does not need to be coerced. All we have to do is tune into what life wants to express or create and life will provide for itself what is needed. Sense and respond, rather than plan and control.
+  * 如果人能保持（直觉，心灵）渠道畅通，就可以通过倾听接收到一些渴望通过自己活出来的固有生命形态，或共鸣于特定组织的使命目标。人生不需要强迫。我们要做的只是，调频共鸣于生命本身想要表达或创造的内容，于是生命将为我们提供所需的资源（生命的丰盈属性）。去感受并反应，而不是计划和控制。
 
-  * Even if something unexpected or mistakes happen, things will turn out all right. If they don’t, life is offering an opportunity to learn and grow. Let go of fear.
+  * 即使发生意外或犯错误，事情也会好起来。如果没有“好”起来，那也是生命在为我们提供学习和成长磨砺智慧的机会。放下恐惧。
 
-  * A good decision is a decision that is in line with one's inner compass – it is not only based on facts and figures, but includes emotions and intuition.
+  * 判断一个决定好坏的标准是，是否符合自己的内心呼唤。决策不仅基于事实和数字，还包括情感和直觉。
 
-  * (Leadership style: co-creative/synergistic, "deeply empathetic, systemic, holding space for the purpose". Metaphor: Living System / Living Organism).
+  * (领导风格：共同创造/协同，“高度同理心，系统性，为目标腾出空间”。隐喻：生命系统/生命有机体。)
 inPractice: >-
   Many of us hold deeply ingrained assumptions about people and work that are
   based on fear, assumptions that call for hierarchy and control. Teal
