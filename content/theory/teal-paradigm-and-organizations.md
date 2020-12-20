@@ -115,13 +115,13 @@ intro: >-
   人类语言一般会彰显这些特征：在很多传统组织内，会经常谈到“工作与人生”的平衡。这个说法隐含的表明，在工作中，个人生活的要素所剩无几，我们为了工作而被迫剥离了人生中很多真正重要的部分。对那些朝向蔚蓝转型的人们而言，对传统职场的这些分离能量，一般会搞到非常痛苦。他们一般选择脱离在某个组织内的生活，而进入某种个体户的生态。寻找一种更容易适应的环境，更有助于通过自己和他人找到完整人性的工作。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Location 1209-1224). Nelson Parker. Kindle Edition.]
 
 
-  ##### Wholeness in relation to others
+  ##### 人际关系中的王整性
 
 
-  In Evolutionary-Teal, we can transcend the opposites of judgment and tolerance. In earlier stages, when we disagree with other people, we often meet them in judgment, believing that we must be right and they must be wrong. Our task then is to convince, teach, fix, or dismiss them. Or we can, in the name of tolerance, the Green ideal, gloss over our differences and affirm that all truths are equally valid. In Teal, we can transcend this polarity and integrate with the higher truth of non-judgment we can examine our belief and find it to be superior in truth and yet embrace the other as a human being of fundamentally equal value.
+  在进化的蔚蓝阶段，我们有能力超越评判与忍受的矛盾。在早期意识阶段，当我们与他人意见不一致时，一般会评判他们，认为自己一定是对的，别人一定是错的。于是我们误认为自己的任务是说服、教育、矫正、或不理睬他们。或在绿色阶段的忍耐名下，忽略彼此我们之间的不同之处，告诉自己说所有的真相都相同。但在蔚蓝阶段，我们开始能超越这些二元对立，在无评判的更高次元真相里融会贯通，能检视自己的信念，确认其真理的光芒，同时也出于人性基本价值平等的角度，拥抱他人的人性完整（和而不同，正负兼容）。
 
 
-  In the absence of judgment, relationships take on a new quality. Our listening is no longer limited to gathering information so as to better convince, fix, or dismiss. We can create a shared space safe from judgment, where our deep listening helps others to find their voice and their truth, just as they help us find ours. In Orange, we broke free from the oppressive, normative communities of Amber. Now we have a chance to recreate community on new grounding, where we listen each other into selfhood and wholeness.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Location 1225-1234). Nelson Parker. Kindle Edition.]
+  不再评判自己和他人的人际关系会呈现一种新的质地。这让我们的内在聆听不再局限于收集一些，用于更有效的说服、教育、矫正他人的信息。我们开始打造一个摒除评判的共享的安心安全空间。在这个共享空间里，自己的深层聆听，可以帮助他人发现他们自己的内在声音和真相，他们也会同样的帮助我们。在橙色阶段，我们从琥珀阶段那种强制和一统化的社区文化中解脱出来。现在，我们得到机会重建一种基于新基础的社区文化（社区2.0）.我们在这个社区中可以互相聆听，走向自我自主和整体性（主权及分体）道路。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Location 1225-1234). Nelson Parker. Kindle Edition.]
 
 
   ##### Wholeness with life and nature
