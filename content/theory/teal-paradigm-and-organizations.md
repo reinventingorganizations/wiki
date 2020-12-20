@@ -58,13 +58,13 @@ intro: >-
   蔚蓝个体的动力是，通过成长到达真实自我并跟随使命召唤努力奋斗。他们有时因过于笃定，甚至会对某些人和事失去耐心。比如一些并非来自同样意识境界的、依然追求自大人格成长的人，或一些与自己的境界和人生目标无法共鸣的事物。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Location 1136-1157). Nelson Parker. Kindle Edition.]
 
 
-  ##### Building on strengths
+  ##### 培育坚强意志
 
 
-  When we set goals for our life that are disconnected from our deeper selfhood, when we wear other people’s faces, we don’t stand in the strength of our selfhood. Inevitably we will find ourselves lacking and invest much energy in trying to overcome our weaknesses, or in blaming ourselves or others for not being who we think we ought to be.
+  如果我们设定的人生目标不能与自己最深自我共鸣，即当我们带上伪装他人的面具，就无法得到真实自我（心灵）的力量支持和赋权。于是会不可避免的发现自己陷入匮乏状态，为了试图超越自己的弱点而浪费很多能量，或因为感到自己没能成为应该的样子（洗脑面具的样式）而责备自己或他人。
 
 
-  When we see our life as a journey of unfolding toward our true nature, we can look more gently and realistically at our limitations and be at peace with what we see. Life is not asking us to become anything that isn’t already seeded in us. We also tend to focus less on what is wrong or missing in people and situations around us and move our attention instead to what is there, to the beauty and the potential. We trade in judgment for compassion and appreciation.
+  当我们能将生命看作一个朝着真我展开的旅程，就有能力更加慈悲而现实主义的看待自己的局限性，并能淡然接纳自己看到的各种现象（喜欢或不喜欢）。生命只是在轻推我们蜕变成一种，早已深藏在自我内在的真实状态。我们还能因此得到一种能力，可以少去关注周围各种人事物中的错误和缺点，将注意力转移到当下所是之原状，静观众妙并发现其潜力。我们开始用慈悲和赞赏感恩替代差评。
 
 
   Psychologists talk about a shift from a deficit to a strength-based paradigm. Slowly, this shift is making profound inroads in different fields, from management to education, from psychology to health care — starting with the premise that, as human beings, we are not problems waiting to be solved, but potential waiting to unfold.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Location 1158-1167). Nelson Parker. Kindle Edition.]
