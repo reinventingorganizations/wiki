@@ -64,13 +64,13 @@ intro: >-
   如果我们设定的人生目标不能与自己最深自我共鸣，即当我们带上伪装他人的面具，就无法得到真实自我（心灵）的力量支持和赋权。于是会不可避免的发现自己陷入匮乏状态，为了试图超越自己的弱点而浪费很多能量，或因为感到自己没能成为应该的样子（洗脑面具的样式）而责备自己或他人。
 
 
-  当我们能将生命看作一个朝着真我展开的旅程，就有能力更加慈悲而现实主义的看待自己的局限性，并能淡然接纳自己看到的各种现象（喜欢或不喜欢）。生命只是在轻推我们蜕变成一种，早已深藏在自我内在的真实状态。我们还能因此得到一种能力，可以少去关注周围各种人事物中的错误和缺点，将注意力转移到当下所是之原状，静观众妙并发现其潜力。我们开始用慈悲和赞赏感恩替代差评。
+  当我们能将生命看作一个朝着真我展开的旅程，就有能力更加慈悲而现实主义的看待自己的局限性，并能淡然接纳自己看到的各种现象（自己和他人，喜欢或不喜欢）。生命只是在轻推我们蜕变成一种，早已深藏在自我内在的真实状态。我们还能因此得到一种能力，可以少去关注周围各种人事物中的错误和缺点，将注意力转移到当下所是之原状，静观众妙并发现其潜力。我们开始用慈悲和赞赏感恩替代差评。
 
 
-  Psychologists talk about a shift from a deficit to a strength-based paradigm. Slowly, this shift is making profound inroads in different fields, from management to education, from psychology to health care — starting with the premise that, as human beings, we are not problems waiting to be solved, but potential waiting to unfold.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Location 1158-1167). Nelson Parker. Kindle Edition.]
+  心理学家提到一种意识模式转型，就是从透支生命能量转型到基于内在力量赋权。这个转型已经开始在地球上不同的领域中，带来了缓慢但至关重要的渗入，从管理到教育，从心理咨询到健康。这些转型的起点都基于一个前提：相信我们人类不是个亟待拯救的误入歧途种族，而是个等待被揭示出来的潜在力量。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Location 1158-1167). Nelson Parker. Kindle Edition.]
 
 
-  ##### Dealing gracefully with adversity
+  ##### 优雅的面对逆境
 
 
   When life is seen as a journey of discovery, then we learn to deal more gracefully with the setbacks, the mistakes, and the roadblocks in our life. We can start to grasp the spiritual insight that there are no mistakes, simply experiences that point us to a deeper truth about ourselves and the world. In previous stages, life’s roadblocks (an illness, a bad boss, a difficult marriage) are seen as unfair rolls of the dice. We meet them with anger, shame, or blame, and these feelings disconnect us from others and ourselves. In Teal, obstacles are seen as life’s way to teach us about ourselves and about the world. We are ready to let go of anger, shame, and blame, which are useful shields for the ego but poor teachers for the soul. We embrace the possibility that we played a part in creating the problem, and inquire what we can learn so as to grow from it.
