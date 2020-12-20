@@ -55,7 +55,7 @@ intro: >-
   很多人通过冥想、聚焦、武术、瑜伽、或单纯在大自然中散步，来催化这个朝向意识2.0阶段的转型，找到一个安静空间，允许内在灵魂的声音吐露其真相并指导人生。活在这个意识阶段见解中的个体，连接着一种更深层的目标，可以几乎毫无恐惧的追求自己的使命。他们掌控了虚荣心和自大人格，不再因恐惧失败而放弃尝试。克蕾雅格瑞夫有一句名言，说具有蔚蓝意识的人是“一个有抱负但无野心的人”。
 
 
-  Growing into their true nature and working toward their calling is their driving force, so much so that to others who don’t come from the same perspective, persons operating from Teal can sometimes come across as impatient with people who impede their personal growth, or with situations that don’t feel aligned with the purpose they perceive for their life.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Location 1136-1157). Nelson Parker. Kindle Edition.]
+  蔚蓝个体的动力是，通过成长到达真实自我并跟随使命召唤努力奋斗。他们有时因过于笃定，甚至会对某些人和事失去耐心。比如一些并非来自同样意识境界的、依然追求自大人格成长的人，或一些与自己的境界和人生目标无法共鸣的事物。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Location 1136-1157). Nelson Parker. Kindle Edition.]
 
 
   ##### Building on strengths
