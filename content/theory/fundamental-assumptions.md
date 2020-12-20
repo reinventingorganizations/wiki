@@ -83,13 +83,13 @@ perspective: >-
   * (领导风格：职业专家/成功者，“解决问题、战略性、结果导向型”。比喻：机器。)
 
 
-  #### Green Organizations
+  #### 绿色组织
 
 
-  Fundamental assumptions from a [Green perspective ](../green-paradigm-and-organizations/)are:
+  从 [绿色视角](../green-paradigm-and-organizations/) 出发的基本假设是:
 
 
-  * Materialistic obsession, social inequality and loss of community are bad. Relationships are more important than outcomes. What is essential is ***belonging and harmony***.
+  * 拜金主义、社会不平等和社区感丧失都是不理想的。关系比结果更重要。最重要的是**归属感与和谐**。
 
   * People are essentially good. Everyone’s point of view and opinion is valuable. Conflict or competition are not the only laws of nature, co-operation is also in our genes. Shared values work better than strict rules and policies.
 
