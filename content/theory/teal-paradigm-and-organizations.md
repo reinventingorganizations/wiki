@@ -130,13 +130,13 @@ intro: >-
   我们再次不无嘲讽的发现，越是学会真诚对待独特的自我，就愈发觉察到自己其实是某些更大而互联的生命和意识之网的一个表达单元。这个觉察虽然能提升意识，同时也带来痛苦。因为我们发现，自己与生命和大自然的整体性关系已经彻底断裂了。于是我们开始奋力修复这个关系，不是基于一个道德责任次元，而是源于内在觉知：知道自己不是分离的碎片，而是与大自然一体的生命。我们开始认识到，人类将自己放在高于其他生命的位置，这种态度是何等的愚蠢和傲慢。于是我们开始寻求在大自然这个整体中，找到一个适合自己的、更加真诚而谦卑的定位。重新点燃我们与生命和大自然的有机关联，一般会让我们开始追求一种简单的生活，不再在生活中塞满自己曾以为会需要的财物（不再贪婪），终于觉悟到富有并非通过所拥有的财物来定义，而是通过那些滋养自己灵魂的丰盈关系来衡量。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Location 1235-1242). Nelson Parker. Kindle Edition.]
 
 
-  #### Breakthroughs and characteristics of Teal organizations
+  #### 蔚蓝组织的突破和特点
 
 
-  Like earlier organizational paradigms, Teal can be credited with bringing about certain fundamental breakthroughs in how humans collaborate:
+  与早期组织模式进化时很类似，蔚蓝模式也带来了几个在人类协作角度的根本性突破：
 
 
-  ##### Teal breakthrough 1: Self-Management
+  ##### 蔚蓝突破1: 自我管理
 
 
   Teal Organizations have found the key to operate effectively, even at a large scale, with a system based on peer relationships, without the need for either hierarchy or consensus. (See [Self-Management](../self-management/)).
