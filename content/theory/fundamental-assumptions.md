@@ -23,23 +23,21 @@ perspective: >-
 
   * 世界是个充满敌意的地方。“你死我活”。征服到的领土必须通过（不断的）斗争和警惕来保卫。如果一个人不能对环境做出迅速反应，就会失去一切。
 
-  * Structure in society is all about ***power and respect.*** There is a natural pecking order which ensures that only "the best" survive and thrive. To survive, one either has to be dominant to take advantage, or submissive for protection.
+  * 社会结构是基于***权力和尊重***。种群中划分阶级、存在着自然的进食顺序，只保证“卓越个体”的生存和繁荣。为了生存，一个人要去控制才能占优势，否则就要顺从他人而寻求庇护。
 
-  * One can only trust oneself – and, to some extent, the people who have “sworn allegiance”.. Vigilance is imperative, because people’s allegiances can change overnight.
+  * 人只能相信自己，或在某种程度上相信那些“宣誓效忠”的人。保持警惕是必要的，因为人们的忠诚会在一夜之间改变。
 
-  * There are no stable rules except the rule of power exercised by the chief. What is right and what is wrong is decided by the boss. No need to think for oneself if one is not the boss
+  * 唯一规则是酋长行使权力，此外无其他固定的规则。对错由老大决定。老大之外的成员不需要思考。
 
-  * It is acceptable (and even desirable) to only care about oneself. Taking what one can get – as long as one is not caught or beaten by someone more powerful is OK. There is no guilt, only power or submission. What other people think and how they feel is not a concern.
+  * 自私是可接受的行为（甚至是被鼓励的）。个人可以享用自己力量范围能获得的一切（剥削和占有）– 只要没有被更强者捕获或击败就行。没有罪恶感，只有权力或顺从。不关心其他人的想法和感受。
 
-  * People who are not part of the "inner circle" are there to be used. Better to be feared than to be loved.
-
-  *
+  * 不属于“核心圈”的人注定被剥削和利用。不求被人爱戴，只求被人恐惧。
 
 
-  (Leadership style: predatory, Metaphor: Wolf Pack)
+  （领导风格：掠夺性，比喻：狼群）
 
 
-  #### Amber Organizations
+  #### 琥珀组织
 
 
   Fundamental assumptions from an [Amber perspective](../amber-paradigm-and-organizations/) are:
