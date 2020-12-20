@@ -79,13 +79,13 @@ intro: >-
   在之前各个意识阶段中，我们经常习惯性的说服自己一切都很好，直到一个问题滚雪球式的发生并导致雪崩般袭来，才被迫开始调整人生。在蔚蓝阶段，我们已经有能力不断进行微调，并通过人生旅途遇到的困难体验而积累智慧并成长。在以前的各种意识阶段，个人层面的变化会带来恐惧感。但在进化主题的蔚蓝阶段，个人成长旅途中，一种愉快的紧张感化为了动力和常态。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Location 1169-1177). Nelson Parker. Kindle Edition.]
 
 
-  ##### Wisdom beyond rationality
+  ##### 超越理喻的智慧
 
 
-  In Orange, rationality is king and rules unquestioned in the pursuit of the decision that will yield the best outcome. Any source of insight other than facts and logical reasoning is “irrational” and must be discarded. Ironically, however, Orange’s attachment to outcomes often clouds the ability to see reality clearly. Amid the stacks of information that are meant to inform complex decisions, we can fail to see information that is incongruous with our worldview or with the future our ego has projected and is attached to; often the writing was all over the wall, and yet people dismissed the clues (or didn’t dare to speak up). Teal, less attached to outcomes, can more easily accept the sometimes unpleasant truths of reality; therefore, rational thinking within Teal can be more accurately informed by data.
+  在橙色阶段，努力追求能带来最佳成果的正确决策时，会把理喻看作王道和铁则。不基于事实和逻辑的其他洞见来源，都被看作不合理而被摒弃。但嘲讽的是，橙色对结果的执着，往往如云层般遮蔽了我们清晰认识真相的能力。我们被淹没在以为能导航复杂决策的海量信息中，而无法认识到，那些信息其实跟我们的世界观和自大人格投射并执着追求的未来并不共鸣。通常是标语满墙，人们却对各种迹象不屑一顾（或不敢开口）。而在蔚蓝阶段，因不再那么执着于结果，所以更容易接纳那些有时令人不舒服的现实真相。可以说，在蔚蓝阶段，理性思维其实更容易得到数据的精确导航。
 
 
-  Beyond facts and figures, cognition at this stage taps a broader range of sources to support decision making. The Orange modern-scientific perspective is wary of emotions that could cloud our ability to reason rationally, whereas Green sometimes goes to the other extreme, rejecting analytical “left brain” approaches for “right brain” feeling as a basis for decision-making. Teal is happy to tap into all the domains of knowing. There are insights to be gained from analytical approaches. There is also wisdom to be found in emotions, if we learn to inquire into their significance: Why am I angry, fearful, ambitious, or excited? What does this reveal about me or about the situation that is unfolding?
+  蔚蓝意识阶段的高级认知（直觉与当下感知），远远超越了事实和数值，能触及到更广泛的可支撑决策的智慧。橙色阶段的现代科技见解压抑了人性的情感侧面，因而也遮蔽了我们理智分析的能力。绿色阶段则有时会走向另一个极端，拒绝逻辑分析式的左脑，只依赖右脑感觉来做决策。蔚蓝愉快的囊括了所有的觉知次元。有些洞见需要通过逻辑分析的努力来获得。也有些智慧则需要从情绪中攫取，深思这些关于自己情绪的提问，就能获得情绪带给我们的智慧力量：我为何愤怒，恐惧，雄心勃勃或兴奋？这些情绪揭示了关于我或正在发生事件的何种未知侧面？
 
 
   Wisdom can be found in intuition, too. Intuition honors the complex, ambiguous, paradoxical, non-linear nature of reality; we unconsciously connect patterns in a way that our rational mind cannot. Intuition is a muscle that can be trained, just like logical thinking: when we learn to pay attention to our intuitions, to honor them, to question them for the truth and guidance they might contain, more intuitive answers will surface.
