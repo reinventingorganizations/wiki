@@ -136,19 +136,19 @@ intro: >-
   与早期组织模式进化时很类似，蔚蓝模式也带来了几个在人类协作角度的根本性突破：
 
 
-  ##### 蔚蓝突破1: 自我管理
+  ##### 蔚蓝突破 1: 自我管理
 
 
-  Teal Organizations have found the key to operate effectively, even at a large scale, with a system based on peer relationships, without the need for either hierarchy or consensus. (See [Self-Management](../self-management/)).
+  蔚蓝组织找到了一个，即使在大规模人数在组织中也能高效运作的关键要素。这个自我管理体系基于同事人际关系，不需要阶层制度或统筹。(参见 [自我管理](../self-management/))。
 
 
-  ##### Teal breakthrough 2: Wholeness
+  ##### 蔚蓝突破 2: 整体人性
 
 
   Organizations have always been places that encourage people to show up with a narrow “professional” self and to check other parts of the self at the door. They often require us to show a masculine resolve, to display determination and strength, and to hide doubts and vulnerability. Rationality rules as king, while the emotional, intuitive, and spiritual parts of ourselves often feel unwelcome, out of place. Teal Organizations have developed a consistent set of practices that invite us to reclaim our inner wholeness and bring all of who we are to work. (See [Wholeness](../wholeness/)).
 
 
-  ##### Teal breakthrough 3: Evolutionary Purpose
+  ##### 蔚蓝突破 3: 进化目标
 
 
   Teal Organizations are seen as having a life and a sense of direction of their own. Instead of trying to predict and control the future, members of the organization are invited to listen in and understand what the organization wants to become, what purpose it wants to serve. (See [Evolutionary Purpose](../evolutionary-purpose/)).
