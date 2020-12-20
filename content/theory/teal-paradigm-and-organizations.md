@@ -188,7 +188,7 @@ intro: >-
   蔚蓝组织由自我管理的团队主导运营。这些团队由一线成员组成，每个人担当一些特定的角色，包括功能性任务和管理角色。无中央控制。不再只是形式化的关注价值观，而是通过组织内人们的实际行为实演价值观。每个人都自主自觉的聆听组织的目标，当感觉到环境变化时就随之采取行动。从成员的集体行动中，会自然衍生出组织层面的行为。
 
 
-  **敬请[留言](https://docs.google.com/forms/d/e/1FAIpQLSeKJ9e_35o57wtjr5F2NrlptK1ULTCawjJqSqOxNdvQ1lWFzA/viewform?c=0&w=1) ，告诉我们此知识库对您是否有用，以便这个志愿者团队随时改善！**
+  **敬请[留言](https://docs.google.com/forms/d/e/1FAIpQLSeKJ9e_35o57wtjr5F2NrlptK1ULTCawjJqSqOxNdvQ1lWFzA/viewform?c=0&w=1) ，反馈您对此知识库用法的建议和要求，以便这个志愿者团队届时改善！**
 perspective: ""
 inPractice: ""
 ---
