@@ -129,10 +129,10 @@ inPractice: >-
   许多人对人和工作都抱有各种根深蒂固的基于恐惧的假设，那种假设认为，我们需要等级制度和控制。蔚蓝组织清楚地表达了对人和工作的平等假设。只有照亮自己内在这些基于恐惧的潜意识信念，我们才能做出决定来选择一套不同的假设。当同事们经常谈论这两组假设，并且经常得到提醒时，就会开始改变信念体系。
 
 
-  #### Checking with the fundamental assumptions in daily processes
+  #### 在日常流程中检查基本假设
 
 
-  Colleagues in Teal organizations routinely check the way daily practices ([meetings](../meetings/), [conflict resolution](../conflict-resolution/), [team / community building](../team-and-community-building/), [decision making](../decision-making/)) are conducted – and the outcomes they generate with the [values ](../culture-and-values/)and underlying fundamental assumptions.  
+  蔚蓝组织的同事会定期检查各种日常工作实践 ([会议](../meetings/), [冲突解决](../conflict-resolution/), [团队 / 社区建设](../team-and-community-building/), [决策](../decision-making/)) 的实施方式，不断评估这些实践是否基于组织的 [价值观 ](../culture-and-values/)和隐含的基本假设而产生的结果。
 
 
   #### Articulating both sets of assumptions when transforming an existing organization
