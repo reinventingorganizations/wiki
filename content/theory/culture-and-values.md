@@ -13,7 +13,7 @@ perspective: >-
   蔚蓝组织将共享的价值观推向了新阶段。针对组织内可接纳与不可接纳的言行，定义了清晰的基本规则或共识信念。多数蔚蓝组织都在招聘流程上投入大量时间，向应聘者传达组织的价值观，让他们有机会判断这些内容是否适配于自己理想中的未来图景。蔚蓝组织会频繁的审查和质疑公司的文化和价值观，以确保这些内容真正鲜活在组织成员的生活中。常见的鲜活的蔚蓝价值观包括：信任、透明、集体智慧、完整人性和主权。
 
 
-  Every historical stage has given birth to a distinct perspective on culture and values, and to very different practices:
+  处于每个不同历史阶段的组织，都孕育出对文化和价值观各不相同的见解，以及完全不同的实践流程：
 
 
   ##### Red organizations
@@ -44,9 +44,6 @@ perspective: >-
 
 
   [蔚蓝组织 ](../teal-paradigm-and-organizations/)致力于创建高效的组织，激励人们在工作中做一个或成长为一个完整的人。蔚蓝组织的文化，不是根据创立者和领导者的个人假设、规范和关切来塑造，而是根据组织的特定背景和[目标](https://reinventingorganizations-wiki.netlify.app/theory/evolutionary-purpose/)而自然呈现出来。对蔚蓝组织的隐喻是“有生命的系统”。因此，组织应该具有自己的、可以随着时间推移而发展的自主身份和文化。文化和价值观跟结构与过程有机的结合在了一起。
-
-
-  Teal organizations take shared values to the next level either through clear ground rules or sharing beliefs about what is acceptable or unacceptable. Most Teal organizations spend a lot of time during the recruitment process informing candidates about the values of the organization to determine whether there is a good culture fit. Teal organizations also set practices to frequently review and question culture and values to ensure they are truly lived by those in the organization. Some values that are often present are trust, transparency, collective intelligence, wholeness and authenticity.
 inPractice: >-
   #### Establishing values and ground rules
 
