@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Culture and Values
-name: Culture and Values
+name: 文化与价值观
 sortOrder: 6
 category: Daily practices
 intro: >-
