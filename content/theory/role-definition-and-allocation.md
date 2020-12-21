@@ -115,11 +115,11 @@ inPractice: >-
   在某些情况下有多个候选人对同一职位表现出浓厚兴趣，就可能需要履行更正式的程序：
 
 
-  * *面试*: Candidates may be interviewed by those who will work closely with them.  Interviewers can choose to decide on the winning candidate using a number of [决策](../decision-making/) mechanisms, such as consensus, majority vote or the advice process. 
+  * *面试*: 由需要在工作中密切合作的人来面试应聘者。面试官全权选择使用多种 [决策](../decision-making/) 机制之一来决定胜出的候选人，例如共识、多数票或建议过程。
 
-  * *选举*: [社区主义](https://en.wikipedia.org/wiki/Sociocracy)[ ](https://en.wikipedia.org/wiki/Sociocracy)和 [](http://www.holacracy.org/)[霍尔模式](https://www.holacracy.org/) 在决定某些角色时，会使用基于自愿的选举过程。同事提名自己喜欢的候选人。然后，由支持人协助小组做出自主决定。
+  * *选举*: [社区主义](https://en.wikipedia.org/wiki/Sociocracy)[ ](https://en.wikipedia.org/wiki/Sociocracy)和 [](http://www.holacracy.org/)[霍尔模式](https://www.holacracy.org/)在决定某些角色时，会使用基于自愿的选举过程。同事提名自己喜欢的候选人。然后，由支持人协助小组做出自主决定。
 
-  * *建议流程*: One person (for instance, the person who sensed the need for the new role, or someone others trust to lead this process well) steps forward and seeks advice for who would be the best person to fill a new role before making a decision.
+  * *建议流程*: 由一个人代表主持决策（例如，感觉到需要建立这个新角色的人，或众人推举一个可信任的人，领导此角色任命过程）。在做出决定之前，需要走建议流程，就谁最适合担任新角色，征求成员建议。
 
   * *指定权限*: Allocating roles can be a role itself: in Holacracy, the "Lead Link" is a role that comes, among other, with the authority to allocate operational roles. 
 
