@@ -132,16 +132,16 @@ inPractice: >-
   #### 在日常流程中检查基本假设
 
 
-  蔚蓝组织的同事会定期检查各种日常工作实践 ([会议](../meetings/), [冲突解决](../conflict-resolution/), [团队 / 社区建设](../team-and-community-building/), [决策](../decision-making/)) 的实施方式，不断评估这些实践是否基于组织的 [价值观 ](../culture-and-values/)和隐含的基本假设而产生的结果。
+  蔚蓝组织的同事会定期检查各种日常工作实践 ([会议](../meetings/), [冲突解决](../conflict-resolution/), [团队 / 社区建设](../team-and-community-building/), [决策](../decision-making/)) 的实施方式，不断评估这些实践到底是基于何种 [价值观 ](../culture-and-values/)和隐含的基本假设而产生的结果。
 
 
-  #### Articulating both sets of assumptions when transforming an existing organization
+  #### 通过沉思新旧两套基本假设重塑组织
 
 
-  Most of the organizational practices chosen will be deeply counter-cultural to more conventional organizations. It is possible that people will question choices and call new assumptions foolish. Debates can be more fruitful when they don't stay at the level of arguing for or against a certain management practice, but when they take place at a deeper level, discussing the often hidden assumptions underneath the practice.
+  蔚蓝组织选择采用的大多数实践流程，都会与传统组织的文化发生深刻的对立。人们可能会质疑这些选择，认为这些新的假设很愚蠢。如果在辩论时能做到，不只是停留在裁决某一管理实践层面事项的是非赞否上，而是能更深层次上，讨论工作和沟通背后所隐藏的价值观基本假设，辩论会变得更有成效。
 
 
-  For example, each time when [AES](http://www.aes.com/) acquired a new power plant, the CEO would introduce AES's management practices to the new group of colleagues by asking them what assumptions owners and managers of a typical factory hold of their workers (see further: In Practice).
+  例如，案例企业[AES](http://www.aes.com/) 每当收购一个新发电厂时，CEO都会向新同事介绍AES的管理实践，调研新入围企业代表性工厂的股东和经理，目前对其工人持有什么样的假设（详见：实践中）。
 
 
   #### Practical tips:
