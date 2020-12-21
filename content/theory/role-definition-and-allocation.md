@@ -121,7 +121,7 @@ inPractice: >-
 
   * *建议流程*: 由一个人代表主持决策（例如，感觉到需要建立这个新角色的人，或众人推举一个可信任的人，领导此角色任命过程）。在做出决定之前，需要走建议流程，就谁最适合担任新角色，征求成员建议。
 
-  * *指定权限*: Allocating roles can be a role itself: in Holacracy, the "Lead Link" is a role that comes, among other, with the authority to allocate operational roles. 
+  * *指定权限*: 角色任命职能也可以呗被定义成一个岗位：在霍尔模式中，一线团队中的“领导链接”就是个这样的角色。“领导链接”除了其他一些职能外，也具有角色任命权限。
 
 
   #### Trading roles
