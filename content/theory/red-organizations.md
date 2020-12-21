@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Red Organizations
-name: Red Paradigm and Organizations
+name: 红色模式与组织
 sortOrder: 2
 category: history
 intro: >-
