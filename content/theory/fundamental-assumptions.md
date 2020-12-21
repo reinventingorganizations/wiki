@@ -257,37 +257,37 @@ inPractice: >-
   #### 进化目标
 
 
-  To see the organization as having a life of its own, with a purpose of its own, is based on trust in the abundance of life and the ability to distance yourself from your ego:
+  蔚蓝模式将组织看作一个拥有其自己生命和目标的有机系统，这个世界观的基础是，成员对生命丰盛属性的信任，以及能将真我身份（意识2.0）与自大人格（意识1.0）清晰区分开来，并在言行中时刻与意识1.0保持距离的能力：
 
 
-  ##### *Collective purpose*
+  ##### *集体目标*
 
 
-  * We view the organization as having a soul, a creative impulse and purpose of its own.
+  * 我们认为组织有其本身的灵魂、创造性动力和目标。
 
-  * We try to listen in to where the organization wants to go and beware of forcing direction onto it.
-
-
-  ##### *Individual purpose*
+  * 我们试着倾听组织想要去哪里，时刻小心不要让个人欲望影响组织的方向。
 
 
-  * We have a duty to ourselves and to the organization to inquire into our personal sense of calling to see if and how it resonates with the organization's purpose.
-
-  * We try to imbue our roles with our souls, not our egos.
+  ##### *个人目标*
 
 
-  ##### *Planning the future*
+  * 出于对自己和对组织的责任感，我们要努力探究个人的使命感，确认是否和组织的目标产生共鸣。
+
+  * 我们试着用灵魂，而不是自我人格浸染自己的岗位角色。
 
 
-  * Trying to predict the future is futile. We make forecasts only when a specific decision requires us to do so.
-
-  * Everything will unfold with more grace if we stop trying to control and instead choose to simply sense and respond.
+  ##### *规划未来*
 
 
-  ##### *Profit*
+  * 人不可能预测未来。我们只在某个特定的决策必须时，才做出参考性预测。
+
+  * 如果我们不再试图控制，而是选择单纯的感知和回应，一切都会变得更加优雅。道法自然。
 
 
-  * In the long run, there are no trade-offs between purpose and profits. If we focus on purpose (cause), the profit (effect) will follow.
+  ##### *利润*
+
+
+  * 从长远来看，目标和利润之间并不矛盾。只要我们聚焦于目标（因），利润（果）就会随之而来。
 faq:
   - question: What's the difference between making explicit the fundamental
       assumptions and formulating new ones – and the traditional exercise on
