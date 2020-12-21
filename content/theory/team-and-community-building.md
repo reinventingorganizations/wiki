@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Team and Community Building
-name: Team and Community Building
+name: 团队与社区建设
 sortOrder: 8
 category: Daily practices
 intro: Team / Community Building is a key factor in group achievements. The
