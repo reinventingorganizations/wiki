@@ -7,27 +7,25 @@ sortOrder: 9
 category: People practices
 intro: 本文描述在蔚蓝组织中如何定义和分配岗位角色。
 perspective: >-
-  In Teal organizations, members fill roles that are created, exchanged and
-  discontinued in reponse to current needs. Documentation of these varies from
-  the precise to the informal, based on the nature of the organization.
+  在蔚蓝组织内，由成员担任的各种岗位角色根据当下需求创建，交换和终止。在不同特点的蔚蓝组织中，运用方法各有不同:有些用精确文档描述，有些则只是采用非正式的记录。
 
 
-  Consequences of this approach are, commonly:
+  蔚蓝模式的特点和效果包括：
 
 
-  * No organization chart No hierarchy
+  * 没有组织结构图，没有等级结构
 
-  * No formal promotion process
+  * 没有正式的晋升程序
 
-  * Individual commitment to a number of roles
+  * 每个人同时承诺担任多个不同的角色
 
-  * Lack of job titles and job descriptions
+  * 没有固定的职称定义和工作描述
 
-  * Sharing of the traditional management tasks of planning, monitoring, recruiting, on-boarding, coaching, etc.
+  * 传统的管理任务，如计划、监督、招聘、入职、辅导等，都分散在项目中由普通组员分享承担。
 
-  * Evolution of roles as people gain skills and respect
+  * 个人的岗位角色随着技能和认可尊重的提高而进化
 
-  * Creation of opportunities for new colleagues
+  * 为新同事创造机会
 
 
   In contrast, role definition and allocation in earlier stage organizations can be summarized as follows:
