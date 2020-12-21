@@ -126,13 +126,7 @@ perspective: >-
 
   * (领导风格：共同创造/协同，“高度同理心，系统性，为目标腾出空间”。隐喻：生命系统/生命有机体。)
 inPractice: >-
-  Many of us hold deeply ingrained assumptions about people and work that are
-  based on fear, assumptions that call for hierarchy and control. Teal
-  organizations articulate the assumptions they hold about people and about
-  work. Only by shining light on these fear-based beliefs can we decide to
-  choose a different set of assumptions. When colleagues talk about the two sets
-  of assumptions and are reminded of them frequently, they start to shift their
-  belief system.
+  许多人对人和工作都抱有各种根深蒂固的基于恐惧的假设，那种假设认为，我们需要等级制度和控制。蔚蓝组织清楚地表达了对人和工作的平等假设。只有照亮自己内在这些基于恐惧的潜意识信念，我们才能做出决定来选择一套不同的假设。当同事们经常谈论这两组假设，并且经常得到提醒时，就会开始改变信念体系。
 
 
   #### Checking with the fundamental assumptions in daily processes
