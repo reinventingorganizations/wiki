@@ -43,7 +43,7 @@ perspective: >-
   ##### Teal organizations
 
 
-  [蔚蓝组织 ](../teal-paradigm-and-organizations/)致力于创建高效的组织，激励人们在工作中做一个或成长为一个完整的人。蔚蓝组织的文化，不是根据创立者和领导者的个人假设、规范和关切来塑造，而是根据组织的特定背景和[purpose ](https://reinventingorganizations-wiki.netlify.app/theory/evolutionary-purpose/)目标而自然呈现出来。对蔚蓝组织的隐喻是“有生命的系统”。因此，组织应该具有自己的、可以随着时间推移而发展的自主身份和文化。文化和价值观跟结构与过程有机的结合在了一起。of the organization, not by personal assumptions, norms and concerns of the founders and leaders. The metaphor for the organization is a ‘living system’. As such it should be allowed to have its own autonomous identity and culture that can evolve with time. The culture and values are well integrated with the structure and processes. 
+  [蔚蓝组织 ](../teal-paradigm-and-organizations/)致力于创建高效的组织，激励人们在工作中做一个或成长为一个完整的人。蔚蓝组织的文化，不是根据创立者和领导者的个人假设、规范和关切来塑造，而是根据组织的特定背景和[目标](https://reinventingorganizations-wiki.netlify.app/theory/evolutionary-purpose/)而自然呈现出来。对蔚蓝组织的隐喻是“有生命的系统”。因此，组织应该具有自己的、可以随着时间推移而发展的自主身份和文化。文化和价值观跟结构与过程有机的结合在了一起。
 
 
   Teal organizations take shared values to the next level either through clear ground rules or sharing beliefs about what is acceptable or unacceptable. Most Teal organizations spend a lot of time during the recruitment process informing candidates about the values of the organization to determine whether there is a good culture fit. Teal organizations also set practices to frequently review and question culture and values to ensure they are truly lived by those in the organization. Some values that are often present are trust, transparency, collective intelligence, wholeness and authenticity.
