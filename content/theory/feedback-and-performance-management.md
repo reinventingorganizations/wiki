@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Feedback and Performance Management
-name: Feedback and Performance Management
+name: 反馈与业绩管理
 sortOrder: 7
 category: People practices
 intro: >-
