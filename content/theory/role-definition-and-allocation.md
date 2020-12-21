@@ -56,7 +56,7 @@ perspective: >-
   [橙色组织](../orange-paradigm-and-organizations/)中的固定岗位角色，都绑定在组织结构图的各个方框中，并记录在“职务描述”里。多数岗位角色的功能，都部分或全部集中于“管理”层之下。因此，角色与资历、头衔和晋升挂钩。
 
 
-  Thus roles become interwoven with other activities like succession planning, job rotation and talent management. These are designed to groom "high potentials" for future management roles
+  岗位定义还与一些相关流程交织运作。比如继任计划、工作轮换和人才管理。这种流程的设计目的是，培养能担任未来管理岗位的“高潜力”成员。
 
 
   #### Green Organizations
