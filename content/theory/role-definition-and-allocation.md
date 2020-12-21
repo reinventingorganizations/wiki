@@ -70,19 +70,19 @@ inPractice: >-
   在自我管理的组织中，不存在固定的工作定义，组织结构图上没有固定的“岗位方框”，没有层级管理，因此成员也无需通过天梯正式晋升到某个阶层的“方框”中。相反，每个同事担任多个他/她自愿同意并承诺要履行的角色。传统的经理任务（预测、计划、监控、招聘、入职、辅导等）通常分散在团队的各个成员中。成员经验增长后，会逐步承担起更大的责任岗位，并将较简单的工作交给新员工或更初级的同事。
 
 
-  #### How roles get defined
+  #### 如何定义角色
 
 
-  Some organizations use mostly informal processes to define roles. Others have put in place more formal processes.
+  有些组织采用非正式流程定义一些非正式的角色。有些组织则制定较正式的程序。
 
 
-  ##### Informal role definition
+  ##### 非正式角色定义
 
 
-  In some Teal companies, when someone senses the need to create, modify or scrap a role, they step forward, use the advice process to consult with relevant people, and make a decision.
+  在一些蔚蓝公司，每个普通成员如果感觉到创建、修改或取消一个角色的需要时，就会主动站出来，通过建议流程与相关人员协商，并做出决定。
 
 
-  If the organization is structured around teams, a team meeting is the natural place to have this conversation. If the role extends beyond the team, the initiator can call a meeting, have several one-on-one conversations, or share the suggestion on the internal social network.
+  如果该蔚蓝组织是由单元团队组陈，那么进行这种角色管理对话的自然场所就是团队内部会议。如果有角色延伸到团队之外，发起人可以召集跨团队会议，进行数次一对一的沟通，或者在组织内部社交网络上分享建议。
 
 
   ##### Formal role definition
