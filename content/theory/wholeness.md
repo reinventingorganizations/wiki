@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: wholeness
-name: Wholeness
+name: 完整人性
 sortOrder: 3
 category: teal-concepts
 intro: >-
