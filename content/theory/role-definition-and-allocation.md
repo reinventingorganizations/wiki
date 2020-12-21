@@ -64,10 +64,10 @@ perspective: >-
 
   [绿色组织](../green-paradigm-and-organizations/)的岗位角色处理方式与橙色组织基本相似。但不同点是，通过鼓励管理者充当仆人领导，来缓和对“管理”的重视。在一些公司，下属可以自己推选部门经理。
 inPractice: >-
-  #### Roles instead of jobs
+  #### 重视角色而非工作
 
 
-  In self-managing organizations, there are no jobs, no "boxes" on an organization chart, no hierarchical layers of management, and thus no formal promotions to any of these "boxes".  Instead, every colleague has a number of roles that he/she has agreed and committed to fulfill. The traditional tasks of a manager (anticipating, planning, monitoring, recruiting, on-boarding, coaching, etc.) are typically scattered among various members of the team.  As people grow in experience, they take on roles with larger responsibilities and offload simpler ones to new recruits or more junior colleagues.
+  在自我管理的组织中，不存在固定的工作定义，组织结构图上没有固定的“岗位方框”，没有层级管理，因此成员也无需通过天梯正式晋升到某个阶层的“方框”中。相反，每个同事担任多个他/她自愿同意并承诺要履行的角色。传统的经理任务（预测、计划、监控、招聘、入职、辅导等）通常分散在团队的各个成员中。成员经验增长后，会逐步承担起更大的责任岗位，并将较简单的工作交给新员工或更初级的同事。
 
 
   #### How roles get defined
