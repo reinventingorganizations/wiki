@@ -181,15 +181,15 @@ inPractice: >-
 
   * 信任每个人都有能力淡定的处理棘手而敏感的消息（“坏”消息）。
 
-  * 我们相信集体智慧的力量。没有人比所有人都聪明。因此，所有的决策都通过集体智慧的 "[建议流程](../decision-making/)"出做出。
+  * 我们相信集体智慧的力量。没有人比所有人都聪明。因此，所有的决策都通过集体智慧的 "[建议流程](../decision-making/)"做出。
 
 
-  ##### *Responsibility and accountability*
+  ##### *负责与可靠*
 
 
-  * We each have full responsibility for the organization. If we sense that something needs to happen, we have a duty to address it. it's not acceptable to limit our concern to the remit of roles.
+  * 我们每个人都对组织负有全责。如果我们感觉到某事注定需要发生，就有责任去面对并解决它。不应该把个人的关注范围局限在自己的岗位角色内。
 
-  * Everyone must be comfortable with holding others accountable to their commitments through feedback and respectful confrontation.
+  * 每个人都必须安心的无条件信任并敢于依靠他人的责任承诺，这种安心的信任感可以通过频繁反馈和基于敬意的指摘来磨合建立。
 
 
   #### Wholeness
