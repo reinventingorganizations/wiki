@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: board
-name: Board
+name: 董事会
 sortOrder: 5
 category: Structure of an organization
 intro: >-
