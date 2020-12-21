@@ -28,16 +28,16 @@ perspective: >-
   * 为新同事创造机会
 
 
-  In contrast, role definition and allocation in earlier stage organizations can be summarized as follows:
+  作为比较，这里概括一下传统组织的岗位角色定义和分配：
 
 
-  #### Red Organizations
+  #### 红色组织
 
 
-  In [Red Organizations](../red-organizations/) the status of group members is denoted by their proximity to the leader. Role allocation is at his discretion (or that of his close allies). A failure to align with the leader’s wishes will likely result in a loss of status. Loyalty and success are likely to earn more power. Family ties to the leader may also determine status.
+  在 [红色组织](../red-organizations/) 中，在红色组织中，小组成员的地位由他们与领导者的距离来呈现。角色分配由酋长（或他的亲密盟友）决定。如果不符合领导的意愿，很可能会失去地位。靠忠诚和成功赢得更多的权力。与领导人的家族裙带关系也可能决定成员的地位。
 
 
-  #### Amber Organizations
+  #### 琥珀组织
 
 
   Formal charts, hierarchies and titles are typical in [Amber organizations](../amber-paradigm-and-organizations/). Roles and promotions are based on formal processes. Power can be a function of:
