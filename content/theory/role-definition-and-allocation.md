@@ -62,7 +62,7 @@ perspective: >-
   #### Green Organizations
 
 
-  [Green organizations](../green-paradigm-and-organizations/) are similar to Orange in respect of roles. But the emphasis on ‘managing’ others is tempered by encouragement to act as servant leaders. In some companies, subordinates can select the person to fill the role of their manager.
+  [绿色组织](../green-paradigm-and-organizations/)的岗位角色处理方式与橙色组织基本相似。但不同点是，通过鼓励管理者充当仆人领导，来缓和对“管理”的重视。在一些公司，下属可以自己推选部门经理。
 inPractice: >-
   #### Roles instead of jobs
 
