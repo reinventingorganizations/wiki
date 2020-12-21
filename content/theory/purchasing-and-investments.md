@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Purchasing and Investments
-name: Purchasing and Investments
+name: 采购与投资
 sortOrder: 4
 category: Important Processes
 intro: >-
