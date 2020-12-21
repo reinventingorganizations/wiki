@@ -16,7 +16,7 @@ perspective: >-
   处于每个不同历史阶段的组织，都孕育出对文化和价值观各不相同的见解，以及完全不同的实践流程：
 
 
-  ##### Red organizations
+  ##### 红色组织
 
 
   In [Red organizations](../red-organizations/), leaders typically demonstrate egocentric behaviors driven by their personal need for power and control. They are often impulsive and find ways to exert their dominance. This creates a culture of a fear, control, risk taking and submission. Close bonds are usually formed by those in the organization.
