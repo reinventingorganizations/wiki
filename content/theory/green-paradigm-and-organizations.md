@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Green Paradigm and Organizations
-name: Green Paradigm and Organizations
+name: 绿色模式与组织
 sortOrder: 5
 category: history
 intro: >-
