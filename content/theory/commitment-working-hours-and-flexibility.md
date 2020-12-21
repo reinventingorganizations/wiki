@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Commitment, Working Hours and Flexibility
-name: Commitment, Working Hours and Flexibility
+name: 工作承诺、工作时间与弹性化
 sortOrder: 4
 category: People practices
 intro: >-
