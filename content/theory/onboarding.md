@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Onboarding
-name: Onboarding
+name: 入职
 sortOrder: 2
 category: People practices
 intro: >-
