@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Mood Management
-name: Mood Management
+name: 情绪管理
 sortOrder: 9
 category: Daily practices
 intro: Moods influence possibilities. The topic of mood management summarizes
