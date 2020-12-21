@@ -226,16 +226,16 @@ inPractice: >-
   * 我们认识到，我们都是紧密联系的一个整体（主权积分体，命运共同体），都是那个包括大自然和其他各种生命形式在内的更伟大生命存在的一部分。
 
 
-  ##### *Learning*
+  ##### *学习*
 
 
-  * Every problem is an invitation to learn and grow. We will always be learners. We have never arrived.
+  * 每个困难都是在邀请我们学习和成长。我们永远是学生。活到老学到老。
 
-  * Failure is always a possibility, if we strive boldly for our purpose. We discuss failures openly and learn from them. Hiding or neglecting to learn from failure is not acceptable.
+  * 我们为自己的目标而勇敢奋斗的过程中，总可能遇到失败。我们有勇气公开讨论失败并从中吸取教训。避免隐瞒失败或不从失败中吸取教训。
 
-  * Feedback and respectful confrontation are gifts we share to help one another grow.
+  * 意见反馈和基于敬重的指摘，是我们坦诚分享给同事并帮助彼此成长的礼物。
 
-  * We focus on strengths more than weaknesses, on opportunities more than problems.
+  * 我们注重强项而不是弱点，关注机遇多于问题。
 
 
   ##### *Relationships and conflict*
