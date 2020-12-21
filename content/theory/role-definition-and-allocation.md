@@ -94,7 +94,7 @@ inPractice: >-
   *团队对话*: 霍尔模式是为一个组织提供的“操作系统”，霍尔模式运营一个专门用于创建、修改和停止角色的“治理会议”。通常每月举行一次。每个成员的声音都保证被听到，没有单个人能主宰决策。使用霍尔模式的组织发现，每个月都会有一个团队调整、澄清、创建或放弃角色。（注：一个人有多重角色。）
 
 
-  *One-on-one conversations*: Morning Star uses a formal, one-on-one contracting system. Each colleague completes a document for every working relationship. Because Morning Star operates a highly efficient, non-stop process (in which each stage relies on the one before and after), precision is necessary. It would be inefficient to stop the line for a colleague conference. The document that describes these mutual commitments is called a Colleague Letter of Understanding. When summed, these detail all roles and commitments. In effect, these are "contracts", negotiated with the handful or two of colleagues they work with most closely. They are refined and agreed directly, one-on-one. Because minor improvements can have significant impacts, it makes sense to define roles with great granularity, and to track indicators closely.
+  *一对一对话*: 晨星采用正式的一对一合同制度。每个同事针对每个工作关系填写一份文件。因为晨星公司运行的是一个高效的不间断过程（每个阶段都依赖于其前后工程），所以需要精度。为了参加同事会议而停止生产线会降低工作效率。描述这些相互承诺的文件叫做同事共识书。全部内容汇总后，就囊括了组织内全部的角色和承诺的详细描述。这些其实就是成员通过跟与自己最密切合作的几位或前后两位同事谈判而商定的“合同”。合同都经过一对一的缜密精化和直接商定。因为微小的改进可能会产生显著的影响，所以需要定义大颗粒角色并密切跟踪指标。
 
 
   #### How roles get allocated
