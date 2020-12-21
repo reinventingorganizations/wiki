@@ -10,6 +10,8 @@ Please [let us know](https://reinventingorganizationswiki.com/pages/how-can-you-
 
 ### Here are the translations of this Wiki that are available …
 
+![](https://cn--reinventingorganizations-wiki.netlify.app/media/flagGreatBritainXXS.png)      English Wiki [](https://reinventingorganizationswiki.netlify.app/)<https://reinventingorganizationswiki.com/>
+
 ![](/media/flaghungary.jpg)      Hungarian Wiki <https://reinventingorganizationswiki.hu/>
 
 ![](/media/flagspain.jpg)      Spanish Wiki <http://www.reinventarlasorganizacioneswiki.com/>
