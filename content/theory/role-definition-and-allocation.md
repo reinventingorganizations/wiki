@@ -43,11 +43,11 @@ perspective: >-
   [琥珀组织](../amber-paradigm-and-organizations/)的典型特征是，具有正式的结构图、等级和头衔。角色和晋升都基于正式流程。通过下列角度来体现特权：
 
 
-  * The personal opinion of a higher ranking member
+  * 高职位成员的个人意见
 
-  * Specific criteria (like years of service, title or qualifications)
+  * 具体标准（如服务年限、职称或资格）
 
-  * Membership in a particular social group or caste, ethnic group or gender
+  * 特定社会团体或阶级、种姓或性别
 
 
   #### Orange Organizations
