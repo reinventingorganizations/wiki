@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Innovation and Product Development
-name: Innovation and Product Development
+name: 创新与产品开发
 sortOrder: 2
 category: Important Processes
 intro: >-
