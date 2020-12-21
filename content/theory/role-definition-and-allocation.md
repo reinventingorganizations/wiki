@@ -213,4 +213,3 @@ relatedTheory:
   - Organizational Structure
   - Job Titles and Job Descriptions
 ---
-to be removed
