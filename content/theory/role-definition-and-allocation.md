@@ -40,7 +40,7 @@ perspective: >-
   #### 琥珀组织
 
 
-  Formal charts, hierarchies and titles are typical in [Amber organizations](../amber-paradigm-and-organizations/). Roles and promotions are based on formal processes. Power can be a function of:
+  [琥珀组织](../amber-paradigm-and-organizations/)的典型特征是，具有正式的结构图、等级和头衔。角色和晋升都基于正式流程。通过下列角度来体现特权：
 
 
   * The personal opinion of a higher ranking member
