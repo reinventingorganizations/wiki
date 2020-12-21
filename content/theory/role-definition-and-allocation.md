@@ -97,31 +97,31 @@ inPractice: >-
   *一对一对话*: 晨星采用正式的一对一合同制度。每个同事针对每个工作关系填写一份文件。因为晨星公司运行的是一个高效的不间断过程（每个阶段都依赖于其前后工程），所以需要精度。为了参加同事会议而停止生产线会降低工作效率。描述这些相互承诺的文件叫做同事共识书。全部内容汇总后，就囊括了组织内全部的角色和承诺的详细描述。这些其实就是成员通过跟与自己最密切合作的几位或前后两位同事谈判而商定的“合同”。合同都经过一对一的缜密精化和直接商定。因为微小的改进可能会产生显著的影响，所以需要定义大颗粒角色并密切跟踪指标。
 
 
-  #### How roles get allocated
+  #### 如何任命 角色
 
 
-  There can be various degrees of formality in the process of how roles are allocated to colleagues, but they all essentially involve peer consultation and agreement. Roles with more responsibility and scope (which typically are rewarded with higher compensation) tend to be given to colleagues who have built up a reputation to be capable, helpful and trustworthy.
+  为成员分派角色的流程，正规化程度在不同蔚蓝组织中各有不同。但基本上都涉及到同事协商和协议。责任更大、范围更广的职位（通常会得到更高的报酬）往往会被分配给那些，已经有良好声誉的同事，比如有能力、乐于助人和值得信赖
 
 
-  ##### Informal role allocation
+  ##### 非正式角色任命
 
 
-  When a new role is created, in many cases there is a obvious candidate that emerges naturally. It might be the person who sensed the need for the new role, or another team member that everyone sees as the natural person to fill the role. Often, very little discussion is needed. A simple question in a team meeting ("Who feels like taking on this role?" or "I feel Catherine would be the be the natural person to take on this role, what do you think?") is all that is needed.
+  当一个新岗位角色被创建时，通常会自然地出现一个明显的候选者。这可能是感觉到需要这个新角色而倡议建立的人，也可能是团队内的一个，让每个人都感到应该担任这个新角色的当然人选。通常很少需要讨论。团队会议上，只需要一个简单的提问（“谁愿意担任这个角色？”或者“我觉得凯瑟琳会是扮演这个角色的当然人选，你怎么看？”）。
 
 
-  ##### Formal role allocation
+  ##### 正式角色任命
 
 
-  In some cases, several candidates express heavy interest in the same role and a more formal process might be called for: 
+  在某些情况下有多个候选人对同一职位表现出浓厚兴趣，就可能需要履行更正式的程序：
 
 
-  * *Interviews*: Candidates may be interviewed by those who will work closely with them.  Interviewers can choose to decide on the winning candidate using a number of [decision making](../decision-making/) mechanisms, such as consensus, majority vote or the advice process. 
+  * *面试*: Candidates may be interviewed by those who will work closely with them.  Interviewers can choose to decide on the winning candidate using a number of [决策](../decision-making/) mechanisms, such as consensus, majority vote or the advice process. 
 
-  * *Elections*: [Sociocracy ](https://en.wikipedia.org/wiki/Sociocracy)and [Holacracy ](http://www.holacracy.org/)use a consent-based election process for certain roles. Colleagues nominate their preferred candidates. A facilitator then helps the group to decide.
+  * *选举*: [社区主义](https://en.wikipedia.org/wiki/Sociocracy)[ ](https://en.wikipedia.org/wiki/Sociocracy)和 [](http://www.holacracy.org/)[霍尔模式](https://www.holacracy.org/) 在决定某些角色时，会使用基于自愿的选举过程。同事提名自己喜欢的候选人。然后，由支持人协助小组做出自主决定。
 
-  * *Advice Process*: One person (for instance, the person who sensed the need for the new role, or someone others trust to lead this process well) steps forward and seeks advice for who would be the best person to fill a new role before making a decision.
+  * *建议流程*: One person (for instance, the person who sensed the need for the new role, or someone others trust to lead this process well) steps forward and seeks advice for who would be the best person to fill a new role before making a decision.
 
-  * *Designated Authority*: Allocating roles can be a role itself: in Holacracy, the "Lead Link" is a role that comes, among other, with the authority to allocate operational roles. 
+  * *指定权限*: Allocating roles can be a role itself: in Holacracy, the "Lead Link" is a role that comes, among other, with the authority to allocate operational roles. 
 
 
   #### Trading roles
