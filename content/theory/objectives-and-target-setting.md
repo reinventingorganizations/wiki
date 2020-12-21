@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Objectives and Target Setting
-name: Objectives and Target Setting
+name: 目标与指标设定
 sortOrder: 6
 category: People practices
 intro: >-
