@@ -167,14 +167,14 @@ inPractice: >-
   ##### *信任*
 
 
-  * We relate to one another with an assumption of positive intent.
+  * 我们是以积极意图互联的命运共同体（主权积分体）。
 
-  * Until we are proven wrong, trusting co-workers is our default means of engagement.
+  * 在证明确实有错之前，默认的互动方式是信任同事。
 
-  * Freedom and accountability are two sides of the same coin.
+  * 自由和守诺是一枚硬币的两面。
 
 
-  ##### *Information and decision making*
+  ##### *信息共享与决策*
 
 
   * All business information is open to all.
