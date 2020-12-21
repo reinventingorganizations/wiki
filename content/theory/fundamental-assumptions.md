@@ -238,23 +238,23 @@ inPractice: >-
   * 我们注重强项而不是弱点，关注机遇多于问题。
 
 
-  ##### *Relationships and conflict*
+  ##### *人际关系与冲突*
 
 
-  * It's impossible to change other people. We can only change ourselves.
+  * 改变别人是不可能的。我们只能改变自己。
 
-  * Every person has life lessons they are meant to learn by themselves. What we can do is be there to support each other in that process of personal change.
+  * 每个人都有自己的人生课程。我们只能是在个人自主改变的过程中互相支持。
 
-  * We take ownership for our thoughts, beliefs, words and actions.
+  * 我们对自己的思想、信仰、言行拥有主权和相应责任。
 
-  * We don't spread rumors. We don't talk behind someone's back.
+  * 我们不散布谣言。我们不在背后谈论别人。
 
-  * We resolve disagreements one-on-one and don't drag other people into the problem.
+  * 我们一对一地解决分歧，不把其他人拖入问题。
 
-  * We don't blame problems on others. When we feel like blaming, we take it as an invitation to reflect on how we might be part of the problem (and the solution).
+  * 我们不会把问题归咎于别人。当我们感觉到自己有想责怪别人的念头时，会把这看作一种邀请，让自己先反思一下，自己可能就是导致该问题（并带来解决方案）的一部分要素。
 
 
-  #### Evolutionary purpose
+  #### 进化目标
 
 
   To see the organization as having a life of its own, with a purpose of its own, is based on trust in the abundance of life and the ability to distance yourself from your ego:
