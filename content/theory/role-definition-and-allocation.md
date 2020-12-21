@@ -50,10 +50,10 @@ perspective: >-
   * 特定社会团体或阶级、种姓或性别
 
 
-  #### Orange Organizations
+  #### 橙色组织
 
 
-  Roles in [Orange ](../orange-paradigm-and-organizations/)are fixed, tied to a box in an organization chart, and documented in a “job description”. Many roles focus in part or whole on “managing” those below in the hierarchy. Thus roles are inevitably linked to seniority, title and promotion.
+  [橙色组织](../orange-paradigm-and-organizations/)中的固定岗位角色，都绑定在组织结构图的各个方框中，并记录在“职务描述”里。多数岗位角色的功能，都部分或全部集中于“管理”层之下。因此，角色与资历、头衔和晋升挂钩。
 
 
   Thus roles become interwoven with other activities like succession planning, job rotation and talent management. These are designed to groom "high potentials" for future management roles
