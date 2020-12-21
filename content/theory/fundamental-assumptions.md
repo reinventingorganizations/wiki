@@ -218,12 +218,12 @@ inPractice: >-
   * 我们舒心的欢迎关心、爱、服务、目标、灵魂等词汇出现在职场。
 
 
-  ##### *Overcoming separation*
+  ##### *克服身份分离感*
 
 
-  * We aim to have a workplace where we can honor all parts of us: the cognitive, the physical, emotional and spiritual; the rational and the intuitive, the feminine and the masculine.
+  * 我们的目标是打造一个让成员能尊重自己人性所有部分的职场：包括认知，身体，情感和精神全方位；理性和直觉，女性和男性。
 
-  * We recognize that we are all deeply interconnected, part of something bigger and that includes nature and all forms of life.
+  * 我们认识到，我们都是紧密联系的一个整体（主权积分体，命运共同体），都是那个包括大自然和其他各种生命形式在内的更伟大生命存在的一部分。
 
 
   ##### *Learning*
