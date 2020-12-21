@@ -5,10 +5,7 @@ key: Role Definition and Allocation
 name: 岗位定义与任务分派
 sortOrder: 9
 category: People practices
-intro: "This article describes how roles are defined and allocated in Teal
-  organizations.\r
-
-  \n"
+intro: 本文描述在蔚蓝组织中如何定义和分配岗位角色。
 perspective: >-
   In Teal organizations, members fill roles that are created, exchanged and
   discontinued in reponse to current needs. Documentation of these varies from
