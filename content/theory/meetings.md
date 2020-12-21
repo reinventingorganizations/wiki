@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Meetings
-name: Meetings
+name: 会议
 sortOrder: 2
 category: Daily practices
 intro: >-
