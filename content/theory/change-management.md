@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Change Management
-name: Change Management
+name: 变化管理
 sortOrder: 7
 category: Important Processes
 intro: >-
