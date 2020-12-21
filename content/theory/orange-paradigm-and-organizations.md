@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Orange Paradigm and Organizations
-name: Orange Paradigm and Organizations
+name: 橙色模式与组织
 sortOrder: 4
 category: history
 intro: >-
