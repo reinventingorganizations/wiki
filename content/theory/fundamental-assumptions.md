@@ -315,4 +315,3 @@ faq:
 relatedTheory:
   - Culture and Values
 ---
-to be removed
