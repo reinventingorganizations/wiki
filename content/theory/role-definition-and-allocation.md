@@ -136,7 +136,7 @@ inPractice: >-
   在蔚蓝组织中，虽然人们有明确的角色和责任，但成员关注点并不局限于这些角色的范围。人们往往更关注整个组织的利益。通过[建议流程](../decision-making/) ，任何人都可以在感觉到问题时采取行动。因为没有老板，所以没有人能说，“那不关你的事。”
 
 
-  [Morning Star](http://morningstarco.com/) talks about "total responsibility”. All colleagues are obliged to do something when they sense an issue, even if it’s outside the scope of their roles. That usually means talking about the problem or opportunity with a colleague whose role does relate to the topic. It’s considered unacceptable to say: “Somebody should do something about this problem”, and leave it at that.
+  [晨星](http://morningstarco.com/) 倡导“全面责任”。所有同事都有义务在感觉到问题时做些什么，即使那超出了他们的职责范围。这通常意味着与一位担任相关角色的同事共同讨论该课题或机遇。只是口头说“有人应该对这个问题做点什么”，却什么也不做，是不可接受的行为。
 faq:
   - question: Why do we need roles? Can't we work without formalizing any roles?
     answer: "By the very nature of the division of labor in organizations, people
