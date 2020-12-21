@@ -5,11 +5,8 @@ key: Culture and Values
 name: 文化与价值观
 sortOrder: 6
 category: Daily practices
-intro: >-
-  The topic of culture and values explore the different values, beliefs, ground
-  rules and the resulting cultures of Teal organizations as well as practices
-  for establishing and bringing culture and values to life.
-
+intro: |-
+  这里探讨各种蔚蓝组织的不同价值观、信念、基本规则及其孕育出来的蔚蓝组织文化。同时讨论将这些文化和价值观根植渗透生根开花的实践方法。
 
   ![](/media/tree.jpg)
 perspective: >-
