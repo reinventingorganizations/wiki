@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Evolutionary Purpose
-name: Evolutionary Purpose
+name: 进化目标
 sortOrder: 2
 category: teal-concepts
 intro: >-
