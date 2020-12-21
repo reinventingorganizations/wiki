@@ -85,13 +85,13 @@ inPractice: >-
   如果该蔚蓝组织是由单元团队组陈，那么进行这种角色管理对话的自然场所就是团队内部会议。如果有角色延伸到团队之外，发起人可以召集跨团队会议，进行数次一对一的沟通，或者在组织内部社交网络上分享建议。
 
 
-  ##### Formal role definition
+  ##### 正式角色定义
 
 
-  Other companies have formal processes for defining roles. Here are two: the first involving a team-based conversation, the other, one-to-one exchanges:
+  也有的蔚蓝公司制定了正式流程来定义角色。一般有两种方式：一种是基于团队对话，另一种是一对一交流：
 
 
-  *Team-based conversation*: Holacracy is an organizational "operating system", that uses specific "Governance meetings" dedicated to the creation, modification and cessation of roles. Usually these are held monthly. Every voice is heard and no one can dominate decision-making. Organizations using Holacracy find that every month a team will typically adapt, clarify, create, or discard roles. (Note: A person has multiple roles.)
+  *团队对话*: 霍尔模式是为一个组织提供的“操作系统”，霍尔模式运营一个专门用于创建、修改和停止角色的“治理会议”。通常每月举行一次。每个成员的声音都保证被听到，没有单个人能主宰决策。使用霍尔模式的组织发现，每个月都会有一个团队调整、澄清、创建或放弃角色。（注：一个人有多重角色。）
 
 
   *One-on-one conversations*: Morning Star uses a formal, one-on-one contracting system. Each colleague completes a document for every working relationship. Because Morning Star operates a highly efficient, non-stop process (in which each stage relies on the one before and after), precision is necessary. It would be inefficient to stop the line for a colleague conference. The document that describes these mutual commitments is called a Colleague Letter of Understanding. When summed, these detail all roles and commitments. In effect, these are "contracts", negotiated with the handful or two of colleagues they work with most closely. They are refined and agreed directly, one-on-one. Because minor improvements can have significant impacts, it makes sense to define roles with great granularity, and to track indicators closely.
