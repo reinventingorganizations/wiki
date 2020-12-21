@@ -158,13 +158,13 @@ inPractice: >-
   在创建一个蔚蓝组织时，选择合适的联合创始人是个至关重要的决策。如果组织要按照进化的蔚蓝原则运行，那么创始人是否愿意接受蔚蓝的运作方式是至关重要的。要准备花大量时间讨论这些话题——包括一些关于人和工作的基本假设。在组织还没有创建的时候，发起人就在塑造组织文化。
 
 
-  #### Self-managj'z'gjzg
+  #### 自我管理
 
 
-  To operate effectively – even at a large scale – with a system based on peer relationships, without the need for either hierarchy nor consensus, one relies on the following Teal principles. They in turn are based on the fundamental assumptions of Teal:
+  在不使用等级制度或共识的前提下，为了在基于同舟共济关系的蔚蓝系统中有效运作（包括大规模运作），我们需要遵循以下一些基于蔚蓝的基本假设：
 
 
-  ##### *Trust*
+  ##### *信任*
 
 
   * We relate to one another with an assumption of positive intent.
