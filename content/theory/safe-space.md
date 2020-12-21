@@ -1,7 +1,7 @@
 ---
 layout: article
 tags: theory
-key: Creating Safe Space
+key: 安全安心空间
 name: Safe Space
 sortOrder: 7
 category: Daily practices
