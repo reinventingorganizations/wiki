@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Budgeting and Controlling
-name: Budgeting and Controlling
+name: 预算与控制
 sortOrder: 5
 category: Important Processes
 intro: >-
