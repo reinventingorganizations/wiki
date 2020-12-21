@@ -177,11 +177,11 @@ inPractice: >-
   ##### *信息共享与决策*
 
 
-  * All business information is open to all.
+  * 所有商业信息对所有成员开放（包括财务信息和敏感信息）。
 
-  * Every one of us is able to handle difficult and sensitive news.
+  * 信任每个人都有能力淡定的处理棘手而敏感的消息（“坏”消息）。
 
-  * We believe in the power of collective intelligence. Nobody is as smart as everybody. Therefore all decisions will be made with the "[advice process](../decision-making/)".
+  * 我们相信集体智慧的力量。没有人比所有人都聪明。因此，所有的决策都通过集体智慧的 "[建议流程](../decision-making/)"出做出。
 
 
   ##### *Responsibility and accountability*
