@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Amber Paradigm and Organizations
-name: Amber Paradigm and Organizations
+name: 琥珀模式与组织
 sortOrder: 3
 category: history
 intro: >-
