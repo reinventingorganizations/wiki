@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Coordination
-name: Coordination
+name: 协作
 sortOrder: 3
 category: Structure of an organization
 intro: >-
