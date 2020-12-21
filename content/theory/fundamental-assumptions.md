@@ -192,18 +192,18 @@ inPractice: >-
   * 每个人都必须安心的无条件信任并敢于依靠他人的责任承诺，这种安心的信任感可以通过频繁反馈和基于敬意的指摘来磨合建立。
 
 
-  #### Wholeness
+  #### 整体人性
 
 
-  To bring your whole self to work, to be able to be whole in your relationship with others and with life and nature, you build on the following assumptions:
+  为了让成员的整个自我都能投入工作，让人性在与他人、与生命、与大自然的关系中保持完整，需要建立以下假设：
 
 
   ##### *Equal worth*
 
 
-  * We are all of fundamental equal worth.
+  * 我们的基本价值相同。
 
-  * At the same time, our community will be richest if we let all members contribute in their distinctive way. We appreciate the differences in roles, education, backgrounds, interests, skills, characters and points of view.
+  * 同时，如果能让所有成员都以自己独特的方式作出贡献，我们的社区将是最富有的。我们赞赏各种在角色、教育、背景、兴趣、技能、性格和观点上的差异。
 
 
   ##### *Safe and caring workplace*
