@@ -1,8 +1,8 @@
 ---
 layout: article
 tags: theory
-key: 安全安心空间
-name: Safe Space
+key: Safe Space
+name: 安全安心空间
 sortOrder: 7
 category: Daily practices
 intro: >-
