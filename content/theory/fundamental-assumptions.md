@@ -206,16 +206,16 @@ inPractice: >-
   * 同时，如果能让所有成员都以自己独特的方式作出贡献，我们的社区将是最富有的。我们赞赏各种在角色、教育、背景、兴趣、技能、性格和观点上的差异。
 
 
-  ##### *Safe and caring workplace*
+  ##### *安心、安全与关爱的职场*
 
 
-  * Any situation can be approached from fear and separation or from love and connection. We choose love and connection.
+  * 发生状况时，我们的选择的处理方式，既可以基于恐惧和分离的价值观，也可以基于爱与连接感。我们选择爱与连接。
 
-  * We strive to create emotionally and spiritually safe environments, where each of us can behave authentically.
+  * 我们努力打造一个情感和精神上都能感到安全安心的环境，以便让每个人都能表达真诚真实的行动。
 
-  * We honor the moods of love, care, appreciation, recognition, gratitude, curiosity, fun, playfulness…
+  * 我们尊重爱、关心、赞赏、认可、感激、好奇、有趣、好玩…六美德（赞赏感激，慈悲，宽恕，谦卑，勇气，理解）
 
-  * We are comfortable with vocabulary like care, love, service, purpose, soul,... in the workplace.
+  * 我们舒心的欢迎关心、爱、服务、目标、灵魂等词汇出现在职场。
 
 
   ##### *Overcoming separation*
