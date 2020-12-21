@@ -144,21 +144,21 @@ inPractice: >-
   例如，案例企业[AES](http://www.aes.com/) 每当收购一个新发电厂时，CEO都会向新同事介绍AES的管理实践，调研新入围企业代表性工厂的股东和经理，目前对其工人持有什么样的假设（详见：实践中）。
 
 
-  #### Practical tips:
+  #### 实践技巧:
 
 
-  1. Start by uncovering the unspoken assumptions behind the traditional hierarchical organizational (Amber/Orange) model.
+  1. 从揭示传统金字塔组织（琥珀色/橙色）模型背后那些未被名言的假设入手。
 
-  2. Don't do it alone - explore it together with your team.
-
-
-  #### Discussing the fundamental assumptions when starting up a teal organization
+  2. 不要一个人闭门造车，跟团队一起探索。
 
 
-  When starting up a Teal organization, choosing the right co-founders is a critical decision. If the organization is to run on Evolutionary-Teal principles, the founders' readiness to embrace Teal ways of operating are crucial. Be ready to spend a significant amount of time discussing these topics - including the fundamental assumptions on people and work. You are shaping the culture of your organization before it has even started.  
+  #### 创建蔚蓝组织时先讨论确立价值观和基本假设
 
 
-  #### Self-management
+  在创建一个蔚蓝组织时，选择合适的联合创始人是个至关重要的决策。如果组织要按照进化的蔚蓝原则运行，那么创始人是否愿意接受蔚蓝的运作方式是至关重要的。要准备花大量时间讨论这些话题——包括一些关于人和工作的基本假设。在组织还没有创建的时候，发起人就在塑造组织文化。
+
+
+  #### Self-managj'z'gjzg
 
 
   To operate effectively – even at a large scale – with a system based on peer relationships, without the need for either hierarchy nor consensus, one relies on the following Teal principles. They in turn are based on the fundamental assumptions of Teal:
