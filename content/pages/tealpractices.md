@@ -24,7 +24,7 @@ name: Key organizational structures and practices
 * [战略](/theory/strategy/)
 * [创新与产品开发](/theory/innovation-and-product-development/)
 * [营销与市场战略](/theory/sales-marketing/)
-* [进货与投资](/theory/purchasing-and-investments/)
+* [采购与投资](/theory/purchasing-and-investments/)
 * [预算与控制](/theory/budgeting-and-controlling/)
 * [环境与社会责任](/theory/environmental-and-social-management/)
 * [变化管理](/theory/change-management/)
