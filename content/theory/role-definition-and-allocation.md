@@ -124,16 +124,16 @@ inPractice: >-
   * *指定权限*: 角色任命职能也可以呗被定义成一个岗位：在霍尔模式中，一线团队中的“领导链接”就是个这样的角色。“领导链接”除了其他一些职能外，也具有角色任命权限。
 
 
-  #### Trading roles
+  #### 岗位交换
 
 
-  Because roles are granular, it is easy to trade roles within a team. A person who is overly busy can ask someone to pick up one of his or her roles, either temporarily or permanently. Someone who wants to acquire a new skill can ask a colleague to trade a role. HolacracyOne has a "role market place" to facilitate this process.
+  因为蔚蓝岗位角色是细颗粒的，所以在团队中交换角色非常容易。一个过于忙碌的人可以要求某人临时或永久的接任自己的某个兼任角色。想要获得新技能的人（为了学习）可以要求同事交换不同类型的角色。案例的霍尔万还专门安排了一个“角色市场”来促进这个过程。
 
 
-  #### Scope of responsibility
+  #### 责任范围
 
 
-  In Teal Organizations, while people have clear roles and responsibilities, their concerns need not be limited to these. They can take the well-being of the whole organization to heart. Then, via the [advice process](../decision-making/), anyone can take action if they sense an issue. As there are no bosses, there is no one to say, “That is none of your business.”
+  在蔚蓝组织中，虽然人们有明确的角色和责任，但成员关注点并不局限于这些角色的范围。人们往往更关注整个组织的利益。通过[建议流程](../decision-making/) ，任何人都可以在感觉到问题时采取行动。因为没有老板，所以没有人能说，“那不关你的事。”
 
 
   [Morning Star](http://morningstarco.com/) talks about "total responsibility”. All colleagues are obliged to do something when they sense an issue, even if it’s outside the scope of their roles. That usually means talking about the problem or opportunity with a colleague whose role does relate to the topic. It’s considered unacceptable to say: “Somebody should do something about this problem”, and leave it at that.
