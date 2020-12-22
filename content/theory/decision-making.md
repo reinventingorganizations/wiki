@@ -63,10 +63,10 @@ inPractice: >-
   很多组织的实践已经证明此流程非常有效。这为每个人提供了掌握权力的机会。权力不再是一个零和游戏。通过建议流程，在集体智慧支撑下每个人都变得强大起来。
 
 
-  #### It's not consensus
+  #### 建议并非共识
 
 
-  We often imagine decisions can be made in only two ways: either by the person with authority (someone calls the shots; some people might be frustrated; but at least things get done), or by unanimous agreement (everyone gets a say, but it can be frustratingly slow).
+  我们通常以为，决策只有两种方式：要么由有权有势的人（有人说了算，这可能让有些人感到沮丧；但至少事情会完成），要么是一致同意（每个人都有发言权，但决策速度可能慢得令人沮丧）。
 
 
   It is a misunderstanding that self-management decisions are made by getting everyone to agree, or even involving everyone in the decision. The advice seeker must take all relevant advice into consideration, but can still make the decision. 
