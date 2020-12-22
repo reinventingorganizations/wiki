@@ -40,18 +40,18 @@ perspective: >-
   在[绿色组织](../green-paradigm-and-organizations/)中，有时会以牺牲效率或成果为代价换取和谐的关系。组织的共同价值观是社区、沟通、协作、共识、和谐、宽容、正直、尊重、开放和平等。重视在授权基础上创造伟大的职场文化，以提高员工的积极性。虽然绿色组织通常建立在传统的等级模型和结构之上，但这种文化并不喜欢权力和等级制度。采用参与式和服务式领导方法，其价值在于促进自下而上的协作过程，发展共同的价值观，以及一种让人们感到受到重视和有权作出贡献的文化。橙色模式的主流比喻是“家庭”。橙色组织经常把自己的价值观作为一种口头上的营销宣传但没有渗透，绿色组织则真正的拥抱了价值观并以此为生活指南。
 
 
-  ##### Teal organizations
+  ##### 蔚蓝组织
 
 
   [蔚蓝组织 ](../teal-paradigm-and-organizations/)致力于创建高效的组织，激励人们在工作中做一个或成长为一个完整的人。蔚蓝组织的文化，不是根据创立者和领导者的个人假设、规范和关切来塑造，而是根据组织的特定背景和[目标](https://reinventingorganizations-wiki.netlify.app/theory/evolutionary-purpose/)而自然呈现出来。对蔚蓝组织的隐喻是“有生命的系统”。因此，组织应该具有自己的、可以随着时间推移而发展的自主身份和文化。文化和价值观跟结构与过程有机的结合在了一起。
 inPractice: >-
-  #### Establishing values and ground rules
+  #### 打造价值观和基本原则
 
 
-  ##### *Defining a set of values*
+  ##### *定义价值观体系*
 
 
-  Many organizations find it helpful to define a set of values. In [Teal organizations](../teal-paradigm-and-organizations/), those values, together with [purpose](../evolutionary-purpose/), are at the very core of the organization' s culture, influencing most behaviors and processes. Those values often stem from the founder's vision, and are typically collectively defined. Values and related ground rules are not fixed, they are openly discussed and amended so that they remain a faithful reflection of what people in the organization live and believe in. Some organizations set out a simple set of common beliefs, or assumptions about human endeavor and behavior.
+  很多组织都知道，定义价值观体系很有帮助。在[蔚蓝组织](../teal-paradigm-and-organizations/) those values, together with [purpose](../evolutionary-purpose/), are at the very core of the organization' s culture, influencing most behaviors and processes. Those values often stem from the founder's vision, and are typically collectively defined. Values and related ground rules are not fixed, they are openly discussed and amended so that they remain a faithful reflection of what people in the organization live and believe in. Some organizations set out a simple set of common beliefs, or assumptions about human endeavor and behavior.
 
 
   ##### *Ground rules for safe space*
