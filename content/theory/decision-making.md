@@ -5,11 +5,8 @@ key: Decision Making
 name: 决策
 sortOrder: 3
 category: Daily practices
-intro: >-
-  The topic of decision-making discusses how decisions are made within
-  organizations, and by whom. In Teal organizations, decision-making authority
-  is truly distributed throughout the organization.
-
+intro: |-
+  此主题讨论由谁以及如何在组织内做出决策。在蔚蓝组织中，决策权真正的分布在整个组织中。
 
   ![](/media/decision.jpg)
 perspective: >-
