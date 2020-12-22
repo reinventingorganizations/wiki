@@ -20,13 +20,13 @@ perspective: >-
   #### 红色组织
 
 
-  在[红色组织](../red-organizations/), the organization's short term planning horizon and its reactive nature makes it familiar with crises. Decisions can be made on a whim and are passed down to employees from above by using the Red breakthrough of command authority.
+  在[红色模式](../red-organizations/)中，组织的特点是只有短期规划视角，但可以敏捷反应，这有助于处理危机。领导可以在突发奇想的情况下做出决策，并通过红色模式的标签突破--指挥权将决策下发传递给员工。
 
 
-  #### Amber Organizations
+  #### 琥珀组织
 
 
-  In the [Amber paradigm](../amber-paradigm-and-organizations/), the organization is more stable and predictable.  Processes and procedures define the way things are done. It is assumed that workers need direction.  In the unpredictable realm of crisis, the CEO and highest management make decisions which are then translated into orders for those further down the hierarchy. They are expected to follow without question.
+  在[琥珀模式](../amber-paradigm-and-organizations/), the organization is more stable and predictable.  Processes and procedures define the way things are done. It is assumed that workers need direction.  In the unpredictable realm of crisis, the CEO and highest management make decisions which are then translated into orders for those further down the hierarchy. They are expected to follow without question.
 
 
   #### Orange Organizations
