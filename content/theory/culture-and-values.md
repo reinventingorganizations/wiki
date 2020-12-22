@@ -63,10 +63,10 @@ inPractice: >-
   案例: [RHD](http://www.rhd.org/)的责权清单，[晨星](http://www.morningstarco.com/)的同事守则，[法维](http://www.favi.com/)的词条，或[霍尔](https://www.holacracy.org/)的的宪法。这些文档提供了一个打造安全高效职场的愿景。这些内容为同事们提供用来探讨健康人际关系的方言语境，并且在可接纳与不可接纳行为之间划出分水岭。
 
 
-  Some startups find it important to draft a full version of such a document early on. Others will develop one as they grow. Organizations make sure they are written collectively so that they are full owned by all the people.
+  一些新创业公司发现，尽早定义这样一套完整愿景的草案非常重要。另外一些则选择在成长中逐步完善这类愿景。这些组织都注意到这些愿景需要成员集体参与制定，这样才能完全属于全体成员。
 
 
-  #### Bringing values to life
+  #### 让价值观活起来
 
 
   [Teal organizations](../teal-paradigm-and-organizations/) understand it takes more than a plaque on the wall to bring values and ground rules to life. They spend a significant amount of time and energy on training and involving everyone in a continuous process of revisiting them. Some examples of keeping values alive are:
