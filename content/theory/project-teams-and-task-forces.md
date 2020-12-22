@@ -33,10 +33,10 @@ inPractice: >-
   在蔚蓝组织中，只要项目团队或任务组支持组织进化目标的特定部分，就能存在。当它没有支持组织目标就会枯萎、死亡，或者转变成另外一个新项目。团队成员根据他们认为最重要、最紧急或最有趣的事情来优先考虑自己是否参与。如果一个项目的创立者不能激励人们做出贡献，就应该扪心自问：我的项目是否符合组织的目标？是否另一个项目吸引了本来是我需要的人？如果是这样，我如何考虑让这两个项目相互支持？
 
 
-  #### Radically simplified project management
+  #### 从根本上简化项目管理
 
 
-  In Teal organizations, there are no project or program managers, no software systems or Gantt charts to organize or control the various projects underway. There is minimal project budgeting, no master plan and rarely a timeline. A huge amount of time is freed by dropping all the formalities of project planning— writing the plan, getting approval, reporting on progress, explaining variations, rescheduling, and re-estimating, not to mention the politics that go into securing resources for one’s project or to find someone to blame when projects are over time or over budget.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 1924-1927). Nelson Parker. Kindle Edition.]
+  在蔚蓝组织中，不存在负责组织或控制正在进行中各种项目的项目经理或管理项目，或软件系统或甘特图。只存在最低限度的项目预算，没有总计划，很少有时间表。取消了传统项目规划的所有手续——编写计划、获得批准、报告进度、解释变更、重新安排和重新估算。这可以节约大量的时间，更不用耍手腕去为自己的项目争取资源，或在项目超过时间或超出预算时找人推卸责任。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 1924-1927). Nelson Parker. Kindle Edition.]
 
 
   #### Fluid physical space
