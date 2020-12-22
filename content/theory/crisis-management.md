@@ -58,13 +58,13 @@ inPractice: >-
   通过建议（咨询）流程进行危机管理是[自我管理](https://cn.reinventingorganizationswiki.com/theory/self-management/)的终极体现。在危机中，敏感和紧急的决策可能会对员工和整个组织产生负面影响：例如，失业或出售部分业务。
 
 
-  It is natural, given the earlier organization models, to question the capacity of staff to be included in making decisions in such sensitive circumstances.
+  在早期的组织模式中，人们往往会质疑中层管理人员在这种敏感情况下参与决策的能力。
 
 
-  A leader of a Teal organization is challenged to trust in the advice process anyway. They risk the unknown reaction of the employees, and the potential for things to descend into chaos or adversarial exchanges. However, when the advice process is not used, there is a risk of losing the trust of the employees by doubting their ability to resolve the situation. When employees are fully engaged with the advice process in a crisis, they are asked to share responsibility for difficult decisions and trusted to make a contribution. This is empowering and helps the organization to grow.
+  蔚蓝组织的领导者无论如何都会信任这个建议流程。他们甘愿冒着面对员工意外反应的风险，甚至冒着交流过程陷入混乱或争执的风险，也坚持这种做法。如果不使用建议流程，则有可能因怀疑成员解决问题的能力而失去员工的信任。当成员在危机中全身心投入到咨询流程中时，其实自动分担了艰难决策的责任，也得到信任并做出贡献。这种赋能做法可以促进个人和组织的成长。
 
 
-  See [FAVI](http://www.favi.com/) and [Buurtzorg](http://www.buurtzorgnederland.com/) below.
+  具体参见下面案例章节的[法维](http://www.favi.com/)和[布尔佐格](http://www.buurtzorgnederland.com/)。
 
 
   #### Suspending the advice process
