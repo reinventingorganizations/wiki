@@ -48,10 +48,10 @@ inPractice: >-
   西雅图游戏开发商 [沃夫](https://www.valvesoftware.com/hu/)，所有员工都有带轮子的办公桌。他们因加入或离开某个项目而在办公室内转来转去。该公司甚至设计了一个内网应用程序，方便同事们更容易找到彼此。它会实时显示一张办公室地图，显示人们在哪里插上了电脑。^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 85-6]
 
 
-  #### Task forces instead of formal staff departments
+  #### 工作队替代固定管理部门
 
 
-  In Teal companies, voluntary task forces are often used to perform tasks typically carried out by traditional staff departments. This has multiple benefits: Employees can find ways to express talents and gifts their primary role might not call for. They can develop areas of expertise that can then be shared with others in the organization. Task forces are also formidable learning opportunities; people pick up technical and leadership skills from more experienced colleagues in a modern-day form of apprenticeship.^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 90] See also Staff Functions
+  蔚蓝组织经常通过志愿工作队去执行通常由传统管理部门执行的任务。这有多方面的好处：成员可以据此找到途径，表达自己主要岗位角色用不到的才能和天赋。他们可以开发专业领域，然后与组织中的其他人共享。特别工作组也是惊人的学习机会：人们通过现代学徒制从更有经验的同事那里学习技术和领导技能。^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 90] 具体参见管理职能。
 faq:
   - question: Doesn’t this lead to chaos?
     answer: Teal organizations trust the collective intelligence of the system.
