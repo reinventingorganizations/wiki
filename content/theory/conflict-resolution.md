@@ -44,7 +44,7 @@ perspective: >-
   #### **绿色组织**
 
 
-  [绿色模式](../green-paradigm-and-organizations/)again uses a classical pyramid structure, but with a stronger focus on empowerment. Green organizations have values-based cultures that include principles of integrity, respect, and openness. There is a large investment in fostering collaboration, communication, problem solving and drafting agreements that meet underlying needs. These processes can sometimes remove the source of conflict. When they do arise, conflicts can take a long time to resolve as groups seek to find a harmonious solution. However, the boss is usually the final arbiter in conflict situations.
+  [绿色模式](../green-paradigm-and-organizations/)依然使用经典的金字塔结构，但更注重授权。绿色组织有基于价值观的文化，包括正直、尊重和开放等原则。在促进合作、沟通、解决问题和起草满足基本需求的协议方面，投入大量精力。这些流程有时能消除冲突的根源。但当冲突真的出现时，可能需要很长时间才能解决，因为绿色寻求群体和谐与全员一致通过的解决方案。不过，硬性冲突通常最后还是由老板来解决。
 
 
   #### **Teal organizations**
