@@ -87,13 +87,13 @@ inPractice: >-
   建议流程让自我管理得以蓬勃发展。在AES公司首次引入了这种做法的Dennis Bakke（他写了两本书）指出这个流程的主要优势：有助于打造社区、培育谦逊、有助于学习成长和更好的决策，又很开心。
 
 
-  * **Community**: it draws people, whose advice is sought into the question at hand. They learn about the issue. The sharing of information reinforces the feeling of community. The person whose advice is sought feels honored and needed.
+  * **社区**: 就手头课题寻求人们的建议，能吸引人们的关注。让人们通过这个问题得到学习机会。信息共享加强了社区感觉。被征求意见的人感到荣幸和被需要。
 
-  * **Humility**: asking for advice is an act of humility, which is one of the most important characteristics of a fun workplace. The act alone says, "I need you“. The decision maker and the adviser are pushed into a closer relationship. This makes it nearly impossible for the decision-maker to ignore the advice.
+  * **谦卑**: 征求意见是一种谦虚的行为，这是一个愉快职场最重要的特征之一。单是行为本身就在说“我需要你”。决策者和咨询顾问之间的关系会越来越密切。这让决策者几乎不可能忽视某个建议。
 
-  * **Learning**: making decisions is on-the-job education. Advice comes from people who have an understanding of the situation and care about the outcome. No other form of education or training can match this real-time experience.
+  * **学习**: 决策过程是一种在职教育。建议来自于了解情况并关心结果的人。没有其他形式的教练或培训能与这种实时体验相媲美。
 
-  * **Better decisions**: chances of reaching the best decision are greater than under conventional top-down approaches. The decision maker has the advantage of being closer to the issue and has to live with responsibility for the consequences of the decision. Advice provides diverse input, uncovering important issues and new perspectives.
+  * **优质决策**: 与传统的自上而下的方法相比，这个做法得出最佳决策的机会更大。决策者的优势是更接近问题，并且必须对决策的后果承担责任。而建议内容能提供不同的输入，揭示重要问题和新的观点。
 
   * **Fun**: the process is just plain fun for the decision-maker, because it mirrors the joy found in playing team sports. The advice process stimulates initiative and creativity, which are enhanced by the wisdom from knowledgeable people elsewhere in the organization.
 
