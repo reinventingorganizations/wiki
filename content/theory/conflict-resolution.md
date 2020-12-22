@@ -38,7 +38,7 @@ perspective: >-
   #### **橙色组织**
 
 
-  在[橙色模式](../orange-paradigm-and-organizations/), there is also a hierarchical structure, but management is by objective (definition of the what; with more freedom on the how). In many Orange organisations, although there are formal conflict resolution procedures, conflict is often not well adressed. Although individuals are often encouraged to resolve disagreements by themselves, conflict may often need to be settled by intervention from a third party. This is most often done by referring the issue to the boss or by deferring to HR policies and procedures. These procedures create a level of objective independence from the those in conflict.
+  在[橙色模式](../orange-paradigm-and-organizations/), 中，虽依然存在着层级结构，但开始采用面向目标的管理（只定义什么；在如何做角度给部下更多的自由）。在许多橙色组织中，虽然有正式的冲突解决程序，但冲突往往得不到良好解决。虽然经常鼓励成员自己去解决分歧，但事实上冲突往往需要通过第三方的干预来解决。一般通过将问题提交给上司，或遵循人力资源规则和流程来完成。这些解决程序一般能给出一定程度上的、中立于冲突双方的第三方客观见解。
 
 
   #### **Green organizations**
