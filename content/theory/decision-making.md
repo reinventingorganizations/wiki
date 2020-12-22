@@ -51,7 +51,7 @@ inPractice: >-
   几乎所有的[ 蔚蓝组织](../teal-paradigm-and-organizations/)都以某种形式采用了早期先锋 ([AES](http://www.aes.com/)) 最早提出的“建议流程”。
 
 
-  It comes in many forms, but the essence is consistent: any person can make any decision after seeking advice from 1) everyone who will be meaningfully affected, and 2) people with expertise in the matter.
+  此流程有很多种形式，但本质是一致的：任何人都可以在征求 1）所有会受到有直接或深度影响的人，以及2）在这件事上有专长者的建议后，作出任何决定。
 
 
   Advice received must be taken into consideration. The point is not to create a watered-down compromise that accommodates everybody’s wishes. It is about accessing collective wisdom in pursuit of a sound decision. With all the advice and perspectives the decision maker has received, they choose what they believe to be the best course of action.
