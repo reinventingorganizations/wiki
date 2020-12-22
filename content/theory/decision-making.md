@@ -155,17 +155,17 @@ inPractice: >-
   在组织初次导入建议流程时，创始人和/或首席执行官需要成为榜样。权力最初掌握在组织领导手中，并且不能魔法般的一下子就分配下去—— [成功分配领导权需要细心而积极的努力](https://medium.com/enspiral-tales/how-to-grow-distributed-leadership-7f6b25f0361c)。通过角色模板的塑造（打个样），其他人会从他们的行为中获得线索。 
 
 
-  Role modeling can take several forms: 
+  角色模板可以采取多种形式：
 
 
-  * When you want to make a decision, pause and ask: Am I the best person for this decision? (That is, the person most closely linked to the decision, or the person with most energy, skill, and experience to make it?). If not, ask the person you think is better placed to take the initiative. If he/she doesn't want to, you might be best placed after all.
+  * 当你想做决定时，就停下来问：我是做这个决定的最佳人选吗？（也就是说，自己是与该决策最密切相关的人，还是最有精力、技能和经验来做出决定的人？）。如果不是，那就让一个你认为更适合做这个决定的人负责。如果他/她不想，那么你可能就是最好的人选。
 
-  * If you are the right person to make a decision, identify those from whom you should seek advice. Approach them and explain what you are doing. ("I'm playing by the advice process. Here is an opportunity I see. This is the decision I propose to take. Can you give me your advice?"). You can also share who else you are asking for advice. Once you've received advice and made your decision, inform those you consulted (and anyone else who should know).
+  * 如果你是做出决定的正确人选，下面就是确定应该向哪些人寻求建议。然后主动找他们解释你在做什么。（“我是在按建议流程行事。我看到了一个机会。这是我提议的决定。你能给出你的建议吗？”）。你也可以跟该同事分享一下，你计划征求意见的人还有谁。一旦你收到了建议并做出了决定，要把决定内容告知那些你咨询过的人（以及其他任何应该知道的人）。
 
-  * When colleagues ask you to make a decision ("What should I do?"), instead ask them "What is your proposed decision?". In the same vein, state clearly that you no longer give approval for decisions. Instead, share your advice and suggest who else to ask. Remind them the decision is theirs.
+  * 当同事要求你做决定时（“我该怎么做？”），你先反问他们“你的建议是什么？”。同时要清楚地表明，同事的各种决定不再需要你来批准。你只是分享自己的建议并给他推荐一些可以去征求意见的人选。但时刻提醒他们（来问的同事），决定权在他们自己。
 
 
-  For many leaders, unlearning the habit of making all the decisions is hard. It requires commitment and mindfulness. If you find yourself falling into the old pattern, take the opportunity to acknowledge your mistake, and restate the importance of the process. This can turn a mistake into a powerful learning moment. Better habits are formed through repeated practice.
+  对于许多领导者来说，要忘记“自己要做所有的决定”这个习惯是很难的。这需要承诺和觉察。如果你发现自己陷入了旧模式中，就要抓住机会承认自己的错误，并重申这个分散决策流程的重要性。这可以把一个错误变成一个强有力的学习时刻。好的习惯是通过反复练习养成的。
 
 
   ### Consent-based decision making
