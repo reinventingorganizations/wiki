@@ -80,13 +80,13 @@ inPractice: >-
   * 决策权交给有能力的人而不是领导者
 
 
-  具体参见下列案例中的[AES](https://www.aes.com/) 。
+  具体参见下列案例中的[AES](https://www.aes.com/)。
 
 
-  #### Self-management
+  #### 自我管理
 
 
-  Dealing with a crisis via the advice process is a key test of self management. Leaders are asked to suspend any desire to take charge and trust the workforce to deliver effective solutions. There is an underlying belief that employees are responsible, committed and capable.
+  通过建议流程（询问成员）处理危机是自我管理的一个关键考验。要求领导者们停止任何想要掌控全局的想法，并相信成员们能够提供有效的解决方案。蔚蓝组织普遍认为成员都是有责任心、信守承诺和有能力的。
 
 
   #### Wholeness
