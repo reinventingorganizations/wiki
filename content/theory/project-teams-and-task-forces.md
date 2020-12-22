@@ -39,10 +39,10 @@ inPractice: >-
   在蔚蓝组织中，不存在负责组织或控制正在进行中各种项目的项目经理或管理项目，或软件系统或甘特图。只存在最低限度的项目预算，没有总计划，很少有时间表。取消了传统项目规划的所有手续——编写计划、获得批准、报告进度、解释变更、重新安排和重新估算。这可以节约大量的时间，更不用耍手腕去为自己的项目争取资源，或在项目超过时间或超出预算时找人推卸责任。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 1924-1927). Nelson Parker. Kindle Edition.]
 
 
-  #### Fluid physical space
+  #### 流动的物理空间
 
 
-  In companies where Teal projects and task forces are standard, the architectural layout may be designed to support a fluid structure. The office at Sun Hydraulics is a big open space with custom-designed cubicles that go only waist high. At a glance, people can see who is there and can overhear many conversations. It greatly improves collaboration, colleagues say.
+  在蔚蓝组织内，如果其项目和工作组都是标准的，就可以设计一个构造布局来支持一种灵活流动的空间结构。太阳液压的办公室是一个很大的开放空间，隔版只有齐腰高。人们可以一目了然，看到谁在哪里，能偷听到许多对话。同事们说，这极大地促进了协作。
 
 
   At [Valve](https://www.valvesoftware.com/hu/), a Seattle game developer, all employees have desks on wheels. They roll their desks around depending on the projects they join or leave. The company has even designed an intranet app so colleagues could locate each other easily. It displays an office map, in real-time, showing where people have plugged in their computers.^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 85-6]
