@@ -35,10 +35,10 @@ perspective: >-
   管理冲突的方法是回避或抑制。掌权者独裁的制定规则，并通常通过律法性行为保障执行。这个类型的组织通常制定强大的人力资源流程，用来管理成员和雇主之间的冲突和不满。
 
 
-  #### **Orange organizations**
+  #### **橙色组织**
 
 
-  In the [Orange paradigm](../orange-paradigm-and-organizations/), there is also a hierarchical structure, but management is by objective (definition of the what; with more freedom on the how). In many Orange organisations, although there are formal conflict resolution procedures, conflict is often not well adressed. Although individuals are often encouraged to resolve disagreements by themselves, conflict may often need to be settled by intervention from a third party. This is most often done by referring the issue to the boss or by deferring to HR policies and procedures. These procedures create a level of objective independence from the those in conflict.
+  在[橙色模式](../orange-paradigm-and-organizations/), there is also a hierarchical structure, but management is by objective (definition of the what; with more freedom on the how). In many Orange organisations, although there are formal conflict resolution procedures, conflict is often not well adressed. Although individuals are often encouraged to resolve disagreements by themselves, conflict may often need to be settled by intervention from a third party. This is most often done by referring the issue to the boss or by deferring to HR policies and procedures. These procedures create a level of objective independence from the those in conflict.
 
 
   #### **Green organizations**
