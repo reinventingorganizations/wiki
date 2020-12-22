@@ -48,7 +48,7 @@ inPractice: >-
   ### The advice process
 
 
-  Almost all [Teal organizations](../teal-paradigm-and-organizations/) use, in one form or another, what an early practitioner ([AES](http://www.aes.com/)) called the “advice process.” 
+  几乎所有的[ 蔚蓝组织](../teal-paradigm-and-organizations/)都以某种形式采用了早期先锋 ([AES](http://www.aes.com/)) 最早提出的“建议流程”。
 
 
   It comes in many forms, but the essence is consistent: any person can make any decision after seeking advice from 1) everyone who will be meaningfully affected, and 2) people with expertise in the matter.
