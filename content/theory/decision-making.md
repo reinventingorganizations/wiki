@@ -34,7 +34,7 @@ perspective: >-
   [橙色模式](../orange-paradigm-and-organizations/)认为组织是需要“调整”才能提高效率的机器。由高层管理者宣布总体方向或战略，然后目标逐级下达。中层管理者根据自己的任务目标，制定计划并寻求批准。这些计划引导着决策朝着实现目标（例如利润和市场份额）的方向发展。也会邀请团队成员提出建议并参与决策过程。目的是鼓励创新和辩论。组织的首要目标是保障可预测性和可控制性。
 
 
-  #### Green organizations
+  #### 绿色组织
 
 
   Values-driven, purpose-led [Green organizations](../green-paradigm-and-organizations/) strive to serve multiple stakeholders. Front-line employees, for example, are often encouraged to make significant decisions without higher approvals in the interests of serving customers and the wider stakeholder community. They are in touch with the day-to-day issues, and trusted to devise better solutions than ‘experts’ who may be far away. Emphasis is on maintaining a strong, often “familial”, culture. Consensus is highly valued.
