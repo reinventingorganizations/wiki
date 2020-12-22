@@ -31,13 +31,13 @@ perspective: >-
   ##### 橙色组织
 
 
-  在[橙色组织](../orange-paradigm-and-organizations/) the underlying values are success, innovation, effectiveness, competing/winning, profit and recognition. This worldview is materialistic and rationality is highly valued. Only what can be seen and touched is real. The organizational metaphor is a ‘machine’. The culture can become highly professional, rational and sometimes soulless. Change is welcome provided it contributes to increased performance. Cross-organisation collaboration is valued and encouraged to speed up innovation and change. Management is strategic and focused on results rather than how to achieve them. Individual competence, results and achievements are valued and incentivized. Progression is based on merit rather than social standing or rank. 
+  在[橙色组织](../orange-paradigm-and-organizations/)中，基本价值观是成功、创新、有用、竞争/胜利、利润和认可。这是拜金的唯物主义世界观，理性受到高度重视。只有物质层面看得见摸得着的事物才是真的。组织的隐喻是一台“机器”。认为文化可以变得高度专业化、理性化，有时甚至不需要灵魂。只要有助于提高绩效，就欢迎变革。为了加快创新和变革，重视并鼓励跨组织合作。重视战略管理，注重成果而不是实现过程。个人能力、成果和成就受到重视和激励。职位提升是基于实际功绩而不是社会阶级或地位。
 
 
-  ##### Green organizations
+  ##### 绿色组织
 
 
-  In [Green organizations](../green-paradigm-and-organizations/) relationships are valued sometimes at the expense of outcomes. Community, communication, collaboration, consensus, harmony, tolerance, integrity, respect, openness and equality are common values. Focus is on creating great workplace culture based on empowerment in order to boost employees' motivation. Although Green organizations are most often built on the traditional hierarchical model and structures, the culture is ill at ease with power and hierarchy. Participative and servant leadership approaches are valued to foster collaborative bottom up processes, developing shared values and a culture where people feel valued and empowered to contribute. The guiding metaphor is ‘family’. Whereas Orange organizations often use their values as a marketing tool, Green organizations embrace and live by them. 
+  在[绿色组织](../green-paradigm-and-organizations/)中，有时会以牺牲效率或成果为代价换取和谐的关系。组织的共同价值观是社区、沟通、协作、共识、和谐、宽容、正直、尊重、开放和平等。重视在授权基础上创造伟大的职场文化，以提高员工的积极性。虽然绿色组织通常建立在传统的等级模型和结构之上，但这种文化并不喜欢权力和等级制度。采用参与式和服务式领导方法，其价值在于促进自下而上的协作过程，发展共同的价值观，以及一种让人们感到受到重视和有权作出贡献的文化。橙色模式的主流比喻是“家庭”。橙色组织经常把自己的价值观作为一种口头上的营销宣传但没有渗透，绿色组织则真正的拥抱了价值观并以此为生活指南。
 
 
   ##### Teal organizations
