@@ -128,9 +128,9 @@ inPractice: >-
   如果某个决策影响人数较多时，或人们没有机会见面，可以通过互联网建议流程做出决定。
 
 
-  * The decision-maker can post a proposal on the company blog and call for comments or invite email responses and then process the advice they receive.
+  * 决策者可以在公司的博客上发布一个建议，征求点评意见或邀请电子邮件回应，然后处理所收到的建议。
 
-  * The organization can use decision-making software like [Loomio](https://www.loomio.org/), a free and open-source tool. The process for using the advice process on [Loomio](https://www.loomio.org/): start a discussion to frame the topic and gather input, host a proposal so everyone affected by the issue can voice their position, and then the final decision-maker specifies the outcome (automatically notifying the whole group).
+  * 组织可以使用像Loomio这样的决策软件，这是个免费的开源工具。在Loomio上使用建议流程的过程是：启动一个讨论以确定主题并收集意见，然后主持一个提案池，以便受问题影响的每个人都能表达自己的立场，然后最终决策者确定结果（自动通知整个小组）。
 
 
   #### Underlying mindsets and training
