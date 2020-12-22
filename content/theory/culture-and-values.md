@@ -51,7 +51,7 @@ inPractice: >-
   ##### *定义价值观体系*
 
 
-  很多组织都知道，定义价值观体系很有帮助。在[蔚蓝组织](../teal-paradigm-and-organizations/) 中，这些价值观和[目标](../evolutionary-purpose/) are at the very core of the organization' s culture, influencing most behaviors and processes. Those values often stem from the founder's vision, and are typically collectively defined. Values and related ground rules are not fixed, they are openly discussed and amended so that they remain a faithful reflection of what people in the organization live and believe in. Some organizations set out a simple set of common beliefs, or assumptions about human endeavor and behavior.
+  很多组织都知道，定义价值观体系很有帮助。在[蔚蓝组织](../teal-paradigm-and-organizations/) 中，这些价值观和[目标](../evolutionary-purpose/)成为组织文化的根本核心，影响着组织的多数行为和流程。这些价值观一般源于缔造者的愿景，通常会通过集体智慧来定义。价值观及其相关的基本规则并不是僵化固定的，这些都很开放，会被持续的讨论和改善，以保障这些内容一直能真实的反应该组织内人们的生活与信念。有些组织还定义了一套简洁的纲领，主要是关于人性的努力与行为的共识信念或假设。
 
 
   ##### *Ground rules for safe space*
