@@ -11,16 +11,16 @@ intro: >-
 
   ![](/media/crisis.jpg)
 perspective: >-
-  In a Teal organization, everyone is involved in decision making to allow the
-  best response to emerge from collective intelligence. 
-
-  Every historical stage has given birth to a distinct perspective on Crisis Management, and to very different practices:
+  在蔚蓝组织中，每个人都参与决策、能依靠集体智慧产生最佳反应。
 
 
-  #### Red Organizations
+  人类组织在每个历史阶段都产生了对危机管理的不同看法，以及截然不同的做法：
 
 
-  In the [Red paradigm](../red-organizations/), the organization's short term planning horizon and its reactive nature makes it familiar with crises. Decisions can be made on a whim and are passed down to employees from above by using the Red breakthrough of command authority.
+  #### 红色组织
+
+
+  在[红色组织](../red-organizations/), the organization's short term planning horizon and its reactive nature makes it familiar with crises. Decisions can be made on a whim and are passed down to employees from above by using the Red breakthrough of command authority.
 
 
   #### Amber Organizations
