@@ -168,10 +168,10 @@ inPractice: >-
   对于许多领导者来说，要忘记“自己要做所有的决定”这个习惯是很难的。这需要承诺和觉察。如果你发现自己陷入了旧模式中，就要抓住机会承认自己的错误，并重申这个分散决策流程的重要性。这可以把一个错误变成一个强有力的学习时刻。好的习惯是通过反复练习养成的。
 
 
-  ### Consent-based decision making
+  ### 基于同意的决策
 
 
-  A variation of the advice process is consent-based decision making. "Consent" is different from "consensus" in the sense of unanimity. The consent principle says that a decision can be made as long as no one has a reasoned, substantial objection (also known as a "block"). Consent doesn't mean everyone loves the decision, but that they can live with it. 
+  建议流程的一个变化版本是基于同意的决策。“同意”与“共识”在一致性角度上有所不同。同意原则上是说，只要没有人有合理的、实质性的反对（也称为“否决”），就可以做出决定。同意并不意味着每个人都喜欢这个决定，而只是他们可以接受。
 
 
   In practice, consent means that if one person raises a principled objection, the decision is blocked. The proposer must pause and, together with the objector, devise a solution that overcomes the objection. A block in a consensus process is a signal to the whole team to "swarm" to understand the objection and problem solve.
