@@ -129,9 +129,9 @@ inPractice: >-
 
   * **集体目标:** 我们将组织看作是个有着自己灵魂和[目标](https://reinventingorganizations-wiki.netlify.app/theory/listening-to-purpose/)的生物。我们试图聆听组织想去何方，而不是企图将某个方向强加给组织。
 
-  * **Individual purpose:** We have a duty to ourselves and to the organization to inquire into our personal sense of calling to see if and how it resonates with the organization’s purpose. We try to imbue our roles with our souls, not our egos. 
+  * **个人目标:** 无论是对自我还是对组织而言，我们都有责任探求自己的个体使命感，并衡量这个使命是否与组织目标共鸣。我们尽最大努力尝试将自己的真心（灵魂使命感）而不是虚荣和自大的需求融入岗位角色。
 
-  * **Planning the future:** Trying to predict and control the future is futile. We make forecasts only when a specific decision requires us to do so. Everything will unfold with more grace if we stop trying to control and instead choose to simply sense and respond. 
+  * **规划未来:** 试图预测或掌控未来是徒劳的。我们只有在某个特定决策需要时，才会做短期的未来预测。如果我们能不再试图控制，而代之以对大道进行单纯的感受与回应，所有一切都会自然而然的呈现出无法想象的美妙成果。无为而治，道法自然。
 
   * **Purpose and Profit:** In the long run, there are no trade- offs between purpose and profits. If we focus on purpose, profits will follow.
 faq:
