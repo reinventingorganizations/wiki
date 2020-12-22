@@ -19,10 +19,10 @@ perspective: >-
   不同的组织历程阶段，产生了对冲突的不同见解和解决方案，以及实践方式：
 
 
-  #### **Red organizations**
+  #### **红色组织**
 
 
-  In the [Red paradigm](../red-organizations/), there is dominant exercise of power by the boss or leader to keep others in line. Fear is the glue of the organization. In general, conflict is handled by suppression, power or dominance, and strict rules are enforced by fear of consequences.
+  在[红色模式](../red-organizations/)中，老板或领导者主要是通过行使权力来迫使他人保持一致性。恐惧是组织的粘合剂。一般来说，冲突是通过镇压、权力或统治来处理的，通过制定严格的规则以及惩罚的恐惧来强化权力。
 
 
   #### **Amber organizations**
