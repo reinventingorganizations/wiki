@@ -32,7 +32,7 @@ perspective: >-
   #### 橙色模式
 
 
-  在[橙色模式](../orange-paradigm-and-organizations/), decision making is based on effectiveness, measured by impact on measures like profit and market share. Decision-making in Orange is based more on expertise than on hierarchy. In crisis a task force of select advisors might meet confidentially to advise the CEO and board. Top management will be under pressure to regain control and as a consequence decision making may be centralized in the hands of the senior executives . Decisions are typically communicated after they are made and then expected to be implemented swiftly.
+  在[橙色模式](../orange-paradigm-and-organizations/)中，决策基于有效性，衡量标准是对利润和市场份额等指标的影响。橙色的决策权更多基于专业知识而不是等级制度中的地位。在危机中，可能会由精选顾问组成的专责小组秘密开会，为首席执行官和董事会提供建议。遇到危机时，高层管理人员会面临重获控制权的压力，危机处理决策权可能自然集中在高级管理人员手中。通常在决策之后进行决策内容沟通，并期望决策被部下迅速实施。
 
 
   #### Green Organizations
