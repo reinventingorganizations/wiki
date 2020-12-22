@@ -37,7 +37,7 @@ perspective: >-
   #### 绿色组织
 
 
-  价值观驱动、目标导向的[绿色组织](../green-paradigm-and-organizations/) strive to serve multiple stakeholders. Front-line employees, for example, are often encouraged to make significant decisions without higher approvals in the interests of serving customers and the wider stakeholder community. They are in touch with the day-to-day issues, and trusted to devise better solutions than ‘experts’ who may be far away. Emphasis is on maintaining a strong, often “familial”, culture. Consensus is highly valued.
+  价值观驱动、目标导向的[绿色组织](../green-paradigm-and-organizations/)的目标是致力于为多个利益相关者服务。例如，为了服务客户以及更广泛的利益相关者群体，通常鼓励一线员工在没有上级批准的情况下做出重大决策。因他们与日常事务保持着紧密联系，所以被相信有能力思考出比“专家”更好的解决方案，因专家可能脱离基层。组织的重点是保持一种强大的，通常是“家庭”式的文化。高度重视共识。
 
 
   #### Teal organizations
