@@ -113,16 +113,16 @@ inPractice: >-
   * 考虑过收到的建议之后，决策者做出行动决策，并将决策内容告知给出建议的人。
 
 
-  #### Forms the advice process can take
+  #### 建议流程的形式
 
 
-  Because the advice process involves taking advice from those affected by a decision, it naturally follows that the bigger the decision, the wider the net needs to be cast - including, if these roles exist, the CEO or board.
+  因为建议流程包括向受决策影响的人征求意见，因此决策越大，征求意见时的撒网范围就越广——包括CEO或董事会（假设蔚蓝组织内还存在这些职称）。
 
 
-  For minor decisions, there may be no need to seek advice. For larger decisions, advice can come through various channels, including one-on-one conversations, meetings, or online communication. 
+  如果是小决定，可能没有必要征求意见。如果是更大的决策，还可以通过多种渠道提供建议，包括一对一的对话、会议或在线交流。
 
 
-  Some organizations have specific types of meetings to support the advice process, or follow formal methods. (See Buurtzorg and Holacracy below). Some organizations choose to have circles made up of representative colleagues who go through the advice process on behalf of the whole organization.
+  有些组织设计了特定的会议来支持建议流程，或者制定了需要遵循的正式方法。（见下文布尔佐格和霍尔）。有些组织选择的方式是，由同事代表组成工作队或小组，代表整个组织参与建议流程。
 
 
   When decisions affect large numbers, or people who cannot meet physically, the process can happen via the internet.
