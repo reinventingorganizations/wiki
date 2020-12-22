@@ -41,15 +41,15 @@ perspective: >-
   在价值观驱动、目标导向的[绿色组织](../green-paradigm-and-organizations/)中，通过权力下放和授权将日常决策下放到一线员工身上，他们可以在没有管理层批准的情况下做出决策。对于影响深远的决策，高级管理层在采取行动之前会重视并寻求共识。但危机决策对这些做法是个挑战。对于高度争议和时间敏感的决策，首席执行官可能会介入，暂停通常的共识模式，做出自上而下的决定。
 
 
-  #### Teal Organizations
+  #### 蔚蓝组织
 
 
-  In the Teal paradigm, everyone is involved in decision making to allow the best response to emerge from collective intelligence. If the advice process needs to be suspended, the scope and time of this suspension are limited.
+  在蔚蓝范式中，每个人都参与决策，以便从集体智慧中产生最佳反应。即使特殊情况需要暂停咨询流程，暂停的范围和时间也会是有限的。
 inPractice: >-
-  #### Upholding the advice process
+  #### 坚守建议流程
 
 
-  The regular [decision making](../decision-making/) model adopted by Teal organizations is the advice process, which distributes decision-making. This remains the preferred approach to deal with crisis situations.
+  蔚蓝组织所采用的常规[决策](../decision-making/) model adopted by Teal organizations is the advice process, which distributes decision-making. This remains the preferred approach to deal with crisis situations.
 
 
   ##### *Trusting the process*
