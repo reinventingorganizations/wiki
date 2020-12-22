@@ -81,10 +81,10 @@ inPractice: >-
   因此，建议流程超越了自上而下和基于共识这两种传统的决策方式。
 
 
-  #### Benefits of the advice process
+  #### 建议流程的益处
 
 
-  The advice process allows self-management to flourish. Dennis Bakke, who introduced the practice at AES (and who wrote two books about it), highlights some important benefits: creating community, humility, learning, better decisions, and fun.
+  建议流程让自我管理得以蓬勃发展。在AES公司首次引入了这种做法的Dennis Bakke（他写了两本书）指出这个流程的主要优势：有助于打造社区、培育谦逊、有助于学习成长和更好的决策，又很开心。
 
 
   * **Community**: it draws people, whose advice is sought into the question at hand. They learn about the issue. The sharing of information reinforces the feeling of community. The person whose advice is sought feels honored and needed.
