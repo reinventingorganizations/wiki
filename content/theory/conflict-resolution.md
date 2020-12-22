@@ -41,10 +41,10 @@ perspective: >-
   在[橙色模式](../orange-paradigm-and-organizations/), 中，虽依然存在着层级结构，但开始采用面向目标的管理（只定义什么；在如何做角度给部下更多的自由）。在许多橙色组织中，虽然有正式的冲突解决程序，但冲突往往得不到良好解决。虽然经常鼓励成员自己去解决分歧，但事实上冲突往往需要通过第三方的干预来解决。一般通过将问题提交给上司，或遵循人力资源规则和流程来完成。这些解决程序一般能给出一定程度上的、中立于冲突双方的第三方客观见解。
 
 
-  #### **Green organizations**
+  #### **绿色组织**
 
 
-  The [Green paradigm ](../green-paradigm-and-organizations/)again uses a classical pyramid structure, but with a stronger focus on empowerment. Green organizations have values-based cultures that include principles of integrity, respect, and openness. There is a large investment in fostering collaboration, communication, problem solving and drafting agreements that meet underlying needs. These processes can sometimes remove the source of conflict. When they do arise, conflicts can take a long time to resolve as groups seek to find a harmonious solution. However, the boss is usually the final arbiter in conflict situations.
+  [绿色模式](../green-paradigm-and-organizations/)again uses a classical pyramid structure, but with a stronger focus on empowerment. Green organizations have values-based cultures that include principles of integrity, respect, and openness. There is a large investment in fostering collaboration, communication, problem solving and drafting agreements that meet underlying needs. These processes can sometimes remove the source of conflict. When they do arise, conflicts can take a long time to resolve as groups seek to find a harmonious solution. However, the boss is usually the final arbiter in conflict situations.
 
 
   #### **Teal organizations**
