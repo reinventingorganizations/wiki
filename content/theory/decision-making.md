@@ -28,10 +28,10 @@ perspective: >-
   在[琥珀模式](../amber-paradigm-and-organizations/)中，决策权大小根据个人在等级制度中的地位决定。最重要的不是创新，而是遵循标准操作程序。正式流程支持下的清晰指挥链定义了谁可以做什么。个人都应该接受这些流程和传统。
 
 
-  #### Orange organizations
+  #### 橙色组织
 
 
-  In the [Orange paradigm](../orange-paradigm-and-organizations/), organizations are viewed as machines that need to be 'tuned' for efficiency. Top management announces the overall direction or strategy and then objectives cascade down. Managers draw up plans for approval based on their objectives. These plans guide decision-making toward the achievement of goals—for example, profit and market share. Team members are invited to suggest initiatives and participate in the decision-making process. This encourages innovation and debate. The overriding aims are predictability and control.
+  在[橙色模式](../orange-paradigm-and-organizations/), organizations are viewed as machines that need to be 'tuned' for efficiency. Top management announces the overall direction or strategy and then objectives cascade down. Managers draw up plans for approval based on their objectives. These plans guide decision-making toward the achievement of goals—for example, profit and market share. Team members are invited to suggest initiatives and participate in the decision-making process. This encourages innovation and debate. The overriding aims are predictability and control.
 
 
   #### Green organizations
