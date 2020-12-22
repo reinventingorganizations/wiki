@@ -69,7 +69,7 @@ inPractice: >-
   #### 让价值观活起来
 
 
-  [Teal organizations](../teal-paradigm-and-organizations/) understand it takes more than a plaque on the wall to bring values and ground rules to life. They spend a significant amount of time and energy on training and involving everyone in a continuous process of revisiting them. Some examples of keeping values alive are:
+  [蔚蓝组织](../teal-paradigm-and-organizations/) understand it takes more than a plaque on the wall to bring values and ground rules to life. They spend a significant amount of time and energy on training and involving everyone in a continuous process of revisiting them. Some examples of keeping values alive are:
 
 
   * Values Training: once the new recruits are onboard, they are trained in the set of values and ground rules. 
