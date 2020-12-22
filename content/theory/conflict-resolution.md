@@ -61,19 +61,19 @@ inPractice: >-
   下面是很多蔚蓝组织都潜在运用着的，支撑冲突解决流程的职场文化中的几个基本原则：
 
 
-  * It’s impossible to change other people. We can only change ourselves. 
+  * 不可能改变他人。只能改变自己。
 
-  * We take ownership for our thoughts, beliefs, words, and actions.
+  * 我们对自己的想法、信念、语言和行为负责。
 
-  * We don’t spread rumors.
+  * 我们不传谣。
 
-  * We don’t talk behind someone’s back.
+  * 我们不在背后议论他人。
 
-  * We resolve disagreements one-on-one and don’t drag other people into  the problem.
+  * 我们一对一地解决分歧，不会把其他人拖入问题。
 
-  * We don’t blame problems on others. When we feel like blaming, we take it as an invitation to reflect on how we might be part of the problem (and the solution).
+  * 我们在出问题时不推卸责任，埋怨他人。如果感觉到被指责，我们将其看作一种反思的邀请，沉思自己可能对该问题（或其解决方案）负有一定责任。
 
-  * We focus on strengths more than weaknesses, on opportunities more than problems. 
+  * 我们聚焦于强项而不是弱项，聚焦于机遇而不是问题（正向思维）。
 
 
   Therefore, in addition to specific conflict resolution processes, other structures are needed to create and maintain this type of supportive culture. For instance, many organizations find it helpful to establish a set of values and translate these values into concrete behaviors that are either encouraged or declared unacceptable in the community of colleagues. Many Teal organizations also institute specific meeting practices to help participants interact with each other from a place of wholeness, to keep their egos in check and to ensure everybody’s voice is heard. This might be done by, for example, starting a meeting with a minute of silence, finishing a meeting with a round of appreciation or a structured decision-making process. Another key contributor to a supportive culture is the office space, which should feel safe, provide place for quiet reflection and encourage individual and collective wholeness.
