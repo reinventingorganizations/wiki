@@ -16,7 +16,7 @@ perspective: >-
   多数蔚蓝组织都以人性的某些基本假设为运作依据：员工都是很有思想，值得信赖的成熟人格，有能力并可靠，能对自己的决策和行为负责。在一个以这些蔚蓝假设为依据的职场内，清晰定义好的冲突解决流程，配合良好的实施培训，能给成员提供一套途径和技巧，用于淡定而优雅的处理不一致见解。
 
 
-  Every historical stage has given birth to a distinct perspective on conflict resolution and to very different practices:
+  不同的组织历程阶段，产生了对冲突的不同见解和解决方案，以及实践方式：
 
 
   #### **Red organizations**
