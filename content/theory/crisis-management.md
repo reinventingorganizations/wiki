@@ -89,13 +89,13 @@ inPractice: >-
   通过建议流程（询问成员）处理危机是自我管理的一个关键考验。要求领导者们停止任何想要掌控全局的想法，并相信成员们能够提供有效的解决方案。蔚蓝组织普遍认为成员都是有责任心、信守承诺和有能力的。
 
 
-  #### Wholeness
+  #### 完整人性
 
 
-  By upholding the advice process, even in crisis situations, leader(s) are forced to face a fear that losing control could imperil the organization, cause chaos, and risk the interests of stakeholders. Crisis situations provide an opportunity for leaders to demonstrate their wholeness by being transparent, potentially vulnerable and genuinely supportive of their colleagues' participation. Employees in turn are invited to take responsibility for their own feelings in situations that may have unwelcome outcomes.
+  即使在危机情况下也坚守建议流程时，领导者（们）不得不面对一些风险（恐惧）：因失去控制而危及组织、造成混乱或损害利益相关者利益等。但危机情况也为领导者提供了一个机会，通过真诚地支持同事参与决策的活动，来表达透明性、真诚面对自己潜在的脆弱性、毫不隐藏的坦诚展示自己的整体人性。同时，成员会被邀请体验一种，在可能产生不佳结果的情况下，真诚面对自己的情感并真诚负责的整体人性。
 
 
-  A crisis situation offers an opportunity for an organization to come together as a whole to find solutions. This often leads to more powerful solutions than those created by a leader or a group of advisors in isolation. When these situations are successfully addressed, the organization collectively experiences a growth into \[Wholeness wholeness].
+  危机局势为一个组织提供机会，促进组织更加融为一个整体，更紧密的团结在一起寻找解决办法（共患难）。这通常会创造出一个强大的解决方案，远比领导者或一群顾问孤立创造的方案都更神奇更高明（集体智慧）。当这些情况被成功地解决时，组织会集体性经历一个朝向[整体性](https://cn.reinventingorganizationswiki.com/theory/wholeness/)成长的体验。
 
 
   #### Evolutionary purpose
