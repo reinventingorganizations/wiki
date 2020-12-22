@@ -25,7 +25,7 @@ perspective: >-
   #### 琥珀组织
 
 
-  在[琥珀模式](../amber-paradigm-and-organizations/), decision-making authority is determined by an individual’s status in the hierarchy. Innovation is not particularly valued; following standard operating procedures is. A clear chain of command supported by formal processes defines who can do what. Individuals are expected to embrace these processes and traditions.
+  在[琥珀模式](../amber-paradigm-and-organizations/)中，决策权大小根据个人在等级制度中的地位决定。最重要的不是创新，而是遵循标准操作程序。正式流程支持下的清晰指挥链定义了谁可以做什么。个人都应该接受这些流程和传统。
 
 
   #### Orange organizations
