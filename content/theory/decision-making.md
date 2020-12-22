@@ -95,7 +95,7 @@ inPractice: >-
 
   * **优质决策**: 与传统的自上而下的方法相比，这个做法得出最佳决策的机会更大。决策者的优势是更接近问题，并且必须对决策的后果承担责任。而建议内容能提供不同的输入，揭示重要问题和新的观点。
 
-  * **Fun**: the process is just plain fun for the decision-maker, because it mirrors the joy found in playing team sports. The advice process stimulates initiative and creativity, which are enhanced by the wisdom from knowledgeable people elsewhere in the organization.
+  * **乐趣**: 这个过程对决策者而言很有趣，因为这很类似于玩团队游戏。建议流程激发了主动性和创造性，而这些素质又会通过组织中其他知识渊博者的智慧而得以强化。
 
 
   #### Steps in the advice process
