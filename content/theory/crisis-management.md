@@ -49,7 +49,7 @@ inPractice: >-
   #### 坚守建议流程
 
 
-  蔚蓝组织所采用的常规[决策](../decision-making/) model adopted by Teal organizations is the advice process, which distributes decision-making. This remains the preferred approach to deal with crisis situations.
+  蔚蓝组织所采用的常规[决策](../decision-making/)模式是建议流程，这个流程支撑分布式决策权。这也是蔚蓝组织处理危机局势的首选方法。
 
 
   ##### *Trusting the process*
