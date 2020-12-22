@@ -25,10 +25,10 @@ perspective: >-
   在[红色模式](../red-organizations/)中，老板或领导者主要是通过行使权力来迫使他人保持一致性。恐惧是组织的粘合剂。一般来说，冲突是通过镇压、权力或统治来处理的，通过制定严格的规则以及惩罚的恐惧来强化权力。
 
 
-  #### **Amber organizations**
+  #### **琥珀组织**
 
 
-  The [Amber paradigm](../amber-paradigm-and-organizations/) has formalized roles within a hierarchical pyramid structure and top-down command and control (what and how). Stability is valued above all and is maintained through clearly defined roles and processes.
+  在[琥珀模式](../amber-paradigm-and-organizations/)has formalized roles within a hierarchical pyramid structure and top-down command and control (what and how). Stability is valued above all and is maintained through clearly defined roles and processes.
 
 
   Methods for managing conflict include avoidance or suppression. Rules are imposed by those with authority and may be enforced through legal action. These types of organizations have strong HR processes for managing conflict and grievances between employee and employer.
