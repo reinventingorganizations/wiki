@@ -10,15 +10,7 @@ intro: "This article describes how cross functional teams emerge and operate,
 
   \r\n"
 perspective: >-
-  In earlier organizational stages, project teams and task forces are
-  established by upper management to break through strict organizational
-  boundaries. Typically a project manager/team leader is appointed, and team
-  members are selected based on factors such as competency, position in the
-  existing structure, loyalty or ability to work with others. The team leader
-  directs the activities of the team members. Upper management decides to
-  disband the team/task force when it deems results have been achieved, the
-  project is a failure or the prospects for success are no longer worth the
-  effort.
+  在早期的组织阶段，项目团队和工作组都只能由有权突破严格的组织界限的上级管理层负责建立。通常会任命一名项目经理/团队领导，并根据能力、现有结构中的职位、忠诚度或与他人协作的能力等因素选择团队成员。项目经理指导团队成员的活动。当上级管理层认为已取得成果、或判定项目失败或无成功前景不再值得努力时，就决定解散该团队/任务组。
 
 
   Project teams and task forces in Teal organizations have the following characteristics:
