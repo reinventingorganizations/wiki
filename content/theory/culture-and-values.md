@@ -152,4 +152,3 @@ relatedTheory:
   - Mood Management
   - Creating Safe Space
 ---
-to be removed
