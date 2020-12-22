@@ -84,7 +84,7 @@ inPractice: >-
   #### 基于文化和价值观的招聘
 
 
-  [蔚蓝组织](../teal-paradigm-and-organizations/) understand that a person's attitude and behaviors are as important as their skills. Therefore significant energy is devoted to finding people that fit with the organization's culture and values. New recruits are carefully interviewed to ensure they can thrive in the environment. It is a two way discovery processes aiming at finding out if the organization and individual are meant to “journey together”. 
+  [蔚蓝组织](../teal-paradigm-and-organizations/)知道，人品与行为跟人的技术能力同样重要。于是他们投入可观能量寻找那些适配组织文化与价值观的人选。通过谨慎的面试来保证新人选能在这个环境中茁壮成长。这是个双向的寻觅与发现过程，目的是确认组织和个人是否注定能同舟共济。
 
 
   ### Values for the three Teal breakthroughs
