@@ -51,7 +51,7 @@ inPractice: >-
   #### 工作队替代固定管理部门
 
 
-  蔚蓝组织经常通过志愿工作队去执行通常由传统管理部门执行的任务。这有多方面的好处：成员可以据此找到途径，表达自己主要岗位角色用不到的才能和天赋。他们可以开发专业领域，然后与组织中的其他人共享。特别工作组也是惊人的学习机会：人们通过现代学徒制从更有经验的同事那里学习技术和领导技能。^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 90] 具体参见管理职能。
+  蔚蓝组织经常通过志愿工作队去执行通常由传统管理部门执行的任务。这有多方面的好处：成员可以据此找到途径，表达自己主要岗位角色用不到的才能和天赋。他们可以开发专业领域，然后与组织中的其他人共享。特别工作组也是惊人的学习机会：人们通过现代学徒制从更有经验的同事那里学习技术和领导技能。^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 90] 具体参见[管理职能](https://cn.reinventingorganizationswiki.com/theory/staff-functions/)。
 faq:
   - question: Doesn’t this lead to chaos?
     answer: Teal organizations trust the collective intelligence of the system.
