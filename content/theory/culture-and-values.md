@@ -99,7 +99,7 @@ inPractice: >-
   自我管理结构能超越文化与系统之间的矛盾。在这个结构里，内在和外在次元，文化与系统，开始联手运作而不是背道而驰。下面是一些能支撑自我管理结构的不同类型价值观/理论的案例：
 
 
-  * **Trust:** Teal practices are based on trust. Meet people with trust and they will respond with trust. Trust enables people to be fully responsible. It also lowers the need for hierarchy and control and enables [self-management](../self-management/). 
+  * **信任:** 蔚蓝组织的实践基于信任。以信任对人，对方也会回应信任。信任能激发人的负全责精神。也能降低对金字塔控制体系的依赖，催化[自我管理](../self-management/) 。 
 
   * **Transparency:** When people have access to business information, often held by management, they can act and take decisions that are good for the whole. When there is transparency and openness collective intelligence is available to all. Sensitive information can be shared because everyone is able and trusted to handle difficult news. 
 
