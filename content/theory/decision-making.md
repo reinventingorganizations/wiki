@@ -193,7 +193,7 @@ inPractice: >-
   有些组织想要走向自我管理，但还不能完全脱离等级制度。还有些组织，特别是大型组织，则选择采取一些临时过度措施。这是向自我管理过渡的一部分。
 
 
-  AES, the 40,000 employee company where the term "advice process' was coined, operated with remnants of a hierarchy. Anyone could initiate the process, but it was mandatory to consult certain categories of colleagues. These might include one's superiors, or even the board.
+  AES是一家拥有4万名员工的公司，“建议流程”一词是在那里产生的。但其运作还带有等级制度的痕迹。虽然任何人都可以启动这个过程，但必须咨询某些特定类型的同事。必须咨询对象可能包括上级，甚至董事会。
 
 
   #### Sources that inform decision-making
