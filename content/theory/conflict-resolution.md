@@ -76,7 +76,7 @@ inPractice: >-
   * 我们聚焦于强项而不是弱项，聚焦于机遇而不是问题（正向思维）。
 
 
-  Therefore, in addition to specific conflict resolution processes, other structures are needed to create and maintain this type of supportive culture. For instance, many organizations find it helpful to establish a set of values and translate these values into concrete behaviors that are either encouraged or declared unacceptable in the community of colleagues. Many Teal organizations also institute specific meeting practices to help participants interact with each other from a place of wholeness, to keep their egos in check and to ensure everybody’s voice is heard. This might be done by, for example, starting a meeting with a minute of silence, finishing a meeting with a round of appreciation or a structured decision-making process. Another key contributor to a supportive culture is the office space, which should feel safe, provide place for quiet reflection and encourage individual and collective wholeness.
+  所以，除了准备一些冲突解决流程，还需要建立并维持其他一些构架来支撑这种根基文化。比如，很多组织都发现，建立一套共识的价值观，并将其翻译成具体行为，用于在同事社区中定义需要鼓励的行为，或明确不可接纳的行为，对文化维持很有帮助。很多蔚蓝组织还设置特别的会议，帮助与会者能站在完整人性空间（自我完整与集体完整）与对方互动，致力于觉察并安抚自大人格，保证所有人的声音都被聆听。比如，这可以通过用一分钟冥想启动会议，用轮流感谢言辞结束会议等来实现，也可以定义一个构造化决策流程。另外一个促进支撑文化的关键要素就是办公空间，一个让人感觉到安心的空间，有助于静寂反思，能滋养个体和集体完整性的空间。
 
 
   #### **How conflicts are addressed**
