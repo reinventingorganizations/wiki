@@ -31,7 +31,7 @@ perspective: >-
   #### 橙色组织
 
 
-  在[橙色模式](../orange-paradigm-and-organizations/), organizations are viewed as machines that need to be 'tuned' for efficiency. Top management announces the overall direction or strategy and then objectives cascade down. Managers draw up plans for approval based on their objectives. These plans guide decision-making toward the achievement of goals—for example, profit and market share. Team members are invited to suggest initiatives and participate in the decision-making process. This encourages innovation and debate. The overriding aims are predictability and control.
+  [橙色模式](../orange-paradigm-and-organizations/)认为组织是需要“调整”才能提高效率的机器。由高层管理者宣布总体方向或战略，然后目标逐级下达。中层管理者根据自己的任务目标，制定计划并寻求批准。这些计划引导着决策朝着实现目标（例如利润和市场份额）的方向发展。也会邀请团队成员提出建议并参与决策过程。目的是鼓励创新和辩论。组织的首要目标是保障可预测性和可控制性。
 
 
   #### Green organizations
