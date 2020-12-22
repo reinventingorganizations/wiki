@@ -29,10 +29,10 @@ perspective: >-
   在[琥珀模式](../amber-paradigm-and-organizations/)中，组织变得更加稳定和可预测。开始通过流程和程序定义完成任务的方式。认为工人需要指导。在不可预测的危机领域，首席执行官和最高管理层会做出决策，然后将这些决策转化为对下一层的命令。期待部下毫无疑问的执行决策内容。
 
 
-  #### Orange Organizations
+  #### 橙色模式
 
 
-  In the [Orange paradigm](../orange-paradigm-and-organizations/), decision making is based on effectiveness, measured by impact on measures like profit and market share. Decision-making in Orange is based more on expertise than on hierarchy. In crisis a task force of select advisors might meet confidentially to advise the CEO and board. Top management will be under pressure to regain control and as a consequence decision making may be centralized in the hands of the senior executives . Decisions are typically communicated after they are made and then expected to be implemented swiftly.
+  在[橙色模式](../orange-paradigm-and-organizations/), decision making is based on effectiveness, measured by impact on measures like profit and market share. Decision-making in Orange is based more on expertise than on hierarchy. In crisis a task force of select advisors might meet confidentially to advise the CEO and board. Top management will be under pressure to regain control and as a consequence decision making may be centralized in the hands of the senior executives . Decisions are typically communicated after they are made and then expected to be implemented swiftly.
 
 
   #### Green Organizations
