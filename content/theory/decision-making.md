@@ -69,16 +69,16 @@ inPractice: >-
   我们通常以为，决策只有两种方式：要么由有权有势的人（有人说了算，这可能让有些人感到沮丧；但至少事情会完成），要么是一致同意（每个人都有发言权，但决策速度可能慢得令人沮丧）。
 
 
-  It is a misunderstanding that self-management decisions are made by getting everyone to agree, or even involving everyone in the decision. The advice seeker must take all relevant advice into consideration, but can still make the decision. 
+  对于自我管理组织的决策，存在着一种误解，认为决策都是通过全体都同意，甚至让每个人都参与决策过程来完成。事实上，寻求建议者虽然必须考虑所有相关的建议，但仍然可以做出自己的决定。
 
 
-  Consensus may sound appealing, but it's not always most effective to give everybody veto power. In the advice process, power and responsibility rest with the decision-maker. Ergo, there is no power to block.
+  全体共识可能听起来很有吸引力，但赋予每个人否决权，有时候导致决策效率很低。但在建议流程中，权力和责任都在于决策者。因此，避免了造成低效的阻挡力量。
 
 
-  Ownership of the issue stays clearly with one person: the decision maker. Convinced she made the best possible decision, she can see things through with enthusiasm, and she can accept responsibility for any mistakes.
+  问题的所有权清楚地掌握在一个人身上：决策者。他/她确信自己做了最好的决定，能满怀热情地把事情做好或管理好，并能为任何错误承担责任。
 
 
-  The advice process, then, transcends both top-down *and* consensus-based decision making.
+  因此，建议流程超越了自上而下和基于共识这两种传统的决策方式。
 
 
   #### Benefits of the advice process
