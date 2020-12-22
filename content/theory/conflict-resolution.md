@@ -5,11 +5,8 @@ key: Conflict resolution
 name: 冲突解决
 sortOrder: 4
 category: Daily practices
-intro: >-
-  The topic of Conflict Resolution includes how conflicts are dealt with and by
-  whom. In particular we discuss the types of processes used, factors that
-  reduce conflict avoidance and structures that prevent conflict.
-
+intro: |-
+  冲突解决话题介绍由谁和如何解决冲突。特别谈论一些实际被采用的不同方法，以及一些能防冲突于未然的，杜绝回避冲突的元素和构架。
 
   ![](/media/conflict.jpg)
 perspective: >-
