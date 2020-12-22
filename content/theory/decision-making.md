@@ -133,23 +133,23 @@ inPractice: >-
   * 组织可以使用像Loomio这样的决策软件，这是个免费的开源工具。在Loomio上使用建议流程的过程是：启动一个讨论以确定主题并收集意见，然后主持一个提案池，以便受问题影响的每个人都能表达自己的立场，然后最终决策者确定结果（自动通知整个小组）。
 
 
-  #### Underlying mindsets and training
+  #### 基本心态和培训
 
 
-  The advice process is a tool that helps decision-making via collective intelligence. Much depends on the spirit in which people approach it. When the advice process is introduced, it might be worthwhile to train colleagues not only in the mechanics but also on the mindset underlying effective use.
+  建议流程是一种通过集体智慧帮助决策的工具。这在很大程度上取决于人们的积极参与精神。组织在开始导入建议流程时，可以尝试的方法是，不仅要在流程机制方面培训同事，而且要注重培训成员养成一种增强流程效果的基本心态。
 
 
-  The advice process can proceed in several ways, depending on the mindset people bring to it:
+  建议流程可以通过几种方式进行，具体取决于参与者的心态：
 
 
-  * The initiator can approach it authoritatively ("I don't care about what others have said" or, alternatively, "I fully comply with what others - someone highly respected, or the majority - have said").
+  * 发起者可以站在权威的立场上（“我不在乎别人说了什么”），或者相反，（“我完全遵守别人所说的话——受人尊敬的人，或者大多数人”）。
 
-  * They can approach from a perspective of negotiation or compromise ("I'll do some of what they say so they're happy, but it will increment my frustration account by 1").
+  * 也可以从谈判或妥协的角度出发（“为了让他们高兴，我会考虑采纳一些他们的建议，但这会使增加我的挫败感”）。
 
-  * They can approach it co-creatively, which is the spirit of the advice process ("I will listen to others, understand the real need in what they say, and think creatively about an elegant solution").
+  * 还可以站在和谐共创的角度，这是建议流程的精神所在（“我会倾听别人的意见，理解他们建议中的真正需要，并创造性地思考一个优雅的解决方案”）。
 
 
-  #### Role modeling
+  #### 角色模板
 
 
   When the advice process is first introduced, the founder and/or CEO need to be role-models. Power is initially held by organizational leaders, and it doesn't get distributed by magic - [successfully distributing leadership requires careful, proactive effort](https://medium.com/enspiral-tales/how-to-grow-distributed-leadership-7f6b25f0361c). By role modeling, others will take cues from their behavior.  
