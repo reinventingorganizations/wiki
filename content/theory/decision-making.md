@@ -180,10 +180,11 @@ inPractice: >-
   让同事提出有原则的反对意见，这个权力既有价值也有危险。有价值是因为有时候一个人能感觉到一些别人看不到的重要东西。另一方面，如果人们出于工作目的以外的原因阻挠决策，这种权力可能会被滥用。出于这个原因，一个组织如果采用基于同意的决策流程，通常会非常认真地对待否决，并重视对关于否决的礼仪和文化共识。（有关真实示例，请参阅[螺旋形决策](https://handbook.enspiral.com/decisions_agreement.html)）。
 
 
-  Some methods, like Holacracy, deem an objection valid only if the argument passes stringent tests, such as it makes matters worse. A colleague cannot block a proposal simply because he or she thinks they have a better proposal, or because they don't love an idea.
+  霍尔模式等方法规定，异议只有在通过论证和严格的检验后才能认定有效，比如能证明该决策会使事情变得更糟。同事不能仅仅因为他或她认为自己的建议更好，或者因为他们不喜欢某个想法而否决一个提议（虚荣）。
 
 
-  (for a description of Consent Based Decision, see[ https://thedecider.app/consent-decision-making](https://thedecider.app/consent-decision-making))
+
+  (有关基于同意的决策的说明，请参见[ https://thedecider.app/consent-decision-making](https://thedecider.app/consent-decision-making))
 
 
   #### The advice process within a hierarchy
