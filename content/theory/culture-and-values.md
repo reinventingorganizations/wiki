@@ -112,9 +112,9 @@ inPractice: >-
   蔚蓝组织寻求一种能敬重所有共同劳动者人性的职场。下面是一些支撑完整人性的价值观/规则案例：
 
 
-  * **Equal worth:** All people are of equal worth and at the same time different. Community will be richest when members are able to contribute in their distinctive way, whilst appreciating their differences. 
+  * **平等价值:** 所有人价值平等，同时独一无二。当成员们能以各自独特的方式做出贡献，并因其独到之处而得到感谢，社区会得到最丰盛的利益。
 
-  * **Safe and caring workplace:** Situations are approached from love and connection rather than fear and separation. Creating a safe environment where everyone can behave authentically is essential. 
+  * **安全安心充满关怀的空间:** Situations are approached from love and connection rather than fear and separation. Creating a safe environment where everyone can behave authentically is essential. 
 
   * **Overcoming separation:**  All people are connected. We aim to create a workplace where cognitive, physical, emotional and spiritual aspects are be honored and valued. 
 
