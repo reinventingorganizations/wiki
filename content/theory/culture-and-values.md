@@ -87,7 +87,7 @@ inPractice: >-
   [蔚蓝组织](../teal-paradigm-and-organizations/)知道，人品与行为跟人的技术能力同样重要。于是他们投入可观能量寻找那些适配组织文化与价值观的人选。通过谨慎的面试来保证新人选能在这个环境中茁壮成长。这是个双向的寻觅与发现过程，目的是确认组织和个人是否注定能同舟共济。
 
 
-  ### Values for the three Teal breakthroughs
+  ### 支撑三个蔚蓝突破的价值观
 
 
   The principles and practices outlines above support the three breakthroughs of [self-management](../self-management/), [wholeness ](../wholeness/)and [evolutionary purpose](../evolutionary-purpose/). 
