@@ -28,10 +28,11 @@ perspective: >-
   #### **琥珀组织**
 
 
-  在[琥珀模式](../amber-paradigm-and-organizations/)has formalized roles within a hierarchical pyramid structure and top-down command and control (what and how). Stability is valued above all and is maintained through clearly defined roles and processes.
+  [琥珀模式](../amber-paradigm-and-organizations/)在一个层级金字塔结构和自上而下的命令和控制（什么和如何）体系中，对角色进行正规定义。首先重视稳定性，并致力于通过明确定义的角色和流程来维持稳定。
 
 
-  Methods for managing conflict include avoidance or suppression. Rules are imposed by those with authority and may be enforced through legal action. These types of organizations have strong HR processes for managing conflict and grievances between employee and employer.
+
+  管理冲突的方法是回避或抑制。掌权者独裁的制定规则，并通常通过律法性行为保障执行。这个类型的组织通常制定强大的人力资源流程，用来管理成员和雇主之间的冲突和不满。
 
 
   #### **Orange organizations**
