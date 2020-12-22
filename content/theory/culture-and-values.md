@@ -90,7 +90,7 @@ inPractice: >-
   ### 支撑三个蔚蓝突破的价值观
 
 
-  The principles and practices outlines above support the three breakthroughs of [self-management](../self-management/), [wholeness ](../wholeness/)and [evolutionary purpose](../evolutionary-purpose/). 
+  上述理论和实践指南，支撑了蔚蓝模式的三种创新，自我管理，完整性，进化目标：[自我管理](../self-management/), [完整人性](../wholeness/)[进化目标](../evolutionary-purpose/). 
 
 
   #### Self-management
