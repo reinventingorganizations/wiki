@@ -152,7 +152,7 @@ inPractice: >-
   #### 角色模板
 
 
-  在组织初次导入建议流程时，创始人和/或首席执行官需要成为榜样。权力最初掌握在组织领导手中，并且不能魔法般的一下子就分配下去——成功分配领导权需要通过谨慎而积极主动的努力。通过角色模板的塑造（打个样），其他人会从他们的行为中获得线索。 - [成功分配领导权需要细心而积极的努力](https://medium.com/enspiral-tales/how-to-grow-distributed-leadership-7f6b25f0361c). By role modeling, others will take cues from their behavior.  
+  在组织初次导入建议流程时，创始人和/或首席执行官需要成为榜样。权力最初掌握在组织领导手中，并且不能魔法般的一下子就分配下去—— [成功分配领导权需要细心而积极的努力](https://medium.com/enspiral-tales/how-to-grow-distributed-leadership-7f6b25f0361c)。通过角色模板的塑造（打个样），其他人会从他们的行为中获得线索。 
 
 
   Role modeling can take several forms: 
