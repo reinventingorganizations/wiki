@@ -125,7 +125,7 @@ inPractice: >-
   有些组织设计了特定的会议来支持建议流程，或者制定了需要遵循的正式方法。（见下文布尔佐格和霍尔）。有些组织选择的方式是，由同事代表组成工作队或小组，代表整个组织参与建议流程。
 
 
-  When decisions affect large numbers, or people who cannot meet physically, the process can happen via the internet.
+  如果某个决策影响人数较多时，或人们没有机会见面，可以通过互联网建议流程做出决定。
 
 
   * The decision-maker can post a proposal on the company blog and call for comments or invite email responses and then process the advice they receive.
