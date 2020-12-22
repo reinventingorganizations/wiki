@@ -40,10 +40,10 @@ perspective: >-
   价值观驱动、目标导向的[绿色组织](../green-paradigm-and-organizations/)的目标是致力于为多个利益相关者服务。例如，为了服务客户以及更广泛的利益相关者群体，通常鼓励一线员工在没有上级批准的情况下做出重大决策。因他们与日常事务保持着紧密联系，所以被相信有能力思考出比“专家”更好的解决方案，因专家可能脱离基层。组织的重点是保持一种强大的，通常是“家庭”式的文化。高度重视共识。
 
 
-  #### Teal organizations
+  #### 蔚蓝组织
 
 
-  In Evolutionary-Teal, there is a shift from external to internal yardsticks in decision-making. People are now concerned with the question of inner rightness: does this decision seem right? Am I being true to myself? Is this in line with who I sense I am? Am I being of service to the world? With fewer ego-fears, people are able to make decisions that might seem risky. All the possible outcomes may not have been weighed up, but the decision resonates with deep inner convictions. People develop a sensitivity for situations that don’t quite feel right, and situations that demand that they speak up and take action, even in the face of opposition or with seemingly low odds of success. This is born out of a sense of integrity and authenticity.
+  在进化主题的蔚蓝组织中，决策的标准从外部转移到内部。人们关心的是人性的内在力量和正义感：这个决定感觉是正确的吗？我对自己足够真诚吗？这符合我的感觉吗？我是在为世界服务吗？因降低了自我恐惧，人们能够有勇气做出看似危险的决定。虽然没有缜密权衡过所有可能的结果，但这个决定与内心深处的信念产生了共鸣。人们会对那些感觉不太对劲的情况，或者呼唤自己直言不讳并采取行动的情况产生敏感反应，即使面对反对或看似成功概率很低也会决定行动（内在创造力，创新前提）。这是出于一种正直和真实感。
 inPractice: >-
   ### The advice process
 
