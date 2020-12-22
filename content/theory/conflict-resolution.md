@@ -52,13 +52,13 @@ perspective: >-
 
   在[蔚蓝组织](../teal-paradigm-and-organizations/), 冲突被看作人性互动中的一个自然组件，如果能得到有心里安全的支持，一般会被看作是个健康而富有创造力的元素。被优雅而温和处理过的冲突，会为所有相关成员创造出新的可能性和学习收获（智慧）。在蔚蓝组织内，会定期投入时间去有意呈现和识别个人和小组环境内的冲突。一般运用复数步骤的冲突解决方法，每个人都接受冲突管理培训。冲突一般被局限在各个关联方、中介人、或某个被邀请做调节员的同事。这类调解员一般不负责强加某个解决方案。调节的焦点是帮助相关各方自觉找到解决方案。
 inPractice: >-
-  **An organizational culture that supports effective conflict resolution** 
+  **靠组织文化支撑高效的冲突解决方法** 
 
 
-  Conflict resolution mechanisms can be difficult to put in place and to maintain. The process is effective to the degree that there is a culture within the workplace where people feel safe and encouraged to hold each other to account, even when that feels uncomfortable.
+  冲突解决机制的建立和维持非常困难。这个流程有效运作的前提，是存在一种让成员感觉安全安心，并鼓励成员即使在情感上感觉到不舒服的情况下，还能理智的信赖依靠彼此的职场文化。
 
 
-  Here are some basic principles that underlie many of the Teal organisation's approaches to conflict in a supportive culture:
+  下面是很多蔚蓝组织都潜在运用着的，支撑冲突解决流程的职场文化中的几个基本原则：
 
 
   * It’s impossible to change other people. We can only change ourselves. 
