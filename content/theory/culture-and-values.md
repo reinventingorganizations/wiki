@@ -69,12 +69,12 @@ inPractice: >-
   #### 让价值观活起来
 
 
-  [蔚蓝组织](../teal-paradigm-and-organizations/) understand it takes more than a plaque on the wall to bring values and ground rules to life. They spend a significant amount of time and energy on training and involving everyone in a continuous process of revisiting them. Some examples of keeping values alive are:
+  [蔚蓝组织](../teal-paradigm-and-organizations/)蔚蓝组织都知道，要将价值观和基本规则融入生活，并不是靠墙上的标语就能完成的。他们都投入大量时间和能量进行培训，并将所有人卷入一个持续不断重新浸染这些内容的进程中。下面是保持价值观鲜活的一些案例：
 
 
-  * Values Training: once the new recruits are onboard, they are trained in the set of values and ground rules. 
+  * 价值观培训：新人入司时，接受价值观和基本规则的培训。 
 
-  * Values Day or regular events: once a year, a festive event is organized where everybody is invited to revisit the organization's purpose, values and ground rules. 
+  * 价值观日或定期活动：组织每年一次的喜庆活动，邀请全员重新浸染组织目标，价值观和基本规则。
 
   * Values meeting: every month or so, a meeting will take place where colleagues are invited to bring up issues with values and ground rules in the workplace and suggest changes. Values can also be discussed during Large Group Reflections.
 
