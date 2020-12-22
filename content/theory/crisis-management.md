@@ -38,7 +38,7 @@ perspective: >-
   #### 绿色组织
 
 
-  在价值观驱动、目标导向的[绿色组织](../green-paradigm-and-organizations/), decentralization and empowerment help to push day-to-day decision making down to frontline workers who can make them without management approval. For far-reaching decisions, consensus is valued, and sought, by senior management before they act. Crises challenge these practices. For highly contentious and time-sensitive decisions, it may be that the CEO steps in, suspends the consensus model, and makes a top down determination.
+  在价值观驱动、目标导向的[绿色组织](../green-paradigm-and-organizations/)中，通过权力下放和授权将日常决策下放到一线员工身上，他们可以在没有管理层批准的情况下做出决策。对于影响深远的决策，高级管理层在采取行动之前会重视并寻求共识。但危机决策对这些做法是个挑战。对于高度争议和时间敏感的决策，首席执行官可能会介入，暂停通常的共识模式，做出自上而下的决定。
 
 
   #### Teal Organizations
