@@ -45,7 +45,7 @@ inPractice: >-
   在蔚蓝组织内，如果其项目和工作组都是标准的，就可以设计一个构造布局来支持一种灵活流动的空间结构。太阳液压的办公室是一个很大的开放空间，隔版只有齐腰高。人们可以一目了然，看到谁在哪里，能偷听到许多对话。同事们说，这极大地促进了协作。
 
 
-  西雅图游戏开发商 [沃夫](https://www.valvesoftware.com/hu/), a Seattle game developer, all employees have desks on wheels. They roll their desks around depending on the projects they join or leave. The company has even designed an intranet app so colleagues could locate each other easily. It displays an office map, in real-time, showing where people have plugged in their computers.^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 85-6]
+  西雅图游戏开发商 [沃夫](https://www.valvesoftware.com/hu/)，所有员工都有带轮子的办公桌。他们因加入或离开某个项目而在办公室内转来转去。该公司甚至设计了一个内网应用程序，方便同事们更容易找到彼此。它会实时显示一张办公室地图，显示人们在哪里插上了电脑。^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 85-6]
 
 
   #### Task forces instead of formal staff departments
