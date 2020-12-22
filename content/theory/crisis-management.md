@@ -29,16 +29,16 @@ perspective: >-
   在[琥珀模式](../amber-paradigm-and-organizations/)中，组织变得更加稳定和可预测。开始通过流程和程序定义完成任务的方式。认为工人需要指导。在不可预测的危机领域，首席执行官和最高管理层会做出决策，然后将这些决策转化为对下一层的命令。期待部下毫无疑问的执行决策内容。
 
 
-  #### 橙色模式
+  #### 橙色组织
 
 
   在[橙色模式](../orange-paradigm-and-organizations/)中，决策基于有效性，衡量标准是对利润和市场份额等指标的影响。橙色的决策权更多基于专业知识而不是等级制度中的地位。在危机中，可能会由精选顾问组成的专责小组秘密开会，为首席执行官和董事会提供建议。遇到危机时，高层管理人员会面临重获控制权的压力，危机处理决策权可能自然集中在高级管理人员手中。通常在决策之后进行决策内容沟通，并期望决策被部下迅速实施。
 
 
-  #### Green Organizations
+  #### 绿色组织
 
 
-  In values-driven, purpose-led [Green organizations](../green-paradigm-and-organizations/), decentralization and empowerment help to push day-to-day decision making down to frontline workers who can make them without management approval. For far-reaching decisions, consensus is valued, and sought, by senior management before they act. Crises challenge these practices. For highly contentious and time-sensitive decisions, it may be that the CEO steps in, suspends the consensus model, and makes a top down determination.
+  在价值观驱动、目标导向的[绿色组织](../green-paradigm-and-organizations/), decentralization and empowerment help to push day-to-day decision making down to frontline workers who can make them without management approval. For far-reaching decisions, consensus is valued, and sought, by senior management before they act. Crises challenge these practices. For highly contentious and time-sensitive decisions, it may be that the CEO steps in, suspends the consensus model, and makes a top down determination.
 
 
   #### Teal Organizations
