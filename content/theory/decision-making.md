@@ -54,13 +54,13 @@ inPractice: >-
   此流程有很多种形式，但本质是一致的：任何人都可以在征求 1）所有会受到有直接或深度影响的人，以及2）在这件事上有专长者的建议后，作出任何决定。
 
 
-  Advice received must be taken into consideration. The point is not to create a watered-down compromise that accommodates everybody’s wishes. It is about accessing collective wisdom in pursuit of a sound decision. With all the advice and perspectives the decision maker has received, they choose what they believe to be the best course of action.
+  所收到的建议必须得到考虑。问题的关键不在于找到一个能满足每个人愿望的折衷方案。而是为了获取集体智慧以寻求一个合理的决定。决策者根据收到的所有建议和观点，做出选择确定一个自己认为最好的行动方案。
 
 
-  Advice is simply advice. No colleague, whatever their importance, can tell a decision-maker what to decide. Usually, the decision-maker is the person who first noticed the issue, or the person most affected by it. 
+  建议终归是建议。无论建议者是何等重要的人物，都无权能告诉（或强迫）决策者该做什么决定。通常，决策者是最先注意到该问题的人，或者是受其影响最大的人。
 
 
-  In practice, this process proves remarkably effective. It allows anybody to seize the initiative. Power is no longer a zero-sum game. Everyone is powerful via the advice process.
+  很多组织的实践已经证明此流程非常有效。这为每个人提供了掌握权力的机会。权力不再是一个零和游戏。通过建议流程，在集体智慧支撑下每个人都变得强大起来。
 
 
   #### It's not consensus
