@@ -28,10 +28,10 @@ perspective: >-
   在[琥珀组织](../amber-paradigm-and-organizations/),中，很重视稳定性和对集团规范的尊重。琥珀的领袖寻求秩序、稳定和可预测性。人们对变化持怀疑态度。通过结构化和官僚机构来维持控制。这些都培育一种从众文化。最重要的是做正确的事，并符合组织规范。重点考虑一个人是否有正确的外表、行为和思想。社会稳定的代价是人人都戴上伪装面具。人们可能会远离自己独特的本性、个人欲望、需求和感受，不得不包装并培育一个社会可以接受的自我形象。这种世界观的阴暗面是，工人们通常被视为懒惰、不诚实、需要指导。为确保工作得到妥善开展，管理和监督被认为是理所当然。
 
 
-  ##### Orange organizations
+  ##### 橙色组织
 
 
-  In [Orange organizations](../orange-paradigm-and-organizations/) the underlying values are success, innovation, effectiveness, competing/winning, profit and recognition. This worldview is materialistic and rationality is highly valued. Only what can be seen and touched is real. The organizational metaphor is a ‘machine’. The culture can become highly professional, rational and sometimes soulless. Change is welcome provided it contributes to increased performance. Cross-organisation collaboration is valued and encouraged to speed up innovation and change. Management is strategic and focused on results rather than how to achieve them. Individual competence, results and achievements are valued and incentivized. Progression is based on merit rather than social standing or rank. 
+  在[橙色组织](../orange-paradigm-and-organizations/) the underlying values are success, innovation, effectiveness, competing/winning, profit and recognition. This worldview is materialistic and rationality is highly valued. Only what can be seen and touched is real. The organizational metaphor is a ‘machine’. The culture can become highly professional, rational and sometimes soulless. Change is welcome provided it contributes to increased performance. Cross-organisation collaboration is valued and encouraged to speed up innovation and change. Management is strategic and focused on results rather than how to achieve them. Individual competence, results and achievements are valued and incentivized. Progression is based on merit rather than social standing or rank. 
 
 
   ##### Green organizations
