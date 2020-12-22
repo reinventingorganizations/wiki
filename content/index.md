@@ -19,7 +19,7 @@ intro: >-
   点击下列图像，进入具体文档。
 
 
-  ![](/media/flagGreatBritainXXS.png)    [点击这里查看其他语种 ](/pages/translations) for accessing translations of this Wiki (Hungarian and Spanish are available today - Russian, Chinese and French in progress)
+  ![](/media/flagGreatBritainXXS.png)    [点击这里查看其他语种 ](/pages/translations) 进入知识库的其他语言页面（英文，匈牙利和西班牙语已经完成--俄文和法文构建中）
 topics:
   - title: 蔚蓝概念
     image: /media/home_reinvention-etienne-small.png
