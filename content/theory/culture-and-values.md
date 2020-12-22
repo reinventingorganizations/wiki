@@ -19,13 +19,13 @@ perspective: >-
   ##### 红色组织
 
 
-  在[R红色组织](../red-organizations/)中，领导者通常表现出以自我为中心的行为，这些行为被他们对权力和控制的个人需求驱动着。他们常常很冲动、想方设法发挥自己的支配地位。这创造了一种恐惧、控制、甘冒风险和顺从的文化。团队的紧密关系通常是靠这些要素来维持。
+  在[红色组织](../red-organizations/)中，领导者通常表现出以自我为中心的行为，这些行为被他们对权力和控制的个人需求驱动着。他们常常很冲动、想方设法发挥自己的支配地位。这创造了一种恐惧、控制、甘冒风险和顺从的文化。团队的紧密关系通常是靠这些要素来维持。
 
 
   ##### 琥珀组织
 
 
-  In [Amber organizations](../amber-paradigm-and-organizations/), stability and respect for the group norms are highly valued. The Amber leader looks for order, stability, and predictability. Change is viewed with suspicion. Control is maintained through institutions and bureaucracies. This tends to creates a culture of conformity. The focus is to do what is right and to fit in within the group norms. Thinking is dominated by whether one has the right appearance, behaviors, and thoughts. Social stability comes at the price of wearing a mask. People may distance themselves from their unique nature, personal desires, needs, and feelings; instead, embracing a socially acceptable self. The shadow side of this worldview is that workers are often viewed as mostly lazy, dishonest, and in need of direction. Management and supervision is believed to be necessary to ensure work is carried out properly.
+  在[琥珀组织](../amber-paradigm-and-organizations/),中，很重视稳定性和对集团规范的尊重。琥珀的领袖寻求秩序、稳定和可预测性。人们对变化持怀疑态度。通过结构化和官僚机构来维持控制。这些都培育一种从众文化。最重要的是做正确的事，并符合组织规范。重点考虑一个人是否有正确的外表、行为和思想。社会稳定的代价是人人都戴上伪装面具。人们可能会远离自己独特的本性、个人欲望、需求和感受，不得不包装并培育一个社会可以接受的自我形象。这种世界观的阴暗面是，工人们通常被视为懒惰、不诚实、需要指导。为确保工作得到妥善开展，管理和监督被认为是理所当然。
 
 
   ##### Orange organizations
