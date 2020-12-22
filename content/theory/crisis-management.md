@@ -52,7 +52,7 @@ inPractice: >-
   蔚蓝组织所采用的常规[决策](../decision-making/)模式是建议流程，这个流程支撑分布式决策权。这也是蔚蓝组织处理危机局势的首选方法。
 
 
-  ##### *相信流程*
+  ##### *坚持建议*
 
 
   通过建议（咨询）流程进行危机管理是[自我管理](https://cn.reinventingorganizationswiki.com/theory/self-management/)的终极体现。在危机中，敏感和紧急的决策可能会对员工和整个组织产生负面影响：例如，失业或出售部分业务。
@@ -67,20 +67,20 @@ inPractice: >-
   具体参见下面案例章节的[法维](http://www.favi.com/)和[布尔佐格](http://www.buurtzorgnederland.com/)。
 
 
-  #### Suspending the advice process
+  #### 暂停建议流程
 
 
-  Occasionally a crisis may require the advice process to be suspended because of the scale or urgency of the situation. Under these circumstances the leader may choose to suspend the advice process temporarily. This can be acceptable providing:
+  有时，由于情况的严重性或紧迫性，危机决策可能需要暂停成员建议流程。在这种情况下，领导可以选择暂时中止建议流程。这是可以接受的，但前提是：
 
 
-  * the reasons for the suspension are fully disclosed
+  * 完全公开暂停理由
 
-  * the limitations (time period, areas of decision making etc) are explained
+  * 明确解释暂停条件和限制（时间段、决策领域等）
 
-  * Decision making is passed to a capable person rather than the leader
+  * 决策权交给有能力的人而不是领导者
 
 
-  See [AES](http://www.aes.com/) below.
+  具体参见下列案例中的[AES](https://www.aes.com/) 。
 
 
   #### Self-management
