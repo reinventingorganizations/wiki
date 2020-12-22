@@ -10,14 +10,10 @@ intro: |-
 
   ![](/media/conflict.jpg)
 perspective: >-
-  Conflict resolution is a vital piece of the system in a Teal organization. If
-  there is no boss to act as a conflict meditator, then a new process to handle
-  conflict is required. In a Teal organization, conflict resolution is based on
-  peer relationships. Without this approach, the organization would find it very
-  difficult, if not impossible, to function.
+  冲突解决是蔚蓝组织体系内的一个至关重要的板块。如果没有上司充当解决纠纷的中介，就需要开发一种新流程来处理冲突。在蔚蓝组织内，冲突解决基于同事连带感的人际关系。如果不努力打造良好的人际关系，就会发现这个流程很难奏效，或根本无效。
 
 
-  Most Teal organizations work on certain assumptions about human nature: that workers are thoughtful, trustworthy adults, capable of being accountable and responsible for their decisions and actions. In a workplace based on Teal assumptions, a clear conflict resolution process, together with appropriate training, gives people the path and skills to work through disagreements with maturity and grace
+  多数蔚蓝组织都以人性的某些基本假设为运作依据：员工都是很有思想，值得信赖的成熟人格，有能力并可靠，能对自己的决策和行为负责。在一个以这些蔚蓝假设为依据的职场内，清晰定义好的冲突解决流程，配合良好的实施培训，能给成员提供一套途径和技巧，用于淡定而优雅的处理不一致见解。
 
 
   Every historical stage has given birth to a distinct perspective on conflict resolution and to very different practices:
