@@ -37,7 +37,7 @@ perspective: >-
   #### 绿色组织
 
 
-  Values-driven, purpose-led [Green organizations](../green-paradigm-and-organizations/) strive to serve multiple stakeholders. Front-line employees, for example, are often encouraged to make significant decisions without higher approvals in the interests of serving customers and the wider stakeholder community. They are in touch with the day-to-day issues, and trusted to devise better solutions than ‘experts’ who may be far away. Emphasis is on maintaining a strong, often “familial”, culture. Consensus is highly valued.
+  价值观驱动、目标导向的[绿色组织](../green-paradigm-and-organizations/) strive to serve multiple stakeholders. Front-line employees, for example, are often encouraged to make significant decisions without higher approvals in the interests of serving customers and the wider stakeholder community. They are in touch with the day-to-day issues, and trusted to devise better solutions than ‘experts’ who may be far away. Emphasis is on maintaining a strong, often “familial”, culture. Consensus is highly valued.
 
 
   #### Teal organizations
