@@ -196,17 +196,17 @@ inPractice: >-
   AES是一家拥有4万名员工的公司，“建议流程”一词是在那里产生的。但其运作还带有等级制度的痕迹。虽然任何人都可以启动这个过程，但必须咨询某些特定类型的同事。必须咨询对象可能包括上级，甚至董事会。
 
 
-  #### Sources that inform decision-making
+  #### 决策的信息源
 
 
-  Teal organizations tend to take a broad range of sources into account:
+  蔚蓝组织倾向于考虑更广泛的决策信息源：
 
 
-  * **Rationality**: Many think that rationality rules, and is the legitimate basis for decision-making. Teal considers rational, analytical approaches to be critical, but not the only source to inform decision making.
+  * **理性**: 很多人认为理性是规则，是决策的合法依据。蔚蓝模式也认为理性的、分析性的方法是至关重要的，但不是决策的唯一信息源。
 
-  * **Emotions**: Whereas the modern-scientific perspective is wary of emotions, Teal recognizes that wisdom is to be found there when we learn to inquire into their significance: "Why am I angry, fearful, ambitious, or excited? What does this reveal about me or about the situation that is unfolding?"
+  * **情绪**: 虽然现代科学观点对情绪持谨慎态度，但蔚蓝模式认识到，当我们学习探究情绪的意义时，可以在其中获得智慧：“为什么我愤怒、恐惧、雄心勃勃或兴奋？这对我或正在展开的形势有什么启示？”
 
-  * **Intuition**: Wisdom can be found in intuition, too. Intuition honors the ambiguous, paradoxical, non-linear nature of reality. We unconsciously connect patterns in ways that our rational mind cannot. Many great minds, like Einstein, had a deep reverence for intuition. They claim it is a muscle that can be trained. Learning to pay attention to intuitions, to question them for guidance, allows intuitive answers to surface.
+  * **直觉**: Wisdom can be found in intuition, too. Intuition honors the ambiguous, paradoxical, non-linear nature of reality. We unconsciously connect patterns in ways that our rational mind cannot. Many great minds, like Einstein, had a deep reverence for intuition. They claim it is a muscle that can be trained. Learning to pay attention to intuitions, to question them for guidance, allows intuitive answers to surface.
 
   * **Paradoxical thinking**: A Teal breakthrough is the ability to live with paradox; beyond "either-or" to "both-and" thinking. Breathing in and breathing out illustrates the difference. Either-or thinking sees them as opposites. Both-and thinking sees them as needing each other. The more we can breathe in, the more we can breathe out. One such paradox is the advice process: it is a decision-making process that at once encourages individual initiative and the voice of the collective. It's both-and.
 
