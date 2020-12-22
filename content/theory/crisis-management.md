@@ -52,10 +52,10 @@ inPractice: >-
   蔚蓝组织所采用的常规[决策](../decision-making/)模式是建议流程，这个流程支撑分布式决策权。这也是蔚蓝组织处理危机局势的首选方法。
 
 
-  ##### *Trusting the process*
+  ##### *相信流程*
 
 
-  Crisis Management via the advice process is an ultimate demonstration of \[Self-Management Self Management]. In crises, sensitive and urgent decisions may have negative implications for employees and the organization as a whole: for example, loss of jobs, or selling off parts of the business.
+  通过建议（咨询）流程进行危机管理是[自我管理](https://cn.reinventingorganizationswiki.com/theory/self-management/)的终极体现。在危机中，敏感和紧急的决策可能会对员工和整个组织产生负面影响：例如，失业或出售部分业务。
 
 
   It is natural, given the earlier organization models, to question the capacity of staff to be included in making decisions in such sensitive circumstances.
