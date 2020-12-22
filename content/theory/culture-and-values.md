@@ -101,9 +101,9 @@ inPractice: >-
 
   * **信任:** 蔚蓝组织的实践基于信任。以信任对人，对方也会回应信任。信任能激发人的负全责精神。也能降低对金字塔控制体系的依赖，催化[自我管理](../self-management/) 。 
 
-  * **Transparency:** When people have access to business information, often held by management, they can act and take decisions that are good for the whole. When there is transparency and openness collective intelligence is available to all. Sensitive information can be shared because everyone is able and trusted to handle difficult news. 
+  * **信息透明:** 当人们有机会接触到那些传统上由管理人员控制的商务信息，就有机会站在整体利益最大化角度自觉行动并决策。透明和信息开放能让全员有机会拥有集体智慧。敏感信息也被公开共享，因为组织信任每个人都足够成熟，能恰当的处理那些疑难信息。
 
-  * **Responsibility and accountability:** Everyone has a responsibility to the organization for sensing issues or opportunities and addressing them. People are expected to be comfortable with holding each other accountable for their [commitments](../commitment-working-hours-and-flexibility/), through [feedback](../feedback-and-performance-management/) and respectful confrontation.
+  * **负责与可靠:** 每个人都有责任为组织发现问题或机遇，并及时提出。组织期待每个成员通过坦诚 [反馈](../feedback-and-performance-management/) 和以敬重为前提的对峙，打造能毫无疑问的互相依赖对方 [承诺](../commitment-working-hours-and-flexibility/) 的信任关系。
 
 
   #### Wholeness
