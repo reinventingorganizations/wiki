@@ -10,11 +10,7 @@ intro: |-
 
   ![](/media/decision.jpg)
 perspective: >-
-  在[蔚蓝组织](../teal-paradigm-and-organizations/) decision-making is highly
-  distributed. Front-line individuals or teams have the opportunity to make
-  decisions that affect their work. While these decisions may not need to be
-  validated by a hierarchy or consensus, it is expected that experts, and those
-  affected, should be involved.
+  在[蔚蓝组织](../teal-paradigm-and-organizations/)中，决策权高度下放而分散。一线个人或团队有机会做出影响自己工作的决策。尽管决策可能不需要经过等级制度或共识的批准，但还是让专家和受影响的人都参与决策。
 
 
   Every historical stage has given birth to a distinct perspective on decision making and to very different practices. In earlier periods, decisions may have been made at the top. Today, some organizations consciously try to "empower" people at the bottom. 
