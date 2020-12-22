@@ -98,19 +98,19 @@ inPractice: >-
   * **乐趣**: 这个过程对决策者而言很有趣，因为这很类似于玩团队游戏。建议流程激发了主动性和创造性，而这些素质又会通过组织中其他知识渊博者的智慧而得以强化。
 
 
-  #### Steps in the advice process
+  #### 建议流程的步骤
 
 
-  There are a number of steps in the advice process:
+  建议流程分为几个步骤：
 
 
-  * Someone notices a problem or opportunity and takes the initiative, or alerts someone better placed to do so.
+  * 有人注意到一个问题或机会，于是自己主动提出，或提醒更合适的人选来提出。
 
-  * Prior to a proposal, the decision-maker may seek input to sound out perspectives before proposing action. 
+  * 倡议前，决策者可以在提出倡议之前就征求意见，以整理自己的观点。
 
-  * The initiator makes a proposal and seeks advice from those affected or those with expertise. 
+  * 发起人提出倡议，并向受影响者或具有专业知识的人寻求建议。
 
-  * Taking this advice into account, the decision-maker decides on an action and informs those who have given advice.
+  * 考虑过收到的建议之后，决策者做出行动决策，并将决策内容告知给出建议的人。
 
 
   #### Forms the advice process can take
