@@ -54,7 +54,7 @@ inPractice: >-
   很多组织都知道，定义价值观体系很有帮助。在[蔚蓝组织](../teal-paradigm-and-organizations/) 中，这些价值观和[目标](../evolutionary-purpose/)成为组织文化的根本核心，影响着组织的多数行为和流程。这些价值观一般源于缔造者的愿景，通常会通过集体智慧来定义。价值观及其相关的基本规则并不是僵化固定的，这些都很开放，会被持续的讨论和改善，以保障这些内容一直能真实的反应该组织内人们的生活与信念。有些组织还定义了一套简洁的纲领，主要是关于人性的努力与行为的共识信念或假设。
 
 
-  ##### *Ground rules for safe space*
+  ##### *打造安全安心空间的基本原则*
 
 
   To show up fully in the presence of others, as [Teal organizations ](../teal-paradigm-and-organizations/)encourage, people need to feel it is safe to do so. Having a defined set of values translated into clear "ground rules", when necessary, helps to do this.
