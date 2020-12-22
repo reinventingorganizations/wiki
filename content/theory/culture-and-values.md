@@ -106,10 +106,10 @@ inPractice: >-
   * **负责与可靠:** 每个人都有责任为组织发现问题或机遇，并及时提出。组织期待每个成员通过坦诚 [反馈](../feedback-and-performance-management/) 和以敬重为前提的对峙，打造能毫无疑问的互相依赖对方 [承诺](../commitment-working-hours-and-flexibility/) 的信任关系。
 
 
-  #### Wholeness
+  #### 完整人性
 
 
-  Teal organizations seek a workplace that honors the humanness of the people who work there. The following are examples of the types of values/principles that support wholeness:
+  蔚蓝组织寻求一种能敬重所有共同劳动者人性的职场。下面是一些支撑完整人性的价值观/规则案例：
 
 
   * **Equal worth:** All people are of equal worth and at the same time different. Community will be richest when members are able to contribute in their distinctive way, whilst appreciating their differences. 
