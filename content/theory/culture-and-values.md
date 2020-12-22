@@ -114,20 +114,20 @@ inPractice: >-
 
   * **平等价值:** 所有人价值平等，同时独一无二。当成员们能以各自独特的方式做出贡献，并因其独到之处而得到感谢，社区会得到最丰盛的利益。
 
-  * **安全安心充满关怀的空间:** Situations are approached from love and connection rather than fear and separation. Creating a safe environment where everyone can behave authentically is essential. 
+  * **安全安心充满关怀的职场:** 各种状况都本着爱与一体连接感这个出发点去处理，而不是源于恐惧和分离。创造一个每人都能主权运作的环境至关重要。
 
-  * **Overcoming separation:**  All people are connected. We aim to create a workplace where cognitive, physical, emotional and spiritual aspects are be honored and valued. 
+  * **超越身份分离:**  所有人都互联着组成一体生命。我们致力于建造一个精神、肉体、情感和灵性侧面都能得到尊重和珍视的职场。
 
-  * **Relationships and conflict:** It is impossible to change other people. We can only change ourselves. We take ownership of our thoughts, beliefs, words and actions. We don’t spread rumors. We don’t talk behind someone’s back. We don’t blame problems on others.
-
-
-  #### Evolutionary purpose
+  * **人际关系与冲突:**改变他人是不可能的。我们只能改变自己。我们对自己的思想、信念、言辞和行为拥有主权及责任。我们不传谣。我们不背后议论别人。出问题时我们不埋怨他人推卸责任。
 
 
-  Listening deeply to both the organization and to ourselves is essential in finding[ evolutionary purpose.](../evolutionary-purpose/) The following  are examples of the types of values/principles that support evolutionary purpose:
+  #### 进化目标
 
 
-  * **Collective purpose:** We view the organization as having a soul and [purpose ](https://reinventingorganizations-wiki.netlify.app/theory/listening-to-purpose/)of its own. We try to listen in to where the organization wants to go and beware of forcing a direction onto it. 
+  要找到[进化目标](../evolutionary-purpose/)，最重要的是深度聆听组织和自我的内在需求。下面是一些支撑进化目标的价值观/规则案例：
+
+
+  * **集体目标:** 我们将组织看作是个有着自己灵魂和[目标](https://reinventingorganizations-wiki.netlify.app/theory/listening-to-purpose/)的生物。我们试图聆听组织想去何方，而不是企图将某个方向强加给组织。
 
   * **Individual purpose:** We have a duty to ourselves and to the organization to inquire into our personal sense of calling to see if and how it resonates with the organization’s purpose. We try to imbue our roles with our souls, not our egos. 
 
