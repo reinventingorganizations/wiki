@@ -93,10 +93,10 @@ inPractice: >-
   上述理论和实践指南，支撑了蔚蓝模式的三种创新，自我管理，完整性，进化目标：[自我管理](../self-management/), [完整人性](../wholeness/) ，[进化目标](../evolutionary-purpose/) 。
 
 
-  #### Self-management
+  #### 自我管理
 
 
-  Self-managing structures transcend the issue of culture versus systems. Inner and outer dimensions, culture and systems, work hand in hand, not in opposite directions. The following are some examples of the types of values/principles that support self-management:
+  自我管理结构能超越文化与系统之间的矛盾。在这个结构里，内在和外在次元，文化与系统，开始联手运作而不是背道而驰。下面是一些能支撑自我管理结构的不同类型价值观/理论的案例：
 
 
   * **Trust:** Teal practices are based on trust. Meet people with trust and they will respond with trust. Trust enables people to be fully responsible. It also lowers the need for hierarchy and control and enables [self-management](../self-management/). 
