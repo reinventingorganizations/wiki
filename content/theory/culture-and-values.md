@@ -76,12 +76,12 @@ inPractice: >-
 
   * 价值观日或定期活动：组织每年一次的喜庆活动，邀请全员重新浸染组织目标，价值观和基本规则。
 
-  * Values meeting: every month or so, a meeting will take place where colleagues are invited to bring up issues with values and ground rules in the workplace and suggest changes. Values can also be discussed during Large Group Reflections.
+  * 价值观会议：大约每月一次，开会邀请同事们提出在职场发现的关于价值观和规则的疑问，以及解决方案建议。在全局反思会中也可以议论价值观话题。
 
-  * Values survey: cultivating discussions around values can be supported by an annual survey.
+  * 价值观检测：年度检测可以撑价值观，并为价值观的谈论制造机会。
 
 
-  #### Culture and value-based recruitment
+  #### 基于文化和价值观的招聘
 
 
   [Teal organizations](../teal-paradigm-and-organizations/) understand that a person's attitude and behaviors are as important as their skills. Therefore significant energy is devoted to finding people that fit with the organization's culture and values. New recruits are carefully interviewed to ensure they can thrive in the environment. It is a two way discovery processes aiming at finding out if the organization and individual are meant to “journey together”. 
