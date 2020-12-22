@@ -187,10 +187,10 @@ inPractice: >-
   (有关基于同意的决策的说明，请参见[ https://thedecider.app/consent-decision-making](https://thedecider.app/consent-decision-making))
 
 
-  #### The advice process within a hierarchy
+  #### 等级制度中的建议流程
 
 
-  Some organizations want to move toward self-management, but cannot move away from hierarchy completely. Others, especially large organizations, prefer to adopt interim steps. This can be part of a transition to self-management.  
+  有些组织想要走向自我管理，但还不能完全脱离等级制度。还有些组织，特别是大型组织，则选择采取一些临时过度措施。这是向自我管理过渡的一部分。
 
 
   AES, the 40,000 employee company where the term "advice process' was coined, operated with remnants of a hierarchy. Anyone could initiate the process, but it was mandatory to consult certain categories of colleagues. These might include one's superiors, or even the board.
