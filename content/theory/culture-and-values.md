@@ -57,10 +57,10 @@ inPractice: >-
   ##### *打造安全安心空间的基本原则*
 
 
-  To show up fully in the presence of others, as [Teal organizations ](../teal-paradigm-and-organizations/)encourage, people need to feel it is safe to do so. Having a defined set of values translated into clear "ground rules", when necessary, helps to do this.
+  [蔚蓝组织](../teal-paradigm-and-organizations/)鼓励人们在他人面前展示真实完整的自我（不伪装），其前提就是让人们感觉到这样做很安全。必要时定义一套已经被翻译成清晰基本规则的价值观，会对此有帮助。
 
 
-  Some examples are: [RHD](http://www.rhd.org/)’s Bill of Rights and Responsibilities, [Morning Star](http://www.morningstarco.com/)’s Colleague Principles, [FAVI](http://www.favi.com/)'s fiches or [Holacracy](http://www.holacracy.org/)'s Constitution. These documents provide a vision for a safe and productive workplace. They give colleagues a vocabulary to discuss healthy relationships, and they draw lines that separate recommended from unacceptable behaviors.
+  案例: [RHD](http://www.rhd.org/)的责权清单，[晨星](http://www.morningstarco.com/)的同事守则，[法维](http://www.favi.com/)的词条，或[霍尔](https://www.holacracy.org/)的 Constitution. These documents provide a vision for a safe and productive workplace. They give colleagues a vocabulary to discuss healthy relationships, and they draw lines that separate recommended from unacceptable behaviors.
 
 
   Some startups find it important to draft a full version of such a document early on. Others will develop one as they grow. Organizations make sure they are written collectively so that they are full owned by all the people.
