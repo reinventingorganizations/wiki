@@ -26,7 +26,7 @@ perspective: >-
   #### 琥珀组织
 
 
-  在[琥珀模式](../amber-paradigm-and-organizations/), the organization is more stable and predictable.  Processes and procedures define the way things are done. It is assumed that workers need direction.  In the unpredictable realm of crisis, the CEO and highest management make decisions which are then translated into orders for those further down the hierarchy. They are expected to follow without question.
+  在[琥珀模式](../amber-paradigm-and-organizations/)中，组织变得更加稳定和可预测。开始通过流程和程序定义完成任务的方式。认为工人需要指导。在不可预测的危机领域，首席执行官和最高管理层会做出决策，然后将这些决策转化为对下一层的命令。期待部下毫无疑问的执行决策内容。
 
 
   #### Orange Organizations
