@@ -5,10 +5,7 @@ key: Project teams and task forces
 name: 项目团队与工作组
 sortOrder: 4
 category: Structure of an organization
-intro: "This article describes how cross functional teams emerge and operate,
-  and how their activities fit with the rest of the organizational design.\r
-
-  \r\n"
+intro: 本文描述了跨职能团队如何产生和运作，以及他们的活动如何与组织设计的其余部分相适应。
 perspective: >-
   在早期的组织阶段，项目团队和工作组都只能由有权突破严格的组织界限的上级管理层负责建立。通常会任命一名项目经理/团队领导，并根据能力、现有结构中的职位、忠诚度或与他人协作的能力等因素选择团队成员。项目经理指导团队成员的活动。当上级管理层认为已取得成果、或判定项目失败或无成功前景不再值得努力时，就决定解散该团队/任务组。
 
