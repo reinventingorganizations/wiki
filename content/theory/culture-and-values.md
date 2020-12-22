@@ -133,7 +133,7 @@ inPractice: >-
 
   * **规划未来:** 试图预测或掌控未来是徒劳的。我们只有在某个特定决策需要时，才会做短期的未来预测。如果我们能不再试图控制，而代之以对大道进行单纯的感受与回应，所有一切都会自然而然的呈现出无法想象的美妙成果。无为而治，道法自然。
 
-  * **Purpose and Profit:** In the long run, there are no trade- offs between purpose and profits. If we focus on purpose, profits will follow.
+  * **目标和利润:** 从长远角度，在目标与利益之间并不存在对立关系。如果我们聚焦目标，利益会自然随之呈现。
 faq:
   - question: Do you need to change your set of values and ground rules when you
       transition to Teal?
