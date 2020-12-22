@@ -19,10 +19,10 @@ perspective: >-
   ##### 红色组织
 
 
-  In [Red organizations](../red-organizations/), leaders typically demonstrate egocentric behaviors driven by their personal need for power and control. They are often impulsive and find ways to exert their dominance. This creates a culture of a fear, control, risk taking and submission. Close bonds are usually formed by those in the organization.
+  在[R红色组织](../red-organizations/)中，领导者通常表现出以自我为中心的行为，这些行为被他们对权力和控制的个人需求驱动着。他们常常很冲动、想方设法发挥自己的支配地位。这创造了一种恐惧、控制、甘冒风险和顺从的文化。团队的紧密关系通常是靠这些要素来维持。
 
 
-  ##### Amber organizations
+  ##### 琥珀组织
 
 
   In [Amber organizations](../amber-paradigm-and-organizations/), stability and respect for the group norms are highly valued. The Amber leader looks for order, stability, and predictability. Change is viewed with suspicion. Control is maintained through institutions and bureaucracies. This tends to creates a culture of conformity. The focus is to do what is right and to fit in within the group norms. Thinking is dominated by whether one has the right appearance, behaviors, and thoughts. Social stability comes at the price of wearing a mask. People may distance themselves from their unique nature, personal desires, needs, and feelings; instead, embracing a socially acceptable self. The shadow side of this worldview is that workers are often viewed as mostly lazy, dishonest, and in need of direction. Management and supervision is believed to be necessary to ensure work is carried out properly.
