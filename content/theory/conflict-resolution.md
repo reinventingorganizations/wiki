@@ -50,7 +50,7 @@ perspective: >-
   #### **Teal organizations**
 
 
-  在[蔚蓝组织](../teal-paradigm-and-organizations/), conflict is seen as a natural part of human interaction and, when safely supported, is often viewed as healthy and creative. Conflict handled with grace and tenderness can create possibility and learning for all involved. In Teal organizations time is regularly devoted to surface and address conflicts in individual and group settings. Often formal, multi-step conflict resolution practices are used and everyone is trained in conflict management. Conflict is restricted to the parties involved, and mediators, or peers who might be asked to serve on a mediating panel. Such a panel rarely has responsibility to impose a solution. The focus is instead on helping the involved parties find a solution.
+  在[蔚蓝组织](../teal-paradigm-and-organizations/), 冲突被看作人性互动中的一个自然组件，如果能得到有心里安全的支持，一般会被看作是个健康而富有创造力的元素。被优雅而温和处理过的冲突，会为所有相关成员创造出新的可能性和学习收获（智慧）。在蔚蓝组织内，会定期投入时间去有意呈现和识别个人和小组环境内的冲突。一般运用复数步骤的冲突解决方法，每个人都接受冲突管理培训。冲突一般被局限在各个关联方、中介人、或某个被邀请做调节员的同事。这类调解员一般不负责强加某个解决方案。调节的焦点是帮助相关各方自觉找到解决方案。
 inPractice: >-
   **An organizational culture that supports effective conflict resolution** 
 
