@@ -16,10 +16,10 @@ perspective: >-
   组织在每一个历史阶段都产生了不同的决策视角和截然不同的实践。在早期组织中，有些是高层做出决策。但现代的一些传统组织也已经开始有意识地试图“授权”给底层成员。
 
 
-  #### Red organizations
+  #### 红色组织
 
 
-  In the[ Red paradigm](../red-organizations/), decisions of any consequence are made by the boss/chief. Employees must seek his or her approval, or risk severe consequences. Red organizations can be efficient, but control, exercised through fear, limits the willingness of members to make independent decisions.
+  在[红色组织](../red-organizations/)中，任何后果的决定都由老板/主管做出。员工的行动必须征得老板的同意，否则将面临严重后果。红色组织的执行效率源于人性恐惧带来的控制，这降低了成员做出自主决策的意愿。
 
 
   #### Amber organizations
