@@ -6,9 +6,7 @@ name: 危机管理
 sortOrder: 8
 category: Important Processes
 intro: >-
-  The topic of Crisis Management addresses the organizational process of making
-  swift or particularly challenging decisions at times of crisis, and how this
-  may differ from regular [decision making](../decision-making/) processes.
+  危机管理的主题涉及到，蔚蓝组织在发生危机或进行特别具有挑战性决策时，如何迅速而有效进行组织活动，及其与常规[决策](../decision-making/)过程的不同。
 
 
   ![](/media/crisis.jpg)
