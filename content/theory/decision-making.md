@@ -174,10 +174,10 @@ inPractice: >-
   建议流程的一个变化版本是基于同意的决策。“同意”与“共识”在一致性角度上有所不同。同意原则上是说，只要没有人有合理的、实质性的反对（也称为“否决”），就可以做出决定。同意并不意味着每个人都喜欢这个决定，而只是他们可以接受。
 
 
-  In practice, consent means that if one person raises a principled objection, the decision is blocked. The proposer must pause and, together with the objector, devise a solution that overcomes the objection. A block in a consensus process is a signal to the whole team to "swarm" to understand the objection and problem solve.
+  在实践中，同意方式的决策意味着如果一个人提出原则性的反对意见，决定将被阻止。提议者必须停下来，与反对者一起想出一个能克服异议的解决办法。共同意程中出现的否决，是一个信号，让整个团队“蜂拥”在一起，尝试理解这个异议和要解决的问题。
 
 
-  Giving such power to a principled objection can be both valuable and dangerous. Valuable because sometimes a single person senses something important that no one else sees. On the other hand, such power can be abused if people block decisions for reasons other than purpose. Groups that use consent-based decision-making often take blocking and shared understanding about policies and culture around blocking very seriously for this reason. (For a real-world example, see the [Enspiral Decision Agreement](https://handbook.enspiral.com/decisions_agreement.html)).
+  让同事提出有原则的反对意见，这个权力既有价值也有危险。有价值是因为有时候一个人能感觉到一些别人看不到的重要东西。另一方面，如果人们出于工作目的以外的原因阻挠决策，这种权力可能会被滥用。出于这个原因，一个组织如果采用基于同意的决策流程，通常会非常认真地对待否决，并重视对关于否决的礼仪和文化共识。（有关真实示例，请参阅[螺旋形决策](https://handbook.enspiral.com/decisions_agreement.html)）。
 
 
   Some methods, like Holacracy, deem an objection valid only if the argument passes stringent tests, such as it makes matters worse. A colleague cannot block a proposal simply because he or she thinks they have a better proposal, or because they don't love an idea.
