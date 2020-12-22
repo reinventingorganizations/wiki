@@ -98,10 +98,10 @@ inPractice: >-
   危机局势为一个组织提供机会，促进组织更加融为一个整体，更紧密的团结在一起寻找解决办法（共患难）。这通常会创造出一个强大的解决方案，远比领导者或一群顾问孤立创造的方案都更神奇更高明（集体智慧）。当这些情况被成功地解决时，组织会集体性经历一个朝向[整体性](https://cn.reinventingorganizationswiki.com/theory/wholeness/)成长的体验。
 
 
-  #### Evolutionary purpose
+  #### 进化目标
 
 
-  When employees are engaged in the advice process in a crisis, they are invited to understand what is unfolding and participate actively in the decisions that need to be taken. Deciding what to do asks everyone to re-connect with the purpose of the organization. Serving the needs of the evolutionary purpose becomes an important factor in deciding what to do. Without this reference point, decision making can easily be dominated by self interest and survival needs.
+  当成员在危机中参与建议流程时，会被邀请了解正在发生的事情，并积极参与需要做出的决策。为了决定该做什么，自然要求每个人重新认识到组织的目标。是否满足组织进化目标的需要，自然成为决定做什么的一个重要因素。没有这个参照点，决策很容易被个人自身利益和生存需求所支配。
 faq:
   - question: No matter what is theoretically attractive, there must be occasions
       when 'the buck stops here'?
@@ -118,4 +118,3 @@ relatedTheory:
   - Change Management
   - Decision Making
 ---
-to be removed
