@@ -10,12 +10,12 @@ perspective: >-
   在早期的组织阶段，项目团队和工作组都只能由有权突破严格的组织界限的上级管理层负责建立。通常会任命一名项目经理/团队领导，并根据能力、现有结构中的职位、忠诚度或与他人协作的能力等因素选择团队成员。项目经理指导团队成员的活动。当上级管理层认为已取得成果、或判定项目失败或无成功前景不再值得努力时，就决定解散该团队/任务组。
 
 
-  Project teams and task forces in Teal organizations have the following characteristics:
+  蔚蓝组织中的项目团队和工作组具有以下特点：
 
 
-  * They organically emerge and disband, depending on what the evolutionary purpose of the organization calls for at the time. They are not appointed by someone given authority to do so.
+  * 根据组织的进化目标自然出现和解散。不需要任何权威角色建立或任命。
 
-  * They are staffed with people who think the project is important, can and will attend to the project immediately, and are not necessarily the “best educated or best experienced persons for the job”.
+  * 团队成员由认为项目很重要的（喜欢），同时愿意并能立即参与项目的人组成，选人标准不一定是“接受过最好教育或最有经验的人”。
 
   * There is no single person to “lead” the team or task force or “manage” the project.
 
