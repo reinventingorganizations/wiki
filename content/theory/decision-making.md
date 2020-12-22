@@ -206,15 +206,15 @@ inPractice: >-
 
   * **情绪**: 虽然现代科学观点对情绪持谨慎态度，但蔚蓝模式认识到，当我们学习探究情绪的意义时，可以在其中获得智慧：“为什么我愤怒、恐惧、雄心勃勃或兴奋？这对我或正在展开的形势有什么启示？”
 
-  * **直觉**: Wisdom can be found in intuition, too. Intuition honors the ambiguous, paradoxical, non-linear nature of reality. We unconsciously connect patterns in ways that our rational mind cannot. Many great minds, like Einstein, had a deep reverence for intuition. They claim it is a muscle that can be trained. Learning to pay attention to intuitions, to question them for guidance, allows intuitive answers to surface.
+  * **直觉**: 智慧也可以在直觉中找到。直觉尊重现实的模糊性、矛盾性、和非线性本质。人可以无意识的、以理性思维无法达到的方式连接一些模式。许多伟人，如爱因斯坦，对直觉有着深深的崇敬。他们声称这是一种可以训练的肌肉。要学会关注直觉，质疑直觉，让直觉的答案浮出水面。
 
-  * **Paradoxical thinking**: A Teal breakthrough is the ability to live with paradox; beyond "either-or" to "both-and" thinking. Breathing in and breathing out illustrates the difference. Either-or thinking sees them as opposites. Both-and thinking sees them as needing each other. The more we can breathe in, the more we can breathe out. One such paradox is the advice process: it is a decision-making process that at once encourages individual initiative and the voice of the collective. It's both-and.
-
-
-  #### More to read
+  * **悖论思维**: 蔚蓝的一个新突破是获得了接受悖论的能力；超越“非此即彼”进化到“兼而有之”的思维（东方哲学）。吸气和呼气解释了这个区别。有时我们认为两者是对立的。“两者都”思维认为两者互相需要。我们越能吸气，就越能呼出。建议流程就是个悖论：这个决策流程，既鼓励个人主动性也鼓励集体呼声这对矛盾。两个都要，和。
 
 
-  An Introduction to the Advice Process, with a video of Frédéric Laloux on this topic
+  #### 更多阅读
+
+
+  这个连接介绍建议流程，并提供关于这个主题的Frédéric Laloux视频
 
   <http://dev.alchemi.co.uk/adviceprocess/#/page/5cf823717fb0de42f3aeddfc>
 faq:
