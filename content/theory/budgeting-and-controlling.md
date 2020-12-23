@@ -15,10 +15,10 @@ perspective: >-
   每一个历史阶段都产生了对预算和控制的不同观点和实践方式：
 
 
-  #### Red Organizations
+  #### 红色组织
 
 
-  Budgeting and Controlling in today's understanding would not be recognized in [Red Organizations](../red-organizations/).  Planning tends to be shorter term with limited ability for long term strategy.  The focus is typically on responding to new threats or opportunities that can be pursued for exploitation or gain.
+  目前我们所理解的预算和控制概念，还没有出现在[Red 红色组织](../red-organizations/)  红色组织中。他们的计划往往是短期的，因当时制定长期战略的能力很有限。红色的重点通常是对新的威胁或机遇进行回应，以便榨取或从中获利。
 
 
   #### Amber Organizations
