@@ -16,7 +16,7 @@ perspective: >-
   蔚蓝前组织是建立在这些旧模式的基础上，所以推动变革确实很不易。这些早期范式将变革视为不幸的结果，或管理失败的结果。传统管理层的工作是为了预测和/或控制未来，这当然会带来令他们吃惊的结果。他们认为现实应该符合一个执行良好的预算和战略计划。如果结果不如意，管理层往往迟迟不承认他们的失败。当他们最终承认说，在追求自己的计划时，周围的世界已经发生了变化时，往往会对自己所见到的现实感到不安。于是感觉到必须再次采取果断行动，才能弥补损失的时间。进而导致进一步的紧急施压。
 
 
-  The change will be painful (they imagine), but once accomplished, everything will be fine again. And so, they hasten to redesign the machinery of the organization. Unsurprisingly, people resist change being imposed upon them. To overcome this, management may feel compelled to play on fears, and choose to blame hostile competitive forces or titanic environmental factors that threaten the organization’s survival if it doesn't react. .
+  他们认为改变是痛苦的，但一旦完成，一切都会好起来。因此，会赶紧重新设计组织的机构。人们会抵制强加给自己的变革，这毫不奇怪。为了克服这一点，管理层可能会迫不及待的利用成员的恐惧，来迫使大家做出迅速反应，或将责任推卸给敌对的竞争力量或威胁组织生存的巨大环境压力。
 
 
   Thus, change tends to happen in a series of ‘jumps’. This is not a fluid, emergent process. It’s a series of discrete and usually disruptive movements, from one relatively static state to another.
