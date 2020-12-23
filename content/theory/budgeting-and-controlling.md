@@ -39,7 +39,7 @@ perspective: >-
   #### 绿色组织
 
 
-  [绿色组织](../green-paradigm-and-organizations/) are often ill at ease with a finance dominated perspective on performance management.  Whilst ‘predict and control’ methods are still used, other non-financial measures (for example, employee engagement and customer satisfaction) are valued as equally important. Budgeting is similar to that found in Orange organizations, but the measures are likely to be broader and agreed via a ‘bottom up’ as well as a ‘top down’ approach.
+  [绿色组织](../green-paradigm-and-organizations/)通常对财务主导的绩效管理做法感到不安。虽然仍在使用“预测和控制”方法，但其他非财务指标（例如，成员敬业度和客户满意度）也被放在同样重要的位置。预算编制与橙色组织类似，但考虑的要素可能会更广泛，并通过“自下而上”和“自上而下”并用的方法来达成一致。
 
 
   #### Teal Organizations
