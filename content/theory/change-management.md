@@ -28,13 +28,13 @@ perspective: >-
   相比之下，生物系统似乎有能力感知环境的变化并从内部自发适应。在森林里，没有一棵头树计划并命令其他树木在没下雨，或春天选择提早到来时该做些什么。此时此刻，整个生态系统都会自发做出创造性的反应。蔚蓝组织以类似的方式处理变革。人们被鼓励去做他们认为需要的事情。他们不受静态的职位描述、固定的上下指令汇报关系或职能纪律的限制。他们会对组织生命过程中出现的非线性变化做出创造性的反应。蔚蓝模式内的变化是意料之中的，总是自然而然地发生。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4671-4688). Nelson Parker. Kindle Edition.]
 
 
-  For more on how earlier stages undergo organizational change, see below:
+  有关早期阶段如何经历组织变革的更多信息如下：
 
 
-  #### Red organizations
+  #### 红色组织
 
 
-  In [Red Organizations](../red-organizations/), change is directed by the boss. A Red organization can often adapt quickly in chaotic environments, because the leader can initiate rapid change, if necessary through intimidation. Change typically consists of immediate reactions to threats and opportunities rather than a response to more gradual and longer term (although no less important) developments. Little attention is paid to altering ingrained patterns of employee behavior over time.
+  在[红色组织](../red-organizations/), change is directed by the boss. A Red organization can often adapt quickly in chaotic environments, because the leader can initiate rapid change, if necessary through intimidation. Change typically consists of immediate reactions to threats and opportunities rather than a response to more gradual and longer term (although no less important) developments. Little attention is paid to altering ingrained patterns of employee behavior over time.
 
 
   #### Amber organizations
