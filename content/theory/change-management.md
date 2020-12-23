@@ -115,4 +115,3 @@ relatedTheory:
   - Crisis Management
   - Project teams and task forces
 ---
-to be removed
