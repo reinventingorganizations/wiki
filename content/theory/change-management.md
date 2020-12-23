@@ -52,10 +52,10 @@ perspective: >-
   在橙色，对变革的主流观点基于工程学。认为变更的典型步骤（例如，重组、重构、品牌重塑、重新定位等）都诊断当前状况，设计预期的未来状态，然后规划从这里到那里的变革历程。对于大型变革项目，这可能涉及多个项目、项目里程碑和一个向最高领导层报告的中央“项目办公室”。这种变革计划通常由一个由高级管理人员或“精英”组成的小团队去实施，有时还需要外部顾问的帮助。推进小组的计划得到高级管理层的批准后，就负责在整个组织内进行沟通。变化通知内容通常带有一些“燃眉之急”类信息（“我们必须现在就行动，否则就注定要失败”），因为他们需要利用恐惧为变革提供必要的动力。橙色组织常见的“驱动变革”一词，栩栩如生的反映了将组织比作机器的橙色隐喻。换言之，变革是强行改变人，而不是通过人创造改变。
 
 
-  #### Green organizations
+  #### 绿色组织
 
 
-  [Green organizations](../green-paradigm-and-organizations/) try to be more consensual. Having only a handful of people design the future state and change process sits uncomfortably with Green's ideal of empowerment. More people are likely to be involved. This might take the form of large group workshops and innovative facilitation techniques (think for instance, Appreciative Inquiry, Theory U, Open Space, etc.) in which a large number of colleagues participate. The every-day hierarchical structure of the organization is suspended temporarily to make room for an organic process of collective intelligence. The outcomes are then fed back into the traditional structures and processes of the organization. Involving a larger number of colleagues in the planning of change can feel risky for the senior leadership (what if the group veers in a direction we don't want?), but it tends to increase the buy-in of employees and improve future designs by capturing the insights of collective intelligence.
+  [绿色组织](../green-paradigm-and-organizations/) try to be more consensual. Having only a handful of people design the future state and change process sits uncomfortably with Green's ideal of empowerment. More people are likely to be involved. This might take the form of large group workshops and innovative facilitation techniques (think for instance, Appreciative Inquiry, Theory U, Open Space, etc.) in which a large number of colleagues participate. The every-day hierarchical structure of the organization is suspended temporarily to make room for an organic process of collective intelligence. The outcomes are then fed back into the traditional structures and processes of the organization. Involving a larger number of colleagues in the planning of change can feel risky for the senior leadership (what if the group veers in a direction we don't want?), but it tends to increase the buy-in of employees and improve future designs by capturing the insights of collective intelligence.
 inPractice: >-
   Change management is less of an issue in Teal organizations. Change tends to
   happen more naturally, and continuously, with less effort or management. It's
