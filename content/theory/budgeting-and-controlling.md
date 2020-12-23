@@ -98,10 +98,10 @@ inPractice: >-
   能被充分理解的简明短期目标，确实可以带来指导。但当环境发生变化时，它们就会带来问题，而且目标不会自动做出相应的改变。
 
 
-  #### Letting go of the desire to control
+  #### 放下控制欲
 
 
-  Predictions are valuable in world that can be controllled, but lose relevance in a complex world that is changing rapidly. Setting budgets and managing against them is a way of trying to predict the future.
+  如果在一个可控的世界里，预测是有价值的。但在一个瞬息万变的复杂世界里，预测就不那么重要。制定预算并对照预算进行管理等于是在预测未来。
 
 
   Teal organizations make peace with a complex world by understanding that a perfect solution is rarely possible. Determing a workable solution that can be implemented quickly is far more effective than waiting for detailed analysis before taking action. When new information emerges, the decision can be revisited and improved at any point. From this perspective, creating budgets for long periods ahead, and trying to exercise control makes little sense.
