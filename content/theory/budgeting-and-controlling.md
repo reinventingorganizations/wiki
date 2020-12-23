@@ -47,7 +47,7 @@ perspective: >-
 
   蔚蓝组织的计划和预算方法，与传统管理思想中所习惯采用的最佳流程大相径庭。蔚蓝组织不试图预测和控制，而是尽可能多地感知和响应环境。通常使用简化的预算，目的是为了获得信息，而不是为了实施控制才跟踪计实差异。制定预算的目的是出于实际需要，例如协调资源，确保现金流良好，确保财务义务和负债得到偿付。
 inPractice: >-
-  #### Simplified budgets, no tracking of variance
+  #### 简化预算、不跟踪预实差异
 
 
   Many traditional organizations go through a painful budgeting cycle every year to establish a plan for controlling organizational performance.
