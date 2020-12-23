@@ -24,7 +24,7 @@ perspective: >-
   #### 琥珀组织
 
 
-  [琥珀组织](../amber-paradigm-and-organizations/) rely on stable and replicable processes. They also create clearly defined structures and hierarchies. Together these features allow projects and plans to be delivered on a much larger scale than those achievable by Red organzations. Planning and budgeting is used to determine the resources needed to achieve well understood and predictable goals. Planning is a top down process with budgets being handed down to those further down the organization.
+  [琥珀组织](../amber-paradigm-and-organizations/)依赖稳定而可复制的流程。它们还创建了明确定义的结构和等级制度。这些特征加在一起，使得项目和计划的交付规模能力比红色组织大得多。琥珀为实现一些能充分理解并可预测的目标，而通过规划和预算确定所需资源。计划是一个自上而下的过程，完成的预算会下放到组织的更下级层面。
 
 
   #### Orange Organizations
