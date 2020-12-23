@@ -37,10 +37,10 @@ perspective: >-
   在[红色组织](../red-organizations/)中，变革由老板指挥。红色组织通常能在混乱的环境中迅速适应，因为领导者可以在必要时通过恐吓来发起迅速的变革。变革通常包括对威胁和机遇的直接反应，而不是对更为渐进和长期（尽管同样重要）发展作出的反应。很少有人注意到或注重于随着时间的推移，来逐渐改变根深蒂固的成员行为模式。
 
 
-  #### Amber organizations
+  #### 琥珀组织
 
 
-  The [Amber paradigm](../amber-paradigm-and-organizations/) believes the world is (or should) be essentially immutable: what was true yesterday should be true today and tomorrow. It is built around an orderly structure and formal, stable processes. Change is primarily via small improvements to enhance the excellence of existing processes and traditions. Amber organizations can display a strong resistance to the need for change, especially if the nature of the change threatens ideological boundaries or social norms. When outside forces do impose the need for change, the change is mandated top-down with little thought of how change could be planned to minimize resistance. In that sense, there is little or no "change management" to speak of. 
+  在[琥珀模式](../amber-paradigm-and-organizations/) believes the world is (or should) be essentially immutable: what was true yesterday should be true today and tomorrow. It is built around an orderly structure and formal, stable processes. Change is primarily via small improvements to enhance the excellence of existing processes and traditions. Amber organizations can display a strong resistance to the need for change, especially if the nature of the change threatens ideological boundaries or social norms. When outside forces do impose the need for change, the change is mandated top-down with little thought of how change could be planned to minimize resistance. In that sense, there is little or no "change management" to speak of. 
 
 
   #### Orange organizations
