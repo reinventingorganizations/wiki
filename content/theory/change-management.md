@@ -40,7 +40,7 @@ perspective: >-
   #### 琥珀组织
 
 
-  在[琥珀模式](../amber-paradigm-and-organizations/) believes the world is (or should) be essentially immutable: what was true yesterday should be true today and tomorrow. It is built around an orderly structure and formal, stable processes. Change is primarily via small improvements to enhance the excellence of existing processes and traditions. Amber organizations can display a strong resistance to the need for change, especially if the nature of the change threatens ideological boundaries or social norms. When outside forces do impose the need for change, the change is mandated top-down with little thought of how change could be planned to minimize resistance. In that sense, there is little or no "change management" to speak of. 
+  [琥珀模式](../amber-paradigm-and-organizations/)认为，世界在本质上是（或应该）不变的：昨天真实的事物和道理，在今天和明天也应该是真实的。组织是围绕着一个有序结构以及一个正式而稳定的过程而构建的。变革主要是通过小的改进提高现有流程和习惯的卓越性。琥珀组织可以表现出对变革需求的强烈抵制，尤其是当变革的性质威胁到意识形态界限或社会规范时。当外部力量确实要求变革时，变革会自上而下发生，几乎不考虑如何适当的计划变革以尽量减少阻力。从这个意义上讲，几乎没有什么“变革管理”可言。
 
 
   #### Orange organizations
