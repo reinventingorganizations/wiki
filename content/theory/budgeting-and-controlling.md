@@ -56,7 +56,7 @@ inPractice: >-
   但在蔚蓝组织中，只有在需要用预测支撑重要决策时，才制定预算，例如：
 
 
-  * 资源的协调或获取：例如，在[FAVI](http://www.favi.com/), for instance, once a year, teams make rough monthly predictions for the year to come, to secure contracts for raw materials.
+  * 资源的协调或获取：例如，在[法维](http://www.favi.com/)，团队为了却确保原材料进货合同，而每年一次制定粗略的分月预测。
 
   * Sound cash flow and fulfilment of financial obligations:
 
