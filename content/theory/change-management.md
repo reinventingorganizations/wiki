@@ -34,7 +34,7 @@ perspective: >-
   #### 红色组织
 
 
-  在[红色组织](../red-organizations/), change is directed by the boss. A Red organization can often adapt quickly in chaotic environments, because the leader can initiate rapid change, if necessary through intimidation. Change typically consists of immediate reactions to threats and opportunities rather than a response to more gradual and longer term (although no less important) developments. Little attention is paid to altering ingrained patterns of employee behavior over time.
+  在[红色组织](../red-organizations/)中，变革由老板指挥。红色组织通常能在混乱的环境中迅速适应，因为领导者可以在必要时通过恐吓来发起迅速的变革。变革通常包括对威胁和机遇的直接反应，而不是对更为渐进和长期（尽管同样重要）发展作出的反应。很少有人注意到或注重于随着时间的推移，来逐渐改变根深蒂固的成员行为模式。
 
 
   #### Amber organizations
