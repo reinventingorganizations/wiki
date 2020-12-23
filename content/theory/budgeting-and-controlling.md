@@ -58,13 +58,13 @@ inPractice: >-
 
   * 资源的协调或获取：例如，在[法维](http://www.favi.com/)，团队为了却确保原材料进货合同，而每年一次制定粗略的分月预测。
 
-  * Sound cash flow and fulfilment of financial obligations:
+  * 确保良好的现金流以及财务义务的履行。
 
 
-  It makes sense at times to establish a realistic budget so that problems can be anticipated and obligations met. Individual teams in [Buurtzorg](http://www.buurtzorgnederland.com/) don’t make any significant purchasing or investments, so don’t require a team budget. However, at a Group level, Buurtzorg makes a simple projection of its expected cash flow (it fits on one sheet of paper) to get a sense of how many new teams it can allow to start up in the coming year; new teams can take up to a year to break even, and Buurtzorg wants to make sure they can be supported and sustained.
+  蔚蓝组织有时也需要制定现实性预算，目的是预见问题并履行义务。布尔佐格的单个团队不需要进行任何重大的采购或投资，因此不需要团队预算。但在组织整体层面上，对其预期现金流做了一个简单的预测（可以缩短在一页纸内），目的是用来了解来年能允许成立多少个新团队（发展投资）。因新团队可能需要长达一年的时间来实现盈亏平衡，所以希望确保它们能够得到支持和持续。
 
 
-  In the absence of these reasons, many organizations find they need not make any budget at all. [Sun Hydraulics](http://www.sunhydraulics.com/) makes no budget (unless the board demands one, in which case a rough one-page budget is put together).
+  除了这些原因之外，许多蔚蓝组织发现根本不需要做任何预算。[太阳液压](http://www.sunhydraulics.com/)就不做预算（如果董事会要求预算，就做一个可以容纳在一页纸内的粗略预算）。
 
 
   #### Peer challenge but no management control
