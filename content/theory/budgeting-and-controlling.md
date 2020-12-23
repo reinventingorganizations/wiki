@@ -104,7 +104,7 @@ inPractice: >-
   如果在一个可控的世界里，预测是有价值的。但在一个瞬息万变的复杂世界里，预测就不那么重要。制定预算并对照预算进行管理等于是在预测未来。
 
 
-  Teal organizations make peace with a complex world by understanding that a perfect solution is rarely possible. Determing a workable solution that can be implemented quickly is far more effective than waiting for detailed analysis before taking action. When new information emerges, the decision can be revisited and improved at any point. From this perspective, creating budgets for long periods ahead, and trying to exercise control makes little sense.
+  蔚蓝组织认识到并顺应复杂世界的神秘性，并知道通常几乎没有可能得出完美的解决方案。与其等待详细分析后再采取行动，不如确定一个可快速实施的可行的解决方案，这样更有效。当新信息出现时，随时都可以重新审视和改进决策。从这个角度来看，为未来很长期间制定预算，并试图进行控制是没有意义的。
 
 
   Companies that work this way, make many fast iterations instead of a few mighty leaps, progressing much faster towards their purpose. In the end, paradoxically, people often feel safer when they give up the illusion of control and learn to work with reality as it unfolds.
