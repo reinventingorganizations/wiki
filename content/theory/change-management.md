@@ -55,7 +55,7 @@ perspective: >-
   #### 绿色组织
 
 
-  [绿色组织](../green-paradigm-and-organizations/) try to be more consensual. Having only a handful of people design the future state and change process sits uncomfortably with Green's ideal of empowerment. More people are likely to be involved. This might take the form of large group workshops and innovative facilitation techniques (think for instance, Appreciative Inquiry, Theory U, Open Space, etc.) in which a large number of colleagues participate. The every-day hierarchical structure of the organization is suspended temporarily to make room for an organic process of collective intelligence. The outcomes are then fed back into the traditional structures and processes of the organization. Involving a larger number of colleagues in the planning of change can feel risky for the senior leadership (what if the group veers in a direction we don't want?), but it tends to increase the buy-in of employees and improve future designs by capturing the insights of collective intelligence.
+  [绿色组织](../green-paradigm-and-organizations/) 尝试获得更多的共识。只由少数人设计未来的状态和变革活动，与绿色的授权理念不符。会吸引更多的人参与其中。可以采取大型小组研讨会和创新促进技术（例如，欣赏性调查、理论U、开放空间等）的形式，吸引大量同事参与变革设计。为了给集体智慧的有机过程腾出空间，组织会在讨论期间，暂时停止日常的等级结构而平等协商。谈论后再将结果反馈到传统的层级结构和流程中。让更多的同事参与变革计划，虽然可能会让高层领导感到有风险（如果团队偏离了我们希望的方向怎么办？），但往往会提高成员的认同度，并通过捕捉集体智慧的洞察力，改进对未来的设计。
 inPractice: >-
   Change management is less of an issue in Teal organizations. Change tends to
   happen more naturally, and continuously, with less effort or management. It's
