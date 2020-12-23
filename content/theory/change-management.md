@@ -13,7 +13,7 @@ perspective: >-
   在橙色的机械式范式中，组织被视为固定不变的系统。这些系统没有内在的改变能力。所以必须从外部施力。这就是高级管理层的作用。他们负责确定变革的必要性，确定变革将如何实现，并确保变革发生。
 
 
-  Furthermore, the impetus for change in pre-Teal organizations does not come easily. These paradigms view change as an unfortunate necessity or the result of management failure. It is the job of management to predict and/or control the future, thus eliminating surprises. Reality should conform to a well executed budget and strategic plan. When it doesn’t, managment is often slow to acknowledge their presumed failure. And when they finally accept that the world around them has changed while they were pursuing their plan, they are uncomfortable with what they see. They now have to act decisively to make up for lost time. They must impose with urgency.
+  蔚蓝前组织是建立在这些旧模式的基础上，所以推动变革确实很不易。这些早期范式将变革视为不幸的结果，或管理失败的结果。传统管理层的工作是为了预测和/或控制未来，这当然会带来令他们吃惊的结果。他们认为现实应该符合一个执行良好的预算和战略计划。如果结果不如意，管理层往往迟迟不承认他们的失败。当他们最终承认说，在追求自己的计划时，周围的世界已经发生了变化时，往往会对自己所见到的现实感到不安。于是感觉到必须再次采取果断行动，才能弥补损失的时间。进而导致进一步的紧急施压。
 
 
   The change will be painful (they imagine), but once accomplished, everything will be fine again. And so, they hasten to redesign the machinery of the organization. Unsurprisingly, people resist change being imposed upon them. To overcome this, management may feel compelled to play on fears, and choose to blame hostile competitive forces or titanic environmental factors that threaten the organization’s survival if it doesn't react. .
