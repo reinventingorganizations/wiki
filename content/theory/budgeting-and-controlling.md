@@ -79,11 +79,11 @@ inPractice: >-
   蔚蓝组织不设定任何自上而下的指标。例如，[法维](http://www.favi.com/)的销售人员不用背销售指标。因为他们认为从进化论的观点来看，指标会带来问题，至少有三个角度的原因：
 
 
-  * they rest on the assumption that we can predict the future,
+  * 指标建立在人可以预测未来这样的假设上，
 
-  * they skew our behavior away from inner motivation, and
+  * 指标使我们的行为偏离了内在动机，并且
 
-  * they tend to narrow our capacity to sense new possibilities.
+  * 指标往往会降低我们感知新可能性的能力。
 
 
   From a Teal perspective, life is complex and events and circumstances change so fast, that setting a target is mostly guesswork. A year after a target has been set, in most cases it is just an arbitrary number―either so easy to reach as to be meaningless or so challenging that people must take shortcuts. Both circumstances hurt the organization in the long run.
