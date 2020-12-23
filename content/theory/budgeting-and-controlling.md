@@ -86,13 +86,13 @@ inPractice: >-
   * 指标往往会降低我们感知新可能性的能力。
 
 
-  From a Teal perspective, life is complex and events and circumstances change so fast, that setting a target is mostly guesswork. A year after a target has been set, in most cases it is just an arbitrary number―either so easy to reach as to be meaningless or so challenging that people must take shortcuts. Both circumstances hurt the organization in the long run.
+  从蔚蓝组织的角度来看，生命过程是复杂的，事件和环境瞬息万变，所以设定的目标大多只是猜测。设定一年之后的目标是不可能的。所以大多数情况下，预算就只是个拍脑袋的数字——要么容易达到而毫无意义，要么充满挑战迫使人们必须走捷径。从长远来看，这两种情况都会给组织带来危害。
 
 
-  Targets and in particular budget and sales targets also skew our behavior. In many companies managers often spend any budget left at the end of the year, sometimes on meaningless items, for fear that their funding might be cut in the following year. Without targets, these games disappear. People are free to tap into their inner motivation to simply do the best job they can.
+  目标，尤其是预算和销售目标，也会扭曲我们的行为。在许多公司里，经理们常常在年底赶着花掉剩下的预算，有时甚至花在毫无意义的项目上，因为他们担心下一年的资金可能会被削减。如果不制定指标，这些游戏就会消失。成员就可以自由地挖掘自己的内在动力，尽自己所能做到最好。
 
 
-  In [self-managing](../self-management/) organizations, people can choose to set themselves targets when they find it useful―rather like a hobby runner who spurs herself on by extending her goals. At [FAVI](http://www.favi.com/), operators set themselves target times to machine their pieces, and they monitor their performance against that target.
+  在[自我管理](../self-management/) organizations, people can choose to set themselves targets when they find it useful―rather like a hobby runner who spurs herself on by extending her goals. At [FAVI](http://www.favi.com/), operators set themselves target times to machine their pieces, and they monitor their performance against that target.
 
 
   Targets provide guidance when they are well understood. They become problematic when circumstances change and they do not change in response.
