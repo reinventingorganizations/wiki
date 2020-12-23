@@ -45,7 +45,7 @@ perspective: >-
   #### Teal Organizations
 
 
-  Teal organizations’ approach to planning and budgeting departs quite radically from what is considered best practice in traditional management thinking.  Instead of trying to predict and control, Teal organizations try as much as possible to sense and respond to their environment.  They typically work with simplified budgets, where variances are tracked for information rather than control reasons. The purpose of defining a budget is driven by practical considerations such as coordination of resources, making sure that cash flow is sound and ensuring that financial obligations and liabilities are covered.
+  蔚蓝组织的计划和预算方法，与传统管理思想中所习惯采用的最佳流程大相径庭。蔚蓝组织不试图预测和控制，而是尽可能多地感知和响应环境。通常使用简化的预算，目的是为了获得信息，而不是为了实施控制才跟踪计实差异。制定预算的目的是出于实际需要，例如协调资源，确保现金流良好，确保财务义务和负债得到偿付。
 inPractice: >-
   #### Simplified budgets, no tracking of variance
 
