@@ -73,10 +73,10 @@ inPractice: >-
   即使团队制定预算，也不会有来自上层的指手画脚。无论团队预测什么数字都会成为预算。一些公司发现，同行团队互相质疑预算的方法很有益。按照[自我管理](../self-management/)的精神，没有人可以强迫一个团队改变他们的人数。例如，在晨星，各单元团队向预算工作组提交预算和投资计划。预算小组由来自企业各个部门的志愿者组成，负责对收到的预算数字提出质疑，并提出意见和建议。[AES](http://www.aes.com/)过去也有类似的流程。
 
 
-  #### No 'Top Down' targets
+  #### 无“自上而下”的指标
 
 
-  Teal organizations don’t set any top-down targets. Sales people at [FAVI](http://www.favi.com/) for example have no targets to reach. From an Evolutionary-Teal perspective, targets are problematic for at least three reasons;
+  蔚蓝组织不设定任何自上而下的指标。例如，[FAVI](http://www.favi.com/) for example have no targets to reach. From an Evolutionary-Teal perspective, targets are problematic for at least three reasons;
 
 
   * they rest on the assumption that we can predict the future,
