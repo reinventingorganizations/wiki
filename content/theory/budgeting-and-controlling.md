@@ -27,10 +27,10 @@ perspective: >-
   [琥珀组织](../amber-paradigm-and-organizations/)依赖稳定而可复制的流程。它们还创建了明确定义的结构和等级制度。这些特征加在一起，使得项目和计划的交付规模能力比红色组织大得多。琥珀为实现一些能充分理解并可预测的目标，而通过规划和预算确定所需资源。计划是一个自上而下的过程，完成的预算会下放到组织的更下级层面。
 
 
-  #### Orange Organizations
+  #### 橙色组织
 
 
-  In [Orange Organizations](../orange-paradigm-and-organizations/) top management are responsible for determining the strategy and direction of the organization. These plans are broken down into objectives and targets for those further down the hierarchy. Managers at each level create the plans and budgets necessary to reach the desired objectives, in what is typically a yearly budgeting process. Planning typically includes budgets for expenditures (cost center) or target revenues (profit center), as well as investment budgets.  Cascading down targets to every unit and team allows for management by objectives: each team is given some freedom in deciding how these budget objectives will be met, as long as they are met.
+  在[橙色组织](../orange-paradigm-and-organizations/) top management are responsible for determining the strategy and direction of the organization. These plans are broken down into objectives and targets for those further down the hierarchy. Managers at each level create the plans and budgets necessary to reach the desired objectives, in what is typically a yearly budgeting process. Planning typically includes budgets for expenditures (cost center) or target revenues (profit center), as well as investment budgets.  Cascading down targets to every unit and team allows for management by objectives: each team is given some freedom in deciding how these budget objectives will be met, as long as they are met.
 
 
   Budgeting and controlling goes hand in hand with the Orange management practice of ‘predict and control’. Yearly budgets are broken down into half-yearly, quarterly or monthly numbers. These numbers are then followed up by the accounting and finance department at the end of each period, to compare results with the plan.  When results fall short of the prediction, managers are often asked to explain the difference, and to come up with corrective actions.
