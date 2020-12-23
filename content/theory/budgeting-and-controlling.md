@@ -67,10 +67,10 @@ inPractice: >-
   除了这些原因之外，许多蔚蓝组织发现根本不需要做任何预算。[太阳液压](http://www.sunhydraulics.com/)就不做预算（如果董事会要求预算，就做一个可以容纳在一页纸内的粗略预算）。
 
 
-  #### Peer challenge but no management control
+  #### 有同行监督但无管控
 
 
-  If a budget is established, there is no tweaking from above. Whatever numbers the teams forecast become the budget. Some companies find it is useful for peers to challenge each other’s budgets. In keeping with the spirit of [Self Management](../self-management/) no one can force a team to change their numbers. For example at [Morning Star,](http://www.morningstarco.com/) units present their budget and investment plans to a budget task force, composed of volunteers from all parts of the business, that can challenge the numbers, and offer opinions and suggestions. [AES](http://www.aes.com/) used to have a similar process.
+  即使团队制定预算，也不会有来自上层的指手画脚。无论团队预测什么数字都会成为预算。一些公司发现，同行团队互相质疑预算的方法很有益。按照[Self Management](../self-management/) no one can force a team to change their numbers. For example at [Morning Star,](http://www.morningstarco.com/) units present their budget and investment plans to a budget task force, composed of volunteers from all parts of the business, that can challenge the numbers, and offer opinions and suggestions. [AES](http://www.aes.com/) used to have a similar process.
 
 
   #### No 'Top Down' targets
