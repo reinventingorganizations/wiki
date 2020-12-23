@@ -19,13 +19,13 @@ perspective: >-
   他们认为改变是痛苦的，但一旦完成，一切都会好起来。因此，会赶紧重新设计组织的机构。人们会抵制强加给自己的变革，这毫不奇怪。为了克服这一点，管理层可能会迫不及待的利用成员的恐惧，来迫使大家做出迅速反应，或将责任推卸给敌对的竞争力量或威胁组织生存的巨大环境压力。
 
 
-  Thus, change tends to happen in a series of ‘jumps’. This is not a fluid, emergent process. It’s a series of discrete and usually disruptive movements, from one relatively static state to another.
+  因此，早期模式的变革，往往发生在一系列的强制“跳跃”中。而不是如大自然般的流动性过程。变化成了从一个相对静止状态到另一个相对静止状态的一系列离散的、通常是破坏性的运动。
 
 
   ![]()
 
 
-  In contrast, living systems seem to have the capacity to sense change in the environment and adapt from within. In a forest, no master tree plans and dictates to the other trees what to do when rain fails to fall or when spring chooses to come early. The whole ecosystem reacts creatively, in the moment. Teal organizations approach change in a similar way. People are encouraged to act on what they sense is needed. They are not confined by static job descriptions, fixed reporting lines, or functional discipline. They react creatively to life’s emerging, non-linear changes. Change is expected. It happens naturally, all the time^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4671-4688). Nelson Parker. Kindle Edition.]
+  相比之下，生物系统似乎有能力感知环境的变化并从内部自发适应。在森林里，没有一棵头树计划并命令其他树木在没下雨，或春天选择提早到来时该做些什么。此时此刻，整个生态系统都会自发做出创造性的反应。蔚蓝组织以类似的方式处理变革。人们被鼓励去做他们认为需要的事情。他们不受静态的职位描述、固定的上下指令汇报关系或职能纪律的限制。他们会对组织生命过程中出现的非线性变化做出创造性的反应。蔚蓝模式内的变化是意料之中的，总是自然而然地发生。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4671-4688). Nelson Parker. Kindle Edition.]
 
 
   For more on how earlier stages undergo organizational change, see below:
