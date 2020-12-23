@@ -92,7 +92,7 @@ inPractice: >-
   目标，尤其是预算和销售目标，也会扭曲我们的行为。在许多公司里，经理们常常在年底赶着花掉剩下的预算，有时甚至花在毫无意义的项目上，因为他们担心下一年的资金可能会被削减。如果不制定指标，这些游戏就会消失。成员就可以自由地挖掘自己的内在动力，尽自己所能做到最好。
 
 
-  在[自我管理](../self-management/) organizations, people can choose to set themselves targets when they find it useful―rather like a hobby runner who spurs herself on by extending her goals. At [FAVI](http://www.favi.com/), operators set themselves target times to machine their pieces, and they monitor their performance against that target.
+  在[自我管理](../self-management/)的组织中，当成员发现设个目标对自己有益处时，就可以自主选择给自己设定目标，就像一个通过扩展目标来激励自己的业余跑步爱好者。在[FAVI](http://www.favi.com/), operators set themselves target times to machine their pieces, and they monitor their performance against that target.
 
 
   Targets provide guidance when they are well understood. They become problematic when circumstances change and they do not change in response.
