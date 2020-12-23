@@ -57,12 +57,7 @@ perspective: >-
 
   [绿色组织](../green-paradigm-and-organizations/) 尝试获得更多的共识。只由少数人设计未来的状态和变革活动，与绿色的授权理念不符。会吸引更多的人参与其中。可以采取大型小组研讨会和创新促进技术（例如，欣赏性调查、理论U、开放空间等）的形式，吸引大量同事参与变革设计。为了给集体智慧的有机过程腾出空间，组织会在讨论期间，暂时停止日常的等级结构而平等协商。谈论后再将结果反馈到传统的层级结构和流程中。让更多的同事参与变革计划，虽然可能会让高层领导感到有风险（如果团队偏离了我们希望的方向怎么办？），但往往会提高成员的认同度，并通过捕捉集体智慧的洞察力，改进对未来的设计。
 inPractice: >-
-  Change management is less of an issue in Teal organizations. Change tends to
-  happen more naturally, and continuously, with less effort or management. It's
-  an evolutionary process which can be initiated by anyone and managed by
-  everyone. As the organization evolves, it changes on a daily basis, and there
-  is rarely a need for major overhaul or drastic change management programs.
-  Change management as a field of practice mostly disappears.
+  在进化主题的蔚蓝组织中，变化管理已经不再是个问题。变革往往更自然、更持续地发生，不需要太多的刻意的努力或管理。变化成了一个进化的过程，可以由任何人发起并由每个人管理。随着组织的发展，它每天都在变化，很少需要进行重大的改革或重大的变革管理计划。蔚蓝组织内不再存在用来单独推进变化的管理过程或项目。
 
 
   #### Change on a continuous basis
