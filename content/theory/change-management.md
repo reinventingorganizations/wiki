@@ -10,11 +10,7 @@ intro: |-
 
   ![](/media/change.jpg)
 perspective: >-
-  In the machine paradigm of Orange, organizations are viewed as fixed systems.
-  These systems don’t have an inner capacity for change. Force must be applied
-  from outside. That is the role of senior management. They are the ones that
-  must identify the need for change, determine how that change will be brought
-  about, and ensure that it happens.
+  在橙色的机械式范式中，组织被视为固定不变的系统。这些系统没有内在的改变能力。所以必须从外部施力。这就是高级管理层的作用。他们负责确定变革的必要性，确定变革将如何实现，并确保变革发生。
 
 
   Furthermore, the impetus for change in pre-Teal organizations does not come easily. These paradigms view change as an unfortunate necessity or the result of management failure. It is the job of management to predict and/or control the future, thus eliminating surprises. Reality should conform to a well executed budget and strategic plan. When it doesn’t, managment is often slow to acknowledge their presumed failure. And when they finally accept that the world around them has changed while they were pursuing their plan, they are uncomfortable with what they see. They now have to act decisively to make up for lost time. They must impose with urgency.
