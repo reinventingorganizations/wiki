@@ -76,7 +76,7 @@ inPractice: >-
   #### 无“自上而下”的指标
 
 
-  蔚蓝组织不设定任何自上而下的指标。例如，[FAVI](http://www.favi.com/) for example have no targets to reach. From an Evolutionary-Teal perspective, targets are problematic for at least three reasons;
+  蔚蓝组织不设定任何自上而下的指标。例如，[法维](http://www.favi.com/)的销售人员不用背销售指标。因为他们认为从进化论的观点来看，指标会带来问题，至少有三个角度的原因：
 
 
   * they rest on the assumption that we can predict the future,
