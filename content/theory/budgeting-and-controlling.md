@@ -107,7 +107,7 @@ inPractice: >-
   蔚蓝组织认识到并顺应复杂世界的神秘性，并知道通常几乎没有可能得出完美的解决方案。与其等待详细分析后再采取行动，不如确定一个可快速实施的可行的解决方案，这样更有效。当新信息出现时，随时都可以重新审视和改进决策。从这个角度来看，为未来很长期间制定预算，并试图进行控制是没有意义的。
 
 
-  Companies that work this way, make many fast iterations instead of a few mighty leaps, progressing much faster towards their purpose. In the end, paradoxically, people often feel safer when they give up the illusion of control and learn to work with reality as it unfolds.
+  以蔚蓝方式工作的组织和公司，为了朝着目标更快前进，一般通过很多次快速迭代完成，而不是几次巨大的飞跃。实践证明了一个悖论，当人们放弃控制的幻觉，学会在实际情况发生时与之合作，往往会感到更安全。
 faq:
   - question: How do we manage spending and cash flow if there are no budgets that
       set limits?
@@ -144,4 +144,3 @@ relatedTheory:
   - Purchasing and Investments
   - Decision Making
 ---
-to be removed
