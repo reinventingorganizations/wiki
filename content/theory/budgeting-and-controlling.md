@@ -30,7 +30,7 @@ perspective: >-
   #### 橙色组织
 
 
-  在[橙色组织](../orange-paradigm-and-organizations/) top management are responsible for determining the strategy and direction of the organization. These plans are broken down into objectives and targets for those further down the hierarchy. Managers at each level create the plans and budgets necessary to reach the desired objectives, in what is typically a yearly budgeting process. Planning typically includes budgets for expenditures (cost center) or target revenues (profit center), as well as investment budgets.  Cascading down targets to every unit and team allows for management by objectives: each team is given some freedom in deciding how these budget objectives will be met, as long as they are met.
+  在[橙色组织](../orange-paradigm-and-organizations/)中，最高管理者负责决定组织的战略和方向。然后将这些计划层次分解为等级结构更下级单元的目标和指标。为了达到预期目标，每一级经理都会制定必要的计划和预算。这通常是个年度预算流程。计划通常包括支出预算（成本中心）或目标收入（利润中心），以及投资预算。然后各级指标被分层下推到每个单位和团队，允许目标管理：只要实现这些预算目标，每个团队都有一定的自由来决定如何实现。
 
 
   Budgeting and controlling goes hand in hand with the Orange management practice of ‘predict and control’. Yearly budgets are broken down into half-yearly, quarterly or monthly numbers. These numbers are then followed up by the accounting and finance department at the end of each period, to compare results with the plan.  When results fall short of the prediction, managers are often asked to explain the difference, and to come up with corrective actions.
