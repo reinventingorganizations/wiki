@@ -21,10 +21,10 @@ perspective: >-
   目前我们所理解的预算和控制概念，还没有出现在[Red 红色组织](../red-organizations/) 中。他们的计划往往是短期的，因当时制定长期战略的能力很有限。红色的重点通常是对新的威胁或机遇进行回应，以便榨取或从中获利。
 
 
-  #### Amber Organizations
+  #### 琥珀组织
 
 
-  [Amber organizations](../amber-paradigm-and-organizations/) rely on stable and replicable processes. They also create clearly defined structures and hierarchies. Together these features allow projects and plans to be delivered on a much larger scale than those achievable by Red organzations. Planning and budgeting is used to determine the resources needed to achieve well understood and predictable goals. Planning is a top down process with budgets being handed down to those further down the organization.
+  [琥珀组织](../amber-paradigm-and-organizations/) rely on stable and replicable processes. They also create clearly defined structures and hierarchies. Together these features allow projects and plans to be delivered on a much larger scale than those achievable by Red organzations. Planning and budgeting is used to determine the resources needed to achieve well understood and predictable goals. Planning is a top down process with budgets being handed down to those further down the organization.
 
 
   #### Orange Organizations
