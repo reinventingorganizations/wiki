@@ -36,10 +36,10 @@ perspective: >-
   预算和控制，与橙色的“预测和控制”主题的管理方法密切相关。年度预算细分为半年、季度或月度计划。会计和财务部门在每个周期结束时跟踪这些数字，并比较结果与计划。当结果与预测不符时，管理者常常被要求解释差距，并提出纠正措施。
 
 
-  #### Green Organizations
+  #### 绿色组织
 
 
-  [Green organizations](../green-paradigm-and-organizations/) are often ill at ease with a finance dominated perspective on performance management.  Whilst ‘predict and control’ methods are still used, other non-financial measures (for example, employee engagement and customer satisfaction) are valued as equally important. Budgeting is similar to that found in Orange organizations, but the measures are likely to be broader and agreed via a ‘bottom up’ as well as a ‘top down’ approach.
+  [绿色组织](../green-paradigm-and-organizations/) are often ill at ease with a finance dominated perspective on performance management.  Whilst ‘predict and control’ methods are still used, other non-financial measures (for example, employee engagement and customer satisfaction) are valued as equally important. Budgeting is similar to that found in Orange organizations, but the measures are likely to be broader and agreed via a ‘bottom up’ as well as a ‘top down’ approach.
 
 
   #### Teal Organizations
