@@ -69,10 +69,10 @@ inPractice: >-
   #### 需要发生巨大变化时
 
 
-  Even in those rare situations when large scale change is needed, Teal organizations naturally work to involve all those affected by the change in determining the appropriate response. In most cases, Teal organizations will uphold the advice process, even if it means including the entire organization. Experience has shown that, in most cases, colleagues have the maturity to participate in even painful decisions and the ingenuity to come up with creative solutions.
+  即使在需要大规模变革的罕见情况下，蔚蓝组织也能自然的邀请所有受变革影响的人参与决策，共同确定适当的应对措施。在大多数情况下，蔚蓝组织会支持建议流程，即使这意味着包括整个组织。经验表明，在大多数情况下，同事们在参与即使带来痛苦的决定时，都发挥着成熟个体的作用，并能带来据有独创性的解决方案。
 
 
-  When many colleagues are involved, large group processes, such as Theory U, Appreciative Inquiry, Open Space or others may be used to effectively surface a collective understanding and to crystallize a vision of the future. To what degree do change projects then need to be formally planned and followed up? As is often true within the Teal paradigm, form follows function. For instance, if there are many interdependencies, very tight deadlines, or high degrees of risk, more formal planning and follow-up might be needed. In other cases, a common, clear understanding of the future is all that is required. Groups of people launch the necessary projects to manifest the collective vision. If that fails to happen, the system will self-correct: someone will speak up to initiate further change.
+  参与者众多的项目，可以使用预制的大型团队流程，如理论U、鉴赏性探究、开放空间或其他方式，来有效地展现集体理解，并明确未来愿景。变更项目需要在多大程度上进行正式的规划和跟进？在蔚蓝范式通常认为，正确的做法是形式服从功能。例如，如果存在许多相互依赖、非常紧迫的期限或高风险，则可能需要更正式的规划和后续行动。而在其他情况下，则只需要对未来有一个共同的、明确的认识即可。通常由一群人发起必要的项目，来体现集体的愿景。如果这个努力失败了，系统将自我纠正：会有人站出来大声说话，启动进一步的改变。
 faq:
   - question: "Surely a Teal organization must sometimes face a situation where
       drastic change and top-down decision-making are needed: Are traditional
