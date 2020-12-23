@@ -5,23 +5,14 @@ key: Budgeting and Controlling
 name: 预算与控制
 sortOrder: 5
 category: Important Processes
-intro: >-
-  Organisations prepare financial budgets and monitor performance against them
-  to control their operations and to determine how well objectives and targets
-  are achieved This article deals with how budgets are established, monitored
-  and what control practices are used to achieve results.
-
+intro: |-
+  每个组织都需要编制财务预算并监控其绩效，以便控制运营过程并确认目标和指标的实现完成情况。本文论述了如何制定、监控预算，以及如何使用控制流程来达成结果。
 
   ![](/media/budgeting-and-controlling.jpg)
 perspective: >-
-  Budgeting can be one of the more challenging areas for companies making the
-  shift to Teal. The Teal practice of sensing and responding to current
-  conditions rather than seeking to control them through budgeting and other
-  means is a marked departure from Orange or even Green practices. From a Teal
-  perspective, the control that often ensues from setting a budget can hamper
-  the organization’s ability to sense and respond authentically.
+  组织向蔚蓝模式转型时，预算可能是一个更具挑战性的领域。蔚蓝的做法是感知和应对当前的状况，而不是试图通过预算和其他手段来控制，这与橙色甚至绿色的做法明显不同。从蔚蓝的角度来看，制定预算而带来的控制可能会阻碍组织的感知并进行真实反应的能力。
 
-  Every historical stage has given birth to a distinct perspective on Budgeting and Controlling when already applicable, and to very different practices:
+  每一个历史阶段都产生了对预算和控制的不同观点和实践方式：
 
 
   #### Red Organizations
