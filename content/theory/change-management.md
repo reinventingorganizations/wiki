@@ -5,10 +5,8 @@ key: Change Management
 name: 变化管理
 sortOrder: 7
 category: Important Processes
-intro: >-
-  This article discusses the difference between traditional “change management”
-  and the evolutionary process of change under Teal.
-
+intro: |-
+  危机管理的主题涉及到，蔚蓝组织在发生危机或进行特别具有挑战性决策时，如何迅速而有效的进行组织活动，及其与常规决策过程的不同。
 
   ![](/media/change.jpg)
 perspective: >-
