@@ -60,13 +60,13 @@ inPractice: >-
   在进化主题的蔚蓝组织中，变化管理已经不再是个问题。变革往往更自然、更持续地发生，不需要太多的刻意的努力或管理。变化成了一个进化的过程，可以由任何人发起并由每个人管理。随着组织的发展，它每天都在变化，很少需要进行重大的改革或重大的变革管理计划。蔚蓝组织内不再存在用来单独推进变化的管理过程或项目。
 
 
-  #### Change on a continuous basis
+  #### 持续变化
 
 
-  Thinking of Teal organizations as living systems helps to explain how change unfolds within them. Living systems have a capacity to sense change in the environment and adapt. They react creatively, in the moment. Teal organizations deal with change in a similar way. People are free to act on what they sense is needed. They are not restricted by static job descriptions, reporting lines and functional units. They can react to emerging events. Specific methods embedded in the organization allow space for people to listen to the organization's purpose and the change it may require. When everyone is free to sense the need for change, and to act on it, change is a given; it happens naturally, everywhere, all the time, mostly without great pain or effort. Major disruptive change efforts (as we know them from more traditional organizations) largely disappear.
+  如果把蔚蓝组织看作是一个活的生命体系统，就很容易理解变革是如何在其内部自然展开的。生物系统有感知环境变化并迅速适应的能力。那些反应充满创造性。蔚蓝组织以类似的方式处理变化。人们可以自由地按自己感觉到的需要来倡导或自觉行动引导变化。成员不受静态职位描述、汇报关系和职能部门的限制。他们可以对新出现的事件做出反应。蔚蓝组织中的一些嵌入式特定流程和方法，为人们提供了空间和支撑，支撑每个人都积极倾听组织目标以及组织作为生命体的变革需求。当每个人都能自由地感觉到变革的必要性，并付诸行动，变革就是一种既定的改变。变化会自然、无处不在、时时刻刻的发生，几乎不带来巨大的痛苦和努力。（上述更传统组织的那些）重大的颠覆性变革努力基本上消失了。
 
 
-  #### When large scale change is needed
+  #### 需要发生巨大变化时
 
 
   Even in those rare situations when large scale change is needed, Teal organizations naturally work to involve all those affected by the change in determining the appropriate response. In most cases, Teal organizations will uphold the advice process, even if it means including the entire organization. Experience has shown that, in most cases, colleagues have the maturity to participate in even painful decisions and the ingenuity to come up with creative solutions.
