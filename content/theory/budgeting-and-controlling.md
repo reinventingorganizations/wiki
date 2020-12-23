@@ -95,7 +95,7 @@ inPractice: >-
   在[自我管理](../self-management/)的组织中，当成员发现设个目标对自己有益处时，就可以自主选择给自己设定目标，就像一个通过扩展目标来激励自己的业余跑步爱好者。在[FAVI法维](http://www.favi.com/)，操作人员会自觉为自己设定加工零件的目标时间，并根据目标监控自己的性能。
 
 
-  Targets provide guidance when they are well understood. They become problematic when circumstances change and they do not change in response.
+  能被充分理解的简明短期目标，确实可以带来指导。但当环境发生变化时，它们就会带来问题，而且目标不会自动做出相应的改变。
 
 
   #### Letting go of the desire to control
