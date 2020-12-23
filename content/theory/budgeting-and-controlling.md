@@ -50,13 +50,13 @@ inPractice: >-
   #### 简化预算、不跟踪预实差异
 
 
-  Many traditional organizations go through a painful budgeting cycle every year to establish a plan for controlling organizational performance.
+  许多传统的组织每年都要经历一个痛苦的预算周期，来制定控制组织绩效的计划。
 
 
-  In Teal organizations budgets are only established if a forecast is needed to inform an important decision, for example:
+  但在蔚蓝组织中，只有在需要用预测支撑重要决策时，才制定预算，例如：
 
 
-  * Coordination or acquisition of resources: At [FAVI](http://www.favi.com/), for instance, once a year, teams make rough monthly predictions for the year to come, to secure contracts for raw materials.
+  * 资源的协调或获取：例如，在[FAVI](http://www.favi.com/), for instance, once a year, teams make rough monthly predictions for the year to come, to secure contracts for raw materials.
 
   * Sound cash flow and fulfilment of financial obligations:
 
