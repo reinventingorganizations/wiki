@@ -10,10 +10,10 @@ intro: |-
 
   ![](/media/agenda.jpg)
 perspective: >-
-  #### Working Hours
+  #### 工作时间
 
 
-  In traditional hierarchies, working hours are specified in an employment contract. There is often an underlying fear that people will not work the hours they are paid for without monitoring, especially at the lower levels in an organization.
+  在传统的金字塔等级制度中，工作时间一般规定在雇佣合同中。管理者常常有一种潜在的恐惧，认为成员在没有监督的情况下，将无法按规定的时间工作，尤其是组织中较低级别的成员。
 
 
   When people have the freedom to choose and agree their own working hours, an environment of trust is created that motivates people to be fully responsible for their work.
