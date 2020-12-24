@@ -90,7 +90,7 @@ inPractice: >-
   ##### **紧急需求**
 
 
-  平衡个人和组织的需要并不容易。例如，[晨星](http://www.morningstarco.com/) has a high season for tomato processing when all hands need to be on deck. If someone wants to reduce their working hours during very busy times, they are expected to find a solution to uphold the commitments they have made. This expectation is the flip side of having no HR or planning function. An individual cannot simply file a request and let someone else worry about solving this issue. He/she has full liberty to find a solution, but until they have found one, they are bound to their previous commitments.
+  平衡个人和组织的需要并不容易。例如，[晨星](http://www.morningstarco.com/)有一个番茄加工的旺季，所有的人都需要上岗。如果有人想在这种繁忙时期减少工作时间，就应该自行找到一个解决办法来履行他们所做的承诺。这种对成员的守诺期待，是没有人力资源或计划职能施加压力的自我管理模式的必然代价。压力转移到个人身上，成员不能简单地提出一个请假请求，让别人为解决这个问题而烦恼。他/她有充分的自由寻找替代的解决办法，但在负全责找到解决办法之前，必须遵守以前的承诺。
 
 
   ##### **Working hours and Teal in the future**
