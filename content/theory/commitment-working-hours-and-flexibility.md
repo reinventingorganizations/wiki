@@ -36,7 +36,7 @@ perspective: >-
   #### **红色组织**
 
 
-  在[红色组织](../red-organizations/), the boss determines working hours for each person. There is no formal process of setting and/or monitoring working hours. People belong to the organization and are expected to be available when needed.
+  在[红色组织](../red-organizations/),中，老板决定每个人的工作时间。没有设定和/或监测工作时间的正式流程。人员是组织的所属物，甚至是老板的私人家丁，需要时应随时待命。
 
 
   #### **Amber organizations**
