@@ -87,7 +87,7 @@ inPractice: >-
   蔚蓝组织信任成员有能力为实现自己的目标而主动完成工作。故不需要监控工作时间、上下班打卡或甚至不需要实施弹性工作制。在一些蔚蓝组织，如[法维](http://www.favi.com/)和[太阳液压系统](http://www.sunhydraulics.com/)，工作日仍分为轮班，但这只是为了大致划分同事们在车间工作的大约时间段而已。即使进入了下一个轮班期间，如果没有完成，操作员依然会继续工作，因为他/她知道需要完成才能离开。
 
 
-  ##### **In times of need**
+  ##### **紧急需求**
 
 
   Balancing the needs of the individual with those of the organization is not always easy. For example, [Morning Star](http://www.morningstarco.com/) has a high season for tomato processing when all hands need to be on deck. If someone wants to reduce their working hours during very busy times, they are expected to find a solution to uphold the commitments they have made. This expectation is the flip side of having no HR or planning function. An individual cannot simply file a request and let someone else worry about solving this issue. He/she has full liberty to find a solution, but until they have found one, they are bound to their previous commitments.
