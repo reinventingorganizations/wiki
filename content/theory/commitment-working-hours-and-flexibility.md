@@ -84,7 +84,7 @@ inPractice: >-
   ##### **Working hours/flex-time**
 
 
-  In Teal organizations people are trusted to work the hours they need to achieve their own goals. There is no requirement for monitoring of working hours, or clocking in and out, or flex-time. In some Teal organizations such as [FAVI](http://www.favi.com/) and [Sun Hydraulics](http://www.sunhydraulics.com/), the working day is still divided into shifts, which is roughly the time colleagues are expected to spend on the shop floor, but it is not uncommon to see an operator stay on during the following shift to finish a job because he/she knows it needs to be done.
+  蔚蓝组织信任成员有能力为实现自己的目标而主动完成工作。故不需要监控工作时间、上下班打卡或甚至不需要实施弹性工作制。在一些蔚蓝组织，如[FAVI](http://www.favi.com/) and [Sun Hydraulics](http://www.sunhydraulics.com/), the working day is still divided into shifts, which is roughly the time colleagues are expected to spend on the shop floor, but it is not uncommon to see an operator stay on during the following shift to finish a job because he/she knows it needs to be done.
 
 
   ##### **In times of need**
