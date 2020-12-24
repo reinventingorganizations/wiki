@@ -39,16 +39,16 @@ perspective: >-
   在[红色组织](../red-organizations/),中，老板决定每个人的工作时间。没有设定和/或监测工作时间的正式流程。人员是组织的所属物，甚至是老板的私人家丁，需要时应随时待命。
 
 
-  #### **Amber organizations**
+  #### **琥珀组织**
 
 
   在[琥珀组织](../amber-paradigm-and-organizations/)中，工作时间由高级领导决定，并在雇佣合同中规定。实现确定成员要完成何种工作和监控工作时间的方法。
 
 
-  #### **Orange organizations**
+  #### **橙色**
 
 
-  In [Orange organizations](../orange-paradigm-and-organizations/), people generally fall into one of two camps. There are those (often in manual roles) who work a fixed set of hours clocking in and clocking out, and those (often in management positions), who are expected to get their work done regardless of the hours stated in their contract.
+  在[橙色组织](../orange-paradigm-and-organizations/), people generally fall into one of two camps. There are those (often in manual roles) who work a fixed set of hours clocking in and clocking out, and those (often in management positions), who are expected to get their work done regardless of the hours stated in their contract.
 
 
   #### **Green organizations**
