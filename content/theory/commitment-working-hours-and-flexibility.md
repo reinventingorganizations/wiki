@@ -72,10 +72,7 @@ perspective: >-
 
   * 根据组织的普遍共识，个人有时可能需要调整自己对工作的承诺（因环境变化或其他因素带来的拖延和困难等）。这些情况通常被分享并得到公开讨论，以便在组织全员的支持下完成手头的任务。
 inPractice: >-
-  [Teal organizations ](../teal-paradigm-and-organizations/)start from the
-  premise that even for routine work, people have a sense of pride and want to
-  do a good job. People are systematically considered to be reliable,
-  self-motivated, trustworthy and intelligent.
+  [蔚蓝组织](../teal-paradigm-and-organizations/)基于这样的假设：即使是平凡的日常工作，成员也会有自豪感，并希望把工作做好。原则上自动认为成员都可靠、能自我激励、值得信赖、聪明智慧。（人之初，性本善）
 
 
   ##### **Commitment**
