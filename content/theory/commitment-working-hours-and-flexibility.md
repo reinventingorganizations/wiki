@@ -48,7 +48,7 @@ perspective: >-
   #### **橙色**
 
 
-  在[橙色组织](../orange-paradigm-and-organizations/), people generally fall into one of two camps. There are those (often in manual roles) who work a fixed set of hours clocking in and clocking out, and those (often in management positions), who are expected to get their work done regardless of the hours stated in their contract.
+  在[橙色组织](../orange-paradigm-and-organizations/)中，成员通常分为两类。有些人（通常是体力劳动者）按固定的时间打卡上班，还有一些人（通常在管理岗位上）与合同规定的时间长短无关，他们遵循目标管理，完成规定的工作即可。
 
 
   #### **Green organizations**
