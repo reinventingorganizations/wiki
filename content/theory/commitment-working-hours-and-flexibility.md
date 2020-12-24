@@ -5,11 +5,8 @@ key: Commitment, Working Hours and Flexibility
 name: 工作承诺、工作时间与弹性化
 sortOrder: 4
 category: People practices
-intro: >-
-  The topic of commitment, working hours and flexibility includes the process of
-  how working hours are set, what commitment a person is expected to provide and
-  how organizations respond to changing demands.
-
+intro: |-
+  承诺、工作时间和弹性化主题包括，如何设定工作时间，组织期望个人做出何种任务承诺，组织如何应对不断变化的需求。
 
   ![](/media/agenda.jpg)
 perspective: >-
