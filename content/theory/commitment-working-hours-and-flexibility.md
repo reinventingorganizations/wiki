@@ -60,7 +60,7 @@ perspective: >-
   #### **蔚蓝组织**
 
 
-  On the surface, [Teal organizations ](../teal-paradigm-and-organizations/)may not look so different from Green ones relative to commitment, working hours and flexibility. The difference is in maturity and coherence. Whereas a Green organization might make the practices outlines above available to specific populations, a Teal organization would make these practices widely available as a normal part of the way they operate.
+  从表面上看，对于承诺、工作时间和灵活性的见解和做法，[Teal organizations ](../teal-paradigm-and-organizations/)may not look so different from Green ones relative to commitment, working hours and flexibility. The difference is in maturity and coherence. Whereas a Green organization might make the practices outlines above available to specific populations, a Teal organization would make these practices widely available as a normal part of the way they operate.
 
 
   Teal organizations often exhibit the following general measures:
