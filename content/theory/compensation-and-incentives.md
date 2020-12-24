@@ -46,13 +46,13 @@ perspective: >-
 
   在[绿色模式](../green-paradigm-and-organizations/)相信合作与竞争同样重要：个人激励开始被团队奖金所替代。人们试图缩小职场中收入高低的差距，例如，通过定义首席执行官薪酬与组织中的中等（或最低）工资之间的最大倍数来限制差距。
 inPractice: >-
-  #### **How salaries are set and by whom**
+  #### **谁/如何决定薪酬**
 
 
-  In traditional organizations, compensation is typically determined according to the organizational hierarchy. Generally, a boss can decide on a pay raise for his subordinates, often subject to HR (or institutional) guidelines or approval. In self-managing organizations, in the absence of bosses, the process to determine salaries and other types of compensation must be reinvented using the power of peer input. It seems that there are two broad categories of systems: ranking-based systems and self-set (advice-based) systems. \[Both of these can be used within hierarchical systems too. They don't depend on self-managing structures.]
+  在传统组织中，薪酬通常根据组织的层次结构决定。一般来说，老板可以决定给下属加薪，但通常需要人力资源（或机构）的咨询或批准。在自我管理的组织中，在没有老板的情况下，工资和其他类型薪酬的决定方法是，利用同类工作的同事做对比衡量而进行调整和设计。似乎有两大类系统：基于排名的系统和基于自我定义（基于建议）的系统。\[这两种方法，并不依赖于自我管理结构，也都可用于等级制度体系中。]
 
 
-  ##### ***Ranking-based systems***
+  ##### ***基于分级的薪酬体系***
 
 
   In certain companies, such as W. L. Gore or HolacracyOne, employees rank or evaluate the contributions of the peers they work with most closely. Based on this input, people are allocated to different salary bands - usually by an algorithm or an elected committee. People who are seen as contributing more will find themselves in the higher bands that earn bigger salaries; the more junior, less experienced colleagues naturally gravitate toward bands with lower salaries. The process is simple and easy to understand and it is generally seen as fair. When it’s not just one person (the boss), but many of an individual's colleagues informing the process, the resulting salary is likely to be a fairer reflection of that person's contribution.
