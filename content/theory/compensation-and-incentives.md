@@ -10,10 +10,7 @@ intro: |-
 
   ![](/media/compensation-and-incentives-2-small.jpg)
 perspective: >-
-  In [Teal Organizations,](../teal-paradigm-and-organizations/) compensation is
-  determined not only in a different way, but takes on a fundamentally different
-  nature and level of importance. Typically these organizations exhibit the
-  following general characteristics with regard to compensation:
+  在[蔚蓝组织](../teal-paradigm-and-organizations/)中，不仅确定薪酬的方式不同，薪酬的性质和重要性都变得完全不同。蔚蓝组织在薪酬方面通常表现出以下特征：
 
 
   * People set their own salaries, with guidance from their peers.
