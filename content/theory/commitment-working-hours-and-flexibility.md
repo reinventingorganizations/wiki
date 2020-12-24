@@ -33,10 +33,10 @@ perspective: >-
   人类组织在每一个历史阶段都产生了对承诺、工作时间和弹性化的不同看法，以及截然不同的做法：
 
 
-  #### **Red organizations**
+  #### **红色组织**
 
 
-  In [Red organizations](../red-organizations/), the boss determines working hours for each person. There is no formal process of setting and/or monitoring working hours. People belong to the organization and are expected to be available when needed.
+  在[红色组织](../red-organizations/), the boss determines working hours for each person. There is no formal process of setting and/or monitoring working hours. People belong to the organization and are expected to be available when needed.
 
 
   #### **Amber organizations**
