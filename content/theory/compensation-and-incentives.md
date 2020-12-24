@@ -38,7 +38,7 @@ perspective: >-
   #### **橙色组织**
 
 
-  在[橙色模式](../orange-paradigm-and-organizations/), there is some individual negotiation of base salary, and people generally fall into salary bands. A boss has some freedom to increase someone’s pay within that salary band. Orange believes strongly in individual targets and incentives. If people reach predetermined targets (that ideally belong to a cascaded system of targets or budget that builds up to strong creation of shareholder value), they will receive a hardy bonus. Strong differences in pay between top and bottom earners are seen as perfectly acceptable, as they reflect people’s merits and contributions.
+  在[橙色模式](../orange-paradigm-and-organizations/)中，开始出现一些关于基本工资的个人协商，人们一般都适配在某个工资等级。老板有一定的自由，可以在一定范围内增加某人的工资。橙色坚信个人目标和激励措施。如果人们达到预定的目标（一个级联的理想情况下的目标或预算系统，以打造强有力的股东价值创造机器），就能得到坚实的奖金。收入高低的巨大差异被认为是完全可以接受的，因为橙色认为差异是对人们的优点才能和贡献的直接反应。
 
 
   #### **Green Organizatio**ns
