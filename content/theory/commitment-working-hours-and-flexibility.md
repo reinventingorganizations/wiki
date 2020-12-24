@@ -16,10 +16,10 @@ perspective: >-
   在传统的金字塔等级制度中，工作时间一般规定在雇佣合同中。管理者常常有一种潜在的恐惧，认为成员在没有监督的情况下，将无法按规定的时间工作，尤其是组织中较低级别的成员。
 
 
-  When people have the freedom to choose and agree their own working hours, an environment of trust is created that motivates people to be fully responsible for their work.
+  如果给与成员选择和商定自己工作时间的自由，就能带来一种信任的环境，激励人们对自己的工作负全责。
 
 
-  When an organization isn’t ready for self-management, self-set working hours can be a good first step. This approach starts to build greater trust and collaboration between boss and subordinate when it works well.
+  如果一个组织还没有做好自我管理的准备，但可以率先尝试工作时间的自主设计，这会是个很好的转型起点。当这种方法运行良好时，会开始在上司和下属之间建立更大的信任和协作。
 
 
   #### Commitments
