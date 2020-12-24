@@ -81,10 +81,10 @@ inPractice: >-
   在大多数传统组织中，存在着一个不言而喻的假设，认为担任管理职务的人，应该把对工作的承诺放在人生中的其他私人承诺之上。很少有同事会因为参加孩子在学校的公演或因为好朋友需要帮助而取消重要的会议。在自我管理的组织中，坦诚分享自己生命中其他重要承诺的需求，被认为是成员在工作中保持真实完整人性的必要条件。没有必要假装工作总是第一位的。蔚蓝组织定期召开会议，同事们可以在会上坦诚讨论，在自己的人生中，希望将什么比例的时间和精力投入到组织中去。同事们通过公开讨论彼此的人生私人需求与承诺，能为大家创造机会，找到合适的解决方案，对彼此的完整人生许诺提供支持并共同完成任务。
 
 
-  ##### **Working hours/flex-time**
+  **工作时间/弹性工作制**
 
 
-  蔚蓝组织信任成员有能力为实现自己的目标而主动完成工作。故不需要监控工作时间、上下班打卡或甚至不需要实施弹性工作制。在一些蔚蓝组织，如[法维](http://www.favi.com/)和[太阳液压系统](http://www.sunhydraulics.com/), the working day is still divided into shifts, which is roughly the time colleagues are expected to spend on the shop floor, but it is not uncommon to see an operator stay on during the following shift to finish a job because he/she knows it needs to be done.
+  蔚蓝组织信任成员有能力为实现自己的目标而主动完成工作。故不需要监控工作时间、上下班打卡或甚至不需要实施弹性工作制。在一些蔚蓝组织，如[法维](http://www.favi.com/)和[太阳液压系统](http://www.sunhydraulics.com/)，工作日仍分为轮班，但这只是为了大致划分同事们在车间工作的大约时间段而已。即使进入了下一个轮班期间，如果没有完成，操作员依然会继续工作，因为他/她知道需要完成才能离开。
 
 
   ##### **In times of need**
