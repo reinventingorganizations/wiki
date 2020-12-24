@@ -22,15 +22,15 @@ perspective: >-
   如果一个组织还没有做好自我管理的准备，但可以率先尝试工作时间的自主设计，这会是个很好的转型起点。当这种方法运行良好时，会开始在上司和下属之间建立更大的信任和协作。
 
 
-  #### Commitments
+  #### 任务承诺
 
 
-  When colleagues work in a culture where it is normal and necessary to share other commitments in their lives, authenticity and being whole at work are embraced. Openness about personal commitments can develop stronger relationships amongst colleagues and result in a culture where colleagues support each other.
+  蔚蓝文化认为，同事们在工作中可以自由坦诚的分享自己人生中的其他责任内容（私事），这既是正常的也是必要的。在这种文化氛围工作的成员，会自然培育并接纳自己和他人的真实而完整的人性。在职场提供可以公开谈论个人的完整人生许诺内容（包括那些与工作无关的私人角度）的机会，可以在同事之间建立更亲密更牢固的关系，并形成一种同事间相互支持的文化。（无论是工作上还是私人生活中，将职场与私人生活融为一体。）
 
 
-  In times of need or crisis, for example in high season,  it is common in [Teal organizations](../teal-paradigm-and-organizations/) for workers, to voluntarily work longer hours to complete a task with motivation and pride, supporting their colleagues and working towards the purpose of the organization.
+  在[蔚蓝组织](../teal-paradigm-and-organizations/)中，当出现需要或危机时，例如在旺季，成员通常会主动延长工作时间，带着动力和自豪感完成任务，支持同事，朝着组织的目标努力。
 
-  Every historical stage has given birth to a distinct perspective on commitment, working hours and flexibility, and to very different practices:
+  人类组织在每一个历史阶段都产生了对承诺、工作时间和弹性化的不同看法，以及截然不同的做法：
 
 
   #### **Red organizations**
