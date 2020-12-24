@@ -42,7 +42,7 @@ perspective: >-
   #### **Amber organizations**
 
 
-  In [Amber Organizations](../amber-paradigm-and-organizations/), working hours are determined by senior leaders and specified in an employment contract. They decide what work is to be carried out and how working hours will be monitored.
+  在[琥珀组织](../amber-paradigm-and-organizations/)中，工作时间由高级领导决定，并在雇佣合同中规定。实现确定成员要完成何种工作和监控工作时间的方法。
 
 
   #### **Orange organizations**
