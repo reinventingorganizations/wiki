@@ -75,10 +75,10 @@ inPractice: >-
   [蔚蓝组织](../teal-paradigm-and-organizations/)基于这样的假设：即使是平凡的日常工作，成员也会有自豪感，并希望把工作做好。原则上自动认为成员都可靠、能自我激励、值得信赖、聪明智慧。（人之初，性本善）
 
 
-  ##### **Commitment**
+  ##### **任务承诺**
 
 
-  In most traditional organizations, there is an unspoken assumption that people in managerial positions should put their commitment to work above any other commitment in their lives. Few colleagues would cancel an important meeting for their child’s school play or because a good friend needs help. In self-managing organizations, speaking up about other important commitments in one's life is considered necessary to be authentic and whole at work. There is no need for the pretence that work will always come first. Teal organizations hold meetings at regular intervals in which colleagues can discuss how much time and energy, at that moment in their lives, they want to commit to the organization.  Because colleagues discuss their other commitments openly, solutions can be found to provide support and get the task done.
+  在大多数传统组织中，存在着一个不言而喻的假设，认为担任管理职务的人，应该把对工作的承诺放在人生中的其他私人承诺之上。很少有同事会因为参加孩子在学校的公演或因为好朋友需要帮助而取消重要的会议。在自我管理的组织中，坦诚分享自己生命中其他重要承诺的需求，被认为是成员在工作中保持真实完整人性的必要条件。没有必要假装工作总是第一位的。蔚蓝组织定期召开会议，同事们可以在会上坦诚讨论，在自己的人生中，希望将什么比例的时间和精力投入到组织中去。同事们通过公开讨论彼此的人生私人需求与承诺，能为大家创造机会，找到合适的解决方案，对彼此的完整人生许诺提供支持并共同完成任务。
 
 
   ##### **Working hours/flex-time**
