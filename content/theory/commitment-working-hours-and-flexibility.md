@@ -93,10 +93,10 @@ inPractice: >-
   平衡个人和组织的需要并不容易。例如，[晨星](http://www.morningstarco.com/)有一个番茄加工的旺季，所有的人都需要上岗。如果有人想在这种繁忙时期减少工作时间，就应该自行找到一个解决办法来履行他们所做的承诺。这种对成员的守诺期待，是没有人力资源或计划职能施加压力的自我管理模式的必然代价。压力转移到个人身上，成员不能简单地提出一个请假请求，让别人为解决这个问题而烦恼。他/她有充分的自由寻找替代的解决办法，但在负全责找到解决办法之前，必须遵守以前的承诺。
 
 
-  ##### **Working hours and Teal in the future**
+  ##### **工作时间与蔚蓝组织的未来形态**
 
 
-  In the future, it is likely that the more people commit to ‘personal purpose’ in their lives, the more flexible their arrangements with the organization will be. Accommodating personal commitments to self-employment, part time work, or volunteering work will be normal. There will be no need for approval. A person will simply find a way to meet or transfer his/her commitments to another colleague and/or explore with colleagues what new roles and commitments he/she could take on that would add value to the organization.
+  未来，随着更多的人开始选择在人生中优先“个人目标”的实现，个人与组织的时间分配就会愈发灵活。通过自营职业、兼职工作、或志愿工作实现个人承诺，将成为普遍现象。不需要批准。成员可以很简单的找到办法履行自己的承诺，或将其合理转移给另一个同事。或与同事坦诚探讨，自己希望可以寻觅一些，同样能为组织增加价值的新角色和承诺的机会。
 faq:
   - question: What happens if a person can’t keep up their commitment to the
       organization due to other personal commitments?
@@ -114,4 +114,3 @@ relatedTheory:
   - Listening to Purpose
   - Compensation and incentives
 ---
-to be removed
