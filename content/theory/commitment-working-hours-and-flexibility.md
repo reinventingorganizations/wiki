@@ -51,10 +51,10 @@ perspective: >-
   在[橙色组织](../orange-paradigm-and-organizations/)中，成员通常分为两类。有些人（通常是体力劳动者）按固定的时间打卡上班，还有一些人（通常在管理岗位上）与合同规定的时间长短无关，他们遵循目标管理，完成规定的工作即可。
 
 
-  #### **Green organizations**
+  #### **绿色组织**
 
 
-  In [Green organizations](../green-paradigm-and-organizations/), there is typically a culture of co-operation where people are empowered to work the hours they choose albeit within a defined structure. Flex-time is often used for lower-level workers in order to allow people to fit work in with the rest of their life. Working from home is a realistic option for those whose role allows it.
+  在[绿色组织](../green-paradigm-and-organizations/)中，开始出现典型的合作文化。在这种新文化中，人们被授权按自己选择的时间工作，但还是被限制在一个确定的层次结构框架内。弹性工作时间通常用于较低级别的成员，以使他们的工作能适配于人生的其他时间分配。对于那些岗位角色性质允许的人，在家工作已经成为一个现实的选择。
 
 
   #### **Teal organizations**
