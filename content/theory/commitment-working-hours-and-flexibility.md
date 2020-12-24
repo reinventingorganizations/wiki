@@ -57,7 +57,7 @@ perspective: >-
   在[绿色组织](../green-paradigm-and-organizations/)中，开始出现典型的合作文化。在这种新文化中，人们被授权按自己选择的时间工作，但还是被限制在一个确定的层次结构框架内。弹性工作时间通常用于较低级别的成员，以使他们的工作能适配于人生的其他时间分配。对于那些岗位角色性质允许的人，在家工作已经成为一个现实的选择。
 
 
-  #### **Teal organizations**
+  #### **蔚蓝组织**
 
 
   On the surface, [Teal organizations ](../teal-paradigm-and-organizations/)may not look so different from Green ones relative to commitment, working hours and flexibility. The difference is in maturity and coherence. Whereas a Green organization might make the practices outlines above available to specific populations, a Teal organization would make these practices widely available as a normal part of the way they operate.
