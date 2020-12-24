@@ -35,10 +35,10 @@ perspective: >-
   在[琥珀模式](../amber-paradigm-and-organizations/)中，报酬通常是固定的，并根据成员在等级制度中的级别（或其他固定的地位标志，如个人的学历）来决定。没有个人工资谈判，没有激励措施。“同工同酬”。
 
 
-  #### **Orange Organizations**
+  #### **橙色组织**
 
 
-  In the [Orange paradigm](../orange-paradigm-and-organizations/), there is some individual negotiation of base salary, and people generally fall into salary bands. A boss has some freedom to increase someone’s pay within that salary band. Orange believes strongly in individual targets and incentives. If people reach predetermined targets (that ideally belong to a cascaded system of targets or budget that builds up to strong creation of shareholder value), they will receive a hardy bonus. Strong differences in pay between top and bottom earners are seen as perfectly acceptable, as they reflect people’s merits and contributions.
+  在[橙色模式](../orange-paradigm-and-organizations/), there is some individual negotiation of base salary, and people generally fall into salary bands. A boss has some freedom to increase someone’s pay within that salary band. Orange believes strongly in individual targets and incentives. If people reach predetermined targets (that ideally belong to a cascaded system of targets or budget that builds up to strong creation of shareholder value), they will receive a hardy bonus. Strong differences in pay between top and bottom earners are seen as perfectly acceptable, as they reflect people’s merits and contributions.
 
 
   #### **Green Organizatio**ns
