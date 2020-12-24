@@ -13,26 +13,26 @@ perspective: >-
   在[蔚蓝组织](../teal-paradigm-and-organizations/)中，不仅确定薪酬的方式不同，薪酬的性质和重要性都变得完全不同。蔚蓝组织在薪酬方面通常表现出以下特征：
 
 
-  * People set their own salaries, with guidance from their peers.
+  * 成员以同事为标尺决定自己的工资。
 
-  * There are no individual or team incentives, as incentives are seen to distract people from their inner motivation, and to skew behaviors.
+  * 基本没有个人或团队激励。因为蔚蓝认为，激励会分散人们对内在动机的注意力，并导致行为脱逸目标。
 
-  * While not necessarily explicitly attempting to create an egalitarian pay structure, it seems that in these organizations, people strive to reduce the sometimes extreme pay disparities witnessed in many sectors today. A special focus is to ensure that the lowest paid make enough to satisfy basic needs.
-
-
-  In contrast, compensation and incentives in earlier stage organizations can be summarized as follows:
+  * 不一定要刻意建立一个明确的平等性薪酬结构。蔚蓝组织似乎在努力减少薪酬差距，在当今在许多传统组织中这种差距有时很极端。蔚蓝有一个特别关注的底线，就是确保最低收入者的收入能足以满足生活基本需求。
 
 
-  #### **Red Organizations**
+  作为对比，将早期组织的薪酬和激励总结如下：
 
 
-  In the [Red paradigm](../red-organizations/), the prerogative of the boss is to freely, on a whim, decide to increase or reduce pay. There are no formal processes for negotiating on pay, nor any formal, documented incentive processes.
+  #### **红色组织**
 
 
-  #### **Amber Organizations**
+  在[红色模式](../red-organizations/)中，老板的特权是，可以根据突发奇想自由决定增加或减少成员的工资。没有正式的薪酬谈判流程，也没有任何正式的、有文件记录的激励流程。
 
 
-  In the [Amber paradigm](../amber-paradigm-and-organizations/), compensation is generally fixed and determined by a person’s level in the hierarchy (or other fixed status marker, such as the person’s type of university degree). There are no individual salary negotiations, no incentives. It’s “same work, same pay”.
+  #### **琥珀组织**
+
+
+  在[琥珀模式](../amber-paradigm-and-organizations/)中，报酬通常是固定的，并根据成员在等级制度中的级别（或其他固定的地位标志，如个人的学历）来决定。没有个人工资谈判，没有激励措施。“同工同酬”。
 
 
   #### **Orange Organizations**
