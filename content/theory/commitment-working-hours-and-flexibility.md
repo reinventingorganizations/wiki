@@ -60,17 +60,17 @@ perspective: >-
   #### **蔚蓝组织**
 
 
-  从表面上看，对于承诺、工作时间和灵活性的见解和做法，[Teal organizations ](../teal-paradigm-and-organizations/)may not look so different from Green ones relative to commitment, working hours and flexibility. The difference is in maturity and coherence. Whereas a Green organization might make the practices outlines above available to specific populations, a Teal organization would make these practices widely available as a normal part of the way they operate.
+  从表面上看，对于承诺、工作时间和灵活性的见解和做法，[蔚蓝组织 ](../teal-paradigm-and-organizations/)与绿色组织没有太大区别。区别只在于成熟度和连贯性。一个绿色组织可能会只让特定人群了解并适用上述新流程，而蔚蓝组织则将这些流程作为有机而常规的运作方式，广泛运用于全员。
 
 
-  Teal organizations often exhibit the following general measures:
+  蔚蓝组织通常采取以下常见措施：
 
 
-  * Working hours are not controlled or decided by anyone
+  * 工作时间不受任何人控制，不由他人决定。
 
-  * People are trusted to set their own goals and work until they reach them.
+  * 信任每个成员都有能力设定自己的目标，并努力工作直到达成目标。
 
-  * There is a shared understanding that at times, individuals may need to vary their commitment to work. These situations are shared and openly discussed so that the task in hand can be completed with everyone’s support.
+  * 根据组织的普遍共识，个人有时可能需要调整自己对工作的承诺（因环境变化或其他因素带来的拖延和困难等）。这些情况通常被分享并得到公开讨论，以便在组织全员的支持下完成手头的任务。
 inPractice: >-
   [Teal organizations ](../teal-paradigm-and-organizations/)start from the
   premise that even for routine work, people have a sense of pride and want to
