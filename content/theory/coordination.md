@@ -31,10 +31,10 @@ perspective: >-
   [橙色组织](https://reinventingorganizations-wiki.netlify.app/theory/orange-paradigm-and-organizations/)靠不断的创新和优化进行竞争。这意味着各单元之间更需要协作。协作的主要手段是会议、分级决策结构和对岗位角色的明确定义。尤其是通过会议尝试挖掘团队的智慧。这类组织的每一级都有定期的、固定的（通常是每周的）团队会议，以及关于特定计划的大量项目和跨职能会议。
 
 
-  #### Green Organisations
+  #### 绿色组织
 
 
-  In [Green organisations](../green-paradigm-and-organizations/) coordination is often time consuming as the culture in these organisations tends to be more sensitive to people’s feelings. A lot of time is spent on bringing potentially opposing points of view to consensus. This egalitarian approach can lead to frustratingly long meetings and a lack of effective decision taking. As a result, colleagues sometimes feel the need to revert to power games behind the scenes to get things moving.
+  在[绿色组织](../green-paradigm-and-organizations/)中，协调协作往往很耗时，因为这些组织的文化往往更在意人们的感受。投入很多时间尝试在一些可能对立的观点上达成共识。这种平等的做法可能导致令人沮丧的冗长会议和低效决策。因此，同事们有时会觉得有必要回到幕后权力（群众领袖）的游戏中来。
 inPractice: >-
   In a pyramid structure, meetings are needed at every level to gather, package,
   filter, and transmit information as it flows up and down the chain of command.
