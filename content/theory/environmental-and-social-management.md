@@ -131,7 +131,7 @@ inPractice: >-
   #### 融入商务活动
 
 
-  [蔚蓝组织](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/teal-paradigm-and-organizations) （通常）没有独立的企业社会责任项目组。[布尔佐格](https://www.buurtzorgnederland.com/)adds new services in response to emerging social needs sensed by nurses, e.g. to help Alzheimer’s patients handle domestic chores.
+  [蔚蓝组织](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/teal-paradigm-and-organizations) （通常）没有独立的企业社会责任项目组。[布尔佐格](https://www.buurtzorgnederland.com/)通过增加新的服务，来回应对护士们所感受到的新的社会需求，例如帮助老年痴呆症患者处理家务。
 faq:
   - question: I want my organization to do more to benefit society and the
       environment. Where do I start?
