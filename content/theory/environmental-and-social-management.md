@@ -64,7 +64,7 @@ perspective: >-
   与利益相关者的对话，是绿色组织活动的有机部分，同时也是企业社会责任战略的核心话题之一。
 
 
-  绿色组织的使命很可能已经包括了[社会责任](https://en.wikipedia.org/wiki/Social_responsibility).。比如，[绿色组织](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/green-paradigm-and-organizations) 以通过优先发展中国家的供应商合作，帮助当地维持符合人道的工作条件。他们也可能专注于自己的碳足迹[carbon foot-print](https://en.wikipedia.org/wiki/Carbon_footprint)或努力使产品和包装可回收。
+  绿色组织的使命很可能已经包括了[社会责任](https://en.wikipedia.org/wiki/Social_responsibility).。比如，[绿色组织](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/green-paradigm-and-organizations) 以通过优先发展中国家的供应商合作，帮助当地维持符合人道的工作条件。他们也可能专注于自己的[碳足迹](https://en.wikipedia.org/wiki/Carbon_footprint)或努力使产品和包装可回收。
 
 
   **Teal organizations**
