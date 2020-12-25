@@ -64,13 +64,13 @@ perspective: >-
   与利益相关者的对话，是绿色组织活动的有机部分，同时也是企业社会责任战略的核心话题之一。
 
 
-  绿色组织的使命很可能已经包括了[社会责任](https://en.wikipedia.org/wiki/Social_responsibility).。比如，[绿色组织](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/green-paradigm-and-organizations) 以通过优先发展中国家的供应商合作，帮助当地维持符合人道的工作条件。他们也可能专注于自己的[碳足迹](https://en.wikipedia.org/wiki/Carbon_footprint)或努力使产品和包装可回收。
+  绿色组织的使命很可能已经包括了[社会责任](https://en.wikipedia.org/wiki/Social_responsibility).。比如，[绿色组织](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/green-paradigm-and-organizations) 以通过优先发展中国家的供应商合作，帮助当地维持符合人道的工作条件。他们也可能专注于管理自己的[碳足迹](https://en.wikipedia.org/wiki/Carbon_footprint)或努力使产品和包装可回收。
 
 
-  **Teal organizations**
+  **蔚蓝组织**
 
 
-  [Teal organizations](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/teal-paradigm-and-organizations) see themselves as part of a living system. That includes not only the organization itself but also the environment around it. Therefore, Teal organizations often take action to improve also their surroundings:
+  [蔚蓝组织](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/teal-paradigm-and-organizations)蔚蓝组织将自己视为生命系统的有机部分。这个生命系统不仅包括组织本身，也包括周围的环境。因此，蔚蓝组织经常主动采取行动改善其环境：
 
 
   * Social and environmental responsibility arises from what is sensed to be “the right thing to do,” based on [organizational values](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/culture-and-values).
