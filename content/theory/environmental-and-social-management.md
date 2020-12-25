@@ -111,13 +111,13 @@ inPractice: >-
   因此，蔚蓝组织经常采取系统性的方法，积极来改善自己赖以昌盛的环境或社会结构，特别是当环境成为实现组织目标所必需要素之际。
 
 
-  #### Sustainability before short term gains
+  #### 持续发展优先于短期效益
 
 
-  The theme of sustainability which is common in other Teal practices is also prominent in the area of environmental and social management. Teal insists on a long-term sustainable approach to delivering value. One of the reasons is that Teal feels that exploitation of life itself for short-term financial gain is immoral. Putting future potential of purpose at risk is considered reckless and the wrong thing to do.
+  在其他蔚蓝实践中得到普遍重视的可持续性主题，在环境和社会管理领域也同样重要。蔚蓝坚持以长期可持续的方式实现价值。其中一个主要原因是，蔚蓝原则认为，为了短期的经济利益而榨取自己或组织的生命，是不道德的。把未来实现目标的潜力置于危险之中，是愚蠢而错误的做法。
 
 
-  Teal often takes proactive measures to improve the environment and social aspects of its surroundings for the long term - in order to increase sustainability of purpose ― even if there may not be payoffs in the immediate term.
+  蔚蓝即使在短期内可能没有回报，也会从长远角度出发，经常采取积极主动的措施，积极改善自己周围的环境和社会条件，以提高目标的可持续性。
 
 
   #### Distributed initiatives
