@@ -102,13 +102,13 @@ inPractice: >-
   蔚蓝组织在环境和社会管理实践中，努力超越盈利目的。正如[AES ](http://www.aes.com/)在一次公开听证会上所说：“如果公司意识到...需要在价值观和利润间进行选择，我们就会努力坚持自己的价值观——即使这样做可能会导致利润减少或失去机会”。
 
 
-  #### Organization and environment are interdependent
+  #### 组织和环境相互依存
 
 
-  The metaphor of a Teal organization as a living organism, with its own purpose and intent, extends to the environment. Both organization and the environment it lives in are considered to be part of a living system. As such, the organization is dependent on its environment and the social structures that affect it. That is, the organization cannot thrive without a healthy environment.
+  蔚蓝组织被比喻为一个有生命的有机体，在朝向环境延申过程中，有其自己的目标和意图。组织及其所处的环境都被认为是生命系统的一部分。因此，组织依赖于其环境以及能影响自己的社会结构。也就是说，没有一个健康的环境，组织就不能兴旺发达。
 
 
-  Teal organizations therefore often take a systemic approach to improve the environment or social structures in which the organization is active, especially when that environment is necessary to achieve the purpose of the organization.
+  因此，蔚蓝组织经常采取系统性的方法，积极来改善自己赖以昌盛的环境或社会结构，特别是当环境成为实现组织目标所必需要素之际。
 
 
   #### Sustainability before short term gains
