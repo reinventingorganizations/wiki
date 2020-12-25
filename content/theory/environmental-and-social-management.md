@@ -128,10 +128,10 @@ inPractice: >-
   当[巴塔哥尼亚](https://eu.patagonia.com/hu/en/home/)把仓库搬到里诺时，四名成员注意到内华达州的大部分荒野没有得到保护。他们发起了一项倡议，使120万英亩的荒野得到保护。
 
 
-  #### Integrated into the business
+  #### 融入商务活动
 
 
-  [Teal organizations](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/teal-paradigm-and-organizations) do not (normally) have separate units for Corporate Social Responsibility. [Buurtzorg ](https://www.buurtzorgnederland.com/)adds new services in response to emerging social needs sensed by nurses, e.g. to help Alzheimer’s patients handle domestic chores.
+  [蔚蓝组织](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/teal-paradigm-and-organizations) do not (normally) have separate units for Corporate Social Responsibility. [Buurtzorg ](https://www.buurtzorgnederland.com/)adds new services in response to emerging social needs sensed by nurses, e.g. to help Alzheimer’s patients handle domestic chores.
 faq:
   - question: I want my organization to do more to benefit society and the
       environment. Where do I start?
@@ -170,4 +170,3 @@ relatedTheory:
   - Listening to Purpose
   - wholeness
 ---
-done
