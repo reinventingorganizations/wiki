@@ -45,7 +45,7 @@ inPractice: >-
   蔚蓝组织是由一些小型的自主的团队组成，没有固定的指令链条。那么同事们如何在团队之间协调行动呢？如何阻止组织的脱节解体？
 
 
-  蔚蓝组织以一种相当简单的、用形式为功能服务的原则来处理协作需求。当有人感觉到问题或机会时，就召开临时会议。如果需要一种更持久的协作形式，也可以创建一个特定的岗位角色。例如，在工厂中，团队可以创建一个角色来共享最佳工作经验，或实现联合采购或处理工资管理。这样的角色一般通过反向委托流程来创建：团队将协作任务委托给团队之外的成员。但此人无权将决策或规则强加给团队。当不再需要协作时，这个角色就会自然消失。这些都不需要上级批准。事情以自组织形态发生。自我管理结构中的会议和角色都是自发出现；只要它们能为组织这个生态系统增加价值，它们就会存在。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 1810-1814). Nelson Parker. Kindle Edition.]
+  蔚蓝组织以一种相当简单的、用形式为功能服务的原则来处理协作需求。当有人感觉到问题或机会时，就召开临时会议。如果需要一种更持久的协作形式，也可以创建一个特定的岗位角色（详见下文 负责协调的专门岗位）。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 1810-1814). Nelson Parker. Kindle Edition.]
 
 
   #### 点对点协议与承诺
@@ -66,10 +66,10 @@ inPractice: >-
   内部社交网和知识库等信息技术工具，可以有效替代不必要的结构，并引导知识交流和协作（尤其是当公司规模扩大，人员分散在不同地点时）。
 
 
-  #### Specific coordination roles (reverse delegation)
+  #### 负责协调的专门岗位 (反向授权)
 
 
-  When a more permanent and expansive form of coordination is needed, a specific role might be created to help ensure the coordination. For instance, in a factory, teams could create a role for sharing best practices, for making joint purchasing happen or for dealing with pay-roll administration. Such roles are created in a process of reverse delegation: the teams delegate coordinating tasks that make sense to happen outside the team, and the person filling the role has no power to impose the use of his or her services, decisions or rules onto the team. When coordination is no longer needed, the role naturally disappears.
+  如果需要更持久和更广泛的协作形式，还可以设立一个特定岗位角色来帮助确保协作。例如，在工厂中，团队可以创建一个角色来共享最佳经验，比如联合采购或处理工资单。这样的角色通过反向授权流程创建：团队将协作任务委派给团队之外的一个，自然发生的能服务于自己任务的角色，而担任该角色的人无权强迫团队使用这个服务、决策或规则。当不再需要协作时，这个角色自然就消失了。这些都不需要上级批准。事情以自组织形态发生。自我管理结构中的会议和角色都是自发出现；只要它们能为组织这个生态系统增加价值，它们就会存在。
 
 
   #### The Advice process
