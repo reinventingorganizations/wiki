@@ -28,10 +28,10 @@ perspective: >-
   随着时间的推移，组织在环境和社会责任的管理，已经开始从如何使用或开发资源，进化发展到如何为社会和环境提供服务。
 
 
-  **Red organizations**
+  **红色组织**
 
 
-  The [Red paradigm](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/red-organizations) is based on social management via power. The organization is subject to nature and the environment, which might dictate tribal rhythms. Red sees the environment through the filter of the potential for use. What in the environment is open to be had, so that we may increase our ability to survive and prosper?
+  [红色模式](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/red-organizations) is based on social management via power. The organization is subject to nature and the environment, which might dictate tribal rhythms. Red sees the environment through the filter of the potential for use. What in the environment is open to be had, so that we may increase our ability to survive and prosper?
 
 
   **Amber organizations**
