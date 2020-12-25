@@ -48,22 +48,22 @@ inPractice: >-
   蔚蓝组织以一种相当简单的、用形式为功能服务的原则来处理协作需求。当有人感觉到问题或机会时，就召开临时会议。如果需要一种更持久的协作形式，也可以创建一个特定的岗位角色。例如，在工厂中，团队可以创建一个角色来共享最佳工作经验，或实现联合采购或处理工资管理。这样的角色一般通过反向委托流程来创建：团队将协作任务委托给团队之外的成员。但此人无权将决策或规则强加给团队。当不再需要协作时，这个角色就会自然消失。这些都不需要上级批准。事情以自组织形态发生。自我管理结构中的会议和角色都是自发出现；只要它们能为组织这个生态系统增加价值，它们就会存在。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 1810-1814). Nelson Parker. Kindle Edition.]
 
 
-  #### 直接协议与承诺
+  #### 点对点协议与承诺
 
 
-  The simplest form of coordination is simply one colleague speaking with another colleague – whatever their role and place in the organization. In the absence of hierarchical structures, no colleague is out of bounds. No superior needs to be informed when a colleague wants to reach out to another colleague.
+  最简单的协作形式就是两个同事一对一交谈——与两者在组织中的角色和地位无关。在没有层级结构的开放性单元网络机制下，不存在越界越权的概念。当一个同事想联系另一个同事时，不需要通知上级。
 
 
-  #### Ad hoc meetings
+  #### 临时会议
 
 
-  Self-managing organizations tend not to have fixed, recurring meetings to coordinate across teams. Meetings are called in ad hoc fashion when someone feels that a need has arisen.
+  自我管理的组织往往不涉及固定的、重复性的会议来协作团队。当有人觉得有需要时，可以临时召集会议。
 
 
-  #### Internal social networks
+  #### 内部社交网
 
 
-  Information technology tools such as internal social networks and knowledge repositories can play a critical role in avoiding unnecessary structures and in steering knowledge exchange and coordination (especially when companies grow larger and people are spread throughout various locations).
+  内部社交网和知识库等信息技术工具，可以有效替代不必要的结构，并引导知识交流和协作（尤其是当公司规模扩大，人员分散在不同地点时）。
 
 
   #### Specific coordination roles (reverse delegation)
