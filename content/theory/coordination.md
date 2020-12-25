@@ -5,26 +5,18 @@ key: Coordination
 name: 协作
 sortOrder: 3
 category: Structure of an organization
-intro: >-
-  The topic of coordination covers the process of organizing work and exchanging
-  knowledge across the organization.
-
+intro: |-
+  协作的话题包括组织工作和在整个组织内交换知识的过程。
 
   ![](/media/coordination.jpg)
 perspective: >-
-  In Teal organisations, the need for coordination does not go away. However,
-  the bosses, staff roles and endless meetings typically used to accomplish such
-  coordination in earlier stages are replaced by more ad hoc and organic
-  processes, including direct agreements and commitments between colleagues, ad
-  hoc meetings, conversations on internal social networks, as well as people
-  holding specific roles to support coordination. The advice process for making
-  decisions is also fundamental to coordination in Teal.
+  在蔚蓝组织中，并不是不需要协作。但蔚蓝用更特殊而有机的流程，取代了早期阶段用于完成这种协作的老板和管理角色以及无休止的会议，这些流程包括同事之间的直接协议和承诺、临时会议、内部社交网络上的对话，或设置特定岗位角色支持协作。预制的支撑决策的建议流程，也是蔚蓝协作的基础。
 
 
-  #### Red Organisations[](https://reinventingorganizationswiki.com/index.php?title=Coordination&action=edit&section=2 "\<span>\<span>\</span>\<span>\<span>Red\</span>\</span>\</span> Organizations")
+  #### 红色组织[](https://reinventingorganizationswiki.com/index.php?title=Coordination&action=edit&section=2 "\<span>\<span>\</span>\<span>\<span>Red\</span>\</span>\</span> Organizations")
 
 
-  In [Red organisations ](https://reinventingorganizations-wiki.netlify.app/theory/red-organizations/)coordination happens ad hoc and is intrinsically fused with power: coordination is generally limited to the boss’s ability to enforce it.
+  在[红色组织](https://reinventingorganizations-wiki.netlify.app/theory/red-organizations/)中，协作本质上是与权力相结合的临时性职能：协作通常只依赖于老板进行协调的能力。
 
 
   #### Amber Organisations
