@@ -42,10 +42,10 @@ inPractice: >-
   Locations 1752-1759). Nelson Parker. Kindle Edition.]
 
 
-  蔚蓝的组织结构由一些小型的自主的团队组成，没有固定的指令链条。那么同事们如何在团队之间协调行动呢？如何阻止组织的脱节解体？
+  蔚蓝组织是由一些小型的自主的团队组成，没有固定的指令链条。那么同事们如何在团队之间协调行动呢？如何阻止组织的脱节解体？
 
 
-  Teal Organizations deal with the need for coordination in a rather simple form-follows-function manner. When a problem or an opportunity arises, an ad hoc meeting is convened. When a more permanent form of coordination is needed, a specific role might be created. For instance, in a factory, teams could create a role for sharing best practice, for making joint-purchasing happen or for dealing with payroll administration. Such roles are created in a process of reverse delegation: the teams delegate coordinating tasks to someone outside the team. This person has no power to impose decisions or rules onto the team. When coordination is no longer needed, the role disappears. None of this needs approval from above. Things happen organically. Meetings and roles in self-managing structures emerge spontaneously; they exist as long as they add value to the ecosystem.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 1810-1814). Nelson Parker. Kindle Edition.]
+  蔚蓝组织以一种相当简单的、用形式为功能服务的原则来处理协作需求。当有人感觉到问题或机会时，就召开临时会议。如果需要一种更持久的协作形式，也可以创建一个特定的岗位角色。例如，在工厂中，团队可以创建一个角色来共享最佳工作经验，或实现联合采购或处理工资管理。这样的角色一般通过反向委托流程来创建：团队将协作任务委托给团队之外的成员。但此人无权将决策或规则强加给团队。当不再需要协作时，这个角色就会自然消失。这些都不需要上级批准。事情以自组织形态发生。自我管理结构中的会议和角色都是自发出现；只要它们能为组织这个生态系统增加价值，它们就会存在。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 1810-1814). Nelson Parker. Kindle Edition.]
 
 
   #### Direct agreements and commitments
