@@ -73,7 +73,7 @@ perspective: >-
   [蔚蓝组织](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/teal-paradigm-and-organizations)蔚蓝组织将自己视为生命系统的有机部分。这个生命系统不仅包括组织本身，也包括周围的环境。因此，蔚蓝组织经常主动采取行动改善其环境：
 
 
-  * Social and environmental responsibility arises from what is sensed to be “the right thing to do,” based on [organizational values](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/culture-and-values).
+  * 社会和环境责任源于基于[组织价值观](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/culture-and-values)的“正确行为” 
 
   * Significant steps are taken to reduce waste, toxicity, and other impacts on the biosphere.
 
