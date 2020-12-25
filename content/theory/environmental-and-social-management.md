@@ -22,10 +22,10 @@ perspective: >-
   蔚蓝模式趋向于零废物、零毒性和对生态系统的零影响。
 
 
-  For now, initiatives such as B-Corps and Holacracy’s constitution provide interesting avenues for teal leadership.
+  作为起点，已经有福利公司（B-Corps，介于营利组织和非营利组织之间的模式）和霍尔模式的宪法等倡议，都为蔚蓝领导层提供了有趣的参考方法。
 
 
-  Approaches to Environmental and Social Management have evolved over time from how can a resource be used or exploited to how can it be served.
+  随着时间的推移，组织在环境和社会责任的管理，已经开始从如何使用或开发资源，进化发展到如何为社会和环境提供服务。
 
 
   **Red organizations**
