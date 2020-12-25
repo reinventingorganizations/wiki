@@ -120,13 +120,12 @@ inPractice: >-
   蔚蓝即使在短期内可能没有回报，也会从长远角度出发，经常采取积极主动的措施，积极改善自己周围的环境和社会条件，以提高目标的可持续性。
 
 
-  #### Distributed initiatives
+  #### 分散的立项倡导权
 
 
-  Power is decentralized: passionate people can initiate activity from anywhere in the organization.
+  分布式决策权：充满激情的人可以在组织的任何地方发起这类活动。
 
-
-  When [Patagonia](https://eu.patagonia.com/hu/en/home/) moved its warehouse to Reno, four employees noticed that most of Nevada’s wild land was not protected wilderness. They sparked an initiative that resulted in 1.2 million acres of wilderness being protected.
+  当[巴塔哥尼亚](https://eu.patagonia.com/hu/en/home/)把仓库搬到里诺时，四名成员注意到内华达州的大部分荒野没有得到保护。他们发起了一项倡议，使120万英亩的荒野得到保护。
 
 
   #### Integrated into the business
