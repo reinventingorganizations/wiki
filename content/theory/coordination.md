@@ -36,26 +36,13 @@ perspective: >-
 
   在[绿色组织](../green-paradigm-and-organizations/)中，协调协作往往很耗时，因为这些组织的文化往往更在意人们的感受。投入很多时间尝试在一些可能对立的观点上达成共识。这种平等的做法可能导致令人沮丧的冗长会议和低效决策。因此，同事们有时会觉得有必要回到幕后权力（群众领袖）的游戏中来。
 inPractice: >-
-  In a pyramid structure, meetings are needed at every level to gather, package,
-  filter, and transmit information as it flows up and down the chain of command.
-  In self-managing structures, the need for these meetings falls away almost
-  entirely. Meeting overload in traditional organizations is particularly acute
-  the higher you go up the hierarchy. The typical day of a top manager consists
-  of back-to-back meetings. The joke goes that in most organizations, people low
-  in the hierarchy work, while people higher up do meetings. In functional
-  pyramidal structures, it could hardly be otherwise. The higher you go, the
-  more lines converge. It is only at the very top that the different departments
-  such as sales, marketing, R&D, production, HR, and finance meet. Decisions are
-  naturally pushed up to the top, as it’s the only place where decisions and
-  tradeoffs can be informed from the various angles involved. It’s almost
-  deterministic: with a pyramidal shape, people at the top of organizations will
-  complain about meeting overload, while people below feel
-  disempowered.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A
-  Guide to Creating Organizations Inspired by the Next Stage of Human
-  Consciousness (Kindle Locations 1752-1759). Nelson Parker. Kindle Edition.]
+  在金字塔结构中，每一层级都需要召开会议来收集、包装、过滤和传递信息，因为信息在指挥链内上下流动。在自我管理结构中，几乎完全不需要这些会议。在传统组织中，层级越高，你的会议超负荷会越严重。一个高级经理典型的一天是连续的会议。有个笑话说，在大多数组织中，等级较低的人在工作，而高层的人在开会。因为在功能性的金字塔结构中，没有找到更有效的协调方法。成员位置越高，越会需要处理八方汇聚而来的线条。只有在最高层，销售、市场、研发、生产、人力资源和财务等不同的部门才能相遇而得到协调机会。于是决策自然被推到最高层，因为这是唯一可以根据来自不同角度的信息做出决策与权衡的层面。一个确定性的事实是：通常金字塔形的形状下，组织高层的人会抱怨会议超负荷，而下面的人则会感到缺乏负赋能赋权而得的积极性。^\[Laloux,
+  Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating
+  Organizations Inspired by the Next Stage of Human Consciousness (Kindle
+  Locations 1752-1759). Nelson Parker. Kindle Edition.]
 
 
-  Teal organizations are not structured with fixed reporting lines that stack up to a pyramid, but often in small, autonomous teams. How then do colleagues coordinate actions across teams? What prevents the organization from disintegrating?
+  蔚蓝的组织结构由一些小型的自主的团队组成，没有固定的指令链条。那么同事们如何在团队之间协调行动呢？如何阻止组织的脱节解体？
 
 
   Teal Organizations deal with the need for coordination in a rather simple form-follows-function manner. When a problem or an opportunity arises, an ad hoc meeting is convened. When a more permanent form of coordination is needed, a specific role might be created. For instance, in a factory, teams could create a role for sharing best practice, for making joint-purchasing happen or for dealing with payroll administration. Such roles are created in a process of reverse delegation: the teams delegate coordinating tasks to someone outside the team. This person has no power to impose decisions or rules onto the team. When coordination is no longer needed, the role disappears. None of this needs approval from above. Things happen organically. Meetings and roles in self-managing structures emerge spontaneously; they exist as long as they add value to the ecosystem.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 1810-1814). Nelson Parker. Kindle Edition.]
