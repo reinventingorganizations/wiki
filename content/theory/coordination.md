@@ -75,7 +75,7 @@ inPractice: >-
   #### 建议流程
 
 
-  自我管理组织使用的[决策](../decision-making/) processes (often called the "advice process") that transcends more traditional top-down or consensus-based mechanisms. The advice process is a powerful, daily mechanism to coordinate actions in self-managing organizations. When a colleague reaches out to other colleagues to share her proposed decision and listens to their advice, she is in effect creating coordination. When she later informs colleagues about the final decision, coordination has already happened. The advice process is at the heart of coordination in Teal organizations.
+  自我管理组织使用的[决策](../decision-making/)流程（通常称为“建议流程”）超越了传统的自上而下或基于共识的机制。建议流程是个强大的日常运作机制，用于协调自我管理组织的行动。当一个同事主动联系其他同事分享自己的建议并听取对方的建议时，实际上是在创造协作。当他（她）决策后把最后的决定通知给同事时，协作就被启动了。建议流程是蔚蓝组织协作的核心。
 faq:
   - question: How do these practices link with the three Teal breakthroughs?
     answer: >-
