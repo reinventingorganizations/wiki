@@ -19,10 +19,10 @@ perspective: >-
   在[红色组织](https://reinventingorganizations-wiki.netlify.app/theory/red-organizations/)中，协作本质上是与权力相结合的临时性职能：协作通常只依赖于老板进行协调的能力。
 
 
-  #### Amber Organisations
+  #### 琥珀组织
 
 
-  [Amber organisations](https://reinventingorganizations-wiki.netlify.app/theory/amber-paradigm-and-organizations/) strive for order and predictability. Coordination happens mainly through formalized processes that everyone adheres to. The static nature of Amber organisations means there is little perceived need for coordinating actions beyond already established processes.
+  [琥珀组织](https://reinventingorganizations-wiki.netlify.app/theory/amber-paradigm-and-organizations/)强调秩序和可预测性。协作主要通过每个人必守的正式流程来实现。琥珀组织的特点是静态性，这意味着除了已经建立的流程之外，几乎没有其他必要的协作行动。
 
 
   #### Orange Organisations
