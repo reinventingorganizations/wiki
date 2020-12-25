@@ -48,7 +48,7 @@ inPractice: >-
   蔚蓝组织以一种相当简单的、用形式为功能服务的原则来处理协作需求。当有人感觉到问题或机会时，就召开临时会议。如果需要一种更持久的协作形式，也可以创建一个特定的岗位角色。例如，在工厂中，团队可以创建一个角色来共享最佳工作经验，或实现联合采购或处理工资管理。这样的角色一般通过反向委托流程来创建：团队将协作任务委托给团队之外的成员。但此人无权将决策或规则强加给团队。当不再需要协作时，这个角色就会自然消失。这些都不需要上级批准。事情以自组织形态发生。自我管理结构中的会议和角色都是自发出现；只要它们能为组织这个生态系统增加价值，它们就会存在。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 1810-1814). Nelson Parker. Kindle Edition.]
 
 
-  #### Direct agreements and commitments
+  #### 直接协议与承诺
 
 
   The simplest form of coordination is simply one colleague speaking with another colleague – whatever their role and place in the organization. In the absence of hierarchical structures, no colleague is out of bounds. No superior needs to be informed when a colleague wants to reach out to another colleague.
