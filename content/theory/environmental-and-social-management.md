@@ -31,7 +31,7 @@ perspective: >-
   **红色组织**
 
 
-  [红色模式](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/red-organizations) is based on social management via power. The organization is subject to nature and the environment, which might dictate tribal rhythms. Red sees the environment through the filter of the potential for use. What in the environment is open to be had, so that we may increase our ability to survive and prosper?
+  [红色模式](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/red-organizations) 的社会责任管理就是行使权力。组织受制于自然和环境，这些会决定部落的节奏。红色通过潜在利用价值这个滤镜，看待环境。时刻考虑：目前环境中有哪些是可为我用的自愿，以提高生存和繁衍能力？
 
 
   **Amber organizations**
