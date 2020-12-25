@@ -75,25 +75,25 @@ perspective: >-
 
   * 社会和环境责任源于基于[组织价值观](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/culture-and-values)的“正确行为” 
 
-  * Significant steps are taken to reduce waste, toxicity, and other impacts on the biosphere.
+  * 采取切实有效的措施减少废物、毒性和对生物圈的其他影响。
 
-  * New practices may spring from anywhere in the organization.
+  * 组织中的任何地方都可能随时萌发出这类新的实践活动。
 
-  * Cost need not be the prime determining factor. 
+  * 成本不一定是决策的决定因素。
 
 
-  As society as a whole shifts toward the Evolutionary-Teal paradigm, we may see more legal experiments along the line of Holacracy’s constitution and B-Corps. In the final chapter of his book, Laloux speculates about an even more profound change: Perhaps in a Teal society, we would no longer think in terms of ownership, but in terms of stewardship? Such a shift would have profound implications in terms of legal ownership of organizations. Only time will tell if and how such a scenario will play out.
+  随着整个社会向进化性蔚蓝范式的转变，我们可能会看到更多的法律实验，会沿着霍尔宪法和B-公司的路线前进。在“组织重塑”这本书的最后一章，拉鲁克斯推测了一个更深刻的变化：也许在一个成熟的蔚蓝社会里，我们不再考虑所有权，而是考虑管理权？这种转变将对组织的合法所有权产生深远影响（资本创新）。只有时间会告诉我们，这种情况是否会发生以及如何发生。
 inPractice: >-
-  #### How environmental and social practices arise
+  #### 环境与社会服务类活动的立项
 
 
-  Environmental and social practices arise from a sense of personal and corporate integrity.
+  环境和社会服务实践活动，源于个人和企业的正直感和连带完整性意识（高度的主权积分意识）。
 
 
-  The guiding question is: What is the right thing to do?
+  有一个可以启发这类事件的牵引性提问：什么是该做的事？
 
 
-  Initiative is distributed throughout the organization. Anyone can sense what is needed, and raise it.
+  自觉倡议并组建项目的权力和义务，分布在整个组织内。任何人都有能力和兴趣感觉到新的需要，并提出倡议。
 
 
   #### Values before profit
