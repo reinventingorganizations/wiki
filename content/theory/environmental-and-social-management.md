@@ -40,10 +40,10 @@ perspective: >-
   在[琥珀模式](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/amber-paradigm-and-organizations)中，往往把组织看作独立于外部世界自成体系的系统，并由一个等级结构来管理。社会优先考虑那些基于出生、教育和性别等获得等级优势的人。环境被视为是可预测的，组织会为了自身利益寻求控制环境的方法，例如水利工程。
 
 
-  With Amber, the first high cultures in the world emerged. The stable structures and long-term processes introduced brought unprecedented change to social structure and their potential.
+  世界上第一个高度文明是随着琥珀模式而出现的。琥珀作为一种稳定的结构和长期的流程，给社会结构及其潜力带来了前所未有的变化。
 
 
-  **Orange organizations**
+  **橙色组织**
 
 
   The goal-oriented organization of the [Orange paradigm](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/orange-paradigm-and-organizations) is focused on solving tangible problems. Growth is a consequence of successfully reaching your objectives, with a surplus of resources (profit). Not reaching objectives will over time, result in the organization dying. Thereis a belief that the strongest and best organizations will survive.
