@@ -46,19 +46,19 @@ perspective: >-
   **橙色组织**
 
 
-  [橙色模式](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/orange-paradigm-and-organizations)的目标导向型组织专注于解决实际问题。不断壮大并拥有过剩的资源（利润），是成功实现目标的结果。随着时间的推移，达不到目标将导致组织死亡。人们相信只有最强最佳的组织才能存活。is focused on solving tangible problems. Growth is a consequence of successfully reaching your objectives, with a surplus of resources (profit). Not reaching objectives will over time, result in the organization dying. Thereis a belief that the strongest and best organizations will survive.
+  [橙色模式](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/orange-paradigm-and-organizations)的目标导向型组织专注于解决实际问题。不断壮大并拥有过剩的资源（利润），是成功实现目标的结果。随着时间的推移，达不到目标将导致组织死亡。人们相信只有最强最佳的组织才能存活。
 
 
-  In Orange organizations, social and environmental efforts are usually focused on ensuring that legal obligations are met. This does not necessarily imply that Orange dismisses the value of these causes. It is rather that these organizations can only justify taking actions which benefit society and environment if these actions also contribute to the objectives of the organization. To Orange, such initiatives would otherwise need their own organization, with objectives that include those goals.
+  在橙色组织中，社会和环境方面的努力，通常集中在确保履行法律义务方面。这并不一定意味着橙色否定这些服务行为的价值。但橙色组织只在有助于实现组织目标的情况下，才有理由采取有益于社会和环境的行动。对橙色来说，这类主动服务社会的计划，需要被包含在自己组织的目标中，才能得到实现。
 
 
-  Some Orange organizations have embraced practices of [Corporate Social Responsibility ](https://en.wikipedia.org/wiki/Corporate_social_responsibility)constructively. Some contributions have been remarkable. Orange organizations frequently use their CSR initiatives to support their brand image through marketing.  
+  一些橙色组织已经建设性地开始展开[企业的社会责任](https://en.wikipedia.org/wiki/Corporate_social_responsibility)活动。有些贡献很显著。橙色组织经常利用其企业社会责任倡议这类的营销方式，来支持其品牌形象。（目的不是出于正义感，而是获利）
 
 
-  **Green organizations**
+  **绿色组织**
 
 
-  The[ Green paradigm](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/green-paradigm-and-organizations) considers the community (and by extension, the environment) as a stakeholder in the business. The pluralistic drive in Green means that it is important not only to be successful as an organization, but also to lift others up so that they also can be more successful.
+  [绿色模式](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/green-paradigm-and-organizations)将社区（以及环境）视为业务中的利益相关者。绿色的多元性主题，意味着其目标是不仅要作为一个组织取得成功，而且要提升其他人，使他们也能更成功。
 
 
   Dialogue with stakeholders is part of green organizations and, at the time, one of the core issues in CSR strategies
