@@ -5,28 +5,21 @@ key: Environmental and Social Management
 name: 环境与社会责任
 sortOrder: 6
 category: Important Processes
-intro: "Environmental and Social Management refers to the approach organizations
-  take regarding their environmental and social impact. \r
+intro: |-
+  环境和社会责任管理是指组织如何处理自己对环境和社会所带来影响的方针和做法。
 
-  \r
-
-  Nowadays many companies are including corporate social responsibility,
-  strategic shared value, and standardized reporting in their main processes.
-  Some of them consider sustainability and the Sustainable Development Goals
-  agenda part of their strategy. "
+  如今，许多公司都将企业社会责任、战略共享价值和标准化报告纳入其主要流程。其中有些组织将可持续性和可持续发展目标议程视为战略的一部分。
 perspective: >-
-  Teal principles will reinforce the organization to sustainability, because
-  social and environmental impacts will be part of the daily life. From an
-  Evolutionary-Teal perspective, it all starts with inner rightness.
+  蔚蓝的原则是增强组织的可持续性，因为社会和环境影响将成为组织日常生活的一部分。从进化论的观点来看，这一切都源于内在智慧和正义感。
 
 
-  As employees, we may have genuine concerns about the environment and the communities we work in. In Teal Organizations, power is decentralized; therefore, environmental and social initiatives can be initiated by passionate people joining forces from any place in the organization.
+  作为成员，我们可能很关心自己工作的环境和社区。在蔚蓝组织中，因为权力是分散的，所以对环境和社会服务类的倡议和项目，可以由组织内任何位置的充满激情的人联合起来自由发起。
 
 
-  When we come from a place of wholeness, we feel compelled to do our share to heal our broken relationship with life in all its forms.
+  当我们基于完整生命的角度运作，就会感觉到需要尽自己的一份力量，来治愈我们与一切形式的生命之间的破裂关系。
 
 
-  Teal tends to zero waste, zero toxicity, and zero impact on ecosystems
+  蔚蓝模式趋向于零废物、零毒性和对生态系统的零影响。
 
 
   For now, initiatives such as B-Corps and Holacracy’s constitution provide interesting avenues for teal leadership.
