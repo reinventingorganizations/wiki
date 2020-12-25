@@ -72,10 +72,10 @@ inPractice: >-
   如果需要更持久和更广泛的协作形式，还可以设立一个特定岗位角色来帮助确保协作。例如，在工厂中，团队可以创建一个角色来共享最佳经验，比如联合采购或处理工资单。这样的角色通过反向授权流程创建：团队将协作任务委派给团队之外的一个，自然发生的能服务于自己任务的角色，而担任该角色的人无权强迫团队使用这个服务、决策或规则。当不再需要协作时，这个角色自然就消失了。这些都不需要上级批准。事情以自组织形态发生。自我管理结构中的会议和角色都是自发出现；只要它们能为组织这个生态系统增加价值，它们就会存在。
 
 
-  #### The Advice process
+  #### 建议流程
 
 
-  Self-managing organizations use a [decision making](../decision-making/) processes (often called the "advice process") that transcends more traditional top-down or consensus-based mechanisms. The advice process is a powerful, daily mechanism to coordinate actions in self-managing organizations. When a colleague reaches out to other colleagues to share her proposed decision and listens to their advice, she is in effect creating coordination. When she later informs colleagues about the final decision, coordination has already happened. The advice process is at the heart of coordination in Teal organizations.
+  自我管理组织使用的[决策](../decision-making/) processes (often called the "advice process") that transcends more traditional top-down or consensus-based mechanisms. The advice process is a powerful, daily mechanism to coordinate actions in self-managing organizations. When a colleague reaches out to other colleagues to share her proposed decision and listens to their advice, she is in effect creating coordination. When she later informs colleagues about the final decision, coordination has already happened. The advice process is at the heart of coordination in Teal organizations.
 faq:
   - question: How do these practices link with the three Teal breakthroughs?
     answer: >-
