@@ -96,10 +96,10 @@ inPractice: >-
   自觉倡议并组建项目的权力和义务，分布在整个组织内。任何人都有能力和兴趣感觉到新的需要，并提出倡议。
 
 
-  #### Values before profit
+  #### 价值观关于利润
 
 
-  Teal organizations strive to manage environmental and social practices ahead of profits. As [AES ](http://www.aes.com/)said in a public hearing: “If the company perceives a conflict between ... values and profits, it will try to adhere to its values - even if doing so might result in diminished profits or foregone opportunities”.
+  蔚蓝组织在环境和社会管理实践中，努力超越盈利目的。正如[AES ](http://www.aes.com/)在一次公开听证会上所说：“如果公司意识到...需要在价值观和利润间进行选择，我们就会努力坚持自己的价值观——即使这样做可能会导致利润减少或失去机会”。
 
 
   #### Organization and environment are interdependent
