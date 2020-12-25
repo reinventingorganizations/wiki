@@ -25,10 +25,10 @@ perspective: >-
   [琥珀组织](https://reinventingorganizations-wiki.netlify.app/theory/amber-paradigm-and-organizations/)强调秩序和可预测性。协作主要通过每个人必守的正式流程来实现。琥珀组织的特点是静态性，这意味着除了已经建立的流程之外，几乎没有其他必要的协作行动。
 
 
-  #### Orange Organisations
+  #### 橙色组织
 
 
-  [Orange organisations ](https://reinventingorganizations-wiki.netlify.app/theory/orange-paradigm-and-organizations/)rely on continuous innovation and optimisation in order to compete. This means more need for coordination across units. The primary means of coordinating are meetings, a hierarchical decision-making structure and the creation of staff roles. Meetings, in particular, try to tap into the intelligence of the group. There are regular, fixed – often weekly – team meetings at every level of the organisation as well as numerous project and cross-functional meetings on specific initiatives.
+  [橙色组织](https://reinventingorganizations-wiki.netlify.app/theory/orange-paradigm-and-organizations/)靠不断的创新和优化进行竞争。这意味着各单元之间更需要协作。协作的主要手段是会议、分级决策结构和对岗位角色的明确定义。尤其是通过会议尝试挖掘团队的智慧。这类组织的每一级都有定期的、固定的（通常是每周的）团队会议，以及关于特定计划的大量项目和跨职能会议。
 
 
   #### Green Organisations
