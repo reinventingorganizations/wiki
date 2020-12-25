@@ -37,7 +37,7 @@ perspective: >-
   **琥珀组织**
 
 
-  在[琥珀模式](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/amber-paradigm-and-organizations), organizations tend to be self-contained, standing apart from the outside world, and run by a hierarchy. Social priorities favor those with status based on birth, education, and gender. The environment is viewed as predictable and organisations seek ways to control it for their benefit, for example in irrigation projects.
+  在[琥珀模式](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/amber-paradigm-and-organizations)中，往往把组织看作独立于外部世界自成体系的系统，并由一个等级结构来管理。社会优先考虑那些基于出生、教育和性别等获得等级优势的人。环境被视为是可预测的，组织会为了自身利益寻求控制环境的方法，例如水利工程。
 
 
   With Amber, the first high cultures in the world emerged. The stable structures and long-term processes introduced brought unprecedented change to social structure and their potential.
