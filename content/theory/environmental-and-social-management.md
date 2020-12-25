@@ -46,7 +46,7 @@ perspective: >-
   **橙色组织**
 
 
-  The goal-oriented organization of the [Orange paradigm](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/orange-paradigm-and-organizations) is focused on solving tangible problems. Growth is a consequence of successfully reaching your objectives, with a surplus of resources (profit). Not reaching objectives will over time, result in the organization dying. Thereis a belief that the strongest and best organizations will survive.
+  [橙色模式](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/orange-paradigm-and-organizations)的目标导向型组织专注于解决实际问题。不断壮大并拥有过剩的资源（利润），是成功实现目标的结果。随着时间的推移，达不到目标将导致组织死亡。人们相信只有最强最佳的组织才能存活。is focused on solving tangible problems. Growth is a consequence of successfully reaching your objectives, with a surplus of resources (profit). Not reaching objectives will over time, result in the organization dying. Thereis a belief that the strongest and best organizations will survive.
 
 
   In Orange organizations, social and environmental efforts are usually focused on ensuring that legal obligations are met. This does not necessarily imply that Orange dismisses the value of these causes. It is rather that these organizations can only justify taking actions which benefit society and environment if these actions also contribute to the objectives of the organization. To Orange, such initiatives would otherwise need their own organization, with objectives that include those goals.
