@@ -34,10 +34,10 @@ perspective: >-
   [红色模式](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/red-organizations) 的社会责任管理就是行使权力。组织受制于自然和环境，这些会决定部落的节奏。红色通过潜在利用价值这个滤镜，看待环境。时刻考虑：目前环境中有哪些是可为我用的自愿，以提高生存和繁衍能力？
 
 
-  **Amber organizations**
+  **琥珀组织**
 
 
-  In the [Amber paradigm](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/amber-paradigm-and-organizations), organizations tend to be self-contained, standing apart from the outside world, and run by a hierarchy. Social priorities favor those with status based on birth, education, and gender. The environment is viewed as predictable and organisations seek ways to control it for their benefit, for example in irrigation projects.
+  在[琥珀模式](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/amber-paradigm-and-organizations), organizations tend to be self-contained, standing apart from the outside world, and run by a hierarchy. Social priorities favor those with status based on birth, education, and gender. The environment is viewed as predictable and organisations seek ways to control it for their benefit, for example in irrigation projects.
 
 
   With Amber, the first high cultures in the world emerged. The stable structures and long-term processes introduced brought unprecedented change to social structure and their potential.
