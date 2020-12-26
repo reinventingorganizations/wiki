@@ -57,13 +57,11 @@ inPractice: >-
   在蔚蓝组织，创新的源泉更多来自“右脑”。创新被目标所激励，并通过“倾听”到直觉认为恰当的奉献方式而自然发生。聆听中试图回答以下问题：
 
 
-  *\- “What product would we be really proud of?”*
+  \-“我们真正引以为豪的产品是什么？”
 
+  -“什么样的产品才能满足这个世界的真正需求？”
 
-  *\- “What product would fill a genuine need in the world?”'*
-
-
-  *\- “What product or service are we uniquely capable of providing?”'*
+  -“我们唯一能够提供的产品或服务是什么？”
 
 
   These reflections are guided by intuition and perceptions of beauty. They can also be supported by structured design practices that are intended to catalyze empathetic thinking. An example is the concept of "design ideation"^[Ideation for product design from IDEO - <http://www.ideo.com/>]This is a process where frontline workers spend long periods out in the field, observing how their customers are using their products and services.
