@@ -84,7 +84,7 @@ inPractice: >-
   #### **个人绩效管理**
 
 
-  P人依存于人际关系，人际关系靠的则是诚实的反馈。虽然 [蔚蓝组织](../teal-paradigm-and-organizations/)主要关注团队绩效，但也认识到，向同事提供开放坦诚的、非评判性的个人反馈也至关重要。一些组织，如[法维](http://www.favi.com/) have stopped having formal appraisal discussions because feedback is exchanged so freely. Most others still see value in having a formal period once a year to reflect on their work. These appraisals are naturally built around peer-based processes.
+  P人依存于人际关系，人际关系靠的则是诚实的反馈。虽然 [蔚蓝组织](../teal-paradigm-and-organizations/)主要关注团队绩效，但也认识到，向同事提供开放坦诚的、非评判性的个人反馈也至关重要。一些组织，如[法维](http://www.favi.com/)，已经能非常自由地在同事中频繁的自发交换反馈，所以中止了正式的评估讨论。多数其他组织仍然认为，每年有一个正规的时间来反思工作还是有价值的。这些评估都是围绕着基于同行反馈流程自然构建的。
 
 
   Peer-based feedback has the advantage of providing each individual with a broader, more meaningful perspective on their contribution. Feedback goes beyond the confines of a narrow discussion about the job and brings in a wider exploration of the person’s hopes, fears and sense of purpose in life.
