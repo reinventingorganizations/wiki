@@ -19,7 +19,7 @@ perspective: >-
   ### 琥珀组织
 
 
-  在[琥珀组织](../amber-paradigm-and-organizations/),information is more widely distributed and there is a respect for logical argument. Different viewpoints are acknowledged, but there is only room for a single truth, or set of truths. Information is controlled and communicated via the organizational hierarchy. Respect for the concept of objectivity emerges, together with competing views of the orthodox and the heretical. The truth of statements issued by those in authority may be questioned, within strict limits, but the decisions and opinions of those in authority must be respected; if not, dissenters may be punished!
+  在[琥珀组织](../amber-paradigm-and-organizations/)中，信息分布愈发广泛并开始尊重逻辑论证。承认不同的观点的存在，但只允许一个真理或一套真理的存在空间。信息通过组织的层次结构进行控制和沟通。对客观概念的尊重，以及相应的正统和异端的对立概念也开始萌芽。在严格限制的前提下，当权者发言的真实性可以受到质疑，但当权者的决定和意见必须得到尊重；否则，反对者可能会受到惩罚！
 
 
   ### Orange Organizations
