@@ -75,7 +75,7 @@ inPractice: >-
   自我管理的单元团队是[蔚蓝组织](../teal-paradigm-and-organizations/)的重要组成部分。当人们对自己的工作目标有了清晰的理解，并明确了期望，团队就更能更好的设定目标并组织起来实现目标。为了支持这种工作方式，需要公开分享每个团队的绩效信息。在一个更传统的组织中，这会是一种威胁。但在蔚蓝组织中这是一种解放，因为人们知道这些信息不会被用做敌意。信任每个成员都有能力能直面真实信息，无论好坏，所以不需要保护脆弱人群。
 
 
-  When teams are delivering similar work, as they do in [Buurtzorg](https://www.buurtzorgnederland.com/) for instance, a team can easily assess their productivity compared to that of the other teams. Those at the bottom of the list are motivated by pride rather than fear to improve. More significantly, the other teams are ready and willing to share what they do and provide any help required. The work of the organization is more important than any ego driven competition between the teams.
+  如果团队交付类似的工作，比如在[布尔佐格](https://www.buurtzorgnederland.com/)，通过与其他团队相比，就可以轻松地评估自己的生产力。排在最后的成员不是因恐惧而被迫进步，而是出于自尊而被激励改进。更重要的是，出于连带感，其他团队都准备好并愿意分享自己的成果，并愿意提供所需的任何帮助。组织整体工作的完成，比团队之间出于虚荣心的竞争重要得多。
 
 
   When teams don’t do comparable work, some organizations have developed a different process. At [Morning Star](https://www.morningstarco.com/) for example, teams prepare a presentation for their colleagues every year where they candidly share what went well, what didn’t, how efficient they were and what they plan to do in the year ahead. Teams that haven’t performed well are challenged and supported in equal measure. In the process they receive helpful feedback and input to help them make the necessary improvements.
