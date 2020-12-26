@@ -88,7 +88,7 @@ intro: >-
   是什么决定了一个组织依据哪个阶段运作？到目前为止，答案是：一般就是其领导层世界观所处阶段。无论是有意识还是无意识，领导者都会建立起对自己有意义的组织结构、实践和文化，这些都与他们处理世界的方式相一致。
 
 
-  This means that organizations to date have not been able to evolve beyond its leadership’s stage of development. The practice of defining a set of shared values and a mission statement provides a good illustration. Because this practice is in good currency, leaders in Orange Organizations increasingly feel obliged to have a task force come up with some values and a mission statement. But looking to values and mission statements to inform decisions only makes sense as of the Green paradigm. In Orange, the yardstick for decisions is success: Let’s go with what will deliver top- or bottom-line results. In Orange organization’s, leadership might pay lip service to the values; but when the rubber hits the road and leaders have to choose between profits and values, they will predictably go for the former. They cannot uphold a practice and a culture (in this case, a values-driven culture) that stems from a later stage of development.
+  这意味着，迄今为止的组织还未能超越其领导层意识的发展阶段。定义一组形式主义的共享价值观和使命宣言这类的做法，就是这种现象。因为这种做法很流行，橙色组织中的领导者就愈发觉得需要成立一个特别小组来制定价值观和使命宣言。但是，通过聆听价值观和使命宣言为决策提供信息，只有在绿色之后的范式中才有实际意义。在橙色中，决策的标杆是成功：让我们来看看什么能带来最高或最低的成果。在橙色组织中，领导层可能会满嘴高唱价值观；但在上路时，在不得不在利润和价值观之间做出选择时，他们会不出所料地选择前者。他们无法笃定的支撑那些源自后期发展阶段的实践和文化（在本例中，是价值观驱动的文化）。
 
 
   The pull of leaders toward their stage of consciousness goes in two directions: they can pull “back” practices from later stages (rendering them ineffective as in the previous example), but they can also exert a strong pull “forward.” The structure, practices, and culture they put in place can help employees adopt behaviors of more complex paradigms that they as individuals have not yet fully integrated.
