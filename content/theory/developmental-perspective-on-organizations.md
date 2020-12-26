@@ -97,13 +97,13 @@ intro: >-
   假设我是一个中层管理者，主要从琥珀色的角度看待世界。我与下属的自然风格是以典型的等级制度方式进行互动，明确告诉他们需要做什么以及如何去做。现在假设，我转入一个绿色组织工作，在那里我的领导敦促我授权给部下。在我周围，我看到其他经理给他们的下属很大的回旋余地。每年两次，我都会收到360度的反馈，包括来自我的直接下属，告诉我在授权方面的表现如何（这可能会影响我的奖金）；每隔六个月，我会被要求与我的团队坐下来讨论我们在实现公司价值（包括授权）方面的表现如何。在绿色文化和实践这个如此强大的背景下，我很可能会支持一些绿色管理技能和行为。当时的环境把我拉升，让我用比自己意识阶段更复杂的方式来操作。也许，随着时间的推移，当我准备好的时候，环境会帮助我的意识成长并真正融入到这个新阶段的范式中。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Location 1068-1076). Nelson Parker. Kindle Edition.]
 
 
-  Having said this, it is important to note the concept of “leadership” is different in Teal. While earlier stages of organizational development relied fundamentally on a hierarchical power structure, with someone clearly “in charge”, Teal rejects the notion of a fixed hierarchy. The Teal organization is self-organizing and self-managing.
+  话虽如此，要注意到“领导”的概念在蔚蓝组织中完全不同。在组织发展的早期阶段，基本上依赖于等级权力结构，需要明确的领导进行“管控”。但蔚蓝组织反对固定的等级的概念。蔚蓝组织是自组织和自管理的。
 
 
-  Ironically, at the foundation of a Teal organization there is commonly a strong leader who, sensing the potential, initiates the sharing of power: Jean-Francois Zobrist at FAVI, Chris Rufer at Morning Star, and Jos de Blok at Buurtzorg are good examples.
+  具有讽刺意味的是，在很多蔚蓝组织的根部，通常存在着一位强有力的领导者，因意识到成员潜力的作用而开始分享权力：法维的Jean Francois Zobrist，晨星的Chris Rufer，布尔佐格的Jos de Blok就都是很好的例子。
 
 
-  They imagined a different kind of organization, and a different kind of leadership: a leadership that is distributed, emergent and unpredictable. Anyone can lead—subject to an advice process—based on opportunity, circumstance and/or imagination.
+  他们设想了一种不同的组织模式和不同的领导方式：一种分散的、自然发生的、不可预测的领导。任何人都可以依据预制的参考流程，活用机会、环境和/或想象力，成为领导。
 
 
   One might argue that the reason “leaders” have played such an important role in Teal organizations to date is because these organizations (and we as a civilization) are making a transition from earlier stages reliant on the traditional type of leader. Perhaps in the not too distant future, Teal organizations will fully and truly emerge without assistance from a single or small group of enlightened individuals.
