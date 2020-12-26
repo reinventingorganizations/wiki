@@ -6,17 +6,16 @@ name: 组织发展观
 sortOrder: 1
 category: history
 intro: >-
-  This article discusses developmental models and their application to
-  organizations.
+  本文讨论了人类意识的各种发展模式及其在组织中的应用。
 
 
   ![](/media/history.jpg)
 
 
-  ### A brief history of developmental models
+  ### 发展模式简史
 
 
-  A great number of scholars and thinkers―historians, anthropologists, philosophers, mystics, psychologists, and neuroscientists―have delved into the question: *how has humanity evolved from the earliest forms of human consciousness to the complex consciousness of modern times?* Some inquired into a related question: *how do we human beings evolve today from the comparatively simple form of consciousness we have at birth to the full extent of adult maturity?*
+  许多学者和思想家——历史学家、人类学家、哲学家、神秘主义者、心理学家和神经科学家——都在探讨这样一个问题：*人类是如何从最早的人类意识形式进化到现代这种复杂意识的？*也有人探讨一个相关的问题：*我们今天的人类如何从出生时的相对简单的意识形式进化到成年的完全成熟？*
 
 
   People have looked at these questions from every possible angle. Abraham Maslow  looked at how human needs evolve along the human journey, from basic physiological needs to self-actualization. Others looked at development through the lenses of *worldviews* (Gebser, among others), *cognitive capacities* (Piaget), *values* (Graves), *moral development* (Kohlberg, Gilligan), *self-identity* (Loevinger), *spirituality* (Fowler), *leadership* (Cook-Greuter, Kegan, Torbert), and so on.
