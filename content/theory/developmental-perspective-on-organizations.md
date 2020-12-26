@@ -79,10 +79,10 @@ intro: >-
   * 如果关注团队整体奖金，则符合绿色视角。
 
 
-  When one looks through this filter not only at compensation, but at all the structure, practices, and culture of an organization, one generally finds that they are not scattered randomly among the stages and colors, but cluster around a center of gravity, a stage that defines most practices of the organization.
+  如果我们通过这个过滤器观察一个组织的所有结构、实践和文化（不只是薪酬），通常会发现这些组织特征并不是随机分散在各个阶段和意识颜色中，而是围绕着一个重心聚集在一起，基本上符合某个特定阶段的色彩。
 
 
-  ### The role of leadership
+  ### 领导的作用
 
 
   What determines which stage an organization operates from? To date, the answer has been - the stage through which its leadership tends to look at the world . Consciously or unconsciously, leaders put in place organizational structures, practices, and cultures that make sense to them, that correspond to their way of dealing with the world.
