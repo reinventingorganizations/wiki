@@ -48,16 +48,16 @@ inPractice: >-
   自我管理团队需要拥有所有可用的信息，以便在战略层面和日常工作中做出最佳[决策](../decision-making/)这意味着，本组织的所有成员都必须有权查阅与组织的筹资和业务有关的所有数据，包括个人和团队的薪金和业绩。自由共享信息有助于在组织内建立和维护信任，并降低因信息优势而导致的隐含的非正式等级制度重新出现的可能性--知和不知的力量差距。
 
 
-  In Teal organizations, there is a culture of trust, not fear: freely sharing information does not harm anybody, and there is no need to protect sources of information through anonymity or disguise. People are trusted to handle information with integrity, and to deal with both the positive and the negative implications of all the information available to them. In this way, people have a clear of view the information that affects them and others within the organization, and no-one develops a false sense of anxiety or security.
+  在蔚蓝组织中，基本价值观和文化就是信任而非恐惧和怀疑：自由共享信息不会伤害任何人，也没有必要通过匿名或伪装来保护信息来源。信任人们的人性成熟度，能以正直的态度处理信息，并能很好的处理所收到的所有信息给自己情绪带来的积极和消极影响。通过这种方式，人们可以清楚地接触到能影响自己和组织内其他人的信息，不会为了避免信息带来焦虑而将某些人群保护在虚假的安全感中。
 
 
-  When information is analyzed, contextualized and interpreted, this is not seen as a way of establishing the truth, but as a way of making the information more valuable. Valuable information flows naturally to the places where it helps to solve problems, meet challenges, drive innovation. Simply: information can now circulate freely and serve its purpose.
+  只是对信息进行分析、语境化和解释，并不是建立真理的方法，而只是让信息更有价值的手段。有价值的信息自然地朝着有助于解决问题、迎接挑战、推动创新的方向流动。简单地说：蔚蓝组织内的信息已经可以自由流通，并能达成其目的。
 
 
-  #### *Discuss and Debate! Rank-free!*
+  #### *讨论和辩论！没有职级！*
 
 
-  When there is new and important information to share, “all-hands” [meetings ](../meetings/)are a standard practice in Teal organizations. Quarterly results, the annual values survey, a strategic inflection point and so forth are discussed and debated in a meeting with no script or agenda of control. This is much more than simple information exchange: instead of “predict and control”, the guiding principle of information flow is “sense and response”. If information is being shared in a way which does not serve the purpose of the organization, this can be debated openly and changes made as needed.
+  当出现新的或重要信息需要分享时，“所有人”大会是蔚蓝组织的标准做法。季度业绩、年度价值观调查、战略拐点等等，都拿到一个没有预制议程的会议上讨论和辩论。这不仅仅是简单的信息交换：蔚蓝信息流的指导原则是“感知和响应”，而不是“预测和控制”。如果有人以不符合组织宗旨的方式共享信息，每个人都可以自由提议进行公开辩论，并根据需要进行更改。
 faq:
   - question: What are good daily practices for sharing information?
     answer: All-hands meetings, stand-up meetings, open intranets, discussion
@@ -74,4 +74,3 @@ relatedTheory:
   - Change Management
   - Fundamental Assumptions
 ---
-removed
