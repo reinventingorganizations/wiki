@@ -31,7 +31,7 @@ perspective: >-
   ### 绿色组织
 
 
-  在[绿色组织](../green-paradigm-and-organizations/), information serves as a currency for cultural value, with the purpose of inspiring members of the organization. Information flow through the system is founded on “open book” management, with inputs from all stakeholders being given equal consideration. The information content of the "open books" is still defined by "rulers" in a hierarchical structure, but those in positions of authority focus on listening to, encouraging and motivating their teams. With “family” as the guiding metaphor in Green organizations, stories are shared and everyone can ‘sing around the campfire’.
+  在[绿色组织](../green-paradigm-and-organizations/)中，信息成为衡量成员文化价值的货币，其目的是用来激励组织成员。通过将系统信息流公布在“公开数据”上进行管理，保证所有利益相关者的投入都得到平等的考虑。在等级结构背景下，这种“开卷书”类型的信息内容，仍然由“当权者”负责定义，但身居要职的人往往会致力于倾听、鼓励和激励自己的团队。在绿色组织中，以“家庭”为标签隐喻，注重分享故事，每个人都可以“围着篝火唱歌”。
 
 
   ### Teal Organizations
