@@ -25,13 +25,13 @@ perspective: >-
   #### **红色组织**
 
 
-  在[红色模式](../red-organizations/)中，绩效管理是通过行使老板的个人权力。老板要求成员毫无疑问地服从命令，以保持其强硬而强大的形象。追随者为了寻求保护和安全而服从。反馈以奖惩的形式给出，目的是强化老板的权力。
+  在[红色组织](../red-organizations/)中，绩效管理是通过行使老板的个人权力。老板要求成员毫无疑问地服从命令，以保持其强硬而强大的形象。追随者为了寻求保护和安全而服从。反馈以奖惩的形式给出，目的是强化老板的权力。
 
 
-  #### **Amber organizations**
+  #### **琥珀组织**
 
 
-  In [Amber organizations,](../amber-paradigm-and-organizations/) performance management is about maintaining stability and control. Leaders often assume that workers are lazy and dishonest and monitor performance closely to ensure that orders are carried out properly. Those who conform are rewarded. Failure is addressed quickly. Repeat offenders risk rejection from the group/organization and a significant loss of status.
+  在[](../amber-paradigm-and-organizations/)[琥珀组织,](../amber-paradigm-and-organizations/) performance management is about maintaining stability and control. Leaders often assume that workers are lazy and dishonest and monitor performance closely to ensure that orders are carried out properly. Those who conform are rewarded. Failure is addressed quickly. Repeat offenders risk rejection from the group/organization and a significant loss of status.
 
 
   #### **Orange organizations**
