@@ -28,10 +28,10 @@ perspective: >-
   在[橙色组织](../orange-paradigm-and-organizations/)中，信息主要是“预测和控制”的手段，信条是：信息越多越好！人们通过缜密定义的信息，仿佛制造机器般设计组织蓝图。通常认为组织中级别较高人士所拥有的信息，或来自这些人的信息，具有更大的价值。
 
 
-  ### Green Organizations
+  ### 绿色组织
 
 
-  In [Green Organizations](../green-paradigm-and-organizations/), information serves as a currency for cultural value, with the purpose of inspiring members of the organization. Information flow through the system is founded on “open book” management, with inputs from all stakeholders being given equal consideration. The information content of the "open books" is still defined by "rulers" in a hierarchical structure, but those in positions of authority focus on listening to, encouraging and motivating their teams. With “family” as the guiding metaphor in Green organizations, stories are shared and everyone can ‘sing around the campfire’.
+  在[绿色组织](../green-paradigm-and-organizations/), information serves as a currency for cultural value, with the purpose of inspiring members of the organization. Information flow through the system is founded on “open book” management, with inputs from all stakeholders being given equal consideration. The information content of the "open books" is still defined by "rulers" in a hierarchical structure, but those in positions of authority focus on listening to, encouraging and motivating their teams. With “family” as the guiding metaphor in Green organizations, stories are shared and everyone can ‘sing around the campfire’.
 
 
   ### Teal Organizations
