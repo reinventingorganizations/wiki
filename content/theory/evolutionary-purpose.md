@@ -39,7 +39,7 @@ inPractice: >-
 
   * 用商务催化环境危机的更有效解决方案 —帕塔沟尼亚，户外服装零售^\[http://www.patagoniaworks.com/#index, accessed 2015/06/13] 
 
-  * "Two fundamental purposes: the first is to provide meaningful work in the area of Hallencourt, a rural area in northern France where good work is rare; the second is to give and receive love from clients" - FAVI, foundry and engineering firm.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4371-4372). Nelson Parker. Kindle Edition.] 
+  * 两个基本目标：首先是在缺少良好工作环境的法国北部提供有意义的工作机会；然后是给客户传递爱，并接收客户的爱 —法维，铸造和工程公司^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4371-4372). Nelson Parker. Kindle Edition.] 
 
 
   For Teal organizations, this transition to evolutionary purpose has profound implications for how they view such fundamental concepts as competition, growth and profit. While Orange organizations seem to be obsessed with beating the competition (as exemplified by the title of the ex-CEO of General Electric, Jack Welch’s. book, Winning), Teal organizations seem to lose the very notion of competition. Since the Teal organization truly lives for its purpose, anyone that can help to achieve that purpose is viewed as an ally, not a competitor. For an example of this in practice, see “Concrete Examples for Inspiration - Buurtzorg” below.
