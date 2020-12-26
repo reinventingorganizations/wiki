@@ -6,9 +6,8 @@ name: 进化目标
 sortOrder: 2
 category: teal-concepts
 intro: >-
-  *"Nothing endures except change"'* 
-
-  Heraclitus^\[Heraclitus, quoted by Diogenes Laërtius in Lives and Opinions of Eminent Philosophers]
+  唯一恒在的是变化。 —赫拉克利特^\[Heraclitus, quoted by Diogenes Laërtius in Lives and
+  Opinions of Eminent Philosophers]
 
 
   Nature, humankind, relationships: everything evolves, driven by a life force, to adapt, transform and grow. From a Teal perspective, organizations are viewed as an independent energy field with a purpose that transcends its stakeholders. In this paradigm, we don’t own or run the organization; instead we are stewards, listening to where it needs to go and helping it to do its work in the world..
