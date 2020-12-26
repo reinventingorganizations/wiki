@@ -48,10 +48,10 @@ perspective: >-
 
   在[绿色组织](../green-paradigm-and-organizations/)中，绩效管理关注的是如何开展工作，而不是取得什么成果。与激励目标相关联的强大价值观，支撑着成员能自觉管理自己的绩效。管理者成为仆人式的领导，并努力去帮助并授权给那些在第一线工作的成员。反馈通常通过一种叫做[360度反馈](https://en.wikipedia.org/wiki/360-degree_feedback)的流程来进行，目的是同时培养并支持个人发展和组织文化。
 inPractice: >-
-  #### **Performance management**
+  #### **绩效管理**
 
 
-  In a traditional [Orange organization](../orange-paradigm-and-organizations/), performance is monitored through the deployment of a top-down performance management system ensuring the alignment of set individual objectives with strategic business targets. In this highly documented process managers and employees agree on objectives to be achieved. Hierarchy is fully responsible for meeting assigned business targets. Pressure is therefore put on employees to ensure targets are achieved and ideally exceeded through individual contribution.
+  在传统的[橙色组织](../orange-paradigm-and-organizations/), performance is monitored through the deployment of a top-down performance management system ensuring the alignment of set individual objectives with strategic business targets. In this highly documented process managers and employees agree on objectives to be achieved. Hierarchy is fully responsible for meeting assigned business targets. Pressure is therefore put on employees to ensure targets are achieved and ideally exceeded through individual contribution.
 
 
   Such a formal top-down performance tracking system does not exist in [Teal organizations](../teal-paradigm-and-organizations/). In a self-managed Teal organization where there are no bosses, the drive to deliver results comes from intrinsic motivation. Teal organizations hold that people are motivated when their work has a meaningful [purpose](../listening-to-purpose/), when they are subject to healthy peer pressure and when they have access to accurate feedback from the outside world. They believe that people tend to become more deeply engaged, and achieve far more than is asked for, when they are doing worthwhile work with full responsibility and ready access to needed resources.
