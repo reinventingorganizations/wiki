@@ -31,7 +31,7 @@ perspective: >-
   #### **琥珀组织**
 
 
-  在[](../amber-paradigm-and-organizations/)[琥珀组织,](../amber-paradigm-and-organizations/) performance management is about maintaining stability and control. Leaders often assume that workers are lazy and dishonest and monitor performance closely to ensure that orders are carried out properly. Those who conform are rewarded. Failure is addressed quickly. Repeat offenders risk rejection from the group/organization and a significant loss of status.
+  在[](../amber-paradigm-and-organizations/)[琥珀组织](../amber-paradigm-and-organizations/)中，绩效管理的目的是为了保持稳定性和施加控制。领导经常认为工人都懒惰、也不诚实，需要密切监视其工作表现，以确保命令得到妥善执行。顺从者得到奖励。失败很快就会被指出。屡犯者有被小组/组织拒绝的风险，并严重丢面子。
 
 
   #### **Orange organizations**
