@@ -19,13 +19,13 @@ perspective: >-
   对于[蔚蓝组织](../teal-paradigm-and-organizations/)来说，创新的动力来自于组织的[进化目标](../evolutionary-purpose/)。创新的概念超越了利益追求而上升到组织成长层面，也不再通过传统的利润和竞争透镜来追求创新。为了评估一项创新是否值得，蔚蓝组织会使用大量能支撑美、创造力和最终服务于组织目与社会等标尺为导向的决策证据。
 
 
-  For more on innovation and product development in earlier stage organizations:
+  关于早期组织的创新和产品开发的更多信息：
 
 
-  #### **Red organizations**
+  #### **红色组织**
 
 
-  [Red organizations](../red-organizations/) are opportunistic and adaptive in response to their circumstances, but without organizing specifically for innovation.
+  [红色组织](../red-organizations/)的特征是机会主义和适应性。目标是适应环境，不是专门为创新而组织运作。
 
 
   #### Amber organizations
