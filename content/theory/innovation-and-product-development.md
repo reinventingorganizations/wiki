@@ -16,7 +16,7 @@ perspective: >-
   Locations 837-841). Nelson Parker. Kindle Edition.]
 
 
-  对于[蔚蓝组织](../teal-paradigm-and-organizations/), the impetus for innovation stems from an organization’s [evolutionary purpose](../evolutionary-purpose/). The concept of innovation expands beyond benefit to the organization and is not approached through the traditional lenses of profit and competition. To evaluate if an innovation is worthwhile, Teal uses a wide range of evidence of beauty, creativity and ultimately service to the organization's purpose and therefore to society.
+  对于[蔚蓝组织](../teal-paradigm-and-organizations/)来说，创新的动力来自于组织的[进化目标](../evolutionary-purpose/)。The concept of innovation expands beyond benefit to the organization and is not approached through the traditional lenses of profit and competition. To evaluate if an innovation is worthwhile, Teal uses a wide range of evidence of beauty, creativity and ultimately service to the organization's purpose and therefore to society.
 
 
   For more on innovation and product development in earlier stage organizations:
