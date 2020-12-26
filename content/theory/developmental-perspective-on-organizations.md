@@ -100,13 +100,13 @@ intro: >-
   话虽如此，要注意到“领导”的概念在蔚蓝组织中完全不同。在组织发展的早期阶段，基本上依赖于等级权力结构，需要明确的领导进行“管控”。但蔚蓝组织反对固定的等级的概念。蔚蓝组织是自组织和自管理的。
 
 
-  具有讽刺意味的是，在很多蔚蓝组织的根部，通常存在着一位强有力的领导者，因意识到成员潜力的作用而开始分享权力：法维的Jean Francois Zobrist，晨星的Chris Rufer，布尔佐格的Jos de Blok就都是很好的例子。
+  具有讽刺意味的是，在很多蔚蓝组织的根部，通常存在着一位强有力的（开悟的精神领袖）领导者，因意识到成员潜力的作用而开始分享权力：法维的Jean Francois Zobrist，晨星的Chris Rufer，布尔佐格的Jos de Blok就都是很好的例子。
 
 
   他们设想了一种不同的组织模式和不同的领导方式：一种分散的、自然发生的、不可预测的领导。任何人都可以依据预制的参考流程，活用机会、环境和/或想象力，成为领导。
 
 
-  One might argue that the reason “leaders” have played such an important role in Teal organizations to date is because these organizations (and we as a civilization) are making a transition from earlier stages reliant on the traditional type of leader. Perhaps in the not too distant future, Teal organizations will fully and truly emerge without assistance from a single or small group of enlightened individuals.
+  有人可能会说，迄今为止，“领导者”之所以依然在蔚蓝组织中扮演如此重要的角色，是因为这些组织（以及我们作为一个文明体）依然处在脱离对早期阶段传统领导者的依赖而转型的过渡期。也许在不远的将来，成熟的蔚蓝组织将不再需要一个或一组开悟个体的支撑，就能全面而真正地浮现并运作。
 perspective: ""
 inPractice: ""
 ---
