@@ -39,7 +39,7 @@ perspective: >-
 
   在[蔚蓝组织](../teal-paradigm-and-organizations/)中，信息按照“原样”平等地分享给每个成员。信息在需要的地方流动，没有秘密，没有边界；透明畅通的信息，是[自我管理](../self-management/)组织的基本先决条件之一。蔚蓝组织的成员仍然注重区别：组织背景的信息共享，与个人信息的机密共享之间存在着不同；能敏感而完整的处理灰色区域的信息。大家能通过共识理解到“道听途说”（未经记录的口头交流的二手报道）的明显可疑性。
 inPractice: >-
-  ### Share All Information!
+  ### 共享所有信息!
 
 
   *"If you empower people but don´t give them information, they just fumble in the dark."* (Blair Vernon)
