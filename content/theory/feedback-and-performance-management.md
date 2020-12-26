@@ -54,7 +54,7 @@ inPractice: >-
   在传统的[橙色组织](../orange-paradigm-and-organizations/)中，通常通过部署自上而下的绩效管理系统来监控绩效，以确保所设定的个人目标与组织的战略业务目标相一致。在这个高度文档化的过程中，经理和成员针对需要实现的目标达成一致。层次结构指令体系对实现指定的业务目标负全责。因此，为了确保通过个人贡献实现目标，并最好超越目标，通常会对成员施加压力。
 
 
-  Such a formal top-down performance tracking system does not exist in [Teal organizations](../teal-paradigm-and-organizations/). In a self-managed Teal organization where there are no bosses, the drive to deliver results comes from intrinsic motivation. Teal organizations hold that people are motivated when their work has a meaningful [purpose](../listening-to-purpose/), when they are subject to healthy peer pressure and when they have access to accurate feedback from the outside world. They believe that people tend to become more deeply engaged, and achieve far more than is asked for, when they are doing worthwhile work with full responsibility and ready access to needed resources.
+  在[T蔚蓝组织](../teal-paradigm-and-organizations/)中，不存在这种正式的自上而下的绩效跟踪体系。在一个不存在上司的自我管理式蔚蓝组织中，按期交付成果的动力来自于成员的内在动机。蔚蓝组织认为，当人们的工作具有意义深远的[purpose](../listening-to-purpose/), when they are subject to healthy peer pressure and when they have access to accurate feedback from the outside world. They believe that people tend to become more deeply engaged, and achieve far more than is asked for, when they are doing worthwhile work with full responsibility and ready access to needed resources.
 
 
   Although people do not need management pressure to perform, they still need to know how they are doing. For this purpose feedback is extensively used in Teal organizations with a primary focus on team performance.
