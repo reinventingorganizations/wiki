@@ -40,10 +40,10 @@ perspective: >-
   在[橙色](../orange-paradigm-and-organizations/)阶段，创新成为保持竞争力所必要的核心实践。在组织层面对创新研发进行投资。还可能会建立研究中心。在业务层面，鼓励各单位为实现目标而发挥创造性。所有这些活动都要在定期的业务和战略规划周期内进行审查。
 
 
-  #### Green organizations
+  #### 绿色组织
 
 
-  [Green organizations](../green-paradigm-and-organizations/) are values-based. This colors their approach to innovation. It’s not only about making money, but about also serving their greater purpose. This is reflected in product development/selection at, say, a place like Whole Foods. And it encourages service level initiative—as at Southwestern Airlines. Their multi-stakeholder view encourages them to find novel approaches to labor relations, employee empowerment, customer service, shareholder interests, and the communities of which they are a part.
+  [绿色组织](../green-paradigm-and-organizations/)重视价值观。这为他们的创新方法增添了色彩。创新不仅是为了赚钱，也是为了实现组织的更大目标。有的会像全食公司这样，具体反映在产品开发/选择上。有的则像西南航空一样，鼓励提升服务水平的主动性。他们在多方利益相关者观点的鼓励下，寻找新的方法来处理劳资关系、成员授权、客户服务、股东利益以及他们所属的社区。
 inPractice: >-
   In Teal, the focus is to find better ways to serve the organization's unique
   sense of evolutionary purpose, rather than out-think the competition. Members
