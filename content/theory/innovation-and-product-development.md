@@ -64,10 +64,10 @@ inPractice: >-
   -“我们唯一能够提供的产品或服务是什么？”
 
 
-  These reflections are guided by intuition and perceptions of beauty. They can also be supported by structured design practices that are intended to catalyze empathetic thinking. An example is the concept of "design ideation"^[Ideation for product design from IDEO - <http://www.ideo.com/>]This is a process where frontline workers spend long periods out in the field, observing how their customers are using their products and services.
+  这些思考是的航向标是直觉和对美的感知。也可以用一些能促进移情思维的结构化设计方法来支持创新。“设计构思”的概念就是一个例子。^[Ideation for product design from IDEO - <http://www.ideo.com/>]在这个实践过程中，一线成员会用很长时间在现场观察客户如何使用自己的产品和服务。
 
 
-  #### Innovation at the frontlines
+  #### 一线创新
 
 
   Any frontline person can act on insights gained from working closely with the customer and therefore having a deep understanding of his or her needs. With Teal self-management, there is nothing to hold back a good idea from being pursued if it has use for customers and if its pursuit adheres to the advice process.
