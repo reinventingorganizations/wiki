@@ -29,10 +29,10 @@ inPractice: >-
   组织的身份是什么？组织到底想要什么？这个比喻很类似母子旅程：...我们承认自己的孩子有其独自的身份及其独立的人生道路与目标。不能只因为我可能很希望孩子当个医生，就可以将自己的需求投射在孩子身上。如果我强制投射，就会发生一种有害的纠缠依赖关系。我们作为成熟的父母已经知道，健康的为亲之道就是努力去催化这个亲子各不相同的旅程。而正是这种亲子差异，允许双方获得各自特有的更完整的主权和身份，这些素质进而能促进个体开发出一种在人际关系和互联互动中更有意识的融合能力，这是一种同行者的关系，是平等的。...正确的定位是，成员要跟组织的目标共鸣，设法区分个体与组织的身份并揣摩出“该组织的使命是什么？”。不是“我们想利用这个组织作为私有财产，来达成什么目的？”而是“这个组织作为生命体，作为有机系统，具有何种潜力？” 进化目标的含义：一种最深次元的创造性潜力，能为某些新事物赋予生命，能对对这个世界做出某些价值和能量贡献。...我们要聆听并让组织生命体的这种创造性脉冲或潜力驱动自己的行为，而不是用个人的欲望影响组织行为。^\[Laloux, Frederic (2014-02-09) Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4322). Nelson Parker. Kindle Edition.] 
 
 
-  The evolutionary purpose is not the same as a vision statement. A vision statement usually reflects the ego-driven state of consciousness of the management team, who decide what they want the organization to be.
+  进化目标与传统的愿景描述不同。传统的愿景一般反应着管理团队人格的意识状态（1.0），他们负责决定组织未来的样子。
 
 
-  The evolutionary purpose of a Teal organization reflects the deeper reason the organization exists. It relates to the difference it wants to make in the community it operates in, as well as in the marketplace it serves. It is not concerned with competition or outperforming others; it is serving the ‘greater good’ that matters. Some examples are:
+  蔚蓝组织的进化目标，反应着组织存在的更深次元理由。这种目标一般关系到该组织希望在其运作的社区以及所服务市场内创造的与众不同之处（创新）。这个目标与竞争或战胜其他组织无关。是为了服务于人类进化需求的更大良善。一些具体组织的案例：
 
 
   * "Helping home-based patients become healthy and autonomous" - Buurtzorg, healthcare organization^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4239-4240). Nelson Parker. Kindle Edition]
