@@ -87,7 +87,7 @@ inPractice: >-
   P人依存于人际关系，人际关系靠的则是诚实的反馈。虽然 [蔚蓝组织](../teal-paradigm-and-organizations/)主要关注团队绩效，但也认识到，向同事提供开放坦诚的、非评判性的个人反馈也至关重要。一些组织，如[法维](http://www.favi.com/)，已经能非常自由地在同事中频繁的自发交换反馈，所以中止了正式的评估讨论。多数其他组织仍然认为，每年有一个正规的时间来反思工作还是有价值的。这些评估都是围绕着基于同行反馈流程自然构建的。
 
 
-  Peer-based feedback has the advantage of providing each individual with a broader, more meaningful perspective on their contribution. Feedback goes beyond the confines of a narrow discussion about the job and brings in a wider exploration of the person’s hopes, fears and sense of purpose in life.
+  基于同侪反馈有一个优点，就是为每个人提供一个更广阔、更有意义的视角来看待自己的贡献。反馈超出了狭隘的、只谈论工作的范畴，更广泛地探索着关于人的希望、恐惧和人生目标感等深度话题。
 faq:
   - question: What happens if someone is performing poorly?
     answer: This would normally be addressed using the feedback process, or if there
@@ -137,4 +137,3 @@ relatedTheory:
   - Dismissal
   - Compensation and incentives
 ---
-to be removed
