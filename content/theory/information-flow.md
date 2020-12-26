@@ -16,10 +16,10 @@ perspective: >-
   在[红色组织](../red-organizations/)中，信息和信息流由当权者控制，主要用来控制和操纵成员。信息主要通过讲故事、发布命令、威胁、贿赂和间谍活动来控制和传播。老板通常掌握着信息的所有权，并控制着沟通方式。权力用来保持追随者的依赖性和一致性。只强调信息的主观价值，信息的客观真实性往往不被重视。也就是说，如果说谎可以获得更多的好处，那么事实就没有价值或意义！在这种情况下，人们只关注能为自己的个人需求服务的信息。
 
 
-  ### Amber Organizations
+  ### 琥珀组织
 
 
-  In [Amber Organizations](../amber-paradigm-and-organizations/),information is more widely distributed and there is a respect for logical argument. Different viewpoints are acknowledged, but there is only room for a single truth, or set of truths. Information is controlled and communicated via the organizational hierarchy. Respect for the concept of objectivity emerges, together with competing views of the orthodox and the heretical. The truth of statements issued by those in authority may be questioned, within strict limits, but the decisions and opinions of those in authority must be respected; if not, dissenters may be punished!
+  在[琥珀组织](../amber-paradigm-and-organizations/),information is more widely distributed and there is a respect for logical argument. Different viewpoints are acknowledged, but there is only room for a single truth, or set of truths. Information is controlled and communicated via the organizational hierarchy. Respect for the concept of objectivity emerges, together with competing views of the orthodox and the heretical. The truth of statements issued by those in authority may be questioned, within strict limits, but the decisions and opinions of those in authority must be respected; if not, dissenters may be punished!
 
 
   ### Orange Organizations
