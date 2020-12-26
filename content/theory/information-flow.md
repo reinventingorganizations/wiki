@@ -25,7 +25,7 @@ perspective: >-
   ### 橙色组织
 
 
-  在[橙色组织](../orange-paradigm-and-organizations/), information serves primarily as a measure for “predicting and controlling”, with the credo: the more information, the better! Using measurement information, people can design a blueprint for the organization as though it was a machine. Information owned by or coming from those of higher rank in the organization is considered to be of greater value.
+  在[橙色组织](../orange-paradigm-and-organizations/)中，信息主要是“预测和控制”的手段，信条是：信息越多越好！人们通过缜密定义的信息，仿佛制造机器般设计组织蓝图。通常认为组织中级别较高人士所拥有的信息，或来自这些人的信息，具有更大的价值。
 
 
   ### Green Organizations
