@@ -5,24 +5,18 @@ key: Feedback and Performance Management
 name: 反馈与业绩管理
 sortOrder: 7
 category: People practices
-intro: >-
-  This topic looks at how feedback and performance management are handled in
-  Teal organizations.
-
+intro: |-
+  本主题探讨蔚蓝组织如何处理反馈和绩效管理。
 
   ![](/media/feedback.jpg)
 perspective: >-
-  The transparency inherent in Teal organizations means that all members of the
-  organization are constantly receiving feedback, both implicitly - information
-  is freely available about how the organization as a whole is doing - and
-  explicitly - colleagues share openly with each other the thoughts and feelings
-  they have about how individuals and the team are doing.
+  蔚蓝组织固有的透明度，意味着组织的所有成员都能时刻不断地接受反馈。这包括隐含和明确的反馈。隐含反馈指的是，个人能自由获取关于组织整体状态的信息。明确反馈是指，同事之间公开分享他们对其他成员和团队的想法和感受。
 
 
   ![](/media/evaluation-teal.jpg)
 
 
-  In Teal organizations, people are intrinsically motivated to perform through their commitment to the organization's [evolutionary purpose](../evolutionary-purpose/). Performance is managed primarily at a team level through peer feedback and emulation. Information and results are openly shared and people are trusted to know how the organization and other teams are performing. Giving feedback is a responsibility shared by all and happens routinely at both a team and individual level. Feedback is especially powerful in a Teal organization because it is intentionally non-judgmental, and feedback is given in a spirit of open exploration and acceptance. Teal values the whole person, not just the job they are doing.
+  在蔚蓝组织中，成员对努力实现组织[进化目标](../evolutionary-purpose/). Performance is managed primarily at a team level through peer feedback and emulation. Information and results are openly shared and people are trusted to know how the organization and other teams are performing. Giving feedback is a responsibility shared by all and happens routinely at both a team and individual level. Feedback is especially powerful in a Teal organization because it is intentionally non-judgmental, and feedback is given in a spirit of open exploration and acceptance. Teal values the whole person, not just the job they are doing.
 
 
   In contrast, feedback and performance management in earlier stage organizations can be summarized as follows:
