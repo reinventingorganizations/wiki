@@ -45,20 +45,16 @@ perspective: >-
 
   [绿色组织](../green-paradigm-and-organizations/)重视价值观。这为他们的创新方法增添了色彩。创新不仅是为了赚钱，也是为了实现组织的更大目标。有的会像全食公司这样，具体反映在产品开发/选择上。有的则像西南航空一样，鼓励提升服务水平的主动性。他们在多方利益相关者观点的鼓励下，寻找新的方法来处理劳资关系、成员授权、客户服务、股东利益以及他们所属的社区。
 inPractice: >-
-  In Teal, the focus is to find better ways to serve the organization's unique
-  sense of evolutionary purpose, rather than out-think the competition. Members
-  are encouraged to “listen” for opportunities, and test these via the advice
-  process. This means ideas must be discussed with knowledgeable colleagues. In
-  this environment, anyone, and everyone, can be an innovator.
+  在蔚蓝阶段，重点是寻求更好的方法来服务于有独特感的组织进化目标，而不是寻求超越竞争对手。鼓励成员“倾听”机会，并自发负责的提供建议流程测试这些机会。这意味着必须与知识渊博的同事讨论想法。在这种环境下，任何人，所有人，都可以成为创新者。
 
 
-  #### Design for Life, Beauty, Benefit
+  #### 为生命、美丽、利益而设计
 
 
-  Product innovation in traditional companies is commonly the result of exhaustive analyses of customer segments, buyer behavior and the competition—a very ‘left-brain’ approach.
+  传统企业的产品创新通常是对客户群体、买方行为和竞争进行详尽分析的结果，这是一种非常“左脑”的方法。
 
 
-  In Teal, the source of innovation is more ‘right brain’. It is spurred by purpose, and arises from ‘listening’ for what seem to be the right offerings. It attempts to answer these questions:
+  在蔚蓝组织，创新的源泉更多来自“右脑”。创新被目标所激励，并通过“倾听”到直觉认为恰当的奉献方式而自然发生。聆听中试图回答以下问题：
 
 
   *\- “What product would we be really proud of?”*
@@ -70,7 +66,7 @@ inPractice: >-
   *\- “What product or service are we uniquely capable of providing?”'*
 
 
-  These reflections are guided by intuition and perceptions of beauty. They can also be supported by structured design practices that are intended to catalyze empathetic thinking. An example is the concept of "design ideation"^\[Ideation for product design from IDEO - <http://www.ideo.com/>]This is a process where frontline workers spend long periods out in the field, observing how their customers are using their products and services.
+  These reflections are guided by intuition and perceptions of beauty. They can also be supported by structured design practices that are intended to catalyze empathetic thinking. An example is the concept of "design ideation"^[Ideation for product design from IDEO - <http://www.ideo.com/>]This is a process where frontline workers spend long periods out in the field, observing how their customers are using their products and services.
 
 
   #### Innovation at the frontlines
