@@ -69,10 +69,10 @@ inPractice: >-
   即使在开放性、健康的同事关系中，要做到当事情不能按预期进行时及时提供反馈，对某些人来说依然是个挑战。及时提供关于某个未达成的预期效果，或某个紧张关系的反馈，在蔚蓝实践中至关重要，无论多么不舒服也要驯服人性去做。[蔚蓝组织](../teal-paradigm-and-organizations/)a信任度高，恐惧感低。在这种环境下，有效的反馈成为可能，也是一项至关重要的技能。成员经常接受培训，学会使用[非暴力沟通](https://en.wikipedia.org/wiki/Nonviolent_Communication)等方法，以便在给出反馈时，能够检点自己的意图和方式。
 
 
-  #### **Team performance management**
+  #### **团队绩效管理**
 
 
-  Self-managed teams are the vital organs of a [Teal organization](../teal-paradigm-and-organizations/). When people have a clear understanding of the purpose of their work and know what is expected, teams are more than capable of setting goals and organizing to achieve them. To support this way of working, information is openly shared about the performance of each team. This would be threatening in a more traditional organization, but is liberating in a Teal organization because people know that the information will not be used against them. No one needs to be protected from the facts, good or bad.
+  自我管理的单元团队是[蔚蓝组织](../teal-paradigm-and-organizations/)的重要组成部分。当人们对自己的工作目标有了清晰的理解，并明确了期望，团队就更能更好的设定目标并组织起来实现目标。为了支持这种工作方式，需要公开分享每个团队的绩效信息。在一个更传统的组织中，这会是一种威胁。但在蔚蓝组织中这是一种解放，因为人们知道这些信息不会被用做敌意。信任每个成员都有能力能直面真实信息，无论好坏，所以不需要保护脆弱人群。
 
 
   When teams are delivering similar work, as they do in [Buurtzorg](https://www.buurtzorgnederland.com/) for instance, a team can easily assess their productivity compared to that of the other teams. Those at the bottom of the list are motivated by pride rather than fear to improve. More significantly, the other teams are ready and willing to share what they do and provide any help required. The work of the organization is more important than any ego driven competition between the teams.
