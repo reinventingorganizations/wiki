@@ -66,7 +66,7 @@ inPractice: >-
   在许多传统组织中，反馈过程经常会失败，因为内容都来自一个恐惧、批评和分离的层面。基于爱、接纳和连带感中得到的反馈，却是一种很健康的体验，能让人们客观判断自己或团队现在处于何处，并能通过协作共同确定下一步需要做什么。有效的反馈有助于组织的发展，并能让成员将组织的需求和自己内在动力结合一体。
 
 
-  即使在开放性、健康的同事关系中，要做到当事情不能按预期进行时及时提供反馈，对某些人来说依然是个挑战。及时提供关于某个未达成的预期效果，或某个紧张关系的反馈，在蔚蓝实践中至关重要，无论多么不舒服也要驯服人性去做。[蔚蓝组织](../teal-paradigm-and-organizations/)are high on trust and low on fear. Being able to give effective feedback in this environment is a vital skill. Employees are often trained to use approaches such as [Nonviolent Communication](https://en.wikipedia.org/wiki/Nonviolent_Communication) so that they can be mindful about their intentions and their practice when giving feedback. 
+  即使在开放性、健康的同事关系中，要做到当事情不能按预期进行时及时提供反馈，对某些人来说依然是个挑战。及时提供关于某个未达成的预期效果，或某个紧张关系的反馈，在蔚蓝实践中至关重要，无论多么不舒服也要驯服人性去做。[蔚蓝组织](../teal-paradigm-and-organizations/)a信任度高，恐惧感低。在这种环境下，有效的反馈成为可能，也是一项至关重要的技能。成员经常接受培训，学会使用[Nonviolent Communication](https://en.wikipedia.org/wiki/Nonviolent_Communication) 非暴力沟通等方法，以便在给出反馈时，能够检点自己的意图和方式。
 
 
   #### **Team performance management**
