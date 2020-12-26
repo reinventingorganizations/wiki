@@ -28,10 +28,10 @@ perspective: >-
   [红色组织](../red-organizations/)的特征是机会主义和适应性。目标是适应环境，不是专门为创新而组织运作。
 
 
-  #### Amber organizations
+  #### 琥珀组织
 
 
-  [Amber organizations](../amber-paradigm-and-organizations/) value predictable processes. Their sustained existence is tied to the maintenance of proven tools and roles. Innovations are adopted, cautiously, after top-down endorsement.
+  [琥珀组织](../amber-paradigm-and-organizations/)重视可预测的流程。通过依存并维持一些被证实有效的工具与职能来维持持续存在性。创新在自上而下的批准认可后才谨慎采用。
 
 
   #### Orange organizations
