@@ -45,7 +45,7 @@ inPractice: >-
   “如果只赋予人们权力但不赋予信息，他们只能在黑暗中摸索。”（布莱尔·弗农）
 
 
-  自我管理团队需要拥有所有可用的信息，以便在战略层面和日常工作中做出最佳[决策](../decision-making/)on a strategic and day-to-day basis. This means that all members of the organization must have access to all data related to the financing and operations of the organization, including salaries and performance of individuals and teams. Freely sharing information helps to build and maintain trust within the organization, and reduces the likelihood that informal hierarchies will re-emerge.
+  自我管理团队需要拥有所有可用的信息，以便在战略层面和日常工作中做出最佳[决策](../decision-making/)这意味着，本组织的所有成员都必须有权查阅与组织的筹资和业务有关的所有数据，包括个人和团队的薪金和业绩。自由共享信息有助于在组织内建立和维护信任，并降低因信息优势而导致的隐含的非正式等级制度重新出现的可能性--知和不知的力量差距。
 
 
   In Teal organizations, there is a culture of trust, not fear: freely sharing information does not harm anybody, and there is no need to protect sources of information through anonymity or disguise. People are trusted to handle information with integrity, and to deal with both the positive and the negative implications of all the information available to them. In this way, people have a clear of view the information that affects them and others within the organization, and no-one develops a false sense of anxiety or security.
