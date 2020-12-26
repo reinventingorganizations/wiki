@@ -78,13 +78,13 @@ inPractice: >-
   如果团队交付类似的工作，比如在[布尔佐格](https://www.buurtzorgnederland.com/)，通过与其他团队相比，就可以轻松地评估自己的生产力。排在最后的成员不是因恐惧而被迫进步，而是出于自尊而被激励改进。更重要的是，出于连带感，其他团队都准备好并愿意分享自己的成果，并愿意提供所需的任何帮助。组织整体工作的完成，比团队之间出于虚荣心的竞争重要得多。
 
 
-  When teams don’t do comparable work, some organizations have developed a different process. At [Morning Star](https://www.morningstarco.com/) for example, teams prepare a presentation for their colleagues every year where they candidly share what went well, what didn’t, how efficient they were and what they plan to do in the year ahead. Teams that haven’t performed well are challenged and supported in equal measure. In the process they receive helpful feedback and input to help them make the necessary improvements.
+  某些蔚蓝组织中，每个团队都做不可类比的工作，于是他们开发了独特的反馈流程。例如，在[晨星](https://www.morningstarco.com/) ，团队每年都会为兄弟团队的同事准备一份关于自己工作的报告，坦诚地分享自己哪些工作进展顺利，哪些不成功，自己团队的效率有多高，以及在未来一年计划做什么。表现不佳的团队会受到挑战和同等程度的支持。在这个过程中，团队会收到有用的反馈和意见，帮助他们做出必要的改进。
 
 
-  #### **Individual performance management**
+  #### **个人绩效管理**
 
 
-  People are relational beings that thrive on honest feedback. Although the primary focus is on team performance, [Teal organizations ](../teal-paradigm-and-organizations/)recognize that being able to give open, non-judgmental individual feedback to peers is vital. Some organisations such as [FAVI](http://www.favi.com/) have stopped having formal appraisal discussions because feedback is exchanged so freely. Most others still see value in having a formal period once a year to reflect on their work. These appraisals are naturally built around peer-based processes.
+  P人依存于人际关系，人际关系靠的则是诚实的反馈。虽然 [蔚蓝组织](../teal-paradigm-and-organizations/)主要关注团队绩效，但也认识到，向同事提供开放坦诚的、非评判性的个人反馈也至关重要。一些组织，如[法维](http://www.favi.com/) have stopped having formal appraisal discussions because feedback is exchanged so freely. Most others still see value in having a formal period once a year to reflect on their work. These appraisals are naturally built around peer-based processes.
 
 
   Peer-based feedback has the advantage of providing each individual with a broader, more meaningful perspective on their contribution. Feedback goes beyond the confines of a narrow discussion about the job and brings in a wider exploration of the person’s hopes, fears and sense of purpose in life.
