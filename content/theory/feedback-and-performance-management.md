@@ -16,7 +16,7 @@ perspective: >-
   ![](/media/evaluation-teal.jpg)
 
 
-  在蔚蓝组织中，成员对努力实现组织[进化目标](../evolutionary-purpose/). Performance is managed primarily at a team level through peer feedback and emulation. Information and results are openly shared and people are trusted to know how the organization and other teams are performing. Giving feedback is a responsibility shared by all and happens routinely at both a team and individual level. Feedback is especially powerful in a Teal organization because it is intentionally non-judgmental, and feedback is given in a spirit of open exploration and acceptance. Teal values the whole person, not just the job they are doing.
+  在蔚蓝组织中，成员对努力实现组织[进化目标](../evolutionary-purpose/)的承诺，时刻内在地激励着成员努力工作。绩效主要在团队层面进行，通过同事反馈和效仿竞争来管理。信息和结果都被公开共享，人们能得到信任，所以有权了解组织和其他团队的表现情况。提供反馈是所有人共同的责任，对团队和个人层面的反馈会自动频繁的发生。在蔚蓝组织中，反馈的作用尤其有用，因为这类反馈不带有评判能量，并且都带有开放性的坦诚探索和接纳精神。蔚蓝看重的是完整的人，而不仅仅是他们所做的工作。
 
 
   In contrast, feedback and performance management in earlier stage organizations can be summarized as follows:
