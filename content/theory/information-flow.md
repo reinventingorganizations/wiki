@@ -5,18 +5,15 @@ key: Information Flow
 name: 信息流
 sortOrder: 5
 category: Daily practices
-intro: This article describes how information and information flow are used in
-  different management paradigms and organizational contexts throughout the
-  journey of evolution.
+intro: 本文描述了在组织模式的演变进化历程中，在不同的管理范式和不同组织环境中，信息和信息流的不同运用方法。
 perspective: >-
-  Every historical stage has given birth to a distinct perspective on
-  **Information Flow**, and to very different practices:
+  每一个历史阶段都产生了对信息流的不同观点，以及截然不同的实践：
 
 
-  ### Red Organizations
+  ### 红色组织
 
 
-  In [Red Organizations](../red-organizations/), information and information flow are controlled by those with power, and are used to control and manipulate people. Information is controlled and propagated through storytelling, issuing orders, making threats, bribing and by spying. The boss usually has ownership of information and controls the means of communication. Power is used to keep followers dependent and aligned. The objective truth of information is often less important than its subjective value, i.e. the truth has no value or meaning if there is more to gain from telling a lie! In this context, people only attend to the information which they perceive as serving their own personal needs.
+  在[红色组织](../red-organizations/), information and information flow are controlled by those with power, and are used to control and manipulate people. Information is controlled and propagated through storytelling, issuing orders, making threats, bribing and by spying. The boss usually has ownership of information and controls the means of communication. Power is used to keep followers dependent and aligned. The objective truth of information is often less important than its subjective value, i.e. the truth has no value or meaning if there is more to gain from telling a lie! In this context, people only attend to the information which they perceive as serving their own personal needs.
 
 
   ### Amber Organizations
