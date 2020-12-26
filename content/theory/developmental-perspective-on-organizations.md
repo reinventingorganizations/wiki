@@ -62,21 +62,21 @@ intro: >-
   研究表明，人们（甚至整个社会）的运作，并不是很清晰的仅依据某一单个范式。人类神奇而复杂，不能被简化为单一的阶段：
 
 
-  * Every stage includes and transcends the previous. So if we have learned to operate from, say, Achievement-Orange, we still have the ability, when appropriate, to react from Conformist-Amber or Impulsive-Red. Even the opposite is true to some extent: were we to be surrounded by people operating from a later stage, for example, Pluralistic-Green, we could temporarily display Green behaviors, even though we wouldn’t yet have integrated this stage.
+  * 每一个阶段都包含并超越了前一个阶段。因此，如果我们已经学会了如何运用，比如说成功导向的橙色，但仍然有能力在适当的时候，兼用墨守成规的琥珀色或冲动的红色作出反应。反之也可能：如果（红-橙的）我们被一群依据后期模式运作的人包围，比如说多元化的绿色，我们可以暂时表现出绿色行为，尽管我们的意识还没有融合到这个阶段。
 
-  * There are many dimensions of human development— cognitive, moral, psychological, social, spiritual, and so on— and we don’t necessarily grow at the same pace in all of them. For example, we might have internalized Orange cognition and be running an innovative business, but on the spiritual side, we espouse an Amber Christian fundamentalist belief.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Location 1009-1016). Nelson Parker. Kindle Edition.]
-
-
-  Similarly, one must apply development theory carefully with organizations. Few, if any, organizations fall neatly into just one stage. But if we look at an organization’s structure, its practices, and its cultural elements, we can generally discern what worldview they stem from. Let’s take the topic of compensation to illustrate this:
+  * 人的发展有许多层面——认知、道德、心理、社会、精神等等——我们不一定在所有这些方面都以同样的速度成长。例如，我们可能已经将橙色认知内化，并正在经营一家创新企业。但在精神层面，我们却依然信奉琥珀色基督教原教旨主义信仰。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Location 1009-1016). Nelson Parker. Kindle Edition.]
 
 
-  * If the boss can freely, on a whim, decide to increase or reduce pay, that would be consistent with the Red paradigm.
+  同样，我们将发展理论应用于组织时，必须细心谨慎。几乎没有，或很少有组织能整齐地运作于某单一阶段。但是，如果我们观察一个组织的结构及其实践流程，以及它的文化元素，我们就可以大体上看出这些特征萌芽于何种的世界观。让我们以薪酬为主题来说明这一点：
 
-  * If salaries are fixed and determined by the person’s level in the hierarchy (or the person’s diploma), that sounds in line with an Amber perspective.
 
-  * A system that stresses individual incentives if people reach predetermined targets probably stems from an Orange worldview.
+  * 如果老板可以随心所欲地决定增加或减少成员工资，这将符合红色范式。
 
-  * A focus on team bonuses would be in line with a Green perspective.
+  * 如果工资是固定的，并根据个人在等级制度中的等级（或文凭）决定，这听起来符合琥珀色的观点。
+
+  * 如果该系统在人们达到预定目标时强调个人激励，可能源于橙色的世界观。
+
+  * 如果关注团队整体奖金，则符合绿色视角。
 
 
   When one looks through this filter not only at compensation, but at all the structure, practices, and culture of an organization, one generally finds that they are not scattered randomly among the stages and colors, but cluster around a center of gravity, a stage that defines most practices of the organization.
