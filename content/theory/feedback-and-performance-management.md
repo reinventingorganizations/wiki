@@ -43,10 +43,10 @@ perspective: >-
   在[橙色组织](../orange-paradigm-and-organizations/)中，绩效管理的重点是实现目的和目标。每个人都要根据管理层设定的“努力延伸”目标来衡量（并评级）自己的表现。高度重视创新和可定量评估的成功结果。反馈是一个自上而下的过程，关注工作绩效，目的是鼓励人们取得更大的成果。
 
 
-  #### **Green organizations**
+  #### **绿色组织**
 
 
-  In [Green organizations](../green-paradigm-and-organizations/), performance management is as much concerned about how work is carried out as it is about what is achieved. Strong values linked to an inspirational purpose provide guidance to help employees manage their own performance. Managers become servant leaders and seek to enable and empower those who are doing the front line work. Feedback occurs often through a [360 degree feedback](https://en.wikipedia.org/wiki/360-degree_feedback) process and is designed to nurture and support both individuals in their development and the culture of the organization
+  在[Green organizations](../green-paradigm-and-organizations/), 中，绩效管理关注的是如何开展工作，而不是取得什么成果。与激励目标相关联的强大价值观，支撑着成员能自觉管理自己的绩效。管理者成为仆人式的领导，并努力去帮助并授权给那些在第一线工作的成员。反馈通常通过一种叫做[360度反馈](https://en.wikipedia.org/wiki/360-degree_feedback)的流程来进行，目的是同时培养并支持个人发展和组织文化。performance management is as much concerned about how work is carried out as it is about what is achieved. Strong values linked to an inspirational purpose provide guidance to help employees manage their own performance. Managers become servant leaders and seek to enable and empower those who are doing the front line work. Feedback occurs often through a [360 degree feedback](https://en.wikipedia.org/wiki/360-degree_feedback) process and is designed to nurture and support both individuals in their development and the culture of the organization
 inPractice: >-
   #### **Performance management**
 
