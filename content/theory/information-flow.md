@@ -34,10 +34,10 @@ perspective: >-
   在[绿色组织](../green-paradigm-and-organizations/)中，信息成为衡量成员文化价值的货币，其目的是用来激励组织成员。通过将系统信息流公布在“公开数据”上进行管理，保证所有利益相关者的投入都得到平等的考虑。在等级结构背景下，这种“开卷书”类型的信息内容，仍然由“当权者”负责定义，但身居要职的人往往会致力于倾听、鼓励和激励自己的团队。在绿色组织中，以“家庭”为标签隐喻，注重分享故事，每个人都可以“围着篝火唱歌”。
 
 
-  ### Teal Organizations
+  ### 蔚蓝组织
 
 
-  In [Teal Organizations](../teal-paradigm-and-organizations/), information is made available to everyone equally, on an “as-is” basis. There are no secrets, and information flows where it is needed without boundaries; this is one of the fundamental prerequisites for [self-management](../self-management/) of organizations. Members of Teal organizations still respect a distinction between the sharing of information which belongs in the organizational context, and the confidential sharing of personal information; grey areas are handled with sensitivity and integrity. The dubious value of “hearsay” (second-hand reports of unrecorded verbal communication) is clearly understood.
+  在[蔚蓝组织](../teal-paradigm-and-organizations/), information is made available to everyone equally, on an “as-is” basis. There are no secrets, and information flows where it is needed without boundaries; this is one of the fundamental prerequisites for [self-management](../self-management/) of organizations. Members of Teal organizations still respect a distinction between the sharing of information which belongs in the organizational context, and the confidential sharing of personal information; grey areas are handled with sensitivity and integrity. The dubious value of “hearsay” (second-hand reports of unrecorded verbal communication) is clearly understood.
 inPractice: >-
   ### Share All Information!
 
