@@ -34,10 +34,10 @@ perspective: >-
   [琥珀组织](../amber-paradigm-and-organizations/)重视可预测的流程。通过依存并维持一些被证实有效的工具与职能来维持持续存在性。创新在自上而下的批准认可后才谨慎采用。
 
 
-  #### Orange organizations
+  #### 橙色组织
 
 
-  With [Orange](../orange-paradigm-and-organizations/), innovation becomes a core practice. It is necessary to stay competitive. At the organization level, there is investment in R&D. Research centers might be established. At the operating level, units are encouraged to be creative in how they achieve their targets. All these activities are subject to review in the regular operating and strategic planning cycles.
+  在[橙色](../orange-paradigm-and-organizations/)阶段，创新成为保持竞争力所必要的核心实践。在组织层面对创新研发进行投资。还可能会建立研究中心。在业务层面，鼓励各单位为实现目标而发挥创造性。所有这些活动都要在定期的业务和战略规划周期内进行审查。
 
 
   #### Green organizations
