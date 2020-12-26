@@ -30,7 +30,7 @@ intro: >-
   每一次向意识新阶段的转型，都开创了一个人类历史的新纪元。在每一个转型点，所有一切都同时发生变化：社会（从家族到部落再到帝国再到民族国家）；经济（从觅食到园艺、农业和工业化）；权力结构；宗教的作用。只有一个方面还没有得到太多的关注：每当人类意识进入一个新阶段，我们的协作能力也都出现了突破，带来了一种新的组织模式。我们今天所知道的组织仅仅是我们当前世界观、当前发展阶段的表现。每一次，作为一个物种，我们改变了自己对世界的看法时，都创造产生了更强大的组织模式。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 476-506). Nelson Parker. Kindle Edition.]
 
 
-  This wiki is based largely on the work of Frederic Laloux in *Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness*. In his work, Laloux attempts to catalog the stages through which human organizational development has progressed. He portrays these stages in a way that borrows from many researchers, including those mentioned above, but particularly from the meta-analyses of Ken Wilber and Jenny Wade. As in Wilber’s *Integral Theory*, Laloux’s work and this wiki give colors as names to each stage of development. It should be noted that while the descriptions of stages here are generally compatible with *Integral Theory*, they may not always correspond exactly.
+  这个知识库主要基于frederic laloux在《重塑组织：一个由人类意识的新阶段所激发的组织创建指南》的著作内容。在他的书中，Laloux试图对人类组织发展的各个阶段进行分类。他描述这些阶段的方式借鉴了许多组织研究者的经验，包括上面提到的那些，但特别借鉴的是肯·威尔伯和珍妮·韦德的荟萃分析。正如Wilber的（主权）积分理论一样，Laloux的著作和本维基知识库，都用色彩命名了每个发展阶段（彩虹、脉轮）。需要注意的是，虽然这里对阶段的描述通常与（主权）积分理论相一致，但可能并不总是完全一致。
 
 
   ### Some caveats
