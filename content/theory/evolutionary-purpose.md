@@ -37,7 +37,7 @@ inPractice: >-
 
   * 帮助居家患者变得健康而自理 —布尔佐格，健康行业^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4239-4240). Nelson Parker. Kindle Edition]
 
-  * "Use business to inspire and implement solutions to the environmental crisis” - Patagonia, outdoor clothing retailer^\[http://www.patagoniaworks.com/#index, accessed 2015/06/13] 
+  * 用商务催化环境危机的更有效解决方案 —帕塔沟尼亚，户外服装零售^\[http://www.patagoniaworks.com/#index, accessed 2015/06/13] 
 
   * "Two fundamental purposes: the first is to provide meaningful work in the area of Hallencourt, a rural area in northern France where good work is rare; the second is to give and receive love from clients" - FAVI, foundry and engineering firm.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4371-4372). Nelson Parker. Kindle Edition.] 
 
