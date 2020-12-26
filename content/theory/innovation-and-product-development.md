@@ -16,7 +16,7 @@ perspective: >-
   Locations 837-841). Nelson Parker. Kindle Edition.]
 
 
-  对于[蔚蓝组织](../teal-paradigm-and-organizations/)来说，创新的动力来自于组织的[进化目标](../evolutionary-purpose/)。The concept of innovation expands beyond benefit to the organization and is not approached through the traditional lenses of profit and competition. To evaluate if an innovation is worthwhile, Teal uses a wide range of evidence of beauty, creativity and ultimately service to the organization's purpose and therefore to society.
+  对于[蔚蓝组织](../teal-paradigm-and-organizations/)来说，创新的动力来自于组织的[进化目标](../evolutionary-purpose/)。创新的概念超越了利益追求而上升到组织成长层面，也不再通过传统的利润和竞争透镜来追求创新。为了评估一项创新是否值得，蔚蓝组织会使用大量能支撑美、创造力和最终服务于组织目与社会等标尺为导向的决策证据。
 
 
   For more on innovation and product development in earlier stage organizations:
