@@ -19,13 +19,13 @@ perspective: >-
   在蔚蓝组织中，成员对努力实现组织[进化目标](../evolutionary-purpose/)的承诺，时刻内在地激励着成员努力工作。绩效主要在团队层面进行，通过同事反馈和效仿竞争来管理。信息和结果都被公开共享，人们能得到信任，所以有权了解组织和其他团队的表现情况。提供反馈是所有人共同的责任，对团队和个人层面的反馈会自动频繁的发生。在蔚蓝组织中，反馈的作用尤其有用，因为这类反馈不带有评判能量，并且都带有开放性的坦诚探索和接纳精神。蔚蓝看重的是完整的人，而不仅仅是他们所做的工作。
 
 
-  In contrast, feedback and performance management in earlier stage organizations can be summarized as follows:
+  作为比较，下面总结了早期组织的反馈和绩效管理：
 
 
-  #### **Red organizations**
+  #### **红色组织**
 
 
-  In [Red organizations,](../red-organizations/) performance management is about the exercise of personal power. The boss demands that orders are obeyed without question to preserve an image of toughness and strength. Followers comply in the hope of protection and safety. Feedback is given in the form of rewards and punishments designed to reinforce the boss’s power.
+  在[红色模式](../red-organizations/)中，绩效管理是通过行使老板的个人权力。老板要求成员毫无疑问地服从命令，以保持其强硬而强大的形象。追随者为了寻求保护和安全而服从。反馈以奖惩的形式给出，目的是强化老板的权力。
 
 
   #### **Amber organizations**
