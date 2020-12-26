@@ -42,10 +42,10 @@ inPractice: >-
   ### 共享所有信息!
 
 
-  *"If you empower people but don´t give them information, they just fumble in the dark."* (Blair Vernon)
+  “如果只赋予人们权力但不赋予信息，他们只能在黑暗中摸索。”（布莱尔·弗农）
 
 
-  Self-managing teams need to have all available information to make optimum [decisions ](../decision-making/)on a strategic and day-to-day basis. This means that all members of the organization must have access to all data related to the financing and operations of the organization, including salaries and performance of individuals and teams. Freely sharing information helps to build and maintain trust within the organization, and reduces the likelihood that informal hierarchies will re-emerge.
+  自我管理团队需要拥有所有可用的信息，以便在战略层面和日常工作中做出最佳[决策](../decision-making/)on a strategic and day-to-day basis. This means that all members of the organization must have access to all data related to the financing and operations of the organization, including salaries and performance of individuals and teams. Freely sharing information helps to build and maintain trust within the organization, and reduces the likelihood that informal hierarchies will re-emerge.
 
 
   In Teal organizations, there is a culture of trust, not fear: freely sharing information does not harm anybody, and there is no need to protect sources of information through anonymity or disguise. People are trusted to handle information with integrity, and to deal with both the positive and the negative implications of all the information available to them. In this way, people have a clear of view the information that affects them and others within the organization, and no-one develops a false sense of anxiety or security.
