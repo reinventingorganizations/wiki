@@ -35,7 +35,7 @@ inPractice: >-
   蔚蓝组织的进化目标，反应着组织存在的更深次元理由。这种目标一般关系到该组织希望在其运作的社区以及所服务市场内创造的与众不同之处（创新）。这个目标与竞争或战胜其他组织无关。是为了服务于人类进化需求的更大良善。一些具体组织的案例：
 
 
-  * "Helping home-based patients become healthy and autonomous" - Buurtzorg, healthcare organization^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4239-4240). Nelson Parker. Kindle Edition]
+  * 帮助居家患者变得健康而自理 —布尔佐格，健康行业^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4239-4240). Nelson Parker. Kindle Edition]
 
   * "Use business to inspire and implement solutions to the environmental crisis” - Patagonia, outdoor clothing retailer^\[http://www.patagoniaworks.com/#index, accessed 2015/06/13] 
 
