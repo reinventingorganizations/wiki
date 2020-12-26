@@ -22,10 +22,10 @@ perspective: >-
   在[琥珀组织](../amber-paradigm-and-organizations/)中，信息分布愈发广泛并开始尊重逻辑论证。承认不同的观点的存在，但只允许一个真理或一套真理的存在空间。信息通过组织的层次结构进行控制和沟通。对客观概念的尊重，以及相应的正统和异端的对立概念也开始萌芽。在严格限制的前提下，当权者发言的真实性可以受到质疑，但当权者的决定和意见必须得到尊重；否则，反对者可能会受到惩罚！
 
 
-  ### Orange Organizations
+  ### 橙色组织
 
 
-  In [Orange Organizations](../orange-paradigm-and-organizations/), information serves primarily as a measure for “predicting and controlling”, with the credo: the more information, the better! Using measurement information, people can design a blueprint for the organization as though it was a machine. Information owned by or coming from those of higher rank in the organization is considered to be of greater value.
+  在[橙色组织](../orange-paradigm-and-organizations/), information serves primarily as a measure for “predicting and controlling”, with the credo: the more information, the better! Using measurement information, people can design a blueprint for the organization as though it was a machine. Information owned by or coming from those of higher rank in the organization is considered to be of greater value.
 
 
   ### Green Organizations
