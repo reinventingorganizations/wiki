@@ -70,19 +70,19 @@ inPractice: >-
   #### 一线创新
 
 
-  Any frontline person can act on insights gained from working closely with the customer and therefore having a deep understanding of his or her needs. With Teal self-management, there is nothing to hold back a good idea from being pursued if it has use for customers and if its pursuit adheres to the advice process.
+  任何一线人员都可以根据与客户密切互动所获得的洞察力采取行动，因一线更深入了解客户的需求。有了蔚蓝的自我管理，如果一个好主意对客户有用，并且追求方法遵循组织预制的建议流程，那么就没有什么可以阻止这个主意得到追求而实现（不需要批准）。
 
 
-  #### Practice sharing
+  #### 创新经验分享
 
 
-  New insights and practices are systematically shared through Teal Organizations, often through an intranet or wiki. Through sense and respond and various practices supporting evolutionary purpose, these successful innovations can potentially be adopted quickly throughout the organization.
+  新的见解和实践会在整个蔚蓝组织内得到系统性共享，通常通过互联网或维基知识库。通过感知，响应以及能支持进化目标的各种实践，这些成功的创新获得了在整个组织中被迅速采用的可能性。
 
 
-  #### Innovation impacts whole organization
+  #### 创新影响整个组织
 
 
-  Emergent innovation does not just follow organizational purpose but may impact the evolutionary purpose of a Teal organization, shifting its impulse into a new direction and potential.
+  自然突现性的创新不仅遵循组织目标，而且可能影响组织的进化目标，使组织的势头转向新的方向和潜力。
 faq:
   - question: How would a strong visionary and innovative personality fit into a
       Teal organization, such as for example Steve Jobs?
@@ -128,4 +128,3 @@ relatedTheory:
   - Listening to Purpose
   - Project teams and task forces
 ---
-to be removed
