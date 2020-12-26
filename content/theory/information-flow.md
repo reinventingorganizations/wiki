@@ -13,7 +13,7 @@ perspective: >-
   ### 红色组织
 
 
-  在[红色组织](../red-organizations/), information and information flow are controlled by those with power, and are used to control and manipulate people. Information is controlled and propagated through storytelling, issuing orders, making threats, bribing and by spying. The boss usually has ownership of information and controls the means of communication. Power is used to keep followers dependent and aligned. The objective truth of information is often less important than its subjective value, i.e. the truth has no value or meaning if there is more to gain from telling a lie! In this context, people only attend to the information which they perceive as serving their own personal needs.
+  在[红色组织](../red-organizations/)中，信息和信息流由当权者控制，主要用来控制和操纵成员。信息主要通过讲故事、发布命令、威胁、贿赂和间谍活动来控制和传播。老板通常掌握着信息的所有权，并控制着沟通方式。权力用来保持追随者的依赖性和一致性。只强调信息的主观价值，信息的客观真实性往往不被重视。也就是说，如果说谎可以获得更多的好处，那么事实就没有价值或意义！在这种情况下，人们只关注能为自己的个人需求服务的信息。
 
 
   ### Amber Organizations
