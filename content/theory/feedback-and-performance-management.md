@@ -57,10 +57,10 @@ inPractice: >-
   在[T蔚蓝组织](../teal-paradigm-and-organizations/)中，不存在这种正式的自上而下的绩效跟踪体系。在一个不存在上司的自我管理式蔚蓝组织中，按期交付成果的动力来自于成员的内在动机。蔚蓝组织认为，当人们的工作具有意义深远的[目标](../listening-to-purpose/)时，当他们受到来自同伴的健康的类比压力时，当他们能够获得来自外部世界的准确反馈时，就能得到激励。蔚蓝认为，当人们对工作有充分的责任感，并在随时可以获得所需资源的前提下、从事有价值的工作时，往往会变得更加投入，并取得远远超过要求的成就。
 
 
-  Although people do not need management pressure to perform, they still need to know how they are doing. For this purpose feedback is extensively used in Teal organizations with a primary focus on team performance.
+  尽管人们不再需要管理压力来督促任务的执行，但仍然需要知道自己的表现状态如何。为此，在蔚蓝组织中得到广泛应用的是，主要聚焦于团队层面的绩效反馈。
 
 
-  #### **Feedback**
+  #### **反馈**
 
 
   In many organizations, the feedback process frequently fails because it comes from a place of fear, judgement and separation. Feedback given from love, acceptance and connection is a nourishing experience that allows people to gauge where they are and to work out collaboratively what they need to do next. Efficient feedback facilitates growth and enables people to align what the organization needs with what energizes them.
