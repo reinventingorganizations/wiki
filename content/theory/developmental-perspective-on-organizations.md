@@ -53,10 +53,10 @@ intro: >-
   另一种能避免对阶段进行歧视和评判的方法，是认识到每个阶段都很好地适应了特定的环境。如果我们陷入了一场内战，暴徒袭击我们的房子，冲动的红色将是用来思考和行动的最佳模式，可以更有效的保卫自己。另一方面，在后工业社会的和平时期，红色的功能就不如某些后期阶段有用。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 996-1004). Nelson Parker. Kindle Edition.]
 
 
-  #### The map is not the territory
+  #### 地图不是领土
 
 
-  Second, any developmental theory is only an abstraction of reality, just like a geographical map is only a simplified depiction of a territory; it gives us distinctions that facilitate understanding of a complex underlying reality, but it cannot claim to offer a full portrayal of reality. The key is to hold these models as useful orientations that can help us get a richer appreciation of the extraordinary complexity of life.
+  第二，任何发展理论都只是对现实的抽象，就像地理地图只是对一片领土的简化描述一样；它给我们提供了一些区分方式，帮助我们去理解复杂而潜在的现实，但它不能声称提供了对现实的全面描绘。关键是要把这些模型作为有用的指南，帮助我们更丰富地了解生命的非凡复杂性。
 
 
   Research shows that people (or even whole societies) do not operate neatly from just one paradigm. Humans are wonderfully complex and cannot be reduced to a single stage:
