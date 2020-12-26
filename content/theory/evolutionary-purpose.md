@@ -54,7 +54,7 @@ inPractice: >-
   蔚蓝组织中，利益是优质完成工作的副产品。哲学家维克多夫兰寇概括的很精准：“成功好比幸福，无法通过追求得到，必须自动到来，并且只能作为在为某个比私人利益更崇高的目的而奉献时，所获得的副产品而收到。”^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4264-4266). Nelson Parker. Kindle Edition.]
 
 
-  The purpose of a Teal organization is rarely static – thus the term “Evolutionary Purpose”. It will evolve over time, as the organization itself grows and adapts. For example, Buurtzorg, the Dutch homecare organization, was set up to "help sick and elderly patients live a more autonomous and meaningful life."^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4215-4216). Nelson Parker. Kindle Edition.] Its activities have grown beyond looking after the elderly, and it now focuses on helping "patients become healthy and autonomous".
+  蔚蓝组织的目标很少是静态不变的 —所以叫做进化目标。目标会随着组织自身的成长和影响过程而与时俱进。比如，布尔佐格公司设立时目标的“帮助疾病和老年患者活出更自理更有意义的人生。”但其活动已经成长并超出了照顾老人的范畴，现在聚焦在“帮助患者变得健康和自理”。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4215-4216). Nelson Parker. Kindle Edition.] Its activities have grown beyond looking after the elderly, and it now focuses on helping "patients become healthy and autonomous".
 faq:
   - question: Can there be a conflict between individual and organizational purpose?
     answer: Individual and organizational purpose go hand in hand. One needs the
@@ -75,4 +75,3 @@ relatedTheory:
   - Objectives and Target Setting
   - Budgeting and Controlling
 ---
-*required content note*
