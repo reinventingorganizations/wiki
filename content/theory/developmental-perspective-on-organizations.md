@@ -85,7 +85,7 @@ intro: >-
   ### 领导的作用
 
 
-  What determines which stage an organization operates from? To date, the answer has been - the stage through which its leadership tends to look at the world . Consciously or unconsciously, leaders put in place organizational structures, practices, and cultures that make sense to them, that correspond to their way of dealing with the world.
+  是什么决定了一个组织依据哪个阶段运作？到目前为止，答案是：一般就是其领导层世界观所处阶段。无论是有意识还是无意识，领导者都会建立起对自己有意义的组织结构、实践和文化，这些都与他们处理世界的方式相一致。
 
 
   This means that organizations to date have not been able to evolve beyond its leadership’s stage of development. The practice of defining a set of shared values and a mission statement provides a good illustration. Because this practice is in good currency, leaders in Orange Organizations increasingly feel obliged to have a task force come up with some values and a mission statement. But looking to values and mission statements to inform decisions only makes sense as of the Green paradigm. In Orange, the yardstick for decisions is success: Let’s go with what will deliver top- or bottom-line results. In Orange organization’s, leadership might pay lip service to the values; but when the rubber hits the road and leaders have to choose between profits and values, they will predictably go for the former. They cannot uphold a practice and a culture (in this case, a values-driven culture) that stems from a later stage of development.
