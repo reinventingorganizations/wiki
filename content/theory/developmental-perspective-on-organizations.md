@@ -33,24 +33,24 @@ intro: >-
   这个知识库主要基于frederic laloux在《重塑组织：一个由人类意识的新阶段所激发的组织创建指南》的著作内容。在他的书中，Laloux试图对人类组织发展的各个阶段进行分类。他描述这些阶段的方式借鉴了许多组织研究者的经验，包括上面提到的那些，但特别借鉴的是肯·威尔伯和珍妮·韦德的荟萃分析。正如Wilber的（主权）积分理论一样，Laloux的著作和本维基知识库，都用色彩命名了每个发展阶段（彩虹、脉轮）。需要注意的是，虽然这里对阶段的描述通常与（主权）积分理论相一致，但可能并不总是完全一致。
 
 
-  ### Some caveats
+  ### 一些注意事项
 
 
-  Experience shows that some people react in two extreme ways when confronted with this developmental theory.
+  经验表明，有些人在面对这种发展理论时会有两种极端的反应。
 
 
-  * Some are so fascinated with these insights that they tend to apply them haphazardly, oversimplifying reality to fit the model.
+  * 有些人对这些见解如此着迷，以至于他们倾向于轻率而随意地付诸运用，为了是适用模型而过分简化了现实。
 
-  * Others have the opposite reaction; they feel so uncomfortable with a model that could be used to label people and put them into different boxes that they reject the notion there is a developmental aspect to human evolution. They see the notion of such stages as elitist and implying that certain people are somehow better than others.
-
-
-  #### One stage is not necessarily "better" than the other
+  * 另一些人的反应则相反：他们对某种可以用来给人贴上标签，并把他们放到不同盒子里的模型感到非常不舒服，以至于他们拒绝接受人类进化可以被分为发展阶段之类的观点。他们认为这种分阶段的概念是精英主义，意味着某些人在某种程度上比其他人更好。
 
 
-  First, there is no wishing away the massive evidence that backs the view that human consciousness evolves in stages. The problem is not with the reality of the stages; it is with how we view the staircase. We get into trouble when we believe that later stages are “better” than earlier stages; a more helpful interpretation is that they are “more complex” ways of dealing with the world. For instance, a person operating from Pluralistic-Green can integrate people’s conflicting perspectives in a way that a person operating from Impulsive-Red most likely cannot. At the same time, every level has its own light and shadow, its own healthy and unhealthy expressions. Orange modernity, for instance, for all the life-enhancing advancements it has brought, has changed the planet in a way previous stages never could.
+  #### 并不是一个阶段比另一个“更好”
 
 
-  Another way to avoid attaching judgment to stages is to recognize that each stage is well adapted to certain contexts. If we were caught in a civil war with thugs attacking our house, Impulsive-Red would be the most appropriate paradigm to think and act from to defend ourselves. On the other hand, in peaceful times in post-industrial societies, Red is not as functional as some of the later stages.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 996-1004). Nelson Parker. Kindle Edition.]
+  首先，我们不希望忽视如此海量的证据，支持着人类意识是分阶段进化的观点。问题不在于分阶段是否是个事实，而在于我们如何看待阶段。当我们认为后期阶段一定比早期阶段“更好”时，我们就会陷入困境；一个更有效的解释是，后期阶段只是处理世界的“更复杂”方式。例如，一个从本着多元绿色运作的人，可能有能力整合人们互相冲突的观点，而依据冲动红色运作的人很可能无法做到这个。同时，每个层面都有自己的光影，有自己健康不健康的表达。例如，橙色的现代性，尽管带来很多促进生命的进步，但是也以一种以前阶段所无法做到的方式和规模改变（破坏）了地球。
+
+
+  另一种能避免对阶段进行歧视和评判的方法，是认识到每个阶段都很好地适应了特定的环境。如果我们陷入了一场内战，暴徒袭击我们的房子，冲动的红色将是用来思考和行动的最佳模式，可以更有效的保卫自己。另一方面，在后工业社会的和平时期，红色的功能就不如某些后期阶段有用。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 996-1004). Nelson Parker. Kindle Edition.]
 
 
   #### The map is not the territory
