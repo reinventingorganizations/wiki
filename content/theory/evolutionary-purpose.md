@@ -10,7 +10,7 @@ intro: >-
   Opinions of Eminent Philosophers]
 
 
-  Nature, humankind, relationships: everything evolves, driven by a life force, to adapt, transform and grow. From a Teal perspective, organizations are viewed as an independent energy field with a purpose that transcends its stakeholders. In this paradigm, we don’t own or run the organization; instead we are stewards, listening to where it needs to go and helping it to do its work in the world..
+  大自然、人类、关系：所有一切都在进化，都在生命力的驱动下，不断适应、转型和成长。从蔚蓝组织角度来看，组织被看作一种携带目标的独立能量场，能穿透所有的参与者。在这个模式中，我们并不拥有或能运营某个组织，我们只是组织的仆人，聆听组织想去哪里，然后帮助组织在这个世界里完成其任务...
 
 
   ![](/media/evolutionary-purpose-2.jpg)
