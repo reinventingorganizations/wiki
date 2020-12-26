@@ -37,7 +37,7 @@ perspective: >-
   ### 蔚蓝组织
 
 
-  在[蔚蓝组织](../teal-paradigm-and-organizations/), information is made available to everyone equally, on an “as-is” basis. There are no secrets, and information flows where it is needed without boundaries; this is one of the fundamental prerequisites for [self-management](../self-management/) of organizations. Members of Teal organizations still respect a distinction between the sharing of information which belongs in the organizational context, and the confidential sharing of personal information; grey areas are handled with sensitivity and integrity. The dubious value of “hearsay” (second-hand reports of unrecorded verbal communication) is clearly understood.
+  在[蔚蓝组织](../teal-paradigm-and-organizations/)中，信息按照“原样”平等地分享给每个成员。信息在需要的地方流动，没有秘密，没有边界；透明畅通的信息，是组织[自我管理](../self-management/) of organizations. Members of Teal organizations still respect a distinction between the sharing of information which belongs in the organizational context, and the confidential sharing of personal information; grey areas are handled with sensitivity and integrity. The dubious value of “hearsay” (second-hand reports of unrecorded verbal communication) is clearly understood.
 inPractice: >-
   ### Share All Information!
 
