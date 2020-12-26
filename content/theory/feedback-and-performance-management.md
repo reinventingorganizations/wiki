@@ -40,7 +40,7 @@ perspective: >-
   ![](/media/performance.jpg)
 
 
-  In [Orange organizations](../orange-paradigm-and-organizations/), performance management is focused on the achievement of objectives and goals. Individuals are held to account by measuring (and rating) their performance against "stretch" targets set by management. Innovation and achievement are highly valued with outcomes measured through metrics (where possible). Feedback is a top-down process, focused on job performance and designed to encourage greater results.
+  在[橙色组织](../orange-paradigm-and-organizations/)中，绩效管理的重点是实现目的和目标。每个人都要根据管理层设定的“努力延伸”目标来衡量（并评级）自己的表现。高度重视创新和可定量评估的成功结果。反馈是一个自上而下的过程，关注工作绩效，目的是鼓励人们取得更大的成果。
 
 
   #### **Green organizations**
