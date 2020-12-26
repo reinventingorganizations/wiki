@@ -5,27 +5,18 @@ key: Innovation and Product Development
 name: 创新与产品开发
 sortOrder: 2
 category: Important Processes
-intro: >-
-  This topic, Innovation and Product Development, describes how advances and
-  improvements occur in Teal organizations.
-
+intro: |-
+  本主题“创新与产品开发”描述了蔚蓝组织如何取得进步和改进。
 
   ![](/media/complicated.jpg)
 perspective: >-
-  *One of Orange’s shadows is “innovation gone mad.” With most of our basic
-  needs taken care of, businesses increasingly try to create needs, feeding the
-  illusion that more stuff we don’t really need— more possessions, the latest
-  fashion, a more youthful body— will make us happy and whole. We increasingly
-  come to see that much of this economy based on fabricated needs is
-  unsustainable from a financial and ecological perspective. We have reached a
-  stage where we often pursue growth for growth’s sake, a condition that in
-  medical terminology would simply be called cancer.* ^\[Laloux, Frederic
-  (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations
-  Inspired by the Next Stage of Human Consciousness (Kindle Locations 837-841).
-  Nelson Parker. Kindle Edition.]
+  橙色的缺点之一是“创新狂热”。随着我们大多数基本需求得到满足，企业越发试图创造需求，给人一种错觉，认为多多益善（贪婪）：企业出于利益追求而洗脑消费者，告诉人们说得到更多其实并不必须的东西，就会让我们快乐和完整，比如—更多的财产、最新的时尚、更年轻的身体。我们逐渐开始认识到，从金融和生态的角度来看，这种建立在虚假需求基础上的经济，大部分是不可持续的，也无法带给人持续的快乐。我们已经到了一个，常常为了增长而追求增长的阶段，这种情况在医学术语中被简单地称为癌症。^\[Laloux,
+  Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating
+  Organizations Inspired by the Next Stage of Human Consciousness (Kindle
+  Locations 837-841). Nelson Parker. Kindle Edition.]
 
 
-  For [Teal organizations](../teal-paradigm-and-organizations/), the impetus for innovation stems from an organization’s [evolutionary purpose](../evolutionary-purpose/). The concept of innovation expands beyond benefit to the organization and is not approached through the traditional lenses of profit and competition. To evaluate if an innovation is worthwhile, Teal uses a wide range of evidence of beauty, creativity and ultimately service to the organization's purpose and therefore to society.
+  对于[蔚蓝组织](../teal-paradigm-and-organizations/), the impetus for innovation stems from an organization’s [evolutionary purpose](../evolutionary-purpose/). The concept of innovation expands beyond benefit to the organization and is not approached through the traditional lenses of profit and competition. To evaluate if an innovation is worthwhile, Teal uses a wide range of evidence of beauty, creativity and ultimately service to the organization's purpose and therefore to society.
 
 
   For more on innovation and product development in earlier stage organizations:
