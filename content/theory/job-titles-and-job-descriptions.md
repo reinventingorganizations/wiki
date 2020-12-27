@@ -30,10 +30,10 @@ perspective: >-
   [橙色组织](../orange-paradigm-and-organizations/)也有组织结构图，明确的职称和工作描述。精英制的价值在于有能力的任何个人都有晋升机会。不鼓励人们“认准自己的位置”并甘心固定在某个预定的岗位。每个职位都会有一个工作描述和职称，以反映成员在组织中的地位。工作描述的定义过程更加灵活，重点可能放在最终结果而不是职责上。职称在这些组织中很重要，因为它描述了工作人员的职责范围和地位。
 
 
-  #### **Green organizations**
+  #### **绿色组织**
 
 
-  [Green Organizations ](../green-paradigm-and-organizations/)also have a hierarchical approach, but are more likely to talk about roles than jobs. Areas of responsibility are defined through the organization charts. Decision making is pushed down to front-line workers who can often make significant  decisions without management approval. Jobs and roles are likely to be more generic and fluid, leaving a degree of freedom in how they are carried out. Titles are less important and employees are often referred to as citizens or family members. Job descriptions refer to external and internal stakeholders and stress the importance of relationship management. The HR team play a key role in describing jobs so that they fit the values and purpose of the organization. 
+  [绿色组织](../green-paradigm-and-organizations/)also have a hierarchical approach, but are more likely to talk about roles than jobs. Areas of responsibility are defined through the organization charts. Decision making is pushed down to front-line workers who can often make significant  decisions without management approval. Jobs and roles are likely to be more generic and fluid, leaving a degree of freedom in how they are carried out. Titles are less important and employees are often referred to as citizens or family members. Job descriptions refer to external and internal stakeholders and stress the importance of relationship management. The HR team play a key role in describing jobs so that they fit the values and purpose of the organization. 
 
 
   #### **Teal organizations**
