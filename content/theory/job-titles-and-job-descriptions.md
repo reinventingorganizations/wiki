@@ -36,10 +36,10 @@ perspective: >-
   [绿色组织](../green-paradigm-and-organizations/)也遵循等级制度，但更倾向于注重角色而不是工作本身。职责范围通过组织结构图确定。决策权被推到了一线成员身上，他们往往可以在没有管理层批准的情况下做出重大决策。工作和岗位角色可能更加通用和多变，在如何执行方面留有一定的自由度。职称不那么重要，成员通常被称为公民或家人员。工作描述会涉及到外部和内部利益相关者，强调关系管理的重要性。人力资源团队起关键作用，负责描述工作并令其符合组织的价值观和目标。
 
 
-  #### **Teal organizations**
+  #### **蔚蓝组织**
 
 
-  in [Teal organizations](../teal-paradigm-and-organizations/) jobs are defined by people rather than the organization.: Jobs emerge from a multitude of roles and responsibilities that reflect the interests, talents, and the needs of the organization. There are often no job titles or job descriptions. If job descriptions they do exist, they tend to be short, describing a set of accountabilities to the team and/or each other. In some Teal organizations titles are used to denote role and function, in others there are no titles at all. People typically have the option to switch and trade roles according to workload and preferences.  By focusing on what needs to happen rather than jobs, Teal organizations are often more adaptable and responsive increasing their capacity to operate as a living system.
+  在[蔚蓝组织](../teal-paradigm-and-organizations/)通常没有职称或工作职位描述。即使有工作描述，也往往很简短，只是用来描述对团队和/或彼此的一系列责任承诺。在一些蔚蓝组织中，职称是用来表示角色和职能的，而在另一些中则根本没有头衔或职称。人们通常可以根据工作量和个人偏好自主选择切换和交换角色。
 inPractice: >-
   #### **Granular roles vs. defined jobs**
 
