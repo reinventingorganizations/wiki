@@ -18,10 +18,10 @@ perspective: >-
   [红色组织](../red-organizations/)的本质特征是在人际关系中不断行使权力。总的来说，没有正式的结构化层次构架，尽管可能有明确的角色划分，但没有职称头衔或正式的工作描述。酋长必须表现出压倒性的权力，并让其他人为保住位置而屈从于他的意志。酋长为了创造相对稳定的状态，一般让家人（往往更忠诚）环绕在自己周围，并通过分享战利品来换取他们的忠诚。每一个近卫队员也各自照顾自己的部下，并保证他们服从。
 
 
-  #### **Amber organizations**
+  #### **琥珀组织**
 
 
-  [Amber Organizations](../amber-paradigm-and-organizations/) bring stability to power with formal titles, well -defined hierarchies and organization charts. The overall structure is a ‘pyramid’, with a cascade of formal reporting lines from top managers or leaders to subordinates. Clear rules stipulate who can do what. Job descriptions and titles are set by the senior leaders to create homogeneity across the organisation. . Many schools, churches, and the Civil Service operate this way today with standardized job descriptions and pay bands. The advantage of this approach is that it enables organisations to achieve on a significant scale. In the process it provides stability and certainty for those employed.
+  [琥珀组织](../amber-paradigm-and-organizations/) bring stability to power with formal titles, well -defined hierarchies and organization charts. The overall structure is a ‘pyramid’, with a cascade of formal reporting lines from top managers or leaders to subordinates. Clear rules stipulate who can do what. Job descriptions and titles are set by the senior leaders to create homogeneity across the organisation. . Many schools, churches, and the Civil Service operate this way today with standardized job descriptions and pay bands. The advantage of this approach is that it enables organisations to achieve on a significant scale. In the process it provides stability and certainty for those employed.
 
 
   #### **Orange organizations**
