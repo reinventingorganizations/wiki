@@ -73,11 +73,11 @@ inPractice: >-
 
   * 会议开始时，由每个参议会者轮流分享一个最近自创或感到自豪的简洁故事。([法维](http://www.favi.com/)) 
 
-  * Coming back to work from a day off (which included the task of expressing gratitude to somebody important in one's life), and sharing the experience with colleagues. ([Ozvision](http://ozvision.com/))
+  * 从一日休假归来出勤时（包括用于对某个生命中重要人士去表达感恩的休假），与同事们分享该体验。([Ozvision](http://ozvision.com/))
 
-  * The Friday afternoon “praise meeting” in a school: sharing stories of kindness, courage, care, or professionalism as key to the school’s exceptional learning culture. ([ESBZ](http://www.ev-schule-zentrum.de/aktuell/))
+  * 学校的周五赞赏例会：分享关于好意、勇气、关怀、或职业化的故事，这些都是该学校打造独特学习文化的关键要素。 ([ESBZ](http://www.ev-schule-zentrum.de/aktuell/))
 
-  * The “Good Stuff Friday” e-mail: Started by one of the colleagues and sent to the entire workforce thanking a colleague or department for something that happened that week, or simply to share some good news. It invariably triggers an avalanche of recognition. ([BerylHealth](http://www.berylhealth.com/))
+  * 好员工邮件：某个同事发给全体成员的分享邮件，内容是针对本周发生的一件事而感激某个同事或部门，或单纯分享某些好消息。这确定无疑能引起一场感恩的雪崩。这是正能量启动与传递、递增原理。 ([BerylHealth](http://www.berylhealth.com/))
 
 
   ##### *Wholeness Events*
