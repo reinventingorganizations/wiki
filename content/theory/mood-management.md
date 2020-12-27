@@ -89,10 +89,10 @@ inPractice: >-
   虽然传统组织也能支持各种团建或类似目的的活动，一般由人力资源或CEO主持。不过，在 [蔚蓝组织](../teal-paradigm-and-organizations/)内这些活动通常自然呈现于组织本身。当人们感觉到安全就开始主动发起各种活动，这些自创造自组织的活动就好像在自然发生。在心灵深处，我们都渴望活在自己完整的人性中：既包括有趣和独特的癖好，也包括那些严肃而负责的特性。人性的连接感就会在这些空间中萌芽并茁壮。
 
 
-  Wholeness Events can be all kinds of things, like:
+  完整人性活动可以应有尽有，比如：
 
 
-  * The self-organized “Art Salon” where everyone is invited to share an artistic passion. Some display photographs and paintings. Others perform (songs, dances, juggling ...), and so on. If people really enjoy themselves, these can become regular institutions. ([Sounds True](http://www.soundstrue.com/)) 
+  * 自组织的艺术沙龙，每个人都可以应邀参与，分享对艺术的热衷。有的展示照片和绘画。有的则表演节目（歌，舞，杂耍...）,等。如果人们真能玩得开怀，这就可以成为常规小组或活动。 ([桑楚](http://www.soundstrue.com/)) 
 
   * Fun at breakfast by showing up in pajamas to celebrate spring: so much fun was had at the premiere of this that now 90% of staff join in the annual self-organized “Pajama Day”. It is a celebration of community, fun, and getting to know colleagues in a completely different way. ([Sounds True](http://www.soundstrue.com/))
 faq:
