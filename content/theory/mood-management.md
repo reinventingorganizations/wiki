@@ -56,10 +56,10 @@ inPractice: >-
   两者虽然也都可以用在传统金字塔阶梯系统内：但那都不是根基于自我管理结构。在蔚蓝组织内，这些都自然而然的来源于其成员的灵感及其[共享价值观](../culture-and-values/)。这些方法会自然出现，找到其合适的位置，被广泛的接纳并珍视。个体与集体和谐时，创造力会得到最大化。
 
 
-  ##### *Storytelling*
+  ##### *讲故事*
 
 
-  The stories people tell themselves and others reflect and reinforce mood. They convey memorable instances of shared values at work. What mood do we wish to share, and celebrate? Playfulness? Concentration? Prudence? Joy? Pride? Care? Gratitude? Curiosity? Determination? If we are self-managed, this selection is likely to be different for different people.
+  人们通过讲给自己和他人的故事，能够投射并强化情绪氛围。故事能在工作中传递共识价值观的记忆场景。我们希望分享并欢迎何种情绪？游戏化？聚焦？谨慎？喜悦？傲慢？关怀？感恩？好奇心？勇气？如果我们实施自我管理，不同个体对这些的选择会各有不同。
 
 
   Gratitude is one of the most powerful moods. We are satisfied. We drop our search for more. In this moment, we feel fulfilled. From that fullness, other emotions naturally emerge. We experience joy and generosity; we treat others with care. To nurture this consciously we need to discover and/or design practices that evoke gratitude, or related moods.
