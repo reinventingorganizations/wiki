@@ -83,10 +83,10 @@ inPractice: >-
   ##### *培育完整人性的活动*
 
 
-  Moods are also created by shared experiences: especially if they are filled with laughter, joy, fun, creativity, a feeling of trust, authenticity, belonging, acceptance and recognition.
+  共同体验也有助于打造情绪氛围：特别是那些充满欢声笑语、喜悦、有趣、有创造性、充满信任感、主权感、归属感、接纳感和被赏识认可的体验。
 
 
-  Traditional organizations may sponsor events, too - typically by HR or the CEO, for team building or similar. However, in a [Teal organization](../teal-paradigm-and-organizations/) they usually emerge out of the organization itself. When people feel safe enough to take the initiative, it seems that these self-created and organized events emerge spontaneously. We long, deep inside, to be in all of our humanity: the funny and the quirky, as well as the serious and responsible.  Human connections emerge from these places.
+  虽然传统组织也能支持各种团建或类似目的的活动，一般由人力资源或CEO主持。不过，在 [蔚蓝组织](../teal-paradigm-and-organizations/) they usually emerge out of the organization itself. When people feel safe enough to take the initiative, it seems that these self-created and organized events emerge spontaneously. We long, deep inside, to be in all of our humanity: the funny and the quirky, as well as the serious and responsible.  Human connections emerge from these places.
 
 
   Wholeness Events can be all kinds of things, like:
