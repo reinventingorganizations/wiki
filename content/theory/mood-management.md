@@ -68,10 +68,10 @@ inPractice: >-
   我们可以提问：我们要分享什么故事，才能用来催化那些带给我们最大益处的情绪？[蔚蓝组织](../teal-paradigm-and-organizations/)可以打造一些讲故事方式的实践活动，来支撑并推广赞赏感恩情绪，同时也能增强同事间的信任。
 
 
-  Storytelling practices take many forms:
+  讲故事活动可以有多种方式：
 
 
-  * Starting meetings with each participant in turn sharing a brief story of someone they had recently thanked or congratulated. ([FAVI](http://www.favi.com/)) 
+  * 会议开始时，由每个参议会者轮流分享一个最近自创或感到自豪的简洁故事。([法维](http://www.favi.com/)) 
 
   * Coming back to work from a day off (which included the task of expressing gratitude to somebody important in one's life), and sharing the experience with colleagues. ([Ozvision](http://ozvision.com/))
 
