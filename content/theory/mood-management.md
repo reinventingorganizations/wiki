@@ -34,12 +34,12 @@ perspective: >-
   在[绿色组织](../green-paradigm-and-organizations/)中，和谐、宽容和平等受到重视。最受重视的是团队和社区健康。组织的目的是为了提高成员的积极性和动力。人力资源部会通过文化倡议、360度反馈和员工满意度调查等流程努力运作。开始有意识地关注情绪侧面。通常尝试尽可能满足所有利益相关者的需求（或情绪）。
 
 
-  #### Teal organizations
+  #### 蔚蓝组织
 
 
-  * Mood Management is seen as integral and crucial to the creation of a space in which the intended outcomes can be achieved and the purpose of the organization served.
+  * 蔚蓝组织认为情绪管理是融合剂，有助于打造良好的职场空间，能带来期待的产出成果，服务于组织目标。
 
-  * In [Teal organizations ](../teal-paradigm-and-organizations/)the combination of worthwhile purpose, self-direction and collaboration contributes to elevated mood.
+  * 在[蔚蓝组织](../teal-paradigm-and-organizations/)the combination of worthwhile purpose, self-direction and collaboration contributes to elevated mood.
 
   * There is no HR function charged with 'mood management'. It is up to individuals and groups to develop practices that enable them to work harmoniously.
 
