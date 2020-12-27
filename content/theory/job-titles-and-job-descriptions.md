@@ -12,10 +12,10 @@ perspective: >-
   组织在每一个历史阶段都产生了对职称和工作描述的不同看法，以及截然不同的做法：
 
 
-  #### **Red organizations**
+  #### **红色组织**
 
 
-  The defining characteristic of [Red Organizations ](../red-organizations/)is the continuous exercise of power in interpersonal relationships. Overall, there is no formal structured hierarchy and there are no job titles or formalized job descriptions, although maybe clearly delineated roles. The chief must demonstrate overwhelming power and bend others to his will to stay in position. To provide some stability, the chief surrounds himself with family members (who tend to be more loyal) and buys their allegiance by sharing the spoils. Each member of his close guard in turn looks after his own people and keeps them in line.
+  [红色组织](../red-organizations/)的本质特征是在人际关系中不断行使权力。总的来说，没有正式的结构化层次构架，尽管可能有明确的角色划分，但没有职称头衔或正式的工作描述。酋长必须表现出压倒性的权力，并让其他人为保住位置而屈从于他的意志。酋长为了创造相对稳定的状态，一般让家人（往往更忠诚）环绕在自己周围，并通过分享战利品来换取他们的忠诚。每一个近卫队员也各自照顾自己的部下，并保证他们服从。
 
 
   #### **Amber organizations**
