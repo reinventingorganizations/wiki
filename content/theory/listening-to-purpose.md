@@ -12,10 +12,10 @@ intro: >-
   此章的背景文档是进化目标，其中已经详细描绘过，蔚蓝组织的一个决定性特点是，决策和行动的动力和方向，都是达成组织目标的愿望。蔚蓝组织的目标会与时俱进的变化，与利益最大化和打败竞争对手这样的传统目标完全不同。如果我们承认，一个有目标的组织，具有其本身的成长能量和方向感，并且其成员的任务就是跟随组织的真正方向而不是刻意去引导它，那么问题是，“我们如何知道组织想去哪里？”这个提问引出一个蔚蓝组织的关键流程，经常被称为聆听目标。
 perspective: ""
 inPractice: >-
-  #### Sensing Approaches
+  #### 努力去感知（直觉而非思考）
 
 
-  The simplest answer to finding out where an organization wants to go: do nothing special. Let self-management work its magic. There is a word that often comes up with Teal pioneers: sensing. We are all natural sensors; we are gifted to notice when something isn’t working as well as it could or when a new opportunity opens up. With self-management, everybody can be a sensor and initiate changes— just as in a living organism every cell senses its environment and can alert the organism to needed change. We cannot stop sensing. Sensing happens everywhere, all the time, but in traditional organizations, the information often gets filtered out. Only the signals sensed at the top are acted upon, but unfortunately these signals are often distorted and far removed from reality on the ground. Holacracy’s Brian Robertson uses a powerful analogy to talk about organizations filtering people’s ability to sense their environment:
+  如何去发现一个组织的方向，最简单的回答是：无为。让自我管理机制创造奇迹。关于蔚蓝流程经常会出现一个词语：感知。我们都是自然的传感器。我们都有天赋，能感知到某件事是否有进展，或感知到一个新机遇。（与高次元意识的沟通--直觉）。在自我管理流程下，每个人都可以做感知器，去初始化一些改变--正如生命器官中每个细胞都能感受环境并将改变需求报告给器官。我们无法停止感知。感知无处无时不在，但在传统组织内，信息一般会被滤掉。只有那些在金字塔顶被感知到的讯号，才有机会得到反应和行动（靠塔顶的智慧而非集体智慧）。但不幸的是，这些讯号经常会在传达中被高度扭曲或偏离现场真相。霍尔的布莱恩使用一个有力的比喻来谈论传统组织如何过滤人们感知环境的能力：
 
 
   > *A transformative experience \[happened happened] for me when I nearly crashed an airplane. I was a student pilot, and shortly into a solo flight my “Low Voltage” light came on. Every other instrument was telling me “all is well,” so I ignored it, just like we do in organizational life all the time, when one lone “instrument” (a human) senses something that no one else does. Ignoring a key instrument proved to be a very bad decision when flying an airplane and helped catalyze my search for organizational approaches that didn’t suffer from the same blindness— how can an organization fully harness each of us \[as as] human instruments, without “outvoting the low-voltage light”?*^\[Laloux, Frederic (2014-02-09) Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4383-4394). Nelson Parker. Kindle Edition.]
