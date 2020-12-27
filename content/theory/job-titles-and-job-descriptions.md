@@ -5,18 +5,11 @@ key: Job Titles and Job Descriptions
 name: 职称与工作描述
 sortOrder: 5
 category: People practices
-intro: The topic of job titles and job descriptions includes the process of how
-  roles and responsibilities are defined and by whom, how they evolve and how
-  they are formalized within the organization.
+intro: 职称与工作描述的主题包括，如何定义岗位角色和职责、由谁定义、如何演变、如何组织内得到正式认可的流程。
 perspective: >-
-  In [Teal organizations](../teal-paradigm-and-organizations/) jobs are defined
-  by people rather than the organization.: They emerge from a multitude of roles
-  and responsibilities that reflect the interests, talents, and the needs of the
-  organization. By focusing on what needs to happen rather than jobs, Teal
-  organizations are often more adaptable and responsive increasing their
-  capacity to operate as a living system.
+  在[蔚蓝组织](../teal-paradigm-and-organizations/)中，工作不是由组织来定义，而是由成员自己来定义：工作在许多能反映组织的利益、才能和需求的角色与责任中自然产生。通过专注于需要发生的事情而不是定义好的工作，蔚蓝组织往往更具适应性和响应能力，提高了作为一个仿生系统运作的能力。
 
-  Every historical stage has given birth to a distinct perspective on job titles and job descriptions, and to very different practices:
+  组织在每一个历史阶段都产生了对职称和工作描述的不同看法，以及截然不同的做法：
 
 
   #### **Red organizations**
