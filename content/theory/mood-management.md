@@ -7,14 +7,13 @@ sortOrder: 9
 category: Daily practices
 intro: 情绪氛围直接影响潜力和可能性。情绪管理这一章概述了不同组织内如何处理情绪课题，如何找到很多做法，激励那些能带来期待产出的情绪，以及这些做法的实践效果。
 perspective: >-
-  Every historical stage has a distinct perspective on mood management, and
-  different practices:
+  人类组织在不同历史阶段，对情绪管理有不同见解和不同处理方式：
 
 
-  #### Red organizations
+  #### 红色组织
 
 
-  In [Red Organizations ](../red-organizations/)mood management boils down to submission to the mood of the (tribal) chief and his “family”. They oversee the foot soldiers. Fear and submission keep the organization from disintegrating. 
+  在[红色组织](../red-organizations/)mood management boils down to submission to the mood of the (tribal) chief and his “family”. They oversee the foot soldiers. Fear and submission keep the organization from disintegrating. 
 
 
   #### Amber organizations
