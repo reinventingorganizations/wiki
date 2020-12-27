@@ -56,7 +56,7 @@ inPractice: >-
   #### **身份与适应性**
 
 
-  Without a job title, it becomes that much harder for people to merge their identity with the position they hold. This fusion is commonplace today. When we believe our job is who we really are, we start thinking and behaving accordingly. Without job titles and job descriptions, we are more likely to see ourselves and others as human beings who simply put their energy into specific work for a period of time.
+  因为没有职称，所以人们很难将自己的身份与所担任的职位混同在一起。这种身份与职位的粘合在当今传统制造内是司空见惯的。当我们相信工作职称就是真正的自己时，就会开始相应地思考和行动（进入程序失去独特性）。没有职位头衔和职位描述，让我们更容易把自己和他人看作只是在暂时一段时间内把精力投入到某个具体工作中的一个活人。
 
 
   Anotherkey benefit of this approach is that people tend to choose (and be appointed to) roles that have a much better fit with their interests and talents. When people can’t turn to a job description to tell them what to do, they have to find their own unique way to fill a role with life and meaning.
