@@ -86,7 +86,7 @@ inPractice: >-
   共同体验也有助于打造情绪氛围：特别是那些充满欢声笑语、喜悦、有趣、有创造性、充满信任感、主权感、归属感、接纳感和被赏识认可的体验。
 
 
-  虽然传统组织也能支持各种团建或类似目的的活动，一般由人力资源或CEO主持。不过，在 [蔚蓝组织](../teal-paradigm-and-organizations/) they usually emerge out of the organization itself. When people feel safe enough to take the initiative, it seems that these self-created and organized events emerge spontaneously. We long, deep inside, to be in all of our humanity: the funny and the quirky, as well as the serious and responsible.  Human connections emerge from these places.
+  虽然传统组织也能支持各种团建或类似目的的活动，一般由人力资源或CEO主持。不过，在 [蔚蓝组织](../teal-paradigm-and-organizations/)内这些活动通常自然呈现于组织本身。当人们感觉到安全就开始主动发起各种活动，这些自创造自组织的活动就好像在自然发生。在心灵深处，我们都渴望活在自己完整的人性中：既包括有趣和独特的癖好，也包括那些严肃而负责的特性。人性的连接感就会在这些空间中萌芽并茁壮。
 
 
   Wholeness Events can be all kinds of things, like:
