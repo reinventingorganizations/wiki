@@ -5,10 +5,7 @@ key: Mood Management
 name: 情绪管理
 sortOrder: 9
 category: Daily practices
-intro: Moods influence possibilities. The topic of mood management summarizes
-  how moods are dealt with in different types of organizations, and how
-  important it is to find ways in which moods that are supportive of the
-  intended outcomes are encouraged
+intro: 情绪氛围直接影响潜力和可能性。情绪管理这一章概述了不同组织内如何处理情绪课题，如何找到很多做法，激励那些能带来期待产出的情绪，以及这些做法的实践效果。
 perspective: >-
   Every historical stage has a distinct perspective on mood management, and
   different practices:
