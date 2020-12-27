@@ -9,7 +9,7 @@ intro: >-
   ![](/media/listening-to-purpose.jpg)
 
 
-  As described more fully in the Background article, “Evolutionary Purpose”, one of the defining characteristics of Teal organizations is how decision-making and actions are driven by a desire to fulfill the organization’s purpose, a purpose which evolves over time and which is distinct from maximizing profits or beating the competition. If we accept that an organization has its own energy, its own sense of direction, and that its members’ roles are to align with rather than dictate that direction, the question becomes, “How do we find out where it wants to go?” As a result, a critical organizational process in Teal organizations is what is often referred to as “Listening to Purpose.”
+  此章的背景文档是进化目标，其中已经详细描绘过，蔚蓝组织的一个决定性特点是，决策和行动的动力和方向，都是达成组织目标的愿望。蔚蓝组织的目标会与时俱进的变化，与利益最大化和打败竞争对手这样的传统目标完全不同。如果我们承认，一个有目标的组织，具有其本身的成长能量和方向感，并且其成员的任务就是跟随组织的真正方向而不是刻意去引导它，那么问题是，“我们如何知道组织想去哪里？”这个提问引出一个蔚蓝组织的关键流程，经常被称为聆听目标。
 perspective: ""
 inPractice: >-
   #### Sensing Approaches
