@@ -28,10 +28,10 @@ perspective: >-
   在[橙色组织](../orange-paradigm-and-organizations/)中，重视有计划有效率的结果。通常用激励措施来实现这些组织成果。目的只是激励/奖励某些行为，但不一定激励这些行为内隐含的情感或情绪。
 
 
-  #### Green organizations
+  #### 绿色组织
 
 
-  In [Green organizations](../green-paradigm-and-organizations/) harmony, tolerance and equality are valued. Teams and their health are important. The purpose is to boost motivation. HR may operate via processes like culture initiatives, [360-degree feedback](https://en.wikipedia.org/wiki/360-degree_feedback) and employee satisfaction surveys. Now there is a conscious focus on mood appearing. There is often an effort to satisfy all stakeholder needs (or moods).
+  在[绿色组织](../green-paradigm-and-organizations/)中，和谐、宽容和平等受到重视。最受重视的是团队和社区健康。组织的目的是为了提高成员的积极性和动力。人力资源部会通过文化倡议、360度反馈和员工满意度调查等流程努力运作。开始有意识地关注情绪侧面。通常尝试尽可能满足所有利益相关者的需求（或情绪）。
 
 
   #### Teal organizations
