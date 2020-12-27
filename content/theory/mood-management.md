@@ -16,10 +16,10 @@ perspective: >-
   在[红色组织](../red-organizations/)mood management boils down to submission to the mood of the (tribal) chief and his “family”. They oversee the foot soldiers. Fear and submission keep the organization from disintegrating. 
 
 
-  #### Amber organizations
+  #### 琥珀组织
 
 
-  In [Amber organizations](../amber-paradigm-and-organizations/) the most senior 'knows' what is best for those lower in the hierarchy. These expectations are managed via roles and rules. Rewards are for those who follow the rules, and punishments for those who don’t. People may value this order and predictability.
+  在[琥珀组织](../amber-paradigm-and-organizations/) the most senior 'knows' what is best for those lower in the hierarchy. These expectations are managed via roles and rules. Rewards are for those who follow the rules, and punishments for those who don’t. People may value this order and predictability.
 
 
   #### Orange organizations
