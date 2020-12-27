@@ -21,7 +21,7 @@ perspective: >-
   #### **琥珀组织**
 
 
-  [琥珀组织](../amber-paradigm-and-organizations/) bring stability to power with formal titles, well -defined hierarchies and organization charts. The overall structure is a ‘pyramid’, with a cascade of formal reporting lines from top managers or leaders to subordinates. Clear rules stipulate who can do what. Job descriptions and titles are set by the senior leaders to create homogeneity across the organisation. . Many schools, churches, and the Civil Service operate this way today with standardized job descriptions and pay bands. The advantage of this approach is that it enables organisations to achieve on a significant scale. In the process it provides stability and certainty for those employed.
+  [琥珀组织](../amber-paradigm-and-organizations/)通过正式的头衔、明确的层次结构和组织结构图来稳定权力。整体结构是一个“金字塔”，从高层管理者或领导者到下属，都有一系列的正式上下级指挥关系。有明确的规则来规定谁可以做什么。职位描述和头衔由高级领导设定，以便在整个组织内保持统一性。当代的许多学校、教会和公务员都是这样运作的，都设有标准化的职位描述和工资等级。这种方法的优势在于，让组织能够比较有效的实现其目标。并在此过程中，为雇员提供稳定性和确定性。
 
 
   #### **Orange organizations**
