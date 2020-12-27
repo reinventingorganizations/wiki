@@ -36,19 +36,19 @@ inPractice: >-
   有一个简单、不那么深奥的做法，刻意用来倾听组织目标。就是在所有会议上分配一个空椅子，来代表组织人格和组织的进化目标。任何参加会议的人都可以在任何时候换座位坐在这把主席椅子上，负责倾听组织的声音并成为组织的代言人。空椅子可以明确的使用，也可以作为我们头脑中的指导声音。当你坐在这把椅子上的时候，可以沉思下面这些提问：
 
 
-  • Have the decisions and the discussion served you (the organization) well?
+  •这里的决策和讨论是否在为你（组织人格）服务？
 
 
-  • How are you at the end of this meeting?
+  • 会议结束时，你感觉如何？
 
 
-  • What stands out to you from today’s meeting?
+  • 今天的会议最让你印象深刻的是什么？
 
 
-  • In what direction do you want to go? At what speed? Are we being bold enough? Too bold?
+  • 你（组织人格）想往哪个方向走？以什么速度？我们足够大胆了吗？还是太大胆了？
 
 
-  • Is there something else that needs to be said or discussed?^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4432-4437). Nelson Parker. Kindle Edition.]
+  • 此外你还有什么需要说或讨论的吗？^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4432-4437). Nelson Parker. Kindle Edition.]
 
 
   Heiligenfeld, an operator of mental health facilities in Germany, uses a practice with a similar effect. As part of every meeting, someone is asked to volunteer to take possession of a pair of tingsha bells, two small hand cymbals that can make a beautiful, crystal-like sound. Whenever the person feels that ground rules are not being respected, or that the meeting is serving egos more than purpose, she can make the cymbals sing. The rule is that no one can speak until the last sound of the cymbal has died out— which takes a surprisingly long time. During the silence, participants are to reflect on the question: “Am I in service to the topic we are discussing and to the organization?” Colleagues are now so used to this practice that simply reaching out to the cymbals is all it takes to get a meeting back on track.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3595-3602). Nelson Parker. Kindle Edition.]
