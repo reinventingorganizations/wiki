@@ -94,7 +94,7 @@ inPractice: >-
 
   * 自组织的艺术沙龙，每个人都可以应邀参与，分享对艺术的热衷。有的展示照片和绘画。有的则表演节目（歌，舞，杂耍...）,等。如果人们真能玩得开怀，这就可以成为常规小组或活动。 ([桑楚](http://www.soundstrue.com/)) 
 
-  * Fun at breakfast by showing up in pajamas to celebrate spring: so much fun was had at the premiere of this that now 90% of staff join in the annual self-organized “Pajama Day”. It is a celebration of community, fun, and getting to know colleagues in a completely different way. ([Sounds True](http://www.soundstrue.com/))
+  * 早晨的娱乐小节，以穿着睡衣出现的方式庆祝春季到来：初次实施时异常有趣，乃至目前90%成员都加入了这个每年一次的自组织的睡衣日。这既是对社区的颂扬，又有趣，还能得到机会认识完全不同形态中的同事。([桑楚](http://www.soundstrue.com/))
 faq:
   - question: In a company we need to make money to thrive! So why should we bother
       with moods?
