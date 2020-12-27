@@ -128,4 +128,3 @@ relatedTheory:
   - Fundamental Assumptions
   - Listening to Purpose
 ---
-to be removed
