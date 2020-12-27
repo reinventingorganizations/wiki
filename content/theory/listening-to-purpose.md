@@ -60,13 +60,13 @@ inPractice: >-
   当这种空椅子技巧已经被常识性的应用于日常运作中后，在组织面对某个更重要的成长点时，还可以启用一套更高级的流程用来帮助更大范围的成员，快乐的聆听其组织的目标和方向感。这类高级流程包括，括奥托·沙尔默的“U理论”、大卫·库佩里德的“鉴赏性探究”、马文·魏斯堡和桑德拉·贾诺夫的“未来搜索”、“世界咖啡馆”、“解放构架”和哈里森·欧文的“开放空间”。
 
 
-  These processes are non-hierarchical and self-organizing. They often bring the “whole system” into the room: all colleagues of an organization, whether a few dozen, hundreds, or thousands, come together for a working session of one or several days. Clients, partners, and suppliers can be invited to join, to add their perspective to the inquiry. Each of these processes comes with its particular format, but they have one thing in common: they achieve the unlikely feat of giving everybody a voice (even when thousands of people are involved), while at the same time channeling these voices toward a valuable collective outcome.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4445-4454). Nelson Parker. Kindle Edition.]
+  这些流程都是非层次化的自组织运作。先驱者的经验是，经常把“整个系统”带进会议室：该组织的所有同事，不管是几十人、几百人还是几千人，都聚集在一起，进行为期一天或几天的工作会议。还可以邀请客户、协作伙伴和供应商加入，为这种探询添加有贡献的见解。每一个流程形式上各不相同，但有一个共同点：这些流程实现一个传统上不太可能的壮举，即让每个人都有发言权（即使有数千人参加），同时能将这些声音引导到一个有价值的集体成果上。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4445-4454). Nelson Parker. Kindle Edition.]
 
 
   #### Outside Prompting
 
 
-  Teal organizations seem to have found that when a company is clear about its purpose, the outside world comes knocking at its door with opportunities. Sometimes it feels as if it isn’t only people inside the organization sensing where it wants to go, but people from the outside, too. At Buurtzorg for example, by now, people from all sorts of backgrounds get in touch with Jos de Blok and others in the organization to explore ideas that could shape where Buurtzorg might go next. De Blok and his colleagues accept these meetings and listen with open minds. When the discussion seems promising, they set up experiments and see what happens. There are no committees, no stage-gate processes, no set budgets. It really is that simple: discussions take place and things evolve from there. The feeling is that what is meant to happen will happen.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4470-4478). Nelson Parker. Kindle Edition.]
+  蔚蓝组织似乎发现，当一家公司明确了自己的目标时，外部世界就会给它带来机会。有时候，感觉好像不仅仅是组织内部的人感觉到了它想去哪里，也包括来自外部的人（主权整体力量）。例如，在布尔佐格，到目前为止，来自各种背景的人，都会主动与发起人德布洛克以及该组织中的其他人取得联系，探讨可能影响布尔佐格下一步发展方向的想法。德布洛克和他的同事欢迎这些面谈，并以开放的心态倾听。当感觉到讨论结果很有希望时，就开始进行实验，看看会发生什么效果。没有委员会，没有关卡流程，没有固定的预算。其实就是这么简单：讨论会自然发生，事情就从那里开始发展。注定要发生的事情会发生的感觉。（道法自然无为而治）^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4470-4478). Nelson Parker. Kindle Edition.]
 faq:
   - question: How can we be sure the purpose is well known in the organization and
       that the decision-making process is based on it?
@@ -88,4 +88,3 @@ relatedTheory:
   - Self-Management
   - Strategy
 ---
-TO BE REMOVED
