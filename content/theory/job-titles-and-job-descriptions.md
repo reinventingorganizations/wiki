@@ -71,19 +71,19 @@ inPractice: >-
   在[蔚蓝组织](../teal-paradigm-and-organizations/)中，通常会有个被公认拥有最广泛视角的人，通常被称为CEO，至少在外界是这样称呼的（尽管他们不承担传统CEO同样的责任和权力）。一些定义良好的角色命名可以沿用。但对于绝大多数成员来说，人们不必费心去寻找一个标签来捕捉自己在某个时间点所担任的不同角色。在许多案例中，雇员或管理者等语言已经被完全省略，而用“同事”一词代替。
 
 
-  #### **Management tasks within roles**
+  #### **岗位内含的管理任务**
 
 
-  The traditional tasks of a manager - direction-setting, budgeting, analyzing, planning, organizing, measuring, controlling, recruiting, evaluating, and communicating - are distributed amongst various members of a team. People are not accountable to one manager but to their peers, every one of whom is a boss in some respect. Anybody can put on the hat of “the boss” to make important decisions, launch new initiatives, hold underperforming colleagues to account, help resolve conflicts, or take over leadership if results are bad and action is needed. Many Teal organizations have noticed that “management’ creeps back in if too many leadership tasks are taken on by any one individual. For this reason people typically have the freedom to change teams and attention is paid to how work is distributed. The flip side is that people are no longer forced to take on management roles that might not fit their talents in order to advance their careers.
+  管理者的传统任务——指导设置、预算编制、分析、计划、组织、测量、控制、招募、评估和沟通——都被分配给团队的各个成员。成员不再需要对一个经理负责，而只是对自己的同事负责，每个人在某些方面都是老板。任何人都可以戴上“老板”的帽子来做重要的决定，发起新的行动，向表现不佳的同事问责，帮助解决冲突，或者在成果不佳且需要采取行动时接管领导权。许多蔚蓝组织已经注意到，如果某个人承担了太多的领导任务，“管理”就会悄然复苏。为了回避这一点，组织允许成员可以自由地更换团队，以便将关注点放在如何分配工作的角度。另一方面，人们不再为了职业生涯而被迫承担可能不符合其才能的管理职位。
 
 
-  One of the difficulties, for those used to an Orange or Green organization, is that it is much harder to know where you fit. The absence of grades and job titles makes career development and salary progression much less certain. People in Teal organizations are generally much more comfortable managing their own progression.
+  对于那些习惯于橙色或绿色组织的人来说，转型时的一个困难是，很难找到自己到底适合哪里。因没有等级和职称，职业生涯和晋升以及加薪都变得不那么确定。蔚蓝组织中的人通常更愿意自主管理自己的升职和提薪。
 
 
-  #### **Knowing who is responsible for what**
+  #### **如何了解谁负责什么**
 
 
-  Outsiders, and sometimes even insiders, can find the absence of job descriptions and job titles confusing because it is less clear who is responsible for what.. For this reason some organizations keep a log on their intranet allowing people to  record the roles they are currently filling. This aids clarity and helps others understand their expertise.
+  没有职位描述和职称，经常让局外人，有时甚至是内部人，感到令人困惑，因为不太清楚谁负责什么。出于这个原因，一些组织在他们的内部网上建立了一个日志，允许人们记录自己当前正在担任的角色。这有助于清晰化当下角色，并帮助其他人了解自己的专业知识。
 faq:
   - question: Is there less management within an organization without job titles and
       job descriptions?
@@ -99,4 +99,3 @@ relatedTheory:
   - Recruitment
   - Decision Making
 ---
-to be removed
