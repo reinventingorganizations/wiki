@@ -53,7 +53,7 @@ inPractice: >-
   [蔚蓝组织](../teal-paradigm-and-organizations/)认识到，情绪氛围直接影响组织和成员的创造力和可能性；情绪会积累某些行为模式，并关闭其他可能性。在[自我管理](../self-management/)组织内，人们在重视主权单一运作的同时，还强调校准共同目标的协调运作。有各种共享式流程支撑这种协调运作。目标和路程有机组合，创造出一种共享的归属感、联盟感和潜力。这种力量感能支撑[创新](../innovation-and-product-development/)和发明创造。人们有各种想法时、能在同事中寻求支持，当这些想法带来成果时能共享自己想法得到更广泛认可的喜悦。这些成功会孕育出成功故事和更佳流程。这些与完整人性活动相结合，能增进组织内的情绪氛围。
 
 
-  Both may be used within hierarchical systems, too: they don’t depend on self-managing structures. But in Teal organizations they are more likely to arise from the inspiration of its members and their [shared values](../culture-and-values/). They may arise naturally, find their place, become openly adopted, and treasured.
+  两者虽然也都可以用在传统金字塔阶梯系统内：但那都不是根基于自我管理结构。在蔚蓝组织内，这些都自然而然的来源于其成员的灵感及其[共享价值观](../culture-and-values/)。这些方法会自然出现，找到其合适的位置，被广泛的接纳并珍视。个体与集体和谐时，创造力会得到最大化。
 
 
   ##### *Storytelling*
