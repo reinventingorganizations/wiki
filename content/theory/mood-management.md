@@ -43,14 +43,14 @@ perspective: >-
 
   * 不设置情绪氛围管理专用的人力资源功能模块。由成员和小组全权负责，共同打造能让自己和谐工作的流程。
 
-  * These practices may depart - sometimes radically - from traditional organizations. New recruits may find this difficult at first.
+  * 这些流程与传统组织做法大相径庭，新人最初可能会发现难于适应。
 
-  * The best practices tend to be adopted across the organization.
+  * 团队个别打造的一些被证明的最佳流程，会被整个组织接纳推广。
 inPractice: >-
-  #### The way mood management works
+  #### 情绪管理的运作方式
 
 
-  [Teal organizations](../teal-paradigm-and-organizations/) recognize that mood mediates what is possible; that it predisposes certain courses of action, and closes off others. In [self-managed](../self-management/) organizations people value both autonomy and collaboration in pursuit of purpose. The practice of shared processes supports this. Purpose and practice conspire to produce a sense of shared belonging, alignment and potency. This sense of potency supports [innovation](../innovation-and-product-development/). People have ideas, seek support from colleagues and, when they work, share the enjoyment of their wider acceptance. These successes give rise to stories and practices. These, combined with 'wholeness events' are two contributors to the mood in the organization.
+  [蔚蓝组织](../teal-paradigm-and-organizations/) recognize that mood mediates what is possible; that it predisposes certain courses of action, and closes off others. In [self-managed](../self-management/) organizations people value both autonomy and collaboration in pursuit of purpose. The practice of shared processes supports this. Purpose and practice conspire to produce a sense of shared belonging, alignment and potency. This sense of potency supports [innovation](../innovation-and-product-development/). People have ideas, seek support from colleagues and, when they work, share the enjoyment of their wider acceptance. These successes give rise to stories and practices. These, combined with 'wholeness events' are two contributors to the mood in the organization.
 
 
   Both may be used within hierarchical systems, too: they don’t depend on self-managing structures. But in Teal organizations they are more likely to arise from the inspiration of its members and their [shared values](../culture-and-values/). They may arise naturally, find their place, become openly adopted, and treasured.
