@@ -65,10 +65,10 @@ inPractice: >-
   #### **岗位范围与命名**
 
 
-  Not everyone is equal and all the jobs are not the same. Some roles have a rather narrow scope (say, the role of operating a certain machine or cleaning the office), while other roles take a broader perspective (for instance, the role of designing a new product line). The fluid arrangement of roles (instead of defined job descriptions) also allows for a better matching of talent with roles.
+  蔚蓝组织并不是每个人都平等，所有的工作也不一样。有些角色的范围相当窄（例如，操作某台机器或打扫办公室），而其他角色则具有更广阔的视角（例如，设计新产品线的角色）。流动性的安排角色（而不是按照预先定义的职位描述）也能提高人才与角色的匹配效果。
 
 
-  In [Teal organizations](../teal-paradigm-and-organizations/) there is usually one person recognized for taking the broadest perspective, and usually they are called the CEO, at least by the outside world (even though they don't hold the same responsibilities and power as a traditional CEO). Some well-defined roles can be named,. but for the vast majority of employees, people don’t bother trying to find a label to capture the different roles they hold at any one point in time. In many  The language of employee or staff is often dropped entirely and in some cases replaced with the word, "colleague".
+  在[蔚蓝组织](../teal-paradigm-and-organizations/)中，通常会有个被公认拥有最广泛视角的人，通常被称为CEO，至少在外界是这样称呼的（尽管他们不承担传统CEO同样的责任和权力）。一些定义良好的角色命名可以沿用。但对于绝大多数成员来说，人们不必费心去寻找一个标签来捕捉自己在某个时间点所担任的不同角色。在许多案例中，雇员或管理者等语言已经被完全省略，而用“同事”一词代替。
 
 
   #### **Management tasks within roles**
