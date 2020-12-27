@@ -59,10 +59,10 @@ inPractice: >-
   因为没有职称，所以人们很难将自己的身份与所担任的职位混同在一起。这种身份与职位的粘合在当今传统制造内是司空见惯的。当我们相信工作职称就是真正的自己时，就会开始相应地思考和行动（进入程序失去独特性）。没有职位头衔和职位描述，让我们更容易把自己和他人看作只是在暂时一段时间内把精力投入到某个具体工作中的一个活人。
 
 
-  Anotherkey benefit of this approach is that people tend to choose (and be appointed to) roles that have a much better fit with their interests and talents. When people can’t turn to a job description to tell them what to do, they have to find their own unique way to fill a role with life and meaning.
+  这种方法的另一个主要益处是，人们倾向于选择（并被任命）更符合自己兴趣和才能的角色。因为无法通过工作描述来告诉成员该做什么，他们就必须找到自己独特的方式去工作，这样会让这个角色充满生机和意义（避免被控制感）。
 
 
-  #### **Scope and naming of roles**
+  #### **岗位范围与命名**
 
 
   Not everyone is equal and all the jobs are not the same. Some roles have a rather narrow scope (say, the role of operating a certain machine or cleaning the office), while other roles take a broader perspective (for instance, the role of designing a new product line). The fluid arrangement of roles (instead of defined job descriptions) also allows for a better matching of talent with roles.
