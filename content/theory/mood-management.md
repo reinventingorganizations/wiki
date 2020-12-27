@@ -19,7 +19,7 @@ perspective: >-
   #### 琥珀组织
 
 
-  在[琥珀组织](../amber-paradigm-and-organizations/) the most senior 'knows' what is best for those lower in the hierarchy. These expectations are managed via roles and rules. Rewards are for those who follow the rules, and punishments for those who don’t. People may value this order and predictability.
+  [琥珀组织](../amber-paradigm-and-organizations/)认为只有最高层“知道”部下的最佳利益。通过角色和规则管理这些被强加的愿景。奖赏那些遵守规则的人，惩罚那些不遵守规则的人。人们很看重这种秩序和可预见性。
 
 
   #### Orange organizations
