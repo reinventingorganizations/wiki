@@ -24,10 +24,10 @@ perspective: >-
   [琥珀组织](../amber-paradigm-and-organizations/)通过正式的头衔、明确的层次结构和组织结构图来稳定权力。整体结构是一个“金字塔”，从高层管理者或领导者到下属，都有一系列的正式上下级指挥关系。有明确的规则来规定谁可以做什么。职位描述和头衔由高级领导设定，以便在整个组织内保持统一性。当代的许多学校、教会和公务员都是这样运作的，都设有标准化的职位描述和工资等级。这种方法的优势在于，让组织能够比较有效的实现其目标。并在此过程中，为雇员提供稳定性和确定性。
 
 
-  #### **Orange organizations**
+  #### **橙色组织**
 
 
-  [Orange Organizations ](../orange-paradigm-and-organizations/)also have organization charts, well-defined job titles and job descriptions. Meritocracy is valued allowing anybody to move up the ladder if they are able. People are not expected to ‘know their place’ and remain in a pre-destined role. Each position will have a job description and title to reflect their place in the organization. The process for defining a job description is more fluid, with the emphasis likely to be on end results rather than duties. Titles matter in these organisations because they describe both the area of responsibility of the jobholder and their status.
+  [橙色组织](../orange-paradigm-and-organizations/)也有组织结构图，明确的职称和工作描述。精英制的价值在于有能力的任何个人都有晋升机会。不鼓励人们“认准自己的位置”并甘心固定在某个预定的岗位。每个职位都会有一个工作描述和职称，以反映成员在组织中的地位。工作描述的定义过程更加灵活，重点可能放在最终结果而不是职责上。职称在这些组织中很重要，因为它描述了工作人员的职责范围和地位。
 
 
   #### **Green organizations**
