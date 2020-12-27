@@ -33,7 +33,7 @@ perspective: >-
   #### **绿色组织**
 
 
-  [绿色组织](../green-paradigm-and-organizations/)also have a hierarchical approach, but are more likely to talk about roles than jobs. Areas of responsibility are defined through the organization charts. Decision making is pushed down to front-line workers who can often make significant  decisions without management approval. Jobs and roles are likely to be more generic and fluid, leaving a degree of freedom in how they are carried out. Titles are less important and employees are often referred to as citizens or family members. Job descriptions refer to external and internal stakeholders and stress the importance of relationship management. The HR team play a key role in describing jobs so that they fit the values and purpose of the organization. 
+  [绿色组织](../green-paradigm-and-organizations/)也遵循等级制度，但更倾向于注重角色而不是工作本身。职责范围通过组织结构图确定。决策权被推到了一线成员身上，他们往往可以在没有管理层批准的情况下做出重大决策。工作和岗位角色可能更加通用和多变，在如何执行方面留有一定的自由度。职称不那么重要，成员通常被称为公民或家人员。工作描述会涉及到外部和内部利益相关者，强调关系管理的重要性。人力资源团队起关键作用，负责描述工作并令其符合组织的价值观和目标。
 
 
   #### **Teal organizations**
