@@ -22,10 +22,10 @@ perspective: >-
   [琥珀组织](../amber-paradigm-and-organizations/)认为只有最高层“知道”部下的最佳利益。通过角色和规则管理这些被强加的愿景。奖赏那些遵守规则的人，惩罚那些不遵守规则的人。人们很看重这种秩序和可预见性。
 
 
-  #### Orange organizations
+  #### 橙色组织
 
 
-  In [Orange organizations](../orange-paradigm-and-organizations/) it's about planned and efficient outcomes. Incentives are commonly used to achieve these organizational outcomes. They are designed to motivate/reward certain kinds of action, but not necessarily the feelings, or moods, that go with them. 
+  在[橙色组织](../orange-paradigm-and-organizations/)中，重视有计划有效率的结果。通常用激励措施来实现这些组织成果。目的只是激励/奖励某些行为，但不一定激励这些行为内隐含的情感或情绪。
 
 
   #### Green organizations
