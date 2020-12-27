@@ -62,10 +62,10 @@ inPractice: >-
   人们通过讲给自己和他人的故事，能够投射并强化情绪氛围。故事能在工作中传递共识价值观的记忆场景。我们希望分享并欢迎何种情绪？游戏化？聚焦？谨慎？喜悦？傲慢？关怀？感恩？好奇心？勇气？如果我们实施自我管理，不同个体对这些的选择会各有不同。
 
 
-  Gratitude is one of the most powerful moods. We are satisfied. We drop our search for more. In this moment, we feel fulfilled. From that fullness, other emotions naturally emerge. We experience joy and generosity; we treat others with care. To nurture this consciously we need to discover and/or design practices that evoke gratitude, or related moods.
+  赞赏感恩是一种最有力量的情绪。我们得到满足感。我们放下追求更佳的贪婪。在这个当下，我们感觉到实现价值的喜悦。从这种完整感中（缺失感是传统情绪习惯），其他情绪会油然而生。我们会体验到喜悦和宽宏大量；我们会关怀其他人。为了有意识的滋养这种情绪，我们需要发现并（或）设计一些能催化赞赏感恩或类似情绪的流程和实践方法。（心之六美德，赞赏感恩，慈悲，理解，宽恕，谦卑，勇气）
 
 
-  We can ask: What stories can we share that evoke the mood that serves us best? In this fashion, [Teal organizations](../teal-paradigm-and-organizations/) may create storytelling practices that support and expand the mood of appreciation while strengthening trust among the members.
+  我们可以提问：我们要分享什么故事，才能用来催化那些带给我们最大益处的情绪？[蔚蓝组织](../teal-paradigm-and-organizations/)可以打造一些讲故事方式的实践活动，来支撑并推广赞赏感恩情绪，同时也能增强同事间的信任。
 
 
   Storytelling practices take many forms:
