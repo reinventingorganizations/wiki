@@ -41,13 +41,13 @@ perspective: >-
 
   在[蔚蓝组织](../teal-paradigm-and-organizations/)通常没有职称或工作职位描述。即使有工作描述，也往往很简短，只是用来描述对团队和/或彼此的一系列责任承诺。在一些蔚蓝组织中，职称是用来表示角色和职能的，而在另一些中则根本没有头衔或职称。人们通常可以根据工作量和个人偏好自主选择切换和交换角色。
 inPractice: >-
-  #### **Granular roles vs. defined jobs**
+  #### **颗粒状岗位与预定义的工作**
 
 
-  In Teal organizations most people no longer have a single “job” that fits a generic description; instead, they fill a unique combination of roles.
+  在蔚蓝组织中，大多数人不再固定于带有一般描述的单一“工作”；而是充当复数的独特角色。
 
 
-  Job titles and descriptions rarely do justice to unique combinations of roles, and they are also too static to account for the fluid nature of work in Teal organizations. Colleagues frequently switch and trade roles according to workload and preferences.
+  职称和工作描述，无法恰如其分地反映这类独特的角色组合，这些传统的定义太静态，无法用来对应蔚蓝组织中的工作流动性。同事们经常根据工作量和喜好交换角色。
 
 
   Thinking in terms of granular roles instead of predefined jobs creates great fluidity and adaptability. People can give up one role and take up another without needing to go through the cumbersome and often political processes of appointment, promotion, and salary negotiation.
