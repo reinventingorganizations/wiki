@@ -51,13 +51,13 @@ inPractice: >-
   • 此外你还有什么需要说或讨论的吗？^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4432-4437). Nelson Parker. Kindle Edition.]
 
 
-  Heiligenfeld, an operator of mental health facilities in Germany, uses a practice with a similar effect. As part of every meeting, someone is asked to volunteer to take possession of a pair of tingsha bells, two small hand cymbals that can make a beautiful, crystal-like sound. Whenever the person feels that ground rules are not being respected, or that the meeting is serving egos more than purpose, she can make the cymbals sing. The rule is that no one can speak until the last sound of the cymbal has died out— which takes a surprisingly long time. During the silence, participants are to reflect on the question: “Am I in service to the topic we are discussing and to the organization?” Colleagues are now so used to this practice that simply reaching out to the cymbals is all it takes to get a meeting back on track.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3595-3602). Nelson Parker. Kindle Edition.]
+  德国精神卫生机构的运营商海利根费尔德也采用了类似效果的做法。每次开会时，都会有人自愿带上一对丁沙钟，两个小手钹，可以发出美妙晶莹的声音。每当一个人觉得基本规则没有得到尊重，或者会议服务于人格的自我而不是组织目的时，她可以响铃。并制定规则，在最后一丝钹音结束之前，任何人都不能说--静候余音彻底消失，往往需要令人惊讶的漫长时间。在静默中，与会者要反思一个问题：“我的言行是否在为我们正在讨论的主题和组织目标服务？“现在，同事们已经习惯了这种做法，只要伸手敲钹，就能让会议重回正轨。”（避免脾气和人格驱动的白热化跑题争论）^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3595-3602). Nelson Parker. Kindle Edition.]
 
 
-  #### Large Group Processes
+  #### 组织全体流程
 
 
-  While the empty chair is typically used on a day-to-day basis, when an organization faces a major inflection point, there are a number of more elaborate processes that can help large groups of people to listen in jointly to their organization’s purpose and sense of direction. These processes include Otto Scharmer’s “Theory U,” David Cooperrider’s “Appreciative Inquiry,” Marvin Weisbord and Sandra Janoff’s “Future Search,” “World Café,” "Liberating Structures" and Harrison Owen’s “Open Space.”
+  当这种空椅子技巧已经被常识性的应用于日常运作中后，在组织面对某个更重要的成长点时，还可以启用一套更高级的流程用来帮助更大范围的成员，快乐的聆听其组织的目标和方向感。这类高级流程包括，括奥托·沙尔默的“U理论”、大卫·库佩里德的“鉴赏性探究”、马文·魏斯堡和桑德拉·贾诺夫的“未来搜索”、“世界咖啡馆”、“解放构架”和哈里森·欧文的“开放空间”。
 
 
   These processes are non-hierarchical and self-organizing. They often bring the “whole system” into the room: all colleagues of an organization, whether a few dozen, hundreds, or thousands, come together for a working session of one or several days. Clients, partners, and suppliers can be invited to join, to add their perspective to the inquiry. Each of these processes comes with its particular format, but they have one thing in common: they achieve the unlikely feat of giving everybody a voice (even when thousands of people are involved), while at the same time channeling these voices toward a valuable collective outcome.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4445-4454). Nelson Parker. Kindle Edition.]
