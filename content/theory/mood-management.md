@@ -80,7 +80,7 @@ inPractice: >-
   * 好员工邮件：某个同事发给全体成员的分享邮件，内容是针对本周发生的一件事而感激某个同事或部门，或单纯分享某些好消息。这确定无疑能引起一场感恩的雪崩。这是正能量启动与传递、递增原理。 ([BerylHealth](http://www.berylhealth.com/))
 
 
-  ##### *Wholeness Events*
+  ##### *培育完整人性的活动*
 
 
   Moods are also created by shared experiences: especially if they are filled with laughter, joy, fun, creativity, a feeling of trust, authenticity, belonging, acceptance and recognition.
