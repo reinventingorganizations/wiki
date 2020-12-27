@@ -21,19 +21,19 @@ inPractice: >-
   > 发生在我身上的一次变革的“偶然”经历，是当我差点撞毁一架飞机的时刻发生的。当时我是一名学生飞行员，在单飞不久，“低电压”灯亮了。所有其他的仪表都在告诉我“一切都很好”，所以我忽略了它。就像我们在组织生活中，当一个单独的“仪表”（一个成员）感觉到一些其他人没有经历过的事情而提醒时，一般会因不理解而被忽略（进而失去回避困境的机会）。事实证明，在驾驶飞机时，忽视一个关键的仪表是一个非常糟糕的决定。这个经历有助于促进我寻找恰当的组织方法，不再因同样的盲目性而体验困境——一个组织，该如何充分重视利用每个成员的感应器仪表，而不“忽略那个低压灯”？^\[Laloux, Frederic (2014-02-09) Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4383-4394). Nelson Parker. Kindle Edition.]
 
 
-  For an example of how this might work in practice, see “Concrete Examples for Inspiration - Buurtzorg” below.
+  关于在实践中如何运作，请参阅下面的“启发性实践案例-布尔佐格”。
 
 
-  Brian goes on to say, “… getting clear on purpose is more like detective work than like creative work. What you are looking for is already there, waiting to be found— it is no more a decision than your child’s purpose is. Simply ask yourself: “On the basis of our current context and the resources, talents, and capacities at our disposal, the products or services we offer, the history of the company and its market space, and so on, what’s the deepest potential it can help create or manifest in the world? Why does the world need it?”^\[Robertson, Brian J. (2015-06-02). Holacracy: The New Management System for a Rapidly Changing World (Kindle Locations 482-485). Henry Holt and Co.. Kindle Edition.]
+  布莱恩接着说，“……清晰的理解目标的意图，这个过程更像是侦探型工作，而不是创造性作业。你在寻找的东西已经在那里，等待着被发现——这正如你孩子的人生目的，不属于你自由意志的决策范畴。单纯的问问自己：“根据我们目前的环境以及所拥有的资源、人才和能力，所提供的产品或服务，公司的历史和市场空间等素材，自己的组织能帮助创造或在世界上表现出的最深层潜力是什么？为什么世界需要这个组织？”^\[Robertson, Brian J. (2015-06-02). Holacracy: The New Management System for a Rapidly Changing World (Kindle Locations 482-485). Henry Holt and Co.. Kindle Edition.]
 
 
-  While people are naturally gifted sensors, we can increase our capacity to sense with practice. Meditative or spiritual practices, in particular, can help us distance ourselves from self-centered needs and tap into broader sources of wisdom.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4411-4413). Nelson Parker. Kindle Edition.] For an example of how this might work in practice, see “Concrete Examples for Inspiration - Sounds True” below.
+  虽然个人生来就是个天赋的传感器，但我们可以通过练习进一步提其高感知能力。尤其是冥想或精神实践（心之六美德等灵性实践），可以帮助我们远离以自我为中心的需求，挖掘更广泛的智慧源泉。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4411-4413). Nelson Parker. Kindle Edition.] 关于在实践中如何运作，请参阅下面的“启发性实践案例-桑楚”。
 
 
-  #### The Empty Chair
+  #### 主席位的空椅子
 
 
-  A simple, less esoteric practice to listen in to an organization’s purpose consists of allocating an empty chair at any meeting to represent the organization and its evolutionary purpose. Anybody participating in the meeting can, at any time, change seats, to listen to and become the voice of the organization. The empty chair can be used explicitly or as a guiding voice in our heads. Here are some questions one might tune into while sitting in that chair:
+  有一个简单、不那么深奥的做法，刻意用来倾听组织目标。就是在所有会议上分配一个空椅子，来代表组织人格和组织的进化目标。任何参加会议的人都可以在任何时候换座位坐在这把主席椅子上，负责倾听组织的声音并成为组织的代言人。空椅子可以明确的使用，也可以作为我们头脑中的指导声音。当你坐在这把椅子上的时候，可以沉思下面这些提问：
 
 
   • Have the decisions and the discussion served you (the organization) well?
