@@ -39,7 +39,7 @@ perspective: >-
 
   * 蔚蓝组织认为情绪管理是融合剂，有助于打造良好的职场空间，能带来期待的产出成果，服务于组织目标。
 
-  * 在[蔚蓝组织](../teal-paradigm-and-organizations/)the combination of worthwhile purpose, self-direction and collaboration contributes to elevated mood.
+  * 在[蔚蓝组织](../teal-paradigm-and-organizations/)把成员对目标价值的兴趣，促进自我导向和团结协作等要素组合起来，致力于提升情绪氛围。
 
   * There is no HR function charged with 'mood management'. It is up to individuals and groups to develop practices that enable them to work harmoniously.
 
