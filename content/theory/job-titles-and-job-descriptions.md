@@ -41,7 +41,7 @@ perspective: >-
 
   在[蔚蓝组织](../teal-paradigm-and-organizations/)通常没有职称或工作职位描述。即使有工作描述，也往往很简短，只是用来描述对团队和/或彼此的一系列责任承诺。在一些蔚蓝组织中，职称是用来表示角色和职能的，而在另一些中则根本没有头衔或职称。人们通常可以根据工作量和个人偏好自主选择切换和交换角色。
 inPractice: >-
-  #### **颗粒状岗位与预定义的工作**
+  #### **颗粒状岗位取代预定义的工作**
 
 
   在蔚蓝组织中，大多数人不再固定于带有一般描述的单一“工作”；而是充当复数的独特角色。
@@ -50,10 +50,10 @@ inPractice: >-
   职称和工作描述，无法恰如其分地反映这类独特的角色组合，这些传统的定义太静态，无法用来对应蔚蓝组织中的工作流动性。同事们经常根据工作量和喜好交换角色。
 
 
-  Thinking in terms of granular roles instead of predefined jobs creates great fluidity and adaptability. People can give up one role and take up another without needing to go through the cumbersome and often political processes of appointment, promotion, and salary negotiation.
+  用颗粒角色而不是预先定义好的工作描述来思考，能带来很大的流动性和适应性。人们无需经历繁琐的、通常是政治性的任命、晋升和薪资谈判过程，就可以放弃一个角色，转而从事另一个角色。
 
 
-  #### **Identity & Fit**
+  #### **身份与适应性**
 
 
   Without a job title, it becomes that much harder for people to merge their identity with the position they hold. This fusion is commonplace today. When we believe our job is who we really are, we start thinking and behaving accordingly. Without job titles and job descriptions, we are more likely to see ourselves and others as human beings who simply put their energy into specific work for a period of time.
