@@ -41,7 +41,7 @@ perspective: >-
 
   * 在[蔚蓝组织](../teal-paradigm-and-organizations/)把成员对目标价值的兴趣，促进自我导向和团结协作等要素组合起来，致力于提升情绪氛围。
 
-  * There is no HR function charged with 'mood management'. It is up to individuals and groups to develop practices that enable them to work harmoniously.
+  * 不设置情绪氛围管理专用的人力资源功能模块。由成员和小组全权负责，共同打造能让自己和谐工作的流程。
 
   * These practices may depart - sometimes radically - from traditional organizations. New recruits may find this difficult at first.
 
