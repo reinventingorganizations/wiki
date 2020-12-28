@@ -25,7 +25,7 @@ perspective: >-
   ### 琥珀组织
 
 
-  在[琥珀组织](../amber-paradigm-and-organizations/), safety comes from following established rules and processes (which are much more stable than the changing whims of Red bosses). In Amber organizations, employment is thought to be life-long, and much of people's social life revolves around the organization. Punishment no longer entails physical violence, but can entail salary deductions, a reduction in rank and privileges, and dismissal. Dismissal therefore comes with a double threat: that of losing one's identity and that of being expelled from the social fabric one is embedded in. Leaving an Amber organization is often a painful and scary process, similar to shedding an old life, known and safe, and having to reinvent a new one. (In short: safety from violence).
+  在[琥珀组织](../amber-paradigm-and-organizations/)中，安全来自于遵循既定的规则和流程（这些规则和流程比红色模式中老板那不断变化的突发奇想要稳定得多）。在琥珀组织中，就业以终身制为主，成员的大部分社会生活都围绕着这个组织。惩罚不再意味着肉体上的暴力，而是可以扣除工资、降低职级和特权以及解雇。因此，解雇伴随着双重威胁：失去身份并被逐出所属的社会结构。离开一个琥珀色的组织通常是一个痛苦和可怕的过程，类似于放弃一个熟悉而安全的旧人生，而重新开始新的人生。（简言之：回避暴力的安全感）
 
 
   ### Orange organizations
