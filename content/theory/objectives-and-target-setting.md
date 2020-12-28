@@ -31,10 +31,10 @@ perspective: >-
   在[琥珀组织](../amber-paradigm-and-organizations/)中，目标是由高级管理层设定的。来自下级的唯一输入是技术或操作信息。这些技术和信息有时是作为其工作本分上报，有时是为了回复上级的信息索求。实现这些目标的计划以指令形式向下级发布，目标包含在指令之内。成员与最高管理层几乎没有直接的接触机会，即使一线成员根据对基层情况的经验/知识，认为或建议应该采取不同的行动，也还是要遵守指令，没有机会提出。
 
 
-  #### **Orange Organizations**
+  #### **橙色组织**
 
 
-  [Orange organizations](../Orange_Organizations) formalize the process of strategic planning, setting vision, mission, values and objectives as part of a formal planning process and through the lens of the organization as a machine. This starts at the Board and Executive level followed up with business units, teams or departments. These lower levels are expected to develop their own strategic plans aligned with the corporate vision, mission and objectives.
+  [橙色组织](../Orange_Organizations)将战略规划流程正规化了，将愿景、使命、价值观和目标设定，定义为正式规划流程的有机部分，并通过组织作为一台机器来层层过滤并实施。从董事会和执行层出发，下发到事业部、团队或部门。然后责成各下级阶层的成员进而制定符合公司愿景、使命和目标的局部战略计划。
 
 
   Targets are hence set at the various levels to achieve the objectives as part of a move from the ‘command and control’ of [Amber ](../amber-paradigm-and-organizations/)to one of ‘predict and control’. Top management formulates the overall direction and strategy and this is cascaded through the organization as targets, goals and objectives. Managers and staff are given freedom to use their creativity to achieve these objectives and may be offered incentives to do so. When aligned well, middle management, and to some extent lower levels, have the freedom to determine how they will achieve their objectives. When not thoughtfully aligned this approach can lead to gaming of targets, with teams sometimes working against each other to achieve their own goals.
