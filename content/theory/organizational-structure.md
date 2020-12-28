@@ -73,13 +73,16 @@ inPractice: >-
   3. 嵌套团队（圈子） 
 
 
-  These structures are not mutually exclusive, and some organizations exhibit a mixture of these types.
+  这些结构并不是相互排斥的，有些组织是这些类型的混合体。
 
 
   ![](/media/parallel_teams-medium.png)
 
 
-  This is the most common structure found to date in Teal organizations.^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 319.]Examples would include Buurtzorg (geographic teams) and FAVI (client teams) (see “Concrete examples for inspiration” below). This model is highly suitable when work can be broken down in ways that teams have a high degree of autonomy, without too much need for coordination across teams. They can then work side by side. In this model, it is within the team that colleagues define their roles and the mutual commitments they make to each other. Teams also typically handle their own recruitment, planning, establish their investment needs, devise a budget (if a budget is needed), track their financial and non-financial results, and so on.
+  图中文字：适合于价值链很短的大规模组织：零售，服务企业，部分制造业，学校，医院，公共服务等。
+
+
+  这是迄今为止在蔚蓝组织中最常见的结构。^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 319.]Examples would include Buurtzorg (geographic teams) and FAVI (client teams) (see “Concrete examples for inspiration” below). This model is highly suitable when work can be broken down in ways that teams have a high degree of autonomy, without too much need for coordination across teams. They can then work side by side. In this model, it is within the team that colleagues define their roles and the mutual commitments they make to each other. Teams also typically handle their own recruitment, planning, establish their investment needs, devise a budget (if a budget is needed), track their financial and non-financial results, and so on.
 
 
   In an ideal situation, each team is fully autonomous and performing all tasks from start to finish. When that is the case, every single person in the organization has the satisfaction of seeing the entire organization’s purpose come to life, and not just a small slice of it as is often the case in large specialized organizations. In practice, there will often be a need for some people or teams who take on coordinating or supporting roles with a more narrow focus:
