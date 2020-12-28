@@ -54,23 +54,23 @@ inPractice: >-
   在传统的等级制度中，权力集中在上层，以自上而下的方式行使：老板可以批准或否决下属的决定。在蔚蓝组织中，权力是分散的：每个感觉到问题或机遇的人都可以采取措施，利用组织对当前主题的集体智慧（流程），启动一个[决策过程](../decision-making/)。这些方法——有时被称为“建议过程”——并不是全体一致的共识决策（而是某个体站出来代表集体做出决策，这是典型的主权积分体运作方式），共识决策是对自我管理结构的一种普遍误解。
 
 
-  ##### *Natural hierarchies*
+  ##### *自然的分层结构*
 
 
-  A common misconception about self-management is that everyone is "equal" and should have equal say in decisions. In reality, when traditional hierarchies are gone, lots of natural and fluid hierarchies blossom―hierarchies of development, skill, talent, expertise, and recognition. On every issue, some colleagues will have more expertise than others, more passion, or more willingness to help. Decision rights and influence flow to those who have the expertise or willingness to contribute. Fluid, natural hierarchies replace the fixed power layers of the pyramid. A person’s influence depends on her talent, interest, skills, and the confidence of her colleagues. It is no longer determined by her position in the organization chart.
+  关于自我管理的另一个常见误解是，认为是每个人都是“平等的”，在决策中应该有平等的发言权。事实上，当传统的等级制度不复存在时，许多自然的和流动的自然分层结构就会开花——一种基于发展、技能、才能、专长和认可加权的等级制度。在每一个问题上，会有某些同事比其他人更有专业知识、激情、或者更愿意出力。决策权和影响力自然流向这些拥有专业知识或愿意作出贡献的人。流动的、自然的等级制度取代了金字塔的固定权力分层。一个人的影响力取决于其才能、兴趣、技能和同事的信任。不再由个体在组织结构图中的等级位来强制决定或固定化各个成员的权力和影响力。
 
 
-  #### Archetypes of structure
+  #### 结构原型
 
 
-  Self-managing organizations adopt different forms to fit the context in which they operate. There seem to be three broad types of self-managing structures that have emerged so far: 
+  自我管理的组织采用不同的形式来适应其独特的运作环境。到目前为止，似乎已经出现了三种类型的自我管理结构：
 
 
-  1. Parallel teams 
+  1. 平行团队
 
-  2. Web of individual contracting
+  2. 个人承包网
 
-  3. Nested circles 
+  3. 嵌套团队（圈子） 
 
 
   These structures are not mutually exclusive, and some organizations exhibit a mixture of these types.
