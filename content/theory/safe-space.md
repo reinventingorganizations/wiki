@@ -60,10 +60,10 @@ inPractice: >-
   [蔚蓝组织 ](../teal-paradigm-and-organizations/)已经意识到，当员工们来职场时，如果将如此大量的真实人性关在门外，随之而去的还有大量的激情、创造力和生命力与精力。所以蔚蓝真正致力于创造一个安全的环境，一个安心空间，让员工觉得自己可以安全地展示[完整人性](../wholeness/)。
 
 
-  ### Establishing ground rules
+  ### 确立基本规则
 
 
-  Creating safe workplaces starts with raising everybody’s awareness of the mindsets, words and actions that create or encourage a safe working environment. Some organizations find it is important to write a document that spells out detailed ground rules for how people interact within the organization. Such a document speaks of the kind of words and actions that are encouraged, and the kind of words and actions that are considered unacceptable, as well as the underlying assumptions and mindsets. One can view such detailed ground rules as taking the shared values that many organizations define, to the next level: if these are our values, what kind of behaviors do we want to encourage and which declare unacceptable?
+  创建安全的职场，首先要提高每个人的觉性，致力于共同创造或支撑安全工作环境的心态、言行。一些组织发现，编写一份用于详细说明组织内人员如何互动的基本规则文档，非常重要。这样的文件，定义了要鼓励的言行，和认为不可接受的言行，以及各种潜在的假设和心态。可以说，这些详细的基本规则，是将许多组织所定义的共同价值观提升到了下一个层次：如果这些是我们的价值观，那我们希望鼓励什么样的行为，哪些行为是不可接受的？（执行标尺）
 
 
   Historically, many spiritual and wisdom traditions have elaborated rich traditions to create safe space—places that overcome fear and separation and invite into non-judgment and wholeness. Many contemporary thinkers have adapted or reinvented  similar principles and practices to create safe space within organizational realms, for instance in the space of organizational facilitation. Teal organizations often spend significant time training everyone in their ground rules, for example as part of a new colleague's [onboarding](../onboarding/), so that the ground holds are, as much as possible, upheld by everyone, without the need of a facilitator to enforce them.
