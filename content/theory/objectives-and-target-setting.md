@@ -28,7 +28,7 @@ perspective: >-
   #### **琥珀组织**
 
 
-  在[琥珀组织](../amber-paradigm-and-organizations/) objectives are set by senior management. The only input from lower levels is technical or operational information, either as part of their jobs or by special request from above. The roll-out of the plans to achieve these objectives are in the form of directives to lower levels, with targets as part of the directives. Employees have little direct contact with top management, and are expected to follow orders, even if their experience / knowledge of local conditions suggest different actions.
+  在[琥珀组织](../amber-paradigm-and-organizations/)中，目标是由高级管理层设定的。来自下级的唯一输入是技术或操作信息。这些技术和信息有时是作为其工作本分上报，有时是为了回复上级的信息索求。实现这些目标的计划以指令形式向下级发布，目标包含在指令之内。成员与最高管理层几乎没有直接的接触机会，即使一线成员根据对基层情况的经验/知识，认为或建议应该采取不同的行动，也还是要遵守指令，没有机会提出。
 
 
   #### **Orange Organizations**
