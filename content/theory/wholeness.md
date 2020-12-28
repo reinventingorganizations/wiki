@@ -30,7 +30,7 @@ inPractice: >-
   ### 自我管理
 
 
-  Self-management goes a long way toward helping us show up more fully. With no scarce promotions to fight for, no bosses to please, and no adversaries to elbow aside, much of the political poison is drained out of organizations. Without a boss looking over our shoulder, without employees to keep in line and peers that could turn into competitors, we can finally let our guard down and simply focus on the work we want to do.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3144-3147). Nelson Parker. Kindle Edition.]
+  自我管理是个漫长的旅途，可以帮助我们奔向更完整展示自我的境界。这时我们不再需要争夺那些珍稀的升职机会，不再需要讨好上司，不再有那么多需要鞠躬的对象，大多数办公室政治的毒草都会被从组织内摒弃。不再有上司在背后监视，不再有需要排队晋升的职员群体，不再有随时会成为竞争对手的同僚，我们终于可以放下各种警惕，而单纯聚焦在工作上，去做自己喜欢的事。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3144-3147). Nelson Parker. Kindle Edition.]
 
 
   ### Safe and supportive environment
