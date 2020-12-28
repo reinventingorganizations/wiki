@@ -52,7 +52,7 @@ perspective: >-
   可以用仿生或生物化系统来比喻的[蔚蓝组织](../teal-paradigm-and-organizations/)，围绕着明确的目标组织活动，但目标（使命）并不是由最高管理层来设定。蔚蓝的目标是一个由组织所有成员共享的自我进化性内容。
 
 
-  与蔚蓝组织的目标相匹配的计划，都基于“感知和响应”，聚焦于寻找可行解决方案的敏捷方法。这种适应性过程类似于敏捷原型启动和 [[软件开发](https://en.wikipedia.org/wiki/Agile_software_development%7Cagile)] 原理. Decision-making is carried out within a framework of organization-wide values and balanced through an [advice process](../decision-making/). Strategy emerges organically from the interaction of employees with the Teal organizational environment. Self-managing employees may set objectives for themselves, or a team may decide on an objective, e.g. faster turnaround time, but there are no sales, efficiency or other targets. The process of seeking advice from colleagues and specialists before committing to a project or change ensures that all aspects, including financial responsibility, is taken into consideration. Part of the value system is that no single member or group of members may put the organization at risk with ill-considered or selfish actions or projects.
+  与蔚蓝组织的目标相匹配的计划，都基于“感知和响应”，聚焦于寻找可行解决方案的敏捷方法。这种适应性过程类似于敏捷原型启动和 [[软件开发](https://en.wikipedia.org/wiki/Agile_software_development%7Cagile)] 原理。决策在整个组织的价值观框架内做出，并通过一个[建议流程](../decision-making/)获得公众协调。战略是成员与组织环境互动的有机产物。自我管理的成员可以为自己设定目标，单元团队也会决定一些目标，比如更快的周转时间，但不会设定销售、效率或其他角度的绩效目标。在立项或内容变更之前，致力于征求同事和专家的意见（蔚蓝称之为建议流程）以确保能涵盖包括财务责任在内的所有方面的要素。组织共识的价值观包括，任何一个成员或一组成员，都不能因为考虑不周或出于私利的行为或项目，而置组织于危险之中。
 inPractice: >-
   #### **The problem with objectives**
 
