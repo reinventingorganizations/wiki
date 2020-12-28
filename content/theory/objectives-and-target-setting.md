@@ -98,7 +98,7 @@ inPractice: >-
   蔚蓝进化型组织内，最接近于目标设定概念的是投资流程。大多数组织都有一个年度投资流程，每个团队都会为下一年制定投资计划。这些计划被简单合计起来，如果超过了整体可用/可访问的资源，团队必须审查并调整自己的计划。无论作为年度计划的一部分的投资，还是特殊的情景投资，团队都要自行筹集外部资金，或自行与其他团队进行内部协商，调拨资金或资源。
 
 
-  也有一些蔚蓝进化型组织设有组织范围内的目标，或者也许可以叫做指导方针。例如，总部位于荷兰的医疗保健组织 [布尔佐格](http://www.buurtzorgnederland.com/), the Netherlands-based health care organization, has a target for billable hours of 60 - 65% for their mature teams.
+  也有一些蔚蓝进化型组织设有组织范围内的目标，或者也许可以叫做指导方针。例如，总部位于荷兰的医疗保健组织 [布尔佐格](http://www.buurtzorgnederland.com/)为其成熟团队制定了60-65%的降低工时收费的努力目标。
 
 
   #### **Team determined targets**
