@@ -22,7 +22,7 @@ perspective: >-
   #### **红色组织**
 
 
-  [红色组织](../red-organizations/) are characterized by opportunistic and often reactive behaviors. Rather than being a formal process, objectives and target setting is an inherent aspect of protecting and/or expanding one's power base.
+  [红色组织](../red-organizations/)的特点是机会主义和频繁的反应性行为。目标和指标设定不是个正式的流程，而是基于保护和/或扩大权力的内在驱动。
 
 
   #### **Amber Organizations**
