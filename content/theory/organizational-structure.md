@@ -13,16 +13,16 @@ perspective: >-
   ## 新视角
 
 
-  All organizations prior to Teal were structured as pyramids for a simple reason: it is a natural consequence of the boss-subordinate relationship. In self-managed organizations, peer commitments replace the boss-subordinate relationship, and the pyramid disappears. Authority is distributed, and work is conducted by decentralized, self-managing teams or networks. The static hierarchy of the pyramid gives way to fluid natural hierarchies, where influence flows to people who have the most expertise, passion or interest. Freed from the rigidity and sluggishness of a command and control structure, Teal organizations can be more responsive and more energized. They are “emergent”: the behavior of the organization ‘emerges’ from the actions of teams and individuals.^[Teal organizations can be thought of as an example of a “complex adaptive system”: a "complex macroscopic collection" of relatively "similar and partially connected micro-structures" formed in order to adapt to the changing environment and increase its survivability as a macro-structure. They are complex in that they are dynamic networks of interactions, and their relationships are not aggregations of the individual static entities. They are adaptive in that the individual and collective behaviors mutate and self-organize corresponding to the change-initiating micro-event or collection of events." Source: Complex Adaptive Systems, Wikipedia, <http://en.wikipedia.org/wiki/Complex_adaptive_system>]
+  蔚蓝组织之前所有阶段的组织都是金字塔结构，原因很简单：这是老板-下属关系的自然结果。在自我管理的组织中，同侪承诺取代了上司与下属的关系，金字塔消失了。权力是分散的，工作由分布式的、自我管理的团队或网络来完成。金字塔的静态等级制度让位给了流动的自然等级制度，在此，影响力流向了最有专业知识、激情或兴趣的人。蔚蓝组织摆脱了指挥和控制结构的僵化和迟钝，可以更迅速地作出反应，更加充满活力。各种反应“道法自然”的发生：组织的整体行为从团队和个人的行为中自然“出现”。^\[Teal organizations can be thought of as an example of a “complex adaptive system”: a "complex macroscopic collection" of relatively "similar and partially connected micro-structures" formed in order to adapt to the changing environment and increase its survivability as a macro-structure. They are complex in that they are dynamic networks of interactions, and their relationships are not aggregations of the individual static entities. They are adaptive in that the individual and collective behaviors mutate and self-organize corresponding to the change-initiating micro-event or collection of events." Source: Complex Adaptive Systems, Wikipedia, <http://en.wikipedia.org/wiki/Complex_adaptive_system>]
 
 
-  The following describes organizational structure in earlier stages:
+  下面介绍蔚蓝之前的组织结构：
 
 
-  #### Red organizations
+  #### 红色组织
 
 
-  In the [Red paradigm](../red-organizations/), organizations are structured around a strong leader who, largely through fear, exercises power over others. There is little formal hierarchy, and Red organizations rely largely on the chief’s ability to keep all its members in line, rather like wolves in a pack around the alpha male.
+  在[红色模式](../red-organizations/)中，组织围绕着一个强大的领导者构建，这个领导者主要是出于恐惧而对其他人行使权力。没有什么正式的等级制度，红色组织在很大程度上依赖于首领的能力让所有成员保持一致，就像群狼围绕着头狼。
 
 
   #### Amber organizations
