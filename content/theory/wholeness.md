@@ -45,7 +45,7 @@ inPractice: >-
   蔚蓝组织投入大量的时间和能量培训所有人遵循一些基本规则，这些基本规则用来支撑健康而高效的协作。很多组织还书写了这些规则的文档。比如，RHD有详尽的“责权清单”；晨星有“组织愿景”，“同事守则”，“商务哲学通则”；法维有“词条”；霍尔有“宪法”。这些文档有为安全安心高效办公环境提供了一种愿景。这些文档为员工提供了一种用来探讨健康人际关系的语言，同时划线分割了推荐行为和不可接受行为。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3358-3362). Nelson Parker. Kindle Edition.]
 
 
-  ### Reflective spaces
+  ### 反思空间
 
 
   Wisdom traditions insist on the need for regular silence and reflection to quiet the mind and let truth emerge from a deeper part of ourselves. An increasing number of people pick up contemplative practices— meditation, prayer, yoga, walking in nature— and integrate these into their daily lives. Many Teal organizations have set up a quiet room somewhere in the office, and others have put meditation and yoga classes in place. This practice opens up space for individual reflection and mindfulness in the middle of busy days. A number of them go a step further: they also create collective moments for self-reflection through practices such as group coaching, team supervision, large-group reflections, and days of silence. ^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3378-3384). Nelson Parker. Kindle Edition.]
