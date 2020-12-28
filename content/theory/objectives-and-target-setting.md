@@ -25,10 +25,10 @@ perspective: >-
   [红色组织](../red-organizations/)的特点是机会主义和频繁的反应性行为。目标和指标设定不是个正式的流程，而是基于保护和/或扩大权力的内在驱动。
 
 
-  #### **Amber Organizations**
+  #### **琥珀组织**
 
 
-  In [Amber organizations](../amber-paradigm-and-organizations/) objectives are set by senior management. The only input from lower levels is technical or operational information, either as part of their jobs or by special request from above. The roll-out of the plans to achieve these objectives are in the form of directives to lower levels, with targets as part of the directives. Employees have little direct contact with top management, and are expected to follow orders, even if their experience / knowledge of local conditions suggest different actions.
+  在[琥珀组织](../amber-paradigm-and-organizations/) objectives are set by senior management. The only input from lower levels is technical or operational information, either as part of their jobs or by special request from above. The roll-out of the plans to achieve these objectives are in the form of directives to lower levels, with targets as part of the directives. Employees have little direct contact with top management, and are expected to follow orders, even if their experience / knowledge of local conditions suggest different actions.
 
 
   #### **Orange Organizations**
