@@ -62,13 +62,13 @@ inPractice: >-
   ### 会议
 
 
-  蔚蓝组织一般都打造出特殊的会议形态，能帮助参会者抑制自己的虚荣心和自大人格，进而达到在一个完整人性层面的协调协作。这些做法有的很简洁，有的很高级。在桑楚公司，每个会议都开始于一分钟静默，帮助人们将自己拉回当下。很多蔚蓝组织的会议，在开始和结束时设置一个报入和报出动作。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3573-3577). Nelson Parker. Kindle Edition.] 参见[会议](../meetings/)
+  蔚蓝组织一般都打造出特殊的会议形态，能帮助参会者抑制自己的虚荣心和自大人格，进而达到在一个完整人性层面的协调协作。这些做法有的很简洁，有的很高级。在桑楚公司，每个会议都开始于一分钟静默，帮助人们将自己拉回当下。很多蔚蓝组织的会议，在开始和结束时设置一个报入和报出动作。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3573-3577). Nelson Parker. Kindle Edition.] 参见[会议](../meetings/)。
 
 
-  ### Managing Conflict
+  ### 冲突管理
 
 
-  It’s easy in our relationships with colleagues to fall prey to our desire to please or to impress, to be liked, or to dominate. We easily intrude on others or let them intrude on us. Our soul knows the right boundaries, and sometimes it tells us we need conflict to set them in the right place. Without conflict, we can be over-accommodating or over-protective, and in both cases, we stop being true to ourselves when interacting with colleagues. Teal organizations have developed specific practices to identify and resolve conflict.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3630-3634). Nelson Parker. Kindle Edition.] See [Conflict resolution](../conflict-resolution/).
+  在同事关系中，我们很容易被人性固有的一些欲望俘获，比如取悦，希望打动对方，希望对方喜欢自己，或掌控等。我们的自大人格很容易侵犯对方或被侵犯。但我们的灵魂知晓精准的界限，有时灵魂会昭示说，我们需要通过冲突将这些该有的界限复位。如果没有冲突，我们会陷入过度迎合或过度防卫，两者都导致我们无法在同事互动和人际关系中展示真实完整的自我。蔚蓝组织已经打造了一些用来识别并解决冲突的实践方法。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3630-3634). Nelson Parker. Kindle Edition.] See [Conflict resolution](../conflict-resolution/).
 
 
   ### Physical Spaces
