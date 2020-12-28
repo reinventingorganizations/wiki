@@ -25,10 +25,10 @@ perspective: >-
   在[红色模式](../red-organizations/)中，组织围绕着一个强大的领导者构建，这个领导者主要是出于恐惧而对其他人行使权力。没有什么正式的等级制度，红色组织在很大程度上依赖于首领的能力让所有成员保持一致，就像群狼围绕着头狼。
 
 
-  #### Amber organizations
+  #### 琥珀组织
 
 
-  In the [Amber paradigm](../amber-paradigm-and-organizations/),the organization chart with reporting lines appears, resulting in a hierarchical pyramid and a clear chain of command. People identify with job titles and their place in the hierarchy. Decisions are made at upper levels of the hierarchy while lower levels follow orders.
+  在[琥珀模式](../amber-paradigm-and-organizations/)the organization chart with reporting lines appears, resulting in a hierarchical pyramid and a clear chain of command. People identify with job titles and their place in the hierarchy. Decisions are made at upper levels of the hierarchy while lower levels follow orders.
 
 
   #### Orange organizations
