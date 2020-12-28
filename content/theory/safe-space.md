@@ -37,7 +37,7 @@ perspective: >-
   ### 绿色组织
 
 
-  在[绿色组织](../green-paradigm-and-organizations/), safety comes from a set of shared values and the knowing that one is considered as a person, not just a "human resource". When an individual or the organization hits a rough patch, employees trust that colleagues will rally to offer support. (In short: emotional safety).
+  在[绿色组织](../green-paradigm-and-organizations/)中，安全来自于一系列共同的价值观，以及每个人都被视为有生命的人，而不仅仅是“人力资源”。当个人或组织遇到困难时，员工相信同事会团结起来提供支持。（简而言之：情感安全）。
 
 
   ### Teal organizations
