@@ -45,7 +45,10 @@ perspective: >-
 
   [蔚蓝组织 ](../teal-paradigm-and-organizations/)的目标是打造一个能让自大人格放下戒备的安全空间，允许人们将完整人性代入职场。（简而言之：灵魂的安全）
 inPractice: >-
-  ### The importance of safe space
+  ## 实践中
+
+
+  ### 安全空间的重要性
 
 
   In most organizations—just like in most group settings outside of work—it can feel risky to show up whole. Almost everyone has learned in childhood that when we expose who we really are, the parts of ourselves we cherish most, we feel vulnerable with: we open ourselves to possible mockery and ridicule, or to have what we shared used against us. Much better, then, is to play it safe, to hide behind a professional mask, to show up in ways we know are accepted and expected in the work place.
