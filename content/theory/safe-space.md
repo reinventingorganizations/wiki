@@ -54,7 +54,7 @@ inPractice: >-
   在大多数传统组织以及工作之余的大多数群体环境中，个人一般会感觉到风险而不能尽情展示完整人性和真实自我。几乎每个人都在童年时期就知道，当我们暴露自己的真实面目，即自己最珍贵的部分时，我们就会感到脆弱：我们怕敞开心扉，可能受到嘲笑或看不惯，或者被敌意者用我们分享的内容来攻击我们。于是，更好的办法是稳妥行事，躲在职业的面具后面，只表演一个在职场可以被接受和期待的人格。
 
 
-  That safety comes at a cost: We cut ourselves from the richness of our humanity. In the workplace, the mask we feel we need to wear is often mental, rational, masculine, self-centered. We cut ourselves off from our emotions, our intuitions, our body, our feminine side. We don’t heed our inner voice, our longings, our calling, our soul. We neglect our capacity for connection and compassion, for love for ourselves, for others, and for all life that surrounds us. We might feel safe. But the cost is a life that often feels empty and strangely lifeless..
+  如此伪装人格获得安全是有代价的：我们把自己从丰富完整的人性中剥离出来。我们觉得在职场需要戴的面具往往是心理健康的、理性的、阳刚的、以自我为中心的。我们切断了自己的情感、直觉、身体、阴性侧面。我们不理会自己内心的声音，我们的渴望，我们的召唤，我们的灵魂。我们忽视了自己的沟通能力和同情心，和对自己、对他人以及对周围所有生命的爱。这样做可能会让我们感到安全。但代价是人生中常常感到空虚和毫无生机。
 
 
   [Teal organizations ](../teal-paradigm-and-organizations/)have come to the realization that when employees leave so much of who they are behind, they also leave a great amount of their passion, creativity and energy behind. They are mindful to create a setting of safety—a safe space—where employees feel they can safely show up in [wholeness](../wholeness/). 
