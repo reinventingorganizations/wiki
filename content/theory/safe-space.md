@@ -66,7 +66,7 @@ inPractice: >-
   创建安全的职场，首先要提高每个人的觉性，致力于共同创造或支撑安全工作环境的心态、言行。一些组织发现，编写一份用于详细说明组织内人员如何互动的基本规则文档，非常重要。这样的文件，定义了要鼓励的言行，和认为不可接受的言行，以及各种潜在的假设和心态。可以说，这些详细的基本规则，是将许多组织所定义的共同价值观提升到了下一个层次：如果这些是我们的价值观，那我们希望鼓励什么样的行为，哪些行为是不可接受的？（执行标尺）
 
 
-  Historically, many spiritual and wisdom traditions have elaborated rich traditions to create safe space—places that overcome fear and separation and invite into non-judgment and wholeness. Many contemporary thinkers have adapted or reinvented  similar principles and practices to create safe space within organizational realms, for instance in the space of organizational facilitation. Teal organizations often spend significant time training everyone in their ground rules, for example as part of a new colleague's [onboarding](../onboarding/), so that the ground holds are, as much as possible, upheld by everyone, without the need of a facilitator to enforce them.
+  历史上许多灵性和传统智慧都阐述了丰富的技巧，可以用来创造安全空间，克服恐惧和分离，并邀请个体进入不评判姿态，回归整体性（完整人性）。许多当代思想家也调整或重新发明了类似的原则和实践，可用于在组织范围内创造安全空间，例如支撑组织和谐建设的空间。蔚蓝组织通常会花大量时间培训每个成员，令其熟知并运用这些基本规则，例如作为新同事[入职](../onboarding/), so that the ground holds are, as much as possible, upheld by everyone, without the need of a facilitator to enforce them.
 
 
   Typical ground rules include
