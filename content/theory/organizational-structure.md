@@ -28,7 +28,7 @@ perspective: >-
   #### 琥珀组织
 
 
-  在[琥珀模式](../amber-paradigm-and-organizations/)the organization chart with reporting lines appears, resulting in a hierarchical pyramid and a clear chain of command. People identify with job titles and their place in the hierarchy. Decisions are made at upper levels of the hierarchy while lower levels follow orders.
+  在[琥珀模式](../amber-paradigm-and-organizations/)中，出现了有上下级关系的组织结构图，形成了层次金字塔和清晰的指令链条。人们认同职务头衔和他们在等级制度中的地位。决策由层次结构的上层做出，下层只是服从指令。
 
 
   #### Orange organizations
