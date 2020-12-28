@@ -5,33 +5,15 @@ key: Organizational Structure
 name: 组织结构
 sortOrder: 1
 category: Structure of an organization
-intro: >-
-  This article discusses the structures through which people coordinate work and
-  distribute power in Teal organizations.
-
+intro: |-
+  本文探讨蔚蓝组织中人们进行协作和权力分配的具体结构。
 
   ![](/media/2_058f-org-structure-medium-small.png)
 perspective: >-
-  All organizations prior to Teal were structured as pyramids for a simple
-  reason: it is a natural consequence of the boss-subordinate relationship. In
-  self-managed organizations, peer commitments replace the boss-subordinate
-  relationship, and the pyramid disappears. Authority is distributed, and work
-  is conducted by decentralized, self-managing teams or networks. The static
-  hierarchy of the pyramid gives way to fluid natural hierarchies, where
-  influence flows to people who have the most expertise, passion or interest.
-  Freed from the rigidity and sluggishness of a command and control structure,
-  Teal organizations can be more responsive and more energized. They are
-  “emergent”: the behavior of the organization ‘emerges’ from the actions of
-  teams and individuals.^\[Teal organizations can be thought of as an example of
-  a “complex adaptive system”: a "complex macroscopic collection" of relatively
-  "similar and partially connected micro-structures" formed in order to adapt to
-  the changing environment and increase its survivability as a macro-structure.
-  They are complex in that they are dynamic networks of interactions, and their
-  relationships are not aggregations of the individual static entities. They are
-  adaptive in that the individual and collective behaviors mutate and
-  self-organize corresponding to the change-initiating micro-event or collection
-  of events." Source: Complex Adaptive Systems, Wikipedia,
-  <http://en.wikipedia.org/wiki/Complex_adaptive_system>]
+  ## 新视角
+
+
+  All organizations prior to Teal were structured as pyramids for a simple reason: it is a natural consequence of the boss-subordinate relationship. In self-managed organizations, peer commitments replace the boss-subordinate relationship, and the pyramid disappears. Authority is distributed, and work is conducted by decentralized, self-managing teams or networks. The static hierarchy of the pyramid gives way to fluid natural hierarchies, where influence flows to people who have the most expertise, passion or interest. Freed from the rigidity and sluggishness of a command and control structure, Teal organizations can be more responsive and more energized. They are “emergent”: the behavior of the organization ‘emerges’ from the actions of teams and individuals.^[Teal organizations can be thought of as an example of a “complex adaptive system”: a "complex macroscopic collection" of relatively "similar and partially connected micro-structures" formed in order to adapt to the changing environment and increase its survivability as a macro-structure. They are complex in that they are dynamic networks of interactions, and their relationships are not aggregations of the individual static entities. They are adaptive in that the individual and collective behaviors mutate and self-organize corresponding to the change-initiating micro-event or collection of events." Source: Complex Adaptive Systems, Wikipedia, <http://en.wikipedia.org/wiki/Complex_adaptive_system>]
 
 
   The following describes organizational structure in earlier stages:
