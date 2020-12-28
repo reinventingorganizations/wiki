@@ -86,16 +86,16 @@ inPractice: >-
   蔚蓝组织不会去预测和控制（这是目标和指标背后的隐含目的），而是感知和响应。可以说，所有的目标设定都是通过“感知和响应”而启动的，如果确实有需求，新目标会在自主生命体系式的组织中，自动繁衍或浮现。
 
 
-  One example is the Buurtzorg Boardinghouse. Nurses noticed or sensed that primary care-givers of their patients needed a break from the ongoing demands of providing care. In response, they instituted a bed and breakfast-type solution where patients could receive care, providing care-givers a respite. There were no goals or objectives for Buurtzorg to become a bed and breakfast, but nurses sensed a need and their response of respite care took them down this path benefiting patients and care-givers in the process.
+  在布尔佐格公寓项目的案例中。护士注意到或感觉到病人的家庭护理者有个需要，就是需要一个能暂时从持续的护理劳作中解脱出来的机会。作为对这个需求感知的回应，他们建立了一种提供“床加早餐”的服务作为解决方案，病人小住并接受组织提供的护理，为家庭护理人员提供了一个喘息的机会。对于布尔佐格来说，并没有设定过一个“床加早餐”的目标或指标，但护士们感觉到了这种需要，并自发立项，通过提供短期临时护理来回应这个需求。这个感知与回应结果，带领他们走上了这条新道路，在这条道路上，病人及其家庭护理人员都受益匪浅。
 
 
-  We cannot plan for a world that is continuously changing, and where we have no control over the changes. So Teal-Evolutionary organizations work on the basis of sense and respond, rather than predict and control.
+  人无法针对一个不断变化、并无法控制变化的世界做计划。因此，蔚蓝进化型组织的工作基础是感觉和反应，而不是预测和控制。
 
 
-  #### **Investment process**
+  #### **投资流程**
 
 
-  The closest that Teal-Evolutionary organizations come to setting objectives is the investment process. Most organizations have an annual investment process, where each team prepares its investment plans for the next year. These plans are added up, and, if they exceed available/accessible resources, the teams have to review and adjust their plans. Whether the investments are part of the annual plan, or ad-hoc, situational investments, teams are responsible for raising the external funding themselves, or negotiate internally with other teams for funding or resources.
+  蔚蓝进化型组织内，最接近于目标设定概念的是投资流程。大多数组织都有一个年度投资流程，每个团队都会为下一年制定投资计划。这些计划被简单合计起来，如果超过了整体可用/可访问的资源，团队必须审查并调整自己的计划。无论作为年度计划的一部分的投资，还是特殊的情景投资，团队都要自行筹集外部资金，或自行与其他团队进行内部协商，调拨资金或资源。
 
 
   Some Teal-Evolutionary organizations do have organization-wide objectives, or perhaps guidelines. For example, [Buurtzorg](http://www.buurtzorgnederland.com/), the Netherlands-based health care organization, has a target for billable hours of 60 - 65% for their mature teams.
