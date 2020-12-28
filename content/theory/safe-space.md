@@ -43,7 +43,7 @@ perspective: >-
   ### Teal organizations
 
 
-  [Teal organizations ](../teal-paradigm-and-organizations/)aim to establish a safe space where the ego can relax its defenses, allowing people to show up fully; their masculine & feminine selves, their rational, emotional, intuitive and spiritual selves and their strengths and vulnerability. (In short: safety of the soul)
+  [蔚蓝组织 ](../teal-paradigm-and-organizations/)的目标是打造一个能让自大人格放下戒备的安全空间，允许人们将完整人性代入职场。（简而言之：灵魂的安全）
 inPractice: >-
   ### The importance of safe space
 
