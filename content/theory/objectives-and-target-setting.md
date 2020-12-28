@@ -107,10 +107,10 @@ inPractice: >-
   成员和团队可以自主选择为自己设定目标或指标，以此来衡量自己在实现组织目标方面的贡献程度（自检、自监督）。机器操作员可以为自己设定质量或性能目标。团队在启动新项目时，可以为了推进运行而自行设定目标，或者自主设定加快周转时间的目标。这只是自我管理的一部分，而不再属于之前那种被（团队或个人之外或上级）强加的目标和指标。目标只是为了有助于团队更好地感知关键变化并对其做出响应，而选择的一些标尺。
 
 
-  #### **Distributed responsibility and shared accountability**
+  #### **责任分散与可靠性共享**
 
 
-  Teal-Evolutionary organizations do not set sales targets. However, everyone, including the sales people, are fully aware and informed of what it takes to keep the organization going. Since sales people are part of the operational teams, they know how much work is required to keep the team going.
+  蔚蓝进化型组织不设定销售目标。但每个人，包括销售人员，都充分意识到并了解保持组织正常运转所需的一切要件。由于销售人员也是运营团队的一部分（了解组织的全部财务信息），所以知道自己需要做多少工作来维持团队的运转。
 faq:
   - question: If no sales targets are set, how will the company know how much to
       sell to achieve both break even and profitability?
@@ -135,4 +135,3 @@ relatedTheory:
   - Feedback and Performance Management
   - Strategy
 ---
-to be removed
