@@ -45,16 +45,13 @@ inPractice: >-
   ## 实践中
 
 
-  Although the pyramid disappears in Teal, it would be a mistake to think that self-managing organizations are simply flat and structureless. Teal organizations to date seem to fall into three broad types of structure to fit the context in which they operate. These are described further below. However all share the common attributes of distributed authority and natural hierarchies.
+  虽然金字塔在蔚蓝组织内消失了，但蔚蓝组织的自我管理并不是单纯的扁平化恶平等构造。到目前为止的蔚蓝组织，根据其不同的运作环境，似乎分为三大类结构。这将在本文做进一步描述。不过这些类型都具有共同属性：权限分散，自然的分层结构。
 
 
-  ##### *Distributed authority*
+  ##### *权力分散*
 
 
-  In traditional organizations, when power is concentrated at the top, bosses can approve or invalidate a decision made by a subordinate. In Teal organizations, power is distributed There are no bosses, only coaches. Anyone who senses a problem or an opportunity can initiate a [decision making process](../decision-making/), using methods that leverage the collective intelligence of the organization.
-
-
-  In traditional hierarchies, power is concentrated at the top, and can be exercised in a top-down fashion: bosses can approve or invalidate a decision made by a subordinate. In Teal organizations, power is distributed: everyone who senses a problem or an opportunity can step up and initiate a [decision making process](../decision-making/), using methods that leverage the collective intelligence of the organization about the topic at hand. These methods —sometimes called "advice process"— don't involve, as a common misconception about self-managing structures, consensus decision making.
+  在传统的等级制度中，权力集中在上层，以自上而下的方式行使：老板可以批准或否决下属的决定。在蔚蓝组织中，权力是分散的：每个感觉到问题或机遇的人都可以采取措施，利用组织对当前主题的集体智慧（流程），启动一个[决策过程](../decision-making/)。这些方法——有时被称为“建议过程”——并不是全体一致的共识决策（而是某个体站出来代表集体做出决策，这是典型的主权积分体运作方式），共识决策是对自我管理结构的一种普遍误解。
 
 
   ##### *Natural hierarchies*
