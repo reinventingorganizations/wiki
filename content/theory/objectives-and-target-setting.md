@@ -101,10 +101,10 @@ inPractice: >-
   也有一些蔚蓝进化型组织设有组织范围内的目标，或者也许可以叫做指导方针。例如，总部位于荷兰的医疗保健组织 [布尔佐格](http://www.buurtzorgnederland.com/)为其成熟团队制定了60-65%的降低工时收费的努力目标。
 
 
-  #### **Team determined targets**
+  #### **团队自主指标**
 
 
-  People and teams can choose to set objectives or targets for themselves as measures that tell them how well they are doing at meeting the organization's purpose. Machine operators may set quality or performance targets for themselves. Teams may set objectives in order to get a new project up and running, or they may have set themselves targets for turnaround times. This is simply part of self-management, as opposed to objectives and targets imposed from above (outside the team or individual). Measurements are chosen that help the team better sense key changes and respond to them.
+  成员和团队可以自主选择为自己设定目标或指标，以此来衡量自己在实现组织目标方面的贡献程度（自检、自监督）。机器操作员可以为自己设定质量或性能目标。团队在启动新项目时，可以为了推进运行而自行设定目标，或者自主设定加快周转时间的目标。这只是自我管理的一部分，而不再属于之前那种被（团队或个人之外或上级）强加的目标和指标。目标只是为了有助于团队更好地感知关键变化并对其做出响应，而选择的一些标尺。
 
 
   #### **Distributed responsibility and shared accountability**
