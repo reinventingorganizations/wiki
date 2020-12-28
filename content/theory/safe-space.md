@@ -22,10 +22,10 @@ perspective: >-
   在[红色组织](../red-organizations/)中，可以在老板的命令中找到一些安全感。只要表现出忠诚，听从老板的意愿和命令，你就知道自己去论如何都是安全的。反之，等待着违抗老板者的只能是严厉的惩罚。
 
 
-  ### Amber organizations
+  ### 琥珀组织
 
 
-  In [Amber organizations](../amber-paradigm-and-organizations/), safety comes from following established rules and processes (which are much more stable than the changing whims of Red bosses). In Amber organizations, employment is thought to be life-long, and much of people's social life revolves around the organization. Punishment no longer entails physical violence, but can entail salary deductions, a reduction in rank and privileges, and dismissal. Dismissal therefore comes with a double threat: that of losing one's identity and that of being expelled from the social fabric one is embedded in. Leaving an Amber organization is often a painful and scary process, similar to shedding an old life, known and safe, and having to reinvent a new one. (In short: safety from violence).
+  在[琥珀组织](../amber-paradigm-and-organizations/), safety comes from following established rules and processes (which are much more stable than the changing whims of Red bosses). In Amber organizations, employment is thought to be life-long, and much of people's social life revolves around the organization. Punishment no longer entails physical violence, but can entail salary deductions, a reduction in rank and privileges, and dismissal. Dismissal therefore comes with a double threat: that of losing one's identity and that of being expelled from the social fabric one is embedded in. Leaving an Amber organization is often a painful and scary process, similar to shedding an old life, known and safe, and having to reinvent a new one. (In short: safety from violence).
 
 
   ### Orange organizations
