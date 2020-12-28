@@ -48,9 +48,9 @@ inPractice: >-
   ### 反思空间
 
 
-  Wisdom traditions insist on the need for regular silence and reflection to quiet the mind and let truth emerge from a deeper part of ourselves. An increasing number of people pick up contemplative practices— meditation, prayer, yoga, walking in nature— and integrate these into their daily lives. Many Teal organizations have set up a quiet room somewhere in the office, and others have put meditation and yoga classes in place. This practice opens up space for individual reflection and mindfulness in the middle of busy days. A number of them go a step further: they also create collective moments for self-reflection through practices such as group coaching, team supervision, large-group reflections, and days of silence. ^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3378-3384). Nelson Parker. Kindle Edition.]
+  古老智慧坚持认为，个体需要定期的沉默时间以便进行反思，让思想不再喧嚣从而允许真相从我们的更深层面浮现出来（直觉）。越来越多人开始冥想—沉思、祈祷、瑜伽、大自然中散步 —并将这些行动编入自己的日常之中。很多蔚蓝组织都在办公室某处准备安静的房间，还有些则主持一些冥想和瑜伽课程。这种实践能为个体打开一个，能在繁忙日常工作中进行反思和自我觉察的空间。还有些更进一步：他们还创造了集体反思的时间段，比如小组培训、团队监测、全局反思、沉默数日等。 ^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3378-3384). Nelson Parker. Kindle Edition.]
 
-  see [Training and Coaching](../training-and-coaching/)
+  参照[培训与辅导](../training-and-coaching/)。
 
 
   ### Storytelling
