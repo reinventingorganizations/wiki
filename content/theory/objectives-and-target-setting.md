@@ -40,10 +40,10 @@ perspective: >-
   橙色组织通过在不同的层次设定目标，实现了从[琥珀](../amber-paradigm-and-organizations/)的“指挥和控制”到“预测和控制”的提升。最高管理者制定总体方向和战略，并以层层相关的目标、目的和指标的形式在组织中传达。管理人员和职能人员可以自由地利用自己的创造力来实现这些目标，组织有时还会为这些贡献提供奖励。如果协调得很好，中层管理层，以及较低级别的管理层，（在一定程度上）有权决定实现目标的具体办法。如果没有经过缜密的协调，这种方法可能会导致目标博弈，有时团队之间会相互对抗以确保实现自己的目标。
 
 
-  #### **Green Organizations**
+  #### **绿色组织**
 
 
-  A metaphor that is sometimes used to describe consensus-focused [Green organization ](../green-paradigm-and-organizations/)is that of “family.” Green is uneasy with power and hierarchy and shifts authority and decision-making from managers to staff members. In practice successful Green organizations do have hierarchical structures. Managers often operate as servant leaders who are there to support and develop their employees. Objectives and targets are often set by consensus at the team level to support a predefined vision and mission.
+  用来描述以划一、共识为中心的[绿色组织](../green-paradigm-and-organizations/)is that of “family.” Green is uneasy with power and hierarchy and shifts authority and decision-making from managers to staff members. In practice successful Green organizations do have hierarchical structures. Managers often operate as servant leaders who are there to support and develop their employees. Objectives and targets are often set by consensus at the team level to support a predefined vision and mission.
 
 
   #### **Teal Organizations**
