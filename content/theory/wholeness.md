@@ -68,7 +68,7 @@ inPractice: >-
   ### 冲突管理
 
 
-  在同事关系中，我们很容易被人性固有的一些欲望俘获，比如取悦，希望打动对方，希望对方喜欢自己，或掌控等。我们的自大人格很容易侵犯对方或被侵犯。但我们的灵魂知晓精准的界限，有时灵魂会昭示说，我们需要通过冲突将这些该有的界限复位。如果没有冲突，我们会陷入过度迎合或过度防卫，两者都导致我们无法在同事互动和人际关系中展示真实完整的自我。蔚蓝组织已经打造了一些用来识别并解决冲突的实践方法。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3630-3634). Nelson Parker. Kindle Edition.] See [Conflict resolution](../conflict-resolution/).
+  在同事关系中，我们很容易被人性固有的一些欲望俘获，比如取悦，希望打动对方，希望对方喜欢自己，或掌控等。我们的自大人格很容易侵犯对方或被侵犯。但我们的灵魂知晓精准的界限，有时灵魂会昭示说，我们需要通过冲突将这些该有的界限复位。如果没有冲突，我们会陷入过度迎合或过度防卫，两者都导致我们无法在同事互动和人际关系中展示真实完整的自我。蔚蓝组织已经打造了一些用来识别并解决冲突的实践方法。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3630-3634). Nelson Parker. Kindle Edition.] 参见[冲突解决](../conflict-resolution/)。
 
 
   ### Physical Spaces
