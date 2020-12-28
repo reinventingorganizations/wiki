@@ -49,7 +49,7 @@ perspective: >-
   #### **蔚蓝组织**
 
 
-  可以用仿生或生物化系统来比喻的[Teal organizations](../teal-paradigm-and-organizations/) organize around a clear sense of [purpose ](../listening-to-purpose/)This is not a purpose (mission) set by top management, but one that is allowed to evolve and is shared by all members of the organization.
+  可以用仿生或生物化系统来比喻的[蔚蓝组织](../teal-paradigm-and-organizations/)，围绕着明确的目标组织活动，但目标（使命）并不是由最高管理层来设定。蔚蓝的目标是一个由组织所有成员共享的自我进化性内容。
 
 
   Aligned with the organization's purpose, planning is based on "sense and respond", with an emphasis on an agile approach to finding workable solutions. This adaptive process is similar to lean start-up and [[software development](https://en.wikipedia.org/wiki/Agile_software_development%7Cagile)] principles. Decision-making is carried out within a framework of organization-wide values and balanced through an [advice process](../decision-making/). Strategy emerges organically from the interaction of employees with the Teal organizational environment. Self-managing employees may set objectives for themselves, or a team may decide on an objective, e.g. faster turnaround time, but there are no sales, efficiency or other targets. The process of seeking advice from colleagues and specialists before committing to a project or change ensures that all aspects, including financial responsibility, is taken into consideration. Part of the value system is that no single member or group of members may put the organization at risk with ill-considered or selfish actions or projects.
