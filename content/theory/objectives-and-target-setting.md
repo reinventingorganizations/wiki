@@ -16,13 +16,13 @@ perspective: >-
   蔚蓝组织通过感知和响应环境而发展。通过倾听[进化目标](../evolutionary-purpose/)，决定团队或整个组织的下一步行动。
 
 
-  Every historical stage has given birth to a distinct perspective on job titles and job descriptions, and to very different practices:
+  组织发展的每一个历史阶段都产生了对目标和指标设定的不同看法，以及截然不同的做法：
 
 
-  #### **Red Organizations**
+  #### **红色组织**
 
 
-  [Red organizations](../red-organizations/) are characterized by opportunistic and often reactive behaviors. Rather than being a formal process, objectives and target setting is an inherent aspect of protecting and/or expanding one's power base.
+  [红色组织](../red-organizations/) are characterized by opportunistic and often reactive behaviors. Rather than being a formal process, objectives and target setting is an inherent aspect of protecting and/or expanding one's power base.
 
 
   #### **Amber Organizations**
