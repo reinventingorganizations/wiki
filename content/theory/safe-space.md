@@ -69,16 +69,16 @@ inPractice: >-
   历史上许多灵性和传统智慧都阐述了丰富的技巧，可以用来创造安全空间，克服恐惧和分离，并邀请个体进入不评判姿态，回归整体性（完整人性）。许多当代思想家也调整或重新发明了类似的原则和实践，可用于在组织范围内创造安全空间，例如支撑组织和谐建设的空间。蔚蓝组织通常会花大量时间培训每个成员，令其熟知并运用这些基本规则，例如作为新同事[入职](../onboarding/)培训的一部分，让基本原则尽可能得到每个人的支持，而不需要通过推进者来督促执行。
 
 
-  Typical ground rules include
+  典型的基本规则包括：
 
 
-  * *Speaking from "I":* rather than making interpretations and judging another person's actions or motivation, we try and put into words our own reactions, emotions, needs and requests.  
+  * “只关照自己”发言：我们不去解释和判断另一个人的行为或动机，只致力于用语言表达自己的反应、情绪、需求和要求。
 
-  * *No fixing, advising, saving or correcting others:* when others feel we have an intention to change them, they are likely to feel intruded upon and to feel the space is no longer safe for them to show up as they are.  
+  * 不试图改善、建议、拯救或纠正他人：如果别人觉得我们想改变他们的意图，很可能会觉得隐私被打扰，觉得这个空间不再能安全的允许他/她展示真实的自我。
 
-  * *Accepting emotions*: many cultures especially in most organizations today are generally ill at ease with "negative" emotions such as anger, sadness or frustration (and sometimes even of "positive" emotions such as joy or empathy). When someone shares such an emotion, we are often quick to try and get the person to "get over" their emotion, thereby giving the message that someone's emotion is not welcome. 
+  * 接纳情绪：大多数组织的文化中，普遍对成员的情绪展示感到不安--诸如愤怒、悲伤或挫折等“消极”情绪（有时甚至是“积极”情绪，如喜悦或同理心）。当有人分享这类情绪时，人们通常会很快地试图让对方“压抑”情绪，这其实是在暗示说，某人的情绪不受欢迎。
 
-  * *Accepting conflict*: these cultures are also generally ill at ease with conflicts, that get quickly passed over. And yet, conflict is a natural consequence of the fact that as human beings, we all have different needs and perspectives. Having a well defined [conflict resolution process](../conflict-resolution/) in place is helpful, as well as clear guidelines to help deal with conflict gracefully. 
+  * 接纳冲突：传统文化通常对冲突感到不安，其实冲突是自然的呈现，很快就会平复。因为作为人类，每个人都有各不相同的需要和观点。蔚蓝的[冲突解决流程](../conflict-resolution/) in place is helpful, as well as clear guidelines to help deal with conflict gracefully. 
 
   * *Avoiding demeaning speech and behaviors*: To feel safe, we need to feel that we are accepted as equals in value. Any form of -ism (sexism, racism, etc.) as well as any form, however subtle, that establishes that one person is superior to another (snide remark, rolling of the eyes, and so forth) will make us feel unsafe and trigger our ego defenses. 
 
