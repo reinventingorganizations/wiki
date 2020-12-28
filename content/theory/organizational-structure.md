@@ -88,7 +88,7 @@ inPractice: >-
   蔚蓝组织在理想的情况下，每个团队都是完全自主的，从头到尾执行所有任务。在这种情况下，组织中的每个成员都会满意地看到整个组织的目标实现，而不是像大型专业组织中那样，只是其中的一小部分接触到大目标。但有时，在具体业务实践的某些更局部的焦点上，通常还是需要一些人或团队去承担协作或支持角色：
 
 
-  * *团队教练:* In Teal Organizations, there are no middle managers. But teams often feel a need to be supported by someone external that can help them work through problems. At Buurtzorg, they are called regional coaches; at RHD, hub leaders.
+  * *团队教练:* 在蔚蓝组织中，没有中层管理人员。但团队通常会感觉到需要外部人员来支持自己解决问题。在布尔佐格，这些人被称为区域辅导；在RHD，则称为枢纽经理。
 
   * *支撑团队*: For some tasks, duplication in every team doesn’t make sense. At FAVI, for example, the great majority of teams are client facing―the Audi team, the Volkswagen team, etc. However, a few teams support other teams, such as the foundry team. It would not be practical for the teams to operate the foundry in turns, nor would it make sense to duplicate the equipment and have a foundry within each team. RHD has units responsible for areas such as training (its “miniversity”), real estate, and payroll, that support all the units in the field.
 
