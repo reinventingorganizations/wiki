@@ -101,7 +101,10 @@ inPractice: >-
   ![Michael K Sahota - 30 mai 2015 à 21:13](/media/individual_contracting.png "个人承包网")
 
 
-  Individual contracting, as has been pioneered by Morning Star, a California-based tomato processing company, is a natural fit for continuous and relatively stable processes, such as can be found in the chemical industry, in food processing, or in long assembly chains. Each major step in the process often involves only a few people, and so a nested structure is not needed. Through individual one-on-one contracting, colleagues can make clear agreements with their upstream and downstream counterparts and anyone else they work closely with. These commitments are often formalized in a written document.
+  图中文字：适合于化工，食品加工，部分制造业（比如长生产线）等。
+
+
+  个人承包网，是一家位于加利福尼亚州的番茄生产公司晨星首创的。在食品加工等过程中，可以找到一种相对稳定的、适合于食品加工的连续或长链的加工线。流程中的每个主要步骤通常只涉及少数人，因此不需要嵌套结构。通过单独的一对一承包，同事可以与上下游同行和与之密切协作的任何人达成明确的协议。这些承诺通常正式规定在书面文件中。
 
 
   Investment budgets and financial results, on the other hand, are set up and discussed in teams, just as in the model of parallel teams. (Morning Star calls them “Business Units,” and each Business Unit is linked to a particular step in the process―say, tomato preparation, dicing, canning, or packaging―or to a support service―for instance, steam generation or IT.)
