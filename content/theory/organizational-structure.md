@@ -37,10 +37,10 @@ perspective: >-
   在[橙色组织](../orange-paradigm-and-organizations/)中，尽管获得了更多的自由，金字塔仍然是最基本结构。项目组、虚拟团队、跨职能计划、专家工作人员职能和内部顾问等，都是为了打破严格僵化的职能和层级界限，以加快沟通和促进创新而设置。
 
 
-  #### Green organizations
+  #### 绿色组织
 
 
-  [Green organizations](../green-paradigm-and-organizations/) typically still operate with the pyramid structure, but there is more empowerment of front-line employees. Higher managers are asked to share control: to move from being doers, problem solvers and fixers to being “servant leaders”. This is often symbolized by an "inverted pyramid", where the CEO at the bottom supports senior and middle managers who in turn support front-line employees.
+  [绿色组织](../green-paradigm-and-organizations/)通常仍采用金字塔结构运作，但一线成员的权力和自由度更大些。要求高层管理者分享控制权：领导从实干者、问题解决者和万金油转变为“仆人领导”。这通常是一个“倒金字塔”的象征，底层的CEO支持高层和中层管理人员，后者再来支持一线成员。
 inPractice: >-
   Although the pyramid disappears in Teal, it would be a mistake to think that
   self-managing organizations are simply flat and structureless. Teal
