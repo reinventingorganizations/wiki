@@ -63,7 +63,7 @@ inPractice: >-
   #### **设定目标的不利之处**
 
 
-  在橙色的成功驱动模式中，目标和指标是成功的关键驱动力。是将组织凝聚在一起并赋予组织存在意义的粘合剂。但在进化主题的蔚蓝范式中，组织被[目标](../listening-to-purpose/)和[价值观](../culture-and-values/)drive the organization. The objective is to bring to life the purpose of the organization. There are no formal systems or top-down processes in place for setting objectives and targets. All the functions of management (planning, organizing, direction-setting, investments, budgeting, etc) are done by the people doing the work. In general, Teal-Evolutionary organizations tend not to set objectives or targets.
+  在橙色的成功驱动模式中，目标和指标是成功的关键驱动力。是将组织凝聚在一起并赋予组织存在意义的粘合剂。但在进化主题的蔚蓝范式中，组织被[目标](../listening-to-purpose/)和[价值观](../culture-and-values/)驱动着。目标的目的是为了实现组织的宗旨理念。蔚蓝模式中，不设置用来设定目标和指标的正规系统或自上而下的流程。所有的管理职能（计划、组织、方向设定、投资、预算等）都由一线成员完成。一般来说，进化主题的蔚蓝组织倾向于不设定（除组织目标之外的分层）目标或指标。
 
 
   From a Teal-Evolutionary perspective, objectives and targets are problematic:
