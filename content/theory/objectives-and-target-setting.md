@@ -60,10 +60,10 @@ inPractice: >-
   ## **实践中**
 
 
-  #### **he problem with objectives**
+  #### **设定目标的不利之处**
 
 
-  In the Orange-Achievement paradigm, objectives and targets are the key drivers for success. They are the glue that holds the organization together, and give meaning to its existence. In the Teal-Evolutionary paradigm, [purpose  ](../listening-to-purpose/)and [values ](../culture-and-values/)drive the organization. The objective is to bring to life the purpose of the organization. There are no formal systems or top-down processes in place for setting objectives and targets. All the functions of management (planning, organizing, direction-setting, investments, budgeting, etc) are done by the people doing the work. In general, Teal-Evolutionary organizations tend not to set objectives or targets.
+  在橙色的成功驱动模式中，目标和指标是成功的关键驱动力。是将组织凝聚在一起并赋予组织存在意义的粘合剂。但在进化主题的蔚蓝范式中，组织被, [purpose  ](../listening-to-purpose/)and [values ](../culture-and-values/)drive the organization. The objective is to bring to life the purpose of the organization. There are no formal systems or top-down processes in place for setting objectives and targets. All the functions of management (planning, organizing, direction-setting, investments, budgeting, etc) are done by the people doing the work. In general, Teal-Evolutionary organizations tend not to set objectives or targets.
 
 
   From a Teal-Evolutionary perspective, objectives and targets are problematic:
