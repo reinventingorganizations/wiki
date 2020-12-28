@@ -33,10 +33,10 @@ inPractice: >-
   自我管理是个漫长的旅途，可以帮助我们奔向更完整展示自我的境界。这时我们不再需要争夺那些珍稀的升职机会，不再需要讨好上司，不再有那么多需要鞠躬的对象，大多数办公室政治的毒草都会被从组织内摒弃。不再有上司在背后监视，不再有需要排队晋升的职员群体，不再有随时会成为竞争对手的同僚，我们终于可以放下各种警惕，而单纯聚焦在工作上，去做自己喜欢的事。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3144-3147). Nelson Parker. Kindle Edition.]
 
 
-  ### Safe and supportive environment
+  ### 安心可靠的环境
 
 
-  Beyond self-management, Teal organizations create an environment in which people support each other in their inner work while doing the outer work of the organization. Teal organizations recognize that every time our fears get triggered is an opportunity to learn and grow into more wholeness, reclaiming aspects of ourselves that we have neglected or pushed into the shadows. They believe that if we are to invite all of who we are to show up, including the shy inner voice of the soul, we need to create safe and caring spaces at work. We must learn to discern and be mindful of the subtle ways our words and actions undermine safety and trust in a community of colleagues.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3176-3226). Nelson Parker. Kindle Edition.]
+  除了自我管理，蔚蓝组织还创建一种环境，让人们可以在完成组织中完成外在工作的同时，还能在内在成长层面也互相支撑。蔚蓝组织的智慧知道，每当我们的恐惧被激发出来，其实就是一个通过学习而朝向更加完整自我成长的机会，即重新找回那些被自己否定或压抑在阴暗中的一些自我面向和特质的机会。这种组织智慧相信，如果我们希望邀请完整的自我而非过滤的伪善面具，进行自由的展示，这也包括内在灵魂的羞涩发言，我们就需要建造一个安全安心而关怀备至的办公室空间。我们需要学会仔细甄别和关照自己在同事社区内言行中的那些，可能危害心理安全和信任关系的微妙表达。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3176-3226). Nelson Parker. Kindle Edition.]
 
 
   ### Explicit ground rules
