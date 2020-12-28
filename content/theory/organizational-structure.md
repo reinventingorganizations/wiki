@@ -119,7 +119,7 @@ inPractice: >-
   有些行业的价值链长而深，其价值链中的某些步骤既涉及大量人员和复杂任务（例如，在制药公司进行研究或在大型零售银行进行营销）。消费电子公司、大型媒体公司、银行、保险公司、汽车制造商、飞机制造公司和航空公司很可能拥有长而深的价值链。对于这些类型的公司，嵌套团队（通常称为圈子）可能特别合适，因为这个结构允许将总体目标分解为连续的、不太复杂的、更易于管理的片段。
 
 
-  This structure was formalized by Kees Boeke in the mid 20th century in a system called Sociocracy (first applied in a school in the Netherlands). Holacracy, an organizational system pioneered by Brian Robertson in his software company Ternary Software, is also structured in concentric circles (see “Concrete examples for inspiration” below).  
+  这种结构在20世纪中叶由Kees Boeke在一个名为“社区主义”的体系中正式确立（首次应用于荷兰的一所学校）。霍尔是由Brian Robertson在他的软件公司trinary software中首创的一种组织系统，它的结构也是嵌套团队（参见下面的“启发性实践案例”）。
 
 
   Through nesting, circles gradually integrate related activities, so there is a hierarchy of purpose, complexity, and scope, but not of people or power. Each circle has full authority to make decisions within the scope of its specific purpose. Decisions are not sent upwards, and cannot be overturned by members of overarching circles.
