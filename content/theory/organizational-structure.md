@@ -31,10 +31,10 @@ perspective: >-
   在[琥珀模式](../amber-paradigm-and-organizations/)中，出现了有上下级关系的组织结构图，形成了层次金字塔和清晰的指令链条。人们认同职务头衔和他们在等级制度中的地位。决策由层次结构的上层做出，下层只是服从指令。
 
 
-  #### Orange organizations
+  #### 橙色组织
 
 
-  In [Orange organizations](../orange-paradigm-and-organizations/), the pyramid remains the fundamental structure, although some additional freedom is given. Project groups, virtual teams, cross-functional initiatives, expert staff functions, and internal consultants are created to drill holes into rigid functional and hierarchical boundaries in order to speed up communication and foster innovation.
+  在[橙色组织](../orange-paradigm-and-organizations/)中，尽管获得了更多的自由，金字塔仍然是最基本结构。项目组、虚拟团队、跨职能计划、专家工作人员职能和内部顾问等，都是为了打破严格僵化的职能和层级界限，以加快沟通和促进创新而设置。
 
 
   #### Green organizations
