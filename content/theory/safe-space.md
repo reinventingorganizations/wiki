@@ -10,16 +10,16 @@ intro: |-
 
   ![](/media/safe-space-medium-small.png)
 perspective: >-
-  [蔚蓝组织](../teal-paradigm-and-organizations/) aim to establish a safe space that
-  allows colleagues to show up with all of who they are, their masculine as well
-  as their feminine selves, their rational, emotional, intuitive and spiritual
-  selves, their strengths and vulnerability, their deeper hopes and longings. 
+  ## 新视角
 
 
-  ### Red organizations
+  [蔚蓝组织](../teal-paradigm-and-organizations/) 的目标是建立一个安全的空间，让同事们能自由放心的展现出自己人性的本来面目，展示作为男性和女性的自我，展示理性、情感、直觉和精神各个层面的自我，展示自己的优势和弱点，以及更深层的希望和渴求。
 
 
-  In [Red organizations](../red-organizations/), some safety is found in the order imposed by the boss. Show allegiance and follow the boss's wishes and commands, whatever they may be, and you know you are safe. Severe punishment, on the other hand, awaits the person who defies the boss.   
+  ### 红色组织
+
+
+  在[红色组织](../red-organizations/)中，可以在老板的命令中找到一些安全感。只要表现出忠诚，听从老板的意愿和命令，你就知道自己去论如何都是安全的。反之，等待着违抗老板者的只能是严厉的惩罚。
 
 
   ### Amber organizations
