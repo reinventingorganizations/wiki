@@ -57,7 +57,7 @@ inPractice: >-
   如此伪装人格获得安全是有代价的：我们把自己从丰富完整的人性中剥离出来。我们觉得在职场需要戴的面具往往是心理健康的、理性的、阳刚的、以自我为中心的。我们切断了自己的情感、直觉、身体、阴性侧面。我们不理会自己内心的声音，我们的渴望，我们的召唤，我们的灵魂。我们忽视了自己的沟通能力和同情心，和对自己、对他人以及对周围所有生命的爱。这样做可能会让我们感到安全。但代价是人生中常常感到空虚和毫无生机。
 
 
-  [Teal organizations ](../teal-paradigm-and-organizations/)have come to the realization that when employees leave so much of who they are behind, they also leave a great amount of their passion, creativity and energy behind. They are mindful to create a setting of safety—a safe space—where employees feel they can safely show up in [wholeness](../wholeness/). 
+  [蔚蓝组织 ](../teal-paradigm-and-organizations/)已经意识到，当员工们来职场时，如果将如此大量的真实人性关在门外，随之而去的还有大量的激情、创造力和生命力与精力。所以蔚蓝真正致力于创造一个安全的环境，一个安心空间，让员工觉得自己可以安全地展示[完整人性](../wholeness/)。
 
 
   ### Establishing ground rules
