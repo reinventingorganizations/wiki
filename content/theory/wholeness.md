@@ -24,10 +24,10 @@ inPractice: >-
   ## 实践中
 
 
-  Teal Organizations have developed a consistent set of practices that invite us to reclaim our inner wholeness and bring all of who we are to work.
+  蔚蓝组织已经开发出一系列实践方法，可以催化我们去重新找回自我内在完整性，并将自己的全部素质带入工作中。
 
 
-  ### Self-management
+  ### 自我管理
 
 
   Self-management goes a long way toward helping us show up more fully. With no scarce promotions to fight for, no bosses to please, and no adversaries to elbow aside, much of the political poison is drained out of organizations. Without a boss looking over our shoulder, without employees to keep in line and peers that could turn into competitors, we can finally let our guard down and simply focus on the work we want to do.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3144-3147). Nelson Parker. Kindle Edition.]
