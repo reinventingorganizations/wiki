@@ -37,7 +37,7 @@ perspective: >-
   [橙色组织](../Orange_Organizations)将战略规划流程正规化了，将愿景、使命、价值观和目标设定，定义为正式规划流程的有机部分，并通过组织作为一台机器来层层过滤并实施。从董事会和执行层出发，下发到事业部、团队或部门。然后责成各下级阶层的成员进而制定符合公司愿景、使命和目标的局部战略计划。
 
 
-  Targets are hence set at the various levels to achieve the objectives as part of a move from the ‘command and control’ of [Amber ](../amber-paradigm-and-organizations/)to one of ‘predict and control’. Top management formulates the overall direction and strategy and this is cascaded through the organization as targets, goals and objectives. Managers and staff are given freedom to use their creativity to achieve these objectives and may be offered incentives to do so. When aligned well, middle management, and to some extent lower levels, have the freedom to determine how they will achieve their objectives. When not thoughtfully aligned this approach can lead to gaming of targets, with teams sometimes working against each other to achieve their own goals.
+  橙色组织通过在不同的层次设定目标，实现了从[琥珀](../amber-paradigm-and-organizations/)的“指挥和控制”到“预测和控制”的提升。最高管理者制定总体方向和战略，并以层层相关的目标、目的和指标的形式在组织中传达。管理人员和职能人员可以自由地利用自己的创造力来实现这些目标，组织有时还会为这些贡献提供奖励。如果协调得很好，中层管理层，以及较低级别的管理层，（在一定程度上）有权决定实现目标的具体办法。如果没有经过缜密的协调，这种方法可能会导致目标博弈，有时团队之间会相互对抗以确保实现自己的目标。
 
 
   #### **Green Organizations**
