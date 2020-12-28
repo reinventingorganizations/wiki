@@ -82,7 +82,7 @@ inPractice: >-
   图中文字：适合于价值链很短的大规模组织：零售，服务企业，部分制造业，学校，医院，公共服务等。
 
 
-  这是迄今为止在蔚蓝组织中最常见的结构。^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 319.]Examples would include Buurtzorg (geographic teams) and FAVI (client teams) (see “Concrete examples for inspiration” below). This model is highly suitable when work can be broken down in ways that teams have a high degree of autonomy, without too much need for coordination across teams. They can then work side by side. In this model, it is within the team that colleagues define their roles and the mutual commitments they make to each other. Teams also typically handle their own recruitment, planning, establish their investment needs, devise a budget (if a budget is needed), track their financial and non-financial results, and so on.
+  这是迄今为止在蔚蓝组织中最常见的结构。^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 319.]案例包括布尔佐格（地理团队）和法维（客户团队）（见下文“启发性实践案例”）。如果组织已经成熟到能以团队高度自治的方式分解工作，而不需要太多跨团队的协作时，就非常适合此模型。团队并肩工作。在这个模型中，同事们在团队中自定义自己的角色以及他们对彼此做出的相互承诺。团队通常还会自治的处理招聘、规划、确定投资需求、制定预算（只在需要预算的情况下）、跟踪财务和非财务结果等。
 
 
   In an ideal situation, each team is fully autonomous and performing all tasks from start to finish. When that is the case, every single person in the organization has the satisfaction of seeing the entire organization’s purpose come to life, and not just a small slice of it as is often the case in large specialized organizations. In practice, there will often be a need for some people or teams who take on coordinating or supporting roles with a more narrow focus:
