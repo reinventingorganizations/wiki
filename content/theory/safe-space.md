@@ -28,10 +28,10 @@ perspective: >-
   在[琥珀组织](../amber-paradigm-and-organizations/)中，安全来自于遵循既定的规则和流程（这些规则和流程比红色模式中老板那不断变化的突发奇想要稳定得多）。在琥珀组织中，就业以终身制为主，成员的大部分社会生活都围绕着这个组织。惩罚不再意味着肉体上的暴力，而是可以扣除工资、降低职级和特权以及解雇。因此，解雇伴随着双重威胁：失去身份并被逐出所属的社会结构。离开一个琥珀色的组织通常是一个痛苦和可怕的过程，类似于放弃一个熟悉而安全的旧人生，而重新开始新的人生。（简言之：回避暴力的安全感）
 
 
-  ### Orange organizations
+  ### 橙色组织
 
 
-  In [Orange organizations](../orange-paradigm-and-organizations/), safety comes from achieving the results that are expected. One's identity is no longer tied to a specific organization, but more broadly to one's career progression. Failure and dismissal are a blow to one's self-worth, but no longer the expulsion from the social fabric one is embedded in. One simply moves on and seeks work in another organization. (In short: safety from social exclusion).
+  在[橙色组织](../orange-paradigm-and-organizations/)中，安全来自于对预期结果的达成。一个人的身份不再局限于某个特定的组织，而是更广泛地与个人的职业发展联系在一起。失败和被解雇对一个人的自我价值是一个打击，但不再意味着从某个社会结构中被驱逐。只需继续前进，到另一个组织寻求工作即可。（简言之：回避社交排斥的安全感）。
 
 
   ### Green organizations
