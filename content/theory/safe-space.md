@@ -51,7 +51,7 @@ inPractice: >-
   ### 安全空间的重要性
 
 
-  In most organizations—just like in most group settings outside of work—it can feel risky to show up whole. Almost everyone has learned in childhood that when we expose who we really are, the parts of ourselves we cherish most, we feel vulnerable with: we open ourselves to possible mockery and ridicule, or to have what we shared used against us. Much better, then, is to play it safe, to hide behind a professional mask, to show up in ways we know are accepted and expected in the work place.
+  在大多数传统组织以及工作之余的大多数群体环境中，个人一般会感觉到风险而不能尽情展示完整人性和真实自我。几乎每个人都在童年时期就知道，当我们暴露自己的真实面目，即自己最珍贵的部分时，我们就会感到脆弱：我们怕敞开心扉，可能受到嘲笑或看不惯，或者被敌意者用我们分享的内容来攻击我们。于是，更好的办法是稳妥行事，躲在职业的面具后面，只表演一个在职场可以被接受和期待的人格。
 
 
   That safety comes at a cost: We cut ourselves from the richness of our humanity. In the workplace, the mask we feel we need to wear is often mental, rational, masculine, self-centered. We cut ourselves off from our emotions, our intuitions, our body, our feminine side. We don’t heed our inner voice, our longings, our calling, our soul. We neglect our capacity for connection and compassion, for love for ourselves, for others, and for all life that surrounds us. We might feel safe. But the cost is a life that often feels empty and strangely lifeless..
