@@ -56,16 +56,13 @@ inPractice: >-
   ### 讲故事
 
 
-  如果我们希望办公室有信任，如果我们希望得到深层、丰富而意义深远的人际关系，就需要揭示更多真实的自我，朝向完整的自我表达进发。在很多公司，当发现团队不能良好协作，就召集一个团建活动，这已经成为一种时尚。虽然互相鞠躬道歉可以起到从工作中解脱片刻的娱乐效果，但这类活动通常毫无突破，都只是表面功夫，不能在较深的层面培育真正的信任和社区氛围。这些活动缺乏一个必不可少的重要元素，那是人类从原始时代就一直用来打造社区并建立共享语境的重要手段：讲故事。那些能将我们融合一体的带有赋权力量的故事，大多已经失传了。在这个失传过程中，我们的良好社群关系也被削弱萎缩。我们需要找回讲故事方式的力量，正如作家派克帕默所言：^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3486-3495). Nelson Parker. Kindle Edition.]你越是了解另一个人的经历，就越不容易怀疑和厌恶他。人际关系的信任如何打造？就是更多了解对方。通过能嵌入工作的简单问话来了解对方，打造一个不仅为员工提供工作，同时也能在此过程中荣耀灵魂的办公室。
+  如果我们希望办公室有信任，如果我们希望得到深层、丰富而意义深远的人际关系，就需要揭示更多真实的自我，朝向完整的自我表达进发。在很多公司，当发现团队不能良好协作，就召集一个团建活动，这已经成为一种时尚。虽然互相鞠躬道歉可以起到从工作中解脱片刻的娱乐效果，但这类活动通常毫无突破，都只是表面功夫，不能在较深的层面培育真正的信任和社区氛围。这些活动缺乏一个必不可少的重要元素，那是人类从原始时代就一直用来打造社区并建立共享语境的重要手段：讲故事。那些能将我们融合一体的带有赋权力量的故事，大多已经失传了。在这个失传过程中，我们的良好社群关系也被削弱萎缩。我们需要找回讲故事方式的力量，正如作家派克帕默所言：^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3486-3495). Nelson Parker. Kindle Edition.]你越是了解另一个人的经历，就越不容易怀疑和厌恶他。人际关系的信任如何打造？就是更多了解对方。通过能嵌入工作的简单问话来了解对方，打造一个不仅为员工提供工作，同时也能在此过程中荣耀灵魂的办公室。^\[Parker Palmer, “On the Edge: Have the Courage to Lead with Soul,” Journal for Staff Development, National Staff Development Council, Spring 2008.]
 
 
-  ^\[Parker Palmer, “On the Edge: Have the Courage to Lead with Soul,” Journal for Staff Development, National Staff Development Council, Spring 2008.]
+  ### 会议
 
 
-  ### Meetings
-
-
-  Teal organizations typically have instituted specific meeting practices to help participants keep their egos in check and interact with each other from a place of wholeness. Some are very simple, while others much more elaborate. At Sounds True, every meeting starts with a minute of silence to help people ground themselves in the moment. Many Teal companies start meetings with a round of check-in and finish with a round of check-out.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3573-3577). Nelson Parker. Kindle Edition.] See [Meetings](../meetings/)
+  蔚蓝组织一般都打造出特殊的会议形态，能帮助参会者抑制自己的虚荣心和自大人格，进而达到在一个完整人性层面的协调协作。这些做法有的很简洁，有的很高级。在桑楚公司，每个会议都开始于一分钟静默，帮助人们将自己拉回当下。很多蔚蓝组织的会议，在开始和结束时设置一个报入和报出动作。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3573-3577). Nelson Parker. Kindle Edition.] 参见[会议](../meetings/)
 
 
   ### Managing Conflict
