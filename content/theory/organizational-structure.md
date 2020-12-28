@@ -85,12 +85,12 @@ inPractice: >-
   这是迄今为止在蔚蓝组织中最常见的结构。^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 319.]案例包括布尔佐格（地理团队）和法维（客户团队）（见下文“启发性实践案例”）。如果组织已经成熟到能以团队高度自治的方式分解工作，而不需要太多跨团队的协作时，就非常适合此模型。团队并肩工作。在这个模型中，同事们在团队中自定义自己的角色以及他们对彼此做出的相互承诺。团队通常还会自治的处理招聘、规划、确定投资需求、制定预算（只在需要预算的情况下）、跟踪财务和非财务结果等。
 
 
-  In an ideal situation, each team is fully autonomous and performing all tasks from start to finish. When that is the case, every single person in the organization has the satisfaction of seeing the entire organization’s purpose come to life, and not just a small slice of it as is often the case in large specialized organizations. In practice, there will often be a need for some people or teams who take on coordinating or supporting roles with a more narrow focus:
+  蔚蓝组织在理想的情况下，每个团队都是完全自主的，从头到尾执行所有任务。在这种情况下，组织中的每个成员都会满意地看到整个组织的目标实现，而不是像大型专业组织中那样，只是其中的一小部分接触到大目标。但有时，在具体业务实践的某些更局部的焦点上，通常还是需要一些人或团队去承担协作或支持角色：
 
 
-  * *Team coaches:* In Teal Organizations, there are no middle managers. But teams often feel a need to be supported by someone external that can help them work through problems. At Buurtzorg, they are called regional coaches; at RHD, hub leaders.
+  * *团队教练:* In Teal Organizations, there are no middle managers. But teams often feel a need to be supported by someone external that can help them work through problems. At Buurtzorg, they are called regional coaches; at RHD, hub leaders.
 
-  * *Supporting teams*: For some tasks, duplication in every team doesn’t make sense. At FAVI, for example, the great majority of teams are client facing―the Audi team, the Volkswagen team, etc. However, a few teams support other teams, such as the foundry team. It would not be practical for the teams to operate the foundry in turns, nor would it make sense to duplicate the equipment and have a foundry within each team. RHD has units responsible for areas such as training (its “miniversity”), real estate, and payroll, that support all the units in the field.
+  * *支撑团队*: For some tasks, duplication in every team doesn’t make sense. At FAVI, for example, the great majority of teams are client facing―the Audi team, the Volkswagen team, etc. However, a few teams support other teams, such as the foundry team. It would not be practical for the teams to operate the foundry in turns, nor would it make sense to duplicate the equipment and have a foundry within each team. RHD has units responsible for areas such as training (its “miniversity”), real estate, and payroll, that support all the units in the field.
 
   * *Supporting roles:* The self-management model pushes expertise down to the teams, rather than up into staff functions. But for certain specific expertise or for coordination purposes, creating a supporting role can make sense. At FAVI, for instance, there is an engineer who helps teams exchange innovations and best practices.
 
