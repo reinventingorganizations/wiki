@@ -21,8 +21,10 @@ perspective: >-
 
   全球的古老智慧都从更深层面剖析了这个主题：在心灵深处，我们都真实的互联成一体，每个人都是有机整体的单元，但我们已经遗忘了这个真相。我们出生就进入身份分离的文化环境，在成长过程中也被教育洗脑而感觉到与自己更深特质的分离，以及与周围其他人和生命体的分离。这些古老智慧告诉我们，咱们最深层的生命意义即使命，就是在自己内在以及跟外在世界的联系中，重新找回这种固有的完整性。这个灵性洞见激活了蔚蓝组织的第二个突破：力图建造一个，能支撑我们回归完整人性之旅途的空间。当我们敢于脱下面具，将自己的全部素质带入工作中，就会开始发生很多奇迹。每当我们将完整自己的某个部分用伪善隐藏起来，我们就将自己的一部分潜力，或创造力以及能量丢弃了。这就是为何很多办公室都感觉毫无生命力。在完整人性中我们的生命力是圆满的。我们会惊诧的发现，在自己内部蕴藏着超乎想象的丰满生命力。在同事关系角度，很多让办公室不舒服或低效能量也会消失。工作成为一种承载方式，我们在那里互相帮助对方揭示自己的内在壮丽并创化实现自己的使命。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3128-3143). Nelson Parker. Kindle Edition.]
 inPractice: >-
-  Teal Organizations have developed a consistent set of practices that invite us
-  to reclaim our inner wholeness and bring all of who we are to work.
+  ## 实践中
+
+
+  Teal Organizations have developed a consistent set of practices that invite us to reclaim our inner wholeness and bring all of who we are to work.
 
 
   ### Self-management
@@ -75,7 +77,7 @@ inPractice: >-
   ### Physical Spaces
 
 
-  Most places of work insidiously signal that we are in a place somehow removed from normal life, and they call us to behave differently than we would in other environments. Teal organizations create physical spaces that invite workers to bring more of themselves to the job. Sounds True welcomes workers’ dogs to the office and installed not just a microwave but a full stove in the kitchen to encourage a sense of community in which people could cook and eat together. At Buurtzorg, nurses are encouraged to decorate their small community offices to make them their own. At FAVI, teams have chosen colors to paint the machines in their area and have decorated the shop floor with posters, plants and aquariums. Many Teal organizations spend significant resources on facilitating workers’ connection with nature so that they can slow down and find a deeper connection with themselves and the world: Sun Hydraulics located all its factories next to a lake; Sounds True defied the convention of fixed windows that would ensure centralized temperature control and opted for more expensive windows that could open to the outside.^[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3692-3707). Nelson Parker. Kindle Edition.]
+  Most places of work insidiously signal that we are in a place somehow removed from normal life, and they call us to behave differently than we would in other environments. Teal organizations create physical spaces that invite workers to bring more of themselves to the job. Sounds True welcomes workers’ dogs to the office and installed not just a microwave but a full stove in the kitchen to encourage a sense of community in which people could cook and eat together. At Buurtzorg, nurses are encouraged to decorate their small community offices to make them their own. At FAVI, teams have chosen colors to paint the machines in their area and have decorated the shop floor with posters, plants and aquariums. Many Teal organizations spend significant resources on facilitating workers’ connection with nature so that they can slow down and find a deeper connection with themselves and the world: Sun Hydraulics located all its factories next to a lake; Sounds True defied the convention of fixed windows that would ensure centralized temperature control and opted for more expensive windows that could open to the outside.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3692-3707). Nelson Parker. Kindle Edition.]
 
 
   ### Personal development
