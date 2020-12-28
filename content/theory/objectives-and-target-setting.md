@@ -83,7 +83,7 @@ inPractice: >-
   #### **感知与回应 – 设定目标、指标和战略的新方法**
 
 
-  Instead of trying to predict and control (the implicit goal behind objectives and targets), Teal organizations sense and respond. You could say that all target setting is instead initiated locally where it is "sensed and responded" to, then cascades or emerges through the organization as a living system as needed.
+  蔚蓝组织不会去预测和控制（这是目标和指标背后的隐含目的），而是感知和响应。可以说，所有的目标设定都是通过“感知和响应”而启动的，如果确实有需求，新目标会在自主生命体系式的组织中，自动繁衍或浮现。
 
 
   One example is the Buurtzorg Boardinghouse. Nurses noticed or sensed that primary care-givers of their patients needed a break from the ongoing demands of providing care. In response, they instituted a bed and breakfast-type solution where patients could receive care, providing care-givers a respite. There were no goals or objectives for Buurtzorg to become a bed and breakfast, but nurses sensed a need and their response of respite care took them down this path benefiting patients and care-givers in the process.
