@@ -90,9 +90,9 @@ inPractice: >-
 
   * *团队教练:* 在蔚蓝组织中，没有中层管理人员。但团队通常会感觉到需要外部人员来支持自己解决问题。在布尔佐格，这些人被称为区域辅导；在RHD，则称为枢纽经理。
 
-  * *支撑团队*: For some tasks, duplication in every team doesn’t make sense. At FAVI, for example, the great majority of teams are client facing―the Audi team, the Volkswagen team, etc. However, a few teams support other teams, such as the foundry team. It would not be practical for the teams to operate the foundry in turns, nor would it make sense to duplicate the equipment and have a foundry within each team. RHD has units responsible for areas such as training (its “miniversity”), real estate, and payroll, that support all the units in the field.
+  * *支撑团队*: 某些任务，不需要每个团队都设同一个重复职能。例如，在法维，绝大多数团队都是面向客户的单元——奥迪团队、大众汽车团队等。然而，还有少数团队专门负责支持其他团队，例如铸造团队。由各团队轮流运作一个铸造厂很不现实，投资重复的设备在每个团队中建一个铸造厂也毫无意义。RHD则设有公用支撑单元，比如负责培训（其“小型大学”）、房地产和工资管理等职能团队，这些部门支持外围的所有团队单元。
 
-  * *Supporting roles:* The self-management model pushes expertise down to the teams, rather than up into staff functions. But for certain specific expertise or for coordination purposes, creating a supporting role can make sense. At FAVI, for instance, there is an engineer who helps teams exchange innovations and best practices.
+  * *支撑角色:* The self-management model pushes expertise down to the teams, rather than up into staff functions. But for certain specific expertise or for coordination purposes, creating a supporting role can make sense. At FAVI, for instance, there is an engineer who helps teams exchange innovations and best practices.
 
 
   ##### *Web of individual contracting*
