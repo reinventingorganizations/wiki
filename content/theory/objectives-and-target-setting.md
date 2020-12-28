@@ -66,18 +66,18 @@ inPractice: >-
   在橙色的成功驱动模式中，目标和指标是成功的关键驱动力。是将组织凝聚在一起并赋予组织存在意义的粘合剂。但在进化主题的蔚蓝范式中，组织被[目标](../listening-to-purpose/)和[价值观](../culture-and-values/)驱动着。目标的目的是为了实现组织的宗旨理念。蔚蓝模式中，不设置用来设定目标和指标的正规系统或自上而下的流程。所有的管理职能（计划、组织、方向设定、投资、预算等）都由一线成员完成。一般来说，进化主题的蔚蓝组织倾向于不设定（除组织目标之外的分层）目标或指标。
 
 
-  From a Teal-Evolutionary perspective, objectives and targets are problematic:
+  从蔚蓝的进化观点来看，设定目标和指标会带来问题：
 
 
-  * They rest on the assumption that we can predict the future,
+  * 目标建立在我们可以预测未来的假设上，
 
-  * They skew behavior from intrinsic to extrinsic motivation,
+  * 把行为的动机从内在转向外在，
 
-  * They tend to narrow the ability to sense new possibilities,
+  * 可能会压制感知全新可能性的能力，
 
-  * They focus attention on the targets, rather than fulfilling the organization’s purpose,
+  * 可能因聚焦在具体目标上，而忽略了组织的终极目标，
 
-  * In the Orange-achievement world they always imply growth, something which is not always an inherent element of Teal organizations' purpose.
+  * 在橙色那种靠成功驱动的世界里，目标总是意味着利益增长，而利益并不总是蔚蓝组织目标的固有元素。
 
 
   #### **Sense and respond – a new way to determine objectives, goals and strategy**
