@@ -78,7 +78,7 @@ inPractice: >-
 
   * 接纳情绪：大多数组织的文化中，普遍对成员的情绪展示感到不安--诸如愤怒、悲伤或挫折等“消极”情绪（有时甚至是“积极”情绪，如喜悦或同理心）。当有人分享这类情绪时，人们通常会很快地试图让对方“压抑”情绪，这其实是在暗示说，某人的情绪不受欢迎。
 
-  * 接纳冲突：传统文化通常对冲突感到不安，其实冲突是自然的呈现，很快就会平复。因为作为人类，每个人都有各不相同的需要和观点。蔚蓝的[冲突解决流程](../conflict-resolution/) in place is helpful, as well as clear guidelines to help deal with conflict gracefully. 
+  * 接纳冲突：传统文化通常对冲突感到不安，其实冲突是自然的呈现，很快就会平复。因为作为人类，每个人都有各不相同的需要和观点。蔚蓝的[冲突解决流程](../conflict-resolution/)以及明确的指导方针，可用来帮助优雅地处理冲突。
 
   * *Avoiding demeaning speech and behaviors*: To feel safe, we need to feel that we are accepted as equals in value. Any form of -ism (sexism, racism, etc.) as well as any form, however subtle, that establishes that one person is superior to another (snide remark, rolling of the eyes, and so forth) will make us feel unsafe and trigger our ego defenses. 
 
