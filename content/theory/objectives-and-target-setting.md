@@ -5,11 +5,8 @@ key: Objectives and Target Setting
 name: 目标与指标设定
 sortOrder: 6
 category: People practices
-intro: >-
-  This section outlines the role of objectives and target setting, in particular
-  we discuss the processes for enabling goals and ambition to be achieved in the
-  absence of formalized target setting processes.
-
+intro: |-
+  此文概述了目标和指标设定的作用，特别讨论了即使没有正式目标设定过程，也能帮助实现目标和指标的流程。
 
   ![](/media/objectives.jpg)
 perspective: >-
