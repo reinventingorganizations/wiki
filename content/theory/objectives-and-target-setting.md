@@ -10,14 +10,10 @@ intro: |-
 
   ![](/media/objectives.jpg)
 perspective: >-
-  Rather than depending on management to set direction, in Teal organizations,
-  teams and individuals are intrinsically driven to fulfill the purpose of the
-  organization. They do not need extrinsic motivators in the form of objectives
-  and budgets to get them to do their work. They set their own objectives and
-  targets, when they feel it is necessary.
+  在蔚蓝组织中，团队和个人不依靠管理来确定方向，而是根据内在驱动自主的实现组织的目标。不需要目标和预算形式的外部激励因素，来保证工作的完成。当成员觉得有必要的时候，会自主制定自己的目标和指标。
 
 
-  Teal organizations evolve through sensing and responding to the environment. The process of listening to [evolutionary purpose](../evolutionary-purpose/) is used to decide on the next steps for a team or for the whole organization.
+  蔚蓝组织通过感知和响应环境而发展。通过倾听[进化目标](../evolutionary-purpose/)，决定团队或整个组织的下一步行动。
 
 
   Every historical stage has given birth to a distinct perspective on job titles and job descriptions, and to very different practices:
