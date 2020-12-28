@@ -92,13 +92,13 @@ inPractice: >-
 
   * *支撑团队*: 某些任务，不需要每个团队都设同一个重复职能。例如，在法维，绝大多数团队都是面向客户的单元——奥迪团队、大众汽车团队等。然而，还有少数团队专门负责支持其他团队，例如铸造团队。由各团队轮流运作一个铸造厂很不现实，投资重复的设备在每个团队中建一个铸造厂也毫无意义。RHD则设有公用支撑单元，比如负责培训（其“小型大学”）、房地产和工资管理等职能团队，这些部门支持外围的所有团队单元。
 
-  * *支撑角色:* The self-management model pushes expertise down to the teams, rather than up into staff functions. But for certain specific expertise or for coordination purposes, creating a supporting role can make sense. At FAVI, for instance, there is an engineer who helps teams exchange innovations and best practices.
+  * *辅助角色:* 自我管理模式将专业知识下推到团队中，而不是提升到成员职能中。但对于某些特定的专业知识或出于协作目的，创建一个辅助角色是有意义的。例如，在法维，设有一位工程师，专门支撑团队间交流创新结果和最佳实践（有助于推广智慧）。
 
 
-  ##### *Web of individual contracting*
+  ##### *个人承包网*
 
 
-  ![Michael K Sahota - 30 mai 2015 à 21:13](/media/individual_contracting.png "Individual Contracting")
+  ![Michael K Sahota - 30 mai 2015 à 21:13](/media/individual_contracting.png "个人承包网")
 
 
   Individual contracting, as has been pioneered by Morning Star, a California-based tomato processing company, is a natural fit for continuous and relatively stable processes, such as can be found in the chemical industry, in food processing, or in long assembly chains. Each major step in the process often involves only a few people, and so a nested structure is not needed. Through individual one-on-one contracting, colleagues can make clear agreements with their upstream and downstream counterparts and anyone else they work closely with. These commitments are often formalized in a written document.
