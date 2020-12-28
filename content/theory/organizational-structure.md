@@ -122,7 +122,7 @@ inPractice: >-
   这种结构在20世纪中叶由Kees Boeke在一个名为“社区主义”的体系中正式确立（首次应用于荷兰的一所学校）。霍尔是由Brian Robertson在他的软件公司trinary software中首创的一种组织系统，它的结构也是嵌套团队（参见下面的“启发性实践案例”）。
 
 
-  Through nesting, circles gradually integrate related activities, so there is a hierarchy of purpose, complexity, and scope, but not of people or power. Each circle has full authority to make decisions within the scope of its specific purpose. Decisions are not sent upwards, and cannot be overturned by members of overarching circles.
+  通过嵌套，团队或圈子可以逐渐整合相关的活动，逐级形成一个，不是根据人或权力，而是按照目的、复杂性和范围分类的阶层构造。每个圈子都有充分的权力，在其特定目的范围内作出决定。决策不需要向上发送，也不能被上层人士推翻。
 faq:
   - question: How do these practices link with the three Teal breakthroughs?
     answer: >-
@@ -187,4 +187,3 @@ relatedTheory:
   - Decision Making
   - Project teams and task forces
 ---
-to be removed
