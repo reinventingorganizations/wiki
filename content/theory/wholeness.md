@@ -5,27 +5,21 @@ key: wholeness
 name: 完整人性
 sortOrder: 3
 category: teal-concepts
-intro: >-
-  This article discusses one of the three foundational “breakthroughs” common to
-  Teal organizations.
-
+intro: |-
+  此节描述蔚蓝组织的三个共通的基本突破。
 
   ![](/media/wholeness.jpg)
 perspective: >-
-  Workplaces have traditionally encouraged people to show up with their
-  “professional” self and to check all other parts of themselves at the door.
-  They often require us to show a masculine resolve, to display determination
-  and strength, and to hide doubts and vulnerability. Rationality rules: the
-  emotional, intuitive, and spiritual selves are typically unwelcome, or out of
-  place.^[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to
-  Creating Organizations Inspired by the Next Stage of Human Consciousness
-  (Kindle Locations 1310-1313). Nelson Parker. Kindle Edition.]
+  ## 新视角
 
 
-  What makes us leave so much of our selfhood behind when we go to work? There is a conspiracy of fears at play that involves employees as much as their organizations. Organizations fear that if people were to bring all of themselves to work— their moods, quirks, and weekend clothes— things would quickly dissolve into a mess. Armies have long known that people made to feel interchangeable are much easier to control. Employees, for their part, fear that if they were to show up with all of who they are, they might expose their selfhood to criticism and ridicule and come across as odd and out of place. It is deemed much better to play it safe and to hide the selfhood behind a professional mask.
+  办公室传统上一直是一种，鼓励人们展示一个狭隘而自律的职业形象，将所有其他个人特质都挡在门外的空间。职场通常要求我们只展示理性的正面素质，展示刚毅和坚强，隐藏怀疑和怯懦。理性是王道，情感、直觉和我们的灵性侧面一般不受欢迎，或不合时宜。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 1310-1313). Nelson Parker. Kindle Edition.]
 
 
-  Wisdom traditions from around the world speak to this from a deeper level: at heart, we are all profoundly interconnected and part of a whole, but it’s a truth we have forgotten. We are born into separation and raised to feel divided from our deeper nature, as well as from the people and life around us. Our deepest calling in life, these traditions tell us, is to reclaim wholeness, within ourselves and in our connection with the outside world. This spiritual insight inspires Teal Organizations’ second breakthrough: to create a space that supports us in our journey to wholeness. Extraordinary things begin to happen when we dare to bring all of who we are to work. Every time we leave a part of us behind, we cut ourselves off from part of our potential, of our creativity and energy. No wonder many workplaces feel somehow lifeless. In wholeness we are life-full. We discover in awe how much more life there is in us than we ever imagined. In our relationships with colleagues, much of what made the workplace unpleasant and inefficient vanishes; work becomes a vehicle where we help each other reveal our inner greatness and manifest our calling.^[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3128-3143). Nelson Parker. Kindle Edition.]
+  是什么力量让我们抛弃和那么多珍贵的自我素质而去办公室呢？这是恐惧阴谋的效果，这种恐惧机制对成员和组织同样生效。组织一侧的恐惧是，如果人们将完整的自我带进办公室，那些情绪、癖好，以及休闲服饰等会让办公室变得混乱无序。军队早就知晓，只要果让人们感觉到自己是随时可以互相替代的同规格存在，就会很容易施加控制。职员一侧的恐惧则是，如果在工作环境展示出自己的全部真实侧面，会暴露自我而遭到差评或嘲笑，被看作怪人或不合群者。于是人人都认为安全起见，应该将自我隐藏在一个职业形象面具背后。
+
+
+  Wisdom traditions from around the world speak to this from a deeper level: at heart, we are all profoundly interconnected and part of a whole, but it’s a truth we have forgotten. We are born into separation and raised to feel divided from our deeper nature, as well as from the people and life around us. Our deepest calling in life, these traditions tell us, is to reclaim wholeness, within ourselves and in our connection with the outside world. This spiritual insight inspires Teal Organizations’ second breakthrough: to create a space that supports us in our journey to wholeness. Extraordinary things begin to happen when we dare to bring all of who we are to work. Every time we leave a part of us behind, we cut ourselves off from part of our potential, of our creativity and energy. No wonder many workplaces feel somehow lifeless. In wholeness we are life-full. We discover in awe how much more life there is in us than we ever imagined. In our relationships with colleagues, much of what made the workplace unpleasant and inefficient vanishes; work becomes a vehicle where we help each other reveal our inner greatness and manifest our calling.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3128-3143). Nelson Parker. Kindle Edition.]
 inPractice: >-
   Teal Organizations have developed a consistent set of practices that invite us
   to reclaim our inner wholeness and bring all of who we are to work.
