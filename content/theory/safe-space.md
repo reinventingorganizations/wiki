@@ -34,10 +34,10 @@ perspective: >-
   在[橙色组织](../orange-paradigm-and-organizations/)中，安全来自于对预期结果的达成。一个人的身份不再局限于某个特定的组织，而是更广泛地与个人的职业发展联系在一起。失败和被解雇对一个人的自我价值是一个打击，但不再意味着从某个社会结构中被驱逐。只需继续前进，到另一个组织寻求工作即可。（简言之：回避社交排斥的安全感）。
 
 
-  ### Green organizations
+  ### 绿色组织
 
 
-  In [Green organizations](../green-paradigm-and-organizations/), safety comes from a set of shared values and the knowing that one is considered as a person, not just a "human resource". When an individual or the organization hits a rough patch, employees trust that colleagues will rally to offer support. (In short: emotional safety).
+  在[绿色组织](../green-paradigm-and-organizations/), safety comes from a set of shared values and the knowing that one is considered as a person, not just a "human resource". When an individual or the organization hits a rough patch, employees trust that colleagues will rally to offer support. (In short: emotional safety).
 
 
   ### Teal organizations
