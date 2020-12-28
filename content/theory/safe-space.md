@@ -88,7 +88,7 @@ inPractice: >-
   ### 反复重申基本原则的瞬间
 
 
-  不幸的是，我们往往不知道如何在组织里创造一个安全空间。通常，编写一份包含安全空间基本规则的文档，这可能是一种有益的方法，可用于帮助组织中的同事深入思考。在新同事[入职流程](../onboarding/). Many organizations find that this is not enough, though, for everyone to deeply integrate these ground rules in their mindsets and behaviors. It is useful to foresee recurring moments where the ground rules are reaffirmed, role modeled and explicitly enforced by a colleague taking on a facilitator's role. These recurring moments can include:
+  不幸的是，我们往往不知道如何在组织里创造一个安全空间。一般编写一份包含安全空间基本规则的文档，这可能是一种有益的方法，可用于帮助组织中的同事深入思考。在新同事[入职流程](../onboarding/)中，可以将这些文档编入强有力的培训计划。然而，许多组织发现，只是这样做，还不足以让每个人都将这些基本规则深深地融入他们的思维和行为中（活在这些价值观中）。一个有用的做法是，预见一些反复出现的瞬间，注意抓住这些时刻重申基本规则，并致力于塑造角色模型，并由担任主持人角色的同事明确监测这些原则的遵守。这类反复出现的渗透机会可能包括：
 
 
   * Important, recurring meetings (for instance quarterly all-hands meetings) 
