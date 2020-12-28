@@ -91,15 +91,15 @@ inPractice: >-
   不幸的是，我们往往不知道如何在组织里创造一个安全空间。一般编写一份包含安全空间基本规则的文档，这可能是一种有益的方法，可用于帮助组织中的同事深入思考。在新同事[入职流程](../onboarding/)中，可以将这些文档编入强有力的培训计划。然而，许多组织发现，只是这样做，还不足以让每个人都将这些基本规则深深地融入他们的思维和行为中（活在这些价值观中）。一个有用的做法是，预见一些反复出现的瞬间，注意抓住这些时刻重申基本规则，并致力于塑造角色模型，并由担任主持人角色的同事明确监测这些原则的遵守。这类反复出现的渗透机会可能包括：
 
 
-  * Important, recurring meetings (for instance quarterly all-hands meetings) 
+  * 重要而经常性的会议（例如每季度召开一次全体会议）
 
-  * Large group processes to [listen to an organizations' purpose](../listening-to-purpose/) (for instance using methodologies such as Theory U, Appreciative Inquiry, or Open Space) 
+  * [聆听组织目标](../listening-to-purpose/)的大型团队活动（例如使用理论U、鉴赏性调查或开放空间等方法）
 
-  * Any meetings that promises to be difficult or touchy, where the presence of a facilitator might be helpful 
+  * 一些可能会很艰难或很敏感的会议，通过主持人在场重申规则来帮助顺利运作
 
-  * An annual "values day" 
+  * 一年一度的“价值观日”
 
-  * Any training program or workshop.
+  * 所有的培训计划或研讨会
 faq:
   - question: How can ground rules for a safe space be established? What is the role
       of the founder or "CEO" in the process?
@@ -160,4 +160,3 @@ relatedTheory:
   - Meetings
   - Mood Management
 ---
-removed
