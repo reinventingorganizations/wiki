@@ -43,7 +43,7 @@ perspective: >-
   #### **绿色组织**
 
 
-  用来描述以划一、共识为中心的[绿色组织](../green-paradigm-and-organizations/)is that of “family.” Green is uneasy with power and hierarchy and shifts authority and decision-making from managers to staff members. In practice successful Green organizations do have hierarchical structures. Managers often operate as servant leaders who are there to support and develop their employees. Objectives and targets are often set by consensus at the team level to support a predefined vision and mission.
+  用来描述以划一、共识为中心的[绿色组织](../green-paradigm-and-organizations/)的隐喻是“家庭”。绿色对权力和等级制度感到不舒服，所以把指挥和决策权从管理者转移到成员身上。但在实践中，成功的绿色组织模式中确实仍保有层级结构。管理者通常是服务型领导，他们负责支持和促进成员的成长。通常在团队级别上通过协商一致的方式设定目标和指标，以支持预定义的组织愿景和任务。
 
 
   #### **Teal Organizations**
