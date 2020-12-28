@@ -77,18 +77,17 @@ inPractice: >-
   很多办公室空间的配置，会潜在的暗示我们，正置身一个脱离了正常生活场景的地点，这种暗示强迫我们伪装与其他环境中不同的面具式言行。蔚蓝组织则建造一些能激励员工将更完整自我展示出来的物理空间。桑楚公司欢迎员工的宠物狗进入办公室。不仅备有多个微波炉，还在厨房准备了全套炉具，培育一种让成员能在其中下厨并同进餐饮的社区氛围。在布尔佐格，鼓励护士按照自己的爱好装饰更有归属感的小局域办公室。在法维，团队可以选择涂染自己区域附近机器的颜色，并用喜好的招贴画、植物和水族景致装饰店铺。蔚蓝组织投入大量资源，促进员工与大自然的连接，以便让大家能慢下来，找到与自己与世界的更深层连接关系：太阳液压公司将所有工厂的设置在湖畔；桑楚则舍弃了能保障中央空调的传统固定窗模式，升级为更宽敞的向外开放的窗户。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3692-3707). Nelson Parker. Kindle Edition.]
 
 
-  ### Personal development
+  ### 个人发展
 
 
-  Through these practices, a safe space is created. Then, each person is responsible to follow his/her own process of self–awareness and personal development. The daily practices that Teal organization offer, such as reflective space, storytelling, meetings without ego and conflict resolution methodologies, are the tools each person has available to define and follow his way. And only in this process of matching such an organizational approach with the individual’s responsibility for self-growth, can self-management and listening to purpose flourish.
+  蔚蓝组织通过这些活动，成功打造了一个安全安心的空间。于是每个人都有责任跟随自己的自我觉性和个人发展进程。蔚蓝组织提供的日常活动，比如反思空间，讲故事活动，摒弃自大的会议，以及冲突解决方案。这些是每个人都有机会利用的一些，可以用来定义并跟随自己成长旅程的有效工具。只有在这种组织侧努力和个人侧自我成长责任感密切配合的过程中，自我管理和目标共享才有机会茁壮繁衍。
 
 
-  ### Reimagined HR processes
+  ### 重塑HR功能
 
 
-  In addition to the practices described above, Teal organizations have reframed all of the key human resources processes— recruitment, onboarding, training, evaluation, compensation, dismissal— in ways to eliminate fear and feelings of separation and reclaim wholeness. See *Human Resource practices*.
+  除了上述实践活动外，蔚蓝组织还重新塑造了所有关键的人力资源程序 —招聘、入职、培训、绩效、补偿、辞退 —这些主要是为了消除恐惧和分离感而找回完整性。参见人力资源章节。
 faq: []
 relatedTheory:
   - wholness
 ---
-to be removed
