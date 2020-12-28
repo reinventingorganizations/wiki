@@ -85,10 +85,10 @@ inPractice: >-
   * 质疑自己的观点：安全空间，让我们可以探索自己的感受和思想而不必害怕被评判。如果有人认为只有自己是对的，也就是说，认为那些持有不同见解的人一定是错的，那就会阻碍这种自由展示想法的探索。所以在每次讨论中，我们都必须愿意从不同的角度看待问题，勇于质疑自己的观点和假设，承认正确答案不止一个。
 
 
-  ### Recurring moments to reaffirm ground rules
+  ### 反复重申基本原则的瞬间
 
 
-  Unfortunately, we don't learn about how to create a safe space in school. Commonly writing a document with the ground rules for a safe space might be a helpful way for colleagues in the organization to steep themselves in this thinking. They can be used as a powerful training program during new colleagues' [onboarding process](../onboarding/). Many organizations find that this is not enough, though, for everyone to deeply integrate these ground rules in their mindsets and behaviors. It is useful to foresee recurring moments where the ground rules are reaffirmed, role modeled and explicitly enforced by a colleague taking on a facilitator's role. These recurring moments can include:
+  不幸的是，我们往往不知道如何在组织里创造一个安全空间。通常，编写一份包含安全空间基本规则的文档，这可能是一种有益的方法，可用于帮助组织中的同事深入思考。在新同事[入职流程](../onboarding/). Many organizations find that this is not enough, though, for everyone to deeply integrate these ground rules in their mindsets and behaviors. It is useful to foresee recurring moments where the ground rules are reaffirmed, role modeled and explicitly enforced by a colleague taking on a facilitator's role. These recurring moments can include:
 
 
   * Important, recurring meetings (for instance quarterly all-hands meetings) 
