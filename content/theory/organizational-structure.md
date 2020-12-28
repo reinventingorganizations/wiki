@@ -107,16 +107,16 @@ inPractice: >-
   个人承包网，是一家位于加利福尼亚州的番茄生产公司晨星首创的。在食品加工等过程中，可以找到一种相对稳定的、适合于食品加工的连续或长链的加工线。流程中的每个主要步骤通常只涉及少数人，因此不需要嵌套结构。通过单独的一对一承包，同事可以与上下游同行和与之密切协作的任何人达成明确的协议。这些承诺通常正式规定在书面文件中。
 
 
-  Investment budgets and financial results, on the other hand, are set up and discussed in teams, just as in the model of parallel teams. (Morning Star calls them “Business Units,” and each Business Unit is linked to a particular step in the process―say, tomato preparation, dicing, canning, or packaging―or to a support service―for instance, steam generation or IT.)
+  不过，投资预算和财务结果职能，则遵循平行团队模型，在团队中制定和讨论。例如，晨星公司称之为“业务单元”，每个业务单元都与流程中的特定步骤（例如，番茄准备、切丁、罐装或包装）或支持服务（例如蒸汽生成或IT）相关联。
 
 
-  ##### *Nested teams (Circles)*
+  ##### *嵌套团队（圈子）*
 
 
-  ![Frederic Laloux - 29 juin 2015 à 12:22 - Update file of nested teams (presented as concentric circles rather than stacked in a pyramidal fashion ](/media/nested_teams_2-medium.png "Nested Teams")
+  ![Frederic Laloux - 29 juin 2015 à 12:22 - Update file of nested teams (presented as concentric circles rather than stacked in a pyramidal fashion ](/media/nested_teams_2-medium.png "嵌套团队")
 
 
-  Some industries have not only long, but also deep value chains, when certain steps in the value chain involve both a large number of people and complex tasks (for instance, research in a pharmaceutical company or marketing in a large retail bank). Consumer electronics firms, large media companies, banks, insurance companies, car manufacturers, aerospace companies, and airline companies are likely to have long and deep value chains. For these types of companies, nested teams (often called circles) might be particularly appropriate, as they allow an overall purpose to be broken down into successively less complex and more manageable pieces.
+  有些行业的价值链长而深，其价值链中的某些步骤既涉及大量人员和复杂任务（例如，在制药公司进行研究或在大型零售银行进行营销）。消费电子公司、大型媒体公司、银行、保险公司、汽车制造商、飞机制造公司和航空公司很可能拥有长而深的价值链。对于这些类型的公司，嵌套团队（通常称为圈子）可能特别合适，因为这个结构允许将总体目标分解为连续的、不太复杂的、更易于管理的片段。
 
 
   This structure was formalized by Kees Boeke in the mid 20th century in a system called Sociocracy (first applied in a school in the Netherlands). Holacracy, an organizational system pioneered by Brian Robertson in his software company Ternary Software, is also structured in concentric circles (see “Concrete examples for inspiration” below).  
