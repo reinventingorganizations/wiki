@@ -80,9 +80,9 @@ inPractice: >-
 
   * 接纳冲突：传统文化通常对冲突感到不安，其实冲突是自然的呈现，很快就会平复。因为作为人类，每个人都有各不相同的需要和观点。蔚蓝的[冲突解决流程](../conflict-resolution/)以及明确的指导方针，可用来帮助优雅地处理冲突。
 
-  * *Avoiding demeaning speech and behaviors*: To feel safe, we need to feel that we are accepted as equals in value. Any form of -ism (sexism, racism, etc.) as well as any form, however subtle, that establishes that one person is superior to another (snide remark, rolling of the eyes, and so forth) will make us feel unsafe and trigger our ego defenses. 
+  * 避免鄙视他人的言行：为了感到安全，需要让成员感到每个人在价值上的平等性。任何形式的歧视（性别歧视、种族主义等等）以及任何形式的行为，无论多么微妙，只要能暗示一个人比另一个人优越（刻薄的评论，做鬼脸，眨眼等等），都会让人感到不安全并引发自我防卫（面具，分离）。
 
-  * *Questioning one's perspective:* A safe space is one where we can explore our feelings and thoughts without fear of judgment. That exploration is made difficult, if someone else believes they are right, and that by contrast, everyone with a different question must be wrong. We must enter every discussion with a willingness to see things from different perspectives, to question our own perspective and assumption..  
+  * 质疑自己的观点：安全空间，让我们可以探索自己的感受和思想而不必害怕被评判。如果有人认为只有自己是对的，也就是说，认为那些持有不同见解的人一定是错的，那就会阻碍这种自由展示想法的探索。所以在每次讨论中，我们都必须愿意从不同的角度看待问题，勇于质疑自己的观点和假设，承认正确答案不止一个。
 
 
   ### Recurring moments to reaffirm ground rules
