@@ -39,10 +39,10 @@ inPractice: >-
   除了自我管理，蔚蓝组织还创建一种环境，让人们可以在完成组织中完成外在工作的同时，还能在内在成长层面也互相支撑。蔚蓝组织的智慧知道，每当我们的恐惧被激发出来，其实就是一个通过学习而朝向更加完整自我成长的机会，即重新找回那些被自己否定或压抑在阴暗中的一些自我面向和特质的机会。这种组织智慧相信，如果我们希望邀请完整的自我而非过滤的伪善面具，进行自由的展示，这也包括内在灵魂的羞涩发言，我们就需要建造一个安全安心而关怀备至的办公室空间。我们需要学会仔细甄别和关照自己在同事社区内言行中的那些，可能危害心理安全和信任关系的微妙表达。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3176-3226). Nelson Parker. Kindle Edition.]
 
 
-  ### Explicit ground rules
+  ### 明确的基本规则
 
 
-  Teal Organizations spend significant time and energy training everybody in ground rules that support healthy and productive collaboration. Many end up writing down these ground rules in a document. RHD has its detailed *Bill of Rights and Responsibilities*; Morning Star its documents called *Organizational Vision, Colleague Principles*, and *Statement of General Business Philosophy*; FAVI has its *fiches*, and Holacracy its *Constitution*. These documents provide a vision for a safe and productive workplace. They give colleagues a vocabulary to discuss healthy relationships, and they draw lines that separate recommended from unacceptable behaviors.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3358-3362). Nelson Parker. Kindle Edition.]
+  蔚蓝组织投入大量的时间和能量培训所有人遵循一些基本规则，这些基本规则用来支撑健康而高效的协作。很多组织还书写了这些规则的文档。比如，RHD有详尽的“责权清单”；晨星有“组织愿景”，“同事守则”，“商务哲学通则”；法维有“词条”；霍尔有“宪法”。这些文档有为安全安心高效办公环境提供了一种愿景。这些文档为员工提供了一种用来探讨健康人际关系的语言，同时划线分割了推荐行为和不可接受行为。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3358-3362). Nelson Parker. Kindle Edition.]
 
 
   ### Reflective spaces
