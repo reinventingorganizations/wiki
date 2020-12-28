@@ -10,7 +10,7 @@ intro: |-
 
   ![](/media/objectives.jpg)
 perspective: >-
-  新
+  ## **新视角**
 
 
   在蔚蓝组织中，团队和个人不依靠管理来确定方向，而是根据内在驱动自主的实现组织的目标。不需要目标和预算形式的外部激励因素，来保证工作的完成。当成员觉得有必要的时候，会自主制定自己的目标和指标。
@@ -57,7 +57,10 @@ perspective: >-
 
   与蔚蓝组织的目标相匹配的计划，都基于“感知和响应”，聚焦于寻找可行解决方案的敏捷方法。这种适应性过程类似于敏捷原型启动和 [[软件开发](https://en.wikipedia.org/wiki/Agile_software_development%7Cagile)] 原理。决策在整个组织的价值观框架内做出，并通过一个[建议流程](../decision-making/)获得公众协调。战略是成员与组织环境互动的有机产物。自我管理的成员可以为自己设定目标，单元团队也会决定一些目标，比如更快的周转时间，但不会设定销售、效率或其他角度的绩效目标。在立项或内容变更之前，致力于征求同事和专家的意见（蔚蓝称之为建议流程）以确保能涵盖包括财务责任在内的所有方面的要素。组织共识的价值观包括，任何一个成员或一组成员，都不能因为考虑不周或出于私利的行为或项目，而置组织于危险之中。
 inPractice: >-
-  #### **The problem with objectives**
+  ## **实践中**
+
+
+  #### **he problem with objectives**
 
 
   In the Orange-Achievement paradigm, objectives and targets are the key drivers for success. They are the glue that holds the organization together, and give meaning to its existence. In the Teal-Evolutionary paradigm, [purpose  ](../listening-to-purpose/)and [values ](../culture-and-values/)drive the organization. The objective is to bring to life the purpose of the organization. There are no formal systems or top-down processes in place for setting objectives and targets. All the functions of management (planning, organizing, direction-setting, investments, budgeting, etc) are done by the people doing the work. In general, Teal-Evolutionary organizations tend not to set objectives or targets.
