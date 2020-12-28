@@ -42,12 +42,10 @@ perspective: >-
 
   [绿色组织](../green-paradigm-and-organizations/)通常仍采用金字塔结构运作，但一线成员的权力和自由度更大些。要求高层管理者分享控制权：领导从实干者、问题解决者和万金油转变为“仆人领导”。这通常是一个“倒金字塔”的象征，底层的CEO支持高层和中层管理人员，后者再来支持一线成员。
 inPractice: >-
-  Although the pyramid disappears in Teal, it would be a mistake to think that
-  self-managing organizations are simply flat and structureless. Teal
-  organizations to date seem to fall into three broad types of structure to fit
-  the context in which they operate. These are described further below. However
-  all share the common attributes of distributed authority and natural
-  hierarchies.
+  ## 实践中
+
+
+  Although the pyramid disappears in Teal, it would be a mistake to think that self-managing organizations are simply flat and structureless. Teal organizations to date seem to fall into three broad types of structure to fit the context in which they operate. These are described further below. However all share the common attributes of distributed authority and natural hierarchies.
 
 
   ##### *Distributed authority*
