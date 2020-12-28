@@ -53,13 +53,13 @@ inPractice: >-
   参照[培训与辅导](../training-and-coaching/)。
 
 
-  ### Storytelling
+  ### 讲故事
 
 
-  If we want workplaces of trust, if we hope for deep, rich, and meaningful relationships, we have to reveal more of who we are. It has become fashionable in many companies, when teams don’t collaborate well, to call for a team-building event. Going bowling together can be a fun break from work, but such activities are generally “more of the same”: they keep to the surface and don’t really foster trust or community at any deep level. These events lack the essential element we have used to build community and create shared narratives since the dawn of time: the practice of storytelling. We have lost track of the power of stories to bring us together, and in the process, we have let communal relations dwindle and erode. We need to recover the power of storytelling, as author Parker Palmer tells us:^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3486-3495). Nelson Parker. Kindle Edition.]
+  如果我们希望办公室有信任，如果我们希望得到深层、丰富而意义深远的人际关系，就需要揭示更多真实的自我，朝向完整的自我表达进发。在很多公司，当发现团队不能良好协作，就召集一个团建活动，这已经成为一种时尚。虽然互相鞠躬道歉可以起到从工作中解脱片刻的娱乐效果，但这类活动通常毫无突破，都只是表面功夫，不能在较深的层面培育真正的信任和社区氛围。这些活动缺乏一个必不可少的重要元素，那是人类从原始时代就一直用来打造社区并建立共享语境的重要手段：讲故事。那些能将我们融合一体的带有赋权力量的故事，大多已经失传了。在这个失传过程中，我们的良好社群关系也被削弱萎缩。我们需要找回讲故事方式的力量，正如作家派克帕默所言：^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3486-3495). Nelson Parker. Kindle Edition.]你越是了解另一个人的经历，就越不容易怀疑和厌恶他。人际关系的信任如何打造？就是更多了解对方。通过能嵌入工作的简单问话来了解对方，打造一个不仅为员工提供工作，同时也能在此过程中荣耀灵魂的办公室。
 
 
-  *The more you know about another person’s journey, the less possible it is to distrust or dislike that person. Want to know how to build relational trust? Learn more about each other. Learn it through simple questions that can be tucked into the doing of work, creating workplaces that not only employ people but honor the soul in the process.*^\[Parker Palmer, “On the Edge: Have the Courage to Lead with Soul,” Journal for Staff Development, National Staff Development Council, Spring 2008.]
+  ^\[Parker Palmer, “On the Edge: Have the Courage to Lead with Soul,” Journal for Staff Development, National Staff Development Council, Spring 2008.]
 
 
   ### Meetings
