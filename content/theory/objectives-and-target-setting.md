@@ -46,10 +46,10 @@ perspective: >-
   用来描述以划一、共识为中心的[绿色组织](../green-paradigm-and-organizations/)的隐喻是“家庭”。绿色对权力和等级制度感到不舒服，所以把指挥和决策权从管理者转移到成员身上。但在实践中，成功的绿色组织模式中确实仍保有层级结构。管理者通常是服务型领导，他们负责支持和促进成员的成长。通常在团队级别上通过协商一致的方式设定目标和指标，以支持预定义的组织愿景和任务。
 
 
-  #### **Teal Organizations**
+  #### **蔚蓝组织**
 
 
-  Using the metaphor of a living system,[Teal organizations](../teal-paradigm-and-organizations/) organize around a clear sense of [purpose ](../listening-to-purpose/)This is not a purpose (mission) set by top management, but one that is allowed to evolve and is shared by all members of the organization.
+  可以用仿生或生物化系统来比喻的[Teal organizations](../teal-paradigm-and-organizations/) organize around a clear sense of [purpose ](../listening-to-purpose/)This is not a purpose (mission) set by top management, but one that is allowed to evolve and is shared by all members of the organization.
 
 
   Aligned with the organization's purpose, planning is based on "sense and respond", with an emphasis on an agile approach to finding workable solutions. This adaptive process is similar to lean start-up and [[software development](https://en.wikipedia.org/wiki/Agile_software_development%7Cagile)] principles. Decision-making is carried out within a framework of organization-wide values and balanced through an [advice process](../decision-making/). Strategy emerges organically from the interaction of employees with the Teal organizational environment. Self-managing employees may set objectives for themselves, or a team may decide on an objective, e.g. faster turnaround time, but there are no sales, efficiency or other targets. The process of seeking advice from colleagues and specialists before committing to a project or change ensures that all aspects, including financial responsibility, is taken into consideration. Part of the value system is that no single member or group of members may put the organization at risk with ill-considered or selfish actions or projects.
