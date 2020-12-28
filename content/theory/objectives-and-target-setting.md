@@ -80,7 +80,7 @@ inPractice: >-
   * 在橙色那种靠成功驱动的世界里，目标总是意味着利益增长，而利益并不总是蔚蓝组织目标的固有元素。
 
 
-  #### **Sense and respond – a new way to determine objectives, goals and strategy**
+  #### **感知与回应 – 设定目标、指标和战略的新方法**
 
 
   Instead of trying to predict and control (the implicit goal behind objectives and targets), Teal organizations sense and respond. You could say that all target setting is instead initiated locally where it is "sensed and responded" to, then cascades or emerges through the organization as a living system as needed.
