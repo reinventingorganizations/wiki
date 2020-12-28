@@ -5,19 +5,15 @@ key: Safe Space
 name: 安全安心空间
 sortOrder: 7
 category: Daily practices
-intro: >-
-  This article covers the topic of how organizations can create a space that
-  enables the safety necessary for colleagues to feel they can show up whole at
-  work.
-
+intro: |-
+  本文讨论的主题是组织如何创建一个，能使同事得到能全身心投入工作所需的安全安心感的空间。
 
   ![](/media/safe-space-medium-small.png)
 perspective: >-
-  [Teal organizations](../teal-paradigm-and-organizations/) aim to establish a
-  safe space that allows colleagues to show up with all of who they are, their
-  masculine as well as their feminine selves, their rational, emotional,
-  intuitive and spiritual selves, their strengths and vulnerability, their
-  deeper hopes and longings. 
+  [蔚蓝组织](../teal-paradigm-and-organizations/) aim to establish a safe space that
+  allows colleagues to show up with all of who they are, their masculine as well
+  as their feminine selves, their rational, emotional, intuitive and spiritual
+  selves, their strengths and vulnerability, their deeper hopes and longings. 
 
 
   ### Red organizations
