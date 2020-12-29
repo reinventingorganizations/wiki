@@ -45,10 +45,10 @@ inPractice: >-
   蔚蓝组织内通常没有固定的职称或工作描述。每个人都兼任多个自己同意并自愿承诺完成的角色。当某人感觉到某个课题或机会在呼唤一个新角色，就会单纯的站出来，申请承担这个角色任务。参见职称和工作描述，以及岗位定义和任务分派。[职称与工作描述](../job-titles-and-job-descriptions/)以及[岗位定义与任务分派](../role-definition-and-allocation/)。
 
 
-  #### Distributed decision-making
+  #### 分布式决策机制
 
 
-  Decision-making is highly distributed. Decisions do not need to be validated by the hierarchy nor by consensus of the community. Any person can make any decision after seeking advice from 1) everyone who will be meaningfully affected, and 2) people with expertise in the matter. See also [Decision Making](../decision-making/).
+  蔚蓝的决策机制具有高度分散性。决策不需要被分级的指令系统批准，也不接受社区的监督。任何人都可以在寻求1）所有被影响到的人，2）在该领域有专长的人的建议之后做任何决策。参见[决策](../decision-making/)。
 
 
   #### Open Information flow
