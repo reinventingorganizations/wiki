@@ -41,10 +41,10 @@ perspective: >-
   在[琥珀模式](../amber-paradigm-and-organizations/)中，购买和投资是由层次金字塔结构中高层的专门成员，按照简单但严格的规则进行决策。伴随着中长期规划的引入和实施，投资不再像红色那么冲动。采购本身可以在组织的较低层次进行，只要遵循预制的规则。通常设计一些确保遵守这些规则的控制机制。
 
 
-  #### Orange organizations
+  #### 橙色组织
 
 
-  In the [Orange paradigm](../orange-paradigm-and-organizations/), the strict general rules of the Amber paradigm become more open and fluid. Rules can be questioned or changed to support innovation. Parts of the organisation are empowered to decide on purchasing and investments within a given range on their own. The [breakthrough of Accountability](../orange-paradigm-and-organizations/) is an important step to distribute investment decisions within the organisation (e.g. into projects) to innovate more and faster. Distributed investment decisions are accepted as long as they follow the overall direction formulated by the top management and the teams reach the desired outcome. A frontline manager might be free to spend up to $1,000 but require authorization from his bosses beyond that amount; a unit manager might have spending power up to $10,000 and a plant manager up to $100,000. Whatever the amounts, the purchase order must generally proceed through a central procurement department that coordinates the relationships and negotiations with suppliers.
+  在[橙色模式](../orange-paradigm-and-organizations/)中，让琥珀范式那种严格的规则变得更加开放和流动。为了支持创新，出现了可以质疑或改变规则的可能性。组织的部分部门可以得到授权自行决定在给定预算范围内的采购和投资。这种 [橙色的自我责任制的突破](../orange-paradigm-and-organizations/)，是将投资决策分配到组织内部（例如项目中）以实现更多更快创新的重要一步。在橙色组织，分布式投资决策是可以接受的，只要能遵循最高管理层制定的总体方向，团队能达成预期结果即可。一个经理的授权可能被定义在10万美元之内，经理要花费10万美元以上就需要上司批准。无论金额多少，采购订单通常必须通过一个中央采购部门集中实施，该部门负责协调与供应商的关系并进行谈判。
 
 
   #### Green organizations
