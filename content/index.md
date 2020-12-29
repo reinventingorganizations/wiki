@@ -13,7 +13,7 @@ intro: >-
   此知识库项目是一种爱的奉献，是一个快乐社区的工作果实，敬献给那些正在世界各地萌芽成长的充满生命激情的蔚蓝组织。真心邀请您[点击此处加入我们](https://cn--reinventingorganizations-wiki.netlify.app/pages/how-can-you-contribute/)，为这个维基知识库添加案例和洞见。
 
 
-  [资料目录](https://cn--reinventingorganizations-wiki.netlify.app/pages/tealpractices/)
+  [资料目录](https://cn.reinventingorganizationswiki.com//pages/tealpractices/)
 
 
   点击下列图像，进入具体文档。
