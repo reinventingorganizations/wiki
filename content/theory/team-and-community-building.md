@@ -54,13 +54,13 @@ inPractice: >-
   [蔚蓝组织](../teal-paradigm-and-organizations/) 鼓励尊重成员的完整人性参与实践和工作。人的感情、思想、身体侧面，有时还包括灵魂侧面都得到尊重和培育。通过开发团队的共同语言来支撑纽带关系，成员用这种特殊而安全的语言来表达自己的感情和思想。蔚蓝组织通过创建和维护[安全而开放的职场](../safe-space/)来支持社区和团队建设。鼓励通过集体反思活动来发展集体智慧。团队建设已经成为这些组织日常工作的有机部分，而不再是“团队外出日”的刻意单独活动。
 
 
-  ### Reflective Practices
+  ### 反思活动
 
 
-  Large and small group reflective practices are used to help people grow their ability to explore and develop an idea.
+  通过全组织大规模和小组规模的反思练习，帮助成员提高探索和发展创新想法的能力。
 
 
-  When everyone can freely express their feelings, thoughts, emotions and needs, space is created for everybody to be themselves and better understand others. People learn to see each other in the light of their humanity and in the beauty of their strengths and vulnerability.
+  创造一个能让每个人都能自由地表达自己的感受、想法、情绪和需求的空间，允许成员做完整而真实的自己并更好的理解他人。人们学会从人性的角度去看待对方，即从接纳对方的人性固有优缺点角度，中立的看待对方。
 
 
   An example practice is:
