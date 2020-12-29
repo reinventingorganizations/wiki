@@ -13,7 +13,7 @@ perspective: >-
   ## 新视角
 
 
-  关于采购和投资[蔚蓝组织](../teal-paradigm-and-organizations/) exhibit the following general measures:
+  关于采购和投资[蔚蓝组织](../teal-paradigm-and-organizations/)一般遵循以下原则：
 
 
   * Anybody can spend any amount provided the [advice process](../decision-making/) is respected.
