@@ -44,13 +44,13 @@ perspective: >-
   #### 橙色组织
 
 
-  在[橙色模式](../orange-paradigm-and-organizations/)中，让琥珀范式那种严格的规则变得更加开放和流动。为了支持创新，出现了可以质疑或改变规则的可能性。组织的部分部门可以得到授权自行决定在给定预算范围内的采购和投资。这种 [橙色的自我责任制的突破](../orange-paradigm-and-organizations/)，是将投资决策分配到组织内部（例如项目中）以实现更多更快创新的重要一步。在橙色组织，分布式投资决策是可以接受的，只要能遵循最高管理层制定的总体方向，团队能达成预期结果即可。一个经理的授权可能被定义在10万美元之内，经理要花费10万美元以上就需要上司批准。无论金额多少，采购订单通常必须通过一个中央采购部门集中实施，该部门负责协调与供应商的关系并进行谈判。
+  在[橙色模式](../orange-paradigm-and-organizations/)中，让琥珀范式那种严格的规则变得更加开放和流动。为了支持创新，出现了可以质疑或改变规则的可能性。组织的部分部门可以得到授权自行决定在给定预算范围内的采购和投资。这种 [橙色的突破性自我责任制](../orange-paradigm-and-organizations/)，是将投资决策分配到组织内部（例如项目中）以实现更多更快创新的重要一步。在橙色组织，分布式投资决策是可以接受的，只要能遵循最高管理层制定的总体方向，团队能达成预期结果即可。一个经理的授权可能被定义在10万美元之内，经理要花费10万美元以上就需要上司批准。无论金额多少，采购订单通常必须通过一个中央采购部门集中实施，该部门负责协调与供应商的关系并进行谈判。
 
 
-  #### Green organizations
+  #### 绿色组织
 
 
-  The [Green paradigm](../green-paradigm-and-organizations/) decisions about purchasing and investments are pushed more to the frontline workers. The top down planning of [Orange organisations](../orange-paradigm-and-organizations/) is enriched by bottom up processes involving the operational experts. The [breakthough Empowerment](../green-paradigm-and-organizations/) activates creativity and responsibility of the teams giving enough space to purchase or invest within budget boundaries and within the values system of the organisation. Most organizations still have authorization limits in place. More decentralized or distributed procurement processes (often supported by software tools) should speed up decision processes and enhance the agility of operations teams.
+  [绿色模式](../green-paradigm-and-organizations/)将关于采购和投资的决策进一步推到了一线成员身上。[橙色组织](../orange-paradigm-and-organizations/)那种自上而下的规划，在绿色中通过采用运营专家支撑的自下而上流程而得到丰富。[breakthough Empowerment](../green-paradigm-and-organizations/) activates creativity and responsibility of the teams giving enough space to purchase or invest within budget boundaries and within the values system of the organisation. Most organizations still have authorization limits in place. More decentralized or distributed procurement processes (often supported by software tools) should speed up decision processes and enhance the agility of operations teams.
 inPractice: >-
   #### Anybody can spend any amount provide the advice process is respected
 
