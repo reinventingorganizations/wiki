@@ -81,10 +81,10 @@ inPractice: >-
   在面试谈话中要探讨的第二个方面是：此人是否会在组织中崭露头角？他或她会在自组织的环境中茁壮成长吗？求职者是否感觉到与组织价值观的一致？他或她是否能与同事“合得来”？许多蔚蓝组织，比如 [晨星](http://www.morningstarco.com/)，会在招聘期间就对应聘者进行自我管理方面的培训，给求职者据此确认自己是否喜欢这些做法的机会。有些蔚蓝组织还在招聘过程中创造机会，对公司和应聘者双方的价值观进行深入讨论。
 
 
-  ##### ***Fit with purpose***
+  ##### 目标适配性
 
 
-  Finally, is the person energized by the organizations’ [purpose](../listening-to-purpose/)? Is there something in the person's history that makes them resonate, makes them want to serve this purpose at this moment in their life? The discussion triggered by these questions can reach substantial depth and help both the candidate and the organization learn more about themselves. Recruitment becomes a process of self-inquiry as much as a process of mutual assessment.
+  第三也是最后一个角度，成员是否能被组织的[目标](../listening-to-purpose/)激励？在这个人的经历中，是否存在着一些要素，能与组织目标共鸣，并支撑他们在生命的这个时刻愿意为这个目标服务？这些问题引发的讨论可以达到实质性的深度，有助于候选人和组织都更进一步的了解自己。招聘既是一个相互评估的过程，也是一个自我探究的过程。
 
 
   ##### ***Testing the match***
