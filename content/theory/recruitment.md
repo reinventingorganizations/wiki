@@ -60,7 +60,7 @@ inPractice: >-
   蔚蓝组织则尝试鼓励双方尽可能坦诚相待。面试由未来的队友主持，目的只是想决定是否愿意每天都和候选人一起工作。如果确认了适配性，团队再进一步可以寻求人力资源部（如果有的话）的建议和咨询，但招聘采用的流程和决策由团队全权负责。对话沟通达10到12次也不罕见，目的是为双方提供时间相互感受，并据此确定这个适配是否对团队和候选人都有益。
 
 
-  Teammates have no recruitment targets to make and tend to be honest about their workplace. If they oversell the company to their potential new teammate, they would have to live with the consequences of that on a daily basis. Because team members tend to be honest about the workplace, candidates feel invited to be honest too. Candidates often meet all their future colleagues, tour the premises, are invited to genuinely ask all sorts of questions to determine if it really is a place they feel called to work for. Many Teal Organizations report that their recruitment process and decisions can take significantly longer than usual. They sometimes accept slower growth, keeping a posting open until they find a person that fits not only the job opening but also the organization and its purpose.
+  因负责招聘的团队成员没有招聘人数作为业绩指标，所以往往对自己工作场所的介绍会更加坦诚而不加渲染。如果他们向潜在的新队友过度推销公司，以后共事时，后自己每天都要承受由此带来的埋怨。团队成员关于工作场所介绍时的坦诚相待，会让求职者觉得自我介绍也应该诚实。应征者一般要去会见未来的同事，参观办公场所，被邀请真诚的提各种各样的问题，据此确定这里是否真的是自己觉得有必要为之工作（奉献）的职场。许多蔚蓝组织报告说，他们的招聘过程和采用决定，一般会比其他组织花费更长的时间。他们有时会牺牲组织的人员增长速度，而等待找到一个不仅适合职位空缺，同时适配于组织及其目标的人。
 
 
   #### **What makes for a good fit**
