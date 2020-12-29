@@ -54,7 +54,7 @@ inPractice: >-
   #### **团队招聘**
 
 
-  In traditional organizations, recruitment processes are regularly handled by Human Resources personnel. Their interest is to quickly fill an open position with a suitable candidate  as their performance is sometimes measured by the number of job openings that they fill. It is in their best interest to present a positive view of the company and the role in order to encourage the candidate to accept the offer. In the same way, candidates try to present themselves and their job experience in the most positive light to increase the chances that they will receive an offer of employment.
+  在传统组织中，招聘过程通常由人力资源职能处理。他们的兴趣是迅速的聘到合适的候选人填补空缺职位，因为人力资源部门的业绩有时是根据填补职位空缺的数量来评估。人力资源职能的最大兴趣在于，积极渲染推销公司和职位，以鼓励应聘者接受录用。同样，求职者也会尽量积极渲染展示自己和工作经历，以增加获得就业承诺的机会。
 
 
   Teal organizations try to encourage both parties to be as truthful as possible with each other. The interviews are handled by future teammates who simply want to decide if they want to work with the candidate on a daily basis. The team can take advice and counsel from HR if such a function exists, but they are in charge of the process and decision. Having 10 to 12 conversations is not unusual to provide time for both parties to feel each other out and establish if the fit will work well for the team and the candidate.
