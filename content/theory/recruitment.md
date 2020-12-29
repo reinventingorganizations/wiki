@@ -5,9 +5,7 @@ key: Recruitment
 name: 招聘
 sortOrder: 1
 category: People practices
-intro: This topic addresses recruitment and describes the processes for how
-  external candidates are recruited into the organization, including  who
-  recruits and how the interview process is conducted.
+intro: 此文讨论招聘主题，介绍征聘外部候选人进入组织的具体流程，包括谁负责招聘人员以及具体面试流程的做法。
 perspective: >-
   In [Teal organizations](../teal-paradigm-and-organizations), recruitment is
   led by the team in need of a new member. Conversations with candidates tend to
