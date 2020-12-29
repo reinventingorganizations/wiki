@@ -39,10 +39,10 @@ inPractice: >-
   蔚蓝组织内不存在固定的权力金字塔分层。团队内外都不存在上司。基本的上下级关系被平等同事为主的双向承诺关系替代。决策权和力量会流动到任何有专长、有兴趣，或有热情自愿走上前台，对某个场景做出贡献的成员那里。流动性的、自然形成的阶层，替代了传统金字塔等级的固定权力构造，于是组织不再需要组织结构图。参见[组织结构](../organizational-structure/)。
 
 
-  #### No job descriptions or job titles
+  #### 无固定的职称或工作描述
 
 
-  There are typically no job descriptions or job titles in Teal organizations. Rather each individual has a number of roles that he/she has agreed to and committed to fulfill. When someone senses an issue or an opportunity that calls for a new role, someone simply steps forward and offers to take on that role. See also [Job Titles and Job Descriptions](../job-titles-and-job-descriptions/) and [Role Definition and Allocation](../role-definition-and-allocation/).
+  蔚蓝组织内通常没有固定的职称或工作描述。每个人都兼任多个自己同意并自愿承诺完成的角色。当某人感觉到某个课题或机会在呼唤一个新角色，就会单纯的站出来，申请承担这个角色任务。参见职称和工作描述，以及岗位定义和任务分派。[职称与工作描述](../job-titles-and-job-descriptions/)以及[岗位定义与任务分派](../role-definition-and-allocation/)。
 
 
   #### Distributed decision-making
