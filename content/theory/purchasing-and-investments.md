@@ -5,16 +5,15 @@ key: Purchasing and Investments
 name: 采购与投资
 sortOrder: 4
 category: Important Processes
-intro: >-
-  This article describes how purchasing and investments are handled in Teal
-  organisations.
-
+intro: |-
+  本文描述蔚蓝组织如何处理采购和投资。
 
   ![](/media/compensation-and-incentives.jpg)
 perspective: >-
-  With respect to purchasing and investments, [Teal
-  organizations](../teal-paradigm-and-organizations/) exhibit the following
-  general measures:
+  ## 新视角
+
+
+  关于采购和投资[蔚蓝组织](../teal-paradigm-and-organizations/) exhibit the following general measures:
 
 
   * Anybody can spend any amount provided the [advice process](../decision-making/) is respected.
