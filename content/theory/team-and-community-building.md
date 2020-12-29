@@ -76,16 +76,16 @@ inPractice: >-
   会议不设置照本宣科的期待成果，也不定义预期的产出物；每个人在会议结束后都会有独特的个人学习收获。
 
 
-  ### Peer coaching
+  ### 同事辅导
 
 
-  Peer coaching is a process that allows an individual to draw on the power of the team to address a specific issue. It is often a deeply nourishing process for the individual and valuable bonding experience for the team as they share their wisdom and knowledge.
+  同侪辅导流程，允许成员汲取团队力量来解决自己的某个特定难题。这不仅对个人来说是个深刻滋养的成长过程，团队也通过分享智慧和知识而获得强化纽带关系的体验。
 
 
-  ### Silence
+  ### 静默
 
 
-  To listen to our inner wisdom , we need to find time to slow down and be still amidst the noise and buzz of the work place. Teal organizations typically support practices of mindfulness and silence in the workplace. Organizations like [Sounds True](http://www.soundstrue.com/) or [Heiligenfeld ](http://www.heiligenfeld.de/)offer space and time for silence or meditation, sometimes when the day starts, or at points during the working day. Collaborating in silence brings a special quality to relationships between colleagues. It requires a new level of mindfulness, listening less to what colleagues say, and more to their presence, feelings, and intentions.
+  成员在职场的喧嚣和嘈杂中，需要时常找到时间让自己慢下来静静心，倾听自己的内在智慧。蔚蓝组织支持职场的觉察和静默瞬间。[桑楚](http://www.soundstrue.com/)或[海利格菲尔德](http://www.heiligenfeld.de/)等组织，都提供正式的静默或冥想的空间和时间，有时是在一天开始的时候，有时则是在工作日中的某个时候。在群体静默中的协作体验能给同事关系赋予一种特殊的内在连接感。静默催化一种新的觉察和正念水平，因不是在听同事的口头话语，而是在聆听其临在，感受和内在意图（心灵沟通）。
 
 
   ### Team supervision / Conflict resolution
