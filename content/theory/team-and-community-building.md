@@ -45,10 +45,13 @@ perspective: >-
 
   在[蔚蓝组织](../teal-paradigm-and-organizations/)中，人与人之间强大的纽带关系带来的力量，往往会培育出一个激励倾听集体智慧的环境。每个人都以自己的方式做出贡献，都认识到当团队繁荣时，自己自然就会茁壮成长。鼓励人们全身心投入工作，在一个值得信赖的环境中自由而放心的分享自己的性格弱点、想法和优势。蔚蓝组织采用的实践流程能支持开放而信任的沟通，激励职场的创造力。也经常成员鼓励花时间静下来，通过冥想或静默练习来反思而提升内在自我。
 inPractice: >-
-  ### Bringing our whole selves to work
+  ## 实践中
 
 
-  [Teal organizations](../teal-paradigm-and-organizations/) encourage practices and ways of working that honor the whole person. Feelings, thoughts, physical attributes and in some cases spiritual aspects of life are celebrated. Connection is supported by the development of a common language for people to express their feelings and thoughts. Teal organizations support community and team building by creating and attending to a [safe and open workplace](../safe-space/). Practices of group reflection are encouraged to develop collective intelligence. Team building becomes part of the day to day work of these organizations and is no longer a separate activity for "team away days".
+  ### 将完整人性带入职场
+
+
+  [蔚蓝组织](../teal-paradigm-and-organizations/) 鼓励尊重成员的完整人性参与实践和工作。人的感情、思想、身体侧面，有时还包括灵魂侧面都得到尊重和培育。通过开发团队的共同语言来支撑纽带关系，成员用这种特殊而安全的语言来表达自己的感情和思想。蔚蓝组织通过创建和维护[安全而开放的职场](../safe-space/)来支持社区和团队建设。鼓励通过集体反思活动来发展集体智慧。团队建设已经成为这些组织日常工作的有机部分，而不再是“团队外出日”的刻意单独活动。
 
 
   ### Reflective Practices
