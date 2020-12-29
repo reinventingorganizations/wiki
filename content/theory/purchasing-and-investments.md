@@ -18,9 +18,9 @@ perspective: >-
 
   * 任何人都可以决策支出任何金额，只要遵循[建议流程](../decision-making/)即可。
 
-  * The one who suggested an investment takes the responsibility to conduct and monitor the purchasing process.
+  * 建议投资的人负责实施并监督采购过程。
 
-  * Team investment budgets and purchasing can be challenged by peers.
+  * 团队投资预算和采购决策，可能会受到组织内其他同类团队的类比挑战。
 
 
   Employees’ power to make decisions using the [advice process](../decision-making/) is perhaps most evident when it comes to spending company money. In [self-managing](../self-management/) organizations there are no authorization limits and no procurement departments. Employees or teams do the analysis, create the necessary specifications, visit and negotiate with suppliers, and even secure financing from the bank if needed.
