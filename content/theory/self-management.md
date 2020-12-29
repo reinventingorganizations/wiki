@@ -51,10 +51,13 @@ inPractice: >-
   蔚蓝的决策机制具有高度分散性。决策不需要被分级的指令系统批准，也不接受社区的监督。任何人都可以在寻求1）所有被影响到的人，2）在该领域有专长的人的建议之后做任何决策。参见[决策](../decision-making/)。
 
 
-  #### Open Information flow
+  #### 开放的信息流
 
 
-  Everybody is given access to all information at the same time. See also [Information Flow](../information-flow/).
+  每个人都同时被赋予全部信息的访问权。参见[信息流](../information-flow/)
+
+
+  #### Everybody is given access to all information at the same time. See also.每个人都同时被赋予全部信息的访问权。参见
 
 
   #### Conflict resolution
