@@ -19,7 +19,7 @@ perspective: >-
   ### 红色组织
 
 
-  在[红色组织](../red-organizations/), teams are held by the leader’s charisma and his ability to transmit his energy and goals to his employees. The leader’s strength and power protects the community from its fears and worries about the outside world.
+  在[红色组织](../red-organizations/)中，团队是靠领导者的魅力和及其向成员传递能量和目标的能力来维持。领袖的力量和权力保护着本社区，减少对外界威胁的恐惧和担忧。
 
 
   ### Amber organizations
