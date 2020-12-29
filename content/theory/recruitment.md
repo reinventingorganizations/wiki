@@ -57,7 +57,7 @@ inPractice: >-
   在传统组织中，招聘过程通常由人力资源职能处理。他们的兴趣是迅速的聘到合适的候选人填补空缺职位，因为人力资源部门的业绩有时是根据填补职位空缺的数量来评估。人力资源职能的最大兴趣在于，积极渲染推销公司和职位，以鼓励应聘者接受录用。同样，求职者也会尽量积极渲染展示自己和工作经历，以增加获得就业承诺的机会。
 
 
-  Teal organizations try to encourage both parties to be as truthful as possible with each other. The interviews are handled by future teammates who simply want to decide if they want to work with the candidate on a daily basis. The team can take advice and counsel from HR if such a function exists, but they are in charge of the process and decision. Having 10 to 12 conversations is not unusual to provide time for both parties to feel each other out and establish if the fit will work well for the team and the candidate.
+  蔚蓝组织则尝试鼓励双方尽可能坦诚相待。面试由未来的队友主持，目的只是想决定是否愿意每天都和候选人一起工作。如果确认了适配性，团队再进一步可以寻求人力资源部（如果有的话）的建议和咨询，但招聘采用的流程和决策由团队全权负责。对话沟通达10到12次也不罕见，目的是为双方提供时间相互感受，并据此确定这个适配是否对团队和候选人都有益。
 
 
   Teammates have no recruitment targets to make and tend to be honest about their workplace. If they oversell the company to their potential new teammate, they would have to live with the consequences of that on a daily basis. Because team members tend to be honest about the workplace, candidates feel invited to be honest too. Candidates often meet all their future colleagues, tour the premises, are invited to genuinely ask all sorts of questions to determine if it really is a place they feel called to work for. Many Teal Organizations report that their recruitment process and decisions can take significantly longer than usual. They sometimes accept slower growth, keeping a posting open until they find a person that fits not only the job opening but also the organization and its purpose.
