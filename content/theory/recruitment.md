@@ -43,7 +43,7 @@ perspective: >-
   #### **蔚蓝组织**
 
 
-  In [Teal Organizations,](../teal-paradigm-and-organizations/) recruitment is led by the team in need of a new member, not by Human Resources (often, an HR function doesn’t exist.) Conversations with candidates tend to center around three topics: Fit with the role, fit with the organization, and fit with the purpose. The last two are often considered more important, as in self-managing organizations, there is much fluidity around roles.
+  在[蔚蓝组织](../teal-paradigm-and-organizations/)中，招聘不是由人力资源（通常不存在固定的人力资源职能）负责，而是由需要新成员的团队领导负责。与应聘者的沟通往往围绕三个主题展开：角色适配性、组织适配性、目标适配性。通常更重视后两个要素，因为在自我管理组织中，职位角色流动性很大。
 
 
   Teal organizations try to be mindful of the temptation to ‘look good’ to candidates during recruitment. The premise is that both parties are trying to answer one simple, fundamental question: Do we sense that we are meant to journey together? This question can only be meaningfully answered when conversations are rooted in honesty and integrity, with a willingness to inquire deeply and openly.
