@@ -88,28 +88,26 @@ inPractice: >-
   成员在职场的喧嚣和嘈杂中，需要时常找到时间让自己慢下来静静心，倾听自己的内在智慧。蔚蓝组织支持职场的觉察和静默瞬间。[桑楚](http://www.soundstrue.com/)或[海利格菲尔德](http://www.heiligenfeld.de/)等组织，都提供正式的静默或冥想的空间和时间，有时是在一天开始的时候，有时则是在工作日中的某个时候。在群体静默中的协作体验能给同事关系赋予一种特殊的内在连接感。静默催化一种新的觉察和正念水平，因不是在听同事的口头话语，而是在聆听其临在，感受和内在意图（心灵沟通）。
 
 
-  ### Team supervision / Conflict resolution
+  ### 团队监督/冲突解决
 
 
-  Working in teams, which is what most people do in [self-managing ](../self-management/)organizations, invariably brings up tensions. Employees run into colleagues with different styles, preferences, and belief systems. They can choose, as most organizations do, to sweep the tensions under the rug. Or they can choose to confront and address them. Doing so invariably allows those involved to grow. When tensions and feelings are shared in a productive and respectful way, issues can be identified and resolved for the good of the organization. [Conflict resolution](../conflict-resolution/) skills are thus often necessary to improve team work.
+  多数[自我管理](../self-management/)的蔚蓝组织以团队方式协同工作，于是有人群就有冲突，这总会带来紧张感。在团队中，成员会遇到各种不同风格、偏好和信仰体系的同事。我们选择积极面对并尝试解决这些问题，而不是习惯性的掩盖紧张局势。这会促进相关人员的身心成长。通过有效而相互尊重的方式分享紧张关系和感受，让大家为了组织的利益而积极的识别和解决问题。[冲突解决](../conflict-resolution/)的技能通常是提高团队合作效率的必要条件。其实外在冲突如此，个人的内在冲突也是如此，相辅相成。
 
 
-  ### Storytelling
+  ### 讲故事
 
 
-  When we reveal more of who we are, we have an opportunity to create deep, rich, and meaningful relationships. Many Teal organizations have found that story telling, is an effective way of doing this.  Storytelling is woven into many of the recurring practices of the organization.
+  当成员愿意更多地揭示自己到底是谁时（不戴伪装面具，真实的表达自我），就能有机会建立深厚、丰富而有意义的人际关系。讲故事对此很有帮助。蔚蓝把讲故事融入各种重复性活动。
 
 
-  For example, at a staff retreat, a question might find its way into the program:
+  例如，在员工休养会上，在议程上可能自然浮现出来一些话题：
+
+  “能否给我们分享一下关于你生命中很重要的长者之一的故事？”
+
+  “能否给大家分享一下你挣的第一块钱？”
 
 
-  “Tell us about an elder who has been important in your life?”
-
-
-  “Tell us about the first dollar you ever earned?”
-
-
-  People are invited to share their stories if they want to. The practice is simple and yet it allows people to share a defining moment with their colleagues. Such questions can be built into recruitment, on boarding processes, training workshops, annual evaluations, staff retreats, and large group processes (such as Appreciative Inquiry, Theory U, Open Space, World Cafe).
+  自愿分享者会接受邀请而分享自己的故事。这种做法虽然很简单，但是能允许人们与同事分享一个强化纽带和信任的决定性时刻。也可以将这些提问穿插在招聘，入职流程，培训讲座，年度评估，员工旅行，以及组织全体参与的大规模活动（比如赞赏会，U定理，开放空间，世界咖啡馆等）中。
 faq:
   - question: Aren't these practices time consuming?
     answer: "It’s a time-consuming practice for sure but generally when done
@@ -129,4 +127,3 @@ relatedTheory:
   - Creating Safe Space
   - Mood Management
 ---
-removed
