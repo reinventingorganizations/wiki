@@ -87,10 +87,10 @@ inPractice: >-
   第三也是最后一个角度，成员是否能被组织的[目标](../listening-to-purpose/)激励？在这个人的经历中，是否存在着一些要素，能与组织目标共鸣，并支撑他们在生命的这个时刻愿意为这个目标服务？这些问题引发的讨论可以达到实质性的深度，有助于候选人和组织都更进一步的了解自己。招聘既是一个相互评估的过程，也是一个自我探究的过程。
 
 
-  ##### ***Testing the match***
+  ##### 适配性测试
 
 
-  Trial periods are common in Teal organizations. Some organizations such as [FAVI ](http://www.favi.com/en/)make extended use of this period for both parties to test whether the match works well in the long run. [Zappos ](https://en.wikipedia.org/wiki/Zappos)offers its new hires a $3,000 check if they have second thoughts and choose to quit during the four-week orientation. The idea is that everyone will be better off if they don’t stay in what promises to be an unhappy marriage.
+  试用期在蔚蓝组织中很常见。一些组织，比如[法维](http://www.favi.com/en/)make extended use of this period for both parties to test whether the match works well in the long run. [Zappos ](https://en.wikipedia.org/wiki/Zappos)offers its new hires a $3,000 check if they have second thoughts and choose to quit during the four-week orientation. The idea is that everyone will be better off if they don’t stay in what promises to be an unhappy marriage.
 faq:
   - question: Is everybody a good fit for a Teal organization? Are there people who
       can't adapt to such a workplace?
