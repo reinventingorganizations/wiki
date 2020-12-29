@@ -43,7 +43,7 @@ perspective: >-
   ### 蔚蓝组织
 
 
-  在[蔚蓝组织](../teal-paradigm-and-organizations/), the strength of connection between people tends to produce an environment where collective intelligence is encouraged and listened to. Everyone contributes in their own way, recognizing that when the group thrives – they thrive. People are encouraged to bring all of themselves to work , sharing vulnerability, ideas and strengths in a trustful environment. They use practices that support open and trusting communication, encouraging creativity in the workplace. They also often encourage taking time to be still and reflective through meditation or silent practices.
+  在[蔚蓝组织](../teal-paradigm-and-organizations/)中，人与人之间强大的纽带关系带来的力量，往往会培育出一个激励倾听集体智慧的环境。每个人都以自己的方式做出贡献，都认识到当团队繁荣时，自己自然就会茁壮成长。鼓励人们全身心投入工作，在一个值得信赖的环境中自由而放心的分享自己的性格弱点、想法和优势。蔚蓝组织采用的实践流程能支持开放而信任的沟通，激励职场的创造力。也经常成员鼓励花时间静下来，通过冥想或静默练习来反思而提升内在自我。
 inPractice: >-
   ### Bringing our whole selves to work
 
