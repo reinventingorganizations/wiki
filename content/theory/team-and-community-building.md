@@ -5,10 +5,7 @@ key: Team and Community Building
 name: 团队与社区建设
 sortOrder: 8
 category: Daily practices
-intro: Team / Community Building is a key factor in group achievements. The
-  effectiveness of a team depends on the relationships between team members and
-  their appreciation of the collective consciousness of the group. This section
-  looks at different approaches and ways to strengthen the bonds within a team.
+intro: 团队/社区建设是组织成功的关键因素。团队的有效性取决于团队成员之间的关系及其对团队集体意识的赞赏感激和理解。本节介绍加强团队内部连接纽带的不同努力和方法。
 perspective: >-
   In [Teal organizations](../teal-paradigm-and-organizations/), teams are guided
   by a common [purpose ](../listening-to-purpose/)and a high level of awareness
