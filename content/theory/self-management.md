@@ -54,16 +54,13 @@ inPractice: >-
   #### 开放的信息流
 
 
-  每个人都同时被赋予全部信息的访问权。参见[信息流](../information-flow/)
+  每个人都同时被赋予全部信息的访问权。参见[信息流](../information-flow/)。
 
 
-  #### Everybody is given access to all information at the same time. See also.每个人都同时被赋予全部信息的访问权。参见
+  #### 冲突解决
 
 
-  #### Conflict resolution
-
-
-  Disagreements are resolved among peers using a well defined conflict resolution process. Peers hold each other accountable for their mutual commitments. See also [Conflict Resolution](../conflict-resolution/).
+  在同事之间意见不一致时，自行利用一种精确定义的冲突解决流程来解决。同事互相依赖，信任各自的双向承诺。参见 [冲突解决](../conflict-resolution/)。
 faq:
   - question: Is there any evidence this actually works?
     answer: >-
@@ -114,4 +111,3 @@ faq:
 
       *Morning Star is a collection of naturally dynamic hierarchies. There isn’t one formal hierarchy; there are many informal ones. On any issue some colleagues will have a bigger say than others will, depending on their expertise and willingness to help. These are hierarchies of influence, not position, and they’re built from the bottom up. At Morning Star one accumulates authority by demonstrating expertise, helping peers, and adding value. Stop doing those things, and your influence wanes— as will your pay.*^\[Gary Hamel, “First, Let’s Fire All the Managers,” Harvard Business Review, December 2011, http:// hbr.org/ 2011/ 12/ first-lets-fire-all-the-managers, accessed April 11, 2012.]
 ---
-remove
