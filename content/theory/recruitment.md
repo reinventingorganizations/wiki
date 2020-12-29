@@ -19,13 +19,13 @@ perspective: >-
   #### **红色组织**
 
 
-  In [Red organizations](../red-organizations/), loyalty is key. The chief surrounds himself with family members or other people he feels he can trust or keep in line through both fear and a promise to take care of them. Recruitment boils down to co-option, and there are often ritualized joining practices where the newcomer chooses allegiance to the boss, who offers protection in return. 
+  在[红色组织](../red-organizations/)中，忠诚是关键。酋长选择一群人簇拥在身侧，通常是家人，可信者或服从者，既用来克服恐惧，也承诺照顾他们。招聘归结为双向选择或指派，而且在新成员加入时通常举行一个仪式，新人给出效忠老板的誓言，老板作为回报承诺为他提供保护。
 
 
-  #### **Amber Organizations**
+  #### **琥珀组织**
 
 
-  In [Amber organizations](../amber-paradigm-and-organizations/), social stratification is the basis for recruitment. To apply for a job, candidates need to have a specific background. Historically, this hierarchical stratification in organizations paralleled social stratification: priests were recruited from peasantry; bishops and cardinals, from aristocracy. A man (and certainly a woman) born into the working class would not aspire to a management position, and once entering the organization, would not climb high. Today’s Amber organizations still tend to abide by social stratification, albeit in subtler ways. In government agencies, schools, and the military, positions higher than a certain level often still require a specific diploma or a certain number of years of experience. The person recruited might not be the most qualified, but the one that meets all the criteria.
+  在[琥珀组织](../amber-paradigm-and-organizations/), social stratification is the basis for recruitment. To apply for a job, candidates need to have a specific background. Historically, this hierarchical stratification in organizations paralleled social stratification: priests were recruited from peasantry; bishops and cardinals, from aristocracy. A man (and certainly a woman) born into the working class would not aspire to a management position, and once entering the organization, would not climb high. Today’s Amber organizations still tend to abide by social stratification, albeit in subtler ways. In government agencies, schools, and the military, positions higher than a certain level often still require a specific diploma or a certain number of years of experience. The person recruited might not be the most qualified, but the one that meets all the criteria.
 
 
   #### **Orange organizations**
