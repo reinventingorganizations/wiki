@@ -46,9 +46,12 @@ perspective: >-
   在[蔚蓝组织](../teal-paradigm-and-organizations/)中，招聘不是由人力资源（通常不存在固定的人力资源职能）负责，而是由需要新成员的团队领导负责。与应聘者的沟通往往围绕三个主题展开：角色适配性、组织适配性、目标适配性。通常更重视后两个要素，因为在自我管理组织中，职位角色流动性很大。
 
 
-  Teal organizations try to be mindful of the temptation to ‘look good’ to candidates during recruitment. The premise is that both parties are trying to answer one simple, fundamental question: Do we sense that we are meant to journey together? This question can only be meaningfully answered when conversations are rooted in honesty and integrity, with a willingness to inquire deeply and openly.
+  蔚蓝组织尽量不在招聘期间，给求职者带来这个职场“看上去很好”的诱惑（不推销）。面试时双方都在试图回答一个简单的、基本的问题：是否感觉到我们注定要一起走？只有当谈话根植于诚实和正直，只有双方愿意深入坦诚的沟通并询问时，才能有意义地回答这个问题。
 inPractice: >-
-  #### **Team recruitment**
+  ## **实践中**
+
+
+  #### **团队招聘**
 
 
   In traditional organizations, recruitment processes are regularly handled by Human Resources personnel. Their interest is to quickly fill an open position with a suitable candidate  as their performance is sometimes measured by the number of job openings that they fill. It is in their best interest to present a positive view of the company and the role in order to encourage the candidate to accept the offer. In the same way, candidates try to present themselves and their job experience in the most positive light to increase the chances that they will receive an offer of employment.
