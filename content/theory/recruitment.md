@@ -34,13 +34,13 @@ perspective: >-
   [橙色组织](../orange-paradigm-and-organizations/)追求业绩、效率和创新，这决定了他们的招聘工作焦点是挑选最佳候选人。条件一般是，具有最佳技能、最相关经验和专门知识，能立刻发挥具体作用、具有未来发展最佳潜力。在一些大公司，面试由专门的人力资源人员（寻找公司最高领导职务时则由外部“猎头”公司）主持，大多数情况下，人力资源和此人未来的上司共同主持面试。橙色组织为了提高征聘成功率而投入大量资源和大量努力，开发了面试技术和面试方法培训，以及各种评估工具。
 
 
-  #### **Green organizations**
+  #### **绿色组织**
 
 
-  In[ Green organizations](../green-paradigm-and-organizations/), recruitment revolves around shared culture as much as on the specific skills of the candidate. Candidates for management positions are rigorously screened on their mindset, behavior and values: are they ready to empower their subordinates, to be a coach rather than a top-down decision maker? Will they lead with humility? The focus on culture elevates human resources to a central role. 
+  在[绿色组织](../green-paradigm-and-organizations/)中，招聘时围绕着共享文化对候选人进行考量，与对具体技能的考量放在同等比重。管理职位候选人的心态、行为和价值观角度会受到严格的筛选：考量他们是否有授权下属的意愿和能力，是否能成为导师而不是自上而下的决策者？他们会谦逊地领导吗？注重以人为本的文化方位，将人力资源职能推到了中心位置。
 
 
-  #### **Teal Organizations**
+  #### **蔚蓝组织**
 
 
   In [Teal Organizations,](../teal-paradigm-and-organizations/) recruitment is led by the team in need of a new member, not by Human Resources (often, an HR function doesn’t exist.) Conversations with candidates tend to center around three topics: Fit with the role, fit with the organization, and fit with the purpose. The last two are often considered more important, as in self-managing organizations, there is much fluidity around roles.
