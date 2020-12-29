@@ -16,7 +16,7 @@ perspective: >-
   关于采购和投资[蔚蓝组织](../teal-paradigm-and-organizations/)一般遵循以下原则：
 
 
-  * Anybody can spend any amount provided the [advice process](../decision-making/) is respected.
+  * 任何人都可以决策支出任何金额，只要遵循[建议流程](../decision-making/)即可。
 
   * The one who suggested an investment takes the responsibility to conduct and monitor the purchasing process.
 
