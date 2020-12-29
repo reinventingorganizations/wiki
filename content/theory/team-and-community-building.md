@@ -63,17 +63,17 @@ inPractice: >-
   创造一个能让每个人都能自由地表达自己的感受、想法、情绪和需求的空间，允许成员做完整而真实的自己并更好的理解他人。人们学会从人性的角度去看待对方，即从接纳对方的人性固有优缺点角度，中立的看待对方。
 
 
-  An example practice is:
+  活动案例：
 
 
-  * A topic is selected and presented by someone. Then small groups of people (between 6-10) share their reflections and feelings. 
+  * 某人选择并提出一个话题。然后一小群人（6-10人）都分享自己的想法和感受。
 
-  * The facilitator establishes a few ground rules to create a safe space that allows people to be authentic and vulnerable in their exploration.
+  * 主持人制定一些基本规则，来创造一个安心安全的空间，让人们在反思探索中能自由表达完整人性的真实和脆弱。
 
-  * There is no scripted outcome to these meetings, no expected end product; everyone comes out of the meeting with his or her own personal learning.
+  * 会议不设置照本宣科的期待成果，也不定义预期的产出物；每个人在会议结束后都会有独特的个人学习收获。
 
 
-  Often, collective insights emerge, as well as decisions and initiatives that are then carried out when people go back to work.
+  会议不设置照本宣科的期待成果，也不定义预期的产出物；每个人在会议结束后都会有独特的个人学习收获。
 
 
   ### Peer coaching
