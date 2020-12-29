@@ -24,19 +24,19 @@ inPractice: >-
   ## 实践中
 
 
-  Self-management in Teal comes about through a combination of innovative structures and processes. These are described in detail throughout the wiki, but a few are highlighted below:
+  蔚蓝组织内的自我管理通过创新的结构＋程的组合运作来实现。这些会在此网站分别详述。这里给出一些亮点：
 
 
-  #### Autonomous teams
+  #### 团队自治
 
 
-  The most common structure of Teal organizations are interdependent networks of small, autonomous teams. The nature of these networks will take a variety of forms, depending on the characteristics of their industry and environment, but all consist primarily of teams, usually 10-20 people, that self-organize and are not under the authority of anyone outside the team.
+  蔚蓝组织最常见的结构是由小型的自治团队组成的互相依赖的网络构造。这些网络的特征多种多样，随着组织的行业特点和环境而不同，但基本细胞都是团队，一般由10-20人组成，具有自组织特性，不存在任何团队外部的上司。
 
 
-  #### No bosses or organization chart
+  #### 无上司或组织层级图
 
 
-  There are no fixed hierarchies of authority in Teal organizations. There are no bosses within or outside of the teams. The primacy of the boss-subordinate relationship is replaced with peer-based mutual commitments. Decision rights and power flow to any individual who has the expertise, interest, or willingness to step in and contribute to a situation. Fluid, natural hierarchies replace the fixed power hierarchies of the traditional pyramid - leaving the organization without an organizational chart. See also [Organizational Structure](../organizational-structure/).
+  蔚蓝组织内不存在固定的权力金字塔分层。团队内外都不存在上司。基本的上下级关系被平等同事为主的双向承诺关系替代。决策权和力量会流动到任何有专长、有兴趣，或有热情自愿走上前台，对某个场景做出贡献的成员那里。流动性的、自然形成的阶层，替代了传统金字塔等级的固定权力构造，于是组织不再需要组织结构图。参见[组织结构](../organizational-structure/)。
 
 
   #### No job descriptions or job titles
