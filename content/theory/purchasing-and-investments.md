@@ -50,7 +50,7 @@ perspective: >-
   #### 绿色组织
 
 
-  [绿色模式](../green-paradigm-and-organizations/)将关于采购和投资的决策进一步推到了一线成员身上。[橙色组织](../orange-paradigm-and-organizations/)那种自上而下的规划，在绿色中通过采用运营专家支撑的自下而上流程而得到丰富。[breakthough Empowerment](../green-paradigm-and-organizations/) activates creativity and responsibility of the teams giving enough space to purchase or invest within budget boundaries and within the values system of the organisation. Most organizations still have authorization limits in place. More decentralized or distributed procurement processes (often supported by software tools) should speed up decision processes and enhance the agility of operations teams.
+  [绿色模式](../green-paradigm-and-organizations/)将关于采购和投资的决策进一步推到了一线成员身上。[橙色组织](../orange-paradigm-and-organizations/)那种自上而下的规划，在绿色中通过采用运营专家支撑的自下而上流程而得到丰富。[绿色的突破性授权机制](../green-paradigm-and-organizations/)可以激发团队的创造力和责任感，在预算范围内和组织的价值体系内，授予团队层面的购买或投资决策权得到了扩展。大多数组织仍然设有授权限制。绿色引入了更加去中心化或更分布式的采购过程（通常由软件工具支持），用来加快决策过程，并提高运营团队的灵活性。
 inPractice: >-
   #### Anybody can spend any amount provide the advice process is respected
 
