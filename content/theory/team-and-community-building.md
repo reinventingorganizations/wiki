@@ -28,10 +28,10 @@ perspective: >-
   在[琥珀组织](../amber-paradigm-and-organizations/)中，管理人员对自己团队的成果负责。他们会给出指示，明确的参数、过程和政策来指导决策。团队效率通常取决于其管理者以清晰而实际的方式传达目标的能力。通常认为不需要双向交流。员工通常对自己的组织有强烈的归属感，并会在同事群体中形成紧密的纽带关系。人们通常与组织中同一级别的人进行社交。
 
 
-  ### Orange organizations
+  ### 橙色组织
 
 
-  In [Orange organizations](../orange-paradigm-and-organizations/) teamwork skills are seen as a way to help improve employee performance and productivity. Orange organizations often promote team building activities and incorporate them into the fabric of the company. Team building is considered as a competitive activity. Events are sometimes designed to provide strong emotional experiences (facing challenges, extreme sports, parties, etc.) to bond people together. Learning about different personality types is often included so that people learn to adapt their behavior for the benefit of the team.
+  在[橙色组织](../orange-paradigm-and-organizations/)中，团队合作技能被视为一种有助于提高员工绩效和生产力的方法。橙色组织经常推广团队建设活动，并将其融入公司结构中。团队建设被认为是一种竞争活动。这些活动有时旨在提供强烈的情感体验（面对挑战、极限运动、聚会等），以此强化人们的纽带关系。团建经常会包括学会理解人的各种不同性格类型，以便让成员学会包容，为了团队的利益而调整自己的行为。
 
 
   ### Green organizations
