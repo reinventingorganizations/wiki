@@ -61,16 +61,16 @@ inPractice: >-
   例如，某成员需要一台新的50美元打印机，可以不必打电话给IT部门并期待其上司批准，然后等上几天或几周收到打印机。他可以直接到特定的商店或网站购买打印机。原则上，任何人都可以花任何数量的钱，前提是他在做决定之前征求了必要的建议；购买规模越大，通常参与[建议流程](../decision-making/)的人就越多。在等级制组织中，当工程师通过分析选择机器型号时，工人经常会不喜欢新机器，于是会在学习如何操作新机器时拖拖拉拉。如果是一线采用自己选择的型号，就不会有这种对改变的阻力。不同组织在如何实施建议流程方面可能会有所不同，有些组织采用正式的书面规则，另一些组织则采用非正式的临时方式。但无论最终选择何种具体做法，本质都是基于透明度和信任。
 
 
-  #### The one who suggested an investment takes the responsibility to conduct and monitor the purchasing process
+  #### 建议投资的人负责实施和监督采购过程
 
 
-  In self-managing organizations, workers are in charge of the full purchasing or investment process. They do the analysis, write up the necessary specifications, visit and negotiate with suppliers, and secure financing from the bank if needed. It does not necessarily mean that the initiator needs to conduct all steps on his own, but at least he takes the responsibility from start to end.
+  在自我管理的组织中，提出建议的成员直接负责整个采购或投资过程。他们做分析，写下必要的规格，访问供应商并与其谈判，并在需要时从银行获得资金。这并不一定意味着发起者一定要亲身去完成所有的步骤，但至少他自始至终都要负起责任。
 
 
-  #### Peer-based challenging of teams' investment budgets
+  #### 投资预算接受同行团队类比挑战
 
 
-  Especially in larger organisations, a transparent baseline budget is very helpful to let teams monitor whether a new investment can and should be funded or not. Different from non-Teal organisations, investment budgets aren't given or confirmed from higher levels of management. They are created based on realistic assumptions of the teams about what needs to be purchased during a planning period. If the collected numbers are in balance to expected revenues and seem reasonable, the investment budget is set. Any investments fitting into it don't need further investigation as long as the [advice process](../decision-making/) is conducted. Companies like [Morning Star](https://www.morningstarco.com/) do annual intensive budget planning sessions, in which each team presents its investment plans to a panel of peers for advice. Teams that are not performing well are likely to be challenged as to whether spending money is really the best way to fix their problems.
+  透明的基线预算，能支撑团队监控其新投资决策是否能够并且应该得到资助，尤其是在较大的组织中更是如此。蔚蓝组织的不同之处是，投资预算不是由更高级别的管理层负责提出或确认批准。投资决策在团队中自然出现。团队基于面向实际情况的假设，决定在某个计划期间需要购买什么。如果收集到的数据能与收入预期持平并且看起来合理，就可以确定这个投资预算。只要实施了[建议流程](../decision-making/)，任何符合建议流程的投资决策都不需要进一步调查或批准。比如，[晨星公司](https://www.morningstarco.com/)每年都会举行密集的预算规划会议，每个团队都会向一组同类团队提出投资计划，征求他们的建议。成果不佳的团队可能会面临这样的挑战：他们被督促反思，增加投资是否真是解决眼前课题的最佳方式。
 faq:
   - question: What about volume discounts?
     answer: "Surely money is left on the table if purchases are not pooled? As
@@ -135,4 +135,3 @@ relatedTheory:
   - Decision Making
   - Budgeting and Controlling
 ---
-to be removed
