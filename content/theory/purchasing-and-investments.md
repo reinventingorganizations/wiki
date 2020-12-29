@@ -35,10 +35,10 @@ perspective: >-
   在[红色模式](../red-organizations/)中，组织的老板或所有者通常会独裁决定购买什么或投资哪里。通常没有正式的文件化过程。投资是基于老板的偏好，甚至是冲动性的。
 
 
-  #### Amber organizations
+  #### 琥珀组织
 
 
-  In the [Amber paradigm](../amber-paradigm-and-organizations/), purchases and investments are made by dedicated top level resources within the hierarchy following simple, but strict rules. Investments are now less impulsive following medium or long term planning. Purchasing itself could be done at lower levels of an organisation, as long as it follows defined rules. Control mechanisms typically exist ensuring compliance to these rules.
+  在[琥珀模式](../amber-paradigm-and-organizations/)中，购买和投资是由层次金字塔结构中高层的专门成员，按照简单但严格的规则进行决策。伴随着中长期规划的引入和实施，投资不再像红色那么冲动。采购本身可以在组织的较低层次进行，只要遵循预制的规则。通常设计一些确保遵守这些规则的控制机制。
 
 
   #### Orange organizations
