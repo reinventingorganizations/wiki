@@ -52,10 +52,13 @@ perspective: >-
 
   [绿色模式](../green-paradigm-and-organizations/)将关于采购和投资的决策进一步推到了一线成员身上。[橙色组织](../orange-paradigm-and-organizations/)那种自上而下的规划，在绿色中通过采用运营专家支撑的自下而上流程而得到丰富。[绿色的突破性授权机制](../green-paradigm-and-organizations/)可以激发团队的创造力和责任感，在预算范围内和组织的价值体系内，授予团队层面的购买或投资决策权得到了扩展。大多数组织仍然设有授权限制。绿色引入了更加去中心化或更分布式的采购过程（通常由软件工具支持），用来加快决策过程，并提高运营团队的灵活性。
 inPractice: >-
-  #### Anybody can spend any amount provide the advice process is respected
+  ## 实践中
 
 
-  An employee who needs a new $50 printer doesn’t have to call the IT department, hope for a green light from his boss, and wait the days or weeks it takes for the printer to arrive. He can simply head down to the specific shop or website and buy a printer. In principle, any person can spend any amount of money, provided he has sought the necessary advice before making the decision; the larger the purchase, the more people are typically involved in the [advice process](../decision-making/). In hierarchical organizations, when engineers do the analysis and choose a machine model, workers often complain about the new machine and drag their feet when it comes to learning how to operate it. When they have chosen the model, there is no such resistance to change. Organizations might vary in how to conduct the advice process, with some employing formal, written rules while others adopting a more informal, ad hoc process. Whatever specific process finally is chosen, it is based on transparency and trust.
+  #### 只要遵循建议流程，谁都可以决策任何金额的采购
+
+
+  An employee who needs a new $50 printer doesn’t have to call the IT department, hope for a green light from his boss, and wait the days or weeks it takes for the printer to arrive. He can simply head down to the specific shop or website and buy a printer. In principle, any person can spend any amount of money, provided he has sought the necessary advice before making the decision; the larger the purchase, the more people are typically involved in the [建议流程](../decision-making/). In hierarchical organizations, when engineers do the analysis and choose a machine model, workers often complain about the new machine and drag their feet when it comes to learning how to operate it. When they have chosen the model, there is no such resistance to change. Organizations might vary in how to conduct the advice process, with some employing formal, written rules while others adopting a more informal, ad hoc process. Whatever specific process finally is chosen, it is based on transparency and trust.
 
 
   #### The one who suggested an investment takes the responsibility to conduct and monitor the purchasing process
