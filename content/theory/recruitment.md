@@ -7,13 +7,10 @@ sortOrder: 1
 category: People practices
 intro: 此文讨论招聘主题，介绍征聘外部候选人进入组织的具体流程，包括谁负责招聘人员以及具体面试流程的做法。
 perspective: >-
-  In [Teal organizations](../teal-paradigm-and-organizations), recruitment is
-  led by the team in need of a new member. Conversations with candidates tend to
-  center around three topics: Fit with the role, fit with the organization, and
-  fit with the purpose. The last two are often considered more important, as in
-  self-managing organizations, there is much fluidity around roles. A period of
-  testing is often arranged so that both parties can honestly assess if the
-  match is meant to be.
+  ## 新视角
+
+
+  在[蔚蓝组织](../teal-paradigm-and-organizations)中，招聘由需要新成员的一线团队主导。与应聘者的沟通往往围绕三个主题展开：角色适配性、组织适配性、目标适配性。通常最重视最后两个，因为在自我管理组织中，职位角色流动性很大。通常安排一段试用期间，以便双方都能据此诚实的评估这个适配是否合适。
 
 
   Every historical stage has given birth to a distinct perspective on recruitment and to very different practices.
