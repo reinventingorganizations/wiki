@@ -13,10 +13,10 @@ perspective: >-
   在[蔚蓝组织](../teal-paradigm-and-organizations)中，招聘由需要新成员的一线团队主导。与应聘者的沟通往往围绕三个主题展开：角色适配性、组织适配性、目标适配性。通常最重视最后两个，因为在自我管理组织中，职位角色流动性很大。通常安排一段试用期间，以便双方都能据此诚实的评估这个适配是否合适。
 
 
-  Every historical stage has given birth to a distinct perspective on recruitment and to very different practices.
+  人类组织的每个历史阶段都产生了不同的招聘视角和截然不同的做法。
 
 
-  #### **Red organizations**
+  #### **红色组织**
 
 
   In [Red organizations](../red-organizations/), loyalty is key. The chief surrounds himself with family members or other people he feels he can trust or keep in line through both fear and a promise to take care of them. Recruitment boils down to co-option, and there are often ritualized joining practices where the newcomer chooses allegiance to the boss, who offers protection in return. 
