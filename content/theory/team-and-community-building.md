@@ -34,10 +34,10 @@ perspective: >-
   在[橙色组织](../orange-paradigm-and-organizations/)中，团队合作技能被视为一种有助于提高员工绩效和生产力的方法。橙色组织经常推广团队建设活动，并将其融入公司结构中。团队建设被认为是一种竞争活动。这些活动有时旨在提供强烈的情感体验（面对挑战、极限运动、聚会等），以此强化人们的纽带关系。团建经常会包括学会理解人的各种不同性格类型，以便让成员学会包容，为了团队的利益而调整自己的行为。
 
 
-  ### Green organizations
+  ### 绿色组织
 
 
-  In [Green organizations](../green-paradigm-and-organizations/), there is room for sharing feelings and emotions with colleagues. Fun and social activities are often organized so that people can get to know each other better. This increases understanding and confidence between peers. Team building is also designed to support the development of shared values and vision through bottom up processes. Team or community building activities are usually driven by HR initiatives. Green organizations also frequently invest in external community engagement and community building as part of their social responsibility strategy.
+  在[绿色组织](../green-paradigm-and-organizations/)中，存在着能与同事安心分享私人情感和情绪的空间。经常组织娱乐和社交活动，增进人们的相互了解。这些努力能增加同事之间的理解和信任。团队建设的另一个目标是，通过自下而上的流程来支持共享价值观和目标愿景的发展。团队或社区建设活动通常由人力资源部推动。绿色组织作为社会责任战略的一部分，还经常投资进行外部环境社区参与和社区建设活动。
 
 
   ### Teal organizations
