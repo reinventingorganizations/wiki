@@ -7,23 +7,19 @@ sortOrder: 8
 category: Daily practices
 intro: 团队/社区建设是组织成功的关键因素。团队的有效性取决于团队成员之间的关系及其对团队集体意识的赞赏感激和理解。本节介绍加强团队内部连接纽带的不同努力和方法。
 perspective: >-
-  In [Teal organizations](../teal-paradigm-and-organizations/), teams are guided
-  by a common [purpose ](../listening-to-purpose/)and a high level of awareness
-  and connectedness between employees. People share for the common good.
-  Weaknesses are seen as sensitivities (rather than flaws) that can help the
-  group learn and grow without the need for supervisors or managers. Tensions
-  freely rise up from within and are resolved at the heart of the team. As
-  organizations move towards Teal, the bonds between people become deeper,
-  stronger and more open.
+  ## 新视角
 
 
-  Every historical stage has given birth to a distinct perspective on Team / Community building, and to very different practices:
+  在[蔚蓝组织](../teal-paradigm-and-organizations/)中，团队的动力的是共同的目标、高度的意识水平以及员工之间的强大纽带关系。成员共创并共享美好。成员的弱点不是被视为缺陷，而是一种有用的敏感性，一种可以帮助团队在不需要主管或经理监督的情况下，自主学习和成长所必须的感应能力。人性内在的紧张情绪可以自由的浮现表达出来，并在团队心灵中得到解决。随着组织走向蔚蓝，人与人之间的纽带越来越紧密，越来越开放。
 
 
-  ### Red organizations
+  人类组织在每一个历史阶段都产生了对团队/社区建设的不同观点，以及非常不同的实践：
 
 
-  In [Red organizations](../red-organizations/), teams are held by the leader’s charisma and his ability to transmit his energy and goals to his employees. The leader’s strength and power protects the community from its fears and worries about the outside world.
+  ### 红色组织
+
+
+  在[红色组织](../red-organizations/), teams are held by the leader’s charisma and his ability to transmit his energy and goals to his employees. The leader’s strength and power protects the community from its fears and worries about the outside world.
 
 
   ### Amber organizations
