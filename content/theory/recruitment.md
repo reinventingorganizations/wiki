@@ -90,7 +90,7 @@ inPractice: >-
   ##### 适配性测试
 
 
-  试用期在蔚蓝组织中很常见。一些组织，比如[法维](http://www.favi.com/en/)，利用试用期测试双方的匹配是否能长期有效。[Zajieppos ](https://en.wikipedia.org/wiki/Zappos)offers its new hires a $3,000 check if they have second thoughts and choose to quit during the four-week orientation. The idea is that everyone will be better off if they don’t stay in what promises to be an unhappy marriage.
+  试用期在蔚蓝组织中很常见。一些组织，比如[法维](http://www.favi.com/en/)，利用试用期测试双方的匹配是否能长期有效。[捷步达康](https://en.wikipedia.org/wiki/Zappos)[](https://en.wikipedia.org/wiki/Zappos)会支付给试用期新成员3000美元的支票，条件是如果他们及早发现不合适而改变想法，并选择在为期四周的入职培训期间辞职。这个理念是，如果每个人都勇敢选择不停留在一个注定不幸福的婚姻中，会生活的更好。
 faq:
   - question: Is everybody a good fit for a Teal organization? Are there people who
       can't adapt to such a workplace?
@@ -130,4 +130,3 @@ relatedTheory:
   - Job Titles and Job Descriptions
   - Culture and Values
 ---
-to be removed
