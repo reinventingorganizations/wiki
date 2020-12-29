@@ -5,10 +5,8 @@ key: Self-Management
 name: 自我管理
 sortOrder: 1
 category: teal-concepts
-intro: >-
-  This article discusses one of the three fundamental innovations or
-  “breakthroughs” brought about by Teal organizations.
-
+intro: |-
+  这里谈论蔚蓝组织带来的三个基本的创新突破之一。
 
   ![](/media/2_058f-self-management-medium-small.png)
 perspective: >-
