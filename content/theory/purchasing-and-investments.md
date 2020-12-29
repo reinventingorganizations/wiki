@@ -26,13 +26,13 @@ perspective: >-
   关于如何使用公司资金，最为明显的案例也许是让成员拥有利用[建议流程](../decision-making/)做出决策的权力。在[自我管理](../self-management/)的组织中，不存在授权限制，也没有专门的采购部门。成员或团队可以在不需要任何人批准的前提下，通过自发分析，制定必要的规范，访问供应商并与之谈判，甚至在需要时从银行获得融资。
 
 
-  In contrast, purchasing and investments in earlier stage organizations can be characterized as follows:
+  早期组织的采购和投资与蔚蓝不同的特征如下：
 
 
-  #### Red organizations
+  #### 红色组织
 
 
-  In the [Red paradigm](../red-organizations/), the boss or owner of an organisation decides generally on his own what to purchase or where to invest. There are typically no formal documented processes. Investments are made opportunistically, even impulsively, based on the boss's preferences. 
+  在[红色模式](../red-organizations/)中，组织的老板或所有者通常会独裁决定购买什么或投资哪里。通常没有正式的文件化过程。投资是基于老板的偏好，甚至是冲动性的。
 
 
   #### Amber organizations
