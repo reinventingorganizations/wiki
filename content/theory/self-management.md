@@ -19,11 +19,12 @@ perspective: >-
   蔚蓝之前的所有意识阶段，都依赖于一种等级分化的权力结构，由特定的一些人行驶高于其他人的权威。力量和决策权集中在塔顶，将同事分割成有权和无权的强弱两种人群，并随之带来了有史以来一直在污染组织的各种扭曲和问题（违背人性）。组织内的权力被看作值得争夺的珍希商品。这种状况无疑会激发出人性的阴暗面：个人野心、政治心机、不信任、恐惧、和贪婪。在组织底层，这经常会激发带来无力感的两个孪生兄弟：懈怠和抱怨。我们在很多组织内见证到的那些不断蔓延开来的缺乏驱动力现象，就是权力不平等分配带来的毁灭性副作用。对少数幸运者而言，职场是快乐的自我表现空间，是一种跟同事友好携手追逐有意义目标的空间。而对多数人而言，工作单纯是种苦差，是每天出卖几个小时的人生来换取口粮的手段。全球化生产力的故事，只是个浪费才能和能量的悲伤神话。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 1416-1423). Nelson Parker. Kindle Edition.] ^\[A 2012 survey conducted by Tower Watson, a human resources consulting firm polled 32,000 workers in the corporate sector in 29 countries to measure employee engagement (as well as the key factors contributing to engagement, such as confidence in senior management and the perceived interest by senior management in employee well-being). The overarching conclusion: just around a third of people are engaged in their work (35 percent). Many more people are “detached” or actively “disengaged” (43 percent). The remaining 22 percent feel “unsupported.”] ^\[For a deep discussion of what motivates the modern worker, see Drive: The Surprising Truth About What Motivates Us by Daniel Pink, Riverhead Hardcover, 2009.]
 
 
-  Earlier stage organizations are seemingly built on the assumption that people cannot be trusted to act in the organization’s best interest without supervision. Teal Organizations are built on a foundation of mutual trust. Workers and employees are seen as reasonable people that want to do good work and can be trusted to do the right thing. With that premise, very few rules and control mechanisms are needed. And employees are energized to make extraordinary things happen.
+  之前阶段的组织都建造在一种貌似真实的共同假设基础上：不信任人们会在没有监督的情况下，自觉为了组织的最大利益而行动。蔚蓝组织则建立在一种双向信任的基础上。劳动者和员工被看作有理喻的个体，渴望进行卓越的工作（劳动成为第一需要的共产主义阶段），组织信任成员会做正确的事。有了这个前提，就只需要很少的规则和控制机制。成员得到赋能而创造奇迹。
 inPractice: >-
-  Self-management in Teal comes about through a combination of innovative
-  structures and processes. These are described in detail throughout the wiki,
-  but a few are highlighted below:
+  ## 实践中
+
+
+  Self-management in Teal comes about through a combination of innovative structures and processes. These are described in detail throughout the wiki, but a few are highlighted below:
 
 
   #### Autonomous teams
