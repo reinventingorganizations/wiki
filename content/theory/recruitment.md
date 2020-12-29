@@ -25,7 +25,7 @@ perspective: >-
   #### **琥珀组织**
 
 
-  在[琥珀组织](../amber-paradigm-and-organizations/), social stratification is the basis for recruitment. To apply for a job, candidates need to have a specific background. Historically, this hierarchical stratification in organizations paralleled social stratification: priests were recruited from peasantry; bishops and cardinals, from aristocracy. A man (and certainly a woman) born into the working class would not aspire to a management position, and once entering the organization, would not climb high. Today’s Amber organizations still tend to abide by social stratification, albeit in subtler ways. In government agencies, schools, and the military, positions higher than a certain level often still require a specific diploma or a certain number of years of experience. The person recruited might not be the most qualified, but the one that meets all the criteria.
+  在[琥珀组织](../amber-paradigm-and-organizations/)中，社会阶级分层是招聘的基础。应聘者要想申请工作，需要有一个特定的背景。历史上的组织中，这种等级分层与社会阶级分层一般保持同步：牧师从农民中招募；司教和主教，则来自贵族阶层。一个出生在工人阶级的男人（当然更包括女人）不会渴望得到一个管理职位，并且一旦进入组织，也不会爬得很高。如今的琥珀组织，尽管方式更微妙，但仍然倾向于遵循社会地位分层。在政府机构、学校和军队中，职位高于某一级别往往仍然需要特定的文凭或一定的经验。被录用的人可能不是能力上最合格的，但一定是符合所有硬性标准的人。
 
 
   #### **Orange organizations**
