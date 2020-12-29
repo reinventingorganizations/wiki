@@ -58,7 +58,7 @@ inPractice: >-
   #### 只要遵循建议流程，谁都可以决策任何金额的采购
 
 
-  An employee who needs a new $50 printer doesn’t have to call the IT department, hope for a green light from his boss, and wait the days or weeks it takes for the printer to arrive. He can simply head down to the specific shop or website and buy a printer. In principle, any person can spend any amount of money, provided he has sought the necessary advice before making the decision; the larger the purchase, the more people are typically involved in the [建议流程](../decision-making/). In hierarchical organizations, when engineers do the analysis and choose a machine model, workers often complain about the new machine and drag their feet when it comes to learning how to operate it. When they have chosen the model, there is no such resistance to change. Organizations might vary in how to conduct the advice process, with some employing formal, written rules while others adopting a more informal, ad hoc process. Whatever specific process finally is chosen, it is based on transparency and trust.
+  例如，某成员需要一台新的50美元打印机，可以不必打电话给IT部门并期待其上司批准，然后等上几天或几周收到打印机。他可以直接到特定的商店或网站购买打印机。原则上，任何人都可以花任何数量的钱，前提是他在做决定之前征求了必要的建议；购买规模越大，通常参与[建议流程](../decision-making/)的人就越多。在等级制组织中，当工程师通过分析选择机器型号时，工人经常会不喜欢新机器，于是会在学习如何操作新机器时拖拖拉拉。如果是一线采用自己选择的型号，就不会有这种对改变的阻力。不同组织在如何实施建议流程方面可能会有所不同，有些组织采用正式的书面规则，另一些组织则采用非正式的临时方式。但无论最终选择何种具体做法，本质都是基于透明度和信任。
 
 
   #### The one who suggested an investment takes the responsibility to conduct and monitor the purchasing process
