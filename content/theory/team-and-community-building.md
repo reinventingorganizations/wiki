@@ -40,10 +40,10 @@ perspective: >-
   在[绿色组织](../green-paradigm-and-organizations/)中，存在着能与同事安心分享私人情感和情绪的空间。经常组织娱乐和社交活动，增进人们的相互了解。这些努力能增加同事之间的理解和信任。团队建设的另一个目标是，通过自下而上的流程来支持共享价值观和目标愿景的发展。团队或社区建设活动通常由人力资源部推动。绿色组织作为社会责任战略的一部分，还经常投资进行外部环境社区参与和社区建设活动。
 
 
-  ### Teal organizations
+  ### 蔚蓝组织
 
 
-  In [Teal organizations](../teal-paradigm-and-organizations/), the strength of connection between people tends to produce an environment where collective intelligence is encouraged and listened to. Everyone contributes in their own way, recognizing that when the group thrives – they thrive. People are encouraged to bring all of themselves to work , sharing vulnerability, ideas and strengths in a trustful environment. They use practices that support open and trusting communication, encouraging creativity in the workplace. They also often encourage taking time to be still and reflective through meditation or silent practices.
+  在[蔚蓝组织](../teal-paradigm-and-organizations/), the strength of connection between people tends to produce an environment where collective intelligence is encouraged and listened to. Everyone contributes in their own way, recognizing that when the group thrives – they thrive. People are encouraged to bring all of themselves to work , sharing vulnerability, ideas and strengths in a trustful environment. They use practices that support open and trusting communication, encouraging creativity in the workplace. They also often encourage taking time to be still and reflective through meditation or silent practices.
 inPractice: >-
   ### Bringing our whole selves to work
 
