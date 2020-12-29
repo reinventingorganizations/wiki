@@ -63,22 +63,22 @@ inPractice: >-
   因负责招聘的团队成员没有招聘人数作为业绩指标，所以往往对自己工作场所的介绍会更加坦诚而不加渲染。如果他们向潜在的新队友过度推销公司，以后共事时，后自己每天都要承受由此带来的埋怨。团队成员关于工作场所介绍时的坦诚相待，会让求职者觉得自我介绍也应该诚实。应征者一般要去会见未来的同事，参观办公场所，被邀请真诚的提各种各样的问题，据此确定这里是否真的是自己觉得有必要为之工作（奉献）的职场。许多蔚蓝组织报告说，他们的招聘过程和采用决定，一般会比其他组织花费更长的时间。他们有时会牺牲组织的人员增长速度，而等待找到一个不仅适合职位空缺，同时适配于组织及其目标的人。
 
 
-  #### **What makes for a good fit**
+  #### 适配标准
 
 
-  Most traditional organizations focus on a person's fit with the job description. Teal organizations tend to take a broader perspective, designing recruitment as a two-way discovery process to answer one fundamental question: Are we meant to journey together?
+  大多数传统的组织关注的是一个人是否符合工作描述。蔚蓝组织倾向于更广泛的视角，将招聘设计为一个双向发现的过程，主要回答一个基本问题：我们是否注定要一起走？
 
 
-  ##### ***Fit for role***
+  ##### 角色适配性
 
 
-  Assessing the fit in terms of skills, experience and expertise remains an important component of the recruitment process, especially for specific roles requiring expertise. Roles in self-managing organizations are exchanged very fluidly, though. For that reason, the "fit for role" is often not considered to be paramount, as it is likely that a person's roles might change quickly. Self-managing organizations experience that when employees are motivated to take on a new and challenging role, they  pick up new skills and experience in surprisingly little time.
+  当然，对技能、经验和专门知识方面的适配性评估，仍然是招聘过程的一个重要组成部分，特别是对于那些需要专门知识的特定岗位。但自我管理组织中的岗位交换非常流畅（非固定岗位制）。因此，“角色适配”通常不是最重要的指标，因为一个人的岗位很可能会迅速改变。自我管理组织的经验是，当成员被激励去承担一个新的、具有挑战性的角色时，他们一般都能在很短的时间内获得新的技能和经验（探索未知的人性表达得到激活，促进组织和个人的成长）。
 
 
-  ##### ***Fit with the organization***
+  ##### 组织适配性
 
 
-  A second area to explore in conversation is: will this person blossom in the organization? Will he or she thrive in a self-organizing environment? Does the person feel aligned by the organization's values? Does he or she "click" with the colleagues? Many Teal organizations, like [Morning Star](http://www.morningstarco.com/), give candidates a training in self-management, so candidates can determine if that is what they want. Other organizations create moments in the recruitment process to have in-depth discussions about the company's and the candidate's values.
+  在面试谈话中要探讨的第二个方面是：此人是否会在组织中崭露头角？他或她会在自组织的环境中茁壮成长吗？求职者是否感觉到与组织价值观的一致？他或她是否能与同事“合得来”？许多蔚蓝组织，比如 [晨星](http://www.morningstarco.com/)，会在招聘期间就对应聘者进行自我管理方面的培训，给求职者据此确认自己是否喜欢这些做法的机会。有些蔚蓝组织还在招聘过程中创造机会，对公司和应聘者双方的价值观进行深入讨论。
 
 
   ##### ***Fit with purpose***
