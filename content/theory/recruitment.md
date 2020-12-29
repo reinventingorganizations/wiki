@@ -28,10 +28,10 @@ perspective: >-
   在[琥珀组织](../amber-paradigm-and-organizations/)中，社会阶级分层是招聘的基础。应聘者要想申请工作，需要有一个特定的背景。历史上的组织中，这种等级分层与社会阶级分层一般保持同步：牧师从农民中招募；司教和主教，则来自贵族阶层。一个出生在工人阶级的男人（当然更包括女人）不会渴望得到一个管理职位，并且一旦进入组织，也不会爬得很高。如今的琥珀组织，尽管方式更微妙，但仍然倾向于遵循社会地位分层。在政府机构、学校和军队中，职位高于某一级别往往仍然需要特定的文凭或一定的经验。被录用的人可能不是能力上最合格的，但一定是符合所有硬性标准的人。
 
 
-  #### **Orange organizations**
+  #### **橙色组织**
 
 
-  [Orange organizations](../orange-paradigm-and-organizations/)' pursuit of performance, efficiency and innovation makes them focus their recruitment efforts on selecting the candidates with the best skills, the most relevant experience and expertise for a specific role, as well as the best future potential for development. In some large corporations, interviews are conducted by specialized Human Resources personnel (for top leadership roles by external "head hunter" search firms,) in most cases in conjunction with the person's future manager. Significant effort and resources have been deployed to develop interview techniques and training, as well as assessments tools to help organizations optimize their success rate in recruitment.
+  [橙色组织](../orange-paradigm-and-organizations/)追求业绩、效率和创新，这决定了他们的招聘工作焦点是挑选最佳候选人。条件一般是，具有最佳技能、最相关经验和专门知识，能立刻发挥具体作用、具有未来发展最佳潜力。在一些大公司，面试由专门的人力资源人员（寻找公司最高领导职务时则由外部“猎头”公司）主持，大多数情况下，人力资源和此人未来的上司共同主持面试。橙色组织为了提高征聘成功率而投入大量资源和大量努力，开发了面试技术和面试方法培训，以及各种评估工具。
 
 
   #### **Green organizations**
