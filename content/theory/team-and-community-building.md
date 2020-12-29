@@ -22,10 +22,10 @@ perspective: >-
   在[红色组织](../red-organizations/)中，团队是靠领导者的魅力和及其向成员传递能量和目标的能力来维持。领袖的力量和权力保护着本社区，减少对外界威胁的恐惧和担忧。
 
 
-  ### Amber organizations
+  ### 琥珀组织
 
 
-  In [Amber organizations](../amber-paradigm-and-organizations/), managers are responsible for the results of their teams. Instructions are given and clear parameters, processes and policies guide decision making. Team efficiency generally depends on the ability of its’ managers to communicate objectives in a clear and realistic way. Two way communication is often considered unnecessary. Employees often feel a strong sense of belonging to their organization and form close bonds within their peer group. People usually socialize with others at the same level in the organization.
+  在[琥珀组织](../amber-paradigm-and-organizations/)中，管理人员对自己团队的成果负责。他们会给出指示，明确的参数、过程和政策来指导决策。团队效率通常取决于其管理者以清晰而实际的方式传达目标的能力。通常认为不需要双向交流。员工通常对自己的组织有强烈的归属感，并会在同事群体中形成紧密的纽带关系。人们通常与组织中同一级别的人进行社交。
 
 
   ### Orange organizations
