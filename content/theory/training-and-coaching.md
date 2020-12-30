@@ -67,31 +67,31 @@ inPractice: >-
   蔚蓝组织内不存在职业生涯开发程序和角色适配培训。培训主要是聚焦于个人成长和构建共享文化。技能培训程序依然存在，并向所有需求者开放。这些技能培训多数由同事带领，很少采用外部培训机构的服务，主要是为了在此过程中深刻渗透公司的共同的[价值观与文化](../culture-and-values/)。
 
 
-  ##### ***Personal responsibility and freedom for training***
+  ##### 成员关于培训的责任和自由
 
 
-  The biggest change is that employees are in charge of their own learning. They choose training to serve their own growth rather than training for career development. Provided members use the advice process, they can usually arrange any training they need. Some organizations have simplified matters by allowing colleagues to spend up to a specific amount on training without using the advice process. 
+  最大的改变是，成员能主权决定自己的培训。成员可以靠自我决策选择最能催化个人成长的课程，而不是根据自己在公司中的职业生涯设计来选课。成员可以活用公司的建议流程，自由编排自己所需的培训。有些组织还进一步简化流程，允许成员不使用公司的建议流程，而是鼓励同事之间将一定数量的时间投入于培训。
 
 
-  ##### ***Different categories of training***
+  ##### 培训的分类
 
 
-  In self-managing organizations there are no training programs for climbing the ladder. But they offer training rarely found in traditional organizations: training in the common culture and its processes (attended by all), and personal development training. Skill training programs still exist as required.  These are often led by colleagues rather than external trainers, people who really understand the company’s values and culture.
+  在自我管理组织内，不存在攀登职位天梯所需的培训课程。代之以提供一些在传统组织内稀少的培训：培训公司通用文化及其支撑流程（全体参加），以及个人成长培训。技能培训依然需要。这些技能培训通常由同事带领而非外部讲师，因只有同事才更深刻的真正理解公司的价值观和文化。
 
 
-  ##### ***Onboarding***
+  ##### ***入职***
 
 
-  When someone joins a Teal organization it can take a while to understand the culture and processes that support it. As a consequence, Teal organzations tend to invest heavily in induction training. New hires are introduced to the various processes and given time to meet and work with a range of people across the organization. They may also be given training in subjects such as active listening, conflict resolution and problem solving.
+  个体加入蔚蓝组织时，往往需要投入一段时日理解公司文化以及支撑该文化的各种流程。因而，蔚蓝组织往往会在直觉培训上投入更多精力。为新人介绍各种流程，并让新人花一段时间会见并跟公司各种岗位的人员共同工作。还可能有一些专业主题的培训，比如聆听技巧，冲突解决技巧，问题解决技巧等。
 
 
-  ##### ***Ongoing training for all***
+  ##### 全员在职培训
 
 
-  Training tends to be a continuous process for all in the organization. This typically happens through the advice process and through dedicating time to support the organizational culture.
+  蔚蓝组织内的培训是公司全体成员参与的持续性过程。这些培训一般通过建议流程实施，成员会为了支撑公司文化而贡献时间来参与。
 
 
-  The advice process enables people to talk to and seek the advice of a range of people they would probably not have to deal with in a more conventional organization. As a consequence much is learnt about wide range of issues. The variety of roles that people take on also encourages this process.
+  建议流程，为成员提供与公司内大范围的不同岗位的同事对话并得到咨询的机会，相比之下，传统组织内一般不会获得能与不相关岗位部门人士连接的机会。这种接触机会为成员提供了广泛学习大量知识和话题的机会。蔚蓝成员的岗位多样性，一般也会促进这种建议流程的实施。
 
 
   Teal organizations also end to run regular sessions to help build and develop the culture. These can include sessions where people can work on their own development with group support through to workshops designed to tune into the purpose of the organization. At [FAVI](http://www.favi.com/) Jean-François Zobrist hosted a session every Friday morning to address a specific cultural issue; these were open to anyone.
