@@ -19,10 +19,10 @@ perspective: >-
   人类组织在每一个历史阶段，都带来了独特的培训和辅导方法。
 
 
-  #### **Red organizations**
+  #### **红色组织**
 
 
-  In [Red organizations](../red-organizations/) it is important to learn about power: how it is acquired, and how it is used. This learning comes by watching and listening. There may be 'initiation' rites. There may be training in the tools of the trade. Beyond that, most knowledge is acquired by watching and listening as one obtains more and more seniority - like an informal apprenticeship.
+  在[红色组织](../red-organizations/) it is important to learn about power: how it is acquired, and how it is used. This learning comes by watching and listening. There may be 'initiation' rites. There may be training in the tools of the trade. Beyond that, most knowledge is acquired by watching and listening as one obtains more and more seniority - like an informal apprenticeship.
 
 
   #### **Amber organizations**
