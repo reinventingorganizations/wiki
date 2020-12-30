@@ -66,7 +66,7 @@ inPractice: >-
   蔚蓝组织不再那么依赖预测和控制模型。虽然在相对静态复杂的世界里预测未来可能是有帮助的，但在一个日益变迁的动态而复杂的当今世界里，预测变得不那么重要。基于这一认识，蔚蓝组织倾向于实施在当下可行的解决方案，这些解决方案随后可以与时俱进。公司不受战略规划流程的约束，也不受可能很快过时之目标的驱使。蔚蓝组织据此可以更自由地通过快速迭代得到快速发展，并根据需要修改战略。
 
 
-  Jean-François Zobrist at FAVI uses the following metaphor to explain the difference. An airplane like a Boeing 747 is a *complicated* system. There are millions of parts that need to work together seamlessly. But everything can be mapped out; if you change one part, you should be able to predict all the consequences. A bowl of spaghetti is a *complex* system. Even though it has just a few dozen “parts,” it is virtually impossible to predict what will happen when you pull at the end of a strand of spaghetti that sticks out of the bowl.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4577-4581). Nelson Parker. Kindle Edition.]
+  法维的让·弗朗索瓦·佐布里斯特用下面的比喻来解释这种区别。一架波音747飞机是一个静态复杂的系统。有数以百万计的部件需要无缝地协同工作。但一切都是可规划的；如果你改变一个部分，你应该能够预测所有的后果。但一碗意大利面是一个动态复杂的系统。尽管它只有几十个“零件”，但当你拉着一条从碗里伸出来的面条的末端向外拉，几乎无法预测会发生什么。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4577-4581). Nelson Parker. Kindle Edition.]
 
 
   ##### *Dynamic Steering*
