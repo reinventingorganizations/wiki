@@ -124,13 +124,10 @@ inPractice: >-
   这是一种活用团队力量为个体成员提供帮助的方式。布尔佐格公司有个同事指导流程，叫做“介入”。这是个结构化流程，在团队的支撑下，帮助个体成员发现并解决一个课题或难题题。这避免了陷入通常那种提供建议或精神激励的无力方式，代之以引导成员靠自己的力量找到一种积极的处理方式。这个流程通常会促进成长，因为能发现并直面一个个人问题并在一个安全的心理空间得到处理。
 
 
-  ##### ***成员一对一辅导***
+  ##### ***成员辅导***
 
 
   有些组织对全员提供免费守密的个人指导或心理咨询，对象包括成员和家属，也可以咨询与工作无关内容。通过对成员人生全方位提供支撑而强化了完整人性理论。
-
-
-  Some companies offer individual coaching to all their members. Others extend this, on a free and confidential basis, to employees and their families for non-work matters.
 faq:
   - question: How can a member make sensible choices about her own training when she
       doesn't know what she doesn't know?
@@ -148,4 +145,3 @@ relatedTheory:
   - Meetings
   - Creating Safe Space
 ---
-to be removed
