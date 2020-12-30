@@ -25,7 +25,7 @@ perspective: >-
   #### **琥珀组织**
 
 
-  [琥珀组织](../amber-paradigm-and-organizations/) can develop strategies but do not emphasize them, as the world is viewed as relatively unchanging and predictable. The emphasis is rather on processes. To the extent strategies are developed, this is done very much at the top of the hierarchy only. Decisions are handed down to workers at the bottom, with information shared only as needed.
+  [琥珀组织](../amber-paradigm-and-organizations/)可能会制定战略，但不强调战略，因为世界被视为相对不变和可预测的。所以重点放在过程上。如果有战略，也都是由金字塔最高层负责制定。决策被传令给底层成员，并且只共享必要的信息。
 
 
   #### **Orange Organizations**
