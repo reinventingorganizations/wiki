@@ -40,10 +40,10 @@ perspective: >-
   在[绿色组织](../green-paradigm-and-organizations/)中，组织结构进一步分散：较低级别的人员越来越得到授权，领导者的一项关键责任就是促进这种授权。不过，绿色组织通常仍然保持着某种等级结构，组织的战略方向主要来自高层。但战略也被纳入了服务的目的，这超越了橙色那种赢得竞争和利润的目的。
 
 
-  #### **Teal Organizations**
+  #### **蔚蓝组织**
 
 
-  In [Teal organizations](../teal-paradigm-and-organizations/), power is diffused. Self-management replaces the hierarchy. Strategic thinking can come from anywhere, not just the top. Team members can offer advice, suggest initiatives, recommend change--as long as they consult with interested parties along the way. The use of the 'advice process' is the crucial enabling ingredient. Strategy is also inextricably linked to purpose, and conventional strategic planning is replaced by “listening to purpose”.
+  在[蔚蓝组织](../teal-paradigm-and-organizations/)中，权力是分散的。自我管理取代了等级制度。战略思维不仅仅来自高层，而是可以来自组织内任何位置。团队成员可以提建议、倡议计划、建议变更——只要他们在这个过程中与相关倡议协商。活用“建议流程”对此起到了关键的促进作用。战略也与目标密不可分，传统的战略规划被“倾听目标”所取代。
 inPractice: >-
   #### **Strategy as an organic process**
 
