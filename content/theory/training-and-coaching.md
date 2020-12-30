@@ -115,7 +115,7 @@ inPractice: >-
   成员在团队中工作，有人群就必定带来紧张感。针对这些紧张感，组织既可以选择视而不见，也可以选择积极缓解。有效解决各种个人问题和潜在的课题，毫无疑问会是催化成长的源泉。辅导和支撑，无疑会有助于催化这种成长。
 
 
-  [Heiligenfeld](http://www.heiligenfeld.com/) has a simple practice of coaching in team supervision. The company works with four external coaches who each have their domain of expertise (relationships, organization development, systems thinking and leadership). There are time slots with these coaches every month that teams can sign-up for. It's recommended that each team has at least one session a year; the average is two to four. With the help of the outsider, colleagues explore what a tension reveals about themselves and how they can resolve it.
+  [海利根菲尔德](http://www.heiligenfeld.com/)公司设计了一个简单的团队指导流程。他们选择与四名各有专攻（人际关系，组织发展，系统思维，领导力）的外部培训师合作实施。每个导师每个月都提供让团队报名参与的服务时间段。公司建议（不是命令）每个团队每年至少参加一次。但实际结果是每个团队平均每年都参与2-4次。同事们借助外部人员的帮助，共同探索紧张感到底揭示了自己内在的何种要素，以及如何解决这些紧张感。
 
 
   ##### ***Peer coaching***
