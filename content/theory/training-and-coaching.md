@@ -22,13 +22,13 @@ perspective: >-
   #### **红色组织**
 
 
-  在[红色组织](../red-organizations/) it is important to learn about power: how it is acquired, and how it is used. This learning comes by watching and listening. There may be 'initiation' rites. There may be training in the tools of the trade. Beyond that, most knowledge is acquired by watching and listening as one obtains more and more seniority - like an informal apprenticeship.
+  在[红色组织](../red-organizations/)中，新人需要深刻了解组织的权力机制：需要理解如何获得权力以及如何使用权力。这种学习来自于观察和倾听。可能有个“入会”仪式。也可能有一些培训交易技能的工具。除此之外，大多数知识都是通过观察和倾听获得的，个人的资历就像非正式的学徒一样逐渐增长。
 
 
-  #### **Amber organizations**
+  #### **琥珀组织**
 
 
-  In [Amber organizations](../amber-paradigm-and-organizations/) roles are clearly divided and specific. Training is provided to enable those at each level in the organization to carry out their duties and responsibilities effectively (for example officer training in the military). For some, vocational training is offered by independent institutions (vocational schools or universities). The qualification can be  specific to a particular profession. On-going training often takes place on-the-job, enabling the best at each level to be considered for promotion.
+  在[琥珀组织](../amber-paradigm-and-organizations/)中，有明确而具体的岗位角色划分。培训的目的是为了让组织内各级人员有效地履行其职责和责任（例如在军队中进行军官培训）。有些成员的职业培训由独立机构（职业学校或大学）提供。重视针对特定专业的资格证书。还会通过在职期间的持续培训，让每个级别的优秀人才都能得到晋升机会。
 
 
   #### **Orange organizations**
