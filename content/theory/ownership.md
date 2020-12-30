@@ -37,10 +37,10 @@ perspective: >-
   在[A琥珀组织](http://reinventingorganizationswiki.com/Amber_Organizations)中，股东通常同样是一个不协调的概念。琥珀组织通常有一个目的，但不是财务回报。军队、教会或政府机构没有“所有者”。在一定程度上，营利实体如果在琥珀范式下运作，通常会尝试在财务回报与其他目标（如自我保护）之间取得平衡。通常是家族所有制，股东会限制追求利润最大化，目的是有利于维持遗产等利益。
 
 
-  #### Orange Organizations
+  #### 橙色组织
 
 
-  It is under the [Orange paradigm](http://reinventingorganizationswiki.com/Orange_Organizations), that the concept of ownership becomes paramount. A primary purpose of the classic Orange organization is to provide a financial return to its owners. This is reflected in the modern legal construct of a corporation, where shareholders have ultimate authority over management in proportion to their ownership. Management is legally obliged to seek a financial return for shareholders. This has resulted in widely dispersed ownership of organizations as well as ownership that can change through mechanisms like tradable shares. Each owner may have a tiny, and variable stake, but all are united in the pursuit of financial gain.
+  在[橙色模式](http://reinventingorganizationswiki.com/Orange_Organizations)下，股东的概念变得至高无上。典型橙色组织的根本目的就是为其所有者提供财务回报。这已经反映在现代关于公司的法律结构中，股东根据其持股比例拥有管理的最终权力。管理层在法律上有义务为股东寻求经济回报。这导致了组织股东的广泛分散性，并可以通过流通股等机制改变股东。每一个所有者可能拥有一个微小的、可变的股份，但所有人都团结在一起追求经济利益。
 
 
   #### Green Organizations
