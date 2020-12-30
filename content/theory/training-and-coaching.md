@@ -97,22 +97,22 @@ inPractice: >-
   蔚蓝组织会自然而然的运作一些定期讲座，促进组织特有文化的构建与发展。比如，最简单的讲座可以是，成员通过与支撑小组合作来开发自我，也可以设计一些工作组，帮助成员融入公司并培育对共同目标的共鸣。比如，[法维](http://www.favi.com/)发起人让·弗朗索瓦·佐布里斯特主持着一个周五晨起的例会讲座，介绍一些特有的文化主题，全体成员自由参加。
 
 
-  ##### ***Employees become trainers***
+  ##### 同事培训师
 
 
-  It is common practice to stop (or reduce) the use of external trainers. Classes are presented by colleagues who are passionate about the subject, and who tailor material to the language and culture of the organization. It is not uncommon for courses to go from the inside out. They might start by helping people to connect with who they are, and invite them to find authentic ways to express this as they discuss the subject matter. It could be difficult for an outsider to lead this discussion. Using members as trainers saves money and boosts morale--because it offers the trainer an opportunity to give and be recognized for their expertise.
+  蔚蓝组织一般不使用或很少用外部培训。课程一般由热衷于该主题的同事主持，他们能将资料裁剪成公司特有的文化和方言。还有很多关于内在潜力开发的培训课程。这些潜力培训会从帮助人们连接真正的自我着手，启发他们利用探讨课程主题这个机会，找到有力的方式将自己的这些内在素质表达出来。外部培训师很难胜任这个过程。用同事成员做培训师，既省钱还能催化奇迹--因这样也会为培训师提供一个贡献的机会，并同时得到被誉为大拿的认可感。
 
 
-  #### **Coaching**
+  #### **辅导**
 
 
-  Coaching practices tend to be embedded in the organization and available to all. Coaching can take a number of different formats:
+  辅导过程一般对全员开放，嵌入在蔚蓝组织的活动之内。辅导与实习可以有各种形态：
 
 
-  ##### ***Team supervision***
+  ##### ***团队监督***
 
 
-  Working in teams invariably brings up tensions that can either be ignored or worked through. Dealing with the personal and underlying issues effectively is invariable a source of significant growth. It is not surprising that coaching support is available to facilitate this growth.
+  成员在团队中工作，有人群就必定带来紧张感。针对这些紧张感，组织既可以选择视而不见，也可以选择积极缓解。有效解决各种个人问题和潜在的课题，毫无疑问会是催化成长的源泉。辅导和支撑，无疑会有助于催化这种成长。
 
 
   [Heiligenfeld](http://www.heiligenfeld.com/) has a simple practice of coaching in team supervision. The company works with four external coaches who each have their domain of expertise (relationships, organization development, systems thinking and leadership). There are time slots with these coaches every month that teams can sign-up for. It's recommended that each team has at least one session a year; the average is two to four. With the help of the outsider, colleagues explore what a tension reveals about themselves and how they can resolve it.
