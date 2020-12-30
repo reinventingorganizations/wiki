@@ -43,10 +43,10 @@ perspective: >-
   在[橙色模式](http://reinventingorganizationswiki.com/Orange_Organizations)下，股东的概念变得至高无上。典型橙色组织的根本目的就是为其所有者提供财务回报。这已经反映在现代关于公司的法律结构中，股东根据其持股比例拥有管理的最终权力。管理层在法律上有义务为股东寻求经济回报。这导致了组织股东的广泛分散性，并可以通过流通股等机制改变股东。每一个所有者可能拥有一个微小的、可变的股份，但所有人都团结在一起追求经济利益。
 
 
-  #### Green Organizations
+  #### 绿色组织
 
 
-  The [Green paradigm](http://reinventingorganizationswiki.com/Green_Organizations) reacts to the Orange focus on shareholders and financial concerns by insisting on the importance of all stakeholders - employees, customers, communities, suppliers as well as shareholders. Thus, even “for profit” organizations are not solely for the benefit of owners: they ought also to take into account the plurality of interests included in its activities. The Corporate Social Responsibility (“CSR”) movement was born out of this perspective.
+  [绿色模式](http://reinventingorganizationswiki.com/Green_Organizations)通过强调所有利益相关者（成员、客户、社区、供应商以及股东）的重要性，替代了橙色对股东和财务问题的关注。因此，即使是“营利性”组织也不仅仅是为了所有者的利益：还应该考虑到其活动中包含的多种利益。企业社会责任（CSR）运动就是从这个角度出发的。
 
 
   Generally however, for-profit Green organizations do not have a different ownership structure than Orange organizations. When the owners of a Green organization all share the Green perspective, this tends not to create a problem. However, should some owners differ in their view of the importance of financial returns, conflict can ensue.
