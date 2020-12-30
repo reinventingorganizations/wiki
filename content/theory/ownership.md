@@ -49,27 +49,15 @@ perspective: >-
   [绿色模式](http://reinventingorganizationswiki.com/Green_Organizations)通过强调所有利益相关者（成员、客户、社区、供应商以及股东）的重要性，替代了橙色对股东和财务问题的关注。因此，即使是“营利性”组织也不仅仅是为了所有者的利益：还应该考虑到其活动中包含的多种利益。企业社会责任（CSR）运动就是从这个角度出发的。
 
 
-  Generally however, for-profit Green organizations do not have a different ownership structure than Orange organizations. When the owners of a Green organization all share the Green perspective, this tends not to create a problem. However, should some owners differ in their view of the importance of financial returns, conflict can ensue.
+  然而，一般来说，营利性绿色组织与橙色组织的股东结构并没有区别。如果一个绿色组织的全体成员都能分享绿色观点时，这就不会产生问题。然而，如果一些所有者对财务回报的重要性有不同的看法，冲突就会接踵而至。
 inPractice: >-
-  Ownership in Teal organizations can take a number of forms. It may be
-  concentrated or dispersed, private or public, and this diversity has been in
-  evidence at least to some extent in those Teal organizations that have so far
-  come into being. Having said that, there is at least strong evidence that in
-  whatever form, the owners of Teal organizations must understand and embrace a
-  Teal worldview. While it is not clear that a Teal perspective is necessarily
-  incompatible with profit and wealth maximization (one might argue that Teal
-  can maximize these even as a by product of its evolutionary purpose), it is
-  certainly true that many might believe this to be so. Thus, a Teal
-  organization with owners who do not necessarily subscribe to a Teal worldview
-  is at risk that such owners (as a result of the legal rights typically
-  conferred upon them) can force the abandonment of Teal practices when they
-  seem to conflict with, or be less effective in terms of pursuing the more
-  traditional objective of profit (see BSO/Origin and AES under “Concrete
-  examples for inspiration” below).
+  ## 实践中
+
+
+  Ownership in Teal organizations can take a number of forms. It may be concentrated or dispersed, private or public, and this diversity has been in evidence at least to some extent in those Teal organizations that have so far come into being. Having said that, there is at least strong evidence that in whatever form, the owners of Teal organizations must understand and embrace a Teal worldview. While it is not clear that a Teal perspective is necessarily incompatible with profit and wealth maximization (one might argue that Teal can maximize these even as a by product of its evolutionary purpose), it is certainly true that many might believe this to be so. Thus, a Teal organization with owners who do not necessarily subscribe to a Teal worldview is at risk that such owners (as a result of the legal rights typically conferred upon them) can force the abandonment of Teal practices when they seem to conflict with, or be less effective in terms of pursuing the more traditional objective of profit (see BSO/Origin and AES under “Concrete examples for inspiration” below).
 
 
   Certain legal developments have emerged to address this potential conflict, but they are not yet widespread. In the United States, some states recognize a “benefit corporation” as a type of for-profit entity that includes positive impact on society, workers, the community and the environment in addition to profit in its legally defined goals. In for-profit companies as we currently know them (the so-called C-Corporations), the organizations’ directors have a fiduciary duty to the shareholders, and to the shareholders only. They face the prospect of civil claims if they stray from their fiduciary duties by taking environmental or social concerns into account at the expense of shareholders. The duty of directors of benefit corporations is extended to include non-financial interests, such as social benefit, concerns of employees and suppliers, and environmental impact.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 5464-5467). Nelson Parker. Kindle Edition.]
-
 
 
   A much older but still somewhat rare structure is the cooperative, where ownership is placed with members (consumer cooperative) and/or employees (worker cooperative). However, while these organizations are presumably freed from a strict pursuit of profit, their purpose is to serve a single stakeholder group.
