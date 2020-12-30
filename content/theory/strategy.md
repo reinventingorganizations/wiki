@@ -28,10 +28,10 @@ perspective: >-
   [琥珀组织](../amber-paradigm-and-organizations/)可能会制定战略，但不强调战略，因为世界被视为相对不变和可预测的。所以重点放在过程上。如果有战略，也都是由金字塔最高层负责制定。决策被传令给底层成员，并且只共享必要的信息。
 
 
-  #### **Orange Organizations**
+  #### **橙色组织**
 
 
-  In an [Orange organization](../orange-paradigm-and-organizations/), strategy becomes much more important, as the world is viewed as increasingly dynamic. However, while the world is considered increasingly complicated, it is still viewed as predictable. Strategy is still generally a very top-down process but transitions from command and control to predict and control. In order to maintain competitive advantage, the Orange paradigm concludes that large parts of the organization must be empowered and given some room to think and execute on their own. This gave rise to management by objectives – top management formulates an overall direction and cascades down objectives and milestones to reach the desired outcome. This has resulted in familiar processes such as regular strategic planning, yearly budgeting, balanced scorecards and key performance indicators.
+  在[橙色组织](../orange-paradigm-and-organizations/)中，战略变得更加重要，因为人们越来越被发现世界是动态的。不过，尽管人们认为世界越来越复杂，但仍然认为是可以预测的。战略通常仍然是一个非常自上而下的过程，但已经从命令和控制过渡到预测和控制。为了保持竞争优势，橙色范式得出的结论是，组织的大部分成员必须被授权，并被授予一些独立思考和执行的空间。于是产生了目标管理的做法——最高管理层制定一个总体方向，并将目标和里程碑层层下达到金字塔底，以达到预期的结果。这个过程开发出那些我们都很熟悉的流程，如定期战略规划、年度预算、资产平衡表和关键绩效指标。
 
 
   #### **Green Organizations**
