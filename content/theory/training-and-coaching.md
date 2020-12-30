@@ -94,7 +94,7 @@ inPractice: >-
   建议流程，为成员提供与公司内大范围的不同岗位的同事对话并得到咨询的机会，相比之下，传统组织内一般不会获得能与不相关岗位部门人士连接的机会。这种接触机会为成员提供了广泛学习大量知识和话题的机会。蔚蓝成员的岗位多样性，一般也会促进这种建议流程的实施。
 
 
-  Teal organizations also end to run regular sessions to help build and develop the culture. These can include sessions where people can work on their own development with group support through to workshops designed to tune into the purpose of the organization. At [FAVI](http://www.favi.com/) Jean-François Zobrist hosted a session every Friday morning to address a specific cultural issue; these were open to anyone.
+  蔚蓝组织会自然而然的运作一些定期讲座，促进组织特有文化的构建与发展。比如，最简单的讲座可以是，成员通过与支撑小组合作来开发自我，也可以设计一些工作组，帮助成员融入公司并培育对共同目标的共鸣。比如，[法维](http://www.favi.com/)发起人让·弗朗索瓦·佐布里斯特主持着一个周五晨起的例会讲座，介绍一些特有的文化主题，全体成员自由参加。
 
 
   ##### ***Employees become trainers***
