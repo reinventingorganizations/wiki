@@ -31,10 +31,10 @@ perspective: >-
   在[R红色组织](https://reinventingorganizations-wiki.netlify.app/theory/red-organizations/)中，股东往往是一个毫无意义的概念。因为其领导的合法性更多地来源于权力而不是某种所有权的建构。组织的目的是关于聚集进一步的权力，而不是经济回报。红色组织对股东的认知，通常跟领导权混为一谈。领导者也是所有者或股东家族的关键代表。
 
 
-  #### Amber Organizations
+  #### 琥珀组织
 
 
-  Again, in the the [Amber paradigm](http://reinventingorganizationswiki.com/Amber_Organizations), ownership is often an incongruous idea. Amber organizations frequently have a purpose other than financial return. There is no “owner” of the military, the church or government agencies. To the extent for-profit entities operate in the Amber paradigm, they typically balance the pursuit of financial return with some other objective such as self-preservation. Often family-owned, the owners can limit the strict pursuit of profit maximization in favor of interests like maintaining a legacy.
+  在[A琥珀组织](http://reinventingorganizationswiki.com/Amber_Organizations)中，股东通常同样是一个不协调的概念。琥珀组织通常有一个目的，但不是财务回报。军队、教会或政府机构没有“所有者”。在一定程度上，营利实体如果在琥珀范式下运作，通常会尝试在财务回报与其他目标（如自我保护）之间取得平衡。通常是家族所有制，股东会限制追求利润最大化，目的是有利于维持遗产等利益。
 
 
   #### Orange Organizations
