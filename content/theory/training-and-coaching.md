@@ -37,13 +37,19 @@ perspective: >-
   [橙色组织](../orange-paradigm-and-organizations/)引入了精英制这个变革性要件。原则上任何人都有机会升职。邮件收发室的男孩可以成为首席执行官——即使那个男孩碰巧是个女孩或者是少数民族裔。培训部门（通常是人力资源部的一个分支）为这一进展提供支持。通常组织会制作每个岗位角色（销售人员、技术人员、新人经理、中层经理、资深经理、高级经理等）所需的能力要求列表。橙色中一个常见的想法是，认为应该培养人才来填补组织结构图中现在和未来的空缺。这是个带来社会公平的突破，至少在原则上给人们更多机会，去选择追求最适合自己才能的道路。
 
 
-  Coaching is often available to senior managers and leaders to help them settle into new roles and perform better. Coaching is usually not available to those lower down in the organization.
+  新入职的高级管理人员和领导者通常可以获得被辅导的机会，目的是帮助他们适应新的角色，并取得更好的绩效。组织中下级层面的成员通常得不到这类辅导。
 
 
-  #### **Green organizations**
+  #### **绿色组织**
 
 
-  [Green organizations](../green-paradigm-and-organizations/) build on the practices of Orange organizations by adding a twist to management development. Managers are expected to be in service to those they lead, support and serve. Candidates for management positions are often screened for mindset and behavior to assess:
+  [绿色组织](../green-paradigm-and-organizations/)以橙色组织的做法为基础，但增加了一个先进的管理理念。开始认为管理者应该为自己的部下提供支持与服务（公仆领导）。通常会根据应聘者的思维和行为来筛选管理职位，评估角度包括：
+
+  他们是否准备好分享权力？
+
+  他们是否会谦卑地领导他人？
+
+  他们是否能成为组织文化和价值观模板？
 
 
   * whether they are ready to share power?
