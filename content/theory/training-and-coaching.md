@@ -5,16 +5,18 @@ key: Training and Coaching
 name: 培训与辅导
 sortOrder: 3
 category: People practices
-intro: Training and coaching is about how organizations develop knowledge,
-  skills and a help people understand the culture. so they can contribute fully.
+intro: 培训和辅导事关组织特有的知识与技能开发，以及如何帮助成员理解公司特有的文化。目的是促进成员为组织提供全然而健康的贡献。
 perspective: >-
-  #### A new perspective
+  ## 新视角
 
 
-  Teal organizations are self-managed, and can provide exceptional learning opportunities. Everyone is encouraged to develop their roles and, the more they embrace opportunities, the more they learn. The key difference is that people take responsibility for their own development. There is no HR department running training courses to fill roles in the organization. It is common though for [Teal organizations](../teal-paradigm-and-organizations/) to offer significant [on-boarding](../onboarding/)
+  #### 新视角
 
 
-  Every historical stage has brought a distinctive approach to training and coaching.
+  蔚蓝组织的自我管理机制，可以提供特殊的学习机会。每个人都被鼓励自主开发自己的角色，成员接受的机会越多，学到的东西就越多。与传统模式的关键区别在于人们对自己的存在和发展负责。不存在运行培训课程来填补组织中空缺角色的人力资源部门。但[蔚蓝组织](../teal-paradigm-and-organizations/)通常提供重要的[on-boarding](../onboarding/)
+
+
+  处于不同的历史阶段的组织机构，都有完全不同的辅导培训做法。
 
 
   #### **Red organizations**
