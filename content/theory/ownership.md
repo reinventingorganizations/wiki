@@ -19,10 +19,10 @@ perspective: >-
   从更扩展的角度来看，股东的概念可能会被诸如[公仆](https://en.wikipedia.org/wiki/Stewardship)的概念所取代。如果蔚蓝组织是个活生生的生命体，人怎么可能拥有其整个或部分百分比？人怎么可能拥有一个（如蔚蓝组织这样一个）想要自我显化的能量呢？甚至人怎么可能拥有资产--比如制造机器的金属呢？人类才刚刚开始审视这些疑问，还没有得到真正的答案。在当今世界，股东已深深载入各组织必须遵守的法律框架。我们还没有发明或开始定义组织的“公仆”到底意味着什么（参见下面的“实践中”章节）。
 
 
-  Today, we draw a distinction between “for profit” and “not for profit” organizations. Perhaps the implementation of something like “stewardship” would blur this distinction and lead to a new more broadly applicable legal form of organization.
+  当今，我们对这种的划线区分是“营利性”和“非营利性”。也许引入股东作“公仆”这类模式的运作时，会让这种区别变得模糊，并据此发明一种崭新的更广泛适用的被法律承认的组织形式。
 
 
-  For a fuller discussion of a historical perspective on ownership, see below:
+  有关股东的历史观点如下：
 
 
   #### Red Organizations
