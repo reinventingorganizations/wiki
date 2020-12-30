@@ -69,10 +69,10 @@ inPractice: >-
   法维的让·弗朗索瓦·佐布里斯特用下面的比喻来解释这种区别。一架波音747飞机是一个静态复杂的系统。有数以百万计的部件需要无缝地协同工作。但一切都是可规划的；如果你改变一个部分，你应该能够预测所有的后果。但一碗意大利面是一个动态复杂的系统。尽管它只有几十个“零件”，但当你拉着一条从碗里伸出来的面条的末端向外拉，几乎无法预测会发生什么。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4577-4581). Nelson Parker. Kindle Edition.]
 
 
-  ##### *Dynamic Steering*
+  ##### *动态转向*
 
 
-  Brian Robertson at Holacracy uses a metaphor from the world of agile software development to describe how the planning process differs in Teal organizations:
+  霍尔的布莱恩用敏捷软件（原型）开发领域的一个隐喻来描述蔚蓝组织的计划过程之不同：
 
 
   *Imagine riding a bicycle the way we manage most modern organizations. You would hold a big meeting to decide the angle at which you should hold the handlebars; you’d map your journey in as much detail as possible, factoring in all known obstacles and the exact timing and degree to which you would need to adjust your course to avoid these. Then you would get on the bicycle, hold the handlebars rigidly at the angle calculated, close your eyes, and steer according to plan. Odds are you would not reach your target, even if you did manage to keep the bicycle upright for the entire trip. When the bicycle falls over, you might ask: “Why didn’t we get this right the first time?” And maybe: “Who screwed up?”*
