@@ -81,10 +81,10 @@ inPractice: >-
   ##### ***内部沟通***
 
 
-  In Teal, strategy emerges organically from the collective intelligence of everyone in the organization. This collective intelligence is encouraged by sharing company data and information. As everyone is 'in the know', information is available to all to offer strategic suggestions.
+  在蔚蓝组织，战略自然产生于组织中每个人的集体智慧。蔚蓝通过100%给一线成员共享公司数据和信息，来激励并培育支撑这种集体智慧。因为每个人都是“知情”的，所以所有人都可以获得信息而有能力提供战略建议。
 
 
-  Teal organizations may use 'all-hands meetings' to share important information, and to discuss the organization's response. This reflects trust in the organization's collective intelligence. It also rejects the notion that a only small group of people at the top could master all the complex information necessary to make sound strategic choices.^\[Frederic. Reinventing Organizations (pp110-112). Nelson Parker, 2014.]
+  蔚蓝组织有时会利用“全体会议”来分享重要信息，并讨论组织对特定课题或机遇的回应。这种做法反映了发起人对组织集体智慧的信任。同时摒弃了一种见解：只有一小部分高层人士才有权限掌握那些，做出合理战略选择所必须的全部复杂信息。^\[Frederic. Reinventing Organizations (pp110-112). Nelson Parker, 2014.]
 faq:
   - question: How does Strategy link with the three Teal breakthroughs?
     answer: >-
@@ -117,4 +117,3 @@ relatedTheory:
   - Budgeting and Controlling
   - Decision Making
 ---
-to be removed
