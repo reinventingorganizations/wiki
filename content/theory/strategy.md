@@ -60,10 +60,10 @@ inPractice: >-
   有了组织目标作为指路明灯，无论谁，无论是个人还是集体，都被赋予了自主感知潜在需求的能力。战略会随时随地的有机发生，人们不断培育新想法，并在实地测试它们。组织在集体智慧的活动过程中进化、变形、扩张或收缩。现实是伟大的裁判，替代了首席执行官、董事会或委员会。有效的主意会在组织内部聚集动力和能量而立项；而那些不被接纳无法流行的想法会自然枯萎。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4506-4509). Nelson Parker. Kindle Edition.]
 
 
-  ##### *Workable solutions, fast iterations*
+  ##### 快速迭代的可行解决方案
 
 
-  Teal organizations don't rely so heavily on the predict and control model. While predicting the future may be helpful in a *complicated* world, it is less relevant in an increasingly *complex* world. Out of this understanding, Teal organizations tend to move to implementing workable solutions, today, that can be improved at any point. Companies are not chained to strategic planning processes, or driven to achieve targets that might be quickly out of date. These companies are freer to progress quickly, via fast iterations, and revise strategies as necessary.
+  蔚蓝组织不再那么依赖预测和控制模型。虽然在相对静态复杂的世界里预测未来可能是有帮助的，但在一个日益变迁的动态而复杂的当今世界里，预测变得不那么重要。基于这一认识，蔚蓝组织倾向于实施在当下可行的解决方案，这些解决方案随后可以与时俱进。公司不受战略规划流程的约束，也不受可能很快过时之目标的驱使。蔚蓝组织据此可以更自由地通过快速迭代得到快速发展，并根据需要修改战略。
 
 
   Jean-François Zobrist at FAVI uses the following metaphor to explain the difference. An airplane like a Boeing 747 is a *complicated* system. There are millions of parts that need to work together seamlessly. But everything can be mapped out; if you change one part, you should be able to predict all the consequences. A bowl of spaghetti is a *complex* system. Even though it has just a few dozen “parts,” it is virtually impossible to predict what will happen when you pull at the end of a strand of spaghetti that sticks out of the bowl.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4577-4581). Nelson Parker. Kindle Edition.]
