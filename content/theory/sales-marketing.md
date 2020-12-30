@@ -13,41 +13,42 @@ perspective: >-
   从橙色范式开始，企业根据客户有意识和无意识的需求、偏好和购买行为，对客户进行细分。这方面技巧已经变得非常成熟。出于战胜竞争对手的目标，传统组织根据每个细分市场，致力于细心定位自己的产品和服务。这些努力和实践，在橙色和绿色组织产品创新角度起到很大作用。但在已经成熟的市场中，似乎越来越多的公司为了经济利益而致力于创造新的（伪）需求，不能立足于更好满足现有的需求。企业在这个需求诱惑过程中，主要是在利用人性的恐惧和虚荣。“买这个，你会对自己感觉良好。”“买这个，别人会喜欢你。”“买这个，你就会成功。”
 
 
-  In contrast, the Teal approach to marketing is rather simplistic and stems directly from the organization’s sense of purpose. Companies simply ‘listen in’ to what feels like the right offering. There is less emphasis on customer surveys and focus groups. Essentially, marketing boils down to: This is our offer. At this moment, we feel this is the best we can possibly do. We hope you will like it. In a strange paradox, Teal organizations go about filling a need not by tuning in to the noise of the world (the surveys, the focus groups, the customer segmentation), but by listening within. What product would we be really proud of? What product would fill a genuine need in the world? These are the kinds of questions people in Teal organizations ask to define new products. It’s a process guided by beauty and intuition more than analytics.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4511-4521). Nelson Parker. Kindle Edition.]
+  相比之下，蔚蓝的营销方法相当简单，市场战略是直接源于组织的目标和使命感。公司只需“倾听”让人觉得合适的、能贡献社会的产品即可。对客户调查和焦点访谈的重视程度较低。营销基本上可以简化为：这是我们的产品。我们觉得这是此刻自己尽最大努力的奉献。我们希望你会喜欢。这是个奇怪的悖论，蔚蓝组织不是通过关注世界的噪音（调查、焦点小组、客户细分）来满足需求，而是通过倾听：我们会为何种产品感到骄傲？什么样的产品能满足世界众生的真正需求？这些都是蔚蓝组织中的人在定义新产品时，常会提问的内容。产品决策不是由分析而是由美和直觉引导的过程。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4511-4521). Nelson Parker. Kindle Edition.]
 inPractice: >-
-  As an organization’s guiding light switches from sales, profits and market
-  share to its purpose, sales and marketing practices change in fundamental
-  ways.
+  ## 实践中
 
 
-  ### Inside-out offer defined by purpose
+  当一个组织的指示灯从销售、利润和市场份额转向其目标时，营销和市场战略会发生根本性的变化。
 
 
-  Earlier stage organizations will develop marketing strategies based heavily on an analysis of customers (using surveys, focus groups, etc.) with the objective of increasing sales, profit, market share, etc. often by creating artificial needs. This could be characterized as an “outside in” approach. Teal organizations take an “inside out” approach where product development and communication are driven by the desire to fulfill the organization’s purpose. See also[ Innovation and Product Development](../innovation-and-product-development/).  
+  ### 内在驱动的产品和报价
 
 
-  ### Marketing driven more by purpose than product
+  早期组织很大程度上基于对客户的分析（使用调查、焦点小组等）来制定营销策略，目的是通过创造人为的需求来增加销售额、利润、市场份额等。这可以被描述为“由外而内”的方法。蔚蓝组织采取“由内而外”的方法，产品开发和沟通都是由实现组织目标的愿望来驱动。另见[创新与产品开发](../innovation-and-product-development/)。
 
 
-  Because purpose takes priority over sales and profits in Teal, these organizations are most interested in promoting the importance of their purpose and how they are working to achieve it than they are on selling their product or service. See the example of Patagonia below.
+  ### 市场战略重目标而非产品
 
 
-  ### The message is less directed at the “competition”
+  在蔚蓝组织，目标优先于销售和利润。组织最感兴趣的任务，是宣传其目标的重要性以及如何努力实现该目标，而不是销售产品或服务。具体参见下面巴塔哥尼亚案例。
 
 
-  Communications about a Teal company’s offering are less frequently designed primarily to claim superiority over the competition. As noted elsewhere in this wiki, Teal organizations often view others that are pursuing a similar purpose as allies rather than competitors. Communication are more often focused on the importance of the organization’s purpose and how the offering fulfills that purpose.
+  ### 传达的信息与“竞争” 无关
 
 
-  ### Less investment in sales and marketing departments
+  蔚蓝公司在产品层面的市场沟通，不会太频繁的宣称自己在竞争中的优势。正如在此开源知识库中提到的，蔚蓝组织往往将追寻与自己类似目标的其他组织看作是盟友，而不是竞争对手。对外宣传内容一般会聚焦于沟通组织目标的重要性，以及如何通过产品实现目标方面。
 
 
-  In Teal, the massive resources allocated to marketing typical in earlier stage organizations are largely gone. Traditional sales and marketing departments often do not exist. Responsibility is distributed throughout the organisation through self-managing teams who have direct customer contact. Within project teams there is often a role which links directly to the customer and is responsible for communicating with him and feeding back issues or opportunities to the team.
+  ### 减少营销和市场部门投入
 
 
-  ### Fewer top-down sales targets
+  在蔚蓝阶段，基本上节约了早期组织分配给市场营销部门的那种大量的资源投入。往往不再设置传统的营销和市场部门。市场沟通工作，是通过与客户有直接联系的自我管理团队，在整个组织内分散性的完成市场沟通任务。在项目团队中，通常有一个直接与客户联系的角色，负责与客户沟通，并向团队反馈问题或机会。
 
 
-  In Teal organizations, self-set targets may exist, but top-down targets usually don't. Targets are problematic for at least three reasons:
+  ### 减少自上而下的销售目标管理
+
+
+  在蔚蓝组织中，可能会有一些由团队或个人自定的局部目标，但组织规模自上而下的目标设定通常不存在。目标管理带来的问题至少有三个：
 
 
   1. They rest on the assumption that we can predict the future.
