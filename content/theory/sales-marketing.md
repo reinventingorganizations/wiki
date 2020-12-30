@@ -5,18 +5,12 @@ key: sales-marketing
 name: 营销与市场战略
 sortOrder: 3
 category: Important Processes
-intro: This article discusses sales and marketing processes in Teal organizations.
+intro: 本文讨论蔚蓝组织的营销与市场战略流程。
 perspective: >-
-  Starting with the Orange paradigm, businesses have become highly sophisticated
-  at segmenting customers based on their conscious and unconscious needs,
-  preferences and buying behaviors. Driven by the objective of outmaneuvering
-  the competition, they carefully position their products and services for each
-  segment. This has contributed importantly to the innovation brought about in
-  Orange and Green, but increasingly, in our mature markets, it seems companies
-  are bent on creating new needs over meeting existing ones. In this process,
-  they often play on our fears and vanities. “Buy this and you will feel good
-  about yourself.” “Buy this and others will like you.” “Buy this and you will
-  be successful.”
+  ## 新视角
+
+
+  Starting with the Orange paradigm, businesses have become highly sophisticated at segmenting customers based on their conscious and unconscious needs, preferences and buying behaviors. Driven by the objective of outmaneuvering the competition, they carefully position their products and services for each segment. This has contributed importantly to the innovation brought about in Orange and Green, but increasingly, in our mature markets, it seems companies are bent on creating new needs over meeting existing ones. In this process, they often play on our fears and vanities. “Buy this and you will feel good about yourself.” “Buy this and others will like you.” “Buy this and you will be successful.”
 
 
   In contrast, the Teal approach to marketing is rather simplistic and stems directly from the organization’s sense of purpose. Companies simply ‘listen in’ to what feels like the right offering. There is less emphasis on customer surveys and focus groups. Essentially, marketing boils down to: This is our offer. At this moment, we feel this is the best we can possibly do. We hope you will like it. In a strange paradox, Teal organizations go about filling a need not by tuning in to the noise of the world (the surveys, the focus groups, the customer segmentation), but by listening within. What product would we be really proud of? What product would fill a genuine need in the world? These are the kinds of questions people in Teal organizations ask to define new products. It’s a process guided by beauty and intuition more than analytics.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4511-4521). Nelson Parker. Kindle Edition.]
