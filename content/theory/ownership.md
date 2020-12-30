@@ -25,10 +25,10 @@ perspective: >-
   有关股东的历史观点如下：
 
 
-  #### Red Organizations
+  #### 红色组织
 
 
-  In the [Red organization](https://reinventingorganizations-wiki.netlify.app/theory/red-organizations/), ownership is frequently a meaningless concept, as the legitimacy of its leadership stems from power more than some construct of ownership. Purpose is more closely tied to further aggregation of power than to financial return. To the extent Red organizations recognize ownership, ownership and leadership are typically fused. The leader is also the owner, or the key representative of the ownership family.
+  在[R红色组织](https://reinventingorganizations-wiki.netlify.app/theory/red-organizations/)中，股东往往是一个毫无意义的概念。因为其领导的合法性更多地来源于权力而不是某种所有权的建构。组织的目的是关于聚集进一步的权力，而不是经济回报。红色组织对股东的认知，通常跟领导权混为一谈。领导者也是所有者或股东家族的关键代表。
 
 
   #### Amber Organizations
