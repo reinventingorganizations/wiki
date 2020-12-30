@@ -5,27 +5,27 @@ key: Strategy
 name: 战略
 sortOrder: 1
 category: Important Processes
-intro: >-
-  The topic of Strategy covers how the traditional process of strategic planning
-  plays out in Teal organizations.
-
+intro: |-
+  介绍传统的战略规划过程在蔚蓝组织中如何呈现。
 
   ![](/media/evolutionary-purpose.jpg)
 perspective: >-
-  Every historical stage has given birth to a distinct perspective on strategy,
-  and to very different practices:
+  ## 新视角
 
 
-  #### **Red Organizations**
+  人类组织的每一个历史阶段都产生了不同的战略视角和截然不同的实践：
 
 
-  [Red organizations](../red-organizations/) don't typically develop long-term goals or strategies beyond survival. The chief(s) seek short-term gains to maintain power, and to respond to threats and opportunities as they arise.
+  #### **红色组织**
 
 
-  #### **Amber Organizations**
+  [红色组织](../red-organizations/)一般不会制定求生存目的之外的长期目标或战略。酋长寻求短期收益以维持权力，并在威胁和机遇出现时对其作出反应。
 
 
-  [Amber organizations](../amber-paradigm-and-organizations/) can develop strategies but do not emphasize them, as the world is viewed as relatively unchanging and predictable. The emphasis is rather on processes. To the extent strategies are developed, this is done very much at the top of the hierarchy only. Decisions are handed down to workers at the bottom, with information shared only as needed.
+  #### **琥珀组织**
+
+
+  [琥珀组织](../amber-paradigm-and-organizations/) can develop strategies but do not emphasize them, as the world is viewed as relatively unchanging and predictable. The emphasis is rather on processes. To the extent strategies are developed, this is done very much at the top of the hierarchy only. Decisions are handed down to workers at the bottom, with information shared only as needed.
 
 
   #### **Orange Organizations**
