@@ -31,10 +31,10 @@ perspective: >-
   在[琥珀组织](../amber-paradigm-and-organizations/)中，有明确而具体的岗位角色划分。培训的目的是为了让组织内各级人员有效地履行其职责和责任（例如在军队中进行军官培训）。有些成员的职业培训由独立机构（职业学校或大学）提供。重视针对特定专业的资格证书。还会通过在职期间的持续培训，让每个级别的优秀人才都能得到晋升机会。
 
 
-  #### **Orange organizations**
+  #### **橙色组织**
 
 
-  [Orange organizations](../orange-paradigm-and-organizations/) have adopted the revolutionary premise of meritocracy. In principle, anybody can move up the ladder. The mail room boy can become the CEO - even if that boy happens to be a girl or have a minority back-ground. This progress is supported by a Training Department, often a sub-section of HR. It is not unusual to have lists of competencies required for each role in the organization (sales people, technicians, new managers, emerging managers, senior managers, and so on). The pervasive thinking is that talent should be developed to fill the present and future boxes on the organization chart. This breakthrough in social fairness gives people options, at least in principle, to pursue the path that best suits their talents.
+  [橙色组织](../orange-paradigm-and-organizations/)引入了精英制这个变革性要件。原则上任何人都有机会升职。邮件收发室的男孩可以成为首席执行官——即使那个男孩碰巧是个女孩或者是少数民族裔。培训部门（通常是人力资源部的一个分支）为这一进展提供支持。通常组织会制作每个岗位角色（销售人员、技术人员、新人经理、中层经理、资深经理、高级经理等）所需的能力要求列表。橙色中一个常见的想法是，认为应该培养人才来填补组织结构图中现在和未来的空缺。这是个带来社会公平的突破，至少在原则上给人们更多机会，去选择追求最适合自己才能的道路。
 
 
   Coaching is often available to senior managers and leaders to help them settle into new roles and perform better. Coaching is usually not available to those lower down in the organization.
