@@ -51,15 +51,14 @@ inPractice: >-
   在蔚蓝组织中，可能会有一些由团队或个人自定的局部目标，但组织规模自上而下的目标设定通常不存在。目标管理带来的问题至少有三个：
 
 
-  1. They rest on the assumption that we can predict the future.
+  1. 目标建立在我们可以预测未来的假设之上（但其实未来是无法预测的）。
 
-  2. They may skew our focus away from purpose.
+  2. 销售目标可能会使我们的注意力偏离组织终极目标。
 
-  3. They may narrow our ability to sense possibilities.
+  3. 目标可能会削弱我们感知新可能性的能力。
 faq: []
 relatedTheory:
   - Listening to Purpose
   - Evolutionary Purpose
   - Innovation and Product Development
 ---
-to be removed
