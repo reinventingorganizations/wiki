@@ -5,26 +5,18 @@ key: Ownership
 name: 股东
 sortOrder: 6
 category: Structure of an organization
-intro: "This article discusses the structure of ownership under Teal and the
-  implications for the types of owners of Teal organizations.\r
-
-  \r\n"
+intro: 本文探讨了蔚蓝下的股东结构，并介绍蔚蓝组织所有者的各种类型。
 perspective: >-
-  Ownership and Teal have an uneasy relationship. Traditionally, ownership is a
-  concept that applies to “for profit” entities. From a strictly legal
-  perspective, the modern “for profit” organization, whether it be a sole
-  proprietorship, a partnership or a corporation, exists primarily to provide a
-  financial return to its owners. Indeed, the entire legal framework established
-  around “for profit” organizations in developed countries reflects the
-  assumption that such is their purpose. As this wiki discusses at length
-  elsewhere, the purpose of a Teal organization extends well beyond providing a
-  financial return to its owners.
+  ## 新视角
 
 
-  In the Teal paradigm, purpose transcends profit. This requires expanding beyond the primacy of ownership in Orange and even the Green multi-stakeholder perspective. In Teal, while fulfilling the organization’s purpose might require financial investment, which in turn might give investors a legitimate voice in the organization and the right to a fair return on their investment, the organization does not exist solely to serve its owners.
+  股东和蔚蓝的关系很微妙。传统上，股东是一个适用于“营利”实体的概念。从严格的法律角度来看，现代“营利”组织，无论是独资企业、合伙企业还是有限公司，其存在的主要目的是为其所有者提供经济回报。事实上，发达国家围绕“营利”组织建立的整个法律框架反映了这样一种假设，公认利益是这类组织的目的。但正如本知识库在其他章节已经详细讨论过的那样，蔚蓝组织的目的远不止为其所有者提供经济回报。
 
 
-  Taking a broader perspective, the concept of ownership might be replaced by a concept such as [stewardship](https://en.wikipedia.org/wiki/Stewardship). Can you own a living entity, like an organization, or part of it? Can you own energy that wants to manifest itself? Can you even own the assets - such as the metal that makes up a machine? We barely have begun asking these questions, and have no real answers yet. Ownership is today deeply enshrined in our legal frameworks that organizations must comply with. We have yet to invent what "stewardship" of an organization could mean (see “In practice” below).
+  在蔚蓝模式中，目标优先于利润。这就需要超越橙色的股东至上观点，甚至也要超越绿色之重视多方利益相关者的观点。在蔚蓝阶段，虽然实现组织目标可能需要财政投资，而财政投资又可能使投资者在本组织中拥有合法的发言权，并有权获得公平的投资回报，但蔚蓝组织的存在并不仅仅是为股东服务。
+
+
+  从更扩展的角度来看，股东的概念可能会被诸如[公仆](https://en.wikipedia.org/wiki/Stewardship)的概念所取代。如果蔚蓝组织是个活生生的生命体，人怎么可能拥有其整个或部分百分比？人怎么可能拥有一个（如蔚蓝组织这样一个）想要自我显化的能量呢？甚至人怎么可能拥有资产--比如制造机器的金属呢？人类才刚刚开始审视这些疑问，还没有得到真正的答案。在当今世界，股东已深深载入各组织必须遵守的法律框架。我们还没有发明或开始定义组织的“公仆”到底意味着什么（参见下面的“实践中”章节）。
 
 
   Today, we draw a distinction between “for profit” and “not for profit” organizations. Perhaps the implementation of something like “stewardship” would blur this distinction and lead to a new more broadly applicable legal form of organization.
