@@ -34,10 +34,10 @@ perspective: >-
   在[橙色组织](../orange-paradigm-and-organizations/)中，战略变得更加重要，因为人们越来越被发现世界是动态的。不过，尽管人们认为世界越来越复杂，但仍然认为是可以预测的。战略通常仍然是一个非常自上而下的过程，但已经从命令和控制过渡到预测和控制。为了保持竞争优势，橙色范式得出的结论是，组织的大部分成员必须被授权，并被授予一些独立思考和执行的空间。于是产生了目标管理的做法——最高管理层制定一个总体方向，并将目标和里程碑层层下达到金字塔底，以达到预期的结果。这个过程开发出那些我们都很熟悉的流程，如定期战略规划、年度预算、资产平衡表和关键绩效指标。
 
 
-  #### **Green Organizations**
+  #### **绿色组织**
 
 
-  In [Green organizations](../green-paradigm-and-organizations/), the organizational structure is further decentralized: lower ranks are increasingly empowered and a key responsibility of leaders is to facilitate this empowerment. However, Green organizations typically maintain some sort of hierarchical structure with strategic direction principally coming from the top. Strategy is also now enlisted in the service of purpose, which goes beyond Orange objectives of winning and profit.
+  在[绿色组织](../green-paradigm-and-organizations/)中，组织结构进一步分散：较低级别的人员越来越得到授权，领导者的一项关键责任就是促进这种授权。不过，绿色组织通常仍然保持着某种等级结构，组织的战略方向主要来自高层。但战略也被纳入了服务的目的，这超越了橙色那种赢得竞争和利润的目的。
 
 
   #### **Teal Organizations**
