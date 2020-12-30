@@ -58,10 +58,13 @@ perspective: >-
 
   [蔚蓝组织](../teal-paradigm-and-organizations/)没有人力资源职能。自我管理机制能为成员提供额外的学习机会。鼓励每个人自觉开发定义自己的角色并尝试新事物。成员越是拥抱机会，越能习得更多的知识和技能--要么从同事那里学到，要么从新技能培训中学到。与传统模式的关键区别在于，成员能对自己的发展和成长自我负责。这类组织不会预定义各种角色，也不需要设置人力资源部，来提供针对固定岗位角色所需的知识和技能的各类培训课程，更不会为填补组织中的角色空缺而开设培训课程。不过通常蔚蓝组织仍然在技能培训方面进行投资。但通常由同事来完成。蔚蓝组织都会提供有效的[入职流程](../onboarding/)，主要是关于通用的公司文化和重要流程。从传统组织转入的人员，如果不学会各种新规则，同时忘记那些旧的规则和习惯，会困难重重。
 inPractice: >-
-  #### **Training**
+  ## **实践中**
 
 
-  In a Teal organization there is no need for career development programs. Instead training tends to focus on personal growth and building a common culture. Skill training programs are still needed and are open to all those who require them. They are often led by colleagues rather than external trainers because the training then becomes deeply infused with the company’s [values and culture](../culture-and-values/).
+  #### **培训**
+
+
+  蔚蓝组织内不存在职业生涯开发程序和角色适配培训。培训主要是聚焦于个人成长和构建共享文化。技能培训程序依然存在，并向所有需求者开放。这些技能培训多数由同事带领，很少采用外部培训机构的服务，主要是为了在此过程中深刻渗透公司的共同[价值观与文化](../culture-and-values/)
 
 
   ##### ***Personal responsibility and freedom for training***
