@@ -37,10 +37,10 @@ perspective: >-
   在现代的琥珀模式中——一些政府机构、宗教组织、公立学校、军队等——常态是长期持续（甚至终身）的就业。这些长期的关系可能会延伸到社交圈。被解雇的可能性不仅会带来失业的威胁，而且还会有可能威胁到这个人在社会上的相关位置，失去面子或容身之地。那些在琥珀色组织中得不到满足感的人，面临着非常痛苦的选择。
 
 
-  #### Orange organizations
+  #### 橙色组织
 
 
-  [Orange organizations ](../orange-paradigm-and-organizations/)have a wide range of practices for dismissals. Authority commonly lies with the boss (maybe after HR approval or counseling).
+  [橙色组织 ](../orange-paradigm-and-organizations/)对解雇积累了广泛成熟的实践。权力通常由老板掌握（虽然有些可能要由人事部批准或寻求其建议）。
 
 
   The causes are typically either performance or organizational cost-cutting/strategic redirection. Rarely is there implicit or contractual understanding that employment is guaranteed.
