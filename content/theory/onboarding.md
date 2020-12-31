@@ -63,16 +63,16 @@ inPractice: >-
   入职过程的一个重要部分，通常放在强化理解[进化目标](../evolutionary-purpose/)概念上。鼓励新成员表达自己的个人意愿，确认个人目标和公司目标有何共鸣，并鼓励新人学会一些技巧，支撑个人和组织相互支持和滋养。
 
 
-  There is no perfect recipe for a Teal onboarding process. Each organization chooses a range of activities that aim to teach new skills and, in the process, touch the heart and soul of those joining. A good way to develop an onboarding process is to ask employees, especially new ones, to co-create their own onboarding program and activities.
+  蔚蓝组织的入职流程，并没有现成的完美菜单。每个组织都会努力展开一系列传授新技能的活动，并在此过程中触动加入者的心灵。最佳做法是请成员，特别是新成员，共同定义和创建他们自己的入职流程计划和活动。
 
 
-  Foundational training in some of the following practices helps new colleagues starting in a Teal organization.
+  以下一些具体的，有助于新同事在蔚蓝组织中起步的具体培训案例。
 
 
-  #### **Ground rules or agreements**
+  #### 基本规则或共识
 
 
-  Creating a safe workplace starts with raising everybody’s awareness of the words and actions that create or undermine a safe working environment. Teal organizations spend significant time and energy training everybody in a number of ground rules or agreements that support healthy and productive collaboration. These ground rules are a tangible application of the [culture and values](../culture-and-values/) of the organization. Several of the organizations end up writing down these in a document.
+  为了创建一个提供心理安全的工作场所，首先要让每个人认识到，哪些言行会创造或破坏安全的工作环境。蔚蓝组织花了大量的时间和精力，培训每个人了解一些能支持健康而有成效协作关系的基本规则或共识。这些基本规则是组织[文化与价值观](../culture-and-values/) of the organization. Several of the organizations end up writing down these in a document.
 
 
   Of course, it takes more than a document to bring values to life. Many researched Teal organizations have chosen to start right at the beginning: all new recruits are invited, as part of the onboarding, to a training session about the company values and ground rules, which helps to create common references and a common language across the organization. Those ground rules and values are regularly revisited to ensure they best reflect and serve the Evolutionary purpose of the organization.
