@@ -43,7 +43,7 @@ perspective: >-
   #### **蔚蓝组织**
 
 
-  [ ](../teal-paradigm-and-organizations/)[蔚蓝组织](../teal-paradigm-and-organizations/)蔚蓝组织投入大量时间和精力迎接和培训新同事。通常包括让新人学习新的同事关系技巧，理解自我管理在实践中的意义，并且实施轮训计划。这些活动培训组织内通用的技能，并为新同事提供一个结识各类同事的机会。此外，还会向新人介绍自我管理、整体性和进化目标[自我管理](../self-management/), [w完整人性](../wholeness/) an和 [e进化目标volutionary purpose](../evolutionary-purpose/)的实践流程，邀请他们沉思自己的使命感以及兴趣和专长如何融入组织目标和活动。
+  [ ](../teal-paradigm-and-organizations/)[蔚蓝组织](../teal-paradigm-and-organizations/)蔚蓝组织投入大量时间和精力迎接和培训新同事。通常包括让新人学习新的同事关系技巧，理解自我管理在实践中的意义，并且实施轮训计划。这些活动培训组织内通用的技能，并为新同事提供一个结识各类同事的机会。此外，还会向新人介绍[自我管理](../self-management/), [完整人性](../wholeness/)和[进化目标](../evolutionary-purpose/)的实践流程，邀请他们沉思，如何将自己的使命感以及兴趣和专长，融入组织的目标和活动。
 inPractice: >-
   #### **Training in relational skills and in company culture**
 
