@@ -18,10 +18,10 @@ perspective: >-
   人类组织每一个历史阶段，都产生了对入职的不同观点以及截然不同的实践：
 
 
-  #### **Red Organizations**
+  #### **红色组织**
 
 
-  In [Red organizations](../red-organizations/) leaders continually exercise their power in order to maintain control. They often surround themselves with family members and trusted advisers, buying their allegiance by sharing the spoils. The onboarding process typically involves a ritual of allegiance to the leader. Mythical stories of the leaders power make the rounds and are part of the onboarding process.
+  在[红色组织](../red-organizations/)中，领导人不断行使权力以维持控制。酋长经常让家人和亲信顾问簇拥在左右，通过分享战利品来换取他们的忠诚。入职过程通常包括对领导者宣誓忠诚的仪式。传达关于领导者权力的一系列神话故事，也是入职过程的一部分。
 
 
   #### **Amber Organizations**
