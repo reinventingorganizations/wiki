@@ -73,10 +73,10 @@ inPractice: >-
   #### 潜在矛盾
 
 
-  As mentioned earlier, there is potential for conflict when board members do not have a deeply held Teal worldview, since a board generally has ultimate legal authority. Even for board members with a Teal worldview, there is potential for problems in for-profit organizations. This is because board members there have a fiduciary duty to shareholders, and there is at least the potential that Teal practices may not always be viewed as serving those fiduciary duties.
+  如前所述，当董事会成员不具有坚决的蔚蓝世界观时，就有可能发生冲突。因为董事会通常拥有最终的法律权威。在营利目的组织内，即使是那些有着蔚蓝世界观的董事会成员，也有可能成为潜在的问题。这是因为董事会成员对股东负有信托责任，至少蔚蓝模式的做法（是目标优先于利润），可能有时会被指责没有履行对股东的利益优先承诺。
 
 
-  For–profit Teal organizations can pursue a couple of avenues to limit this potential for conflict. First, they can work to transition (with appropriate shareholder consent) the company to a “Benefit Corporation” structure. This structure, adopted in many states in the U.S., extends the duty of directors to include non-financial interests such as social benefit, concerns of employees and suppliers and environmental impact.
+  营利性的蔚蓝组织可以通过一些途径来限制这种潜在的冲突。首先，可以（在股东同意的情况下）将公司转变为“福利公司”结构。这种结构在美国许多州得到采用，扩大了董事的职责范围，增加了对社会福利、成员和供应商的关注以及环境影响等非财务利益追求。
 
 
   Second, Holacracy has drafted a constitution that a board can adopt and make binding, even to future shareholders. It gives shareholders a legitimate say in matters related to finance, but prevents them from unilaterally imposing a strategy, or from reverting the organization to traditional management practices.
