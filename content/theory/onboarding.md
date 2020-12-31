@@ -42,10 +42,10 @@ perspective: >-
   [绿色组织](../green-paradigm-and-organizations/)注重文化和授权，努力鼓励成员的积极性。管理者入职培训的一个重要方面是培训公仆式领导方法和技能。由管理者在欢迎新成员加入公司流程中，扮演着重要角色，帮助新人了解企业文化。入职培训通常是关于社区建设，并以开放的方式介绍认识新家庭。
 
 
-  #### **Teal Organizations**
+  #### **蔚蓝组织**
 
 
-  [Teal organizations](../teal-paradigm-and-organizations/) invest significant time in welcoming and training new colleagues. This often includes learning new relational skills, understanding what self-management means in practice and going through a rotation program. These programs teach common skills and provide an opportunity for new colleagues to meet a wide range of people. Newcomers are also  introduced to the practices of [self-management](../self-management/), [wholeness](../wholeness/) and  [evolutionary purpose](../evolutionary-purpose/) They are invited to consider their calling and talents in relation to the organization's purpose and its activities.
+  [ 蔚蓝组织](../teal-paradigm-and-organizations/) invest significant time in welcoming and training new colleagues. This often includes learning new relational skills, understanding what self-management means in practice and going through a rotation program. These programs teach common skills and provide an opportunity for new colleagues to meet a wide range of people. Newcomers are also  introduced to the practices of [self-management](../self-management/), [wholeness](../wholeness/) and  [evolutionary purpose](../evolutionary-purpose/) They are invited to consider their calling and talents in relation to the organization's purpose and its activities.
 inPractice: >-
   #### **Training in relational skills and in company culture**
 
