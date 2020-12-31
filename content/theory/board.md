@@ -64,9 +64,11 @@ inPractice: >-
 
     ![]()
 
-  #### The board should also adopt Teal practices
+  #### 董事会也应采用蔚蓝做法
 
-    In self-managing organizations, the board is part of the "advice process". For example, if a board member believes a decision is needed, she should seek advice from appropriate people throughout the organization. In so doing, she not only shows support for the practice, but also invites others to seek advice from the board. This means the division between the board and the rest of the company becomes more ‘porous’, reducing the need for "go-betweens".
+
+  在自我管理组织中，董事会也应该遵循“建议流程”。例如，如果董事会成员认为需要作出决定，应该向整个组织的适当人员寻求建议。这样做不仅表明了董事会支持蔚蓝实践的态度，而且还能邀请其他人也能积极征求董事会的意见。这意味着减少了董事会与公司其他部分之间的鸿沟，减少了对中间管理层中介人的需求。
+
 
   #### The potential for conflict
 
