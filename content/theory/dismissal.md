@@ -31,7 +31,7 @@ perspective: >-
   #### 琥珀组织
 
 
-  在[琥珀组织,](../amber-paradigm-and-organizations/) dismissals often follow a lapse of discipline, or a violation of the rules. The consequences may be well defined. For example, a first offense (perhaps arriving late) might mean suspension for a day. Repeated offense might result in dismissal.
+  在[琥珀组织](../amber-paradigm-and-organizations/)中，解雇往往由于失职或违反规则。后果可能是明确的。例如，初犯（迟到等）可能意味着停职一天。再犯可能会被开除。
 
 
   In today’s versions of Amber — some government agencies, religious organizations, public schools, the military, etc. — extended (even lifetime) employment is the norm. These long relationships may extend to social circles. The possibility of dismissal carries the threat, not only of the loss of a job, but also of the associated social fabric. Those feeling unfulfilled in an Amber organizations face a painful choice.
