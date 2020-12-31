@@ -70,7 +70,7 @@ inPractice: >-
   在自我管理组织中，董事会也应该遵循“建议流程”。例如，如果董事会成员认为需要作出决定，应该向整个组织的适当人员寻求建议。这样做不仅表明了董事会支持蔚蓝实践的态度，而且还能邀请其他人也能积极征求董事会的意见。这意味着减少了董事会与公司其他部分之间的鸿沟，减少了对中间管理层中介人的需求。
 
 
-  #### The potential for conflict
+  #### 潜在矛盾
 
 
   As mentioned earlier, there is potential for conflict when board members do not have a deeply held Teal worldview, since a board generally has ultimate legal authority. Even for board members with a Teal worldview, there is potential for problems in for-profit organizations. This is because board members there have a fiduciary duty to shareholders, and there is at least the potential that Teal practices may not always be viewed as serving those fiduciary duties.
