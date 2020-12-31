@@ -5,22 +5,17 @@ key: Onboarding
 name: 入职
 sortOrder: 2
 category: People practices
-intro: >-
-  The topic of onboarding describes how new colleagues are welcomed and
-  supported when they join an organization. It covers training activities and
-  rotation programs to help new joiners integrate successfully into the
-  organizational and its culture.
-
+intro: |-
+  此主题描述如何欢迎并积极支持新同事加入组织。流程包括培训活动和轮训计划，目的是帮助新加入者成功地融入组织及其文化。
 
   ![](/media/all-stages.jpg)
 perspective: >-
-  [Teal organizations](../teal-paradigm-and-organizations/) invest significant
-  time in welcoming and training new colleagues. This often includes learning
-  new relational skills, understanding what self-management means in practice
-  and going through a rotation program. These programs teach common skills and
-  provide an opportunity for new colleagues to meet a wide range of people.
+  ## 新视角
 
-  Every historical stage has given birth to a distinct perspective on onboarding, and to very different practices:
+
+  [蔚蓝组织](../teal-paradigm-and-organizations/)蔚蓝组织投入大量时间金额精力迎接和培训新同事。通常包括让新人学习新的同事关系技巧，理解自我管理在实践中的意义，并且实施轮训计划。这些活动培训组织共同的技能，并为新同事提供一个结识各类同事的机会。
+
+  人类组织每一个历史阶段，都产生了对入职的不同观点以及截然不同的实践：
 
 
   #### **Red Organizations**
