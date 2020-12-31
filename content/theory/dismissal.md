@@ -78,10 +78,10 @@ inPractice: >-
   #### 解雇仍然偶尔发生
 
 
-  But occasionally, self-managing organizations do face situations where they need to part ways with people who don’t fit. Perhaps someone breaches company values, or systematically fails to follow the advice process (in many Teal organizations, failing to follow the advice process is the only “fireable” offense). In both of these cases, the fundamental fabric of self-management may be threatened. These situations don’t rely on a hierarchy for action, but on peer-based mechanisms.
+  话虽如此，有时自我管理组织也确实会面临与不适合的人分道扬镳的情况。也许有人违背了公司价值观，或者有意不遵循建议流程（在许多蔚蓝组织中，未能遵循建议流程是唯一“该被解雇”的行为）。因为在这两种情况下，自我管理的基本结构可能受到威胁。但这些情况下也不是通过层次结构般的命令来处理，而是通过基于同事自行调节的原则和流程来处理。
 
 
-  It usually starts with a conflict resolution effort, initiated by a team or an individual. They talk with the person in question and try to find a mutually agreeable solution. If this fails, they can call a mediator, or a panel, to facilitate resolution. In most cases, this brings resolution. In some cases, the person and the team decide on some mutual commitments and give it another go. In others, the person comes to see that trust is irrevocably broken and understands it is time to leave.
+  要启动解雇，通常先进入一个由团队或个人发起的冲突解决流程。通过与当事人交谈，试图找到双方都同意的解决办法。如果这个流程失败了，就会召唤一个调解人，或一个小组来促进解决。在大多数情况下，这一步就会带来满意的解决方案。有时，成员和团队会做出一些相互承诺，然后给机会再留队查看。但有时，这个人会发现信任已经破碎到不可挽回，并明白自己是该激流勇退了。
 
 
   If no agreement can be found, and as a last chance to settle the matter, the team may ask an owner/founder to mediate. In the rare cases where even that fails, the team can ask the founder to put an end to the person’s employment. This process, with some variations, is followed at [Buurtzorg ](http://www.buurtzorgnederland.com/)and [Morning Star](http://www.morningstarco.com/).
