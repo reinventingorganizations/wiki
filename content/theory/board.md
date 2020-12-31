@@ -34,10 +34,10 @@ perspective: >-
   在[琥珀组织](../amber-paradigm-and-organizations/)中，典型的董事会是位于僵化等级制度顶端的小社会阶层。可能存在正式的入选标准或资格审查程序。董事会扮演“监护人”的角色：它确保传统、规则和程序得到尊重。
 
 
-  #### Orange Organizations
+  #### 橙色组织
 
 
-  In the [Orange paradigm](../orange-paradigm-and-organizations/), the board exists to hold management accountable on behalf of the shareholders/owners or in the case of a non-profit on behalf of its funders, . Its focus is on targets, results, strategies, controls and succession. It is responsible for appointing and, if necessary, dismissing the CEO.
+  在[橙色模式](../orange-paradigm-and-organizations/)董事会的存在是为了让管理层代表股东/所有者，或在非盈利的情况下代表出资人负责任。董事会的重点是目标、结果、战略、控制和继任。并负责任免首席执行官。
 
 
   #### Green Organizations
