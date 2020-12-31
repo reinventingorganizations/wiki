@@ -75,7 +75,7 @@ inPractice: >-
   几乎所有人都选择在被解雇前离开。几乎所有的离开都是在双方同意，并在友好协商的基础上发生的。但离开方式再美丽，终究还是不能改变离职这个事实。在个人层面，这个过程可能很痛苦。自我管理的文化背景帮助人们认识到，这种事的发生，没有人需要负责任或受责备；他们也许只是不适合这个工作（致力于防止或缓解心理创伤）。
 
 
-  #### Dismissal still happens occasionally
+  #### 解雇仍然偶尔发生
 
 
   But occasionally, self-managing organizations do face situations where they need to part ways with people who don’t fit. Perhaps someone breaches company values, or systematically fails to follow the advice process (in many Teal organizations, failing to follow the advice process is the only “fireable” offense). In both of these cases, the fundamental fabric of self-management may be threatened. These situations don’t rely on a hierarchy for action, but on peer-based mechanisms.
