@@ -81,10 +81,10 @@ inPractice: >-
   #### **目标**
 
 
-  A dialogue on how the organization's purpose resonates with new colleagues personal calling can be a great mutual introduction. [Teal organizations](../teal-paradigm-and-organizations/) are seen as having a life and a sense of direction of their own. Instead of trying to predict and control the future, members of the organization are invited to listen in and understand what the organization wants to become. By understanding the Evolutionary purpose, they can see how they can contribute to it whilst also fulfilling their own personal calling.
+  展开对话，讨论组织目标如何与新同事的个人使命感产生共鸣，这会成为一个有效的相互介绍和了解的过程。我们认为[蔚蓝组织](../teal-paradigm-and-organizations/)具有其本身的生命和方向感。所以不会像传统做法那样试图预测和控制组织的未来，而是邀请组织成员努力倾听并理解：组织到底想要成为什么样子（目标愿景）。通过理解组织的进化目的，帮助新人找到途径，在实现个人使命的同时也为组织目标做出贡献。
 
 
-  Some founders and CEOs—such as Jos de Blok at [Buurtzorg](http://www.buurtzorgusa.org/) and Yvon Chouinard at [Patagonia](http://eu.patagonia.com/enGB/home)—find this module so significant that they choose to participate in every onboarding session.
+  一些蔚蓝组织的创始人和首席执行官，如[布尔佐格](http://www.buurtzorgusa.org/)的Jos de Blok和[巴塔哥尼亚](http://eu.patagonia.com/enGB/home)的Yvon Chouinard都发现这个入职目标印证模块非常重要，以至于他们都选择亲自参加每一次培训课程。
 
 
   #### **Meeting practices**
