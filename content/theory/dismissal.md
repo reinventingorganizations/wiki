@@ -16,10 +16,10 @@ perspective: >-
   在蔚蓝组织中，解雇的概率很小。角色的演变往往与个人的优点匹配，人们通常具备高度的自觉自主意识和不让同事失望的愿望。裁员并不常见，因为蔚蓝组织倾向于更灵活、更迅速地适应组织的经济衰退。离开的方式更多是自愿离职。当有人不适应这种新的工作方式，绝大多数都会自愿返回其他环境。
 
 
-  But, as a last resort (and only if a mediated conflict resolution process is unsuccessful), dismissal can occur. When it does, the associated emotions are embraced. People and choices are respected. Support is provided. And departure is treated as a learning opportunity, for both parties.
+  但作为最后手段（而且只有在解决冲突的标准流程没有成功的情况下），解雇也可能发生。解雇发生时，个人的相关情绪都会得到拥抱和处理（避免情感伤痕）。会尊重个人和自由选择。重视提供精神支持。对双方来说，离开也是一个学习和人性成长的机会。
 
 
-  **In contrast, dismissal in earlier stage organizations can be summarized as follows:**
+  作为对比，这里概括早期组织对解雇的观点和处理方式：
 
 
   #### Red organizations
