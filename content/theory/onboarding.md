@@ -87,16 +87,16 @@ inPractice: >-
   一些蔚蓝组织的创始人和首席执行官，如[布尔佐格](http://www.buurtzorgusa.org/)的Jos de Blok和[巴塔哥尼亚](http://eu.patagonia.com/enGB/home)的Yvon Chouinard都发现这个入职目标印证模块非常重要，以至于他们都选择亲自参加每一次培训课程。
 
 
-  #### **会议**
+  #### **会议流程**
 
 
   在会议中，很容易把灵魂推到隐蔽处，而变成虚荣心表达利己主义的游戏场。因此，几乎所有本文取样过的[蔚蓝组织](../teal-paradigm-and-organizations/)都制定了具体的会议流程，致力于帮助参与者控制他们的自我，并在一个完整性（个人与集体的完整人性）的层面相互交流。对于新成员来说，重要的是要了解静默和结构化决策等新的方法。这有助于新人获得为高效会议作出贡献的能力。
 
 
-  #### **Rotational programs**
+  #### **轮训程序**
 
 
-  Some organizations choose to train every new colleague in frontline skills. The goal is to build relationships with other employees across the company and to build understanding of how the company operates. This understanding enables people to develop new ideas and suggestions more effectively.
+  有些组织选择对每一位新同事进行一轮一线技能培训。目的是让新人与公司内的其他成员打造关系，并帮助新人形成对公司运营方式的理解。这种理解能帮助新人更有效地提出新的想法和建议。
 
 
   At [FAVI](http://www.favi.com/), the French automotive supplier, all engineers and administrative workers have been trained to operate at least one machine on the shop floor. This builds community and allows everyone to help on the shop floor when demand is high.
