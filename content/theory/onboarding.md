@@ -27,7 +27,7 @@ perspective: >-
   #### **琥珀组织**
 
 
-  [琥珀组织](../amber-paradigm-and-organizations/) value order and predictability. Everybody has their place in a hierarchy which has clearly defined roles and responsibilities. Onboarding is about learning the requirements of the role and the expectations that come with it. This often means putting personal needs and feelings aside in favor of the organization. People are expected to follow the rules and stay in their ‘box’.
+  [琥珀组织](../amber-paradigm-and-organizations/)重视秩序和可预测性。在这个有明确岗位和责任定义的等级体系中，每个人都有固定的位置。入职过程聚焦于学习目标岗位的要求和期望。这通常意味着教育新人忽略个人的需要和感受，只求对公司有利。认为人们应该遵守规则，呆在自己的“盒子”里。
 
 
   #### **Orange Organizations**
