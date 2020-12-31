@@ -84,7 +84,7 @@ inPractice: >-
   要启动解雇，通常先进入一个由团队或个人发起的冲突解决流程。通过与当事人交谈，试图找到双方都同意的解决办法。如果这个流程失败了，就会召唤一个调解人，或一个小组来促进解决。在大多数情况下，这一步就会带来满意的解决方案。有时，成员和团队会做出一些相互承诺，然后给机会再留队查看。但有时，这个人会发现信任已经破碎到不可挽回，并明白自己是该激流勇退了。
 
 
-  If no agreement can be found, and as a last chance to settle the matter, the team may ask an owner/founder to mediate. In the rare cases where even that fails, the team can ask the founder to put an end to the person’s employment. This process, with some variations, is followed at [Buurtzorg ](http://www.buurtzorgnederland.com/)and [Morning Star](http://www.morningstarco.com/).
+  如果仍无法达成一致，作为解决问题的最后机会，团队可以要求组织创始人（CEO）进行调解。在极少数情况下，这也失败了，团队可以要求创始人终止对此人的雇佣。在[布尔佐格](http://www.buurtzorgnederland.com/)和[晨星](http://www.morningstarco.com/)都是按照这个流程处理解雇，但处理方式有些许不同。
 
 
   #### Economic troughs are handled differently
