@@ -28,10 +28,10 @@ perspective: >-
   在[红色组织](../red-organizations/)中，虽然主管/老板可能会信任一些亲信同事或家人，但真正的权力由老板一个人行使。在这种情况下，“监督职能的董事会”既不受欢迎，也不合适。
 
 
-  #### Amber Organizations
+  #### 琥珀组织
 
 
-  In the [Amber organization](../amber-paradigm-and-organizations/), the typical board is a small social class at the top of a rigid hierarchy. There may be formal criteria for inclusion, or a qualification process. The board plays the role of "guardian": it ensures that traditions, rules and processes are respected.
+  在[琥珀组织](../amber-paradigm-and-organizations/)中，典型的董事会是位于僵化等级制度顶端的小社会阶层。可能存在正式的入选标准或资格审查程序。董事会扮演“监护人”的角色：它确保传统、规则和程序得到尊重。
 
 
   #### Orange Organizations
