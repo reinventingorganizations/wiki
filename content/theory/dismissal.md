@@ -10,13 +10,10 @@ intro: |-
 
   ![](/media/dismissal.jpg)
 perspective: >-
-  In Teal organizations, dismissals are rare. Roles tend to evolve to fit an
-  individual’s strengths, and people are generally highly motivated by both a
-  sense of autonomy and a desire not to let their colleagues down. Layoffs are
-  infrequent since Teal organizations tend to adjust more flexibly and rapidly
-  to downturns. More likely, departures are voluntary. Some people are not
-  comfortable with this new approach to worklife and they overwhelmingly return
-  to other environments of their own volition.
+  ## 新视角
+
+
+  In Teal organizations, dismissals are rare. Roles tend to evolve to fit an individual’s strengths, and people are generally highly motivated by both a sense of autonomy and a desire not to let their colleagues down. Layoffs are infrequent since Teal organizations tend to adjust more flexibly and rapidly to downturns. More likely, departures are voluntary. Some people are not comfortable with this new approach to worklife and they overwhelmingly return to other environments of their own volition.
 
 
   But, as a last resort (and only if a mediated conflict resolution process is unsuccessful), dismissal can occur. When it does, the associated emotions are embraced. People and choices are respected. Support is provided. And departure is treated as a learning opportunity, for both parties.
