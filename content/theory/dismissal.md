@@ -93,10 +93,10 @@ inPractice: >-
   很少有蔚蓝组织在经济低迷时期裁员。自我管理的组织非常灵活，并且成本和负债积累很少。他们比传统组织更容易应对经济衰退。例如，[法维](http://www.favi.com/)和[太阳液压](http://www.sunhydraulics.com/)都经受过严重的经济衰退（收入下降了30%至50%），但没有裁员。
 
 
-  In some cases, colleagues agree to share the pain and opt for temporary pay reductions. From a Teal perspective, it would be improper to lay off colleagues just to boost profits for a few months if the overstaffing is deemed to be only temporary.
+  在某些情况下，同事们会主动同意分担痛苦，并选择临时减薪。从蔚蓝的角度来看，如果人员超编只是暂时的，那么仅仅为了增加短期几个月的利润而裁员是不恰当的。
 
 
-  When an organization moves to self-management, people in management roles are no longer needed. Zappos faced that situation and offered former managers substantial time and assistance to find new roles where they could add value. They also offered all employees a generous severance payment if they did not feel fully committed to the new organization. ^\[Quartz's article "Internal Memo: Zappos is offering severance to employees who aren’t all in with Holacracy"].
+  在一个组织觉性转型进入自我管理模式时，就不再需要担任专门管理角色的人员。捷步达康面对这种情况，为转型前的经理提供了大量的时间和帮助，给他们机会找到可以增加组织价值的新角色。如果找不到，或感觉自己无法对新公司做出充分的承诺，或价值观不符，离开者全员都能得到一笔丰厚的遣散费。^\[Quartz's article "Internal Memo: Zappos is offering severance to employees who aren’t all in with Holacracy"].
 
 
   This is different to structural overstaffing. [AES ](http://www.aes.com/)faced this many times with power plants it bought in Eastern Europe, Asia, Latin America, and Africa. In some cases, the previous government owners had used the plants to create artificial jobs. After acquisition, AES swiftly reduced the number of employees, mainly via a generous voluntary severance program. Only rarely were people asked to leave. In Panama, AES created a loan fund for employees who took the package. This helped many to start new businesses.
