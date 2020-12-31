@@ -45,10 +45,13 @@ perspective: >-
 
   [ ](../teal-paradigm-and-organizations/)[蔚蓝组织](../teal-paradigm-and-organizations/)蔚蓝组织投入大量时间和精力迎接和培训新同事。通常包括让新人学习新的同事关系技巧，理解自我管理在实践中的意义，并且实施轮训计划。这些活动培训组织内通用的技能，并为新同事提供一个结识各类同事的机会。此外，还会向新人介绍[自我管理](../self-management/), [完整人性](../wholeness/)和[进化目标](../evolutionary-purpose/)的实践流程，邀请他们沉思，如何将自己的使命感以及兴趣和专长，融入组织的目标和活动。
 inPractice: >-
-  #### **Training in relational skills and in company culture**
+  ## **实践中**
 
 
-  [Teal Organizations Teal organizations](../teal-paradigm-and-organizations/) invest significant time and energy welcoming new colleagues. The first days and weeks are critical to helping them understand a new and often very different workplace. At the heart of the onboarding process is some form of training that helps colleagues understand and navigate the new environment they joined.
+  #### 关系技能与公司文化培训
+
+
+  [蔚蓝组织](../teal-paradigm-and-organizations/)投入大量的时间和能量欢迎新同事。入职的最初几天和几周至关重要，这期间帮助新人理解这个与往常非常不同的崭新类型的工作场所。入职过程的核心是通过某种形式的培训，帮助新同事了解并适应所加入的新环境。
 
 
   At Buurtzorg, for example, all new team members are trained in problem solving and meeting practices, so they can operate in a team without a boss in charge. All new hires at [Heiligenfeld](http://www.heiligenfeld.com/) go through six training modules that include topics like "self-mastery" and "dealing with failure". All new recruits at [Morning Star](http://www.morningstarco.com/) attend a seminar on the basics of [self-management](../self-management/).
