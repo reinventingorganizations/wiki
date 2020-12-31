@@ -137,4 +137,3 @@ relatedTheory:
   - Job Titles and Job Descriptions
   - Culture and Values
 ---
-to be removed
