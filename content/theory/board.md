@@ -82,7 +82,7 @@ inPractice: >-
   其次，霍尔起草了一份章程，蔚蓝组织的董事会可以通过采纳这个决议而对董事会和股东加以约束，甚至在其中可以定义一些对未来的股东也具有约束力的内容。该章程虽然赋予股东在与财务有关的事务上的合法发言权，但阻止股东单方面实施战略，或废弃蔚蓝而将公司恢复到传统的管理模式。
 
 
-  Ultimately, the board is a construct of prior organizational stages, and it is as yet unclear exactly what its role should be under Teal or even if in its current form it is fully compatible with Teal.
+  归根结底，董事会是传统组织阶段的一个组成部分，目前蔚蓝做法在摸索中。尚不清楚董事会在蔚蓝下应扮演什么角色，或者到底是否能以目前的形式与蔚蓝完全兼容。
 faq:
   - question: If the organization is self-managing, why have a board?
     answer: >-
