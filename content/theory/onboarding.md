@@ -24,10 +24,10 @@ perspective: >-
   在[红色组织](../red-organizations/)中，领导人不断行使权力以维持控制。酋长经常让家人和亲信顾问簇拥在左右，通过分享战利品来换取他们的忠诚。入职过程通常包括对领导者宣誓忠诚的仪式。传达关于领导者权力的一系列神话故事，也是入职过程的一部分。
 
 
-  #### **Amber Organizations**
+  #### **琥珀组织**
 
 
-  [Amber organizations](../amber-paradigm-and-organizations/) value order and predictability. Everybody has their place in a hierarchy which has clearly defined roles and responsibilities. Onboarding is about learning the requirements of the role and the expectations that come with it. This often means putting personal needs and feelings aside in favor of the organization. People are expected to follow the rules and stay in their ‘box’.
+  [琥珀组织](../amber-paradigm-and-organizations/) value order and predictability. Everybody has their place in a hierarchy which has clearly defined roles and responsibilities. Onboarding is about learning the requirements of the role and the expectations that come with it. This often means putting personal needs and feelings aside in favor of the organization. People are expected to follow the rules and stay in their ‘box’.
 
 
   #### **Orange Organizations**
