@@ -36,10 +36,10 @@ perspective: >-
   [橙色组织](../orange-paradigm-and-organizations/) 动力是竞争和成就感。创新是保持领先的关键。入职流程通常注重功能。虽然也可能会收到一些关于公司历史、使命宣言和价值观的宣传册，也可能会有一个两小时的会议，由一位高级领导谈论这些话题。但大多数情况下，第一步通常很俗：签署一些合同，找一张桌子和电脑，分配新人进入公司网络的密码。一旦准备好后，新成员就必须努力去在顶头上司的日程上获得时间安排，以便得到关于具体任务内容的指导。
 
 
-  #### **Green Organizations**
+  #### **绿色组织**
 
 
-  [Green Organizations](../green-paradigm-and-organizations/) focus on culture and empowerment to encourage employee motivation. Teaching the approach and skills of servant leadership is a significant aspect of onboarding for managers. Managers, in turn, play an important role in welcoming newcomers into the organization and helping them understand the culture. Onboarding is often about community building and meeting the new family in an open way.
+  [绿色组织](../green-paradigm-and-organizations/)注重文化和授权，努力鼓励成员的积极性。管理者入职培训的一个重要方面是培训公仆式领导方法和技能。由管理者在欢迎新成员加入公司流程中，扮演着重要角色，帮助新人了解企业文化。入职培训通常是关于社区建设，并以开放的方式介绍认识新家庭。
 
 
   #### **Teal Organizations**
