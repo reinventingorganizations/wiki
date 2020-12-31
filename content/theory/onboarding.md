@@ -57,10 +57,10 @@ inPractice: >-
   例如，在布尔佐格，所有团队的新成员都接受过解决问题和会议流程方面的培训，所以都获得了在没有老板负责的情况下，在团队中自主运作的能力。[海利根菲尔德](http://www.heiligenfeld.com/)的所有新成员都要经历六个培训模块，其中包括“自我控制”和“应对失败”等主题。[晨星](http://www.morningstarco.com/)的所有新人都参加一个关于[自我管理](../self-management/)的基础知识研讨会。
 
 
-  For people who were previously in leadership positions, the transition can be particularly difficult. They have to learn how to get things done without recourse to command and control.
+  对于以前担任过传统组织领导职务的新人来说，这种过渡可能特别困难。他们必须学会，在没有任何可供指挥和控制的各种资源（部下）可依靠的情况下，如何完成任务。
 
 
-  A significant part of the onboarding process is often dedicated to understanding the concept of [Evolutionary purpose](../evolutionary-purpose/). New employees are encouraged to express their personal calling to see how it resonates with the organization' s purpose and to learn how they might support and nurture each other.
+  入职过程的一个重要部分，通常放在强化理解[进化目标](../evolutionary-purpose/)概念上。鼓励新成员表达自己的个人意愿，确认个人目标和公司目标有何共鸣，并鼓励新人学会一些技巧，支撑个人和组织相互支持和滋养。
 
 
   There is no perfect recipe for a Teal onboarding process. Each organization chooses a range of activities that aim to teach new skills and, in the process, touch the heart and soul of those joining. A good way to develop an onboarding process is to ask employees, especially new ones, to co-create their own onboarding program and activities.
