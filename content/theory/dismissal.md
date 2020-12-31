@@ -28,10 +28,10 @@ perspective: >-
   在[红色模式](../red-organizations/)中，由老板/领导者决定解雇谁或留谁。不需要正式的程序。自愿离职可能被视为背叛。
 
 
-  #### Amber organizations
+  #### 琥珀组织
 
 
-  In [Amber organizations,](../amber-paradigm-and-organizations/) dismissals often follow a lapse of discipline, or a violation of the rules. The consequences may be well defined. For example, a first offense (perhaps arriving late) might mean suspension for a day. Repeated offense might result in dismissal.
+  在[琥珀组织,](../amber-paradigm-and-organizations/) dismissals often follow a lapse of discipline, or a violation of the rules. The consequences may be well defined. For example, a first offense (perhaps arriving late) might mean suspension for a day. Repeated offense might result in dismissal.
 
 
   In today’s versions of Amber — some government agencies, religious organizations, public schools, the military, etc. — extended (even lifetime) employment is the norm. These long relationships may extend to social circles. The possibility of dismissal carries the threat, not only of the loss of a job, but also of the associated social fabric. Those feeling unfulfilled in an Amber organizations face a painful choice.
