@@ -99,10 +99,10 @@ inPractice: >-
   在一个组织觉性转型进入自我管理模式时，就不再需要担任专门管理角色的人员。捷步达康面对这种情况，为转型前的经理提供了大量的时间和帮助，给他们机会找到可以增加组织价值的新角色。如果找不到，或感觉自己无法对新公司做出充分的承诺，或价值观不符，离开者全员都能得到一笔丰厚的遣散费。^\[Quartz's article "Internal Memo: Zappos is offering severance to employees who aren’t all in with Holacracy"].
 
 
-  转型与结构性超编不同。[AES ](http://www.aes.com/)faced this many times with power plants it bought in Eastern Europe, Asia, Latin America, and Africa. In some cases, the previous government owners had used the plants to create artificial jobs. After acquisition, AES swiftly reduced the number of employees, mainly via a generous voluntary severance program. Only rarely were people asked to leave. In Panama, AES created a loan fund for employees who took the package. This helped many to start new businesses.
+  转型与结构性超编不同。[AES ](http://www.aes.com/)在东欧、亚洲、拉丁美洲和非洲新购买发电厂时，曾多次面临这种情况。在某些情况下，以前的所有者是政府，他们曾利用这些工厂创造就业机会。收购后，AES迅速减少了成员数量，主要是通过丰盈的自愿离职计划。很少有人被要求离开。在巴拿马，AES为接受该自愿离职计划的成员设立了一个贷款基金。资助许多人创办新企业。
 
 
-  Maintaining jobs artificially makes no sense from a Teal perspective. A concern about job security is partly inspired by fear. It neglects the truth that everything changes. It dismisses the possibility that a person whose talents are wasted in an overstaffed organization might find a better way to express his gifts where they are needed. Life is continuously unfolding; dismissals and even layoffs can be part of that unfolding, although they are rare in self-managed structures.
+  从蔚蓝角度看，为了维持就业机会而人为的创造工作岗位是毫无意义的。人们对工作保障的担忧，一部分是出于生计恐惧。这个恐惧忽略了一个事实：一切都会改变（和宇宙生命的丰盛属性）。其实，为生计而就业，可能是在一个人浮于事的组织中，浪费一个人的才华。一个人可能会在更需要的地方（或更喜欢）找到更好的方式来表达自己的天赋（工作不只是粮票）。生命是一种持续不断的展开过程；尽管在自我管理的结构中很少发生解雇甚至裁员，但这些都是人生体验和变化情节的一部分。
 faq:
   - question: How do these practices link with the three Teal breakthroughs?
     answer: >-
@@ -135,4 +135,3 @@ relatedTheory:
   - Conflict resolution
   - Commitment, Working Hours and Flexibility
 ---
-To be removed
