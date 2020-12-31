@@ -87,10 +87,10 @@ inPractice: >-
   一些蔚蓝组织的创始人和首席执行官，如[布尔佐格](http://www.buurtzorgusa.org/)的Jos de Blok和[巴塔哥尼亚](http://eu.patagonia.com/enGB/home)的Yvon Chouinard都发现这个入职目标印证模块非常重要，以至于他们都选择亲自参加每一次培训课程。
 
 
-  #### **Meeting practices**
+  #### **会议**
 
 
-  Meetings, more often than not, turn into playing fields for the egos, pushing souls into hiding. For that reason, almost all researched [Teal organizations](../teal-paradigm-and-organizations/) have instituted specific meeting practices to help participants keep their egos in check and interact with each other from a place of wholeness. For new hires, it is important to know about practices such as moments of silence, and structured decisions making. This enables them to contribute to productive meetings.
+  在会议中，很容易把灵魂推到隐蔽处，而变成虚荣心表达利己主义的游戏场。因此，几乎所有本文取样过的[蔚蓝组织](../teal-paradigm-and-organizations/)都制定了具体的会议流程，致力于帮助参与者控制他们的自我，并在一个完整性（个人与集体的完整人性）的层面相互交流。对于新成员来说，重要的是要了解静默和结构化决策等新的方法。这有助于新人获得为高效会议作出贡献的能力。
 
 
   #### **Rotational programs**
