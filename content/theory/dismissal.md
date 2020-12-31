@@ -57,13 +57,16 @@ perspective: >-
 
   [绿色组织](../green-paradigm-and-organizations/)对个人差异的容忍度很高，所以通常会努力寻找一种替代办法，而不是简单的让成员走人。不遵守组织的社区规则和价值观的人，可能会感到自己被边缘化并因此离开。此外的解雇处理，则类似于橙色范式。
 inPractice: >-
-  #### People choose to leave before dismissal
+  ## 实践中
 
 
-  In Teal organizations, dismissals prove to be surprisingly rare—because of the in-built flexibility. Self-management means people can customize a job at which they excel. A person with “performance issues” might shed one or more roles in which she is not strong and take up others that better match her skills, interests, and talents. In traditional workplaces, where a job is well defined, there is usually less flexibility.
+  #### 解雇前自愿离开
 
 
-  Moreover, feedback on performance in Teal does not come from another, remote level (like a boss or HR). It comes from colleagues. There is much less reason to find fault with their feelings about your performance. These are the people you need to work with everyday. If this feels awkward, you can take an adult decision to move on.
+  实践表明，在蔚蓝组织中由于固有的灵活性，解雇非常罕见。自我管理意味着人们可以定制自己擅长的工作。一个有“绩效问题”的人，可以通过放弃一个或多个不擅长的角色，转而从事与其技能、兴趣和才能更匹配的其他角色，恢复性能。但在传统的工作场所，工作定义很明确，灵活性通常较低（不适合就得走）。
+
+
+  此外，蔚蓝的绩效反馈并非来自某个远离基层的角度（比如老板或HR），而是来自同事。同事对你绩效的感觉，一般都很精确，所以不会不服。因这些是每天一起工作的人。如果绩效不佳让你觉得尴尬，就可以主动做出一个成年人的（离去）决定而在别处继续前进。
 
 
   For example, at Sun Hydraulics, an engineer might notice that somehow little work comes his way — few colleagues invite him to join their projects, or solicit his advice. At Buurtzorg, a nurse will feel in her interactions with colleagues that she doesn’t fit the team, or that self-management doesn’t suit her after all. About 25 nurses elect to leave each month for that reason (while 250 nurses join every month).
