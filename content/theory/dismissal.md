@@ -90,7 +90,7 @@ inPractice: >-
   #### 对经济低谷的不同处理方式
 
 
-  Few Teal organizations have laid people off during downturns. Self-managing organizations are exceedingly flexible and accumulate little overhead. They weather downturns better than traditional organizations. [FAVI ](http://www.favi.com/)and [Sun Hydraulics](http://www.sunhydraulics.com/), for example, have both withstood severe recessions (with revenue decreases of 30 to 50 percent) without layoffs.
+  很少有蔚蓝组织在经济低迷时期裁员。自我管理的组织非常灵活，并且成本和负债积累很少。他们比传统组织更容易应对经济衰退。例如，[法维](http://www.favi.com/)和[太阳液压](http://www.sunhydraulics.com/)都经受过严重的经济衰退（收入下降了30%至50%），但没有裁员。
 
 
   In some cases, colleagues agree to share the pain and opt for temporary pay reductions. From a Teal perspective, it would be improper to lay off colleagues just to boost profits for a few months if the overstaffing is deemed to be only temporary.
