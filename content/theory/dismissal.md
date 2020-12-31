@@ -69,7 +69,7 @@ inPractice: >-
   此外，蔚蓝的绩效反馈并非来自某个远离基层的角度（比如老板或HR），而是来自同事。同事对你绩效的感觉，一般都很精确，所以不会不服。因这些是每天一起工作的人。如果绩效不佳让你觉得尴尬，就可以主动做出一个成年人的（离去）决定而在别处继续前进。
 
 
-  For example, at Sun Hydraulics, an engineer might notice that somehow little work comes his way — few colleagues invite him to join their projects, or solicit his advice. At Buurtzorg, a nurse will feel in her interactions with colleagues that she doesn’t fit the team, or that self-management doesn’t suit her after all. About 25 nurses elect to leave each month for that reason (while 250 nurses join every month).
+  例如，在太阳液压，一位工程师可能会自觉注意到自己担当的工作不饱满——很少有同事邀请他加入项目，或征求他的建议。在布尔佐格，有的护士在与同事的互动中，会自觉的感觉到自己不适合此团队，或者发觉自我管理终究不适合自己。因而每个月大约有25名护士选择离开（但每个月有250名护士选择加入）。
 
 
   Almost universally, people choose to leave before they are dismissed. And almost always the departure happens by mutual consent, and on a friendly basis. This does not change the fact that on a personal level the process can be painful. The self-managing context helps people realize that no one is to blame; that they are perhaps not meant for this kind of work.
