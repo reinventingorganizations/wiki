@@ -54,7 +54,7 @@ inPractice: >-
   [蔚蓝组织](../teal-paradigm-and-organizations/)投入大量的时间和能量欢迎新同事。入职的最初几天和几周至关重要，这期间帮助新人理解这个与往常非常不同的崭新类型的工作场所。入职过程的核心是通过某种形式的培训，帮助新同事了解并适应所加入的新环境。
 
 
-  例如，在布尔佐格，所有团队的新成员都接受过解决问题和会议流程方面的培训，所以都获得了在没有老板负责的情况下，在团队中自主运作的能力。[Heiligenfeld](http://www.heiligenfeld.com/) 的所有新成员都要经历六个培训模块，其中包括“自我控制”和“应对失败”等主题。[Morning Star](http://www.morningstarco.com/) attend a seminar on the basics of [self-management](../self-management/).
+  例如，在布尔佐格，所有团队的新成员都接受过解决问题和会议流程方面的培训，所以都获得了在没有老板负责的情况下，在团队中自主运作的能力。[海利根菲尔德](http://www.heiligenfeld.com/)的所有新成员都要经历六个培训模块，其中包括“自我控制”和“应对失败”等主题。[晨星](http://www.morningstarco.com/)的所有新人都参加一个关于[自我管理](../self-management/)的基础知识研讨会。
 
 
   For people who were previously in leadership positions, the transition can be particularly difficult. They have to learn how to get things done without recourse to command and control.
