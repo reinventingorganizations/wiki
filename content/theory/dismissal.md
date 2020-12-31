@@ -22,10 +22,10 @@ perspective: >-
   作为对比，这里概括早期组织对解雇的观点和处理方式：
 
 
-  #### Red organizations
+  #### 红色组织
 
 
-  In the[ Red paradigm](../red-organizations/), it’s up to the boss/leader to decide who to fire or keep. Formal processes are not necessary. Voluntary departures may be seen as betrayal.
+  在[红色模式](../red-organizations/)中，由老板/领导者决定解雇谁或留谁。不需要正式的程序。自愿离职可能被视为背叛。
 
 
   #### Amber organizations
