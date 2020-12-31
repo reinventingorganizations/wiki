@@ -55,7 +55,7 @@ perspective: >-
   #### 绿色组织
 
 
-  [绿色组织 ](../green-paradigm-and-organizations/)have a high tolerance for individual differences and are likelier to look for an alternative to letting people go. People who do not conform to the community rules and values may feel marginalized, and leave as a result. Otherwise, dismissal practices are similar to the Orange paradigm.
+  [绿色组织](../green-paradigm-and-organizations/)对个人差异的容忍度很高，所以通常会努力寻找一种替代办法，而不是简单的让成员走人。不遵守组织的社区规则和价值观的人，可能会感到自己被边缘化并因此离开。此外的解雇处理，则类似于橙色范式。
 inPractice: >-
   #### People choose to leave before dismissal
 
