@@ -99,10 +99,10 @@ inPractice: >-
   有些组织选择对每一位新同事进行一轮一线技能培训。目的是让新人与公司内的其他成员打造关系，并帮助新人形成对公司运营方式的理解。这种理解能帮助新人更有效地提出新的想法和建议。
 
 
-  At [FAVI](http://www.favi.com/), the French automotive supplier, all engineers and administrative workers have been trained to operate at least one machine on the shop floor. This builds community and allows everyone to help on the shop floor when demand is high.
+  在法国汽车供应商[法维](http://www.favi.com/)，所有的工程师和管理人员都受过一线培训，至少能在车间操作一台机器。这帮助建立社区氛围，让每个人都能在赶工旺盛，到基层车间提供帮助。
 
 
-  At [Sun Hydraulics](http://www.sunhydraulics.com/), all new hires start with a “manufacturing tour”, no matter what their future role will be. This approach builds understanding and a sense of community across the organization. It is not uncommon for people to take on a different role to the one they were hired for after this process.
+  在[太阳液压](http://www.sunhydraulics.com/)，所有新成员无论其未来的岗位如何，都会从“制造之旅”开始上岗。这种方法有助于在整个组织中建立互相理解和社区意识。经过这一过程，新人得到机会扮演了（与应聘岗位）不同的角色。
 faq:
   - question: How to reduce the risk of new colleagues leaving the organization
       during onboarding because of a Teal practices mismatch?
