@@ -72,13 +72,13 @@ inPractice: >-
   #### 基本规则或共识
 
 
-  为了创建一个提供心理安全的工作场所，首先要让每个人认识到，哪些言行会创造或破坏安全的工作环境。蔚蓝组织花了大量的时间和精力，培训每个人了解一些能支持健康而有成效协作关系的基本规则或共识。这些基本规则是组织[文化与价值观](../culture-and-values/) of the organization. Several of the organizations end up writing down these in a document.
+  为了创建一个提供心理安全的工作场所，首先要让每个人认识到，哪些言行会创造或破坏安全的工作环境。蔚蓝组织花了大量的时间和精力，培训每个人了解一些能支持健康而有成效协作关系的基本规则或共识。这些基本规则是组织[文化与价值观](../culture-and-values/) 的具体应用。一些组织最终将这些内容归档在一份纲领性文件中。
 
 
-  Of course, it takes more than a document to bring values to life. Many researched Teal organizations have chosen to start right at the beginning: all new recruits are invited, as part of the onboarding, to a training session about the company values and ground rules, which helps to create common references and a common language across the organization. Those ground rules and values are regularly revisited to ensure they best reflect and serve the Evolutionary purpose of the organization.
+  当然，为了让价值体现在工作生活中，需要的不仅仅是一份文件。我们研究过的很多蔚蓝组织，都选择从起点做起：作为入职培训的一部分，所有新成员都被邀请参加一个关于公司价值观和基本原则的培训课程，这有助于在整个组织中创建共同的参考准绳和共同语言。这些基本规则和价值观会定期重温，以确保其最好地反映和服务于组织的发展目标。
 
 
-  #### **Purpose**
+  #### **目标**
 
 
   A dialogue on how the organization's purpose resonates with new colleagues personal calling can be a great mutual introduction. [Teal organizations](../teal-paradigm-and-organizations/) are seen as having a life and a sense of direction of their own. Instead of trying to predict and control the future, members of the organization are invited to listen in and understand what the organization wants to become. By understanding the Evolutionary purpose, they can see how they can contribute to it whilst also fulfilling their own personal calling.
