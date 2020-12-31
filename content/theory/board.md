@@ -5,29 +5,27 @@ key: board
 name: 董事会
 sortOrder: 5
 category: Structure of an organization
-intro: >-
+intro: |-
   ![](/media/board.jpg)
 
-
-  This section reviews the role of the board as well as some of the practices and ways of working as a board under Teal.
+  此文回顾了董事会的作用以及蔚蓝模式下董事会的一些做法和工作方式。
 perspective: >-
-  The composition of the board in a Teal organization is crucial, says Frederic
-  Laloux. He warns that, when adopting a Teal approach, “The only make-or-break
-  factors are the worldview held by the top leadership and by the owners/board
-  of the organization.”^\[Laloux, Frederic. Reinventing Organizations. Nelson
-  Parker (2014), page 238]
+  ## 新视角
 
 
-  Why is this so? Because history shows that boards may well support Teal practices when things are going well. But, under pressure, the support of outsiders—who typically make up the board and may not have worked in a similar environment before—can evaporate quickly, and under our current legal structure, boards continue to have ultimate authority.
+  弗雷德里克·拉鲁说，蔚蓝组织中董事会的组成至关重要。他警告说，当采用蔚蓝方法时，“唯一的成败因素是最高领导层和公司所有者/董事会的世界观。”^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 238]
 
 
-  **The board’s role in earlier stage organizations can be characterized as follows:**
+  为什么会这样？蔚蓝组织尝试的历史经验证明，当事情进展顺利时，董事会可能会支持蔚蓝做法。但是通常董事会由那些、以前可能没有在类似环境中工作过的外部人士组成。于是在不顺利（压力发生）时，董事会对蔚蓝的支持会很快消失。但是在我们目前的法律架构下，董事会仍然拥有最终的权力。（如果搞了一些传统僵化的投资人进董事会就没救了。）
 
 
-  #### Red Organizations
+  董事会在早期组织中的作用表现为：
 
 
-  In the [Red organization](../red-organizations/), while the Chief/Boss might confide in trusted colleagues or family, the real power is exercised by one person. A ‘board of oversight’ is not welcomed, nor appropriate, in these circumstances.
+  #### 红色组织
+
+
+  在[红色组织](../red-organizations/)中，虽然主管/老板可能会信任一些亲信同事或家人，但真正的权力由老板一个人行使。在这种情况下，“监督职能的董事会”既不受欢迎，也不合适。
 
 
   #### Amber Organizations
