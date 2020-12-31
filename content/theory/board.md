@@ -43,7 +43,7 @@ perspective: >-
   #### 绿色组织
 
 
-  在[绿色组织](../green-paradigm-and-organizations/), board responsibilities are similar to those in Orange but more likely to include acting as guardians of the organization’s purpose/values and of the interests of multiple stakeholders. In Green for-profit organizations, shareholders are often viewed as just one of the stakeholder groups, and individual board members can be designated to specifically represent the interest of other stakeholders, such as employees.
+  在[绿色组织](../green-paradigm-and-organizations/)中，董事会的职责与橙色类似，但还可能包括扩展职责：作为组织目标/价值观，以及多个利益相关者利益的守护者。在绿色营利组织中，董事（股东）通常被视为利益相关者群体中的一员，可以特别指定某个代表其他利益相关者，比如成员利益的董事会成员。
 inPractice: >-
   ### The board needs to adopt Teal thinking
 
