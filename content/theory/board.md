@@ -45,19 +45,22 @@ perspective: >-
 
   在[绿色组织](../green-paradigm-and-organizations/)中，董事会的职责与橙色类似，但还可能包括扩展职责：作为组织目标/价值观，以及多个利益相关者利益的守护者。在绿色营利组织中，董事（股东）通常被视为利益相关者群体中的一员，可以特别指定某个代表其他利益相关者，比如成员利益的董事会成员。
 inPractice: >-
-  ### The board needs to adopt Teal thinking
+  ## 实践中
 
 
-  This means: 
+  ### 董事会需要接纳蔚蓝思维
 
 
-  * Forgoing the command and control privileges of earlier perspectives
+  这意味着：
 
-  * Joining staff members in ‘listening’ for the organization's evolutionary purpose, and being willing to follow its direction.
 
-  * Embracing the purpose and values of the organization.
+  * 放弃传统观点中的命令和控制特权
 
-  * “Holding the space” or doing whatever possible to support the organization’s practice of a Teal approach. 
+  * 与成员一起“倾听”组织的发展目标，并愿意遵循其方向。
+
+  * 接受组织的目标和价值观。
+
+  * 或“保持距离”或尽一切可能支持组织的蔚蓝模式实践。
 
     ![]()
 
