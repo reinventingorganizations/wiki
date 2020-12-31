@@ -5,11 +5,8 @@ key: Dismissal
 name: 解雇
 sortOrder: 10
 category: People practices
-intro: >-
-  Even in Teal organizations, people do not always fit in or perform adequately.
-  But when this occurs, the responses in Teal are different from earlier stage
-  organizations.
-
+intro: |-
+  即使是在蔚蓝组织中，也不是所有人都能顺利融入其中或表现出色。但当这种情况发生时，蔚蓝的反应与早期组织不同。
 
   ![](/media/dismissal.jpg)
 perspective: >-
