@@ -43,19 +43,19 @@ perspective: >-
   [橙色组织 ](../orange-paradigm-and-organizations/)对解雇积累了广泛成熟的实践。权力通常由老板掌握（虽然有些可能要由人事部批准或寻求其建议）。
 
 
-  The causes are typically either performance or organizational cost-cutting/strategic redirection. Rarely is there implicit or contractual understanding that employment is guaranteed.
+  解雇原因通常是绩效或组织成本削减/战略调整的结果。基本上不存在关于保障成员持续稳定就业的隐性规则或合同规定。
 
 
-  It is common to have elaborate systems of performance management. Then, dismissal can follow when attempts to lift below-par performance have failed.
+  组织通常有完善的绩效管理体系。于是，当成员的绩效低于组织标准，努力之后仍无提高时，就会被解雇。
 
 
-  On the other hand, the need for a dismissal may also be seen as a flaw in the hiring process. In part, this is because the cost of hiring someone who later proves to be unsatisfactory is high. . Severance packages are not uncommon. Sometimes, assistance in finding a new job is offered. Orange organizations may have quite progressive dismissal practices.
+  解雇也可能被视为招聘流程的一个失败。这是因为，雇佣一个后来证明不符合要求的人，被视为成本浪费。解雇赔偿也不少见。有时还要帮助被解雇者找到新工作。橙色组织的解雇处理有时可能相当进步。
 
 
-  #### Green organizations
+  #### 绿色组织
 
 
-  [Green organizations ](../green-paradigm-and-organizations/)have a high tolerance for individual differences and are likelier to look for an alternative to letting people go. People who do not conform to the community rules and values may feel marginalized, and leave as a result. Otherwise, dismissal practices are similar to the Orange paradigm.
+  [绿色组织 ](../green-paradigm-and-organizations/)have a high tolerance for individual differences and are likelier to look for an alternative to letting people go. People who do not conform to the community rules and values may feel marginalized, and leave as a result. Otherwise, dismissal practices are similar to the Orange paradigm.
 inPractice: >-
   #### People choose to leave before dismissal
 
