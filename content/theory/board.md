@@ -132,4 +132,3 @@ relatedTheory:
   - Ownership
   - Decision Making
 ---
-To be removed
