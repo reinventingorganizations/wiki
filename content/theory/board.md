@@ -79,7 +79,7 @@ inPractice: >-
   营利性的蔚蓝组织可以通过一些途径来限制这种潜在的冲突。首先，可以（在股东同意的情况下）将公司转变为“福利公司”结构。这种结构在美国许多州得到采用，扩大了董事的职责范围，增加了对社会福利、成员和供应商的关注以及环境影响等非财务利益追求。
 
 
-  Second, Holacracy has drafted a constitution that a board can adopt and make binding, even to future shareholders. It gives shareholders a legitimate say in matters related to finance, but prevents them from unilaterally imposing a strategy, or from reverting the organization to traditional management practices.
+  其次，霍尔起草了一份章程，蔚蓝组织的董事会可以通过采纳这个决议而对董事会和股东加以约束，甚至在其中可以定义一些对未来的股东也具有约束力的内容。该章程虽然赋予股东在与财务有关的事务上的合法发言权，但阻止股东单方面实施战略，或废弃蔚蓝而将公司恢复到传统的管理模式。
 
 
   Ultimately, the board is a construct of prior organizational stages, and it is as yet unclear exactly what its role should be under Teal or even if in its current form it is fully compatible with Teal.
