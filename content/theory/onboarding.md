@@ -13,8 +13,6 @@ perspective: >-
   ## 新视角
 
 
-  [蔚蓝组织](../teal-paradigm-and-organizations/)蔚蓝组织投入大量时间金额精力迎接和培训新同事。通常包括让新人学习新的同事关系技巧，理解自我管理在实践中的意义，并且实施轮训计划。这些活动培训组织共同的技能，并为新同事提供一个结识各类同事的机会。
-
   人类组织每一个历史阶段，都产生了对入职的不同观点以及截然不同的实践：
 
 
@@ -45,7 +43,7 @@ perspective: >-
   #### **蔚蓝组织**
 
 
-  [ 蔚蓝组织](../teal-paradigm-and-organizations/) invest significant time in welcoming and training new colleagues. This often includes learning new relational skills, understanding what self-management means in practice and going through a rotation program. These programs teach common skills and provide an opportunity for new colleagues to meet a wide range of people. Newcomers are also  introduced to the practices of [self-management](../self-management/), [wholeness](../wholeness/) and  [evolutionary purpose](../evolutionary-purpose/) They are invited to consider their calling and talents in relation to the organization's purpose and its activities.
+  [ ](../teal-paradigm-and-organizations/)[蔚蓝组织](../teal-paradigm-and-organizations/)蔚蓝组织投入大量时间和精力迎接和培训新同事。通常包括让新人学习新的同事关系技巧，理解自我管理在实践中的意义，并且实施轮训计划。这些活动培训组织内通用的技能，并为新同事提供一个结识各类同事的机会。此外，还会向新人介绍自我管理、整体性和进化目标[自我管理](../self-management/), [w完整人性](../wholeness/) an和 [e进化目标volutionary purpose](../evolutionary-purpose/)的实践流程，邀请他们沉思自己的使命感以及兴趣和专长如何融入组织目标和活动。
 inPractice: >-
   #### **Training in relational skills and in company culture**
 
