@@ -72,7 +72,7 @@ inPractice: >-
   例如，在太阳液压，一位工程师可能会自觉注意到自己担当的工作不饱满——很少有同事邀请他加入项目，或征求他的建议。在布尔佐格，有的护士在与同事的互动中，会自觉的感觉到自己不适合此团队，或者发觉自我管理终究不适合自己。因而每个月大约有25名护士选择离开（但每个月有250名护士选择加入）。
 
 
-  Almost universally, people choose to leave before they are dismissed. And almost always the departure happens by mutual consent, and on a friendly basis. This does not change the fact that on a personal level the process can be painful. The self-managing context helps people realize that no one is to blame; that they are perhaps not meant for this kind of work.
+  几乎所有人都选择在被解雇前离开。几乎所有的离开都是在双方同意，并在友好协商的基础上发生的。但离开方式再美丽，终究还是不能改变离职这个事实。在个人层面，这个过程可能很痛苦。自我管理的文化背景帮助人们认识到，这种事的发生，没有人需要负责任或受责备；他们也许只是不适合这个工作（致力于防止或缓解心理创伤）。
 
 
   #### Dismissal still happens occasionally
