@@ -34,7 +34,7 @@ perspective: >-
   在[琥珀组织](../amber-paradigm-and-organizations/)中，解雇往往由于失职或违反规则。后果可能是明确的。例如，初犯（迟到等）可能意味着停职一天。再犯可能会被开除。
 
 
-  In today’s versions of Amber — some government agencies, religious organizations, public schools, the military, etc. — extended (even lifetime) employment is the norm. These long relationships may extend to social circles. The possibility of dismissal carries the threat, not only of the loss of a job, but also of the associated social fabric. Those feeling unfulfilled in an Amber organizations face a painful choice.
+  在现代的琥珀模式中——一些政府机构、宗教组织、公立学校、军队等——常态是长期持续（甚至终身）的就业。这些长期的关系可能会延伸到社交圈。被解雇的可能性不仅会带来失业的威胁，而且还会有可能威胁到这个人在社会上的相关位置，失去面子或容身之地。那些在琥珀色组织中得不到满足感的人，面临着非常痛苦的选择。
 
 
   #### Orange organizations
