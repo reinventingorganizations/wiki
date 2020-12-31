@@ -40,10 +40,10 @@ perspective: >-
   在[橙色模式](../orange-paradigm-and-organizations/)董事会的存在是为了让管理层代表股东/所有者，或在非盈利的情况下代表出资人负责任。董事会的重点是目标、结果、战略、控制和继任。并负责任免首席执行官。
 
 
-  #### Green Organizations
+  #### 绿色组织
 
 
-  In [Green organizations](../green-paradigm-and-organizations/), board responsibilities are similar to those in Orange but more likely to include acting as guardians of the organization’s purpose/values and of the interests of multiple stakeholders. In Green for-profit organizations, shareholders are often viewed as just one of the stakeholder groups, and individual board members can be designated to specifically represent the interest of other stakeholders, such as employees.
+  在[绿色组织](../green-paradigm-and-organizations/), board responsibilities are similar to those in Orange but more likely to include acting as guardians of the organization’s purpose/values and of the interests of multiple stakeholders. In Green for-profit organizations, shareholders are often viewed as just one of the stakeholder groups, and individual board members can be designated to specifically represent the interest of other stakeholders, such as employees.
 inPractice: >-
   ### The board needs to adopt Teal thinking
 
