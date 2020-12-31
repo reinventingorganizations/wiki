@@ -30,10 +30,10 @@ perspective: >-
   [琥珀组织](../amber-paradigm-and-organizations/)重视秩序和可预测性。在这个有明确岗位和责任定义的等级体系中，每个人都有固定的位置。入职过程聚焦于学习目标岗位的要求和期望。这通常意味着教育新人忽略个人的需要和感受，只求对公司有利。认为人们应该遵守规则，呆在自己的“盒子”里。
 
 
-  #### **Orange Organizations**
+  #### **橙色组织**
 
 
-  [Orange organizations](../orange-paradigm-and-organizations/) are characterized by competition and achievement drive. Innovation is the key to staying ahead. The onboarding process is often functional.. People might receive a few brochures about the company’s history, mission statement and values, or there might be a two-hour session where a senior leader talks about these topics. But mostly, the first steps are often mundane: there are papers to sign, a desk and computer to find, and a password to be assigned in order to access the firm’s network. Once ready to go, the new employee must try to create some time in his supervisor’s agenda to get some guidance on what to do.
+  [橙色组织](../orange-paradigm-and-organizations/) 动力是竞争和成就感。创新是保持领先的关键。入职流程通常注重功能。虽然也可能会收到一些关于公司历史、使命宣言和价值观的宣传册，也可能会有一个两小时的会议，由一位高级领导谈论这些话题。但大多数情况下，第一步通常很俗：签署一些合同，找一张桌子和电脑，分配新人进入公司网络的密码。一旦准备好后，新成员就必须努力去在顶头上司的日程上获得时间安排，以便得到关于具体任务内容的指导。
 
 
   #### **Green Organizations**
