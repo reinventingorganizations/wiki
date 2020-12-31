@@ -87,7 +87,7 @@ inPractice: >-
   如果仍无法达成一致，作为解决问题的最后机会，团队可以要求组织创始人（CEO）进行调解。在极少数情况下，这也失败了，团队可以要求创始人终止对此人的雇佣。在[布尔佐格](http://www.buurtzorgnederland.com/)和[晨星](http://www.morningstarco.com/)都是按照这个流程处理解雇，但处理方式有些许不同。
 
 
-  #### Economic troughs are handled differently
+  #### 对经济低谷的不同处理方式
 
 
   Few Teal organizations have laid people off during downturns. Self-managing organizations are exceedingly flexible and accumulate little overhead. They weather downturns better than traditional organizations. [FAVI ](http://www.favi.com/)and [Sun Hydraulics](http://www.sunhydraulics.com/), for example, have both withstood severe recessions (with revenue decreases of 30 to 50 percent) without layoffs.
