@@ -27,7 +27,7 @@ inPractice: >-
   这导致将决策权从前线剥夺而集中到管理核心。前线的人往往感到权力被剥夺：他们必须遵守那些通常只在原则上有意义的纸上谈兵的规则，这些一般不能适应实践中实际面临的复杂具体情况。
 
 
-  For these reasons, Teal organizations keep staff functions to a bare minimum. They understand that the economies of scale and skill resulting from staff functions are often outweighed by the diseconomies of motivation produced. As a result, there are very few people working in staff functions in Teal Organizations. And those that do typically have no decision-making authority. They can provide guidelines but cannot impose a rule or a decision.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 1630-1636). Nelson Parker. Kindle Edition.]
+  基于这些原因，蔚蓝组织将管理职能限制在最低限度。他们明白，由于管理职能而产生的规模经济和技能经济效益，往往被副作用的不经济动机所抵消。因此，在蔚蓝组织中，很少有人从事专门的管理职能。即使存在少数必要的职能人员，也都没有决策权。他们的功能是提供一些指南但无权将某个规则或决策强加给组织。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 1630-1636). Nelson Parker. Kindle Edition.]
 
 
   #### The need for expertise
