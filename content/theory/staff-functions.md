@@ -36,7 +36,7 @@ inPractice: >-
   在每一个组织中，存在着一种天然的矛盾：对专业知识的需求，与让第一线人员做决定的需求。当需要专业知识时，大多数组织的第一反应就是建立一个中心专家库。当然，其风险在于随着时间的推移，组织内会出现两个族群：一群是有声望的（通常是高薪的）中央专家组，另一群是在实地完成业务工作但没有权力的人。
 
 
-  Instead, Teal organizations allow expertise to develop in a distributed fashion. Over time, colleagues in frontline teams build up a lot of specialized knowledge. A machine operator might know all about the use of a certain lubricant, a home-care nurse all about a certain arcane medical condition, or an engineer all about how to create a complex financial tool to calculate a new machine's return on investment. Rather than establishing staff roles for these experts, Teal organizations aim to help team members identify colleagues with the right expertise. It can be highly motivating for people to be sought out by colleagues for advice and expertise. Special systems for sharing information are common, such as internal social networks and knowledge platforms.
+  蔚蓝组织规避了这个弊端，原则上以分布式方式开发专业知识。随着时间的推移，一线团队的同事能积累很多专业知识。一个机器操作员可能知道某种润滑剂的使用，一个家庭护理护士对某种神秘的医疗状况了如指掌，或者一个工程师知道如何创建一个复杂的金融工具来计算新机器的投资回报。蔚蓝组织致力于帮助团队成员自愿找到某个自己认可的，具有正确专业知识的同事去寻求知识，代之以强硬的为这些专家任命权威性职能角色来强加指导。这样一来，同事能更愿意并积极的向他们寻求建议和专业知识，极大地激发了人们的积极性。已经开发出很多能支持这类信息共享的特殊系统，例如内部社交网络和知识平台。
 
 
   In many cases, volunteer [task forces ](../project-teams-and-task-forces/)can be set up to codify and disseminate knowledge in specific areas (through central knowledge repositories, training, etc.).
