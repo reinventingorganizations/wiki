@@ -9,25 +9,14 @@ intro: |-
   本文讨论了蔚蓝组织中如何处理管理职能。
 
   ![](/media/staff-functions.jpg)
-perspective: "In the last decades, we have witnessed, especially in large
-  organizations, a proliferation of staff functions: human resources (HR),
-  strategic planning, legal affairs, finance, internal communications, risk
-  management, internal audit, investor relations, training, public affairs,
-  environmental control, engineering services, quality control, knowledge
-  management and so on.\r
+perspective: >-
+  ## 新视角
 
-  \r
 
-  Staff roles were developed to support the establishment and adherence to
-  processes and planning of Amber organizations. They were further expanded to
-  facilitate the efficiencies sought by the Orange paradigm and to satisfy its
-  desire for expertise and accountability. While Green organizations tend to
-  place more emphasis on using staff roles to support the frontline (often
-  ironically, resulting in an increased HR staff), it is only under Teal that
-  the trend of increasing use of staff functions is reversed. In Teal, tasks
-  typically performed by support functions are, whenever possible, done by
-  frontline teams themselves. Those staff roles that do exist typically cannot
-  impose their rules or decisions on the organization."
+  在过去的几十年里，特别是在大型组织中，我们见证了管理职能的激增：人力资源（HR）、战略规划、法律事务、财务、内部沟通、风险管理、内部审计、投资者关系、培训、公共事务、环境控制、工程服务、质量控制，知识管理等。
+
+
+  在琥珀阶段，为了支持建立和遵守组织的流程和规划，开始开发出各种管理角色。橙色阶段让这些得到进一步扩大，促进了橙色范式所追求的效率，并满足这个阶段对专门知识和问责制的渴望。虽然在绿色组织中，开始出现用管理职能角色持一线的新理念（但嘲讽的是，这反而会导致负责人力资源管理成员的增加）。只有在蔚蓝下，管理职能增加的趋势才得以扭转。在蔚蓝组织中，尽可能由一线团队自己完成那些通常由管理职能担当的任务。那些传统管理职能类成员角色，通常不再有机会将脱离实际的规则或决定，强加给组织。
 inPractice: >-
   Centralized staff functions in most organizations create rules, policies and
   processes for others to follow. There is a natural tendency for people in such
