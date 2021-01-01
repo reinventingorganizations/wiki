@@ -18,14 +18,13 @@ perspective: >-
 
   在琥珀阶段，为了支持建立和遵守组织的流程和规划，开始开发出各种管理角色。橙色阶段让这些得到进一步扩大，促进了橙色范式所追求的效率，并满足这个阶段对专门知识和问责制的渴望。虽然在绿色组织中，开始出现用管理职能角色持一线的新理念（但嘲讽的是，这反而会导致负责人力资源管理成员的增加）。只有在蔚蓝下，管理职能增加的趋势才得以扭转。在蔚蓝组织中，尽可能由一线团队自己完成那些通常由管理职能担当的任务。那些传统管理职能类成员角色，通常不再有机会将脱离实际的规则或决定，强加给组织。
 inPractice: >-
-  Centralized staff functions in most organizations create rules, policies and
-  processes for others to follow. There is a natural tendency for people in such
-  staff functions, often with the best of intentions, to prove their worth by
-  finding ways to “add value” by devising rules and procedures, building up
-  expertise, finding new problems to solve.
+  ## 实践中
 
 
-  Ultimately, this process concentrates power and decision-making away from the operational frontline. People there often end up feeling disempowered: they have to follow rules that often make sense only in principle but cannot accommodate the complexity of the concrete situations faced in practice.
+  在大多数传统组织中，由集中化的管理职能部门为其他单元制定规则、政策和流程。从事这类管理职能的人，往往是出于好意，自然倾向于通过设计规则和程序、积累专门知识、发现新问题来“增加价值”，以此证明自己的价值。
+
+
+  这导致将决策权从前线剥夺而集中到管理核心。前线的人往往感到权力被剥夺：他们必须遵守那些通常只在原则上有意义的纸上谈兵的规则，这些一般不能适应实践中实际面临的复杂具体情况。
 
 
   For these reasons, Teal organizations keep staff functions to a bare minimum. They understand that the economies of scale and skill resulting from staff functions are often outweighed by the diseconomies of motivation produced. As a result, there are very few people working in staff functions in Teal Organizations. And those that do typically have no decision-making authority. They can provide guidelines but cannot impose a rule or a decision.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 1630-1636). Nelson Parker. Kindle Edition.]
