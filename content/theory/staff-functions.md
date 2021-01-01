@@ -42,13 +42,13 @@ inPractice: >-
   在许多情况下，都可以成立志愿者[工作队](../project-teams-and-task-forces/)（通过中央知识库、培训等）编纂和传播特定领域的知识。
 
 
-  Finally, expertise in certain areas (say about labor law in Human Resources) can be contracted from the outside. Rather than hiring an expert into a staff role, a freelancer or consultant can be used as an advisor when needed by members of frontline teams.
+  还有一种方法是，某些领域的专业知识（比如人力资源部的劳动法）可以承包给外部专业机构。当一线团队成员需要时，可以利用自由职业者或顾问的咨询，而不是雇佣专家担任固定经费支撑的非生产系职能角色。
 
 
-  #### Economies of scale
+  #### 规模经济
 
 
-  Staff functions are also often put in place based on the rationale that they will provide economies of scale. These economies are easy to estimate in principle and provide a ready justification for the centralization of certain tasks. Yet this overlooks the other real costs in the form of diseconomies of motivation and disconnection from frontline realities.
+  设置管理职能团队的一个理由，是期待它能支撑规模经济。这些经济体理论上表面上看来很容易预估，这也是将某些职能集中化成管理职能的理由。然而，这些做法其实忽略了其他实际成本，比如因此降低了基层成员的自主性和动力，或与一线现实情况脱节而带来的负面效果。
 
 
   Teal organizations will pursue economies of scale without creating staff functions in the traditional sense. Say different teams in a factory or across a number of factories all buy a certain material, and pooling their purchases makes sense . One team might simply step up and become the lead purchaser for that product (asking other teams, at a fixed frequency, for their orders). In this way, different teams step up to lead certain efforts for other teams in a decentralized way.
