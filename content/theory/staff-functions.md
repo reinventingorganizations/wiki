@@ -39,7 +39,7 @@ inPractice: >-
   蔚蓝组织规避了这个弊端，原则上以分布式方式开发专业知识。随着时间的推移，一线团队的同事能积累很多专业知识。一个机器操作员可能知道某种润滑剂的使用，一个家庭护理护士对某种神秘的医疗状况了如指掌，或者一个工程师知道如何创建一个复杂的金融工具来计算新机器的投资回报。蔚蓝组织致力于帮助团队成员自愿找到某个自己认可的，具有正确专业知识的同事去寻求知识，代之以强硬的为这些专家任命权威性职能角色来强加指导。这样一来，同事能更愿意并积极的向他们寻求建议和专业知识，极大地激发了人们的积极性。已经开发出很多能支持这类信息共享的特殊系统，例如内部社交网络和知识平台。
 
 
-  在许多情况下，都可以成立志愿者[工作队](../project-teams-and-task-forces/)can be set up to codify and disseminate knowledge in specific areas (through central knowledge repositories, training, etc.).
+  在许多情况下，都可以成立志愿者[工作队](../project-teams-and-task-forces/)（通过中央知识库、培训等）编纂和传播特定领域的知识。
 
 
   Finally, expertise in certain areas (say about labor law in Human Resources) can be contracted from the outside. Rather than hiring an expert into a staff role, a freelancer or consultant can be used as an advisor when needed by members of frontline teams.
