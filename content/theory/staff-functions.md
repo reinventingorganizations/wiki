@@ -54,16 +54,16 @@ inPractice: >-
   蔚蓝组织不通过建立传统意义上的管理职能来追求规模经济。比如说，一个工厂或多个工厂的不同团队都购买某种材料，将他们的采购集中起来很有意义。其中一个团队可能会直接成为该产品的首席采购员（比如通过定期向其他团队索要订单）。通过这种方式，不同的团队以分散的方式为其他团队牵引某些工作。
 
 
-  In other cases, it might make sense for colleagues to create a role to handle certain functions. For instance, in certain countries, labor laws might imply a lot of administrative work to manage payroll. Teams could decide to delegate this work to a central staff role that they created. In Teal however, the central staff role works on behalf of the teams, and cannot impose top-down decisions. A frontline team that decides not to use the services of the central support staff is free to do so.
+  也有些情况，需要同事站出来创建一个角色来处理某些功能。例如，在某些国家，劳动法可能意味着大量管理工资单的行政工作。团队可以决定将这项工作委托给自主创建的某个中心职能角色。然而，在蔚蓝组织中，中心角色只是代表团队工作，无权强制实施自上而下的决策。前线小组可以自由地决定不使用某个中央支撑人员的服务。
 
 
-  #### Setting standards
+  #### 制定标准
 
 
-  Similarly, in many cases, it makes sense to set common standards for the entire organization, for instance in human resources (e.g., let's make sure everyone gets the same experience, whatever team they are hired into), marketing (e.g., let's use common templates and design elements), finance (e.g., let's make numbers comparable), IT (e.g., let's buy equipment that is compatible), etc. In traditional organizations, rules, policies and procedures are set up by central staff functions, who then also enforce compliance.
+  与此类似，在许多情况下，有必要为整个组织设定共同的标准，例如在人力资源方面（例如，让我们确保每个人都获得相同的经验，无论他们在哪个基层团队工作）、市场营销（例如，让我们使用通用的模板和设计元素）、财务（例如，让数字具有可比性）、信息化等。相比之下，在传统组织中，规则、政策和程序是由中心职能部门制定的，他们还负责强制检查合规性。
 
 
-  In Teal, such standards can easily be decided upon by one person taking the lead, using the advice process. Alternatively, people with similar roles in different units (say people involved with on-boarding new colleagues) can create a voluntary task force and jointly devise standards and guidelines. AES, a large energy provider, when it operated on self-managing principles, worked with an 80/20 rule: all colleagues were expected to spend 20% of their time in a voluntary task force (or temporary project team) next to the 80% on their primary roles.
+  在蔚蓝阶段，可以很容易由一个人带头，借用预制的建议流程来确立这类标准。或者，不同单元内抽出一个相似角色的人（比如负责新同事入职的角色）联合创建一个志愿工作组，共同制定标准和指导方针。AES是一家大型能源供应商，这个组织在按照自我管理的原则运作时，选择遵循80/20的规则：所有的同事都要抽出20%精力在一个志愿小组（或临时项目小组）工作，而将80%的时间用在本职角色上。
 faq:
   - question: What about highly regulated businesses?
     answer: >-
@@ -107,4 +107,3 @@ relatedTheory:
   - Purchasing and Investments
   - Coordination
 ---
-to be removed
