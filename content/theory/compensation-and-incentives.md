@@ -73,16 +73,16 @@ inPractice: >-
   蔚蓝中更具主流的做法是人们自己定工资，并根据同事的建议来调整。通常一年一次，人们会提出自认适合自己的加薪方式，并附加这个建议的理由。这些输入由许多同事（例如，一个选举出来的薪资建议小组）审核，小组根据同事之间的对比，对该提案给出个人建议。提出的成员有权选择是否遵循这些收到的建议，并将自己的选择决定公之于众。如果薪资建议组对此有异议，还可以选择报告一个冲突的发生，并调用蔚蓝预制的[冲突解决流程](../conflict-resolution/)。
 
 
-  The process cuts through much of the haggling, strategizing, complaining, and "sucking up" that happens when salaries are set by one's boss. If people are unhappy with their salary, they can simply raise it. And they will face the consequences of their choices, if they decide to place themselves too far outside their peers' advice.
+  传统上这些都是由老板决定的，所以会出现很多讨价还价、谈判、抱怨和“剥削”，蔚蓝的这个自定过程则减少了这些负面要素。如果人们对自己的薪水不满意，可以简单地决定提高自己的工资。但如果他们决定完全忽略那些对比关系同事的建议（比如关于合理性），可能会面临自己选择的后果（受到通过冲突流程的挑战）。
 
 
-  #### **Use of incentives**
+  #### **激励的运用**
 
 
-  In the Teal paradigm, people value intrinsic over extrinsic motivators. Once people make enough money to cover their basic needs, what matters most is that work is meaningful and that they can express their talents and callings at work. In the book *Drive*, Daniel Pink concludes from a great amount of research on the matter that in today’s complex work settings, incentives are mostly counterproductive, reducing rather than enhancing people’s performance.
+  在蔚蓝范式中，人们看重内在动力而非外在动机。只要能挣到足够的钱来满足基本层面的需求，此外最重要的收获就是工作的意义，自己是否可以在工作中表达自己的才华和抱负。在《驱动力》一书中，丹尼尔·平克对这一问题进行了大量的研究并得出结论，在当今复杂的工作环境中，激励措施大多起反作用，都在降低而不是提高人们的绩效。
 
 
-  The consequence is that Teal Organizations generally operate without explicit financial incentives at individual and team level. No one, not even sales people, has targets or incentives and there are rarely individual bonuses or stock options. Instead, at the end of very profitable years, some part of the profit will be shared with all employees (in some cases everyone receives the same fixed percent of base salary, in others everyone receives the same fixed amount). See also [Ownership](../ownership/).
+  因而，蔚蓝组织通常不设计明确的个人和团队层面的财务激励措施。成员都没有业绩指标或激励措施，甚至销售人员，也很少有个人奖金或股票期权。不过，在利润丰厚的年份结束时，会将部分利润分配给所有成员（有时按照基本工资配比，有时则每人都分配相同的固定金额）。另请参见[股东](../ownership/)。
 
 
   #### **Compensation inequality**
