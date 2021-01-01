@@ -30,10 +30,10 @@ inPractice: >-
   基于这些原因，蔚蓝组织将管理职能限制在最低限度。他们明白，由于管理职能而产生的规模经济和技能经济效益，往往被副作用的不经济动机所抵消。因此，在蔚蓝组织中，很少有人从事专门的管理职能。即使存在少数必要的职能人员，也都没有决策权。他们的功能是提供一些指南但无权将某个规则或决策强加给组织。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 1630-1636). Nelson Parker. Kindle Edition.]
 
 
-  #### The need for expertise
+  #### 专业知识需求
 
 
-  In every organization there is a natural tension between the need for expertise and the need to let frontline people make decisions. When a need for expertise arises, the first instinct of most organizations is to create a central pool of experts. The risk, of course, is that over time two castes emerge within the organization: a prestigious (often highly paid) group of central experts, and a disempowered group of people performing operational work in the field.
+  在每一个组织中，存在着一种天然的矛盾：对专业知识的需求，与让第一线人员做决定的需求。当需要专业知识时，大多数组织的第一反应就是建立一个中心专家库。当然，其风险在于随着时间的推移，组织内会出现两个族群：一群是有声望的（通常是高薪的）中央专家组，另一群是在实地完成业务工作但没有权力的人。
 
 
   Instead, Teal organizations allow expertise to develop in a distributed fashion. Over time, colleagues in frontline teams build up a lot of specialized knowledge. A machine operator might know all about the use of a certain lubricant, a home-care nurse all about a certain arcane medical condition, or an engineer all about how to create a complex financial tool to calculate a new machine's return on investment. Rather than establishing staff roles for these experts, Teal organizations aim to help team members identify colleagues with the right expertise. It can be highly motivating for people to be sought out by colleagues for advice and expertise. Special systems for sharing information are common, such as internal social networks and knowledge platforms.
