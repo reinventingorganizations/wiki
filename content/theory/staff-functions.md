@@ -51,7 +51,7 @@ inPractice: >-
   设置管理职能团队的一个理由，是期待它能支撑规模经济。这些经济体理论上表面上看来很容易预估，这也是将某些职能集中化成管理职能的理由。然而，这些做法其实忽略了其他实际成本，比如因此降低了基层成员的自主性和动力，或与一线现实情况脱节而带来的负面效果。
 
 
-  Teal organizations will pursue economies of scale without creating staff functions in the traditional sense. Say different teams in a factory or across a number of factories all buy a certain material, and pooling their purchases makes sense . One team might simply step up and become the lead purchaser for that product (asking other teams, at a fixed frequency, for their orders). In this way, different teams step up to lead certain efforts for other teams in a decentralized way.
+  蔚蓝组织不通过建立传统意义上的管理职能来追求规模经济。比如说，一个工厂或多个工厂的不同团队都购买某种材料，将他们的采购集中起来很有意义。其中一个团队可能会直接成为该产品的首席采购员（比如通过定期向其他团队索要订单）。通过这种方式，不同的团队以分散的方式为其他团队牵引某些工作。
 
 
   In other cases, it might make sense for colleagues to create a role to handle certain functions. For instance, in certain countries, labor laws might imply a lot of administrative work to manage payroll. Teams could decide to delegate this work to a central staff role that they created. In Teal however, the central staff role works on behalf of the teams, and cannot impose top-down decisions. A frontline team that decides not to use the services of the central support staff is free to do so.
