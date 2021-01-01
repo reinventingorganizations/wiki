@@ -85,10 +85,10 @@ inPractice: >-
   因而，蔚蓝组织通常不设计明确的个人和团队层面的财务激励措施。成员都没有业绩指标或激励措施，甚至销售人员，也很少有个人奖金或股票期权。不过，在利润丰厚的年份结束时，会将部分利润分配给所有成员（有时按照基本工资配比，有时则每人都分配相同的固定金额）。另请参见[股东](../ownership/)。
 
 
-  #### **Compensation inequality**
+  #### 缓解不平等
 
 
-  Without the use of bonuses and stock options, compensation inequality is automatically reduced, as a large share of the pay inequalities in today's Fortune 500 companies stem from the often extravagant CEO bonuses and stock options. Some organizations also strive consciously to limit inequality in the base salary. Some organizations, like AES and FAVI, have replaced hourly wages with monthly salaries for shop floor operators, erasing the distinction between blue- and white-collar workers. Everyone is compensated on the same principles.
+  通过不使用或减少奖金和股票期权，能减少薪酬不平等，因为在当今财富500强企业中，薪酬不平等大部分都源于丰厚而奢侈的首席执行官奖金和股票期权。一些蔚蓝组织还会有意识地努力降低基本工资的不平等。如AES和法维，车间操作员改为月薪制而不是小时工资，消除了蓝领和白领工人的区别。同工同酬。
 faq:
   - question: When salaries are self-set, how can salary inflation be prevented?
     answer: >-
@@ -169,4 +169,3 @@ relatedTheory:
   - Feedback and Performance Management
   - Dismissal
 ---
-to be removed
