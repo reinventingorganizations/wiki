@@ -49,10 +49,10 @@ perspective: >-
 
   在[绿色模式](../green-paradigm-and-organizations/)相信合作与竞争同样重要：个人激励开始被团队奖金所替代。人们试图缩小职场中收入高低的差距，例如，通过定义首席执行官薪酬与组织中的中等（或最低）工资之间的最大倍数来限制差距。
 inPractice: >-
+  ## **实践中**
+
+
   #### **谁/如何决定薪酬**
-
-
-  ## 实践中
 
 
   在传统组织中，薪酬通常根据组织的层次结构决定。一般来说，老板可以决定给下属加薪，但通常需要人力资源（或机构）的咨询或批准。在自我管理的组织中，在没有老板的情况下，工资和其他类型薪酬的决定方法是，利用同类工作的同事做对比衡量而进行调整和设计。似乎有两大类系统：基于排名的系统和基于自我定义（基于建议）的系统。\[这两种方法，并不依赖于自我管理结构，也都可用于等级制度体系中。]
@@ -61,16 +61,16 @@ inPractice: >-
   ##### ***基于分级的薪酬体系***
 
 
-  In certain companies, such as W. L. Gore or HolacracyOne, employees rank or evaluate the contributions of the peers they work with most closely. Based on this input, people are allocated to different salary bands - usually by an algorithm or an elected committee. People who are seen as contributing more will find themselves in the higher bands that earn bigger salaries; the more junior, less experienced colleagues naturally gravitate toward bands with lower salaries. The process is simple and easy to understand and it is generally seen as fair. When it’s not just one person (the boss), but many of an individual's colleagues informing the process, the resulting salary is likely to be a fairer reflection of that person's contribution.
+  在某些公司，如W.L.果尔或霍尔万，由成员就那些自己最密切合作的同事的贡献效果做出排名或评估。根据这个输入，把人们分成不同的工资级别--通常是通过系统算法或选举产生的委员会评议。那些被大家评价为贡献更多的人，会发现自己置身于更高薪水的团队；那些资历较低、经验较少的同事自然会倾向于进入薪水较低的团队。这是一个简单易懂的过程。不仅仅是一个人（老板）来评估，而是由成员的许多同事来影响这个评估过程，所以由此产生的工资会更公平地反映个人的贡献。
 
 
-  Such systems can result in pay fluctuating (going up but also down) over the years, depending on people's contribution. In many countries, labor laws prevent salaries from going down, which requires adaptations to this method. For instance, the system could be used only to discern which colleagues should receive a pay raise. Alternatively, a system can be engineered using a low fixed salary, and allowing the fluctuations through individual bonuses that can go up or down.
+  这种制度会导致工资逐年波动（上升或下降），因金额取决于人们的贡献。在许多国家，劳动法禁止工资下降，于是需要对这种方法进行调整改进。例如，把系统改进成只用来辨别哪些同事应该加薪。或者，采用一个设置了最低固定工资的系统，波动主要通过个人奖金来实现，就可以上升或下降。
 
 
-  ##### ***Self-set (advice-based) systems***
+  ##### （基于建议的）自定系统
 
 
-  A more empowering version is one where people set their own salaries, calibrated by the advice process from their peers. In this case, generally once a year, people propose what salary raise they believe to be appropriate for themselves, and the justifications for their proposal. This input is reviewed by a number of peers (e.g. in an elected salary advice group) who give individual advice on that proposal, based on a calibration across colleagues. Individuals can then choose to follow the advice they have received or not, and their choice is made public. If it so chooses, the salary advice group can choose to declare a conflict and invoke the [conflict resolution mechanism](../conflict-resolution/).
+  蔚蓝中更具主流的做法是人们自己定工资，并根据同事的建议来调整。通常一年一次，人们会提出自认适合自己的加薪方式，并附加这个建议的理由。这些输入由许多同事（例如，一个选举出来的薪资建议小组）审核，小组根据同事之间的对比，对该提案给出个人建议。提出的成员有权选择是否遵循这些收到的建议，并将自己的选择决定公之于众。如果薪资建议组对此有异议，还可以选择报告一个冲突的发生，并调用蔚蓝预制的[冲突解决流程](../conflict-resolution/)。
 
 
   The process cuts through much of the haggling, strategizing, complaining, and "sucking up" that happens when salaries are set by one's boss. If people are unhappy with their salary, they can simply raise it. And they will face the consequences of their choices, if they decide to place themselves too far outside their peers' advice.
