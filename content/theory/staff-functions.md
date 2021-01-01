@@ -6,7 +6,7 @@ name: 管理职能
 sortOrder: 2
 category: Structure of an organization
 intro: |-
-  This article addresses how staff functions are handled in Teal organizations.
+  本文讨论了蔚蓝组织中如何处理管理职能。
 
   ![](/media/staff-functions.jpg)
 perspective: "In the last decades, we have witnessed, especially in large
