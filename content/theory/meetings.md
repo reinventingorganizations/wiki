@@ -34,10 +34,10 @@ perspective: >-
   ### 橙色组织
 
 
-  [橙色组织](https://reinventingorganizations-wiki.netlify.app/theory/orange-paradigm-and-organizations/) manage performance carefully to ensure that targets and goals are achieved. This requires regular (weekly/monthly/quarterly/annual) meetings at most levels in the organization.
+  [橙色组织](https://reinventingorganizations-wiki.netlify.app/theory/orange-paradigm-and-organizations/)橙色组织需要认真管理绩效以确保实现各种指标和目标。这自然要求组织内每个层面都召开例会（周/月/季/年度）。
 
 
-  Meetings are held for many reasons :
+  开会的目的包括：
 
 
   * Reporting progress and making decisions. 
