@@ -51,16 +51,16 @@ perspective: >-
   * 确定优先级，等等。
 
 
-  As these meetings proliferate, they become the 'diary-filler' for busy senior executives. Until relatively recently, this often meant significant travel for some of those employed by international organizations.
+  随着会议的激增，开会成了高级管理人员忙碌的“日程充盈”。至今依然如此，对一些受雇于国际组织的人而言，这往往意味着大量出差旅行。
 
 
-  Meetings often have pre-defined agendas with the intention of reaching clear outcomes. Rational discussion and logical arguments are valued. However, personal agendas are never far from the surface and have the potential to undermine organizational goals.
+  为了确保达成明确的结果，会议通常有预先确定的议程。重视理性讨论和逻辑论证。但，制定议程者个人层面的目的性，导致会议无法避免只重视表面内容，进而有妨碍组织目标的潜在风险。
 
 
-  ### Green organizations
+  ### 绿色组织
 
 
-  In [Green organizations](../green-paradigm-and-organizations/), aim to serve multiple stakeholders with equality, respect and inclusion. This requires meeting with them. Consensus is valued, but may be gruelling to achieve.
+  在[绿色组织](../green-paradigm-and-organizations/), aim to serve multiple stakeholders with equality, respect and inclusion. This requires meeting with them. Consensus is valued, but may be gruelling to achieve.
 
 
   Meetings are not only about planning and reporting (as in Orange organizations), but are also about sustaining a sense of ownership, inclusion and empowerment: in other words, creating a values-based culture.  As a result, meeting practices tend to be more attentive to the underlying processes within the group.
