@@ -128,10 +128,10 @@ inPractice: >-
   团队间协调任务或启动特殊项目所需的会议，会自发出现。这是一种有机的组织方式。
 
 
-  #### *A variety of meeting formats for different purposes*
+  #### *目的决定不同的*会议形式
 
 
-  Examples include:
+  例如：
 
 
   * Team [decision-making ](../decision-making/)meetings at [Buurtzorg ](http://www.buurtzorgnederland.com/)
