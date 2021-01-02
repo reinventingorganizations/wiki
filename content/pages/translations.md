@@ -24,4 +24,4 @@ name: Translations
 
 ![](https://reinventingorganizations-wiki.netlify.app/media/flagrussia.jpg)      Russian Wiki <https://ru.reinventingorganizationswiki.com/>
 
-![](/media/flagchina.jpg)       中文简体 <https://cn.reinventingorganizationswiki.com/>
+![](/media/flagchina.jpg)       中文简体 Wiki <https://cn.reinventingorganizationswiki.com/>
