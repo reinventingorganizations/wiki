@@ -122,10 +122,10 @@ inPractice: >-
   与此对比，传统组织的全体会议则通常倾向于领导作报告为主。或者干脆避免全体会议，因恐惧这类会议（特别是允许成员人人发言时）的不可预测性和失控风险。
 
 
-  #### *Form follows function: meetings emerge on an ad hoc basis*
+  #### 形式服从功能：会议应时自然发生
 
 
-  Meetings needed to coordinate tasks across teams, or launch special projects, arise spontaneously. It’s an organic way of organizing. 
+  团队间协调任务或启动特殊项目所需的会议，会自发出现。这是一种有机的组织方式。
 
 
   #### *A variety of meeting formats for different purposes*
