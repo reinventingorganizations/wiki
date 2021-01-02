@@ -6,11 +6,11 @@ name: Teal Concepts
 
 # 蔚蓝概念
 
-[简单介绍原著中主要的[蔚蓝概念](https://cn--reinventingorganizations-wiki.netlify.app/theory/teal-paradigm-and-organizations/)]
+[简单介绍原著中主要的[蔚蓝模式](https://cn.reinventingorganizationswiki.com/theory/teal-paradigm-and-organizations/)]
 
-* [](/theory/self-management/)[自我管理](//cn--reinventingorganizations-wiki.netlify.app/theory/self-management/)[](/theory/self-management/)
-* [](/theory/wholeness/)[完整人性](//cn-reinventingorganizations-wiki.netlify.app/theory/wholeness/)[](/theory/wholeness/)
-* [进化目标](//cn-reinventingorganizations-wiki.netlify.app/theory/evolutionary-purpose/)
+* [](/theory/self-management/)[自我管理](https://cn.reinventingorganizationswiki.com/theory/self-management/)[](/theory/self-management/)
+* [完整人性](https://cn.reinventingorganizationswiki.com/theory/wholeness/)
+* [进化目标](https://cn.reinventingorganizationswiki.com/theory/evolutionary-purpose/)
 
 ## [更多阅读](https://cn--reinventingorganizations-wiki.netlify.app/pages/tealpractices/)......
 
