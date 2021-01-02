@@ -99,13 +99,12 @@ inPractice: >-
   总的来说，[蔚蓝组织](../teal-paradigm-and-organizations/)的会议往往较少。在传统的金字塔结构中，因信息需要在指挥链中上下流动，于是需要召开会议来收集、包装、过滤和传输这些信息。在自我管理结构中，此类会议需求多数已经消失。[绿色组织](../green-paradigm-and-organizations/)中的会议可能是打造“自下而上”参与活动的一种方式，但在蔚蓝组织，这已经被“内置”在日常的自我管理结构中（不必刻意开会）。
 
 
-  #### *Regular meetings at the operational team/circle level*
+  #### 一线团队/圈子层面例会
 
 
-  The frequency of team/circle meetings is determined by the nature of the work.
+  团队/圈子会议的频率由工作性质决定。
 
-
-  See FAVI, below. 
+  具体参见下文的法维案例。
 
 
   #### *Agendas*
