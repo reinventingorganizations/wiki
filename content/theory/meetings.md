@@ -93,10 +93,10 @@ inPractice: >-
   每当组织成员感觉到需要开会，就会主动自发地召集会议。会议构造和精简原则在组织内早有共识，这些都支持着这种[自组织](../self-management/)精神。蔚蓝组织的高透明度，直接减少了会议次数和时间。在举行会议时，要注意使用能培养[整体感](../wholeness/)的一些具体技巧（组织价值观与文化的渗透）。
 
 
-  #### *Self-management requires far fewer meetings*
+  #### 自我管理不需要很多会议
 
 
-  Overall there tend to be fewer meetings in [Teal organizations](../teal-paradigm-and-organizations/). In a traditional pyramid structure, meetings are needed to gather, package, filter and transmit information as it flows up and down the chain of command.  In self-managing structures, the need for many of these meetings falls away. Whereas in [Green organizations](../green-paradigm-and-organizations/) meetings may be a way of building ‘bottom up’ involvement, this is already 'built in' to a self-managing structure.
+  总的来说，[蔚蓝组织](../teal-paradigm-and-organizations/). In a traditional pyramid structure, meetings are needed to gather, package, filter and transmit information as it flows up and down the chain of command.  In self-managing structures, the need for many of these meetings falls away. Whereas in [绿色组织](../green-paradigm-and-organizations/) meetings may be a way of building ‘bottom up’ involvement, this is already 'built in' to a self-managing structure.
 
 
   #### *Regular meetings at the operational team/circle level*
