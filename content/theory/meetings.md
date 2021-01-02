@@ -204,16 +204,16 @@ inPractice: >-
   #### 结束会议
 
 
-  Check-out rounds at the end of the meeting are a natural complement to the initial check-in round. They leave everyone with a sense of the impact of the meeting. A moment of silence is another way to reflect and conclude.  
+  会议结束时的轮流“结语”登出方式，是对开场轮流签到的自然呼应。签到登出能让每个人都感受到会议的深刻印象。沉默片刻也是一种以反思和总结来结束会议的方式。
 
 
-  #### Meeting transparency / open participation
+  透明度/自由参会
 
 
-  Upcoming meetings may be listed on the intranet. This allows anyone who wants to share concerns or ideas to attend.  This transparency may extend to outsiders via streaming on the internet. Some claim this transparency results in closer relations with their external partners.
+  计划举行的会议可在内联网上列出。以便任何想要分享关注点或想法的人都可以参加。这种透明性也可以通过互联网上的流媒体扩展到外界人士。一位经历者认为，这种透明度能让组织与外部伙伴的关系更加密切。
 
 
-  Meeting cultures in [Teal Organizations ](../teal-paradigm-and-organizations/)have adopted some of the ‘alternative meeting formats’ like Open Space, Art of Hosting, World Café etc.
+  [蔚蓝组织](../teal-paradigm-and-organizations/)的会议文化还发明了一些“另类会议形式”，如开放空间、主持艺术、世界咖啡厅等。
 faq:
   - question: Doesn’t the advice process lead to more meetings rather than less?
     answer: >-
@@ -241,4 +241,3 @@ relatedTheory:
   - Training and Coaching
   - Creating Safe Space
 ---
-removed
