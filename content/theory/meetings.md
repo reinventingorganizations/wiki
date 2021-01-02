@@ -5,10 +5,8 @@ key: Meetings
 name: 会议
 sortOrder: 2
 category: Daily practices
-intro: >-
-  The topic of meetings discusses when, how and for what purpose meetings are
-  organized.
-
+intro: |-
+  本文讨论何时、如何以及为了什么目的而组织会议。
 
   ![](/media/meetings-2.jpg)
 perspective: >-
