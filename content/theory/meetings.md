@@ -107,10 +107,10 @@ inPractice: >-
   具体参见下文的法维案例。
 
 
-  #### *Agendas*
+  #### *议程*
 
 
-  Traditionally, agendas are thought of as the minimum discipline for a productive meeting. But not necessarily in a Teal workplace. Many of their scheduled meetings have no pre-determined agenda. Rather, one is determined at the beginning, and is based on the topics that hold energy for the participants, at that time. This ensures meetings stay energized, purposeful, and engaging.  The interest is a real and present interest; it's not manufactured via a ritualistic approach.   
+  在传统组织阶段上，议程被认为是高效会议的最基本要素。但在蔚蓝职场就不见得。在蔚蓝组织中，即使一些有计划安排的会议，也都没有预先确定的议程。一般是在会议开始时刻确定议程（跟随同步性），并原则上选择一些当下能聚集参与者关注能量的话题。这样可以确保会议保持活力、目的性和参与性（避免人在心不在）。不预制仪式性的强迫方式和人造出来的议程（不用旧时间线的议程束缚当下流动），能保证成员对会议内容的兴趣是真实而当下临在的。
 
 
   #### *All-hands meetings*
