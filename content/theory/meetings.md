@@ -136,13 +136,13 @@ inPractice: >-
 
   * 团队[决策](../decision-making/)会议 [布尔佐格](http://www.buurtzorgnederland.com/)
 
-  * Holocratic Governance vs. Tactical meetings at [HolocracyOne ](http://www.holacracy.org/)
+  * 霍尔管理与战术会议 [霍尔万](http://www.holacracy.org/)
 
-  * [On-boarding ](../onboarding/)meetings / Departure meetings as at [CC&R ](http://www.couragerenewal.org/)
+  * [入职](../onboarding/) / 离职会议 [CC&R ](http://www.couragerenewal.org/)
 
-  * Appraisal meetings
+  * 表扬会
 
-  * [Conflict resolution](../conflict-resolution/) meetings
+  * [冲突解决](../conflict-resolution/)会议
 
   * [Listening to purpose ](../listening-to-purpose/)meetings
 
