@@ -179,13 +179,13 @@ inPractice: >-
 
   * 从成员轮流“签到”开始。参与者轮流分享自己进入会议时刻的当下感受。帮助所有人倾听内在，倾听自己的身体和感觉，并建立内在觉察感（临在感）。只需要点名一种情绪，往往就已经完成了该情绪的清理。因此，这种做法有助于参与者放下各种分散注意力的要素，同时支持每个人都能全身心的出席本次会议。
 
-  * Or every meeting starts with a minute of silence to ground people in the moment. 
+  * 或者每次会议都以一分钟的静默开始，让成员在那一刻聚焦当下。
 
-  * Meetings may start with at short reading that one person has prepared. After a few moments of silence, participants share the thoughts this has sparked.  
+  * 也可以在开场时找一个人简短诵读之前准备好的素材。沉默片刻后，请与会者分享此诵读引发的想法。（同频在一个内容中）
 
-  * Another practice is to start every meeting with all sharing a brief story of someone they had recently thanked. This highlights possibility, gratitude, celebration, and trust.  
+  * 还有种做法，是在每次会议开始时，所有人都分享一个关于最近感谢过某人的简短故事。这能彰显可能性、感激、颂扬和信任等正能量。
 
-  * Yet another variant is a minute of silence and/or a joke.
+  * 另一个做法，是一分钟的沉默和/或一个笑话。
 
 
   #### Keeping on track
