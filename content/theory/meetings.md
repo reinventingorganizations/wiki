@@ -162,13 +162,13 @@ inPractice: >-
   最佳状态的会议，可以成为让其他人帮助我们倾听自己真正关心什么的场所。但会议也可能成为高傲虚荣的展示场。有些人为了获得安全感（而陷入人性弱点彰显）而尝试控制会议进程，有些人则选择退避（没有真正参加）。在自我管理的组织中，会议没有上司参加，所以会让这类恐惧得以缓解。但即使只是一群同事开会，虚荣人格也可能占据主导地位。蔚蓝组织在实践中摸索出很多方法，能更好的支持积极有效的、能培育[整体性](/wholeness/)和通道和[目标](../listening-to-purpose/)感的互动。
 
 
-  #### Training in meeting practices
+  #### 会议技巧培训
 
 
-  Some train new members in effective meeting formats. New members need to be comfortable to participate in decision-making procedures.
+  一些蔚蓝组织在新成员培训中助其学会有效的会议技巧。新成员需要学会毫无障碍的积极参与决策过程。
 
 
-  Training in facilitation, communication skills and mindsets support collegiality, trust building, and the resolution of tensions.
+  积极培育成员学会会议推进方法、沟通技巧和心态准备，有助于共事、建立信任和缓解紧张关系。
 
 
   #### Starting at the right place
