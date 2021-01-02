@@ -10,18 +10,19 @@ intro: |-
 
   ![](/media/meetings-2.jpg)
 perspective: >-
-  Meetings serve different purposes depending on the stage of the organization.
-  The number of meetings held typically grows as organizations develop, peaking
-  at the Green stage. The volume of meetings held declines at the Teal stage.
+  ## 新视角
 
 
-  Members of Teal organizations tend to feel more connected to each other and the work, and need fewer meetings to plan or resolve issues.
+  对不同历史阶段的组织而言，会议的目的各有不同。会议的数量通常随着组织的发展而增加，在绿色阶段达到顶峰。在蔚蓝阶段开会数量开始减少。
 
 
-  ### Red organizations
+  蔚蓝组织的成员通常感觉到与同事在人与人之间、以及工作之间的联系更紧密，不再需要那么多会议来计划或解决问题。
 
 
-  In [Red organizations](../red-organizations/), meetings are held when the Chief or Boss feels they are necessary. They might be held to make announcements, pass judgements or to conduct ceremonies. Sometimes they are held, to seek counsel or gather information.
+  ### 红色组织
+
+
+  在[红色组织](../red-organizations/)中，只是在首领或老板认为有必要时举行会议。会议目的可能是为了发布信息、传达判决或举行仪式。有时也会为了寻求建议或收集信息而开会。
 
 
   ### Amber organizations
