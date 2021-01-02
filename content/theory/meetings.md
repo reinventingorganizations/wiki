@@ -140,17 +140,17 @@ inPractice: >-
 
   * [入职](../onboarding/) / 离职会议 [CC&R ](http://www.couragerenewal.org/)
 
-  * 表扬会
+  * 评估会
 
   * [冲突解决](../conflict-resolution/)会议
 
-  * [Listening to purpose ](../listening-to-purpose/)meetings
+  * [目标聆听](../listening-to-purpose/)会议
 
-  * Large group reflections at [Heiligenfeld](http://www.heiligenfeld.de/)
+  * 全体反省会 [海利根菲尔德](http://www.heiligenfeld.de/)
 
-  * [Culture/Values](../culture-and-values/) meetings
+  * [文化与价值观](../culture-and-values/)会议
 
-  * Praise meetings at [ESBZ ](http://www.ev-schule-zentrum.de/aktuell/)
+  * 表扬会 [ESBZ ](http://www.ev-schule-zentrum.de/aktuell/)
 
 
   #### Highlighting sense of wholeness and purpose
