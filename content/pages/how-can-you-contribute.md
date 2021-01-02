@@ -8,8 +8,8 @@ name: How can you contribute?
 
 #### 另外，如果您准备好为这个启蒙活动贡献一些时间和精力，至少可以有三种参与方式。
 
-1. **S分享您自己组织的蔚蓝活动，为知识库增添实践案例！**请填写这个[简短表格](https://surveyheart.com/form/5fb632d8c99c116adc299908)以便我们联系您（请谅解，因我们都是为这个公益事业服务的志愿者，所以回复周期也许要一周或更久些）。
-2. **参加我们的倾情志愿者小组！**我们还有很多任务和岗位缺人手，正在寻找乐于共同丰富和维护此维基知识库的伙伴。例如审阅当前文章（语言编辑），或撰写新文章。或者把此知识库翻译成其他语言。我们还需要一些熟悉github和\[开发平台]的网站开发人员。此维基知识库是个开源项目，很多发展壮大的任务，在等待您的帮助！请[填写这张表](https://surveyheart.com/form/5f12c56c042b2b3696da7a2e)以便我们联系你。We are looking for people happy to enrich and maintain the wiki, and there are different tasks to do and roles to fulfill. For example to review the current articles (for example language editing), or to write new articles. Or maybe to translate the wiki to other languages? We also need web developers familiar with github and \[the platform infrastructure]. The wiki has been developed in open source and we have a number of enhancement requests waiting for your talents! Please [fill out this form](https://surveyheart.com/form/5f12c56c042b2b3696da7a2e) so that we can contact you.
-3. **Give feedback!** You can also react to what you have read in the current version of the wiki and [give feedback](https://surveyheart.com/form/5fb7b793ef396770afbeb29e).
+1. **分享您自己组织的蔚蓝活动，为知识库增添实践案例！**请填写这个[简短表格](https://surveyheart.com/form/5fb632d8c99c116adc299908)以便我们联系您（请谅解，因我们都是为这个公益事业服务的志愿者，所以回复周期也许要一周或更久些）。
+2. **参加我们的倾情志愿者小组！**我们还有很多任务和岗位缺人手，正在寻找乐于共同丰富和维护此维基知识库的伙伴。例如审阅当前文章（语言编辑），或撰写新文章。或者把此知识库翻译成其他语言。我们还需要一些熟悉github和\[开发平台]的网站开发人员。此维基知识库是个开源项目，很多发展壮大的任务，在等待您的帮助！请[填写这张表](https://surveyheart.com/form/5f12c56c042b2b3696da7a2e)以便我们联系您。[](https://surveyheart.com/form/5f12c56c042b2b3696da7a2e)
+3. **敬请反馈意见！** 您还可以对当前版本的维基知识库给出[反馈意见](https://surveyheart.com/form/5fb7b793ef396770afbeb29e)。
 
    ![](/media/contribute.jpg)
