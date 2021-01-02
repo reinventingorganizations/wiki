@@ -4,7 +4,7 @@ name: History of Organizational Development
 ---
 ![](/media/1_018-small.png)
 
-## 组织发展史
+## 组织进化史
 
 * [组织发展观](/theory/developmental-perspective-on-organizations/)
 * [红色模式与组织](/theory/red-organizations/)
