@@ -171,10 +171,10 @@ inPractice: >-
   积极培育成员学会会议推进方法、沟通技巧和心态准备，有助于共事、建立信任和缓解紧张关系。
 
 
-  #### Starting at the right place
+  #### 良好的开场
 
 
-  The beginning of a meeting sets the mood. [Teal Organizations ](../teal-paradigm-and-organizations/)may use the following practices:
+  The beginning of a meeting sets the mood. [蔚蓝组织](../teal-paradigm-and-organizations/)may use the following practices:
 
 
   * One widespread practice is to start with a 'check-in' round. Participants share how they feel in the moment, as they enter. The helps all to listen within, to their bodies and sensations, and to build awareness. Naming an emotion is often all it takes to deal with it.  Thus, this practice helps participants let go of distractions while supporting everyone to be present for the current meeting. 
