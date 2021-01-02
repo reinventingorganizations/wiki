@@ -84,10 +84,13 @@ perspective: >-
 
   蔚蓝会议通常遵照一些具体的规则，以确保成员以相互尊重和富有成效的方式充分触及彼此并达成会议的目的。新加入者通常在这些过程中得到培训，以便学会如何能够充分参与蔚蓝会议。
 inPractice: >-
-  #### *Meeting activity is limited and arises from the 'need to meet'*
+  ## *实践中*
 
 
-  Meetings can arise spontaneously whenever a member of the organization senses a need, and takes the initiative.  Meeting structures and facilitation support this [self-organizing ](../self-management/)spirit. The increased transparency in Teal organizations reduces the number and length of some meetings. When meetings are held, care is taken to use specific practices that foster a sense of [wholeness](../wholeness/).
+  #### 精简“会议”，只为“会面”
+
+
+  每当组织成员感觉到需要开会，就会主动自发地召集会议。会议构造和精简原则在组织内早有共识，这些都支持着这种[自组织](../self-management/)精神。蔚蓝组织的高透明度，直接减少了会议次数和时间。在举行会议时，要注意使用能培养[整体感](../wholeness/)的一些具体技巧（组织价值观与文化的渗透）。
 
 
   #### *Self-management requires far fewer meetings*
