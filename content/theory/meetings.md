@@ -156,10 +156,10 @@ inPractice: >-
   #### 突出整体感和使命感
 
 
-  Meetings bring out the best and the worst of human nature.
+  会议可以展示人性精华的一面，也可能揭出人性糟糕的一面。
 
 
-  In the best, they are places where others help us listen in to what we really care about. But meetings can also be playfields for egos. To feel safe, some seek to dominate proceedings. Others withdraw. In self-managingorganizations the absence of a boss takes some of these fears out of the room. But in a group of peers egos can dominate just as well. A variety of approaches support productive interactions consistent with [wholeness ](/wholeness/)and [purpose](../listening-to-purpose/).
+  In the best, they are places where others help us listen in to what we really care about. But meetings can also be playfields for egos. To feel safe, some seek to dominate proceedings. Others withdraw. In self-managingorganizations the absence of a boss takes some of these fears out of the room. But in a group of peers egos can dominate just as well. A variety of approaches support productive interactions consistent with [整体性](/wholeness/)和[目标](../listening-to-purpose/)。
 
 
   #### Training in meeting practices
