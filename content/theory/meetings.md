@@ -60,7 +60,7 @@ perspective: >-
   ### 绿色组织
 
 
-  在[绿色组织](../green-paradigm-and-organizations/), aim to serve multiple stakeholders with equality, respect and inclusion. This requires meeting with them. Consensus is valued, but may be gruelling to achieve.
+  [绿色组织](../green-paradigm-and-organizations/)的目标是，本着平等、尊重和包容原则为多个利益相关者服务。所以就需要与这些方位开会。共识很有价值，但要达成共识可能会很辛苦。
 
 
   Meetings are not only about planning and reporting (as in Orange organizations), but are also about sustaining a sense of ownership, inclusion and empowerment: in other words, creating a values-based culture.  As a result, meeting practices tend to be more attentive to the underlying processes within the group.
