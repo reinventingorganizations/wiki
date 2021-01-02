@@ -174,10 +174,10 @@ inPractice: >-
   #### 良好的开场
 
 
-  The beginning of a meeting sets the mood. [蔚蓝组织](../teal-paradigm-and-organizations/)may use the following practices:
+  会议的开场能决定会议的气氛。[蔚蓝组织](../teal-paradigm-and-organizations/)可以尝试以下做法：
 
 
-  * One widespread practice is to start with a 'check-in' round. Participants share how they feel in the moment, as they enter. The helps all to listen within, to their bodies and sensations, and to build awareness. Naming an emotion is often all it takes to deal with it.  Thus, this practice helps participants let go of distractions while supporting everyone to be present for the current meeting. 
+  * 从成员轮流“签到”开始。参与者轮流分享自己进入会议时刻的当下感受。帮助所有人倾听内在，倾听自己的身体和感觉，并建立内在觉察感（临在感）。只需要点名一种情绪，往往就已经完成了该情绪的清理。因此，这种做法有助于参与者放下各种分散注意力的要素，同时支持每个人都能全身心的出席本次会议。
 
   * Or every meeting starts with a minute of silence to ground people in the moment. 
 
