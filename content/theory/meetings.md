@@ -96,7 +96,7 @@ inPractice: >-
   #### 自我管理不需要很多会议
 
 
-  总的来说，[蔚蓝组织](../teal-paradigm-and-organizations/). In a traditional pyramid structure, meetings are needed to gather, package, filter and transmit information as it flows up and down the chain of command.  In self-managing structures, the need for many of these meetings falls away. Whereas in [绿色组织](../green-paradigm-and-organizations/) meetings may be a way of building ‘bottom up’ involvement, this is already 'built in' to a self-managing structure.
+  总的来说，[蔚蓝组织](../teal-paradigm-and-organizations/)的会议往往较少。在传统的金字塔结构中，因信息需要在指挥链中上下流动，于是需要召开会议来收集、包装、过滤和传输这些信息。在自我管理结构中，此类会议需求多数已经消失。[绿色组织](../green-paradigm-and-organizations/)中的会议可能是打造“自下而上”参与活动的一种方式，但在蔚蓝组织，这已经被“内置”在日常的自我管理结构中（不必刻意开会）。
 
 
   #### *Regular meetings at the operational team/circle level*
