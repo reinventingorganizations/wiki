@@ -113,13 +113,13 @@ inPractice: >-
   在传统组织阶段上，议程被认为是高效会议的最基本要素。但在蔚蓝职场就不见得。在蔚蓝组织中，即使一些有计划安排的会议，也都没有预先确定的议程。一般是在会议开始时刻确定议程（跟随同步性），并原则上选择一些当下能聚集参与者关注能量的话题。这样可以确保会议保持活力、目的性和参与性（避免人在心不在）。不预制仪式性的强迫方式和人造出来的议程（不用旧时间线的议程束缚当下流动），能保证成员对会议内容的兴趣是真实而当下临在的。
 
 
-  #### *All-hands meetings*
+  #### *全体会议*
 
 
-  All-hands meetings may be scheduled when there is a new and important information to share: quarterly results, the annual values survey, a strategic inflection point, and so forth. The information is not simply 'presented' top-down – it is discussed and debated. Questions can take the meeting in any direction; frustrations can be vented; accomplishments spontaneously celebrated. More is at play than simply information exchange. Trust in the organization, and its values, is being tested and reaffirmed. Will the senior people be candid, humble, and vulnerable? Will they face the difficult questions? Will they involve the whole group?
+  当蔚蓝组织有新的重要的信息要分享时，就会安排全员参加的会议：季度业绩、年度价值观调查、战略拐点等等。在会上，信息并不是简单的自上而下“呈现”，而是展开真正的讨论和辩论。允许提问机制把会议带向任何方向；有挫折可以发泄；有成就可以自发庆祝。会议效果不仅仅是信息交换，还涉及到更多的有益能量（培养见证成员和组织的完整性）。成员对组织及其价值观的信任，能在会议中受到考验和重申。资深成员会坦诚、谦虚、脆弱吗？他们会直面这些难题吗？他们会允许整个团队都参与吗？
 
 
-  In contrast, all-hands meetings in traditional companies tend to be presentation-driven--or otherwise avoided because of their unpredictability, and risk. 
+  与此对比，传统组织的全体会议则通常倾向于领导作报告为主。或者干脆避免全体会议，因恐惧这类会议（特别是允许成员人人发言时）的不可预测性和失控风险。
 
 
   #### *Form follows function: meetings emerge on an ad hoc basis*
