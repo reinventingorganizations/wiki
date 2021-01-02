@@ -134,7 +134,7 @@ inPractice: >-
   例如：
 
 
-  * Team [decision-making ](../decision-making/)meetings at [Buurtzorg ](http://www.buurtzorgnederland.com/)
+  * 团队[决策](../decision-making/)会议 [布尔佐格](http://www.buurtzorgnederland.com/)
 
   * Holocratic Governance vs. Tactical meetings at [HolocracyOne ](http://www.holacracy.org/)
 
