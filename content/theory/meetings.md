@@ -153,7 +153,7 @@ inPractice: >-
   * 表扬会 [ESBZ ](http://www.ev-schule-zentrum.de/aktuell/)
 
 
-  #### Highlighting sense of wholeness and purpose
+  #### 突出整体感和使命感
 
 
   Meetings bring out the best and the worst of human nature.
