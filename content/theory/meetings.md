@@ -40,15 +40,15 @@ perspective: >-
   开会的目的包括：
 
 
-  * Reporting progress and making decisions. 
+  * 报告进展并作出决定。
 
-  * Planning
+  * 计划。
 
-  * To innovate through brainstorming and other creative processes.
+  * 通过头脑风暴和其他创造性活动创新。
 
-  * Gaining approval for investments and other important decisions
+  * 审批投资和其他重要决策。
 
-  * Determining priorities, and so on.
+  * 确定优先级，等等。
 
 
   As these meetings proliferate, they become the 'diary-filler' for busy senior executives. Until relatively recently, this often meant significant travel for some of those employed by international organizations.
