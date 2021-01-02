@@ -22,6 +22,6 @@ name: Translations
 
 ![](/media/flagfrance.png)      French Wiki <https://fr.reinventingorganizationswiki.com/>
 
-![](/media/flagrussia.jpg)      Russian Wiki [https://ru.reinventingorganizationswiki.com/](<https://ru.reinventingorganizationswiki.com/>)
+![](https://reinventingorganizations-wiki.netlify.app/media/flagrussia.jpg)      Russian Wiki <https://ru.reinventingorganizationswiki.com/>
 
-![](/media/flagchina.jpg)    中文简体 <https://cn.reinventingorganizationswiki.com/>
+![](/media/flagchina.jpg)       中文简体 <https://cn.reinventingorganizationswiki.com/>
