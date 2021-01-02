@@ -159,7 +159,7 @@ inPractice: >-
   会议可以展示人性精华的一面，也可能揭出人性糟糕的一面。
 
 
-  In the best, they are places where others help us listen in to what we really care about. But meetings can also be playfields for egos. To feel safe, some seek to dominate proceedings. Others withdraw. In self-managingorganizations the absence of a boss takes some of these fears out of the room. But in a group of peers egos can dominate just as well. A variety of approaches support productive interactions consistent with [整体性](/wholeness/)和[目标](../listening-to-purpose/)。
+  最佳状态的会议，可以成为让其他人帮助我们倾听自己真正关心什么的场所。但会议也可能成为高傲虚荣的展示场。有些人为了获得安全感（而陷入人性弱点彰显）而尝试控制会议进程，有些人则选择退避（没有真正参加）。在自我管理的组织中，会议没有上司参加，所以会让这类恐惧得以缓解。但即使只是一群同事开会，虚荣人格也可能占据主导地位。蔚蓝组织在实践中摸索出很多方法，能更好的支持积极有效的、能培育[整体性](/wholeness/)和通道和[目标](../listening-to-purpose/)感的互动。
 
 
   #### Training in meeting practices
