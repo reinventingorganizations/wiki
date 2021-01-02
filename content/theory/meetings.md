@@ -188,20 +188,20 @@ inPractice: >-
   * 另一个做法，是一分钟的沉默和/或一个笑话。
 
 
-  #### Keeping on track
+  #### 不跑题
 
 
-  Additional practices to keep intention and attention in the meeting:
+  保持会议目标和注意力的其他一些尝试：
 
 
-  * A volunteer holds of a pair of tingsha bells (two small hand cymbals that can make a crystal-like sound). If the holder feels ground rules are not being respected, she can make the cymbals sing. No one may speak until the cymbal sound has died out. During the silence, all can reflect on the question: "Am I in the service to the topic we are discussing?”  
+  * 指定志愿者拿着一对丁沙钟（两个可以发出水晶般声音的小手钹）。如果持有者觉得基本规则没有得到尊重，可以敲钹叫停。在钹声彻底消失之前，任何人都不能讲话。在沉默中，所有人都可以反思这个问题：“我是否在为正在讨论的话题做贡献？”
 
-  * Some use a 'talking stick' or other artifact to regulate turn-taking, slow down the speed of conversation, and increase the quality of listening. 
+  * 有些组织则使用“话语指挥棒”或其他物件来调节话题节奏转换，减慢讲话速度，提高聆听质量。
 
-  * A facilitator may be used when there are specific requirements to fulfil. This may be an external facilitator in some circumstances.  
+  * 当会议要满足某个特定需求时，也可以启用主持人。在某些情况下，这可能是一个来自团队外部的人。 
 
 
-  #### Ending meetings
+  #### 结束会议
 
 
   Check-out rounds at the end of the meeting are a natural complement to the initial check-in round. They leave everyone with a sense of the impact of the meeting. A moment of silence is another way to reflect and conclude.  
