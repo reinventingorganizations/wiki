@@ -63,26 +63,26 @@ perspective: >-
   [绿色组织](../green-paradigm-and-organizations/)的目标是，本着平等、尊重和包容原则为多个利益相关者服务。所以就需要与这些方位开会。共识很有价值，但要达成共识可能会很辛苦。
 
 
-  Meetings are not only about planning and reporting (as in Orange organizations), but are also about sustaining a sense of ownership, inclusion and empowerment: in other words, creating a values-based culture.  As a result, meeting practices tend to be more attentive to the underlying processes within the group.
+  会议不仅为了（如在橙色组织那样）计划和汇报，同时也是为了催化主人翁责任感、包容感和赋权感：换句话说，就是创造一种基于价值观的文化。因此，会议活动往往更关注团队内部的基本流程。
 
 
-  ### Teal organizations
+  ### 蔚蓝组织
 
 
-  [Self-organization ](../self-management/)allows members of [Teal organizations](../teal-paradigm-and-organizations/) to take responsibility for making decisions without the need for approval or consensus. As a result there are usually far fewer meetings required.
+  [自我管理](../self-management/)允许[蔚蓝组织](../teal-paradigm-and-organizations/)的成员在不需要批准或协商取得一致共识的情况下就能负责任的主持决策。因此，所需的会议通常要少得多。
 
 
-  Meetings tend to be held only when they are necessary. Reasons include:
+  会议往往只在必要时举行。主要包括：
 
 
-  * Seeking advice when this is required by the advice process
+  * 根据建议流程的需要寻求建议
 
-  * Sharing information
+  * 共享信息
 
-  * Responding to changing circumstances
+  * 应对不断变化的环境
 
 
-  Meetings usually incorporate specific practices to ensure that members engage with each other and the purpose of the meeting in a respectful and productive way. New joiners are typically trained in these processes so they can participate fully.
+  蔚蓝会议通常遵照一些具体的规则，以确保成员以相互尊重和富有成效的方式充分触及彼此并达成会议的目的。新加入者通常在这些过程中得到培训，以便学会如何能够充分参与蔚蓝会议。
 inPractice: >-
   #### *Meeting activity is limited and arises from the 'need to meet'*
 
