@@ -12,7 +12,7 @@ name: Teal Concepts
 * [完整人性](https://cn.reinventingorganizationswiki.com/theory/wholeness/)
 * [进化目标](https://cn.reinventingorganizationswiki.com/theory/evolutionary-purpose/)
 
-## [更多阅读](https://cn--reinventingorganizations-wiki.netlify.app/pages/tealpractices/)......
+## [更多阅读](https://cn.reinventingorganizationswiki.com/pages/tealpractices/)......
 
 ![](/media/1_018-small.png)
 
