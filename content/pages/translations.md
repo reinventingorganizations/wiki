@@ -2,13 +2,15 @@
 layout: content
 name: Translations
 ---
-### This wiki can easily host branches with local languages
+### 多语言
 
-Please [let us know](https://reinventingorganizationswiki.com/pages/how-can-you-contribute/) if you feel an impulse to start translating, we will help you setting it up.
+### 此维基知识库可以支撑很多本地语种分支
+
+如果您感觉到进行本地语言版本制作的呼唤，请[联系我们](https://reinventingorganizationswiki.com/pages/how-can-you-contribute/)，我们可以协助您启动。
 
 ![](/media/languages-write.jpg)
 
-### Here are the translations of this Wiki that are available …
+### 目前已经完成的语种有 …
 
 ![](https://cn--reinventingorganizations-wiki.netlify.app/media/flagGreatBritainXXS.png)      English Wiki [](https://reinventingorganizationswiki.netlify.app/)<https://reinventingorganizationswiki.com/>
 
@@ -16,10 +18,10 @@ Please [let us know](https://reinventingorganizationswiki.com/pages/how-can-you-
 
 ![](/media/flagspain.jpg)      Spanish Wiki <http://www.reinventarlasorganizacioneswiki.com/>
 
-### … or in progress
+### … 并正在推出
 
 ![](/media/flagfrance.png)      French Wiki <https://fr.reinventingorganizationswiki.com/>
 
 ![](/media/flagrussia.jpg)      Russian Wiki [https://ru.reinventingorganizationswiki.com/](<https://ru.reinventingorganizationswiki.com/>)
 
-![](/media/flagchina.jpg)       Chinese Wiki <https://cn.reinventingorganizationswiki.com/>
+![](/media/flagchina.jpg)    中文简体 <https://cn.reinventingorganizationswiki.com/>
