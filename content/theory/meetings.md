@@ -25,16 +25,16 @@ perspective: >-
   在[红色组织](../red-organizations/)中，只是在首领或老板认为有必要时举行会议。会议目的可能是为了发布信息、传达判决或举行仪式。有时也会为了寻求建议或收集信息而开会。
 
 
-  ### Amber organizations
+  ### 琥珀组织
 
 
-  In [Amber organizations](https://reinventingorganizations-wiki.netlify.app/theory/amber-paradigm-and-organizations/), meetings are an important method of hierarchical control. They are used to gather, distill, and pass information up and down the organization. The highest-ranking person is in charge. It is incumbent on the others to be prepared to report information or provide answers as required.  
+  在[琥珀组织](https://reinventingorganizations-wiki.netlify.app/theory/amber-paradigm-and-organizations/)中，会议是一种重要的层级控制方法。用于收集、提炼并在组织中上下层级间传递信息。会议负责人是参会者中最高级别的领导。其他人有责任按要求准备汇报或回答用的信息。
 
 
-  ### Orange organizations
+  ### 橙色组织
 
 
-  [Orange organizations](https://reinventingorganizations-wiki.netlify.app/theory/orange-paradigm-and-organizations/) manage performance carefully to ensure that targets and goals are achieved. This requires regular (weekly/monthly/quarterly/annual) meetings at most levels in the organization.
+  [橙色组织](https://reinventingorganizations-wiki.netlify.app/theory/orange-paradigm-and-organizations/) manage performance carefully to ensure that targets and goals are achieved. This requires regular (weekly/monthly/quarterly/annual) meetings at most levels in the organization.
 
 
   Meetings are held for many reasons :
