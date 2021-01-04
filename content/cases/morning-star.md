@@ -84,10 +84,11 @@ theory:
       Gaining Agreement”, which supports parties in finding agreement. Mediators
       may be called in for support, but they cannot impose a resolution from
       above.
-    content: "Within Morning Star, there are 23 teams (called Business Units), but
-      no management positions and no HR department. Colleagues operate entirely
-      on self-managing principles that were established early in its history .
-      When the first tomato processing factory was built, Chris Rufer and the
+    content: >-
+      Within Morning Star, there are 23 teams (called Business Units), but no
+      management positions and no HR department. Colleagues operate entirely on
+      self-managing principles that were established early in its history . When
+      the first tomato processing factory was built, Chris Rufer and the
       company’s first employees met to define how they wanted to work together.
       They decided that two basic social values should inspire every management
       practice at Morning Star: individuals should never use force against other
@@ -99,40 +100,22 @@ theory:
       any type of disagreement. This could be a difference of opinion about a
       technical decision, an interpersonal conflict or a breach of values.
       Specifically, it can be used in performance issues when one colleague
-      believes that another is not pulling his weight.\r
+      believes that another is not pulling his weight.
 
-      \r
 
-      Whatever the topic, the process starts with one person asking
-      another to gain agreement: In a first phase, they sit together and try to
-      sort it out privately. The initiator has to make a clear request (not a
-      judgment, not a demand), and the other person has to respond clearly to
-      the request (with a “yes,” a “no,” or a counterproposal).\r
+      Whatever the topic, the process starts with one person asking another to gain agreement: In a first phase, they sit together and try to sort it out privately. The initiator has to make a clear request (not a judgment, not a demand), and the other person has to respond clearly to the request (with a “yes,” a “no,” or a counterproposal).
 
-      \r
 
-      If they can’t find a solution agreeable to both of them, they
-      nominate a colleague they both trust to act as a mediator. The colleague
-      supports the parties in finding agreement but cannot impose a
-      resolution.\r
+      If they can’t find a solution agreeable to both of them, they nominate a colleague they both trust to act as a mediator. The colleague supports the parties in finding agreement but cannot impose a resolution.
 
-      \r
 
-      If mediation fails, a panel of topic-relevant colleagues is
-      convened. The panel’s role, again, is to listen and help shape agreement.
-      It cannot force a decision, but usually carries enough moral weight for
-      matters to come to a conclusion.\r
+      If mediation fails, a panel of topic-relevant colleagues is convened. The panel’s role, again, is to listen and help shape agreement. It cannot force a decision, but usually carries enough moral weight for matters to come to a conclusion.
 
-      \r
 
-      In an ultimate step, Chris Rufer, the founder and president, can be
-      called into the panel, to further reinforce the panel’s moral weight.
-      Since the disagreement is private, all parties are expected to respect
-      confidentiality during and after the processes. Of course, this
-      confidentiality also applies to the two persons at the heart of the
-      conflict. They must resolve their disagreement between themselves and are
-      discouraged from spreading the conflict by enlisting support and building
-      rival factions."
+      In an ultimate step, Chris Rufer, the founder and president, can be called into the panel, to further reinforce the panel’s moral weight. Since the disagreement is private, all parties are expected to respect confidentiality during and after the processes. Of course, this confidentiality also applies to the two persons at the heart of the conflict. They must resolve their disagreement between themselves and are discouraged from spreading the conflict by enlisting support and building rival factions.
+
+
+      See also Corporate Rebels article on Morning Star "Handle Conflicts with the Accountability Process" at <https://corporate-rebels.com/accountability-process/>
   - topic: Recruitment
     title: Recruitment in Morning Star is a very demanding process, generally
       including a multitude of interviews and a battery of diagnostics.
