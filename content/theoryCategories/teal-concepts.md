@@ -1,5 +1,5 @@
 ---
 key: teal-concepts
-name: Teal Concepts
+name: Teal concepts
 tags: theoryCategories
 ---
