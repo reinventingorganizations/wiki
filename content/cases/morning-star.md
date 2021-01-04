@@ -52,7 +52,7 @@ theory:
       (Kindle Locations 2394-2395). Nelson Parker. Kindle Edition.]
 
 
-      Another key mechanism for coordination at Morningstar is the Colleague Letter of Understanding (or simply CLOU). See “[Role Definition and Allocation](../role-definition-and-allocation/)" and then Concrete examples for inspiration”/”Morningstar”.
+      Another key mechanism for coordination at Morningstar is the Colleague Letter of Understanding (or simply CLOU). See “[Role Definition and Allocation](https://reinventingorganizationswiki.com/theory/role-definition-and-allocation/)" and then Concrete examples for inspiration”/”Morningstar”.
   - topic: Role Definition and Allocation
     title: A formal process for defining and allocating roles which takes place once
       each year
