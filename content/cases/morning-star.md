@@ -78,7 +78,10 @@ theory:
       In a continuous process like Morning Star’s, each person in the chain receives tomatoes or paste in some form from someone upstream and delivers them in another form to someone downstream. This might explain why colleagues at Morning Star chose to discuss the CLOUs, once written or updated, not in a team setting but in a series of one-on-one discussions with colleagues up and downstream. 
 
 
-      Here is a [sample CLOU document](http://reinventingorganizationswiki.com/index.php?action=ajax&title=-&rs=SecureFileStore::getFile&f=/a/a9/MorningStar_Sample2011_CLOU.pdf). A more detailed discussions of CLOUs can be found [here](http://www.managementexchange.com/story/colleague-letter-understanding-replacing-jobs-commitments).^\[Source: http://www.managementexchange.com/story/colleague-letter-understanding-replacing-jobs-commitments]
+      Here is a [sample CLOU document](http://reinventingorganizationswiki.com/index.php?action=ajax&title=-&rs=SecureFileStore::getFile&f=/a/a9/MorningStar_Sample2011_CLOU.pdf) *(link to be fixed*). A more detailed discussions of CLOUs can be found [here](http://www.managementexchange.com/story/colleague-letter-understanding-replacing-jobs-commitments).^\[Source: http://www.managementexchange.com/story/colleague-letter-understanding-replacing-jobs-commitments]
+
+
+      <https://corporate-rebels.com/morning-star/> article on Corporate rebels blog describes the conditions for the proper functioning of self-management at Morning Star
   - topic: Conflict resolution
     title: Use a conflict resolution process called the “Direct Communication and
       Gaining Agreement”, which supports parties in finding agreement. Mediators
