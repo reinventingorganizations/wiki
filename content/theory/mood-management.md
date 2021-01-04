@@ -16,7 +16,7 @@ perspective: >-
   #### 红色组织
 
 
-  在[红色组织](../red-organizations/)mood management boils down to submission to the mood of the (tribal) chief and his “family”. They oversee the foot soldiers. Fear and submission keep the organization from disintegrating. 
+  在[红色组织](../red-organizations/)中，情绪管理可以归结为屈从于（部落）首领及其“家人或亲信”的情绪。他们负责监督部下。恐惧和顺从让组织免于解体。
 
 
   #### 琥珀组织
