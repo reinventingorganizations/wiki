@@ -216,6 +216,9 @@ theory:
 
 
       Morning Star’s experience is that people prove to be remarkably skillful at assessing a fair compensation for themselves. In any given year, roughly a quarter of people choose salary increases above the cost-of-living adjustment. Only a handful of people throughout the company receive feedback that they might have aimed too high. ^[Gary Hamel, “First, Let’s Fire All the Managers,” Harvard Business Review, December 2011, [http://hbr.org/2011/12/first-lets-fire-all-the-managers](https://hbr.org/2011/12/first-lets-fire-all-the-managers). and interviews Frederic Laloux at Morning Star Self-Management Institute.]
+
+
+      Corporate Rebels article on self-set salaries describes the compensation committee at Morning Star <https://corporate-rebels.com/self-set-salaries/>
   - topic: Purchasing and Investments
     title: Morning Star implemented a strong performance evaluation process, which
       includes a view on the effectiveness of using company resources and an
