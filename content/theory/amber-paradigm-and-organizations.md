@@ -31,19 +31,19 @@ intro: >-
   琥珀意识培养了用来感受和感知他人的更深层次意识。儿童心理学家的先驱皮亚杰给出过一个关于琥珀认知的实验。把一个双色的球放在儿童和成人之间，绿色的一面对着儿童，红色的一面对着成人。在琥珀色阶段之前，孩子还不能从别人的角度看世界，他会声称他和大人都看到了一个绿色的球。在六、七岁左右的时候，一个在滋养意识成长环境中长大的孩子，将学会通过别人的眼睛看世界，并能正确识别成年人看到了球的红色一面。从心理上讲，这个意识飞跃的影响很巨大。我可以认同我的观点和我的角色，并知道这与你的不同。我也能想象别人对我的看法。此时，我的自我和自我价值感在很大程度上是建立在别人观点上的。我会争取得到认可和接受，并在我的社交圈中占据一席之地。在这个阶段，人们已经会内化群体规范，思维的基础取决于一个人是否符合群体规范的外表、行为和相应的思想。红色阶段的二元思维依然健在，但基于个人主义的“按照我的方式，还是你的方式”被基于集体主义的“按照我们的方式，还是他们的方式”所取代。红色的自我中心主义已经让位给琥珀色的种族中心主义。肯·威尔伯这样说：关心和关注从我扩展到了整个团队——但并没有进步太多！如果你是这个团体的一员——是我的神话，我的意识形态的一员——那么你就能“得救”。但是如果你属于不同的文化，不同的群体，不同的神话，不同的上帝，那么你就该死。^\[Ken Wilber, A Brief History of Everything (Boston: Shambhala Publications, 1996), 273.]
 
 
-  ##### Self discipline and authority
+  ##### 自律与权威
 
 
-  In Amber, the formerly impulsive Red self is now able to exercise self-discipline and self-control, not only in public but also in private. Amber societies have simple morals based on one accepted, right way of doing things. The Amber worldview is static: there are immutable laws that make for a just world, where things are either right or wrong. Do what’s right and you will be rewarded, in this life or the next. Do or say the wrong things, and you will be punished or even rejected from the group―and possibly suffer in the hereafter. People internalize the rules and morality and feel guilt and shame when they go astray. Authority to define what is right and wrong is now linked to a role, rather than to a powerful personality (as was the case in Red); it’s the priest’s robe, whoever wears it, that defines authority.
+  在琥珀意识中，不再表达以前那种红色的冲动自我，现在不仅在公共场合，而且在私人场合也都能自律和自制。琥珀社会的基础是一个简单的被集体接受的，按照正确方式做事的道德标准。琥珀色的世界观是静态的：有不变的法律，保障一个公正的世界，事情只有对和错两种可能。做正确的事，你会得到回报，今生或来世。做错事或说错话，你会受到惩罚，甚至会被拒绝——并且可能在以后遭受痛苦。人们内化了规则和道德，所以当误入歧途时会感到内疚和羞耻。这个阶段定义是非的权威，不再（如红色那样）与一个强大的人格联系在一起，而是与一个岗位角色联系在一起；定义权威的是牧师的长袍，与谁穿着它无关。
 
 
-  Amber societies tend to be highly stratified, with social classes or caste systems and rigid gender differences as defining features. A lottery at birth defines what caste you are born into. From there, everything is mapped out for you―how you are to behave, think, dress, eat, and marry is in accordance with your caste.
+  琥珀社会往往是高度分层的，分类标准是社会阶级或种姓制度和僵化的性别差异。出生时如运数抽签般决定着你的阶级。从那以后，一切都为你准备好了——你的行为、思想、衣着、饮食和婚姻都与你的种姓一致。
 
 
-  With so much in flux in the world today, some find Amber certainties an appealing refuge and call for a return to a fixed set of moral values. To take that perspective is to ignore the massive inequality of traditional societies that set strict social and sexual norms. It can be unpleasant, to say the least, to be a woman, a homosexual, an untouchable, or a free thinker in an Amber society.
+  因为当今世界变化如此之大，一些人认为琥珀色的确定性是一个吸引人的庇护所，并呼吁回归一套固定的道德价值观。从这个角度考虑，就等于无视了传统社会化通过制定严格的社会分层和性别规范，而带来的巨大不平等。至少可以说，在一个琥珀模式的社会里，做一个女人，同性恋者，不合群的人，或者一个自由的思想家，都会是不愉快的。
 
 
-  #### Breakthroughs and characteristics of Amber organizations
+  #### 琥珀组织的突破与特点
 
 
   The advent of Amber organizations brought about two major breakthroughs: organizations can now plan for the medium and long term, and they can create organizational structures that are stable and can scale. Combine these two breakthroughs, and you get organizations able to achieve unprecedented outcomes, beyond anything Red organizations could have even contemplated. Historically, Amber organizations are the ones that have built irrigation systems, pyramids, and the Great Wall of China. Amber organizations ran the ships, the trading posts, and the plantations of the Colonial world. The Catholic Church is built on this paradigm―arguably it has been the defining Amber organization for the Western world. The first large corporations of the Industrial Revolution were run on this template. Amber organizations are still very present today: most government agencies, public schools, religious institutions, and the military are run based on Amber principles and practices.
