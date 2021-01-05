@@ -6,14 +6,14 @@ name: 琥珀模式与组织
 sortOrder: 3
 category: history
 intro: >-
-  意识的琥珀阶段^\[这一阶段对应于格布瑟所说的“神话”，洛文杰、库克格雷特和韦德的“墨守成规”，格雷夫斯的“DQ”，螺旋动力学派的“蓝色”，克根的“人际关系”，托伯特的“外交官”和“专家”，皮亚哥特的“实用操作”以及其他一些人的学说。]
+  意识的琥珀阶段^\[这一阶段对应于格布瑟所说的“神话”，洛文杰、库克格雷特和韦德的“墨守成规”，格雷夫斯的“DQ”，螺旋动力学派的“蓝色”，克根的“人际关系”，托伯特的“外交官”和“专家”，皮亚杰的“实用操作”以及其他一些人的学说。]
   将人类组织发展到一种能以前所未有的规模运作的形态。琥珀催化了官僚机构、联邦国家和民族国家的形成，其中许多组织已经存在了好几个世纪。琥珀组织力求稳定，其特点是在等级结构中定义有明确的角色和等级。通过指挥和控制来实现领导权，整个组织都需要服从。通过规则和程序来实现稳定和秩序。不鼓励创新，不欢迎竞争。最主要的比喻是军队。但也许最重要的琥珀组织是天主教会。
 
 
   ![](/media/amber.jpg)
 
 
-  #### Amber stage of consciousness
+  #### 琥珀意识阶段
 
 
   Every paradigm shift opens up unprecedented new capabilities and possibilities. When Amber consciousness emerged, humankind leaped from a tribal world subsisting on horticulture to the age of agriculture, states and civilizations, institutions, bureaucracies, and organized religions. According to developmental psychologists, a large share of today’s adult population in developed societies operates from this paradigm. At the Amber stage, reality is perceived through Newtonian eyes. Cause and effect are understood.
