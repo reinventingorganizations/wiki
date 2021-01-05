@@ -15,28 +15,28 @@ intro: >-
   #### 绿色意识阶段
 
 
-  Green is aware of Orange’s shadow: materialism, social inequality, and the loss of community. Green is sensitive to people’s feelings: all perspectives deserve respect. It seeks community, cooperation, and consensus. Individuals strive to belong—to foster harmonious bonds with everyone.
+  绿色意识到了橙色的一些缺点：唯物主义、社会不平等以及和谐区氛围的丧失。绿色对人们的感受很敏感：认为所有的观点都值得尊重。寻求社区、协作和共识。个人在归属感角度积极努力，争取与每个人建立和谐的关系。
 
 
-  In industrialized countries, in the late 18th and 19th centuries, a small circle operating from Green championed the abolition of slavery, women’s liberation and democracy. Ken Wilber puts it this way:
+  在18世纪末和19世纪工业化国家里，出现了一个由绿色组织运作的小圈子，倡导废除奴隶制、妇女解放和民主。肯·威尔伯这样说：
 
 
-  *With the shift to reason and worldcentric morality, we see the rise of the modern liberation movements…what is fair and right and just for all humans, regardless of race, sex, or creed.*
+  随着对理性和以世界为中心之道德观的转变，我们看到了现代解放运动的兴起……对所有人类都应该公平、正确和公正，不分种族、性别或信仰。
 
 
-  *…In a mere hundred-year period..,from 1788 to 1888, slavery was outlawed…from every rational-industrial society. In (earlier paradigms) slavery is perfectly acceptable, because equal dignity and worth are not extended to all humans, but merely to those of your tribe.*
+  ……在短短一百年的时间里，从1788年到1888年，奴隶制度……在每一个理性的工业社会都已经变得非法。在（早期的范式中）奴隶制是完全可以接受的，因为平等的尊严和价值并不能延伸到所有人身上，而仅仅延伸到自己部落的人身上。
 
 
-  *For almost identical reasons, we would see the rise of feminism and the women’s movement on a culture-wide scale…Democracy, too, was radically novel… Let us remember that in the Greek “democracies,” one out of three people were slaves, and women and children virtually so.*^\[Often in history we find ideas, like democracy in ancient Greece, ahead of their times, meaning ahead of the developmental center of gravity of people at that moment in time. To flourish, these ideas have to wait for evolution to catch up with them, to provide the right “cultural womb” as the American philosopher Richard Tarnas calls it: A big question here is why did the Copernican Revolution happen in the sixteenth century, with Copernicus himself, and in the early seventeenth century, with Kepler and Galileo? Why did it take until then, when a number of people prior to Copernicus had hypothesized the heliocentric universe and a planetary earth? There’s evidence of this being proposed among the ancient Greeks and in India and Islamic cultures during the European Middle Ages. I think this question shows the extent to which a major paradigm shift depends on more than just some additional empirical data and more than just a brilliant new theory using a new concept. It really depends on a much larger context so that the seed of a potentially powerful idea falls on a whole different soil, out of which this organism, this new conceptual framework, can grow—literally a “conception” in a new cultural and historical womb or matrix. Richard Tarnas and Dean Radin, “The Timing of Paradigm Shifts,” Noetic Now, January 2012.]
+  出于几乎相同的原因，我们将看到女权主义和妇女运动在文化范畴的兴起……民主也是一种全新的形式……我们都记得，在希腊“民主政体”中，三分之一的人是奴隶，而妇女和儿童实际上也等于是奴隶。^\[Often in history we find ideas, like democracy in ancient Greece, ahead of their times, meaning ahead of the developmental center of gravity of people at that moment in time. To flourish, these ideas have to wait for evolution to catch up with them, to provide the right “cultural womb” as the American philosopher Richard Tarnas calls it: A big question here is why did the Copernican Revolution happen in the sixteenth century, with Copernicus himself, and in the early seventeenth century, with Kepler and Galileo? Why did it take until then, when a number of people prior to Copernicus had hypothesized the heliocentric universe and a planetary earth? There’s evidence of this being proposed among the ancient Greeks and in India and Islamic cultures during the European Middle Ages. I think this question shows the extent to which a major paradigm shift depends on more than just some additional empirical data and more than just a brilliant new theory using a new concept. It really depends on a much larger context so that the seed of a potentially powerful idea falls on a whole different soil, out of which this organism, this new conceptual framework, can grow—literally a “conception” in a new cultural and historical womb or matrix. Richard Tarnas and Dean Radin, “The Timing of Paradigm Shifts,” Noetic Now, January 2012.]
 
 
-  So, In the late 18th and 19th centuries, a small elite profoundly shaped Western thinking. In the 20th century, the numbers grew. While Orange is predominant today in business and politics, Green is very present in academic thinking, nonprofits, social work and community activity.
+  因此，在18世纪末和19世纪，一小部分精英塑造了深刻的西方思想。到了20世纪，参与人数在增长。虽然橙色在今天的商业和政治中占主导地位，但绿色在学术思考、非营利组织、社会工作和社区活动领域中非常普遍。
 
 
-  From this perspective, relationships are valued above outcomes. Rather than make decisions from top-down, Green favours collaborative, bottom-up processes, and trying to bring opposing points of view to consensus. Orange glorifies decisiveness. Green requires leaders to be in service of those they lead. This stance is noble, generous, and empathic. In light of continuing inequality and discrimination, there must be more to life than the self-centered pursuit of career and success.
+  从绿色角度来看，人际关系的价值高于结果。与其自上而下的做决定，绿色更喜欢协作式的、自下而上的过程，并试图让对立的观点达成共识。橙色美化果断。绿色要求领导者为被领导者服务。这种立场是高尚、慷慨和慈悲心。在持续的不平等和歧视环境中，除了追求以自我为中心的事业和成功，人的生活中产生了更多的需求（自由，快乐等）。
 
 
-  Yet this stage has its contradictions. It tries to treat all perspectives equally and gets stuck when others abuse its tolerance to intolerant ideas. Red egocentricity, Amber certainty, and Orange see this as Green idealism. Green’s relationship to rules is ambiguous: on the one hand, rules are arbitrary and unfair, but doing away with them proves impractical. Green is powerful as a paradigm for breaking down old structures, but often less effective at formulating practical alternatives.
+  然而，这个阶段还存在着一些矛盾点。试图平等的对待所有观点，就会有人滥用人们对不宽容想法的高尚容忍，因而令高尚者陷入困境。红色的自我中心主义，琥珀色的确定性，以及橙色，都认为这是绿色的理想主义（不现实）。绿色与规则的关系是模棱两可的：一方面，认为规则是武断和不公平的，但也知道废除这些规则是不切实际的。绿色是打破旧结构的一个范例，但在制定切实可行的替代方案角度，往往不那么有效。
 
 
   #### Breakthroughs and characteristics of Green organizations
