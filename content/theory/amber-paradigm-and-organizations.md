@@ -64,16 +64,16 @@ intro: >-
   ##### 琥珀突破2：规模和稳定性（固定的等级制度）
 
 
-  In Red organizations, power structures are in constant flux as personalities jockey for influence. Amber organizations bring stability to power, with formal titles, fixed hierarchies, and organization charts. The overall structure settles into a well defined hierarchy. The plant manager is in charge of the department heads, who in turn oversee unit managers, line managers, foremen, and operators. Personal allegiance to the chief is no longer needed because everyone knows where they fit in the hierarchy. Much larger organizations become possible, spanning not hundreds but thousands of workers, and they can operate across vast distances. Mankind’s first global organizations―from the Catholic Church to the East India Company―were built on a Amber template.
+  在红色组织中，权力结构是不断变化的，因为不同的个人在争夺影响力。琥珀组织带来了权力的稳定，出现了正式的头衔，固定的等级制度和组织结构图。整个组织形成了一个明确的层次结构。工厂经理指挥部门主管，部门主管依次监督部门经理、直线经理、工头和操作员。不再需要对酋长的个人效忠，因为每个人都知道自己在等级制度中的位置。更大的组织规模成为可能，可涵盖的不只数百人，而是数千人，可以跨越很远的距离进行运作。人类最早的全球性组织——从天主教堂到东印度公司——都建立在琥珀模板上。
 
 
-  Planning and execution are strictly separated: the thinking happens at the top, the doing at the bottom. Decisions made at the top get handed down through successive layers of management. Control is maintained through compliance with rules and procedures. Leaders at all levels are given responsibility for compliance and can discipline those found wanting..
+  计划和执行严格分开：思想发生在顶层，行动发生在底层。高层所做的决定通过连续的管理层下达。通过遵守规则和程序维持控制。各级领导都有责任遵守法规，并可以用规则来约束那些被发现有缺陷的人。
 
 
-  The underlying worldview is that workers are mostly lazy, dishonest, and in need of direction. They must be supervised and told what is expected of them. Participatory management seems foolish from an Amber perspective; management must rely on command and control to achieve results. Jobs at the frontlines are specific and often routine. Innovation, critical thinking, and self-expression are not asked for (and are often discouraged). Information is shared on an as-needed basis. People are effectively interchangeable resources.
+  潜在的琥珀世界观是，工人大多懒惰、不诚实，需要指导。必须监督他们，需要有人提醒组织对他们的期望内容。从琥珀的角度来看，参与式管理似乎很愚蠢；管理必须依靠指挥和控制才能取得成果。前线的工作很具体，而且经常是例行公事。创新、批判性思维和自我表达是不被鼓励的（其实是常常被劝阻）。根据需要共享信息。认为人是可替代的有效资源。
 
 
-  From the vantage point of later stages, this might sound severely limiting. But as a step up from Red, it is major progress. Even people at the bottom of the organization feel that the predictability of routine work is liberating compared to the constant vigilance required in Red organization.. We no longer need to watch out for threats and danger that might come unexpectedly from any direction. We just need to follow the rules.
+  站在后期蔚蓝模式的有利条件来看，这些听起来可能带有很大的局限性。但作为红色的下一步，这是个重大进展。即使是组织最底层的人也觉得，与红色组织所要求的持续警觉相比，日常工作的可预见性其实是一种解放。成员不再需要时刻警惕来自任何方向的意外威胁和危险。只需要遵守规则。
 
 
   ##### Amber shadow: the social mask
