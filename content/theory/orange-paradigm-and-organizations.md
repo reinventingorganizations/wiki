@@ -37,7 +37,7 @@ intro: >-
   这个阶段的世界观是绝对的唯物主义，认为只有看得见摸得着的才真实。橙色的世界观怀疑任何形式的灵性和超越性，因为橙色意识难以相信一些无法通过经验证明或观察到的事物。在这个唯物的世界里，什么都是多多益善（贪婪）。
 
 
-  #### Shadows of the Orange stage of development
+  #### 橙色发展阶段的阴暗面
 
 
   Every paradigm, seen from a more advanced stage, has its shadows. The dark side of the Orange paradigm is hard to ignore: corporate greed, political short-termism, over leverage, over-consumption, and the reckless exploitation of the planet’s resources and ecosystems.
