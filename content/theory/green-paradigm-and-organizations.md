@@ -6,14 +6,10 @@ name: 绿色模式与组织
 sortOrder: 5
 category: history
 intro: >-
-  Green organizations reflect the Green stage of consciousness^\[This stage
-  corresponds to Loevinger’s and Cook-Greuter’s “Individualistic,” Torbert’s
-  “Individualist,” Wade’s “Affiliative,” Graves’ “FS,” Spiral Dynamics’ “Green,”
-  and others; it is often simply referred to as postmodernity.], which strives
-  for harmony, tolerance and equality. While retaining a pyramidal structure,
-  Green organizations focus on empowerment to lift motivation and to create
-  great workplaces. They go beyond the shareholder focus of Orange to embrace
-  all stakeholders. Family is the dominant metaphor.
+  绿色组织对应着绿色意识阶段^\[This stage corresponds to Loevinger’s and Cook-Greuter’s
+  “Individualistic,” Torbert’s “Individualist,” Wade’s “Affiliative,” Graves’
+  “FS,” Spiral Dynamics’ “Green,” and others; it is often simply referred to as
+  postmodernity.]，关键词是平等。在保持金字塔结构的同时，绿色组织注重通过授权提升动力，创造伟大的工作场所。他们超越了橙色聚焦少数股东的缺点，拥抱了所有利益相关者。家庭是最形象的隐喻。
 
 
   ![](/media/green.jpg)
