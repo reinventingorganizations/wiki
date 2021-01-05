@@ -22,13 +22,41 @@
     <ul>
       <li class="c-navigation__level1">
         <button class="c-navigation__level1_toggler c-navigation__level1_link {{ 'is-open' if 'theory' == tags }}" data-component="toggler">
-          {{ 'articles' | translate }}
+          {{ 'practicesArticles' | translate }}
           <svg class="c-toggler__icon c-navigation__toggle_icon"  focusable="false">
             <use xlink:href="#chevron-down"/>
           </svg>
         </button>
         <ul class="c-toggler__target">
-          {% for navigationCategory in collections.theoryNavigation %}
+          {% for navigationCategory in collections.practicesNavigation %}
+            <li class="c-navigation__level2">
+              <button class="c-navigation__level2_toggler {{ 'is-open' if navigationCategory.data.key == category}}"
+                      data-component="toggler">
+                {{ navigationCategory.data.name }}
+                <svg class="c-toggler__icon c-navigation__toggle_icon c-navigation__toggle_icon_small"  focusable="false">
+                  <use xlink:href="#chevron-down-small"/>
+                </svg>
+              </button>
+              <ul class="c-toggler__target">
+                {% for article in navigationCategory.articles %}
+                  <li class="c-navigation__level3 {{ 'is-active' if article.url in page.url }}">
+                    <a href="{{ article.url }}" class="c-navigation__level3_link">{{ article.data.name }}</a>
+                  </li>
+                {% endfor %}
+              </ul>
+            </li>
+          {% endfor %}
+        </ul>
+      </li>
+      <li class="c-navigation__level1">
+        <button class="c-navigation__level1_toggler c-navigation__level1_link {{ 'is-open' if 'theory' == tags }}" data-component="toggler">
+          {{ 'backgroundArticles' | translate }}
+          <svg class="c-toggler__icon c-navigation__toggle_icon"  focusable="false">
+            <use xlink:href="#chevron-down"/>
+          </svg>
+        </button>
+        <ul class="c-toggler__target">
+          {% for navigationCategory in collections.backgroundNavigation %}
             <li class="c-navigation__level2">
               <button class="c-navigation__level2_toggler {{ 'is-open' if navigationCategory.data.key == category}}"
                       data-component="toggler">
