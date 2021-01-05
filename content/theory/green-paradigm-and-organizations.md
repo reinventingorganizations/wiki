@@ -6,10 +6,7 @@ name: 绿色模式与组织
 sortOrder: 5
 category: history
 intro: >-
-  绿色组织对应着绿色意识阶段^\[This stage corresponds to Loevinger’s and Cook-Greuter’s
-  “Individualistic,” Torbert’s “Individualist,” Wade’s “Affiliative,” Graves’
-  “FS,” Spiral Dynamics’ “Green,” and others; it is often simply referred to as
-  postmodernity.]，关键词是平等。在保持金字塔结构的同时，绿色组织注重通过授权提升动力，创造伟大的工作场所。他们超越了橙色聚焦少数股东的缺点，拥抱了所有利益相关者。家庭是最形象的隐喻。
+  绿色组织对应着绿色意识阶段^\[这一阶段对应着洛文格和库克·格雷特的“个人主义”、托伯特的“个人主义”、韦德的“依附性”、格雷夫斯的“FS”、螺旋动力的“绿色”等说法；通常被简单地称为后现代主义。]，关键词是平等。在保持金字塔结构的同时，绿色组织注重通过授权提升动力，创造伟大的工作场所。他们超越了橙色聚焦少数股东的缺点，拥抱了所有利益相关者。家庭是最形象的隐喻。
 
 
   ![](/media/green.jpg)
