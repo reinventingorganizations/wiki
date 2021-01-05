@@ -55,13 +55,13 @@ intro: >-
   #### 橙色组织的突破与特点
 
 
-  Street gangs and mafias are contemporary examples of Red Organizations. The Catholic Church, the military, and the public school system are archetypes of Amber Organizations. Modern global corporations are the embodiment of Orange Organizations. In terms of outcome, Amber Organizations surpassed anything Red Organizations could even contemplate.
+  街头黑帮和黑手党是当代红色组织的例子。天主教会、军队和公立学校系统是琥珀组织的原型。现代跨国公司是橙色组织的体现。就结果而言，琥珀色组织超越了红色组织所能想到的任何东西。
 
 
-  Orange Organizations ratcheted this up another level, achieving results on entirely new orders of magnitude, thanks to three additional breakthroughs: innovation, accountability, and meritocracy.
+  橙色组织将这一点提升到了另一个层次，在全新的数量级上取得了成果，这要归功于三个卓越的突破：创新、责任制和精英管理。
 
 
-  ##### Orange breakthrough 1: Innovation
+  ##### 橙色突破1：创新
 
 
   People operating from the Orange paradigm can live in a world of possibilities; what is not yet, could be one day. They can question the status quo and formulate ways to improve it. Unsurprisingly, leaders of Orange Organizations don’t tire of saying that change and innovation are not threats, but opportunities. Orange Organizations retain a hierarchical pyramid, but create departments such as R&D , Marketing and Product Management to foster and enable innovation. Project and cross–functional teams come together to look at problems and issues in new ways.
