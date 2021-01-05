@@ -40,19 +40,19 @@ intro: >-
   #### 橙色发展阶段的阴暗面
 
 
-  Every paradigm, seen from a more advanced stage, has its shadows. The dark side of the Orange paradigm is hard to ignore: corporate greed, political short-termism, over leverage, over-consumption, and the reckless exploitation of the planet’s resources and ecosystems.
+  对于每一个意识模式而言，如果站在更高级的阶段观察，都能看到其缺点，所以才需要进化。橙色范式的黑暗面很难忽视：企业贪婪、政治短见、过度强调经济杠杆、过度消费以及对地球资源和生态系统不计后果的开采。
 
 
-  Another  shadow is “innovation gone mad.” With most of our basic needs taken care of, businesses increasingly try to create needs, feeding the illusion that more stuff will make us happy and whole.
+  另一个阴影是“创新狂热”。随着我们的基本需求得到满足，企业愈发试图创造需求，给人一种错觉：更多的物质会让我们更快乐、更完整。
 
 
-  A further shadow appears when success is measured solely in terms of money and recognition. When growth and the bottom line are all that count, and when the only successful life is one that reaches the top, people often experience a sense of emptiness in their lives.
+  如果仅仅以金钱和认可度来衡量成功，则会出现更大的阴影。当过度重视成长性及其底线，当把到达顶峰的时刻定义位唯一的成功人生，往往会导致处于非巅峰的99%人生中时，会缺乏成就感而感到空虚。
 
 
-  However, these shouldn’t eclipse the liberation this stage has brought. Making it OK to question authority has allowed us to engage, for the first time, in the pursuit of truth regardless of religious dogma or political authority. We have become capable of questioning and stepping out of the condition we were born into; we are capable of breaking free from the thoughts and behaviors that gender and our social class would have imposed upon us in earlier times.
+  不过，这些阴影不应该掩盖这一阶段所带来的解放。其优点是让我们可以质疑权威，让我们第一次敢不考虑宗教信条或政治权威，而敢于追求真理。我们已经能够质疑并走出自己的出生状态；我们已经能够从性别，以及其他各种在所属社会阶层的早期强加洗脑赋予我们的思想和行为中挣脱出来。
 
 
-  #### Breakthroughs and characteristics of Orange organizations
+  #### 橙色组织的突破与特点
 
 
   Street gangs and mafias are contemporary examples of Red Organizations. The Catholic Church, the military, and the public school system are archetypes of Amber Organizations. Modern global corporations are the embodiment of Orange Organizations. In terms of outcome, Amber Organizations surpassed anything Red Organizations could even contemplate.
