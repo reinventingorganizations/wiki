@@ -76,22 +76,22 @@ intro: >-
   站在后期蔚蓝模式的有利条件来看，这些听起来可能带有很大的局限性。但作为红色的下一步，这是个重大进展。即使是组织最底层的人也觉得，与红色组织所要求的持续警觉相比，日常工作的可预见性其实是一种解放。成员不再需要时刻警惕来自任何方向的意外威胁和危险。只需要遵守规则。
 
 
-  ##### Amber shadow: the social mask
+  ##### 琥珀阴暗面：社交面具
 
 
-  Size and stability become possible because people in Amber are content to stay in their place in return for safety and predictability. People operating from this stage closely identify with their role and position. Amber organizations have invented and generalized the use of titles, ranks, and uniforms to bolster role identification. A bishop’s robe signals that inside is no mere priest. A general’s uniform can hardly be confused with a lieutenant’s or a private’s, even from far away. In factories, the owner, the engineer, the accountant, the foreman, and the machine operator tend to dress differently, even to this day. When we put on our ‘uniform’, we also put on a distinct identity, a social mask. We internalize behaviors that are expected of people with our rank and in our line of work. As a worker, it’s not only that I wear a different clothes to the engineer. I eat in the workers’ mess; he eats in the factory restaurant. And in these places, the subjects of conversation, the jokes, and the type of self-disclosure are vastly different. Social stability comes at the price of wearing a mask, of learning to distance ourselves from our unique nature, from our personal desires, needs, and feelings; instead, we embrace a socially acceptable self.
+  规模和稳定性之所以成为可能，是因为琥珀组织的人们为了换取安全性和可预测性，而满足于呆在自己的位置上。基于这一意识阶段运作的人，都非常认同自己的角色和地位。琥珀组织发明并推广了头衔、军衔和制服机制，以加强角色认同。主教的长袍表明里面的人不再是个牧师。即使在很远的地方，将军的制服也很难与中尉或士兵的制服相混淆。在工厂里，老板、工程师、会计、工头和机器操作员的着装往往各不相同，甚至直到今天依然如此。当我们穿上“制服”时，也会戴上一个独特的身份和社交面具。我们将自己的级别内化，机械的表达着在工作领域中被人期望的行为。作为一名工人，我不仅要和工程师穿不同的衣服。我要在工人食堂吃饭；他则在工厂餐厅吃饭。在这些不同阶层的场所，谈话的主题、笑话、以及自我表露的类型都大不相同。社会稳定的代价是戴上面具，成员要学会远离自己独特的天性，远离自己的个人欲望、需要和感受；相反，我们选择拥抱一个社会上可以接受的自我形象。
 
 
-  Historically, this hierarchical stratification in organizations paralleled social stratification: The roles you could aspire to depended on your families position in society. It was often very difficult to ‘break the mold’. Fortunately, that rigid social stratification has disappeared in modern societies. Today’s Amber organizations still tend to reinforce hierarchy, albeit in more subtle ways. Promotion is often based on experience and service and sometimes the most qualified do not get the job because they haven’t ticked all the right boxes.
+  从历史上看，组织中的这种分层，对应着社会分层：你所期望的角色取决于你的家庭在社会中的地位。“打破模式”往往非常困难。幸运的是，这种僵化的社会分层在现代社会已经消失。但今天的琥珀组织仍然倾向于加强等级制度，尽管采取着更微妙的方式。晋升通常是基于经验和服务，有时最有资格的人没有得到这份工作，因为他们没有勾选所有正确的资格审查方框（学历等）。
 
 
-  ##### Amber shadow: Us versus them
+  ##### 琥珀阴暗面：我们与他们
 
 
-  Social belonging is paramount in the Amber paradigm. You are part of the group, or you are not―it is “us” versus “them.” This dividing line can be found throughout Amber organizations―nurses versus doctors versus administrators, line versus staff, frontline versus headquarters etc. Amber organizations have definitive silos, and groups eye each other with suspicion across them. Co-operation and trust is enabled through procedures and rules that people have to abide by.
+  社会归属感是琥珀最重要的元素。你属于这个团队，或者你不属于这个团队——这是“我们”与“他们”的对立。几乎可以在所有的琥珀组织中找到这条分界线——护士与医生与行政人员的对比，一线与管理职的对比，一线与总部的对比等等。琥珀组织有明确的隐藏性，团队之间互相猜疑。合作和信任只是通过人们必须遵守的程序和规则来实现。
 
 
-  If there are barriers inside the organization, there is a moat between the organization and the outside world. Amber organizations try wherever possible to be self-contained and autonomous. Early car factories had their own rubber plantations and steel mills, operated their own bakeries, and provided social housing. Employees also “belong” to the organization: employment is assumed to be lifelong, and much of people’s social life revolves around the organization. The possibility of dismissal therefore carries a double threat: employees risk losing both the identity the work gives them as well as the social fabric they are embedded in. Someone who decides to leave the organization is often met with bewilderment, if not accused of betrayal. Many of today’s Amber organizations still have lifetime employment as an underlying norm. For those who decide to leave, the process is often painful―akin to shedding an old life and having to reinvent a new one.
+  既然组织内部都会存在关系障碍（怀疑），那么组织与外部世界之间就仿佛隔着一条护城河。琥珀组织尽可能做到自给自足和自治。早期的汽车工厂会有自己的橡胶种植园和钢厂，经营自己的面包店，并提供社会住房。员工也“属于”组织：就业被认为是终身的，人们的社会生活大多围绕着组织。因此，解雇的可能性带来了双重威胁：员工有可能失去工作赋予他们的身份，以及他们所处的社会结构。决定离开组织的人，即使没有被公开指控背叛，也常常会感到惊讶和羞辱。当今的许多琥珀组织仍将终身雇佣作为基本准则。对于那些决定离开的人来说，这一过程往往是痛苦的——就像抛弃旧的生活，重新开始新的生活。
 perspective: ""
 inPractice: ""
 ---
