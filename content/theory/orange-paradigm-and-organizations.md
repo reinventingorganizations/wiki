@@ -15,26 +15,26 @@ intro: >-
   #### 橙色意识阶段
 
 
-  From an Orange perspective, the world is no longer seen as a fixed universe governed by immutable rules; instead it is seen as a complex machine, whose inner workings and natural laws can be investigated and understood.
+  从橙色意识角度来看，世界不再被视为一个由固定规则支配的僵化宇宙；而是被视为一台复杂的机器，其内部工作原理和自然规律可以被研究和理解。
 
 
-  If I am faster, smarter and more innovative than others in understanding and manipulating the world, then I will achieve more success, wealth, market share or whatever else I desire. .
+  如果我在理解和操纵这台机器（世界）方面比别人更快、更聪明、更具创新性，那么我将获得更多的成功、财富、市场份额或任何我想要的东西。
 
 
-  Piaget, the child psychologist, gave us a defining experiment for Orange cognitive thinking: 
+  儿童心理学家皮亚杰给我们做了一个关于橙色认知思维的定义性实验：
 
 
-  * *A person is given three glasses of clear liquid and told that they can be mixed in a way that will produce a yellow color.*
+  * 给一个人三杯透明的液体，并告诉他们，可以通过特定的配合混合方式，产生黄色。
 
-  * *People, whose thinking hasn’t reached the Orange stage will simply start mixing the liquids together haphazardly.*
+  * 那些思想还没有达到橙色阶段的人只会随意地把液体混合在一起。
 
-  * *Those with an Orange level cognition will first form a general picture of the fact that you have to try glass A with glass B, then A with C, then B with C and so on. They will  try all the various combinations one at a time.*
-
-
-  It means people can begin to imagine different worlds. “What if” and “as if” can be grasped for the first time. All kinds of idealistic possibilities open up. With this cognitive capacity one can question authority, group norms, and the inherited status quo. Orange cognition has opened the floodgates of scientific investigation, innovation, and entrepreneurship.
+  * 那些认知水平进入橙色的人，首先会形成一个大致的印象，知道需要轮流尝试混合玻璃杯A和B，然后A和C，然后B和C，以此类推。他们会一次一个地尝试所有不同的组合。
 
 
-  The worldview at this stage is solidly materialistic―only what can be seen and touched is real. The Orange worldview is suspicious of any form of spirituality and transcendence because of the difficulty in believing something that cannot empirically be proven or observed. In this material world, more is generally considered better.
+  这意味着人们有能力开始想象不同次元的世界。“如果”和“好像”第一次变得可掌握。于是打开了通向各种理想的可能性。有了这种认知能力，人们就可以质疑权威、群体规范和所继承的现状。橙色认知打开了科学研究、创新和创业的闸门。
+
+
+  这个阶段的世界观是绝对的唯物主义，认为只有看得见摸得着的才真实。橙色的世界观怀疑任何形式的灵性和超越性，因为橙色意识难以相信一些无法通过经验证明或观察到的事物。在这个唯物的世界里，什么都是多多益善（贪婪）。
 
 
   #### Shadows of the Orange stage of development
