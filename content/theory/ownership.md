@@ -60,10 +60,10 @@ inPractice: >-
   目前已经出现了一些解决这一潜在冲突的法律进展，但还没有普及。在美国，一些州承认“福利公司”是一种营利性实体，在其法定目标中除了利润外，还包括对社会、工人、社区和环境的积极影响。在我们目前所知的营利性公司（所谓的C公司）中，组织的董事会对股东而且只对股东负有信托责任。如果他们以牺牲股东利益为代价，优先考虑环境或社会问题，就等于偏离了自己的信托职责，将可能面临民事索赔。福利公司董事会的职责目标，扩大到包括对非财务利益，如社会福利、成员和供应商的关注以及环境影响要素负责。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 5464-5467). Nelson Parker. Kindle Edition.]
 
 
-  A much older but still somewhat rare structure is the cooperative, where ownership is placed with members (consumer cooperative) and/or employees (worker cooperative). However, while these organizations are presumably freed from a strict pursuit of profit, their purpose is to serve a single stakeholder group.
+  还有一种更古老但仍有些罕见的结构是协作社，所有权归成员（消费者协作社）和/或雇员（工人协作社）。不过，虽然这些组织可能不必严格追求利润，但它们的目的依然是为单一的利益相关者群体服务。
 
 
-  Holacracy has drafted a constitution that a board can adopt and make binding, even to future shareholders. It gives shareholders a legitimate say in finance matters, but prevents them from unilaterally imposing a strategy, or from reverting to traditional management practices. Holacracy has done the legal footwork to make its constitution fit within US corporate law, and it is currently adapting the constitution to legal systems in other countries.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 5453-5457). Nelson Parker. Kindle Edition.]
+  霍尔起草了一份章程，蔚蓝组织的董事会可以采纳这个规定，确保一些（维持蔚蓝模式不被董事会推翻的）约束力，这些约束力甚至对未来的股东也有效。这个章程赋予股东在财务事务上的合法发言权，但阻止股东单方面实施不同的战略，或恢复传统的管理模式。霍尔在法律方面做了一些努力，调整了章程内容令其符合美国公司法。目前正在进一步调整这个章程，令其也能符合其他国家的法律制度。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 5453-5457). Nelson Parker. Kindle Edition.]
 faq:
   - question: Teal organizations don't seem to encourage employee ownership. How come?
     answer: >-
