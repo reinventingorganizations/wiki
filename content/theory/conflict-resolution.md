@@ -100,7 +100,7 @@ inPractice: >-
   ##### ***发现紧张感***
 
 
-  It can be hard for someone to stand up to a colleague and say, “We need to talk.”. Processes used by some organizations include regularly scheduled group meetings, company retreats, purpose circles and values days. Surfacing becomes a way of helping others to view conflict as normal, creative and a way of learning about diversity and difference. These practices enable others to share their vulnerabilities, see [creating safe spaces](../safe-space/).
+  让一个人主动站出来对同事说，我们需要谈谈，这一般很难做到。一些蔚蓝组织运用一些流程，比如，定期组织一些小组会议、公司旅行、目标谈论会、以及价值观日，来促进缓解紧张关系的沟通。积极坦诚的呈现（指出）同事的问题，能帮助同事更好的将冲突看作正常而富有创造力的元素，看作是一种学会完整人性之多样性差异性（和而不同）之美的机会。这些方式都能鼓励同事分享自己的软弱之处，参见[安全安心空间](../safe-space/)。
 
 
   Here are some examples:
