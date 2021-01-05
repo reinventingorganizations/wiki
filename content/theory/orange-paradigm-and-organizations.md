@@ -6,22 +6,13 @@ name: 橙色模式与组织
 sortOrder: 4
 category: history
 intro: >-
-  Orange organizations represent the advance of the scientific and industrial
-  revolutions. The world is seen as a complex machine whose inner workings and
-  natural laws can be investigated and understood. This view has profoundly
-  transformed humanity in the last two centuries bringing unprecedented levels
-  of prosperity and life expectancy. Current management thinking, which is
-  focused on competition, innovation and performance. shape how Orange
-  organizations operate. Leadership changes from command-and-control to
-  predict-and-control (management by objectives). The Organization as a machines
-  is the dominant metaphor for the Orange world view. Most large corporations
-  operate from this paradigm today. 
+  橙色组织代表了科学和工业革命的进步。这个意识阶段认为世界是一台复杂的机器，其内部工作原理和自然规律都可以被研究和理解。这一观点在过去两个世纪深刻地改变了人类，带来了前所未有的繁荣和生命的希望。当今的管理思路特点是注重竞争、创新和绩效，这些塑造了橙色组织的运作方式。领导从指挥和控制转变为预测和控制（目标管理）。作为机器的组织是橙色世界观的主要隐喻。现在大多数大公司都是这样运作的。
 
 
   ![](/media/orange.jpg)
 
 
-  #### Orange stage of consciousness
+  #### 橙色意识阶段
 
 
   From an Orange perspective, the world is no longer seen as a fixed universe governed by immutable rules; instead it is seen as a complex machine, whose inner workings and natural laws can be investigated and understood.
