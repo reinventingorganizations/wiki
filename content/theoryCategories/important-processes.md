@@ -1,5 +1,5 @@
 ---
 tags: theoryCategories
 key: Important Processes
-name: Key business processes
+name: 重要流程
 ---
