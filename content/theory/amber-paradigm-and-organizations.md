@@ -46,7 +46,7 @@ intro: >-
   #### 琥珀组织的突破与特点
 
 
-  The advent of Amber organizations brought about two major breakthroughs: organizations can now plan for the medium and long term, and they can create organizational structures that are stable and can scale. Combine these two breakthroughs, and you get organizations able to achieve unprecedented outcomes, beyond anything Red organizations could have even contemplated. Historically, Amber organizations are the ones that have built irrigation systems, pyramids, and the Great Wall of China. Amber organizations ran the ships, the trading posts, and the plantations of the Colonial world. The Catholic Church is built on this paradigm―arguably it has been the defining Amber organization for the Western world. The first large corporations of the Industrial Revolution were run on this template. Amber organizations are still very present today: most government agencies, public schools, religious institutions, and the military are run based on Amber principles and practices.
+  琥珀组织的出现带来了两大突破：组织已经可以做出中长期规划，能够创建稳定的、可扩展的组织结构。把这两个突破结合起来，就可以让组织取得前所未有的成就，这些都超出了红色组织的想象。历史上，那些建立了灌溉系统、金字塔和中国长城的组织就是琥珀模式。琥珀组织管理着殖民地世界的船只、贸易站和种植园。天主教会就是建立在这种范式之上的——可以说，教会一直是西方世界的决定性组织。工业革命的第一批大公司也在这个模板上运行。琥珀组织今天仍然存在：大多数政府机构、公立学校、宗教机构和军队都基于琥珀原则和实践运作。
 
 
   ##### Amber breakthrough 1: Long-term perspective (stable processes)
