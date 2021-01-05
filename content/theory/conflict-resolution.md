@@ -113,13 +113,13 @@ inPractice: >-
   * RHD，支持一个双月例会，议题是职场的xx主义。所有感觉到公司需要引起注意的各种歧视（分裂，主义）萌芽的人，都可以自由参加。比如人种，性别，或其他各种歧视。
 
 
-  ##### ***Conflict resolution processes***
+  ##### 冲突解决流程
 
 
-  In self-managing organisations, having a clear and well understood conflict resolution process helps people raise issues. Typical conflict resolution mechanisms include: one-on-one discussion, mediation by a peer and mediation by a panel. Some organizations also use team or individual coaching to work through an upset.
+  在自我管理组织内，制定一个清晰易懂的冲突解决流程，可以帮助成员积极发现并提出人际关系问题。典型的冲突解决流程包括：一对一谈论，由同事中介，由调解员中介。还有些组织通过团队或个人指导方式来处理事端。
 
 
-  For example, :
+  比如 :
 
 
   * In the first phase, the two people sit together and try to sort it out privately. 
