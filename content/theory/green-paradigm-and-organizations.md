@@ -12,7 +12,7 @@ intro: >-
   ![](/media/green.jpg)
 
 
-  #### Green stage of consciousness
+  #### 绿色意识阶段
 
 
   Green is aware of Orange’s shadow: materialism, social inequality, and the loss of community. Green is sensitive to people’s feelings: all perspectives deserve respect. It seeks community, cooperation, and consensus. Individuals strive to belong—to foster harmonious bonds with everyone.
