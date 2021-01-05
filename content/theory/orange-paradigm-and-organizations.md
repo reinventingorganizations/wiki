@@ -64,10 +64,10 @@ intro: >-
   ##### 橙色突破1：创新
 
 
-  People operating from the Orange paradigm can live in a world of possibilities; what is not yet, could be one day. They can question the status quo and formulate ways to improve it. Unsurprisingly, leaders of Orange Organizations don’t tire of saying that change and innovation are not threats, but opportunities. Orange Organizations retain a hierarchical pyramid, but create departments such as R&D , Marketing and Product Management to foster and enable innovation. Project and cross–functional teams come together to look at problems and issues in new ways.
+  按照橙色范式运作的人可以生活在一个充满可能性的世界里；即使目前还没有实现，也可能有一天会实现。他们可以质疑现状并制定改善现状的方法。毫不奇怪，橙色组织的领导人会不厌其烦地说，变革和创新不是威胁，而是机遇。橙色组织保留了层级金字塔，但创建了研发、营销和产品管理等部门来促进和推动创新。项目和跨职能团队聚集在一起，能以新的方式看待课题和问题。
 
 
-  ##### Orange breakthrough 2: Accountability
+  ##### 橙色突破2：责任
 
 
   A subtle but profound change takes place in leadership and management style. Amber command and control becomes Orange predict and control. In order to innovate more often and faster than others, it becomes a competitive advantage to tap into the intelligence of many brains in the organization. More people in the organization are given room to maneuver and are empowered and trusted to think and make decisions.
