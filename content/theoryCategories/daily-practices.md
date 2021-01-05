@@ -1,5 +1,5 @@
 ---
 tags: theoryCategories
 key: Daily practices
-name: Daily organizational practices
+name: 日常流程
 ---
