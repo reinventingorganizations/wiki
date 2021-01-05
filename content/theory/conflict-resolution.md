@@ -131,10 +131,10 @@ inPractice: >-
   * 如果仍没有找到解决方案，创始人或CEO会被叫来做陪审员，为调节方增援力量（但依然不会做裁判）。
 
 
-  ##### ***Training in Interpersonal skills***
+  ##### 人际交往技巧培训
 
 
-  Because effective conflict resolution skills are so central in self-managing organizations, many organizations train all their colleagues in interpersonal skills to enable them to deal gracefully with conflict. Generally in their first weeks at work, new hires are given foundational training including: self-management, deep listening, dealing constructively with conflict and creating a safe environment. For instance, companies like ESBZ and Buurtzorg train colleagues in [Nonviolent Communication ](https://en.wikipedia.org/wiki/Nonviolent_Communication)developed by Marshal Rosenberg.
+  因有效的冲突解决技巧在自我管理组织内占有如此核心的地位，很多蔚蓝组织都会对全员培训人际交往技巧，以便大家都能优雅的处理冲突。新人通常在第一周上岗时，接受一些功能培训，包括：自我管理，深度聆听，建设性的处理冲突，打造安心环境。比如，ESBZ和布尔佐格这样的公司，会对同事培训罗森博格元帅的[非暴力沟通](https://en.wikipedia.org/wiki/Nonviolent_Communication)。
 faq:
   - question: If so much time is spent talking through every conflict, when does the
       work get done?
@@ -178,4 +178,3 @@ relatedTheory:
   - Dismissal
   - Training and Coaching
 ---
-to be deleted
