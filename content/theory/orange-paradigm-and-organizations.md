@@ -82,16 +82,16 @@ intro: >-
   ##### 橙色突破3：精英管理
 
 
-  Orange Organizations have adopted the radical idea of meritocracy. In principle, anybody can move up the ladder, and nobody has to be confined to their position. The mailroom boy can become the CEO―even if that boy happens to be a girl or has a minority background. Orange has given birth to modern human resources and a range of processes and practices, including performance appraisal, incentive systems, resource planning, talent management, leadership training, and succession planning.
+  橙色组织采用了任人唯贤（鼓励精英）的先进思想。原则上，任何人都可以升职，任何人都不必拘泥于自己的位置。邮件收发室的男孩可以成为首席执行官——即使那个男孩碰巧是个女孩或者有少数民族背景。橙色催生了现代人力资源以及相应的一系列流程和实践，包括绩效评估、激励制度、资源规划、人才管理、领导力培训和继任规划。
 
 
-  It is hard to overstate the historical significance of the idea of meritocracy. People now take responsibility for managing their careers and expect to change positions every few years, either inside the organization, or outside if needed.
+  任人唯贤思想有其不可否定的历史意义。这让人们有可能对自己的职业生涯负责，并获得每隔几年换一次职位的希望，要么在公司内部，或必要时去外部换。
 
 
-  Identity is no longer fused with rank and title; instead it is synonymous  with our need to be seen as competent, successful and ready for the next promotion.
+  身份不再通过职级和头衔来标识；身份成了如何能称职、能成功并为下一次晋升做准备的同义词。
 
 
-  ##### Orange metaphor: organizations as machines
+  ##### 橙色隐喻：组织是机器
 
 
   Orange thinking sees organizations as machines. The engineering jargon we use to talk about organizations reveals how deeply we hold this metaphor. We talk about units and layers, inputs and outputs, efficiency and effectiveness, pulling the lever and moving the needle, accelerating and hitting the brakes, scoping problems and scaling solutions, information flows and bottlenecks, re-engineering and downsizing.
