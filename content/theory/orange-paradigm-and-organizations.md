@@ -70,16 +70,16 @@ intro: >-
   ##### 橙色突破2：责任
 
 
-  A subtle but profound change takes place in leadership and management style. Amber command and control becomes Orange predict and control. In order to innovate more often and faster than others, it becomes a competitive advantage to tap into the intelligence of many brains in the organization. More people in the organization are given room to maneuver and are empowered and trusted to think and make decisions.
+  领导和管理方式发生了微妙而深刻的变化。琥珀的指挥和控制被橙色的预测和控制取代。为了比其他组织更频繁、更快地进行创新，有效利用组织的集体智慧成为一种竞争优势。组织中有更多的人被赋予了回旋的空间，并得到授权和信任，也就是得到了自主进行思考和决策的机会。
 
 
-  Orange Organizations have invented a host of incentive processes to motivate employees to reach the targets that have been set, including performance appraisals, bonus schemes, quality awards, and stock options. To put it simply, where Amber relied on sticks, Orange came up with carrots.
+  橙色组织已经发明了一系列激励流程，用来激励员工达成既定目标。这包括绩效评估、奖金计划、质量奖励和股票期权。简单地说，在琥珀依赖大棒的地方，橙色出现了胡萝卜。
 
 
-  The breakthrough in terms of freedom is real. Managers and employees are given room to exercise their creativity and talent and the latitude to figure out how they want to reach their objectives. In practice fear of failure often drives managers to keep control rather than delegating, thus losing the benefits of distributing responsibility.
+  橙色在自由方面也有了真正的突破。管理者和员工获得充分的空间来发挥自己的创造力和才华，并有权决定如何实现自己的目标。但在实践中，对失败的恐惧往往让管理者保持控制而不是授权，从而无法得到分散责任的好处。
 
 
-  ##### Orange breakthrough 3: Meritocracy
+  ##### 橙色突破3：精英管理
 
 
   Orange Organizations have adopted the radical idea of meritocracy. In principle, anybody can move up the ladder, and nobody has to be confined to their position. The mailroom boy can become the CEO―even if that boy happens to be a girl or has a minority background. Orange has given birth to modern human resources and a range of processes and practices, including performance appraisal, incentive systems, resource planning, talent management, leadership training, and succession planning.
