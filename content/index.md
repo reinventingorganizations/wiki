@@ -9,7 +9,7 @@ intro: >-
   **BIENVENUE !**
 
 
-  **le WIKI EST EN CREATION
+  **le Wiki Reinventing Organizations est en cours de traduction 
 
   La plupart des articles sont en cours de rédaction
 
