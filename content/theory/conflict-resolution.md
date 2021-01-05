@@ -103,14 +103,14 @@ inPractice: >-
   让一个人主动站出来对同事说，我们需要谈谈，这一般很难做到。一些蔚蓝组织运用一些流程，比如，定期组织一些小组会议、公司旅行、目标谈论会、以及价值观日，来促进缓解紧张关系的沟通。积极坦诚的呈现（指出）同事的问题，能帮助同事更好的将冲突看作正常而富有创造力的元素，看作是一种学会完整人性之多样性差异性（和而不同）之美的机会。这些方式都能鼓励同事分享自己的软弱之处，参见[安全安心空间](../safe-space/)。
 
 
-  Here are some examples:
+  案例：
 
 
-  * At ESBZ, a school in Berlin, every class gets together at a fixed time each week to discuss and deal with tensions in the group. The meeting is facilitated by a student, who supports a number of ground rules that keep the discussion safe. 
+  * ESBZ，在这个柏林的学校中，每个班级每周定时聚会谈论并处理小组内的紧张感和压力。会议由一名学生主持，他负责提示几条基本规则，用于保证此次谈论的心理安全（避免激化）。
 
-  * At Heiligenfeld, once a year, colleagues in every team rate the quality of their interaction with other teams. The result is a company-wide “heat map” that reveals which teams should have a conversation to improve their collaboration. 
+  * 利根费尔德，每年一次，每个团队的成员都投票评估自己与其他团队协作的效果。结果会形成一个全司的情绪发烧图，揭示出哪些团队应该通过对话方式来强化自己的协调性。
 
-  * RHD holds a bi-monthly “-isms in the workplace" meeting. Anyone feeling that the organization should pay attention to a specific form or occurrence of racism, sexism, or any other “-ism” can join the meeting. 
+  * RHD，支持一个双月例会，议题是职场的xx主义。所有感觉到公司需要引起注意的各种歧视（分裂，主义）萌芽的人，都可以自由参加。比如人种，性别，或其他各种歧视。
 
 
   ##### ***Conflict resolution processes***
