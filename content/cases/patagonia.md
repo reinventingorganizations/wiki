@@ -1,7 +1,7 @@
 ---
 layout: case
 tags: cases
-name: Patagonia
+name: 巴塔哥尼亚
 date: 2020-11-17T14:59:20.385Z
 introduction: >-
   **Patagonia, Inc.** is an American clothing company that markets and sells
