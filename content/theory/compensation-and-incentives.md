@@ -6,7 +6,7 @@ name: 薪酬与激励
 sortOrder: 8
 category: People practices
 intro: |-
-  T这里讨论确定薪酬的方法流程，薪酬由谁制定，激励的种类，以及薪酬不平等的课题。
+  这里讨论确定薪酬的方法流程，薪酬由谁制定，激励的种类，以及薪酬不平等的课题。
 
   ![](/media/compensation-and-incentives-2-small.jpg)
 perspective: >-
