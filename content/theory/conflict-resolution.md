@@ -122,13 +122,13 @@ inPractice: >-
   比如 :
 
 
-  * In the first phase, the two people sit together and try to sort it out privately. 
+  * 第一阶段，两个人坐下来尝试私下解决。
 
-  * If they can’t find a solution agreeable to both, they nominate a colleague they both trust to act as a mediator. The mediator doesn’t impose a decision. Rather he or she supports the participants in coming to their own solution. 
+  * 如果无法找到双方认可的解决方案，就指定一位双方信任的同事做调解员。调解员不会强加裁判。他或她只是支撑当事人自行得出双方认可的解决。
 
-  * If mediation fails, a panel of topic-relevant colleagues is convened. Again the panel does not impose a solution. 
+  * 如果调解失败，将召集一个与主题相关的同事小组。这个专家小组同样没有强加解决方案的权力。
 
-  * If resolution is not found, the founder or president might be called into the panel to add to the panel’s moral weight (but again, not to impose a solution). 
+  * 如果仍没有找到解决方案，创始人或CEO会被叫来做陪审员，为调节方增援力量（但依然不会做裁判）。
 
 
   ##### ***Training in Interpersonal skills***
