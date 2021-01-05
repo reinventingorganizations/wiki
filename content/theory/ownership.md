@@ -84,4 +84,3 @@ relatedTheory:
   - Organizational Structure
   - Evolutionary Purpose
 ---
-to be removed
