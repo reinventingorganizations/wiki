@@ -49,19 +49,19 @@ intro: >-
   琥珀组织的出现带来了两大突破：组织已经可以做出中长期规划，能够创建稳定的、可扩展的组织结构。把这两个突破结合起来，就可以让组织取得前所未有的成就，这些都超出了红色组织的想象。历史上，那些建立了灌溉系统、金字塔和中国长城的组织就是琥珀模式。琥珀组织管理着殖民地世界的船只、贸易站和种植园。天主教会就是建立在这种范式之上的——可以说，教会一直是西方世界的决定性组织。工业革命的第一批大公司也在这个模板上运行。琥珀组织今天仍然存在：大多数政府机构、公立学校、宗教机构和军队都基于琥珀原则和实践运作。
 
 
-  ##### Amber breakthrough 1: Long-term perspective (stable processes)
+  ##### 琥珀突破1：长期展望（稳健进程）
 
 
-  Red organizations tend to be opportunistic; they don’t generally think more than a few weeks ahead. Amber organizations can take on long-term projects―constructing cathedrals that might take two centuries to complete or creating networks of colonial trading posts thousands of miles away to facilitate commerce.
+  红色组织倾向于机会主义；他们通常不会提前几周思考。琥珀组织却可以承担长期项目——建造可能需要两个世纪才能完成的大教堂，或者建立数千英里外的殖民贸易站网络，以促进商业。
 
 
-  This breakthrough is very much linked to the invention of processes. With processes, we can replicate past experience into the future. Last year’s harvest will be our template for this year’s; next year’s classroom will be run with the same lesson plan as this year’s. With processes, critical knowledge no longer depends on a particular person; it is embedded in the organization and can be transmitted across generations. Any person can be replaced by another that takes over the same role in the process. Even the chief is replaceable, in an orderly succession, and Amber organizations can therefore survive for centuries.
+  这一突破与工艺的发明密切相关。通过流程，我们可以将过去的经验复制到未来。去年的收获将成为我们今年的模板；明年的课堂将采用与今年相同的教学计划。通过流程，关键知识不再依赖于某个特定的人；它嵌入到组织中，可以代代相传。任何人都可以被另一个在这个过程中承担同样角色的人所取代。即使是酋长也可以被替换，有序地继承，因此琥珀组织可以存活几个世纪。
 
 
-  At an individual level, people operating from a Amber paradigm strive for order and predictability; change is viewed with suspicion. The same holds true for Amber organizations, which are exceptionally well-suited for a stable world where the future can be planned based on past experience. They operate on the hidden assumption that there is one right way of doing things and that the world is (or should be) absolute. What has worked in the past will work in the future. Amber organizations find it hard to accept the need for change. The idea that there is one right way makes them uncomfortable with competition. Historically, they have striven for dominance and monopoly.
+  在个人层面上，基于琥珀范式运作的人们努力追求秩序和可预测性；他们以怀疑的眼光看待变化。琥珀组织也是如此，琥珀个人和组织都非常适合一个稳定的世界，认为可以根据过去的经验来规划未来。他们的潜在假设是，认为存在着一种正确的做事方式，世界是（或应该是）绝对的。过去有效的东西将来也会有效。琥珀组织会发现自己很难接受变革需求。正确的道路只有一条，这个想法让他们对竞争感到不安。历史上，他们一直在争取统治和垄断。
 
 
-  ##### Amber breakthrough 2: Size and stability (formal hierarchies)
+  ##### 琥珀突破2：规模和稳定性（固定的等级制度）
 
 
   In Red organizations, power structures are in constant flux as personalities jockey for influence. Amber organizations bring stability to power, with formal titles, fixed hierarchies, and organization charts. The overall structure settles into a well defined hierarchy. The plant manager is in charge of the department heads, who in turn oversee unit managers, line managers, foremen, and operators. Personal allegiance to the chief is no longer needed because everyone knows where they fit in the hierarchy. Much larger organizations become possible, spanning not hundreds but thousands of workers, and they can operate across vast distances. Mankind’s first global organizations―from the Catholic Church to the East India Company―were built on a Amber template.
