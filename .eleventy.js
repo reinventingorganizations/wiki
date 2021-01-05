@@ -72,6 +72,10 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("mail");
   eleventyConfig.addPassthroughCopy("media");
 
+  eleventyConfig.addShortcode("isCategoryOpen", function(collection, category) {
+    return collection.some(_ => _.data.key === category) ? 'is-open' : '';
+  });
+
   return {
     dir: {
       input: "content",

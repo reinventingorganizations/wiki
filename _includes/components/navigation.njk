@@ -21,7 +21,7 @@
   <div class="c-navigation__main_navigation" data-component='mainNavigation'>
     <ul>
       <li class="c-navigation__level1">
-        <button class="c-navigation__level1_toggler c-navigation__level1_link {{ 'is-open' if 'theory' == tags }}" data-component="toggler">
+        <button class="c-navigation__level1_toggler c-navigation__level1_link {% isCategoryOpen collections.practicesNavigation, category %}" data-component="toggler">
           {{ 'practicesArticles' | translate }}
           <svg class="c-toggler__icon c-navigation__toggle_icon"  focusable="false">
             <use xlink:href="#chevron-down"/>
@@ -49,7 +49,7 @@
         </ul>
       </li>
       <li class="c-navigation__level1">
-        <button class="c-navigation__level1_toggler c-navigation__level1_link {{ 'is-open' if 'theory' == tags }}" data-component="toggler">
+        <button class="c-navigation__level1_toggler c-navigation__level1_link {% isCategoryOpen collections.backgroundNavigation, category %}" data-component="toggler">
           {{ 'backgroundArticles' | translate }}
           <svg class="c-toggler__icon c-navigation__toggle_icon"  focusable="false">
             <use xlink:href="#chevron-down"/>
