@@ -94,14 +94,16 @@ intro: >-
   ##### 橙色隐喻：组织是机器
 
 
-  Orange thinking sees organizations as machines. The engineering jargon we use to talk about organizations reveals how deeply we hold this metaphor. We talk about units and layers, inputs and outputs, efficiency and effectiveness, pulling the lever and moving the needle, accelerating and hitting the brakes, scoping problems and scaling solutions, information flows and bottlenecks, re-engineering and downsizing.
+  橙色思维将组织视为机器。用来谈论组织的很多工程类术语，也揭示了我们对这个比喻的深度浸染。橙色经常讨论的词汇是，单元和层次、输入和输出、效率和效果、拉动操纵杆和移动指针、加速和踩刹车、确定问题范围和扩展解决方案、信息流和瓶颈、重新设计和规模缩减。
 
 
-  Leaders and consultants design organizations. Humans are resources that must be carefully aligned on the chart, rather like cogs in a machine. Changes must be planned and mapped out in blueprints, then carefully implemented according to plan. If some of the machinery functions below the expected rhythm, it’s probably time for a “soft” intervention―the occasional team-building―like injecting oil to grease the wheels.
+  橙色思维将组织视为机器。用来谈论组织的很多工程类术语，也揭示了我们对这个比喻的深度浸染。橙色经常讨论的词汇是，单元和层次、输入和输出、效率和效果、拉动操纵杆和移动指针、加速和踩刹车、确定问题范围和扩展解决方案、信息流和瓶颈、重新设计和规模缩减。
 
 
-  The machine metaphor also reveals the dynamic nature of organizations in Orange (as compared to Amber, where we think of organizations as rigid, unchanging sets of rules and hierarchies). There is room for energy, creativity, and innovation. At the same time, the metaphor of the machine indicates that these organizations, however much they brim with activity, can still feel lifeless and soulless.
+  橙色组织结构通常由领导和顾问们来设计。成员只是必须在图表上仔细排列的资源，就像机器上的齿轮一样。变更必须在蓝图中进行规划和规划，然后按照计划认真实施。如果某些机械的运转低于预期的节奏，那么就看作是进行“软”干预的时机——偶尔进行团队建设——好比给车轮注入润滑油。
+
+
+  机器隐喻还揭示了橙色组织的动态本质（在琥珀阶段，我们曾认为组织是僵化的，由不变的规则和层次组成的结构集）。橙色则开始出现能量、创造力和创新的空间。不过，机器的隐喻也表明，这些组织不管有多活跃，仍然会让人感到毫无生气和没有灵魂（机器而已）。
 perspective: ""
 inPractice: ""
 ---
-remove
