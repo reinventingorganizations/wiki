@@ -4,7 +4,7 @@ name: About
 ---
 ![](/media/evolutionary-purpose.jpg)
 
-## 关于我们
+## 此知识库
 
 #### 敬献给致力于组织蔚蓝转型的领导者...
 
