@@ -1,8 +1,8 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
-name: Heiligenfeld
+name: 海利根菲尔德(Heiligenfeld)
+date: 2020-11-09
 introduction: Heiligenfeld have weekly, large group reflective meetings.
 industry: Q. Human health and social work activities
 geography: Germany
