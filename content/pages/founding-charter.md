@@ -29,19 +29,19 @@ name: Founding charter
 
 ![](/media/3_025-founding-charter.jpg)
 
-1. ##### The Wiki focuses on the next stage of organizations…
+1. ##### 此知识库关注人类组织的下一个新模式新阶段…
 
-The wiki is founded on the idea that there are distinct evolutionary steps in the way people conceive of and run organizations.
+   ##### 此知识库的理念：人们对组织的看法和运作方式处于不同的进化阶段。
 
-This wiki is not a general management wiki, but focuses specifically on the organizational structures and practices congruent with a new form of consciousness, currently emerging in the world, often called Yellow, Teal, Integral, Holistic, Authentic, or Networked… depending on who you ask!
+此知识库不是一般的经营管理知识库，而是专门聚焦于一种，跟特定意识形式配套出现的组织结构和实践，这种意识目前正在这个世界上开始萌芽。通常被称为黄色、青色、整体意识、主权积分体、真意识或网络化意识……这取决于你问哪位定义者！
 
-For this reason, the Wiki does not seek a “Neutral Point of View” as Wikipedia does. Such a Neutral Point of View would bring us to describe the most commonly held view of management (i.e. the status quo, the mechanistic, industrial perspective on management taught in most business schools today).
+基于这个原因，此知识库并不像通用维基知识库那样寻求“中立的观点”。如果遵循这样的中立观点，我们将被迫描述那些最常见的管理观点（即当今主流，当今大多数商学院所教授的关于管理的机械的、工业化观点）。
 
-2. ##### … but is not linked to any one school of thought
+2. ##### ……但与任何一个学派都无关
 
-The wiki does not advocate for a particular school of thought and tries to stay clear from (or ideally tries to transcend) the tussles between such schools of thought.
+> 此知识库并不支持某一特定的思想流派，试图远离（或者理想是试图超越）这些思想流派之间的争斗。
 
-What matters most from the wiki’s perspective is identifying the overlap between various schools of thought. For instance, within an evolutionary framework, the Wiki is agnostic to the way successive stages of consciousness are named. However, it is still useful for those attending to specific schools to be able to use the wiki to support their work. To support this, the wiki features built-in support for on-the-fly renaming and branding as the wiki is loaded in a browser. Those hosting the wiki on their page can make it their own, quickly and easily!
+从此知识库的角度来看，最重要的是识别不同学派之间的重叠。例如，在一个进化的框架内，此知识库对意识的连续阶段的命名方式是（暂时的），基于不可知论的。但对那些就读于特定学校的学生来说，此知识库依然可以支持他们的工作。为了支持这一点，此知识库内置了一个自定义功能。您基于这个体系打造自己版本的知识库时，可以简单的在浏览器中加载此知识库时，动态重命名此知识库的名称和品牌。让那些在自己网站上托管此知识库的人，可以很容易的将这些知识内容，当成自己的成果来衍生，演变。快速而简单！
 
 3. ##### 此知识库致力于帮助人们打造新一代组织
 
