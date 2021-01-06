@@ -43,27 +43,27 @@ The wiki does not advocate for a particular school of thought and tries to stay 
 
 What matters most from the wiki’s perspective is identifying the overlap between various schools of thought. For instance, within an evolutionary framework, the Wiki is agnostic to the way successive stages of consciousness are named. However, it is still useful for those attending to specific schools to be able to use the wiki to support their work. To support this, the wiki features built-in support for on-the-fly renaming and branding as the wiki is loaded in a browser. Those hosting the wiki on their page can make it their own, quickly and easily!
 
-3. ##### The wiki seeks to be useful for people trying to establish next generation organizations.
+3. ##### 此知识库致力于帮助人们打造新一代组织
 
-   The ultimate yardstick to help make decisions on editing the wiki is “what will be most useful for people who desire to create a next generation organization?”
+   此知识库的最终标准是“什么对希望创建下一代组织的人最有用？”
 
-We interpret useful as the right combination of the minimum necessary amount of theory with concise descriptions of the most powerful examples of practices, either already implemented in existing organizations, or conceived by wiki contributors and yet to be tested in reality.
+我们将对有用理论的解释放在最低必要数量，致力于将理论与最有力案例的简明描述有机结合在一起。这些案例，有些是已经在现有组织中得到实现的内容，有些则由此知识库贡献者构思出来的虚拟案例，还有待于在现实中进行检验和测试。
 
-Other considerations are: keeping articles short vs. having practical, detailed descriptions; seeking to be comprehensive in terms of topics covered vs. keeping to a reasonable number of entries.
+其他的考虑标准：保持文章简短，尽量不详细描述太多是实际指南；重视易懂的主题涵盖，不追求条目数量。
 
-4. ##### We do the hard work of synthesizing case examples
+4. ##### 我们努力让各种案例融会贯通
 
-   There is real value in having detailed case examples, and having many of them. But only if there is also a synthesis!
+   给出详细的案例，并且越多越好。但真正有价值的是这些案例要融会贯通！
 
-If we only reference, say, 20 different performance evaluation practices from 20 different companies, it won’t be very useful for readers of the wiki. They then still need to do the hard work of comparing the 20 practices and distilling the commonalities and differences. Before bringing the 20 examples, the wiki must propose a synthesis: is one practice more powerful, more advanced than the others? If yes, why? Or are there perhaps three archetypes of practice, with one archetype more powerful in one kind of context (say a small organization), and another more powerful in another kind of context (say a large organization)? Much better that the wiki authors do the hard work of synthesis once, than force every single reader to do it for herself or himself.
+如果我们只列举20家不同公司的20种不同的绩效评估实践，对此知识库的读者来说就不一定很有用。因读者仍然需要做艰苦的工作，来比较这20种做法，提炼出共同点和不同点。在介绍20个那里之前，此知识库致力于回答一个综合问题：是否有一个实践比其他的更强大、更高级？如果是，为什么？或者可能存在着三种实践原型，A在A环境中更强大（比如一个小组织），B在B环境中更强大（比如一个大组织）？与其强迫每个读者自己去做这些融会贯通，艰难的综合工作，如果由此维基的作者来做，就解决了读者的重复劳作。
 
-In practice, this means that an article comes with two levels of depth. A synthesis in the main part of the article (“oh, this was helpful, I have a good way to think about it now”), and lots of case examples that people can go through for real detailed inspiration (“oh, that specific practice would really work for us, if we combine it perhaps with this other one”)
+实际上，这意味着一篇文章有两个层次的深度。文章主体部分的综合（“哦，这很有帮助，我现在有一个很好的思考方法”），以及许多案例。读者可以通过这些案例获得真正详细的灵感（“哦，如果我们把它和另一个结合起来，那么这个具体的实践会对我们非常有用”）。
 
-5. ##### No article inflation
+5. ##### 避免文档数量膨胀
 
-   There is value in the wiki having a curated, limited set of entries that readers can get their head around. Therefore, article inflation is to be avoided, and the threshold of usefulness before creating a new article should be placed very high. For instance, while we could create one separate entry for every single type of large group process (Open Space, World Café, Appreciative Inquiry…), it will be more helpful to users if these processes are included in one single article referencing all, and beyond this, doing the work of synthesis, elevating certain practices as more robust than others in key contexts.
+   维基知识库的价值在于，有一套精心策划的、有限的条目供读者浏览。因此，要避免文档数量膨胀。我们在创造每个新文档之前，都会斟酌是否真的有用，把门槛放得很高。例如，虽然我们可以为每种类型的大型团队流程（开放空间、世界咖啡馆、鉴赏性咨询……）创建一个单独的条目，但如果将这些流程包含在一篇引用所有流程的文章中，并且除此之外，做很多综合分析工作，发现与关键内容有关的、比其他方法都有效的某些实践，可能对用户会更有帮助。
 
-Practices that are well defined in Wikipedia (or other such sources), are best referenced to rather than duplicated (For instance: World Café), as they are more likely to be kept up to date there. We want to avoid redundant entries and focus specifically on innovative, Teal-facing practices.
+我们链接的维基百科（或其他类似来源）中定义了很多良好的实践，但最好使用链接而不是复制（例如：世界咖啡馆），因为它们更有可能在与时俱进，链接可以随时得到其他资料的最新内容。我们尽量避免多余的条目，并特别关注创新的、面向蔚蓝的实践。
 
 6. ##### 无广告
 
