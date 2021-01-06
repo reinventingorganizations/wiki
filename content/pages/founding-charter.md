@@ -65,16 +65,18 @@ In practice, this means that an article comes with two levels of depth. A synthe
 
 Practices that are well defined in Wikipedia (or other such sources), are best referenced to rather than duplicated (For instance: World Café), as they are more likely to be kept up to date there. We want to avoid redundant entries and focus specifically on innovative, Teal-facing practices.
 
-6. ##### No advertisement
+6. ##### 无广告
 
-   The wiki is not meant to advertise any one technique (say a specific group facilitation technique) nor any consulting offer.
-7. ##### The wiki’s governance seeks inspiration from the very structures and practices it describes
+   此知识库的目标，不是宣传任何一种特定技术（比如某种特定的小组辅导技术）或任何咨询服务。
+
+
+7. ##### 此知识库项目的管理，也致力于从它本身描述的先进结构和实践中寻求灵感es
 
    正如这个创始宪章所描述的那样，这个项目本身的决策准则，是遵循此维基知识库的目标和指导方针。此知识库的管理方式会避开权力等级，致力于将权力等级划分为技能、贡献和声誉等自然层次。
 
 此知识库的管理不是一成不变的，它像一个活的有机体一样运作，在尽可能地为自己的目标服务的同时，根据所遇到的需求和约束，进行自然的改变和变形。
 
-8. #### 此知识库的内容遵循“开源知识共享”属性
+8. ##### 此知识库的内容遵循“开源知识共享”属性
 
    所有此知识库的内容都属于“开源知识共享”（Creative Commons）许可属性（这个是最方便的许可，无版权，允许自由复制、修改和商业使用）。
 
