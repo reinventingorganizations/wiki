@@ -70,12 +70,12 @@ Practices that are well defined in Wikipedia (or other such sources), are best r
    The wiki is not meant to advertise any one technique (say a specific group facilitation technique) nor any consulting offer.
 7. ##### The wiki’s governance seeks inspiration from the very structures and practices it describes
 
-   The yardstick for decisions is the wiki’s purpose and guidelines, as described by this founding charter. The wiki’s governance will eschew power hierarchies for natural hierarchies of skills, contribution and reputation.
+   正如这个创始宪章所描述的那样，这个项目本身的决策准则，是遵循此维基知识库的目标和指导方针。此知识库的管理方式会避开权力等级，致力于将权力等级划分为技能、贡献和声誉等自然层次。
 
-The wiki’s governance is not set in stone, but should operate like a living organism, changing and morphing in response to the needs and constraints it encounters as it tries to serve its purpose as much as possible.
+此知识库的管理不是一成不变的，它像一个活的有机体一样运作，在尽可能地为自己的目标服务的同时，根据所遇到的需求和约束，进行自然的改变和变形。
 
-8. ##### The wiki’s content falls under Creative Commons
+8. #### 此知识库的内容遵循“开源知识共享”属性
 
-   All the wiki’s content falls under the Creative Commons license “Attribution” (the most accommodating license, allowing to copy, modify and making commercial use)
+   所有此知识库的内容都属于“开源知识共享”（Creative Commons）许可属性（这个是最方便的许可，无版权，允许自由复制、修改和商业使用）。
 
-Contributors who feel their perspective diverges from this Charter, or from how this Charter is implemented, can copy the entire wiki and create an alternate version that better matches their perspective. Rather than spending time in conflict, let’s spend time developing separate wikis that will appeal to different types of people. In the end, to more people!
+感觉到自己的观点与本章程或本章程的实施方式有所不同的贡献者，可以自由免费复制整个知识库，并修改创建一个能更好地匹配自己观点的替代版本。与其把人类的时间浪费在争论中，不如花时间开发不同类型的类似知识库，以吸引不同类型的人，为不同类型的组织服务。终极目的，献给更多的人！
