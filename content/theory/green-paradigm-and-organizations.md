@@ -63,22 +63,22 @@ intro: >-
   在大规模运作中，去中心下放权力和赋能并非易事。这要求管理者积极有效的分享权力和控制权。为了使授权发挥作用，公司必须明确定义到底期望高级和中级管理人员具备何种领导能力。绿色领导者不应该仅仅是（如橙色那样）冷静的问题解决者；他们应该是仆人式的领导者。他们应该倾听下属的意见，赋予他们权力，激励他们，发展他们。绿色组织将时间和精力投入到培养服务型领导者方面：
 
 
-  * Candidates for management are screened on their mindset and behavior: Are they ready to share power? Will they lead with humility? 
+  * 筛选管理层候选人的思维方式和行为：他们准备好分享权力了吗？他们会谦卑吗？
 
-  * Green Organizations often invest large amounts in courses for newly promoted managers, to teach them the mindset and skills of servant leaders.
+  * 绿色组织通常会在新晋升的管理者培训课程上投入大量资金，辅导他们学会仆人式领导的思维方式和技能。
 
-  * Managers are evaluated based on 360-degree feedback, to make bosses accountable to their subordinates.
+  * 为了赢得部下对上司的信任，管理者的评价一般基于360度的反馈。
 
-  * In some companies, managers are not appointed from above, but from below: subordinates choose their boss, after interviewing prospective candidates.
-
-
-  ##### Green breakthrough 2: Values-driven culture and inspirational purpose
+  * 在一些公司里，经理不是上面任命，而是部下选举：部下面试潜在的候选人之后选择老板。
 
 
-  A strong, shared culture is the glue that keeps empowered organizations from falling apart. Frontline employees are trusted to make decisions, guided by shared values rather than by a thick book of policies.
+  ##### 价值观驱动的文化与目标共鸣
 
 
-  Some people become disillusioned with this, and scoff at the notion of shared values. This is because Orange Organizations increasingly feel obliged to follow the fad: they define a set of values, post them on walls and on-line, and then ignore them if that is more convenient for the bottom line. But where leadership genuinely plays by shared values, you encounter incredibly vibrant cultures in which employees feel appreciated and empowered. Results are often spectacular. Research suggests values-driven organizations can outperform peers by wide margins.^\[The first major study dates from 1992, when Harvard Business School professors John Kotter and James Heskett investigated this link in their book Corporate Culture and Performance. They established that companies with strong business cultures and empowered managers/employees outperformed other companies on revenue growth (by a factor of four), stock price increase (by a factor of eight) and increase in net income (by a factor of more than 700) during the 11 years considered in the research. A more recent study by Raj Sisodia, Jagh Sheth, and David B. Wolfe, in what is arguably a defining book for the Green organizational model―Firms of Endearment: How World-Class Companies Profit from Passion and Purpose―came to similar conclusions in 2007. The “firms of endearment” studied by the authors obtained a cumulative return to shareholders of 1,025 percent over the 10 years leading up to the research, as compared to 122 percent for the S&P 500. From a methodological point of view, these results should be taken with a grain of salt. There is an obvious selection bias, as only exceptional companies that one would expect to outperform their peers were handpicked into the sample. The benchmark of the S&P 500 wasn’t adjusted for industry, size, or other criteria. Furthermore, criteria other than the organization model, such as patents, innovative business models, and asset utilizations that could explain the superior result, were not filtered out. Raj Sisodia’s latest book, written with John Mackey, has a whole chapter with references of similar studies to which interested readers can refer. Any research trying to make such general claims as the superior outcome of one organizational model over another is bound to hit methodological discussions (and on a principled level, one could question shareholder return or growth as the primary metric to gauge success, as most of these studies do). Perhaps direct experience ultimately matters more than academic claims. Anyone who spends time in organizations such as Southwest Airlines or The Container Store will return convinced that empowered workers in values-driven companies will on average outperform their peers in more traditional settings.]
+  一种被真正共享的强大文化，是保持赋能宗旨的组织不致分崩离析的粘合剂。之所以敢信任一线员工做决策，是因为遵循着共同的价值观，而不是靠一本厚厚的政策来约束。
+
+
+  有些人感受不到这种力量，所以嘲笑共享价值观的概念。这是因为，橙色组织是处于义务追随潮流，才定义了一套形式主义的价值观，虽然张贴在墙上和网上，却在遇到更现实的底线问题时，选择忽略这些价值观。但是，当领导力能真正通过培育共同价值观而发挥作用时，就会体验到令人难以置信的充满活力的文化。在这种文化中，员工会感到被赞赏和授权。其结果往往是惊人的。研究表明，以价值观为导向的组织可以在很大量级上超越同行。^\[第一项主要研究始于1992年，当时哈佛商学院教授约翰·科特（John Kotter）和詹姆斯·赫斯科特（James Heskett）在其著作《企业文化与绩效》（Corporate Culture and Performance）中调查了这一联系。他们确定，在研究所覆盖的11年中，拥有强大商业文化和授权经理/员工的公司在收入增长（四倍）、股价增长（八倍）和净收入增长（700多倍）方面的表现，都优于其他公司。Raj Sisodia、Jagh Sheth和David B.Wolfe最近的一项研究，也在2007年得出了类似的结论，这本书可以说是绿色组织模式的定义性著作——《亲密的公司：世界级公司如何从激情和目标中获利》。作者所研究的这个“受人喜爱的公司”在研究开始前的10年里，获得了1025%的累计股东回报率，对比的标准普尔500指数为122%。从方法论的观点来看，这些结果遭到了半信半疑。反对者认为：这个研究存在着明显的选择偏差，因为手工挑选作为研究样本的公司，都是些人们期望中的，表现优于同行的优秀公司。标普500指数的基准也没有根据行业、规模或其他标准进行调整。此外，除了组织模式以外的参数，例如专利、创新商业模式和资产利用率等可以有助于这些公司卓越结果的其他要素，也没有被过滤掉。拉吉·西索迪亚与约翰·麦基合著的最新一本书，有一整章里有类似研究的参考资料，感兴趣的读者可以参考。任何试图提出一种组织模式优于另一种组织模式的一般性结果的研究，都必然会遭到方法论的攻击（在原则层面上，人们可能会质疑，大多数这类研究都按照股东回报或增长作为衡量成功的主要指标，这是否合适）。也许直接经验最终比学术主张更重要。任何在西南航空（southern Airlines）或集装箱商店（Container Store）等机构工作过的人都会相信，在价值观驱动的公司里，拥有权力的员工相比于在更传统的环境下的平均表现，会优于同行环境的成果。]
 
 
   Green Organizations may put inspirational purpose at the heart of what they do. Southwest doesn’t consider itself merely in the transportation business; it insists it is in the business of “freedom,” helping customers to go to places they couldn’t without Southwest’s low fares. Ben & Jerry’s is not just about ice cream, it’s about the earth and the environment too.
