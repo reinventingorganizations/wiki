@@ -9,8 +9,6 @@ name: Founding charter
 * 帮助人们决定是否与此知识库的目标产生共鸣，是否愿意参与其中
 * 当两个人对一篇文章或整个知识库持有不同看法时，帮助解决分歧
 
-
-
 #### 宪章的8条准则
 
 > 1.此知识库关注人类组织的下一个新模式新阶段…
@@ -27,11 +25,11 @@ name: Founding charter
 >
 > 7.此知识库项目的管理，也致力于从它本身描述的先进结构和实践中寻求灵感
 >
-> 8.此知识库的内容遵循后述的“基本原则”
+> 8.此知识库的内容遵循“开源知识共享”
 
 ![](/media/3_025-founding-charter.jpg)
 
-##### The Wiki focuses on the next stage of organizations…
+1. ##### The Wiki focuses on the next stage of organizations…
 
 The wiki is founded on the idea that there are distinct evolutionary steps in the way people conceive of and run organizations.
 
