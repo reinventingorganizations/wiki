@@ -1,7 +1,7 @@
 ---
 layout: case
 tags: cases
-name: Buurtzorg
+name: 布尔佐格（Buurtzorg）
 date: 2020-11-17T14:48:06.315Z
 introduction: "**Buurtzorg Nederland** is a Dutch home-care organization which
   has attracted international attention for its innovative use of independent
