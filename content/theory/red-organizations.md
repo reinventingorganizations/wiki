@@ -27,14 +27,13 @@ intro: >-
   ### 红色组织的特点
 
 
-  Organizations molded in Red consciousness first appeared in the form of small conquering armies, when the more powerful chiefdoms grew into proto-empires. They can still be found today in the form of street gangs and mafias. Today’s Red Organizations borrow tools and ideas from modernity―think about organized crime’s use of weaponry and information technology. But their structures and practices are for the most part still molded in the Red paradigm.
+  红色意识中塑造的最初组织形态，是以小型征服性军队的形式出现的，当时的强大酋长国成长为原始帝国。红色模式今天仍然以街头帮派和黑手党的形式存在。今天的红色组织借鉴了现代社会的工具和思想——比如有组织犯罪使用的武器和信息技术。但他们的结构和实践，在很大程度上仍然是基于红色范式塑造的。
 
 
-  Their ‘glue’ is the continuous exercise of power in interpersonal relationships. Wolf packs provide a good metaphor: rather like the “alpha wolf” uses power when needed to maintain his status within the pack, the chief of a Red Organization must demonstrate overwhelming power and bend others to his will to stay in position. The minute his power is in doubt, someone else will attempt to topple him. To provide some stability, the chief surrounds himself with family members (who tend to be more loyal) and buys their allegiance by sharing the spoils. Each member of his close guard in turn looks after his own people and keeps them in line. Overall, there is no formal hierarchy and there are no job titles. Red Organizations don’t scale well for those reasons―they rarely manage to keep in line people who are separated from the chief by more than three or four degrees. While Red Organizations can be extremely powerful (especially in hostile environments where later stages of organizations tend to break down), they are inherently fragile, due to the impulsive nature of people’s way of operating (*I want it so I take it*). The chief must regularly resort to public displays of cruelty and punishment, as only fear and submission keep the organization from disintegrating. Mythical stories about his absolute power frequently make the rounds, to keep foot soldiers from vying for a higher prize.
+  他们的“粘合剂”是在人际关系中不断行使权力。狼群提供了一个很好的比喻：如“头狼”在需要时使用权力来维持自己在狼群中的地位一样，一个红色组织的首领必须展示压倒性的权力，并保证其他人屈从于他的意志以保持其地位。一旦他的权力受到怀疑，其他人就会试图推翻他。为了提供一些稳定，酋长将家人（他们往往更忠诚）围绕在自己左近，并通过分享战利品来换取他们的忠诚。每个亲信也轮流照顾自己的部下，使他们保持整齐。总的来说，不存在正式的等级制度，也没有职称。由于这些原因，红色组织的规模不太大——他们很少能让那些与首长相隔三四级以上的部下听话。虽然红色组织可能非常强大（特别是在很容易导致那些后期阶段组织模式崩溃的危机环境中），但由于人们的运作方式是基于冲动性，所以天生就很脆弱（*我想要，就得马上拿到*）。首席执行官必须经常公开展示残忍和惩罚，因为只有恐惧和屈服才能阻止组织解体。经常流传关于酋长绝对权力的神话故事，以防止部下争夺更高的奖赏。
 
 
-  Present-centeredness makes Red Organizations poor at planning and strategizing but highly reactive to new threats and opportunities that they can pursue ruthlessly. They are therefore well adapted to chaotic environments (in civil wars or in failed states) but are ill-suited to achieve complex outcomes in stable environments where planning and strategizing are possible.
+  以当下冲动和反应为中心的特点，使红色组织在规划和战略制定方面不太擅长，但他们对自己能模糊感觉到的新威胁和新机会，却能适当的做出强烈反应。因此，红色组织更能适应混乱的环境（在内战或破产国家），但不适合在稳定的环境中实现复杂的结果，因为在稳定的环境中，可以进行规划和制定战略（但红色不擅长）。
 perspective: ""
 inPractice: ""
 ---
-   remove
