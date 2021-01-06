@@ -1,8 +1,8 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
-name: Ozvision
+name: 欧泽维申(Ozvision)
+date: 2020-11-09
 introduction: Ozvision has experimented with innovative approaches. One is the
   morning meeting called 'good or new'.
 industry: R. Arts, entertainment and recreation
