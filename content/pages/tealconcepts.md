@@ -1,6 +1,6 @@
 ---
 layout: content
-name: Teal Concepts
+name: 蔚蓝概念 Teal Concepts
 ---
 ![](/media/fundamental-assumptions.jpg)
 
