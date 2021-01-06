@@ -1,8 +1,8 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
-name: Semco
+name: 森科(Semco)
+date: 2020-11-09
 introduction: >-
   Diversified industrial and service conglomerate.
 
