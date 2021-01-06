@@ -1,7 +1,7 @@
 ---
 layout: case
 tags: cases
-name: BSO / Origin
+name: 起源(BSO)
 date: 2020-08-24T20:05:33.747Z
 introduction: Originally IT consulting - Global - 10,000 employees - For profit.
   A European information technology company founded by Eckart Wintzen, now a
