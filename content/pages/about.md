@@ -14,10 +14,10 @@ name: About
 
 #### 定点聚焦未来阶段组织实践
 
-The wiki is founded on the idea that there are distinct evolutionary steps in the way people conceive of and run organizations. This wiki does not rehash traditional management thinking as taught in business schools. Instead, it describes  organizational structures and practices congruent with a new form of consciousness that is currently emerging in the world (sometimes called Yellow, Teal, Integral, Holistic, Authentic, or Networked).
+此维基知识库的理念：人们对组织的看法和运作方式处于不同的进化阶段。此知识库并没有像普通的商学院那样，只是重复宣传传统的管理思想。这里描述的组织结构和实践，迎合着目前正在世界上出现的一种新的意识形态（觉性意识，有时称为黄色、青色、蓝绿色、整体意识、主权积分体、真意识或网络化意识）。
 
-#### A volunteer driven, self-governing wiki
+#### 由志愿者维护的、自治的、开源共创维基知识库
 
-This body of knowledge is brought to the world by a group of enthusiastic volunteers inspired by the ideas presented in the book, “[Reinventing Organizations](https://www.reinventingorganizations.com/)” and the video series “[Insights for the Journey](https://thejourney.reinventingorganizations.com/index.html)” (both by Frederic Laloux). The community of wiki contributors operates itself—how could it be otherwise?—using next-generation practices that the wiki discusses.
+此知识库体系是一群热心志愿者，倾情敬献给这个世界的小礼物。我们是一群受 “[组织重塑](https://www.reinventingorganizations.com/)” 一书和 “[访谈视频（经验与洞见）](https://thejourney.reinventingorganizations.com/index.html)” 视频系列（这些内容都是弗雷德里克·拉卢克斯的作品）中提出的想法启发的志愿者。此维基贡献者的社区本身，就在示例此维基知识库讨论的蔚蓝模式和实践，我们通过自我管理/自组织来运作，怎么可能不是呢？
 
-In case you would also like to contribute yourself, please [visit this page](../how-can-you-contribute/)
+如果您也想作为志愿者为项目贡献力量，请[点击这里](../how-can-you-contribute/)
