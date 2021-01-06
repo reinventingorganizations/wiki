@@ -1,7 +1,7 @@
 ---
 layout: case
 tags: cases
-name: AES (Applied Energy Services)
+name: 应用能源服务(AES)
 date: 2020-11-09
 introduction: The AES Corporation is a Fcompany that generates and distributes
   electrical power. AES is headquartered in Arlington, Virginia see
