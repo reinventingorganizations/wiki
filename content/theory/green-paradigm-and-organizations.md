@@ -48,19 +48,19 @@ intro: >-
   有些人试图沿着这些路线创造未来，比如19世纪末20世纪初的协作社运动，或60年代的公社运动（社会主义大锅饭）。事后看来，这些极端形式的平等主义在规模上和持续性上都不成功。^\[1在企业领域，工人合作社未能取得任何有意义的进展。当时流行的做法大多是橙色和绿色相结合的做法。一个经常被引用的成功案例是蒙德拉贡（Mondragon），这是一家总部位于西班牙巴斯克（Basque）一个同名城镇的合作社联合体（约250家公司，雇员约10万人，营业额约150亿欧元）。所有合作社都完全由雇员所有。老板是选举产生的；工资差距比其他地方小（但仍然高达9:1或更高）；临时工没有投票权，形成了一个两层社会，其中一些人比其他人更平等。2在教育领域，已经出现了几种摒弃了成人控制儿童的权威结构的学校模式，最著名的是夏山学校，这是一所创建于20世纪20年代的英国寄宿学校，实行激进的民主形式，学生和成人拥有同样的投票权，课程也不是强制性的必修课。3在普通机构领域，表现在许多超国家机构中——联合国、欧洲联盟和世界贸易组织以及其他机构——特点是都有最高一级的决策机制，这些机制至少部分地遵循绿色原则，如不同成员国的民主或一致投票以及轮值主席制。这些绿色平等决策的原则很难坚持，更富裕或更强大的国家会要求并往往最终获得了更多的投票权（通常强国拥有即使不是明确的也是隐含的否决权）。这些机构的人事部门通常作为一个组织运作.] 因在大群体中取得共识本身就很困难。
 
 
-  Yet Green has come up with its own organizational model, via three breakthroughs. Some of the most celebrated and successful companies of recent times―Starbucks, Southwest Airlines, Ben & Jerry’s, The Container Store, to name a few—run on Green practices and culture.
+  然而，绿色已经完成了三个突破，提出了独自的组织模式。最近一些最著名和最成功的公司-星巴克，西南航空，本杰里，集装箱商店，都是绿色经营的做法和文化案例。
 
 
-  ##### Green breakthrough 1: Empowerment
+  ##### 绿色突破1：赋能/授权
 
 
-  Green Organizations retain the meritocratic hierarchical structure of Orange, but push as many decisions as possible down to frontline workers. They can make far-reaching decisions without management approval.
+  绿色组织保留了橙色的精英阶层结构，但尽可能将更多决策权下放到一线员工身上。一下成员可以在没有管理层批准的情况下，做出影响深远的决定。
 
 
-  They are directly in touch with the many, smaller, day-to-day problems. They are trusted to devise better solutions than experts from far away. Ground teams at Southwest Airlines, for example, are empowered to seek creative solutions to passenger problems: their colleagues at most other airlines must follow the rule book.
+  因基层能直接接触到许多更小的日常问题，所以相信自己能找出比远道而来的专家更好的解决办法。例如，西南航空的地面团队有权寻求解决乘客问题的创造性方法：相比之下，在大多数其他航空公司的同行都必须遵守一些限制创造力的规则。
 
 
-  Making decentralization and empowerment work on a large scale is not easy. Managers are effectively asked to share power and control. To make it work, companies must clearly spell out the kind of leadership that they expect from senior and middle managers. Green leaders should not merely be dispassionate problem solvers (like in Orange); they should be servant leaders. They should listen to subordinates, empower them, motivate them, and develop them. Time and effort is invested in developing servant leaders:
+  在大规模运作中，去中心下放权力和赋能并非易事。这要求管理者积极有效的分享权力和控制权。为了使授权发挥作用，公司必须明确定义到底期望高级和中级管理人员具备何种领导能力。绿色领导者不应该仅仅是（如橙色那样）冷静的问题解决者；他们应该是仆人式的领导者。他们应该倾听下属的意见，赋予他们权力，激励他们，发展他们。绿色组织将时间和精力投入到培养服务型领导者方面：
 
 
   * Candidates for management are screened on their mindset and behavior: Are they ready to share power? Will they lead with humility? 
