@@ -1,8 +1,8 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
-name: W.L.Gore
+name: 戈尔(W.L.Gore)
+date: 2020-11-09
 introduction: Industrial conglomerate - Global - 10.000 associates - For Profit
 industry: C. Manufacturing
 geography: Global
