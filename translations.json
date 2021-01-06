@@ -1,6 +1,7 @@
 {
     "mainNavigation": "Main Navigation",
-    "articles": "Articles",
+    "backgroundArticles": "Background articles",
+    "practicesArticles": "Teal structures and practices",
     "cases": "Cases",
     "siteTitle": "Reinventing Organizations Wiki"
 }

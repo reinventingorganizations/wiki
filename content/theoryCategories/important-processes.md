@@ -1,5 +1,5 @@
 ---
-tags: theoryCategories
+tags: practicesTheoryCategories
 key: Important Processes
 name: Key business processes
 ---

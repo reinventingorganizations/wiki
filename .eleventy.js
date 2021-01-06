@@ -31,25 +31,34 @@ module.exports = function (eleventyConfig) {
     return translations[key] || key;
   });
 
-  eleventyConfig.addCollection("theoryNavigation", function (collection) {
-    let categories = collection.getFilteredByTag("theoryCategories");
+  const sortCategoryArticles = function(categories, collection) {
     return categories.map((_) => {
       return {
         data: _.data,
         articles: collection
-          .getFilteredByTag("theory")
-          .filter((item) => item.data.category === _.data.key)
-          .sort((a, b) => {
-            const value = (a.data.sortOrder || 0) - (b.data.sortOrder || 0);
+            .getFilteredByTag("theory")
+            .filter((item) => item.data.category === _.data.key)
+            .sort((a, b) => {
+              const value = (a.data.sortOrder || 0) - (b.data.sortOrder || 0);
 
-            if (value === 0 && a.name && b.data.name) {
-              return a.data.name.localeCompare(b.data.name)
-            }
-            console.log(value)
-            return value;
-          }),
+              if (value === 0 && a.name && b.data.name) {
+                return a.data.name.localeCompare(b.data.name)
+              }
+              console.log(value)
+              return value;
+            }),
       };
     });
+  }
+
+  eleventyConfig.addCollection("practicesNavigation", function (collection) {
+    let categories = collection.getFilteredByTag("practicesTheoryCategories");
+    return sortCategoryArticles(categories, collection);
+  });
+
+  eleventyConfig.addCollection("backgroundNavigation", function (collection) {
+    let categories = collection.getFilteredByTag("backgroundTheoryCategories");
+    return sortCategoryArticles(categories, collection);
   });
 
   eleventyConfig.addCollection("casesByName", function (collection) {
@@ -62,6 +71,10 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "static/images": "images" });
   eleventyConfig.addPassthroughCopy("mail");
   eleventyConfig.addPassthroughCopy("media");
+
+  eleventyConfig.addShortcode("isCategoryOpen", function(collection, category) {
+    return collection.some(_ => _.data.key === category) ? 'is-open' : '';
+  });
 
   return {
     dir: {
