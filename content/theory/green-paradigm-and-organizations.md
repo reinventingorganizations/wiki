@@ -108,19 +108,19 @@ intro: >-
   ##### 以家庭为导航隐喻
 
 
-  The dominant metaphor in Green is the family. This contrasts with the ‘organization as a machine’ in Achievement Orange. When leaders of Green Organizations speak, you can’t fail to notice how frequently the metaphor comes up: employees are part of the same family, in it together, ready to help each other out, being there for one another.
+  绿色组织最主要的隐喻是家庭。这与成功导向的橙色之“组织如机器”形成鲜明对比。当绿色组织的领导者发言时，你会注意到这个比喻经常出现：员工是同一个家庭的有机部分，我们在一起，随时准备着互相帮助，互相支撑。
 
 
-  At Southwest, one of eight injunctions is to display “a servant’s heart”. In the Southwest Way it is for employees to “Embrace the SWA family.”
+  在西南航空，八条准则之一就是展示“仆人的心”。在西南航空，员工的道路是“拥抱SWA大家庭”。
 
 
-  DaVita, a leading operator of dialysis centers, that has implemented Green principles with great consistency.^\[The 2006 Stanford Business Case on DaVita is highly readable and a good resource for readers wanting to immerse themselves in a more detailed description of Green organizational principles and practices.]It uses another community metaphor, the Village, and calls its 41,000 employees citizens. Corporate headquarters is known as Casa DaVita, while Kent Thiry, the chairman and CEO is called Mayor of the Village. He is credited with having rescued the company from virtual bankruptcy in 1999 to its current success by virtue of the Green culture he brought about.
+  戴维塔是透析中心的主要运营商，全体一致的在实施绿色原则。他们使用了另一个社区隐喻“村庄”，并称其41000名员工为公民。公司总部被称为生命之家（Casa DaVita），而董事长兼首席执行官Kent Thiry则被称为村长。1999年，凭借他所带来的绿色文化，他将公司从实际上的破产状态中解救出来，导向了目前的成功。
 
 
-  #### The Shadow of Green
+  #### 绿色的阴暗面
 
 
-  Green is born from the movement away from Orange, in many ways specifically away from the shadow of Orange. At its peak, Green is communitarian, egalitarian and consensual.^\[Don Beck puts it this way: "Our science left us numb, without heart and soul, and with only the outer manifestations of success. The “good life” was measured only in materialistic terms. We discover that we have become alienated from ourselves, as well as from others. [...] the basic human being has been neglected. The focus shifts from personal achievement to group- and community-oriented goals and objectives—for GREEN, we are all one human family. GREEN begins by making peace with ourselves and then expands to looking at the dissonance and conflicts in society and wanting to make peace there, too, addressing the economic gaps and inequities created by ORANGE, and also by BLUE and by RED, to bring peace and brotherhood so we can all share equally. Gender roles are derigidified, glass ceilings opened, affirmative action plans are implemented, and social class distinctions blurred. Spirituality returns as a nondenominational, nonsectarian “unity.””]
+  绿色诞生于远离橙色的运动，在许多方面特别强调要远离橙色的缺点。在鼎盛时期，绿色是社群主义、平等主义和议会制。^\[唐·贝克说：“我们的科学让我们麻木，没有心灵和灵魂，只有成功的外在表现。“美好生活”只用唯物主义的术语来衡量。我们发现自己和别人都变得疏远了。……基本的人性被忽视了。进入绿色后，重点从个人成就转移到以团体和社区为导向的绿色目标，我们都是一个人类大家庭。绿色从与自己和睦相处开始，然后扩展到关注社会中的不和谐和冲突，也希望在那里实现和平，解决橙色、蓝色和红色造成的经济差距和不平等，带来和平和兄弟情谊，以便我们都能平等分享。性别歧视被摒弃，玻璃天花板被打开，平权行动计划被实施，社会阶层的区别变得模糊。灵性作为一种非宗教性的、非教派的“统一”而回归。“]
 
 
   The accomplishments of Green are significant and can probably not be overstated. In the short time of it’s existence humanity has seen major change in the direction of a more humane society: the civil rights movement, the women’s liberation movement, the global drive for environmental protection, heightened awareness for the need to protect our ecosystems, health care reforms, improved awareness of marginalization of minority groups in society, and more are all examples of progress that would never have emerged without it.
