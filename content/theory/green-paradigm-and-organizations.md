@@ -81,10 +81,10 @@ intro: >-
   有些人感受不到这种力量，所以嘲笑共享价值观的概念。这是因为，橙色组织是处于义务追随潮流，才定义了一套形式主义的价值观，虽然张贴在墙上和网上，却在遇到更现实的底线问题时，选择忽略这些价值观。但是，当领导力能真正通过培育共同价值观而发挥作用时，就会体验到令人难以置信的充满活力的文化。在这种文化中，员工会感到被赞赏和授权。其结果往往是惊人的。研究表明，以价值观为导向的组织可以在很大量级上超越同行。^\[第一项主要研究始于1992年，当时哈佛商学院教授约翰·科特（John Kotter）和詹姆斯·赫斯科特（James Heskett）在其著作《企业文化与绩效》（Corporate Culture and Performance）中调查了这一联系。他们确定，在研究所覆盖的11年中，拥有强大商业文化和授权经理/员工的公司在收入增长（四倍）、股价增长（八倍）和净收入增长（700多倍）方面的表现，都优于其他公司。Raj Sisodia、Jagh Sheth和David B.Wolfe最近的一项研究，也在2007年得出了类似的结论，这本书可以说是绿色组织模式的定义性著作——《亲密的公司：世界级公司如何从激情和目标中获利》。作者所研究的这个“受人喜爱的公司”在研究开始前的10年里，获得了1025%的累计股东回报率，对比的标准普尔500指数为122%。从方法论的观点来看，这些结果遭到了半信半疑。反对者认为：这个研究存在着明显的选择偏差，因为手工挑选作为研究样本的公司，都是些人们期望中的，表现优于同行的优秀公司。标普500指数的基准也没有根据行业、规模或其他标准进行调整。此外，除了组织模式以外的参数，例如专利、创新商业模式和资产利用率等可以有助于这些公司卓越结果的其他要素，也没有被过滤掉。拉吉·西索迪亚与约翰·麦基合著的最新一本书，有一整章里有类似研究的参考资料，感兴趣的读者可以参考。任何试图提出一种组织模式优于另一种组织模式的一般性结果的研究，都必然会遭到方法论的攻击（在原则层面上，人们可能会质疑，大多数这类研究都按照股东回报或增长作为衡量成功的主要指标，这是否合适）。也许直接经验最终比学术主张更重要。任何在西南航空（southern Airlines）或集装箱商店（Container Store）等机构工作过的人都会相信，在价值观驱动的公司里，拥有权力的员工相比于在更传统的环境下的平均表现，会优于同行环境的成果。]
 
 
-  Green Organizations may put inspirational purpose at the heart of what they do. Southwest doesn’t consider itself merely in the transportation business; it insists it is in the business of “freedom,” helping customers to go to places they couldn’t without Southwest’s low fares. Ben & Jerry’s is not just about ice cream, it’s about the earth and the environment too.
+  绿色组织可能会把鼓舞人心的目标放在做事的核心。西南航空并不认为自己只从事运输业务；他们坚持认为自己从事的是“奉献自由”的业务，帮助客户前往没有西南航空低票价就无法到达的地方。本与杰瑞公司不仅仅与冰淇淋有关，而是涉及到地球和环境。
 
 
-  In Orange Organizations, strategy and its execution are prime. In Green Organizations, culture is paramount. CEOs of Green Organizations claim that promoting culture and shared values is their primary task. This focus elevates human resources (HR) to a central role. The HR director is often an influential member of the senior team, and a counselor to the CEO. She heads a large staff orchestrating big investments into processes like training, culture initiatives, 360-degree feedback, succession planning and morale surveys.
+  在橙色组织中，首要重视的是战略及其执行。在绿色组织中，最重视的是文化。绿色组织的首席执行官们声称，促进文化和共享价值观是他们的首要任务。这提升了人力资源（HR）的核心作用。人力资源总监通常是高管团队中有影响力的成员，也是首席执行官的顾问。她领导着一支庞大的员工队伍，在培训、文化举措、360度反馈、继任计划和士气调查等流程中安排大量投资。
 
 
   ##### Green breakthrough 3: Multiple stakeholder perspective
