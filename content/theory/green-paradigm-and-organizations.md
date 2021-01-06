@@ -87,25 +87,25 @@ intro: >-
   在橙色组织中，首要重视的是战略及其执行。在绿色组织中，最重视的是文化。绿色组织的首席执行官们声称，促进文化和共享价值观是他们的首要任务。这提升了人力资源（HR）的核心作用。人力资源总监通常是高管团队中有影响力的成员，也是首席执行官的顾问。她领导着一支庞大的员工队伍，在培训、文化举措、360度反馈、继任计划和士气调查等流程中安排大量投资。
 
 
-  ##### Green breakthrough 3: Multiple stakeholder perspective
+  ##### 绿色突破3：多方利益相关者视角
 
 
-  Green Organizations insist that businesses have a responsibility not only to investors, but also to management, employees, customers, suppliers, local communities, society at large, and the environment. The role of leadership is to make the right trade-offs so that all stakeholders can thrive.
+  绿色组织坚持认为，企业不仅要对投资者负责，还要对管理层、员工、客户、供应商、当地社区、整个社会和环境负责。领导的作用是做出正确的权衡，以便所有利益相关者都能茁壮成长。
 
 
-  This is in contrast with the Orange perspective that for-profit companies should operate with a shareholder perspective and that management’s primary obligation is to maximize profits for investors. Adam Smith’s “invisible hand” is often invoked to explain how this benefits all stakeholders in the long run.
+  这与橙色的观点形成了鲜明对比，橙色认为营利性公司应该从股东视角去经营，管理层的首要义务是为投资者实现利润最大化。亚当·斯密的“看不见的手”一书经常被用来解释，绿色组织的方针是有利于所有利益相关者的长远利益。
 
 
-  While many large organizations today are required to publish a social responsibility report, Green Organizations consider social responsibility integral to how they do business. It is not a distracting obligation.
+  虽然如今许多大型组织都被要求发布社会责任汇报，但绿色组织认为社会责任是他们开展业务的有机部分（不需要刻意定义）。即社会责任不是与绿色组织经营目标冲突的分散注意力的额外义务。
 
 
-  Social responsibility provides the motivation to innovate and to become better corporate citizens. They work with suppliers in developing countries to improve working conditions and prevent child labor; they reduce their carbon footprint and use of water; they may recycle products and reduce packaging.
+  社会责任为创新和成为更好的企业公民提供了动力。他们主动增加与发展中国家供应商的协作，以改善那里的工作条件，帮助防止童工；他们致力于减少碳足迹和水的使用；他们努力回收产品并减少包装。
 
 
-  Leaders in Green Organizations maintain that while the “stakeholder perspective” might mean higher costs in the short term, it will deliver benefits for all in the long run—including shareholders.
+  绿色组织的领导者们坚持认为，虽然“利益相关者视角”可能意味着短期内成本上升，但从长远来看，必将为所有人带来利益，包括股东。
 
 
-  ##### Family as the guiding metaphor
+  ##### 以家庭为导航隐喻
 
 
   The dominant metaphor in Green is the family. This contrasts with the ‘organization as a machine’ in Achievement Orange. When leaders of Green Organizations speak, you can’t fail to notice how frequently the metaphor comes up: employees are part of the same family, in it together, ready to help each other out, being there for one another.
