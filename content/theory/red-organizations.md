@@ -15,13 +15,13 @@ intro: >-
   ### Red stage of consciousness
 
 
-  Historically, the Red stage consciousness seems to have emerged about 10,000 years ago, bringing forth the first chiefdoms and proto-empires. The first forms of organization emerged at this time. 
+  历史上，红色意识似乎出现在大约10000年前，产生了第一个酋长国和原始帝国。最早的组织形式也是在这个时候出现的。
 
 
-  People have a strong sense of self and see themselves entirely separate from others and from the world. This realization is frightening and death is real. *If I’m just a small part, separate from the whole, I might suffer or die.* The world is seen as a dangerous place where one’s needs being met depends on being strong and tough. The currency of the world is power. *If I’m more powerful than you, I can demand that my needs are met; if you are more powerful than me, I’ll submit in the hope you will take care of me.* The emotional spectrum is rather crude, and people often express their needs through tantrums and violence. Even if leaders are aware of other people’s feelings, they are not important . Orientation is mostly in the present―*I want it, and I want it now*―but this impulsiveness can extend into the future with the use of simple power, manipulation, or submission strategies. Simple causal relationships such as rewards and punishments are understood. Thinking is shaped by polar opposites, which makes for a black and white worldview―for example, strong/weak, my way/your way.
+  这个阶段的人们具有强烈的自我意识，认为自己与他人和世界完全分离。这种身份分离认识带来恐惧，认为死亡是真实的。如果我只是与整体分离的一个小部分，✳我就可能会遭受痛苦或死亡。✳世界被视为一个危险的地方，一个人的需要能否得到满足、取决于是否坚强和强硬。世界的货币是权力。✳如果我比你强大，我可以保证自己的需求得到满足；如果你比我强大，我会屈服，希望你能照顾我。✳情绪波段相当粗糙，人们经常通过发脾气和暴力来表达需求。即使领导者知道别人的感受，也不会去重视。定位主要是在导向——我想要它，我现在就想要它——但这种冲动可以通过简单的权力、操纵或服从策略延伸到未来。理解了简单的因果关系，如对奖励和惩罚的理解。思维是两极对立的，形成了二元黑白世界观——例如，强/弱，我的方式/你的方式。
 
 
-  Role differentiation becomes viable― or in other words, there is a meaningful division of labor. There is a chief and there are foot soldiers. Slavery emerges on a large scale, now that tasks can be isolated and given to enemies from neighboring tribes that have been defeated and put into bondage. Historically, this has led to chiefdoms ruling  hundreds and even thousands of people. Red functioning can still be found in adults in many tribal societies in the world today and in underprivileged areas amidst developed societies. Every paradigm has its sweet spot, a context in which it is most appropriate. Red is highly suitable for hostile environments: combat zones, civil wars, failed states, prisons, or violent inner-city neighborhoods.
+  角色分化变得可行——或者换句话说，出现了有意义的分工。首领和步兵分工不同。奴隶制大规模出现，任务和劳作开始被区分出来，分配给被打败并被奴役的邻近部落的敌人来完成。从历史上看，这让一个酋长有能力统治数百人甚至数千人。在当今世界的许多部落社会，甚至再发达社会中的贫困地区，仍然可以发现成年人按照红色模式运作。每一种范式都有它的最佳点，一个最合适的语境。红色非常适合于敌对环境：战斗区、内战、失败的州、监狱或充满暴力的市中心社区。
 
 
   ### Characteristics of Red organizations
