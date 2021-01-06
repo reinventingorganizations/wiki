@@ -123,10 +123,10 @@ intro: >-
   绿色诞生于远离橙色的运动，在许多方面特别强调要远离橙色的缺点。在鼎盛时期，绿色是社群主义、平等主义和议会制。^\[唐·贝克说：“我们的科学让我们麻木，没有心灵和灵魂，只有成功的外在表现。“美好生活”只用唯物主义的术语来衡量。我们发现自己和别人都变得疏远了。……基本的人性被忽视了。进入绿色后，重点从个人成就转移到以团体和社区为导向的绿色目标，我们都是一个人类大家庭。绿色从与自己和睦相处开始，然后扩展到关注社会中的不和谐和冲突，也希望在那里实现和平，解决橙色、蓝色和红色造成的经济差距和不平等，带来和平和兄弟情谊，以便我们都能平等分享。性别歧视被摒弃，玻璃天花板被打开，平权行动计划被实施，社会阶层的区别变得模糊。灵性作为一种非宗教性的、非教派的“统一”而回归。“]
 
 
-  The accomplishments of Green are significant and can probably not be overstated. In the short time of it’s existence humanity has seen major change in the direction of a more humane society: the civil rights movement, the women’s liberation movement, the global drive for environmental protection, heightened awareness for the need to protect our ecosystems, health care reforms, improved awareness of marginalization of minority groups in society, and more are all examples of progress that would never have emerged without it.
+  毫无疑问，绿色阶段的成就是重大而言之不尽的。在它存在的短短时间里，人类在奔向更加人道社会的方向上发生了重大变化：民权运动、妇女解放运动、全球环境保护运动、对保护生态系统必要性的认识提升、医疗改革，提高少数群体在社会中被边缘化的意识，以及更多没有这种意识就永远不会出现的进步案例。
 
 
-  But as much as Green is a healthy counterbalance to Orange, and to some extent also the previous stages, it is also a stage that can rigidify too far into its own spectrum and display its very own shadow tendencies.
+  尽管绿色是对橙色的一种更健康的替代和平衡，可能也客服了之前阶段的很多弊端，但绿色同时也是一个，可能因为过于僵化在自己的光芒中，而很容易投射出自己阴影的阶段。
 
 
   ##### Relativism without boundaries
