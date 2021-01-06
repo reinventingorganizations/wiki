@@ -1,7 +1,7 @@
 ---
 layout: case
 tags: cases
-name: Morning Star
+name: 晨星(Morning Star)
 date: 2020-11-09
 introduction: >-
   The [Morning Star Company ](https://www.morningstarco.com/)is a
