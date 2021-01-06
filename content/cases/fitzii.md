@@ -1,8 +1,8 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
-name: Fitzii
+name: 菲茨伊(Fitzii)
+date: 2020-11-09
 introduction: >-
   Hiring software and services provider - Canada - 10 employees – For profit
 
