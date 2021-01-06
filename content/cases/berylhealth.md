@@ -1,8 +1,8 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
-name: BerylHealth
+name: 绿柱石健康(BerylHealth)
+date: 2020-11-09
 introduction: Call center services for hospitals - USA - For profit
 industry: J. Information and communication
 geography: USA
