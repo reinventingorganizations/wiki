@@ -1,8 +1,8 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
-name: CC&R (Center for Courage & Renewal)
+name: 勇气与焕新(CC&R)
+date: 2020-11-09
 introduction: CC&R has created meetings for welcoming and farewelling personnel.
 industry: P. Education
 geography: USA
