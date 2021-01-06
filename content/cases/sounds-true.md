@@ -1,8 +1,8 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
-name: Sounds True
+name: 桑楚(Sounds True)
+date: 2020-11-09
 introduction: "**Sounds True** is a multimedia publishing company founded in
   1985 by Tami Simon, with the mission of disseminating spiritual wisdom. The
   company is based in Louisville, Colorado, near Boulder, Colorado."
