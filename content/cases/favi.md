@@ -1,7 +1,7 @@
 ---
 layout: case
 tags: cases
-name: 法维
+name: 法维（FAVI）
 date: 2020-11-17T14:57:47.618Z
 introduction: >-
   Favi is a French SME born in 1956 specialized in gearbox forks for cars and
