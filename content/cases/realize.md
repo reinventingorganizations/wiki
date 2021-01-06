@@ -1,8 +1,8 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
-name: Realize!
+name: 觉察！(Realize!)
+date: 2020-11-09
 introduction: Consulting - Netherlands - 4 partners - For Profit
 industry: M. Professional, scientific and technical activities
 geography: Netherlands
