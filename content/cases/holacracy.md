@@ -1,8 +1,8 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
-name: Holacracy
+name: 霍尔(Holacracy)
+date: 2020-11-09
 introduction: >-
   Organizational operating model 
 
