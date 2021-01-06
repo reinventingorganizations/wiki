@@ -1,8 +1,8 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
-name: Sun Hydraulics
+name: 太阳液压（Sun Hydraulics）
+date: 2020-11-09
 introduction: >-
   From its own website [Sun Hydraulics](https://www.sunhydraulics.com/about) is
   a leading designer and manufacturer of high-performance screw-in hydraulic
