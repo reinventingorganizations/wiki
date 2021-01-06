@@ -1,7 +1,7 @@
 ---
 layout: case
 tags: cases
-name: Hanno
+name: 汉诺（Hanno）
 date: 2020-11-17T14:57:05.017Z
 introduction: Digital design agency - Worldwide - 8 'shipmates' - For Profit.
 industry: M. Professional, scientific and technical activities
