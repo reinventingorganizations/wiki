@@ -24,7 +24,7 @@ intro: >-
   角色分化变得可行——或者换句话说，出现了有意义的分工。首领和步兵分工不同。奴隶制大规模出现，任务和劳作开始被区分出来，分配给被打败并被奴役的邻近部落的敌人来完成。从历史上看，这让一个酋长有能力统治数百人甚至数千人。在当今世界的许多部落社会，甚至再发达社会中的贫困地区，仍然可以发现成年人按照红色模式运作。每一种范式都有它的最佳点，一个最合适的语境。红色非常适合于敌对环境：战斗区、内战、失败的州、监狱或充满暴力的市中心社区。
 
 
-  ### Characteristics of Red organizations
+  ### 红色组织的特点
 
 
   Organizations molded in Red consciousness first appeared in the form of small conquering armies, when the more powerful chiefdoms grew into proto-empires. They can still be found today in the form of street gangs and mafias. Today’s Red Organizations borrow tools and ideas from modernity―think about organized crime’s use of weaponry and information technology. But their structures and practices are for the most part still molded in the Red paradigm.
