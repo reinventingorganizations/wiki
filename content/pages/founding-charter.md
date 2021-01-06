@@ -31,9 +31,7 @@ name: Founding charter
 
 ![](/media/3_025-founding-charter.jpg)
 
-<!---->
-
-1. ##### The Wiki focuses on the next stage of organizations…
+##### The Wiki focuses on the next stage of organizations…
 
 The wiki is founded on the idea that there are distinct evolutionary steps in the way people conceive of and run organizations.
 
