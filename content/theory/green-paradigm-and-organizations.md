@@ -39,7 +39,7 @@ intro: >-
   然而，这个阶段还存在着一些矛盾点。试图平等的对待所有观点，就会有人滥用人们对不宽容想法的高尚容忍，因而令高尚者陷入困境。红色的自我中心主义，琥珀色的确定性，以及橙色，都认为这是绿色的理想主义（不现实）。绿色与规则的关系是模棱两可的：一方面，认为规则是武断和不公平的，但也知道废除这些规则是不切实际的。绿色是打破旧结构的一个范例，但在制定切实可行的替代方案角度，往往不那么有效。
 
 
-  #### Breakthroughs and characteristics of Green organizations
+  #### 绿色组织的突破与特点
 
 
   Green is uneasy with power and hierarchy. If it means that those at the top rule over those at the bottom, then let’s abolish hierarchy. Let’s give everybody the same power. Let workers own the company in equal shares and make decisions by consensus.
