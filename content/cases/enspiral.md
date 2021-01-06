@@ -1,8 +1,8 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
-name: Enspiral
+name: 恩斯皮拉尔(Enspiral)
+date: 2020-11-09
 introduction: The Enspiral Foundation is a charitable company co-owned by the
   Enspiral Members. Its mission is to support the network as a whole, facilitate
   collaboration between the people and ventures, and further the overall social
