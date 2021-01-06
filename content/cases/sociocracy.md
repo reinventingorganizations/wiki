@@ -1,8 +1,8 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
-name: Sociocracy
+name: 社区主义(Sociocracy)
+date: 2020-11-09
 introduction: Sociocracy, also called dynamic governance, is a system of
   governance which seeks to create harmonious social environments and productive
   organizations. It is distinguished by the use of consent, rather than majority
