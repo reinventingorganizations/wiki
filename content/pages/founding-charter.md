@@ -2,6 +2,8 @@
 layout: content
 name: Founding charter
 ---
+## 创立宪章
+
 The Charter lays out the vision the founders of the wiki shared when the wiki was created. The charter serves two functions:
 
 * Help people decide if they resonate with the wiki’s purpose and want to participate
