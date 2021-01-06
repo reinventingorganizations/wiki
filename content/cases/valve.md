@@ -1,7 +1,7 @@
 ---
 layout: case
 tags: cases
-name: Valve
+name: 沃夫（Valve）
 date: 2020-11-17T14:57:26.749Z
 introduction: Software - US - 330 Employees - For Profit.
 industry: J. Information and communication
