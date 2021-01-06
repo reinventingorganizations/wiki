@@ -1,8 +1,8 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
-name: Schule im Aufbruch
+name: 流动学校(Schule im Aufbruch)
+date: 2020-11-09
 introduction: >-
   Consulting Services - Germany - 6 employees - Non-profit
 
