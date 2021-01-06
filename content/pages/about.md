@@ -4,9 +4,11 @@ name: About
 ---
 ![](/media/evolutionary-purpose.jpg)
 
-#### For leaders transforming their organizations...
+## 关于我们
 
-#### And for students, academics, coaches, bloggers...
+#### 敬献给致力于组织蔚蓝转型的领导者...
+
+#### 敬献给共鸣的学生、学者、导师、博主...
 
 This wiki is meant as a gift for leaders who feel called to create radically more soulful and purposeful organizations (more in the wiki’s [founding charter](../founding-charter)). It is also a resource that makes next-generation practices more visible and understandable for bloggers, media students, academics, and the broader public.
 
