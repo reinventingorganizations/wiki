@@ -1,8 +1,8 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
-name: Buffer
+name: 巴佛(Buffer)
+date: 2020-11-09
 introduction: Social media start up - Global - 40 people - For Profit.
 industry: M. Professional, scientific and technical activities
 geography: Global
