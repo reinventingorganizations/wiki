@@ -129,22 +129,22 @@ intro: >-
   尽管绿色是对橙色的一种更健康的替代和平衡，可能也客服了之前阶段的很多弊端，但绿色同时也是一个，可能因为过于僵化在自己的光芒中，而很容易投射出自己阴影的阶段。
 
 
-  ##### Relativism without boundaries
+  ##### 无边界相对论
 
 
-  Green is put in a dilemma when its benevolence and tolerance is abused by the same groups that Green wants to invite into equality on equal terms. Green shadow is forced to choose between accepting when non-tolerant Amber and Red abuses its tolerance or to acknowledge that not all worldviews have the same level of maturity and may need different levels of limitation.
+  当绿色的仁慈和宽容素质，恰恰被那些绿色希望在平等条件下平等对待的群体滥用时，绿色就会陷入两难境地。绿色就会被迫做出选择，要么选择宽容那些不宽容的琥珀色和红色对其容忍度的滥用、而受屈辱，或者选择承认说，并非所有人的世界观都具有相同的成熟度，有些人群可能需要不同程度的限制（不平等）。
 
 
-  ##### Non-rational is better
+  ##### 越没理性越好
 
 
-  In an effort to distance itself from Orange (rational) views, Green shadow sees all non-rational value systems as preferable. Green has a romantic notion with ‘back to nature’. It often does not see how pre-rational worldviews are deeply limited and how different they are from post-rational Green worldviews.
+  为了与橙色（理性）摸索保持距离，绿色的缺点表达是，认为所有非理性的价值体系都是可取的。绿色有一个浪漫的概念“回归自然”。绿色常常看不到前理性世界观的有限性（橙色针对红琥珀的先进性），也看不到这些与后理性的绿色世界观的天壤之别。
 
 
-  ##### Accidental sameness as an externality of pluralistic identity
+  ##### 多元身份呈现出偶然同一性
 
 
-  When Green’s strong inclusion drive becomes identity this causes a need for shared ideals as a prerequisite for group membership consideration.^\[The resulting attitude becomes protection of the unique sameness inside the organization. This couples with an implicit judgement and suspiciousness of outsiders as potential threats to the established culture. This typically does not manifest in explicit or outspoken criticism as Green often tries to avoid confrontation. Rather this is more often seen as a moral high ground of implicit “shoulds” and unspoken expectations of certain views and means of expressions that must be exhibited or agreed on for acceptance from insiders. Any lack of such views or expression is confirmation that non-acceptance is justified. Clare W Graves puts it this way: “Green brings into existence the sociocratic value system, in which emphasis is placed upon ‘getting along’, accepting the authority of the group or the majority, and seeking status from others. This ‘other directed’ individual believes he will find salvation in belonging and in participating with others in what they want him to do. While the individual has given up his dogmatism, he nevertheless rigidifies in a world of sociocentric thinking.”, for more see The Mean Green Hypothesis: Fact or Fiction, by Natasha Todorovic] When this “like me, like us” filter becomes more important to determine membership than if an individual is motivated and capable to contribute to the organization’s purpose this often causes three problems at the collective level: Limited choice of people, lack of diversity inside the organization and a limited ability to get things done.
+  当绿色将强大的包容动机作为身份认同时，会带来对共享理念的需求（信念划一），这往往成为加入绿色组织资格考察的先决条件。^\[由此产生的态度就变成了对组织内部独特共性的保护（违背包容原理）。这与一种含蓄的判断和对外来者的怀疑相结合，形成对既定包容文化的潜在威胁。这通常不会表现在明确或直言不讳的批评，因为绿色经常试图避免对抗。这种“默许”的表达方式往往被视为“对某些人的道德期望”或“更高的默许”。任何缺乏这种意见或表达的情况，潜规则默许这些人不被接受。克莱尔W格雷夫斯这样说：“绿色带来了社会官僚价值体系的存在，其中强调的是'相处'，接受群体或多数人的权威，并寻求被他人认可的地位。这个“他人指导”的个体相信，自己会在归属感中找到救赎，并与他人一起参与群体想要他做的事情。虽然个人已经放弃了他的教条主义，但他仍然僵化在一个以社会为中心的思想世界中。”，更多信息请参见娜塔莎·托多罗维奇的《中庸的绿色假设：事实还是虚构》] When this “like me, like us” filter becomes more important to determine membership than if an individual is motivated and capable to contribute to the organization’s purpose this often causes three problems at the collective level: Limited choice of people, lack of diversity inside the organization and a limited ability to get things done.
 
 
   ##### Power and structure is the obstacle to equality
