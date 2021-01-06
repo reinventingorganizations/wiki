@@ -1,8 +1,8 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
-name: Zappos.com
+name: 捷步达康（Zappos.com）
+date: 2020-11-09
 introduction: Zappos.com is famous for its outstanding culture, offers its new
   hires a $3,000 check if they have second thoughts and choose to quit during
   the four- week orientation.
