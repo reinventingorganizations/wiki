@@ -6,12 +6,7 @@ name: 红色模式与组织
 sortOrder: 2
 category: history
 intro: >-
-  Red organizations are molded on the Red stage of consciousness, which sees the
-  world through a crude lens of power. Power is exercised constantly by ‘Chiefs’
-  to keep foot soldiers in line. Fear and unpredictability hold the organization
-  together. Red organizations tend to be highly reactive with a short-term
-  focus. This makes them well-suited to thrive in chaotic environments. Wolf
-  packs are a good metaphor for Red organizations.
+  红色组织是红色意识阶段出现的，它通过一个粗糙的权力镜头来看待世界。“酋长”不断行使权力，让步兵保持整齐。恐惧和不可预测性让组织团结在一起。红色组织倾向于高度反应，关注短期利益。这使得他们非常适合在混乱的环境中茁壮成长。狼群是红色组织的一个很好的比喻。
 
 
   ![](/media/red.jpg)
