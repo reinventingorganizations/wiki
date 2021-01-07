@@ -251,18 +251,18 @@ faq:
 
 
       当面临重大转折时，可以通过一些更为复杂的流程来完成。其中包括奥托·沙尔默的《U理论》、大卫·库佩里德的“[鉴赏性探寻](https://en.wikipedia.org/wiki/Appreciative_inquiry)" 、马文·魏斯堡和桑德拉·贾诺夫的“[未来探索](https://en.wikipedia.org/wiki/Future_Search)", 、哈里森·欧文的“[开放艺术空间](https://en.wikipedia.org/wiki/Open_Space_Technology), [主持人技巧](http://www.artofhosting.org/), [世界咖啡厅](http://www.theworldcafe.com/)等。 ”
-  - question: Can this type of decision-making be upheld in a time of crisis?
+  - question: 在危机时刻，这种决策流程能否得到支持？
     answer: >-
-      In crises, time is of the essence. Is the advice process too unwieldy?
+      在危机中，时间至关重要。建议绿是否过于笨拙？
 
 
-      There are good examples of organizations that have used the advice process during crises. Rarely are decisions so urgent that a few hours can't be found to seek advice. And if possible, a crisis makes it even more important that a 'right' decision is made. 
+      有很多很好的案例组织，在危机期间使用了建议流程。很少在几个小时内就得到了紧急建议。危机发生时，尽可能做出一个“正确”的决定，其实尤为重要。
 
 
-      If, for some reason, the process does need to be suspended, two guidelines maintain trust in[ self-management:](../self-management/) Full transparency about the scope and time frame of the crisis response, and making sure such powers clearly cease when the crisis is over.
+      如果出于某种原因，这一进程确实需要暂停，那么有两条准则可以维持对[自我管理](../self-management/)的信任：关于危机应对的流程暂停范围和时间框架，保持完全透明；并确保在危机结束后，这个暂停建议流程的权力要明确停止。
 
 
-      In fact in many ways, the advice process allows for even faster and more decisive action, because many people in the organization practice being empowered decision-makers on a regular basis. In a well-functioning Teal organization, someone who is aware of a crises will weigh the advice it's feasible to get in the time they have, and make a judgement call.
+      事实上，在许多方面，咨询过程允许更快、更果断的行动，因为组织中的许多人经常被赋予决策者权力。在一个运作良好的蔚蓝组织中，一个意识到危机的人会权衡在他们有的时间里得到的建议是否可行，并做出判断。
   - question: What about decisions that affect the whole organization? Isn’t it
       impractical to solicit feedback from large numbers?
     answer: >-
