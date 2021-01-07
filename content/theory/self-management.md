@@ -59,52 +59,26 @@ inPractice: >-
 
   在同事之间意见不一致时，自行利用一种精确定义的冲突解决流程来解决。同事互相依赖，信任各自的双向承诺。参见 [冲突解决](../conflict-resolution/)。
 faq:
-  - question: Is there any evidence this actually works?
+  - question: 是否存在一些证据说明这些确实有效？
     answer: >-
-      A 2009 Ernst & Young study found that Buurtzorg (see “Concrete examples
-      for inspiration” below) requires, on average, close to 40 percent fewer
-      hours of care per client than other nursing organizations— which is ironic
-      when you consider that nurses in Buurtzorg take time for coffee and talk
-      with the patients, their families, and neighbors, while other nursing
-      organizations have come to time “products” in minutes. Patients stay in
-      care only half as long,heal faster, and become more autonomous. A third of
-      emergency hospital admissions are avoided, and when a patient does need to
-      be admitted to the hospital, the average stay is shorter. The savings for
-      the Dutch social security system are considerable— Ernst & Young estimates
-      that close to € 2 billion would be saved in the Netherlands every year if
-      all home care organizations achieved Buurtzorg’s results. Scaled to the US
-      population, this savings would be equivalent to roughly $ 49
-      billion^[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide
-      to Creating Organizations Inspired by the Next Stage of Human
-      Consciousness (Kindle Locations 1521-1527). Nelson Parker. Kindle
-      Edition.]
+      安永2009年的一项研究发现，布尔佐格（见下文“启发性实践案例”）平均每个客户需要的护理时间比其他护理机构减少近40%——当你考虑到布尔佐格的护士，其实经常花时间喝咖啡和与患者、其家人和邻居交谈时，这是一种讽刺。而其他的护理机构会在几分钟内就开始计时“服务商品”。病人需要护理的时间减少到原来的一半，治愈更快，病人自主性更强。能避免三分之一的急诊住院，当病人确实需要住院时，平均住院时间也会更短。荷兰社会保障体系的节省是相当可观的——安永估计，如果所有家庭护理组织都实现了布尔佐格的效果，荷兰每年将节省近20亿欧元。如果按美国人口计算，这一节省大约相当于490亿美元。
+
+      ^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 1521-1527). Nelson Parker. Kindle Edition.]
 
 
-      In the case of FAVI (see “Concrete examples for inspiration” below), a foundry based in France, all its competitors have moved to China to enjoy cheaper labor costs. And yet FAVI is not only the one producer left standing in Europe; it also commands a 50 percent market share for its gearbox forks. Its product quality is legendary, and its on-time delivery close to mythical: workers are proud of their record of not a single order delivered late in over 25 years. FAVI delivers high profit margins, year in and year out, despite Chinese competition, salaries well above average, and highly cyclical demand patterns.^[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 1690-1694). Nelson Parker. Kindle Edition.]
-  - question: Isn’t this the same as “empowerment”?
-    answer: "Pluralistic-Green organizations seek to deal with the problem of power
-      inequality through empowerment, pushing decisions down the pyramid, and
-      they often achieve much higher employee engagement. But empowerment within
-      the traditional hierarchy means that someone at the top must be wise or
-      noble enough to give away some of his power, and those below are subject
-      to that power being reclaimed.^[Laloux, Frederic (2014-02-09). Reinventing
-      Organizations: A Guide to Creating Organizations Inspired by the Next
-      Stage of Human Consciousness (Kindle Locations 1431-1433). Nelson Parker.
-      Kindle Edition.]"
-  - question: Does this mean that everyone is equal?
+      在中国的挑战下，所有的竞争对手都选择享受廉价的劳动力（见下面的例子）。然而，法维不仅是唯一一家留在欧洲的生产商，它的变速箱叉依然占据了50%的市场份额。它具有传奇般的产品质量，神速的准时交货：工人们为他们25年来，从未发生过一例订单延迟交货记录而自豪。尽管中国带来的竞争很激烈，法维的工资水平远高于平均水平，而且其产品需求的周期性很强，但还是每年都能保持很高的利润率。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 1690-1694). Nelson Parker. Kindle Edition.]
+  - question: 这跟赋能/授权是否相同？
+    answer: "赋能，是多元化的绿色组织，努力探索通过授权来解决权力不平等难题而得到的方法。他们把决策推下金字塔，实现了更高的员工参与度。但绿色依然是传统的\
+      等级制度，其中的授权意味着高层领导必须有足够的智慧或高尚品格而自愿放弃自己的一些权力，而下层的人则会受制于这种权力的随时收回。^\\[Laloux,
+      Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating
+      Organizations Inspired by the Next Stage of Human Consciousness (Kindle
+      Locations 1431-1433). Nelson Parker. Kindle Edition.]"
+  - question: 这是否意味着人人平等？
     answer: >-
-      In Teal Organizations: the point is not to make everyone equal; it is to
-      allow all employees to grow into the strongest, healthiest version of
-      themselves. Gone is the dominator hierarchy (the structure where bosses
-      hold power over their subordinates). And precisely for that reason, lots
-      of natural, evolving, overlapping hierarchies can emerge— hierarchies of
-      development, skill, talent, expertise, and recognition, for example. This
-      is a point that management author Gary Hamel noted about Morning
-      Star:^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide
-      to Creating Organizations Inspired by the Next Stage of Human
-      Consciousness (Kindle Locations 3050-3058). Nelson Parker. Kindle
-      Edition.]
+      在蔚蓝组织中：重点不是让每个人都平等；而是让所有成员成长为最坚强、最健康的自己。控制主题的等级制度（老板对下属拥有权力的结构）一去不复返了。正是由于这个原因，许多自然的、不断发展的、重叠的等级制度可能自然的萌芽——例如，发展、技能、人才、专业知识和群众认可者为首的等级制度。管理学作者加里•哈默尔在谈到晨星时提到：
+
+      ^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3050-3058). Nelson Parker. Kindle Edition.]
 
 
-      *Morning Star is a collection of naturally dynamic hierarchies. There isn’t one formal hierarchy; there are many informal ones. On any issue some colleagues will have a bigger say than others will, depending on their expertise and willingness to help. These are hierarchies of influence, not position, and they’re built from the bottom up. At Morning Star one accumulates authority by demonstrating expertise, helping peers, and adding value. Stop doing those things, and your influence wanes— as will your pay.*^\[Gary Hamel, “First, Let’s Fire All the Managers,” Harvard Business Review, December 2011, http:// hbr.org/ 2011/ 12/ first-lets-fire-all-the-managers, accessed April 11, 2012.]
+      晨星是自然动态层次结构的集合。虽然没有一个正式的等级制度；但是有许多非正式的等级制度。在任何问题上，都会有一些同事的发言权比其他人更大，这取决于他们的专业知识和热心帮助的意愿。这些等级是基于真实的影响力、而不是被赋予的地位。这种等级制度是自下而上自然形成的有益构架。在晨星，人们通过展示专业知识、帮助同事和积极增加自我价值来积累权威。如果你不再做那些事，你的影响力就会减弱，你的薪水也会减少。^\[Gary Hamel, “First, Let’s Fire All the Managers,” Harvard Business Review, December 2011, http:// hbr.org/ 2011/ 12/ first-lets-fire-all-the-managers, accessed April 11, 2012.]
 ---
