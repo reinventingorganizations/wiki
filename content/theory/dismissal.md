@@ -98,16 +98,16 @@ inPractice: >-
 
   从蔚蓝角度看，为了维持就业机会而人为的创造工作岗位是毫无意义的。人们对工作保障的担忧，一部分是出于生计恐惧。这个恐惧忽略了一个事实：一切都会改变（和宇宙生命的丰盛属性）。其实，为生计而就业，可能是在一个人浮于事的组织中，浪费一个人的才华。一个人可能会在更需要的地方（或更喜欢）找到更好的方式来表达自己的天赋（工作不只是粮票）。生命是一种持续不断的展开过程；尽管在自我管理的结构中很少发生解雇甚至裁员，但这些都是人生体验和变化情节的一部分。
 faq:
-  - question: How do these practices link with the three Teal breakthroughs?
+  - question: 这些实践是如何与三个蔚蓝突破相联系的？
     answer: >-
-      In [Teal organizations](../teal-paradigm-and-organizations/) the decision
-      about whether a person will stay with the organization belongs with that
-      individual and/or their team. Forced dismissals are infrequent because
-      people are given clear indications if they are not a fit so that they can
-      choose to leave voluntarily. In many cases a parting of the ways happens
-      by mutual consent in the process of self-managed conflict resolution. Only
-      when everything else fails do organization founders fire people, but this
-      is also initiated by the team or a conflict mediation panel.
+      [蔚蓝组织](../teal-paradigm-and-organizations/) the decision about whether a
+      person will stay with the organization belongs with that individual and/or
+      their team. Forced dismissals are infrequent because people are given
+      clear indications if they are not a fit so that they can choose to leave
+      voluntarily. In many cases a parting of the ways happens by mutual consent
+      in the process of self-managed conflict resolution. Only when everything
+      else fails do organization founders fire people, but this is also
+      initiated by the team or a conflict mediation panel.
 
 
       #### Wholeness
@@ -116,13 +116,13 @@ faq:
       When you don’t have a fear that your boss may fire you at will, it’s easier to show up fully at work. If you’re not being judged and do not depend on adhering to a set of rules to stay in the job, you tend to bring your whole self to the workplace.
 
 
-      [Teal organizations ](../teal-paradigm-and-organizations/)don’t reduce dismissals to cold, contractual transactions that avoid dealing with the emotions and pain. Instead, they accept and work with those human issues to turn departures into a learning experiences that can meaningfully enhance the person’s and the organization’s future path. 
+      [蔚蓝组织](../teal-paradigm-and-organizations/)don’t reduce dismissals to cold, contractual transactions that avoid dealing with the emotions and pain. Instead, they accept and work with those human issues to turn departures into a learning experiences that can meaningfully enhance the person’s and the organization’s future path. 
 
 
       #### Evolutionary purpose
 
 
-      Giving people the opportunity and encouraging them to actively find a new role in the company when they are not performing well or when their current role is no longer needed contributes to the organization’s ability to listen and understand what it is trying to become, to fulfill its [evolutionary purpose](../evolutionary-purpose/).
+      Giving people the opportunity and encouraging them to actively find a new role in the company when they are not performing well or when their current role is no longer needed contributes to the organization’s ability to listen and understand what it is trying to become, to fulfill its [进化目标](../evolutionary-purpose/).
 relatedTheory:
   - Feedback and Performance Management
   - Compensation and incentives
