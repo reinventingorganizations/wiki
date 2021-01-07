@@ -91,14 +91,14 @@ faq:
       有些人会比其他人更喜欢在自我管理的环境中工作，或者喜欢在一个，能邀请成员融入整体或深入参与特定目标的职场工作。招聘过程需要让应聘者获得机会，对所申请的工作场进行更深刻的了解，以便让组织和个人都能更清晰的互相认识，并（如果不匹配）能尽快意识到这里不是适合自己理想的工作环境。
 
 
-      * 谈到[自我管理](../self-management/)，个人面临的挑战各部相同，取决于一个人的经历和背景。如果应聘者习惯于担任经理，或惯于用权力控制运营单位的岗位上工作，这就可能是一个具有挑战性的过渡。而那些以前在组织较低级别工作过的候选人，开始时则可能会发现，自己很难处理自我管理所要求的，更高级别的承诺和个人责任。
+      * 当谈到[自我管理](../self-management/)，个人面临的挑战各部相同，取决于一个人的经历和背景。如果应聘者习惯于担任经理，或惯于用权力控制运营单位的岗位上工作，这就可能是一个具有挑战性的过渡。而那些以前在组织较低级别工作过的候选人，开始时则可能会发现，自己很难处理自我管理所要求的，更高级别的承诺和个人责任。
 
-      * When it comes to [完整人性](../wholeness/): is the person comfortable with an environment where colleagues are expecting each other to be open and vulnerable, to show up from a place of wholeness?
+      * 当谈到[完整人性](../wholeness/):当同事们都希望彼此坦诚开放和用于表达脆弱，都从一个整体性出发点展示自我时，这个新人对这样的环境是否感到舒服？
 
-      * When it comes to [进化目标:](/evolutionary-purpose/) does the person resonate with the organization's purpose, and do they feel ok with an environment in which there is little predict & control, and more sense and respond?
+      * 当谈到[进化目标:](/evolutionary-purpose/) 这个人是否与组织的目标产生共鸣，在一个几乎没有预测和控制、更重视感觉和反应的环境中，他们是否感到舒服？
 
 
-      Traditional organizations that move to Teal find that it is often hard to predict who will thrive in the new environment or not. Some people suddenly blossom, whereas others where everyone predicted they would love it find it hard. So taking time in the recruitment process and building in, when possible, a test period might be helpful to increases chances of a good fit.
+      转型进入蔚蓝模式的传统组织发现，通常很难预测那个成员能在新环境中茁壮成长。有些人会突然开花，而有些谁都预测他们会喜欢蔚蓝的人，缺发现过渡很难。因此，在招聘过程中花点时间，在可能的情况下，建立一个测试试用期，可能有助于提高适配度。
   - question: Aren’t teammates tempted to recruit candidates without strong
       personalities, who won't disturb them? Is there not a risk for lack of
       diversity to creep in?
