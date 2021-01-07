@@ -94,18 +94,15 @@ faq:
       * 许多接受调研的蔚蓝组织的收益利润都很好，并且在利润分享方面做得很好（法维I的员工通常以这种方式获得相当于17-18个月的工资）。因此，我们的想法是让基线薪酬与行业保持一致，然后在利润允许的情况下，通过利润分成的方式补足工资。这个方式可以降低成员试图提高基本工资的动机，同时也让大家知道，在经济不景气的时候，如果基本工资不膨胀，工作就更有保障。
 
       * 还有一些组织（如法国北部的法维）发现，对整个组织设定一个简单的经验法则也很有用：组织的收入分解为工资的X%，材料成本的Y%，投资的Z%，以保证利润的P%健康成长。每个成员都把这条规则当作常识来接受。这是透明利润分享的根据。例如，如果集团需要，每个人都可以主动降低工资来保持这些参数的比例均衡和组织健康。
-  - question: Should we make all salary information transparent?
+  - question: 是否应该让所有的薪资信息透明化？
     answer: >-
-      When some information is secret, it tends to generate rumors. For what
-      reason would salary information be made a secret? Probably because of the
-      idea that some people would be shocked by some of the information and
-      claim the salary distribution is not fair.
+      当一些信息是秘密的时候，就容易产生谣言。为什么工资信息会成为秘密？可能是害怕有些人会对某些信息感到震惊，并声称工资分配不公平。
 
 
-      From a Teal perspective, such discussions shouldn't be feared and avoided, but can be steered in productive ways. They can help bring to light unspoken issues and hidden grievances. They can help people grow as part of the process, in dealing with their relations to one another and to money. And perhaps, indeed, to correct some obviously unfair situations that might have slipped in over time.
+      从坦诚蔚蓝的角度来看，不应该害怕和避免这类敏感话题的讨论，而是以富有成效的方式引导沟通。这些话题有助于揭示未说出口的隐含问题和隐藏的不满。这个方式可以作为流程的一部分，在处理他们之间的人际关系和金钱关系的过程中，帮助成员成长。或许，薪酬透明化确实也有助于是为了纠正一些明显的不公平情况，因为可能会随着时间的推移而出现不公平现象。
 
 
-      For this reason, many organizations choose to make information totally public. (The social media app maker Buffer even publishes everyone's salary online). Some organizations, like the tomato-processing company Morning Star, have chosen to make the *salary increase percentages* public within the organization, but not the base salary. That might be an intermediary step towards full transparency for an organization to take.
+      因此，许多组织选择将信息完全公开。（社交媒体应用程序制造商巴佛甚至在网上公布了每个人的薪水）。一些组织，比如番茄加工公司晨星，已经选择在组织内部*公开加薪比例*，但不公开基本工资。这可能是组织走向完全透明的中间步骤。
   - question: What happens in times of crisis?
     answer: >-
       There are several documented examples of self-managing organizations where
