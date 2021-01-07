@@ -269,27 +269,24 @@ faq:
 
 
       有些组织利用内部社交网络或利用Lumio这样的软件决策工具，进行广泛而迅速的建议征募。发起者把这个提议作为一个周知帖子提出。同事们通过在线回复提供建议。如果他们的意见表示同意，那么就可以很快做出决定。如果出现了新的观点和争论，决策者可以选择修改自己的提议并再次提出。如果决定时机似乎还不成熟，可以成立一个工作组继续探讨。
-  - question: Is there no room for centralized planning? Aren’t we losing something
-      important here?
+  - question: 难道没有丝毫的集中规划余地吗？这是否会错过一些重要的角度？
     answer: >-
-      Predictions offer a comforting sense of control, but reality is that
-      organizations and the world they exist in are complex. In such systems, it
-      is meaningless to predict the future with great confidence. 
+      预测提供了一种令人欣慰的控制感。但组织和他们所处的现实世界很复杂。在这样的复杂系统中，满怀信心地预测未来是毫无意义的。
 
 
-      [Teal Organizations](../teal-paradigm-and-organizations/) accept a complex world in which perfection is elusive. They don't aim for perfection, but for workable solutions that arise from current reality, and which can be implemented quickly.
+      [蔚蓝组织](../teal-paradigm-and-organizations/)认为，这是个复杂的世界，在这个世界中，完美是难以捉摸的。他们的目标不是十全十美，而是从当前的现实情况中找出可行并且可以很快得到实施的解决方案。
 
 
-      If there is a workable solution on the table (“workable” = the solution won't make things worse), it will be adopted.  Decisions are not postponed because someone thinks more analysis will produce a better decision. The decision can be reviewed at any time. This is the essence of a culture of continuous iterative improvement.
+      只要能有一个可行的解决方案摆在桌上（“可行”=这个解决方案不会让事情变得更糟），就会被采纳。不会因为有人为追求完美或更好而坚持进行更多的分析，而推迟决策。这个决定可以随时审查。这是持续迭代改进的文化精髓。
 
 
-      Brian Robertson from [Holacracy ](http://www.holacracy.org/)uses a powerful metaphor to contrast the two approaches:
+      [霍尔](http://www.holacracy.org/)的Brian Robertson使用了一个强有力的比喻来对比这两种方法：
 
 
-      > “Imagine if we rode a bicycle like we try to manage our companies today. It would look something like this: we’d have our big committee meeting, where we all plan how to best steer the bicycle. We’d fearfully look at the road up ahead, trying to predict exactly where the bicycle is going to be when. … We’d make our plans, we’d have our project managers, we’d have our Gantt charts, we’d put in place our controls to make sure this all goes according to plan. Then we get on the bicycle, we close our eyes, we hold the handle bar rigidly at the angle we calculated up front and we try to steer according to plan. And if the bicycle falls over somewhere along the way ... well, first: who is to blame? Let’s find them, fire them, get them out of here. And then: we know what to do differently next time. We obviously missed something. We need more upfront prediction. We need more controls to make sure things go according to plan.”
+      > “想象一下，当今传统的管理公司方法，就像骑自行车。它看起来是这样的：我们举行一个大委员会会议，在那里计划如何最好地驾驶自行车。我们会恐惧地看着前面的路，试图准确地预测自行车什么时候会停在哪里。……会制定计划，会有项目经理，会有甘特图，会制定控制措施，确保一切按计划进行。然后我们上了自行车，闭上眼睛，紧紧地抓住把手，按之前计算的角度，试着按计划驾驶。如果自行车在路上的某个地方摔倒了。。。好吧，首先：谁该受责备？让我们找到他们，解雇他们，把他们弄出去。然后：我们因为知道下一次该怎么做（就能避免同一个错误）。这里有问题，我们需要更多的前期预测，需要更多的控制来确保事情按计划进行。”
 
 
-      In the Teal paradigm, the rider gets on the bike, starts with an angle that seems about right, and then keeps adjusting to get to the destination. Companies working this way often progress faster, and more smoothly toward their purpose, with less wasted energy.
+      在蔚蓝范式中，骑手骑上自行车，从一个看起来合适的角度启动，然后不断调整以到达目的地。以这种方式工作的公司通常进展更快，能更顺利地实现他们的目标，更少地浪费能源。
   - question: Does decision-making in Teal organizations require multiple bottom
       line accounting systems?
     answer: "Among Teal management practices, multiple bottom line accounting
