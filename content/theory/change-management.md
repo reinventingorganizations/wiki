@@ -76,28 +76,27 @@ inPractice: >-
 faq:
   - question: 一个蔚蓝组织当然有时也必须面对一个需要剧烈变革和自上而下决策的情况：这时传统的变更管理方法在这种情况下是否有用？
     answer: 蔚蓝组织倾向于不断适应环境中的微小变化。但有时组织也可能出现无法适应随着时间推移而形成的一些变化。也会发生突然的外部冲击（比如，最大的客户破产，或者关键的监管变化）。在这种情况下，会呼吁暂停费时的[建议流程](../decision-making/)，由一小群人甚至一个人迅速做出决定。不过，要保证所有人都清楚的知道，这种暂停是暂时的。见“危机管理”。
-  - question: How do these practices link with the three Teal breakthroughs?
+  - question: 这些实践是如何与三个蔚蓝突破相联系的？
     answer: >-
-      All three Teal breakthroughs support a more fluid, organic approach to
-      change that makes "change management" largely irrelevant.
+      蔚蓝注重的三项突破都支持一种更流畅、更有机的变革方法，这使得刻意的“变革管理”在很大程度上无关紧要。
 
 
-      ##### *Self-management*
+      ##### 自我管理
 
 
-      Self-management encourages everyone to sense when change is needed and to initiate the necessary actions to make it happen. No longer do people wait for a mandate for change to come from someone higher up the chain of command.
+      自我管理鼓励每个人意识到什么时候需要改变，并采取必要的行动使之发生。人们不再等待上级命令自己改变。
 
 
-      ##### *Wholeness*
+      ##### 整体人性
 
 
-      The more colleagues can show up from a place of wholeness at work, the better they can sense changes in the environment and what the organization's purpose might call for. An environment that feels safe and trusting will also make it easier to enlist colleagues in the need for change, especially when the proposed change might be risky or painful.
+      同事在工作中自我表现得越完整，他们就越能感觉到环境的变化以及组织的目标可能要求什么。一个让人感到安全和信任的环境，也会支撑同事们更容易接受变革，尤其是当提议的变革可能有风险或痛苦的时候。
 
 
-      ##### *Evolutionary purpose*
+      ##### 进化目标
 
 
-      Earlier organizational paradigms (predict and control) hold that that it is up to senior management to determine what the objectives of the organization should be and to initiate any change programs needed to achieve them. In Teal, as long as people’s actions are being guided by their “listening” to the organization’s purpose and sensing/responding to changes in the environment, there is no need for "change management".
+      早期的组织模式（预测和控制）认为，需要由高级管理层决定组织的目标应该是什么，并启动实现这些目标所需的变革计划。在蔚蓝组织中，只要人们的行动是以“倾听”组织目标和感知/响应环境的变化为指导的，就不需要“变化管理”。
 relatedTheory:
   - Listening to Purpose
   - Evolutionary Purpose
