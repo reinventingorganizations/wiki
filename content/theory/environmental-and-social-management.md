@@ -133,13 +133,8 @@ inPractice: >-
 
   [蔚蓝组织](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/teal-paradigm-and-organizations) （通常）没有独立的企业社会责任项目组。[布尔佐格](https://www.buurtzorgnederland.com/)通过增加新的服务，来回应对护士们所感受到的新的社会需求，例如帮助老年痴呆症患者处理家务。
 faq:
-  - question: I want my organization to do more to benefit society and the
-      environment. Where do I start?
-    answer: Encourage conversations that allow employees to raise their concerns.
-      Create an environment that champions new practices. Social and
-      environmental initiatives emerge when these [values
-      ](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/culture-and-values)are
-      aligned with the purpose of the organization.
+  - question: 我希望自己的组织能做更多有益于社会和环境的事情。要从哪里开始？
+    answer: 鼓励沟通，让员工讲出他们的心事。创造一个支持新实践的环境。当这些[价值观](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/culture-and-values)与组织的目标一致时，社会和环境倡议就会自然出现。
   - question: How do we prioritize (between) environmental and social initiatives?
     answer: Via the [advice process](../decision-making/), initiatives can be
       assessed for fit with values and [evolutionary
