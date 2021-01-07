@@ -233,25 +233,24 @@ faq:
 
 
       霍尔增加了一个转折点：对于特别敏感的区域，可以预先声明一个“域”。域基本上意味着其他成员要“放手”。与该领域有关的决定只能由指定人员作出。但基本想法是认为“域”的设置仍然只是例外，不应该经常使用。
-  - question: If we accept that an organization has its own sense of direction, how
-      do we find out where it wants to go?
+  - question: 如果我们承认一个组织有自己的方向感，我们如何发现它想去哪里？
     answer: >-
-      #### Sensing as a natural outcome of self-management
+      #### 感觉是自我管理的自然结果
 
 
-      The simplest answer is often: Do nothing special. Let self-management work its magic. One word often comes up with Teal pioneers: *Sensing*. We notice when something isn’t working as it should, or could. With experience, our capacity to sense grows. 
+      最简单的答案往往是：无为。让自我管理施展魔法。蔚蓝的先驱们经常会想到一个词：感知。我们能注意到什么没有正常工作。随着经验积累，我们的感知能力会不断增强。
 
 
-      #### The Empty Chair
+      #### 空椅子
 
 
-      One practice to keep purpose foremost is to allocate an empty chair at meetings to represent our [evolutionary purpose](../evolutionary-purpose/). Anybody can occupy the seat and represent the voice of the organization. Different questions can arise from this perspective: Have today's discussions and decisions served you (the organization) well? What stands out to you from today’s meeting? Are we being bold enough? Too bold? Is there anything else that needs to be discussed?
+      保持目标至上的一种做法，是在会议上分配一张空椅子来代表组织的[进化目标](../evolutionary-purpose/)。任何人都可以占据该席位，代表组织的声音。从这个角度来看，可能会产生不同的问题：今天的讨论和决定对您（组织）是否有好处？在今天的会议上，您认为最突出的内容是什么？我们够大胆吗？还是太大胆了？您认为还有什么需要讨论的吗？
 
 
-      #### Large Group Processes
+      #### 全体会议
 
 
-      When facing a major inflection, some more elaborate processes help. These include Otto Scharmer’s “[Theory U](https://en.wikipedia.org/wiki/U-procedure_and_Theory_U)”, David Cooperrider’s “[Appreciative Inquiry](https://en.wikipedia.org/wiki/Appreciative_inquiry)", Marvin Weisbord and Sandra Janoff’s “[Future Search](https://en.wikipedia.org/wiki/Future_Search)",  Harrison Owen’s “[Open Space Technology](https://en.wikipedia.org/wiki/Open_Space_Technology), [Art of Hosting](http://www.artofhosting.org/), [World Café](http://www.theworldcafe.com/), etc. ”
+      当面临重大转折时，可以通过一些更为复杂的流程来完成。其中包括奥托·沙尔默的《U理论》、大卫·库佩里德的“[鉴赏性探寻](https://en.wikipedia.org/wiki/Appreciative_inquiry)" 、马文·魏斯堡和桑德拉·贾诺夫的“[未来探索](https://en.wikipedia.org/wiki/Future_Search)", 、哈里森·欧文的“[开放艺术空间](https://en.wikipedia.org/wiki/Open_Space_Technology), [主持人技巧](http://www.artofhosting.org/), [世界咖啡厅](http://www.theworldcafe.com/)等。 ”
   - question: Can this type of decision-making be upheld in a time of crisis?
     answer: >-
       In crises, time is of the essence. Is the advice process too unwieldy?
