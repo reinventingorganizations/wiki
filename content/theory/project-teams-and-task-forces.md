@@ -53,39 +53,12 @@ inPractice: >-
 
   蔚蓝组织经常通过志愿工作队去执行通常由传统管理部门执行的任务。这有多方面的好处：成员可以据此找到途径，表达自己主要岗位角色用不到的才能和天赋。他们可以开发专业领域，然后与组织中的其他人共享。特别工作组也是惊人的学习机会：人们通过现代学徒制从更有经验的同事那里学习技术和领导技能。^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 90] 具体参见[管理职能](https://cn.reinventingorganizationswiki.com/theory/staff-functions/)。
 faq:
-  - question: Doesn’t this lead to chaos?
-    answer: Teal organizations trust the collective intelligence of the system.
-      While this may seem risky or outright foolish, if we reflect on lessons
-      learned in the domain of economics, we have reached a general consensus
-      that the centralized planning committees of the Soviet Union were
-      ineffective. While contemporary approaches to capitalism leave much to be
-      desired, the free-market system where a myriad of players sense and
-      respond to signals, make decisions, and coordinate among themselves has
-      proven to be more flexible and responsive. This means, that things
-      occasionally fall through the cracks, but this is often to be welcomed as
-      the outcome of a collective prioritization effort; the system simply roots
-      out a project that doesn't seem promising or important after all.^[Laloux,
+  - question: 这不会导致混乱吗？
+    answer: 蔚蓝组织信任系统的集体智慧。虽然这看起来有风险，或者是完全愚蠢，但如果我们反思一下在经济学领域的经验教训，就会达成一个普遍共识，事实证明苏联那种中央计划委员会是无效的。尽管当代资本主义的方法仍有许多有待改进的地方，但事实证明，自由市场体系更具灵活性和反应性。在这个体系中，无数参与者感知并回应信号、做出决策并相互协调。这意味着，虽然偶尔会有事情从缝隙中漏掉，但这其实往往是一种优先考虑集体利益的努力结果；这个系统只是从一个看起来不太有希望或根本不重要的项目中，挣脱而获得自由而已。^\[Laloux,
       Frederic. Reinventing Organizations. Nelson Parker (2014), page 85-6]
-  - question: What about agile and lean?
-    answer: 'Agile and lean can be naturally and deeply embedded in Teal project
-      teams. [FAVI](http://www.favi.com/) is an example: "The factory was an
-      eager and early adopter of Japanese manufacturing techniques; it masters
-      continuous improvement like few others, a critical capability to survive
-      and thrive in the low-margin automotive business... A very simple process
-      is at work: whenever a team stumbles upon a problem or an opportunity, as
-      happens every day, the issue is logged in a logbook. Anybody can volunteer
-      to tackle an item by writing his or her initials next to the issue in the
-      logbook. Typically, the two or three people that are most affected or
-      interested decide to join forces and analyze the issue. If no one picks up
-      a certain problem or opportunity, it probably means it is not important.
-      Otherwise, it will come up again, and someone will end up tackling it...
-      no one bothers with statistics, master plans, project management software,
-      or reporting. There is a simple reminder mechanism: operators have asked a
-      woman working in administration to go through the logs once in awhile, and
-      if there are items that have been open for more than three months, to
-      remind people who have signed up to tackle the issue about their
-      commitment. Teams have found this gentle prodding to be helpful."^[Laloux,
-      Frederic. Reinventing Organizations. Nelson Parker (2014), page 89]'
+  - question: 敏捷和精益得到考虑了吗？
+    answer: 敏捷和精益可以自然而深入嵌入在蔚蓝项目团队。[法维](http://www.favi.com/)就是一个例子：这家工厂是早期热心采用日本制造技术的组织；如其他公司一样，掌握了持续改进并在低利润率的汽车行业，能够生存和发展的关键能力。。。该组织在工作中有一个非常简单的过程：每当团队偶然发现一个问题或一个机会，这每天都会发生，这个问题都会记录在日志中。任何人都可以自愿在日志中的问题栏旁边写上自己的姓名首字母，来自愿承诺解决这个问题。通常，受影响最大或最感兴趣的两三个人会决定联合起来，共同分析问题。如果没有人发现某个问题或机会，这可能意味着它并不重要。否则，它会再次出现，最终会有人发现并处理它。。。没有人关心统计数据、总体规划、项目管理软件或报告。这里有一个简单的提醒机制：运营商要求一位在行政部门工作的女成员每隔一段时间查看一次日志，如果有开放时间超过三个月的问题或机会词条，就要提醒那些已经签名承诺的人，尽快解决他们承诺的问题。团队发现这种温和的刺激很有帮助。^\[Laloux,
+      Frederic. Reinventing Organizations. Nelson Parker (2014), page 89]
   - question: How do these practices link with the three Teal breakthroughs?
     answer: >-
       #### Self-management
