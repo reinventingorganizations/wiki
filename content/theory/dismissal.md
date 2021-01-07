@@ -100,22 +100,25 @@ inPractice: >-
 faq:
   - question: 这些实践是如何与三个蔚蓝突破相联系的？
     answer: >-
-      自我管理  
+      ##### 自我管理  
 
 
       [蔚蓝组织](../teal-paradigm-and-organizations/)中，关于一个人是否该继续留在组织的决策权，归属于该人和/或所属团队。强迫解雇很少发生，因为如果某个成员不适合这里，会收到明确而坦诚的提示，以便他们可以选择自愿离开。在许多情况下，都是通过自我管理的冲突解决流程，找到相互同意的方式决定分道扬镳。只有当其他一切尝试都失败时，组织创始人才会做决策解雇成员，虽然解雇的决策权归创始人，但这个决策倡议也是由该成员所属团队或冲突调解小组发起的。
 
 
-      整体人性
+      ##### 整体人性
 
 
-      当成员不再需要担心老板会随意解雇自己时，成员就更容易在工作中充分表现完整真实的自我（没有顾虑）。如果成员知道自己不会受到评判，也不需要靠被迫遵守一套规则来保住工作，人往往会把完整自我（既包括弱点，也包括创造力）带到职场。[蔚蓝组织](../teal-paradigm-and-organizations/)don’t reduce dismissals to cold, contractual transactions that avoid dealing with the emotions and pain. Instead, they accept and work with those human issues to turn departures into a learning experiences that can meaningfully enhance the person’s and the organization’s future path. 
+      当成员不再需要担心老板会随意解雇自己时，成员就更容易在工作中充分表现完整真实的自我（没有顾虑）。如果成员知道自己不会受到评判，也不需要靠被迫遵守一套规则来保住工作，人往往会把完整自我（既包括弱点，也包括创造力）带到职场。
 
 
-      #### Evolutionary purpose
+      [蔚蓝组织](../teal-paradigm-and-organizations/)不会将解雇过程简化为冷淡的合同交易，而回避情绪处理和痛苦。蔚蓝组织会接受并处理被解雇者的情绪问题，将离职转变为一种学习经历，反而有意义地提升该人和组织的未来道路。 
 
 
-      Giving people the opportunity and encouraging them to actively find a new role in the company when they are not performing well or when their current role is no longer needed contributes to the organization’s ability to listen and understand what it is trying to become, to fulfill its [进化目标](../evolutionary-purpose/).
+      ##### 进化目标
+
+
+      当成员表现不佳或不再需要当前岗位角色时，给他们机会并鼓励他们在公司内积极寻找新岗位角色，这有助于提高组织倾听并理解自己未来发展[进化目标](../evolutionary-purpose/)的能力。
 relatedTheory:
   - Feedback and Performance Management
   - Compensation and incentives
