@@ -103,13 +103,8 @@ inPractice: >-
 
   当成员在危机中参与建议流程时，会被邀请了解正在发生的事情，并积极参与需要做出的决策。为了决定该做什么，自然要求每个人重新认识到组织的目标。是否满足组织进化目标的需要，自然成为决定做什么的一个重要因素。没有这个参照点，决策很容易被个人自身利益和生存需求所支配。
 faq:
-  - question: No matter what is theoretically attractive, there must be occasions
-      when 'the buck stops here'?
-    answer: "'The buck stops here' is part of our inheritance of 'heroic
-      management'. Theoretically, it sounds unarguable. Perhaps the best answers
-      are what can happen in practice. Three examples of crisis management below
-      (Favi, Buurtzorg, AES) show how three Teal organizations have handled
-      crises constructively. "
+  - question: 不管理论上多么有趣，但一定会有“到此为止”的情况吧？
+    answer: “到此为止”是我们持续传承的“英雄管理”派传统组件。从理论上讲，这听起来无可争辩。也许最好的答案是用实践中可能发生的事情来检验。下文的三个危机管理案例（法维、布尔佐格、AES）介绍了这三个蔚蓝组织建设性处理危机的具体方法。
 relatedTheory:
   - Listening to Purpose
   - Self-Management
