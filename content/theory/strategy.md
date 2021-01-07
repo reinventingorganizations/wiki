@@ -80,31 +80,29 @@ inPractice: >-
 
   蔚蓝组织有时会利用“全体会议”来分享重要信息，并讨论组织对特定课题或机遇的回应。这种做法反映了发起人对组织集体智慧的信任。同时摒弃了一种见解：只有一小部分高层人士才有权限掌握那些，做出合理战略选择所必须的全部复杂信息。^\[Frederic. Reinventing Organizations (pp110-112). Nelson Parker, 2014.]
 faq:
-  - question: How does Strategy link with the three Teal breakthroughs?
+  - question: 战略与蔚蓝组织的三大突破有何联系？
     answer: >-
-      #### **Self-management**
+      ##### 自我管理
 
 
-      In Teal organizations, thousands of decisions are made by individuals and teams who are trusted to do the right thing. Plans are not handed down from the top with little room to maneuver. People are trusted to plan, make improvements, and execute.
+      在蔚蓝组织中，成千上万的决策都是由被信任能做正确事情的个人和团队做出的。因这些计划不是从高层传下来的，所以没有多少回旋余地。人们能信赖计划、持续改进它并尽力执行。
 
 
-      #### **Wholeness**
+      ##### 完整人性
 
 
-      In Teal, employees are encouraged to bring their 'whole self' to work: the emotional, the intuitive, and the spiritual are all welcome. The workplace becomes more holistic as a result. This allows for, and encourages, reflection and mindfulness. Reflection on the company's purpose and direction is encouraged.
+      在蔚蓝模式，鼓励员工将他们的“完整自我”带到工作中来：情感的、直觉的和精神的侧面都受欢迎。因此，工作场所变得更加全面。这允许并鼓励反思和正念。鼓励成员主动反思公司的目标和方向。
 
 
-      #### **Evolutionary purpose**
+      ##### 进化目标
 
 
-      Because Teal organizations are driven by evolutionary purpose, traditional strategic planning is replaced by the process of listening to purpose. The purpose of an organization is a manifestation of its collective intelligence, and so its direction cannot be mandated from the top down.
-  - question: Does that mean that in Teal organizations, anticipatory thinking is
-      viewed as a waste of time??
+      由于蔚蓝组织是由进化目标驱动的，所以传统的战略规划过程，被倾听目标所取代。一个组织的目标是其集体智慧的体现，因此不能自上而下地规定组织的方向。
+  - question: 这是否意味着在蔚蓝组织中，预期思维被视为浪费时间？
     answer: >-
-      Brian Robertson offers the following on this topic:
+      Brian Robertson就此主题提供了以下内容：
 
-
-      *While Holacracy’s approach to strategy resists relying on predictions, that’s not to say all forward-looking projections and anticipatory thinking are useless. In this regard, it’s helpful to understand the difference between a prediction and a projection. “Predict” comes from the Latin præ-, “before,” and dicere, “to say”— thus it literally means “to say before,” or “to foretell, prophesize.” “Project,” on the other hand, is from the Latin pro-, “forward,” and jacere, “to throw”— thus, “to throw forth.” In order to throw forth, you must be firmly grounded in the place you are starting from: the present reality. Getting real data and “throwing it forth” to get a sense of where events are headed is often useful to better understand your context, and it is different than “foretelling and prophesizing” where reality will be in the future.*^[Robertson, Brian J. (2015-06-02). Holacracy: The New Management System for a Rapidly Changing World (Kindle Locations 1834-1842). Henry Holt and Co.. Kindle Edition.]
+      虽然霍尔的战略方法拒绝依赖预测，但这并不是说所有的前瞻性预测和预期思维都是无用的。此时，理解预测和主观投射之间的区别，很有帮助。“Predict预测”来自拉丁语præ-，“事前”，和dicere，“告知”-因此它的字面意思是“事前告知”，或“预见，预言”。而“Project投射”，来自拉丁语pro-，“朝前”，和jacere，“抛出”-因此是，“朝前推出”（创造）。为了前瞻，你必须牢固地扎根于当下的出发点：眼前的现实。获取真实数据并“推出”以了解事件的发展方向，这通常有助于更好地理解你的背景。这与“预测和预言”未来的现实是不同的。^\[Robertson, Brian J. (2015-06-02). Holacracy: The New Management System for a Rapidly Changing World (Kindle Locations 1834-1842). Henry Holt and Co.. Kindle Edition.]
 relatedTheory:
   - Listening to Purpose
   - Innovation and Product Development
