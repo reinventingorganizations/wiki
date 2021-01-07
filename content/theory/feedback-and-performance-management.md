@@ -96,25 +96,25 @@ faq:
       蔚蓝的三大突破都与反馈方式和绩效管理方式直接相关。因为个人和团队受到组织[进化目标](../evolutionary-purpose/)的引导和激励，这支撑着[自我管理](../self-management/)，而不需要是自上而下的指挥和管理。从慈悲和关爱出发点给出的反馈，能接纳并颂扬[完整人性](../wholeness/)，促进公开的询问和讨论，进而能激发更高水平的表现。
 
 
-      #### **Self-management**
+      #### 自我管理
 
 
-      In Teal Organizations, performance management is largely a self-directed process. Individuals and teams take responsibility for their own performance and growth, while soliciting feedback from others when relevant.
+      在蔚蓝组织中，绩效管理在很大程度上是一个自我指导的过程。个人和团队对自己的表现和成长负责，同时在征求相关者同事的第三方反馈。
 
 
-      #### **Wholeness**
+      整体人性
 
 
-      The goal of traditional performance management is an objective assessment of how well someone does their job. This assessment is subject to rating errors and biases. This subjective element often generates fear and/or frustration. Under these conditions people tend to disengage.
+      传统绩效管理的目标是客观评估某人的工作表现。此评估可能存在评级错误和偏差。这种主观因素往往会产生恐惧和/或挫败感。在这种情况下，不利于成员之间的团结而导致人心分离。
 
 
-      Giving feedback in a [Teal organization](../teal-paradigm-and-organizations/)  is an opportunity to recognize the whole person (including their hopes, fears and aspirations). Feedback has the sole aim of helping each other, peer-to-peer. Giving feedback from a position of love, acceptance and connection allows people to lower their defenses and engage with each other openly and honestly. Not surprisingly, when people feel valued for who they are, they are more receptive to constructive feedback and contribute far more to their work. In a Teal organization performance management changes from managing someone’s performance to creating the conditions where someone can perform.
+      在[蔚蓝组织](../teal-paradigm-and-organizations/)中，给予反馈是一个认识完整染性（包括个人的希望、恐惧和愿望）的机会。反馈的唯一目的，是点对点的互相帮助和照亮。从爱、接受和连接感立场上给出反馈，可以促进成员降低防御，更坦诚地与对方交往。不足为奇的是，当人们觉得自己有价值时，就更容易接受建设性的反馈，并对工作做出更大的贡献。在蔚蓝组织中，绩效管理不再是管理某个人的绩效，而是转变为创造某个人可以高效运作和执行任务的环境条件。
 
 
-      #### **Evolutionary purpose**
+      进化目标
 
 
-      Having a strong sense of evolutionary purpose allows people to align their efforts with the purpose of the organization and thus to manage their own performance. They contribute because they **want** to, not because they **have** to. When the [purpose ](../listening-to-purpose/)is clear and meaningful, feedback can easily be given about how well a contribution or a decision aligns with the direction of the organization. Performance management becomes "How can we respond to what is happening?" rather than "How well am I performing against the plan?". Having a meaningful evolutionary purpose guides what action is taken next.
+      成员如果能对组织进化目标具有强烈共鸣，就能主动将自己的努力与组织的目标一致化，从而自主管理自己的绩效。他们做贡献是因为他们**愿意做**，而不是因为他们**必须做**（没有被控制感）。如果组织 [目标 ](../listening-to-purpose/)很明确且意义深远，就很容易支撑反馈，来说明一项贡献或一项决策是否与组织的方向一致。绩效管理变成了评估“我们如何应对发生的事情？”而不再是评估“我在计划中的表现如何？”。有意义的组织进化目标能指导全员的下一步的行动。
 relatedTheory:
   - Objectives and Target Setting
   - Conflict resolution
