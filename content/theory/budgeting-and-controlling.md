@@ -115,19 +115,15 @@ faq:
 
 
       但是，如果组织出于某种原因，认为需要将其支出控制在建议流程中自然发生的水平以下（因为该组织资金短缺，或者因为可追求的机会多于可用的现金），也可以建立预算流程，但只是作为讨论优先支出事项的手段。在实践中，可用与确定[投资](../purchasing-and-investments/)预算同样的方法来建立此类流程。
-  - question: Some type of budgeting might be necessary to ensure the operation of a
-      production line for example?
+  - question: 还是需要某种类型的预算吧，例如，为了确保生产线的运行？
     answer: >-
-      In keeping with the general principle of "form follows function"; if
-      colleagues feel a need for a budget, then by any means, establish a
-      budget.  If a production line feels it needs a cost budget, colleagues can
-      convene and create it.
+      根据蔚蓝模式的“形式服从功能”这个一般原则，如果同事们觉得需要预算，那么就可以制定预算。如果一条生产线觉得自己需要一个成本预算，同事们就可以倡议并创建这个预算。
 
 
-      Before establishing such a budget, it's worthwhile wondering: why do we need a budget?  Often the answer is simply "to control our costs".  In many cases, in order to control your costs, you don't need to ***anticipate*** the future with a budget.  It's enough to measure and monitor your cost ***after the facts*** on a recurring basis - say every month.
+      在制定这样一个预算之前，值得思考的是：为什么我们需要一个预算？答案往往只是“控制我们的成本”。在很多情况下，预算只是为了控制成本，因为蔚蓝模式认为，组织不需要用预算来**预测**未来。所以，一种基于简短周期的预算，比如说每个月，就足以用来衡量和监控**实际情况**。
 
 
-      We are so used to budgets, and the illusion of control they provide, that we might simply establish a budget out of habit, because we feel naked in the absence of budgets.  The key question is: "what's the kind of decision we need to take for which we need a budget?".  A budget is needed only if it helps anticipate, if the presence of a budget would lead to a different decision on a specific decision.
+      我们如此习惯于预算，以及预算所提供的控制幻觉，以至于可能只是出于习惯而建立一个预算，只是因为我们在没有预算的情况下会有裸奔的感觉。关键问题是：“我们需要用预算来衡量的决策是什么？”。只有当预算有助于预期，只有当预算的存在会带来对特定决策的不同结果时，才需要预算。
 relatedTheory:
   - Purchasing and Investments
   - Decision Making
