@@ -79,13 +79,10 @@ inPractice: >-
 
   归根结底，董事会是传统组织阶段的一个组成部分，目前蔚蓝做法在摸索中。尚不清楚董事会在蔚蓝下应扮演什么角色，或者到底是否能以目前的形式与蔚蓝完全兼容。
 faq:
-  - question: If the organization is self-managing, why have a board?
+  - question: 如果组织是自我管理的，为什么要有董事会？
     answer: >-
-      1. A board might be a legal requirement, but more importantly it can act
-      as a "spaceholder" and protector of Teal practices. This obviously
-      necessitates that board members share the [fundamental
-      assumptions](../fundamental-assumptions/) and the [values
-      ](../culture-and-values/)underpinning Teal.
+      1.
+      可能是法律要求有董事会。但更重要的是，董事会可以作为“旁观者”和蔚蓝实践的保护者。这显然需要董事会成员能共鸣于蔚蓝[基本假设](../fundamental-assumptions/)并支持渗透在蔚蓝组织内的[价值观](../culture-and-values/)。
 
       2. It can add perspective, diversity and expertise on important decisions via the advice process.
 
