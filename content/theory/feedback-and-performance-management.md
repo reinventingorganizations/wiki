@@ -89,17 +89,8 @@ inPractice: >-
 
   基于同侪反馈有一个优点，就是为每个人提供一个更广阔、更有意义的视角来看待自己的贡献。反馈超出了狭隘的、只谈论工作的范畴，更广泛地探索着关于人的希望、恐惧和人生目标感等深度话题。
 faq:
-  - question: What happens if someone is performing poorly?
-    answer: This would normally be addressed using the feedback process, or if there
-      are major disagreements, the [conflict resolution
-      process](../conflict-resolution/). It is important to note that, while
-      feedback is most effective when delivered from a perspective of love and
-      support, all peers have the obligation to not shy away from difficult
-      conversations and to hold each other accountable. Frequently, poor
-      performance is effectively addressed by finding a better fit between an
-      individual's role(s) and his/her strengths. Understanding what has led to
-      poor performance from a whole person perspective is essential if a
-      workable solution is to be found.
+  - question: 如果有人表现不佳会怎么样？
+    answer: 这通常通过反馈流程来解决，如果存在重大的分歧，还可以通过[冲突解决流程](../conflict-resolution/)来解决。值得注意的是，尽管从爱和支持的角度提供反馈最为有效，但所有同事都有义务不回避那些艰难而直白的对话，提醒对方承担责任。通常，致力于在个人角色和个人优势之间找到更好的契合点，可以有效地解决绩效不佳的问题。如果要找到一个可行的解决方案，就必须从整体的角度来理解，是什么导致了某个成员的糟糕绩效。
   - question: How does this link with the three Teal breakthroughs?
     answer: >-
       The three Teal breakthroughs are all directly connected with the way
