@@ -137,33 +137,15 @@ faq:
 
       在蔚蓝组织中，人们的行为不是根据组织链上更高层的领导告诉他们做什么，而是由他们对组织进化目标的感知来引导。自我管理系统是基于感觉和反应，而不是命令和控制。这往往能更迅速的发展，对环境变化的反应更敏捷。相比之下，金字塔型组织倾向于通过不频繁、不及时和更残酷的重组跳跃进行改变。
   - question: "领导者的角色，如果还有的话，是什么呢？ "
-    answer: 在当今世界，主要的、默认的组织模式是金字塔型，有执行委员会、中层管理人员、管理职能以及确保控制的政策和程序。自我管理机制是个例外，但即使在那些成熟的蔚蓝自我管理组织中，很多人的思维和行动还是会陷入或认恢复到默认的更传统的分层管理模式。这或许可以解释为什么迄今为止，在所有自我管理的组织中，创始人或最高级的“领导者”都扮演了一个特殊的角色：由他/她来“占据分布式权威的空间”。每当组织中的人有意识或无意识地回到传统的管理控制机制时，该领导者就会提醒每个人，回顾蔚蓝模式的[基本假设](../fundamental-assumptions/)and
-      encourages them to find solutions in line with the self-managing nature of
-      the organization.
-  - question: If the organization is structured in teams, should there be structure
-      within the teams? Should there be a team leader?
+    answer: 在当今世界，主要的、默认的组织模式是金字塔型，有执行委员会、中层管理人员、管理职能以及确保控制的政策和程序。自我管理机制是个例外，但即使在那些成熟的蔚蓝自我管理组织中，很多人的思维和行动还是会陷入或认恢复到默认的更传统的分层管理模式。这或许可以解释为什么迄今为止，在所有自我管理的组织中，创始人或最高级的“领导者”都扮演了一个特殊的角色：由他/她来“占据分布式权威的空间”。每当组织中的人有意识或无意识地回到传统的管理控制机制时，该领导者就会提醒每个人，回顾蔚蓝模式的[基本假设](../fundamental-assumptions/)，并鼓励他们找到符合组织自我管理性质的解决方案。（蔚蓝CEO是一个把握所有权限，但选择分发下去，并确保权力得到确实分布实施的角色。）
+  - question: 如果组织是以团队为单位的，那么团队内部是否应该有结构？应该有组长吗？
     answer: >-
-      In self-managed teams, many management tasks disappear, since people are
-      no longer being “managed”. Other tasks (planning, setting objectives,
-      monitoring team performance, recruiting, etc.) remain, and it is up to the
-      team to make it clear among themselves what the various roles and task
-      responsibilities of the team members are. In some cases, such tasks can
-      simply be spread among team members (I do the planning, you lead the
-      recruiting, etc.). Such a model works well when the nature of the team’s
-      operational roles allows for flexibility (e.g., knowledge workers who can
-      interrupt their primary work or nurses who can take time between patient
-      visits for administrative tasks). Other types of work require fixed and
-      dedicated hours that cannot be easily interrupted. Teachers, for instance,
-      can't easily leave the classroom and machine operators can't easily leave
-      their workplace. In such cases, it might be necessary to have a team
-      coordinator that isn't tied to a classroom or a machine to take on a
-      number of the management tasks.
+      在自我管理的团队中，许多管理任务都消失了。因为人们不再被“管理”。其他任务（规划、设定目标、监控团队绩效、招聘等）仍然存在，团队成员的各种角色和任务职责在团队自行定义和明确。在某些情况下，这样的任务可以简单地分散在团队成员之间（我做计划，你领导招聘等等）。当团队的岗位运作性质允许灵活性时（例如，可以中断主要工作的知识性成员或可以在患者就诊之间抽出时间执行管理任务的护士），这种模式能很好地工作。但还有些类型的工作，需要固定和专用时间不能轻易中断。例如，教师不能轻易离开教室，机器操作员也不能轻易离开工作场所。在这种情况下，可能需要一个不依赖于教室或机器的团队内专职协调员来承担许多管理任务。
+
+      不过，在团队内指定协调员是有风险的。因为人类文化包袱和层层的习惯积累层非常强大，随着时间的推移，团队协调员可能开始表现得像个老板，成为团队的主要决策者。在法维，设有一个简单但功能强大的安全阀。如果某团队领导开始品味权力的味道，员工可以随时自由的选择离开并加入另一个团队。
 
 
-      Having a team coordinator nevertheless carries a risk. Our cultural baggage of hierarchy is so strong that over time, team coordinators could start behaving like bosses and become the primary decision makers on their teams. At FAVI, a simple but powerful relief valve exists. Should a team leader find the taste of power too sweet, workers can choose at any moment to join another team.
-
-
-      See also, “*[Role Definition and Allocation](../role-definition-and-allocation/)*”.
+      另见, “*[岗位定义与任务分派](../role-definition-and-allocation/)*”。
 relatedTheory:
   - Coordination
   - Role Definition and Allocation
