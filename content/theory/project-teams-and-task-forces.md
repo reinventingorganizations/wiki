@@ -59,24 +59,24 @@ faq:
   - question: 敏捷和精益得到考虑了吗？
     answer: 敏捷和精益可以自然而深入嵌入在蔚蓝项目团队。[法维](http://www.favi.com/)就是一个例子：这家工厂是早期热心采用日本制造技术的组织；如其他公司一样，掌握了持续改进并在低利润率的汽车行业，能够生存和发展的关键能力。。。该组织在工作中有一个非常简单的过程：每当团队偶然发现一个问题或一个机会，这每天都会发生，这个问题都会记录在日志中。任何人都可以自愿在日志中的问题栏旁边写上自己的姓名首字母，来自愿承诺解决这个问题。通常，受影响最大或最感兴趣的两三个人会决定联合起来，共同分析问题。如果没有人发现某个问题或机会，这可能意味着它并不重要。否则，它会再次出现，最终会有人发现并处理它。。。没有人关心统计数据、总体规划、项目管理软件或报告。这里有一个简单的提醒机制：运营商要求一位在行政部门工作的女成员每隔一段时间查看一次日志，如果有开放时间超过三个月的问题或机会词条，就要提醒那些已经签名承诺的人，尽快解决他们承诺的问题。团队发现这种温和的刺激很有帮助。^\[Laloux,
       Frederic. Reinventing Organizations. Nelson Parker (2014), page 89]
-  - question: How do these practices link with the three Teal breakthroughs?
+  - question: 这些实践是如何与三个蔚蓝突破相联系的？
     answer: >-
-      #### Self-management
+      ##### 自我管理
 
 
-      In Teal, project teams and task forces are self-organized and voluntary. They are not created by upper management or commanded by a team leader.
+      在蔚蓝组织，项目小组和工作队是自组织和出于自愿的。不是由上级管理人员创建的，也不是由团队领导指挥的。
 
 
-      #### Wholeness
+      ##### 整体人性
 
 
-      In Teal, people are not limited to a single role or job description. They can join teams and task forces that match their interests and talents and are encouraged to use both their rational and intuitive minds to prioritize which projects to join.
+      在蔚蓝组织，人们并不局限于单一的角色或工作描述。他们可以加入多个与自己的兴趣和才能相匹配的团队和特别工作组，鼓励成员使用自己的理性和直觉思维，自主来确定要加入哪些项目，以及投入精力的优先顺序。
 
 
-      #### Evolutionary purpose
+      ##### 进化目标
 
 
-      Individuals and groups listen for what they sense is needed right now, and form project teams as required. Likewise, they trust, that if no one can find time to work on the project, it's because it's not important to the organization’s purpose right now.
+      个人和团体自主倾听自己感觉到的当下需求，并根据听到的需求自主组建项目团队。他们相信，如果没有人能抽出时间来做这个项目，那一定是因为现在这个项目对组织的目标并不重要。
 relatedTheory:
   - Objectives and Target Setting
   - Organizational Structure
