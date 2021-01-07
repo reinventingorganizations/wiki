@@ -98,19 +98,13 @@ inPractice: >-
 
   在[太阳液压](http://www.sunhydraulics.com/)，所有新成员无论其未来的岗位如何，都会从“制造之旅”开始上岗。这种方法有助于在整个组织中建立互相理解和社区意识。经过这一过程，新人得到机会扮演了（与应聘岗位）不同的角色。
 faq:
-  - question: How to reduce the risk of new colleagues leaving the organization
-      during onboarding because of a Teal practices mismatch?
+  - question: 如何降低新同事在入职期间因蔚蓝实践不匹配而离开公司的风险？
     answer: >-
-      Have in depth interviews with candidates performed by future colleagues
-      and focus on fit with organizational purpose and practices of
-      [self-management](../self-management/), [wholeness](../wholeness/) and
-      [evolutionary purpose](../evolutionary-purpose/). Pay particular attention
-      to candidates that formerly held senior positions in other organizations.
-      Turnover rates are high within this group, which is illustrated by the
-      following example:
+      对未来同事候选人进行深入面试，重点关注应聘者与组织目标，以及[自我管理](../self-management/),
+      [完整人性](../wholeness/)和[进化目标](../evolutionary-purpose/)等实践流程的契合度。要特别注意的是，以前在其他组织担任过高级职务的候选人。这一群体的离职率很高，下面的例子说明了这一点：
 
 
-      Paul Green Jr., who heads [Morning Star](http://www.morningstarco.com/)’s Self-Management Institute, estimates that close to 50 percent of people who formerly had senior positions in other organizations (VP levels or above) end up leaving the organization after a year or two “because they have a hard time adapting to a system where they can’t play God".
+      [晨星](http://www.morningstarco.com/)公司自我管理研究所的负责人小保罗•格林的统计结果是，以前在其他组织担任高级职位（副总裁级别或以上）的人，近50%会在一两年后就离开了该蔚蓝组织，“因为他们很难适应一个无法扮演上帝角色的体系”。
   - question: How to maintain Teal practices when many new colleagues from non teal
       organizations are joining?
     answer: The onboarding of large groups of new colleagues from non [Teal
