@@ -85,15 +85,8 @@ inPractice: >-
 
   没有职位描述和职称，经常让局外人，有时甚至是内部人，感到令人困惑，因为不太清楚谁负责什么。出于这个原因，一些组织在他们的内部网上建立了一个日志，允许人们记录自己当前正在担任的角色。这有助于清晰化当下角色，并帮助其他人了解自己的专业知识。
 faq:
-  - question: Is there less management within an organization without job titles and
-      job descriptions?
-    answer: The tasks of management - setting direction and objectives, planning,
-      directing, controlling, and evaluating - haven’t disappeared. They are
-      simply no longer concentrated in dedicated management roles. Because they
-      are spread widely, not narrowly, it can be argued that there is more
-      management and leadership happening at any time in self-managing
-      organizations despite, or rather precisely because of, the absence of
-      fulltime managers.
+  - question: 在一个没有职称和职位描述的组织中，管理是否会减少？
+    answer: 管理的任务——设定方向和目标、计划、指导、控制和评估——并没有消失。但这些任务不再专属于专门的管理角色。在蔚蓝组织，这些职能分布广泛，而不是范围狭窄。可以说，在自我管理的组织中，尽管不存在全职经理，但无论何时都在发生着更多的管理行为和领导力，或者更确切地说，正是因为没有经理才能这样。
 relatedTheory:
   - Organizational Structure
   - Recruitment
