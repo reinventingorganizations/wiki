@@ -137,24 +137,16 @@ faq:
     answer: 鼓励沟通，让员工讲出他们的心事。创造一个支持新实践的环境。当这些[价值观](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/culture-and-values)与组织的目标一致时，社会和环境倡议就会自然出现。
   - question: 我们如何在服务环境和服务社会的行动之间确定优先次序？
     answer: 可以首先通过[建议流程](../decision-making/)，评估计划是否符合组织的价值观和[进化目标](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/evolutionary-purpose)。其他标准还可能包括影响、紧迫性和经济承受能力。
-  - question: Do we need to assess the affordability of environmental and social
-      initiatives?
-    answer: "[Self-management](https://reinventingorganizations-wiki.netlify.app/ad\
-      min/#/collections/theory/entries/self-management) works to balance
-      spending in line with
-      [values](https://reinventingorganizations-wiki.netlify.app/admin/#/collec\
-      tions/theory/entries/culture-and-values) and
-      [purpose](https://reinventingorganizations-wiki.netlify.app/admin/#/colle\
-      ctions/theory/entries/listening-to-purpose). Employees’ own integrity and
-      sense of self-censorship work together to ensure that spending is in
-      alignment. Just as [Teal
-      organizations](https://reinventingorganizations-wiki.netlify.app/admin/#/\
-      collections/theory/entries/teal-paradigm-and-organizations) do not measure
-      accountability according to multiple bottom lines, self-management guides
-      spending within business capacity. [Teal
-      organizations](https://reinventingorganizations-wiki.netlify.app/admin/#/\
-      collections/theory/entries/teal-paradigm-and-organizations) sense and
-      respond. Budgets are used to make decisions; not to control variances."
+  - question: 我们是否需要评估环境和社会举措的承受能力？
+    answer: "[自我管理](https://reinventingorganizations-wiki.netlify.app/admin/#/colle\
+      ctions/theory/entries/self-management)会自动平衡实现组织的[价值观](https://reinventing\
+      organizations-wiki.netlify.app/admin/#/collections/theory/entries/culture\
+      -and-values)和[目标](https://reinventingorganizations-wiki.netlify.app/admin\
+      /#/collections/theory/entries/listening-to-purpose)所需要的各种开支。员工自身的诚信和自我审查意\
+      识，能共同确保支出的公平性和一致性。正如蔚蓝组织不根据多个底线来衡量和监督成员承诺的可靠性，自我管理也会自然指导业务能力范围内的支出。[蔚蓝组织]\
+      (https://reinventingorganizations-wiki.netlify.app/admin/#/collections/th\
+      eory/entries/teal-paradigm-and-organizations)的特点是感知并响应。预算只是用来帮助决策的，不是用来控制\
+      预实差异的。"
 relatedTheory:
   - Culture and Values
   - Self-Management
