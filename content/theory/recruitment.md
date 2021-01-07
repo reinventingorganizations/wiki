@@ -99,17 +99,12 @@ faq:
 
 
       转型进入蔚蓝模式的传统组织发现，通常很难预测那个成员能在新环境中茁壮成长。有些人会突然开花，而有些谁都预测他们会喜欢蔚蓝的人，缺发现过渡很难。因此，在招聘过程中花点时间，在可能的情况下，建立一个测试试用期，可能有助于提高适配度。
-  - question: Aren’t teammates tempted to recruit candidates without strong
-      personalities, who won't disturb them? Is there not a risk for lack of
-      diversity to creep in?
+  - question: 队友们难道不想招收个性少一些的候选人吗？他们不怕被打扰吗？求同价值观否会带来缺乏多样性的潜在风险？
     answer: >-
-      The risk exists, just as in any kind of organization, where people prefer
-      recruit someone  who looks like them : same age, same experience, same
-      initial training. Mitigating that risk is that recruitment is often a team
-      affair and not just a single or small groups decision. 
+      这种风险是存在的，就像在任何一种组织中一样，人们更喜欢招聘像自己雷同的人：相同的年龄、相同的经验、相同的初始培训。降低这种风险的方法是，招聘通常是团队集体负责的事务，不仅仅交给单个人或小团体的作决定。
 
 
-      Some[ Teal organizations](../teal-paradigm-and-organizations/) have invented processes to preserve diversity (see below RHD  bi-monthly “isms in the workplace meeting”).
+      一些[蔚蓝组织](../teal-paradigm-and-organizations/)已经发明了一些力保多样性的流程（见下文RHD的隔月“xx主义职场会议”）。
 relatedTheory:
   - Onboarding
   - Training and Coaching
