@@ -135,11 +135,8 @@ inPractice: >-
 faq:
   - question: 我希望自己的组织能做更多有益于社会和环境的事情。要从哪里开始？
     answer: 鼓励沟通，让员工讲出他们的心事。创造一个支持新实践的环境。当这些[价值观](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/culture-and-values)与组织的目标一致时，社会和环境倡议就会自然出现。
-  - question: How do we prioritize (between) environmental and social initiatives?
-    answer: Via the [advice process](../decision-making/), initiatives can be
-      assessed for fit with values and [evolutionary
-      purpose](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/evolutionary-purpose)
-      first. Other criteria might include impact, urgency and affordability.
+  - question: 我们如何在服务环境和服务社会的行动之间确定优先次序？
+    answer: 可以首先通过[建议流程](../decision-making/)，评估计划是否符合组织的价值观和[进化目标](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/evolutionary-purpose)。其他标准还可能包括影响、紧迫性和经济承受能力。
   - question: Do we need to assess the affordability of environmental and social
       initiatives?
     answer: "[Self-management](https://reinventingorganizations-wiki.netlify.app/ad\
