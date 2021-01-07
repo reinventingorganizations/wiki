@@ -105,20 +105,10 @@ faq:
 
 
       [晨星](http://www.morningstarco.com/)公司自我管理研究所的负责人小保罗•格林的统计结果是，以前在其他组织担任高级职位（副总裁级别或以上）的人，近50%会在一两年后就离开了该蔚蓝组织，“因为他们很难适应一个无法扮演上帝角色的体系”。
-  - question: How to maintain Teal practices when many new colleagues from non teal
-      organizations are joining?
-    answer: The onboarding of large groups of new colleagues from non [Teal
-      organizations](../teal-paradigm-and-organizations/) can result in
-      tensions. Best way to avoid disruptive tensions is to have a steady intake
-      of new colleagues and avoiding very large groups of new people starting at
-      once.
-  - question: How to onboard new colleagues by formal training and at the same time
-      give them time and space to be able to find their way by intuitive
-      exploration?
-    answer: "Make sure you select a mix of practices that not only appeal to the
-      rational, but also touch the heart and the soul of new colleagues.
-      Further, you may consider inviting them to co create their onboarding
-      program. "
+  - question: 当许多新同事来自非蔚蓝组织时，如何保持蔚蓝实践？
+    answer: 来自非[蔚蓝组织](../teal-paradigm-and-organizations/)的大批新同事的加入，可能导致紧张局势。避免破坏性紧张关系的最佳方法，是稳定地吸收新同事，避免吸收大量的新人同时加入。
+  - question: 如何让新同事在接受正规培训的同时，留给他们一些时间和空间，通过直观的探索找到自己的路？
+    answer: 一定要选择一套既能吸引理性人士，又能触动新同事心灵的做法。此外，还可以考虑邀请新成员共同制定他们的入职计划。
 relatedTheory:
   - Recruitment
   - Training and Coaching
