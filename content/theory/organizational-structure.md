@@ -10,10 +10,7 @@ intro: |-
 
   ![](/media/2_058f-org-structure-medium-small.png)
 perspective: >-
-  ## 新视角
-
-
-  蔚蓝组织之前所有阶段的组织都是金字塔结构，原因很简单：这是老板-下属关系的自然结果。在自我管理的组织中，同侪承诺取代了上司与下属的关系，金字塔消失了。权力是分散的，工作由分布式的、自我管理的团队或网络来完成。金字塔的静态等级制度让位给了流动的自然等级制度，在此，影响力流向了最有专业知识、激情或兴趣的人。蔚蓝组织摆脱了指挥和控制结构的僵化和迟钝，可以更迅速地作出反应，更加充满活力。各种反应“道法自然”的发生：组织的整体行为从团队和个人的行为中自然“出现”。^\[Teal organizations can be thought of as an example of a “complex adaptive system”: a "complex macroscopic collection" of relatively "similar and partially connected micro-structures" formed in order to adapt to the changing environment and increase its survivability as a macro-structure. They are complex in that they are dynamic networks of interactions, and their relationships are not aggregations of the individual static entities. They are adaptive in that the individual and collective behaviors mutate and self-organize corresponding to the change-initiating micro-event or collection of events." Source: Complex Adaptive Systems, Wikipedia, <http://en.wikipedia.org/wiki/Complex_adaptive_system>]
+  蔚蓝组织之前所有阶段的组织都是金字塔结构，原因很简单：这是老板-下属关系的自然结果。在自我管理的组织中，同侪承诺取代了上司与下属的关系，金字塔消失了。权力是分散的，工作由分布式的、自我管理的团队或网络来完成。金字塔的静态等级制度让位给了流动的自然等级制度，在此，影响力流向了最有专业知识、激情或兴趣的人。蔚蓝组织摆脱了指挥和控制结构的僵化和迟钝，可以更迅速地作出反应，更加充满活力。各种反应“道法自然”的发生：组织的整体行为从团队和个人的行为中自然“出现”。^[T蔚蓝组织可以看作“复杂的适应性系统”的例子：为了适应不断变化的环境，提高自身作为宏观结构的生存能力，而由相关的“相似并部分相连的微观结构”组合而成的“复杂宏观集合”。组织体系是复杂的，因为是相互作用的动态网络，组织之间的关系不是单个静态实体的单纯聚合。组织体系具有适应性，因为组织内个体和集体的行为，会随着引发变化的各种微事件或事件集合而发生变异并进行自我重组。信息来源：复杂的自适应系统。参见维基链接（<http://en.wikipedia.org/wiki/Complex_adaptive_system>
 
 
   下面介绍蔚蓝之前的组织结构：
