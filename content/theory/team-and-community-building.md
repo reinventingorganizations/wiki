@@ -103,18 +103,12 @@ inPractice: >-
 
   自愿分享者会接受邀请而分享自己的故事。这种做法虽然很简单，但是能允许人们与同事分享一个强化纽带和信任的决定性时刻。也可以将这些提问穿插在招聘，入职流程，培训讲座，年度评估，员工旅行，以及组织全体参与的大规模活动（比如赞赏会，U定理，开放空间，世界咖啡馆等）中。
 faq:
-  - question: Aren't these practices time consuming?
-    answer: "It’s a time-consuming practice for sure but generally when done
-      continuously the benefits far outweigh the costs. The trust, empathy, and
-      compassion that build up the kind of practices expand well beyond the
-      confines of the meeting room. These feelings start to permeate the whole
-      organization.\r
+  - question: 这些做法不会很浪费时间吗？
+    answer: >-
+      当然，这会是一种耗时的做法。但一般来说，如果持续不断地这样做，益处远远大于成本投入。建立这种实践的信任、同理心和同情心远远超出了会议室的范围。这些感觉会开始渗透到整个组织。
 
-      \r
 
-      Self-management requires people that have the courage and feeling
-      safe to speak up. Ensuring that employees are capable to express
-      themselves in genuine ways are very important, also for that reason."
+      自我管理需要有勇气和有安全感的人直言。确保员工能够以真实的方式表达自己，非常重要，同时也是实行蔚蓝的最好理由。
 relatedTheory:
   - Culture and Values
   - Conflict resolution
