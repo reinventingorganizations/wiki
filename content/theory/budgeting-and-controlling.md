@@ -109,24 +109,12 @@ inPractice: >-
 
   以蔚蓝方式工作的组织和公司，为了朝着目标更快前进，一般通过很多次快速迭代完成，而不是几次巨大的飞跃。实践证明了一个悖论，当人们放弃控制的幻觉，学会在实际情况发生时与之合作，往往会感到更安全。
 faq:
-  - question: How do we manage spending and cash flow if there are no budgets that
-      set limits?
+  - question: 如果没有预算做限制，我们该如何管理收支现金流？
     answer: >-
-      In most cases, the advice process takes care of keeping spending in line
-      with the needs of the organization.  An expenditure that would be fanciful
-      or that would be one person's pet project tends not to survive the advice
-      process (if it does, another person can initiate another advice process to
-      make a correction, or it too late, engage in a [conflict resolution
-      process](../conflict-resolution/)).  Another factor tends to tame
-      spending: in traditional organizations, managers often measure their
-      importance with the size of their budget, and therefore often fight to
-      increase their budget, and make sure to spend whatever budget was
-      allocated to them).  Self-managing organizations don't measure their
-      importance with the size of their budget, which reduced much unnecessary
-      spending. 
+      在大多数情况下，建议流程负责让各种支出自动符合组织的需要。一项出于虚荣的支出或出于成员个人偏好而非组织需要的项目，往往无法在建议流程中幸存下来（如果发生这种情况，另一个人可以启动另一个建议流程来进行纠正，或如果来不及用建议流程纠正，就启动[冲突解决流程](../conflict-resolution/)来阻止）。另一个倾向于抑制支出的因素是：在传统组织中，管理者经常用预算规模来衡量自己的重要性，因此经常努力增加预算，并确保花掉分配给他们的任何预算。自我管理组织不会用预算规模来衡量自己的重要性，因而减少了很多不必要的开支。
 
 
-      If, however, for some reason an organization feels it needs to keep its spending below what would naturally happen with the advice process (because the organization is cash-strapped, or because there are more opportunities to pursue than cash available), a budget process can be established as a means to have a conversation about spending priorities. In practice, such processes can be set up in ways that are similar to those used to determine [investment](../purchasing-and-investments/) budgets.
+      但是，如果组织出于某种原因，认为需要将其支出控制在建议流程中自然发生的水平以下（因为该组织资金短缺，或者因为可追求的机会多于可用的现金），也可以建立预算流程，但只是作为讨论优先支出事项的手段。在实践中，可用与确定[投资](../purchasing-and-investments/)预算同样的方法来建立此类流程。
   - question: Some type of budgeting might be necessary to ensure the operation of a
       production line for example?
     answer: >-
