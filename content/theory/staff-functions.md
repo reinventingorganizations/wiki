@@ -68,24 +68,24 @@ faq:
       解决这个问题的一个办法是通过志愿工作队。例如，由各自部门承担风险相关职责的人员，联合组成的风险工作组。该工作组负责决定相关标准和政策，确保以符合监管机构要求的方式降低风险。至于由谁代表组织签字（或与监管机构接口），工作组成员可以轮流负责，由每个成员承担一年的责任。工作队还可以决定组织交叉审计，比如一个单位的一名成员审计另一个单位。AES使用着这种方法，他们报告说，这个方式的结果是风险控制非但没有减弱，反而更强了。志愿工作队比总部的中央管理人员更了解一线的风险在哪里，更清楚什么准则更适当，更知道交叉审计时需要在哪里寻找什么。志愿工作队方式培养一种团结精神和责任感。如果审计不佳而导致某个单位倒闭，那么“工作队中的一个”就会首当其冲地承受来自监管机构的压力，所以有动力精密负责的进行风险检查和审计（群众的集体责任和集体智慧）。相比之下，在传统组织内，是通过总部风险主管部门颁布的规则来强制，通常很难在一线得到完全的实施，也没有动力吸引人们自行寻找解决办法。
 
       在高度监管的发电和配电市场中运行的[AES ](http://www.aes.com/)（见下文AES案例的更多内容）至少表明，强有力的监管压力，也可以通过自我管理结构来对应。
-  - question: How do these practices link with the three Teal breakthroughs?
+  - question: 这些实践是如何与三个蔚蓝突破相联系的？
     answer: >-
-      #### Self-management
+      #### 自我管理
 
 
-      Central staff functions, as they are used today in many large organizations, concentrate power away from their operational colleagues. Eliminating or drastically reducing the influence of centralized staff returns autonomy to the rest of the organization and is a key element of the Teal breakthrough of self-management.
+      当今许多大型传统组织中所使用的中央管理职能，将权力集中在远离一线业务同事的地方。蔚蓝消除或大幅度减少了中心管理职能的影响力，让组织的其他部门恢复了自主权，这是蔚蓝突破之一--自我管理的一个关键作用。
 
 
-      #### Wholeness
+      #### 完整人性
 
 
-      In many organizations, the relationship of central staff functions with people in operating units is based on mistrust: without staff policing them, operations cannot be relied on to act in ways that benefit the organization as a whole. With Teal, people are trusted to take into account the needs of the whole organization and are freed to pursue their passions and interests.
+      在许多组织中，中央工作人员职能与业务单位人员之间的关系是建立在不信任的基础上的：没有工作人员的监督，就不能依靠业务部门采取有利于整个组织的行动。有了蔚蓝，人们可以放心地考虑到整个组织的需要，并可以自由地追求自己的激情和兴趣。
 
 
-      #### Evolutionary purpose
+      #### 进化目标
 
 
-      Central staff functions tend to make the organization more static and prevent innovations from happening freely at the margins, thereby slowing down the unfolding of the organization's purpose. Dealing in decentralized ways with the need for expertise, economies of scale and joint standards increases an organization's agility, and thereby its potential to pursue its evolutionary purpose.
+      中心管理职能往往降低组织的灵活性而令其僵化，并妨碍本来可以在一线和边缘自由发生的持续，从而延缓组织目标的实现。蔚蓝通过分散的方式处理对专业知识、规模经济和全局联合标准的需求，可以提高组织的灵活性，从而提高组织追求发展目标的潜力。
 relatedTheory:
   - Project teams and task forces
   - Organizational Structure
