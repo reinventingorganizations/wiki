@@ -10,9 +10,6 @@ intro: |-
 
   ![](/media/compensation-and-incentives.jpg)
 perspective: >-
-  ## 新视角
-
-
   关于采购和投资[蔚蓝组织](../teal-paradigm-and-organizations/)一般遵循以下原则：
 
 
@@ -52,9 +49,6 @@ perspective: >-
 
   [绿色模式](../green-paradigm-and-organizations/)将关于采购和投资的决策进一步推到了一线成员身上。[橙色组织](../orange-paradigm-and-organizations/)那种自上而下的规划，在绿色中通过采用运营专家支撑的自下而上流程而得到丰富。[绿色的突破性授权机制](../green-paradigm-and-organizations/)可以激发团队的创造力和责任感，在预算范围内和组织的价值体系内，授予团队层面的购买或投资决策权得到了扩展。大多数组织仍然设有授权限制。绿色引入了更加去中心化或更分布式的采购过程（通常由软件工具支持），用来加快决策过程，并提高运营团队的灵活性。
 inPractice: >-
-  ## 实践中
-
-
   #### 只要遵循建议流程，谁都可以决策任何金额的采购
 
 
