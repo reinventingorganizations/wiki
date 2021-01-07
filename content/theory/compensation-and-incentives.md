@@ -109,33 +109,33 @@ faq:
 
 
       里卡多·塞姆勒的畅销书《特立独行》（Maverick）使巴西公司Semco成名，该公司已制定了一项“自愿风险计划”，将此类减薪制度化，以在危机时期保护公司（巴西在过去几十年中一直倾向于此）。员工可以选择风险工资计划。他们减薪25%，如果公司有好年景，他们会得到一笔补助金，将薪酬提高到125%。如果公司经营不善，他们只能拿到工资的75%。由于好年景大于坏年景，这笔交易有利于愿意冒险的员工。
-  - question: How do these practices link with the three Teal breakthroughs?
+  - question: 这些实践是如何与三个蔚蓝突破相联系的？
     answer: >-
-      #### **Self-management**
+      ##### 自我管理
 
 
-      Self-set or ranking-based salaries are a key enabler to self-management: in traditional hierarchical structures, bosses decide on the salary raises and bonuses of their subordinates; in self-managing systems, it is necessary to upgrade to peer-based compensation mechanisms.
+      自我设定或排名工资是自我管理的一个关键要素：在传统的层级结构中，老板决定下属的加薪和奖金；但在自我管理系统中，有必要升级到同级薪酬机制。
 
 
-      \[And yet, self-set or ranking-based systems can also be implemented within traditional hierarchical structures. It can be a step towards ultimately replacing hierarchy with self-management. Within an organization where complete self-management isn't in the cards (for instance if the board of directors wouldn't accept that the organization let go of a pyramid structure), it can also be an important step to take some power out of the boss-subordinate relationship and create more of a team-based collaborative spirit.]
+      \[不过，基于自我设置或排名的系统也可以在传统的层次结构中实现。这个做法，可以为组织届时从根本上用自我管理机制取代等级制度做准备，是可行的第一步。在一个不具备完全自我管理能力的组织中（例如，其董事会还不能接受该组织放弃金字塔结构），可以尝试先从老板与下属的关系中，通过实施这种蔚蓝色彩的薪酬制度，来让出一些领导权力，创造更多基于团队协作精神的习惯，这也是转型准备的一个重要起步。]
 
 
-      #### **Wholeness**
+      ##### 整体人性
 
 
-      When there is one boss that decides over a person's salary, it's tempting to want to please that person, to conform to their expectations, to not speak one's truth. When it's not one person, but a great number of colleagues one works with who calibrate one's salary increase, most people naturally relax into showing up more truthfully. In this way, self-set or ranking based compensation mechanisms help colleagues show up more easily from a place of wholeness.
+      当组织内存在一个老板能决定成员的薪水时，大家很容易因为想取悦那个老板，遵从他们的期望，而不坦诚的说真话。单如果不是由一个人，而是由同事中的一大群人来衡量成员的工资增长时，大多数人都自然会放松下来，更真实地表现完整的自我。通过这种自我设定或基于排名的薪酬机制，可以帮助同事更容易地基于完整人性参加职场，表达真实自我。
 
 
-      They also help us take an adult stance towards compensation. Traditional boss-subordinate relationship tend to push employees to behave like children and bosses like parents. Self-set or ranking based compensation systems also do away, almost instantly, with much of the strategizing, haggling and complaining around compensation, with everyone forced to take an adult-to-adult stance. 
+      这也能帮助我们更好的站在成熟人性的立场上，看待薪酬。传统的老板-下属关系往往会促使员工表现得像个顺从的孩子，而老板则像控制孩子的父母。基于自我设定或排名的薪酬体系，会让这些关系瞬间消失，回避了许多围绕薪酬决定的策略、讨价还价和抱怨，让每个成员都被迫采取成人对成人的立场（促进人性成长）。
 
 
-      #### **Evolutionary purpose**
+      ##### 进化目标
 
 
-      \[The link between evolutionary purpose and compensation practices can show up in times of crisis. There are several documented cases of self-managing where workers, in a severe downturn, choose voluntarily to reduce their compensations on a temporary basis to avoid lay-offs. In self-managing organizations, colleagues often often have a high level of financial knowledge and maturity, and choose to contribute to save their colleagues jobs and to maintain the organizations ability to pursue its purpose with all its skills and resources.]
+      \[进化目的和薪酬机制之间的有机关联，在危机时期可能会更好的显现出来。多个记录在案的自我管理案例表明，在经济严重低迷的情况下，蔚蓝员工会自愿临时减少薪酬，以避免下岗。在自我管理的组织中，同事通常具有较高的财务知识、信息和成熟度，他们选择为挽救同事的工作，为了维持组织利用其所有技能和资源实现其目标的能力，而自愿贡献自己的部分收入。]
 
 
-      \[Teal organizations are built on the premise that individuals are primarily motivated, after attaining basic needs, by intrinsic factors such as the pursuit of purpose. Thus, they tend not to exhibit the primacy of compensation, including added incentives, typical in Orange or even Green.]
+      \[蔚蓝组织的前提是，信任成员在达到基本需要之后，主要的工作动力是来自诸如追求个人和组织目标等内在因素的激励。因此，成员往往不会将薪酬看作第一关注点和动力，这也包括典型的橙色甚至绿色经常使用的额外的激励。]
 relatedTheory:
   - Feedback and Performance Management
   - Dismissal
