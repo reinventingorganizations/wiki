@@ -56,16 +56,8 @@ inPractice: >-
 
   蔚蓝组织的目标很少是静态不变的 —所以叫做进化目标。目标会随着组织自身的成长和影响过程而与时俱进。比如，布尔佐格公司设立时目标的“帮助疾病和老年患者活出更自理更有意义的人生。”^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4215-4216). Nelson Parker. Kindle Edition.]但其活动已经成长并超出了照顾老人的范畴，现在聚焦在“帮助患者变得健康和自理”。
 faq:
-  - question: Can there be a conflict between individual and organizational purpose?
-    answer: Individual and organizational purpose go hand in hand. One needs the
-      other to flourish. When the individual and organizational purpose enter
-      into resonance and reinforce each other, extraordinary things can happen.
-      When work meets vocation — an encounter that theologian Frederick Buechner
-      described as “the place where your deep gladness meets the world’s deep
-      hunger”— then members of an organization can pour their heart and soul
-      into their work. They are fulfilled as human beings, not as productive
-      units. At the same time, the organization's evolutionary purpose is
-      furthered and allowed to grow.
+  - question: 个人和组织之间是否会有冲突？
+    answer: 个人目标和组织目标齐头并进。相互依赖共同繁荣。当个人和组织的目标产生共鸣并相互增幅时，会发生奇迹。当工作与天职相遇时——神学家弗雷德里克·布埃纳将这种相遇描述为“你深深的喜悦与世界深深的渴求的相遇之处”——那么组织的成员就可以将他们的全心和灵魂倾注到工作中。这时的他们是作为有创造力的人，而不是作为机械的生产单元运作。在此过程中，组织的进化目标也能得到进一步的发展。
 relatedTheory:
   - Listening to Purpose
   - Strategy
