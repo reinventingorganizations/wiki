@@ -98,17 +98,8 @@ inPractice: >-
 
   未来，随着更多的人开始选择在人生中优先“个人目标”的实现，个人与组织的时间分配就会愈发灵活。通过自营职业、兼职工作、或志愿工作实现个人承诺，将成为普遍现象。不需要批准。成员可以很简单的找到办法履行自己的承诺，或将其合理转移给另一个同事。或与同事坦诚探讨，自己希望可以寻觅一些，同样能为组织增加价值的新角色和承诺的机会。
 faq:
-  - question: What happens if a person can’t keep up their commitment to the
-      organization due to other personal commitments?
-    answer: The regular meeting held to share personal commitments provides the
-      forum for this to be aired with colleagues. If someone wants to reduce
-      their working hours they are expected to find a solution to uphold the
-      commitments they have made. He/she has full liberty to find a solution,
-      but until they have found one, they are bound to their previous
-      commitments. If a colleague continually needs to work fewer hours over a
-      longer period of time, then this may well be raised by that person or
-      other colleagues as part of a regular peer-based compensation and self-set
-      salary process.
+  - question: 如果一个人因为其个人的责任而不能履行对组织的承诺，会发生什么？
+    answer: 召开分享个人承诺主题的例会，能提供一个与同事们分享承诺的论坛。如果有人想减少工作时间，他们应该负全责找到一个解决方案来履行自己所做的承诺。他/她有充分的自由在找到一个解决办法后停止履行承诺，但在找到解决办法之前，就必须遵守以前的承诺。如果一个同事需要在一段较长的时间内持续减少工作时间，那么这个人或其他同事很可能会指出这个状况，作为定期的基于同事建议的薪酬设定和自我设定的薪酬设定流程之基础信息被采用考虑。
 relatedTheory:
   - Meetings
   - Listening to Purpose
