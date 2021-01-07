@@ -74,12 +74,12 @@ faq:
     answer: 例如，从相同或兼容的供应商处购买计算机或电话设备通常是有意义的。同样，我们可以简单地信任[建议流程](../decision-making/)的自动功效。一个秘书如果要给自己买一台新电脑，除非她非常精通硬件和软件规格，否则她很可能会向知识渊博的成员寻求建议，以确保该电脑更容易适配于其他IT设备。在这种情况下，没有必要由中央部门强制指定行动标准。在更复杂的情况下需要指定标准时，必会有人站出来召集一个小组来调查此事并定义标准。
   - question: 不符合预算的投资怎么办？
     answer: 有时，出于某种原因，一项投资可能不符合预算。该投资可能是基于突发事件或有价值的机会。与[橙色组织](../orange-paradigm-and-organizations/)不同，自发投资应遵循蔚蓝模式。即通过[建议流程](../decision-making/)处理此类情况。如果某个部门或团体需要增加预算拨款，他们可以向其他团体寻求支持，会有些团体（感觉到这能更好的服务组织目标而）愿意从自己的预算中拿出一部分支援盟友。他们会提出和回答具有挑战性的问题，但最后应将由各小组代表的集体智慧作出决策。
-  - question: How do these practices link with the three Teal breakthroughs?
+  - question: 这些实践如何与蔚蓝的三大突破相联系？
     answer: >-
-      #### Self-management
+      #### 自我管理
 
 
-      [Self-management](../self-management/) heavily impacts purchasing and investments. Every employee is enabled to take action and innovate in his working context. Investments are initiated from where they are needed. The [advice process](../decision-making/) creates a deeper understanding of the impacts of investments. The localized responsibility for purchasing leads to a greater satisfaction about what is bought because the user defines the specifications.
+      [自我管理](../self-management/)对采购和投资影响很大。每个出于都能在自己的工作环境中自主采取行动和创新。投资倡议从需要的地方开始启动。[建议流程](../decision-making/)能通过集体智慧帮助决策者加深对该投资带来影响的理解。由于规格是源于用户的制定和需求，因此采购责任的一线化，更容易保证户对所购买的产品更加满意。
 
 
       #### Wholeness
