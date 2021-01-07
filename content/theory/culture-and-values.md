@@ -135,16 +135,8 @@ inPractice: >-
 
   * **目标和利润:** 从长远角度，在目标与利益之间并不存在对立关系。如果我们聚焦目标，利益会自然随之呈现。
 faq:
-  - question: Do you need to change your set of values and ground rules when you
-      transition to Teal?
-    answer: Not necessarily. If your values are consistent with your purpose and if
-      those values truly define who you are as an organisation, it is better for
-      you to keep them. Maybe the ground rules will need to be readapted to
-      better fit the [self-management
-      ](https://reinventingorganizations-wiki.netlify.app/theory/self-management/)structure
-      and processes. In any case you need to set up a process where those values
-      and ground rules can be regularly and collectively reviewed to ensure you
-      keep on living them.
+  - question: 当一个组织转型进入蔚蓝模式，是否需要改变组织的价值观和基本规则？
+    answer: 不一定。如果组织的价值观与目标一致，如果这些价值观真正定义了作为一个组织的身份，那么最好保持这些价值观。但可能需要重新调整一些基本规则，以便更好地适应[自我管理](https://reinventingorganizations-wiki.netlify.app/theory/self-management/)的结构和流程。无论如何，都需要建立一个流程，定期并集体性的审查组织的价值观和基本规则，以确保组织能持续存活。
 relatedTheory:
   - Listening to Purpose
   - Evolutionary Purpose
