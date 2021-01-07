@@ -88,10 +88,10 @@ faq:
       为了决定投资，需要对决策的相互依赖性和影响范围进行深入的整体理解。[建议流程](../decision-making/)为投资的影响分析创造了广泛的透明度。尤其是在资金量较大的情况下，了解公司的财务状况以及该投资对其他人的整体影响，是非常必要的。
 
 
-      #### Evolutionary purpose
+      #### 进化目标
 
 
-      One important criterion about investments is whether it fulfills an [evolutionary purpose](../evolutionary-purpose/). Distributed investment decisions empower those sensing the organization's purpose to act in a way to serve that purpose.
+      关于投资的一个重要标准是，看是否符合组织的[进化目标](../evolutionary-purpose/)。分布式投资决策使那些感觉到组织目标的人能够以一种服务于该目的的方式积极自主的行事。
 relatedTheory:
   - Decision Making
   - Budgeting and Controlling
