@@ -70,17 +70,8 @@ faq:
     answer: 如果组织不计划集中购买，钱就会摆在桌子上没人管吗？答案通常是：相信人们在
       [自我管理](../self-management/)的框架内能做出正确的决定。对于那些成交量折扣大到不容放弃的商品，从同一家供应商购买的不同特点同事会自动选择协作，以最大限度地提高购买力。在一家番茄加工公司
       [晨星](https://www.morningstarco.com/),，同事们注意到很多人都在购买一种可以防止螺母和螺栓意外松动的螺纹锁固胶，有几十种不同的规格和不同的供应商。分散采购不仅损失了大量的折扣，而且不协调的采购产生了不必要的官僚作风，因为食品行业的法规要求工人们在材料安全数据表中，认真跟踪每一种螺纹锁固胶的规格。于是某个时候，一名工人建议说，自己可以每季度在工厂里走一次，问问同事们是否想通过自己来订购这个商品。另一个类似的解决方案也自然的出现在购买包装材料方面，其数量折扣也得到迅速增加。当协作带来价值时，人们就自主的启动协作。
-  - question: What about standardization?
-    answer: It often makes sense to buy computer or telephone equipment from the
-      same or compatible vendors, for instance. Again, one can simply trust the
-      [advice process](../decision-making/). A secretary buying herself a new
-      computer, unless she is very well versed in hardware and software
-      specifications, will likely seek advice from a knowledgeable party to
-      ensure the computer will easily fit in with the rest of the IT equipment.
-      In this case, there is no need for a central department to enforce
-      standards. In more complex cases, when standards need to be specified,
-      someone will step up and call together a group that will look into the
-      matter and define the standards.
+  - question: 标准化如何考虑？
+    answer: 例如，从相同或兼容的供应商处购买计算机或电话设备通常是有意义的。同样，我们可以简单地信任[建议流程](../decision-making/)的自动功效。一个秘书如果要给自己买一台新电脑，除非她非常精通硬件和软件规格，否则她很可能会向知识渊博的成员寻求建议，以确保该电脑更容易适配于其他IT设备。在这种情况下，没有必要由中央部门强制指定行动标准。在更复杂的情况下需要指定标准时，必会有人站出来召集一个小组来调查此事并定义标准。
   - question: What about an investment that does not fit into the budget?
     answer: From time to time an investment might not fit into the budget for some
       reason. Possibly the investment is based on a sudden event or a valuable
