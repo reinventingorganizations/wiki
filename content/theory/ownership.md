@@ -59,20 +59,18 @@ inPractice: >-
 
   霍尔起草了一份章程，蔚蓝组织的董事会可以采纳这个规定，确保一些（维持蔚蓝模式不被董事会推翻的）约束力，这些约束力甚至对未来的股东也有效。这个章程赋予股东在财务事务上的合法发言权，但阻止股东单方面实施不同的战略，或恢复传统的管理模式。霍尔在法律方面做了一些努力，调整了章程内容令其符合美国公司法。目前正在进一步调整这个章程，令其也能符合其他国家的法律制度。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 5453-5457). Nelson Parker. Kindle Edition.]
 faq:
-  - question: Teal organizations don't seem to encourage employee ownership. How come?
+  - question: 蔚蓝组织似乎不鼓励成员股权。为什么？
     answer: >-
-      Wouldn't employees be more motivated, feel more part of the organization
-      if they were to also own parts of it? Couldn't this help diminish income
-      inequality?
+      如果员工也拥有组织的一部分，他们会不会更有动力，更多感受到自己是组织的一部分？这难道不能帮助减少收入不平等吗？
 
 
-      1. Employee ownership is often thought of as a way to bind employees, especially the most talented and skilled, to the organization. From a Teal perspective that makes little sense. People should be free to pursue their calling. While that calling intersects with the purpose of the organization, then let people be part of it. And let them be free to leave when it is no longer the case. Profit sharing is an easy way for employees to benefit, but without having to buy stock, or be bought out, at a good or bad time.
+      1. 员工股权通常被认为是一种将员工，特别是最有才华和技能的员工与组织粘合在一起的方式。从蔚蓝角度看，这没什么意义。成员应该自由地追求自己的使命。当这种使命召唤与组织的宗旨相交叉时，就让成员成为并保持作组织的一部分。当情况不再是这样时，需要让成员自由离开。通过其他方式分享利润，对员工来说是一种更简单的受益方式，大可不必通过在获利时购买股票，在亏损时卖掉股票的麻烦方式来实现。
 
-      2. Employee ownership is often thought of as a way to "motivate" employees. Under Teal, intrinsic motivation (such as purpose) is considered much more powerful than extrinsic factors like financial compensation.
+      2. 员工股权通常被认为是“激励”员工的一种方式。但在蔚蓝模式，内在动机（如组织目的）比外在因素（如经济补偿）具有更强大的力量。
 
-      3. Employee ownership is sometimes thought of as a way to give employees power and a voice. If employees have voting rights, they cannot simply be ignored. A self-managing structure distributes power anyway, and removes the need to do so via voting rights.
+      3. 员工股权，有时被认为是赋予员工权力和话语权的一种方式。如果员工有投票权，就不会简单地忽略成员的意见。但一个自我管理组织结构中，无论何时都在基层分配权力，所以没有必要通过股权投票权来表达权力。
 
-      4. Employee ownership is sometimes seen as a way to reduce income inequality by allowing employees to share in the value creation of the organization. This is valid when it comes to young organizations that might rapidly increase in value and have limited cash resources. In more established companies, income inequality can often more easily be reduced through salary setting and profit sharing.
+      4. 员工股权有时也被视为减少收入不平等的一种方式，能允许员工分享组织的价值创造。如果是个价值快速增长且现金资源有限的年轻组织，这是有效的。在较成熟的公司，通过制定合理的薪酬和利润分享机制，往往更容易减少收入不平等。
 relatedTheory:
   - board
   - Organizational Structure
