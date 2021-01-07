@@ -84,44 +84,29 @@ inPractice: >-
 
   自然突现性的创新不仅遵循组织目标，而且可能影响组织的进化目标，使组织的势头转向新的方向和潜力。
 faq:
-  - question: How would a strong visionary and innovative personality fit into a
-      Teal organization, such as for example Steve Jobs?
-    answer: In Teal organizations decision-making is bounded by the advice process.
-      Anybody with strong skills in a particular area can contribute,
-      irrespective of position, and this is certainly true with respect to
-      innovation. However, the Teal paradigm also confers on all decision-makers
-      the obligation to respect the advice process and consult with appropriate
-      individuals within the organization. This does not mean that everyone
-      consulted has to agree with a proposed innovation, only that his or her
-      advice is considered. To the extent that Steve Jobs’ success as an
-      innovator was facilitated by his working in a conventional hierarchical
-      structure and his consequential ability to make decisions unilaterally,
-      this might lessen his effectiveness in a Teal organization. However, at
-      the same time, the collective innovative intelligence of the entire
-      organization is unleashed under Teal, making it not nearly so dependent on
-      the contributions of a single individual.
-  - question: How do these practices link with the three Teal breakthroughs?
+  - question: 一个有远见卓识和创新精神的人，如何融入一个像史蒂夫·乔布斯这样的蔚蓝组织？
+    answer: 在蔚蓝组织中，决策受到建议流程的约束。在某一特定领域拥有强大技能的任何成员都可以做出贡献，无论职位如何，这无疑能激励创新。然而，蔚蓝模式也赋予所有决策者尊重建议流程以及必须跟组织内适当个人协商的义务。这并不意味着被咨询的每个人都必须全员同意所提议的创新，只是需要考虑他或她的建议（但可以不采纳）。在某种程度上，史蒂夫·乔布斯作为一个创新者的成功，主要得益于他在传统的层级结构中的运作技巧以及相应的单边决策能力，这些素质反而可能降低他在蔚蓝组织中的效率。但更大的收获是，整个组织的集体创新智慧在蔚蓝的领导下得以释放，使其几乎不依赖于某单个成员的贡献。
+  - question: 这些实践是如何与三个蔚蓝突破联系在一起的？
     answer: >-
-      All three Teal breakthroughs are supported by the practices and principles
-      for Teal innovation and product development.
+      蔚蓝创新和产品开发实践与原则，支撑着蔚蓝的三大突破。
 
 
-      #### Self-management
+      #### 自我管理
 
 
-      [Self management](../self-management/) allows anybody to innovate and develop improvements in products and services with minimal delay. The empathetic understanding that frontline staff have for their customers can be used to act on observed needs.
+      [自我管理](../self-management/)能促进所有人在产品和服务方面进行创新和改进，而且延迟时间最小。一线员工对客户的同情和理解，促进了他们根据观察到的需求而采取迅速的反应行动。
 
 
-      #### Wholeness
+      #### 完整人性
 
 
-      [Wholeness](../wholeness/) is integrated into the design and product development process through a "whole brain" approach. Teal innovation designs for aspects such as beauty and through intuition as well as more traditional market or customer analysis.
+      [完整人性](../wholeness/)通过“集体全脑”融入到设计和产品开发过程中。蔚蓝模式的创新设计宗旨是，美观和直觉，同时兼顾了传统的市场或客户分析。
 
 
-      #### Evolutionary purpose
+      #### 进化目标
 
 
-      In Teal, innovations are selected first and foremost based on fit with the organization's [purpose](../evolutionary-purpose/). Furthermore, innovation plays a key role in the evolution of that purpose.
+      在蔚蓝组织中，创新决策首先基于与组织[目标](../evolutionary-purpose/)的契合度。创新在组织目标的进化演变中发挥着关键作用。
 relatedTheory:
   - sales-marketing
   - Strategy
