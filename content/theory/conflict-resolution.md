@@ -130,42 +130,12 @@ inPractice: >-
 
   因有效的冲突解决技巧在自我管理组织内占有如此核心的地位，很多蔚蓝组织都会对全员培训人际交往技巧，以便大家都能优雅的处理冲突。新人通常在第一周上岗时，接受一些功能培训，包括：自我管理，深度聆听，建设性的处理冲突，打造安心环境。比如，ESBZ和布尔佐格这样的公司，会对同事培训罗森博格元帅的[非暴力沟通](https://en.wikipedia.org/wiki/Nonviolent_Communication)。
 faq:
-  - question: If so much time is spent talking through every conflict, when does the
-      work get done?
-    answer: Working through conflict in a collaborative way without a solution
-      imposed by a boss can take time. However, the structure of Teal
-      organizations within which employees are trusted to make decisions
-      collaboratively from a place of wholeness and care for others, prevents
-      many conflicts from happening in the first place. Also, many Teal
-      organizations extensively train their employees in effective communication
-      and similar skills that make talking through conflict an easier and faster
-      process. Even if resolving conflict does take some extra time, there are
-      many benefits, such as increased productivity from happier and more
-      empowered workers.
-  - question: Doesn’t it usually end up with a few team members doing most of work
-      because there is no boss to oversee the situation when someone slacks off?
-    answer: In traditional companies, when one person doesn’t deliver, colleagues
-      grumble and complain but leave it to the person’s boss to do something
-      about it. In self-managing organizations, people have to step up and
-      confront colleagues who fail to uphold their commitments. This can
-      sometimes be difficult or uncomfortable. Teal organizations invest a lot
-      of time and effort in giving people the skills and resources they need to
-      do this effectively.
-  - question: Are peers really fully trusted to resolve conflicts? In Teal
-      organizations there is still a founder or CEO. Doesn’t this person have
-      the final say?
-    answer: When there is disagreement between two colleagues, they may try to send
-      it up to the founder or CEO or other person deemed to have more authority.
-      The temptation to settle the matters in this way is resisted. Instead, the
-      conflict resolution mechanism helps colleagues work through the conflict
-      together. In this way, they learn that their voice is valued and they do
-      have the power to hold peers to their commitments, without the
-      intervention of a boss, even if it can be uncomfortable at times. A CEO or
-      founder might be involved later on if the original colleagues can’t sort
-      the issue out one-on-one and if they choose this person as a mediator or
-      panel member. But neither a mediator nor a panel can impose a solution.
-      Other support may also be requested when teams run into trouble, but
-      ultimately the participants must find their own solution.
+  - question: 如果很多时间被耗费在仔细讨论每一个冲突上，何时完成工作？
+    answer: 以协作的方式解决冲突，而不是老板强加解决方案，确实可能花费时间。但蔚蓝组织信任成员能从整体人性和关心他人的角度出发，进行协同决策。这个特点从一开始就防止了许多冲突的发生。此外，许多蔚蓝组织广泛培训员工掌握有效的沟通和类似技能，让通过冲突催化的深度交谈变得更容易也更快。即使解决冲突确实需要一些额外的时间，但也会带来很多好处，比如成员会更快乐、更有主权感，这可以提高生产率。
+  - question: 如果没有上司监督是否有人偷懒，会不会导致少数几个人在完成多数工作？
+    answer: 在传统的公司里，当一个人不履行职责时，同事们只会抱怨，但会期待老板采取行动。在自我管理的组织中，人们必须站出来，直接提醒那些未能履行承诺的同事。这有时很困难或感觉不舒服。所以蔚蓝组织投入大量的时间和精力，为人们提供有效完成这项工作所需的技能和资源。
+  - question: 真的能信赖或依靠同事来自行解决冲突吗？在蔚蓝组织内也还是有个缔造者或CEO，这个人没有最终裁决权么？
+    answer: 当两位同事之间出现分歧时，他们可能会试图将分歧提交给创始人、首席执行官或其他被认为拥有更大权力的人。在蔚蓝组织，以这种方式解决问题的诱惑被彻底抵制。代之以，提供冲突解决机制帮助同事们一起解决冲突。通过这种方式，成员了解到自己的声音是有价值的，感受到自己确实有能力和有责任，在无需老板干预的前提下，主动敦促和监督同事履行自己的承诺。即使有时会感到不舒服也会行动。最初，如果不能跟同事一对一地解决问题，就可以共同选择某个人作调解，同小组成员或CEO或创始人都可能会参与进来。但无论是调解人还是专家组都不能强加解决方案。当团队遇到麻烦时，也可以请求组织内其他部门或人的支持，但最终，参与者必须找到自己的解决方案，其他都是支撑和参考。
 relatedTheory:
   - Culture and Values
   - Onboarding
