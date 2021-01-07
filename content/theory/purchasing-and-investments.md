@@ -72,18 +72,8 @@ faq:
       [晨星](https://www.morningstarco.com/),，同事们注意到很多人都在购买一种可以防止螺母和螺栓意外松动的螺纹锁固胶，有几十种不同的规格和不同的供应商。分散采购不仅损失了大量的折扣，而且不协调的采购产生了不必要的官僚作风，因为食品行业的法规要求工人们在材料安全数据表中，认真跟踪每一种螺纹锁固胶的规格。于是某个时候，一名工人建议说，自己可以每季度在工厂里走一次，问问同事们是否想通过自己来订购这个商品。另一个类似的解决方案也自然的出现在购买包装材料方面，其数量折扣也得到迅速增加。当协作带来价值时，人们就自主的启动协作。
   - question: 标准化如何考虑？
     answer: 例如，从相同或兼容的供应商处购买计算机或电话设备通常是有意义的。同样，我们可以简单地信任[建议流程](../decision-making/)的自动功效。一个秘书如果要给自己买一台新电脑，除非她非常精通硬件和软件规格，否则她很可能会向知识渊博的成员寻求建议，以确保该电脑更容易适配于其他IT设备。在这种情况下，没有必要由中央部门强制指定行动标准。在更复杂的情况下需要指定标准时，必会有人站出来召集一个小组来调查此事并定义标准。
-  - question: What about an investment that does not fit into the budget?
-    answer: From time to time an investment might not fit into the budget for some
-      reason. Possibly the investment is based on a sudden event or a valuable
-      opportunity. As with [Orange
-      organisations](../orange-paradigm-and-organizations/), spontaneous
-      investments should be accommodated under Teal. Again, the [advice
-      process](../decision-making/) is used to handle such situations. If a
-      particular department or group needs an increased budget allocation, they
-      can solicit support from other groups who might be willing to give a piece
-      from their budget. Challenging questions should be asked and answered, but
-      finally there will be a decision driven by the collective intelligence of
-      representatives of the teams.
+  - question: 不符合预算的投资怎么办？
+    answer: 有时，出于某种原因，一项投资可能不符合预算。该投资可能是基于突发事件或有价值的机会。与[橙色组织](../orange-paradigm-and-organizations/)不同，自发投资应遵循蔚蓝模式。即通过[建议流程](../decision-making/)处理此类情况。如果某个部门或团体需要增加预算拨款，他们可以向其他团体寻求支持，会有些团体（感觉到这能更好的服务组织目标而）愿意从自己的预算中拿出一部分支援盟友。他们会提出和回答具有挑战性的问题，但最后应将由各小组代表的集体智慧作出决策。
   - question: How do these practices link with the three Teal breakthroughs?
     answer: >-
       #### Self-management
