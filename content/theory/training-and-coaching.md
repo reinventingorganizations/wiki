@@ -123,16 +123,8 @@ inPractice: >-
 
   有些组织对全员提供免费守密的个人指导或心理咨询，对象包括成员和家属，也可以咨询与工作无关内容。通过对成员人生全方位提供支撑而强化了完整人性理论。
 faq:
-  - question: How can a member make sensible choices about her own training when she
-      doesn't know what she doesn't know?
-    answer: Even if we assume she doesn't know, she will almost certainly seek
-      advice from someone with more experience. This will help her confirm or
-      amend her choice. And by going through the self-development process, she
-      will learn more about what she needs, and the learning approaches that
-      suit her. In other words, she gets better at getting better! In a
-      traditional environment, HR tells her what she should learn, and how she
-      should learn it. If these choices are wise, fine. If not, money and time
-      are wasted.
+  - question: 成员在不知道自己欠缺什么知识的前提下，如何做出关于自己培训计划的有效决策？
+    answer: 即使我们假设她不知道，但她通常肯定会向更有经验的人寻求建议。这将帮助她确认或修正自己的选择。通过自我发展的过程，她能学会并发现自己到底需要什么，并找到适合自己的学习方法。换言之，她越来越好！在传统的环境中，人力资源部会告诉她应该学什么，以及应该如何学习。如果这些强加的选择非常明智，那就好。否则，就是金钱和时间的白白浪费。
 relatedTheory:
   - Onboarding
   - Culture and Values
