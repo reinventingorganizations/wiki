@@ -136,20 +136,10 @@ faq:
 
 
       在蔚蓝组织中，人们的行为不是根据组织链上更高层的领导告诉他们做什么，而是由他们对组织进化目标的感知来引导。自我管理系统是基于感觉和反应，而不是命令和控制。这往往能更迅速的发展，对环境变化的反应更敏捷。相比之下，金字塔型组织倾向于通过不频繁、不及时和更残酷的重组跳跃进行改变。
-  - question: What then, if any, is the role of a leader?
-    answer: "In today’s world, the predominant, default organizational model is that
-      of the pyramid, with an executive committee, middle managers, staff
-      functions, and policies and procedures to ensure control. Self-managing
-      systems are still the exception, and many people's default behaviors, even
-      in established self-managing organizations, can revert to those of more
-      traditional, hierarchical management. This might explain why in all
-      self-managing organizations to date, the founder or the most senior
-      “leader” has filled one particular role: that of \"holding the space\" of
-      distributed authority. Whenever people in the organization, consciously or
-      unconsciously, revert to traditional management control mechanisms, the
-      leader reminds everyone about the [fundamental assumptions
-      ](../fundamental-assumptions/)and encourages them to find solutions in
-      line with the self-managing nature of the organization."
+  - question: "领导者的角色，如果还有的话，是什么呢？ "
+    answer: 在当今世界，主要的、默认的组织模式是金字塔型，有执行委员会、中层管理人员、管理职能以及确保控制的政策和程序。自我管理机制是个例外，但即使在那些成熟的蔚蓝自我管理组织中，很多人的思维和行动还是会陷入或认恢复到默认的更传统的分层管理模式。这或许可以解释为什么迄今为止，在所有自我管理的组织中，创始人或最高级的“领导者”都扮演了一个特殊的角色：由他/她来“占据分布式权威的空间”。每当组织中的人有意识或无意识地回到传统的管理控制机制时，该领导者就会提醒每个人，回顾蔚蓝模式的[基本假设](../fundamental-assumptions/)and
+      encourages them to find solutions in line with the self-managing nature of
+      the organization.
   - question: If the organization is structured in teams, should there be structure
       within the teams? Should there be a team leader?
     answer: >-
