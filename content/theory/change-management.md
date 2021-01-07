@@ -74,18 +74,8 @@ inPractice: >-
 
   参与者众多的项目，可以使用预制的大型团队流程，如理论U、鉴赏性探究、开放空间或其他方式，来有效地展现集体理解，并明确未来愿景。变更项目需要在多大程度上进行正式的规划和跟进？在蔚蓝范式通常认为，正确的做法是形式服从功能。例如，如果存在许多相互依赖、非常紧迫的期限或高风险，则可能需要更正式的规划和后续行动。而在其他情况下，则只需要对未来有一个共同的、明确的认识即可。通常由一群人发起必要的项目，来体现集体的愿景。如果这个努力失败了，系统将自我纠正：会有人站出来大声说话，启动进一步的改变。
 faq:
-  - question: "Surely a Teal organization must sometimes face a situation where
-      drastic change and top-down decision-making are needed: Are traditional
-      change management methods helpful in such cases?"
-    answer: Teal organizations tend to adapt continuously to small changes in the
-      environment. But sometimes the organization can fail to adapt to a number
-      of changes that build up over time. In other cases, a sudden, external
-      shock occurs (say, the biggest client goes bust, or a key regulation
-      changes). In such circumstances, drastic and quick actions may be
-      necessary, calling for the [advice process](../decision-making/) to be
-      suspended, and for decisions to be made quickly by a small group of people
-      or even an individual. However, it is made clear to all that such a
-      suspension is temporary. See “Crisis Management”.
+  - question: 一个蔚蓝组织当然有时也必须面对一个需要剧烈变革和自上而下决策的情况：这时传统的变更管理方法在这种情况下是否有用？
+    answer: 蔚蓝组织倾向于不断适应环境中的微小变化。但有时组织也可能出现无法适应随着时间推移而形成的一些变化。也会发生突然的外部冲击（比如，最大的客户破产，或者关键的监管变化）。在这种情况下，会呼吁暂停费时的[建议流程](../decision-making/)，由一小群人甚至一个人迅速做出决定。不过，要保证所有人都清楚的知道，这种暂停是暂时的。见“危机管理”。
   - question: How do these practices link with the three Teal breakthroughs?
     answer: >-
       All three Teal breakthroughs support a more fluid, organic approach to
