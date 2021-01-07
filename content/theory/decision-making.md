@@ -217,16 +217,13 @@ inPractice: >-
 
   <http://dev.alchemi.co.uk/adviceprocess/#/page/5cf823717fb0de42f3aeddfc>
 faq:
-  - question: What prevents people from simply not requesting or ignoring advice?
+  - question: 是什么阻止人们去征求或忽视建议？
     answer: >-
-      Colleagues know that using the advice process isn't optional. One way to
-      be dismissed is to ignore the mutual obligations of the advice process.
-      With a [conflict resolution process](../conflict-resolution/) (as in some
-      Teal entities) someone who feels the advice process is not being respected
-      can hold a colleague to account. 
+      同事们都知道，建议过程是必须而不是可选项。单方面驳回建议，等于是轻视了建议流程中的平等双向责权。（一些蔚蓝实体中的）[冲突解决流程](../conflict-resolution/)
+      规定，如果有人觉得建议过程没有得到尊重，就可以追究同事的责任。
 
 
-      But when people get used to it, respect for the practice grows. This because people are on both sides of the equation. When you ask me for my advice this morning, I hope you will take it seriously. If our roles are reversed this afternoon, I need to take you seriously, too. Because power is distributed, you know that others can take decisions about things you care about as well, so you are apt to take their needs and views into account.
+      当人们习惯了之后，对这种做法的尊重就会自然增加。这是因为人们站在等式的两边。今天早上你向我征求意见时，我希望你能认真对待。当今天下午我们的角色颠倒了，我也要认真对待你。因为权力是分散的，如果你知道其他人也可以对你关心的事情做出决定，你会养成习惯倾向于考虑他们的需求和观点。
   - question: Who decides who gets to be the decision maker?
     answer: "Put another way: Who can decide who makes what decisions, while still
       using the advice process? \r
