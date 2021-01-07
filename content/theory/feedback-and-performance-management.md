@@ -91,16 +91,9 @@ inPractice: >-
 faq:
   - question: 如果有人表现不佳会怎么样？
     answer: 这通常通过反馈流程来解决，如果存在重大的分歧，还可以通过[冲突解决流程](../conflict-resolution/)来解决。值得注意的是，尽管从爱和支持的角度提供反馈最为有效，但所有同事都有义务不回避那些艰难而直白的对话，提醒对方承担责任。通常，致力于在个人角色和个人优势之间找到更好的契合点，可以有效地解决绩效不佳的问题。如果要找到一个可行的解决方案，就必须从整体的角度来理解，是什么导致了某个成员的糟糕绩效。
-  - question: How does this link with the three Teal breakthroughs?
+  - question: 这是如何与三个蔚蓝突破联系在一起的？
     answer: >-
-      The three Teal breakthroughs are all directly connected with the way
-      feedback is given and performance is managed. Individuals and teams are
-      guided and motivated by the [evolutionary purpose
-      ](../evolutionary-purpose/)of the organization. This allows
-      [self-management](../self-management/) rather than top-down management.
-      Feedback given from a place of compassion and care recognizing the
-      [wholeness ](../wholeness/)of people, facilitates open inquiry and
-      discussion, which in turn stimulates higher levels of performance.
+      蔚蓝的三大突破都与反馈方式和绩效管理方式直接相关。因为个人和团队受到组织[进化目标](../evolutionary-purpose/)的引导和激励，这支撑着[自我管理](../self-management/)，而不需要是自上而下的指挥和管理。从慈悲和关爱出发点给出的反馈，能接纳并颂扬[完整人性](../wholeness/)，促进公开的询问和讨论，进而能激发更高水平的表现。
 
 
       #### **Self-management**
