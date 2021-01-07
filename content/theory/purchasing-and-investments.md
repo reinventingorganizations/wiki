@@ -66,24 +66,21 @@ inPractice: >-
 
   透明的基线预算，能支撑团队监控其新投资决策是否能够并且应该得到资助，尤其是在较大的组织中更是如此。蔚蓝组织的不同之处是，投资预算不是由更高级别的管理层负责提出或确认批准。投资决策在团队中自然出现。团队基于面向实际情况的假设，决定在某个计划期间需要购买什么。如果收集到的数据能与收入预期持平并且看起来合理，就可以确定这个投资预算。只要实施了[建议流程](../decision-making/)，任何符合建议流程的投资决策都不需要进一步调查或批准。比如，[晨星公司](https://www.morningstarco.com/)每年都会举行密集的预算规划会议，每个团队都会向一组同类团队提出投资计划，征求他们的建议。成果不佳的团队可能会面临这样的挑战：他们被督促反思，增加投资是否真是解决眼前课题的最佳方式。
 faq:
-  - question: What about volume discounts?
-    answer: "Surely money is left on the table if purchases are not pooled? As
-      often, the answer is: trust people to make the right decisions within the
-      framework of [self-management](../self-management/). For items where
-      volume discounts are too good to give up, colleagues who buy from the same
-      vendor will choose to coordinate to maximize their buying power. At
-      [Morning Star](https://www.morningstarco.com/), a tomato processing
-      company, colleagues noticed that lots of people were buying threadlocker,
-      an adhesive that prevents nuts and bolts from accidentally loosening, in
+  - question: 批量折扣如何实现？
+    answer: 如果组织不计划集中购买，钱就会摆在桌子上没人管吗？答案通常是：相信人们在
+      [自我管理](../self-management/)的框架内能做出正确的决定。对于那些成交量折扣大到不容放弃的商品，从同一家供应商购买的不同特点同事会自动选择协作，以最大限度地提高购买力。在一家番茄加工公司
+      [晨星](https://www.morningstarco.com/), a tomato processing company,
+      colleagues noticed that lots of people were buying threadlocker, an
+      adhesive that prevents nuts and bolts from accidentally loosening, in
       dozens of different formats and from different vendors. They were not only
       losing out on volume discounts, but the uncoordinated purchasing generated
       unnecessary bureaucracy because regulations in the food industry required
       workers to painstakingly track every threadlocker format in a Material
       Safety Data Sheet. At some point, a worker suggested that he could walk
       around the plant once a quarter and ask colleagues if they wanted to order
-      threadlocker through him. A similar solution emerged for purchasing
+      thread locker through him. A similar solution emerged for purchasing
       packaging materials, an area where volume discounts can quickly add up.
-      When there is value in coordination, people simply start to coordinate."
+      When there is value in coordination, people simply start to coordinate.
   - question: What about standardization?
     answer: It often makes sense to buy computer or telephone equipment from the
       same or compatible vendors, for instance. Again, one can simply trust the
