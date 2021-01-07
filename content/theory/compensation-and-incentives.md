@@ -10,9 +10,6 @@ intro: |-
 
   ![](/media/compensation-and-incentives-2-small.jpg)
 perspective: >-
-  ## 新视角
-
-
   在[蔚蓝组织](../teal-paradigm-and-organizations/)中，不仅确定薪酬的方式不同，薪酬的性质和重要性都变得完全不同。蔚蓝组织在薪酬方面通常表现出以下特征：
 
 
@@ -49,9 +46,6 @@ perspective: >-
 
   在[绿色模式](../green-paradigm-and-organizations/)相信合作与竞争同样重要：个人激励开始被团队奖金所替代。人们试图缩小职场中收入高低的差距，例如，通过定义首席执行官薪酬与组织中的中等（或最低）工资之间的最大倍数来限制差距。
 inPractice: >-
-  ## **实践中**
-
-
   #### **谁/如何决定薪酬**
 
 
