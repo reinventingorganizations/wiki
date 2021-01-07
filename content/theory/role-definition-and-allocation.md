@@ -138,59 +138,60 @@ inPractice: >-
 
   [晨星](http://morningstarco.com/) 倡导“全面责任”。所有同事都有义务在感觉到问题时做些什么，即使那超出了他们的职责范围。这通常意味着与一位担任相关角色的同事共同讨论该课题或机遇。只是口头说“有人应该对这个问题做点什么”，却什么也不做，是不可接受的行为。
 faq:
-  - question: Why do we need roles? Can't we work without formalizing any roles?
-    answer: "By the very nature of the division of labor in organizations, people
-      end up taking up certain roles. Colleagues often feel a need for clarity
-      around these roles, for example \"I need help with X: who can I talk
-      to?\", \"I have an idea to change something in this domain: who would be
-      the natural person to make that happen?\", \"We agreed to do something
-      that didn't get done: who was the person that committed to this?\". \r
-
-      \r
-
-      There is value, therefore, in creating clarity on roles and
-      commitments.  Some people can be allergic to any formality or clarity, as
-      it reminds them of traditional, static hierarchies, job titles and job
-      definitions.  Remember, roles can be fluidly created, modified, exchanged
-      and scrapped, using peer-based rather than top-down processes. "
-  - question: What kind of "management" roles can be given to team members?
+  - question: 为什么需要定义岗位角色？在没有正式角色的情况下不能工作吗？
     answer: >-
-      In traditional organizations, managers act on behalf of those below them.
-      Many such ‘management’ tasks disappear in self-managing organizations.
-      Those that are still needed can be distributed among team members. For
-      example:
+      根据组织分工的本质，人们最终会扮演某些岗位角色。同事们经常觉得需要明确这些角色，例如“我需要某方面的帮助：我需要和谁沟通？”，“我有一个想法来改变这个领域的一些东西：谁是能实现这一点的自然人？”，“我们同意做一些别人没完成的工作：谁是负责这个承诺的人？”。
 
 
-      * *Anticipating*: Everyone can anticipate the future, but some teams might find it useful to have one person dedicate time to anticipate the need for long term changes.
-
-      * *Planning*: This can be further broken down, for instance into shift planning, raw material planning, etc. 
-        Setting objectives: Individuals and teams can set objectives to spur themselves on. One person can take the lead using the advice process. 
-      * *Monitoring performance indicators*: Compiling data into easy to understand insights to share with the team.
-
-      * *Recruiting*: Taking the lead in the recruitment process of new team members.
-
-      * *On-boarding:* Taking the lead in organizing the on-boarding of new team members.
-
-      * *Coaching*: Coaching junior team members, or anyone asking for coaching.
-
-      * *Mediating*: Mediating conflicts.
-
-      * *Facilitating*: Facilitating team meetings and decision making processes.
-
-      * *Scribe*: Documenting important conversations and decisions of the team.
-
-      * *Knowledge management*: Capturing and codifying  insights.
-
-      * *Continuous improvement*: Taking the lead in maintaining processes for continuous improvement.
-
-      * *Coordinating with outside parties*: Being the contact person for certain constituencies outside of the team ("I'm coordinating with the marketing team") or outside the organization ("I'm coordinating with hospitals, you are liaising with pharmacies"). 
-
-      * *Sensing team mood*: Sensing how the team as a whole and persons within the team feel, and initiate conversations when needed.
-
-      * *Organizing social events*: Creating events that build community feeling.
+      因此，明确角色和承诺是有价值的。有些人可能会对任何形式或明确性过敏，因为这会让他们想起传统的、静态的等级制度、职称和工作定义。但蔚蓝已经找到基于对等的流程（而不是自顶向下的流程），来流畅地创建、修改、交换和取消角色。
+  - question: 团队成员可以扮演什么样的“管理”角色？
+    answer: |-
+      在传统组织中，管理者代表部下成员行事。但在自我管理的组织中许多这样的“管理”任务都消失了。那些仍然需要的管理职能也可以分发给团队成员。例如：
 
 
-      The advice process is the basis for which to make decision in these roles.
+      预测：虽然每个人都可以预测未来，但有些团队可能会发现，让一个人集中花时间预测长期变化需求，也很有用。
+
+
+      计划：这可以进一步细分，例如轮班计划、原材料计划等。设定指标：个人和团队可以设定目标来激励自己。也可以有个成员带头运用建议流程来设定指标。
+
+
+      监控绩效指标：将数据汇编成易于理解的见解，与团队共享。
+
+
+      招聘：负责新团队成员的招聘工作。
+
+
+      入职：负责组织新成员入职过程。
+
+
+      指导：辅导初级团队成员，或任何要求辅导的人。
+
+
+      调解：调解冲突。
+
+
+      推进：推进团队会议和决策过程。
+
+
+      记录员：记录团队的重要对话和决策。
+
+
+      知识管理：获取和编纂见解。
+
+
+      持续改进：带头维护持续改进的过程。
+
+
+      与外部各方协调：作为团队以外的某些客户的联系人（“我在与营销团队协调”）或组织外的联系人（“我在与医院协调，你在与药店沟通”）。
+
+
+      感知团队情绪：感知整个团队和团队成员的感受，并在需要时发起缓解潜在冲突的对话。
+
+
+      组织社会活动：倡议打造能建立社区感的活动。
+
+
+      建议过程是在这些角色中做出决策的基础。
   - question: How do these practices link with the three Teal breakthroughs?
     answer: >-
       #### Self-management
