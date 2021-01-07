@@ -164,24 +164,24 @@ faq:
       * 组织社会活动：倡议打造能建立社区感的活动。
 
       建议过程是在这些角色中做出决策的基础。
-  - question: How do these practices link with the three Teal breakthroughs?
+  - question: 这些实践是如何与三个蔚蓝突破相联系的？
     answer: >-
-      #### Self-management
+      ##### 自我管理
 
 
-      The ability to craft a role that caters to one’s strengths not only has the potential to strengthen the organization, it is a clear example of managing one’s self. There are no managers or bosses in Teal organizations that decide roles, Rather roles are self-determined with the consent of peers.
+      成员能设计出一个适合自己优点的角色，不仅可以强化组织，也是自我管理水平的显著表达。在蔚蓝组织中，没有管理者或老板来决定和任命成员的岗位角色，角色是在同事和相关者的同意下自主决定的。
 
 
-      #### Wholeness
+      ##### 整体人性
 
 
-      Equally, it is evident that the better the match between a person’s strengths/interests and their role, the more likely it is they can express themselves fully and freely via work.
+      很显然，一个人的优势/兴趣与其角色之间的匹配越好，他们就越有可能通过工作充分、自由地表达自己。
 
 
-      #### Evolutionary purpose
+      ##### 进化目标
 
 
-      When processes and a culture exists that help roles evolve continuously, it helps the organization adapt and support its evolving purpose.
+      如果过程和文化能够支撑并促进岗位角色的不断演变，就会有助于组织更好的适应并支持其不断演变的目标。
 relatedTheory:
   - Organizational Structure
   - Job Titles and Job Descriptions
