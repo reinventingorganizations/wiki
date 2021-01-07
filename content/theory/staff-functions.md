@@ -59,23 +59,15 @@ inPractice: >-
 
   在蔚蓝阶段，可以很容易由一个人带头，借用预制的建议流程来确立这类标准。或者，不同单元内抽出一个相似角色的人（比如负责新同事入职的角色）联合创建一个志愿工作组，共同制定标准和指导方针。AES是一家大型能源供应商，这个组织在按照自我管理的原则运作时，选择遵循80/20的规则：所有的同事都要抽出20%精力在一个志愿小组（或临时项目小组）工作，而将80%的时间用在本职角色上。
 faq:
-  - question: What about highly regulated businesses?
+  - question: 监管严格的企业怎么办呢？
     answer: >-
-      In some industries, the risks for non-compliance with certain procedures
-      are especially high. Regulators might even go so far as to require someone
-      to sign on behalf of the organization, typically a “C-Suite” executive
-      ―the CFO for the accounts, the Chief Risk Officer for topics related to
-      risk, etc. Because this individual risks personal consequences for the
-      organization’s non-compliance including legal actions imposed by outside
-      regulators, he or she would naturally want to protect him or herself from
-      risk by mandating strict rules and enforcing their compliance. How can
-      self-managing organizations address this issue?
+      在某些行业，尤其是一些高风险行业，需要遵守监管程序。官方监管者甚至可能要求有人代表组织签字，通常传统组织都是由“C...O”高管负责：负责账目的首席财务官、负责风险相关话题的首席风险官等。因为可能会因组织的不合规行为导致个人要负法律责任的后果，包括外部强加的法律行动。所以作为监管负责人，他或她自然会希望通过强制执行严格的规则和强制执行相应的合规性，来保护自己减少法律责任风险。
 
+      自我管理组织如何解决这个问题？
 
-      One way to deal with this is through voluntary task forces. A risk task force for instance, composed of people with roles related to risk in their respective units, could commonly decide on standards and policies to ensure risks are mitigated in ways that align with the regulator's request. In terms of who then signs on behalf of the organization (or interfaces with the regulator), members of the task force might take turns with each member taking on that responsibility for a one-year period. The task force can also decide to organize cross-audits where a member of one unit audits another unit. Organizations like AES who have used this method report that there is more, not less, control. Voluntary task forces know much better than a central staff function far away in headquarters where the risks are, what guidelines are appropriate, where and what to look for in cross-audits. And voluntary task forces breed a sense of solidarity and responsibility. If one unit fails, it will be "one of us" who has to bear the brunt of repercussions from the regulator. Compare this to traditional staff roles, where the Head of Risk in headquarters edicts rules that are often hard to apply on the ground, enticing people to find workarounds.
+      解决这个问题的一个办法是通过志愿工作队。例如，由各自部门承担风险相关职责的人员，联合组成的风险工作组。该工作组负责决定相关标准和政策，确保以符合监管机构要求的方式降低风险。至于由谁代表组织签字（或与监管机构接口），工作组成员可以轮流负责，由每个成员承担一年的责任。工作队还可以决定组织交叉审计，比如一个单位的一名成员审计另一个单位。AES使用着这种方法，他们报告说，这个方式的结果是风险控制非但没有减弱，反而更强了。志愿工作队比总部的中央管理人员更了解一线的风险在哪里，更清楚什么准则更适当，更知道交叉审计时需要在哪里寻找什么。志愿工作队方式培养一种团结精神和责任感。如果审计不佳而导致某个单位倒闭，那么“工作队中的一个”就会首当其冲地承受来自监管机构的压力，所以有动力精密负责的进行风险检查和审计（群众的集体责任和集体智慧）。相比之下，在传统组织内，是通过总部风险主管部门颁布的规则来强制，通常很难在一线得到完全的实施，也没有动力吸引人们自行寻找解决办法。
 
-
-      The case of [AES ](http://www.aes.com/)(see more on AES below) which has operated in the highly regulated electricity generation and distribution markets, gives at least an indication that the existence of strong regulation can be dealt with by self-managing structures.
+      在高度监管的发电和配电市场中运行的[AES ](http://www.aes.com/)（见下文AES案例的更多内容）至少表明，强有力的监管压力，也可以通过自我管理结构来对应。
   - question: How do these practices link with the three Teal breakthroughs?
     answer: >-
       #### Self-management
