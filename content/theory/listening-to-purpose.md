@@ -68,21 +68,14 @@ inPractice: >-
 
   蔚蓝组织似乎发现，当一家公司明确了自己的目标时，外部世界就会给它带来机会。有时候，感觉好像不仅仅是组织内部的人感觉到了它想去哪里，也包括来自外部的人（主权整体力量）。例如，在布尔佐格，到目前为止，来自各种背景的人，都会主动与发起人德布洛克以及该组织中的其他人取得联系，探讨可能影响布尔佐格下一步发展方向的想法。德布洛克和他的同事欢迎这些面谈，并以开放的心态倾听。当感觉到讨论结果很有希望时，就开始进行实验，看看会发生什么效果。没有委员会，没有关卡流程，没有固定的预算。其实就是这么简单：讨论会自然发生，事情就从那里开始发展。注定要发生的事情会发生的感觉。（道法自然无为而治）^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4470-4478). Nelson Parker. Kindle Edition.]
 faq:
-  - question: How can we be sure the purpose is well known in the organization and
-      that the decision-making process is based on it?
-    answer: "One suggestion is to use tools like surveys or periodic group
-      discussions to address this issue. At Buurtzorg, Jos de Blok and others
-      talk about purpose all the time, but have never written down the
-      organization’s purpose in the form of a mission statement. They find that
-      keeping it oral keeps it alive and evolving and prevents it from becoming
-      constraining.^[Laloux, Frederic (2014-02-09). Reinventing Organizations: A
-      Guide to Creating Organizations Inspired by the Next Stage of Human
-      Consciousness (Kindle Locations 4352-4354). Nelson Parker. Kindle
-      Edition.]"
-  - question: Do Teal organizations then abandon the traditional process of
-      strategic planning?
-    answer: See related article "[Strategy](../strategy/)" under "Major
-      Organizational Processes".
+  - question: 我们如何确保目标在组织中的众所周知，如何保证决策过程是基于目标的？
+    answer: "建议使用调查或定期小组讨论等方式来解决这个问题。在布尔佐格，Jos de
+      Blok和其他人一直在谈论目标，但从未以使命宣言的形式写出组织目标的标语。他们发现，保持口述可以让目标保持活力和进化性，并防止目标被僵化在语言中。^\
+      \\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to
+      Creating Organizations Inspired by the Next Stage of Human Consciousness
+      (Kindle Locations 4352-4354). Nelson Parker. Kindle Edition.]"
+  - question: 蔚蓝组织是否会放弃传统的战略规划过程？
+    answer: 见本网站“重要流程”栏目中的相关文章"[战略](../strategy/)"。
 relatedTheory:
   - Evolutionary Purpose
   - Self-Management
