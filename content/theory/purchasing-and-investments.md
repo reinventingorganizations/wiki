@@ -82,10 +82,10 @@ faq:
       [自我管理](../self-management/)对采购和投资影响很大。每个出于都能在自己的工作环境中自主采取行动和创新。投资倡议从需要的地方开始启动。[建议流程](../decision-making/)能通过集体智慧帮助决策者加深对该投资带来影响的理解。由于规格是源于用户的制定和需求，因此采购责任的一线化，更容易保证户对所购买的产品更加满意。
 
 
-      #### Wholeness
+      #### 完整人性
 
 
-      To decide about investments a deep holistic understanding about the inter-dependencies and reach of a decision is necessary. The [advice process](../decision-making/) creates a wide transparency about the impacts of an investment. Especially when it is a bigger amount of money, it is essential to understand the company's financial situation and investment impacts on others as a whole.
+      为了决定投资，需要对决策的相互依赖性和影响范围进行深入的整体理解。[建议流程](../decision-making/)为投资的影响分析创造了广泛的透明度。尤其是在资金量较大的情况下，了解公司的财务状况以及该投资对其他人的整体影响，是非常必要的。
 
 
       #### Evolutionary purpose
