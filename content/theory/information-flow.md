@@ -59,12 +59,10 @@ inPractice: >-
 
   当出现新的或重要信息需要分享时，“所有人”大会是蔚蓝组织的标准做法。季度业绩、年度价值观调查、战略拐点等等，都拿到一个没有预制议程的会议上讨论和辩论。这不仅仅是简单的信息交换：蔚蓝信息流的指导原则是“感知和响应”，而不是“预测和控制”。如果有人以不符合组织宗旨的方式共享信息，每个人都可以自由提议进行公开辩论，并根据需要进行更改。
 faq:
-  - question: What are good daily practices for sharing information?
-    answer: All-hands meetings, stand-up meetings, open intranets, discussion
-      forums, open task or work logs, blogs, open webinars.
-  - question: What indicates that information flow is "stuck"?
-    answer: Quiet meetings, culture of fear and blame, complex hierarchical
-      decision-making processes, frequent rumours, compulsory employee surveys.
+  - question: 分享信息的良好日常实践是什么？
+    answer: 全体大会、临时大会、开放式内部网、内部论坛、开放式任务或工作日志、博客、开放式网络研讨会。
+  - question: 表明信息流“卡住”的迹象是什么？
+    answer: 鸦雀无声的会议，恐惧和责备的文化，复杂的等级决策过程，频繁的谣言，强制性的员工调查。
 relatedTheory:
   - wholeness
   - Self-Management
