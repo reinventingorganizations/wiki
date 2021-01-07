@@ -99,21 +99,14 @@ faq:
 
 
       在布尔佐格，董事会无权任命首席执行官。这个角色来自组织内部的建议流程自发任命。
-  - question: Who should be part of the board?
-    answer: >-
-      Suitable people who:
+  - question: 谁适合成为董事会成员？
+    answer: |-
+      合适的人选：
 
-
-      * Understand the core purpose of the organization; 
-
-
-      * Are committed to its endeavours;
-
-
-      * Share its guiding beliefs;
-
-
-      * Can help connect the organization and develop relationships with its external environment.
+      * 了解组织的核心目标；
+      * 致力于努力实现该目标；
+      * 共鸣于目标的指导思想；
+      * 可以帮助组织与外部环境建立联系和发展关系。
 relatedTheory:
   - Strategy
   - Organizational Structure
