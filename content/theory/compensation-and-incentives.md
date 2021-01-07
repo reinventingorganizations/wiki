@@ -103,25 +103,12 @@ faq:
 
 
       因此，许多组织选择将信息完全公开。（社交媒体应用程序制造商巴佛甚至在网上公布了每个人的薪水）。一些组织，比如番茄加工公司晨星，已经选择在组织内部*公开加薪比例*，但不公开基本工资。这可能是组织走向完全透明的中间步骤。
-  - question: What happens in times of crisis?
+  - question: 危机时期怎么办？
     answer: >-
-      There are several documented examples of self-managing organizations where
-      colleagues have voluntarily decided to temporarily reduce their salaries
-      to weather a downturn so as to avoid having to lay-off staff. In
-      self-managing organizations, all [information tends to be
-      public](../information-flow/) and there is generally a high level of
-      maturity and literacy when it comes to financial matters. In a traditional
-      organization, when revenues are down and the organization faces heavy
-      losses, plans are often made secretly within HR for redundancies. In
-      self-managing organizations, everyone sees the storm coming. Someone, at
-      some point, calls in everyone (or in a large organization, might invite a
-      cross-section of the organization) to a meeting to say: what do we do?
-      From the group, solutions emerge, which in many cases simply come down to
-      everyone agreeing to a temporary salary reduction (with often the highest
-      salaries taking a higher percentage cut). 
+      有几个记录在案的自我管理组织的例子，在这些组织中，同事们自愿决定暂时降低工资，以度过经济低迷期，从而避免不得不裁员。在自我管理的组织中，倾向于[公开分享所有信息](../information-flow/)，在财务问题上，人们通常都有很高的成熟度和素养。在传统的组织中，当收入下降，组织面临严重亏损时，人力资源部通常会秘密制定裁员计划。在自我管理的组织中，每个人都看到风暴即将来临。在某个时刻，有人召集每个人（或者在一个大型组织中，可能会邀请组织的某个部门）参加会议，说：我们该怎么办？从这个群体中，解决方案出现了，在许多情况下，这只是归结为每个人都同意暂时减薪（通常最高工资的人减薪比例更高）。
 
 
-      Semco, the Brazilian firm that Ricardo Semler's bestseller Maverick made famous, has put in place a "voluntary risk program" to institutionalize such salary reductions to protect the organization in times of crisis (to which Brazil has been prone over the last several decades). Employees are offered the option of a risk salary program. They take a pay cut of 25 percent and then receive a supplement raising their compensation to 125 percent if the company has a good year. If the company does poorly, they only receive 75 percent of their salary. As the good years outweigh the bad, the deal is favorable to employees willing to take a risk.
+      里卡多·塞姆勒的畅销书《特立独行》（Maverick）使巴西公司Semco成名，该公司已制定了一项“自愿风险计划”，将此类减薪制度化，以在危机时期保护公司（巴西在过去几十年中一直倾向于此）。员工可以选择风险工资计划。他们减薪25%，如果公司有好年景，他们会得到一笔补助金，将薪酬提高到125%。如果公司经营不善，他们只能拿到工资的75%。由于好年景大于坏年景，这笔交易有利于愿意冒险的员工。
   - question: How do these practices link with the three Teal breakthroughs?
     answer: >-
       #### **Self-management**
