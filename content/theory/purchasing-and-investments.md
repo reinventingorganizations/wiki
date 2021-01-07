@@ -69,18 +69,7 @@ faq:
   - question: 批量折扣如何实现？
     answer: 如果组织不计划集中购买，钱就会摆在桌子上没人管吗？答案通常是：相信人们在
       [自我管理](../self-management/)的框架内能做出正确的决定。对于那些成交量折扣大到不容放弃的商品，从同一家供应商购买的不同特点同事会自动选择协作，以最大限度地提高购买力。在一家番茄加工公司
-      [晨星](https://www.morningstarco.com/), a tomato processing company,
-      colleagues noticed that lots of people were buying threadlocker, an
-      adhesive that prevents nuts and bolts from accidentally loosening, in
-      dozens of different formats and from different vendors. They were not only
-      losing out on volume discounts, but the uncoordinated purchasing generated
-      unnecessary bureaucracy because regulations in the food industry required
-      workers to painstakingly track every threadlocker format in a Material
-      Safety Data Sheet. At some point, a worker suggested that he could walk
-      around the plant once a quarter and ask colleagues if they wanted to order
-      thread locker through him. A similar solution emerged for purchasing
-      packaging materials, an area where volume discounts can quickly add up.
-      When there is value in coordination, people simply start to coordinate.
+      [晨星](https://www.morningstarco.com/),，同事们注意到很多人都在购买一种可以防止螺母和螺栓意外松动的螺纹锁固胶，有几十种不同的规格和不同的供应商。分散采购不仅损失了大量的折扣，而且不协调的采购产生了不必要的官僚作风，因为食品行业的法规要求工人们在材料安全数据表中，认真跟踪每一种螺纹锁固胶的规格。于是某个时候，一名工人建议说，自己可以每季度在工厂里走一次，问问同事们是否想通过自己来订购这个商品。另一个类似的解决方案也自然的出现在购买包装材料方面，其数量折扣也得到迅速增加。当协作带来价值时，人们就自主的启动协作。
   - question: What about standardization?
     answer: It often makes sense to buy computer or telephone equipment from the
       same or compatible vendors, for instance. Again, one can simply trust the
