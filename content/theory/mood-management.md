@@ -109,17 +109,15 @@ faq:
 
 
       激励性的工作环境有助于经济上的成功。[蔚蓝组织](../teal-paradigm-and-organizations/)通过更多的自治和更多的社区感来追求有价值的目标。这些都能成为明确的动机。能够提升“情绪”；促进参与；反过来又滋养财务健康。
-  - question: Isn't it too personal to deal with staff's moods?
+  - question: 干涉成员的情绪是否太侵犯隐私？
     answer: >-
-      'To deal with' infers 'to manage by others'. In some styles of
-      organization this has been via programs initiated by senior management or
-      HR.
+      “自主处理”取代了“被他人管理”。在传统组织中，情绪管理通常是通过前辈管理人员或人力资源发起的一些程序来推进的。
 
 
-      In [Teal organizations](../teal-paradigm-and-organizations/) the practices that support elevated mood are often initiated by members and have optional participation. If staff can 'manage' their own practices, then the risk of being 'too personal' diminishes. It is fair to say, however, that new staff--especially senior ones--can find the move to a mood-sensitive organization difficult. This is a choice to be explored carefully during joining discussions.
+      但在[蔚蓝组织](../teal-paradigm-and-organizations/)中，支持提升情绪的实践通常由成员发起，并且不强制任何人参加。如果员工能够“管理”自己的情绪处理活动，就能降低“过于涉及隐私”的风险。不过，公平地说，新成员——尤其是高级员工——可能会发现很难融入一个情绪敏感的组织。这是一个需要在招聘和入职阶段深入讨论时，仔细探讨的谨慎选择。
 
 
-      If 'mood' determines the choices open to individuals, groups and organizations, it still ranks as an important consideration.
+      如果“情绪”能左右个人、团体和组织的选择和决策，那么必然是一个重要的考虑因素。
 relatedTheory:
   - Culture and Values
   - Team and Community Building
