@@ -209,23 +209,21 @@ inPractice: >-
 
   [蔚蓝组织](../teal-paradigm-and-organizations/)的会议文化还发明了一些“另类会议形式”，如开放空间、主持艺术、世界咖啡厅等。
 faq:
-  - question: Doesn’t the advice process lead to more meetings rather than less?
+  - question: 上面这个会议流程不是会导致更多的会议而不是减少会议吗？
     answer: >-
-      Consulting with others, rather than making unilateral decisions, may mean
-      more meetings. However, this is often more than made up for by savings
-      elsewhere.
+      蔚蓝的工作主要是与他人协商，而不是单方面决定，这确实可能意味着更多的会议。然而，这些投入往往被其他角度的效率储蓄所弥补。
 
 
-      Frédéric Laloux, tells this story as an illustration:
+      弗雷德里克·拉鲁以下列故事为例：
 
 
-      “Jos de Blok, CEO of [Buurtzorg](https://www.buurtzorgnederland.com/), often applies the advice process by posting a blog note to the Buurtzorg web in the evening, proposing suggestions for new initiatives and decisions and asking for advice from all the members of the organization. 24 hours later, 50-80% of the employees will have read and perhaps commented. Maybe the overwhelming response is "yes, this is fine", in which case the decision can just be effectuated at this point. Alternatively, he will have received feedback on how he might be overlooking important negative consequences, or how this issue may be more complicated than he is aware off. In this case, he might revise his proposal accordingly and repost it, or sense the need to gather a voluntary group to deal with it. In any case this provides a swift [decision making process](../decision-making/) with very few meetings."
+      “[布尔佐格](https://www.buurtzorgnederland.com/)的首席执行官乔斯•德•布洛克在晚上，经常在布尔佐尔格的网站上发布一篇博文，应用建议流程为新的举措和决策征求建议，征求组织所有成员的意见。24小时后，50-80%的员工会阅读并发表评论。如果压倒性的回答是“是的，这很好”，在这种情况下，这个决定就可以在此时立刻生效。或者，如果他收到一些反馈，告诉他这样做可能在忽视重要负面后果，或者提醒说这个问题可能比他意识到的更复杂。在这种情况下，他可能会根据建议修改自己的提议并重新发布，或者如果感觉到需要，也可以召集一个普通成员组成的志愿者工作组来处理这个决策。在任何情况下，这些都是快速的[决策流程](../decision-making/)，只需要很少的会议。”
 
 
-      Compare this to the process that typically takes place in a traditional 9000 employee hierarchy. Say the CEO wants to change overtime conditions:
+      现在做个对比，看一下在一个传统的9000名员工组成的层级结构中，通常的流程会如何。假设CEO想要改变加班条件：
 
 
-      First he/she asks the Head of HR to prepare a proposal, who then asks someone more junior to do 'the staff work'. The junior drafts a proposal, maybe shows to a colleague and revises accordingly. Then the Head of HR goes over the draft, and suggests further refinements, before booking a meeting with the CEO who can make further changes. Then it goes to the executive committee...and so on...They want more revisions, and it goes down the line again, and back up again... It may now become political, bringing another layer of complications. If it is now approved, someone in internal communication works on it, and shows the CEO, again. Finally, it is cascaded to the managers who prepare presentations to make a team meetings. The total number meetings that may go into such a decision is huge.
+      首先，他/她要求人力资源部负责人准备一份提案，然后由人力资源部负责人请资历较浅，顺次做“员工思想工作”。责成资深成员起草一份提案，可能会给同事审阅并根据意见进行相应修改。然后，人力资源部负责人审查该草案，并提出进一步的改进建议，然后与首席执行官预约会议，首席执行官可以做出进一步的修改。然后提交经营会议…等等…他们可能想要更多的修改，然后再继续下发基层，然后再提交回来。。。这个提案还可能会变成政治性交涉，于是引入另一层复杂因素。如果建议被所有相关方批准了，负责内部沟通的成员就会负责处理这个决策，并再次向首席执行官提交。最后，决策被级联到基层经理，负责准备演示文稿，通过团队会议实施。这样的决定过程，可能涉及的会议总数非常巨大。
 relatedTheory:
   - Culture and Values
   - Feedback and Performance Management
