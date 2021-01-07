@@ -224,27 +224,15 @@ faq:
 
 
       当人们习惯了之后，对这种做法的尊重就会自然增加。这是因为人们站在等式的两边。今天早上你向我征求意见时，我希望你能认真对待。当今天下午我们的角色颠倒了，我也要认真对待你。因为权力是分散的，如果你知道其他人也可以对你关心的事情做出决定，你会养成习惯倾向于考虑他们的需求和观点。
-  - question: Who decides who gets to be the decision maker?
-    answer: "Put another way: Who can decide who makes what decisions, while still
-      using the advice process? \r
+  - question: 谁来决定决策者人选？
+    answer: >-
+      换言之：在仍然遵循建议过程的前提下，是否有谁可以建议或决定谁来做某个决策？
 
-      \r
 
-      In practice, initiating advice and decision making usually fits
-      within in the scope of a certain role. Someone sensing a problem or an
-      opportunity could step forward to say: \"Hey, I see this opportunity. What
-      do you think? Given your role should you initiate this?\". However, if
-      that person doesn't have the interest or bandwidth to lead the process,
-      any other person can. If no one does, it usually means the decision is not
-      that important right now. \r
+      实践证明，主动提出某个建议和做出决策，通常会与某一角色范围吻合。感觉到问题或机会的人可以站出来说：“嘿，我看到这个机会了。你怎么认为？考虑到你的角色，你是否应该发起这个建议？”。然而，如果这个人没有兴趣或容量来领导这个过程，任何其他人都可以自荐领樱。如果没有人这样做，通常意味着手头这个决策对组织目标而言并不那么重要。
 
-      \r
 
-      Holacracy adds a twist: for particularly sensitive areas, a
-      \"domain\" can be declared. A domain basically means \"hands-off\".
-      Decisions relating to that domain can only be made by nominated person(s).
-      The idea is that domains remain exceptional and shouldn't be used
-      frequently. "
+      霍尔增加了一个转折点：对于特别敏感的区域，可以预先声明一个“域”。域基本上意味着其他成员要“放手”。与该领域有关的决定只能由指定人员作出。但基本想法是认为“域”的设置仍然只是例外，不应该经常使用。
   - question: If we accept that an organization has its own sense of direction, how
       do we find out where it wants to go?
     answer: >-
