@@ -118,24 +118,24 @@ inPractice: >-
 
   通过嵌套，团队或圈子可以逐渐整合相关的活动，逐级形成一个，不是根据人或权力，而是按照目的、复杂性和范围分类的阶层构造。每个圈子都有充分的权力，在其特定目的范围内作出决定。决策不需要向上发送，也不能被上层人士推翻。
 faq:
-  - question: How do these practices link with the three Teal breakthroughs?
+  - question: 这些实践是如何与三个蔚蓝突破相联系的？
     answer: >-
-      ###### Self-management
+      ###### 自我管理
 
 
-      Teal organizational structures are driven by self-management. The traditional boss-subordinate relationship gives way to a decentralized team structure and peer to peer commitments.
+      蔚蓝的组织结构是由自我管理驱动的。传统的上司-下属关系被分散的团队结构和对等承诺所取代。
 
 
-      ###### Wholeness
+      ###### 完整人性
 
 
-      Pyramidal structures are built on the (often unconscious) assumption that people cannot be trusted and must be controlled by their hierarchical superior. In Teal organizational structures, people are freed from the constraints of authority and can thus show up more fully.
+      金字塔结构是建立在一些（通常是无意识的）假设之上的：成员不可信任，必须由上级来控制。在蔚蓝组织结构中，成员从权威的束缚中解放出来，从而能够更充分地表现完整自我（包括内在动力和创造力）。
 
 
-      ###### Evolutionary purpose
+      ###### 进化目标
 
 
-      In Teal organizations, people’s actions are guided by their sense of the organization’s evolutionary purpose, not by what they are being told to do by someone higher up the organizational chain. Self-managing systems, based on sense and respond as opposed to command and control, tend to evolve much faster and respond more quickly to changes in the environment. Pyramidal organizations tend to change through less frequent, less timely and more brutal re-organizations.
+      在蔚蓝组织中，人们的行为不是根据组织链上更高层的领导告诉他们做什么，而是由他们对组织进化目标的感知来引导。自我管理系统是基于感觉和反应，而不是命令和控制。这往往能更迅速的发展，对环境变化的反应更敏捷。相比之下，金字塔型组织倾向于通过不频繁、不及时和更残酷的重组跳跃进行改变。
   - question: What then, if any, is the role of a leader?
     answer: "In today’s world, the predominant, default organizational model is that
       of the pyramid, with an executive committee, middle managers, staff
