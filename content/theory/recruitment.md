@@ -86,23 +86,16 @@ inPractice: >-
 
   试用期在蔚蓝组织中很常见。一些组织，比如[法维](http://www.favi.com/en/)，利用试用期测试双方的匹配是否能长期有效。[捷步达康](https://en.wikipedia.org/wiki/Zappos)[](https://en.wikipedia.org/wiki/Zappos)会支付给试用期新成员3000美元的支票，条件是如果他们及早发现不合适而改变想法，并选择在为期四周的入职培训期间辞职。这个理念是，如果每个人都勇敢选择不停留在一个注定不幸福的婚姻中，会生活的更好。
 faq:
-  - question: Is everybody a good fit for a Teal organization? Are there people who
-      can't adapt to such a workplace?
+  - question: 每个人都适合加入一个蔚蓝组织吗？是否有不能适应这种工作环境的人？
     answer: >-
-      Some people will be more attracted than others to work in self-managing
-      environments, or in places that invite people into wholeness or to engage
-      deeply with a specific purpose. The more the recruitment process allows
-      candidates to have a deep understanding of the kind of workplace they are
-      applying for the higher the chance both the organization and the
-      individual may have a clear understanding and might realize the fit is not
-      ideal.
+      有些人会比其他人更喜欢在自我管理的环境中工作，或者喜欢在一个，能邀请成员融入整体或深入参与特定目标的职场工作。招聘过程需要让应聘者获得机会，对所申请的工作场进行更深刻的了解，以便让组织和个人都能更清晰的互相认识，并（如果不匹配）能尽快意识到这里不是适合自己理想的工作环境。
 
 
-      * When it comes to [self-management](../self-management/), the challenge tends to be different, depending on a person's background. If the candidate is used to being a manager or to work in a staff position with power over operating units, it can be a challenging transition. Candidates who have previously worked in the lower levels of the organization may find it hard at first to deal with the higher levels of commitment and personal responsibility that self-management requires.
+      * 谈到[自我管理](../self-management/)，个人面临的挑战各部相同，取决于一个人的经历和背景。如果应聘者习惯于担任经理，或惯于用权力控制运营单位的岗位上工作，这就可能是一个具有挑战性的过渡。而那些以前在组织较低级别工作过的候选人，开始时则可能会发现，自己很难处理自我管理所要求的，更高级别的承诺和个人责任。
 
-      * When it comes to [wholeness](../wholeness/): is the person comfortable with an environment where colleagues are expecting each other to be open and vulnerable, to show up from a place of wholeness?
+      * When it comes to [完整人性](../wholeness/): is the person comfortable with an environment where colleagues are expecting each other to be open and vulnerable, to show up from a place of wholeness?
 
-      * When it comes to [evolutionary purpose:](/evolutionary-purpose/) does the person resonate with the organization's purpose, and do they feel ok with an environment in which there is little predict & control, and more sense and respond?
+      * When it comes to [进化目标:](/evolutionary-purpose/) does the person resonate with the organization's purpose, and do they feel ok with an environment in which there is little predict & control, and more sense and respond?
 
 
       Traditional organizations that move to Teal find that it is often hard to predict who will thrive in the new environment or not. Some people suddenly blossom, whereas others where everyone predicted they would love it find it hard. So taking time in the recruitment process and building in, when possible, a test period might be helpful to increases chances of a good fit.
