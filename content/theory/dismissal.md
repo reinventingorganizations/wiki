@@ -100,23 +100,16 @@ inPractice: >-
 faq:
   - question: 这些实践是如何与三个蔚蓝突破相联系的？
     answer: >-
-      [蔚蓝组织](../teal-paradigm-and-organizations/) the decision about whether a
-      person will stay with the organization belongs with that individual and/or
-      their team. Forced dismissals are infrequent because people are given
-      clear indications if they are not a fit so that they can choose to leave
-      voluntarily. In many cases a parting of the ways happens by mutual consent
-      in the process of self-managed conflict resolution. Only when everything
-      else fails do organization founders fire people, but this is also
-      initiated by the team or a conflict mediation panel.
+      自我管理  
 
 
-      #### Wholeness
+      [蔚蓝组织](../teal-paradigm-and-organizations/)中，关于一个人是否该继续留在组织的决策权，归属于该人和/或所属团队。强迫解雇很少发生，因为如果某个成员不适合这里，会收到明确而坦诚的提示，以便他们可以选择自愿离开。在许多情况下，都是通过自我管理的冲突解决流程，找到相互同意的方式决定分道扬镳。只有当其他一切尝试都失败时，组织创始人才会做决策解雇成员，虽然解雇的决策权归创始人，但这个决策倡议也是由该成员所属团队或冲突调解小组发起的。
 
 
-      When you don’t have a fear that your boss may fire you at will, it’s easier to show up fully at work. If you’re not being judged and do not depend on adhering to a set of rules to stay in the job, you tend to bring your whole self to the workplace.
+      整体人性
 
 
-      [蔚蓝组织](../teal-paradigm-and-organizations/)don’t reduce dismissals to cold, contractual transactions that avoid dealing with the emotions and pain. Instead, they accept and work with those human issues to turn departures into a learning experiences that can meaningfully enhance the person’s and the organization’s future path. 
+      当成员不再需要担心老板会随意解雇自己时，成员就更容易在工作中充分表现完整真实的自我（没有顾虑）。如果成员知道自己不会受到评判，也不需要靠被迫遵守一套规则来保住工作，人往往会把完整自我（既包括弱点，也包括创造力）带到职场。[蔚蓝组织](../teal-paradigm-and-organizations/)don’t reduce dismissals to cold, contractual transactions that avoid dealing with the emotions and pain. Instead, they accept and work with those human issues to turn departures into a learning experiences that can meaningfully enhance the person’s and the organization’s future path. 
 
 
       #### Evolutionary purpose
