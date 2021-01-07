@@ -84,25 +84,21 @@ faq:
       1.
       可能是法律要求有董事会。但更重要的是，董事会可以作为“旁观者”和蔚蓝实践的保护者。这显然需要董事会成员能共鸣于蔚蓝[基本假设](../fundamental-assumptions/)并支持渗透在蔚蓝组织内的[价值观](../culture-and-values/)。
 
-      2. It can add perspective, diversity and expertise on important decisions via the advice process.
+      2. 董事会可以通过建议流程为重要决策贡献更多的视角、多样性和专业知识。
 
-      3. It can facilitate the process of appointing a new "CEO", should the organization have a continuing need for such a role, when a transition is due.
+      3. 如果组织处在蔚蓝转型过渡期，“首席执行官”职位到期时仍需要任命新人选，董事会能促进任命新“首席执行官”的进程。
 
 
-      Having said this, at Morningstar, Chris Rufer, founder and 100% owner, sees no need for a board. People at Morningstar regard the company’s mission/purpose as their ultimate boss.
-  - question: Who will decide whether the CEO needs to go?
+      话虽如此，晨星的创始人和100%所有者克里斯•鲁弗认为没有必要设立董事会。晨星公司的人把公司的使命/目标视为自己的终极老板。
+  - question: 谁来解雇首席执行官？
     answer: >-
-      The [conflict resolution ](../conflict-resolution/)process deals with this
-      and can be started by anyone who feels that a role-holder (including that
-      of CEO) should be changed. Note that In a Teal company, the "CEO" role may
-      be different. The "CEO" is an employee with the same rights and duties as
-      anybody else.
+      [冲突解决](../conflict-resolution/)流程可以处理这个问题，任何人只要觉得应该更换某个岗位角色（包括CEO）就可以启动一个流程。请注意，在蔚蓝公司，“CEO”的岗位定义可能跟传统的不同。蔚蓝中的“首席执行官”只是个拥有与其他人相同权利和义务的普通成员。
 
 
-      At Favi, when Zobrist became CEO, he promised his position would be submitted to a vote every 5 years.
+      在法维，当佐布里斯特成为首席执行官时，他承诺自己的职位每5年进行一次投票选举和确认。
 
 
-      At Buurtzorg, the board does not appoint the CEO. This comes from within the organization itself.
+      在布尔佐格，董事会无权任命首席执行官。这个角色来自组织内部的建议流程自发任命。
   - question: Who should be part of the board?
     answer: >-
       Suitable people who:
