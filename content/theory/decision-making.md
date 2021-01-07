@@ -287,19 +287,12 @@ faq:
 
 
       在蔚蓝范式中，骑手骑上自行车，从一个看起来合适的角度启动，然后不断调整以到达目的地。以这种方式工作的公司通常进展更快，能更顺利地实现他们的目标，更少地浪费能源。
-  - question: Does decision-making in Teal organizations require multiple bottom
-      line accounting systems?
-    answer: "Among Teal management practices, multiple bottom line accounting
-      systems are rare. There is a school of thought that suggests we need ways
-      to track not just profit, but also the firm’s impact on people and planet.
-      How else can managers make trade-offs between these elements?  \r
+  - question: 蔚蓝组织的决策是否需要个多底线会计系统？
+    answer: >-
+      在蔚蓝的管理实践中，很少有采用多重底线会计制度的。有一个学派认为，我们不仅需要跟踪利润，还需要跟踪公司对人类和地球的影响。管理者如何才能在这些要素之间进行权衡？
 
-      \r
 
-      Perhaps the answer lies elsewhere: Multiple bottom lines originated
-      to avoid a narrow fixation on profits. From a Teal perspective, a wider
-      perspective already exists. Purpose, integrity and wholeness should
-      transcend the primacy of profits.  "
+      也许答案在别处：多重底线的产生是为了避免对利润的狭隘专注。从蔚蓝角度来看，更广阔的视角已经隐含存在于模式之中。目标、诚信、对完整人性的追求，都理所当然的超越了利益至上。
 relatedTheory:
   - Self-Management
   - Evolutionary Purpose
