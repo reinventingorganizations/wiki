@@ -263,15 +263,12 @@ faq:
 
 
       事实上，在许多方面，咨询过程允许更快、更果断的行动，因为组织中的许多人经常被赋予决策者权力。在一个运作良好的蔚蓝组织中，一个意识到危机的人会权衡在他们有的时间里得到的建议是否可行，并做出判断。
-  - question: What about decisions that affect the whole organization? Isn’t it
-      impractical to solicit feedback from large numbers?
+  - question: 影响整个组织的决策怎么办？征求大量的反馈意见是不是不切实际？
     answer: >-
-      When decisions affect the whole organization, it is particularly important
-      to make the right decision. Yet, in very large organizations, the decision
-      maker can hardly meet with everyone.
+      当决策影响到整个组织时，做出正确的决策尤为重要。然而，在非常大的组织中，决策者很难与所有人会面。
 
 
-      Some use internal social networks, or decision-making tools like [Loomio](https://www.loomio.org/), for wide and swift consultation. The initiator puts the proposal up as a post. Colleagues offer advice by responding on-line. If their comments signal agreement, the decision can be made very quickly. If new perspectives and debate emerge, the decision maker can choose to amend his proposal and float it again. If it appears decision time is not yet ripe, a working group may be set up.
+      有些组织利用内部社交网络或利用Lumio这样的软件决策工具，进行广泛而迅速的建议征募。发起者把这个提议作为一个周知帖子提出。同事们通过在线回复提供建议。如果他们的意见表示同意，那么就可以很快做出决定。如果出现了新的观点和争论，决策者可以选择修改自己的提议并再次提出。如果决定时机似乎还不成熟，可以成立一个工作组继续探讨。
   - question: Is there no room for centralized planning? Aren’t we losing something
       important here?
     answer: >-
