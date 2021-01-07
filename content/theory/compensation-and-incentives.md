@@ -84,23 +84,16 @@ inPractice: >-
 
   通过不使用或减少奖金和股票期权，能减少薪酬不平等，因为在当今财富500强企业中，薪酬不平等大部分都源于丰厚而奢侈的首席执行官奖金和股票期权。一些蔚蓝组织还会有意识地努力降低基本工资的不平等。如AES和法维，车间操作员改为月薪制而不是小时工资，消除了蓝领和白领工人的区别。同工同酬。
 faq:
-  - question: When salaries are self-set, how can salary inflation be prevented?
+  - question: 如果工资是自定的，如何防止工资上涨？
     answer: >-
-      The advice process (and if needed the conflict resolution mechanism)
-      generally prevents a situation where one individual gets a raise that
-      would be disproportionately high. But one might then ask "what prevents a
-      sort of (even unconscious) collusion whereby everyone grants themselves
-      big raises, thereby inflating the entire payroll of the organization to a
-      degree where it might hurt shareholders or even the organizations
-      purpose?" This doesn't seem to be a problem with the pioneering
-      organizations that use self-set pay. Here is how they seem to go about it.
+      建议流程（如果需要，还可以配合冲突解决机制）通常可以防止成员给自己加薪过高的情况。但有人可能会问：“有什么机制能阻止一种（甚至是无意识的）集体共谋，即每个人都给自己大幅加薪，从而使整个组织的工资总额膨胀到可能损害股东甚至组织目标的境地？”但事实上，在那些已经率先使用自设薪酬的先锋组织中，这似乎没有成为问题。他们的做法如下。
 
 
-      * In some organizations (such as Morning Star in California), everyone needs to benchmark their salaries to a market rate. They institute a rule of thumb, for example, that salaries shouldn't be higher than 110% of the industry average. They might support this with the arguments that if salaries are too high, this allows for less investment and future development, makes the organization less able to achieve its purpose or is unfair to the shareholders.
+      * 在一些组织中（如加州的晨星），每个人都需要根据外界的人才市场价格来衡量自己的薪水。例如，他们制定了一条经验法则，即工资不应高于行业平均水平的110%。成员都有觉悟知晓：如果自己的工资太高，将会减少组织的投资和未来发展，进而使组织无法实现目标，或对股东不公平。
 
-      * Many of the organizations researched are very profitable, and pay out a lot in profit sharing (workers at FAVI typically make the equivalent of 17 or 18 months of salary this way). The idea, therefore, is to keep compensation in line with the industry, and when profits allow, top up the salary with profit sharing. This reduces the incentive to try and increase one's base salary, knowing also that in bad times, jobs are more secure if the base salaries aren't inflated.
+      * 许多接受调研的蔚蓝组织的收益利润都很好，并且在利润分享方面做得很好（法维I的员工通常以这种方式获得相当于17-18个月的工资）。因此，我们的想法是让基线薪酬与行业保持一致，然后在利润允许的情况下，通过利润分成的方式补足工资。这个方式可以降低成员试图提高基本工资的动机，同时也让大家知道，在经济不景气的时候，如果基本工资不膨胀，工作就更有保障。
 
-      * Some organizations (like FAVI in the north of France) find it useful to have a simple rule of thumb for the organization overall: Revenues should break down into X% for salaries, Y% for material costs, Z% for investments so that a healthy P% of profit remains. Everyone seems to accept this rule as good common sense. This is the basis for what can be shared in profit sharing. If needed, the salary advice group could share these parameters with everyone upfront, for instance in years with low profitability.
+      * 还有一些组织（如法国北部的法维）发现，对整个组织设定一个简单的经验法则也很有用：组织的收入分解为工资的X%，材料成本的Y%，投资的Z%，以保证利润的P%健康成长。每个成员都把这条规则当作常识来接受。这是透明利润分享的根据。例如，如果集团需要，每个人都可以主动降低工资来保持这些参数的比例均衡和组织健康。
   - question: Should we make all salary information transparent?
     answer: >-
       When some information is secret, it tends to generate rumors. For what
