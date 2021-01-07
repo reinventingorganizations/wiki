@@ -77,24 +77,24 @@ inPractice: >-
 
   自我管理组织使用的[决策](../decision-making/)流程（通常称为“建议流程”）超越了传统的自上而下或基于共识的机制。建议流程是个强大的日常运作机制，用于协调自我管理组织的行动。当一个同事主动联系其他同事分享自己的建议并听取对方的建议时，实际上是在创造协作。当他（她）决策后把最后的决定通知给同事时，协作就被启动了。建议流程是蔚蓝组织协作的核心。
 faq:
-  - question: How do these practices link with the three Teal breakthroughs?
+  - question: 这些实践如何与三个蔚蓝组织的突破相联系？
     answer: >-
-      #### Self-management
+      ##### 自我管理
 
 
-      Since coordination is largely organic and voluntary rather than imposed through hierarchy, these practices support the Teal breakthrough of self-management.
+      由于蔚蓝组织内的协作在很大程度上是有机和自愿的，不是通过等级制度强加的，这些做法很好的支持着蔚蓝组织在自我管理方面的突破。
 
 
-      #### Wholeness
+      ##### 完整人性
 
 
-      Similarly, since coordination under Teal is voluntary, any individual is free to promote coordination of efforts in a way that he or she sees fit and that meshes with his or her talents and interests.
+      同样，由于蔚蓝模式的协作是自愿的，任何个人都可以自由地以他或她认为合适的方式促进并努力协作，这些也能有机的与他或她的才能和兴趣相吻合。
 
 
-      #### Evolutionary purpose
+      ##### 进化目标
 
 
-      The Teal approach to coordination allows an organization to function as a living system with its own sense for direction. Employees are coordinated as all their actions are guided by listening to the organization’s purpose. Trust in the collective intelligence of the system does away, in many cases, with the need for a master plan.
+      蔚蓝模式的协作技巧支撑组织作为一个有自己方向感的鲜活生命系统自动运作。员工的所有行动都在倾听到的组织目标的导航下自动协调协作。在许多情况下，对这个系统的集体智慧的信任，能取代对总体规划的需求。
 relatedTheory:
   - Meetings
   - Project teams and task forces
