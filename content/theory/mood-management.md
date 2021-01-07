@@ -96,18 +96,19 @@ inPractice: >-
 
   * 早晨的娱乐小节，以穿着睡衣出现的方式庆祝春季到来：初次实施时异常有趣，乃至目前90%成员都加入了这个每年一次的自组织的睡衣日。这既是对社区的颂扬，又有趣，还能得到机会认识完全不同形态中的同事。([桑楚](http://www.soundstrue.com/))
 faq:
-  - question: In a company we need to make money to thrive! So why should we bother
-      with moods?
+  - question: 作为公司，我们需要赚钱求生！为何需要介意情绪氛围？
     answer: >-
       We certainly need money to thrive in a business. Should the questions be:
       What else do we need? Does this get in the way of, or support, financial
       health? 
 
 
-      Many (especially younger employees) are disillusioned with what they perceive as an excessive focus on money; especially when it manifests as greed. The result is a widespread disengagement evident in surveys by [Gallup ](http://www.gallup.com/services/169328/q12-employee-engagement.aspx)and others. 
+      当然，我们需要钱才能在生意上兴旺发达。但问题是：除了钱，我们还需要什么？这会妨碍或支持财务健康吗？
+
+      许多人（尤其是年轻成员）对他们看到的过度关注金钱的行为感到失望，尤其是当这表现为贪婪时。[盖洛普](http://www.gallup.com/services/169328/q12-employee-engagement.aspx)等人的调查显示，其结果会导致成员普遍性的人心离散。
 
 
-      A motivating work environment fosters financial success. [Teal organizations](../teal-paradigm-and-organizations/) offer this via more autonomy and more community in pursuit of worthwhile purpose. These are clear motivators. They elevate 'mood'; they foster engagement; which in turn can correlate with financial health.
+      激励性的工作环境有助于经济上的成功。[蔚蓝组织](../teal-paradigm-and-organizations/)通过更多的自治和更多的社区感来追求有价值的目标。这些都能成为明确的动机。能够提升“情绪”；促进参与；反过来又滋养财务健康。
   - question: Isn't it too personal to deal with staff's moods?
     answer: >-
       'To deal with' infers 'to manage by others'. In some styles of
