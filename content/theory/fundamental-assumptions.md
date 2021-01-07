@@ -289,29 +289,15 @@ inPractice: >-
 
   * 从长远来看，目标和利润之间并不矛盾。只要我们聚焦于目标（因），利润（果）就会随之而来。
 faq:
-  - question: What's the difference between making explicit the fundamental
-      assumptions and formulating new ones – and the traditional exercise on
-      values?
-    answer: "The traditional values document is often a rather disappointing
-      instrument for cultural change. If there is a perceivable difference
-      between theory and practice, between the official policy and experienced
-      reality. A value document will most likely be irrelevant as a change
-      driver. This is because the traditional exercise that produces it does not
-      question the underlying fundamental assumptions which shape the structure
-      and culture of the organization, and the behavior that goes with it. (It
-      is like the fish not knowing the water because it is all around it.)\r
+  - question: 将基本假设说清楚并制定新假设，与传统的价值观练习有什么区别？
+    answer: 传统组织用来定义组织价值观的文档（一纸空文），往往是促进文化变革意义上的一个相当令人失望的工具。如果理论与实践、官方政策与经验现实之间存在可感知的差异，这些价值观文档很可能没有包括那些驱动变革的要素。这是因为用来打造组织结构和文化的传统做法，并不质那些疑塑着造组织结构和文化的潜在基本假设，也不质疑与之相应的行为。（就像鱼不知水，而水就在它周围。）
+  - question: 我为什么要费心把这些假设说清楚呢？
+    answer: |-
+      考虑以下三个原因：
 
-      \r\n"
-  - question: Why should I bother to make these assumptions explicit?
-    answer: >-
-      Consider these three reasons to do so:
-
-
-      1. It makes it easier to explain why you've chosen to use operating practices that defy conventional management.
-
-      2. The assumptions can serve as touchstones for every new practice or process you consider introducing.
-
-      3. Explicit assumptions make it easier for anybody in the organization, even the most junior colleague, to speak up and say: "I wonder if what we are doing is in line with our basic assumptions".
+      1. 更容易解释选择使用这些与传统管理完全相反的蔚蓝运作方法的理由。
+      2. 这些假设可以作为试金石，减压考虑引入的每个新蔚蓝实践或流程。
+      3. 明确的假设，能让组织中的任何人，甚至是最初级的同事，都更容易直言：“最好评估一下咱们目前所做的是否符合我们的基本假设”。
 relatedTheory:
   - Culture and Values
 ---
