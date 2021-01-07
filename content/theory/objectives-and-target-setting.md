@@ -106,20 +106,14 @@ inPractice: >-
 
   蔚蓝进化型组织不设定销售目标。但每个人，包括销售人员，都充分意识到并了解保持组织正常运转所需的一切要件。由于销售人员也是运营团队的一部分（了解组织的全部财务信息），所以知道自己需要做多少工作来维持团队的运转。
 faq:
-  - question: If no sales targets are set, how will the company know how much to
-      sell to achieve both break even and profitability?
+  - question: 如果没有设定销售目标，公司如何知道销售多少才能实现盈亏平衡和盈利？
     answer: >-
-      Financial information is available to all, and everybody is trained to
-      read and understand financial information. They are also trained how to
-      relate the information to their activities. Since every member is
-      responsible for the health of the whole organization, they know exactly
-      what outputs are required to keep the organization financially healthy.
+      所有人都可以获得财务信息，每个人都接受过阅读和理解财务信息的培训。也都接受过如何将这些信息与自己的活动联系在一起的培训。由于每个成员都对整个组织的健康负责，每个人都确切地知道需要什么样的产出来保持组织的财务健康。（都是潜在的经营者）。
 
 
-      Whether the teams have specific persons in sales roles, or are responsible for sales as part of their ongoing duties, everybody has a clear idea of what is happening in the marketplace, what customers' needs are and what other offerings there are.
+      无论团队中是否有专门的销售人员，或是否有一部分日常工作是负责销售，每个团队的每个人都清楚地知道市场上发生了什么，客户的需求是什么，以及还有哪些其他产品可以提供。
 
-
-      The beauty of the [self-organizing ](../self-management/)nature of [Teal organizations](../teal-paradigm-and-organizations/) is that they can sense and adapt to market changes in real-time. Orange-Achievement organizations have to wait for feedback from sales teams and market research, then go through a laborious target setting and decision making process and then implement changes.
+       [蔚蓝组织](../teal-paradigm-and-organizations/)的[自我管理](../self-management/)和自组织特性之美在于，能实时感知并迅速适应市场变化。橙色成就驱动的组织则必须等待销售团队和市场调查的反馈，然后经过艰苦的目标设定和决策过程，才能开始实施变革。
 relatedTheory:
   - Coordination
   - Evolutionary Purpose
