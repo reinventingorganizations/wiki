@@ -6,8 +6,8 @@ date: 2020-11-09
 introduction: The AES Corporation is a Fcompany that generates and distributes
   electrical power. AES is headquartered in Arlington, Virginia see
   https://en.wikipedia.org/wiki/AES_Corporation
-industry: D. Electricity, gas, steam and air conditioning supply
-geography: Global
+industry: D、 电力、燃气、蒸汽和空调供应
+geography: 美国
 companySize: "> 500"
 profit: Profit
 theory:
