@@ -103,15 +103,11 @@ theory:
   - topic: Dismissal
     title: AES推出了一项慷慨的遣散计划和贷款基金，保证工厂收购后的裁员大多处于自愿，尽可能减少心理创伤。
     content: >-
-      [AES ](http://www.aes.com/)has demonstrated a distinctively Teal approach
-      to layoffs due to structural overstaffing after buying power plants
-      previously owned by governments. After the acquisition, AES had to lay off
-      hundreds of people and managed to do that relatively painlessly through a
-      special voluntary severance program. Here is Dennis Bakke‘s, CEO,
-      perspective on the matter:
+      [AES](https://www.aes.com/home/default.aspx)
+      在收购一些之前由政府拥有的发电厂后的裁员过程中，表现了独特的蔚蓝态度。由于这类工厂结构上为了扩大就业而人浮于事，需要大量裁员。收购后，AES不得不裁员数百人，但通过一项特殊的自愿离职计划，相对轻松地做到了这一点。以下是首席执行官丹尼巴克对此事的看法：
 
 
-      *"The right size of a workforce is equal to the number of people needed to make the workplace fun. Having too many employees demoralizes colleagues and causes turf battles. A very astute AES plant manager in Northern Ireland told me that arguments over turf are good indicators that the facility has too many people. No one worries about who does what when there is enough work to go around. My belief that business should not carry unneeded employees does not mean that they should be given pink slips and hustled out the door. Departing employees need time to make the transitions to new work. Organizations should be generous with severance arrangements. We encountered overstaffing almost every time we made an acquisition. One of the first things we did after acquiring a business was to set up a generous and voluntary severance program. Only rarely were individuals asked to leave. In Panama, AES created a loan fund for employees who took the severance package. A year later, I traveled to a celebration lunch with former employees who had left the company. Seventy-one new businesses had been started by these former employees, most of whom tapped the AES loan fund. Even with generous voluntary severance arrangements, the changeover from a company you know to one you don’t can be traumatic. I strongly believe that these difficult transitions are a necessary evil that forces employees and organizations to adjust to a dynamic world. Part of the joy of work is learning new roles and taking on new responsibilities. Job security is attractive gift wrapping, but seldom is there anything of lasting value inside.*"^\[Source: Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), pages 187-188]
+      “合适的劳动力规模，就是能使工作场所充满乐趣所需的人数。员工太多会让同事士气低落，还会引起地盘之争。北爱尔兰一位非常精明的AES工厂经理告诉我，围绕草皮的争论，就很好地表明了该工厂人多为患的弊端。如果能有足够的工作时，没有人担心谁做什么。我认为企业不应该雇佣不需要的员工，但这并不意味着他们应该被解雇。需要给离职员工一些时间，慢慢过渡到新工作。组织应慷慨地作出遣散安排。我们几乎每次收购都会遇到人手过剩的问题。收购一家公司后，我们做的第一件事，就是设立一个慷慨的自愿离职计划。很少有人被强制要求离开。在巴拿马，AES为接受遣散费的雇员设立了一个贷款基金。一年后，我和离开公司的前员工共进了庆祝午餐。这些前雇员共开办了71家新企业，其中大多数人是利用AES的贷款基金。即使有慷慨的自愿离职安排，从一家熟悉的公司，转职到一家不熟悉的公司，这个转变还是会带来创伤。我坚信，这些艰难的转变，是一个必要的艰难过程，迫使员工和组织适应一个充满活力的世界。工作的乐趣之一，就是学习新的角色和承担新的责任。工作保障是有吸引力的礼品包装，但里面很少包含带来人性成长持久价值的东西。”^\[Source: Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), pages 187-188]
   - topic: Staff Functions
     title: AES, in a heavily regulated industry, pioneered the use of 80/20
       voluntary task forces to deal with typical staff functions.
