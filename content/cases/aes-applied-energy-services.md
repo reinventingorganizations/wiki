@@ -28,24 +28,11 @@ theory:
       AES种植了数百万棵树以抵消碳排放。这个想法来自洛杉矶的一名员工，而不是高层团队。起初没有预算。她通过建议流程，为AES需要投入到植树上的资金找到了赞助。^\[Source: Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), pages 160-172]
   - topic: Strategy
     title: 任何人都可以做出战略决策，这通常通过建议流程来实施。
-    content: "A recently hired financial analyst at AES informed the CEO, Dennis
-      Bakke, that he was intending to leave his role to go back to his native
-      Pakistan and research the opportunity for electricity-generating capacity
-      there on behalf of AES. Bakke expressed skepticism, telling him that
-      despite encouragement from the U.S. Department of State to expand into
-      Pakistan several years earlier, they declined due to concern over high
-      levels of corruption there.\r
+    content: >-
+      AES最近聘请的一位财务分析师告诉首席执行官丹尼巴克，他打算离开自己目前的岗位，回到自己的祖国巴基斯坦，代表AES研究那里的发电领域的机会。巴克对此表示怀疑，他说，尽管几年前美国国务院鼓励我们向巴基斯坦扩展业务，但由于担心那里腐败严重，我们拒绝了这个建议。
 
-      \r
 
-      Despite the CEO’s recommendation, the analyst decided to go to
-      Pakistan, effectively creating a new position for himself as business
-      developer, retaining his previous salary. Six months later, he invited
-      Bakke to Pakistan to meet the prime minister. Two and a half years later,
-      a $ 700 million power plant was running.^[ Laloux, Frederic (2014-02-09).
-      Reinventing Organizations: A Guide to Creating Organizations Inspired by
-      the Next Stage of Human Consciousness (Kindle Locations 2245-2254). Nelson
-      Parker. Kindle Edition.]"
+      尽管首席执行官有这样的建议，但分析师还是决定去巴基斯坦，这实际上是为自己创造了一个新的职位。他成了业务开发人员，并保留以前的工资。六个月后，他邀请巴克到巴基斯坦会见总理。两年半后，一座耗资7亿美元的发电厂开始运转。^\[ Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 2245-2254). Nelson Parker. Kindle Edition.]
   - topic: Purchasing and Investments
     title: AES provides its workers a high level of autonomy in their area of
       expertise which enables them to negotiate multi-million dollar plant
