@@ -58,14 +58,9 @@ theory:
 
       如果蔚蓝这种在危机时期，需要暂停建议流程，有两个准则可以用来维持对自我管理的信任：对（不通过建议流程的）自上而下决策的范围和时间框架定义充分的透明度，并任命一个、在危机结束后不会被怀疑继续行使这种独裁权力的人，来作出决策。
   - topic: Fundamental Assumptions
-    title: "During transition, two sets of belief systems were opposed to each
-      other: the traditional Amber/Orange belief system and the new set,
-      regarding self-management the logical way to operate. The traditional
-      belief set was made explicit together with the colleagues, which made it
-      very powerful and confrontational."
+    title: 在组织朝向蔚蓝的转型过程中，两套信念体系相互对立：传统的琥珀色/橙色信念体系和新的这套合理的自我管理运作方式。与同事们共同将那些传统信念明确的识别出来，这能带来非常强大和有力的效果。
     content: >-
-      Here is how Dennis Bakke (CEO of AES at that time) summarizes the
-      assumptions workers feel bosses have about them:
+      以下是丹尼斯·巴克（当时AES的首席执行官）总结出来的，旧信念中老板对员工的看法：
 
 
       * Workers are lazy. If they are not watched, they will not work diligently.
