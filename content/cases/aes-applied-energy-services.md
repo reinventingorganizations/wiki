@@ -59,46 +59,28 @@ theory:
       如果蔚蓝这种在危机时期，需要暂停建议流程，有两个准则可以用来维持对自我管理的信任：对（不通过建议流程的）自上而下决策的范围和时间框架定义充分的透明度，并任命一个、在危机结束后不会被怀疑继续行使这种独裁权力的人，来作出决策。
   - topic: Fundamental Assumptions
     title: 在组织朝向蔚蓝的转型过程中，两套信念体系相互对立：传统的琥珀色/橙色信念体系和新的这套合理的自我管理运作方式。与同事们共同将那些传统信念明确的识别出来，这能带来非常强大和有力的效果。
-    content: >-
+    content: |-
       以下是丹尼斯·巴克（当时AES的首席执行官）总结出来的，旧信念中老板对员工的看法：
 
-
       * *员工懒惰。如果不被监视，他们就不会勤奋工作。*
-
       * 员工工作主要是为了钱。他们会尽可能地多赚钱。
-
       * *员工们把自己的利益放在对组织利益之前。他们很自私。*
-
       * 如果给员一个简单的可重复的任务，他们就会表现最好，效率最高。
-
       * *员工没有能力就影响公司业绩的重要事项作出正确的决定。只有老板擅长做决定。*
-
       * 员工不想为自己的行为或影响组织绩效的决策负责。
-
       * *员工需要照顾和保护，就像孩子需要父母的照顾一样。*
-
       * 员工应按小时或按生产的“件”数得到报酬。管理者应该得到工资，还可以得到奖金和股票。
-
       * *员工就像机器的可互换部件。一个“好”员工和另一个“好”员工几乎是一样的。*
-
       * 员工们需要被告知该做什么，什么时候做，怎么做。老板们需要时刻努力监督员工承担责任。
 
+      新的假设如下：
+      AES人员：
 
-      And here are the new assumptions :
-
-
-      AES people :
-
-
-      * Are creative, thoughtful, trustworthy adults, capable of making important decisions;
-
-      * Are accountable and responsible for their decisions and actions;
-
-      * Are fallible. We make mistakes, sometimes on purpose;
-
-      * Are unique and
-
-      * Want to use their talents and skills to make a positive contribution to the organization and the world.
+      * 是有创造力、有思想、值得信赖的成年人，有能力做出重要的决定；
+      * 对他们的决定和行动负责；
+      * 可能出错。我们会犯错误，但有时是故意的（为了培育智慧）；
+      * 是独一无二的；
+      * 希望用自己的才华和技能为组织和世界做出积极贡献。
   - topic: Ownership
     title: A publicly held company reverses its ways during difficult times.
     content: "AES, an energy generation and distribution powerhouse was co-founded
