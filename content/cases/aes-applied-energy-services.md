@@ -34,82 +34,21 @@ theory:
 
       尽管首席执行官有这样的建议，但分析师还是决定去巴基斯坦，这实际上是为自己创造了一个新的职位。他成了业务开发人员，并保留以前的工资。六个月后，他邀请巴克到巴基斯坦会见总理。两年半后，一座耗资7亿美元的发电厂开始运转。^\[ Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 2245-2254). Nelson Parker. Kindle Edition.]
   - topic: Purchasing and Investments
-    title: AES provides its workers a high level of autonomy in their area of
-      expertise which enables them to negotiate multi-million dollar plant
-      investments. Interdisciplinary volunteer task forces supported by a few
-      people from headquarters with relevant expertise collectively do budget
-      planning and auditing.
-    content: "Like their counterparts at [FAVI](http://www.favi.com/) and [Sun
-      Hydraulics](http://www.sunhydraulics/), teams at
-      [AES](http://www.ase.com/) were responsible for decisions relating to all
-      aspects of day-to-day operations including investment related budgeting,
-      hiring, training, evaluations, compensation, capital expenditures, and
-      purchasing, as well as long-term strategy and charitable giving.
-      [AES](http://www.ase.com/) is an energy provider, operating thermal and
-      hydroelectric power plants as well as electrical grids. This equipment is
-      absolutely central to the lives of many people and businesses. A
-      front-page article in the Wall Street Journal by reporter Alex Markels
-      illustrates with a story how far teams at [AES](http://www.ase.com/) went
-      with taking on responsibilities typically handled by headquarters:
+    title: AES在其专业领域为员工提供了高度的自主权，赋权给他们代表公司就数百万美元的工厂投资出去谈判。跨学科志愿工作队由总部少数具有相关专业知识的人员共同支撑，负责进行预算规划和审计。
+    content: >-
+      与[法维](http://www.favi.com/)和[S太阳液压](http://www.sunhydraulics/)类似，[AES](http://www.ase.com/)的基层团队，负责进行与日常运营所有方面相关的决策，包括投资相关预算、招聘、培训、评估、薪酬、资本支出和采购，以及长期战略和慈善捐赠。[AES公司](http://www.ase.com/)是一家能源供应商，经营火力和水力发电厂以及电网。这种设备对许多人和企业的生活至关重要。《华尔街日报》的记者亚历克斯•马克尔斯撰写的头版文章，用一个故事说明了[AES](http://www.ase.com/)
+      的团队承担了多少通常由总部负责的职责：
 
 
-      \\
+      \
 
-      *MONTVILLE, Conn. –– His hands still blackened from coal he has just
-      unloaded from a barge, Jeff Hatch picks up the phone and calls his
-      favorite broker. “What kind of rate can you give me for $10 million at 30
-      days?” he asks the agent, who handles Treasury bills. “Only 6.09? But I
-      just got a 6.13 quote from Chase.” In another room, Joe Oddo is working on
-      J.P. Morgan & Co. “6.15 at 30 days?” confirms Mr. Oddo, a maintenance
-      technician at AES Corp.’s power plant here. “I’ll get right back to you.”
-      Members of an ad-hoc team that manages a $33 million plant investment
-      fund, Messrs. Oddo and Hatch quickly confer with their associates, then
-      close the deal. … It sounds like “empowerment” gone mad. Give workers more
-      autonomy in their area of expertise? Sure. Open the books to employee
-      purview? Perhaps. But what good could possibly come from handing corporate
-      finance duties to workers whose collective borrowing experience totals a
-      mortgage, two car loans, and some paid-off credit-card debt? Plenty of
-      good, says AES. … “The more you increase individual responsibility, the
-      better the chances for incremental improvements in operations,” argues
-      Dennis W. Bakke, the company’s chief executive and one of its founders. …
-      “And more importantly” he says “it makes work a lot more fun.” Is giving
-      coal handlers investment responsibility risky? Mr. Bakke thinks not. He
-      notes that the volunteer team in Montville does have a financial adviser,
-      and they work within a narrow range of investment choices. They aren’t
-      exactly buying derivatives. What the CEO likes about the arrangement is
-      that “they’re changed people by this experience. They’ve learned so much
-      about the total aspect of the business, they’ll never be the same.”*
-      ^[Alex Markels, \"Blank Check,\" The Wall Street Journal, April 9, 1998)]
+      *MONTVILLE, Conn. –– His hands still blackened from coal he has just unloaded from a barge, Jeff Hatch picks up the phone and calls his favorite broker. “What kind of rate can you give me for $10 million at 30 days?” he asks the agent, who handles Treasury bills. “Only 6.09? But I just got a 6.13 quote from Chase.” In another room, Joe Oddo is working on J.P. Morgan & Co. “6.15 at 30 days?” confirms Mr. Oddo, a maintenance technician at AES Corp.’s power plant here. “I’ll get right back to you.” Members of an ad-hoc team that manages a $33 million plant investment fund, Messrs. Oddo and Hatch quickly confer with their associates, then close the deal. … It sounds like “empowerment” gone mad. Give workers more autonomy in their area of expertise? Sure. Open the books to employee purview? Perhaps. But what good could possibly come from handing corporate finance duties to workers whose collective borrowing experience totals a mortgage, two car loans, and some paid-off credit-card debt? Plenty of good, says AES. … “The more you increase individual responsibility, the better the chances for incremental improvements in operations,” argues Dennis W. Bakke, the company’s chief executive and one of its founders. … “And more importantly” he says “it makes work a lot more fun.” Is giving coal handlers investment responsibility risky? Mr. Bakke thinks not. He notes that the volunteer team in Montville does have a financial adviser, and they work within a narrow range of investment choices. They aren’t exactly buying derivatives. What the CEO likes about the arrangement is that “they’re changed people by this experience. They’ve learned so much about the total aspect of the business, they’ll never be the same.”* ^\[Alex Markels, "Blank Check," The Wall Street Journal, April 9, 1998)]
 
 
-      At AES, every team established its investment budget once a year.
-      Budgets would be added up at the plant level, sometimes running as high as
-      $300 million in a year. When teams were satisfied with the consolidated
-      budget for the plant, it was reviewed, together with those from all other
-      plants, by a budget task force that would suggest possible changes and
-      improvements (but didn’t have power to enforce changes). That task force
-      was staffed with a few people from headquarters with relevant expertise,
-      but predominantly with people from local units with all sorts of
-      backgrounds - a security guard could sit next to a technician and an
-      engineer. Internal audits were performed in the same way, by volunteer
-      task forces: each plant would be audited by colleagues from other
-      plants.\r
+      At AES, every team established its investment budget once a year. Budgets would be added up at the plant level, sometimes running as high as $300 million in a year. When teams were satisfied with the consolidated budget for the plant, it was reviewed, together with those from all other plants, by a budget task force that would suggest possible changes and improvements (but didn’t have power to enforce changes). That task force was staffed with a few people from headquarters with relevant expertise, but predominantly with people from local units with all sorts of backgrounds - a security guard could sit next to a technician and an engineer. Internal audits were performed in the same way, by volunteer task forces: each plant would be audited by colleagues from other plants.
 
-      \r
 
-      AES found out that using voluntary task forces instead of fixed
-      staff functions has multiple benefits. Employees find avenues to express
-      talents and gifts that their primary role might not call for. They develop
-      a true sense of ownership and responsibility when they see they have real
-      power to shape their company. Founder Dennis Bakke insists on another
-      point: these task forces are formidable learning institutions. At any
-      point in time, thousands of people would be involved in task forces,
-      picking up technical and leadership skills from more experienced
-      colleagues. It’s a modern-day form of apprenticeship, scaled to a massive
-      level. No classroom training could ever provide the amount of learning
-      that was taking place day in and day out in the voluntary task
-      forces.^[Laloux, Frederic. Reinventing Organizations. Nelson Parker
-      (2014), page 88 and following]"
+      AES found out that using voluntary task forces instead of fixed staff functions has multiple benefits. Employees find avenues to express talents and gifts that their primary role might not call for. They develop a true sense of ownership and responsibility when they see they have real power to shape their company. Founder Dennis Bakke insists on another point: these task forces are formidable learning institutions. At any point in time, thousands of people would be involved in task forces, picking up technical and leadership skills from more experienced colleagues. It’s a modern-day form of apprenticeship, scaled to a massive level. No classroom training could ever provide the amount of learning that was taking place day in and day out in the voluntary task forces.^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 88 and following]
   - topic: Crisis Management
     title: AES suspends the advice process as gracefully as possible
     content: "In fall of 2001, after the terrorist attacks and the collapse of
