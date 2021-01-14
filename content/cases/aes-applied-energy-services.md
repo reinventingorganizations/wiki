@@ -63,25 +63,25 @@ theory:
       以下是丹尼斯·巴克（当时AES的首席执行官）总结出来的，旧信念中老板对员工的看法：
 
 
-      * Workers are lazy. If they are not watched, they will not work diligently.
+      * *员工懒惰。如果不被监视，他们就不会勤奋工作。*
 
-      * Workers work primarily for money. They will do what it takes to make as much money as possible.
+      * 员工工作主要是为了钱。他们会尽可能地多赚钱。
 
-      * Workers put their own interest ahead of what is best for the organization. They are selfish.
+      * *员工们把自己的利益放在对组织利益之前。他们很自私。*
 
-      * Workers perform best and are most effective if they have one simple repeatable task to accomplish.
+      * 如果给员一个简单的可重复的任务，他们就会表现最好，效率最高。
 
-      * Workers are not capable of making good decisions about important matters that affect the economic performance of the company. Bosses are good at making decisions.
+      * *员工没有能力就影响公司业绩的重要事项作出正确的决定。只有老板擅长做决定。*
 
-      * Workers do not want to be responsible for their actions or for decisions that affect the performance of the organization.
+      * 员工不想为自己的行为或影响组织绩效的决策负责。
 
-      * Workers need care and protection, just as children need the care of their parents.
+      * *员工需要照顾和保护，就像孩子需要父母的照顾一样。*
 
-      * Workers should be compensated by the hour or by the number of "pieces" produced. Bosses should be paid a salary and possibly receive bonuses and stock.
+      * 员工应按小时或按生产的“件”数得到报酬。管理者应该得到工资，还可以得到奖金和股票。
 
-      * Workers are like interchangeable parts of machines. One "good" worker is pretty much the same as another "good" worker.
+      * *员工就像机器的可互换部件。一个“好”员工和另一个“好”员工几乎是一样的。*
 
-      * Workers need to be told what to do, when to do it, and how to do it. Bosses need to hold them accountable.
+      * 员工们需要被告知该做什么，什么时候做，怎么做。老板们需要时刻努力监督员工承担责任。
 
 
       And here are the new assumptions :
