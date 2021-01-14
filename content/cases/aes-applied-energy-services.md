@@ -3,7 +3,7 @@ layout: case
 tags: cases
 name: 应用能源服务(AES)
 date: 2020-11-09
-introduction: AES公司是一家发电和配电的Fcompany。AES总部位于美国弗吉尼亚州阿灵顿。https://en.wikipedia.org/wiki/AES_Corporation
+introduction: AES公司是一家发电和配电公司。AES总部位于美国弗吉尼亚州阿灵顿。网站：<https://en.wikipedia.org/wiki/AES_Corporation>
 industry: D、 电力、燃气、蒸汽和空调供应
 geography: 美国
 companySize: "> 500"
