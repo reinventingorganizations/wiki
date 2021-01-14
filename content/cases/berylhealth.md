@@ -4,7 +4,7 @@ tags: cases
 name: 绿柱石健康(BerylHealth)
 date: 2020-11-09
 introduction: 医院呼叫中心服务 - 美国 - 营利组织
-industry: J. Information and communication
+industry: J、 信息与通信
 geography: 美国
 companySize: 201-500
 profit: 营利组织
