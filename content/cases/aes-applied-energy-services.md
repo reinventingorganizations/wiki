@@ -48,41 +48,15 @@ theory:
 
       AES发现，使用志愿工作队而不是固定的管理职能，有多重好处。让员工找到途径表达一些，在自己主要岗位角色上用不到的一些额外才能和天赋。当他们看到自己真正拥有了塑造公司的权力时，就会产生真正的主人翁意识和责任感。创始人丹尼斯·巴克克还坚持认为：这些特别工作组也是强大的学习机构。在任何时候，都会有成千上万的成员加入工作队，从更有经验的同事那里学习技术和领导技能。这是一种现代形式的大规模学徒制度。任何课堂培训都无法提供志愿工作队日复一日的学习量。^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 88 and following]
   - topic: Crisis Management
-    title: AES suspends the advice process as gracefully as possible
-    content: "In fall of 2001, after the terrorist attacks and the collapse of
-      Enron, AES’s stock price plummeted. The company needed access to capital
-      markets to serve its high debt levels but found them suddenly closed.
-      Swift and drastic action was needed to prevent bankruptcy. A critical
-      question was: how many and which power plants would need to be sold off to
-      raise the necessary cash? With 40,000 people spread around the world,
-      Dennis Bakke, the CEO, could hardly convene everybody and stand on a
-      soapbox like Zobrist at FAVI. And the problem was so complex that he
-      couldn’t simply send out a blog post with two alternatives, like Jos de
-      Blok did at Buurtzorg.\r
+    title: 建议流程需要暂停时，AES尽可能优雅的处理这种暂停
+    content: >-
+      2001年秋天，在恐怖袭击和安然公司倒闭之后，AES股价暴跌。该公司当时正需要进入资本市场，寻求对其高负债水平的弥补，但却发现资本市场突然关闭了。为了防止破产，必须采取迅速而艰难的行动。一个关键的问题是：为了筹集必要的资金，需要出售多少个发电厂，出售哪些发电厂？由于四万人分布在世界各地，首席执行官丹尼斯•巴克克很难像法维的佐布里斯特那样，站在肥皂盒上，召集所有人征求建议。问题是如此复杂，以至于他也不能像在布尔佐格的乔斯德布洛克那样，简单地发一篇博文，给出两个备选方案。
 
-      \r
 
-      Bakke chose a course of action that temporarily suspended the advice
-      process in a way that nevertheless minimized the risk of under-mining
-      trust in self-management. He didn’t work out a plan behind closed doors
-      with his management team; instead, he publicly announced that top-down
-      decision-making would be made during a limited time for a limited number
-      of decisions, albeit critical ones. The advice process would remain in
-      force for all other decisions. To investigate the best course of action
-      and make the tough calls, Bakke appointed Bill Luraschi, a young and
-      brilliant general counsel. Luraschi wasn’t regarded as one of the most
-      senior leaders nor as someone who would seek a leading role in the future.
-      The signal was clear: the senior leaders of the organization were not
-      looking to exert more power. Top-down decision-making would be handled by
-      someone with no thirst for power, and it really would be temporary.\r
+      巴克克选择的行动方案是，暂时中止建议流程。尽管如此，还是在处理中尽量减少暂停行动，给自我管理模式带来信任下降的风险。他没有与管理团队闭门制定计划；而是公开宣布，将在有限的时间内，针对有限的决策，制定一些自上而下（不遵循建议流程的）重要决策。并保证建议流程对此外的所有其他决策继续有效。为了调查最佳的行动方案并做出艰难的决定，贝克任命比尔·卢拉斯基负责决策，他是一位年轻而杰出的总法律顾问。卢拉斯基既不被视为最高级的领导人之一，也不被视为未来寻求领导地位的人。发出的信号很清楚：该组织的高级领导人，并不希望行使更多的权力。自上而下的决策，也是由一个对权力没有渴望的人来处理，而且明确保证这个举措是暂时的。
 
-      \r
 
-      If the advice process needs to be suspended in times of crisis,
-      these two guidelines can serve to maintain trust in self-management: give
-      full transparency about the scope and timeframe of top-down
-      decision-making, and appoint someone to make those decisions who will not
-      be suspected of continuing to exert such powers when the crisis is over. "
+      如果蔚蓝这种在危机时期，需要暂停建议流程，有两个准则可以用来维持对自我管理的信任：对（不通过建议流程的）自上而下决策的范围和时间框架定义充分的透明度，并任命一个、在危机结束后不会被怀疑继续行使这种独裁权力的人，来作出决策。
   - topic: Fundamental Assumptions
     title: "During transition, two sets of belief systems were opposed to each
       other: the traditional Amber/Orange belief system and the new set,
