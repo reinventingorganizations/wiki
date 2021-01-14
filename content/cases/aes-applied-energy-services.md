@@ -14,14 +14,10 @@ theory:
     content: 年度调查：许多组织通过年度调查来培养对价值观和基本规则的讨论。例如，在[](http://www.aes.com/)
       [AES](http://www.aes.com/)，由一个志愿者组成的特别工作组，每年设计一套新的问卷调查，并发送给整个组织。每个单元团队都有义务——这是基本规则之一——以自己认为最佳的任何形式，认讨论这些调查结果。
   - topic: Recruitment
-    title: At AES, candidates are invited to discussions about the organization’s
-      values and practices during the recruitment process.
-    content: 'An employee of [AES](https://www.ase.com/Home.aspx) explained: "bad
-      hire" is someone who is a chronic complainer, who is not happy, who blames
-      others, who doesn’t take responsibility, who’s not honest, who doesn’t
-      trust other people. A bad hire would be someone who needs specific
-      direction and waits to be told what to do. A poor hire would be someone
-      who wasn’t flexible and who says, “It’s not my job.”'
+    title: 在AES，在招聘过程中邀请应聘者共同讨论组织的价值观和做法。
+    content: "[AES](http://www.aes.com/)的员工认识到：“坏员工”是个长期抱怨的人，一个不快乐的人，一个责备别人的人，一个不负责\
+      任的人，一个不诚实的人，一个不信任别人的人。需要明确的指导，等待别人告诉他该怎么做，就是个差劲的员工。个不灵活的人，就是个差劲的员工。他们经常会说\
+      ：“这不是我的工作。”"
   - topic: Environmental and Social Management
     title: "Via the advice process, AES employees initiate environmental and social
       initiatives. "
