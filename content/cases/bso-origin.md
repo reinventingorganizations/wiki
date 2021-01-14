@@ -3,30 +3,20 @@ layout: case
 tags: cases
 name: 起源(BSO)
 date: 2020-08-24T20:05:33.747Z
-introduction: Originally IT consulting - Global - 10,000 employees - For profit.
-  A European information technology company founded by Eckart Wintzen, now a
-  part of Atos
-industry: J. Information and communication
-geography: Global
+introduction: 最初是IT咨询公司-全球-10000名员工-营利组织。由埃卡特温岑创建的一家欧洲信息技术公司，现在被合并称为阿托斯（Atos）的一部分。
+industry: J、 信息与通信
+geography: 全球
 companySize: "> 500"
-profit: Profit
+profit: 营利组织
 theory:
   - topic: Ownership
-    title: A multinational loses its momentum after a corporate takeover.
+    title: 跨国公司在公司被收购后失去了蔚蓝模式带来的动力。
     content: >-
-      BSO/Origin was founded in 1973 by Eckart Wintzen in the Netherlands. In
-      the following 20 years, he grew the company to 10,000 people, setting up
-      shop in 18 countries in Europe, South America, and Asia. The company’s
-      structure consisted entirely of self-managing units, with virtually no
-      headquarters and no staff functions. In 1994, the company established a
-      joint venture with a Business Unit from Philips, a large publicly held
-      company, that took majority ownership of BSO/ Origin two years later. In a
-      matter of mere months, BSO was radically transformed as traditional
-      management practices were brought in.
+      BSO/起源，由埃卡特温岑于1973年在荷兰成立。在随后的20年里，他将公司发展到10000人，在欧洲、南美和亚洲的18个国家开设了分店。该公司的结构完全由自我管理的团队单位组成，几乎没有总部，也没有管理职能。1994年，该公司与飞利浦（一家大型上市公司）的一个业务部门成立了一家合资企业，两年后飞利浦收购了BSO/起源（Origin）的多数股权。并购后短短几个月，随着传统管理实践的引入，BSO发生了根本性的变化。
 
 
-      Wintzen recounts a decade later in a book :
+      温森在十年后的一本书中叙述：
 
 
-      *I (became) a board member and gave powerful speeches to leave the system in place. But unfortunately - though not surprisingly given the perspective they came from - my colleagues from Phillips on the board pronounced the word "unacceptable" regularly and forcefully. In the eyes of Phillips it was ' "a deadly sin" ' to give people the authority to hire personnel or even just give away tickets for a musical. I believe that once we literally shouted over the issue until our faces turned red. The two worlds collided, one of strict financial procedures combined with "check, check, double check" with one of "have trust, have trust"*^[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), pages 252-253]
+      *我成为一名董事会成员，并发了强有力的演讲，试图让这一先进体系保持原样。但不幸的是——尽管从他们的角度来看这并不奇怪——我的菲利普斯董事会的同事们经常强有力的反复对蔚蓝说“不可接受”。在菲利普成员看来，授权基层团队全权负责雇佣新成员，甚至只是赠送音乐剧门票等权限，是个“死罪”。我记得，有一次我们真的对面红着脸大喊大叫过。两个世界发生了碰撞，一个是严格的财务程序和“检查，检查，双重检查”，另一个是“信任，信任”。*
 ---
