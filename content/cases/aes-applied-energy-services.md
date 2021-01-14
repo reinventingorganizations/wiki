@@ -3,23 +3,16 @@ layout: case
 tags: cases
 name: 应用能源服务(AES)
 date: 2020-11-09
-introduction: The AES Corporation is a Fcompany that generates and distributes
-  electrical power. AES is headquartered in Arlington, Virginia see
-  https://en.wikipedia.org/wiki/AES_Corporation
+introduction: AES公司是一家发电和配电的Fcompany。AES总部位于美国弗吉尼亚州阿灵顿。https://en.wikipedia.org/wiki/AES_Corporation
 industry: D、 电力、燃气、蒸汽和空调供应
 geography: 美国
 companySize: "> 500"
-profit: Profit
+profit: 营利组织
 theory:
   - topic: Culture and Values
-    title: AES used the practice of a survey to stimulate discussions about values
-      and ground rules.
-    content: "Annual survey: Many organizations cultivate discussion about values
-      and ground rules through an annual survey. At [AES](http://www.aes.com/),
-      for instance, a task force of volunteers devised a new set of questions
-      every year and sent them out to the entire organization. Each unit had the
-      obligation— it was one of the ground rules— to discuss the outcome of the
-      survey, in whatever format it thought would be useful."
+    title: AES通过一项调查活动，来激发关于价值观和基本规则的讨论。
+    content: 年度调查：许多组织通过年度调查来培养对价值观和基本规则的讨论。例如，在[](http://www.aes.com/)
+      [AES](http://www.aes.com/)，由一个志愿者组成的特别工作组，每年设计一套新的问卷调查，并发送给整个组织。每个单元团队都有义务——这是基本规则之一——以自己认为最佳的任何形式，认讨论这些调查结果。
   - topic: Recruitment
     title: At AES, candidates are invited to discussions about the organization’s
       values and practices during the recruitment process.
