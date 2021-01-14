@@ -120,4 +120,32 @@ faq:
 
 
       *Morning Star is a collection of naturally dynamic hierarchies. There isn’t one formal hierarchy; there are many informal ones. On any issue some colleagues will have a bigger say than others will, depending on their expertise and willingness to help. These are hierarchies of influence, not position, and they’re built from the bottom up. At Morning Star one accumulates authority by demonstrating expertise, helping peers, and adding value. Stop doing those things, and your influence wanes— as will your pay.*^\[Gary Hamel, “First, Let’s Fire All the Managers,” Harvard Business Review, December 2011, http:// hbr.org/ 2011/ 12/ first-lets-fire-all-the-managers, accessed April 11, 2012.]
+  - question: Where can I find more articles about self-management ?
+    answer: >-
+      This particle article from targetteal.com, republished by Enlivening Edge
+      Magazine is going thru the following topics in 2 parts:
+
+
+      **Part 1**
+
+
+      * Definition
+
+      * Advantages and disadvantages
+
+      * Examples
+
+      * Myths about self-management
+        
+      **Part 2**
+
+      * How you can self manage in the workplace
+
+      * Self organized structures
+
+      * Doubts and frequently asked questions
+
+      * Invitation
+
+        https://www.enliveningedge.org/organizations/what-self-management-definition-advantages-examples-part-1/
 ---
