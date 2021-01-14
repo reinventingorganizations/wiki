@@ -19,23 +19,13 @@ theory:
       任的人，一个不诚实的人，一个不信任别人的人。需要明确的指导，等待别人告诉他该怎么做，就是个差劲的员工。个不灵活的人，就是个差劲的员工。他们经常会说\
       ：“这不是我的工作。”"
   - topic: Environmental and Social Management
-    title: "Via the advice process, AES employees initiate environmental and social
-      initiatives. "
+    title: 通过建议流程，AES员工发起有关环境与社会责任的项目倡议。
     content: >-
-      For [AES](http://www.aes.com/), environmental and social initiatives start
-      with inner rightness. Here is how AES expressed it in a public filing with
-      the U.S. Securities and Exchange Commission when it offered stock to the
-      public: "An important element of AES is its commitment to four major
-      'shared' values ^\[one of which is Social Responsibility, which triggered
-      AES’s decision to plant trees]. If the company perceives a conflict
-      between these values and profits, it will try to adhere to its values ―
-      even if doing so might result in diminished profits or foregone
-      opportunities. Moreover, the Company seeks to adhere to these values not
-      as a means to achieve economic success, but because adherence is a
-      worthwhile goal in and of itself."
+      对于[AES](http://www.aes.com/)而言，环境和社会责任项目倡议源于内在正义感。以下是AES在向公众发行股票时，向美国证券交易委员会（SEC）提交的一份公开文件中的表述：“AES的一个重要因素是对四大‘共享’价值观的承诺^
+      \[其中之一是社会责任，这触发了AES植树的决定]。如果公司意识到这些价值观和利润之间存在冲突，将努力坚持自己的价值观，即使这样做可能会导致利润减少或失去机会。此外，公司寻求坚持这些价值观，并不是为了取得经济成功，而是因为坚持本身，就是一个值得追求的目标。”
 
 
-      AES planted millions of trees to offset carbon emissions. This idea came from an employee in in Los Angeles, not the senior team. Initially there was no budget for this. Using the advice process, she built support for the money AES should put into tree planting. ^\[Source: Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), pages 160-172]
+      AES种植了数百万棵树以抵消碳排放。这个想法来自洛杉矶的一名员工，而不是高层团队。起初没有预算。她通过建议流程，为AES需要投入到植树上的资金找到了赞助。^\[Source: Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), pages 160-172]
   - topic: Strategy
     title: Strategic decisions can be made by anyone, often through an advice process.
     content: "A recently hired financial analyst at AES informed the CEO, Dennis
