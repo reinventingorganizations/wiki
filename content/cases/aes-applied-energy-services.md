@@ -27,7 +27,7 @@ theory:
 
       AES种植了数百万棵树以抵消碳排放。这个想法来自洛杉矶的一名员工，而不是高层团队。起初没有预算。她通过建议流程，为AES需要投入到植树上的资金找到了赞助。^\[Source: Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), pages 160-172]
   - topic: Strategy
-    title: Strategic decisions can be made by anyone, often through an advice process.
+    title: 任何人都可以做出战略决策，这通常通过建议流程来实施。
     content: "A recently hired financial analyst at AES informed the CEO, Dennis
       Bakke, that he was intending to leave his role to go back to his native
       Pakistan and research the opportunity for electricity-generating capacity
