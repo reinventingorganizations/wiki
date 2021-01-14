@@ -95,7 +95,7 @@ theory:
     title: AES用工作队替换了固定的管理人员，并规定了成员的本职和服务工作的时间分配比例。
     content: >-
       [AES](https://www.aes.com/home/default.aspx)
-      公司总部位于弗吉尼亚州阿灵顿，有40000人分散在全球各地，但只有大约100名管理人员。没有中央维修或安全部门，没有采购，没有人力资源，没有内部审计部门。该公司提出了“80-20法则”：在AES工作的每个人，从清洁人员到工程师，平均80%的时间都要花在自己的主要岗位角色上，同时要拿出20%事件，用在公司内现存的一个或多个工作队任务中，为其他人服务。^\[Laloux,
+      公司总部位于弗吉尼亚州阿灵顿，有40000人分散在全球各地，但只有大约100名管理人员。没有中央维修或安全部门，没有采购，没有人力资源，没有内部审计部门。该公司提出了“80-20法则”：在AES工作的每个人，从清洁人员到工程师，平均80%的时间都要花在自己的主要岗位角色上，同时要拿出20%的时间，用在公司内现存的一个或多个工作队任务中，为其他人服务。^\[Laloux,
       Frederic. Reinventing Organizations. Nelson Parker (2014), page 89].
 
 
@@ -109,47 +109,37 @@ theory:
 
       “合适的劳动力规模，就是能使工作场所充满乐趣所需的人数。员工太多会让同事士气低落，还会引起地盘之争。北爱尔兰一位非常精明的AES工厂经理告诉我，围绕草皮的争论，就很好地表明了该工厂人多为患的弊端。如果能有足够的工作时，没有人担心谁做什么。我认为企业不应该雇佣不需要的员工，但这并不意味着他们应该被解雇。需要给离职员工一些时间，慢慢过渡到新工作。组织应慷慨地作出遣散安排。我们几乎每次收购都会遇到人手过剩的问题。收购一家公司后，我们做的第一件事，就是设立一个慷慨的自愿离职计划。很少有人被强制要求离开。在巴拿马，AES为接受遣散费的雇员设立了一个贷款基金。一年后，我和离开公司的前员工共进了庆祝午餐。这些前雇员共开办了71家新企业，其中大多数人是利用AES的贷款基金。即使有慷慨的自愿离职安排，从一家熟悉的公司，转职到一家不熟悉的公司，这个转变还是会带来创伤。我坚信，这些艰难的转变，是一个必要的艰难过程，迫使员工和组织适应一个充满活力的世界。工作的乐趣之一，就是学习新的角色和承担新的责任。工作保障是有吸引力的礼品包装，但里面很少包含带来人性成长持久价值的东西。”^\[Source: Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), pages 187-188]
   - topic: Staff Functions
-    title: AES, in a heavily regulated industry, pioneered the use of 80/20
-      voluntary task forces to deal with typical staff functions.
+    title: AES在监管严格的行业，率先采用80/20比例自愿工作组来处理典型的管理职能。
     content: >-
-      AES, with its 40,000-employees, functioned in self-managing teams of 15 to
-      20 people during its period under Teal practices. Believing that bad
-      things start to happen when any site becomes too big, AES also tried to
-      limit the number of employees in a site to a maximum of 300 to 400 (15 to
-      20 teams of 15 to 20 people)―the natural limit, they felt, for colleagues
-      to more or less put names and faces together and enter into a casual
-      discussion with any colleague.
+      AES拥有40000名员工，在蔚蓝实践期间，都分配在由15至20人组成的自我管理团队中发挥作用。AES认为，当任何一个节点变得太大时，坏事就会开始发生。他们还试图将一个节点的员工人数限制在最多300到400人（15到20个团队，每个团队15到20人）――他们认为，同事们需要或多或少的能记住姓名和面孔，并能与任何同事进行随意的讨论，这样的团队规模是最自然的上限。
 
 
-      Teams at AES were responsible for decisions relating to all aspects of day-to-day operations: budgets, workload, safety, schedules, maintenance, hiring and firing, working hours, training, evaluations, compensation, capital expenditures, purchasing, and quality control, as well as long-term strategy, charitable giving, and community relations.
+      AES的基层团队直接负责与日常运营的所有方面相关的决策：预算、工作量、安全、时间表、维护、雇用和解雇、工作时间、培训、评估、薪酬、资本支出、采购和质量控制，以及长期战略、慈善捐赠和社区关系。
 
 
-      This is quite remarkable: AES is an energy provider, operating thermal and hydroelectric power plants as well as electrical grids. This equipment is absolutely central to the lives of many people and businesses. Operating problems can lead to disastrous blackouts, and accidents to the loss of many human lives. And yet millions of customers throughout the world were supplied with energy produced by self-governing teams responsible for such crucial matters as safety and maintenance.
+      这是相当了不起的：AES是一家能源供应商，经营火力发电厂和水力发电厂以及电网。这种设备对许多人和企业的生活而言至关重要。运行出问题的话，可能导致灾难性的停电，事故则会造成许多人的生命损失。然而，该组织在全世界数以百万计的客户，都安全的获得了蔚蓝自治团队生产的正常能源供应，这些全权基层自治团队负责安全和维护等关键事务。
 
 
-      With 40,000 people scattered across different continents, AES only had about 100 people working at headquarters in Arlington―hardly a number that could claim to control what was happening in faraway places like Cameroon, Colombia, or the Czech Republic.
+      公司的40000名成员分散在全球不同的大陆，但AES只有大约100人在阿灵顿总部工作——这个人数确实在管理着像喀麦隆、哥伦比亚或捷克共和国这样遥远地方发生的事情，令人不可置信。
 
 
-      And yet, it worked. A front-page article in the Wall Street Journal illustrates with a story how far teams at AES went with taking on responsibilities typically handled by headquarters:
+      然而，事实上这个机制在有效运作。《华尔街日报》头版的一篇文章用一个故事说明了AES的基层团队在承担通常由总部负责的责任方面，已经超前的走了多远：
 
 
-      *MONTVILLE, Conn. –– His hands still blackened from coal he has just unloaded from a barge, Jeff Hatch picks up the phone and calls his favorite broker. “What kind of rate can you give me for $10 million at 30 days?” he asks the agent, who handles Treasury bills. “Only 6.09? But I just got a 6.13 quote from Chase.” In another room, Joe Oddo is working on J.P. Morgan & Co. “6.15 at 30 days?” confirms Mr. Oddo, a maintenance technician at AES Corp.’s power plant here. “I’ll get right back to you.” Members of an ad hoc team that manages a $33 million plant investment fund, Messrs. Oddo and Hatch quickly confer with their associates, then close the deal. …*
+      在康涅狄格州的蒙特维尔——杰夫·哈奇用那双还因为刚从驳船上卸煤而发黑的手，拿起电话，给他最喜欢的经纪人打过去。“30天1000万元，你能给我什么样的利率？他问这位经办国库券的代理人。“只有6.09？但我刚从大通那里得到6.13。”在另一个房间里，乔·奥多正在跟摩根大通交涉。“6.15，30天？”奥多先生证实说，自己只是AES公司发电厂的维修技术员。奥多和哈奇是一个管理着3300万美元工厂投资基金的特别小组的成员。然后，他们很快在与合伙人进行磋商之后，达成了那笔交易。
 
 
-      It sounds like “empowerment” gone mad. Give workers more autonomy in their area of expertise? Sure. Open the books to employee purview? Perhaps. But what good could possibly come from handing corporate finance duties to workers whose collective borrowing experience totals a mortgage, two car loans, and some paid-off credit-card debt? Plenty of good, says AES. … “The more you increase individual responsibility, the better the chances for incremental improvements in operations,” argues Dennis W. Bakke, the company’s chief executive and one of its founders. … “And more importantly” he says “it makes work a lot more fun.”
+      听起来像是疯狂“授权”。在他们的专长领域给予员工更多的自主权？当然。打开员工权限的禁忌？也许。但是，如果把企业财务决策权交给那些集体借款经历只包括“抵押贷款、两辆车贷款和一些还清信用卡债务”的员工，又有什么好处呢？“有很多好处。”艾斯说。……该公司首席执行官、创始人之一丹尼斯•W•巴克认为：“成员的责任感越强，公司经营状况就越有可能得到逐步改善。”。“更重要的是，”他说，“这会让工作变得更有趣。”让煤炭管理者承担投资责任有风险吗？巴克先生认为没有风险。他指出，蒙特维尔的志愿者团队中有一名财务顾问，成员志愿者的投资选择范围被专家指导在很窄范围内。他们并不完全是在购买衍生品。首席执行官喜欢这种做法，是因为“成员被这种经历改变了。他们对企业的各个方面都有了更多的了解，他们对公司的感觉，永远不会是原来的样子。”
 
 
-      Is giving coal handlers investment responsibility risky? Mr. Bakke thinks not. He notes that the volunteer team in Montville does have a financial adviser, and they work within a narrow range of investment choices. They aren’t exactly buying derivatives. What the CEO likes about the arrangement is that “they’re changed people by this experience. They’ve learned so much about the total aspect of the business, they’ll never be the same.”
+      AES在弗吉尼亚州阿灵顿的总部只有大约100名管理职员工，没有中央维护或安全部门，没有采购部门，没有人力资源部门，也没有内部审计部门。在一家小公司，当其中某个领域出现问题时，人们可以简单地召开会议，或将特定的协调角色委派给同事。在AES，四万人分散在世界各地，这已不再可行。该公司提出了“80-20法则”：在AES工作的每个人，从清洁人员到工程师，平均80%的时间都要花在自己的主要工作岗位上，另外20%的时间要用在公司的一个或多个工作小组里。
 
 
-      With only around 100 staff in its headquarters in Arlington, Virginia, AES had no central maintenance or safety departments, no purchasing, no HR, and no internal audit departments. In a smaller company, when an issue arises in one of these areas, people can simply call a meeting, or delegate a specific coordinating role to a colleague. At AES, with 40,000 people scattered around the globe, that was no longer feasible. The company came up with the “80-20 rule”: every person working at AES, from cleaning staff to engineer, was expected to spend on average 80 percent of their time on their primary role and make themselves available for the other 20 percent in one or more of the many task forces that existed around the company.
+      以投资预算为例，这在传统模式里，通常是总部财务人员的特权。但在AES，每个团队每年制定一次投资预算。一线工厂级的预算加起来，有时一年高达3亿美元。当基层团队对自己制定的工厂综合预算感到满意后，就交给预算工作组，跟所有其他工厂的预算一起，接受内容审查。该工作组将提出变更和改进建议（但无权强制实施变更）。该工作队的工作人员有些是来自总部的具有相关专业知识的人，但主要成员是来自基层团队的各种背景的成员——在这个工作组内，一名保安可以坐在一名技术人员和一名工程师的旁边。
 
 
-      Take investment budgeting, normally the prerogative of finance staff at headquarters. At AES, everything happened in the field; every team established its investment budget once a year. Investment budgets would be added up at the plant level, sometimes running as high as $300 million in a year. When teams were satisfied with the consolidated budget for the plant, it was reviewed, together with those from all other plants, by a budget task force that would suggest possible changes and improvements (but didn’t have power to enforce changes). That task force was staffed with a few people from headquarters with relevant expertise, but predominantly with people from local units with all sorts of backgrounds―a security guard could sit next to a technician and an engineer.
+      内部审计也以同样的方式由志愿工作队进行：每个工厂的预算，都由其他工厂的同事进行审计。成立了负责薪酬、社区服务、环境工作和企业价值观等各种主题的工作队。
 
 
-      Internal audits were performed in the same way, by volunteer task forces: each plant would be audited by colleagues from other plants. Task forces were put in place for topics as diverse as compensation, community service, environmental work, and corporate values.
-
-
-      AES found out that using voluntary task forces instead of fixed staff functions has multiple benefits. Employees find avenues to express talents and gifts that their primary role might not call for. They develop a true sense of ownership and responsibility when they see they have real power to shape their company. Dennis Bakke insists on another point: these task forces are formidable learning institutions. At any point in time, thousands of people would be involved in task forces, picking up technical and leadership skills from more experienced colleagues. It’s a modern-day form of apprenticeship, scaled to a massive level. No classroom training could ever provide the amount of learning that was taking place day in and day out in the voluntary task forces.^[Alex Markels, “Blank Check,” The Wall Street Journal, April 9, 1998.]
+      AES发现，使用志愿工作队而不是固定的管理职能，有多重好处。让员工找到途径表达一些，在自己主要岗位角色上用不到的一些额外才能和天赋。当他们看到自己真正拥有了塑造公司的权力时，就会产生真正的主人翁意识和责任感。创始人丹尼斯·巴克克还坚持认为：这些特别工作组也是强大的学习机构。在任何时候，都会有成千上万的成员加入工作队，从更有经验的同事那里学习技术和领导技能。这是一种现代形式的大规模学徒制度。任何课堂培训都无法提供志愿工作队日复一日的学习量。^\[Alex Markels, “Blank Check,” The Wall Street Journal, April 9, 1998.]
 ---
