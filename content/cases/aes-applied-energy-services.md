@@ -82,40 +82,15 @@ theory:
       * 是独一无二的；
       * 希望用自己的才华和技能为组织和世界做出积极贡献。
   - topic: Ownership
-    title: A publicly held company reverses its ways during difficult times.
-    content: "AES, an energy generation and distribution powerhouse was co-founded
-      in 1982 by Roger Sant and Dennis Bakke. Under Sant’s leadership as CEO
-      until 1994, and then with Bakke at the helm, it grew from a two-person
-      firm into a global energy producer employing 40,000 people in plants
-      located in more than 30 countries around the world.\r
+    title: 一家上市公司在困难时期反败为胜。
+    content: >-
+      AES是一家发电和配电公司，由罗杰·桑特和丹尼斯·巴克于1982年共同创立。直到1994年，在首席执行官桑特的领导，加上巴克的掌舵下，桑特从一家两人公司成长为全球能源生产商，在全球30多个国家的工厂雇用了4万名员工。
 
-      \r
 
-      AES became a Wall Street darling after it was publicly listed in
-      1991. For years, while the company was going from success to success, the
-      board members were supportive of AES’s radically decentralized and
-      trust-based decision-making. And yet as Bakke commented, “Most board
-      members loved the AES approach primarily because they believed it pushed
-      the stock price up, not because it was the ‘right’ way to operate an
-      organization.”\r
+      AES在1991年公开上市后，成为华尔街的宠儿。多年来，当公司从一个成功走向另一个成功时，董事会成员都支持AES从根本上分散和基于信任的自我管理决策。然而，正如巴克评论的那样，“大多数董事会成员喜欢AES方法，主要是因为他们认为这个模式推高了股价，而不是因为这是经营一个组织的‘正确’方式。”
 
-      \r
 
-      AES’s fortunes turned in the early 2000’s. Following the dotcom
-      bubble burst, the 9/11 terrorist attacks and the Enron bankruptcy, which
-      caused near panic among energy investors, AES’s stock price, which had
-      peaked at $70, declined to as low as $5. AES’s earlier decisions to invest
-      in “merchant plants” that sold electricity in the spot market as opposed
-      to under long-term contracts and to finance much of its growth with debt
-      no doubt contributed to its troubles. However, these decisions could not
-      be attributed solely to its decentralized structure as they had been
-      discussed and agreed to all the way up to the board level. Nevertheless,
-      fear took over among board members, and they imposed greatly increased
-      oversight including the hiring of lawyers and consultants as well as a
-      co-CEO whose directives Bakke was asked to carry out. After nine
-      frustrating months, Bakke left, which freed the board to direct the
-      conversion of AES to traditional management practices.^[Laloux, Frederic.
-      Reinventing Organizations. Nelson Parker (2014), pages 253-254]"
+      AES的命运在2000年初发生了转变。在互联网泡沫破裂、9/11恐怖袭击和安然破产（安然破产在能源投资者中引起了近乎恐慌的波动）之后，AES的股价曾在70美元的高点跌至5美元。AES早前决定的投资方向，是在现货市场销售电力的“零售工厂”，而不是基于长期合同，并用债务为其大部分增长提供资金，这无疑是造成其资金困难的原因。然而，这些决定不能仅仅归因于运用了蔚蓝模式的分散决策机制，因为这些决策也一直在董事会一级得到讨论和同意。尽管如此，董事会成员中还是充满了恐惧，他们大大加强了监督，包括聘请律师和顾问以及联合首席执行官，并要求巴克尔执行董事会的指示。在令人沮丧的九个月之后，巴克离开了公司，于是董事会终于将AES回退转变为传统的橙色管理模式。^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), pages 253-254]
   - topic: Project teams and task forces
     title: AES replaced staff with task forces and mandated time allocated to them.
     content: >-
