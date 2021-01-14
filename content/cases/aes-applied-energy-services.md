@@ -92,21 +92,14 @@ theory:
 
       AES的命运在2000年初发生了转变。在互联网泡沫破裂、9/11恐怖袭击和安然破产（安然破产在能源投资者中引起了近乎恐慌的波动）之后，AES的股价曾在70美元的高点跌至5美元。AES早前决定的投资方向，是在现货市场销售电力的“零售工厂”，而不是基于长期合同，并用债务为其大部分增长提供资金，这无疑是造成其资金困难的原因。然而，这些决定不能仅仅归因于运用了蔚蓝模式的分散决策机制，因为这些决策也一直在董事会一级得到讨论和同意。尽管如此，董事会成员中还是充满了恐惧，他们大大加强了监督，包括聘请律师和顾问以及联合首席执行官，并要求巴克尔执行董事会的指示。在令人沮丧的九个月之后，巴克离开了公司，于是董事会终于将AES回退转变为传统的橙色管理模式。^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), pages 253-254]
   - topic: Project teams and task forces
-    title: AES replaced staff with task forces and mandated time allocated to them.
+    title: AES用工作队替换了固定的管理人员，并将规定的时间分配给他们做管理。
     content: >-
-      With 40,000 people scattered around the globe but only around 100 staff in
-      its headquarters in Arlington, Virginia,
-      [AES](https://www.aes.com/home/default.aspx) had no central maintenance or
-      safety departments, no purchasing, no HR, and no internal audit
-      departments. The company came up with the "80-20 rule": every person
-      working at AES, from cleaning staff to engineer, was expected to spend on
-      average 80 percent of their time on their primary role and make themselves
-      available for the other 20 percent in one or more of the many tasks forces
-      that existed around the company.^[Laloux, Frederic. Reinventing
-      Organizations. Nelson Parker (2014), page 89].
+      [AES](https://www.aes.com/home/default.aspx)
+      公司总部位于弗吉尼亚州阿灵顿，有40000人分散在全球各地，但只有大约100名管理人员。没有中央维修或安全部门，没有采购，没有人力资源，没有内部审计部门。该公司提出了“80-20法则”：在AES工作的每个人，从清洁人员到工程师，平均80%的时间都要花在自己的主要岗位角色上，同时要拿出20%事件，用在公司内现存的一个或多个工作队任务中，为其他人服务。^\[Laloux,
+      Frederic. Reinventing Organizations. Nelson Parker (2014), page 89].
 
 
-      Note that AES was handed over to new management in 2001, who decided to revert to more conventional management approaches.
+      注，AES于2001年移交给了新的管理层，管理层决定恢复使用更传统的橙色管理方法（不再蔚蓝）。
   - topic: Dismissal
     title: AES introduced a generous severance program and a loan fund to make
       post-acquisition layoffs mostly voluntary and less traumatic.
