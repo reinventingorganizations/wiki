@@ -121,23 +121,21 @@ theory:
 
       布尔佐格使用的“介入”流程遵循严格的格式和基本规则，以防止团队相互提供过于简单的建议、告诫或保证。这个流程的核心，要求成员只提出开放式问题。这样，他们就成了旅伴，陪伴这个人进入正在处理的难题的奥秘之中。这时出现了一个安全的空间，能邀请深入倾听人性的真实性和脆弱性--这些是揭示内在真理的必要条件。目标是让有问题的护士从新的角度看待问题，并自主找到自己的解决方案。这是一个简单而美丽的过程。
   - topic: Training and Coaching
-    title: At Buurtzorg the principle emerged that teams can spend a certain amount
-      on training without needing to consult.
+    title: 在布尔佐格有个原则，允许团队在不需要使用建议流程的情况下，直接决定投入一定的训练费用。
     content: >-
-      **Personal responsibility for training**
+      个人负责自己的培训规划
 
 
-      The nurses that work in self-managing teams decide on their own training needs, and look for the best provider - a medical supplier, a hospital department, or sometimes simply a pharmacist or another Buurtzorg team. It's accepted practice that a team can spend up to 3% of its revenues in training without needing to use the advice process.\
-
-      \
-
-      Jos de Blok, Buurtzorg’s founder, comments on how this freedom allows nurses to react quickly:
+      在自我管理团队工作的护士，可以决定自己的培训需求，并自行寻找最好的培训提供者-医疗供应商、医院部门，有时只是药剂师或其他布尔佐格团队。公认的标准是，一个团队可以将其收入的3%用于培训，而无需使用建议流程来批准。
 
 
-      *"A remarkably high number of colleagues get themselves trained in specific medical conditions and technical equipment so that they can assist new clients in the best possible way. From drug pumps to dialysis and breathing devices, they learn how the equipment works and must be operated so that the number of professionals that deals with any client stays low. Because colleagues don’t need to ask if they can learn about something, their motivation to do so increases immediately. “It is as if I just woke up, because I start again to think of all sorts of possibilities,” is what you often hear at Buurtzorg."*
+      布尔佐格的创始人Jos de Blok介绍了关于这种自由，是如何让护士快速做出反应的：
 
 
-      As the word spreads that the nurses can handle all sort of devices and techniques, doctors start prescribing treatment methods that improve patients’ lives - say, a drug pump for a person with chronic pain - that fall outside the limited standards handled by a traditional nursing organization.
+      “相当多的同事接受了特定医疗条件和技术设备方面的培训，于是他们能够以最佳方式帮助新客户。从药物泵到透析和呼吸设备，他们知道所有设备是如何工作的，并且必须自行操作这些机器，以便尽可能减少需要与客户打交道的专业人员数量。因为同事们不需要问这些专业人员，就可以自行决定自己要学什么，这立刻就增加了基层人员学习的积极性。“感觉我好像觉醒了，因为我又开始思考各种新的可能性，”这是在布尔佐格能经常听到的心声。
+
+
+      护士能够处理各种设备和技术的消息传开后，激发了医生的积极性，他们开始积极开发出改善患者生活的治疗方法——比如说，为慢性疼痛患者提供药物泵——这些都超出了传统护理组织能处理的标准极限。
   - topic: Commitment, Working Hours and Flexibility
     title: At Buurtzorg, the structure of small, self-managing teams helps in
       providing flexibility.
