@@ -4,10 +4,10 @@ tags: cases
 name: 巴佛(Buffer)
 date: 2020-11-09
 introduction: Social media start up - Global - 40 people - For Profit.
-industry: M. Professional, scientific and technical activities
-geography: Global
+industry: M.科研、高科技
+geography: 全球
 companySize: 1-100
-profit: Profit
+profit: 营利组织
 theory:
   - topic: Compensation and incentives
     title: 巴佛通过基于建议流程自行设定薪资的机制，实现了彻底的薪酬透明性。
