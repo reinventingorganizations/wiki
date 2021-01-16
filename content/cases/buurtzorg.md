@@ -99,20 +99,7 @@ theory:
       比如，关于在一个蔚蓝组织中，如何启动并广泛推广一个倡议。布尔佐格的一个团队最近开发出一个新概念，即为患者提供寄宿服务，为患者的主要护理者提供休息机会。这一概念在公司的一次务虚会上被介绍给所有同事。布尔佐格内没有专人负责刻意呼吁或评估这个新做法是否符合布尔佐格的目标，是否应该分配资源来扩展该计划。这一概念必须自行其是。如果需要扩大规模，这个概念将吸引其他团队的护士，使之有机的得到自动推广。
   - topic: Conflict resolution
     title: 冲突在团队结构内由同事协同处理，但有时会取得区域教练或调解人的帮助。
-    content: 在布尔佐格，护士分成10到12人的小组，每个小组在一个明确的小社区为大约50名患者提供服务。团队负责完成在类似传统组织中通常分散在不同职能部门的所有行政工作。最初的布尔佐格入职培训包括，解决冲突和由罗森博格元帅开发的[非暴力沟通](https://en.wikipedia.org/wiki/Nonviolent_Communication)
-      developed by Marshal Rosenberg. Conflicts are worked out collaboratively
-      within the team. For instance, when one person has lost the trust of the
-      team, the team tries to find a mutually agreeable solution. If that
-      doesn’t work out, the group calls in its regional coach or an external
-      facilitator to mediate. In almost all cases, the presence of a mediator
-      brings resolution. In some cases, the person and the team decide on some
-      mutual commitments and give it another go. In others, after some
-      deliberation, the person comes to see that trust is irrevocably broken and
-      understands it is time to leave. If no agreement can be found, as a last
-      chance to try to settle the matter, the team members can ask Jos de Blok,
-      the founder, to mediate. In the rare cases, where even this fails, they
-      can ask him to put an end to the person’s contract (legally, he is the
-      only one who can do so).
+    content: 在布尔佐格，护士分成10到12人的小组，每个小组在一个明确的小社区为大约50名患者提供服务。团队负责完成在类似传统组织中通常分散在不同职能部门的所有行政工作。最初的布尔佐格入职培训包括，解决冲突和由罗森博格元帅开发的[非暴力沟通](https://en.wikipedia.org/wiki/Nonviolent_Communication)技巧。冲突是在团队内部协同解决的。例如，当一个人失去了团队的信任时，团队会先尝试找到一个双方都认同的解决方案。如果这不起作用，该组织将召集其区域教练或外部调解人进行调解。几乎在所有情况下，调解人的出现都会带来解决办法。在某些情况下，个人和团队达成一些共同的承诺，然后再给一次尝试机会。在另一些情况下，经过深思熟虑后，这个人会发现，信任已被不可挽回地打破，并明白是急流勇退的时候了。如果无法达成一致，作为解决问题的最后机会，团队成员可以请创始人乔斯德布洛克进行调解。在极少数情况下，即使这个调节也会失败，这时团队就可以要求发起人终止合同这个人的合同（法律上，发起人是唯一有权这样做的人）。
   - topic: Environmental and Social Management
     title: At Buurtzorg, social initiatives emerge from the interaction with the
       communities they serve.
