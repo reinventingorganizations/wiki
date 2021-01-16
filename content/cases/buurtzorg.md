@@ -155,19 +155,12 @@ theory:
       该组织规定，每个团队必须根据团队内部自行开发的能力模型，进行年度评估。每个团队都可以自由选择独特的反馈形式。例如，一个团队决定三人一组给出反馈。每个人都为另外两个人准备自我评估和反馈。这个过程允许人们根据同事的观点来衡量自己的自我认知。^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 126].
   - topic: Strategy
     title: 员工拥有权责进行自我管理，并在需要时自行做出改变。
-    content: "Two nurses on a Buurtzorg team found themselves pondering the fact
-      that elderly people, when they fall, often break their hips. Hip
-      replacements are routine surgery, but patients don’t always recover the
-      same autonomy. Could Buurtzorg play a role in preventing its older
-      patients from falling down? The two nurses experimented and created a
-      partnership with a physiotherapist and an occupational therapist from
-      their neighborhood. They advised patients on small changes they could
-      bring to their home interiors, and changes of habits that would minimize
-      risks of falling down. Other teams showed interest, and the approach, now
-      called Buurtzorg +, has spread throughout the country.^[Laloux, Frederic
-      (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations
-      Inspired by the Next Stage of Human Consciousness (Kindle Locations
-      4396-4401). Nelson Parker. Kindle Edition.]"
+    content: "布尔佐格团队中的两名护士发现自己在思考这样一个事实：老年人跌倒时，臀部经常骨折。髋关节置换术是常规手术，但患者并不总能恢复同样的自主性。布\
+      尔佐格能否在防止老年患者跌倒方面发挥作用？这两名护士进行了实验，并与附近的一名理疗师和一名职业治疗师建立了合作关系。他们向病人提出建议，令其在家里\
+      做些小的改变，调整生活习惯，尽量减少摔倒的风险。其他团队也对此举措表现出了兴趣，于是这种方法现在被称为布尔佐格+，已经推广到全国的网点。^\\[L\
+      aloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to
+      Creating Organizations Inspired by the Next Stage of Human Consciousness
+      (Kindle Locations 4396-4401). Nelson Parker. Kindle Edition.]"
   - topic: Innovation and Product Development
     title: Buurtzorg develops a new boarding house to support overwhelmed relatives
       of their patients.
