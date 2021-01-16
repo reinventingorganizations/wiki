@@ -61,28 +61,28 @@ theory:
       #### 团队决策流程
 
 
-      [布尔佐格](https://www.buurtzorgnederland.com/)团队使用非常有效的方法解决问题并进行[决策](../decision-making/). They first choose a facilitator. The facilitator is not allowed to make any statements, suggestions, or decisions; she can only ask questions: “What is your proposal?” Or “What is the rationale for your proposal?”. All responses are listed on a flipchart.
+      [布尔佐格](https://www.buurtzorgnederland.com/)团队使用非常有效的方法解决问题并进行[决策](../decision-making/). 。他们首先选择一位主持人作协导员。不许协导员发表任何陈述、建议或做出任何决定；她只能提出问题：“你的建议是什么？”或者“你这个提议的理由是什么？”。然后将所有答案都列在挂图上。
 
 
-      Then all are reviewed, improved and refined.
+      然后，大家审核、改进并完善所有这些答案。
 
 
-      In a third round, proposals are put up for decision. The basis for decision-making is not consensus. For a solution to be adopted it is enough that nobody has a principled objection. A person cannot veto a decision because she feels another solution (for example, hers!) would have been preferable. The perfect solution that all would embrace wholeheartedly might not exist, and its pursuit could prove exhausting. As long as there is no principled objection, a solution will be adopted, with the understanding that it can be revisited at any time when new information is available.  
+      在第三轮中，提出具体的提议内容以供决策。决策的基础不是共识。要通过某个解决方案，只要没人提出原则性的反对意见就足够了。一个人不能因为感觉到另一个解决方案（例如，她自己的方案）更好，而否决一个决策。让所有人全心全意接受的完美解决方案可能不存在，而且追求这样的全员一致和完美，可能会导致令人筋疲力尽。只要没有原则上的反对意见，就可以通过一个解决方案或决策。但前提基于一个共识：在出现新数据或参考资料时，可以随时重新审议之前的决策（与时俱进）。
 
 
-      If, despite their training and meeting techniques, teams get stuck, they can ask for external facilitation at any time.
+      团队即使都接受过培训、熟知会议技巧，但有时也可能陷入困境。这时他们可以随时要求外部协助。
 
 
-      #### Limiting ‘higher level’ regional coach meetings:
+      #### 尽量减少“高级”区域教练会议：
 
 
-      In many ways it would make good sense for Jos de Blok, CEO of Buurtzorg to meet regularly with the regional coaches: they have great insight into what’s happening in the field. Collectively, they could spot issues and opportunities and determine actions to take.
+      无论如何，布尔佐格首席执行官乔斯德布洛克（josdeblok）定期与高级区域教练会面，还是有意义的：他们对所负责领域发生的事情有着深刻的见解。总体而言，他们能发现各种问题和机会，并有能力做决策让团队采取行动。
 
 
-      But this process would now be like an executive management committee--the opposite of what they want.
+      但这个过程很像一个执行管理委员会（金字塔的自上而下控制）——与他们想要的基层团队自我管理机制背道而驰。
 
 
-      To avoid this, Jos de Block limits his meetings with the coaches to quarterly.
+      为了避免这种情况，乔斯德布洛克把他和教练的会面限制在每季度一次。
   - topic: Team and Community Building
     title: At Buurtzorg, all nurses are trained in “Intervisie,” a peer-coaching
       technique that originated in the Netherlands.
