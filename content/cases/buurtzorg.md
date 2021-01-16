@@ -3,28 +3,18 @@ layout: case
 tags: cases
 name: 布尔佐格（Buurtzorg）
 date: 2020-11-17T14:48:06.315Z
-introduction: "**Buurtzorg Nederland** is a Dutch home-care organization which
-  has attracted international attention for its innovative use of independent
-  nurse teams in delivering relatively low-cost care. Buurtzorg is Dutch for
-  “neighborhood care”.
+introduction: >-
+  **布尔佐格**是一家荷兰家庭护理组织，因创新性的使用独立承包的护士团队提供相对低成本的护理而受到国际关注。Buurtzorg是荷兰语中“邻里关怀”的意思。
 
 
-  **History**
+  ##### 历史
 
 
-  It was founded in 2006 in the small city of Almelo by Jos de Blok and a
-  small team of professional nurses who were dissatisfied with the delivery of
-  health care by traditional home care organizations in the Netherlands.
-  According to Sharda S. Nandram, the company has created a new management
-  approach: “integrating simplification,” characterized by a simple, flat
-  organizational structure through which a wide range of services, facilitated
-  by information technology, can be provided.\r
-
-  \r\n"
-industry: Q. Human health and social work activities
-geography: Netherlands
+  2006年由焦斯德布劳克与一小队专业护士在小城阿尔梅洛创立了该组织，理由是他们对荷兰传统的家庭护理组织提供的医疗服务感到不满。据沙尔达·S·南德拉姆称，该公司创造了一种新的管理方法：“整合简化”，其特点是一种简单、扁平的组织结构，这种结构可以通过信息技术的支撑提供广泛的服务（大中台小前端）。
+industry: O.公众行政与社会安全
+geography: 荷兰
 companySize: "> 500"
-profit: non-profit
+profit: 非营利
 theory:
   - topic: Listening to Purpose
     title: Buurtzorg + approach
