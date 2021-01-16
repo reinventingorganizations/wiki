@@ -193,7 +193,7 @@ theory:
 
       在随后的公司静修会上，这个团队向所有同事介绍了自己的理念。不过，这不是强制推广，而是留给各个团队自行决定，如果他们觉得自己也有必要建立寄宿服务，就可以借鉴。布尔佐格内没有任何人站出来推进，甚至创始人乔斯德布洛克也没有以公司的名义打电话说，“是的，这符合布尔佐格的目标，所以我们将创建几十个寄宿服务，我们将分配这个数额的预算”，或者说“不，这不在布尔佐格的目标范围之内。”寄宿制的想法就这样顺其自然。如果这是命中注定的，它将吸引其他护士来繁衍，并将布尔佐格带入一个新的护理领域。否则，这将依然停留在一个小规模实验阶段。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4334-4351). Nelson Parker. Kindle Edition.]
   - topic: Crisis Management
-    title: Joe de Blok averted a cash crunch by asking his nurses to work harder
+    title: 乔德布洛克通过要求他的护士们更加努力地工作，回避了资金危机。
     content: "Buurtzorg faced a crisis in 2010 and mastered it using the advice
       process. The young company was growing at breakneck speed when Jos de Blok
       heard that health insurance companies had threatened to withhold €4
