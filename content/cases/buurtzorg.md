@@ -98,8 +98,7 @@ theory:
 
       比如，关于在一个蔚蓝组织中，如何启动并广泛推广一个倡议。布尔佐格的一个团队最近开发出一个新概念，即为患者提供寄宿服务，为患者的主要护理者提供休息机会。这一概念在公司的一次务虚会上被介绍给所有同事。布尔佐格内没有专人负责刻意呼吁或评估这个新做法是否符合布尔佐格的目标，是否应该分配资源来扩展该计划。这一概念必须自行其是。如果需要扩大规模，这个概念将吸引其他团队的护士，使之有机的得到自动推广。
   - topic: Conflict resolution
-    title: Conflict is handled collaboratively within the team structure, sometimes
-      with the help of a regional coach or mediator.
+    title: 冲突在团队结构内由同事协同处理，但有时会取得区域教练或调解人的帮助。
     content: At Buurtzorg , nurses work in teams of 10 to 12, with each team serving
       around 50 patients in a small, well-defined neighborhood. The team is in
       charge of all the tasks that, in similar organisations, are fragmented
