@@ -162,8 +162,7 @@ theory:
       Creating Organizations Inspired by the Next Stage of Human Consciousness
       (Kindle Locations 4396-4401). Nelson Parker. Kindle Edition.]"
   - topic: Innovation and Product Development
-    title: Buurtzorg develops a new boarding house to support overwhelmed relatives
-      of their patients.
+    title: 布尔佐格开发了一个新的寄宿服务项目，目的是支持病人那些压力山大的亲属。
     content: >-
       One team in the countryside had an idea: A boarding house for patients, to
       offer the patient's primary caregiver a break. With most patients,
