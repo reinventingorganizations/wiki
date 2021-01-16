@@ -147,8 +147,7 @@ theory:
     title: 工作指标由团队自行设定。
     content: 在[布尔佐格](http://www.buurtzorgnederland.com/)，团队需要针对自己在客户关怀和质量、培训、组织和其他问题方面采取的举措期待值，制定年度计划。组织还为所有成熟团队设定了一个降低小时收费标准60-65%的目标。
   - topic: Feedback and Performance Management
-    title: Buurtzorg openly compares team results across the organization and has
-      developed a process for giving individual feedback within a team.
+    title: 布尔佐格公开比较整个组织各团队的工作结果，并开发了一个在团队中提供个人反馈的流程。
     content: >-
       Each community nursing team at [Buurtzorg
       ](http://www.buurtzorgnederland.com/)manages its own processes and service
