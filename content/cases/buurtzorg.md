@@ -144,11 +144,8 @@ theory:
     title: 布尔佐格是荷兰一家非营利的社区医疗服务提供商，他们通过10-12人的自我管理团队来创造岗位角色的流动性。
     content: 例如，如果布尔佐格的一位护士的病人突然需要更多的护理，她可能会要求其他同事接替她目前兼任的团队规划师角色。一些护士可能某段时间，会为团队承担超过平均分担的管理任务，而在其他时间段，相反可能承担少于平均分担的管理任务。团队在任何时候都会小心地将管理任务分散在不同成员那里。这是为了避免一种有些团队经历过的风险，当太多的管理角色被委派给单个团队成员时，（因其重要性增加而导致）层级结构的重新出现。
   - topic: Objectives and Target Setting
-    title: Teams set their own objectives.
-    content: In [Buurtzorg](http://www.buurtzorgnederland.com/), teams are required
-      to make yearly plans for initiatives they want to take in the areas of
-      client care and quality, training, organization, and other issues. All
-      mature teams have a target for billable hours of 60 -65 percent.
+    title: 工作指标由团队自行设定。
+    content: 在[布尔佐格](http://www.buurtzorgnederland.com/)，团队需要针对自己在客户关怀和质量、培训、组织和其他问题方面采取的举措期待值，制定年度计划。组织还为所有成熟团队设定了一个降低小时收费标准60-65%的目标。
   - topic: Feedback and Performance Management
     title: Buurtzorg openly compares team results across the organization and has
       developed a process for giving individual feedback within a team.
