@@ -181,48 +181,17 @@ theory:
       oux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 203]"
   - topic: Change Management
     title: 在布尔佐格，变化会道法自然的有机发生。
-    content: "Buurtzorg was created not only out of frustration with the way
-      neighborhood nursing companies in the Netherlands had fragmented a noble
-      profession into a series of senseless tasks. It also grew out of a new,
-      and broader perspective of neighborhood care. The purpose of care is not
-      to inject medication or change a bandage; it is to help people have rich,
-      meaningful, and autonomous lives, to whatever degree that is possible.
-      Within this broad definition, Buurtzorg keeps evolving, keeps moving to
-      where it feels called.\r
+    content: >-
+      布尔佐格的创立，不仅仅是因为不满于现状而尝试做些什么：荷兰的社区护理公司将一个高尚的职业，分割成一系列毫无意义的任务。它也产生于一种崭新的、更广泛视角的邻里关怀。护理的目的不只是注射药物或更换绷带，而是尽可能帮助人们拥有更丰富、有意义和自主的生活。在这个宽泛的定义中，布尔佐格在不断进化，不断朝向自己感觉到使命呼唤的方向进发。
 
-      \r
 
-      Not too long ago, for instance, one team in the countryside
-      developed a new concept: a boarding house for patients, to offer the
-      patient’s primary caregiver a break. With most patients, Buurtzorg
-      provides medical care, but someone else — often the patient’s husband or
-      wife, sometimes a patient’s child — is really the primary caregiver. It is
-      not unusual for the husband or wife, often elderly as well, to be
-      exhausted by the constant patient needs, sometimes 24 hours a day. If the
-      strain becomes too much, the caregiver can fall sick too. Wouldn’t it be
-      wonderful, one team of nurses thought, if we could have a place where we
-      could take in our patients for a day or two, or even a week— a sort of bed
-      and breakfast and lunch and dinner and care — so that their primary
-      caretaker could take a break and rest? One of the nurses had inherited a
-      small farmhouse in the countryside. Together, the team transformed it into
-      a Buurtzorg boarding house.\r
+      例如，不久前，一个在乡村的护理小组想出了一个主意：为病人提供一个寄宿服务，让病人的主要护理家属能休息一下。对于大多数病人而言，只负责提供医疗服务，但其他人——通常是患者的丈夫或妻子，有时是患者的子女——是实际上的主要看护人。丈夫或妻子，通常也是老年人，由于病人的持续护理而精疲力尽，有时一天劳动24小时也并不罕见。如果压力过大，护理者也会生病。
 
-      \r
 
-      At a subsequent company retreat, the team presented its concept to
-      all of its colleagues. However it was left up to them to decide if they
-      felt called to create their own boarding houses. No one at Buurtzorg, not
-      even Jos de Blok, the founder, made the call in the name of the company to
-      say, “Yes, this fits Buurtzorg’s purpose, so we will create dozens of
-      boarding houses and here is the budget we will allocate,” or “No, this is
-      not within the scope of Buurtzorg. Let’s not pursue this.” The idea of
-      boarding houses was left to run its own course. If it was meant to be, it
-      would attract nurses to make it happen and carry Buurtzorg into a new
-      dimension of care. Otherwise, it would remain a small-scale
-      experiment.^[Laloux, Frederic (2014-02-09). Reinventing Organizations: A
-      Guide to Creating Organizations Inspired by the Next Stage of Human
-      Consciousness (Kindle Locations 4334-4351). Nelson Parker. Kindle
-      Edition.]"
+      一群护士想到，如果我们能有一个地方让病人住上一两天，甚至一个星期——一种床、早餐、午餐、晚餐和看护组成的服务——这样他们的主要看护人就可以休息一下，那岂不是太好了？一个护士继承了农村的一个小农舍。团队一起把它改造成了布尔佐格的寄宿服务房。
+
+
+      在随后的公司静修会上，这个团队向所有同事介绍了自己的理念。不过，这不是强制推广，而是留给各个团队自行决定，如果他们觉得自己也有必要建立寄宿服务，就可以借鉴。布尔佐格内没有任何人站出来推进，甚至创始人乔斯德布洛克也没有以公司的名义打电话说，“是的，这符合布尔佐格的目标，所以我们将创建几十个寄宿服务，我们将分配这个数额的预算”，或者说“不，这不在布尔佐格的目标范围之内。”寄宿制的想法就这样顺其自然。如果这是命中注定的，它将吸引其他护士来繁衍，并将布尔佐格带入一个新的护理领域。否则，这将依然停留在一个小规模实验阶段。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4334-4351). Nelson Parker. Kindle Edition.]
   - topic: Crisis Management
     title: Joe de Blok averted a cash crunch by asking his nurses to work harder
     content: "Buurtzorg faced a crisis in 2010 and mastered it using the advice
