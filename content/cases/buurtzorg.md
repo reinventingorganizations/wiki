@@ -99,12 +99,7 @@ theory:
       比如，关于在一个蔚蓝组织中，如何启动并广泛推广一个倡议。布尔佐格的一个团队最近开发出一个新概念，即为患者提供寄宿服务，为患者的主要护理者提供休息机会。这一概念在公司的一次务虚会上被介绍给所有同事。布尔佐格内没有专人负责刻意呼吁或评估这个新做法是否符合布尔佐格的目标，是否应该分配资源来扩展该计划。这一概念必须自行其是。如果需要扩大规模，这个概念将吸引其他团队的护士，使之有机的得到自动推广。
   - topic: Conflict resolution
     title: 冲突在团队结构内由同事协同处理，但有时会取得区域教练或调解人的帮助。
-    content: At Buurtzorg , nurses work in teams of 10 to 12, with each team serving
-      around 50 patients in a small, well-defined neighborhood. The team is in
-      charge of all the tasks that, in similar organisations, are fragmented
-      across different departments. The initial Buurtzorg training includes
-      techniques for conflict resolution and [Nonviolent
-      Communication](https://en.wikipedia.org/wiki/Nonviolent_Communication)
+    content: 在布尔佐格，护士分成10到12人的小组，每个小组在一个明确的小社区为大约50名患者提供服务。团队负责完成在类似传统组织中通常分散在不同职能部门的所有行政工作。最初的布尔佐格入职培训包括，解决冲突和由罗森博格元帅开发的[非暴力沟通](https://en.wikipedia.org/wiki/Nonviolent_Communication)
       developed by Marshal Rosenberg. Conflicts are worked out collaboratively
       within the team. For instance, when one person has lost the trust of the
       team, the team tries to find a mutually agreeable solution. If that
