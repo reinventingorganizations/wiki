@@ -17,28 +17,12 @@ companySize: "> 500"
 profit: 非营利
 theory:
   - topic: Listening to Purpose
-    title: Buurtzorg + approach
-    content: "Two nurses on a Buurtzorg team found themselves pondering the fact
-      that elderly people, when they fall, often break their hips. Hip
-      replacements are routine surgery, but patients don’t always recover the
-      same autonomy. Could Buurtzorg play a role in preventing its older
-      patients from falling down? The two nurses experimented and created a
-      partnership with a physiotherapist and an occupational therapist from
-      their neighborhood. They advised patients on small changes they could
-      bring to their home interiors, and changes of habits that would minimize
-      risks of falling down. Other teams showed interest, and the approach, now
-      called Buurtzorg +, has spread throughout the country.\r
+    title: “布尔佐格＋”方式
+    content: >-
+      布尔佐格团队中的两名护士发现自己在思考这样一个事实：老年人跌倒时，臀部经常骨折。虽然髋关节置换术是个常规手术，但患者并不是总可以恢复同样的自主性。布尔佐格能否在防止老年患者跌倒方面发挥作用？这两名护士进行了实验，并与附近的一名理疗师和一名职业治疗师建立了合作关系。他们开始给病人提出建议，在家里做些小的改变，尝试改变生活习惯，尽量减少摔倒的风险。其他团队也对此很感兴趣，于是这种方法现在被称为布尔佐格+，已经推广及到该组织的全国服务网点。
 
-      \r
 
-      The two nurses sensed a need, and with the power of self-management
-      acted upon it. Self-management helped the idea to spread. Any team
-      interested in Buurtzorg + can sign up for a training event that teaches
-      them the basics of how the concept works and how to create such a
-      partnership in their neighborhood.^[Laloux, Frederic (2014-02-09).
-      Reinventing Organizations: A Guide to Creating Organizations Inspired by
-      the Next Stage of Human Consciousness (Kindle Locations 4396-4406). Nelson
-      Parker. Kindle Edition.]"
+      两个护士感觉到了一种需要，于是活用自我管理的力量，采取了行动。自我管理帮助了这个想法的传播。任何对布尔佐格+感兴趣的团队都可以报名参加培训活动，培训负责向他们传授概念、运作方法、以及如何在各团队的本地社区建立这种合作关系的基本知识。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4396-4406). Nelson Parker. Kindle Edition.]
   - topic: sales-marketing
     title: Has grown from 4 people in 2007 to 10,000 employees in 2016 without using
       any marketing.
