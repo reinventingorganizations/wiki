@@ -154,7 +154,7 @@ theory:
 
       该组织规定，每个团队必须根据团队内部自行开发的能力模型，进行年度评估。每个团队都可以自由选择独特的反馈形式。例如，一个团队决定三人一组给出反馈。每个人都为另外两个人准备自我评估和反馈。这个过程允许人们根据同事的观点来衡量自己的自我认知。^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 126].
   - topic: Strategy
-    title: Employees are empowered to self-manage and make changes when needed.
+    title: 员工拥有权责进行自我管理，并在需要时自行做出改变。
     content: "Two nurses on a Buurtzorg team found themselves pondering the fact
       that elderly people, when they fall, often break their hips. Hip
       replacements are routine surgery, but patients don’t always recover the
