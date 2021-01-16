@@ -194,24 +194,7 @@ theory:
       在随后的公司静修会上，这个团队向所有同事介绍了自己的理念。不过，这不是强制推广，而是留给各个团队自行决定，如果他们觉得自己也有必要建立寄宿服务，就可以借鉴。布尔佐格内没有任何人站出来推进，甚至创始人乔斯德布洛克也没有以公司的名义打电话说，“是的，这符合布尔佐格的目标，所以我们将创建几十个寄宿服务，我们将分配这个数额的预算”，或者说“不，这不在布尔佐格的目标范围之内。”寄宿制的想法就这样顺其自然。如果这是命中注定的，它将吸引其他护士来繁衍，并将布尔佐格带入一个新的护理领域。否则，这将依然停留在一个小规模实验阶段。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4334-4351). Nelson Parker. Kindle Edition.]
   - topic: Crisis Management
     title: 乔德布洛克通过要求他的护士们更加努力地工作，回避了资金危机。
-    content: "Buurtzorg faced a crisis in 2010 and mastered it using the advice
-      process. The young company was growing at breakneck speed when Jos de Blok
-      heard that health insurance companies had threatened to withhold €4
-      million in payments to Buurtzorg, citing technical reasons (the more
-      likely reason: the insurance companies wanted to signal to Buurtzorg that
-      it was growing too fast at the expense of established providers). A cash
-      crunch loomed. Jos de Blok wrote an internal blog post to the nurses
-      exposing the problem. He put forward two solutions: either Buurtzorg could
-      temporarily stop growing (new teams cost money at first) or nurses could
-      commit to increasing productivity (increasing client work within the
-      contract hours). In the blog comments, nurses overwhelmingly chose to work
-      harder because they didn’t like the alternative: slower growth would have
-      meant saying no to clients and nurses wanting to join Buurtzorg. In a
-      matter of a day or two, a solution to the cash problem was found (and
-      after some time, the insurance companies eventually disbursed the withheld
-      funds).\r
-
-      \r\n"
+    content: 布尔佐格在2010年曾面临一场危机，并通过建议流程解决了。乔斯德布洛克收到健康保险公司的通知，他们以技术原因（更可能的原因是：保险公司想向布尔佐格发出信号，警告说他们增长太快，牺牲了现有传统供应商的利益）为由，威胁要扣留需要支付给布尔佐格的400万欧元。当时这家年轻的公司正以惊人的速度发展。现金短缺迫在眉睫。乔斯德布洛克给护士们写了一篇内部博客，抛出了这个难题。他提出了两种解决方案：要么布尔佐格决定暂时停止增长（因为新建团队首先需要花钱），要么请护士们致力于提高生产力（在合同时间内增加客户服务工作量）。在博客评论中，绝大多数护士选择更加努力工作，因为他们不喜欢另一种选择：增长放缓意味着对想加入布尔佐格的客户和护士说不。短短一两天，现金问题就找到了解决办法（一段时间后，保险公司最终拨付了代扣的资金）。
   - title: A vast organization run almost entirely with small, independent teams
     topic: Self-Management
     content: "Within Buurtzorg (which means “neighborhood care” in Dutch), nurses
