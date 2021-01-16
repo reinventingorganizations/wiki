@@ -137,15 +137,9 @@ theory:
 
       护士能够处理各种设备和技术的消息传开后，激发了医生的积极性，他们开始积极开发出改善患者生活的治疗方法——比如说，为慢性疼痛患者提供药物泵——这些都超出了传统护理组织能处理的标准极限。
   - topic: Commitment, Working Hours and Flexibility
-    title: At Buurtzorg, the structure of small, self-managing teams helps in
-      providing flexibility.
-    content: "If a nurse wants to reduce her working hours, perhaps because she has
-      a sick parent to take care of for instance, the team will re-shuffle
-      existing clients and temporarily take in fewer new clients. The nurse will
-      discuss her other commitments with her team and together they will find a
-      solution such as temporarily taking on fewer new clients or moving the
-      care of a patient to another nurse or team if needed^[Laloux, Frederic.
-      Reinventing Organizations. Nelson Parker (2014), page 183].\r"
+    title: 在布尔佐格，小型的自我管理团队结构有助于支撑灵活性。
+    content: 如果一个护士想减少工作时间，比如可能是因为她有一个生病的父母要照顾。这时，团队可能会重新洗牌现有的客户，或决定暂时减少接受新客户的数量。这位护士可以与团队共同讨论她的（工作之外人生的）其他承诺，他们会一起找到解决方案，例如暂时减少新客户，或者在必要时将一些患者的护理任务转移到另一个护士或团队。^\[Laloux,
+      Frederic. Reinventing Organizations. Nelson Parker (2014), page 183].
   - topic: Job Titles and Job Descriptions
     title: Buurtzorg  is a not for profit provider of community healthcare in
       Holland, they create fluidity in roles through their 10 - 12 member self
