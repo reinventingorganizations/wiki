@@ -164,20 +164,13 @@ theory:
   - topic: Innovation and Product Development
     title: 布尔佐格开发了一个新的寄宿服务项目，目的是支持病人那些压力山大的亲属。
     content: >-
-      One team in the countryside had an idea: A boarding house for patients, to
-      offer the patient's primary caregiver a break. With most patients,
-      [Buurtzorg](http://www.buurtzorgnederland.com/) provides medical care, but
-      someone else - often the patient's husband or wife, sometimes a patient's
-      child - is really the primary caretaker. It is not unusual for the husband
-      or wife, often elderly as well, to be exhausted by the constant care of
-      the patient, sometimes 24 hours a day. If the strain becomes too much, the
-      caregiver can fall sick too.
+      一个在乡村的护理小组想出了一个主意：为病人提供一个寄宿服务，让病人的主要护理家属能休息一下。对于大多数病人而言，[布尔佐格](http://www.buurtzorgnederland.com/)只负责提供医疗服务，但其他人——通常是患者的丈夫或妻子，有时是患者的子女——是实际上的主要看护人。丈夫或妻子，通常也是老年人，由于病人的持续护理而精疲力尽，有时一天劳动24小时也并不罕见。如果压力过大，护理者也会生病。
 
 
-      *Wouldn't it be wonderful*, one team of nurses thought, *if we could have a place where we could take in our patients for a day or two, or even a week - a sort of bed and breakfast and lunch and dinner and care - so that their primary caretaker could take a break and rest?* One of the nurses had inherited a small farmhouse in the countryside. Together, the team transformed it into a Buurtzorg boarding house.
+      一群护士想到，如果我们能有一个地方让病人住上一两天，甚至一个星期——一种床、早餐、午餐、晚餐和看护组成的服务——这样他们的主要看护人就可以休息一下，那岂不是太好了？一个护士继承了农村的一个小农舍。团队一起把它改造成了布尔佐格的寄宿服务房。
 
 
-      The idea of boarding houses will run its own course. If it is meant to be, if it has enough life force, it will attract nurses from other teams to make it happen and carry Buurtzorg into a new dimension of care. Otherwise, it will remain a small scale experiment^[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 200]
+      寄宿服务的想法会道法自然（或繁衍或消亡）。如果这是注定由需要的，如果它有足够的生命力，它将吸引其他团队的护士而繁衍，并将布尔佐格带入一个新的护理领域。否则，它将仍然停留在一个小规模实验的状态。^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 200]
   - topic: Innovation and Product Development
     title: Buurtzorg develops a new service concept, Buurtzorg+, to improve injury
       prevention.
