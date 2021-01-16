@@ -110,16 +110,16 @@ theory:
   - topic: Training and Coaching
     title: 在布尔佐格，所有护士都接受“介入”技巧培训，这是一种源自荷兰的同事辅导技术。
     content: >-
-      **Peer Coaching**
+      ##### 同侪辅导
 
 
-      A nurse wrestling with a question can ask her colleagues for help in a group coaching session. *How should she deal with a client who refuses to take life-* saving medication? *How can she help an elderly patient accept help from his children? How to say "No" to clients, to protect herself from burnout?*
+      与问题搏斗的护士可以向团队的同事寻求帮助。她应该如何处理拒绝服用救命药的病人？她怎样才能帮助一个老年病人接受其子女的帮助？如何对客户说“不”，以保护自己免于过劳？
 
 
-      Some Buurtzorg teams allocate an hour for peer coaching every month; others convene whenever a team member requests it.
+      布尔佐格的一些团队每月分配一个小时进行固定的同侪辅导；其他团队则在团队成员要求时随时召集这样的辅导会议。
 
 
-      “Intervisie,” the process used at Buurtzorg, follows a strict format with ground rules to prevent the group from administering simplistic advice, admonitions, or reassurances to each other. During the core process, members must ask only open-ended questions. This way they become fellow travelers into the mystery of the issue the person is dealing with. A safe space emerges that invites deep listening, authenticity, and vulnerability - the necessary ingredients for inner truth to emerge. The goal is for the nurse to see the problem in a new light and discover her own solutions. It is at once a simple and beautiful process.
+      布尔佐格使用的“介入”流程遵循严格的格式和基本规则，以防止团队相互提供过于简单的建议、告诫或保证。这个流程的核心，要求成员只提出开放式问题。这样，他们就成了旅伴，陪伴这个人进入正在处理的难题的奥秘之中。这时出现了一个安全的空间，能邀请深入倾听人性的真实性和脆弱性--这些是揭示内在真理的必要条件。目标是让有问题的护士从新的角度看待问题，并自主找到自己的解决方案。这是一个简单而美丽的过程。
   - topic: Training and Coaching
     title: At Buurtzorg the principle emerged that teams can spend a certain amount
       on training without needing to consult.
