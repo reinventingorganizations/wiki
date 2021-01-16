@@ -172,8 +172,7 @@ theory:
 
       寄宿服务的想法会道法自然（或繁衍或消亡）。如果这是注定由需要的，如果它有足够的生命力，它将吸引其他团队的护士而繁衍，并将布尔佐格带入一个新的护理领域。否则，它将仍然停留在一个小规模实验的状态。^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 200]
   - topic: Innovation and Product Development
-    title: Buurtzorg develops a new service concept, Buurtzorg+, to improve injury
-      prevention.
+    title: 布尔佐格开发了一个叫做布尔佐格+的新服务概念，目的是促进病人预防伤害事故。
     content: Two nurses on a [Buurtzorg](https://www.buurtzorgnederland.com/) team
       found themselves pondering the fact that elderly people, when they fall,
       often break their hips. Hip replacements are routine surgery, but patients
