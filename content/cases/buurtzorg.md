@@ -91,9 +91,7 @@ theory:
 
       如果一名护士正在与某个问题搏斗，就可以请求团队中的同事帮她解决问题。她应该如何处理拒绝服用救命药的客户？她怎样才能帮助一个老年病人接受其子女的帮助？如何对客户说“不”以便保护自己不至于过劳？通常，当护士在这些问题中挣扎的时候，是因为这个问题引出了一个，她还没有解决好的更深层面的个人心理问题。在这些情况下，同侪辅导会有所帮助。一些[布尔佐格](http://www.buurtzorgnederland.com/)有些团队每月安排一个小时，专门进行同侪辅导；其他团队则在团队成员有要求时召集这类会议。“介入”是布尔佐格采用的流程，它遵循严格的格式和基本规则，以防止团队陷入常见的肤浅建议、告诫或无力的安抚鸡汤陷阱。规定在这个流程的大部分时间里，团队成员只能问开放式的问题；他们致力于成为旅伴，深入到这个人正在处理的问题之奥秘中。一个安全安心的空间被创造了出来，在这里能邀请更深层次的倾听，接触到人性的真实性和脆弱性-这些都是内在真相浮现出来的必要条件。目标是让护士从新的角度看待问题，并自主找到自己的解决方案。这是一个简单而美丽的过程。对许多人来说，被一群人敬重而富有同情心的“牵着走”是一种新的、难忘的经历。
   - topic: Coordination
-    title: At Buurtzorg where 9000 nurses are scattered over the country, the
-      internal social network ‘BuurtzorgWeb’ plays a critical role in knowledge
-      sharing
+    title: 布尔佐格的9000名护士分散在全国各地，内部社交网络“布尔佐格网”在知识共享方面发挥着关键作用。
     content: >-
       At [Buurtzorg](http://www.buurtzorgnederland.com/), the company’s internal
       social network, “BuurtzorgWeb” plays a key role in the sharing of
