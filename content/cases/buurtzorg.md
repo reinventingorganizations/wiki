@@ -149,15 +149,10 @@ theory:
   - topic: Feedback and Performance Management
     title: 布尔佐格公开比较整个组织各团队的工作结果，并开发了一个在团队中提供个人反馈的流程。
     content: >-
-      Each community nursing team at [Buurtzorg
-      ](http://www.buurtzorgnederland.com/)manages its own processes and service
-      delivery. These are shared so that others can adopt developments and good
-      practice if they choose. Team performance is shared openly, making very
-      apparent which teams are at the bottom of the list. Teams are motivated to
-      improve their performance out of pride, not shame.
+      [布尔佐格](http://www.buurtzorgnederland.com/)的每个社区护理团队都全权负责管理自己的流程和服务交付。这些都是共享的，以便其他人可以借鉴其他团队的先进和良好做法，但前提是他们自愿选择借鉴。团队绩效是公开分享的，哪些团队位于列表的末尾，非常明显。团队得到激励，主动提高自己的表现，主要是出于荣誉感、而不是羞耻。
 
 
-      All the organization stipulates is that each team must hold annual appraisals based on a competency model that the team has developed. Each team chooses its own format to give feedback. One team decided, for example, to give feedback in groups of three. Everyone prepares their self-evaluation and feedback for the other two. The process allows people to gauge their self-perception against the views of their colleagues\[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 126].
+      该组织规定，每个团队必须根据团队内部自行开发的能力模型，进行年度评估。每个团队都可以自由选择独特的反馈形式。例如，一个团队决定三人一组给出反馈。每个人都为另外两个人准备自我评估和反馈。这个过程允许人们根据同事的观点来衡量自己的自我认知。^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 126].
   - topic: Strategy
     title: Employees are empowered to self-manage and make changes when needed.
     content: "Two nurses on a Buurtzorg team found themselves pondering the fact
