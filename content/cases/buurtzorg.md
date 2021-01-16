@@ -32,57 +32,26 @@ theory:
       发起人焦斯德布劳克说，“我们相信这种做法将创造更好的结果。我们不会使用任何营销手段，而是通过人们对我们的服务满意时，产生的口碑得到免费宣传。”。目前，布尔佐格的努力聚焦在：与患者、与各种不同利益相关者、以及其他对他们的服务有天然兴趣的人，建立密切而真实的关系。组织的成功，还包括与媒体和报纸的积极沟通努力，让他们对我们多年良好口碑产生的兴趣。”现在，布尔佐格的品牌，已经与一些“良善”能量联系在一起了，所以现在对我们来说，一切都变得更容易了。”
   - topic: Organizational Structure
     title: 布尔佐格采用基于地理位置的平行团队结构和团队教练等蔚蓝机制。
-    content: "At Buurtzorg, a Dutch neighbourhood nursing organization, nurses work
-      in teams of 10 to 12, with each team serving around 50 patients in a
-      small, well-defined neighbourhood. The team is in charge of all tasks that
-      were previously fragmented across different departments.\r
+    content: >-
+      布尔佐格是一家荷兰社区护理组织，该组织把护士们分成10到12人的小组，每个小组在一个明确的小规模社区，为大约50名病人服务。团队负责以前传统公司曾分散在各种不同部门的所有任务。（微型公司）
 
-      \r
 
-      Each team has a coach. The coach has no decision-making power and
-      works with 40 to 50 teams at a time, making sure that no one team becomes
-      overly dependent on the coach. The coach's role is to ask insightful
-      questions that help teams find their own solutions.\r
+      每个队都有一个教练。教练没有决策权，同时负责与40到50各团队合作，这时为了确保没有一各团队会因为频繁接触而过度依赖教练。教练的职责是提出有见地的问题，帮助团队自主的找到自己的解决方案。
 
-      \r
 
-      The team is responsible for doing the intake, planning, vacation
-      scheduling as well as administration. They even decide where to rent an
-      office and how to decorate it. There is no leader within the team;
-      important decisions are made collectively.\r
+      团队主权负责自己的招聘、业务计划、假期安排以及行政管理。他们甚至可以决定在哪里租办公室以及如何装修。团队中没有领导者；重要的决策都是通过建议流程集体做出的。
 
-      \r
 
-      Because of this, a problem-solving culture thrives. Nurses can't
-      offload difficult decisions to a boss and when things get tense,
-      stressful, or unpleasant, there is no boss and no structure to blame The
-      team knows they have all the power and latitude to solve their own
-      problems.\r
+      正因为如此，促进了自主解决问题的文化蓬勃发展。护士再也无法把艰难的决策推给老板，当事情变得紧张、亚历山大或不愉快时，没有老板和金字塔结构可以拿来依靠或责怪，团队知道自己拥有所有的权力和自由以及责任、来解决自己的问题。
 
-      \r
 
-      The teams of nurses aren't simply empowered by their hierarchy. They
-      are truly powerful because there is no hierarchy that has decision-making
-      power over them. Each team is also responsible for their own recruitment.
-      Because the team members make hiring decisions themselves, they are
-      emotionally invested in making the recruit successful.\r
+      护士团队并不是简单通过等级制度来授权。他们之所以真正强大，是因为没有任何等级制度对他们拥有控制和决策权。每个团队都要负责自己的招聘。因为团队成员自己有招聘决策权，所以会在情感上投入精力，致力于让招聘成功。
 
-      \r
 
-      The absence of rules and procedures imposed by headquarters staff
-      functions creates a huge sense of freedom and responsibility throughout
-      the organization.\r
+      不存在总部管理职能来制定各种控制性规则和程序，这给整个组织带来了巨大的自由感和责任感。
 
-      \r
 
-      The results achieved by Buurtzorg speak for themselves. A 2009 Ernst
-      & Young study found that Buurtzorg requires, on average, close to 40
-      percent fewer hours of care per client than other nursing organizations.
-      This is despite the fact that nurses in Buurtzorg take time for coffee and
-      talk with patients, their families, and neighbors, while other nursing
-      organizations have come to tightly allocate the time allowed for almost
-      every service. . At Buurtzorg, patients stay in care only half as long,
-      heal faster, and become more autonomous."
+      布尔佐格取得的成果不言自明。安永（Ernst&Young）2009年的一项研究发现，与其他护理机构相比，布尔佐格对每位客户的平均护理时间较少了近40%。布尔佐格的护士们会抽出时间喝咖啡，和病人、他们的家人邻居交谈，而其他的对比护理机构则会严格的规定每个护士的各项服务时间（计费）。在布尔佐格，病人的入院时间只有原来的一半，痊愈更快，病人的自主性更强。
   - topic: Information Flow
     title: Uses information structure and transparency to provide the best service
       to the customers
