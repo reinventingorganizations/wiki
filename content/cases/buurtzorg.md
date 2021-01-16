@@ -93,17 +93,10 @@ theory:
   - topic: Coordination
     title: 布尔佐格的9000名护士分散在全国各地，内部社交网络“布尔佐格网”在知识共享方面发挥着关键作用。
     content: >-
-      At [Buurtzorg](http://www.buurtzorgnederland.com/), the company’s internal
-      social network, “BuurtzorgWeb” plays a key role in the sharing of
-      knowledge. When there is vast knowledge spread throughout the organization
-      - the trick can be finding it. With BuurtzorgWeb, nurses can easily locate
-      and contact a colleague with a specific expertise. Questions can be posted
-      online in a continuous stream, similar to Facebook. Due to the high
-      engagement level on the platform, each question is seen by thousands of
-      colleagues in a few hours and attracts one or several responses.
+      在[布尔佐格](http://www.buurtzorgnederland.com/)，公司内部社交网络“布尔佐格网”在知识共享方面发挥着关键作用。当知识在整个组织中广泛传播时，关键在于如何能迅速找到有用的信息。通过布尔佐格网，护士可以轻松找到并联系到具有特定专业知识的同事。待决问题可以在网上连续发布，类似于脸书。由于平台的参与度很高，每个问题求助贴都会在几个小时内被成千上万的同事看到，并吸引一个或几个人回答（集体智慧）。
 
 
-      In an example of how an initiative might scale in a Teal organization, a Buurtzorg team in the countryside recently developed a new concept - a boarding house for patients, to offer the patient’s primary caregiver a break. This concept was presented to all colleagues at a company retreat. Nobody at Buurtzorg made the call that this fit or did not fit Buurtzorg’s purpose or that resources should be allocated to scale the initiative. The concept will have to run its own course. If it is meant to scale, it will attract nurses in other teams to make it happen organically.
+      比如，关于在一个蔚蓝组织中，如何启动并广泛推广一个倡议。布尔佐格的一个团队最近开发出一个新概念，即为患者提供寄宿服务，为患者的主要护理者提供休息机会。这一概念在公司的一次务虚会上被介绍给所有同事。布尔佐格内没有专人负责刻意呼吁或评估这个新做法是否符合布尔佐格的目标，是否应该分配资源来扩展该计划。这一概念必须自行其是。如果需要扩大规模，这个概念将吸引其他团队的护士，使之有机的得到自动推广。
   - topic: Conflict resolution
     title: Conflict is handled collaboratively within the team structure, sometimes
       with the help of a regional coach or mediator.
