@@ -84,8 +84,7 @@ theory:
 
       为了避免这种情况，乔斯德布洛克把他和教练的会面限制在每季度一次。
   - topic: Team and Community Building
-    title: At Buurtzorg, all nurses are trained in “Intervisie,” a peer-coaching
-      technique that originated in the Netherlands.
+    title: 在布尔佐格，所有护士都接受“介入”技巧培训，这是一种源自荷兰的同事辅导技术。
     content: >-
       **Example for Peer coaching**
 
