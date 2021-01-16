@@ -108,8 +108,7 @@ theory:
 
       这类团队也扩展到了青年工作团队。2012年，“布尔年轻人”的最初两个团队开始为被遗弃或犯罪儿童提供帮助。在这个项目中，社会工作者、教育工作者和护士，进入儿童的家里，与儿童及其家人协同工作，并与警察、学校和家庭医生合作。传统上提供社会服务的做法是支离破碎而昂贵的，他们希望能够克服这些弊端。 ^\[Source: Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 207]
   - topic: Training and Coaching
-    title: At Buurtzorg, all nurses are trained in “Intervisie,” a peer-coaching
-      technique that originated in the Netherlands.
+    title: 在布尔佐格，所有护士都接受“介入”技巧培训，这是一种源自荷兰的同事辅导技术。
     content: >-
       **Peer Coaching**
 
