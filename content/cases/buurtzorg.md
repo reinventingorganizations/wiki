@@ -86,10 +86,15 @@ theory:
   - topic: Team and Community Building
     title: 在布尔佐格，所有护士都接受“介入”技巧培训，这是一种源自荷兰的同事辅导技术。
     content: >-
-      **Example for Peer coaching**
+      同事辅导案例
 
 
-      A nurse that wrestles with a certain question can ask colleagues on her team to help her sort it out in a group coaching session. How should she deal with a client that refuses to take lifesaving medication? How can she help an elderly patient accept help from his children? How to say no to clients to protect herself from burnout? Often, when a nurse struggles with one of these matters, it is because the question brings up a broader personal issue she hasn’t worked through. In these cases, a peer coaching session can help. Some [Buurtzorg ](http://www.buurtzorgnederland.com/)teams allot an hour for peer coaching every month; other teams convene when a team member requests it. “Intervisie”, the process used at Buurtzorg, follows a strict format and ground rules to prevent the group from administering the all-too-common medicine of advice, admonitions, or reassurance. During most of the process, team members can ask only open-ended questions; they become fellow travelers into the mystery of the issue the person is dealing with. A safe space is created that invites deep listening, authenticity, and vulnerability - the necessary ingredients for inner truth to emerge. The goal is for the nurse to see the problem in a new light and discover her own solutions. It is at once a simple and beautiful process. Being respectfully and compassionately “held” by a group is for many people a new and unforgettable experience.
+      如果一名护士正在与某个问题搏斗，就可以请求团队中的同事帮她解决问题。她应该如何处理拒绝服用救命药的客户？她怎样才能帮助一个老年病人接受其子女的帮助？如何对客户说“不”以便保护自己不至于过劳？通常，当护士在这些问题中挣扎的时候，是因为这个问题引出了一个，她还没有解决好的更深层面的个人心理问题。在这些情况下，同侪辅导会有所帮助。一些[布尔佐格](http://www.buurtzorgnederland.com/)
+
+
+
+
+      eams allot an hour for peer coaching every month; other teams convene when a team member requests it. “Intervisie”, the process used at Buurtzorg, follows a strict format and ground rules to prevent the group from administering the all-too-common medicine of advice, admonitions, or reassurance. During most of the process, team members can ask only open-ended questions; they become fellow travelers into the mystery of the issue the person is dealing with. A safe space is created that invites deep listening, authenticity, and vulnerability - the necessary ingredients for inner truth to emerge. The goal is for the nurse to see the problem in a new light and discover her own solutions. It is at once a simple and beautiful process. Being respectfully and compassionately “held” by a group is for many people a new and unforgettable experience.
   - topic: Coordination
     title: At Buurtzorg where 9000 nurses are scattered over the country, the
       internal social network ‘BuurtzorgWeb’ plays a critical role in knowledge
