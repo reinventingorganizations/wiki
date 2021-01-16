@@ -102,22 +102,11 @@ theory:
     content: 在布尔佐格，护士分成10到12人的小组，每个小组在一个明确的小社区为大约50名患者提供服务。团队负责完成在类似传统组织中通常分散在不同职能部门的所有行政工作。最初的布尔佐格入职培训包括，解决冲突和由罗森博格元帅开发的[非暴力沟通](https://en.wikipedia.org/wiki/Nonviolent_Communication)技巧。冲突是在团队内部协同解决的。例如，当一个人失去了团队的信任时，团队会先尝试找到一个双方都认同的解决方案。如果这不起作用，该组织将召集其区域教练或外部调解人进行调解。几乎在所有情况下，调解人的出现都会带来解决办法。在某些情况下，个人和团队达成一些共同的承诺，然后再给一次尝试机会。在另一些情况下，经过深思熟虑后，这个人会发现，信任已被不可挽回地打破，并明白是急流勇退的时候了。如果无法达成一致，作为解决问题的最后机会，团队成员可以请创始人乔斯德布洛克进行调解。在极少数情况下，即使这个调节也会失败，这时团队就可以要求发起人终止合同这个人的合同（法律上，发起人是唯一有权这样做的人）。
   - topic: Environmental and Social Management
     title: " 在布尔佐格，社会服务项目倡议也来自基层团队与所服务社区的互动过程。"
-    content: "One example is the creation of a unit called “Buurtdienst”
-      (“neighborhood services”), which helps people like Alzheimer’s patients to
-      handle domestic chores. Working with the same structure of small,
-      self-organizing teams as in the nursing division, this project has grown
-      to 750 employees in two years.\r
+    content: >-
+      例如，一个名为“邻里服务”的，目的是帮助像老年痴呆症患者这样的人处理家务的团队的建立。这个团队与护理部门类似，采用小型、自组织团队结构，在两年内已发展到750名员工。
 
-      \r
 
-      The organization was also approached by youth workers. In 2012, the
-      first two teams of “Buurtzorg Jong” (“Buurtzorg Young”) started working
-      with neglected or delinquent children. Social workers, educators and
-      nurses work together with children and their families in their homes, and
-      in collaboration with police, schools, and family doctors. They hope to
-      overcome the fragmented and costly way that social services are
-      traditionally delivered ^[Source: Laloux, Frederic. Reinventing
-      Organizations. Nelson Parker (2014), page 207]"
+      这类团队也扩展到了青年工作团队。2012年，“布尔年轻人”的最初两个团队开始为被遗弃或犯罪儿童提供帮助。在这个项目中，社会工作者、教育工作者和护士，进入儿童的家里，与儿童及其家人协同工作，并与警察、学校和家庭医生合作。传统上提供社会服务的做法是支离破碎而昂贵的，他们希望能够克服这些弊端。 ^\[Source: Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 207]
   - topic: Training and Coaching
     title: At Buurtzorg, all nurses are trained in “Intervisie,” a peer-coaching
       technique that originated in the Netherlands.
