@@ -31,8 +31,7 @@ theory:
 
       发起人焦斯德布劳克说，“我们相信这种做法将创造更好的结果。我们不会使用任何营销手段，而是通过人们对我们的服务满意时，产生的口碑得到免费宣传。”。目前，布尔佐格的努力聚焦在：与患者、与各种不同利益相关者、以及其他对他们的服务有天然兴趣的人，建立密切而真实的关系。组织的成功，还包括与媒体和报纸的积极沟通努力，让他们对我们多年良好口碑产生的兴趣。”现在，布尔佐格的品牌，已经与一些“良善”能量联系在一起了，所以现在对我们来说，一切都变得更容易了。”
   - topic: Organizational Structure
-    title: Buurtzorg uses a geographically-based parallel team structure and team
-      coaches.
+    title: 布尔佐格采用基于地理位置的平行团队结构和团队教练等蔚蓝机制。
     content: "At Buurtzorg, a Dutch neighbourhood nursing organization, nurses work
       in teams of 10 to 12, with each team serving around 50 patients in a
       small, well-defined neighbourhood. The team is in charge of all tasks that
