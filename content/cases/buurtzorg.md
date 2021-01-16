@@ -173,22 +173,12 @@ theory:
       寄宿服务的想法会道法自然（或繁衍或消亡）。如果这是注定由需要的，如果它有足够的生命力，它将吸引其他团队的护士而繁衍，并将布尔佐格带入一个新的护理领域。否则，它将仍然停留在一个小规模实验的状态。^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 200]
   - topic: Innovation and Product Development
     title: 布尔佐格开发了一个叫做布尔佐格+的新服务概念，目的是促进病人预防伤害事故。
-    content: Two nurses on a [Buurtzorg](https://www.buurtzorgnederland.com/) team
-      found themselves pondering the fact that elderly people, when they fall,
-      often break their hips. Hip replacements are routine surgery, but patients
-      don’t always recover the same autonomy. Could Buurtzorg play a role in
-      preventing its older patients from falling down? The two nurses
-      experimented and created a partnership with a physiotherapist and an
-      occupational therapist from their neighborhood. They advised patients on
-      small changes they could bring to their home interiors, and changes of
-      habits that would minimize risks of falling down. Other teams showed
-      interest, and the approach, now called Buurtzorg+, has spread throughout
-      the country. The two nurses sensed a need, and with the power of
-      self-management acted upon it. Self-management helped the idea to spread.
-      Any team interested in Buurtzorg+ can sign up for a training event that
-      teaches them the basics of how the concept works and how to create such a
-      partnership in their neighborhood^\[Laloux, Frederic. Reinventing
-      Organizations. Nelson Parker (2014), page 203]
+    content: "[布尔佐格](https://www.buurtzorgnederland.com/)某团队的两个护士发现自己在思考这样一个事实：老年人跌\
+      倒时，臀部经常骨折。髋关节置换术是常规手术，但患者并不总能恢复同样的自主性。布尔佐格能否在防止老年患者跌倒方面发挥作用？这两名护士进行了实验，并与\
+      附近的一名理疗师和一名职业治疗师建立了合作关系。他们建议病人在家里做些小的改变，调整生活习惯，尽量减少摔倒的风险。其他团队也对此表现出了兴趣，于是\
+      这种方法被推广并被称为布尔佐格+，已经遍布全国。两个护士感觉到了一种需要，于是借用自我管理的力量采取了行动。自我管理促进了这个想法的传播。目前，任\
+      何对布尔佐格+感兴趣的团队，都可以报名参加一个培训活动，学习这个方法的基本概念，工作原理，以及如何在所负责的社区建立这样的伙伴关系。^\\[Lal\
+      oux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 203]"
   - topic: Change Management
     title: At Buurtzorg, change happens organically.
     content: "Buurtzorg was created not only out of frustration with the way
