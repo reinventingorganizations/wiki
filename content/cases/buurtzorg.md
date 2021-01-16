@@ -141,16 +141,8 @@ theory:
     content: 如果一个护士想减少工作时间，比如可能是因为她有一个生病的父母要照顾。这时，团队可能会重新洗牌现有的客户，或决定暂时减少接受新客户的数量。这位护士可以与团队共同讨论她的（工作之外人生的）其他承诺，他们会一起找到解决方案，例如暂时减少新客户，或者在必要时将一些患者的护理任务转移到另一个护士或团队。^\[Laloux,
       Frederic. Reinventing Organizations. Nelson Parker (2014), page 183].
   - topic: Job Titles and Job Descriptions
-    title: Buurtzorg  is a not for profit provider of community healthcare in
-      Holland, they create fluidity in roles through their 10 - 12 member self
-      managing teams.
-    content: A nurse at Buurtzorg whose patients suddenly require more care might
-      ask a colleague to take over her role of team planner for instance. For a
-      while some nurses might carry more than their fair share of management
-      tasks for the team and less at other times.The Teams are careful to keep
-      management tasks somewhat spread out at all times. There is a risk, as
-      some teams have experienced that hierarchical structures creep back in
-      when too many management roles are delegated to a single team member.
+    title: 布尔佐格是荷兰一家非营利的社区医疗服务提供商，他们通过10-12人的自我管理团队来创造岗位角色的流动性。
+    content: 例如，如果布尔佐格的一位护士的病人突然需要更多的护理，她可能会要求其他同事接替她目前兼任的团队规划师角色。一些护士可能某段时间，会为团队承担超过平均分担的管理任务，而在其他时间段，相反可能承担少于平均分担的管理任务。团队在任何时候都会小心地将管理任务分散在不同成员那里。这是为了避免一种有些团队经历过的风险，当太多的管理角色被委派给单个团队成员时，（因其重要性增加而导致）层级结构的重新出现。
   - topic: Objectives and Target Setting
     title: Teams set their own objectives.
     content: In [Buurtzorg](http://www.buurtzorgnederland.com/), teams are required
