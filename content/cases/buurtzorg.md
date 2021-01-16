@@ -180,7 +180,7 @@ theory:
       何对布尔佐格+感兴趣的团队，都可以报名参加一个培训活动，学习这个方法的基本概念，工作原理，以及如何在所负责的社区建立这样的伙伴关系。^\\[Lal\
       oux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 203]"
   - topic: Change Management
-    title: At Buurtzorg, change happens organically.
+    title: 在布尔佐格，变化会道法自然的有机发生。
     content: "Buurtzorg was created not only out of frustration with the way
       neighborhood nursing companies in the Netherlands had fragmented a noble
       profession into a series of senseless tasks. It also grew out of a new,
