@@ -56,12 +56,12 @@ theory:
     title: 利用信息结构和透明度为客户提供最好的服务
     content: 在[B布尔佐格](https://www.buurtzorgnederland.com/)，所有与团队绩效有关的数据都放在公司内部网上。一个在某个领域奋斗的团队，可以很容易的在附近社区中找到一个成绩有突的对比团队（这不是一个竞争或威胁，而是一个参考），并可以向榜样咨询建议和最佳方法。如果需要做出决策，请求会被发布在内部网上。团队每个月都可以看到自己的生产力与其他团队的对比情况。其他团队的数据，都是真实数字而不是匿名或平均。信任员工可以坦诚而成熟的处理信息的正面和负面影响。
   - topic: Meetings
-    title: Small, self-managing teams provide flexibility.
+    title: 小型的自我管理团队结构带来了灵活性。
     content: >-
-      #### Team decision making procedure
+      #### 团队决策流程
 
 
-      [Buurtzorg](https://www.buurtzorgnederland.com/) teams use a very efficient method for problem solving and [decision-making](../decision-making/). They first choose a facilitator. The facilitator is not allowed to make any statements, suggestions, or decisions; she can only ask questions: “What is your proposal?” Or “What is the rationale for your proposal?”. All responses are listed on a flipchart.
+      [布尔佐格](https://www.buurtzorgnederland.com/)团队使用非常有效的方法解决问题并进行[决策](../decision-making/). They first choose a facilitator. The facilitator is not allowed to make any statements, suggestions, or decisions; she can only ask questions: “What is your proposal?” Or “What is the rationale for your proposal?”. All responses are listed on a flipchart.
 
 
       Then all are reviewed, improved and refined.
