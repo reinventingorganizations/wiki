@@ -135,25 +135,15 @@ theory:
 
       与其他角色一样，传统上由团队经理负责的采购和投资任务（预算、计划和控制），也都分散在团队的各个成员之间。法维的一个工人可能操作多台不同的机器，同时负责为团队订购用品，还领导多项持续改进行动，并负责团队招聘。^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 77-79 and following]
   - topic: Budgeting and Controlling
-    title: FAVI implemented a practice of bottom-up planning based on trust towards
-      its teams to come up with realistic budget requests.  In case of
-      conflicts, representatives of each team sort out problems on their own.
+    title: 法维实施了一种自下而上的规划模式，这种规划基于对团队的信任，让一线提出切合实际的预算要求。如预算内容有冲突，也靠各队代表自行解决。
     content: >-
-      The traditional practice in organizations, says FAVI, is to look five
-      years ahead and make plans for the next year. FAVI believes we should
-      think like farmers; look 20 years ahead, and plan only for the next day.
-      One must look far out to decide which fruit trees to plant or which crops
-      to grow. But it makes no sense to plan at the beginning of the year the
-      precise date for harvest. As hard as we try, we cannot control the
-      weather, the crops, or the soil. They all have a life of their own beyond
-      our control. A farmer who would stick rigidly to plan, instead of sensing
-      and adjusting to reality, would quickly grow hungry.
+      传统组织的做法是展望未来五年，为下一年制定计划。法维认为，我们应该像农民一样思考；展望未来20年，只为第二天做计划。一个人必须远眺以决定种哪种果树或种哪种庄稼。但在年初计划确切的收获日期是毫无意义的。尽管我们努力，但我们无法控制天气、庄稼或土壤。这些都是我们无法控制的生命。一个农民如果严格按照计划行事，而不是感知和适应现实，他很快就会挨饿。
 
 
-      FAVI finds it needs a basic budget to help make certain decisions. Once a year, every operating team (FAVI is organized by client teams, e.g., the Volkswagen team, the Volvo team, etc, and by support teams, e.g., the foundry team, the maintenance team, etc.) makes a monthly forecast for the year to come of sales and costs. The numbers are added up, and whatever the result, it is considered the budget for FAVI overall. That budget can then be used to inform decision making, for instance, to determine the expected tonnage of metal that will be bought for which a supply contract must be secured.
+      法维发现他们还是需要一个基本的预算，只要用来帮助做出某些决定。每年一次，每个运营团队（法维由客户团队组成，例如大众汽车团队、沃尔沃团队等，以及支持团队，例如铸造团队、维护团队等）每月对未来一年的销售和成本进行预测。这些数字加起来，不管结果如何，都被认为是法维的总体预算。然后，该预算可用于为决策提供信息，例如，据此确定需要获得的供应合同中预期的金属采购吨位。
 
 
-      The budget is not used to track mostly performance: there is no monthly comparison of actuals vs budget. Teams simply track their monthly numbers and if the numbers are unsatisfactory (as compared to the previous month or year, or to some ratio) they discuss corrective action. In its management manifesto, FAVI captures the thinking about budgets in a provocative statement; “*In the new way of thinking, we aim to make money without knowing how we do it, as opposed to the old way of losing money knowing exactly how we lose it*.” FAVI is privately owned and doesn’t need to report to outside shareholders.
+      预算的主要目的不是用于跟踪绩效：不做每月实际与预算的比较。团队只需跟踪他们每月的数字，如果数字不令人满意（与前一个月或前一年相比，或与某些比率相比），他们会自行讨论纠正措施。法维I在其《管理宣言》中，以一种挑衅性的方式表达了对预算的思考：在新的思维方式中，我们的目标是，在莫名其妙中赚钱，而不是旧式的，在精准把控中亏钱。法维目前没有上市，是私有公司，所以不需要向外部股东报告。
   - topic: Crisis Management
     title: CEO of FAVI, Jean-Francois Zobrist asks everyone on the shop floor for
       help in the wake of the first Gulf War.
