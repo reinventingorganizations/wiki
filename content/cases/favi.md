@@ -112,8 +112,7 @@ theory:
 
       经过两年的敲打修补，他们成功了。正如他们所想象的，一个新的市场来敲门了。纯铜转子在电动机中具有非常有趣的特性。这已经成为法维的一项重要业务。^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 208]
   - topic: Innovation and Product Development
-    title: FAVI invents a new antiseptic copper alloy for hospitals using aesthetics
-      and intuition.
+    title: 法维利用美学和直觉发明了一种新型的医院用抗菌铜合金。
     content: >-
       Metallurgists have long known that copper has antiseptic properties. *It's
       a shame*, people at [FAVI](http://www.favi.com/) thought, *that this
