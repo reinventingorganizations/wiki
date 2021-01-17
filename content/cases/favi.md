@@ -127,22 +127,13 @@ theory:
   - topic: Purchasing and Investments
     title: 法维实施了一种自下而上的规划模式，这种规划基于对团队的信任，让一线提出切合实际的预算要求。如预算内容有冲突，也靠各队代表自行解决。
     content: >-
-      Once a year, every team at [FAVI](http://www.favi.com/) establishes the
-      investment budget for the next year - new machines, new tooling, and so
-      on. In most organizations, the finance department challenges these
-      requests and ultimately the executive committee or the CEO arbitrates
-      across departments to channel more money in one direction or another. This
-      opens up the can of worms of politics. Everyone jockeys for a bigger part
-      of the pie. For middle managers, the size of the budget is often the
-      yardstick by which their status is measured. They try, as best as they
-      can, to influence the decision makers in the executive committee through
-      any formal and informal channels at their disposal.
+      法维每年制定一次来年的投资预算——新机器、新工具等等。在大多数组织中，会由财务部门对这些预算要求提出质疑，最终由经营委员会或首席执行官跨部门进行仲裁，以便将更多资金投向某个特定方向。这个过程其实开了政治扯皮的绿灯。所有人都力争得到更大的蛋糕。对于中层管理者来说，预算的大小往往是衡量他们地位的标准。他们尽最大努力，通过他们掌握的任何正式和非正式渠道，去影响执行委员会的决策者。
 
 
-      At FAVI, there are no middle managers that fight for budgets, and their CEO Jean-Francois Zobrist refused to play the role of the father who would decide how to divide up the candy among his children. Teams know that no haggling will take place, so they don’t throw in inflated numbers to start with; they make realistic requests based on realistic needs. In most years, when the budgets of the teams are added up, the resulting number is reasonable, and all plans get the green light, with neither discussion nor scrutiny. Teams are trusted to do the right thing; if one team were to get itself golden-plated machines, other teams would quickly notice, and peer-pressure would self-regulate the problem away. In those years where the combined projects exceed what would be reasonable, the CEO simply asks teams to sit together and to come back to him with a revised plan. Representatives from each team come together and put all the plans on a table. They look at what is most important and what might be deferred in everyone’s plans. In one or two meetings, the problem is always sorted out.
+      在法维，没有为预算而战的中层管理人员，他们的CEO让-弗朗索瓦•佐布里斯特也拒绝扮演父亲的角色，因为传统上是父亲决定如何在孩子们之间分配糖果。因团队知道不会发生讨价还价，所以他们不会一开始就抛出夸大的数字；他们会根据现实的需要提出现实的要求。在大多数年份，当团队的预算加起来时，得到的数字很合理，于是所有的计划都得到批准，既没有讨论也没有投票。团队被信任会做正确的事情；如果一个团队想得到一台镀金的机器，其他团队会很快注意到，这种来自同伴的压力，会自我调节各种问题。在这些年里，当合并预算超出了合理的范围时，CEO只需让团队坐在一起谈论一下，然后向他提出修改后的计划。每个团队派代表聚在一起，把所有的计划放在一张桌子上。他们会一起看，每个计划中，哪些更重要，哪些是可以推迟的。在一两次会议中，问题总是得到解决。
 
 
-      Like other roles, the traditional purchasing and investments tasks of a manager - budgeting, planning, and controlling - are scattered among various members of a team. A worker at [FAVI](http://www.favi.com/), might operate a number of different machines, be in charge of ordering supplies for his team, lead a number of continuous improvement actions, and be responsible for recruitment to his team^[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 77-79 and following]
+      与其他角色一样，传统上由团队经理负责的采购和投资任务（预算、计划和控制），也都分散在团队的各个成员之间。法维的一个工人可能操作多台不同的机器，同时负责为团队订购用品，还领导多项持续改进行动，并负责团队招聘。^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 77-79 and following]
   - topic: Budgeting and Controlling
     title: FAVI implemented a practice of bottom-up planning based on trust towards
       its teams to come up with realistic budget requests.  In case of
