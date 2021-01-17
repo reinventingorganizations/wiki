@@ -24,27 +24,13 @@ theory:
       Locations 4371-4378). Nelson Parker. Kindle Edition.]"
   - topic: Organizational Structure
     title: 法维采用了基于客户的平行团队＋支持团队结构
-    content: "FAVI’s factory has more than 500 employees that are organized in 21
-      teams called “mini-factories” of 15 to 35 people. Most of the teams are
-      dedicated to a specific customer or customer type (the Volkswagen team,
-      the Audi team, the Volvo team, and so forth). There are a few upstream
-      production teams (the foundry team, the mold repair team, maintenance),
-      and support teams (engineering, quality, lab, administration, and sales
-      support). Each team self-organizes; there is no middle management, and
-      there are virtually no rules or procedures other than those that the teams
-      decide upon themselves. The staff functions have nearly all disappeared.
-      The former HR, planning, scheduling, engineering, production-IT and
-      purchasing departments have all been shut down. Their tasks have been
-      taken over by the operators in the teams, who do their own hiring,
-      purchasing, planning, and scheduling. The sales department has been
-      disbanded too. The sales account manager for Audi is now part of the Audi
-      team, just as the sales account manager for Volvo is part of the Volvo
-      team. There is no head of sales above the group of account managers. In
-      the old structure, white-collar workers in offices with windows
-      overlooking the shop floor planned in detail what the workers needed to
-      do, by when, and how. Now blue-collar workers effectively wear their own
-      white collars and no longer receive instructions from above.^[Laloux,
-      Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating
+    content: "法维的工厂员工超过500名，组成21个被称为“迷你工厂”的团队，每个团队由15到35人组成。大多数团队都服务特定的客户或客户类型（大众汽车\
+      团队、奥迪团队、沃尔沃团队等等）。还包括几个上游生产团队（铸造团队、模具维修团队、维护团队）和支持团队（工程、质量、实验室、管理和销售支持）。每个\
+      团队都是自组织的；没有中层管理人员，除了团队自己决定的规则或程序之外，几乎没有其他规则或程序。管理职能几乎都消失了。以前的人力资源、计划、调度、工\
+      程、生产IT和采购部门都已经关闭。这些管理任务都由团队中的操作员来完成，团队自己负责进行招聘、采购、计划和调度。销售部也被解散了。奥迪的销售客户经\
+      理现在是奥迪团队的一部分，沃尔沃的销售客户经理也成了沃尔沃团队的一部分。在客户经理小组之上，不存在别的销售主管。在旧的结构中，白领们在办公室里通过\
+      窗户俯瞰着车间，详细地计划着工人们需要做什么、什么时候做什么、怎么做。如今，蓝领工人实际上穿上了自己的白领，不再接受上级的指示。^\\[Lalou\
+      x, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating
       Organizations Inspired by the Next Stage of Human Consciousness (Kindle
       Locations 1704-1715). Nelson Parker. Kindle Edition.]"
   - topic: Coordination
