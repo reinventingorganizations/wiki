@@ -3,23 +3,23 @@ layout: case
 tags: cases
 name: 勇气与焕新(CC&R)
 date: 2020-11-09
-introduction: CC&R has created meetings for welcoming and farewelling personnel.
-industry: P. Education
+introduction: CC&R设立专门的成员欢迎和欢送会。
+industry: P.教育
 geography: USA
 companySize: 1-100
-profit: non-profit
+profit: 非营利
 theory:
   - topic: Meetings
-    title: CC&R has created meetings for welcoming and farewelling personnel.
+    title: CC&R设立专门的成员欢迎和欢送会。
     content: >-
-      **Welcoming new personnel:**
+      ##### 新员工欢迎会：
 
 
-      Each existing team member brings an object symbolising a wish for their new colleague. They present it, and share their wish. This celebrates the newcomer, and makes him or her feel welcome. It also serves existing team members. They too get to know each other at a deeper level. 
+      每位现有的团队成员都会带上一件物品，表达对新同事的祝愿。他们在会上提出并分享自己对信任的期待和愿望。这是对新来者的祝贺，让他或她感到受欢迎。这个方式对现有的团队成员也有益。让大家也在更深的层次上相互了解。
 
 
-      **Farewelling personnel:**
+      ##### 离职欢送会：
 
 
-      There is a similar practice when someone leaves. Team members join in a meal with the departing colleague. Everybody prepares a personal story about that person and the organization. The stories celebrate the person who is leaving. But again, they reveal just as much about the storyteller.
+      有人离团队开时，也有类似的做法。团队成员与离开的同事一起用餐。每个人都准备一个关于这个人和组织的故事。这些故事是为了祝福即将离开的人。同样也揭示了讲故事人的很多层面的情况。
 ---
