@@ -259,26 +259,27 @@ theory:
   - topic: Staff Functions
     title: 布尔佐格拥有最小估摸的总部管理人员，并建立了去中心机制来分享分布式的专门知识。
     content: >-
-      Buurtzorg has 9,000 employees, with a headquarters of only 40. There are
-      no typical staff roles (no CFO, head of HR, etc.). Most headquarters
-      employees are involved in administrative tasks (social security
-      administration, for instance).
+      布尔佐格有9000名员工，但总部只有40人。不设典型的管理岗位（首席财务官、人力资源总监等）。大多数总部员工都负责后勤行政工作（例如社会保障管理）。
 
 
-      How is it possible to manage a 9,000-person-strong organization with such a bare bones headquarters? Many of the typical staff tasks are simply devolved back to the teams. Take recruitment for example: when a team feels the need to expand, it does its own recruiting (the regional coach might give advice when asked, but is not involved in the decision). Chances are that the team will co-opt somebody who fits in well. Because the team members make the decision themselves, they are emotionally invested in making the recruit successful.
+      一个9000人的组织，有这样一个赤裸裸的总部，怎么可能管理好呢？许多典型的管理任务都被简单地返发给团队。以招聘为例：当一个团队觉得需要扩张时，会自己进行招聘（区域教练只有在当被问到时，才会给出建议，但不会参与决策）。基层团队虽有可能选择一个很适合本团队的人。因为团队成员自己负责做招聘决定，所以会在情感上积极投入精力，促进招聘成功。
 
 
-      How about expertise? At Buurtzorg, it doesn’t make sense for every one of the roughly 600 Buurtzorg teams to develop expertise in every arcane medical condition they might encounter. But rather than create staff roles, Buurtzorg has developed a number of effective alternatives to deal with a need for expertise, both medical and non-medical:
+      专业知识如何处理呢？在布尔佐格由大约600个团队，每个团队都在自己可能遇到的每一种神秘的医疗状况中，发展自己的专业知识是毫无意义的。但布尔佐格并没有创造总部角色来进行知识共享，而代之以开发了一些有效的替代方案，用来应对医疗和非医疗领域的专业知识需求：
 
 
-      * Nurses on the teams are encouraged to build up expertise and become contact points beyond their team. Through Buurtzorg’s intranet, nurses can easily identify and access colleagues with relevant expertise in a specific subject area.
-
-      * Occasionally, volunteer task forces of nurses are set up to, in addition to their work with patients, investigate a new topic and build up expertise (for instance, how Buurtzorg should adapt in response to new legislation).
-
-      * When needed, an expert can be hired as a consultant , rather than brought into a staff role.
-
-      * If a staff person is hired, they have no decision-making authority over teams.
 
 
-      As an illustration, in a meeting of Buurtzorg’s regional coaches, a suggestion was made to hire a specialist in labor law, a topic many teams occasionally need assistance with. The suggestion made sense. And yet, other avenues were explored After closer examination, it appeared that most questions were recurring, and so the group decided to create a self-help section of “frequently asked questions on labor law” on Buurtzorg’s intranet. This took care of most questions, but a year later, the group realized that some questions still popped up for which the FAQ provided no answers. It was decided to contract a freelance expert for a few days per month who would answer questions from teams on request.^[Source: Laloux, Frederic. Reinventing Organizations. Nelson Parker, Brussels, Belgium (2014)]
+      * 鼓励团队中的护士积累专业知识，成为与团队外部的知识联络节点。通过布尔佐格的内部网，护士可以很容易找到并联系上某个，在特定学科领域具有相关专业知识的同事。
+
+      * 成员除了服务病人的本职工作之外，还可以成立护士志愿工作队，负责调查一个新的课题并积累专门知识（例如，布尔佐格应如何适应新的立法）。
+
+      * 必要时，可以聘请专家担任外部顾问，而不是设置固定的总部工作人员角色。
+
+      * 即使雇佣了专家，他们也无权左右团队的决策（只负责给出参考建议）。
+
+
+
+
+      举个例子，在布尔佐格地区教练的一次会议上，有人建议雇佣一名劳工法专家，这是许多团队都会偶尔需要得到帮助的领域。这个建议有道理。然而，在仔细审核之后，人们探索了其他途径。似乎大多数问题都是反复出现的，因此该团队决定在布尔佐格的内部网上创建一个“劳动法常见问题”自助栏目。这办法解决了大多数问题。但一年后，该团队又意识到，仍然会出现一些，FAQ没有提供答案的问题。于是决定聘用一名外部的自由职业专家，每个月只上工几天时间，负责回答团队提出的问题。^\[Source: Laloux, Frederic. Reinventing Organizations. Nelson Parker, Brussels, Belgium (2014)]
 ---
