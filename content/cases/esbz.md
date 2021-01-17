@@ -25,21 +25,16 @@ theory:
   - topic: Mood Management
     title: ESBZ保持着以讲故事为基础的非凡的信任和社区建设活动：周五下午的表扬会，培养一种感恩情绪。
     content: >-
-      Each Friday afternoon, the [entire
-      school](http://www.ev-schule-zentrum.de/aktuell/)―students, teachers, and
-      staff―gathers for an hour in a large hall. They start by singing a song
-      together. The rest of the time together is unscripted. There is an open
-      microphone on stage, and a simple rule: we are here to praise and thank
-      each other.
+      每周五下午，[整个学校](http://www.ev-schule-zentrum.de/aktuell/)―学生、老师和教职员工在一个大礼堂里开会一个小时。他们先一起唱首歌。剩下的会议时间是没有议程的。讲台上有一个开放式麦克风，和一个简单的规则：我们在这里互相表扬和感谢。
 
 
-      For the next 50 minutes, students and teachers who wish to do so stand up, walk on stage, take the microphone, and praise or thank another student or teacher for something they did or said during the week. They then sit down and someone else takes the stage. Every person at the microphone shares a mini-story that reveals something about two people―the storyteller and the person being thanked.
+      在接下来的50分钟里，感到有必要这样做的学生和老师会自动站起来走上讲台，拿起麦克风，关于在本周早些时候所做或所说的事情，来表扬或感谢另一学生或老师；他们坐下后，其他人会接过讲台。麦克风前的每个人都分享一个小故事，这个小故事揭示了两个人的某些情况：讲故事的人和被表扬或感谢的人。
 
 
-      This practice erases boundaries between students and teachers. It’s part of the human condition that everyone at some point feels down, confused, or stuck and in need of help. And everyone has the gift of empathy, of finding ways to offer support, comfort, and friendship. It takes courage to stand up and praise others publicly, but in the school it has become practice.
+      这种做法消除了学生和教师之间的界限。每个人在某个时刻都会感到沮丧、困惑或陷入困境，需要帮助，这是人类情绪状况的自然表达。每个人也都有天赋的同情心，能够找到方法来对别人提供支持、安慰和友谊。站出来公开表扬别人是需要勇气的，但在这个学校却成了惯例。
 
 
-      Students don’t shy away from stories that are funny or touching, and heartfelt. Students and teachers credit this weekly session as the defining practice for the school’s extraordinary spirit of learning, collaboration, and maturity. Each story of kindness, courage, care, or professionalism told at the microphone is a thread woven into a rich tapestry of gratitude that has become key to the school’s exceptional learning culture. Faculty meetings have now integrated the same practice: they always start with a round of praise.
+      学生们不会回避那些有趣的、感人的、发自内心的故事。学生和老师都认为这各周例会对于培育学校非凡的学习、协作和成熟人性具有决定性的效果。在麦克风前讲述的每一个善良、勇气、关怀或专业精神的故事，都是一根细线，编织成一幅丰富的感恩织锦，成为学校卓越学习文化的关键元素。现在，教职员工会议也开始采用同样的做法：总是从一轮表扬开场。
   - topic: Conflict resolution
     title: Innovative curriculum and organizational model that fosters a sense of
       community and encourages the surfacing and resolution of conflict.
