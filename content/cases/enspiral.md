@@ -4,10 +4,10 @@ tags: cases
 name: 恩斯皮拉尔(Enspiral)
 date: 2020-11-09
 introduction: 恩斯皮拉尔（意思是螺旋）基金会是一家由恩斯皮拉尔成员共同拥有的慈善公司。它的使命是支持整个慈善网络，促进人与企业之间的合作，并进一步推动恩斯皮拉尔的整体社会使命。
-industry: Q. Human health and social work activities
-geography: New Zealand
+industry: Q.健康、社会服务
+geography: 新西兰
 companySize: 101-200
-profit: non-profit
+profit: 非营利
 theory:
   - topic: Decision Making
     title: Enspiral is a distributed collective using a consent-based advice process
