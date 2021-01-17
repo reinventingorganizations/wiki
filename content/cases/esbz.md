@@ -45,7 +45,7 @@ theory:
       表扬会”。每周五下午，整个学校的学生、老师和教职员工在一个大礼堂里开会一个小时。他们先一起唱首歌。剩下的会议时间是没有议程的。讲台上有一个开放式麦\
       克风，和一个简单的规则：我们在这里互相表扬和感谢。在接下来的50分钟里，感到有必要这样做的学生和老师会自动站起来走上讲台，拿起麦克风，关于在本周早\
       些时候所做或所说的事情，来表扬或感谢另一学生或老师；他们坐下后，其他人会接过讲台。麦克风前的每个人都分享一个小故事，这个小故事揭示了两个人的奋斗活\
-      或辉煌故事：讲故事的人和被表扬或感谢的人。\\[Laloux, Frederic (2014-02-09). Reinventing
+      或辉煌故事：讲故事的人和被表扬或感谢的人。^\\[Laloux, Frederic (2014-02-09). Reinventing
       Organizations: A Guide to Creating Organizations Inspired by the Next
       Stage of Human Consciousness (Kindle Locations 3517-3524). Nelson Parker.
       Kindle Edition.]"
