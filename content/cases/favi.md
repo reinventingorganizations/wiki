@@ -179,46 +179,15 @@ theory:
       Inspired by the Next Stage of Human Consciousness (Kindle Locations
       1704-1708). Nelson Parker. Kindle Edition.]"
   - topic: Listening to Purpose
-    title: soul searching prompted by a proposed order that came out of the blue
-    content: "Early on in his tenure as CEO, Jean-François Zobrist invited all the
-      factory employees to a meeting to figure out the organization’s raison
-      d’être. The soul searching was prompted by a proposed order that came out
-      of the blue from a French car manufacturer. Could they, within a year,
-      supply not only a gear fork, but a full gearbox? This single order would
-      be larger than all of FAVI’s existing business. Many people thought it was
-      too risky. Zobrist felt the decision could not be made without inquiring
-      into the purpose of the organization. In keeping with his style, he
-      involved the whole company, in meetings with subgroups of 15 people at a
-      time on Friday afternoons. He showed up at the meeting with no agenda and
-      no process; he trusted that his colleagues would somehow self-organize in
-      these meetings, reconvening every Friday if needed, until they had
-      answered this most fundamental question: what is our purpose?\r
+    title: 一项突如其来的命令引发了人们的反省
+    content: >-
+      在担任公司首席执行官的初期，让-弗朗索瓦·佐布里斯特邀请所有工厂员工参加一个会议，目的是找出公司存在的问题。一家法国汽车制造商突然提出了一项拟议订单，引发了人们的反省。客户问法维能否在一年内不仅提供一个齿轮叉，而且提供一个完整的变速箱？这一订单将比法维所有的现有业务都要大。很多人认为这太冒险了。佐布里斯特认为，如果不仔细研究组织的目标，就不能作出决定。按照他的风格，他让整个公司都参与进来，在周五下午，依次与每次15人参加的小组开会。他出席会议时没有准备任何议程和程序；他相信他的同事们会在这些会议中，以某种方式自我组织起来。必要时每周五重新召开会议，直到他们回答了这个最根本的问题：我们的目的是什么？
 
-      \r
 
-      After much discussion, when the obvious but superficial ideas had
-      been discarded, the answer emerged with clarity. FAVI has two reasons for
-      existence, two fundamental purposes: the first is to provide meaningful
-      work in the area of Hallencourt, a rural area in northern France where
-      good work is rare; the second is to give and receive love from clients.\r
+      经过多次讨论，当显而易见但肤浅的想法被抛弃后，答案清晰地出现了。法维的存在有两个原因，两个基本目的：第一个是在哈伦库尔地区提供有意义的工作，哈伦库尔是法国北部的一个农村地区，那里很少有好的工作；第二个是给予和接受客户的爱。
 
-      \r
 
-      At FAVI, love, a word rarely heard in the world of business, has
-      taken on real meaning. Operators don’t just send products to their
-      clients, they send products into which they have put their heart. A few
-      years ago, around Christmas time, an operator at FAVI molded excess brass
-      into a few small figurines of Santa and of reindeers. He added the
-      figurines into the boxes of finished products, rather like kids put a
-      message in a bottle they throw out to sea, imagining that someone,
-      somewhere, would find it. Other operators have since picked up on the idea
-      and at random times of the year add brass figurines into their shipments,
-      as little tokens of love to their counterparts working on assembly lines
-      at Volkswagen or Volvo, who will find the figurines when they unpack the
-      boxes. ^[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide
-      to Creating Organizations Inspired by the Next Stage of Human
-      Consciousness (Kindle Locations 4363-4378). Nelson Parker. Kindle
-      Edition]."
+      在法维，爱这个在商界很少听到的词，出现了真正的意义。运营商不仅仅向客户发送产品，他们还把真心投入在产品里。几年前，在圣诞节前后，法维的一个操作员把多余的黄铜铸成了一些圣诞老人和驯鹿的小雕像。他把这些小雕像放进成品的盒子里，就像孩子们把一条信息放进海里的漂流瓶，想象有人会在某处发现它。此后，其他操作员也开始接受这一想法，并在一年中的任意时间将黄铜雕像添加到他们的货物中，作为对在大众汽车（Volkswagen）或沃尔沃（Volvo）装配线上工作的同行的一点爱的象征，这些同行会在拆箱时发现这些雕像。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4363-4378). Nelson Parker. Kindle Edition].
   - topic: Dismissal
     title: A novel alternative to dismissal in a time of crisis
     content: "When CEO Jean-François Zobrist was faced with critical decisions, he
