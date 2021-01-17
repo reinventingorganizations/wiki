@@ -202,24 +202,19 @@ theory:
   - topic: Decision Making
     title: 布尔佐格找到了一种有效的、可做出影响大量成员决策的方法。
     content: >-
-      [Buurtzorg ](http://www.buurtzorgnederland.com/)uses social media (as
-      mentioned above) in a powerful and way to support the advice process.  For
-      example, if all 9,000 employees must be consulted, Jos de Blok, the
-      founder, posts his suggestions on-line. He posts regularly, from the
-      heart, without PR polish (there is no communications department at
-      Buurtzorg), often at 10pm at night from his home.
+      [布尔佐格](http://www.buurtzorgnederland.com/)通过活用社交媒体（如上所述），找到了一种强有力的支持建议流程的方式。例如，当需要咨询所有9000名员工的建议时，创始人乔斯德布洛克会在网上发布他的建议。他经常在晚上10点从家里发出一些发自内心的帖子，内容不含任何华丽的宣传辞藻（布尔佐格没有公关部）。
 
 
-      Given the respect he enjoys, his posts are widely read. Typically, 24 hours later, a majority of nurses will have read the post. Within hours, these posts evoke dozens, sometimes hundreds, of comments. 
+      鉴于组织成员对他的尊重，他的文章会被广泛阅读。通常24小时后，大多数护士都会读到这篇文章。这些帖子在几个小时内会引发数十条、乃至数百条评论。
 
 
-      This can make for fast decision-making. If the comments signal agreement, it is made within hours. If debate ensues, the proposal is amended and floated again. Or a workgroup is set up to refine it.
+      这有助于快速决策。如果大家的意见是表明同意，就能在数小时内作出决策。如果由不同见解，就开展辩论，该提案就会就此得到修正并再次提出。或者成立一个工作组来完善这个决策内容。
 
 
-      This kind of leadership by blog post requires a degree of trust, candor and vulnerability that few CEOs in would feel comfortable with. Once a post is published, there is no going back. Critical comments and rebukes are for all to see; they cannot be erased and cannot be ignored. And what the organization does with the post is beyond the CEO’s control.
+      这种博客式的领导方式，需要一定程度的信任、坦诚和谦卑美德。习惯于传统模式一言堂控制模式的首席执行官，很少有人会对此感到舒服。因一旦一篇文章发表出去就等于在裸奔，没有退路。收到的批评和指责都是公开而有目共睹的，不能被抹去，也不能忽视。启动建议流程后，组织集体智慧对这个决策所做的一切反应和决定，都会超出首席执行官的控制。
 
 
-      What seems risky when looked at through a traditional lens is wonderfully efficient from a Teal perspective. A post made from the comfort of a sofa at home can be a decision by next afternoon, endorsed by thousands of people in the organization. An idea or concern about where the industry is going? Write a short post, and you get to know how the organization reacts. If people disagree with your thought, you have lost 15 minutes of your time … but gained a new insight into what the organization thinks. When we think of how decision-making happens in large organizations today (the PowerPoint decks that need to be written, the lengthy steering committee and executive meetings where decisions get debated, followed by top-down communications where every word is weighted), we can only marvel at the efficiency of leadership and decision making within Buurtzorg.
+      用传统的镜头看这种似乎有风险的做法，从蔚蓝角度来看却是非常有效的。舒适地坐在家里沙发上发表一篇文章，到第二天下午就可以自动做出决策，并得到组织内数千人的认可。对行业发展方向有了新想法或担忧？写一篇短文，你就会知道组织的反应。如果有人不同意你的想法，你就只是浪费了15分钟的时间……但通过这个过程，你对组织集体意识的想法获得了新的见解。我们回想一下，当今那些传统的大型组织中的决策流程（需要编写幻灯片、召开冗长的战略会议和执行层高管会议对决策进行反复辩论，然后是自上而下的沟通决策内容，在这些会议上，对决策的每一个字都字斟句酌），我们无法不赞叹布尔佐格领导与决策方式的简洁高效。
   - topic: Decision Making
     title: Buurtzorg uses a formal when decisions are made within a team
     content: >-
