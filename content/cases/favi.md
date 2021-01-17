@@ -54,22 +54,20 @@ theory:
   - topic: Meetings
     title: 适合制造业的会议节奏。
     content: >-
-      Weekly senior management meetings in [Favi](http://www.favi.com/) used to
-      include the heads of sales, production, maintenance, finance, HR, etc.
-      These are now held at the team level.  
+      [法维](http://www.favi.com/)在过去，每周会召开高级管理层会议，包括销售、生产、维护、财务、人力资源等部门的负责人。现在这些会议都分散在团队级别召开。
 
 
-      Teams hold short regular meetings to align and make decisions as follows:
+      团队定期召开如下类型的简短的协调和决策会议：
 
 
-      * a short tactical discussion at the start of every shift
+      * 每次换班开始时，进行简短的战术讨论
 
-      * a weekly meeting with the sales account manager to discuss orders
+      * 每周与销售客户经理开会讨论订单
 
-      * a monthly meeting with an open agenda
+      * 有公开议程的月度会议
 
 
-      Beyond that, they tend to have no regularly scheduled meetings at all. If cross-team meetings occur, it’s in response to a specific need.
+      除此之外，几乎根本没有其他的定期会议。只是为了相应特定的需要，才会召开跨团队会议。
   - topic: Mood Management
     title: "FAVI had a beautiful practice of gratitude and celebration: every
       meeting in the company started with a round where each participant in turn
