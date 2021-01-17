@@ -3,7 +3,7 @@ layout: case
 tags: cases
 name: 蔚蓝学校(ESBZ)
 date: 2020-11-09
-introduction: ESBZ is recognized for its innovative curriculum and organization model.
+introduction: ESBZ以其创新的课程和组织模式而受到认可。
 industry: P. Education
 geography: Germany
 companySize: "> 500"
