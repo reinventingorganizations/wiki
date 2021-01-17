@@ -46,15 +46,11 @@ theory:
   - topic: Information Flow
     title: 危机时刻的信息流。
     content: >-
-      When Jean-Francois Zobrist, the CEO of [FAVI](http://www.favi.com/), was
-      faced with difficult and critical decisions at the company, he readily
-      admitted he needed help to find a good answer. More than once, on impulse,
-      he went around the shop floor, asked everybody to stop the machines,
-      climbed on a soapbox and shared his problem with all employees, trying to
-      figure out a course of action.
+      在[法维](http://www.favi.com/),
+      的首席执行官让-弗朗索瓦·佐布里斯特面对困难或危机时，他总是会坦诚的承认，自己需要员工的帮助，才能找到好的解决方案。冲动之下，他不止一次地在车间里走来走去，让每个人都停下机器，然后爬上肥皂盒，把自己的问题告诉所有员工，试图找出解决办法。
 
 
-      In time of crisis, he openly shared information with all employees about the reality of the situation, trusting them to handle it. As a result, employees did not retain a false sense of safety. Everybody, regardless of any rank, could take the opportunity to sense the impact of the information offered and resonate to it. People in the audience shouted questions and proposals. Together they found a collective course of action to overcome the crisis.
+      在危机时刻，他公开与所有员工分享关于现实情况的信息，相信他们能处理好这些信息。因此，员工没有被保护在虚伪的安全感内。每个人，不管级别高低，都可以借此机会感受所接触到信息的影响，并与之产生共鸣。听众中的人们大声提出问题和建议。他们一起找到了克服危机的集体行动方针。
   - topic: Meetings
     title: A rhythm of meetings to suit manufacturing.
     content: >-
