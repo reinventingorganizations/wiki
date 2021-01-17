@@ -69,10 +69,7 @@ theory:
 
       除此之外，几乎根本没有其他的定期会议。只是为了相应特定的需要，才会召开跨团队会议。
   - topic: Mood Management
-    title: "FAVI had a beautiful practice of gratitude and celebration: every
-      meeting in the company started with a round where each participant in turn
-      shared a brief story of someone they had recently thanked or
-      congratulated."
+    title: 在法维有一个表达感恩和颂扬的美好实践：公司的每一次会议都有个特殊的开场，每个参会者依次分享他们最近感谢或祝贺过某人的一个简短故事。
     content: "This powerful practice start of the meeting at [FAVI
       ](http://www.favi.com/)had a telling effect on meetings: it nourished
       moods of possibility, gratitude, celebration, and trust. Focusing on
