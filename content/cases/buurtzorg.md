@@ -249,14 +249,13 @@ theory:
   - topic: Dismissal
     title: 解雇通过使用冲突解决流程的自我管理方式实现。
     content: >-
-      Dismissals are self-managed, using a mediated [conflict
-      resolution](../conflict-resolution/) process.
+      解雇通过使用[冲突解决](../conflict-resolution/)流程的自我管理方式实现。
 
 
-      At [Buurtzorg](http://www.buurtzorgnederland.com/), if someone has lost the trust of the team, they try to find a mutually agreeable solution. If that doesn’t work out, the group calls in the regional coach or external facilitator to mediate. In almost all cases, the presence of a mediator brings resolution. In some cases, the person and the team decide on some mutual commitments and give it another go.
+      在[布尔佐格](http://www.buurtzorgnederland.com/), 如果有人失去了团队的信任，团队会试图找到一个双方都同意的解决方案。如果这个尝试没有成功，团队会召集区域教练或外部调解人进行调解。多数情况下，调解人的出现都会带来解决办法。在某些情况下，个人和团队会通过决定一些共识和承诺，给与再次尝试的机会。
 
 
-      In others, after some deliberation, the person comes to see that trust is irrevocably broken and understands it is time to leave. If no agreement can be found, and as a last attempt to settle the matter, team members can ask Jos de Blok, the founder, to mediate. In the rare case where even that fails, they can ask him to put an end to the person’s contract (legally, he is the only one who can do so)^[Source: Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 128].
+      在另一些情况下，经过深思熟虑后，这个人会发现信任已被不可挽回地打破，并明白是时候离开了。如果无法达成一致，作为解决问题的最后尝试，团队成员可以要求创始人乔斯•德•布洛克出面调解。在极少数情况下，即使这个调节也失败了，团队也可以要求创始人终止此人的合同（法律上，创始人是唯一有权解雇成员的人）。^\[Source: Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 128].
   - topic: Staff Functions
     title: Buurtzorg has a bare minimum central staff and has put in place
       mechanisms to leverage its decentralized expertise.
