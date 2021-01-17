@@ -11,11 +11,6 @@ profit: 非营利
 theory:
   - topic: Decision Making
     title: 恩斯皮拉尔是一个分布式主权个人组成的积分整体，使用基于同意的建议过程，强调在线交流、包容和个人自主。
-    content: Enspiral is a network of highly autonomous individuals, teams, and
-      ventures. As much as possible, we encourage people to make decisions for
-      themselves. Enspiral is also a network building shared commons, and
-      pursuing shared aspirations, that call for collective agreements and
-      commitments. There are a variety of situations where it is useful or
-      necessary to make a formal decision as a group. [See details
-      here.](https://handbook.enspiral.com/agreements/decisions.html)
+    content: 恩斯皮拉尔是由高度自治的个人、团队和企业组成的网络。组织尽可能鼓励人们自主的做决定。恩斯皮拉尔是一个建立共享的公共空间、追求共同愿望的网络，呼唤集体协议和承诺。在许多情况下，作为一个群体通过集体智慧做出正式决定，既有效也必要。
+      [点击这里参见细节](https://handbook.enspiral.com/agreements/decisions.html)。
 ---
