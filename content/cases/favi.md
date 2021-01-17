@@ -75,10 +75,7 @@ theory:
     title: 通过延长的试用期，来保证双向适配性。
     content: "[法维](http://www.favi.com/)通过设定延长的试用期，来保证双方都能有机会测试这个匹配是否有意义。"
   - topic: Onboarding
-    title: FAVI newly hired engineers and administrative workers are trained at
-      operating at least one machine on the shop floor.  New hires also end
-      their onboarding process writing a free format open letter to the group of
-      colleagues they have joined, frequently expressing joy and gratitude.
+    title: 法维新雇用的工程师和行政人员，都接受过至少一台机器的操作培训。新员工也会在结束入职流程时，给他们要加入团队的同事们写一封自由形式的公开信，表达喜悦和感激之情。
     content: >-
       At [FAVI](http://www.favi.com/), the French automotive supplier, all
       engineers and administrative workers have been trained to operate at least
