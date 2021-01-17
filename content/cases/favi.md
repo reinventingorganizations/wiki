@@ -92,27 +92,8 @@ theory:
     title: 在法维，上下班不需要打卡。但工人们仍然会轮班工作，轮班的安排只表示预计这段时间大概要在车间里度过。
     content: 如果一个法维的操作员正在盖房子，就向他的团队提出这个话题。他为了和建筑工人在一起，希望换上夜班。他询问哪个同事愿意换班四个月。于是他很快就找到了一个换班安排，这不需要正式的人力资源管理审批流程。
   - topic: Job Titles and Job Descriptions
-    title: A worker at FAVI might operate a number of different machines, be in
-      charge of ordering supplies for his team, lead a number of continuous
-      improvement actions, and be responsible for recruitment to his team.
-      Except perhaps for recruitment purposes, no one bothers to write down a
-      job description.
-    content: "However, at [FAVI](http://www.favi.com/), one person on the team holds
-      most management roles for the team ([FAVI](http://www.favi.com/) calls
-      them, rather unhelpfully, a “team leader”, which might imply hierarchical
-      power over their colleagues). FAVI found it works best to have one person
-      free to roam among the team and only operate a machine occasionally when a
-      helping hand is needed. FAVI’s team leaders act as coaches for their
-      colleagues, as a clearinghouse for information, and as a point person when
-      coordination is needed with other teams. This choice nevertheless carries
-      a risk. Our cultural baggage of hierarchy is so strong that over time,
-      team leaders could start behaving like bosses and become the primary
-      decision makers on their teams. At FAVI, a simple but powerful relief
-      valve exists, should a team leader find the taste of power too sweet:
-      workers can choose at any moment to join another team. Team leaders have
-      no meaningful way of coercing people into desired behavior; they certainly
-      don’t have the authority to fire people unilaterally. If they start to
-      behave autocratically, people can simply walk away"
+    title: 法维I的一名工人可能会操作许多不同的机器，还能负责为他的团队订购供应品，也能领导一些持续改进的活动，并负责为团队招聘新人。除了招聘目的之外，基本上没人会费心写下工作描述。
+    content: 不过法维团队中还是会又一个人担任团队的大部分管理角色，法维无奈的称他们为“团队领导”，因为这个称呼可能意味着对同事具有等级权力。法维发现，最好留下一个能在一线团队中自由活动的人，他只在需要帮助的时候才偶尔操作机器。法维的团队领导是同事们的教练和信息交流中心，在需要与其他团队协调时充当关键人物。然而，这种选择是有风险的。我们的等级制度文化包袱是如此强大，随着时间的推移，团队领导困难开始表现得像个控制者，成为团队的主要决策者。不过法维设置了一个简单但功能强大的减压阀，如果一个团队领导表现出权力欲望而让人不舒服：工人可以随时选择离开并加入另一个团队。团队领导者没有任何有效的方法能用来强迫人们做出非自主的行为（受领导控制）；他们当然没有权力单方面解雇员工。如果他们开始专制，人们就可以走开。
   - topic: Objectives and Target Setting
     title: Sales teams have no sales targets.
     content: >-
