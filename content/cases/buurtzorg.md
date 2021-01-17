@@ -229,7 +229,7 @@ theory:
 
       * 在第二轮中做出决策。提案基于同意（而不是全员一致）原则提交给小组作决定。对于要通过决策的解决方案，只要没人提出原则性的反对就足够了。如果没有反对意见，就会采用该解决方案。但基于一个共识：即在出现新资料时，可以随时重新审议该决策。
   - topic: Evolutionary Purpose
-    title: help sick and elderly patients live a more autonomous and meaningful life
+    title: 帮助病人和老年人过上更加自主和有意义的生活
     content: "For Buurtzorg, its purpose— to help sick and elderly patients live a
       more autonomous and meaningful life— is paramount, so much so that Jos de
       Blok, its founder, has documented and published Buurtzorg’s revolutionary
