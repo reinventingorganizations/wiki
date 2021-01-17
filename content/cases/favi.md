@@ -34,8 +34,7 @@ theory:
       Organizations Inspired by the Next Stage of Human Consciousness (Kindle
       Locations 1704-1715). Nelson Parker. Kindle Edition.]"
   - topic: Coordination
-    title: At FAVI, coordination happens organically on a voluntary basis through
-      regular meetings, temporary project teams and reverse delegation.
+    title: 在法维，协调工作是通过定期会议、临时项目小组和反向授权，在自愿的基础上有机进行的。
     content: "At FAVI, production is organized by customer. This makes
       load-balancing a significant issue: because customer orders fluctuate, on
       any given day some teams might have too much work and others too little.
