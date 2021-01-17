@@ -72,7 +72,7 @@ theory:
     title: 在法维有一个表达感恩和颂扬的美好实践：公司的每一次会议都有个特殊的开场，每个参会者依次分享他们最近感谢或祝贺过某人的一个简短故事。
     content: 这一强有力的[法维](http://www.favi.com/)法维会议开场实践对会议产生了有效的影响：滋养了可能性、感激、庆祝和信任的情绪。关注他人及其成就，可以使注意力从成员们可能代入会议室的个人思绪上转移开来，回到当下。几年后，这种做法开始在[法维](http://www.favi.com/)人中得到稳固，于是就被停止了（不再需要了）。这可能会以另一种形式再次出现。这类做法会不断演变。这些应该让人感到新鲜并有意义，而不是形式化和固定的。
   - topic: Recruitment
-    title: Uses an extended trial period, to ensure a mutual match.
+    title: 通过延长的试用期，来保证双向适配性。
     content: "[FAVI](http://www.favi.com/) made extended use of the trial period for
       both parties to test whether the match works out."
   - topic: Onboarding
