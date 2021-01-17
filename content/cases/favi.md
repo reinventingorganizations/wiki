@@ -44,7 +44,7 @@ theory:
       Stage of Human Consciousness (Kindle Locations 1766-1772). Nelson Parker.
       Kindle Edition.]"
   - topic: Information Flow
-    title: Information flow in time of crisis.
+    title: 危机时刻的信息流。
     content: >-
       When Jean-Francois Zobrist, the CEO of [FAVI](http://www.favi.com/), was
       faced with difficult and critical decisions at the company, he readily
