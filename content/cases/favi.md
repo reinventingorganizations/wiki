@@ -3,16 +3,14 @@ layout: case
 tags: cases
 name: 法维（FAVI）
 date: 2020-11-17T14:57:47.618Z
-introduction: >-
-  Favi is a French SME born in 1956 specialized in gearbox forks for cars and
-  copper rotors. 
-
+introduction: |-
+  法维是一家诞生于1956年的法国中小企业，专门生产汽车变速箱叉和铜转子。
 
   ![](/media/2_058n-favi-medium-small.png)
-industry: C. Manufacturing
-geography: France
+industry: C.制造业
+geography: 法国
 companySize: 201-500
-profit: Profit
+profit: 营利组织
 theory:
   - topic: sales-marketing
     title: Sending love to clients
