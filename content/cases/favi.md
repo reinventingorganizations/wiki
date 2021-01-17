@@ -125,9 +125,7 @@ theory:
 
       法维实现这一突破的产品开发过程，是与日本教授柴庄司（Shiba Shoji）合作开发的。这个设计过程的明确动力是源于情感，美和直觉。^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 209]
   - topic: Purchasing and Investments
-    title: FAVI implemented a practice of bottom-up planning based on trust towards
-      its teams to come up with realistic budget requests. In case of conflicts,
-      representatives of each team sort out problems on their own.
+    title: 法维实施了一种自下而上的规划模式，这种规划基于对团队的信任，让一线提出切合实际的预算要求。如预算内容有冲突，也靠各队代表自行解决。
     content: >-
       Once a year, every team at [FAVI](http://www.favi.com/) establishes the
       investment budget for the next year - new machines, new tooling, and so
