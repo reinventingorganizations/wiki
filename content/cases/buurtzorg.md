@@ -200,8 +200,7 @@ theory:
     content: 在布尔佐格（荷兰语意为“邻里关怀”），护士分成10到12人的小组，每个小组在一个明确的小型社区为大约50名患者提供服务。由团队全权负责完成传统组织模式中分散在不同职能部门的所有工作。他们不仅负责提供护理，还负责决定为多少病人和哪些病人提供服务。基层团队负责招聘、业务规划、假期和假期安排以及行政管理。团队自主决定在哪里租办公室以及如何装修。团队决定如何最好地融入当地社区，接触哪些医生和药店，以及如何最好地与当地医院合作。团队决定何时开会、以及如何在成员之间分配任务，并制定个人和团队的培训计划。团队决定是否需要扩大自己的团队规模，或者如果患者数量超过他们的服务能力，可以决定将团队一分为二。团队负责监控自己的表现，如果生产力下降，会自主决定采取纠正措施。团队中没有领导者；重要的决策由集体做出。^\[Laloux，Frederic（2014-02-09）。重塑组织：以人类意识下一阶段为灵感来创建组织的指南（Kindle
       1498-1505）。纳尔逊·帕克。Kindle版。]
   - topic: Decision Making
-    title: Buurtzorg has found an effective way for making decisions that affect
-      large numbers of people.
+    title: 布尔佐格找到了一种有效的、可做出影响大量成员决策的方法。
     content: >-
       [Buurtzorg ](http://www.buurtzorgnederland.com/)uses social media (as
       mentioned above) in a powerful and way to support the advice process.  For
