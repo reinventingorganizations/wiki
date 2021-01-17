@@ -230,23 +230,12 @@ theory:
       * 在第二轮中做出决策。提案基于同意（而不是全员一致）原则提交给小组作决定。对于要通过决策的解决方案，只要没人提出原则性的反对就足够了。如果没有反对意见，就会采用该解决方案。但基于一个共识：即在出现新资料时，可以随时重新审议该决策。
   - topic: Evolutionary Purpose
     title: 帮助病人和老年人过上更加自主和有意义的生活
-    content: "For Buurtzorg, its purpose— to help sick and elderly patients live a
-      more autonomous and meaningful life— is paramount, so much so that Jos de
-      Blok, its founder, has documented and published Buurtzorg’s revolutionary
-      ways of operating in great detail, to invite competition to imitate him.
-      He accepts all invitations from competitors to explain his methods. He and
-      a colleague are deeply involved as advisors to ZorgAccent, a direct
-      competitor, and don’t ask to be compensated for it. From an Orange
-      perspective, this attitude makes no sense. Buurtzorg’s breakthrough
-      organizational innovations are its equivalent to Coca-Cola’s secret
-      formula: a competitive advantage that should be locked up in a vault. But
-      from an Evolutionary-Teal perspective, the defining purpose is not
-      Buurtzorg’s market share or Jos de Blok’s personal success. What matters
-      is patients living a healthy, autonomous and meaningful life. De Blok
-      says, “In my perspective, the whole notion of competition is idiotic. It
-      really makes no sense. You try to figure out how you can best organize
-      things to provide the best care. If you then share the knowledge and the
-      information, things will change more quickly”.^[Laloux, Frederic
+    content: "对布尔佐格来说，其组织目标——帮助病人和老年人过上更加自主和有意义的生活——是至高无上的，所以创始人乔斯·德布洛克详细记录并出版了布尔佐格\
+      的先进运作方法，邀请竞争对手来模仿。他接受所有同行组织的邀请，为他们讲解他这些先进的方法。他和一位同事还作为直接竞争对手佐尔加森特（ZorgAcc\
+      ent）的顾问参与在该组织的运作中，也不收取咨询费。从橙色的角度来看，这种做法无法理解。布尔佐格摸索出来的突破性组织创新模式，相当于可口可乐的秘方\
+      ：本来是个应该锁在保险库里的竞争优势。但从进化主题的蔚蓝角度来看，布尔佐格的目标并不是市场份额，也不是乔斯德布洛克的个人成功。重要的是让病人过上健\
+      康、自主和有意义的生活。德布洛克说：“在我看来，整个竞争的概念是愚蠢的。这真的毫无意义。只要试着想办法以最好的方式组织事情，提供最好的护理服务就是\
+      优势（不需要打败谁，而是做好自己）。如果你能分享这些有用的知识和信息，整个行业会发生更快的变化。”^\\[Laloux, Frederic
       (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations
       Inspired by the Next Stage of Human Consciousness (Kindle Locations
       4215-4224). Nelson Parker. Kindle Edition.]"
