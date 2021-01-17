@@ -145,8 +145,7 @@ theory:
 
       预算的主要目的不是用于跟踪绩效：不做每月实际与预算的比较。团队只需跟踪他们每月的数字，如果数字不令人满意（与前一个月或前一年相比，或与某些比率相比），他们会自行讨论纠正措施。法维I在其《管理宣言》中，以一种挑衅性的方式表达了对预算的思考：在新的思维方式中，我们的目标是，在莫名其妙中赚钱，而不是旧式的，在精准把控中亏钱。法维目前没有上市，是私有公司，所以不需要向外部股东报告。
   - topic: Crisis Management
-    title: CEO of FAVI, Jean-Francois Zobrist asks everyone on the shop floor for
-      help in the wake of the first Gulf War.
+    title: 第一次海湾战争后，法维的首席执行官让-弗朗索瓦•佐布里斯特曾向车间里的每个人求助。
     content: "It was a common occurrence, that when faced with difficult and
       critical decisions at FAVI, Zobrist would readily admit he needed help to
       find a good answer. On impulse, he would go around the shop floor and ask
