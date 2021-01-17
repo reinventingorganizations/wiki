@@ -10,8 +10,7 @@ companySize: 101-200
 profit: 非营利
 theory:
   - topic: Decision Making
-    title: Enspiral is a distributed collective using a consent-based advice process
-      emphasizing online communication, inclusion, and individual autonomy.
+    title: 恩斯皮拉尔是一个分布式主权个人组成的积分整体，使用基于同意的建议过程，强调在线交流、包容和个人自主。
     content: Enspiral is a network of highly autonomous individuals, teams, and
       ventures. As much as possible, we encourage people to make decisions for
       themselves. Enspiral is also a network building shared commons, and
