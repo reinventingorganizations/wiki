@@ -172,15 +172,9 @@ theory:
       * 价值是在车间创造的。要由车间操作员精心打造产品，CEO和管理人员好的也只能提供支持；不好的就是一线的障碍。
   - topic: Self-Management
     title: 一个没有中层管理职能的具有竞争力的全球供应商
-    content: "FAVI’s factory has more than 500 employees that are organized in 21
-      teams called “mini-factories” of 15 to 35 people. Most of the teams are
-      dedicated to a specific customer or customer type (the Volkswagen team,
-      the Audi team, the Volvo team, the water meter team, and so forth). There
-      are a few upstream production teams (the foundry team, the mold repair
-      team, maintenance), and support teams (engineering, quality, lab,
-      administration, and sales support). Each team self-organizes; there is no
-      middle management, and there are virtually no rules or procedures other
-      than those that the teams decide upon themselves.^[Laloux, Frederic
+    content: "法维的工厂共有500多名员工，他们组成21个被称为“迷你工厂”的团队，每个团队由15到35人组成。大多数团队都服务于特定的客户或客户类型（\
+      大众汽车团队、奥迪团队、沃尔沃团队、水表团队等等）。还有几个上游生产团队（铸造团队、模具维修团队、维护团队）和支持团队（工程、质量、实验室、管理和\
+      销售支持）。每个团队都自组织；没有中层管理人员，除了团队自己决定的规则或程序之外，几乎没有其他规则或程序。^\\[Laloux, Frederic
       (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations
       Inspired by the Next Stage of Human Consciousness (Kindle Locations
       1704-1708). Nelson Parker. Kindle Edition.]"
