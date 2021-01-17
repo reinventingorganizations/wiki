@@ -52,7 +52,7 @@ theory:
 
       在危机时刻，他公开与所有员工分享关于现实情况的信息，相信他们能处理好这些信息。因此，员工没有被保护在虚伪的安全感内。每个人，不管级别高低，都可以借此机会感受所接触到信息的影响，并与之产生共鸣。听众中的人们大声提出问题和建议。他们一起找到了克服危机的集体行动方针。
   - topic: Meetings
-    title: A rhythm of meetings to suit manufacturing.
+    title: 适合制造业的会议节奏。
     content: >-
       Weekly senior management meetings in [Favi](http://www.favi.com/) used to
       include the heads of sales, production, maintenance, finance, HR, etc.
