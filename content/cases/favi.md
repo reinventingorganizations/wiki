@@ -73,8 +73,7 @@ theory:
     content: 这一强有力的[法维](http://www.favi.com/)法维会议开场实践对会议产生了有效的影响：滋养了可能性、感激、庆祝和信任的情绪。关注他人及其成就，可以使注意力从成员们可能代入会议室的个人思绪上转移开来，回到当下。几年后，这种做法开始在[法维](http://www.favi.com/)人中得到稳固，于是就被停止了（不再需要了）。这可能会以另一种形式再次出现。这类做法会不断演变。这些应该让人感到新鲜并有意义，而不是形式化和固定的。
   - topic: Recruitment
     title: 通过延长的试用期，来保证双向适配性。
-    content: "[FAVI](http://www.favi.com/) made extended use of the trial period for
-      both parties to test whether the match works out."
+    content: "[法维](http://www.favi.com/)通过设定延长的试用期，来保证双方都能有机会测试这个匹配是否有意义。"
   - topic: Onboarding
     title: FAVI newly hired engineers and administrative workers are trained at
       operating at least one machine on the shop floor.  New hires also end
