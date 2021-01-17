@@ -247,7 +247,7 @@ theory:
 
       布尔佐格章程规定，董事会不负责CEO的任命。CEO由组织内部自主选出。^\[Interview Jos de Blok with Frederic Laloux in 2013]
   - topic: Dismissal
-    title: Dismissals are self-managed, using a mediated conflict resolution process.
+    title: 解雇通过使用冲突解决流程的自我管理方式实现。
     content: >-
       Dismissals are self-managed, using a mediated [conflict
       resolution](../conflict-resolution/) process.
