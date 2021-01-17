@@ -37,14 +37,7 @@ theory:
       学生们不会回避那些有趣的、感人的、发自内心的故事。学生和老师都认为这各周例会对于培育学校非凡的学习、协作和成熟人性具有决定性的效果。在麦克风前讲述的每一个善良、勇气、关怀或专业精神的故事，都是一根细线，编织成一幅丰富的感恩织锦，成为学校卓越学习文化的关键元素。现在，教职员工会议也开始采用同样的做法：总是从一轮表扬开场。
   - topic: Conflict resolution
     title: 创新的课程和组织模式，培养了社区意识，鼓励积极的揭示并解决冲突。
-    content: At ESBZ , a large school has been broken down into smaller, self
-      governing units, to create a sense of community within mini-schools. In
-      addition, all teachers and students are trained in [Nonviolent
-      Communication](https://en.wikipedia.org/wiki/Nonviolent_Communication).
-      Utilizing these and other conflict resolution skills, every class gets
-      together at a fixed time each week to discuss and deal with tensions in
-      the group. The meeting is facilitated by a student who enforces a number
-      of ground rules that keep the discussion safe.
+    content: ESBZ将一所大型学校分解成更小的自治单位，目标是在这些小型学校中创造一种社区意识。此外，所有教师和学生都接受[非暴力沟通](https://en.wikipedia.org/wiki/Nonviolent_Communication)培训，每个班级每周都会在固定的时间段开会，活用这些和其他解决冲突的技巧，讨论和处理小组中的紧张关系。会议由一名学生主持，他执行一些基本规则，以保证讨论的安全。
   - topic: wholeness
     title: The "Praise Meeting"
     content: "[ESBZ ](http://www.ev-schule-zentrum.de/aktuell/)has an extraordinary
