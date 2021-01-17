@@ -36,8 +36,7 @@ theory:
 
       学生们不会回避那些有趣的、感人的、发自内心的故事。学生和老师都认为这各周例会对于培育学校非凡的学习、协作和成熟人性具有决定性的效果。在麦克风前讲述的每一个善良、勇气、关怀或专业精神的故事，都是一根细线，编织成一幅丰富的感恩织锦，成为学校卓越学习文化的关键元素。现在，教职员工会议也开始采用同样的做法：总是从一轮表扬开场。
   - topic: Conflict resolution
-    title: Innovative curriculum and organizational model that fosters a sense of
-      community and encourages the surfacing and resolution of conflict.
+    title: 创新的课程和组织模式，培养了社区意识，鼓励积极的揭示并解决冲突。
     content: At ESBZ , a large school has been broken down into smaller, self
       governing units, to create a sense of community within mini-schools. In
       addition, all teachers and students are trained in [Nonviolent
