@@ -90,13 +90,7 @@ theory:
       法维还为新成员提供了一个培训计划。但仅仅一次培训，可能还不足以让一个人忘却旧习惯，重新养成新习惯。因此，最初的培训单元被扩大，后续培训和讲习班交织在日常生活中。首席执行官让·弗朗索瓦·佐布里斯特过去在每周五上午会主持一个小时的会议，对任何想加入的成员开放。主题：深入了解法维的核心组织工具之一。（法维称之为索引卡，因为这些流程实际上是以索引卡的形式提供给员工的。）培训内容包括组织目标、价值观、决策机制和精益制造技术。
   - topic: Commitment, Working Hours and Flexibility
     title: 在法维，上下班不需要打卡。但工人们仍然会轮班工作，轮班的安排只表示预计这段时间大概要在车间里度过。
-    content: An operator at [Favi](http://www.favi.com/) who was having a house
-      built, brought the topic up with his team. To be on site with the
-      builders, he wanted to switch to the night shift. He asked if a colleague
-      would be willing to swap shifts for a four month period. An arrangement
-      was quickly found without the need for a formal HR approval process of
-      management approval^\[Laloux, Frederic. Reinventing Organizations. Nelson
-      Parker (2014), page 183].
+    content: 如果一个法维的操作员正在盖房子，就向他的团队提出这个话题。他为了和建筑工人在一起，希望换上夜班。他询问哪个同事愿意换班四个月。于是他很快就找到了一个换班安排，这不需要正式的人力资源管理审批流程。
   - topic: Job Titles and Job Descriptions
     title: A worker at FAVI might operate a number of different machines, be in
       charge of ordering supplies for his team, lead a number of continuous
