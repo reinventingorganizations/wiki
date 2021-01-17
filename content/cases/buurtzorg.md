@@ -195,7 +195,7 @@ theory:
   - topic: Crisis Management
     title: 乔德布洛克通过要求他的护士们更加努力地工作，回避了资金危机。
     content: 布尔佐格在2010年曾面临一场危机，并通过建议流程解决了。乔斯德布洛克收到健康保险公司的通知，他们以技术原因（更可能的原因是：保险公司想向布尔佐格发出信号，警告说他们增长太快，牺牲了现有传统供应商的利益）为由，威胁要扣留需要支付给布尔佐格的400万欧元。当时这家年轻的公司正以惊人的速度发展。现金短缺迫在眉睫。乔斯德布洛克给护士们写了一篇内部博客，抛出了这个难题。他提出了两种解决方案：要么布尔佐格决定暂时停止增长（因为新建团队首先需要花钱），要么请护士们致力于提高生产力（在合同时间内增加客户服务工作量）。在博客评论中，绝大多数护士选择更加努力工作，因为他们不喜欢另一种选择：增长放缓意味着对想加入布尔佐格的客户和护士说不。短短一两天，现金问题就找到了解决办法（一段时间后，保险公司最终拨付了代扣的资金）。
-  - title: A vast organization run almost entirely with small, independent teams
+  - title: 一个几乎完全分成小型、独立团队单元运作的庞大组织
     topic: Self-Management
     content: "Within Buurtzorg (which means “neighborhood care” in Dutch), nurses
       work in teams of 10 to 12, with each team serving around 50 patients in a
