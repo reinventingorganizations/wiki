@@ -35,21 +35,14 @@ theory:
       Locations 1704-1715). Nelson Parker. Kindle Edition.]"
   - topic: Coordination
     title: 在法维，协调工作是通过定期会议、临时项目小组和反向授权，在自愿的基础上有机进行的。
-    content: "At FAVI, production is organized by customer. This makes
-      load-balancing a significant issue: because customer orders fluctuate, on
-      any given day some teams might have too much work and others too little.
-      Rather than employing a COO or staff planner to make decisions about
-      allocating work across teams, FAVI chose a more organic and elegant
-      solution. At regular intervals, a group composed of one designated person
-      from each team comes together for a few minutes; they quickly discuss
-      which teams are over or understaffed; back in their teams, they ask for
-      volunteers to switch teams for a shift or two. The person from the Audi
-      team, for example, might ask who in the team is willing to spend the day
-      with the Volvo team. Things happen organically on a voluntary basis;
-      nobody is being allocated to a team by a higher authority.^[Laloux,
-      Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating
-      Organizations Inspired by the Next Stage of Human Consciousness (Kindle
-      Locations 1766-1772). Nelson Parker. Kindle Edition.]"
+    content: "在法维，生产是根据客户需求组织的。这使得负载平衡成为一个重要的问题：由于客户订单的波动性，在任何给定的一天，一些团队可能工作太多，而另一些\
+      团队的工作可能太少。法维不是雇佣一个COO或人员规划师来决定团队间的工作分配，而是选择了一个更有机、更优雅的解决方案。每隔一段时间，由每个团队抽出\
+      一名指定人员，组成一个跨团队小组一起开会，进行几分钟的讨论；他们迅速讨论哪些团队人手过剩或不足；回到团队后，他们会根据会议内容，征集一些愿意到其他\
+      团队暂时替换一两个轮班的志愿者。例如，奥迪车队那个开会回来的人，可能会征集一些愿意和沃尔沃车队共度一天的志愿者。事情是在自愿的基础上有机地发生的；\
+      没有人会被上级强行调换或分配到其他团队。^\\[Laloux, Frederic (2014-02-09). Reinventing
+      Organizations: A Guide to Creating Organizations Inspired by the Next
+      Stage of Human Consciousness (Kindle Locations 1766-1772). Nelson Parker.
+      Kindle Edition.]"
   - topic: Information Flow
     title: Information flow in time of crisis.
     content: >-
