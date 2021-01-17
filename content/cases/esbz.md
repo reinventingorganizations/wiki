@@ -23,9 +23,7 @@ theory:
 
       学生和老师都认为这各周例会对于培育学校非凡的学习、协作和成熟人性具有决定性的效果。
   - topic: Mood Management
-    title: "ESBZ has an extraordinary trust and community-building practice based
-      around storytelling: the Friday afternoon “praise meeting” which fosters a
-      mood of gratitude."
+    title: ESBZ保持着以讲故事为基础的非凡的信任和社区建设活动：周五下午的表扬会，培养一种感恩情绪。
     content: >-
       Each Friday afternoon, the [entire
       school](http://www.ev-schule-zentrum.de/aktuell/)―students, teachers, and
