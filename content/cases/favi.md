@@ -13,7 +13,7 @@ companySize: 201-500
 profit: 营利组织
 theory:
   - topic: sales-marketing
-    title: Sending love to clients
+    title: 向客户传递爱
     content: "Through a process of collective discussion, FAVI’s employees
       determined the organization had two reasons for existence, two fundamental
       purposes: the first to provide meaningful work in the area of Hallencourt,
