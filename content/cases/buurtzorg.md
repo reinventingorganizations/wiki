@@ -197,25 +197,8 @@ theory:
     content: 布尔佐格在2010年曾面临一场危机，并通过建议流程解决了。乔斯德布洛克收到健康保险公司的通知，他们以技术原因（更可能的原因是：保险公司想向布尔佐格发出信号，警告说他们增长太快，牺牲了现有传统供应商的利益）为由，威胁要扣留需要支付给布尔佐格的400万欧元。当时这家年轻的公司正以惊人的速度发展。现金短缺迫在眉睫。乔斯德布洛克给护士们写了一篇内部博客，抛出了这个难题。他提出了两种解决方案：要么布尔佐格决定暂时停止增长（因为新建团队首先需要花钱），要么请护士们致力于提高生产力（在合同时间内增加客户服务工作量）。在博客评论中，绝大多数护士选择更加努力工作，因为他们不喜欢另一种选择：增长放缓意味着对想加入布尔佐格的客户和护士说不。短短一两天，现金问题就找到了解决办法（一段时间后，保险公司最终拨付了代扣的资金）。
   - title: 一个几乎完全分成小型、独立团队单元运作的庞大组织
     topic: Self-Management
-    content: "Within Buurtzorg (which means “neighborhood care” in Dutch), nurses
-      work in teams of 10 to 12, with each team serving around 50 patients in a
-      small, well-defined neighborhood. The team is in charge of all the tasks
-      that were previously fragmented across different departments. They are
-      responsible not only for providing care, but for deciding how many and
-      which patients to serve. They do the intake, the planning, the vacation
-      and holiday scheduling, and the administration. They decide where to rent
-      an office and how to decorate it. They determine how best to integrate
-      with the local community, which doctors and pharmacies to reach out to,
-      and how to best work with local hospitals. They decide when they meet and
-      how they will distribute tasks among themselves, and they make up their
-      individual and team training plans. They decide if they need to expand the
-      team or split it in two if there are more patients than they can keep up
-      with, and they monitor their own performance and decide on corrective
-      action if productivity drops. There is no leader within the team;
-      important decisions are made collectively.^[Laloux, Frederic (2014-02-09).
-      Reinventing Organizations: A Guide to Creating Organizations Inspired by
-      the Next Stage of Human Consciousness (Kindle Locations 1498-1505). Nelson
-      Parker. Kindle Edition.]"
+    content: 在布尔佐格（荷兰语意为“邻里关怀”），护士分成10到12人的小组，每个小组在一个明确的小型社区为大约50名患者提供服务。由团队全权负责完成传统组织模式中分散在不同职能部门的所有工作。他们不仅负责提供护理，还负责决定为多少病人和哪些病人提供服务。基层团队负责招聘、业务规划、假期和假期安排以及行政管理。团队自主决定在哪里租办公室以及如何装修。团队决定如何最好地融入当地社区，接触哪些医生和药店，以及如何最好地与当地医院合作。团队决定何时开会、以及如何在成员之间分配任务，并制定个人和团队的培训计划。团队决定是否需要扩大自己的团队规模，或者如果患者数量超过他们的服务能力，可以决定将团队一分为二。团队负责监控自己的表现，如果生产力下降，会自主决定采取纠正措施。团队中没有领导者；重要的决策由集体做出。^\[Laloux，Frederic（2014-02-09）。重塑组织：以人类意识下一阶段为灵感来创建组织的指南（Kindle
+      1498-1505）。纳尔逊·帕克。Kindle版。]
   - topic: Decision Making
     title: Buurtzorg has found an effective way for making decisions that affect
       large numbers of people.
