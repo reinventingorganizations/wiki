@@ -156,11 +156,7 @@ theory:
 
       令佐布里斯特惊讶的是，大家居然一致同意了。工人们居然刚刚主动同意暂时减薪25%。不到一个小时，问题就解决了，机器噪音再次回荡在工厂周围。佐布里斯特控制恐惧情绪的能力，为一种更具成效的，更赋能的方法铺平了道路。这同时表明，让员工共同面对一个严峻的课题，可以激发他们自己组织起来，走出困境。
   - topic: Fundamental Assumptions
-    title: Leader Jean François Zobrist analyzed the organization chart of the
-      traditionally run factory in the 1980's. Together with his colleagues, he
-      made explicit the underlying assumptions about men and women in the
-      organization. Then they defined three new assumptions, that over time have
-      become mantras inside the factory.
+    title: 组织领导让·弗朗索瓦·佐布里斯特在上世纪80年代，分析了这家传统工厂的组织结构图。他和同事们一起，明确提出了关于组织中男性和女性的基本假设。然后他们定义了三个新的假设，随着时间的推移，这些假设已经成为工厂内部的经咒。
     content: >-
       At FAVI in the 1980's, regarding the organizational practices, men and
       women were considered to be :
