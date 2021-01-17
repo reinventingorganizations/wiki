@@ -4,24 +4,24 @@ tags: cases
 name: 蔚蓝学校(ESBZ)
 date: 2020-11-09
 introduction: ESBZ以其创新的课程和组织模式而受到认可。
-industry: P. Education
-geography: Germany
+industry: P.教育
+geography: 德国
 companySize: "> 500"
-profit: non-profit
+profit: 非营利
 theory:
   - topic: Meetings
-    title: ESBZ is recognized for its innovative curriculum and organization model.
+    title: ESBZ以其创新的课程和组织模式而受到认可。
     content: >-
-      **Praise meetings:**
+      ##### 表扬会：
 
 
-      Every Friday afternoon, the entire school – students, teachers, and staff – comes together for an hour. They start by singing a song together, to settle into community. The rest of the time together is unscripted.
+      每周五下午，全校学生、老师和教职员工开例会一小时。会议开始时一起唱首歌，将人们带回社区感。剩下的会议时间是没有议程安排的。
 
 
-      There is an open microphone on stage, with a simple rule: we are here to praise and thank each other. For the next 50 minutes, students and teachers who feel called to do so stand up, walk up on stage, take the microphone, and praise or thank another student or teacher for something they did or said earlier in the week; when they sit down someone else takes the stage. Every person at the microphone shares what is essentially a miniature story that reveals something about two people – the storyteller and the person being praised or thanked.
+      讲台上有一个开放式麦克风，和一个简单的规则：我们在这里互相表扬和感谢。在接下来的50分钟里，感到有必要这样做的学生和老师会自动站起来走上讲台，拿起麦克风，关于在本周早些时候所做或所说的事情，来表扬或感谢另一学生或老师；他们坐下后，其他人会接过讲台。麦克风前的每个人都分享一个小故事，这个小故事揭示了两个人的某些情况：讲故事的人和被表扬或感谢的人。
 
 
-      Students and teachers credit this weekly session as the defining practice for the school’s extraordinary spirit of learning, collaboration, and maturity.
+      学生和老师都认为这各周例会对于培育学校非凡的学习、协作和成熟人性具有决定性的效果。
   - topic: Mood Management
     title: "ESBZ has an extraordinary trust and community-building practice based
       around storytelling: the Friday afternoon “praise meeting” which fosters a
