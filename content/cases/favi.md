@@ -77,20 +77,10 @@ theory:
   - topic: Onboarding
     title: 法维新雇用的工程师和行政人员，都接受过至少一台机器的操作培训。新员工也会在结束入职流程时，给他们要加入团队的同事们写一封自由形式的公开信，表达喜悦和感激之情。
     content: >-
-      At [FAVI](http://www.favi.com/), the French automotive supplier, all
-      engineers and administrative workers have been trained to operate at least
-      one machine on the shop floor. The training is regularly put to good use:
-      when orders must be rushed out, it happens that all hands get called on
-      deck. White-collar workers come down from the office space on the first
-      floor to man the machines for a few hours. It’s a wonderful
-      community-building practice. People in engineering and administrative
-      roles work under the guidance of the machine operators. They witness
-      first-hand how hard the work on the machines can be and how much skill it
-      involves. At the end of the day, when the orders are out on time,
-      colleagues share a sense of pride in the work accomplisheɖ.
+      在法国汽车供应商[法维](http://www.favi.com/)，所有的工程师和管理人员都接受过至少一台机器的操作培训。这项训练经常得到很好的利用：当出现必须紧急发货的订单时，所有的人手都会被召集到前线赶工。白领们会从一楼的办公室走下来，操作几个小时机器。这是一个很好的社区建设实践。担任工程师和行政职务的人员，这时反而是在机器操作员的指导下完成工作。让他们有机会亲眼目睹机器上的工作有多辛苦，需要多少技巧。一天结束，当订单准时发出时，同事们都对共同完成的工作感到自豪。
 
 
-      [FAVI](http://www.favi.com/)’s onboarding process ends on a nice touch. New teammates who have gone through all the training modules of the first two months are asked to write an open letter to the group of colleagues they have joined. There are no instructions on what the letter should be about, so new hires often dig deep in their selfhood to find something worthwhile to say. The letters are, time and again, deeply touching accounts of gratitude and joy. Many blue-collar workers join [FAVI](http://www.favi.com/) scarred from past experience of mistrust and command and control. Joining an environment where they are considered trustworthy and where their voice counts is often a groundbreaking experience. For many machine operators, writing is not their preferred style of expression. Finding the right words for the letter can take a lot of effort, and the practice is akin to a ritual, a rite of passage into the community.
+      法维的入职过程会以良好的感觉结束。新队友在完成了最初两个月所有的训练模块后，会被要求给他们要加入的团队写一封公开信。对于这封信应该写些什么，没有任何指示，所以新员工往往会深入挖掘自己的个性，寻找值得一提的东西。这些信一次又一次深深地表达了感激和喜悦。许多新加入法维的蓝领工人，过去都有过不被信任、服从指挥和控制的经历和心理伤痕。加入一个能够得到信赖，并认为他们的发言很重要的环境，往往会感到一种开创性经验。对于许多机器操作员来说，写作不是他们首选的表达方式。为这封信找到合适的词语，需要很多努力。于是这种做法类似于一种仪式，一种进入社区连带感的成人礼。
   - topic: Training and Coaching
     title: At FAVI, all engineers and administrative workers have been trained to
       operate at least one machine on the shop floor. This training is put to
