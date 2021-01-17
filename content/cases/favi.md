@@ -95,22 +95,12 @@ theory:
     title: 法维I的一名工人可能会操作许多不同的机器，还能负责为他的团队订购供应品，也能领导一些持续改进的活动，并负责为团队招聘新人。除了招聘目的之外，基本上没人会费心写下工作描述。
     content: 不过法维团队中还是会又一个人担任团队的大部分管理角色，法维无奈的称他们为“团队领导”，因为这个称呼可能意味着对同事具有等级权力。法维发现，最好留下一个能在一线团队中自由活动的人，他只在需要帮助的时候才偶尔操作机器。法维的团队领导是同事们的教练和信息交流中心，在需要与其他团队协调时充当关键人物。然而，这种选择是有风险的。我们的等级制度文化包袱是如此强大，随着时间的推移，团队领导困难开始表现得像个控制者，成为团队的主要决策者。不过法维设置了一个简单但功能强大的减压阀，如果一个团队领导表现出权力欲望而让人不舒服：工人可以随时选择离开并加入另一个团队。团队领导者没有任何有效的方法能用来强迫人们做出非自主的行为（受领导控制）；他们当然没有权力单方面解雇员工。如果他们开始专制，人们就可以走开。
   - topic: Objectives and Target Setting
-    title: Sales teams have no sales targets.
+    title: 营销团队不需要背营销指标。
     content: >-
-      At [Favi](http://www.favi.com/), sales account roles are part of the
-      product team, for example the Audi team. No one gives them sales targets.
-      Their motivation is to serve their clients well and, in the face of
-      Chinese competition, to maintain and when possible increase the number of
-      jobs the factory can provide. To account managers, feeding their team with
-      work is a motivation far stronger than any sales target from a Head of
-      Sales could ever provide. At Favi, sales orders are always discussed in
-      terms of employment, not in monetary terms; so there is no "we got a
-      million order" but rather "we got an order for 10 people's work". This is
-      in line with the organization's purpose, which is to create jobs in an
-      area where jobs are scarce.
+      法维的客户销售经理岗位也被包含在产品团队之内，例如奥迪团队。没有人给他们设置销售目标。他们的动机是为客户提供良好的服务，面对来自中国的竞争，保持并在可能的情况下增加工厂能提供的工作岗位。对客户经理来说，为团队提供工作是一种比来自任何销售主管的销售目标都要强烈的动力。在法维，销售订单的数量是按照雇佣人数来计算，而不是以产值金额单位来讨论；因此，这里没有“我们接到了一百万的订单”，而是“我们接到了10个人工作的订单”。这符合组织目标：在就业机会稀缺的地区创造就业机会。
 
 
-      Incidentally, workers at Favi do not get production targets either. They are well aware of the impact China has on their market, given the feedback they receive from their sales account managers. Operators set themselves target times to machine their pieces, and they monitor their performance against that target.
+      顺便说一句，法维的工人也没有需要达成的生产指标。他们非常清楚中国对他们市场的影响，并很清楚的把握着他们从销售客户经理那里得到的反馈信息。操作员会据此为自己设定加工工件的目标时间，并根据该目标监控自己的性能。
   - topic: Innovation and Product Development
     title: FAVI invents the first method for molding 100 % pure copper - for
       challenge and beauty, with zero market research.
