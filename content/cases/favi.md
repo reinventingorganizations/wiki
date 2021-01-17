@@ -83,24 +83,11 @@ theory:
       法维的入职过程会以良好的感觉结束。新队友在完成了最初两个月所有的训练模块后，会被要求给他们要加入的团队写一封公开信。对于这封信应该写些什么，没有任何指示，所以新员工往往会深入挖掘自己的个性，寻找值得一提的东西。这些信一次又一次深深地表达了感激和喜悦。许多新加入法维的蓝领工人，过去都有过不被信任、服从指挥和控制的经历和心理伤痕。加入一个能够得到信赖，并认为他们的发言很重要的环境，往往会感到一种开创性经验。对于许多机器操作员来说，写作不是他们首选的表达方式。为这封信找到合适的词语，需要很多努力。于是这种做法类似于一种仪式，一种进入社区连带感的成人礼。
   - topic: Training and Coaching
     title: 在法维，所有工程师和管理人员都接受了至少一台车间机器的操作培训。这项训练在必须紧急交付订单时很有用。所有人都到一线去。白领们会从办公室出来，操作几个小时机器。
-    content: "It’s a wonderful community-building practice. People from engineering
-      and administration work under the guidance of the machine operators. They
-      see first-hand how hard this work can be, and how much skill it requires.
-      When the orders are shipped on time, colleagues share a sense of pride in
-      the accomplishment.\r
+    content: >-
+      这是一个很好的社区建设实践。工程师和行政人员在机器操作员的指导下工作。他们亲眼看到了这项工作有多辛苦，需要多少技能。当订单按时发货时，同事们都为自己的成就感到自豪。
 
-      \r
 
-      FAVI also has a training program given to new members. But one
-      session, only, may insufficient for someone to unlearn old habits and pick
-      up new ones. The initial training modules are therefore expanded with
-      follow-up training and workshops interwoven into daily life. The CEO,
-      Jean- François Zobrist, used to chair a one-hour session every Friday
-      morning, open to whoever wanted to join. The topic: An in-depth look at
-      one of FAVI’s core organizational tools. (FAVI calls them fiches, or index
-      cards, as they are literally available in the form of index cards to
-      employees.) These include organization purpose, values, decision-making
-      mechanisms, and lean manufacturing techniques. "
+      法维还为新成员提供了一个培训计划。但仅仅一次培训，可能还不足以让一个人忘却旧习惯，重新养成新习惯。因此，最初的培训单元被扩大，后续培训和讲习班交织在日常生活中。首席执行官让·弗朗索瓦·佐布里斯特过去在每周五上午会主持一个小时的会议，对任何想加入的成员开放。主题：深入了解法维的核心组织工具之一。（法维称之为索引卡，因为这些流程实际上是以索引卡的形式提供给员工的。）培训内容包括组织目标、价值观、决策机制和精益制造技术。
   - topic: Commitment, Working Hours and Flexibility
     title: At Favi, no one clocks in and out but workers still work in shift
       patterns and are expected to spend roughly this time on the shop floor.
