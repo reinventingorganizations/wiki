@@ -216,25 +216,17 @@ theory:
 
       用传统的镜头看这种似乎有风险的做法，从蔚蓝角度来看却是非常有效的。舒适地坐在家里沙发上发表一篇文章，到第二天下午就可以自动做出决策，并得到组织内数千人的认可。对行业发展方向有了新想法或担忧？写一篇短文，你就会知道组织的反应。如果有人不同意你的想法，你就只是浪费了15分钟的时间……但通过这个过程，你对组织集体意识的想法获得了新的见解。我们回想一下，当今那些传统的大型组织中的决策流程（需要编写幻灯片、召开冗长的战略会议和执行层高管会议对决策进行反复辩论，然后是自上而下的沟通决策内容，在这些会议上，对决策的每一个字都字斟句酌），我们无法不赞叹布尔佐格领导与决策方式的简洁高效。
   - topic: Decision Making
-    title: Buurtzorg uses a formal when decisions are made within a team
+    title: 布尔佐格在团队内做出决策时使用正式的流程
     content: >-
-      [Buurtzorg's ](http://www.buurtzorgnederland.com/)employees work in 750+
-      teams of 10-12 people. These teams are largely autonomous. Many decisions
-      (say how the night shifts are handled, if there is room to accept more
-      clients, etc.) affect the whole team, but no one else. Then, it makes
-      sense for the advice process to take place within a team meeting.
-      Buurtzorg uses a specific method for decisions called “Solution-Driven
-      Methods of Interaction" developed by Ben Wenting and Astrid Vermeer of the
-      Instituut voor Samenwerkingsvraagstukken in the Netherlands.
+      [布尔佐格](http://www.buurtzorgnederland.com/)员工分布在750多个由10-12人的基层团队中工作。这些团队基本上自治。许多决定（比如，决定如何处理夜班，判断团队是否有接受更多客户的空间等）会影响整个团队，但不会影响其他团队。建议流程在团队会议中占有重要的地位。布尔佐格使用了一种特殊的决策方法，称为“解决方案驱动的交互方法”，这个方法由荷兰“合作问题”研究所的本文婷和阿斯特里德开发并倡导。
 
+      小组选出一名会议主持人。
 
-      * The group chooses a facilitator for the meeting.
+      会议的议程在现场当下决定。主持人只能提问题：“你的建议是什么？或者“你这个提议的理由是什么？”所有收到的提案都列在挂图上。
 
-      * The agenda of topics is put together on the spot. The facilitator can only ask questions: “What is your proposal?” or “What is the rationale for your proposal?” All proposals are listed on a flipchart.
+      然后逐一讨论各个话题。第一轮是对提案进行审查和完善。
 
-      * Topics are then addressed one by one. In the first round, proposals are reviewed, and refined.
-
-      * In a second, proposals are put to group decision based on a consent (not consensus). For a solution to be adopted, it is enough that nobody has a principled objection. If there are none, the solution will be adopted, with the understanding that it can be revisited at any time when new information is available.
+      在第二轮中做出决策。提案基于同意（而不是全员一致）原则提交给小组作决定。对于要通过决策的解决方案，只要没人提出原则性的反对就足够了。如果没有反对意见，就会采用该解决方案。但基于一个共识：即在出现新资料时，可以随时重新审议该决策。
   - topic: Evolutionary Purpose
     title: help sick and elderly patients live a more autonomous and meaningful life
     content: "For Buurtzorg, its purpose— to help sick and elderly patients live a
