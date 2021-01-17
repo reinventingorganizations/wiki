@@ -23,7 +23,7 @@ theory:
       Organizations Inspired by the Next Stage of Human Consciousness (Kindle
       Locations 4371-4378). Nelson Parker. Kindle Edition.]"
   - topic: Organizational Structure
-    title: FAVI employs a customer-based parallel team structure with supporting teams
+    title: 法维采用了基于客户的平行团队＋支持团队结构
     content: "FAVI’s factory has more than 500 employees that are organized in 21
       teams called “mini-factories” of 15 to 35 people. Most of the teams are
       dedicated to a specific customer or customer type (the Volkswagen team,
