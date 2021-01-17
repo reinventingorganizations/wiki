@@ -114,22 +114,16 @@ theory:
   - topic: Innovation and Product Development
     title: 法维利用美学和直觉发明了一种新型的医院用抗菌铜合金。
     content: >-
-      Metallurgists have long known that copper has antiseptic properties. *It's
-      a shame*, people at [FAVI](http://www.favi.com/) thought, *that this
-      property isn't put to use in products*. A team started tinkering with
-      antimicrobial copper equipment for hospitals. A prototype soon gave
-      promising results, but Zobrist (CEO) was bothered by its color. The
-      reddish color of copper evokes the faded world of old 19th-century
-      sanatoriums, he found.
+      冶金学家早就知道铜具有防腐性能。法维的人开始想：真遗憾，这个属性没有在产品中得到使用。一个小组开始尝试改善医院的抗菌铜设备。一个原型很快就产生了有希望的结果，但是佐布里斯特（首席执行官）被哪个原型的颜色所困扰。他发现，略带红色的铜让人想起19世纪旧疗养院的褪色世界。
 
 
-      Zobrist (CEO) asked the project team if they could make a prototype with a silver-colored alloy, to give it the shine of stainless steel we associate with modern equipment. The team scoffed: This simply made no sense. The added material for the alloy would make the copper lose its antiseptic properties. Zobrist (CEO) knew he had no ground to stand on. But he was possessed by a deep aesthetic and intuitive sense that it was worth pursuing. He managed to persuade the team into giving it a try.
+      佐布里斯特（首席执行官）问项目组，他们是否可以用银色合金制造一个原型，让它看起来更像与我们的现代设备联系在一起的不锈钢。团队嘲笑道：这根本没有意义。合金中添加的材料会使铜失去防腐性能。佐布里斯特（首席执行官）知道自己没有立足之地。但他有一种深刻的审美观和直觉，认为这是值得追求的。他设法说服团队试一试。
 
 
-      To everybody's surprise, and for reasons still unclear, the silver-color alloy not only kept the copper's antiseptic properties, it enhanced them. A new market opened for FAVI.
+      原因仍然不清楚，但结果令所有人惊讶：银色合金不仅保持了铜的防腐性能，而且增强了铜的防腐性能。这又为法维打开了一个新市场。
 
 
-      The product development process that FAVI used to achieve this breakthrough was developed in collaboration with a Japanese professor, Shoji Shiba. It is a design process that explicitly factors in emotions, beauty and intuition^[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 209]
+      法维实现这一突破的产品开发过程，是与日本教授柴庄司（Shiba Shoji）合作开发的。这个设计过程的明确动力是源于情感，美和直觉。^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 209]
   - topic: Purchasing and Investments
     title: FAVI implemented a practice of bottom-up planning based on trust towards
       its teams to come up with realistic budget requests. In case of conflicts,
