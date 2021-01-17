@@ -157,28 +157,19 @@ theory:
       令佐布里斯特惊讶的是，大家居然一致同意了。工人们居然刚刚主动同意暂时减薪25%。不到一个小时，问题就解决了，机器噪音再次回荡在工厂周围。佐布里斯特控制恐惧情绪的能力，为一种更具成效的，更赋能的方法铺平了道路。这同时表明，让员工共同面对一个严峻的课题，可以激发他们自己组织起来，走出困境。
   - topic: Fundamental Assumptions
     title: 组织领导让·弗朗索瓦·佐布里斯特在上世纪80年代，分析了这家传统工厂的组织结构图。他和同事们一起，明确提出了关于组织中男性和女性的基本假设。然后他们定义了三个新的假设，随着时间的推移，这些假设已经成为工厂内部的经咒。
-    content: >-
-      At FAVI in the 1980's, regarding the organizational practices, men and
-      women were considered to be :
+    content: |-
+      在1980年代的法维，关于组织活动，男女成员基本上被认为是：
 
+      * **小偷**，因为所有东西都锁在储藏室里。
+      * **懒惰**，因为他们的工作时间需要被控制，每一次迟到都会被某人惩罚（他不会问迟到的原因）。
+      * **不可靠**，因为所有人的生产活动都由第三者监督控制，而负责监控的人也肯定不很可靠，所以采用着完好的通用控制机制。
+      * **不聪明**，因为设置了“制造工程师”部门替工人思考。
 
-      * **Thieves**, because everything was locked up in storage rooms.
+      以下是新的假设：
 
-      * **Lazy**, as their working time was controlled and every late showing punished by somebody (who didn't care to inquire about the reasons for being late).
-
-      * **Not dependable,** because all their production was controlled by somebody else – who must not have been very dependable either because general control mechanisms had been put in place.
-
-      * **Not intelligent**, as a "manufacturing engineering" department did the thinking for them.
-
-
-      Here are the new assumptions :
-
-
-      * People are systematically considered to be good (reliable, self-motivated, trustworthy, intelligent).
-
-      * There is no performance without happiness. To be happy, we need to be responsible. To be responsible, we must understand why and for whom we work, and be free to decide how.
-
-      * Value is created on the shop floor. Shop floor operators craft the products, the CEO and staff at best serve to support them. At worst, they are costly distractions.
+      * 系统性认为人之初性本善（可靠的，自我激励的，值得信赖的，聪明的）。
+      * 不快乐就不会有成绩。为了快乐、我们需要负责任。为了负起责任，我们必须了解自己为什么和为谁工作，并能自由决定如何工作。
+      * 价值是在车间创造的。要由车间操作员精心打造产品，CEO和管理人员好的也只能提供支持；不好的就是一线的障碍。
   - topic: Self-Management
     title: A competitive global supplier run without middle management
     content: "FAVI’s factory has more than 500 employees that are organized in 21
