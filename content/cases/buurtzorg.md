@@ -257,8 +257,7 @@ theory:
 
       在另一些情况下，经过深思熟虑后，这个人会发现信任已被不可挽回地打破，并明白是时候离开了。如果无法达成一致，作为解决问题的最后尝试，团队成员可以要求创始人乔斯•德•布洛克出面调解。在极少数情况下，即使这个调节也失败了，团队也可以要求创始人终止此人的合同（法律上，创始人是唯一有权解雇成员的人）。^\[Source: Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 128].
   - topic: Staff Functions
-    title: Buurtzorg has a bare minimum central staff and has put in place
-      mechanisms to leverage its decentralized expertise.
+    title: 布尔佐格拥有最小估摸的总部管理人员，并建立了去中心机制来分享分布式的专门知识。
     content: >-
       Buurtzorg has 9,000 employees, with a headquarters of only 40. There are
       no typical staff roles (no CFO, head of HR, etc.). Most headquarters
