@@ -171,7 +171,7 @@ theory:
       * 不快乐就不会有成绩。为了快乐、我们需要负责任。为了负起责任，我们必须了解自己为什么和为谁工作，并能自由决定如何工作。
       * 价值是在车间创造的。要由车间操作员精心打造产品，CEO和管理人员好的也只能提供支持；不好的就是一线的障碍。
   - topic: Self-Management
-    title: A competitive global supplier run without middle management
+    title: 一个没有中层管理职能的具有竞争力的全球供应商
     content: "FAVI’s factory has more than 500 employees that are organized in 21
       teams called “mini-factories” of 15 to 35 people. Most of the teams are
       dedicated to a specific customer or customer type (the Volkswagen team,
