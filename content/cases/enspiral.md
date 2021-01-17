@@ -3,10 +3,7 @@ layout: case
 tags: cases
 name: 恩斯皮拉尔(Enspiral)
 date: 2020-11-09
-introduction: The Enspiral Foundation is a charitable company co-owned by the
-  Enspiral Members. Its mission is to support the network as a whole, facilitate
-  collaboration between the people and ventures, and further the overall social
-  mission of Enspiral.
+introduction: 恩斯皮拉尔（意思是螺旋）基金会是一家由恩斯皮拉尔成员共同拥有的慈善公司。它的使命是支持整个慈善网络，促进人与企业之间的合作，并进一步推动恩斯皮拉尔的整体社会使命。
 industry: Q. Human health and social work activities
 geography: New Zealand
 companySize: 101-200
