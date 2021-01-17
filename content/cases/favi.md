@@ -14,26 +14,14 @@ profit: 营利组织
 theory:
   - topic: sales-marketing
     title: 向客户传递爱
-    content: "Through a process of collective discussion, FAVI’s employees
-      determined the organization had two reasons for existence, two fundamental
-      purposes: the first to provide meaningful work in the area of Hallencourt,
-      a rural area in northern France where good work is rare; the second to
-      give and receive love from clients. Yes, love, a word rarely heard in the
-      world of business, and even more unexpected in a blue-collar manufacturing
-      environment. At FAVI, it has taken on real meaning. Operators don’t just
-      send products to their clients, they send products into which they have
-      put their heart. A few years ago, around Christmas time, an operator at
-      FAVI molded excess brass into a few small figurines of Santa and of
-      reindeers. He added the figurines into the boxes of finished products,
-      rather like kids put a message in a bottle they throw out to sea,
-      imagining that someone, somewhere, would find it. Other operators have
-      since picked up on the idea and at random times of the year add brass
-      figurines into their shipments, as little tokens of love to their
-      counterparts working on assembly lines at Volkswagen or Volvo, who will
-      find the figurines when they unpack the boxes.^\\[Laloux, Frederic
-      (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations
-      Inspired by the Next Stage of Human Consciousness (Kindle Locations
-      4371-4378). Nelson Parker. Kindle Edition.]"
+    content: "通过集体讨论过程，法维的员工共同确定了该组织存在的两个原因，两个基本目的：第一个是在哈伦库尔地区提供有意义的工作，哈伦库尔是法国北部的一个\
+      农村地区，那里很少有好的工作机会；第二个是给予并接受客户的爱。是的，爱，一个在商界很少听到的词，在蓝领制造业环境中更是出人意料。在法维，爱有了真正\
+      的意义。操作员不仅仅向客户发送产品，他们还发送投入真心的产品。几年前，在圣诞节前后，法维的一个员工把多余的黄铜铸成了一些圣诞老人和驯鹿的小雕像。他\
+      把这些小雕像放进成品的盒子里，就像孩子们把一条信息放进投入大海的漂流瓶，并想象有人会在某处发现它。此后，其他个人也开始接受这一想法，并在一年中的任\
+      意时间，都会将黄铜雕像添加到他们发送的货物中，作为对会在会在拆箱时发现雕像的大众汽车或沃尔沃装配线上工作的同行的一点爱的表达。^\\[Laloux,
+      Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating
+      Organizations Inspired by the Next Stage of Human Consciousness (Kindle
+      Locations 4371-4378). Nelson Parker. Kindle Edition.]"
   - topic: Organizational Structure
     title: FAVI employs a customer-based parallel team structure with supporting teams
     content: "FAVI’s factory has more than 500 employees that are organized in 21
