@@ -39,22 +39,14 @@ theory:
     title: 创新的课程和组织模式，培养了社区意识，鼓励积极的揭示并解决冲突。
     content: ESBZ将一所大型学校分解成更小的自治单位，目标是在这些小型学校中创造一种社区意识。此外，所有教师和学生都接受[非暴力沟通](https://en.wikipedia.org/wiki/Nonviolent_Communication)培训，每个班级每周都会在固定的时间段开会，活用这些和其他解决冲突的技巧，讨论和处理小组中的紧张关系。会议由一名学生主持，他执行一些基本规则，以保证讨论的安全。
   - topic: wholeness
-    title: The "Praise Meeting"
-    content: "[ESBZ ](http://www.ev-schule-zentrum.de/aktuell/)has an extraordinary
-      trust and community-building practice based around storytelling: the
-      “praise meeting.” Every Friday afternoon, the entire school— students,
-      teachers, and staff— comes together for an hour in a large hall. They
-      always start by singing a song together, to settle into community. All the
-      rest of the time together is unscripted. There is an open microphone on
-      stage, with a simple rule: we are here to praise and thank each other. For
-      the next 50 minutes, students and teachers who feel called to do so stand
-      up, walk up on stage, take the microphone, and praise or thank another
-      student or teacher for something they did or said earlier in the week;
-      then they go sit down again and someone else takes the stage. Every person
-      at the microphone shares what is essentially a miniature story that
-      reveals something about two people— the storyteller and the person being
-      praised or thanked— in their struggles and in their glories.[Laloux,
-      Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating
-      Organizations Inspired by the Next Stage of Human Consciousness (Kindle
-      Locations 3517-3524). Nelson Parker. Kindle Edition.]"
+    title: 表扬会
+    content: "[ESBZ
+      ](http://www.ev-schule-zentrum.de/aktuell/)保持着一个基于讲故事的非凡时间，用来培育信任并建设社区感：“\
+      表扬会”。每周五下午，整个学校的学生、老师和教职员工在一个大礼堂里开会一个小时。他们先一起唱首歌。剩下的会议时间是没有议程的。讲台上有一个开放式麦\
+      克风，和一个简单的规则：我们在这里互相表扬和感谢。在接下来的50分钟里，感到有必要这样做的学生和老师会自动站起来走上讲台，拿起麦克风，关于在本周早\
+      些时候所做或所说的事情，来表扬或感谢另一学生或老师；他们坐下后，其他人会接过讲台。麦克风前的每个人都分享一个小故事，这个小故事揭示了两个人的奋斗活\
+      或辉煌故事：讲故事的人和被表扬或感谢的人。\\[Laloux, Frederic (2014-02-09). Reinventing
+      Organizations: A Guide to Creating Organizations Inspired by the Next
+      Stage of Human Consciousness (Kindle Locations 3517-3524). Nelson Parker.
+      Kindle Edition.]"
 ---
