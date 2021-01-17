@@ -82,11 +82,7 @@ theory:
 
       法维的入职过程会以良好的感觉结束。新队友在完成了最初两个月所有的训练模块后，会被要求给他们要加入的团队写一封公开信。对于这封信应该写些什么，没有任何指示，所以新员工往往会深入挖掘自己的个性，寻找值得一提的东西。这些信一次又一次深深地表达了感激和喜悦。许多新加入法维的蓝领工人，过去都有过不被信任、服从指挥和控制的经历和心理伤痕。加入一个能够得到信赖，并认为他们的发言很重要的环境，往往会感到一种开创性经验。对于许多机器操作员来说，写作不是他们首选的表达方式。为这封信找到合适的词语，需要很多努力。于是这种做法类似于一种仪式，一种进入社区连带感的成人礼。
   - topic: Training and Coaching
-    title: At FAVI, all engineers and administrative workers have been trained to
-      operate at least one machine on the shop floor. This training is put to
-      good use when orders must be rushed out. All hands are called on deck.
-      White-collar workers come from their office space to man the machines for
-      a few hours.
+    title: 在法维，所有工程师和管理人员都接受了至少一台车间机器的操作培训。这项训练在必须紧急交付订单时很有用。所有人都到一线去。白领们会从办公室出来，操作几个小时机器。
     content: "It’s a wonderful community-building practice. People from engineering
       and administration work under the guidance of the machine operators. They
       see first-hand how hard this work can be, and how much skill it requires.
