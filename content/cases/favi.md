@@ -102,8 +102,7 @@ theory:
 
       顺便说一句，法维的工人也没有需要达成的生产指标。他们非常清楚中国对他们市场的影响，并很清楚的把握着他们从销售客户经理那里得到的反馈信息。操作员会据此为自己设定加工工件的目标时间，并根据该目标监控自己的性能。
   - topic: Innovation and Product Development
-    title: FAVI invents the first method for molding 100 % pure copper - for
-      challenge and beauty, with zero market research.
+    title: 法维发明了第一种100%纯铜的成型方法——主要是通过挑战精神和追求美善做动力，没有做任何市场研究。
     content: >-
       In the 1990s, Zobrist (CEO) and a few colleagues at [FAVI
       ](http://www.favi.com/)became fascinated with the following idea:
