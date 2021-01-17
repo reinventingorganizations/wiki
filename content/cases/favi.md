@@ -104,17 +104,13 @@ theory:
   - topic: Innovation and Product Development
     title: 法维发明了第一种100%纯铜的成型方法——主要是通过挑战精神和追求美善做动力，没有做任何市场研究。
     content: >-
-      In the 1990s, Zobrist (CEO) and a few colleagues at [FAVI
-      ](http://www.favi.com/)became fascinated with the following idea:
-      foundries always produce alloys, because pure copper cannot be molded.
-      What if FAVI could somehow do the impossible - shape industrial products
-      made of 100 percent pure copper? They started tinkering.
+      上世纪90年代，佐布里斯特（首席执行官）和法维的一些同事对一个想法着迷了：铸造厂总是生产合金，因为纯铜不能模压。法维是否能以某种方式制造出由100%纯铜制成的、迄今被认为不可能成形的工业产品呢？他们开始敲敲打打，反复摸索。
 
 
-      Would there be a market for such products? They had no idea, but they didn't care to commission a market study. Pure copper has some properties, like electrical conductivity, that alloys don't have; such a property must have a purpose. What really got them excited was not the market they might discover. They were excited by the beauty of the seemingly impossible: to shape pure copper.
+      这种产品会有市场吗？他们不知道，但没有想过要委托外部进行市场研究。纯铜有一些合金所不具备的特性，如导电性；这种特性一定有其用途。真正让他们兴奋的，不是他们可能发现的市场。他们只是被看似不可能的美感所激励：塑造纯铜。
 
 
-      After two years of tinkering, they succeeded. And as they had imagined, a market came knocking at their door. Pure copper rotors have interesting properties in electrical motors. This is now an important business for FAVI.^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 208]
+      经过两年的敲打修补，他们成功了。正如他们所想象的，一个新的市场来敲门了。纯铜转子在电动机中具有非常有趣的特性。这已经成为法维的一项重要业务。^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 208]
   - topic: Innovation and Product Development
     title: FAVI invents a new antiseptic copper alloy for hospitals using aesthetics
       and intuition.
