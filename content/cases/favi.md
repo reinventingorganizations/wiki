@@ -146,42 +146,14 @@ theory:
       预算的主要目的不是用于跟踪绩效：不做每月实际与预算的比较。团队只需跟踪他们每月的数字，如果数字不令人满意（与前一个月或前一年相比，或与某些比率相比），他们会自行讨论纠正措施。法维I在其《管理宣言》中，以一种挑衅性的方式表达了对预算的思考：在新的思维方式中，我们的目标是，在莫名其妙中赚钱，而不是旧式的，在精准把控中亏钱。法维目前没有上市，是私有公司，所以不需要向外部股东报告。
   - topic: Crisis Management
     title: 第一次海湾战争后，法维的首席执行官让-弗朗索瓦•佐布里斯特曾向车间里的每个人求助。
-    content: "It was a common occurrence, that when faced with difficult and
-      critical decisions at FAVI, Zobrist would readily admit he needed help to
-      find a good answer. On impulse, he would go around the shop floor and ask
-      everyone to stop machines, and he would climb on a soapbox and share the
-      problem with all the employees, trying to figure the course of action. The
-      first major crisis under his leadership occurred in 1990 when car orders
-      plummeted in the wake of the first Gulf War. Stocks were piling up, and
-      there simply wasn't enough work to keep workers busy. Capacity and costs
-      needed to be reduced.\r
+    content: >-
+      在法维，每当面临困难和关键的决定，佐布里斯特都会欣然承认，自己需要成员的帮助来找到一个好的答案。这是一个常见的现象。他会一时冲动，而在车间里走来走去，让每个人都停下机器，然后会爬上肥皂盒，跟所有的员工分享难题，试图找出行动的方向。他领导期间的第一次重大危机发生在1990年，第一次海湾战争后，汽车订单锐减。库存不断增加，根本没有足够的工作让工人们忙碌。急需降低产能和成本。
 
-      \r
 
-      There was one obvious solution: fire the temp workers. But at FAVI,
-      no one was really considered a temp worker. For reasons related to labor
-      laws in France, new recruits were hired as temp workers for 18 months
-      before they were offered a full contract. Most of them were already
-      considered full members of their teams. By firing the temps, FAVI would
-      rescind its moral commitment to them, and it would lose talent it had
-      invested in, with a recovery perhaps only a few months away. With many
-      questions and no clear answers, Zobrist found himself on the soapbox and
-      shared his dilemma with all employees in that shift (including the temp
-      workers whose fate was being discussed). People in the audience shouted
-      questions and proposals. One worker said, \"This month, why don't we all
-      work only three weeks and get three weeks' pay, and we keep the temp
-      workers? If we need to we will do the same thing next month as well.\"
-      Heads nodded, and the proposal was put to a vote.\r
+      有一个明显的解决办法：解雇临时工。但在法维，没有人真正被认为是临时工。由于与法国劳动法有关的原因，新员工被雇佣为临时工，为期18个月，然后才得到一份完整的雇佣合同。他们中的大多数人已经被认为是团队的正式成员。如果选择解雇临时工，法维将违背组织对临时工的道德承诺，并将失去已经做出培训投资的人才，也许危机在几个月后就能恢复。许多问题没有明确的答案，佐布里斯特发现自己站在了肥皂盒上，与所有轮班的员工（包括正在被决定命运的临时工）分享了他的困境。听众中的人们大声提出问题和建议。一位工人说：“这个月，我们为什么不都只工作三周，拿三周的工资，然后就可以保留临时工呢？如果需要的话，下个月我们也会做同样的事情。”同时的点头，表示这个提议可以付诸表决。
 
-      \r
 
-      To Zobrist's surprise, there was unanimous agreement. Workers had
-      just agreed to a temporary 25 percent salary cut. In less than an hour,
-      the problem was solved and machine noise reverberated around the factory
-      again. Zobrist’s ability to keep his fear in check paved the way for a
-      radically more productive and empowering approach and showed that it is
-      possible to confront employees with a harsh problem and let them
-      self-organize their way out of it."
+      令佐布里斯特惊讶的是，大家居然一致同意了。工人们居然刚刚主动同意暂时减薪25%。不到一个小时，问题就解决了，机器噪音再次回荡在工厂周围。佐布里斯特控制恐惧情绪的能力，为一种更具成效的，更赋能的方法铺平了道路。这同时表明，让员工共同面对一个严峻的课题，可以激发他们自己组织起来，走出困境。
   - topic: Fundamental Assumptions
     title: Leader Jean François Zobrist analyzed the organization chart of the
       traditionally run factory in the 1980's. Together with his colleagues, he
