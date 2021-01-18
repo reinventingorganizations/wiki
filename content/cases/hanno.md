@@ -3,11 +3,11 @@ layout: case
 tags: cases
 name: 汉诺（Hanno）
 date: 2020-11-17T14:57:05.017Z
-introduction: Digital design agency - Worldwide - 8 'shipmates' - For Profit.
-industry: M. Professional, scientific and technical activities
-geography: Global
+introduction: 数字设计机构-全球-8个“船友”-营利组织。
+industry: M.科研、高科技
+geography: 全球
 companySize: 1-100
-profit: Profit
+profit: 营利组织
 theory:
   - topic: Compensation and incentives
     title: Evolution of open salary setting from algorithm to advice process.
