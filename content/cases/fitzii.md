@@ -29,8 +29,7 @@ theory:
       evolutionary purpose, strategy and thematic goals, product and service
       changes that could significantly affect customers, and people and culture
       practices such as self-management."
-    title: Fitzii is organized in three parallel teams and uses a Venn diagram to
-      illustrate where teams overlap and share decision making
+    title: 菲茨伊的组织结构由三个平行团队组成，并用维恩图来明确描述团队之间的重叠和共享决策之处。
   - topic: Meetings
     title: Fitzii uses a variety of regular meetings and traditional and innovative
       meeting practices to encourage team-building, information-sharing, and
