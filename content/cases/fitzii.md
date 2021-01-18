@@ -73,8 +73,7 @@ theory:
 
       关于职称，通常的做法是用自己的团队名称作为职称。例如，自我介绍为“成功招聘团队的克拉拉”或签署电子邮件：克拉拉，成功招聘，菲茨伊。同时，如果某些场景需要使用传统职称，每个人都有自由使用。例如，销售和市场营销团队的一名成员，在向市场营销服务供应商致辞时，就可以自称为菲茨伊的市场营销经理。同事们在足够的同事监督压力，以及良好的个人判断力前提下，都会避免采用那些虚荣花哨的头衔！
   - topic: Feedback and Performance Management
-    title: Fitzii coworkers cite an annual, structured, self and peer review process
-      as a highlight of their work and relationships.
+    title: 菲茨伊的同事们会进行一年一度的、结构化的自我和同侪审核，这成为他们工作和人际关系实践的一个亮点。
     content: >-
       At [Fitzii](http://www.fitzii.com/), feedback of all kinds is frequently
       sought and given.
