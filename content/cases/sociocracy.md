@@ -12,25 +12,34 @@ theory:
   - topic: Role Definition and Allocation
     title: 通过基于同意的选举过程，在团队中分配岗位角色
     content: >-
-      [Sociocracy.info ](http://www.sociocracy.info/)describes the Sociocratic
-      election process in the following way: 
+      [社区主义](http://www.sociocracy.info/)以如下方式描述选举过程：
 
 
-      The circle meets for the purpose of deciding who is the best available person for a job. Election is by the consent of all members present or their consent to using a method other than consent. Alternate methods may include range voting, preference voting, majority vote, etc. The group may also consent to delegating the final decision.
+      团队（圈子）开会的目的是，决定谁是最适合这份工作的人。选举须经出席会议的所有成员同意，或经全体同意决定以非同意的方式进行。替代方法可包括范围表决、优先表决、多数表决等。团队也可通过全体同意，对某人授予最终决定权。
 
 
-      1. The election leader reads the job description. The job description defines the aim of the election. As an aim, it establishes the basis for argument and consent. The group may have previously defined the functions and tasks of the person to be elected and consented to the job description, or it may be done in the same meeting. The election leader may have been previously elected, may be the regular leader of the group, or may be elected in the same meeting. This is determined by the size and complexity of the organization and the nature of the election, whether, for example, it is expected to be highly competitive or is a key position.
+      > 1.选举负责人宣读工作说明。根据职位描述确定选举的目的。这个目的是辩论和同意的基础。工作组可能事先确定过被选举人的职能和任务，并同意该职位描述。这些也可能在同一次会议上完成。选举负责人可以事前选举产生，可以是小组的正式领导人，也可以在同一次会议上选出。采用那种方式，取决于组织规模和复杂性以及选举的性质。例如，此次选举是个关键职位，预计会竞争激烈。
 
-      1. Nominations are submitted in writing as simply X nominates X. Circle members may nominate themselves. They may nominate someone who is not a member of the circle or nominate an “outside search” for someone not currently a member of the circle.
+      >
 
-      1. Members give their arguments for the person they nominated. All arguments for one nominee are presented in the same round, asking the additional nominators if they have arguments to add to those of the first person to present. The election leader should monitor whether arguments are based on the job description and the ability of the person to fulfill its requirements and stop the presenter if they are not.
+      > 2.提名以书面形式提交，仅写X提名Y即可。圈成员可自我提名。也可以提名一个不是圈内成员的人，或者倡议进行“外部搜索”而提名一个目前不是圈内成员的人。
 
-      1. Nominators change or withdraw nominations. After arguments in favor of nominations are presented, members are given the opportunity to change or withdraw their nominations.
+      >
 
-      1. Open discussion or rounds on the qualifications of nominated members. Depending on the size of the circle, members may do rounds to discuss the candidates or have open discussion facilitated by the election leader. At this time any concerns about or objections to candidates may be addressed by the candidate or other by other members of the circle. When appropriate, the election leader may suggest that one person seems to be the best candidate. The group must consent to this decision.
+      > 3.成员们为提名的人提出论点。针对同一个被提名人的所有论据，都要在同一轮中集中提出，会询问其他提名人是否有论据要添加到第一个被提出人的论据中。选举负责人负责监督辩论，保证辩论是基于工作描述，审核该人是否有能力满足岗位要求。如果不是，则应阻止陈述人。
 
-      1. Candidates accept or decline. When one candidate has received the consent of all members present, that candidate is asked if they will accept the position. Candidates are not allowed to decline before this point because some candidates migh decline prematurely for fear of standing for election or inappropriately believing themselves to be unqualified. On hearing why their peers have elected them, candidates are more likely to accept.
+      >
+
+      > 4.提名人改变或撤回提名。在收到对提名的各种论据后，各成员有机会改变或撤回其提名。
+
+      >
+
+      > 5.就被提名成员的资格进行公开讨论或轮番讨论。根据圈子的大小，成员可以轮流发言讨论候选人，也可以在选举负责人的支持下进行公开讨论。此时，候选人或圈内其他成员可以提出对候选人的任何担忧或反对意见。在适当的时候，选举负责人可能会建议一个人作最合适候选人。但必须经过全员同意才能作这一决定。
+
+      >
+
+      > 6.候选人接受或拒绝。当一名候选人获得出席会议的所有成员的同意后，会询问该候选人是否接受该职位。在这个时间点之前，候选人是不允许辞退的。因为有些候选人可能因为害怕参选或不适当地认为自己不合格而过早退票。当听到同事说出为什么选自己后，候选人更有可能接受。
 
 
-      Candidates may also accept with provisions, such as a modification in the job description, additional financial or personal support, etc. The group must decide to accept these changes by consent. If they do not, another round may be conducted to elect another of the candidates nominated or a new election conducted.^[Source:  <http://www.sociocracy.info/about-sociocracy/the-sociocratic-election-process/> The article gives further interesting information about conditions that make for good or bad election decisions.]
+      候选人也可以在提出条件的前提下接受职位。如修改工作描述、额外的经济补偿或个人支持等。小组必须在全员同意的情况下，决定是否接受这些变更。如果没有变更，则可进行另一轮选举，选出另一名被提名的候选人或进行新的选举。^\[Source:  <http://www.sociocracy.info/about-sociocracy/the-sociocratic-election-process/> The article gives further interesting information about conditions that make for good or bad election decisions.]
 ---
