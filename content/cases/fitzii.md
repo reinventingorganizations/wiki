@@ -97,8 +97,7 @@ theory:
 
       每次会议开始时都会“实时”创建会议议程。这减少了官僚主义和任何政治扯皮，回避各种整个集团不感兴趣或没有紧迫性的话题。每个团队负责人跟董事会成员分享四个项目：他/她关注什么，b）对什么感到兴奋，c）关心什么，d）需要立即关注的任务是什么。会上只讨论紧急议题和广泛关注的议题，其他议题推迟讨论。所有菲茨伊团队成员都可以阅览会议纪要。
   - topic: Staff Functions
-    title: Fitzii has no dedicated staff functions. Individuals from functional
-      teams volunteer to act as stewards of various staff functions, as needed.
+    title: 菲茨伊没有专门的管理职能岗位。来自基层团队的成员根据需要，自愿担任各种管理职能岗位提供服务。
     content: >-
       Fitzii is organized in three parallel teams along functional lines –
       product & development, sales & marketing, and hiring success. Every Fitzii
