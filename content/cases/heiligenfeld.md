@@ -66,57 +66,16 @@ theory:
       Stage of Human Consciousness (Kindle Locations 4460-4463). Nelson Parker.
       Kindle Edition.]"
   - topic: wholeness
-    title: Company-wide reflection
-    content: "Among the great number of innovative management practices Heiligenfeld
-      has introduced over the years, employees often credit one practice in
-      particular for making the company an outstanding workplace. Every Tuesday
-      morning, 350 or so employees come together for an hour and a quarter to
-      engage in joint reflection (as many as don’t need to be with patients and
-      as the size of the room will allow). Each week, a new topic that is
-      relevant at the moment and conducive to self-reflection is put on the
-      agenda - subjects as diverse as conflict resolution, dealing with failure,
-      company values, interpersonal communication, bureaucracy, IT innovations,
-      risk management, personal health, and mindfulness.\r
+    title: 全组织规模反思
+    content: >-
+      在海利根费尔德多年来引进的大量创新管理实践中，员工们特别推崇一种做法，认为它能使公司成为一个出色的工作场所。每周二上午，350名左右的员工聚在一起进行一个半小时的共同思考（根据房间大小，尽可能多的不需要陪伴病人的成员都参加）。每周都会有一个与当前相关的、有利于自我反省的新话题被提上议事日程，这些话题包括冲突解决、应对失败、公司价值观、人际沟通、官僚作风、IT创新、风险管理、个人健康和正念。
 
-      \r
 
-      The meeting always kicks off with a short presentation to frame the
-      subject matter. But the heart of the meeting happens in small groups
-      engaged in self-reflection. Let’s take the example of the topic “dealing
-      with failure” to illustrate how this event plays out at Heiligenfeld. The
-      short plenary presentation introduces ways to deal gracefully with
-      failure— how new possibilities open up when we stop being judgmental about
-      our failures; how from a higher place of consciousness we can view failure
-      as life’s invitation to expand our skills and awareness and grow into more
-      of who we are.\r
+      会议总是以一个简短的阐述主题陈述开场。但会议的核心是以小组形式参与自我反省。让我们以“处理失败”这个主题为例来说明这个过程，是如何在海利根费尔德进行的。首先通过简短的全体演讲，介绍优雅处理失败的方法——当我们不再对失败进行评判时，就能如此这般的打开新的可能性；如何从一个更高的意识视角出发，将失败视为生命的邀请，是扩展我们的技能和意识，促进我们成长为更广阔自己的机会。
 
-      \r
 
-      After this short introduction, people shuffle their chairs around to
-      create groups of six to ten people. In the groups, people are asked to
-      reflect on the topic— how they deal with failure in their lives, at work
-      and at home, individually and collectively. Every group elects a
-      facilitator who enforces a few ground rules to create a space where it’s
-      safe to explore, to be authentic and vulnerable. In the confines of the
-      small group, helped by their colleagues’ listening, people dare to dig
-      deep and gain new insights about themselves and others. At some point, a
-      microphone goes around the room and people who feel inclined to do so
-      share what came up for them in the discussion. There is no scripted
-      outcome to these meetings, no expected end product; everyone comes out of
-      the meeting with his or her own personal learning. Often, collective
-      insights emerge, as well as decisions and initiatives that are then
-      carried out when people go back to work.\r
+      在这个简短的介绍之后，人们将椅子四处移动，形成很多由6到10个人组成的小组。在小组中，人们被要求反思这个话题——他们如何处理生活中、工作中和家庭中的失败，无论是个人还是集体。每个小组都会选出一位主持人，他会执行一些基本规则，创造一个安全的探索空间，坦诚的让自己展示真实的人性、包括脆弱面。在小范围内同事的倾听帮助下，人们敢于深入挖掘，获得关于自己和他人的新见解。在某个时刻，一个麦克风传遍了整个房间，有兴趣的人会分享他们在讨论中的想法。这些会议没有预定的结果，也没有预期的最终成果；每个人都带着自己的个人学习收获离开会议。通常，会后会自动浮现很多集体智慧见解以及决策和倡议，然后在人们返回工作岗位时，会自动去执行。
 
-      \r
 
-      It’s a time-consuming practice for sure - 75 minutes every week for
-      more than half of the company. But people at Heiligenfeld say the benefits
-      far outweigh the costs. These large group meetings are like a company-wide
-      training program on steroids; the whole organization grows its way through
-      one topic after another, week after week.[Laloux, Frederic (2014-02-09).
-      Reinventing Organizations: A Guide to Creating Organizations Inspired by
-      the Next Stage of Human Consciousness (Kindle Locations 3409-3430). Nelson
-      Parker. Kindle Edition.]\r
-
-      \r\n"
+      当然，这是一个很费时的实践——公司一半以上的员工每周都要投入75分钟。但海利根费尔德的人说，其收益远远大于成本。这些大型小组会议就像公司范围内的打类固醇的培训计划；整个组织通过一个又一个主题，一周又一周地发展壮大。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3409-3430). Nelson Parker. Kindle Edition.]
 ---
