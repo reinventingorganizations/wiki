@@ -1,7 +1,7 @@
 ---
 layout: article
 tags: theory
-key: Amber Paradigm and Organizations
+key: Paradigme et organisations Ambre
 name: Paradigme et organisations Ambre
 sortOrder: 3
 category: history
