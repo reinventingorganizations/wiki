@@ -3,11 +3,11 @@ layout: case
 tags: cases
 name: 沃夫（Valve）
 date: 2020-11-17T14:57:26.749Z
-introduction: Software - US - 330 Employees - For Profit.
-industry: J. Information and communication
+introduction: 软件-美国-330名员工-营利组织。
+industry: J.信息与通讯
 geography: USA
 companySize: 201-500
-profit: Profit
+profit: 营利组织
 theory:
   - topic: Compensation and incentives
     title: Valve uses a stack ranking system to determine compensation.
