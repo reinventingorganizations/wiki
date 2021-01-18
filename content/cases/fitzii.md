@@ -90,15 +90,12 @@ theory:
 
       然后，每个同事都会收到反馈并审核，并准备参加整个团队的讨论。在讨论中，每个人都会分享反馈过程中的新洞见，以及他或她针对得到的反馈计划采取的回应措施。
   - topic: board
-    title: Board meetings are transparent and use a real-time agenda.
+    title: 董事会会议向全体公开，并使用实时议程（不予置）。
     content: >-
-      [Fitzii ](http://www.fitzii.com/)is owned by a [B
-      Corp](http://www.bcorporation.net/), The Ian Martin Group, whose CEO and
-      senior leaders act as an advisory board. Monthly meetings between the two
-      groups focus on surfacing conflict and seeking advice.
+      [菲茨伊](http://www.fitzii.com/)属于伊恩马丁集团，那是一个[B公司](http://www.bcorporation.net/)。总公司的首席执行官和高级领导人担任菲茨伊的顾问委员会。这两个公司每月举行一次共同会议，重点讨论如何表达冲突和寻求建议。
 
 
-      The meeting agenda is created in “real time” at the beginning of every meeting. This reduces bureaucracy and any politicking for topics that may not interest the whole group, or have urgency. Each team head and board member shares four items: what s/he is a) focused on, b) excited about, c) concerned about, and d) tasks that need immediate attention. Urgent topics, and those of broad interest, are discussed, and others deferred. Meeting notes are accessible to all Fitzii team members.
+      每次会议开始时都会“实时”创建会议议程。这减少了官僚主义和任何政治扯皮，回避各种整个集团不感兴趣或没有紧迫性的话题。每个团队负责人跟董事会成员分享四个项目：他/她关注什么，b）对什么感到兴奋，c）关心什么，d）需要立即关注的任务是什么。会上只讨论紧急议题和广泛关注的议题，其他议题推迟讨论。所有菲茨伊团队成员都可以阅览会议纪要。
   - topic: Staff Functions
     title: Fitzii has no dedicated staff functions. Individuals from functional
       teams volunteer to act as stewards of various staff functions, as needed.
