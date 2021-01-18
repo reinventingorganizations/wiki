@@ -57,23 +57,8 @@ theory:
 
       在每一次招聘中，这些角度可能同样重要，也可能不一样。例如，雇佣一个程序员需要高水平的知识、技能和能力（重视什么/what），而雇佣一个将制定策略的高级人员则需要高度的组织目标一致性（为何/why）。
   - topic: Commitment, Working Hours and Flexibility
-    title: At Fitzii, coworkers have freedom to work anywhere there is internet
-      connection and responsibility to achieve the benefits of in-person
-      connections.
-    content: In considering working hours and location,
-      [Fitzii](https://www.fitzii.com/go) “manages a polarity” between freedom
-      and responsibility. Coworkers can work anywhere there is internet
-      connection (freedom). Flexibility is greatly enjoyed by individuals who
-      are productive working from home or have occasional needs, ex. one
-      coworker spent a week working in Miami in order to visit a sick relative.
-      In practice, coworkers work primarily from two offices – one in Oakville,
-      Ontario and the other in Toronto, Ontario. In an effort to spend time
-      together in person – the CEO is often heard saying “you can’t build
-      community unless you waste time together” – coworkers make every effort to
-      work from Oakville on Tuesdays and from Toronto on Thursdays
-      (responsibility). Monthly in-person team meetings rotate between the two
-      locations; an annual in-person team retreat provides quality structured
-      and unstructured interaction.
+    title: 在菲茨伊，同事可以在任何有互联网连接的地方自由工作，同时致力于频繁的肉体见面。
+    content: 在考虑工作时间和地点时，[菲茨伊](https://www.fitzii.com/go)成员致力于在自由和责任之间“保持一个平衡感”。同事可以在任何有互联网连接的地方工作（自由）。成员享受很大程度的灵活性，比如有人可以富有成效的在家里工作，或偶尔基于需要到另一个地点工作。比如，一个同事在迈阿密工作了一个星期，以探望生病的亲戚。实际上，同事主要在两个办公室工作——一个在安大略省的奥克维尔，另一个在安大略省的多伦多。大家都致力于肉身共度时光——人们经常听到首席执行官说“你们在一起的时间，如果没有浪费就是在建立社区连带感”——同事们每周二都会尽一切努力在奥克维尔（Oakville）工作，周四在多伦多（Toronto）工作（这是责任）。每月一次的团队会议在两个地点轮流举行；每年一次的团队集体静修，支撑着高质量的结构化和非结构化互动。
   - topic: Job Titles and Job Descriptions
     title: Fitzii has no set job descriptions; coworkers perform one or more roles
       based on their interests, talents, and the needs of the organization. A
