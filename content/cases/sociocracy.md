@@ -3,14 +3,11 @@ layout: case
 tags: cases
 name: 社区主义(Sociocracy)
 date: 2020-11-09
-introduction: Sociocracy, also called dynamic governance, is a system of
-  governance which seeks to create harmonious social environments and productive
-  organizations. It is distinguished by the use of consent, rather than majority
-  voting, in decision-making, and of discussion by people who know each other.
-industry: V. Others
-geography: Global
+introduction: 社区主义（社会主义）又称动态管理，是一种旨在创造和谐社会环境和生产组织的管理体系。它的特点是在决策中使用同意而不是多数票，以及由相互了解的成员进行讨论。
+industry: V.其他
+geography: 全球
 companySize: "> 500"
-profit: non-profit
+profit: 非营利
 theory:
   - topic: Role Definition and Allocation
     title: A consent based election process to allocate roles within teams
