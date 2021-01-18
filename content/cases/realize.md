@@ -10,7 +10,7 @@ companySize: 1-100
 profit: 营利组织
 theory:
   - topic: Compensation and incentives
-    title: Beautiful in-person conversation among partners to set their compensation.
+    title: 通过美妙的合伙人之间直接对话来确定薪酬。
     content: >-
       In small organizations, the process to set salaries and get advice can
       involve everyone. All colleagues can come together for a meeting to
