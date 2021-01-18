@@ -205,8 +205,7 @@ theory:
 
       人们都在点头，提议被付诸表决，得到了一致同意。工人们刚刚同意了暂时减薪25%。不到一个小时，问题就解决了，机器噪音再次回荡在工厂周围。
   - topic: Staff Functions
-    title: At FAVI, almost all central staff functions have disappeared and been
-      integrated into "mini-factories".
+    title: 在法维，几乎所有的总部管理职能都消失了，这些管理任务都被并入被称为“小型工厂”的基层团队。
     content: "Today, FAVI has more than 500 employees who are organized into 21
       teams called “mini-factories” of 15 to 35 people. Most of the teams are
       dedicated to a specific customer or customer type (the Volkswagen team,
