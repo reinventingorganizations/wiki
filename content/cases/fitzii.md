@@ -22,17 +22,16 @@ theory:
   - topic: Meetings
     title: 菲茨伊利用各种定期会议、传统会议和创新会议来鼓励团队建设、信息共享和决策。
     content: >-
-      In addition to as-needed meetings, [Fitzii ](http://www.fitzii.com/)uses
-      regular meeting practices.
+      除必要的临时会议外，[菲茨伊](http://www.fitzii.com/)采用常规例会机制。
 
 
-      Monthly whole team meetings – all regular Fitzii coworkers attend a monthly meeting that alternates between its two offices. For a team who work from two locations and often telework, this ensures one predictable occasion to meet together face-to-face. The agenda regularly includes wholeness activities such as a getting-to-know one coworker activity, as well as financial review to increase the financial awareness of every team member and promote ownership thinking. Other topics are added, to a shared document (no one person controls the agenda), by anyone who wants the whole team’s input on any topic.
+      每月一次的全团队会议——所有的菲茨伊同事都会参加每月一次的定期会议，该会议在两个办公地点之间轮流举行。对于一个在两个地点工作并且经常远程工作的团队来说，这确保了一个可预测的能面对面开会的机会。该例会的议程包括完整人性活动，如了解一位同事的活动，以及财务审查，以提高每个团队成员的财务意识并促进主人翁思维。任何人想得到整个团队对任何主题意见的人，都可以将其他主题自由添加到一个共享文档中（没有人控制议程）。
 
 
-      One-on-one meetings – traditional manager-employee one-on-one meetings have been replaced with rotating one-on-one meetings between random pairings of individuals. These meetings, called “Teal Dates”, serve to strengthen bonds, increase understanding of other roles, and provide a predictable first point of contact for the advice process. Each Teal Date pairing lasts three months.
+      一对一会议——传统的经理-员工一对一会议，已经被轮流随机配对的个人一对一会议所取代。这些会议被称为“蔚蓝约会”，有助于加强联系，增加对其他角色的了解，并为建议流程提供可预测的第一个联络点。每对蔚蓝约会会持续三个月。
 
 
-      Generally, sound meeting practices and facilitation are highly valued, ex. De Bono techniques, task-based learning techniques, and the company’s own Doozy of a Question (DOAQ) meeting style are examples.
+      一般来说会高度重视良好的会议风格和推进方法。例如德博诺技术、基于任务的学习技术和公司原创的问题杜兹（DOAQ）会议风格就是例子。
   - topic: Coordination
     title: Key to Fitzii’s coordination is a weekly update on the company’s social
       network
