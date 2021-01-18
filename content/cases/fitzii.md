@@ -99,17 +99,14 @@ theory:
   - topic: Staff Functions
     title: 菲茨伊没有专门的管理职能岗位。来自基层团队的成员根据需要，自愿担任各种管理职能岗位提供服务。
     content: >-
-      Fitzii is organized in three parallel teams along functional lines –
-      product & development, sales & marketing, and hiring success. Every Fitzii
-      employee is a member of one of these teams, depending on his or her core
-      role.
+      菲茨伊由三个平行团队组成，分别负责产品与开发、销售与市场营销和成功招聘。每个菲茨伊员工都是其中一个团队的成员，属于哪个团队取决于他或她的核心角色内容。
 
 
-      In addition, Fitzii team members volunteer to steward various staff roles such as finances, purchasing, and human resources. The individual steward accumulates expertise and moves decisions, actions, and projects forward. These allocations are based on individual interest and the team’s overall needs.
+      此外，菲茨伊基层团队的成员自愿担任财务、采购和人力资源等各种管理角色。这些自愿服务的成员主动积累专业知识，负责推进决策、行动和项目。这些任务分配，都基于个人兴趣和团队的总体需求。
 
 
-      A practical example: when Fitzii developed a peer-based 360-degree feedback process, various team members were interested in contributing. Initially, development of the new feedback process lagged as no one was clearly responsible for moving it forward. When the team noticed this, one coworker from the product & development team took the role of steward of the feedback process. He collected advice and opinions from other interested coworkers, proposed a process based on their advice, and took over practical implementation of the new practice. In that sense, the role is less about authority over a particular staff function and more about serving the team’s practical needs.
+      例如：在菲茨伊开发一个基于同事的360度反馈流程时，很多团队成员都有兴趣做出贡献。最初，新反馈流程的发展很慢，因为没有明确人才选负责推动这一进程。当团队注意到这一点时，产品与开发团队的一位同事主动担任了这个反馈过程的管理员。他收集了其他感兴趣的同事的意见和建议，根据他们的建议提出了一个流程，并接管了这个新实践的实施任务。从这个意义上说，这个角色不是对某个特定管理岗位赋予权威，而是为团队的实际需要服务。
 
 
-      Additionally, the team has regular access to subject matter experts from its parent company, the [Ian Martin Group,](http://ianmartin.com/) as well as external experts, such as legal counsel.
+      此外，该小组还负责定期与母公司\[伊恩·马丁集团]的主题专家(http://ianmartin.com/)以及法律顾问等外部专家沟通联络。
 ---
