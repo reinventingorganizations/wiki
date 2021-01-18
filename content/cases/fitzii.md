@@ -13,22 +13,11 @@ companySize: 1-100
 profit: 营利组织
 theory:
   - topic: Organizational Structure
-    content: "Fitzii is organized in three parallel teams along functional lines –
-      product & development, sales & marketing, and hiring success. Each has a
-      senior person who plays a strategy and planning role but has no authority
-      over other team members (Fitzii uses the advice process and other
-      peer-based processes for decision making).\r
+    content: >-
+      菲茨伊由三个平行团队组成，分别负责产品与开发、销售与市场营销和成功招聘。每个团队都有一名高级人员负责战略和规划，但对团队的其他成员没有指挥权（菲茨伊使用建议流程和其他基于同事交流的流程进行决策）。
 
-      \r
 
-      Fitzii maintains a Venn diagram to show the relationship between its
-      three teams. Each team is responsible for its own plans; every combination
-      of two teams has shared plans where their work overlaps; and finally,
-      certain topics rest in the center of the Venn where any changes require
-      input from all three teams. “Center of the Venn” topics include Fitzii’s
-      evolutionary purpose, strategy and thematic goals, product and service
-      changes that could significantly affect customers, and people and culture
-      practices such as self-management."
+      菲茨伊维护一个维恩图来显示组织内三个团队之间的关系。每个团队负责自己的计划；两个团队之间的每个合作组合，都会在工作重叠的地方制定共享的计划；某些重要主题位于维恩图的中心，此处任何更改都需要三个团队的认可。“维恩中心”的主题包括菲茨伊的发展目标、战略和主题目标、可能对客户产生重大影响的产品和服务变化，以及自我管理等有关人力资源和文化的活动。
     title: 菲茨伊的组织结构由三个平行团队组成，并用维恩图来明确描述团队之间的重叠和共享决策之处。
   - topic: Meetings
     title: Fitzii uses a variety of regular meetings and traditional and innovative
