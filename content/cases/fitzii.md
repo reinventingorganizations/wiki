@@ -74,30 +74,21 @@ theory:
       关于职称，通常的做法是用自己的团队名称作为职称。例如，自我介绍为“成功招聘团队的克拉拉”或签署电子邮件：克拉拉，成功招聘，菲茨伊。同时，如果某些场景需要使用传统职称，每个人都有自由使用。例如，销售和市场营销团队的一名成员，在向市场营销服务供应商致辞时，就可以自称为菲茨伊的市场营销经理。同事们在足够的同事监督压力，以及良好的个人判断力前提下，都会避免采用那些虚荣花哨的头衔！
   - topic: Feedback and Performance Management
     title: 菲茨伊的同事们会进行一年一度的、结构化的自我和同侪审核，这成为他们工作和人际关系实践的一个亮点。
-    content: >-
-      At [Fitzii](http://www.fitzii.com/), feedback of all kinds is frequently
-      sought and given.
+    content: |-
+      在[菲茨伊](http://www.fitzii.com/)，经常寻求和给予各种反馈。
 
+      每年，每个菲茨伊的同事都会完成一次自我评估，回答以下两个问题（在在线绩效管理工具中完成）：
 
-      Annually, every Fitzii coworker completes a self-assessment, answering these two questions (in an online performance management tool):
+      * 评估你过去一年取得的成就、学到了什么，带来你成长的错误。然后告诉我们您特别希望得到自己哪些方面表现的反馈。
 
+      然后，会与菲茨伊团队的其他其他成员分享自我评估，接到分享的成员在回答以下两个问题之前，会对收到的同事自我评估内容进行审查：
 
-      * Assess your past year in terms of your accomplishments, important learning, and even mistakes that led to growth. Then tell us what areas of your performance you'd particularly like to get feedback about.
+      * “小A”哪里做得好？请描述一件你认为与小A共事中印象最深刻的事。
+      * 你在工作中受到小A的何种影响，她感兴趣的领域是什么，你认为给她什么样的反馈，才能最有助于她的成长或提高？
 
+      鼓励同事用“发自内心”的语言填写，分享自己是如何被他人的贡献所启发、触动、伤害等。反馈只是个人看法，并非客观事实，所以不使用数字评分或排名。
 
-      Self-assessments are then shared with every other member of the Fitzii team, who review the content before responding with answers to these two questions:
-
-
-      * What did NAME do well? Be sure to include the one thing you most value about working with NAME.
-
-
-      * Considering how you have been affected by NAME, and what areas she's interested in hearing about, what is the feedback you would like to give that could best help her grow or improve?
-
-
-      Peers are encouraged to write in “I” language and to share how they have been inspired, touch, hurt, etc. by the other person’s contributions. Feedback is not presented as objective truth. No numerical ratings or rankings are used.
-
-
-      Each coworker then receives and reviews the feedback and prepares to attend a whole-team discussion in which every person shares new insights from the feedback process, as well as actions he or she wishes to take in response.
+      然后，每个同事都会收到反馈并审核，并准备参加整个团队的讨论。在讨论中，每个人都会分享反馈过程中的新洞见，以及他或她针对得到的反馈计划采取的回应措施。
   - topic: board
     title: Board meetings are transparent and use a real-time agenda.
     content: >-
