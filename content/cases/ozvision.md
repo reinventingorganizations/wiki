@@ -3,12 +3,11 @@ layout: case
 tags: cases
 name: 欧泽维申(Ozvision)
 date: 2020-11-09
-introduction: Ozvision has experimented with innovative approaches. One is the
-  morning meeting called 'good or new'.
-industry: R. Arts, entertainment and recreation
-geography: Japan
+introduction: 欧泽维申尝试了一种创新，叫“好事新事报告”晨会。
+industry: R.艺术、娱乐
+geography: 日本
 companySize: 1-100
-profit: Profit
+profit: 营利组织
 theory:
   - topic: Meetings
     title: Ozvision has experimented with innovative approaches. One is the morning
