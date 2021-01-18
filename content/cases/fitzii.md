@@ -3,15 +3,14 @@ layout: case
 tags: cases
 name: 菲茨伊(Fitzii)
 date: 2020-11-09
-introduction: >-
-  Hiring software and services provider - Canada - 10 employees – For profit
+introduction: |-
+  人力资源软件和服务提供商-加拿大-10名员工-营利组织
 
-
-  [Fitzii ](https://fitzii.com/go/about/)is a Ian Martin Group company (hiring support)
-industry: J. Information and communication
-geography: Canada
+  [菲茨伊](https://fitzii.com/go/about/)是一家伊恩马丁集团公司的子公司（招聘支持）
+industry: J.信息与通讯
+geography: 加拿大
 companySize: 1-100
-profit: Profit
+profit: 营利组织
 theory:
   - topic: Organizational Structure
     content: "Fitzii is organized in three parallel teams along functional lines –
