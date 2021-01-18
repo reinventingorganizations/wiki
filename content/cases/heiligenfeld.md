@@ -43,40 +43,20 @@ theory:
   - topic: Team and Community Building
     title: 海利根费尔德利用创新的管理实践来创造一种支持性的工作文化，在减少冲突的同时培养信任、同理心和同情心。
     content: >-
-      反思实践案例
+      ##### 反思实践案例
 
 
       在[海利根费尔德](http://www.heiligenfeld.de/)，每周二上午，350名员工聚在一起进行一个半小时的共同反思。每周会有一个与当下相关、有利于自我反省的新话题被提上议事日程。最近的会议反映了各种各样的主题，如冲突解决、处理失败、公司价值观、人际沟通、官僚制度、IT创新、风险管理、个人健康和正念。会议总是以一个简短的陈述开始，然后分小组进行自我反思。每个小组都会选出一位主持人，他会执行一些基本规则，创造一个安全的探索空间，成员都坦诚的让自己展示真实的、有时是脆弱的人性。在小范围内同事的倾听过程帮助下，人们敢于深入挖掘，获得关于自己和他人的新见解。同事们每周都会置身于一个由一些基本规则创造的安全空间，而这些规则要求他们作真正的自己。他们学会了用深厚的人性之光，透过自己的勇气力量以及弱点之美来看待彼此。在会议中建立起来的信任、同理心和同情心，远远超出了会议室的范围。这些感觉开始渗透到整个组织。
   - topic: Team and Community Building
-    title: Heiligenfeld uses innovative management practices to create a supportive
-      work culture that fosters trust, empathy, and compassion while decreasing
-      conflict.
+    title: 海利根费尔德利用创新的管理实践来创造一种支持性的工作文化，在减少冲突的同时培养信任、同理心和同情心。
     content: >-
-      **Example for Team supervision**
+      ##### 团队监督案例
 
 
-      [Heiligenfeld ](http://www.heiligenfeld.de/)has developed a simple practice of team supervision. The company works with four external coaches who each have their domain of expertise (relationships, organizational development, system thinking, leadership). There are a number of time slots with the coaches every month that teams can sign up for. The recommendation is for every team to hold at least one session a year; on average teams hold two to four. In the discussion, with the help of the outside supervisor, colleagues can explore what a tension reveals about themselves and how they can grow to resolve it.
+      [海利根费尔德](http://www.heiligenfeld.de/)开发了一个简单的团队监督实践。该公司与四名外部教练合作，每个教练都有自己的专长领域（关系、组织发展、系统思维、领导力）。每个月都有很多时间段开放给各团队和教练们约咨询时间。组织建议每个团队每年至少举行一次这类的咨询会议；但实际上，平均每个团队都会举行两到四次会议。在讨论中，在外部导师的帮助下，同事们能深入探讨紧张情绪会暴露出什么样的自我人性，以及如何才能逐渐解决紧张情绪。
   - topic: Conflict resolution
-    title: Innovative management practices are used to create a supportive work
-      culture that fosters trust, empathy and compassion, while decreasing
-      conflict.
-    content: At Heiligenfeld every Tuesday morning, all 350 employees come together
-      for an hour and a quarter to engage in joint reflection. Every week, a new
-      topic that is current and conducive to self-reflection is put on the
-      agenda. Recent meetings have reflected on subjects as diverse as conflict
-      resolution, dealing with failure, company values, interpersonal
-      communication, bureaucracy, IT innovations, risk management, personal
-      health and mindfulness. The meeting always kicks off with a short
-      presentation to frame the subject matter, followed by self-reflection in
-      small groups. Every group elects a facilitator who enforces ground rules
-      that create a space where it’s safe to explore, to be authentic and
-      vulnerable. In the confines of the small group, helped by their
-      colleagues’ listening, people dare to dig deep and gain new insights about
-      themselves and others. Colleagues are exposed every week to a space made
-      safe by ground rules that invites them to truly be themselves. They learn
-      to see each other in the light of their deep humanity, in the beauty of
-      their strengths and vulnerability. The trust, empathy and compassion that
-      develop in these meetings expand to permeate the whole organization
+    title: 海利根费尔德利用创新的管理实践来创造一种支持性的工作文化，在减少冲突的同时培养信任、同理心和同情心。
+    content: 在海利根费尔德，每周二上午，所有350名员工都会聚在一起进行一个半小时的共同反思。每周都会有一个新的话题被提上议事日程，这个话题是有利于自我反省的最新话题。最近的会议反映了各种各样的主题，如冲突解决、处理失败、公司价值观、人际沟通、官僚制度、IT创新、风险管理、个人健康和正念。会议总是以一个简短的陈述开始，然后在小组中进行自我反思。每个小组都会选出一位执行基本规则的促进者，这些规则创造了一个可以安全探索、真实和易受攻击的空间。在小范围内，在同事的倾听帮助下，人们敢于深入挖掘，获得关于自己和他人的新见解。同事们每周都会置身于一个由基本规则所创造的安全空间，而这些规则要求他们作真正的自己。他们学会了用深厚的人性之光，用自己的力量和弱点之美来看待彼此。在这些会议中形成的信任、同理心和同情心会扩展到整个组织。
   - topic: Strategy
     title: Strategy is developed through sensing rather than forecasting.
     content: "Heiligenfeld uses large group meetings at regular intervals to sense
