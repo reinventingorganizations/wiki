@@ -17,21 +17,16 @@ theory:
 
       每天早上，人们都会召集团队进行“好事或新事”报告活动——这是一天的登入仪式。一个洋娃娃被传来传去，就像一个麦克风。持有者可以分享一些新的（来自工作、报纸或私人生活的新闻），或者一些好的话题，或者仅仅是一个他们想让同事知道的故事，不管是与工作有关的还是与工作无关都可以。
   - topic: Mood Management
-    title: This internet company has experimented a lot with innovative approaches
-      on mood management. Two such practices involve story-telling.
+    title: 这家互联网公司在情绪管理方面进行了很多创新方法的试验。有两种做法涉及到讲故事。
     content: >-
-      In the first, teams gather each morning for a quick meeting called “good
-      or new”. It's a kind of check-in for the day. A doll is passed round, like
-      a talking stick, and whoever has it shares either something new (news from
-      work, the press, or their private lives), or something good (simply a
-      story they want their colleagues to know about, work-related or not).
+      第一种，团队每天早上聚集在一起，召开一个名为“好事新事报告”的快速会议。——这是一天的登入仪式。一个洋娃娃被传来传去，就像一个麦克风。持有者可以分享一些新的（来自工作、报纸或私人生活的新闻），或者一些好的话题，或者仅仅是一个他们想让同事知道的故事，不管是与工作有关的还是与工作无关都可以。
 
 
-      Thus each day starts with a brief, joyful moment: a sort of ritual that says, “Let’s acknowledge that we are all here, as colleagues and as human beings.”
+      因此，每天都以一个短暂而快乐的时刻开始：这是一种仪式，表达的是：“让我们承认，我们都作为同事和人类同伴，临在于这里（触及人性）。”
 
 
-      The second story-telling practice is based on the right of everyone to take an extra day off each year. It's called a "day of thanking". The employee gets $200 from company funds to spend in any way she wants, as long as it is to thank someone special. It might be a colleague, parent, friend, neighbor, or long-lost but not-forgotten school teacher. The only rule is that once she returns to work, she must share the story of what she gave and to whom and how the gift was received.
+      第二种讲故事的做法是，每个人都有权每年多休息一天。被称为“感谢日”。员工可以从公司资金中得到200美元，以任何方式去消费，但要用于感谢某个特别的人。可能是同事、父母、朋友、邻居，或是久违但未被遗忘的学校老师。唯一的规则是，一旦她回到工作岗位，必须分享关于自己给了谁、给了什么以及收到礼物场景的故事。
 
 
-      At [Ozvision](http://ozvision.com/), with 40 employees, colleagues there hear three or four such stories every month. These are often deeply personal stories where colleagues are willing to share three steps in their experience―when the seed for gratitude was planted, how the person was thanked, and how their gift was received.
+      [欧泽维申](http://ozvision.com/)共有40名员工，同事们每个月都会听到三四个这样的故事。这些通常都是非常私人的故事，同事们都自愿的分享自己这次经历中的三个步骤——感恩的种子是什么时候播下的，如何感谢的这个人，以及他们收到礼物时的场景。
 ---
