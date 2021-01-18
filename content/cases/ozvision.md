@@ -3,20 +3,19 @@ layout: case
 tags: cases
 name: 欧泽维申(Ozvision)
 date: 2020-11-09
-introduction: 欧泽维申尝试了一种创新，叫“好事新事报告”晨会。
+introduction: 欧泽维申尝试的创新，其一叫“好事新事报告”晨会。
 industry: R.艺术、娱乐
 geography: 日本
 companySize: 1-100
 profit: 营利组织
 theory:
   - topic: Meetings
-    title: Ozvision has experimented with innovative approaches. One is the morning
-      meeting called 'good or new'.
+    title: 欧泽维申尝试了创新，其中一个叫“好事新事报告”晨会。
     content: >-
-      **Morning meeting:**
+      ##### 晨会：
 
 
-      Every morning people gather their teams for ‘good or new’--a sort of check-in for the day. A doll is passed around, like a talking stick. The holder can share either something new (news from work, the papers, or their private lives), or something good, or simply a story they want their colleagues to know about, work-related or not.
+      每天早上，人们都会召集团队进行“好事或新事”报告活动——这是一天的登入仪式。一个洋娃娃被传来传去，就像一个麦克风。持有者可以分享一些新的（来自工作、报纸或私人生活的新闻），或者一些好的话题，或者仅仅是一个他们想让同事知道的故事，不管是与工作有关的还是与工作无关都可以。
   - topic: Mood Management
     title: This internet company has experimented a lot with innovative approaches
       on mood management. Two such practices involve story-telling.
