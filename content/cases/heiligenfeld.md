@@ -41,9 +41,7 @@ theory:
 
       共同的经历也培养了社区连带感和共同语言。在一次这样的会议结束时，海利根费尔德的一名员工站起来说：“你知道，我希望家里也能有更多的海利根费尔德精神。
   - topic: Team and Community Building
-    title: Heiligenfeld uses innovative management practices to create a supportive
-      work culture that fosters trust, empathy, and compassion while decreasing
-      conflict.
+    title: 海利根费尔德利用创新的管理实践来创造一种支持性的工作文化，在减少冲突的同时培养信任、同理心和同情心。
     content: >-
       **Example for Reflective Practice**
 
