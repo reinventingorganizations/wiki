@@ -35,13 +35,10 @@ theory:
   - topic: Coordination
     title: 菲茨伊促进协作的关键手段是每周更新公司的社交网络
     content: >-
-      At [Fitzii](https://www.fitzii.com/go/about/), weekly updates take place
-      in an enterprise social network, called Yammer, which is key for sharing
-      information and receiving advice. Every core team member writes a weekly
-      update of her/his work activities, advice processes, and concerns.
+      在[菲茨伊](https://www.fitzii.com/go/about/)，在一个名为Yammer的企业社交网络中，每周都会发生更新，这是分享信息和接受建议的关键手段。每个核心团队成员每周都会写一篇关于她/他的工作活动、建议流程和关注点的最新帖子。
 
 
-      Fitzii’s weekly updates are essential to its communication. Weekly updates ensure every team member has regular access to a wide variety of information about the business – everything from financial performance to customer concerns and the personal engagement of the individual – resulting in increased alignment and engagement of Fitzii team members. Fitzii’s ownership and advisory board are also members of the Yammer group, and they occasionally add comments of encouragement or raise difficult questions within the weekly updates or at advisory board meetings.
+      菲茨伊的每周信息更新对其沟通至关重要。每周更新确保每个团队成员都能定期访问有关业务的各种信息 – 从财务表现到客户关注点以及个人参与度 – 从而提高菲茨伊团队成员的一致性和参与度。菲茨伊的股东和咨询委员会也是Yammer小组的成员，他们偶尔会在每周更新或咨询委员会会议上添加鼓励意见或提出课题。
   - topic: Recruitment
     title: Hiring software and services provider - Canada - 10 employees – For
       profit  Each team does its own hiring and members of other teams
