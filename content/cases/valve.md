@@ -10,38 +10,29 @@ companySize: 201-500
 profit: 营利组织
 theory:
   - topic: Compensation and incentives
-    title: Valve uses a stack ranking system to determine compensation.
-    content: >-
-      [Valve](http://www.valvesoftware.com/) is a leading video game developer
-      and distributor. Once a year, a designated group of employees (the group
-      changes every year) interviews everyone in the company, asking for
-      feedback on each individual that person has worked with over the past year
-      (this information is used primarily for constructive feedback) and asking
-      the employee to rank each member of his own project/product group on the
-      following four metrics:
+    title: 沃夫使用堆栈排序系统确定薪酬。
+    content: >-2
+       [沃夫](http://www.valvesoftware.com/)是一家领先的视频游戏开发商和分销商。该组织每年一次，会指定一个成员组成的小组（小组每年都有变化）与公司的每个人面谈，要求员工针对在过去一年与自己共事的每个同事的状况提供反馈（此信息主要用于建设性反馈），并要求员工根据以下四个指标对自己所属项目/产品组的每个成员进行排名：
+
+      * 技能水平/技能
+
+      * 生产率/产量
+
+      * 团体贡献
+
+      * 产品贡献
 
 
-      * Skill level/Technical Ability
-
-      * Productivity/Output
-
-      * Group Contribution
-
-      * Product Contribution
-
-
-      Each of these metrics is given equal weight in compiling a stack ranking of all the employees in a given group. Once the intra-group ranking is done, the information gets pooled for the company as a whole and is used to determine compensation. The system is based on a belief that these four metrics are the most appropriate for determining the "correct" compensation and that they in turn are best determined through a peer-based valuation process (which the company believes is less likely to be subject to bias given its flat organizational structure).^[Valve Handbook for New Employees; 2012]
+      这些指标以相等的权重，被用于编制某个团队中所有员工的堆栈排名。团队内部的排名完成后，这些信息将汇集到整个公司中，并用于确定薪酬。该体系基于这样一种信念，即这四个指标可以用来确定“公正”的薪酬，这四个指标最好是通过基于同事的评估过程来确定（鉴于公司扁平的组织结构，公司认为不太可能被偏见影响）。^\[Valve Handbook for New Employees; 2012]
   - topic: Project teams and task forces
-    title: At Valve deciding what to work on is a job in and of itself.
+    title: 在沃夫公司，决定做什么工作这件事本身就作为一项工作来定义。
     content: >-
-      [Valve](https://www.valvesoftware.com/hu/) is a leading videogame
-      developer and distributor. According to their employee handbook, "When you
-      give smart talented people the freedom to create without fear of failure,
-      amazing things happen.^\[Valve Handbook for New Employees; 2012]
+      [沃夫](https://www.valvesoftware.com/hu/)是一家领先的视频游戏开发商和分销商。他们的员工手册写道，“当你为聪明的人才创造自由而不害怕失败，神奇的事情就会发生。”^\[Valve
+      Handbook for New Employees; 2012]
 
 
-      At Valve, employees are not told what to do but rather are expected to work on what they believe to be of most value to the company. Valve acknowledges that "deciding what to work on can be the hardest part of your job" and advises employees to ask themselves questions such as "Of all the projects currently under way, what's the most valuable thing I can be working on?" and "What's interesting? What's rewarding?" What leverages my individual strengths the most?"
+      在沃夫，不会指挥成员该做什么，而是期望他们从事自己认为对公司最有价值的工作。沃夫承认“决定做什么，是工作中最困难的部分”，并建议员工扪心自问，比如“目前公司正在进行的所有项目中，我能做的最有价值的事情是什么？”还有“什么最有趣？回报是什么？”什么最能发挥我的个人优势？”
 
 
-      As a result, most of the work at Valve is accomplished via self-organized, temporary, multi-disciplinary project teams called "cabals". They form organically as people decide to join a group based on their belief that the group's work is important enough for them to contribute their skills. Often someone will emerge as the "lead" on a project. However, their role is not to manage the team in a traditional sense but rather to act as a kind of information clearinghouse. By having an understanding of the whole project, they can act as a resource for team members to check decisions against.^\[Valve Handbook for New Employees; 2012]
+      因此，沃夫的大部分工作，都是通过自组织的、临时的、多学科的被称为“秘密结社”的项目团队来完成的。当人们决定自愿加入一个团队时，这样的组织是有机的，因为他们相信团队的工作有助于自己为组织贡献技能。通常会有人成为项目的“领导者”。然而，他们的角色不是传统意义上的团队管理，而是充当一种信息交换节点。通过了解整个项目，他们可以作为团队成员斟酌决策时所需信息源的提供者。^\[Valve Handbook for New Employees; 2012]
 ---
