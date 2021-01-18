@@ -12,13 +12,13 @@ theory:
   - topic: Compensation and incentives
     title: 从算法到建议流程的开放式薪酬设置进化。
     content: >-
-      #### **Summary**
+      #### 摘要
 
 
-      In September 2014, Hanno made the information about all team members' salaries openly available to the rest of the team.
+      2014年9月，汉诺向团队其他成员公开了所有团队成员的工资信息。
 
 
-      After trialling an algorithm-based model, as of June 2015 Hanno has implemented a self-set salary model, with an advice process. In the words of founder Jon Lay: "As long as we have total financial transparency, respect for the individual, peer review and self-discipline in our process of setting salaries, employees can be trusted to set a salary which works for them and also their team." ^[[https://logbook.hanno.co/choose-your-own-salary/](https://hanno.co/blog/choose-your-own-salary/)]
+      在试用了一个基于算法的模型之后，截至2015年6月，汉诺已经采用了一个基于建议流程的自我设定式薪酬模型。用创始人乔恩·雷的话说：“只要我们在制定薪酬的过程中做到财务完全透明、尊重个人、同事评议和自律，就可以相信员工能为自己和团队设定一份合适的薪酬。^[[https://logbook.hanno.co/choose-your-own-salary/](https://hanno.co/blog/choose-your-own-salary/)]
 
 
       #### **Process for self-setting salaries at Hanno**
@@ -55,5 +55,5 @@ theory:
       #### **Further information**
 
 
-      Details of this journey and its further evolution are documented in Hanno's online logbook.^[Source: https://logbook.hanno.co/choose-your-own-salary/]
+      Details of this journey and its further evolution are documented in Hanno's online logbook.^\[Source: https://logbook.hanno.co/choose-your-own-salary/]
 ---
