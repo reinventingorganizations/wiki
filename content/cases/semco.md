@@ -3,10 +3,7 @@ layout: case
 tags: cases
 name: 森科(Semco)
 date: 2020-11-09
-introduction: >-
-  Diversified industrial and service conglomerate.
-
-  [Semco Partners](http://www.semco.com.br/en/about-us/) is the successor to Semco Group, a centrifuge manufacturer founded in the 1950s by Antonio Curt Semler. In the 1980s Antonio’s son, Ricardo Semler, took over the firm,  modernized management practices, and expanded the company’s range by moving heavily into the service sector, including environmental consultancy, facilities management, real estate brokerage, and inventory support.
+introduction: 多元化的工业和服务集团[森科合伙人](http://www.semco.com.br/en/about-us/)是森科集团的后身。森科集团是一家离心机制造商，由安东尼奥·柯特·塞姆勒创建于20世纪50年代。20世纪80年代，安东尼奥的儿子里卡多·塞姆勒接管了这家公司，实现了管理实践的现代化，并通过大力进军服务业，扩大了公司的业务范围，目前业务包括环境咨询、设施管理、房地产经纪和库存支持。
 industry: C. Manufacturing
 geography: Brazil
 companySize: "> 500"
