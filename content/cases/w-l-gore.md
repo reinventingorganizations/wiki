@@ -3,11 +3,11 @@ layout: case
 tags: cases
 name: 戈尔(W.L.Gore)
 date: 2020-11-09
-introduction: Industrial conglomerate - Global - 10.000 associates - For Profit
-industry: C. Manufacturing
-geography: Global
+introduction: 工业集团-全球-10000名员工-营利组织
+industry: C.制造业
+geography: 全球
 companySize: "> 500"
-profit: Profit
+profit: 营利组织
 theory:
   - topic: Compensation and incentives
     title: Gore uses a ranking system, calibrated by two panels, to decide on
