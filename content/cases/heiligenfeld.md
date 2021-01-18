@@ -58,15 +58,10 @@ theory:
     title: 海利根费尔德利用创新的管理实践来创造一种支持性的工作文化，在减少冲突的同时培养信任、同理心和同情心。
     content: 在海利根费尔德，每周二上午，所有350名员工都会聚在一起进行一个半小时的共同反思。每周都会有一个新的话题被提上议事日程，这个话题是有利于自我反省的最新话题。最近的会议反映了各种各样的主题，如冲突解决、处理失败、公司价值观、人际沟通、官僚制度、IT创新、风险管理、个人健康和正念。会议总是以一个简短的陈述开始，然后在小组中进行自我反思。每个小组都会选出一位执行基本规则的促进者，这些规则创造了一个可以安全探索、真实和易受攻击的空间。在小范围内，在同事的倾听帮助下，人们敢于深入挖掘，获得关于自己和他人的新见解。同事们每周都会置身于一个由基本规则所创造的安全空间，而这些规则要求他们作真正的自己。他们学会了用深厚的人性之光，用自己的力量和弱点之美来看待彼此。在这些会议中形成的信任、同理心和同情心会扩展到整个组织。
   - topic: Strategy
-    title: Strategy is developed through sensing rather than forecasting.
-    content: "Heiligenfeld uses large group meetings at regular intervals to sense
-      into its future. From one such session, the vision emerged of bringing
-      Heiligenfeld’s holistic approach to mental illness to families with
-      children and adolescents. Wouldn’t it be wonderful if patients could be
-      treated together with their close family members, in a way that would
-      specifically address and honor the family ties in the therapy? A year
-      later, they opened, a new mental health hospital specifically dedicated to
-      therapy for families.^[Laloux, Frederic (2014-02-09). Reinventing
+    title: 通过感知来制定战略，而不是通过预测。
+    content: "海利根费尔德定期召开大型小组会议，了解组织本身的未来。在一次这样的会议上，出现了将海利根费尔德对精神疾病的整体解决方案，扩展用于有儿童和青\
+      少年家庭的设想。如果病人能和他们的亲密家庭成员一起治疗，通过治疗过程，特别强调并荣耀美丽的家庭关系，那岂不是很美妙吗？一年后，他们开设了一家新的精\
+      神卫生医院，专门为家庭整体提供治疗。^\\[Laloux, Frederic (2014-02-09). Reinventing
       Organizations: A Guide to Creating Organizations Inspired by the Next
       Stage of Human Consciousness (Kindle Locations 4460-4463). Nelson Parker.
       Kindle Edition.]"
