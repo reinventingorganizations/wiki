@@ -40,10 +40,7 @@ theory:
 
       菲茨伊的每周信息更新对其沟通至关重要。每周更新确保每个团队成员都能定期访问有关业务的各种信息 – 从财务表现到客户关注点以及个人参与度 – 从而提高菲茨伊团队成员的一致性和参与度。菲茨伊的股东和咨询委员会也是Yammer小组的成员，他们偶尔会在每周更新或咨询委员会会议上添加鼓励意见或提出课题。
   - topic: Recruitment
-    title: Hiring software and services provider - Canada - 10 employees – For
-      profit  Each team does its own hiring and members of other teams
-      participate in panel interviews; fit is evaluated using why/how/what
-      framework.
+    title: 每个团队进行自己的招聘，现有的团队成员参加小组面试；使用为何/如何/什么（why/how/what）提问框架，来评估应聘者的适配度。
     content: >-
       [Fitzii](http://www.fitzii.com/), a recruitment company, follows rigorous
       processes to evaluate new hires’ potential for success – including
