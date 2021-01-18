@@ -60,10 +60,7 @@ theory:
     title: 在菲茨伊，同事可以在任何有互联网连接的地方自由工作，同时致力于频繁的肉体见面。
     content: 在考虑工作时间和地点时，[菲茨伊](https://www.fitzii.com/go)成员致力于在自由和责任之间“保持一个平衡感”。同事可以在任何有互联网连接的地方工作（自由）。成员享受很大程度的灵活性，比如有人可以富有成效的在家里工作，或偶尔基于需要到另一个地点工作。比如，一个同事在迈阿密工作了一个星期，以探望生病的亲戚。实际上，同事主要在两个办公室工作——一个在安大略省的奥克维尔，另一个在安大略省的多伦多。大家都致力于肉身共度时光——人们经常听到首席执行官说“你们在一起的时间，如果没有浪费就是在建立社区连带感”——同事们每周二都会尽一切努力在奥克维尔（Oakville）工作，周四在多伦多（Toronto）工作（这是责任）。每月一次的团队会议在两个地点轮流举行；每年一次的团队集体静修，支撑着高质量的结构化和非结构化互动。
   - topic: Job Titles and Job Descriptions
-    title: Fitzii has no set job descriptions; coworkers perform one or more roles
-      based on their interests, talents, and the needs of the organization. A
-      standard job title practice gives both guidance and flexibility when a
-      title is useful.
+    title: 菲茨伊没有固定的工作描述；同事根据他们的兴趣、才能和组织的需要担任一个或多个岗位角色。一个有用的标准职称，本身具有指导性和灵活性。
     content: >-
       [Fitzii](https://www.fitzii.com/go) has no set job descriptions; coworkers
       perform one or more roles based on their interests, talents, and the needs
