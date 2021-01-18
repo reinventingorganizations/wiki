@@ -33,8 +33,7 @@ theory:
 
       一般来说会高度重视良好的会议风格和推进方法。例如德博诺技术、基于任务的学习技术和公司原创的问题杜兹（DOAQ）会议风格就是例子。
   - topic: Coordination
-    title: Key to Fitzii’s coordination is a weekly update on the company’s social
-      network
+    title: 菲茨伊促进协作的关键手段是每周更新公司的社交网络
     content: >-
       At [Fitzii](https://www.fitzii.com/go/about/), weekly updates take place
       in an enterprise social network, called Yammer, which is key for sharing
