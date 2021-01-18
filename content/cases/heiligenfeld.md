@@ -3,11 +3,11 @@ layout: case
 tags: cases
 name: 海利根菲尔德(Heiligenfeld)
 date: 2020-11-09
-introduction: Heiligenfeld have weekly, large group reflective meetings.
-industry: Q. Human health and social work activities
-geography: Germany
+introduction: 海利根费尔德每周都有大型的集体反思会议。
+industry: Q.健康、社会服务
+geography: 德国
 companySize: "> 500"
-profit: non-profit
+profit: 非营利
 theory:
   - topic: Meetings
     title: Heiligenfeld have weekly, large group reflective meetings.
