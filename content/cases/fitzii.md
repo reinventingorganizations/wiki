@@ -62,18 +62,16 @@ theory:
   - topic: Job Titles and Job Descriptions
     title: 菲茨伊没有固定的工作描述；同事根据他们的兴趣、才能和组织的需要担任一个或多个岗位角色。一个有用的标准职称，本身具有指导性和灵活性。
     content: >-
-      [Fitzii](https://www.fitzii.com/go) has no set job descriptions; coworkers
-      perform one or more roles based on their interests, talents, and the needs
-      of the organization.
+      [菲茨伊](https://www.fitzii.com/go)没有固定的工作描述；同事根据自己的兴趣、才能和组织的需要担任一个或多个岗位角色。
 
 
-      Coworkers have one core role. Based on that core role, they are members of one of three functional teams – product & development, sales & marketing, and hiring success. Coworkers also have other roles not related to their core role. For convenience, simple lists of these roles exist in the company social network. They are as simple as “Hiring practice - Luz” so that it’s easy to identify the person currently playing a role.
+      每个同事都有一个核心岗位角色。基于这一核心角色，他们的所属归在产品与开发、销售与市场营销和招聘成功这三个职能团队之一。每个同事还担任与核心岗位角色无关的其他角色。为了方便起见，公司社交网络中保存着对这些角色的简单列表。就像“招聘实践-Luz”一样简单，所以很容易搞清楚出当前担任每个岗位角色的人是谁。
 
 
-      Otherwise, roles are not described per se; but if the goal of a traditional job description is to make clear what each person should be doing, the equivalent source of guidance is each team’s goals and plans document, which makes clear the current priorities of that team. In that sense, a coworker’s job description is to make progress on Fitzii’s purpose, specifically by achieving the goals and plans her functional team has committed to.
+      此外，岗位角色本身不会被描述；如果传统工作描述的目的是明确每个人应该做什么，那么蔚蓝组织中替代这个指针的等效来源是，基于每个团队的目标和计划文档，其中明确描述了该团队当前的优先事项。从这个意义上说，同事的普适工作描述，就是在菲茨伊组织目标方向上取得进展，特别是实现其所属职能团队所承诺的分支目标和计划。
 
 
-      Regarding job titles, it is common practice to use one’s team name as a title. For example – introducing oneself as “Carla from hiring success” or signing an email: Carla, Hiring Success, Fitzii. At the same time, in situations when it is more practical to use a conventional title, each person has freedom to do so. For example, it might be practical for a member of the sales & marketing team to identify himself as Fitzii’s marketing manager when addressing marketing services vendors. There is either enough peer pressure or good sense to avoid fancier ego-driven titles!
+      关于职称，通常的做法是用自己的团队名称作为职称。例如，自我介绍为“成功招聘团队的克拉拉”或签署电子邮件：克拉拉，成功招聘，菲茨伊。同时，如果某些场景需要使用传统职称，每个人都有自由使用。例如，销售和市场营销团队的一名成员，在向市场营销服务供应商致辞时，就可以自称为菲茨伊的市场营销经理。同事们在足够的同事监督压力，以及良好的个人判断力前提下，都会避免采用那些虚荣花哨的头衔！
   - topic: Feedback and Performance Management
     title: Fitzii coworkers cite an annual, structured, self and peer review process
       as a highlight of their work and relationships.
