@@ -12,32 +12,32 @@ theory:
   - topic: Compensation and incentives
     title: 戈尔使用由两个小组对比校准的排名系统来决定薪水。
     content: >-
-      ##### ***Contribution process***
+      ##### 贡献评估流程
 
 
-      Once a year, within each team (typically groups of 10 people in roughly the same function), everyone ranks the others from 1 to 9 (contrary to Holacracy, you don’t rank yourself in the list) based on their past and expected future contribution. The process has been automated, and on the forms, people can add a comment next to every person, and additionally assess if they are a “high culture fit" or "low culture fit”.
+      每年一次，在每个团队中（通常由10个人组成，功能大致相同），每个人根据他们的过去和预期的未来贡献，将其他伙伴从1到9进行排名（与霍尔相反，成员不会将自己排在列表中）。这个过程已经系统化自动化了，在电脑表单上，成员可以在每个人旁边添加一条评论，另外还可以评估每个伙伴对组织文化的共鸣度是“高”还是“低”。
 
 
-      A small committee (typically the leader, another leader, and HR) reviews the aggregate results in great detail, and in their discussion they can change the order. Say John ends up number 2 on the aggregate list, but that feels too high, and the committee member suspect that it's really a loyalty vote. They can decide to move John down to number 4.
+      由一个小型委员会（通常是团队领导、兄弟团队的领导和人力资源部）非常详细地审查汇总结果。在他们的讨论中，可以改变成员排序。比如，约翰最终在总名单上排名第二，但这感觉太高了。委员会成员会怀疑这是否真是一个忠诚的投票。委员会可以决定把约翰降到第四位。
 
 
-      When the committee is done, each sponsor shares feedback with their person. Never the exact place in the rank. But “at the top”, “middle” and “bottom”. (If one person is at the bottom for a while, discussion will happen: other role that fits better? Need for training? Or exit the company?)
+      委员会结束后，每个团队领导都会与自己团队的人分享收到的反馈意见。但这些并不是确切的排名。只是大约“在顶部”、“中间”和“底部”。（如果一个人持续处于底层，讨论就会发生：他是否更合适其他的岗位？需要培训吗？或者需要退出公司？）
 
 
-      ##### ***Compensation process***
+      ##### 定薪流程
 
 
-      A compensation committee follows in the footsteps of the contribution committee. It will plot the salary curve of the 10 people that were ranked and see if the salaries are in line with the contribution. If needed, the committee will make the appropriate changes.
+      随后，一个薪酬委员会追随贡献委员会的脚步。他们绘制得到贡献排名的10个人一组的工资曲线，看他们的工资是否与贡献相符。如果需要，委员会将作出适当的薪酬修改。
 
 
-      ##### ***Transparency***
+      ##### 透明度
 
 
-      There is no transparency on salaries at Gore. If a person in the committee is being discussed, he or she will not see the data that pertains to him or her.
+      戈尔的工资没有透明度。如果委员会成员的工资正在被讨论，他或她将看不到与自己有关的数据。
 
 
-      ##### ***Incentives and profit sharing***
+      ##### 激励和利润分享
 
 
-      At Gore, there are no incentives or bonuses. Everybody gets shares in the company as part of profit sharing. For example, someone making £50K in salary in the UK could make an additional £5K in shares. The profit sharing is proportional to the base salary (it is calculated based on this year's salary and the salary over the last 3 years in some formula). So if your unit loses lots of money or makes lots of it, it doesn’t change profit sharing, to reinforce the “all in the same boat” mantra. ^[<http://www.managementexchange.com/story/innovation-democracy-wl-gores-original-management-model> and personal interview Frederic Laloux with Gore leader, April 2015]
+      戈尔没有激励或年终奖。作为利润分享的一部分，每个人都得到公司的股份。例如，一个在英国挣5万英镑的成员，可以额外得到5万英镑的股票。利润分成与基本工资成比例（根据本年工资和最近3年的工资，按一定公式计算）。因此，即使你的团队亏损或营利很多，都不会影响你获得的利润分配，这是为了强调“同舟共济”感。^\[<http://www.managementexchange.com/story/innovation-democracy-wl-gores-original-management-model> and personal interview Frederic Laloux with Gore leader, April 2015]
 ---
