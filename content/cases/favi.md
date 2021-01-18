@@ -189,45 +189,21 @@ theory:
 
       在法维，爱这个在商界很少听到的词，出现了真正的意义。运营商不仅仅向客户发送产品，他们还把真心投入在产品里。几年前，在圣诞节前后，法维的一个操作员把多余的黄铜铸成了一些圣诞老人和驯鹿的小雕像。他把这些小雕像放进成品的盒子里，就像孩子们把一条信息放进海里的漂流瓶，想象有人会在某处发现它。此后，其他操作员也开始接受这一想法，并在一年中的任意时间将黄铜雕像添加到他们的货物中，作为对在大众汽车（Volkswagen）或沃尔沃（Volvo）装配线上工作的同行的一点爱的象征，这些同行会在拆箱时发现这些雕像。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4363-4378). Nelson Parker. Kindle Edition].
   - topic: Dismissal
-    title: A novel alternative to dismissal in a time of crisis
-    content: "When CEO Jean-François Zobrist was faced with critical decisions, he
-      readily looked to the workforce for help. More than once, on impulse, he
-      went around the shop floor, asked everybody to stop the machines, climbed
-      on a soapbox and shared his problem.\r
+    title: 危机时期替代解雇员工的更高尚选择
+    content: >-
+      当首席执行官让-弗朗索瓦·佐布里斯特面临重大决策时，他很乐意向员工寻求帮助。冲动之下，他不止一次地在车间里走来走去，让每个人都停下机器，然后爬上一个肥皂盒，分享他的难题。
 
-      \r
 
-      His first major crisis happened in 1990 when orders plummeted in the
-      wake of the First Gulf War. there simply wasn’t enough work to keep
-      workers busy. Capacity and costs needed to be reduced. There was one
-      obvious solution: fire the temp workers.\r
+      他的第一次重大危机发生在1990年，在第一次海湾战争之后，订单锐减。根本没有足够的工作让工人们忙碌。需要降低产能和成本。一个明显的解决办法是：解雇临时工。
 
-      \r
 
-      But at FAVI, no one was really considered a temp worker. For reasons
-      related to labor laws in France, new recruits were hired as temp workers
-      for 18 months before being offered a full contract. Most were already
-      considered full members of their teams. By firing them, FAVI would rescind
-      its moral commitment to them, and it would lose talent it had invested in,
-      with a recovery perhaps only a few months away.\r
+      但在法维，没有人真正被认为是临时工。由于与法国劳动法有关的原因，新员工需要作为临时工被雇佣、为期18个月，然后才能得到一份完整的雇佣合同。大多数临时工已经被认为是团队的正式成员。如果解雇他们，法维等于违背了对他们的道德承诺，并将失去投入培训过的人才。而危机也许几个月后就能恢复。
 
-      \r
 
-      With no clear answers, Zobrist found himself on the soapbox and
-      shared his dilemma with all employees (including the temp workers whose
-      fate was being discussed). People shouted questions and proposals. One
-      said, “This month, why don’t we all work only three weeks and get three
-      weeks’ pay, and we keep the temp workers? If we need to, we will do the
-      same thing next month as well.”\r
+      佐布里斯特找不到明确的答案，于是他发现自己站在肥皂盒上，与所有员工（包括正在被讨论命运的临时工）分享了他的困境。人们大声提出问题和建议。其中一个说，“这个月，我们为什么不都只工作三周，拿三周的工资，进而可以保留临时工呢？如果需要，我们下个月也会做同样的事情。”
 
-      \r
 
-      Heads nodded, the proposal was put to a vote, and unanimously
-      agreed. Workers just agreed to a temporary 25 percent salary cut. In less
-      than an hour, the problem was solved and machine noise reverberated around
-      the factory again.\r
-
-      \r\n"
+      人们都在点头，提议被付诸表决，得到了一致同意。工人们刚刚同意了暂时减薪25%。不到一个小时，问题就解决了，机器噪音再次回荡在工厂周围。
   - topic: Staff Functions
     title: At FAVI, almost all central staff functions have disappeared and been
       integrated into "mini-factories".
