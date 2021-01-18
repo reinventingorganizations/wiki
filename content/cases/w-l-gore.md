@@ -10,8 +10,7 @@ companySize: "> 500"
 profit: 营利组织
 theory:
   - topic: Compensation and incentives
-    title: Gore uses a ranking system, calibrated by two panels, to decide on
-      salaries.
+    title: 戈尔使用由两个小组对比校准的排名系统来决定薪水。
     content: >-
       ##### ***Contribution process***
 
