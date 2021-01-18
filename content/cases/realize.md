@@ -3,11 +3,11 @@ layout: case
 tags: cases
 name: 觉察！(Realize!)
 date: 2020-11-09
-introduction: Consulting - Netherlands - 4 partners - For Profit
-industry: M. Professional, scientific and technical activities
-geography: Netherlands
+introduction: 咨询-荷兰-4个合作伙伴-营利组织
+industry: M.科研、高科技
+geography: 荷兰
 companySize: 1-100
-profit: Profit
+profit: 营利组织
 theory:
   - topic: Compensation and incentives
     title: Beautiful in-person conversation among partners to set their compensation.
