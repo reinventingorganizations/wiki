@@ -10,36 +10,36 @@ companySize: "> 500"
 profit: 非营利
 theory:
   - topic: Meetings
-    title: Heiligenfeld have weekly, large group reflective meetings.
+    title: 海利根费尔德每周都有大型的集体反思会议。
     content: >-
-      **Large group reflective meetings:**
+      大型集体反思会议：
 
 
-      Every Tuesday morning 350 employees come together to engage in joint reflection. (Some colleagues need to stay with patients.)
+      每周二上午，350名员工聚集在一起共同反思。（其他同事需要陪伴病人。）
 
 
-      Every week a new, relevant topic is put on the agenda. Topics have included: [conflict resolution](../conflict-resolution/), dealing with failure, [values](../culture-and-values/), and similar.
+      每周都有一个新的相关话题被提上议事日程。主题包括：\[冲突解决]（../conflict resolution/）、处理失败、\[组织文化与价值观]（../culture and values/），以及类似的内容。
 
 
-      The meeting kicks off with a presentation to frame the subject matter.
+      会议以陈述主题开场。
 
 
-      The heart of the meeting is when small groups engage in self-reflection. As for instance, the topic ‘dealing with failure’: A short presentation introduces ways to deal gracefully with failure – how new possibilities open up when we stop being judgmental about our failures, etc.
+      会议的核心是小组自我反省。例如，主题“处理失败”：通过一个简短的演讲介绍优雅处理失败的方法——当我们不再对自己的失败进行评判时，新的可能性会如此这般的被打开等等。
 
 
-      Then people shuffle chairs around to create groups of 6 to 10 people. They reflect on the topic, guided by a facilitator they elect.  
+      然后人们把椅子拖来拖去，形成一个6到10人的小组。他们在自己选出的主持人的指导下，分组思考这个话题。
 
 
-      At some point, a microphone goes around the room and people can share what came up in the discussion.
+      在某个时刻，一个麦克风在整个房间传递，人们可以自由分享讨论中的内容。
 
 
-      There is no scripted outcome to these meetings: no expected end product. As well as personal learning, collective insights emerge. Initiatives are then carried out when people go back to work.
+      这些会议没有被脚本化的结果：没有预期的最终成果定义。除了个人得到学习机会之外，集体见解也应运而生。当人们返回工作岗位时，都会主动采取行动。
 
 
-      It’s a time-consuming practice, but people at [Heiligenfeld](http://www.heiligenfeld.de/) say the benefits far outweigh the costs. These meetings are like a company-wide training program on steroids.  
+      这是一种耗时的做法，但是\[海利根费尔德]的人们(http://www.heiligenfeld.de/)说，好处远远大于投入的代价。这些会议就像给全公司打类固醇般的培训计划。
 
 
-      The common experience also fosters community and a common language. To approving chuckles in the room, an employee of Heiligenfeld once stood up at the end of one such meeting and said ‘ You know, I wish I could have more Heiligenfeld at home.
+      共同的经历也培养了社区连带感和共同语言。在一次这样的会议结束时，海利根费尔德的一名员工站起来说：“你知道，我希望家里也能有更多的海利根费尔德精神。
   - topic: Team and Community Building
     title: Heiligenfeld uses innovative management practices to create a supportive
       work culture that fosters trust, empathy, and compassion while decreasing
