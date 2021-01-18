@@ -206,40 +206,12 @@ theory:
       人们都在点头，提议被付诸表决，得到了一致同意。工人们刚刚同意了暂时减薪25%。不到一个小时，问题就解决了，机器噪音再次回荡在工厂周围。
   - topic: Staff Functions
     title: 在法维，几乎所有的总部管理职能都消失了，这些管理任务都被并入被称为“小型工厂”的基层团队。
-    content: "Today, FAVI has more than 500 employees who are organized into 21
-      teams called “mini-factories” of 15 to 35 people. Most of the teams are
-      dedicated to a specific customer or customer type (the Volkswagen team,
-      the Audi team, the Volvo team, the water meter team, and so forth). There
-      are a few upstream production teams (the foundry team, the mold repair
-      team, maintenance), and support teams (engineering, quality, lab,
-      administration, and sales support). Each team self-organizes; there is no
-      middle management, and there are virtually no rules or procedures other
-      than those that the teams decide upon themselves.\r
+    content: >-
+      如今的法维拥有500多名员工，他们被组织成21个被称为“迷你工厂”的基层团队，每个团队由15至35人组成。大多数团队都服务于特定的客户或客户类型（大众汽车团队、奥迪团队、沃尔沃团队、水表团队等等）。还有一些上游生产团队（铸造团队、模具维修团队、维护团队）和支持团队（工程、质量、实验室、管理和销售支持）。每个团队都是自我组织的；没有中层管理人员，除了团队自己决定的规则或程序之外，几乎没有其他规则或程序。
 
-      \r
 
-      The staff functions have nearly all disappeared. The former HR,
-      planning, scheduling, engineering, production, IT and purchasing
-      departments have all been shut down. Their tasks have been taken over by
-      the operators in the teams, who do their own hiring, purchasing, planning,
-      and scheduling.\r
+      管理职能几乎都消失了。以前的人力资源、计划、调度、工程、生产、IT和采购部门都已经关闭。他们的任务已经被团队中的操作员接管，团队自己进行招聘、采购、计划和调度。
 
-      \r
 
-      When opportunities arise that span the boundaries of several teams,
-      FAVI workers self-nominate to create a temporary project team. Sometimes a
-      person is appointed for a staff role to coordinate across teams, but that
-      person receives no authority to impose decisions on the teams. For
-      example, at FAVI there is Denis, an engineer, whose role is to help teams
-      exchange insights and best practices. He spends his days encouraging
-      machine operators to go and see what other teams have come up with. He
-      can’t coerce a team into adopting another team’s ideas. He must get them
-      interested and excited. If he fails to do so, if teams stop seeing added
-      value in his work, then his role will naturally disappear, and Denis will
-      need to find himself another role to fill. In the true sense of the word,
-      he has a support function. This is highly unusual for manufacturing
-      environments - an engineer who is in service to and not in command of
-      less-educated (but highly skilled) blue-collar workers..^[Source: Laloux,
-      Frederic. Reinventing Organizations. Nelson Parker, Brussels, Belgium
-      (2014)]"
+      当出现跨越多个团队边界的新项目机会时，法维员工会自荐并创建一个临时项目团队。有时，会任命一个人担当管理职能来协调各个团队，但这个人没有权力将决策强加给团队。例如，法维有一位工程师丹尼斯，他的职责是帮助不同的团队之间交流见解和最佳实践。他每天都在鼓励机器操作员去参观一下其他团队的成果。他无权强迫一个团队采纳另一个团队的好主意。他必须设法让团队成员自发的对其感兴趣并兴奋。如果他不能做到这一点，如果团队不再看到他工作中的附加值，那么他的这个岗位会自然消失。这时丹尼斯需要为自己找到另一个岗位来填补自己的任务空白。支撑这个岗位实现了真正的意义，他的功能就是支持团队而不是管理。这种定位在制造业环境是非常不寻常的——一个工程师的指责是为受教育程度较低（但技术水平较高）的蓝领工人服务，而不是指挥他们。^\[Source: Laloux, Frederic. Reinventing Organizations. Nelson Parker, Brussels, Belgium (2014)]
 ---
