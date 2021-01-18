@@ -10,7 +10,7 @@ companySize: "> 500"
 profit: 非营利
 theory:
   - topic: Role Definition and Allocation
-    title: A consent based election process to allocate roles within teams
+    title: 通过基于同意的选举过程，在团队中分配岗位角色
     content: >-
       [Sociocracy.info ](http://www.sociocracy.info/)describes the Sociocratic
       election process in the following way: 
