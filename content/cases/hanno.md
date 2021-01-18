@@ -10,7 +10,7 @@ companySize: 1-100
 profit: 营利组织
 theory:
   - topic: Compensation and incentives
-    title: 从算法到建议流程的开放式薪酬设置进化。
+    title: 从算法模型，到基于建议流程的开放式薪酬设置的进化。
     content: >-
       #### 摘要
 
@@ -21,39 +21,39 @@ theory:
       在试用了一个基于算法的模型之后，截至2015年6月，汉诺已经采用了一个基于建议流程的自我设定式薪酬模型。用创始人乔恩·雷的话说：“只要我们在制定薪酬的过程中做到财务完全透明、尊重个人、同事评议和自律，就可以相信员工能为自己和团队设定一份合适的薪酬。^[[https://logbook.hanno.co/choose-your-own-salary/](https://hanno.co/blog/choose-your-own-salary/)]
 
 
-      #### **Process for self-setting salaries at Hanno**
+      #### 汉诺自定工资流程
 
 
-      It works roughly like this:
+      大致工作原理如下：
 
 
-      * To ensure financial transparency, all salaries are published to the team (aka 'shipmates').
+      * 为了确保财务透明，所有的工资都会公布给团队（又称“船友”）。
 
-      * There is an open briefing every 3-6 months on Hanno's financial status, which advises 'shipmates' on salary direction for the coming period - advice they are at liberty to challenge or ignore.
+      * 每隔3-6个月，汉诺会就财务状况举行一次公开简报会，向“船友”就未来一段时间的薪资方向提供建议——针对这些建议，成员可以自由提出质疑或置之不理。
 
-      * This is followed by rounds of feedback and discussion, before each 'shipmate' submits their proposed salary for the next 3-6 months to an Advisory Process.
+      * 在一轮轮的反馈和讨论后，每个“船友”将自己未来3-6个月的拟议工资提交给建议流程。
 
-      * After further feedback and discussion, each 'shipmate' may adjust (or not) their original proposal.
+      * 在进一步的反馈和讨论之后，每个“船友”可以调整（或不调整）自己原来的薪酬提议。
 
-      * The new salaries are then also published to the whole team.
+      * 新的薪酬也会公布给整个团队。
 
-      * A salary proposal can only be rejected if it is felt there is a genuine risk that it will harm the interests of the company.
-
-
-      #### **Drawbacks of the algorithm model at Hanno**
+      * 只有在认为有损害公司利益的真正风险的情况下，才可以拒绝成员的薪资提案。
 
 
-      The previous algorithm-based system (based on the Buffer model) used addition/multiplication factors based on Role, Expertise, and Location, as well as a Founder component. Hanno soon found that this model was often either tricky to apply, or produced results that seemed to work against their goals.
+      ##### 汉诺之前所用算法模型的缺点
 
 
-      It was particularly difficult to adjust the weighting so that 'shipmates' were appropriately rewarded for both investing in personal growth (new skills/expertise) and delivering strategic business value (e.g. networking, business development). In addition, it proved difficult - in such a rigid model - to account for factors such as differing elements of Location, and to ensure that the company remained sufficiently attractive to 'shipmates' with dependents.
+      以前基于（基于缓冲区模型）的算法系统使用了基于角色、专业知识和位置的加法/乘法因子，以及一个创建者组件。汉诺很快发现这个模型要么应用起来很麻烦，要么产生的结果似乎与目标背道而驰。
 
 
-      In addition, the Founder factor was considered unfair (even by the founder himself), especially as this role had power over the salary formula itself and was therefore somewhat immune from checks and balances.
+      最难调整的是如何及进行权重，让在投资于个人发展（新技能/专业知识）和提供战略业务价值（如网络、业务发展）方面的“船友”获得适当的回报。此外，事实证明，在这样一个僵化的模型中，很难考虑到诸如地理位置差异等因素，也很难确保公司对有家属的“船友”保持足够的吸引力。
 
 
-      #### **Further information**
+      此外，创始人因素被认为是不公平的（创始人本人也这样认为），特别是因为这个角色对薪酬公式本身拥有决定权，因此在某种程度上不受制衡。
 
 
-      Details of this journey and its further evolution are documented in Hanno's online logbook.^\[Source: https://logbook.hanno.co/choose-your-own-salary/]
+      ##### 更多信息
+
+
+      汉诺的在线日志记录了这次进化过程及其进一步发展的细节。^\[Source: https://logbook.hanno.co/choose-your-own-salary/]
 ---
