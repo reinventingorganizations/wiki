@@ -1,10 +1,10 @@
 ---
 layout: home
 name: Home
-tagline: A hearty welcome to the
-title: Reinventing Organizations Wiki
+tagline: Bienvenue
+title: Reinventing Organizations Wiki en Français
 intro: >-
-  ![](/media/flagfrance.png)                  
+  ![](/media/flagfrance.png)\
 
   **BIENVENUE !**
 
@@ -21,10 +21,12 @@ intro: >-
   Contribuer au développement de l'intelligence collective en permettant à tous ceux qui s'y intéressent de s'informer et de comprendre comment des groupes humains (entreprises, organisations à but non lucratif, administration, écoles...)  peuvent fonctionner de façon innovante, en combinant efficacité de l'organisation et motivation de ses membres. 
 
 
-
   **Notre objectif**
 
   Mettre à disposition de toute personne s'interrogeant sur ces sujets et sur les nouvelles formes d'organisation émergentes ("Teal orgs", "Entreprises libérées"..) une information neutre, factuelle, actualisée et classée par thèmes.
+
+
+  Si vous souhaitez contribuer et participer au développement de ce wiki, contactez : guezouceline@gmail.com 
 
 
   ![](/media/flagGreatBritainXXS.png)    [cliquez ici](/pages/translations) pour accéder aux traductions de ce Wiki (le hongrois et l'espagnol sont disponibles dès aujourd'hui - le russe, le chinois et le français sont en cours)
