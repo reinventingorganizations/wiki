@@ -1,8 +1,8 @@
 ---
 layout: article
 tags: theory
-key: board
-name: Board
+key: Conseil d'administration
+name: Conseil d'administration
 sortOrder: 5
 category: Structure of an organization
 intro: >-
