@@ -40,20 +40,22 @@ theory:
 
       菲茨伊的每周信息更新对其沟通至关重要。每周更新确保每个团队成员都能定期访问有关业务的各种信息 – 从财务表现到客户关注点以及个人参与度 – 从而提高菲茨伊团队成员的一致性和参与度。菲茨伊的股东和咨询委员会也是Yammer小组的成员，他们偶尔会在每周更新或咨询委员会会议上添加鼓励意见或提出课题。
   - topic: Recruitment
-    title: 每个团队进行自己的招聘，现有的团队成员参加小组面试；使用为何/如何/什么（why/how/what）提问框架，来评估应聘者的适配度。
+    title: 每个团队负责进行自己的人员招聘，其他团队的成员也参加小组面试；使用为何/如何/什么（why/how/what）提问框架，来评估应聘者的适配度。
     content: >-
-      [Fitzii](http://www.fitzii.com/), a recruitment company, follows rigorous
-      processes to evaluate new hires’ potential for success – including
-      psychometric testing and in-depth panel interviews. Hiring decisions rest
-      with the team doing the hiring, with representatives of every other team
-      involved in panel interviews. Focus is on ensuring the new hire will
-      experience meaningful work and be supported by the Fitzii team.
+      作为一家招聘公司，[菲茨伊](http://www.fitzii.com/)自己的招聘也遵循严格的流程来评估新员工的成功潜力，流程包括心理测试和深入的小组面试。招聘决定权在于招聘团队，其他每个团队的代表也参与小组面试。重点是确保新员工能在职场经历有意义的工作，并得到菲茨伊团队的支持。
 
 
-      When hiring core team members, three essential types of fit are evaluated: • Why – alignment with Fitzii’s evolutionary purpose is evaluated in conversation during preliminary and panel interviews; there is a strong desire to find roles for people with clear purpose alignment • How – an individual’s behavioural traits, evaluated by psychometric testing within the Fitzii software • What – knowledge, skills, abilities related to the main role(s) the new hire will play, evaluated by the relevant functional team
+      在招聘团队核心成员时，需要评估三种基本类型的契合度：
 
 
-      These may or may not be equally important in every hire. For example, hiring a programmer requires a high level of knowledge, skill, and ability (what) whereas hiring a senior person who will set strategy requires a high level of purpose alignment (why).
+      * 为何-在初步面试和小组面试时，通过谈话评估应聘者与菲茨伊进化目标的一致性；招聘的强烈愿望是，为与组织目标明确共鸣的新人找到岗位一致性
+
+      * 如何-通过菲茨伊原创软件内的心理测试评估个人的行为特征
+
+      * 什么-由相关职能团队对新员工将负责的岗位主要角色相关的知识、技能、能力进行评估
+
+
+      在每一次招聘中，这些角度可能同样重要，也可能不一样。例如，雇佣一个程序员需要高水平的知识、技能和能力（重视什么/what），而雇佣一个将制定策略的高级人员则需要高度的组织目标一致性（为何/why）。
   - topic: Commitment, Working Hours and Flexibility
     title: At Fitzii, coworkers have freedom to work anywhere there is internet
       connection and responsibility to achieve the benefits of in-person
