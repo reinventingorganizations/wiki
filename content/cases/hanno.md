@@ -10,7 +10,7 @@ companySize: 1-100
 profit: 营利组织
 theory:
   - topic: Compensation and incentives
-    title: Evolution of open salary setting from algorithm to advice process.
+    title: 从算法到建议流程的开放式薪酬设置进化。
     content: >-
       #### **Summary**
 
