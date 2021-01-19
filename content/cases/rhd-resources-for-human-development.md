@@ -57,21 +57,7 @@ theory:
       *例如，塞尔玛在我们新开的门诊部当接待员已经很多年了，她向我要了一份工作描述。……我觉得，并告诉她，既然她已经在高质量的工作着，由我来定义她的工作细节不是太荒谬了。她最突出的行为之一，就是亲切地问候户，给他们送去咖啡，并确保治疗师及时将他们带进治疗室。描述她的善良是不可能的：言语永远无法表达她由衷的温暖。塞尔玛已经知道如何完成自己的工作，我相信，徒增一份详细的工作描述对她弊大于利。……不可能存在单一的方法来定义一项工作，也没有一个主管能够描述清楚另一个人如何完成自己的工作。如果……我把我的观点强加在她的工作上，公司实际上会失去她独一无二的特殊贡献——她管理人与人之间关系的方式。那将是一个巨大的损失。*
   - topic: Compensation and incentives
     title: 薪酬与激励  RHD采取一系列措施提高最低工资，减少工资不平等
-    content: RHD, a Philadelphia based non-profit, holds the principle that when
-      there is room for salary increases, they should be disproportionately
-      geared toward the lowest salaries first. The CEO’s salary is capped to a
-      maximum of 14 times the lowest salary in the organization. One can argue
-      about the multiple―is it too high or too low?―but RHD introduced a clever
-      twist by capping the highest salary not based on the average or median
-      salary, as many Green Organizations have started doing, but on the lowest.
-      It’s now very much in the CEO’s and the leadership’s own interest to
-      ensure that even the colleagues with the lowest qualification earn enough
-      for a decent living. Next to this direct focus on entry-level salaries,
-      RHD has set up a scholarship fund to offer staff members opportunities to
-      pursue formal education and increase their earning potential. And it has
-      instituted a companion currency, the RHD Equal Dollar, that allows
-      lower-paid colleagues to increase their access to goods and services by
-      trading with each other and with their local community.
+    content: 总部位于费城的非营利机构RHD的原则是，当有加薪空间时，首先应该不成比例地优先考虑提高最低工资。首席执行官的工资上限是公司最低工资的14倍。人们可以争论这个倍数——是过高还是过低？―但RHD引入了一个巧妙的转折点，将最高工资的上限比例对比基数设定为最低工资，而许多绿色组织目前都是以平均或中挡工资为对比基数。于是确保了即使是资历最低的同事，也能挣到足够的钱过上体面的生活，这非常符合首席执行官和领导层自身的利益。除了直接关注初级工资外，RHD还设立了一个奖学金基金，为工作人员提供接受正规教育的机会，增加他们的收入潜力。还建立了一种配套货币：RHD等值美元。允许收入较低的同事通过相互交易和与当地社区进行交易，来增加获得商品和服务的机会。
   - topic: Purchasing and Investments
     title: RHD runs its organization based on self-managing units which are
       responsible for their entire operation, from defining a strategy to
