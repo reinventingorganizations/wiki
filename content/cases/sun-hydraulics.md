@@ -54,30 +54,23 @@ theory:
   - topic: Budgeting and Controlling
     title: 美国上市公司太阳液压的一个无预算方法示例
     content: >-
-      \[太阳液压]案例(https://www.sunhulidics.com/)表明，即使对一家上市公司来说，也有可能采用无预算的方法。首席执行官艾伦•卡尔森（Allen
+      [太阳液压](http://www.sunhydraulics.com/)案例表明，即使对一家上市公司来说，也有可能采用无预算的方法。首席执行官艾伦•卡尔森（Allen
       Carlson）解释道：“在1997年1月（IPO）上市之后，我们必须在预测数字方面做得更好。1999年我们采用一种新的制造系统后，曾损失了一个季度的预算，市场惩罚了我们这种预算管理方式。因此我们说，看，我们无法预测经济情况，我们也不知道一年后我们的订单会是什么样子。……我们不是靠数字来做生意的。数字仅仅是到数字；说到预测，我们最多也只能粗略的了解下个季度将怎样而已。因此，我们不再做年度预测，而是只做相对可预估的季度预测。……我们知道，只要每天做正确的事情，必将带来长期效果。”
 
 
       如果没有预算和预测，大多数商业领袖都会感到赤身裸体。当有人问卡尔森“没有预测，你你如何评估人们的表现？”例如，如果你没有可比的目标，你怎么知道德国（太阳液压在德国有一家工厂）的员工去年是否表现良好？”他脱口而出：谁知道呢？谁在乎呢？他们都在努力工作，尽力而为。我们在世界各地的成员都是好人，如果我需要那种记分卡，就说明我可能找错人了。这就是我们的运作方式。……如果我是在美国的销售主管，而你问我预测指标是什么，我不知道！我怎样才能臆造一个预测呢？……一天下来，你无法控制的事情太多了。…人不可能预测不可预知的事情。
   - topic: Ownership
-    title: A public company since 1997 holds its commitment to Teal.
-    content: "Sun Hydraulics, a company that was founded in 1970 by two engineers,
-      designs and manufactures hydraulic cartridge valves and manifolds. It has
-      been a publicly owned company since 1997 with factories in Florida (where
-      it is headquartered), Kansas, England, Germany, and Korea. Its shares are
-      traded on NASDAQ, and as of June 1, 2016 Sun had a market capitalization
-      of nearly $800 million. While the founder’s family still has a significant
-      stake in Sun, they do not exercise majority control.^[As of March 1, 2016,
-      Christine L. Koski, the daughter of the deceased founder of the Company,
-      Robert E. Koski, is a member of the board of directors, and she, along
-      with other family members, own or control approximately 14% of the
-      outstanding shares of Sun’s common stock. Source: Sun Hydraulics
-      Corporation 10-K filed March 31, 2016; p. 11.\r
+    title: 股东  一个1997年上市的公司忠诚的实践着蔚蓝模式。
+    content: >-
+      太阳液压是一家由两名工程师于1970年成立的公司，设计和制造液压插装阀和阀组。自1997年以来，它一直是一家上市公司，在佛罗里达州（总部所在地）、堪萨斯州、英国、德国和韩国都设有工厂。其股票在纳斯达克上市交易，截至2016年6月1日，市值接近8亿美元。尽管创始人的家族仍持有大量股份，但他们并未行使过多的控制权。^\[截至2016年3月1日，公司已故创始人Robert
+      E.Koski的女儿Christine L.Koski是董事会成员，她和其他家族成员，拥有或控制着约14%的已发行普通股份。来源：太阳液压
+      Corporation 10-K于2016年3月31日提交；第11页。]
 
-      ] Sun would seem to be an important case of a company able to
-      maintain a commitment to Teal despite a traditional corporate structure
-      and a dispersed and fluid ownership. Maybe Teal organizations and non-Teal
-      ownership can be compatible after all?"
+
+      ^\[As of March 1, 2016, Christine L. Koski, the daughter of the deceased founder of the Company, Robert E. Koski, is a member of the board of directors, and she, along with other family members, own or control approximately 14% of the outstanding shares of Sun’s common stock. Source: Sun Hydraulics Corporation 10-K filed March 31, 2016; p. 11.] 
+
+
+      太阳液压似乎是一个重要的案例，说明尽管一家公司拥有传统的公司结构和分散且流动（上市）的所有权，还是有可能保持对蔚蓝的承诺，也许蔚蓝组织和非蔚的所有权模式终究可以兼容？
   - topic: Project teams and task forces
     title: Sun manages projects without project planning.
     content: "[Sun Hydraulics](http://www.sunhydraulics.com/) is a global producer
