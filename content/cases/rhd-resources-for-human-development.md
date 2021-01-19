@@ -66,7 +66,7 @@ theory:
       ，但最终决定权留在基层团队。^\\[Laloux, Frederic. Reinventing Organizations. Nelson
       Parker (2014), page 148 and following]"
   - topic: Fundamental Assumptions
-    title: Three beliefs for people, workers and management.
+    title: 基本假设   相信人性、员工和管理
     content: |-
       1. All people are of equal human worth.
 
