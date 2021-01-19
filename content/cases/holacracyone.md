@@ -79,34 +79,21 @@ theory:
   - topic: Role Definition and Allocation
     title: 岗位定义与任务分派  准备了一个内部的“角色市场”来帮助成员交换岗位角色
     content: >-
-      HolacracyOne has set up a company-wide Role Market Place in order to make
-      trading roles easy (in holacratic language, this is an “app;” it’s not
-      part of the basic operating system). On the company’s intranet is a file
-      where colleagues can “rate” every role they currently fill, using a scale
-      of -3 to +3:
+      [霍尔万](https://www.holacracy.org/holacracyone/about)已经建立了一个公司范围内的岗位角色市场，以方便内部岗位交换。在公司的内部网上有一个文件，同事们可以用-3到+3的比例对他们目前担任的每一个职位进行“评分”：
 
 
-      * If they find the role energizing (+) or draining (-).
+      * 你认为这个角色正在上升期（+）还是衰减期（-）。
 
-      * If they find their talents aligned (+) or not (-) with this role.
+      * 自己的才能是否与这个角色相匹配（+）或（-）。
 
-      * If they find their current skills and knowledge conducive to (+) or limiting in (-) this role.
+      * 你认为自己目前的技能和知识，是有助于（+）还是在限制（-）这个岗位角色。
 
 
-      Using the same scale of -3 to +3, people can also signal their interest in roles currently filled by other people. The market place helps people wanting to offload or pick up roles.
+      成员还可以使用类似的-3到+3量表，表示自己对目前由其他人所担任岗位角色的兴趣。因此，这个市场有助于成员脱手或接受一个岗位角色。
   - topic: Commitment, Working Hours and Flexibility
-    title: HolacracyOne uses a regular meeting practice for colleagues to share and
-      discuss commitment.
-    content: During these meetings, colleagues discuss how much time and energy, at
-      that moment in their lives, they want to commit to the organization’s
-      purpose. The rationale behind this regular meeting is for each person to
-      make a conscious choice about how much time and energy they are willing to
-      commit. At the same time, the meeting practice gives all colleagues a
-      conscious way of holding and recognizing that as humans, everyone has
-      multiple endeavors that interest and enliven them, and that each person is
-      choosing how much time and energy they want to give to any particular
-      purpose^[Laloux, Frederic. Reinventing Organizations. Nelson Parker
-      (2014), page 182].
+    title: 工作承诺、工作时间与弹性化  霍尔万采用定期会议的方式让同事分享和讨论工作承诺。
+    content: 在这些会议中，同事们坦诚讨论在自己人生中的当下，他们想要投入多少时间和精力来实现组织的目标。这个例会的基本原理，是让每个人都有意识地选择并明确宣布自己愿意为组织投入多少时间和精力。同时，这个会议实践，为所有同事提供了一种方式，让他们有意识的认识到，作为人类，每个人都会有不只一种很感兴趣并能激发生命力的努力方向，每个人都有权并需要选择决定，自己到底要投入在其中某个特定目标多少时间和精力。^\[Laloux,
+      Frederic. Reinventing Organizations. Nelson Parker (2014), page 182].
   - topic: Compensation and incentives
     title: "HolacracyOne, the small consultancy/training company behind Holacracy,
       uses a ranking mechanism, which feeds an algorithm that allocates
