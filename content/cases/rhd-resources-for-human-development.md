@@ -47,13 +47,9 @@ theory:
       RHD每两个月举行一次“职场xx主义揭发会”。任何一个人，如果感到组织应该关注某一特定形式或兆头的种族主义、性别歧视或任何其他“歧视”倾向，就可以自由参加会议揭发。比如，注意到组织作为一个整体，倾向于雇用不成比例的白人多于黑人，或者女性通常不踏入某些岗位禁区。不存在明显的对抗派别，要求每个人都积极自主的寻找解决方案。
   - topic: Training and Coaching
     title: 培训与辅导   RHD有个公费的心理咨询项目，每年为员工和/或其家人提供10次免费心理咨询。
-    content: "No one else in the organization needs to be informed about the theme
-      of the coaching, and it must not be a professional topic. The program is
-      built on trust: if an employee is seeking support from an external coach,
-      the topic must be important enough to be worth the money the company pays
-      for it"
+    content: 这类个人辅导的主题，不需要告知组织中的其他人，也不能是业务专长主题。这个项目建立在信任的基础上：如果一名员工正在寻求外部教练的支持，那么这个话题必定足够重要，值得公司为此付出代价。
   - topic: Job Titles and Job Descriptions
-    title: RHD consciously does not use job descriptions
+    title: 职称与工作描述    RHD 不采用刻意的工作描述。
     content: >-
       Bob Fishman, the founder of [RHD](https://www.rhd.org/), explains the
       benefits of not using job descriptions in his organization: RHD
