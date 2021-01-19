@@ -3,12 +3,11 @@ layout: case
 tags: cases
 name: 霍尔万(HolacracyOne)
 date: 2020-11-09
-introduction: Founded in 2007 by Brian Robertson and Tom Thomison, HolacracyOne
-  is the company spearheading the development of the Holacracy framework.
-industry: S. Other service activities
-geography: USA
+introduction: 霍尔万由布莱恩·罗伯逊和汤姆·汤米森于2007年创建的，是运用霍尔框架开发的先锋公司。
+industry: S.公共服务
+geography: 美国
 companySize: 1-100
-profit: Profit
+profit: 营利组织
 theory:
   - topic: Meetings
     title: HolacracyOne has created an effective set of meetings serving a specific
