@@ -56,8 +56,7 @@ theory:
 
       *例如，塞尔玛在我们新开的门诊部当接待员已经很多年了，她向我要了一份工作描述。……我觉得，并告诉她，既然她已经在高质量的工作着，由我来定义她的工作细节不是太荒谬了。她最突出的行为之一，就是亲切地问候户，给他们送去咖啡，并确保治疗师及时将他们带进治疗室。描述她的善良是不可能的：言语永远无法表达她由衷的温暖。塞尔玛已经知道如何完成自己的工作，我相信，徒增一份详细的工作描述对她弊大于利。……不可能存在单一的方法来定义一项工作，也没有一个主管能够描述清楚另一个人如何完成自己的工作。如果……我把我的观点强加在她的工作上，公司实际上会失去她独一无二的特殊贡献——她管理人与人之间关系的方式。那将是一个巨大的损失。*
   - topic: Compensation and incentives
-    title: RHD has put in place a number of practices to boost the lowest salaries
-      and reduce pay inequality
+    title: 薪酬与激励  RHD采取一系列措施提高最低工资，减少工资不平等
     content: RHD, a Philadelphia based non-profit, holds the principle that when
       there is room for salary increases, they should be disproportionately
       geared toward the lowest salaries first. The CEO’s salary is capped to a
