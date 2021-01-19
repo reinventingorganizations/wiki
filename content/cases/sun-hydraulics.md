@@ -4,21 +4,17 @@ tags: cases
 name: 太阳液压（Sun Hydraulics）
 date: 2020-11-09
 introduction: >-
-  From its own website [Sun Hydraulics](https://www.sunhydraulics.com/about) is
-  a leading designer and manufacturer of high-performance screw-in hydraulic
-  cartridge valves and manifolds that control force, speed and motion as
-  integral components in fluid power systems.
+  来自[太阳液压](https://www.sunhydrulics.com/about)自己网站的信息，说这是一家领先的高性能旋入式液压插装阀和阀组的设计和制造商，这些插装阀和阀组用于控制动力、速度和运动，是流体动力系统的组件。
 
 
-  In business since 1970 and a public company since 1997, Sun Hydraulics Corporation became Helios Technologies (NASDAQ: SNHY) in 2018. Sun Hydraulics LLC operates as a wholly owned company under the new corporate name and sells its products globally, primarily through independent distributors, to diverse markets of mobile and industrial equipment and machinery manufacturers.
-industry: C. Manufacturing
-geography: Global
+  太阳液压自1970年开始经营，自1997年开始上市，于2018年成为太阳神科技公司（纳斯达克：SNHY）。太阳液压LLC是这家新公司名下的全资子公司，主要通过独立分销商在全球范围内向不同的移动和工业设备及机械制造商市场销售其产品。
+industry: C.制造业
+geography: 全球
 companySize: "> 500"
-profit: Profit
+profit: 营利组织
 theory:
   - topic: Role Definition and Allocation
-    title: An internal recruitment process in which future colleagues interview
-      candidates for a role.
+    title: 岗位定义与任务分派  采用一种内部招聘过程，由未来的同事面试某个职位的候选人。
     content: "At Sun Hydraulics, minor role changes often take place organically, by
       people simply stepping up to take on a role or opening a conversation
       about the need for someone to take on that role.\r
