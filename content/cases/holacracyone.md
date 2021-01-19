@@ -50,8 +50,7 @@ theory:
 
       这个过程听起来可能很正式，需要一些时间来习惯。但使用的人报告说，他们感到这个流程能带来人性解放，而且效率非常高。
   - topic: Coordination
-    title: HolocracyOne has set-up a company-wide Role Market Place to help
-      coordinate workload
+    title: 协作  霍尔万建立了一个公司范围内的岗位交换市场，以帮助协调工作量
     content: >-
       [HolacracyOne ](https://www.holacracy.org/holacracyone/about)has set up a
       company-wide Role Marketplace in order to make trading roles easy. On the
