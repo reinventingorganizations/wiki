@@ -52,20 +52,17 @@ theory:
   - topic: Coordination
     title: 协作  霍尔万建立了一个公司范围内的岗位交换市场，以帮助协调工作量
     content: >-
-      [HolacracyOne ](https://www.holacracy.org/holacracyone/about)has set up a
-      company-wide Role Marketplace in order to make trading roles easy. On the
-      company’s intranet is a file where colleagues can “rate” every role they
-      currently fill, using a scale of -3 to +3:
+      [霍尔万](https://www.holacracy.org/holacracyone/about)已经建立了一个公司范围内的岗位角色市场，以方便内部岗位交换。在公司的内部网上有一个文件，同事们可以用-3到+3的比例对他们目前担任的每一个职位进行“评分”：
 
 
-      * If they find the role energizing (+) or draining (-). 
+      * 你认为这个角色正在上升期（+）还是衰减期（-）。
 
-      * If they find their talents aligned (+) or not (-) with this role. 
+      * 自己的才能是否与这个角色相匹配（+）或（-）。
 
-      * If they find their current skills and knowledge conducive to (+) or limiting in (-) this role.
+      * 你认为自己目前的技能和知识，是有助于（+）还是在限制（-）这个岗位角色。
 
 
-      Using the same scale of -3 to +3, people can also signal their interest in roles currently filled by other people. The marketplace thus helps people wanting to offload or pick up roles.
+      成员还可以使用类似的-3到+3量表，表示自己对目前由其他人所担任岗位角色的兴趣。因此，这个市场有助于成员脱手或接受一个岗位角色。
   - topic: Recruitment
     title: Team members qualify candidates based on fit for organization, purpose
       and role.
