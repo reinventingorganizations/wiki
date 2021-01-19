@@ -46,8 +46,7 @@ theory:
 
       RHD每两个月举行一次“职场xx主义揭发会”。任何一个人，如果感到组织应该关注某一特定形式或兆头的种族主义、性别歧视或任何其他“歧视”倾向，就可以自由参加会议揭发。比如，注意到组织作为一个整体，倾向于雇用不成比例的白人多于黑人，或者女性通常不踏入某些岗位禁区。不存在明显的对抗派别，要求每个人都积极自主的寻找解决方案。
   - topic: Training and Coaching
-    title: RHD sponsors a coaching program that offers 10 free counseling sessions
-      for employees and/or their families every year.
+    title: 培训与辅导   RHD有个公费的心理咨询项目，每年为员工和/或其家人提供10次免费心理咨询。
     content: "No one else in the organization needs to be informed about the theme
       of the coaching, and it must not be a professional topic. The program is
       built on trust: if an employee is seeking support from an external coach,
