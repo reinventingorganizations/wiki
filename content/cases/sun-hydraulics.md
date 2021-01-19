@@ -52,26 +52,13 @@ theory:
       议室似乎用得很少时，太阳液压的一位领导人柯尔斯滕瑞格打趣道：“我们不浪费时间制造忙碌。”^\\[Laloux, Frederic.
       Reinventing Organizations. Nelson Parker (2014), page 84 and following]"
   - topic: Budgeting and Controlling
-    title: An example of a budget-free approach of Sun Hydraulics, a publicly listed
-      company in the United States
+    title: 美国上市公司太阳液压的一个无预算方法示例
     content: >-
-      The case of [Sun Hydraulics](https://www.sunhydraulics.com/) shows that a
-      budget-free approach is possible even for a publicly listed company. Allen
-      Carlson, the CEO, explains: "*After our IPO in January 1997, we had to get
-      better at predicting our numbers. … The market penalized us when we missed
-      one quarter in ‘99 after we adopted a new manufacturing system. We said,
-      'Look, we can’t predict what’s going on in the economy, and we have no
-      idea what our orders will look like a year from now. … We don’t run this
-      business by the numbers. The numbers will be doing what the numbers will
-      be doing; we can just give you a good picture of what the next quarter
-      will bring.' So, we got away from making annual projections and started
-      just doing quarterly forecasts. … We know our performance in the long run
-      will be a result of just doing the right things every day."*
+      \[太阳液压]案例(https://www.sunhulidics.com/)表明，即使对一家上市公司来说，也有可能采用无预算的方法。首席执行官艾伦•卡尔森（Allen
+      Carlson）解释道：“在1997年1月（IPO）上市之后，我们必须在预测数字方面做得更好。1999年我们采用一种新的制造系统后，曾损失了一个季度的预算，市场惩罚了我们这种预算管理方式。因此我们说，看，我们无法预测经济情况，我们也不知道一年后我们的订单会是什么样子。……我们不是靠数字来做生意的。数字仅仅是到数字；说到预测，我们最多也只能粗略的了解下个季度将怎样而已。因此，我们不再做年度预测，而是只做相对可预估的季度预测。……我们知道，只要每天做正确的事情，必将带来长期效果。”
 
 
-      \
-
-      Most business leaders would feel naked without budgets and forecasts. When the question was put to Carlson "How do you deal with having no forecasts to compare people’s performance to? For instance, how do you know if the guys in Germany (where Sun has a plant) were doing a good job last year, if you have no target to compare against?"*,* his answer came shooting out of the barrel: *Who knows? Who cares? They are all working hard, doing the best they can. We have good people in all the places around the world and if I need that sort of scorecard I probably got the wrong person. That’s just the way we operate. … If I’m the head of sales of Sun in the US and you ask me what is the forecast, I have no clue! How could I generate one anyway? … At the end of the day, there is so much outside of your control. … It’s impossible to predict the unpredictable.*
+      如果没有预算和预测，大多数商业领袖都会感到赤身裸体。当有人问卡尔森“没有预测，你你如何评估人们的表现？”例如，如果你没有可比的目标，你怎么知道德国（太阳液压在德国有一家工厂）的员工去年是否表现良好？”他脱口而出：谁知道呢？谁在乎呢？他们都在努力工作，尽力而为。我们在世界各地的成员都是好人，如果我需要那种记分卡，就说明我可能找错人了。这就是我们的运作方式。……如果我是在美国的销售主管，而你问我预测指标是什么，我不知道！我怎样才能臆造一个预测呢？……一天下来，你无法控制的事情太多了。…人不可能预测不可预知的事情。
   - topic: Ownership
     title: A public company since 1997 holds its commitment to Teal.
     content: "Sun Hydraulics, a company that was founded in 1970 by two engineers,
