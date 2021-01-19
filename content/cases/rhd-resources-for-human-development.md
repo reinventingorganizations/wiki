@@ -60,17 +60,11 @@ theory:
     content: 总部位于费城的非营利机构RHD的原则是，当有加薪空间时，首先应该不成比例地优先考虑提高最低工资。首席执行官的工资上限是公司最低工资的14倍。人们可以争论这个倍数——是过高还是过低？―但RHD引入了一个巧妙的转折点，将最高工资的上限比例对比基数设定为最低工资，而许多绿色组织目前都是以平均或中挡工资为对比基数。于是确保了即使是资历最低的同事，也能挣到足够的钱过上体面的生活，这非常符合首席执行官和领导层自身的利益。除了直接关注初级工资外，RHD还设立了一个奖学金基金，为工作人员提供接受正规教育的机会，增加他们的收入潜力。还建立了一种配套货币：RHD等值美元。允许收入较低的同事通过相互交易和与当地社区进行交易，来增加获得商品和服务的机会。
   - topic: Purchasing and Investments
     title: 采购与投资   RHD的组织运作，是以自我管理的基层团队（单位）为基础。这些单位负责全部的运营，从确定战略到招聘和采购，从预算到监测结果。投资决策权也留在基层单位内部，具有财务专业知识的团队外预算经理只提供咨询。
-    content: Each of [RHD](https://www.rhd.org/)’s programs is run by a
-      self-managing team, with an average of 20 and at most 40 to 50 people.
-      Units, as these teams are called within RHD, are encouraged to develop
-      their own sense of purpose, pride, and identity. Within the units, there
-      are no job descriptions. Units are responsible for their entire operation,
-      from defining a strategy to recruiting and purchasing, from budgeting to
-      monitoring results. Central staff at headquarters is kept to a minimum.
-      Specialist staff - for instance, the budget managers that support teams in
-      financial matters or specialists in clinical review - can counsel teams,
-      but the final decision is kept in the unit. ^[Laloux, Frederic.
-      Reinventing Organizations. Nelson Parker (2014), page 148 and following]
+    content: "[RHD](https://www.rhd.org/)的项目由自我管理的基层团队负责管理，团队平均20人，最多40到50人。这些团队在RH\
+      D中被称为单位。RHD鼓励团队培养自己的目标感、自豪感和认同感。各单位内部没有职务说明。各单位负责其整个业务，从确定战略到招聘和采购，从预算编制到\
+      监测结果。总部的中央管理人员保持在最低限度。专家工作人员——例如，在财务事项上支持团队的预算管理人员或在临床审查方面的专家——只负责为团队提供咨询\
+      ，但最终决定权留在基层团队。^\\[Laloux, Frederic. Reinventing Organizations. Nelson
+      Parker (2014), page 148 and following]"
   - topic: Fundamental Assumptions
     title: Three beliefs for people, workers and management.
     content: |-
