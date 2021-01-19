@@ -78,8 +78,7 @@ theory:
       Guide to Creating Organizations Inspired by the Next Stage of Human
       Consciousness (Kindle Location 1927). Nelson Parker. Kindle Edition.]"
   - topic: Self-Management
-    title: A global, engineering company run largely without hierarchy or central
-      control
+    title: 自我管理  一家全球性性工程公司，基本上可以没有等级制度或中央控制
     content: "[Sun Hydraulics](http://www.sunhydraulics.com/) is a global producer
       of hydraulic cartridge valves and manifolds with hundreds of engineering
       projects running in parallel. Despite this, there is no master plan. There
