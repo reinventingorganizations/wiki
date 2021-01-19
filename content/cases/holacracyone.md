@@ -95,18 +95,15 @@ theory:
     content: 在这些会议中，同事们坦诚讨论在自己人生中的当下，他们想要投入多少时间和精力来实现组织的目标。这个例会的基本原理，是让每个人都有意识地选择并明确宣布自己愿意为组织投入多少时间和精力。同时，这个会议实践，为所有同事提供了一种方式，让他们有意识的认识到，作为人类，每个人都会有不只一种很感兴趣并能激发生命力的努力方向，每个人都有权并需要选择决定，自己到底要投入在其中某个特定目标多少时间和精力。^\[Laloux,
       Frederic. Reinventing Organizations. Nelson Parker (2014), page 182].
   - topic: Compensation and incentives
-    title: "HolacracyOne, the small consultancy/training company behind Holacracy,
-      uses a ranking mechanism, which feeds an algorithm that allocates
-      colleagues to salary bands. "
+    title: 薪酬与激励   霍尔万是在背后支撑霍尔模式的一家小型咨询/培训公司。该组织使用一种排名机制，来支撑一种划分同事工资级别的算法。
     content: >-
-      Once a year, colleagues at HolacracyOne fill out a survey for all their
-      colleagues, consisting of only two questions:
+      霍尔万的同事每年都会为所有同事填写一份调查问卷，只包括两个问题：
 
 
-      * “This person contributes (much) more or (much) less than me.” (On a scale of -3 to +3)
+      * “这个人比我贡献更多还是更少。”（按-3到+3的比例）
 
-      * “This person has a good basis to evaluate me.” (On a scale of 1 to 5)
+      * “这个人很适合评价我。”
 
 
-      A simple algorithm crunches through the answers and groups colleagues into a few salary buckets. The more experienced, knowledgeable, and hard-working people land in the higher buckets that earn bigger salaries; the more junior, less experienced colleagues naturally gravitate toward buckets with lower salaries.^[Interview Frederic Laloux with Tom Thomison, 2013]
+      然后通过一个简单的算法来快速搜索答案，将同事分成几个工资级别池。经验越丰富、知识越渊博、工作越努力的人，收入越高；经验越低、资历越浅的同事自然会被吸引到收入越低的工资池内。
 ---
