@@ -69,21 +69,12 @@ theory:
 
       太阳液压似乎是一个重要的案例，说明尽管一家公司拥有传统的公司结构和分散且流动（上市）的所有权，还是有可能保持对蔚蓝的承诺，也许蔚蓝组织和非蔚的所有权模式终究可以兼容？
   - topic: Project teams and task forces
-    title: Sun manages projects without project planning.
-    content: "[Sun Hydraulics](http://www.sunhydraulics.com/) is a global producer
-      of hydraulic cartridge valves and manifolds with hundreds of engineering
-      projects running in parallel. Despite this, there is no master plan. There
-      are no project charters and no one bothers with staffing people on
-      projects. Project teams form organically and disband again when work is
-      done. Nobody knows if projects are on time or on budget, because for 90
-      percent of the projects, no one cares to put a timeline on paper or to
-      establish a budget. A huge amount of time is freed by dropping all the
-      formalities of project planning - writing the plan, getting approval,
-      reporting on progress, explaining variations, rescheduling, and
-      re-estimating, not to mention the politics that go into securing resources
-      for one's project or to find someone to blame when projects are over time
-      or over budget. According to one of Sun's leaders, \"We don't waste time
-      being busy\".^[Laloux, Frederic (2014-02-09). Reinventing Organizations: A
+    title: 项目团队与工作组  太阳液压以不做项目计划方式运作项目。
+    content: "[太阳液压系统](http://www.sunhydrulics.com/)是一家全球液压插装阀和阀组生产商，拥有数百个并行工程项目。尽管\
+      如此，并没有总体规划。没有项目章程，也没有人为项目的人员配备而烦恼。项目团队会自然的组织形成，工作完成后又自然解散。没有人知道项目是否按时或按预算\
+      完成的，因为对于90%的项目来说，没有人在乎在纸上写下时间表或者制定预算。通过放弃所有的项目规划手续而解放了大量的时间——写计划、获得批准、报告进\
+      度、解释变化、重新安排时间和重新评估，更不用说在项目超过时间或预算时，为项目争取资源或找人来责怪的扯皮。据太阳液压报的一位领导人说，“我们不会浪费\
+      时间制造忙碌。”^\\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A
       Guide to Creating Organizations Inspired by the Next Stage of Human
       Consciousness (Kindle Location 1927). Nelson Parker. Kindle Edition.]"
   - topic: Self-Management
