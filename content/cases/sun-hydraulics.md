@@ -42,8 +42,7 @@ theory:
 
       关于个人如何改进的反馈，是在全年的自然工作过程中给出的，而不是留在年度评估时单独进行。
   - topic: Purchasing and Investments
-    title: Sun Hydraulics dropped most formalities of project planning, thereby
-      freeing up productive capacity.
+    title: 采购与投资  太阳液压取消了大部分项目规划手续，从而释放了生产能力。
     content: At [Sun Hydraulics](http://www.sunhydraulics/) project and investment
       management is radically simplified. There is no management that wants to
       understand and control the complexity. Projects happen organically and
