@@ -51,7 +51,7 @@ theory:
   - topic: Job Titles and Job Descriptions
     title: 职称与工作描述    RHD 不采用刻意的工作描述。
     content: >-
-      鲍勃费什曼是\[RHD]的创始人(https://www.rhd.org/)，关于在他的组织中不使用工作描述的好处，他说：RHD特意不使用工作描述和职务说明。相反，我们假设人之初性本善。这让我们相信，一旦员工对工作有了大致的认识，他或她就会想塑造自己独特的工作方式。
+      鲍勃费什曼是[RHD](https://www.rhd.org/)创始人，关于在他的组织中不使用工作描述的好处，他说：RHD特意不使用工作描述和职务说明。相反，我们假设人之初性本善。这让我们相信，一旦员工对工作有了大致的认识，他或她就会想塑造自己独特的工作方式。
 
 
       *例如，塞尔玛在我们新开的门诊部当接待员已经很多年了，她向我要了一份工作描述。……我觉得，并告诉她，既然她已经在高质量的工作着，由我来定义她的工作细节不是太荒谬了。她最突出的行为之一，就是亲切地问候户，给他们送去咖啡，并确保治疗师及时将他们带进治疗室。描述她的善良是不可能的：言语永远无法表达她由衷的温暖。塞尔玛已经知道如何完成自己的工作，我相信，徒增一份详细的工作描述对她弊大于利。……不可能存在单一的方法来定义一项工作，也没有一个主管能够描述清楚另一个人如何完成自己的工作。如果……我把我的观点强加在她的工作上，公司实际上会失去她独一无二的特殊贡献——她管理人与人之间关系的方式。那将是一个巨大的损失。*
@@ -68,30 +68,25 @@ theory:
   - topic: Fundamental Assumptions
     title: 基本假设   相信人性、员工和管理
     content: |-
-      1. All people are of equal human worth.
-
-      2. People are essentially good, unless proven otherwise.
-
-      3. There is no single way to manage corporate issues well.
+      1. 所有人作为人都具有同等的价值。
+      2. 除非另有证明，否则相信人之处性本善。
+      3. 管理公司各种问题的好方法不只一个。
   - topic: wholeness
-    title: An organizational Bill of Rights
+    title: 完整人性 组织的人权清单
     content: >-
-      RHD has developed over the years a beautiful and precisely worded Bill of
-      Rights and Responsibilities for Employees and Consumers. The first two
-      articles spell out RHD’s objective of creating a safe environment and
-      constructively managing conflict and anger. (Later articles deal with
-      topics related to self-management.) The premise is maintained that
-      conflict is inevitable, but that hostile behaviors are not:
+      经过多年积累，RHD为员工和消费者制定了一份措辞准确的权利和责任法案。
+
+      法案的前两篇文章阐述RHD的目标：创造一个安全的环境，建设性地管理冲突和愤怒。（其后的文章讨论与自我管理相关的话题）。他们基于一个前提：冲突是不可避免的，但敌对行为可以避免。
 
 
-      *This corporation has chosen to operate with several basic assumptions. One of those assumptions is that there are multiple “right” ways or paths we can follow in making decisions, thus there is no one “true” or “absolute” reality. Each person in a situation holds his/ her own view of reality, and his/ her own perspective about the most effective way to do things. This assumption allows us to recognize that conflict is inevitable and that people will disagree in the workplace. While conflict and difference (or disagreement) are to be expected, explosive or otherwise hostile expressions of anger are not acceptable in RHD. As a member of the RHD community, it is important to be able to do two things: a) Separate from our own need to be “right” in order to hear and respect others’ realities and perspectives: and, b) Differentiate between thoughts (what’s going on inside your head) and behaviors (what you do or say).^\[Robert Fishman and Barbara Fishman, The Common Good Corporation: The Experiment Has Worked! (Philadelphia: The Journey to Oz Press, 2006), 165.]*
+      该组织确定了几个基本假设，这些假设指导着业务活动。其一是，做出“正确”决策的方式或路径不止一种。因此，事实不只一个，不存在“真实”或“绝对”现实。每个人在一个情境中，都有他/她自己对现实的看法，以及他/她对最有效做事方式的看法。这一假设使我们认识到，冲突是不可避免的，人们在工作中会有不同意见。虽然冲突和分歧（或不一致）是不可预料的，但在RHD不接受耍脾气发火或其他敌对性愤怒表达。作为RHD社区的一员，重要的是能够做两件事：a）远离想表达自己最“正确”的欲望，以便倾听和尊重他人看到的事实和观点；b）区分思想（你头脑中的情景）和行为（你的言行）。*^\[Robert Fishman and Barbara Fishman, The Common Good Corporation: The Experiment Has Worked! (Philadelphia: The Journey to Oz Press, 2006), 165.]*
 
 
-      The document goes on to spell out in detail five unacceptable expressions of hostility. The first, demeaning speech and behavior, is described in the following terms:
+      这份文件接着详细阐述了五种不可接受的敌意表达。第一种是“贬低言语和行为”，用以下术语描述：
 
 
-      *Demeaning speech and behavior involves any verbal or nonverbal behavior that someone experiences as undermining of that person’s self-esteem and implies that he/she is less than worthy as a human being. Such behaviors include, but are not limited to, name-calling, ridicule, sarcasm, or other actions which “put down” people. Demeaning a person with such physical behaviors as rolling one’s eyes when the person speaks or otherwise negating her importance as a member of the community is also unacceptable. Anyone encountering such hostile behavior has the right and responsibility to surface it as an issue.^\[Robert Fishman and Barbara Fishman, The Common Good Corporation: The Experiment Has Worked! (Philadelphia: The Journey to Oz Press, 2006), 165.]*
+      贬低言语和行为包括任何一种“有人认为这种行为损害了自己的自尊，并感到在暗示他/她不值得作为一个人存在”的言语或非言语行为。此类行为包括但不限于骂人、嘲笑、挖苦或其他“贬低”他人的行为。用诸如说话时翻白眼或以其他方式，否定他/她作为社区成员的重要性等身体行为，来贬低一个人，都是不可接受的。任何遇到这种敌对行为的人，都有权利也有责任将其作为一个问题来揭发并处理。*^\[Robert Fishman and Barbara Fishman, The Common Good Corporation: The Experiment Has Worked! (Philadelphia: The Journey to Oz Press, 2006), 165.]*
 
 
-      Other expressions of hostility ”negative triangulated messages,” “threat of abandonment,” “disconfirming the other person’s reality,” and “intimidation/explosion” are defined in an equally precise manner.^[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3332-3349). Nelson Parker. Kindle Edition.]
+      敌意的其他表达方式包括“负面三角信息”、“遗弃威胁”、“不确认对方的真实情况”和“恐吓/发怒”，法案中对这些也都进行了同样准确的定义。^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3332-3349). Nelson Parker. Kindle Edition.]
 ---
