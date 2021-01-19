@@ -29,16 +29,7 @@ theory:
       为什么入职轮训要这么长时间？太阳液压的员工认为，与公司其他员工建立关系，有助于从各个角度深入理解这个组织。一个自我管理的环境提供了让事情自然发生的机会，刻意自由地接触到同事，共同讨论变化，而不需要经过一个层次指挥链的批准。你认识的人越多，你就越了解整个组织，你就越有能力提出新的想法并将其变成现实。在太阳液压，新员工在结束了制造生产线之旅后，却选择担任了一个跟他们当初被雇佣时不同的岗位角色，这并不罕见。他们偶然在组织内发现了自己的一个新兴趣点或一些更迫切的组织需要，而最终在不同的地方上任了。
   - topic: Training and Coaching
     title: 培训与辅导  在太阳液压，所有新员工入职都开始于“制造生产线旅”，不管他们未来的岗位是什么；他们不仅学会操作一个工作站，还要学会操作多个工作站。对于钟点工，这个轮训会持续两到四周，他们要在四到六个不同的区域工作。对于工薪员工来说，则需要更长的时间：在车间工作一到四个月。只有到轮训结束时，他们才开始承担起被雇佣的岗位角色。
-    content: Why such a long induction? People at Sun believe it’s critical to build
-      relationships with other employees across the company to understand it
-      from all angles. A self-managing environment provides opportunity to make
-      things happen, to freely reach out to colleagues, to discuss change
-      without going through a hierarchy of approvals. The more people you know,
-      the more you understand the whole, the more you’ll be able to come up with
-      new ideas and turn them into reality. At Sun, it is not unusual, after the
-      manufacturing tour, for new hires to take up a role that wasn’t the one
-      they were hired for. They stumble upon a new interest or some urgent need
-      and end up in a different place.
+    content: 为什么入职轮训要这么长时间？太阳液压的员工认为，与公司其他员工建立关系，有助于从各个角度深入理解这个组织。一个自我管理的环境提供了让事情自然发生的机会，刻意自由地接触到同事，共同讨论变化，而不需要经过一个层次指挥链的批准。你认识的人越多，你就越了解整个组织，你就越有能力提出新的想法并将其变成现实。在太阳液压，新员工在结束了制造生产线之旅后，却选择担任了一个跟他们当初被雇佣时不同的岗位角色，这并不罕见。他们偶然在组织内发现了自己的一个新兴趣点或一些更迫切的组织需要，而最终在不同的地方上任了。
   - topic: Feedback and Performance Management
     title: Sun Hydraulics has developed a simple process for framing positive annual
       appraisals.
