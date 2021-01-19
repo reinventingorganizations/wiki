@@ -36,24 +36,15 @@ theory:
 
       在团队之“上”，没有中层管理人员，只有一些支持多个单位的枢纽领导。总部的中心领导希望随时了解存在或潜在的重大问题。虽然他们可能会提供建议或帮助，但解决问题的责任和权限仍放在基层团队。
   - topic: Recruitment
-    title: Human Services - United States - 4,000 employees - Nonprofit  At RHD, the
-      HR service is responsible for providing training, support and education of
-      unit personnel regarding employment practices, but do not provide a
-      centralized hiring process. RHD uses frequent peer reflection in all
-      programs and groups to evaluate group composition, in order to adapt
-      recruiting so they can provide a diverse workplace.
+    title: 招聘   RHD，人力资源服务-美国-4000名员工-RHD-非营利组织。RHD的人力资源服务部门负责为单位人员提供有关就业实践的培训、支持和教育，但不提供集中的招聘流程。RHD在所有项目和团队中，通过频繁的同侪反思来评估团队人员组成，以便为招聘活动提供需求，进而提供多样化的工作场所。
     content: >-
-      [Resources for Human Development (RHD)](https://www.rhd.org/) is a
-      Philadelphia-based nonprofit , 4,000 employees operating in 14 states,
-      serving people in need through a variety of homes, shelters, and programs
-      in areas such as mental disabilities, addiction recovery, and
-      homelessness. It was founded in 1970 by Robert Fishman.
+      [人力资源促进发展（RHD）](https://www.rhd.org/)是一家总部位于美国费城的非营利组织。RHD在美国14个州拥有4000名员工，通过各种家庭、庇护所和项目为有需要的人提供服务，这些项目涉及精神残疾、戒毒和无家可归者等领域。它是由罗伯特·菲什曼于1970年创立的。
 
 
-      In the [Bill of Rights and Responsibilities](http://www.rhd.org/docs/default-source/docs/RHDBillofRights.pdf?sfvrsn=0) (a document that spell out detailed ground rules for encouraging safe behaviors and identify inacceptable behaviors) is indicated that all programs and groups throughout the organization are requested to periodically look at the composition of the membership in their group, and to reflect on the reasons for and impacts of that composition. Based on such reflection, the group may want to make decisions about how it will move forward in creating and valuing a diverse membership.
+      RHD的[权利和责任法案](http://www.rhd.org/docs/default-source/docs/RHDBillofRights.pdf？sfvrsn=0)（详细描述一些基本原则的文档，目的是为了鼓励安全行为和识别不可接受行为）中，要求整个组织的所有计划和小组定期检查其小组成员的组成，并反思形成这一人员结构的原因和影响。基于这样的反思结果，组织可以做出合理决策，以便在打造并重视成员组成多样化方面更上一层楼。
 
 
-      RHD holds a bi-monthly “isms in the workplace meeting.” Anyone feeling that the organization should pay attention to a specific form or occurrence of racism, sexism, or any other “-ism” can join the meeting. If noticed that the organization as a whole tends to hire disproportionately more white than black people, or that women generally don’t step into certain roles; there is no obvious party to confront; everyone is called to find a solution.
+      RHD每两个月举行一次“职场xx主义揭发会”。任何一个人，如果感到组织应该关注某一特定形式或兆头的种族主义、性别歧视或任何其他“歧视”倾向，就可以自由参加会议揭发。比如，注意到组织作为一个整体，倾向于雇用不成比例的白人多于黑人，或者女性通常不踏入某些岗位禁区。不存在明显的对抗派别，要求每个人都积极自主的寻找解决方案。
   - topic: Training and Coaching
     title: RHD sponsors a coaching program that offers 10 free counseling sessions
       for employees and/or their families every year.
