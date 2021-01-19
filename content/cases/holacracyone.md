@@ -10,41 +10,45 @@ companySize: 1-100
 profit: 营利组织
 theory:
   - topic: Meetings
-    title: HolacracyOne has created an effective set of meetings serving a specific
-      purpose
+    title: 会议  霍尔万创建了一套为各种特定目的服务的有效会议形态。
     content: >-
-      In Holacracy there are 4 meeting types:
+      霍尔万共有4种会议类型：
 
 
-      All meetings start with a 'check-in" and close with a 'check-out'.
+      所有会议都以“登入”流程开场，以“登出”结束。
 
 
-      Tactical meetings:  These short daily or weekly meetings serve the operational process. Here work is coordinated. Operational processes are addressed, actions decided, and things get done. 
+      战术会议：为日常操作流程服务的简短的每日或每周会议。工作都是在这里得到协调。在此协调具体的操作流程，决定行动，完成事情。
 
 
-      Strategic meetings:  These rare meetings have no specific form and process thinking about how to best serve the [evolutionary purpose.](../evolutionary-purpose/)
+      战略会议：这类会议不经常召开，没有具体的形式和过程，主要用来思考如何最好地服务于组织的[进化目标](../evolutional-purpose/)。
 
 
-      Special topic meetings:   Held when a topic calls for special attention. These meetings also have no specific form.
+      专题会议：当某一专题需要特别关注时举行的会议。这些会议也没有具体形式。
 
 
-      Governance meetings:  These meetings are restricted to roles, and collaboration; not the rough and tumble of getting work done. The latter are for tactical meetings.  Governance meetings are held generally every month. They follow strict process to ensure everybone’s voice is heard and that no one can dominate [decision-making](../decision-making/). A facilitator guides the proceeding via the following process:
+      管理会议：这些会议仅限于处理岗位角色和协作，而不是为了讨论具体如何完工作所需的成杂乱无章过程。后者在战术会议上处理。管理会议通常每月举行一次。遵循严格的程序，以确保每个人的声音都能被听到，并且确保没有人能独裁的主宰[决策](../decision-making/)。会议主持人通过以下流程指导会议程序：
 
 
-      1. Present proposal
-
-      2. Clarifying questions
-
-      3. Reaction round
-
-      4. Amend and clarify
-
-      5. Objection round
-
-      6. Integration
+      1.提出建议
 
 
-      The process might sound formal and needs to get used to, but people who use it report they find it deeply liberating and dramatically efficient.
+      2.澄清问题
+
+
+      3.反馈
+
+
+      4.修改和澄清
+
+
+      5.反对意见
+
+
+      6.集成
+
+
+      这个过程听起来可能很正式，需要一些时间来习惯。但使用的人报告说，他们感到这个流程能带来人性解放，而且效率非常高。
   - topic: Coordination
     title: HolocracyOne has set-up a company-wide Role Market Place to help
       coordinate workload
