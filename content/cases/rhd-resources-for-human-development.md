@@ -51,15 +51,10 @@ theory:
   - topic: Job Titles and Job Descriptions
     title: 职称与工作描述    RHD 不采用刻意的工作描述。
     content: >-
-      Bob Fishman, the founder of [RHD](https://www.rhd.org/), explains the
-      benefits of not using job descriptions in his organization: RHD
-      consciously does not use job descriptions. Instead, the assumption that
-      people are essentially good leads us to believe that, once an employee has
-      a general sense of the job, he or she will want to shape the way it is
-      done.
+      鲍勃费什曼是\[RHD]的创始人(https://www.rhd.org/)，关于在他的组织中不使用工作描述的好处，他说：RHD特意不使用工作描述和职务说明。相反，我们假设人之初性本善。这让我们相信，一旦员工对工作有了大致的认识，他或她就会想塑造自己独特的工作方式。
 
 
-      *Thelma, for instance, had already been working as a receptionist at our new outpatient clinic for many years when she asked me for a job description. … I felt, and so told her, that it was absurd for me to define the details of her work since she was already doing a quality job. One of her outstanding behaviors was the kindness with which she greeted our clients, brought them coffee, and made sure that the therapist took them into the therapy room in a timely manner. Delineating her kindness was impossible: words would never have done justice to her heartfelt warmth. Thelma already knew how to perform her job and a detailed job description, I believed, would have done her more harm than good. … There is no single way to define a job, and no supervisor has the answer to how another person’s job should be performed. If … I imposed my view on her job, the corporation would, in effect, lose her special contribution - her way of managing the relationship between people. That would have been a great loss.*
+      *例如，塞尔玛在我们新开的门诊部当接待员已经很多年了，她向我要了一份工作描述。……我觉得，并告诉她，既然她已经在高质量的工作着，由我来定义她的工作细节不是太荒谬了。她最突出的行为之一，就是亲切地问候户，给他们送去咖啡，并确保治疗师及时将他们带进治疗室。描述她的善良是不可能的：言语永远无法表达她由衷的温暖。塞尔玛已经知道如何完成自己的工作，我相信，徒增一份详细的工作描述对她弊大于利。……不可能存在单一的方法来定义一项工作，也没有一个主管能够描述清楚另一个人如何完成自己的工作。如果……我把我的观点强加在她的工作上，公司实际上会失去她独一无二的特殊贡献——她管理人与人之间关系的方式。那将是一个巨大的损失。*
   - topic: Compensation and incentives
     title: RHD has put in place a number of practices to boost the lowest salaries
       and reduce pay inequality
