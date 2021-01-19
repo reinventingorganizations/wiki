@@ -67,9 +67,6 @@ theory:
       Corporation 10-K于2016年3月31日提交；第11页。]
 
 
-      ^\[As of March 1, 2016, Christine L. Koski, the daughter of the deceased founder of the Company, Robert E. Koski, is a member of the board of directors, and she, along with other family members, own or control approximately 14% of the outstanding shares of Sun’s common stock. Source: Sun Hydraulics Corporation 10-K filed March 31, 2016; p. 11.] 
-
-
       太阳液压似乎是一个重要的案例，说明尽管一家公司拥有传统的公司结构和分散且流动（上市）的所有权，还是有可能保持对蔚蓝的承诺，也许蔚蓝组织和非蔚的所有权模式终究可以兼容？
   - topic: Project teams and task forces
     title: Sun manages projects without project planning.
