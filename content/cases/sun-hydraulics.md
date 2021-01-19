@@ -43,28 +43,14 @@ theory:
       关于个人如何改进的反馈，是在全年的自然工作过程中给出的，而不是留在年度评估时单独进行。
   - topic: Purchasing and Investments
     title: 采购与投资  太阳液压取消了大部分项目规划手续，从而释放了生产能力。
-    content: At [Sun Hydraulics](http://www.sunhydraulics/) project and investment
-      management is radically simplified. There is no management that wants to
-      understand and control the complexity. Projects happen organically and
-      informally. Engineers are typically working on several projects in
-      parallel. They constantly rearrange their priorities, based on what they
-      sense is the most important, most urgent, or most fun to do. Google has
-      the famous practice of “20 percent time” - engineers are free to decide
-      how to spend their Fridays. Sun and other self-managing organizations
-      basically extend this to the whole week. There is no master plan. There
-      are no project charters and no one bothers with staffing people on
-      projects. Project teams form organically and disband again when work is
-      done. Nobody knows if projects are on time or on budget, because for 90
-      percent of the projects, no one cares to put a timeline on paper or to
-      establish a budget. A huge amount of time is freed by dropping all the
-      formalities of project planning - writing the plan, getting approval,
-      reporting on progress, explaining variations, rescheduling, and
-      re-estimating, not to mention the politics that go into securing resources
-      for one’s project or to find someone to blame when projects are over time
-      or over budget. When Kirsten Regal, one of Sun’s leaders, was asked about
-      how little their meeting rooms seemed to be used, she quipped, “We don’t
-      waste time being busy.^[Laloux, Frederic. Reinventing Organizations.
-      Nelson Parker (2014), page 84 and following]
+    content: "[太阳液压](http://www.sunhydraulics.com/)从根本上简化了项目和投资管理。不再有管理层想要理解和控制复杂性。\
+      项目以有机和非正式的方式进行。工程师们通常同时从事几个项目。他们不断地根据自己认为最重要、最紧急或最有趣的顺序，来重新安排自己的优先事项。谷歌有个\
+      著名的“百分之二十的时间”惯例——工程师可以自由决定如何度过他们的星期五。太阳液压和其他自我管理组织，则基本上把这个时间延长到整个星期的每一天。没\
+      有总体规划。没有项目章程，也没有人为项目的人员配备而烦恼。项目团队自组织形成，工作完成后又解散。没有人知道项目是否按时完成的，或是否按预算完成的，\
+      因为对于90%的项目来说，没有人在乎在纸上写下时间表或者制定预算。省去了项目规划的所有手续——写计划、获得批准、报告进度、解释变更、重新安排时间和\
+      重新评估，从而节省了大量的时间，更没有了为项目争取资源的各种政治权衡，也不再有可明确比较的项目延迟或超预算，也就不需要找人来责怪。当被问及他们的会\
+      议室似乎用得很少时，太阳液压的一位领导人柯尔斯滕瑞格打趣道：“我们不浪费时间制造忙碌。”^\\[Laloux, Frederic.
+      Reinventing Organizations. Nelson Parker (2014), page 84 and following]"
   - topic: Budgeting and Controlling
     title: An example of a budget-free approach of Sun Hydraulics, a publicly listed
       company in the United States
