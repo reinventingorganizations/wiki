@@ -64,24 +64,20 @@ theory:
 
       成员还可以使用类似的-3到+3量表，表示自己对目前由其他人所担任岗位角色的兴趣。因此，这个市场有助于成员脱手或接受一个岗位角色。
   - topic: Recruitment
-    title: Team members qualify candidates based on fit for organization, purpose
-      and role.
+    title: 招聘  由用人团队成员根据组织适配性、目标适配性和岗位角色适配性来确定候选人。
     content: >-
-      [HolacracyOne](http://www.holacracyone.com/) is a training, consulting,
-      and research company dedicated to spreading a new organizational model,
-      “holcacray”, originally developed by Brian Robertson and his team at
-      Ternary Software, a Philadelphia-based start-up. After transferring
-      Ternary to new leadership, Robertson co-founded HolacracyOne.
+      [霍尔万](http://www.holacracyone.com/)是一家培训、咨询和研究公司，致力于推广一种新的组织模式“霍尔”，是最初由Brian
+      Robertson和他的团队在费城的三元软件公司内开发的先进蔚蓝管理模式。后来他们把三元公司交给了新的领导团队，然后罗伯逊与人共同创立了霍尔万。
 
 
-      During the recruitment process, teammates check if
+      在招聘过程中，负责决策的团队同事会确认如下角度：
 
 
-      * the person is “fit for organization” i.e. Is this person in resonance and energized by the evolutionary purpose, intrinsically motivated and comfortable with complex ever changing environment.
+      * 这个人是否“适合组织”。也就是说，评估这个人是否共鸣于组织的进化目标并被其激励，是否具有内在动力，是否具有对不断变化的复杂环境的适应能力。
 
-      * If yes, they check if the candidate is “fit for role”.
+      * 如果是，他们接下来会评估候选人是否“适合这个岗位角色”。
   - topic: Role Definition and Allocation
-    title: An internal "Role Market place" to help in trading roles
+    title: 岗位定义与任务分派  准备了一个内部的“角色市场”来帮助成员交换岗位角色
     content: >-
       HolacracyOne has set up a company-wide Role Market Place in order to make
       trading roles easy (in holacratic language, this is an “app;” it’s not
