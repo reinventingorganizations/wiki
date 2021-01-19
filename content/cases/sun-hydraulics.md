@@ -15,17 +15,11 @@ profit: 营利组织
 theory:
   - topic: Role Definition and Allocation
     title: 岗位定义与任务分派  采用一种内部招聘过程，由未来的同事面试某个职位的候选人。
-    content: "At Sun Hydraulics, minor role changes often take place organically, by
-      people simply stepping up to take on a role or opening a conversation
-      about the need for someone to take on that role.\r
+    content: >-
+      在太阳液压，微小的角色变化通常自然有机地发生，人们只是简单地站出来自主担任一个岗位角色，或者就需要有人来担任的岗位展开对话。
 
-      \r
 
-      When a larger role is created or an existing set of roles becomes
-      available (say there is a need for an automation engineer), an internal
-      recruitment process takes place.  Candidates are interviewed by the
-      colleagues who will work most closely with the person filling the new
-      role."
+      如果创建了一个更大的岗位角色或出现一组现有岗位的空缺时（比如说需要一个自动化工程师），就会自然发生一个内部招聘过程。应聘者由将与担任新职位的人进行最密切合作的同事负责面试。
   - topic: Onboarding
     title: At Sun Hydraulics all new hires start with a manufacturing tour in which
       they learn to operate several work stations before they take on the roles
