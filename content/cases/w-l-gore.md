@@ -10,7 +10,7 @@ companySize: "> 500"
 profit: 营利组织
 theory:
   - topic: Compensation and incentives
-    title: 戈尔使用由两个小组对比校准的排名系统来决定薪水。
+    title: 薪酬与激励   戈尔使用由两个小组对比校准的排名系统来决定薪水。
     content: >-
       ##### 贡献评估流程
 
