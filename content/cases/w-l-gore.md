@@ -12,7 +12,7 @@ theory:
   - topic: Compensation and incentives
     title: 薪酬与激励   戈尔使用由两个小组对比校准的排名系统来决定薪水。
     content: >-
-      ##### 贡献评估流程
+      贡献评估流程
 
 
       每年一次，在每个团队中（通常由10个人组成，功能大致相同），每个人根据他们的过去和预期的未来贡献，将其他伙伴从1到9进行排名（与霍尔相反，成员不会将自己排在列表中）。这个过程已经系统化自动化了，在电脑表单上，成员可以在每个人旁边添加一条评论，另外还可以评估每个伙伴对组织文化的共鸣度是“高”还是“低”。
@@ -39,5 +39,5 @@ theory:
       ##### 激励和利润分享
 
 
-      戈尔没有激励或年终奖。作为利润分享的一部分，每个人都得到公司的股份。例如，一个在英国挣5万英镑的成员，可以额外得到5万英镑的股票。利润分成与基本工资成比例（根据本年工资和最近3年的工资，按一定公式计算）。因此，即使你的团队亏损或营利很多，都不会影响你获得的利润分配，这是为了强调“同舟共济”感。^[<http://www.managementexchange.com/story/innovation-democracy-wl-gores-original-management-model> and personal interview Frederic Laloux with Gore leader, April 2015]
+      戈尔没有激励或年终奖。作为利润分享的一部分，每个人都得到公司的股份。例如，一个在英国挣5万英镑的成员，可以额外得到5万英镑的股票。利润分成与基本工资成比例（根据本年工资和最近3年的工资，按一定公式计算）。因此，即使你的团队亏损或营利很多，都不会影响你获得的利润分配，这是为了强调“同舟共济”感。^\[<http://www.managementexchange.com/story/innovation-democracy-wl-gores-original-management-model> and personal interview Frederic Laloux with Gore leader, April 2015]
 ---
