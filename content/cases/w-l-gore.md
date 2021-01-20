@@ -39,5 +39,5 @@ theory:
       ##### 激励和利润分享
 
 
-      戈尔没有激励或年终奖。作为利润分享的一部分，每个人都得到公司的股份。例如，一个在英国挣5万英镑的成员，可以额外得到5万英镑的股票。利润分成与基本工资成比例（根据本年工资和最近3年的工资，按一定公式计算）。因此，即使你的团队亏损或营利很多，都不会影响你获得的利润分配，这是为了强调“同舟共济”感。^\[<http://www.managementexchange.com/story/innovation-democracy-wl-gores-original-management-model> and personal interview Frederic Laloux with Gore leader, April 2015]
+      戈尔没有激励或年终奖。作为利润分享的一部分，每个人都得到公司的股份。例如，一个在英国挣5万英镑的成员，可以额外得到5万英镑的股票。利润分成与基本工资成比例（根据本年工资和最近3年的工资，按一定公式计算）。因此，即使你的团队亏损或营利很多，都不会影响你获得的利润分配，这是为了强调“同舟共济”感。^[<http://www.managementexchange.com/story/innovation-democracy-wl-gores-original-management-model> and personal interview Frederic Laloux with Gore leader, April 2015]
 ---
