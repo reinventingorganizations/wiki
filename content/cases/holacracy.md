@@ -124,22 +124,17 @@ theory:
 
       如果一个人A做出了一个专制的决定，使在这个决定中有明显利害关系的人B感到沮丧，那么这个人B很可能会在下一次管理会议上提出这个话题。例如，如果负责预订会议场地的人员（A）选择了一个新场地，而没有与主培训师（B）讨论，但主培训师（B）对具体培训需要什么样的场地有自己的想法。培训师（B）将建议修改人员A的岗位角色定义，以便让人员A在将来决定场馆之前记得咨询培训师。归根结底，结果是相同的：要么人A自发地非正式地征求人B的意见，要么人A目前正在担任的岗位角色很可能会发生变化。因为在决定地点之前，这个岗位角色其实是必须正式征求培训师角色（人B）的意见。
   - topic: board
-    title: A constitution that a board can adopt.
-    content: "[Holacracy ](http://holocracyone.com/)has drafted a constitution which
-      complies with U.S. corporate law. It gives shareholders a say in matters
-      related to finance, but prevents them from unilaterally imposing a
-      strategy."
+    title: 董事会  董事会可以通过一个章程保证新模式不被否决。
+    content: "[霍尔](http://holocracyone.com/)起草了一部符合美国公司法的章程。允许股东在与财务有关的问题上有发言权，但能防止\
+      他们单方面给组织强加一项战略。"
   - topic: Dismissal
-    title: In the Holacracy model, a person can be removed from their roles but
-      still stay in the member pool and take time to hunt for new roles. If this
-      fails, a custom dismissal process, such as a peer removal, can be
-      initiated.
+    title: 解雇 在霍尔模型中，被接触了岗位角色的成员可以仍然留在成员池中，并花时间寻找新的岗位角色。如果找不到，则可以启动自定义的解雇流程，例如同事删除。
     content: >-
-      See ^[Interview Frederic Laloux with Brian J. Robertson, 2013]
+      参见 ^\[Interview Frederic Laloux with Brian J. Robertson, 2013]
 
 
-      [Holacracy ](http://www.holacracy.org/)does not prescribe a specific process for dismissals. Starting and terminating people’s contracts originally lands in the scope of the top circle, who can then assign that authority as they see fit. For example, there can be an HR role that has authority to hire and fire. Or in the partnership model (as in [HolacracyOne](http://www.holacracy.org/)) there is a partnership removal process with partner peer review (similar to [Morning Star](http://www.morningstarco.com/)).
+      [霍尔](http://www.holacracy.org/)没有规定具体的解雇程序。开始和终止成员雇佣合同的权限，最初放在最高层的范围内，然后他们可以根据自己的意愿将这个权力分配下去。例如，可以设置一个有权雇用和解雇成员的HR角色。或者在合伙人模式中（如[霍尔万](http://www.holacracy.org/))，采用了一个通过合作伙伴同事评审的伙伴关系解除流程（类似于[晨星](http://www.morningstarco.com/))。
 
 
-      Because there is no fusion of person and title, the lead link in any circle is free to make a decision and remove somebody from a specific role. The person is not fired in this case, but remains in a member pool and must pitch for other roles. If no new role can be found, the person either leaves voluntarily, or a custom dismissal process is triggered.
+      因为霍尔模式中不存在人和职称的固化融合，任何圈子里的领导都可以自由地做出决定，把某个人从某个特定的岗位中除名。在这种情况下，该人员不会被解雇，仍留在一个成员池中，他需要寻找其他角色。如果找不到新角色，则该人员要么自愿离职，要么启动一个自定义解雇流程。
 ---
