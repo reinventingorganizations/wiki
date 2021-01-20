@@ -41,27 +41,15 @@ theory:
 
       霍尔宪法规定，某些特定角色（调解人、秘书、领导链和代表链）是通过基于同意的选举任命的。所有其他角色都由担任团队领导角色的人员指定。（见[霍拉克拉奇宪法](http://www.holacracy.org/constitution)有关流程的详细说明）。
   - topic: Job Titles and Job Descriptions
-    title: 'A worker in a Holacracy might "energize" any number of roles in any
-      number of Circles. Each role has a purpose expressed within the larger
-      purpose of the Circle, and a set of accountabilities to enact.
-      Additionally, some roles have Domains: sensitive areas where they hold
-      absolute authority.'
+    title: 职称与工作描述  霍尔模式的一个工人可以“赋能”任何数量的圈子里的任何数量的岗位角色。每一个岗位角色都承担着一个对圈内更大目标的贡献，以及一套要执行的职责。此外，有些角色有域：将某些敏感区域的绝对决策权赋给某些岗位角色。
     content: >-
-      How accountabilities are fulfilled is up to the role-holder. The
-      role-holder is also responsible for tracking and making visible the "next
-      actions" they deem necessary for each accountability, as well as the
-      timeline for completion. Projects are also tracked in this way. This
-      ensures that others who are energizing roles with dependency on another
-      are kept aware of how key accountabilities are progressing; additionally,
-      one role can ask another to prioritize a request specific to a dependency;
-      the role-holder is then required to prioritize the request over those
-      accountabilities where a request has not been made.
+      如何履行职责取决于角色承担者。该岗位担当人还负责跟踪并揭示自己认为每项责任所需的“下一步行动”，以及完成的时间表。项目也以这种方式进行跟踪。这可以确保其他依赖于此角色的角色能及时了解关键或关联职责的进展情况；此外，一个角色可以要求另一个角色，针对某个依赖关系提出特别指定的优先级调整请求；然后要求该角色担当人将该请求的优先级，排在未提出请求的其他职责之前。
 
 
-      Roles are created and amended in a governance process. The question of who fills what role is typically an obvious choice, with whomever proposed the creation of a new role typically being the one who fills it; however, it is the purview of the Circle's Lead Link to assign anyone within the organization to a role in those instances where the choice is less obvious.
+      通过管理流程创建和修改角色。谁担任什么角色，通常是一个明显的选择。提议创建一个新角色的人，通常就是一个担任这个角色的人选；不过，在候选人不太明显的情况下，圈领导链担当者有权将组织内的任何人指派到一个角色。
 
 
-      How one leaves a role varies from organization to organization. Constitutionally, it is the responsibility of the Lead Link to remove a person from a role when necessary. Some organizations, like the [Whidbey Institute](http://whidbeyinstitute.org/), create a roles marketplace where those who wish to move on from a particular role can let others know that it is available; anyone interested in taking on that role may do so through the authority of the Lead Link.
+      成员离开某个岗位的处理办法，因组织而异。从霍尔宪法上讲，在必要的时候，领导链有权责解除一个人的职务。但令一些组织，比如[惠德比研究所](http://whidbeyinstitute.org/)，则创建了一个岗位角色市场，希望从某个特定角色转移到另一个角色的人，可以让其他人知道自己目前的角色是出让的；任何有兴趣担任该角色的人，都可以通过领导链的权限进行获取该岗位。
   - topic: Strategy
     title: Strategic plans are replaced with "rules of thumb"
     content: >-
