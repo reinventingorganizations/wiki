@@ -10,7 +10,7 @@ companySize: 1-100
 profit: 非营利
 theory:
   - topic: Meetings
-    title: CC&R设立专门的成员欢迎和欢送会。
+    title: 会议  CC&R设立专门的成员欢迎和欢送会。
     content: >-
       ##### 新员工欢迎会：
 
