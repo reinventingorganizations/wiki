@@ -25,27 +25,15 @@ theory:
   - topic: Role Definition and Allocation
     title: 岗位定义与任务分派  精确定义的一个用于创建、修改和分配岗位的流程
     content: >-
-      In Holacratic language, people don’t have a job, but fill a number of
-      *roles*. (The Holacracy constitution defines a role as consisting of three
-      specific elements: a “purpose” to express; possibly one or more “domains”
-      to control; and a set of “accountabilities” to enact. Some roles will have
-      all three of these parts, though often roles will start out with only a
-      purpose or just a single accountability and evolve from there. A purpose
-      tells us why the role exists: what it aims to achieve. A domain (of which
-      there may be several) specifies something the role has the exclusive
-      authority to control on behalf of the organization— in other words, this
-      role’s “property,” which no other role can mess with. And each
-      accountability is an ongoing activity that the role has the authority to
-      perform and is expected to perform or otherwise manage for the
-      organization.^\[Robertson, Brian J.. Holacracy: The New Management System
-      for a Rapidly Changing World (Kindle Locations 619-623). Henry Holt and
-      Co.. Kindle Edition.]
+      在霍尔语境中，人们不与固定的工作捆绑在一起，只是担任着许多岗位角色。（霍尔宪法定义的岗位角色，由三个具体要素组成：表达的“目的”；可能控制的一个或多个“域”；以及制定好的一套“责任”。有些角色会包含这三个部分，尽管角色通常只从一个目的或一个单一的责任开始启动，并以此为出发点开始进化。目的能告诉我们这个角色存在的原因：定义岗位的目标。域（岗位可能有多个域）指定了该岗位角色能代表组织拥有何种独占权限，能控制何种内容—换句话说，是这个角色的独特“属性”，其他角色都不能处理这个域内的事务。责任则指该岗位角色有权并被期望执行或代替组织实施管理的一项持续活动[](http://www.holacracy.org/governance-meetings)^\[Robertson,
+      Brian J.. Holacracy: The New Management System for a Rapidly Changing
+      World (Kindle Locations 619-623). Henry Holt and Co.. Kindle Edition.]
 
 
-      When someone senses that a new role must be created or an existing role amended or discarded, they bring it up within their team in a governance meeting.  Governance meetings are specific meetings where only questions related to roles and collaboration are to be discussed. A detailed description of the governance meeting process can be found [here](http://www.holacracy.org/governance-meetings).
+      当有人感觉到必须创建新岗位角色、或修改或放弃现有角色时，就会在团队的管理会议上提出建议。管理会议只讨论与岗位角色和协作相关问题的特定会议。管理会议流程的详细说明可以在[这里找到](http://www.holacracy.org/governance-meetings)。
 
 
-      Holacracy's constitution calls for organizing roles into “circles”. The roles a circle contains are a breakdown of what’s needed to express its overall purpose, enact its accountabilities, and control its domains. Circles (“sub-circles”) are in turn grouped within broader circles (“super-circles”) in a nesting fashion all the way up until the biggest circle contains the entire organization (the “anchor circle”).^\[Robertson, Brian J.. Holacracy: The New Management System for a Rapidly Changing World (Kindle Locations 676-677). Henry Holt and Co. Kindle Edition.]
+      霍尔的宪法要求将岗位角色组织成“圈子”。一个圈子所包含的角色，涵盖着三个内容：表达其总体目标、制定其职责、以及控制其领域，是实现这些内容的细分化。圈子（“子圈子”）依次以嵌套方式分组在更大的圈子（“超级圈子”）中，直到最大的圈子包含整个组织（“锚圈”）。^\[Robertson, Brian J.. Holacracy: The New Management System for a Rapidly Changing World (Kindle Locations 676-677). Henry Holt and Co. Kindle Edition.]
 
 
       In Holacracy, each sub-circle contains a special governance role called the “Lead Link” which is appointed by the super-circle to represent its interests in the sub-circle. The Lead Link does not manage the circle but does have the authority to assign people to roles and to set priorities within that circle.
