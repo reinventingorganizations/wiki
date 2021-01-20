@@ -23,7 +23,7 @@ theory:
     title: 协作  霍尔设立特殊的非管理岗位负责协调
     content: 在霍尔的嵌套圈子结构中，存在着一个特定的协调噶角色，叫做“链”。子圈子选出一名代表，作为“汇报链”，作为子圈子代表，参加该圈子的所有母圈子的会议。母圈子也指派一位代表，作为“领导链”，参加其所有子圈子的所有会议。这两个角色都有具体的职责，以确保在母圈和子圈之间进行适当的协调。另见“[岗位定义与任务分派](https://cn.reinventingorganizationswiki.com/theory/role-definition-and-allocation/)”/“启发性实践案例”/“霍尔和[霍尔章程](http://www.holacracy.org/constitution)”。
   - topic: Role Definition and Allocation
-    title: A well defined process to create, modify and assign roles
+    title: 岗位定义与任务分派  精确定义的一个用于创建、修改和分配岗位的流程
     content: >-
       In Holacratic language, people don’t have a job, but fill a number of
       *roles*. (The Holacracy constitution defines a role as consisting of three
