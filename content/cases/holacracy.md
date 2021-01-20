@@ -61,62 +61,68 @@ theory:
 
       但为了让这些短语有用，就要避免对立规则：X是好的，Y是坏的。“重视客户服务，而非激怒客户”是不会有用的。X和Y都需要是积极的陈述，这样的策略才能给你提供某种意义上的选择参考--就目前而言，考虑到你当前的环境该如何决策。例如，在我们公司发展的早期，霍尔万的一个策略是“重视记录和符合标准，而非开发和共同创新”。请注意，这两个活动对于一个组织来说都是积极的，但它们也是极性的，相互之间存在着紧张关系。我们的战略并不是一个普遍的、通常的价值陈述——事实上，如果我们试图永远应用它，最终无疑会造成严重的伤害。有时需要重视开发和共同重新，而不该重视记录和符合标准，这一点至关重要。但对于霍尔来说，考虑到我们当时的环境，以及在此之前的历史，以及我们所服务的目的，我们所理解的最佳优先顺序，至少在当时一段时间内应该：标准化，即使是以牺牲追求新的和令人兴奋的机会为代价。^\[Robertson, Brian J. (2015-06-02). Holacracy: The New Management System for a Rapidly Changing World (Kindle Locations 1800-1818). Henry Holt and Co.. Kindle Edition.]
   - topic: Decision Making
-    title: 'Holacracy uses two types of decision making: "autocratic" and
-      "integrative", both of which, on close scrutiny, can be seen as variations
-      of the advice process.'
+    title: 决策  霍尔采用了两种决策方式：“专制”和“整合”，这两种方式在仔细研究后，都可以看出是建议流程的变体。
     content: >-
-      Governance decisions (decisions about people's roles and accountabilities)
-      are made using "Integrative decision making". All others are made
-      "autocratically".
+      管理类决策（有关人员角色和职责的决策）通过“整合”做出决策。其他的都通过“专制”作决策。
 
 
-      #### Integrative decisions making
+      整合决策
 
 
-      When someone senses a role must be created, amended or discarded, he brings it up in a governance meeting. These are meetings where only questions about roles and collaboration are to be discussed. That is, separate from the details of getting work done. The latter are discussed in “tactical meetings”, with their own specific meeting practices.
+      当有人感觉到需要创建一个角色、或修改、抛弃某个角色时，他就会在管理会议上提出。这类会议只讨论有关角色和协作的话题。也就是说，角色管理与完成工作细节的话题分开。后者在“战术会议”中讨论，并有相应的具体会议流程。
 
 
-      A facilitator guides the proceedings.
+      由支持人推进会议。
 
 
-      Anybody who feels a role change is needed (the proposer) can add it to the agenda. Each governance item is resolved with to the following process:
+      任何认为需要改变岗位角色的人（提议者）都可以将其列入议程。每个管理议题都通过以下流程来处理：
 
 
-      1. Present proposal: The proposer states his proposal and the issue this proposal is attempting to resolve.
+      > 1.提出建议：提案人陈述其提案以及该提案试图解决的问题。
 
-      1. Clarifying questions: Anybody can seek information or more understanding. It is not yet time for reactions. The facilitator will interrupt any question that cloaks a reaction.
+      >
 
-      1. Reaction round: Each person reacts to the proposal. Discussions are not allowed.
+      > 2.澄清问题：任何人都可以通过提问，寻求关于议题的信息，加深理解。这个阶段还不能做出赞否的反应。主持人会打断任何暗藏着赞否回答倾向的提问。
 
-      1. Amend and clarify: The proposer can clarify his proposal further, or amend it, based on these reactions.
+      >
 
-      1. Objection round: The facilitator asks, ”Do you see any reasons why adopting this proposal would cause harm or move us backwards?” Objections are captured without discussion; the proposal is adopted if none surface.
+      > 3.反馈：每个人都对提议作出赞否反应。但只是陈述，不允许讨论。
 
-      1. Integration: If an objection is raised, the facilitator tests the objection for validity. If it is found to be valid, he leads a discussion to craft an amendment that would avoid the objection. If several objections are raised, they get addressed one at a time, until all are removed.
+      >
 
+      > 4.修改和澄清：提案人可以根据这些反应进一步澄清其提案，或对其进行修正。
 
-      There are strict criteria for an objection to be considered valid. The process might sound formal, but people who use it often report they find it deeply liberating. It addresses issues without the need for corridor talk, politics, and coalition building. Anybody who senses the need for something to change has a forum.
+      >
 
+      > 5.反对意见：主持人会问：“你认为采纳这个建议会造成伤害或会使我们倒退的原因是什么？”只是捕捉反对意见，但不进行讨论；如果没有人提出，提案就被采纳。
 
-      Others are surprised at how efficient this process is. 
+      >
 
-
-      Holacracy’s governance process is a variation of the advice process. Anyone can bring forward an issue or opportunity (a "tension" in holacratic language) and make a decision happen, after listening to relevant advice. The particularity of the process here is that the advice happens in the setting of a meeting, with a structured number of rounds, and that the decision maker must integrate valid objections, if there are any. The goal, again, is to not to aim for a perfect answer, but a workable solution, and then iterate quickly if needed.
-
-
-      Roles evolve organically, adapting to change in the environment.
+      > 6.整合：如果有人提出异议，主持人会测试异议的有效性。如果他判定异议有效，就主持一轮讨论，目的是制定一个能回避该反对理由的修正案。如果反对意见不止一个，则依次解决，直到所有反对意见都被处理完毕。
 
 
-      #### Autocratic decision making
+      判定反对有效，要遵循严格的标准。这个过程听起来可能很正式，但使用过的人经常报告说，他们发现这个流程能给人带来了极大的解放。这个做法可以揭出很多问题，而不需要那些冲突的走廊谈话，拉帮结伙和联盟组建。任何感觉到需要改变的人，都获得一个讨论的机会。
 
 
-      In Holacracy, any decision other than governance decisions can be made "autocratically". Only when a "domain" is declared, which should be in exceptional circumstances only, are decisions off-limits to others. In all other cases, anyone can step up and make any decision.
+      还有些人对这个流程过程的效率感到惊讶。
 
 
-      Decisions can be made "autocratically", meaning no one needs to be consulted, and there is no formal process such as in the integrative decision making process. Yet in practice, people are well advised to seek advice when relevant.
+      霍尔的管理流程就是建议过程的变体。任何人都可以提出问题或机遇（霍尔用语叫“紧张感”）并在听取相关建议后做出决定。这一流程特点在于，建议发生在会议的背景下，具有结构化的流程回合，决策者必须整合有效的反对意见（如果有的话）。同样，我们的目标不是寻找一个完美的答案，而只是找到一个可行的解决方案。然后再需要的时候，将其快速迭代进化。
 
 
-      If person A makes an autocratic decision that frustrates person B who has an obvious stake in that decision, person B is likely to bring up the topic in the next governance meeting. For example, if person (A), whose role it is to book meeting venues, chooses a new venue without discussing it with the main trainer (B) who has ideas as to what kind of venue is necessary for that specific training. The trainer (B) will suggest to amend the role of person A so that person A must consult the trainer before making decisions on venues in the future. Ultimately it boils down to the same: either person A spontaneously and informally seeks advice from person B, or it is likely that the role person A is currently energizing will be changed so that this role must formally seek advice from the trainer role (person B) before deciding on a venue.
+      角色会不断适应环境的变化，而有机地进化。
+
+
+      专制决策
+
+
+      在霍尔，除了管理决策之外的任何决策都可以“独裁”做出。只有在特殊情况下，当一个“域”被宣布时，才会禁止角色担当之外的其他人作出决定。在所有其他情况下，任何人都可以站出来做出任何决定。
+
+
+      决策可以“独裁地”做出，这意味着不需要征求任何人的意见，也不需要遵循像整合决策流程那样的正式过程。然而在运用中，最好还是在相关的时候寻求建议。
+
+
+      如果一个人A做出了一个专制的决定，使在这个决定中有明显利害关系的人B感到沮丧，那么这个人B很可能会在下一次管理会议上提出这个话题。例如，如果负责预订会议场地的人员（A）选择了一个新场地，而没有与主培训师（B）讨论，但主培训师（B）对具体培训需要什么样的场地有自己的想法。培训师（B）将建议修改人员A的岗位角色定义，以便让人员A在将来决定场馆之前记得咨询培训师。归根结底，结果是相同的：要么人A自发地非正式地征求人B的意见，要么人A目前正在担任的岗位角色很可能会发生变化。因为在决定地点之前，这个岗位角色其实是必须正式征求培训师角色（人B）的意见。
   - topic: board
     title: A constitution that a board can adopt.
     content: "[Holacracy ](http://holocracyone.com/)has drafted a constitution which
