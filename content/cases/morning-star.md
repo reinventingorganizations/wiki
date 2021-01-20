@@ -23,24 +23,15 @@ theory:
       ：成员不应该对他人使用武力，每个人都应该履行自己的承诺。这些原则是公司冲突解决机制的核心，这一流程在“同事原则”中有非常详细的描述，这是一份概述晨\
       星自我管理实践的核心文件。"
   - topic: Coordination
-    title: At Morning Star, colleagues coordinate both ad hoc and through written
-      annual agreements.
+    title: 协作 在晨星，同事们通过临时协议和书面年度协议进行协调。
     content: >-
-      Colleagues at Morningstar noticed that lots of people were buying
-      threadlocker (an adhesive that prevents nuts and bolts from accidentally
-      loosening) in dozens of different formats and from different vendors. They
-      were not only losing out on volume discounts, but the uncoordinated
-      purchasing also generated unnecessary bureaucracy because regulations in
-      the food industry required workers to track every format in a Material
-      Safety Data Sheet. A worker suggested that he could walk around the plant
-      once a quarter to coordinate orders. A similar solution emerged for
-      purchasing packaging materials where volume discounts can quickly add
-      up.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to
-      Creating Organizations Inspired by the Next Stage of Human Consciousness
-      (Kindle Locations 2394-2395). Nelson Parker. Kindle Edition.]
+      晨星公司的同事们注意到，很多人从不同的供应商那里购买了几十种不同样式的螺纹锁固胶（一种防止螺母和螺栓意外松动的粘合剂）。他们不仅损失了大量折扣，而且不协调的采购也产生了不必要的官僚作风，因为食品行业的法规要求工人跟踪材料安全数据表中的每一种格式。一位工人建议他每季度到工厂走走一次，协调订单。一个类似的解决方案也出现在购买包装材料的业务中，数量折扣得到了大幅度增加。^\[Laloux,
+      Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating
+      Organizations Inspired by the Next Stage of Human Consciousness (Kindle
+      Locations 2394-2395). Nelson Parker. Kindle Edition.]
 
 
-      Another key mechanism for coordination at Morningstar is the Colleague Letter of Understanding (or simply CLOU). See “[Role Definition and Allocation](../role-definition-and-allocation/)" and then Concrete examples for inspiration”/”Morningstar”.
+      晨星的另一个关键协调机制是同事谅解书（简称CLOU）。请参见“[岗位定义与任务分派](https://cn.reinventingorganizationswiki.com/theory/role-definition-and-allocation/)”和“启发性实践案例”/“晨星”。
   - topic: Role Definition and Allocation
     title: A formal process for defining and allocating roles which takes place once
       each year
