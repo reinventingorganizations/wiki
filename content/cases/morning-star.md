@@ -33,31 +33,24 @@ theory:
 
       晨星的另一个关键协调机制是同事谅解书（简称CLOU）。请参见“[岗位定义与任务分派](https://cn.reinventingorganizationswiki.com/theory/role-definition-and-allocation/)”和“启发性实践案例”/“晨星”。
   - topic: Role Definition and Allocation
-    title: A formal process for defining and allocating roles which takes place once
-      each year
+    title: 岗位定义和任务分派  每年举行一次，定义和分配角色的正式过程
     content: >-
-      As a Morning Star colleague, you write a personal mission statement
-      (“Personal Commercial Mission” in Morning Star’s language) and spell out
-      all of the roles you commit to perform in a document called the Colleague
-      Letter of Understanding (or simply CLOU). Roles at Morning Star are
-      defined very specifically, so you might well hold 20 or 30 different roles
-      (one might be receiver of tomatoes at the unloading station, another might
-      be trainer of seasonal whole peel sorters). For each role, you specify;
+      作为晨星公司的同事，每个人要写一份个人使命宣言（晨星公司用语称之为“个人商业使命”），并在一份名为“同事谅解书”（简称CLOU）的文件中详细说明你要履行的所有职责。晨星的角色定义非常明确，所以你可能有20到30个不同的角色（一个可能是卸货站的番茄接受者，另一个可能是季节性整皮分拣员的培训师）。对于每个角色，需要指定：
 
 
-      * what it does,
+      * 角色的功能，
 
-      * what authority you believe you should have (act, recommend, decide, or a combination thereof),
+      * 你认为自己应该拥有什么样的权力（行动、推荐、决定或两者的结合），
 
-      * what indicators will help you understand if you are doing a good job, and
+      * 哪些指标能帮助你理解自己是否做得很好，
 
-      * what improvements you hope to make on those indicators.
-
-
-      In a continuous process like Morning Star’s, each person in the chain receives tomatoes or paste in some form from someone upstream and delivers them in another form to someone downstream. This might explain why colleagues at Morning Star chose to discuss the CLOUs, once written or updated, not in a team setting but in a series of one-on-one discussions with colleagues up and downstream. 
+      * 你希望在这些指标上有什么改进。
 
 
-      Here is a [sample CLOU document](http://reinventingorganizationswiki.com/index.php?action=ajax&title=-&rs=SecureFileStore::getFile&f=/a/a9/MorningStar_Sample2011_CLOU.pdf). A more detailed discussions of CLOUs can be found [here](http://www.managementexchange.com/story/colleague-letter-understanding-replacing-jobs-commitments).^\[Source: http://www.managementexchange.com/story/colleague-letter-understanding-replacing-jobs-commitments]
+      在像晨星这样的连续业务流程中，生产链中的每个人都会从上游的某个人那里收到某种形式的西红柿或西红柿酱，然后以另一种形式将它们送到下游的某个人那里。这或许可以解释为什么晨星的同事们选择在撰写或更新完CLOUs后，不在团队环境中集体讨论CLOUs，而是与上下游同事进行一对一的一系列讨论。
+
+
+      这里是个[CLOU文档案例](http://reinventingorganizationswiki.com/index.php?action=ajax&title=-&rs=SecureFileStore::getFile&f=/a/a9/MorningStar_Sample2011_CLOU.pdf)。还可以点击[这里](http://www.managementexchange.com/story/colleague-letter-understanding-replacing-jobs-commitments).参考更详细的CLOU资料。^\[Source: http://www.managementexchange.com/story/colleague-letter-understanding-replacing-jobs-commitments]
   - topic: Conflict resolution
     title: Use a conflict resolution process called the “Direct Communication and
       Gaining Agreement”, which supports parties in finding agreement. Mediators
