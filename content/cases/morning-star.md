@@ -52,59 +52,21 @@ theory:
 
       这里是个[CLOU文档案例](http://reinventingorganizationswiki.com/index.php?action=ajax&title=-&rs=SecureFileStore::getFile&f=/a/a9/MorningStar_Sample2011_CLOU.pdf)。还可以点击[这里](http://www.managementexchange.com/story/colleague-letter-understanding-replacing-jobs-commitments).参考更详细的CLOU资料。^\[Source: http://www.managementexchange.com/story/colleague-letter-understanding-replacing-jobs-commitments]
   - topic: Conflict resolution
-    title: Use a conflict resolution process called the “Direct Communication and
-      Gaining Agreement”, which supports parties in finding agreement. Mediators
-      may be called in for support, but they cannot impose a resolution from
-      above.
-    content: "Within Morning Star, there are 23 teams (called Business Units), but
-      no management positions and no HR department. Colleagues operate entirely
-      on self-managing principles that were established early in its history .
-      When the first tomato processing factory was built, Chris Rufer and the
-      company’s first employees met to define how they wanted to work together.
-      They decided that two basic social values should inspire every management
-      practice at Morning Star: individuals should never use force against other
-      people and they should honor their commitments. These values are at the
-      heart of the company’s conflict resolution process, which is described in
-      great detail in the “Colleague Principles”. This is a core document
-      outlining Morning Star’s self-managing practices. The conflict resolution
-      process (called “Direct Communication and Gaining Agreement”), applies to
-      any type of disagreement. This could be a difference of opinion about a
-      technical decision, an interpersonal conflict or a breach of values.
-      Specifically, it can be used in performance issues when one colleague
-      believes that another is not pulling his weight.\r
+    title: 冲突解决  使用一种名为“直接沟通和达成协议”的冲突解决过程，这有助于各方达成协议。可以邀请一位调解人来支持协调，但协调人无权以上级角度强加一个决策。
+    content: >-
+      晨星内部有23个团队（称为业务部门），但没有管理职位，也没有人力资源部门。同事们完全按照其历史早期确立的自我管理原则来运作。当第一家番茄加工厂建成时，克里斯·鲁弗与公司的第一批员工会面，跟他们确认希望如何合作。他们决定，应该用两个基本的组织价值观来激励晨星的每一个管理实践：成员不应该对他人使用武力，每个人应该履行自己的承诺。这些价值观是公司冲突解决流程的核心，在“同事原则”中有详细描述。这是一份概述晨星自我管理实践的核心文件。冲突解决过程（称为“直接沟通和达成一致”）适用于解决任何类型的分歧。这可能是对技术决策的不同意见、人际冲突或价值观的违背。具体来说，当一个同事认为另一个人没有发挥作用时，这也可以用于解决绩效问题。
 
-      \r
 
-      Whatever the topic, the process starts with one person asking
-      another to gain agreement: In a first phase, they sit together and try to
-      sort it out privately. The initiator has to make a clear request (not a
-      judgment, not a demand), and the other person has to respond clearly to
-      the request (with a “yes,” a “no,” or a counterproposal).\r
+      不管是什么话题，这个过程都是从一个人要求另一个人达成一致开始的：在第一阶段，他们坐在一起，试图私下解决问题。发起者必须提出明确的请求（不是判决，不是要求），对方必须对请求作出明确的回应（用“是”、“否”或反建议）。
 
-      \r
 
-      If they can’t find a solution agreeable to both of them, they
-      nominate a colleague they both trust to act as a mediator. The colleague
-      supports the parties in finding agreement but cannot impose a
-      resolution.\r
+      如果他们找不到一个双方都同意的解决方案，他们就提名一个双方都信任的同事担任调解人。该同事支持各方达成协议，但不能强行提出解决方案。
 
-      \r
 
-      If mediation fails, a panel of topic-relevant colleagues is
-      convened. The panel’s role, again, is to listen and help shape agreement.
-      It cannot force a decision, but usually carries enough moral weight for
-      matters to come to a conclusion.\r
+      如果调解失败，将召集一个与主题相关的同事小组。该小组的作用，还是倾听并帮助本人形成协议。小组不能给当事人强加决定，但通常具有足够的道德分量，可以让事情得出结论。
 
-      \r
 
-      In an ultimate step, Chris Rufer, the founder and president, can be
-      called into the panel, to further reinforce the panel’s moral weight.
-      Since the disagreement is private, all parties are expected to respect
-      confidentiality during and after the processes. Of course, this
-      confidentiality also applies to the two persons at the heart of the
-      conflict. They must resolve their disagreement between themselves and are
-      discouraged from spreading the conflict by enlisting support and building
-      rival factions."
+      最后一步，创始人兼总裁克里斯•鲁弗（chrisrufer）可以被召入该小组，以进一步加强该小组的道德分量。由于分歧是私下的，因此各方应在谈判过程中和谈判结束后遵守保密规定。当然，这一保密规定也适用于冲突的两个核心人物。他们必须自行解决彼此之间的分歧，不鼓励通过争取支持和建立敌对派系等方式来蔓延冲突。
   - topic: Recruitment
     title: Recruitment in Morning Star is a very demanding process, generally
       including a multitude of interviews and a battery of diagnostics.
