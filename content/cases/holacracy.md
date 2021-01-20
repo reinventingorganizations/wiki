@@ -4,33 +4,21 @@ tags: cases
 name: 霍尔(Holacracy)
 date: 2020-11-09
 introduction: >-
-  Organizational operating model 
+  组织运行模式
 
 
-  [Holacracy ](https://en.wikipedia.org/wiki/Holacracy)is a method of decentralized management and organizational governance, in which authority and decision-making are distributed throughout a holarchy of self-organizing teams rather than being vested in a management hierarchy
+  [H霍模式](https://en.wikipedia.org/wiki/Holacracy)是一种去中心分散管理的组织方法。在这种方法中，权力和决策权分布在自组织团队的概括管理体系中，而不是归属于另外的管理层级。
 
 
-  The Holacracy system was developed at Ternary Software, a company in Pennsylvania company.
-industry: V. Others
-geography: Global
+  霍尔系统是由宾夕法尼亚州的一家名为三元软件公司开发的。
+industry: V.其他
+geography: 全球
 companySize: "> 500"
-profit: non-profit
+profit: 非营利
 theory:
   - topic: Organizational Structure
-    title: A nested team structure
-    content: Holacracy is an organizational operating system adopted by hundreds of
-      organizations around the world using a nested team structure. It refers to
-      teams as “circles” and to the structure as a whole as a “holarchy” (as
-      distinct from a hierarchy). In a holarchy, each circle is not subjugated
-      to those above it, but retains autonomy, individual authority, and
-      wholeness. Circles are grouped within broader circles, all the way up
-      until the biggest circle contains the entire organization. This circle is
-      called the “Anchor Circle”. Teams near the "top" work on wider purposes;
-      teams near the "bottom" work on more specialized purposes. Every circle
-      and role within the holarchy retains real autonomy and authority as a
-      cohesive, whole entity itself, while also having real responsibilities as
-      a part of a larger entity. For a fuller description, see [Holacracy's
-      website](http://www.holacracy.org/).
+    title: 组织结构  嵌套式组织结构
+    content: 霍尔是一种组织操作系统，世界各地数百个组织采用着这种嵌套式团队结构。它将团队称为“圈子”，将整个结构称为“霍尔”（去中心，有别于等级制度）。在霍尔模式中，每个圈子并不受制于其上位的圈子，而是保持自治、个人权威和自我完整性。每个圈子在更大的圈子内分组，一直上升到最大的圈子包含整个组织。这个组织级别的圈子叫做“锚圈”（根）。接近“顶端”的圈子（团队）负责实现更广泛的目标；接近“底部”的团队致力于更专业的目标。作为一个有凝聚力的完整实体，霍尔的每个圈子和角色都保留着真正的自治和主权，同时作为一个更大实体的一部分，也承担着真正的责任。更详细的描述，请参见[霍尔的网站](http://www.holacracy.org/)。
   - topic: Coordination
     title: Holacracy creates specific non-staff roles for coordination
     content: In Holacracy's structure of nested circles, there are specific
