@@ -4,36 +4,24 @@ tags: cases
 name: 晨星(Morning Star)
 date: 2020-11-09
 introduction: >-
-  The [Morning Star Company ](https://www.morningstarco.com/)is a
-  California-based agribusiness and food processing company. Morning Star
-  processes 25% of the California processing tomato production, and supplies
-  approximately 40% of the U.S. industrial tomato paste and diced tomato
-  markets. 
+  [晨星](https://www.morningstarco.com/)是一家总部位于加州的农业综合企业和食品加工公司。晨星加工了25%的加州番茄加工产品，并供应着约40%的美国工业番茄酱和番茄丁市场。
 
 
   ![](/media/morning-star.jpg)
 
 
-  Wikipedia article : <https://en.wikipedia.org/wiki/The_Morning_Star_Company>
-industry: I. Accommodation and food service activities
-geography: USA
+  维基链接 : <https://en.wikipedia.org/wiki/The_Morning_Star_Company>
+industry: I.食宿服务
+geography: 美国
 companySize: 201-500
-profit: Profit
+profit: 营利组织
 theory:
   - topic: Culture and Values
-    title: At Morning Star, every management practice is inspired by two basic
-      social values.
-    content: "The founding principles for [Morning
-      Star](http://www.morningstarco.com/)'s way of operating were set early in
-      its history. When the first tomato processing factory was built, Chris
-      Rufer and the company’s first employees met to define how they wanted to
-      work together. They decided that two principles, two basic social values,
-      should inspire every management practice at Morning Star: individuals
-      should never use force against other people and they should honor their
-      commitments . These principles are at the heart of the company’s conflict
-      resolution mechanism, a process that is described in great detail in the
-      “Colleague Principles,” a core document outlining Morning Star’s self-
-      managing practices."
+    title: 文化与价值观  在晨星，每一个管理活动都得到该组织两个基本价值观的赋能。
+    content: "[晨星](http://www.morningstarco.com/)的经营方式基本原则，在公司创建早期就成型了。当第一家番茄加工厂建成时\
+      ，克里斯·鲁弗和公司的第一批员工会面，就与他们确认希望如何合作并达成共识。他们决定了两个原则，应该用两个基本的组织价值观，激励晨星的每一个管理活动\
+      ：成员不应该对他人使用武力，每个人都应该履行自己的承诺。这些原则是公司冲突解决机制的核心，这一流程在“同事原则”中有非常详细的描述，这是一份概述晨\
+      星自我管理实践的核心文件。"
   - topic: Coordination
     title: At Morning Star, colleagues coordinate both ad hoc and through written
       annual agreements.
