@@ -12,7 +12,7 @@ theory:
   - topic: Compensation and incentives
     title: 巴佛通过基于建议流程自行设定薪资的机制，实现了彻底的薪酬透明性。
     content: >-
-      薪酬内涵
+      ##### 薪酬内涵
 
 
       巴佛设置薪资的过程，包含五个组成部分：
