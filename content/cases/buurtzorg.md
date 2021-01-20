@@ -249,7 +249,7 @@ theory:
   - topic: Dismissal
     title: 解雇通过使用冲突解决流程的自我管理方式实现。
     content: >-
-      解雇通过使用[冲突解决](../conflict-resolution/)流程的自我管理方式实现。
+      解雇通过使用[冲突解决](https://cn.reinventingorganizationswiki.com/theory/conflict-resolution/)流程的自我管理方式实现。
 
 
       在[布尔佐格](http://www.buurtzorgnederland.com/), 如果有人失去了团队的信任，团队会试图找到一个双方都同意的解决方案。如果这个尝试没有成功，团队会召集区域教练或外部调解人进行调解。多数情况下，调解人的出现都会带来解决办法。在某些情况下，个人和团队会通过决定一些共识和承诺，给与再次尝试的机会。
