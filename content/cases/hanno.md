@@ -10,9 +10,9 @@ companySize: 1-100
 profit: 营利组织
 theory:
   - topic: Compensation and incentives
-    title: 从算法模型，到基于建议流程的开放式薪酬设置的进化。
+    title: 薪酬与激励  从算法模型，到基于建议流程的开放式薪酬设置的进化。
     content: >-
-      ##### 摘要
+      摘要
 
 
       2014年9月，汉诺向团队其他成员公开了所有团队成员的工资信息。
