@@ -21,7 +21,7 @@ theory:
     content: 霍尔是一种组织操作系统，世界各地数百个组织采用着这种嵌套式团队结构。它将团队称为“圈子”，将整个结构称为“霍尔”（去中心，有别于等级制度）。在霍尔模式中，每个圈子并不受制于其上位的圈子，而是保持自治、个人权威和自我完整性。每个圈子在更大的圈子内分组，一直上升到最大的圈子包含整个组织。这个组织级别的圈子叫做“锚圈”（根）。接近“顶端”的圈子（团队）负责实现更广泛的目标；接近“底部”的团队致力于更专业的目标。作为一个有凝聚力的完整实体，霍尔的每个圈子和角色都保留着真正的自治和主权，同时作为一个更大实体的一部分，也承担着真正的责任。更详细的描述，请参见[霍尔的网站](http://www.holacracy.org/)。
   - topic: Coordination
     title: 协作  霍尔设立特殊的非管理岗位负责协调
-    content: 在霍尔的嵌套圈子结构中，存在着一个特定的协调噶角色，叫做“链”。子圈子选出一名代表，作为“汇报链”，作为子圈子代表，参加该圈子的所有母圈子的会议。母圈子也指派一位代表，作为“领导链”，参加其所有子圈子的所有会议。这两个角色都有具体的职责，以确保在母圈和子圈之间进行适当的协调。另见“[岗位定义与任务分派](https://cn.reinventingorganizationswiki.com/theory/role-definition-and-allocation/)”/“启发性实践案例”/“霍尔和[霍尔章程](http://www.holacracy.org/constitution)”。
+    content: 在霍尔的嵌套圈子结构中，存在着一个特定的协调噶角色，叫做“链”。子圈子选出一名代表，作为“代表链”，作为子圈子代表，参加该圈子的所有母圈子的会议。母圈子也指派一位代表，作为“领导链”，参加其所有子圈子的所有会议。这两个角色都有具体的职责，以确保在母圈和子圈之间进行适当的协调。另见“[岗位定义与任务分派](https://cn.reinventingorganizationswiki.com/theory/role-definition-and-allocation/)”/“启发性实践案例”/“霍尔和[霍尔章程](http://www.holacracy.org/constitution)”。
   - topic: Role Definition and Allocation
     title: 岗位定义与任务分派  精确定义的一个用于创建、修改和分配岗位的流程
     content: >-
@@ -36,10 +36,10 @@ theory:
       霍尔的宪法要求将岗位角色组织成“圈子”。一个圈子所包含的角色，涵盖着三个内容：表达其总体目标、制定其职责、以及控制其领域，是实现这些内容的细分化。圈子（“子圈子”）依次以嵌套方式分组在更大的圈子（“超级圈子”）中，直到最大的圈子包含整个组织（“锚圈”）。^\[Robertson, Brian J.. Holacracy: The New Management System for a Rapidly Changing World (Kindle Locations 676-677). Henry Holt and Co. Kindle Edition.]
 
 
-      In Holacracy, each sub-circle contains a special governance role called the “Lead Link” which is appointed by the super-circle to represent its interests in the sub-circle. The Lead Link does not manage the circle but does have the authority to assign people to roles and to set priorities within that circle.
+      在霍尔模式中，每个子圈都包含一个特殊的管理岗位角色，称为“领导链”，由其母圈指定，代表母圈在子圈中的利益。领导链不能管理该圈子，但有权在圈子内为成员分派岗位，还有权决定该圈子内的优先事项。
 
 
-      Holacracy's constitution stipulates that certain specific roles (the facilitator, the secretary, the Lead Link and the "Rep Link") are appointed using a consent-based election. All other roles are appointed by the person holding the team's Lead Link role. (See [Holacracy's constitution ](http://www.holacracy.org/constitution)for a detailed description of the process).
+      霍尔宪法规定，某些特定角色（调解人、秘书、领导链和代表链）是通过基于同意的选举任命的。所有其他角色都由担任团队领导角色的人员指定。（见[霍拉克拉奇宪法](http://www.holacracy.org/constitution)有关流程的详细说明）。
   - topic: Job Titles and Job Descriptions
     title: 'A worker in a Holacracy might "energize" any number of roles in any
       number of Circles. Each role has a purpose expressed within the larger
