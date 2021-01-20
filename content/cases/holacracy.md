@@ -20,17 +20,8 @@ theory:
     title: 组织结构  嵌套式组织结构
     content: 霍尔是一种组织操作系统，世界各地数百个组织采用着这种嵌套式团队结构。它将团队称为“圈子”，将整个结构称为“霍尔”（去中心，有别于等级制度）。在霍尔模式中，每个圈子并不受制于其上位的圈子，而是保持自治、个人权威和自我完整性。每个圈子在更大的圈子内分组，一直上升到最大的圈子包含整个组织。这个组织级别的圈子叫做“锚圈”（根）。接近“顶端”的圈子（团队）负责实现更广泛的目标；接近“底部”的团队致力于更专业的目标。作为一个有凝聚力的完整实体，霍尔的每个圈子和角色都保留着真正的自治和主权，同时作为一个更大实体的一部分，也承担着真正的责任。更详细的描述，请参见[霍尔的网站](http://www.holacracy.org/)。
   - topic: Coordination
-    title: Holacracy creates specific non-staff roles for coordination
-    content: In Holacracy's structure of nested circles, there are specific
-      coordinating roles called “links". Sub-circles elect a representative, the
-      “Rep Link”, for its overarching circle who sits on all that circle’s
-      meetings. The overarching circle sends a representative of its own, the
-      “Lead Link” to be part of the discussion in the sub-circle. Both roles
-      come with specific accountabilities to ensure proper coordination across
-      circle and sub-circle. See also “[Role Definition and
-      Allocation](../role-definition-and-allocation/)”/”Concrete examples for
-      inspiration”/”Holacracy” and [Holacracy's
-      constitution](http://www.holacracy.org/constitution).
+    title: 协作  霍尔设立特殊的非管理岗位负责协调
+    content: 在霍尔的嵌套圈子结构中，存在着一个特定的协调噶角色，叫做“链”。子圈子选出一名代表，作为“汇报链”，作为子圈子代表，参加该圈子的所有母圈子的会议。母圈子也指派一位代表，作为“领导链”，参加其所有子圈子的所有会议。这两个角色都有具体的职责，以确保在母圈和子圈之间进行适当的协调。另见“[岗位定义与任务分派](https://cn.reinventingorganizationswiki.com/theory/role-definition-and-allocation/)”/“启发性实践案例”/“霍尔和[霍尔章程](http://www.holacracy.org/constitution)”。
   - topic: Role Definition and Allocation
     title: A well defined process to create, modify and assign roles
     content: >-
