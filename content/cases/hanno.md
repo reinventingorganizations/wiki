@@ -12,7 +12,7 @@ theory:
   - topic: Compensation and incentives
     title: 从算法模型，到基于建议流程的开放式薪酬设置的进化。
     content: >-
-      #### 摘要
+      ##### 摘要
 
 
       2014年9月，汉诺向团队其他成员公开了所有团队成员的工资信息。
@@ -21,7 +21,7 @@ theory:
       在试用了一个基于算法的模型之后，截至2015年6月，汉诺已经采用了一个基于建议流程的自我设定式薪酬模型。用创始人乔恩·雷的话说：“只要我们在制定薪酬的过程中做到财务完全透明、尊重个人、同事评议和自律，就可以相信员工能为自己和团队设定一份合适的薪酬。^[[https://logbook.hanno.co/choose-your-own-salary/](https://hanno.co/blog/choose-your-own-salary/)]
 
 
-      #### 汉诺自定工资流程
+      ##### 汉诺自定工资流程
 
 
       大致工作原理如下：
