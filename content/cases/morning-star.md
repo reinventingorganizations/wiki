@@ -111,21 +111,8 @@ theory:
 
       晨星的经验和事实证明，人们非常善于为自己评估公平的薪酬。在任何一年，大约有四分之一的人会选择高于生活费调整的加薪。但全公司只有少数人收到认为他们的加薪目标可能过高的反馈。^[Gary Hamel, “First, Let’s Fire All the Managers,” Harvard Business Review, December 2011, [http://hbr.org/2011/12/first-lets-fire-all-the-managers](https://hbr.org/2011/12/first-lets-fire-all-the-managers). and interviews Frederic Laloux at Morning Star Self-Management Institute.]
   - topic: Purchasing and Investments
-    title: Morning Star implemented a strong performance evaluation process, which
-      includes a view on the effectiveness of using company resources and an
-      annual presentation of investment plans to a panel of peers.
-    content: At [Morningstar](https://www.morningstarco.com/), every year in
-      January, teams present a self-evaluation to a group of colleagues, which
-      inludes Chris Rufer (the founder and president) and anyone else who cares
-      to join. They are expected to talk candidly about what went well during
-      the past year and what didn’t, how effectively they used company
-      resources, and what they plan to do in the next year. It’s not a
-      superficial effort; each presentation lasts for a few hours, and teams can
-      expect challenging, sometimes grilling questions from their colleagues. In
-      the course of a month, all teams make presentations; teams that haven’t
-      performed well have received much input from their peers and know they
-      have homework to do ^[Laloux, Frederic. Reinventing Organizations. Nelson
-      Parker (2014), page 125]
+    title: 采购与投资  晨星实施了强有力的绩效评估流程，包括对是否有效使用了公司资源的评估，以及向一组同事呈现年度投资计划报告。
+    content: 在[晨星](https://www.morningstarco.com/)，每年1月，每个团队都会向一组同事提交一份自我评估报告，该小组包括创始人兼总裁克里斯•鲁弗（chrisrufer）和其他愿意加入的人。团队坦率地谈论在过去一年业务中哪些进展顺利，哪些进展不顺利，是如何有效利用公司资源的，以及明年计划做什么。这不是一个肤浅的努力；每一个演示都会持续几个小时，团队会收到来自同事的挑战性的、有时是盘问性的提问。在这一个月期间，所有的团队都会做演讲；表现不好的团队会从同事那里得到很多意见，并且觉察到有功课要做了。
   - topic: Fundamental Assumptions
     title: Two core beliefs about workers and responsibilities.
     content: |-
