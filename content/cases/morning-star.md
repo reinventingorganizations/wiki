@@ -83,27 +83,15 @@ theory:
     content: 工作时间表的承诺，记录了一个人分别在淡季和旺季（西红柿收获和加工季节）可以承诺的工作小时数，这个信息提供了明确的基础，让同事们可以在实现组织目标的同时，能共同讨论和管理大家的时间。工作进度承诺内容参见[晨星](https://www.morningstarco.com/)的同事谅解书或CLOU，其中还包括一份个人使命声明和一个人目前所承担岗位角色的详细信息，以及他们希望做出的改进。这是一种更为正式的分享并获取同事承诺的方式，满足了晨星不断改进以提高效率的需要，因为这个行业本质上是一种低利润的商品业务。^\[Laloux,
       Frederic. Reinventing Organizations. Nelson Parker (2014), page 182-183].
   - topic: Objectives and Target Setting
-    title: In Morning Star, colleagues give each other an undertaking to deliver
-      certain volumes, since each section is dependent on the output of the
-      preceding section to deliver its output.
+    title: 目标与指标设定 在晨星，同事们互相承诺保证交付所需数量的产品，因为每个工序的产品，都依赖于前一工序交付的产品来生产并交付。
     content: >-
-      As a [Morning Star](http://www.morningstarco.com/) colleague, you write a
-      personal mission statement (“Personal Commercial Mission” in Morning
-      Star’s language) and spell out all of the roles you commit to in a
-      document called Colleague Letter of Understanding (or simply CLOU). Roles
-      at Morning Star are defined very specifically, so you might well hold 20
-      or 30 different roles (one might be receiver of tomatoes at the unloading
-      station, another might be trainer of seasonal whole peel sorters). For
-      each role, you specify what it does, what authority you believe you should
-      have (act, recommend, decide, or a combination thereof), what indicators
-      will help you understand if you are doing a good job, and what
-      improvements you hope to make on those indicators.
+      作为[晨星](http://www.morningstarco.com/)同事，你要写一份个人使命声明（用晨星的语言叫做“个人商业使命”），并在一份名为“同事谅解书”（或简称CLOU）的文件中阐明自己所承担的所有岗位角色。晨星的角色定义非常明确，所以成员可能有20到30个不同的角色（一个可能是卸货站的番茄收货员，另一个可能是季节性整皮分拣员的培训师）。对于每一个角色，都要详细说明其功能和作用，自己认为应该拥有什么样的权力（行动、建议、决定或两者的组合），哪些指标可以帮助了解自己是否做得很好，以及自己希望在这些指标上做些什么改进。
 
 
-      Why this level of formality and granularity? In a continuous process like Morning Star’s, each person in the chain receives tomatoes or paste in some form from someone upstream and delivers them in another form to someone downstream. Therefore, colleagues at Morning Star chose to discuss the CLOUs, once written or updated, not in a team setting (which most self-managing organizations do), but in a series of one-on-one discussions with the handful of colleagues up and down-stream that people interact with most. People discuss and negotiate what’s written in each other’s CLOU documents very seriously— they want to make sure that people upstream commit to supplying them with the right input, so that they can in turn deliver to people downstream what they committed to.
+      为什么会有这种形式和粒度？在像晨星这样的连续生产链条中，链中的每个人都会从上游的某个人那里收到某种形式的西红柿或西红柿酱，然后以另一种形式将它们送到下游的某个人那里。因此，晨星公司的同事们选择在撰写或更新完CLOUs后，不在整个团队环境中多对多的讨论其内容（大多数自我管理组织都是这样做的），而代之以与少数最常接触的相关的上下游同事通过一对一的讨论来确认内容。人们非常认真地讨论和协商对方CLOU文档中的内容—他们希望确保上游的人承诺向他们提供正确的纳入，以便自己可以保证转过来向下游的人交付他们承诺的内容。
 
 
-      Colleagues at Morning Star set themselves targets for their part of the process, to stimulate continuous improvement. They measure indicators, compare them to the self-set targets, analyze root causes, and experiment with new ideas. These targets are mostly set at a local level, for one machine or one process step, where the outcomes can be predicted with some certainty.
+      晨星的同事们为自己主动设定在连续流程中自己要完成的业务指标，以促进持续改进。他们会自行测量指标，将其与自己设定的目标进行比较，分析根本原因，并尝试新的想法。这些目标大多是围绕着局部领域设定的，比如为一台机器或一个操作步骤，因为在只有在这些层面才可以确定的预测结果。
   - topic: Feedback and Performance Management
     title: Morning Star has developed a team based feedback process for when the
       work carried out can't be compared easily.
