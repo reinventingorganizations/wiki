@@ -121,16 +121,8 @@ theory:
       2. 个人应当信守承诺。
   - topic: Ownership
     title: 股东  一家在不稀释所有权的情况下成长的私营公司。
-    content: Chris Rufer founded Morningstar in 1970 and to this day owns 100% of
-      the company and is its sole board member. Recognizing the potential
-      hazards of having partners who might not unconditionally support his
-      pursuit of self-management, he has foregone taking in new investors but
-      rather has relied on loans to fund his growth. Growing in this way from a
-      single truck operation to the world’s largest tomato processor (a
-      traditionally low margin as well as capital intensive business) is
-      extraordinary, but perhaps Chris would argue, essential to its
-      success.^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker
-      (2014), page 289].
+    content: 克里斯·鲁弗于1970年创立晨星公司，至今拥有该公司100%的股份，是该公司唯一的董事会成员。他认识到，合伙人可能不会无条件地支持他追求自我管理模式，这是个潜在风险。因此他放弃了吸收新的投资者，而是依靠贷款为组织的发展提供资金。以这种方式，从单一业务的卡车运营，发展成为世界上最大的番茄加工企业（传统的利润率低，资本密集型业务），这可能非同寻常，但克里斯可能会争辩说，也是其成功的关键。^\[Laloux,
+      Frederic. Reinventing Organizations. Nelson Parker (2014), page 289].
   - topic: Decision Making
     title: "Morning Star uses the advice process. Here is an example: it was used
       when a new strategy was proposed that would affect all employees. "
