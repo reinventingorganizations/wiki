@@ -127,37 +127,26 @@ theory:
     title: 决策  晨星使用建议流程做决策。这里举了个例子：介绍了一个影响到所有成员的新战略如何做出决策的过程。
     content: 几年前，在内部社交网络出现之前，[晨星](http://www.morningstarco.com/)的创始人、所有者和首席执行官克里斯·鲁弗，觉得晨星需要一个新的战略方向。他写了一份备忘录，发给所有同事，并邀请他们参加公司范围内的会议（举行不同地点参见的视频会议）。他分享了自己的想法，以及其中的原因。他要求每个人在会后都亲自与他联系，提出任何质问、关切、意见和对这个计划的建议。
   - topic: Dismissal
-    title: Dismissals can be initiated by any individual, using the conflict
-      resolution process if needed.
+    title: 解雇  解雇可以由任何个人发起，在需要时，可以使用冲突解决流程。
     content: >-
-      At [Morning Star](http://www.morningstarco.com/), the process is almost
-      identical to the one used at
-      [Buurtzorg](http://www.buurtzorgnederland.com/), except that it is
-      initiated by an individual rather than a team. Morning Star views a
-      dismissal as the final step in a conflict and therefore uses its [conflict
-      resolution](../conflict-resolution/) mechanism to deal with the situation.
-      The process starts when one person asks another to leave the organization.
-      Suppose that someone finds that a colleague has fundamentally breached a
-      company value (perhaps the person made an important decision without
-      requesting [advice ](../decision-making/)from colleagues) or that a
-      colleague is failing time after time to live up to his
-      [commitments](../commitment-working-hours-and-flexibility/), despite a
-      number of previous attempts to improve the situation. She can initiate a
-      conflict resolution process, asking her colleague to resign. If the person
-      asked to leave does not agree, a four-stage conflict resolution process
-      begins:
+      在[晨星](http://www.morningstarco.com/)，这个流程与[布尔佐格](http://www.buurtzorgnederland.com/)使用的流程几乎相同。但不同点是，在晨星，流程是由个人而不是团队来发起。晨星将解雇视为冲突的最后一步，因此使用[冲突解决](https://cn.reinventingorganizationswiki.com/theory/conflict-resolution/)机制来处理这种情况。当一个人要求另一个人离开组织时，就启动了这个流程。假设有人发现某个同事从根本上违背了公司的价值观（比如该人未征求同事的建议[](https://cn.reinventingorganizationswiki.com/theory/decision-making/)就做出了一个重要的[决定](https://cn.reinventingorganizationswiki.com/theory/decision-making/)），或者某个同事一次又一次地不履行工作[承诺](<https://cn.reinventingorganizationswiki.com/theory/commitment-working-hours
+      and-flexibility/>)，尽管此前曾多次尝试过改善这种状况，但没有好转。这时她就可以启动冲突解决流程，要求该同事辞职。如果被请求离开的人不同意辞职，则启动由四个阶段组成的冲突解决流程：
 
 
-      In a first phase, they sit together and try to sort it out. In the discussion, the person asked to leave can suggest ways to restore trust. Or perhaps he will come to see that he has irrevocably lost the trust of his colleagues and that he is better off looking for work elsewhere.
-
-      If they can’t agree on an outcome, another colleague is called in as a mediator.
-
-      If necessary, in a third step, a panel of colleagues is asked to mediate.
-
-      As a last resort, Chris Rufer, the founder and president, is asked to join the panel.
-
-      People asked to mediate or sit on a panel take their role very seriously. Morning Star’s principle of not using force against anyone is at stake. They are not a jury, passing a verdict on a colleague. Their role is to explore every possible way to restore trust in the relationship. The process can take a long time if needed. Only when the person who has been asked to leave sees that colleagues genuinely tried to find a solution and that none could be found, will he come to accept that resignation is the reasonable outcome. Therein lies the power and legitimacy of the process.
+      在第一阶段，他们坐在一起，试图解决这个分歧。在讨论中，被要求离开的人可以提出恢复信任的方法。或许他已经发现，自己已经无法挽回的失去了同事们的信任，最好选择去别处找工作。
 
 
-      Because Morning Star views a dismissal as a private conflict between two persons, everyone is under the understanding of full confidentiality (as is always the case with the conflict resolution mechanism). As a result, no data exist of how often this happens. . Some more senior employees report that they have been part of a handful of panels over the years. They are advocates for the method. The panel discussions are never easy they report, but they do help people reach fair and reasonable outcomes^[Source: Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), pages 128-129].
+      如果不能达成一致，会共同邀请另一位同事作调解人。
+
+
+      第三步，如有必要，请一个同事小组进行调解。
+
+
+      作为最后手段，创始人兼总裁克里斯·鲁弗（Chris Rufer）被要求加入该调解小组。
+
+
+      被要求调停或参加小组讨论的人，会非常认真地对待自己的角色。严格遵守晨星不使用武力对付任何人的原则。他们不是对同事做出裁决的陪审团。他们的任务是探索一切可能的方式，帮助恢复双方的信任。如果需要，这个过程可能需要很长时间。只有当被要求离职的人看到，同事们真诚地试图找到解决办法，却找不到解决办法时，他才会认识到，辞职是合理的结果。这个过程中，彰显了这个流程的力量与合理合法性。
+
+
+      因为晨星公司将解雇视为两人之间的私人冲突，所以每个人都必须完全保密（冲突解决机制也是如此）。因此，没有数据记载发生解雇情况的频率记录。一些资深的员工报告说，这些年来，他们曾参加很少发生的几个调解小组。他们做过这种方法的调解人。他们报告说，小组讨论从来都不容易，但确实有助于人们达成公平合理的结果。^\[Source: Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), pages 128-129].
 ---
