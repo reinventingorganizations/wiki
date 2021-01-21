@@ -48,22 +48,10 @@ theory:
     title: 环境与社会责任  环境和社会责任项目倡议，可以从该组织的任何地方被启动。令人惊讶的是，他们发现围绕组织的价值观行事，并不会损害财务业绩——事实上，恰反而有益于财务增长。
   - topic: Ownership
     title: 股东  一家主动将业务流程正规化的私人控股公司。
-    content: Patagonia, the outdoor apparel maker, is 100% owned by its founder,
-      Yves Chouinard and his wife.^[Patagonia's Founder Is America's Most
-      Unlikely Business Guru; Wall St. Journal Magazine; April 26, 2012] Mr.
-      Chouinard can therefore presumably do whatever he wants with Patagonia,
-      and this no doubt has given him great freedom to guide the company into a
-      Teal organization. Interestingly though, Patagonia has gone to the trouble
-      of attaining benefit corporation status, perhaps as a result of
-      Chouinard’s desire to give the company some protection from potential
-      future owners or perhaps out of a desire to make a symbolic gesture.
-      Patagonia has gone even further by becoming the first Californian company
-      to achieve “B Corp certification” at the beginning of 2012 (while often
-      confused, “benefit corporation” and “B Corp” are not the same). B Corp
-      certification is a private certification issued by B Lab, a global
-      non-profit, to companies which meet its standards of “verified, overall
-      social and environmental performance, public transparency and legal
-      accountability.”^[<https://www.bcorporation.net/what-are-b-corps/about-b-lab>]
+    content: 巴塔哥尼亚是一家户外服装制造商，创始人伊冯·乔纳德和他妻子拥有100%的股份。^\[Patagonia's Founder Is
+      America's Most Unlikely Business Guru; Wall St. Journal Magazine; April
+      26, 2012]
+      因此，伊冯·乔纳德先生可以对巴塔哥尼亚为所欲为，这毫无疑问的给了他很大的自由，可以引导公司进入蔚蓝组织模式。不过，有趣的是，巴塔哥尼亚在获得福利公司地位认证方面遇到了麻烦。这可能是因为乔纳德希望给公司一些保护，使其免受未来潜在所有者的侵害，也可能是为了做出象征性姿态（榜样）。巴塔哥尼亚后来更进一步，在2012年初成为第一家获得“B公司认证”的加州公司（虽然经常被混淆，“福利公司”和“B公司”并不相同）。B公司认证是一种私人认证，由B实验室（一家全球非营利组织）颁发给一些“经验证全面符合社会和环境责任、公共透明度和法律责任”标准的公司。^\[<https://www.bcorporation.net/what-are-b-corps/about-b-lab>]
   - topic: wholeness
     title: Children in Meetings
     content: "At its headquarters in Ventura, California, Patagonia hosts a Child
