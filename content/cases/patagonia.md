@@ -27,16 +27,12 @@ theory:
       流方面采用这种极端的诚实程度，是该组织目标的一个主要部分。通过电子邮件和互联网与供应商和客户进行信息交流，以促进持续改进。[](https://e\
       u.patagonia.com/fr/fr/home/)"
   - topic: Recruitment
-    title: Hiring is a relatively slow process, performed by peers over multiple
-      interviews.
+    title: 招聘  招聘是一个相对缓慢的过程，由用人团队同事通过多次面试完成。
     content: >-
-      Yvon Chouinard founded what would later be called
-      [Patagonia](http://www.patagonia.com/) in 1957 to produce climbing pitons.
-      The California-based company has grown into a leading outdoor apparel
-      maker, committed to being a positive influence on the environment.
+      伊冯·乔纳德1957年创建一个生产攀岩岩钉的公司，后来更名为[巴塔哥尼亚](http://www.patagonia.com/)。这家总部位于加州的公司已经成长为一家领先的户外服装制造商，致力于对地球环境产生积极的影响。
 
 
-      In Patagonia hire is made slowly with interview from peers, as much as possible from withiɳ.
+      在巴塔哥尼亚，招聘是通过同事的缓慢面试过程，尽可能多地评估内在素质来进行的。
   - topic: Environmental and Social Management
     content: >-
       [Patagonia ](http://www.patagonia.com/)embraced reduction of their
