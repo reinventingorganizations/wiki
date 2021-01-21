@@ -47,9 +47,7 @@ theory:
 
 
       When the company moved its warehouse from California to Nevada, many colleagues moved too. Some realized that Nevada has lots of wild country and federal land, but very little of it was protected as wilderness. Four employees took the initiative. They got support from company leaders in the form of salries and facilities. They built a broad coalition, went to Washington, and lobbied. As a result, 1.2 million acres of wilderness were protected. ^\[Source: Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), pages 160-172]
-    title: Environmental and social initiatives can start anywhere in the
-      organization. To their surprise, they have found alignment to values may
-      not undermine financial performance―indeed, quite the contrary.
+    title: 环境与社会责任  环境和社会责任项目倡议，可以从该组织的任何地方被启动。令人惊讶的是，他们发现围绕组织的价值观行事，并不会损害财务业绩——事实上，恰反而有益于财务增长。
   - topic: Ownership
     title: A privately held company formalizes its practices.
     content: Patagonia, the outdoor apparel maker, is 100% owned by its founder,
