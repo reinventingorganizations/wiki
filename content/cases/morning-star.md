@@ -121,19 +121,11 @@ theory:
       2. 个人应当信守承诺。
   - topic: Ownership
     title: 股东  一家在不稀释所有权的情况下成长的私营公司。
-    content: 克里斯·鲁弗于1970年创立晨星公司，至今拥有该公司100%的股份，是该公司唯一的董事会成员。他认识到，合伙人可能不会无条件地支持他追求自我管理模式，这是个潜在风险。因此他放弃了吸收新的投资者，而是依靠贷款为组织的发展提供资金。以这种方式，从单一业务的卡车运营，发展成为世界上最大的番茄加工企业（传统的利润率低，资本密集型业务），这可能非同寻常，但克里斯可能会争辩说，也是其成功的关键。^\[Laloux,
+    content: 克里斯·鲁弗于1970年创立晨星公司，至今拥有该公司100%的股份，是该公司唯一的董事会成员。他认识到，合伙人可能不会无条件地支持他追求自我管理模式，这是个潜在风险。因此他放弃了吸收新的投资者，而是依靠贷款为组织的发展提供资金。以这种方式，从单一业务的卡车运营，发展成为世界上最大的番茄加工企业（传统的利润率低，资本密集型业务），这可能非同寻常，但克里斯可能会争辩说，也正是其成功的关键。^\[Laloux,
       Frederic. Reinventing Organizations. Nelson Parker (2014), page 289].
   - topic: Decision Making
-    title: "Morning Star uses the advice process. Here is an example: it was used
-      when a new strategy was proposed that would affect all employees. "
-    content: A few years ago, before the advent of internal social networks, Chris
-      Rufer, the founder, owner and CEO of [Morning
-      Star](http://www.morningstarco.com/), felt the need for a new strategic
-      direction at Morning Star. He wrote a memo that he sent to all colleagues,
-      with an invitation to a company-wide meeting (the different locations
-      joined by videoconference). He shared his idea, and the reasons for it. He
-      asked everyone to contact him personally after the meeting with any
-      questions, concerns, comments, and advice on his plans.
+    title: 决策  晨星使用建议流程做决策。这里举了个例子：介绍了一个影响到所有成员的新战略如何做出决策的过程。
+    content: 几年前，在内部社交网络出现之前，[晨星](http://www.morningstarco.com/)的创始人、所有者和首席执行官克里斯·鲁弗，觉得晨星需要一个新的战略方向。他写了一份备忘录，发给所有同事，并邀请他们参加公司范围内的会议（举行不同地点参见的视频会议）。他分享了自己的想法，以及其中的原因。他要求每个人在会后都亲自与他联系，提出任何质问、关切、意见和对这个计划的建议。
   - topic: Dismissal
     title: Dismissals can be initiated by any individual, using the conflict
       resolution process if needed.
