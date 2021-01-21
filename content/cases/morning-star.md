@@ -93,20 +93,13 @@ theory:
 
       晨星的同事们为自己主动设定在连续流程中自己要完成的业务指标，以促进持续改进。他们会自行测量指标，将其与自己设定的目标进行比较，分析根本原因，并尝试新的想法。这些目标大多是围绕着局部领域设定的，比如为一台机器或一个操作步骤，因为在只有在这些层面才可以确定的预测结果。
   - topic: Feedback and Performance Management
-    title: Morning Star has developed a team based feedback process for when the
-      work carried out can't be compared easily.
-    content: "[Morning Star ](http://www.morningstarco.com/)Teams that do very
-      different work (for example, tomato sorting, steam generation and
-      packaging) don’t share metrics to get feedback on their performance.
-      Instead, each team makes an annual self-evaluation presentation to a group
-      of their colleagues. The group includes Chris Rufer, the President and
-      anyone else who wants to join in. They are expected to talk openly about
-      what went well, what didn’t, how well they have used company resources and
-      what their plans are for the coming year. Each presentation lasts several
-      hours and is carefully prepared. They expect tough questions from their
-      colleagues and receive much input. This enables them to review what they
-      have done and refine their plans^\\[Laloux, Frederic. Reinventing
-      Organizations. Nelson Parker (2014), page 124, 125]."
+    title: 反馈与业绩管理  晨星公司针对相对不能简单比较的工作特点，开发了一个基于团队的反馈流程。
+    content: "[晨星](http://www.morningstarco.com/)的团队从事非常不同的工作（例如，西红柿分类、蒸汽生成和包装），所以没\
+      有选择通过共享同样的业务指标来获得对绩效的反馈。代之以，每个团队每年向一组同事做一次自我评估报告。这个小组包括克里斯·鲁弗，总裁和其他任何想加入的\
+      人。要求同事在这个小组要求公开谈论自己的业务中，哪些进展顺利，哪些不顺利，自己如何很好的利用了公司的资源，以及明年的计划是什么。每一场演讲都会持续\
+      几个小时，而且都是精心准备的。他们期待同事提出尖锐的问题，并得到很多意见。这使他们能够回顾他们所做的事情并完善新的计划。^\\[Laloux,
+      Frederic. Reinventing Organizations. Nelson Parker (2014), page 124,
+      125]."
   - topic: Compensation and incentives
     title: Salaries are self-initiated, calibrated by the advice given by an elected
       salary committee, and if needed, using the conflict resolution process.
