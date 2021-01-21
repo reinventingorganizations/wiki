@@ -4,24 +4,19 @@ tags: cases
 name: 巴塔哥尼亚(Patagonia)
 date: 2020-11-17T14:59:20.385Z
 introduction: >-
-  **Patagonia, Inc.** is an American clothing company that markets and sells
-  outdoor clothing. The company was founded by Yvon Chouinard in 1973 and is
-  based in Ventura, California.Its logo is the outline of Mount Fitz Roy, the
-  border between Chile and Argentina, in the region of Patagonia.
+  巴塔哥尼亚公司是一家销售户外服装的美国服装公司。公司成立于1973年，总部位于文图拉，加利福尼亚。公司徽标是菲茨罗伊山的轮廓，智利和阿根廷的边界巴塔哥尼亚地区的山脉。
 
 
-  *This is how Patagonia speaks out about its purpose: "We at **Patagonia** know that all life on earth is threatened with extinction. We make it our goal to use all our resources to do something about it: our company, our investments, our voice and our imagination." ^\[test]*
-industry: S. Other service activities
-geography: USA
+  巴塔哥尼亚就是这样表达组织目标：“我们巴塔哥尼亚人知道地球上所有的生命都面临灭绝的威胁。我们的目标是利用我们所有的资源去做一些挽救努力：我们的公司，我们的投资，我们的声音和我们的想象力。
+industry: S.公共服务
+geography: 美国
 companySize: "> 500"
-profit: Profit
+profit: 营利组织
 theory:
   - topic: board
-    title: Adoption of the B Corp certification
-    content: "[Patagonia ](http://www.patagonia.com/)became the first certified B
-      Corp in California in January 2012. A B Corporation is a for-profit
-      company with a specific social or environmental purpose. The board is
-      obliged to protect these non-financial interests."
+    title: 董事会  获得了B公司认证
+    content: "[巴塔哥尼亚](http://www.patagonia.com/)2012年1月成为加州第一家获得认证的B公司。B公司是一种以营利为目的\
+      ，但是同时具有特定的社会或环境目标。董事会有义务保护这些非金融利益。"
   - topic: sales-marketing
     title: Marketing as “Don’t Buy Our Product”?!
     content: "Where most brands use marketing to convert prospects into customers,
