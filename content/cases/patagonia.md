@@ -19,27 +19,7 @@ theory:
       ，但是同时具有特定的社会或环境目标。董事会有义务保护这些非金融利益。"
   - topic: sales-marketing
     title: 营销与市场 市场口号是“不要买我们的产品”？！
-    content: "Where most brands use marketing to convert prospects into customers,
-      [Patagonia ](https://eu.patagonia.com/fr/fr/home/)wants to turn customers
-      into activists. Patagonia is famous for having run full-page ads reading,
-      “Don’t buy this jacket.” The ads were part of its “Common Threads
-      Partnership.” Patagonia reckons that many of us in the developed world
-      have enough clothes in our closets to keep us warm for a lifetime. And yet
-      we keep buying new clothes, which are environmentally harmful to produce
-      and will end up in a landfill. The Common Threads Partnership takes a
-      serious stab at reducing (making clothes that last longer), repairing
-      (Patagonia repairs clothes for its customers), reusing (the company
-      resells your used clothes on eBay or in their stores’ Worn Wear section),
-      and recycling (you can return your old clothes to Patagonia and they
-      recycle them). Will this initiative harm Patagonia’s growth in the short
-      term? Yes. Every repaired and every reused jacket is one less jacket
-      bought. Will it increase its growth in the long term, through higher
-      customer loyalty? Perhaps. But Patagonia’s decision wasn’t driven by
-      forecasts and financials. The company chose the path its purpose called
-      for. For more on Patagonia’s marketing approach see, [The Purpose-Driven
-      Marketer: How Patagonia Uses Storytelling To Turn Consumers Into
-      Activists.](https://www.fastcompany.com/3038557/the-purpose-driven-market\
-      er-how-patagonia-uses-storytelling-to-turn-consume)"
+    content: 大多数品牌利用市场营销将潜在客户转化为实体客户，[巴塔哥尼亚](https://eu.patagonia.com/fr/fr/home/)则努力把顾客变成行星保护运动的积极分子。巴塔哥尼亚以刊登整版广告“别买这件夹克”而闻名。这些广告是巴塔哥尼亚“纽带伙伴关系”的一部分。巴塔哥尼亚认为，我们许多发达国家的人，衣橱里都有足够的衣服让我们一辈子保暖。然而，我们还是不断购买新衣服，这些衣服的生产对环境有害，最终会称为垃圾被填埋。纽带伙伴关系活动，倡导减少（制造耐用的衣服）、修复（巴塔哥尼亚为客户修复衣服）、再利用（公司在易趣或商店的旧衣服区转售客户的旧衣服）和回收（顾客可以把旧衣服退回巴塔哥尼亚，他们负责回收）。这一举措是否会在短期内损害巴塔哥尼亚的增长？是的。每一件经过修理和重复使用的夹克衫都会导致少买一件。这是否会通过提高客户忠诚度而增加长期增长？也许。但巴塔哥尼亚的决定并不是根据预测和财务状况驱动的。这家公司选择了组织目标所要求的做法。有关巴塔哥尼亚营销方法的更多信息，请参见[目的驱动的营销：巴塔哥尼亚如何利用讲故事将消费者转变为环保积极分子](https://www.fastcompany.com/3038557/the-purpose-driven-marketer-how-patagonia-uses-storything-to-turn-consum)。
   - topic: Information Flow
     title: Extend information flow throughout the market, incorporating suppliers
       and customers
