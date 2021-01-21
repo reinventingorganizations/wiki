@@ -117,8 +117,8 @@ theory:
   - topic: Fundamental Assumptions
     title: 基本假设  关于员工和责任的两个基本信念。
     content: |-
-      1. Individuals shall work with no use of force or coercion.
-      2. Individuals shall keep commitments.
+      1. 个人不得使用武力或胁迫他人劳动。
+      2. 个人应当信守承诺。
   - topic: Ownership
     title: A privately held company grows without diluting its ownership.
     content: Chris Rufer founded Morningstar in 1970 and to this day owns 100% of
