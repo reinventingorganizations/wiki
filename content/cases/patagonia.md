@@ -18,7 +18,7 @@ theory:
     content: "[巴塔哥尼亚](http://www.patagonia.com/)2012年1月成为加州第一家获得认证的B公司。B公司是一种以营利为目的\
       ，但是同时具有特定的社会或环境目标。董事会有义务保护这些非金融利益。"
   - topic: sales-marketing
-    title: Marketing as “Don’t Buy Our Product”?!
+    title: 营销与市场 市场口号是“不要买我们的产品”？！
     content: "Where most brands use marketing to convert prospects into customers,
       [Patagonia ](https://eu.patagonia.com/fr/fr/home/)wants to turn customers
       into activists. Patagonia is famous for having run full-page ads reading,
