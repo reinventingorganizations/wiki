@@ -57,30 +57,28 @@ theory:
     content: "巴塔哥尼亚总部位于加利福尼亚州的文图拉，为员工的子女设立了一个儿童发展中心，接纳从几个月到幼儿园年龄的儿童。孩子们的笑声和叽叽喳喳声是办公\
       室里经常听到的声音，包括外面的操场，父母办公桌旁陪伴的孩子，或者孩子们和父母、同事一起在自助餐厅吃午饭之处。在会议上看到一位母亲在照顾她的孩子并不\
       罕见。当人们不仅把彼此视为同事，而且把彼此视为能够深爱并照顾彼此幼儿的伙伴时，人际关系会发生微妙而深刻的变化。当同事们刚刚在午餐时间和一个婴儿玩耍\
-      后，坐在一起开会的时候，就很难互相撕咬对方的喉咙了。^\\[Laloux, Frederic (2014-02-09). Reinventing
-      Organizations: A Guide to Creating Organizations Inspired by the Next
-      Stage of Human Consciousness (Kindle Locations 3191-3196). Nelson Parker.
-      Kindle Edition.]"
+      后，坐在一起开会的时候，就很难做出互相撕咬对方的喉咙的举动了。^\\[Laloux, Frederic (2014-02-09).
+      Reinventing Organizations: A Guide to Creating Organizations Inspired by
+      the Next Stage of Human Consciousness (Kindle Locations 3191-3196). Nelson
+      Parker. Kindle Edition.]"
   - topic: Evolutionary Purpose
     content: >-
-      Yvon Chouinard, the founder and owner of Patagonia, didn’t set out to
-      create a business at all, initially. Probably one of the people most
-      unlikely to become a business founder, he stumbled on the purpose that
-      would turn into a $540 million company employing 1,350 people.
+      巴塔哥尼亚的创始人股东伊冯·乔纳德（Yvon
+      Chouinard）最初根本没有打算创建一家企业。他可能是最不可能成为企业创始人的人之一，但他偶然发现了一个目标，让他成为了一家拥有1350名员工、价值5.4亿美元公司的所有者。
 
 
-      As a kid, he spent every free minute outdoors— rock-climbing, diving, and training hawks for hunting. A misfit in school, Chouinard remembers that the classroom was mostly “an opportunity for me to practice holding my breath, so that on weekends I could free-dive deeper to catch the abundant abalone and lobster off the Malibu coast.” When he left school, he lived with no income, finding shelter in shacks on the beach or near the mountains, hopping on freight trains in pursuit of the next climb or dive. In 1957, he bought a used coal-fired forge from a junkyard and taught himself blacksmithing to make his own climbing pitons. When a few friends asked him to produce pitons for them, he found a way to sustain his simple lifestyle. For years, he would fabricate pitons in the winter months, making just enough money to spend April to July on the walls of Yosemite, devote the summer to the mountains of Wyoming, and then go back to Yosemite in the fall until snow fell in November. He wouldn’t have been considered a businessman by anybody, least of all himself. Now, as the owner of a multimillion-dollar company, he has turned into one, but he hasn’t lost sight of the lights and shadows of the profession:
+      小时候，他把每一分钟空闲时间都花在户外——攀岩、潜水，训练鹰打猎。乔纳德在学校里很不适应，他记得教室对自己来说主要是“一个练习屏住呼吸的机会，这样在周末我就可以自由地潜水更深，在马里布海岸钓到丰富的鲍鱼和龙虾。”离开学校后，他没有收入，住在海滩或山附近的棚屋里，在货运列车上跳跃，追逐下一次攀登或潜水。1957年，他从一个垃圾场买了一个用过的炼碳烧锻造厂，并自学锻造自己的攀岩岩钉。当几个朋友请他为他们制作岩钉时，他发现这是一种维持简单生活的方法。多年来，他会在冬天的几个月里制造岩钉，挣的钱只够4月到7月在约塞米蒂的攀岩墙壁上消耗，把夏天奉献给怀俄明州的山区，然后在秋天回到约塞米蒂，直到11月下雪。他不会被任何人看作是商人，尤其是他自己。现在，作为一家价值数百万美元公司的老板，他已经变成了一位商人，但他并没有忘记这个行业的光明和阴影：
 
 
-      > "I’ve been a businessman for almost fifty years. It’s as difficult for me to say those words as it is for someone to admit to being an alcoholic or a lawyer. I’ve never respected the profession. It’s business that has to take the majority of the blame for being the enemy of nature, for destroying native cultures, for taking from the poor and giving to the rich, and poisoning the earth with the effluent from its factories. Yet business can produce food, cure disease, control population, employ people, and generally enrich our lives. And it can do these good things and make a profit without losing its soul."^\[Yvon Chouinard, Let My People Go Surfing, p. 3.]
+      > “我做生意快五十年了。我说出这些话时感到不舒服，就像有人承认自己是个酒鬼或律师一样。我从来都不尊重商人这个职业。企业是大部分环境破坏的主谋，是大自然的敌人，破坏局部文化，剥削穷人供养富人，用工厂的污水污染地球。然而，商业可以生产食物、治疗疾病、控制人口、雇佣人员，并普遍的丰富我们的生活。商业也可以做这些好事，在不失去灵魂的情况下盈利。”^\[Yvon Chouinard, Let My People Go Surfing, p. 3.]
 
 
-      Chouinard’s defining experience as a businessman came as he climbed up a mountain in 1970.
+      乔纳德作为一个商人的决定性体验，发生在1970年他爬上一座山的时候。
 
 
-      > "After an ascent of the Nose route on El Capitan, which had been pristine a few summers earlier, I came home disgusted with the degradation I had seen. The repeated hammering of hard steel pitons, during both placement and removal in the same fragile cracks, were severely disfiguring the rock. Frost \[his friend and partner in the forge] and I decided we would phase out the piton business. … Pitons were the mainstay of our business, but we were destroying the very rocks we loved."^\[Yvon Chouinard, Let My People Go Surfing, p. 31.]
+      > “在埃尔卡皮坦的山脊道上爬了一段后，我回到家里，对我所看到的堕落感到厌恶。在同一易碎裂缝中放置和拆除硬钢钉时，那种反复锤击使岩石严重受损。弗罗斯特（他在锻造厂的朋友和合伙人）和我当时决定，我们将逐步淘汰岩钉业务。……岩钉虽然是我们生意的支柱，但我们正在摧毁自己所热爱的岩石。”^\[Yvon Chouinard, Let My People Go Surfing, p. 31.]
 
 
-      Chouinard and Frost found an alternative to hard steel pitons: aluminum chocks that can be wedged by hand and leave the rock unaltered. Two years later, Chouinard edited his first product catalog, and within a few months, the piton business was done; chocks sold faster than they could be made. Yvon Chouinard stumbled upon a need of the climbing world when he found a way for the activity he and others loved not to create environmental damage.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4267-4295). Nelson Parker. Kindle Edition]
-    title: " Let My People Go Surfing"
+      乔纳德和弗罗斯特找到了一种替代硬钢钉的方法：用手楔入铝楔，保持岩石不变。两年后，乔纳德编辑了他的第一份产品目录，几个月内，就结束了钢岩钉业务；铝楔的销售速度超过了生产速度。乔纳德偶然发现了攀岩世界的新需要，他找到了一种方法，让自己和其他人喜欢的活动不造成环境破坏。.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4267-4295). Nelson Parker. Kindle Edition]
+    title: " 进化目标  让我们的人去冲浪"
 ---
