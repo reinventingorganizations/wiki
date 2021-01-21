@@ -101,24 +101,15 @@ theory:
       Frederic. Reinventing Organizations. Nelson Parker (2014), page 124,
       125]."
   - topic: Compensation and incentives
-    title: Salaries are self-initiated, calibrated by the advice given by an elected
-      salary committee, and if needed, using the conflict resolution process.
+    title: 薪酬与激励  薪酬数额由成员自我提议的，由选举产生的薪资委员会对此提出建议并进行校准，如果需要，还可以使用冲突解决流程来协调有反对意见的数额。
     content: >-
-      If you work at Morning Star, then once a year, along with all your
-      colleagues, you write a letter stating the raise in salary you believe to
-      be fair for yourself and why. In an uneventful year, you are likely to
-      stick with a cost-of-living adjustment. But if you feel you have taken on
-      more challenging roles or made special contributions, you can choose a
-      higher percentage. You back up the letter with the peer-based feedback you
-      received from your CLOU colleagues (the people with whom you concluded
-      one-on-one contracts a year earlier) and any relevant data on performance
-      indicators you are responsible for.
+      在晨星工作的所有成员，会一年一次，跟所有的同事一样，自发的写一封信，阐明自己认为应该给自己的公平加薪数额以及原因。在波澜不惊的一年里，你可能会只作些生活成本调整。但如果觉得自己承担了更具挑战性的角色或做出了特殊贡献，就可以选择更高的加薪比例。成员将从自己的CLOU同事（成员在一年前与之签订一对一合同的人）那里收到基于同事的反馈意见，与被反馈者所负责工作的绩效指标相关的所有数据备份，也会作为附件放在反馈中。
 
 
-      You then share your letter with a handful of colleagues that were elected into a compensation committee (there is one such committee in each of the company’s four locations). The committee’s job is to review all the letters it receives, calibrate them, and provide feedback. It might tell you that you’ve been too humble about your accomplishments and that you should consider going for a bigger raise. Or it might tell you that, in comparison to your peers, the salary increase you granted yourself seems on the high side. The committee has only advisory power and cannot impose its decision, but the process to set salaries is understood to be part of Morning Star's "Gaining Agreement" process. If you choose to ignore the committee's advice for you to lower your salary raise, the committee can choose to enter into the Gaining Agreement process (a [conflict resolution process](../conflict-resolution/)) with you to create a space and time to explore in more depth where your and the committee’s assessments diverge and to help you and the committee reach agreement.
+      然后，成员将自己收到的信分享给少数被选入薪酬委员会的同事（公司在四个物理地点各有一个这样的委员会）。委员会的工作是审查收到的所有信件，进行校准并提供反馈。这个小组反馈可能会告诉某人，你对自己的成就过于谦虚，你应该考虑加薪。或者也可能会告诉某人，与你的同事相比，你给自己的加薪似乎偏高。该委员会只有咨询权，不能强行作出决定，但据了解，定薪流程是晨星“达成一致”流程的一部分。如果你选择无视委员会建议你降低加薪的建议，委员会可以选择启动一个与成员达成一致意见的流程（[冲突解决流程](https://cn.reinventingorganizationswiki.com/theory/conflict-resolution/)），创造一个空间和时间，来更深入地探讨该成员和委员会的评估分歧，帮助成员和委员会之间达成协议。
 
 
-      Morning Star’s experience is that people prove to be remarkably skillful at assessing a fair compensation for themselves. In any given year, roughly a quarter of people choose salary increases above the cost-of-living adjustment. Only a handful of people throughout the company receive feedback that they might have aimed too high. ^[Gary Hamel, “First, Let’s Fire All the Managers,” Harvard Business Review, December 2011, [http://hbr.org/2011/12/first-lets-fire-all-the-managers](https://hbr.org/2011/12/first-lets-fire-all-the-managers). and interviews Frederic Laloux at Morning Star Self-Management Institute.]
+      晨星的经验和事实证明，人们非常善于为自己评估公平的薪酬。在任何一年，大约有四分之一的人会选择高于生活费调整的加薪。但全公司只有少数人收到认为他们的加薪目标可能过高的反馈。^[Gary Hamel, “First, Let’s Fire All the Managers,” Harvard Business Review, December 2011, [http://hbr.org/2011/12/first-lets-fire-all-the-managers](https://hbr.org/2011/12/first-lets-fire-all-the-managers). and interviews Frederic Laloux at Morning Star Self-Management Institute.]
   - topic: Purchasing and Investments
     title: Morning Star implemented a strong performance evaluation process, which
       includes a view on the effectiveness of using company resources and an
