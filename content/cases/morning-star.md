@@ -120,7 +120,7 @@ theory:
       1. 个人不得使用武力或胁迫他人劳动。
       2. 个人应当信守承诺。
   - topic: Ownership
-    title: A privately held company grows without diluting its ownership.
+    title: 股东  一家在不稀释所有权的情况下成长的私营公司。
     content: Chris Rufer founded Morningstar in 1970 and to this day owns 100% of
       the company and is its sole board member. Recognizing the potential
       hazards of having partners who might not unconditionally support his
