@@ -115,7 +115,7 @@ theory:
     content: 在[晨星](https://www.morningstarco.com/)，每年1月，每个团队都会向一组同事提交一份自我评估报告，该小组包括创始人兼总裁克里斯•鲁弗（chrisrufer）和其他愿意加入的人。团队坦率地谈论在过去一年业务中哪些进展顺利，哪些进展不顺利，是如何有效利用公司资源的，以及明年计划做什么。这不是一个肤浅的努力；每一个演示都会持续几个小时，团队会收到来自同事的挑战性的、有时是盘问性的提问。在这一个月期间，所有的团队都会做演讲；表现不好的团队会从同事那里得到很多意见，并且觉察到有功课要做了。^\[Laloux,
       Frederic. Reinventing Organizations. Nelson Parker (2014), page 125]
   - topic: Fundamental Assumptions
-    title: Two core beliefs about workers and responsibilities.
+    title: 基本假设  关于员工和责任的两个基本信念。
     content: |-
       1. Individuals shall work with no use of force or coercion.
       2. Individuals shall keep commitments.
