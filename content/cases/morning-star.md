@@ -79,20 +79,9 @@ theory:
 
       重点是岗位适配和组织适配。组织适配的一个关键点是对学习热情。
   - topic: Commitment, Working Hours and Flexibility
-    title: Each colleague at Morning Star has a work schedule commitment.
-    content: The work schedule commitment captures how many hours a person can
-      commit to work during low and high season (when the tomatoes are harvested
-      and processed), providing a clear basis on which colleagues can discuss
-      and manage their time collectively whilst still fulfilling the
-      organization’s purpose. The work schedule commitment is captured in
-      [Morning Star](https://www.morningstarco.com/)’s colleague letter of
-      understanding or CLOU, which also includes a personal mission statement
-      and detailed information about the roles a person currently commits to, as
-      well as improvements they hope to make. This more formal way of capturing
-      commitment plays to Morning Star's need for continuous improvement to
-      increase efficiency as it is essentially a low-margin, commodity
-      business^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker
-      (2014), page 182-183].
+    title: 工作承诺、工作时间与弹性化  晨星的每个同事都有一个工作时间表。
+    content: 工作时间表的承诺，记录了一个人分别在淡季和旺季（西红柿收获和加工季节）可以承诺的工作小时数，这个信息提供了明确的基础，让同事们可以在实现组织目标的同时，能共同讨论和管理大家的时间。工作进度承诺内容参见[晨星](https://www.morningstarco.com/)的同事谅解书或CLOU，其中还包括一份个人使命声明和一个人目前所承担岗位角色的详细信息，以及他们希望做出的改进。这是一种更为正式的分享并获取同事承诺的方式，满足了晨星不断改进以提高效率的需要，因为这个行业本质上是一种低利润的商品业务。^\[Laloux,
+      Frederic. Reinventing Organizations. Nelson Parker (2014), page 182-183].
   - topic: Objectives and Target Setting
     title: In Morning Star, colleagues give each other an undertaking to deliver
       certain volumes, since each section is dependent on the output of the
