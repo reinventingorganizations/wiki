@@ -68,31 +68,16 @@ theory:
 
       最后一步，创始人兼总裁克里斯•鲁弗（chrisrufer）可以被召入该小组，以进一步加强该小组的道德分量。由于分歧是私下的，因此各方应在谈判过程中和谈判结束后遵守保密规定。当然，这一保密规定也适用于冲突的两个核心人物。他们必须自行解决彼此之间的分歧，不鼓励通过争取支持和建立敌对派系等方式来蔓延冲突。
   - topic: Recruitment
-    title: Recruitment in Morning Star is a very demanding process, generally
-      including a multitude of interviews and a battery of diagnostics.
-    content: "Chris Rufer, the founder of Morning Star, estimates that, on average,
-      it takes a new associate a year or more to become fully functional in the
-      self-management environment. When the company was smaller, Chris Rufer
-      spent half a day interviewing every prospective employee, usually in the
-      candidate’s home. The bulk of the conversation focused on assessing the
-      fit between Morning Star’s philosophy and the applicant’s expectations.
-      Today every potential hire gets a two-hour introduction to self-
-      management and is interviewed by 10 to 12 Morning Star colleagues. Even
-      then, mistakes happen. Paul Green Jr., co-founder,  estimates that as many
-      as 50% of seasoned hires leave within two years because they have a hard
-      time adapting to the self management system. \r
+    title: 招聘  晨星的招聘是一个非常苛刻的过程，通常包括大量的面试和一系列的评估。
+    content: >-
+      晨星公司的创始人克里斯•鲁弗估计，平均而言，一个新员工需要一年或更长时间的适应，才能在自我管理环境中充分发挥作用。公司规模较小时，克里斯·鲁弗（Chris
+      Rufer）会花半天时间面试每一位未来的员工，通常是在应聘者家里面试。大部分的谈话集中在评估晨星的理念与申请人的期望之间的契合度。如今，每位潜在员工都会接受两小时的自我管理概念介绍，并接受10到12位晨星同事的面试。即使这样，错误还是会发生。联合创始人保罗格林（paulgreen）估计，多达50%的经验丰富的员工在两年内离职，因为他们很难适应自我管理体系。
 
-      \r
 
-      A colleague who wants to expand a Business Unit’s pay-roll must sell
-      the idea to his or her peers, who will ask for a job description and a
-      business case. If there’s a consensus to move ahead, the mechanics of
-      recruiting will get turned over to an in-house specialist.\r
+      想要扩充业务部门成员人数的同事，必须将此想法推销给团队同事，大家会要求倡议者提供具体招聘岗位的工作描述和商业案例。如果大家一致同意则继续推进，将招聘的实施交给团队内部专家。
 
-      \r
 
-      Emphasis is on fit for role and fit for the organization.  A major
-      point in fit for organization is passion for learning."
+      重点是岗位适配和组织适配。组织适配的一个关键点是对学习热情。
   - topic: Commitment, Working Hours and Flexibility
     title: Each colleague at Morning Star has a work schedule commitment.
     content: The work schedule commitment captures how many hours a person can
