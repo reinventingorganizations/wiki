@@ -129,8 +129,7 @@ theory:
   - topic: Dismissal
     title: 解雇  解雇可以由任何个人发起，在需要时，可以使用冲突解决流程。
     content: >-
-      在[晨星](http://www.morningstarco.com/)，这个流程与[布尔佐格](http://www.buurtzorgnederland.com/)使用的流程几乎相同。但不同点是，在晨星，流程是由个人而不是团队来发起。晨星将解雇视为冲突的最后一步，因此使用[冲突解决](https://cn.reinventingorganizationswiki.com/theory/conflict-resolution/)机制来处理这种情况。当一个人要求另一个人离开组织时，就启动了这个流程。假设有人发现某个同事从根本上违背了公司的价值观（比如该人未征求同事的建议[](https://cn.reinventingorganizationswiki.com/theory/decision-making/)就做出了一个重要的[决定](https://cn.reinventingorganizationswiki.com/theory/decision-making/)），或者某个同事一次又一次地不履行工作[承诺](<https://cn.reinventingorganizationswiki.com/theory/commitment-working-hours
-      and-flexibility/>)，尽管此前曾多次尝试过改善这种状况，但没有好转。这时她就可以启动冲突解决流程，要求该同事辞职。如果被请求离开的人不同意辞职，则启动由四个阶段组成的冲突解决流程：
+      在[晨星](http://www.morningstarco.com/)，这个流程与[布尔佐格](http://www.buurtzorgnederland.com/)使用的流程几乎相同。但不同点是，在晨星，流程是由个人而不是团队来发起。晨星将解雇视为冲突的最后一步，因此使用[冲突解决](https://cn.reinventingorganizationswiki.com/theory/conflict-resolution/)机制来处理这种情况。当一个人要求另一个人离开组织时，就启动了这个流程。假设有人发现某个同事从根本上违背了公司的价值观（比如该人未征求同事的建议[](https://cn.reinventingorganizationswiki.com/theory/decision-making/)就做出了一个重要的[决定](https://cn.reinventingorganizationswiki.com/theory/decision-making/)），或者某个同事一次又一次地不履行[工作承诺](https://cn.reinventingorganizationswiki.com/theory/commitment-working-hours-and-flexibility/)，尽管此前曾多次尝试过改善这种状况，但没有好转。这时她就可以启动冲突解决流程，要求该同事辞职。如果被请求离开的人不同意辞职，则启动由四个阶段组成的冲突解决流程：
 
 
       在第一阶段，他们坐在一起，试图解决这个分歧。在讨论中，被要求离开的人可以提出恢复信任的方法。或许他已经发现，自己已经无法挽回的失去了同事们的信任，最好选择去别处找工作。
