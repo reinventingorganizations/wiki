@@ -35,21 +35,19 @@ theory:
       在巴塔哥尼亚，招聘是通过同事的缓慢面试过程，尽可能多地评估内在素质来进行的。
   - topic: Environmental and Social Management
     content: >-
-      [Patagonia ](http://www.patagonia.com/)embraced reduction of their
-      environmental foot-print ― even at the risk of negative impact to the
-      bottom line. Yvon Chouinard, Patagonia’s founder, gives this example:
+      [巴塔哥尼亚](http://www.patagonia.com/)即使冒着对财务底线造成负面影响的风险，也要减少组织的环境足迹。巴塔哥尼亚的创始人伊冯·乔纳德举了一个例子：
 
 
-      "In the mid-nineties, we decided to change the packaging of our thermal underwear. We were using a thick, wraparound cardboard header inside a heavy Ziploc plastic bag... For the heavier-weight expedition underwear, we decided to go without any packaging at all and hang them up like regular clothing... For the underwear made of lighter-weight material, we just rolled them up and put a rubber band around them. We were warned to be prepared for a 30 percent cut in sales... we were competing with companies...extremely competitive with their packaging... We did it anyway because it was the right thing to do. The first year this practice kept twelve tons of material from being shipped around the world... and being dumped into landfills... it saved the company $150,000 in unnecessary packaging... (and) brought us a 25 percent increase in thermal underwear sales. Since they weren’t hidden away in a package and had to be displayed like the regular clothing, people could feel the material and appreciate the quality. And since they were displayed like the other clothes, we were forced to make our underwear look like regular clothing, to the point that now most Capilene underwear tops can be worn as a regular shirt, fulfilling our goal of making clothes that are multifunctional."
+      “90年代中期，我们决定改变保暖内衣的包装。当时用的是一种厚厚的、内配环绕纸板头的沉重的拉链塑料袋。。。我们决定对于较重的户外探险内衣取消包装，像普通衣服一样挂起来买。。。对于用较轻材料制成的内衣，也只是把它们卷起来，在它们周围束一条橡皮筋。有人警告我们要做好减价30%的准备。。。我们正在与其他公司竞争…他们的包装极具竞争力。。。不管怎样，我们这样做是因为感到应该如此。第一年，这种做法避免了12吨运往世界各地的包装材料。。。被丢进垃圾填埋场。。。这为公司节省了15万美元的不必要包装费。。。并使我们的保暖内衣销售量增加了25%。因为它们不被藏在一个包裹里，而是像普通的衣服一样展示，人们可以感觉到其材料并欣赏其质地。由于内衣和其他衣服一样陈列，我们被迫改进，让我们的内衣看起来像普通衣服，以至于现在大多数卡皮琳内衣上衣，都可以作为普通衬衫穿，无意中实现了我们制作多功能衣服的目标。”
 
 
-      Most strikingly, [Patagonia ](http://www.patagonia.com/)resolved in the summer of 1994 to replace all conventionally grown cotton with organic cotton... The raw material cost three times more, and the cotton product line was reduced from 91 styles to 66. It was a big risk. And yet Patagonia felt there was no alternative... cotton fields that covered only three percent of the world’s farmland were responsible for 10 percent of the worldwide use of pesticide and 25 percent of the use of insecticides. Against all expectations, Patagonia’s organic cotton program turned out to be financially beneficial. More importantly, it has convinced others in the industry to follow suit.
+      最引人注目的是，[巴塔哥尼亚](http://www.patagonia.com/)1994年夏天决定用有机棉花取代所有传统种植的棉花。。。原材料成本提高了三倍，棉花生产线从91个款式减少到66个款式。这是一个很大的风险。但巴塔哥尼亚觉得别无选择。。。仅占世界农田3%的棉田占全球农药使用量的10%，杀虫剂使用量的25%。与所有人的预测相反，巴塔哥尼亚的有机棉花项目的最终结果证明，这个决策在经济上也是有益的。更重要的是，这个举措说服了业内其他公司竞相效仿。
 
 
-      When the company moved its warehouse from California to Nevada, many colleagues moved too. Some realized that Nevada has lots of wild country and federal land, but very little of it was protected as wilderness. Four employees took the initiative. They got support from company leaders in the form of salries and facilities. They built a broad coalition, went to Washington, and lobbied. As a result, 1.2 million acres of wilderness were protected. ^\[Source: Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), pages 160-172]
+      当公司把仓库从加州搬到内华达州时，许多同事也跟着搬来了。于是一些人意识到内华达州有很多荒野和联邦土地，但很少有得到荒野保护。4名员工主动出击。他们得到了公司领导以礼堂和设施的形式提供的支持。他们建立了一个广泛的联盟，去华盛顿游说。因此，120万英亩的荒野得到了保护。^\[Source: Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), pages 160-172]
     title: 环境与社会责任  环境和社会责任项目倡议，可以从该组织的任何地方被启动。令人惊讶的是，他们发现围绕组织的价值观行事，并不会损害财务业绩——事实上，恰反而有益于财务增长。
   - topic: Ownership
-    title: A privately held company formalizes its practices.
+    title: 股东  一家主动将业务流程正规化的私人控股公司。
     content: Patagonia, the outdoor apparel maker, is 100% owned by its founder,
       Yves Chouinard and his wife.^[Patagonia's Founder Is America's Most
       Unlikely Business Guru; Wall St. Journal Magazine; April 26, 2012] Mr.
