@@ -193,7 +193,15 @@ intro: >-
 
 
   **Please [leave your feedback](https://docs.google.com/forms/d/e/1FAIpQLSeKJ9e_35o57wtjr5F2NrlptK1ULTCawjJqSqOxNdvQ1lWFzA/viewform?c=0&w=1) regarding the usefulness of the wiki, in order for the voluntary team to improve it over time!**
-perspective: remove
-inPractice: remove
+perspective: ""
+inPractice: ""
+faq:
+  - question: Where can I find more trusted sources of information about Teal ?
+    answer: >-
+      A precious list of sources (articles, podcasts, videos) can be found in
+      this page of Enlivening Edge Magazine
+      <https://www.enliveningedge.org/understanding-teal/>
+
+
+      Another great source is the [video series "Insights for the Journey"](https://thejourney.reinventingorganizations.com/videos.html). This is a structured website where Frédéric Laloux shares insights that emerged for him after the book came out, through conversations.
 ---
-remove
