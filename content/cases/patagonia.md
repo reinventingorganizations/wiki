@@ -53,21 +53,14 @@ theory:
       26, 2012]
       因此，伊冯·乔纳德先生可以对巴塔哥尼亚为所欲为，这毫无疑问的给了他很大的自由，可以引导公司进入蔚蓝组织模式。不过，有趣的是，巴塔哥尼亚在获得福利公司地位认证方面遇到了麻烦。这可能是因为乔纳德希望给公司一些保护，使其免受未来潜在所有者的侵害，也可能是为了做出象征性姿态（榜样）。巴塔哥尼亚后来更进一步，在2012年初成为第一家获得“B公司认证”的加州公司（虽然经常被混淆，“福利公司”和“B公司”并不相同）。B公司认证是一种私人认证，由B实验室（一家全球非营利组织）颁发给一些“经验证全面符合社会和环境责任、公共透明度和法律责任”标准的公司。^\[<https://www.bcorporation.net/what-are-b-corps/about-b-lab>]
   - topic: wholeness
-    title: Children in Meetings
-    content: "At its headquarters in Ventura, California, Patagonia hosts a Child
-      Development Center for employees’ children, from a few months up to
-      kindergarten age. Children’s laughter and chatter are among the regular
-      sounds at the office, coming from the playground outside, from children
-      visiting their parents’ desks, or from kids joining parents and colleagues
-      for lunch at the cafeteria. It is not uncommon to see a mother nursing her
-      child during a meeting. Relationships change subtly but profoundly when
-      people see each other not only as colleagues, but also as people capable
-      of the profound love and care young children inspire. When colleagues have
-      just played with a baby over lunch, it’s that much harder to fly at each
-      other’s throats when they sit in a meeting.^[Laloux, Frederic
-      (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations
-      Inspired by the Next Stage of Human Consciousness (Kindle Locations
-      3191-3196). Nelson Parker. Kindle Edition.]"
+    title: 完整人性 孩子们可以被代入会场
+    content: "巴塔哥尼亚总部位于加利福尼亚州的文图拉，为员工的子女设立了一个儿童发展中心，接纳从几个月到幼儿园年龄的儿童。孩子们的笑声和叽叽喳喳声是办公\
+      室里经常听到的声音，包括外面的操场，父母办公桌旁陪伴的孩子，或者孩子们和父母、同事一起在自助餐厅吃午饭之处。在会议上看到一位母亲在照顾她的孩子并不\
+      罕见。当人们不仅把彼此视为同事，而且把彼此视为能够深爱并照顾彼此幼儿的伙伴时，人际关系会发生微妙而深刻的变化。当同事们刚刚在午餐时间和一个婴儿玩耍\
+      后，坐在一起开会的时候，就很难互相撕咬对方的喉咙了。^\\[Laloux, Frederic (2014-02-09). Reinventing
+      Organizations: A Guide to Creating Organizations Inspired by the Next
+      Stage of Human Consciousness (Kindle Locations 3191-3196). Nelson Parker.
+      Kindle Edition.]"
   - topic: Evolutionary Purpose
     content: >-
       Yvon Chouinard, the founder and owner of Patagonia, didn’t set out to
