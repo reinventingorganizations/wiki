@@ -44,22 +44,10 @@ theory:
   - topic: Recruitment
     title: 招聘  桑楚的创始人塔米·西蒙（Tami Simon）讲述了以下关于该组织的特殊文化，以及人们融入或不融入的故事：
     content: >-
-      One of the things I’ve found out at [Sounds
-      True](https://www.soundstrue.com/) is in the first three months of
-      employment a lot of the people don’t stay. … Sounds True, people want to
-      get to know who you are, they want you to be real, they don’t want you to
-      wear forty masks to work. It’s like―will the real person please stand up?
-      There is this sense of authenticity; who we are when we are not at work is
-      who we are when we are at work. That’s the kind of environment that’s here
-      and of course we try to screen for this and let people know before they
-      take the job, and a lot of people go “Oh I’m totally ready for that.  I’m
-      interested in that, that’s what I want.”  But then they come in and may or
-      may not be comfortable actually working in that kind of environment where
-      people when they stop in the hallway and ask “How are you doing?” actually
-      mean it! "How 'are' you doing?". 
+      我在[桑楚](https://www.soundstrue.com/)发现了一个现象：在就业的头三个月，很多人都选择不留下来。……桑楚的人们想知道你是谁，他们希望你是真实的，他们不希望你戴着40个面具去工作。仿佛邀请说“请真人站出来好吗？”这是一种诚实感；我们在工作之外的身份，与在工作时候的身份，完全一致（，没有双重身份面具）。这就是我们所处的环境，我们努力试着筛选这个角度的适配性，让人们在接受这份工作之前就知道这些特点。很多人入职前会说“哦，我完全准备好了。我对此很感兴趣，这正是我想要的。”但是当他们入职后，可能会觉得在这种环境中工作很舒服，也可能感到不舒服--人们会在走廊里停下来问“你好吗？”并且意味着想让你“说真话的！”你真的好吗。
 
 
-      Listen to the interview by clicking hereː [here](https://www.optimize.me/)
+      [点击这里收听采访](https://www.optimize.me/)。
   - topic: Feedback and Performance Management
     title: "Sounds True has a three step appraisal process that turns an appraisal
       discussion into an experience of genuine inquiry and celebration. "
