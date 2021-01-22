@@ -17,61 +17,30 @@ theory:
       塔米说，“直觉基本上就是我的全部存在。”她跟随一位名叫雷吉·雷的冥想老师学习。雷吉从自己的老师哪里学会如何“阅读征兆”，并把这些教导传给了塔米。“这是一种艺术形式，也是一种天赋的生存技能。如果你在打猎，你会注意那些痕迹。我们就是这样挑选项目的。我们看直觉带来的征兆。有多少人在谈论它？对于一个特定的作者，我们有多少个请求？我们对这个项目的内心感受是什么？这一点也很重要，公司内部问题也会通过“觉察征兆”来发现。…塔米发现有一个练习对激发灵感很有用，那就是视觉化练习。她描述了这个过程：“你想象自己进入地球的中心，进入水中，并把它们带到地表。于是，新的想法就会神奇出现。视觉化使健谈的头脑平静下来，并为愿景信息的浮现创造了呈现空间。”^\[ Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4413-4424). Nelson Parker. Kindle Edition.]
     title: 聆听目标  “直觉基本上是我的整个存在”
   - topic: Team and Community Building
-    title: At Sounds True, a bell rings everyday at 8:30 a.m.
-    content: >-
-      **Example for Silence**
+    title: 团队与社区建设  在桑楚，每天8:30都会响铃引导集体冥想。
+    content: |-
+      **静默案例**
 
-
-      At [Sounds True](http://www.soundstrue.com/) mployees can join a 15-minute group meditation or simply sit in silence at their desk for those minutes.
+      在[桑楚](http://www.soundstrue.com/)工可以参加15分钟的集体冥想，也可以在办公桌前静坐几分钟。
   - topic: Mood Management
-    title: At Sounds True members of the organization came up with two ideas for
-      Wholeness Events. These promote a mood of fun, trust, wholeness and
-      excitement. The events called “Art Salon” and “Pajama Day”. They have
-      become annual events.
-    content: "Five years ago, a colleague at Sounds True took it upon herself to
-      organize an “Art Salon” on a Friday afternoon. Everyone was invited to
-      share an artistic passion with his or her colleagues. Walls throughout the
-      office were filled with photographs and paintings.\r
+    title: 情绪管理  在桑楚，组织中的成员对促进整体性的活动提出了两个想法。这些可以打造一种快乐、信任、完整和兴奋的情绪。这些活动被称为“艺术沙龙”和“睡衣日”。目前已成为年度活动。
+    content: >-
+      五年前，桑楚的一位同事在一个星期五下午组织了一次“艺术沙龙”。邀请每个人参加，与同事分享艺术激情。整个办公室的墙上都挂满了照片和画。
 
-      \r
 
-      A small stage was erected for performance. Some chose to sing (some
-      songs about life in the company were particular hits), others juggled or
-      danced. It was so popular that the salon became an annual event. Tami
-      Simon, the company founder, wasn’t involved in setting up the first salon,
-      but she sees that it has become an important element in the company
-      culture: \"I realized these events are saying to people, “You get to be a
-      whole person. This part of you, it may not fit to do it as part of your
-      job every day. … But the fact that you can now juggle five balls is
-      actually cool. And one Friday afternoon, we want to sit back and have a
-      glass of wine and watch you do this and acknowledge this part of you.”\r
+      搭建了一个用语表演的小舞台。一些人选择唱歌（一些关于公司生活的歌曲特别流行），另一些人则选择玩杂耍或跳舞。这活动如此受欢迎，乃至沙龙已经成为一个年度活动。公司创始人塔米·西蒙（Tami Simon）没有参与或指导创办第一家沙龙。但她看到，沙龙已经成为公司文化中的一个重要元素：“我意识到这些活动是在对人们说，‘你要成为一个完整的人。你的某些部分，可能不适合每天作为工作的一部分来表达。……但你现在能玩五个球的事实，其实很酷。在一个星期五下午，我们想坐下来喝杯酒，看着你这样做，承认并颂扬你人性的这个部分。”
 
-      \r
 
-      For reasons by now half-forgotten, someone suggested \"Pajama Day\"
-      as a celebration of the arrival of spring.  Everyone who wanted to join
-      would share breakfast at the office … in pajamas. The handful that showed
-      up had so much fun during breakfast that they decided to keep their
-      pajamas on at work the rest of the day.\r
+      另一个是，有人建议把“睡衣日”作为庆祝春天到来的节日，现在已经快要遗忘了当时的起因。每个想加入的人都会穿着睡衣在办公室分享早餐。出现在集体早餐的几个成员得很开心，于是他们决定，在一天剩下的时间里继续穿着睡衣上班。
 
-      \r
 
-      Since then, the event has taken place every year. Now 90 percent of
-      the employees show up in pajamas, and a prize is given for the best
-      outfit. (A matching set of pajamas for master and dog shared the prize
-      once.)\r
+      从那时起，这项活动每年都举行。现在，当天会有90%的员工穿着睡衣出现，最佳服装还能获得奖励。（主人和狗的配套睡衣分享过一次奖品。）
 
-      \r
 
-      It has become an event people look forward to and prepare for. In
-      its own quirky way, “Pajama Day” is a storytelling event―every pair of
-      pajamas represents a story waiting to say something about the person
-      wearing them: What made you choose that outfit?\r
+      这个活动已经成为成员期待并提前准备的一个活动。“睡衣日”以其独特的方式讲述了一个故事——每一件睡衣都代表着一个故事，等待着对穿睡衣的人说些什么：是什么让你选择了那套衣服？
 
-      \r
 
-      Wearing a professional mask at work is decidedly more difficult when
-      everyone strolls around in funny sleepwear."
+      当每个人都穿着滑稽的睡衣在办公室里闲逛时，再戴上职业面具显然更难。
   - topic: Recruitment
     title: "Tami Simon, the founder of Sounds True, tells the following story about
       its particular culture and how people may or may not fit in:"
