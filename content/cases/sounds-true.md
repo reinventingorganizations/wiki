@@ -73,10 +73,10 @@ theory:
       Locations 3182-3190). Nelson Parker. Kindle Edition.]
 
 
-      A number of years ago, a colleague at Sounds True took it upon herself to organize an “Art Salon” on a Friday afternoon. Everyone was invited to share some artistic passion with his or her colleagues. Walls throughout the office were filled with photographs and paintings. A small stage was erected for people to perform. Some colleagues chose to sing (some songs composed about life in the company were particular hits), others juggled or danced tango. People enjoyed themselves so much that the salon has turned into an annual event. Tami wasn’t involved in setting up the first salon, but she sees that it has become an important element in the company culture:
+      几年前，桑楚的一位同事在一个星期五下午组织了一次“艺术沙龙”。邀请每个人参加，与同事分享艺术激情。整个办公室的墙上都挂满了照片和画。搭建了一个用语表演的小舞台。一些人选择唱歌（一些关于公司生活的歌曲特别流行），另一些人则选择玩杂耍或跳探戈。人们玩得很开心，乃至沙龙已经成为一个年度活动。公司创始人塔米·西蒙（Tami Simon）没有参与或指导创办第一家沙龙。但她看到，沙龙已经成为公司文化中的一个重要元素：
 
 
-      *I realized these events are saying to people, “You get to be a whole person. This part of you, it may not fit to do it as part of your job every day. … But the fact that you can now juggle five balls is actually cool. And on a Friday afternoon, we want to sit back and have a glass of wine and watch you do this and acknowledge this part of you.” That is part of what I think makes people feel \[that that] the wholeness of who they are is actually welcome. Because we do welcome it, we want to see it.*^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3544-3553). Nelson Parker. Kindle Edition.]
+      *“我意识到这些活动是在对人们说，‘你要成为一个完整的人。你的某些部分，可能不适合每天作为工作的一部分来表达。……但你现在能玩五个球的事实，其实很酷。在一个星期五下午，我们想坐下来喝杯酒，看着你这样做，承认并颂扬你人性的这个部分。”我认为对这个人性侧面的接纳，可以让人们感觉到自己的完整人性其实很受欢迎。因为我们欢迎这些完整人性，所以我们希望看到成员（工作表达之外的）完整人性的表达。*^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3544-3553). Nelson Parker. Kindle Edition.]
     title: 完整人性  进入办公室的狗与艺术沙龙
   - topic: Evolutionary Purpose
     content: >-
