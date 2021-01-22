@@ -49,21 +49,19 @@ theory:
 
       [点击这里收听采访](https://www.optimize.me/)。
   - topic: Feedback and Performance Management
-    title: "Sounds True has a three step appraisal process that turns an appraisal
-      discussion into an experience of genuine inquiry and celebration. "
+    title: 反馈与业绩管理  桑楚有个三步评估过程，将业绩评估转化为真正的探究和庆祝体验。
     content: >-
-      [Sounds True](https://www.soundstrue.com/) has a three step appraisal
-      process:
+      [桑楚](https://www.soundstrue.com/)的业绩评估过程分为三步：
 
 
-      * In phase 1, employees reflect on their performance and aspirations based on a list of questions to trigger thinking.
+      * 第一阶段，员工们根据一系列提问来反思自己的表现和愿望，从而引发思考。
 
-      * In phase 2, the practice starts with a minute of silence where colleagues are asked to hold the person receiving feedback in their hearts and try to let go of any form of judgement. Then, in turn, each person sits in front of their colleague and talks openly about what they most value in their colleague and reflect on one area where they think they could grow.
+      * 第二阶段，反馈从一分钟静默开场，要求同事们把接受反馈的人放在真心里，努力放弃任何形式的评判。然后，每个人都轮流坐在被评估的同事面前，公开谈论最看重该同事的哪个方面，并给出认为该同事仍有发展空间（需要改进）的一个方面。
 
-      * Finally in phase 3, the employee and a colleague reflect on the feedback through a deeper conversation to learn and decide what happens next.
+      * 第3阶段，被评估者和一位同事通过深入的对话对反馈内容进行反思，获得智慧决定接下来怎么办。
 
 
-      Feedback about how individuals can improve is given in the natural course of events throughout the year and not saved up for the annual appraisal.^[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 183]
+      关于个人有待改进内容的反馈，是在全年的工作过程中自然给出的，而不是留在年度评估阶段集中进行。^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 183]
   - topic: Ownership
     title: An example of outside investors compatible with Teal
     content: "Through careful selection of investors, Tami Simon has been able to
