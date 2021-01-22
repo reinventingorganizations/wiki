@@ -3,39 +3,19 @@ layout: case
 tags: cases
 name: 桑楚(Sounds True)
 date: 2020-11-09
-introduction: "**Sounds True** is a multimedia publishing company founded in
-  1985 by Tami Simon, with the mission of disseminating spiritual wisdom. The
-  company is based in Louisville, Colorado, near Boulder, Colorado."
-industry: Healthcare
-geography: USA
+introduction: "**桑楚**是一家多媒体出版公司，由塔米·西蒙于1985年创立，其使命是传播精神智慧。该公司位于科罗拉多州路易斯维尔，靠近科罗拉多州博尔德。"
+industry: Q.健康、社会服务
+geography: 美国
 companySize: 1-100
-profit: Profit
+profit: 营利组织
 theory:
   - topic: Listening to Purpose
-    content: "Tami Simon, the founder of Sounds True, has found that spiritual
-      practices have helped her develop her intuitive capacities, which she
-      believes serves her well in her business:\r
+    content: >-
+      塔米·西蒙是桑楚的创始人，她发现精神实践帮助她发展了直觉能力，并认为这对她的事业很有帮助：
 
-      \r
 
-      “Intuition is basically my entire existence,” Tami states. She
-      studies with a meditation teacher named Reggie Ray. Reggie’s teacher
-      taught him how to “read the signs” and Reggie passed these teachings on to
-      Tami. “It’s an art form and an indigenous survival skill. If you were on a
-      hunt, you would watch for the tracks. That’s how we pick projects. We read
-      the signs. How many people are talking about it? How many requests do we
-      get for a particular author? And what are our inner feelings about the
-      project? That’s very important, too.” The company “reads the signs” for
-      internal issues as well. … One exercise that Tami finds useful for tapping
-      into inspiration is a visualization exercise. She describes the process:
-      “You visualize yourself going into the center of the Earth to tap into
-      fresh waters and bring them to the surface. It’s weird; totally new ideas
-      just emerge. The visualization calms down the chatty mind and creates the
-      space for vision to come forward.”^[ Laloux, Frederic (2014-02-09).
-      Reinventing Organizations: A Guide to Creating Organizations Inspired by
-      the Next Stage of Human Consciousness (Kindle Locations 4413-4424). Nelson
-      Parker. Kindle Edition.]"
-    title: “Intuition is basically my entire existence”
+      塔米说，“直觉基本上就是我的全部存在。”她跟随一位名叫雷吉·雷的冥想老师学习。雷吉从自己的老师哪里学会如何“阅读征兆”，并把这些教导传给了塔米。“这是一种艺术形式，也是一种天赋的生存技能。如果你在打猎，你会注意那些痕迹。我们就是这样挑选项目的。我们看直觉带来的征兆。有多少人在谈论它？对于一个特定的作者，我们有多少个请求？我们对这个项目的内心感受是什么？这一点也很重要，公司内部问题也会通过“觉察征兆”来发现。…塔米发现有一个练习对激发灵感很有用，那就是视觉化练习。她描述了这个过程：“你想象自己进入地球的中心，进入水中，并把它们带到地表。于是，新的想法就会神奇出现。视觉化使健谈的头脑平静下来，并为愿景信息的浮现创造了呈现空间。”^\[ Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4413-4424). Nelson Parker. Kindle Edition.]
+    title: 聆听目标  “直觉基本上是我的整个存在”
   - topic: Team and Community Building
     title: At Sounds True, a bell rings everyday at 8:30 a.m.
     content: >-
