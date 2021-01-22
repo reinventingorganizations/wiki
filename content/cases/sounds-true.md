@@ -42,8 +42,7 @@ theory:
 
       当每个人都穿着滑稽的睡衣在办公室里闲逛时，再戴上职业面具显然更难。
   - topic: Recruitment
-    title: "Tami Simon, the founder of Sounds True, tells the following story about
-      its particular culture and how people may or may not fit in:"
+    title: 招聘  桑楚的创始人塔米·西蒙（Tami Simon）讲述了以下关于该组织的特殊文化，以及人们融入或不融入的故事：
     content: >-
       One of the things I’ve found out at [Sounds
       True](https://www.soundstrue.com/) is in the first three months of
