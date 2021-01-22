@@ -67,29 +67,17 @@ theory:
     content: 塔米西蒙通过精心挑选投资者，成功的引进了外部股权资本，而不牺牲公司对蔚蓝实践和多重底线的承诺。这些投资者被视为其关键利益相关者之一：“我们致力于通过精心规划，通过将我们的利润重新投资于创新和增长，而提高企业的长期价值。”^\[<http://www.soundstrue.com/store/about-us/core-values>]
   - topic: wholeness
     content: >-
-      In the early days, Tami Simon, the founder and CEO of
-      <http://www.soundstrue.com> Sounds True, brought her dog along to the
-      office. When the business expanded and employees were hired, it didn’t
-      take long for some of them to ask if they too could bring their dogs to
-      work. Tami couldn’t think of a reason to refuse. Today it is not rare for
-      a meeting to take place with two or three dogs lying at people’s feet.
-      Something special happens within the presence of dogs, colleagues noticed.
-      Animals tend to ground us, to bring out the better sides of our nature.
-      The simple practice of petting a dog tends to soothe us, to reconnect us
-      to our body, and to calm down our spinning minds. And when it’s a
-      colleague’s dog we pet, or a colleague that pets ours, we subtly build
-      community. People found that the decision to open the company’s doors
-      didn’t only allow in dogs, but more human life as well.^\[Laloux, Frederic
-      (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations
-      Inspired by the Next Stage of Human Consciousness (Kindle Locations
-      3182-3190). Nelson Parker. Kindle Edition.]
+      在早期，[桑楚](http://www.soundstrue.com)的塔米赛蒙会把自己的狗带到办公室。企业扩张而聘用其他成员后，一些人没过多久就问，自己是否也能带狗上班。塔米想不出拒绝的理由。所以，在这里，两三条狗躺在人们脚边开会的情况并不少见。同事们注意到，有狗在场时，会发生一些神奇的事情。动物倾向于把我们的面具碾碎，展现成员天性中美好的一面。抚摸一只狗的简单做法，往往能抚慰我们，使我们与自己的身体重新连接起来，并使我们旋转嘈杂的头脑平静下来。当我们爱抚的是同事的狗，或者是同事爱抚我们的狗时，还巧妙地建立了社区感。人们发现，打开公司大门的决定，不仅允许了狗的进入，还允许了更多的人性进来。^\[Laloux,
+      Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating
+      Organizations Inspired by the Next Stage of Human Consciousness (Kindle
+      Locations 3182-3190). Nelson Parker. Kindle Edition.]
 
 
       A number of years ago, a colleague at Sounds True took it upon herself to organize an “Art Salon” on a Friday afternoon. Everyone was invited to share some artistic passion with his or her colleagues. Walls throughout the office were filled with photographs and paintings. A small stage was erected for people to perform. Some colleagues chose to sing (some songs composed about life in the company were particular hits), others juggled or danced tango. People enjoyed themselves so much that the salon has turned into an annual event. Tami wasn’t involved in setting up the first salon, but she sees that it has become an important element in the company culture:
 
 
       *I realized these events are saying to people, “You get to be a whole person. This part of you, it may not fit to do it as part of your job every day. … But the fact that you can now juggle five balls is actually cool. And on a Friday afternoon, we want to sit back and have a glass of wine and watch you do this and acknowledge this part of you.” That is part of what I think makes people feel \[that that] the wholeness of who they are is actually welcome. Because we do welcome it, we want to see it.*^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3544-3553). Nelson Parker. Kindle Edition.]
-    title: Dogs and Art Salons
+    title: 完整人性  进入办公室的狗与艺术沙龙
   - topic: Evolutionary Purpose
     content: >-
       For Tami Simon, founder of Sounds True, purpose came before business:
