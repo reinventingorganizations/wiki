@@ -80,17 +80,15 @@ theory:
     title: 完整人性  进入办公室的狗与艺术沙龙
   - topic: Evolutionary Purpose
     content: >-
-      For Tami Simon, founder of Sounds True, purpose came before business:
+      对于桑楚创始人塔米赛蒙来说，目标优先于商务：
 
 
-      > *I’m kind of a strange person in a certain way. I dropped out of college because I didn’t feel like I actually could be myself in an academic environment. … I felt that in the academic environment I was being asked to pose as somebody who had answers to questions when instead I had experiences that I wanted to explore more deeply. … I went into a deep internal process where I prayed extremely hard and the prayer had to do with being of service. … The way I was thinking as a 20-, 21-year-old college dropout was, “Could I please be given the opportunity to take the talents that I have and all the gifts that I have been given by a very supporting and loving family and terrific opportunities for higher education … and give back in some way?” … The prayer was, “God, I’m willing to do your work. Please show me what it is. Please just show me what it is.”*
+      在某种程度上我是个奇怪的人。我从大学退学，是因为我觉得在学术环境中，我真的无法做自己。……我觉得在学术环境中，我被要求摆出一副对问题有答案的样子，而我却体验到一些吸引我想更深入去探索的东西。……我进入了一个探索内心深处的过程，我非常努力地祈祷，那些祈祷都与服务和奉献有关。……作为一个20岁、21岁的大学辍学者，我当时的想法是，“能不能给我一个回报社会的绝好机会，让我能发挥自己所拥有的才能，不浪费来自一个充满支持和爱心的家庭给我的所有礼物，并活用我接受的过高等教育……以某种方式回报社会。那祈祷是“上帝（源头），我愿意为你服务。请让我知道我的使命是什么。请直接让我知道我的使命是什么。”（译者曾经有过一个祈祷：源头，请把我锻造成一个对你而言好用的工具。）
 
-      >
 
-      > *This phrase “willing to do your work” was very important to me because I didn’t want to be willful. I didn’t want to insist that it had to go my way. At the same time I didn’t want to be will-less where I was simply waiting in a coffee shop to be discovered. …*
+      “愿意为源头服务”这句话，对我来说非常重要，因为我不想行使自由意志（不想服务于自我人格的目标）。我不想坚持要按人格之我的方式去做。同时，我也不想完全没有报复，而只是在咖啡店被动的等待被发现…
 
-      >
 
-      > *I feel like Sounds True, this business, came to me as a 21-, 22-year-old as a gift and as a kind of covenant with the universe, a kind of bond where I said, “I’ll serve you. I’ll work really hard,” and the other side of it was, “You’ll be supported, you’ll be shown, doors will open, you’ll meet the people, opportunities will happen.” It’s this sense of a cosmic agreement that … I could help distribute spiritual teachings from different wisdom traditions from around the world. And I could do it with sincerity and devotion. That was my outlook from the beginning. It was never really about me per se. I wanted to be myself, I wanted to be authentic, and I wanted to make a contribution.^\[Tami Simon, interviewed by Diederick Janse and Ewan Townhead, podcast series “Waking up the Workplace,” episode “Even Sages need a Business Plan,” April 14, 2011.]*
-    title: '"Purpose comes before business"'
+      我感到，在我21岁到22岁的时候打造桑楚这件事，就是一份礼物，作为一种与宇宙的契约，一种当我说“我会为你服务，我会非常努力地工作”时，打造的纽带关系，而另一侧的回答是，“你会得到支持，你会看到道路，门会打开，你会遇到来合作的人们，机会将会出现。”正是这种与宇宙共识的感觉……让我可以帮助传播来自世界各地不同智慧传统的灵性教义。并且我会用真诚和奉献去做。这就是我从一开始就有的看法。这根本不是关于我自己。我那时就开始，想做我自己，想做一个真实的人，想做一个贡献。*^\[Tami Simon, interviewed by Diederick Janse and Ewan Townhead, podcast series “Waking up the Workplace,” episode “Even Sages need a Business Plan,” April 14, 2011.]*
+    title: 进化目标  "目标优先于商务"
 ---
