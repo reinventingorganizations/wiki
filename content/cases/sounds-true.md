@@ -63,14 +63,8 @@ theory:
 
       关于个人有待改进内容的反馈，是在全年的工作过程中自然给出的，而不是留在年度评估阶段集中进行。^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 183]
   - topic: Ownership
-    title: An example of outside investors compatible with Teal
-    content: "Through careful selection of investors, Tami Simon has been able to
-      bring in outside equity capital without sacrificing the company’s
-      commitment to Teal practices and to multiple bottom lines. These investors
-      are considered to be one of its key stakeholders: “We are committed to
-      growing the long-term value of the business through careful planning and
-      re-investing our profits into innovation and
-      growth.”^[<http://www.soundstrue.com/store/about-us/core-values>]"
+    title: 股东  外部投资者与蔚蓝模式良好兼容的案例
+    content: 塔米西蒙通过精心挑选投资者，成功的引进了外部股权资本，而不牺牲公司对蔚蓝实践和多重底线的承诺。这些投资者被视为其关键利益相关者之一：“我们致力于通过精心规划，通过将我们的利润重新投资于创新和增长，而提高企业的长期价值。”^\[<http://www.soundstrue.com/store/about-us/core-values>]
   - topic: wholeness
     content: >-
       In the early days, Tami Simon, the founder and CEO of
