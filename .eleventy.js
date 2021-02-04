@@ -45,7 +45,6 @@ module.exports = function (eleventyConfig) {
             if (value === 0 && a.name && b.data.name) {
               return a.data.name.localeCompare(b.data.name)
             }
-            console.log(value)
             return value;
           }),
       };
