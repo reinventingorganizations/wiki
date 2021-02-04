@@ -41,12 +41,11 @@ module.exports = function (eleventyConfig) {
             .sort((a, b) => {
               const value = (a.data.sortOrder || 0) - (b.data.sortOrder || 0);
 
-              if (value === 0 && a.name && b.data.name) {
-                return a.data.name.localeCompare(b.data.name)
-              }
-              console.log(value)
-              return value;
-            }),
+            if (value === 0 && a.name && b.data.name) {
+              return a.data.name.localeCompare(b.data.name)
+            }
+            return value;
+          }),
       };
     });
   }
