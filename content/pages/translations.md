@@ -18,10 +18,11 @@ name: Translations
 
 ![](/media/flagspain.jpg)      Spanish Wiki <http://www.reinventarlasorganizacioneswiki.com/>
 
+![](/media/flagchina.jpg)       中文简体 Wiki <https://cn.reinventingorganizationswiki.com/>
+
 ### … 并正在推出
 
 ![](/media/flagfrance.png)      French Wiki <https://fr.reinventingorganizationswiki.com/>
 
 ![](https://reinventingorganizations-wiki.netlify.app/media/flagrussia.jpg)      Russian Wiki <https://ru.reinventingorganizationswiki.com/>
 
-![](/media/flagchina.jpg)       中文简体 Wiki <https://cn.reinventingorganizationswiki.com/>
