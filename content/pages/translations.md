@@ -14,11 +14,10 @@ Please [let us know](https://reinventingorganizationswiki.com/pages/how-can-you-
 
 ![](/media/flagspain.jpg)      Spanish Wiki <http://www.reinventarlasorganizacioneswiki.com/>
 
+![](/media/flagchina.jpg)       Chinese Wiki <https://cn.reinventingorganizationswiki.com/>
+
 ### … or in progress
 
 ![](/media/flagfrance.png)      French Wiki <https://fr.reinventingorganizationswiki.com/>
 
 ![](/media/flagrussia.jpg)      Russian Wiki [https://ru.reinventingorganizationswiki.com/](<https://ru.reinventingorganizationswiki.com/>)
-
-![](/media/flagchina.jpg)       Chinese Wiki <https://cn.reinventingorganizationswiki.com/>
-test
