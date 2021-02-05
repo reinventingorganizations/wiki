@@ -6,21 +6,14 @@ name: Teal Concepts
 
 # Teal Concepts
 
-\[Short resume about the main teal concepts described in the book]
+Short resume about the main teal concepts described in the book
 
 * [Self-Management](/theory/self-management/)
 * [Wholeness](/theory/wholeness/)
 * [Evolutionary Purpose](/theory/evolutionary-purpose/)
 
 
-
-
-
-
-
-![](/media/1_018-small.png)
-
-## History of Organizational Development
+### History of Organizational Development
 
 * [Developmental Perspective on Organizations](/theory/developmental-perspective-on-organizations/)
 * [Red Paradigm and Organizations](/theory/red-organizations/)
