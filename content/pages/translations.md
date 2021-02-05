@@ -22,5 +22,5 @@ Veuillez [nous faire savoir](https://reinventingorganizationswiki.com/pages/how-
 
 ![](/media/flagfrance.png)      Français <https://fr.reinventingorganizationswiki.com/>
 
-![](/media/flagrussia.jpg)      Russe[https://ru.reinventingorganizationswiki.com/](<https://ru.reinventingorganizationswiki.com/>)
+![](/media/flagrussia.jpg)      Russe [https://ru.reinventingorganizationswiki.com/](<https://ru.reinventingorganizationswiki.com/>)
 
