@@ -22,7 +22,7 @@ theory:
 
 
       Values meeting: Every two months, all RHD colleagues are invited to join the values implementation meeting, where people can bring up issues they have encountered with values in the workplace or suggest changes to the Bill of Rights and Responsibilities . The meeting is well attended. Bob Fishman, RHD’s founder, makes a point to be present every time.
-  - topic: Safe Space
+  - topic: Creating Safe Space
     title: RHD has developed a written document called Bill of Rights and
       Responsibilities that spell out detailed ground rules for encourage safe
       behaviors and identify inacceptable behaviors (document attached)
