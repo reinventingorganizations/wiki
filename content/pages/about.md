@@ -4,7 +4,7 @@ name: About
 ---
 ![](/media/evolutionary-purpose.jpg)
 
-## About this Wiki 
+## About this Wiki
 
 #### For leaders transforming their organizations...
 
@@ -18,6 +18,6 @@ The wiki is founded on the idea that there are distinct evolutionary steps in th
 
 #### A volunteer driven, self-governing wiki
 
-This body of knowledge is brought to the world by a [group of enthusiastic volunteers](http://peerdom.org/ror-wiki) inspired by the ideas presented in the book, “[Reinventing Organizations](https://www.reinventingorganizations.com/)” and the video series “[Insights for the Journey](https://thejourney.reinventingorganizations.com/index.html)” (both by Frederic Laloux). The community of wiki contributors operates itself—how could it be otherwise?—using next-generation practices that the wiki discusses.
+This body of knowledge is brought to the world by [a group of enthusiastic volunteers](/pages/a-group-of-enthusiastic-volunteers) inspired by the ideas presented in the book, “[Reinventing Organizations](https://www.reinventingorganizations.com/)” and the video series “[Insights for the Journey](https://thejourney.reinventingorganizations.com/index.html)” (both by Frederic Laloux). The community of wiki contributors operates itself—how could it be otherwise?—using next-generation practices that the wiki discusses.
 
 In case you would also like to contribute yourself, please [visit this page](../how-can-you-contribute/)
