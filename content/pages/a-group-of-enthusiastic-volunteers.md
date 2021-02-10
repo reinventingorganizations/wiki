@@ -2,7 +2,7 @@
 layout: content
 name: A group of enthusiastic volunteers
 ---
-A group of enthusiastic volunteers
+### A group of enthusiastic volunteers
 
 ![](/media/group-of-enthusiastic-volunteers.png)
 
