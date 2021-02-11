@@ -4,10 +4,11 @@ name: Home
 tagline: A hearty welcome to the refreshed
 title: Reinventing Organizations Wiki
 intro: >-
-  This Polish wiki is based on the book Reinventing Organizations by Frédéric
-  Laloux. Its primary purpose is to serve as a practical guide for leaders who
-  are reinventing their organization and are looking for inspiration as they
-  upgrade specific management practices in their organization.
+  Wiki postawała na postawie książki Frédéric Laloux "Reinventing Organizations"
+  - polski tytuł to "Pracować inaczej". Jej głównym celem jest pełnienie funkcji
+  praktycznego przewodnika dla liderów, którzy odkrywają swoją organizację na
+  nowo i szukają inspiracji podczas ulepszania określonych praktyk zarządzania w
+  swojej organizacji.
 
 
   It is a labor of love, the work of a joyful community, dedicated to soulful organizations everywhere coming to life. We  invite you to[ join us and contribute](/pages/how-can-you-contribute)  to add cases and insights to this wiki.
