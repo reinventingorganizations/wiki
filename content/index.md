@@ -11,7 +11,7 @@ intro: >-
   swojej organizacji.
 
 
-  Jest to praca z miłością, praca radosnej wspólnoty, oddanej duchowym organizacjom na całym świecie. Zapraszamy do[ dołączenia i współtworzenia](/pages/how-can-you-contribute)  w celu dodawania przykładów i spostrzeżeń do tego wiki.
+  Jest to praca z miłością, praca radosnej wspólnoty, oddanej duchowym organizacjom na całym świecie. Zapraszamy do [dołączenia i współtworzenia](/pages/how-can-you-contribute)  w celu dodawania przykładów i spostrzeżeń do tego wiki.
 
 
   ![](/media/flagGreatBritainXXS.png)    [Click here ](/pages/translations) for accessing translations of this Wiki (Hungarian and Spanish are available today - Russian, Chinese and French in progress)
