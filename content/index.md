@@ -1,17 +1,17 @@
 ---
 layout: home
 name: Home
-tagline: A hearty welcome to the refreshed
+tagline: Serdecznie witamy na odświeżonym
 title: Reinventing Organizations Wiki
 intro: >-
-  Wiki postawała na postawie książki Frédéric Laloux "Reinventing Organizations"
-  - polski tytuł to "Pracować inaczej". Jej głównym celem jest pełnienie funkcji
+  Wiki postało na postawie książki Frédéric Laloux "Reinventing Organizations" -
+  polski tytuł to "Pracować inaczej". Jej głównym celem jest pełnienie funkcji
   praktycznego przewodnika dla liderów, którzy odkrywają swoją organizację na
   nowo i szukają inspiracji podczas ulepszania określonych praktyk zarządzania w
   swojej organizacji.
 
 
-  It is a labor of love, the work of a joyful community, dedicated to soulful organizations everywhere coming to life. We  invite you to[ join us and contribute](/pages/how-can-you-contribute)  to add cases and insights to this wiki.
+  Jest to praca z miłością, praca radosnej wspólnoty, oddanej duchowym organizacjom na całym świecie. Zapraszamy do[ dołączenia i współtworzenia](/pages/how-can-you-contribute)  w celu dodawania przykładów i spostrzeżeń do tego wiki.
 
 
   ![](/media/flagGreatBritainXXS.png)    [Click here ](/pages/translations) for accessing translations of this Wiki (Hungarian and Spanish are available today - Russian, Chinese and French in progress)
