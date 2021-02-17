@@ -4,13 +4,13 @@ name: Home
 tagline: A hearty welcome to the
 title: Reinventing Organizations Wiki
 intro: >-
-  ![](/media/flagSpain.jpg)   
+  ![](/media/flagSpain.jpg)
 
 
-  This **Spanish** wiki is based on the book Reinventing Organizations by Frederic Laloux. Its primary purpose is to serve as a practical guide for leaders who are reinventing their organization and are looking for inspiration as they upgrade specific management practices in their organization.
+  Este **Wiki en español** está basado en el libro Reinventar las Organizaciones de Frederic Laloux. Su objetivo principal es servir de guía práctica para los líderes que están reinventando su organización y que buscan inspiración mientras actualizan prácticas de gestión específicas en su organización.
 
 
-  It is a labor of love, the work of a joyful community, dedicated to soulful organizations everywhere coming to life. We  invite you to[ join us and contribute](/pages/how-can-you-contribute)  to add cases and insights to this wiki.
+  Es una labor de amor, el trabajo de una comunidad alegre, dedicada a que las organizaciones con alma cobren vida en todas partes. Le invitamos a[ unirse a nosotros y contribuir](/pages/how-can-you-contribute) para añadir casos y puntos de vista a esta wiki.
 
 
   ![](/media/flagGreatBritainXXS.png)    [Click here ](/pages/translations) for accessing translations of this Wiki (Hungarian and Spanish are available today - Russian, Chinese and French in progress)
