@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Fundamental Assumptions
-name: Fundamental Assumptions
+name: Supuestos Fundamentales
 sortOrder: 1
 category: Daily practices
 intro: >-
