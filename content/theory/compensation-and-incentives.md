@@ -6,9 +6,8 @@ name: Compensation and incentives
 sortOrder: 8
 category: People practices
 intro: >-
-  The topic of compensation and incentives includes the process of how salaries
-  are set and by whom, the types of incentives being used, and the issue of
-  compensation inequality.
+  Temat wynagrodzeń i zachęt obejmuje proces jak są ustalane wynagrodzenia i
+  przez kogo, rodzaje stosowanych zachęt oraz kwestię nierówności wynagrodzeń.
 
 
   ![](/media/compensation-and-incentives-2-small.jpg)
@@ -166,7 +165,9 @@ faq:
 
       \[Teal organizations are built on the premise that individuals are primarily motivated, after attaining basic needs, by intrinsic factors such as the pursuit of purpose. Thus, they tend not to exhibit the primacy of compensation, including added incentives, typical in Orange or even Green.]
 relatedTheory:
-  - Feedback and Performance Management
-  - Dismissal
+  - Strategy
+  - Organizational Structure
+  - Ownership
+  - Decision Making
 ---
 to be removed
