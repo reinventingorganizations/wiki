@@ -6,7 +6,7 @@ name: Code of Conduct
 
 ## Our Pledge
 
-We as members, contributors, and leaders pledge to make participation in our
+We as members, contributors, and leaders pledge to make participation in our Reinventing Organizations' Wiki
 community a harassment-free experience for everyone, regardless of age, body
 size, visible or invisible disability, ethnicity, sex characteristics, gender
 identity and expression, level of experience, education, socio-economic status,
