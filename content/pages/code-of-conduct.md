@@ -2,7 +2,7 @@
 layout: content
 name: Code of Conduct
 ---
-# Contributor Covenant Code of Conduct
+# Code of Conduct
 
 ## Our Pledge
 
