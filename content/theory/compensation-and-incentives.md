@@ -11,45 +11,78 @@ intro: >-
 
 
   ![](/media/compensation-and-incentives-2-small.jpg)
-perspective: >-
-  In [Teal Organizations,](../teal-paradigm-and-organizations/) compensation is
-  determined not only in a different way, but takes on a fundamentally different
-  nature and level of importance. Typically these organizations exhibit the
-  following general characteristics with regard to compensation:
+perspective: "W [Turkusowych
+  Organizacjach,](../teal-paradigm-and-organizations/) wynagrodzenia są nie
+  tylko określane w inny sposób, ale mają również fundamentalną różnicę w
+  naturze i poziomie ważności. Zazwyczaj organizacje te wykazują następujące
+  cechy w odniesieniu do wynagrodzeń:\r
 
+  \r
 
-  * People set their own salaries, with guidance from their peers.
+  * Ludzie ustalają własne wynagrodzenia, kierując się wskazówkami
+  współpracowników.\r
 
-  * There are no individual or team incentives, as incentives are seen to distract people from their inner motivation, and to skew behaviors.
+  * Nie ma zachęt indywidualnych ani zespołowych, ponieważ są one postrzegane
+  jako bodźce odwracające uwagę ludzi od ich wewnętrznej motywacji i wypaczające
+  zachowanie.\r
 
-  * While not necessarily explicitly attempting to create an egalitarian pay structure, it seems that in these organizations, people strive to reduce the sometimes extreme pay disparities witnessed in many sectors today. A special focus is to ensure that the lowest paid make enough to satisfy basic needs.
+  * Chociaż niekoniecznie jest to jawna próba stworzenia egalitarnej struktury
+  wynagrodzeń, wydaje się, że w tych organizacjach ludzie dążą do zmniejszenia
+  czasami skrajnych różnic w wynagrodzeniach, których doświadczamy obecnie w
+  wielu sektorach. Szczególny nacisk kładzie się na to, aby najniżej opłacani
+  zarabiali wystarczająco dużo na zaspokojenie podstawowych potrzeb.\r
 
+  \r
 
-  In contrast, compensation and incentives in earlier stage organizations can be summarized as follows:
+  W kontraście wynagrodzenia i zachęty w organizacjach na wcześniejszych
+  etapach można podsumować w następujący sposób:\r
+
+  \r
+
 
 
   #### **Red Organizations**
 
 
-  In the [Red paradigm](../red-organizations/), the prerogative of the boss is to freely, on a whim, decide to increase or reduce pay. There are no formal processes for negotiating on pay, nor any formal, documented incentive processes.
+  In the [Red paradigm](../red-organizations/), the prerogative of the boss is
+  to freely, on a whim, decide to increase or reduce pay. There are no formal
+  processes for negotiating on pay, nor any formal, documented incentive
+  processes.
 
 
   #### **Amber Organizations**
 
 
-  In the [Amber paradigm](../amber-paradigm-and-organizations/), compensation is generally fixed and determined by a person’s level in the hierarchy (or other fixed status marker, such as the person’s type of university degree). There are no individual salary negotiations, no incentives. It’s “same work, same pay”.
+  In the [Amber paradigm](../amber-paradigm-and-organizations/), compensation
+  is generally fixed and determined by a person’s level in the hierarchy (or
+  other fixed status marker, such as the person’s type of university degree).
+  There are no individual salary negotiations, no incentives. It’s “same work,
+  same pay”.
 
 
   #### **Orange Organizations**
 
 
-  In the [Orange paradigm](../orange-paradigm-and-organizations/), there is some individual negotiation of base salary, and people generally fall into salary bands. A boss has some freedom to increase someone’s pay within that salary band. Orange believes strongly in individual targets and incentives. If people reach predetermined targets (that ideally belong to a cascaded system of targets or budget that builds up to strong creation of shareholder value), they will receive a hardy bonus. Strong differences in pay between top and bottom earners are seen as perfectly acceptable, as they reflect people’s merits and contributions.
+  In the [Orange paradigm](../orange-paradigm-and-organizations/), there is
+  some individual negotiation of base salary, and people generally fall into
+  salary bands. A boss has some freedom to increase someone’s pay within that
+  salary band. Orange believes strongly in individual targets and incentives. If
+  people reach predetermined targets (that ideally belong to a cascaded system
+  of targets or budget that builds up to strong creation of shareholder value),
+  they will receive a hardy bonus. Strong differences in pay between top and
+  bottom earners are seen as perfectly acceptable, as they reflect people’s
+  merits and contributions.
 
 
   #### **Green Organizatio**ns
 
 
-  The [Green paradigm](../green-paradigm-and-organizations/) believes in cooperation as much as in competition; individual incentives begin to make way for team bonuses. Attempts are made to reduce the difference between the highest and lowest earners in the workplace, for instance through a maximum multiple between the CEO pay and the median (or lowest) salary in the organization.
+  The [Green paradigm](../green-paradigm-and-organizations/) believes in
+  cooperation as much as in competition; individual incentives begin to make way
+  for team bonuses. Attempts are made to reduce the difference between the
+  highest and lowest earners in the workplace, for instance through a maximum
+  multiple between the CEO pay and the median (or lowest) salary in the
+  organization."
 inPractice: >-
   #### **How salaries are set and by whom**
 
