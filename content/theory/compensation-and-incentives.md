@@ -153,37 +153,41 @@ inPractice: "#### **Jak ustalane są wynagrodzenia i przez kogo**
   współpracowników.
 
 
-  #### **Use of incentives**
+  #### **Użycie zachęt**
 
 
-  In the Teal paradigm, people value intrinsic over extrinsic motivators. Once
-  people make enough money to cover their basic needs, what matters most is that
-  work is meaningful and that they can express their talents and callings at
-  work. In the book *Drive*, Daniel Pink concludes from a great amount of
-  research on the matter that in today’s complex work settings, incentives are
-  mostly counterproductive, reducing rather than enhancing people’s performance.
+  W Turkusowym paradygmacie ludzie cenią wewnętrzne motywacje ponad
+  zewnętrzne. Kiedy ludzie zarabiają wystarczająco dużo pieniędzy, aby zaspokoić
+  swoje podstawowe potrzeby, najważniejsze jest, aby praca miała znaczenie i aby
+  mogli wyrażać swoje talenty i powołania w pracy. W książce *Drive* Daniel Pink
+  konkluduje na podstawie wielu badań dotyczących tego, że w dzisiejszych
+  złożonych warunkach pracy zachęty przynoszą w większości skutki odwrotne do
+  zamierzonych, raczej zmniejszając niż poprawiając wydajność ludzi.\r
 
 
-  The consequence is that Teal Organizations generally operate without
-  explicit financial incentives at individual and team level. No one, not even
-  sales people, has targets or incentives and there are rarely individual
-  bonuses or stock options. Instead, at the end of very profitable years, some
-  part of the profit will be shared with all employees (in some cases everyone
-  receives the same fixed percent of base salary, in others everyone receives
-  the same fixed amount). See also [Ownership](../ownership/).
+  \r
+
+  Konsekwencją jest to, że organizacje turkusowe zazwyczaj działają bez
+  wyraźnych zachęt finansowych na poziomie indywidualnym i zespołowym. Nikt,
+  nawet sprzedawcy, nie ma celów ani zachęt i rzadko istnieją indywidualne
+  bonusy lub opcje na akcje. Zamiast tego, pod koniec bardzo dochodowych lat,
+  część zysku zostanie podzielona ze wszystkimi pracownikami (w niektórych
+  przypadkach każdy otrzymuje ten sam stały procent wynagrodzenia podstawowego,
+  w innych wszyscy otrzymują tę samą stałą kwotę). Zobacz też
+  [Ownership](../ownership/).
 
 
-  #### **Compensation inequality**
+  #### **Nierówności w wynagrodzeniach**
 
 
-  Without the use of bonuses and stock options, compensation inequality is
-  automatically reduced, as a large share of the pay inequalities in today's
-  Fortune 500 companies stem from the often extravagant CEO bonuses and stock
-  options. Some organizations also strive consciously to limit inequality in the
-  base salary. Some organizations, like AES and FAVI, have replaced hourly wages
-  with monthly salaries for shop floor operators, erasing the distinction
-  between blue- and white-collar workers. Everyone is compensated on the same
-  principles."
+  Bez wykorzystania premii i opcji na akcje nierówności wynagrodzeń są
+  automatycznie zmniejszane, ponieważ duży udział w nierównościach płac w
+  dzisiejszych firmach z listy Fortune 500 wynika z często ekstrawaganckich
+  premii prezesów i opcji na akcje. Niektóre organizacje świadomie dążą też do
+  ograniczenia nierówności w wynagrodzeniu zasadniczym. Niektóre organizacje,
+  takie jak AES i FAVI, zastąpiły stawki godzinowe wynagrodzeniami miesięcznymi
+  dla pracowników hali produkcyjnej, usuwając podział na pracowników fizycznych
+  i umysłowych. Każdy otrzymuje wynagrodzenie na tych samych zasadach."
 faq:
   - question: When salaries are self-set, how can salary inflation be prevented?
     answer: >-
