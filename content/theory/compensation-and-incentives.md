@@ -84,44 +84,106 @@ perspective: "W [Turkusowych
   różnicy między najlepiej zarabiającymi a najniższymi pracownikami w miejscu
   pracy, na przykład poprzez maksymalną wielokrotność między wynagrodzeniem
   dyrektora generalnego a medianą (lub najniższą) pensją w organizacji."
-inPractice: >-
-  #### **Jak ustalane są wynagrodzenia i przez kogo**
+inPractice: "#### **Jak ustalane są wynagrodzenia i przez kogo**
 
 
-  W tradycyjnych organizacjach wynagrodzenie jest zwykle określane zgodnie z hierarchią organizacyjną. Generalnie szef może zdecydować o podwyżce wynagrodzenia dla swoich podwładnych, często z zastrzeżeniem wytycznych lub zgody HR (lub instytucji). W organizacjach samozarządzających, pod nieobecność szefów, proces ustalania wynagrodzeń i innych rodzajów wynagrodzeń musi zostać opracowany na nowo, wykorzystując siłę wkładu współpracowników. Wydaje się, że istnieją dwie szerokie kategorie systemów: systemy rankingowe i systemy samoustalania (oparte na procesie doradczym). \ [Oba z nich mogą być również używane w systemach hierarchicznych. Nie zależą od samozarządzających się struktur.]
+  W tradycyjnych organizacjach wynagrodzenie jest zwykle określane zgodnie z
+  hierarchią organizacyjną. Generalnie szef może zdecydować o podwyżce
+  wynagrodzenia dla swoich podwładnych, często z zastrzeżeniem wytycznych lub
+  zgody HR (lub instytucji). W organizacjach samozarządzających, pod nieobecność
+  szefów, proces ustalania wynagrodzeń i innych rodzajów wynagrodzeń musi zostać
+  opracowany na nowo, wykorzystując siłę wkładu współpracowników. Wydaje się, że
+  istnieją dwie szerokie kategorie systemów: systemy rankingowe i systemy
+  samoustalania (oparte na procesie doradczym). \\ [Oba z nich mogą być również
+  używane w systemach hierarchicznych. Nie zależą od samozarządzających się
+  struktur.]
 
 
   ##### ***System rankingowy***
 
 
-  In certain companies, such as W. L. Gore or HolacracyOne, employees rank or evaluate the contributions of the peers they work with most closely. Based on this input, people are allocated to different salary bands - usually by an algorithm or an elected committee. People who are seen as contributing more will find themselves in the higher bands that earn bigger salaries; the more junior, less experienced colleagues naturally gravitate toward bands with lower salaries. The process is simple and easy to understand and it is generally seen as fair. When it’s not just one person (the boss), but many of an individual's colleagues informing the process, the resulting salary is likely to be a fairer reflection of that person's contribution.
+  W niektórych firmach, takich jak W. L. Gore lub HolacracyOne, pracownicy
+  oceniają lub oceniają wkład kolegów, z którymi najbliżej współpracują. W
+  oparciu o te dane wejściowe ludzie są przydzielani do różnych przedziałów
+  wynagrodzeń - zwykle przez algorytm lub wybrany komitet. Ludzie, którzy są
+  postrzegani jako wnoszący więcej, znajdą się w wyższych przedziałach, które
+  zarabiają wyższe pensje; młodsi, mniej doświadczeni koledzy w naturalny sposób
+  skłaniają się ku zespołom z niższymi zarobkami. Proces jest prosty i łatwy do
+  zrozumienia i ogólnie postrzegany jako uczciwy. Kiedy to nie tylko jedna osoba
+  (szef), ale wielu współpracowników danej osoby informuje proces, otrzymane
+  wynagrodzenie będzie prawdopodobnie bardziej sprawiedliwym odzwierciedleniem
+  wkładu tej osoby.
+
+  \r
+
+  \r
 
 
-  Such systems can result in pay fluctuating (going up but also down) over the years, depending on people's contribution. In many countries, labor laws prevent salaries from going down, which requires adaptations to this method. For instance, the system could be used only to discern which colleagues should receive a pay raise. Alternatively, a system can be engineered using a low fixed salary, and allowing the fluctuations through individual bonuses that can go up or down.
+  Takie systemy mogą powodować wahania wynagrodzeń (rosnące, ale także
+  spadające) na przestrzeni lat, w zależności od wkładu osób. W wielu krajach
+  przepisy prawa pracy zapobiegają obniżaniu wynagrodzeń, co wymaga dostosowania
+  do tej metody. Na przykład system mógłby być używany tylko do rozróżnienia,
+  którzy koledzy powinni otrzymać podwyżkę. Alternatywnie, system można
+  zaprojektować przy użyciu niskiej stałej pensji i zezwalać na wahania
+  indywidualnych premii, które mogą rosnąć lub spadać.
 
 
-  ##### ***Self-set (advice-based) systems***
+  ##### ***Samoustalanie (w procesie doradczym)***
 
 
-  A more empowering version is one where people set their own salaries, calibrated by the advice process from their peers. In this case, generally once a year, people propose what salary raise they believe to be appropriate for themselves, and the justifications for their proposal. This input is reviewed by a number of peers (e.g. in an elected salary advice group) who give individual advice on that proposal, based on a calibration across colleagues. Individuals can then choose to follow the advice they have received or not, and their choice is made public. If it so chooses, the salary advice group can choose to declare a conflict and invoke the [conflict resolution mechanism](../conflict-resolution/).
+  Bardziej upełnomacniająca wersja to taka, w której ludzie ustalają własne
+  pensje, skalibrowane na podstawie procesu udzielania porad współpracownikom. W
+  takim przypadku, na ogół raz w roku, ludzie proponują, jaką podwyżkę pensji
+  uważają za odpowiednią dla siebie, i uzasadniają swoją propozycję. Wkład ten
+  jest weryfikowany przez szereg współpracowników (np. w wybieranej radzie ds.
+  wynagrodzeń), którzy udzielają indywidualnych porad dotyczących tej
+  propozycji, w oparciu o kalibrację wśród współpracowników. Poszczególne osoby
+  mogą wówczas zdecydować, czy chcą zastosować się do otrzymanych porad, czy też
+  nie, a ich wybór jest podawany do wiadomości publicznej. Jeśli tak zdecyduje,
+  grupa doradcza ds. wynagrodzeń może zadeklarować konflikt i powołać się na
+  [mechanizm rozwiązywania konfliktów] (../conflict-resolution/).\r
+
+  \r
 
 
-  The process cuts through much of the haggling, strategizing, complaining, and "sucking up" that happens when salaries are set by one's boss. If people are unhappy with their salary, they can simply raise it. And they will face the consequences of their choices, if they decide to place themselves too far outside their peers' advice.
+  Proces ten eliminuje wiele z targowania się, strategowania, narzekania i
+  „podlizywania”, które ma miejsce, gdy szef ustala pensje. Jeśli ludzie są
+  niezadowoleni ze swojej pensji, mogą ją po prostu podnieść. I będą ponosić
+  konsekwencje swoich wyborów, jeśli zdecydują się oddalić się od porad
+  współpracowników.
 
 
   #### **Use of incentives**
 
 
-  In the Teal paradigm, people value intrinsic over extrinsic motivators. Once people make enough money to cover their basic needs, what matters most is that work is meaningful and that they can express their talents and callings at work. In the book *Drive*, Daniel Pink concludes from a great amount of research on the matter that in today’s complex work settings, incentives are mostly counterproductive, reducing rather than enhancing people’s performance.
+  In the Teal paradigm, people value intrinsic over extrinsic motivators. Once
+  people make enough money to cover their basic needs, what matters most is that
+  work is meaningful and that they can express their talents and callings at
+  work. In the book *Drive*, Daniel Pink concludes from a great amount of
+  research on the matter that in today’s complex work settings, incentives are
+  mostly counterproductive, reducing rather than enhancing people’s performance.
 
 
-  The consequence is that Teal Organizations generally operate without explicit financial incentives at individual and team level. No one, not even sales people, has targets or incentives and there are rarely individual bonuses or stock options. Instead, at the end of very profitable years, some part of the profit will be shared with all employees (in some cases everyone receives the same fixed percent of base salary, in others everyone receives the same fixed amount). See also [Ownership](../ownership/).
+  The consequence is that Teal Organizations generally operate without
+  explicit financial incentives at individual and team level. No one, not even
+  sales people, has targets or incentives and there are rarely individual
+  bonuses or stock options. Instead, at the end of very profitable years, some
+  part of the profit will be shared with all employees (in some cases everyone
+  receives the same fixed percent of base salary, in others everyone receives
+  the same fixed amount). See also [Ownership](../ownership/).
 
 
   #### **Compensation inequality**
 
 
-  Without the use of bonuses and stock options, compensation inequality is automatically reduced, as a large share of the pay inequalities in today's Fortune 500 companies stem from the often extravagant CEO bonuses and stock options. Some organizations also strive consciously to limit inequality in the base salary. Some organizations, like AES and FAVI, have replaced hourly wages with monthly salaries for shop floor operators, erasing the distinction between blue- and white-collar workers. Everyone is compensated on the same principles.
+  Without the use of bonuses and stock options, compensation inequality is
+  automatically reduced, as a large share of the pay inequalities in today's
+  Fortune 500 companies stem from the often extravagant CEO bonuses and stock
+  options. Some organizations also strive consciously to limit inequality in the
+  base salary. Some organizations, like AES and FAVI, have replaced hourly wages
+  with monthly salaries for shop floor operators, erasing the distinction
+  between blue- and white-collar workers. Everyone is compensated on the same
+  principles."
 faq:
   - question: When salaries are self-set, how can salary inflation be prevented?
     answer: >-
