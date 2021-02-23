@@ -41,56 +41,57 @@ perspective: "W [Turkusowych
 
 
 
-  #### **Red Organizations**
+  #### **Czerwone Organizacje**
 
 
-  In the [Red paradigm](../red-organizations/), the prerogative of the boss is
-  to freely, on a whim, decide to increase or reduce pay. There are no formal
-  processes for negotiating on pay, nor any formal, documented incentive
-  processes.
+  W [Czerwonym paradygmacie](../red-organizations/), prerogatywą szefa jest
+  swobodne, dla kaprysu, decydowanie o podwyższeniu lub obniżeniu wynagrodzenia.
+  Nie ma formalnych procesów negocjowania wynagrodzenia ani formalnych,
+  udokumentowanych procesów motywacyjnych.
 
 
-  #### **Amber Organizations**
+  #### **Bursztynowe Organizacje**
 
 
-  In the [Amber paradigm](../amber-paradigm-and-organizations/), compensation
-  is generally fixed and determined by a person’s level in the hierarchy (or
-  other fixed status marker, such as the person’s type of university degree).
-  There are no individual salary negotiations, no incentives. It’s “same work,
-  same pay”.
+  W [Bursztynowym paradygmacie](../amber-paradigm-and-organizations/),
+  wynagrodzenie jest na ogół ustalane i określane na podstawie poziomu danej
+  osoby w hierarchii (lub innego ustalonego wskaźnika statusu, takiego jak typ
+  jej stopnia uniwersyteckiego). Nie ma indywidualnych negocjacji płacowych ani
+  zachęt. To \"ta sama praca, ta sama płaca\".
 
 
-  #### **Orange Organizations**
+  #### **Pomarańczowe Organizacje**
 
 
-  In the [Orange paradigm](../orange-paradigm-and-organizations/), there is
-  some individual negotiation of base salary, and people generally fall into
-  salary bands. A boss has some freedom to increase someone’s pay within that
-  salary band. Orange believes strongly in individual targets and incentives. If
-  people reach predetermined targets (that ideally belong to a cascaded system
-  of targets or budget that builds up to strong creation of shareholder value),
-  they will receive a hardy bonus. Strong differences in pay between top and
-  bottom earners are seen as perfectly acceptable, as they reflect people’s
-  merits and contributions.
+  W [Pomarańczowym paradygmacie](../orange-paradigm-and-organizations/)
+  istnieją indywidualne negocjacje dotyczące wynagrodzenia podstawowego, a
+  ludzie generalnie mieszczą się w przedziałach płacowych. Szef ma pewną swobodę
+  w zwiększaniu pensji w ramach tego przedziału wynagrodzenia. Orange mocno
+  wierzy w indywidualne cele i zachęty. Jeśli ludzie osiągną z góry ustalone
+  cele (które idealnie pasują do kaskadowego systemu celów lub budżetu, który
+  buduje silny wzrost wartości dla akcjonariuszy), otrzymają twardą premię.
+  Znaczne różnice w wynagrodzeniach między najlepiej a najgorzej zarabiającymi
+  są uważane za całkowicie akceptowalne, ponieważ odzwierciedlają zasługi i
+  wkład ludzi.
 
 
-  #### **Green Organizatio**ns
+  #### **Zielone Organizacje**
 
 
-  The [Green paradigm](../green-paradigm-and-organizations/) believes in
-  cooperation as much as in competition; individual incentives begin to make way
-  for team bonuses. Attempts are made to reduce the difference between the
-  highest and lowest earners in the workplace, for instance through a maximum
-  multiple between the CEO pay and the median (or lowest) salary in the
-  organization."
+  [Zielony paradygmat](../green-paradigm-and-organizations/) wierzy w
+  współpracę tak samo jak w konkurencję; indywidualne zachęty zaczynają
+  ustępować miejsca bonusom zespołowym. Podejmowane są próby zmniejszenia
+  różnicy między najlepiej zarabiającymi a najniższymi pracownikami w miejscu
+  pracy, na przykład poprzez maksymalną wielokrotność między wynagrodzeniem
+  dyrektora generalnego a medianą (lub najniższą) pensją w organizacji."
 inPractice: >-
-  #### **How salaries are set and by whom**
+  #### **Jak ustalane są wynagrodzenia i przez kogo**
 
 
-  In traditional organizations, compensation is typically determined according to the organizational hierarchy. Generally, a boss can decide on a pay raise for his subordinates, often subject to HR (or institutional) guidelines or approval. In self-managing organizations, in the absence of bosses, the process to determine salaries and other types of compensation must be reinvented using the power of peer input. It seems that there are two broad categories of systems: ranking-based systems and self-set (advice-based) systems. \[Both of these can be used within hierarchical systems too. They don't depend on self-managing structures.]
+  W tradycyjnych organizacjach wynagrodzenie jest zwykle określane zgodnie z hierarchią organizacyjną. Generalnie szef może zdecydować o podwyżce wynagrodzenia dla swoich podwładnych, często z zastrzeżeniem wytycznych lub zgody HR (lub instytucji). W organizacjach samozarządzających, pod nieobecność szefów, proces ustalania wynagrodzeń i innych rodzajów wynagrodzeń musi zostać opracowany na nowo, wykorzystując siłę wkładu współpracowników. Wydaje się, że istnieją dwie szerokie kategorie systemów: systemy rankingowe i systemy samoustalania (oparte na procesie doradczym). \ [Oba z nich mogą być również używane w systemach hierarchicznych. Nie zależą od samozarządzających się struktur.]
 
 
-  ##### ***Ranking-based systems***
+  ##### ***System rankingowy***
 
 
   In certain companies, such as W. L. Gore or HolacracyOne, employees rank or evaluate the contributions of the peers they work with most closely. Based on this input, people are allocated to different salary bands - usually by an algorithm or an elected committee. People who are seen as contributing more will find themselves in the higher bands that earn bigger salaries; the more junior, less experienced colleagues naturally gravitate toward bands with lower salaries. The process is simple and easy to understand and it is generally seen as fair. When it’s not just one person (the boss), but many of an individual's colleagues informing the process, the resulting salary is likely to be a fairer reflection of that person's contribution.
