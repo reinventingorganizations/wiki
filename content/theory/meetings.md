@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Meetings
-name: Meetings
+name: Spotkania
 sortOrder: 2
 category: Daily practices
 intro: >-
