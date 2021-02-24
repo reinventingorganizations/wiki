@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: board
-name: Board
+name: Zarząd
 sortOrder: 5
 category: Structure of an organization
 intro: >-
