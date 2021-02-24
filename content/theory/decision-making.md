@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Decision Making
-name: Decision Making
+name: Podejmowanie Decyzji
 sortOrder: 3
 category: Daily practices
 intro: >-
