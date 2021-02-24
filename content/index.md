@@ -16,13 +16,13 @@ intro: >-
 
   ![](/media/flagGreatBritainXXS.png)    [Click here ](/pages/translations) for accessing translations of this Wiki (Hungarian and Spanish are available today - Russian, Chinese and French in progress)
 topics:
-  - title: Teal Concepts
+  - title: Koncepcje Turkusu
     image: /media/home_reinvention-etienne-small.png
     link: /pages/tealconcepts
-  - title: Key structures and practices
+  - title: Kluczowe struktury i praktyki
     image: /media/home_difference-etrienne-small.png
     link: /pages/tealpractices
-  - title: Concrete cases for inspiration
+  - title: Konkretne przypadki dla inspriracji
     image: /media/home_cases-etienne-small.png
     link: /cases
 ---
