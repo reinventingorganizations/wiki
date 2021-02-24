@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Compensation and incentives
-name: Compensation and incentives
+name: Wynagrodzenia i zachęty
 sortOrder: 8
 category: People practices
 intro: >-
