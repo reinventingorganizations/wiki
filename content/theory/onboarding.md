@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Onboarding
-name: Onboarding
+name: Incorporación
 sortOrder: 2
 category: People practices
 intro: >-
