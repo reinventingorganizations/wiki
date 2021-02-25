@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Budgeting and Controlling
-name: Budgeting and Controlling
+name: Los Presupuestos y el Control del desempeño
 sortOrder: 5
 category: Important Processes
 intro: >-
