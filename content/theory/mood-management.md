@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Mood Management
-name: Mood Management
+name: Gestión del Estado de Ánimo
 sortOrder: 9
 category: Daily practices
 intro: Moods influence possibilities. The topic of mood management summarizes
