@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Job Titles and Job Descriptions
-name: Job Titles and Job Descriptions
+name: Títulos de trabajo y Descripciones de Puesto
 sortOrder: 5
 category: People practices
 intro: The topic of job titles and job descriptions includes the process of how
