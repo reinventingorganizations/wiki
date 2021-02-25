@@ -6,19 +6,13 @@ name: El Paradigma Ámbar y las Organizaciones
 sortOrder: 3
 category: history
 intro: >-
-  The Amber stage of consciousness^\[This stage corresponds to Gebser’s
-  “Mythical,” Loevinger’s, Cook-Greuter’s and Wade's “Conformist,” Graves’ “DQ,”
-  Spiral Dynamics’ “Blue,” Kegan’s “Interpersonal,” Torbert’s “Diplomat” and
-  “Expert,” Piaget’s “Concrete Operational,” and others.] enabled humankind to
-  develop organizations that could operate on an unprecedented scale. This led
-  to the formation of bureaucracies institutions, and nation states, many of
-  which have survived for centuries. Amber organizations strive for stability
-  and are characterized by clear roles and ranks within a hierarchical
-  structure. Leadership is exercised through command and control and compliance
-  is expected throughout the organization . Stability and order are enforced
-  through rules and processes. Innovation is not encouraged and competition is
-  viewed with suspicion. The dominant metaphor is that of an army. Perhaps the
-  most significant Amber organization is the Catholic Church. 
+  <!--StartFragment-->
+
+
+  La etapa Ámbar de la conciencia \[1] permitió a la humanidad desarrollar organizaciones que podrían operar en una escala sin precedentes. Esto llevó a la formación de instituciones burocráticas, y los estados nacionales, muchos de los cuales han sobrevivido durante siglos. Las organizaciones Ámbar se esfuerzan por la estabilidad y se caracterizan por roles y rangos claros dentro de una estructura jerárquica. El liderazgo se ejerce a través del mando y control y se espera su cumplimiento en toda la organización. La estabilidad y el orden se hacen cumplir a través de reglas y procesos. No se fomenta la innovación y la competencia se ve con sospecha. La metáfora dominante es la de un ejército. Quizás la organización Ámbar más importante sea la Iglesia Católica.
+
+
+  <!--EndFragment-->
 
 
   ![](/media/amber.jpg)
