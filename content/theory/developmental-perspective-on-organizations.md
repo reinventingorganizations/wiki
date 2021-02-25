@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Developmental Perspective on Organizations
-name: Developmental Perspective on Organizations
+name: Perspectivas del Desarrollo en las Organizaciones
 sortOrder: 1
 category: history
 intro: >-
