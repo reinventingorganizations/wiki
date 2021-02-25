@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Project teams and task forces
-name: Project teams and task forces
+name: Equipos de Proyecto y Grupos de Tarea
 sortOrder: 4
 category: Structure of an organization
 intro: "This article describes how cross functional teams emerge and operate,
