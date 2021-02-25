@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Training and Coaching
-name: Training and Coaching
+name: Entrenamiento y Coaching
 sortOrder: 3
 category: People practices
 intro: Training and coaching is about how organizations develop knowledge,
