@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Staff Functions
-name: Staff Functions
+name: Funciones Staff
 sortOrder: 2
 category: Structure of an organization
 intro: |-
