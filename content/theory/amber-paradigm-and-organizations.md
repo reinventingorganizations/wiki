@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Amber Paradigm and Organizations
-name: Amber Paradigm and Organizations
+name: El Paradigma Ámbar y las Organizaciones
 sortOrder: 3
 category: history
 intro: >-
