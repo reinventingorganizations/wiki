@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: sales-marketing
-name: Sales and Marketing
+name: Ventas y Marketing
 sortOrder: 3
 category: Important Processes
 intro: This article discusses sales and marketing processes in Teal organizations.
