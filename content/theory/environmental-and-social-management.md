@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Environmental and Social Management
-name: Environmental and Social Management
+name: Gestión Ambiental y Social
 sortOrder: 6
 category: Important Processes
 intro: "Environmental and Social Management refers to the approach organizations
