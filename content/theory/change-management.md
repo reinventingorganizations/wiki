@@ -6,119 +6,134 @@ name: Gestión del Cambio
 sortOrder: 7
 category: Important Processes
 intro: >-
-  This article discusses the difference between traditional “change management”
-  and the evolutionary process of change under Teal.
+  <!--StartFragment-->
+
+
+  Este artículo discute la diferencia entre la "gestión del cambio" tradicional y el proceso evolutivo de cambio bajo el paradigma Teal.
+
+
+  <!--EndFragment-->
 
 
   ![](/media/change.jpg)
 perspective: >-
-  In the machine paradigm of Orange, organizations are viewed as fixed systems.
-  These systems don’t have an inner capacity for change. Force must be applied
-  from outside. That is the role of senior management. They are the ones that
-  must identify the need for change, determine how that change will be brought
-  about, and ensure that it happens.
+  <!--StartFragment-->
 
 
-  Furthermore, the impetus for change in pre-Teal organizations does not come easily. These paradigms view change as an unfortunate necessity or the result of management failure. It is the job of management to predict and/or control the future, thus eliminating surprises. Reality should conform to a well executed budget and strategic plan. When it doesn’t, managment is often slow to acknowledge their presumed failure. And when they finally accept that the world around them has changed while they were pursuing their plan, they are uncomfortable with what they see. They now have to act decisively to make up for lost time. They must impose with urgency.
+  En el paradigma de la máquina Naranja, las organizaciones son vistas como sistemas fijos. Estos sistemas no tienen una capacidad interna de cambio. La fuerza debe ser aplicada desde fuera. Ese es el papel de la alta dirección. Ellos son los que deben identificar la necesidad de cambio, determinar cómo se producirá ese cambio, y asegurar que suceda.\
+
+  Además, el impulso para el cambio en las organizaciones pre-Teal no es fácil. Estos paradigmas consideran el cambio como una necesidad desafortunada o el resultado del fracaso de la administración. Es el trabajo de la gerencia predecir y / o controlar el futuro, eliminando sorpresas. La realidad debe ajustarse a un presupuesto bien ejecutado y un plan estratégico. Cuando no lo hace, la dirección es a menudo lenta para reconocer su presunto fracaso. Y cuando finalmente aceptan que el mundo que les rodea ha cambiado mientras perseguían su plan, se sienten incómodos con lo que ven. Ahora tienen que actuar con decisión para compensar el tiempo perdido. Deben imponerse con urgencia.
 
 
-  The change will be painful (they imagine), but once accomplished, everything will be fine again. And so, they hasten to redesign the machinery of the organization. Unsurprisingly, people resist change being imposed upon them. To overcome this, management may feel compelled to play on fears, and choose to blame hostile competitive forces or titanic environmental factors that threaten the organization’s survival if it doesn't react. .
+  El cambio será doloroso (se imaginan), pero una vez logrado, todo estará bien otra vez. Y así, se apresuran a rediseñar la maquinaria de la organización. No sorprende que la gente se resista al cambio que se les impone. Para superar esto, la gerencia puede sentirse obligada a jugar con los temores y elegir culpar a las fuerzas competitivas hostiles o factores ambientales titánicos que amenazan la supervivencia de la organización si no reacciona. .\
+
+  Así, el cambio tiende a ocurrir en una serie de 'saltos'. Esto no es un proceso fluido, emergente. Es una serie de movimientos discretos y generalmente perturbadores, de un estado relativamente estático a otro.
 
 
-  Thus, change tends to happen in a series of ‘jumps’. This is not a fluid, emergent process. It’s a series of discrete and usually disruptive movements, from one relatively static state to another.
+  <!--EndFragment-->
 
 
-  ![]()
+  <!--StartFragment-->
 
 
-  In contrast, living systems seem to have the capacity to sense change in the environment and adapt from within. In a forest, no master tree plans and dictates to the other trees what to do when rain fails to fall or when spring chooses to come early. The whole ecosystem reacts creatively, in the moment. Teal organizations approach change in a similar way. People are encouraged to act on what they sense is needed. They are not confined by static job descriptions, fixed reporting lines, or functional discipline. They react creatively to life’s emerging, non-linear changes. Change is expected. It happens naturally, all the time^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4671-4688). Nelson Parker. Kindle Edition.]
+  En contraste, los sistemas vivos parecen tener la capacidad de sentir el cambio en el ambiente y adaptarse desde dentro. En un bosque, ningún árbol maestro planea y dicta a los otros árboles qué hacer cuando la lluvia no cae o cuando la primavera elige llegar temprano. Todo el ecosistema reacciona creativamente, en el momento. Las organizaciones Teal se acercan al cambio de una manera similar. Se anima a las personas a actuar según lo que consideran necesario. No están confinados por descripciones de puestos estáticas, líneas fijas de reporte o disciplina funcional. Ellos reaccionan creativamente a los cambios emergentes, no lineales de la vida. Se espera un cambio. Sucede naturalmente, todo el tiempo. \[1]
 
 
-  For more on how earlier stages undergo organizational change, see below:
+  Para más información sobre cómo las etapas anteriores se someten a cambios organizacionales, vea a continuación:\
+
+  \
+
+  **Organizaciones Rojas**\
+
+  En las [Organizaciones Rojas](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_paradigma_Rojo_y_las_Organizaciones "El paradigma Rojo y las Organizaciones") , el cambio es dirigido por el jefe. Una organización roja a menudo puede adaptarse rápidamente en entornos caóticos, porque el líder puede iniciar un cambio rápido, si es necesario mediante la intimidación. El cambio típicamente consiste en reacciones inmediatas a amenazas y oportunidades en lugar de una respuesta a desarrollos más graduales y a largo plazo (aunque no menos importantes). Se presta poca atención a alterar los patrones de conducta de los colaboradores arraigados con el tiempo.\
+
+  \
+
+  **Organizaciones Ámbar**\
+
+  El [paradigma Ámbar ](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_%C3%81mbar_y_las_Organizaciones "El Paradigma Ámbar y las Organizaciones")cree que el mundo es (o debería) ser esencialmente inmutable: lo que era verdad ayer debe ser verdad hoy y mañana. Las organizaciones Ámbar se construyen alrededor de una estructura ordenada y procesos formales, previsibles y estables. El cambio es principalmente a través de pequeñas mejoras para mejorar la excelencia de los procesos y las tradiciones existentes. Las organizaciones Ámbar pueden mostrar una fuerte resistencia a la necesidad de cambio, especialmente si la naturaleza del cambio amenaza los limites ideológicos y las normas sociales. Cuando las fuerzas externas imponen la necesidad del cambio, el cambio se ordena de arriba hacia abajo sin pensar siquiera en cómo podría planificarse para minimizar la resistencia. En ese sentido, hay poca o ninguna "gestión del cambio”.\
+
+  \
+
+  **Organizaciones Naranja**\
+
+  Las [organizaciones Naranjas ](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Naranja_y_las_Organizaciones "El Paradigma Naranja y las Organizaciones")son más propensas a aceptar el cambio. La innovación es la clave para superar a los competidores. El cambio debe ser constante. Desafortunadamente, como las organizaciones naranjas suelen estar estructuradas como pirámides jerárquicas, no es fácil que se adapten al cambio. Esa es la contradicción inherente a las organizaciones naranjas: la búsqueda constante de cambio, obstaculizado por la estructura estática de la organización. Esta contradicción dio lugar a la "gestión del cambio", y toda una industria de herramientas y asesorías para ayudar a las organizaciones a superar la resistencia interna al cambio.(2)
 
 
-  #### Red organizations
+  En Naranja, la perspectiva dominante sobre el cambio proviene de la ingeniería. Los pasos típicos para cualquier cambio (por ejemplo, reorganizaciones, reestructuración, cambio de marcas, re-posicionamiento, etc.) son hacer un diagnóstico de la situación actual, diseñar el estado futuro deseado y luego planificar el cambio de aquí para allá. Para grandes proyectos de cambio, esto podría involucrar varios proyectos, hitos del programa y una "oficina" central que reporta al liderazgo superior. Este tipo de planificación de cambios suele ser realizado por un pequeño equipo de líderes de alto nivel o "alto potencial", a veces con la ayuda de consultores externos. Cuando su plan es aprobado por la alta dirección, se comunica a través de la organización, a menudo con algún mensaje de "plataforma ardiente" ("debemos actuar ahora, o estamos condenados") debido a la necesidad percibida de proporcionar la motivación necesaria para el cambio. De acuerdo con la metáfora Naranja que compara la organización con una máquina, la frase "cambio de chip" es común. El cambio, en otras palabras, se hace a la gente, no *vía* la gente.\
+
+  \
+
+  **Organizaciones Verdes**\
+
+  Las [organizaciones verdes ](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Verde_y_las_Organizaciones "El Paradigma Verde y las Organizaciones")al enfrentar el cambio y la gestión del cambio tratan de buscar el consenso. Tener sólo un puñado de personas para diseñar el estado futuro y el proceso de cambio no encaja muy bien con el ideal Verde de empoderamiento. Es probable que haya que involucrar a más personas. Esto podría tomar la forma de talleres de grupos grandes y técnicas innovadoras de facilitación (piense por ejemplo, Encuesta Apreciativa, Teoría U, Espacio Abierto, etc.) en la que participan un gran número de colegas. La estructura jerárquica cotidiana de la organización se suspende temporalmente para dar cabida a un proceso orgánico de inteligencia colectiva. El resultado o productos del taller se agregan entonces de nuevo en las estructuras jerárquicas tradicionales, y los procesos de la organización. La participación de un mayor número de colegas en la planificación del cambio puede sentirse riesgoso para el liderazgo de alto nivel (¿Qué pasa si el grupo se desvía en una dirección que no queremos?), Pero la experiencia demuestra que aumenta considerablemente el buy-in (compromiso) de los empleados, reduce la resistencia al cambio, y que el proceso de inteligencia colectiva supera resulta en diseños de implementación de mayor calidad.
 
 
-  In [Red Organizations](../red-organizations/), change is directed by the boss. A Red organization can often adapt quickly in chaotic environments, because the leader can initiate rapid change, if necessary through intimidation. Change typically consists of immediate reactions to threats and opportunities rather than a response to more gradual and longer term (although no less important) developments. Little attention is paid to altering ingrained patterns of employee behavior over time.
-
-
-  #### Amber organizations
-
-
-  The [Amber paradigm](../amber-paradigm-and-organizations/) believes the world is (or should) be essentially immutable: what was true yesterday should be true today and tomorrow. It is built around an orderly structure and formal, stable processes. Change is primarily via small improvements to enhance the excellence of existing processes and traditions. Amber organizations can display a strong resistance to the need for change, especially if the nature of the change threatens ideological boundaries or social norms. When outside forces do impose the need for change, the change is mandated top-down with little thought of how change could be planned to minimize resistance. In that sense, there is little or no "change management" to speak of. 
-
-
-  #### Orange organizations
-
-
-  [Orange organizations](../orange-paradigm-and-organizations/) are more likely to embrace change. Innovation is the key to outperforming competitors. Change should be constant. Unfortunately, as Orange organizations are typically structured as hierarchical pyramids, change can be difficult. Thus, the constant pursuit of change, hindered by the static nature of the organization, gave rise to "change management" and an industry of tools and consultancies to help organizations overcome their internal resistance to change.^\[For prominent theories developed to facilitate organizational change, see for instance Kurt Lewin’s three-stage model of change and John Kotter’s eight-step process for leading change.]
-
-
-  In Orange, the dominant perspective on change comes from engineering. The typical steps to any change (e.g., re-organizations, re-structuring, re-branding, re-positioning, etc.) are to diagnose the current situation, design the desired future state, and then plan the change journey from here to there. For large change projects, this might involve several projects, program milestones and a central "program office" that reports to the top leadership. This kind of change planning is typically performed by a small team of senior leaders or "high potentials", sometimes with the help of external consultants. When their plan is approved by senior management, it is communicated throughout the organization, often with some “burning platform” message (“we must act now, or we are doomed”) due to the perceived need to provide the necessary motivation for change. Consistent with the Orange metaphor likening the organization to a machine, the phrase “drive change” is common. Change, in others words, is done to people, not via people.
-
-
-  #### Green organizations
-
-
-  [Green organizations](../green-paradigm-and-organizations/) try to be more consensual. Having only a handful of people design the future state and change process sits uncomfortably with Green's ideal of empowerment. More people are likely to be involved. This might take the form of large group workshops and innovative facilitation techniques (think for instance, Appreciative Inquiry, Theory U, Open Space, etc.) in which a large number of colleagues participate. The every-day hierarchical structure of the organization is suspended temporarily to make room for an organic process of collective intelligence. The outcomes are then fed back into the traditional structures and processes of the organization. Involving a larger number of colleagues in the planning of change can feel risky for the senior leadership (what if the group veers in a direction we don't want?), but it tends to increase the buy-in of employees and improve future designs by capturing the insights of collective intelligence.
+  <!--EndFragment-->
 inPractice: >-
-  Change management is less of an issue in Teal organizations. Change tends to
-  happen more naturally, and continuously, with less effort or management. It's
-  an evolutionary process which can be initiated by anyone and managed by
-  everyone. As the organization evolves, it changes on a daily basis, and there
-  is rarely a need for major overhaul or drastic change management programs.
-  Change management as a field of practice mostly disappears.
+  <!--StartFragment-->
 
 
-  #### Change on a continuous basis
+  La gestión del cambio no es un problema ni una preocupación en las organizaciones Teal. El cambio tiende a ocurrir más naturalmente, y continuamente, con menos esfuerzo o manejo. Es un proceso evolutivo que puede ser iniciado por cualquier persona y gestionado por todos. A medida que la organización evoluciona, cambia a diario, y rara vez se necesita una revisión general o programas de gestión de cambios drásticos. La gestión del cambio como campo de práctica desaparece en su mayoría.\
+
+  \
+
+  **Cambiar de manera continua**
 
 
-  Thinking of Teal organizations as living systems helps to explain how change unfolds within them. Living systems have a capacity to sense change in the environment and adapt. They react creatively, in the moment. Teal organizations deal with change in a similar way. People are free to act on what they sense is needed. They are not restricted by static job descriptions, reporting lines and functional units. They can react to emerging events. Specific methods embedded in the organization allow space for people to listen to the organization's purpose and the change it may require. When everyone is free to sense the need for change, and to act on it, change is a given; it happens naturally, everywhere, all the time, mostly without great pain or effort. Major disruptive change efforts (as we know them from more traditional organizations) largely disappear.
+  La metáfora de las organizaciones Teal como sistemas vivos ayuda a entender cómo se desarrolla el cambio dentro de ellas. Los sistemas vivos tienen la capacidad de sentir el cambio en el medio ambiente y de adaptarse desde dentro. Los ecosistemas reaccionan creativamente, en el momento. Las organizaciones Teal lidian con el cambio de una manera similar. La gente es libre de actuar en lo que siente necesario. No están encuadrados en las descripciones de trabajo estáticas estáticas, las líneas de responsabilidad y las unidades funcionales. Pueden reaccionar de manera creativa ante el emergente, sorprendente, despliegue no lineal de la vida. Los métodos específicos se pueden introducir en los procesos diarios de la organización se crean espacios donde podemos escuchar el propósito de la organización, y reflexionar sobre el cambio que se requiere. Cuando todo el mundo es libre de percibir una necesidad de cambio y actuar en consecuencia, el cambio es un hecho, que ocurre de manera natural, en todas partes, todo el tiempo, en su mayoría sin dolor y esfuerzo. La necesidad de grandes esfuerzos, un cambio disruptivo (tal como los conocemos de las organizaciones más tradicionales) desaparece, y con ella la necesidad de aplicar técnicas de "gestión del cambio".\
+
+  \
+
+  **Cuando se necesita un cambio drástico a gran escala**\
+
+  Incluso en aquellas raras situaciones en las que se necesita un cambio a gran escala, las organizaciones Teal naturalmente involucran a la mayor cantidad de gente como sea posible para que entienda la necesidad de cambio y diseñe la respuesta apropiada. En la mayoría de los casos, las organizaciones Teal mantendrá el proceso de los consejos, incluso si esto significa incluir a toda la organización. La experiencia ha demostrado que, en la mayoría de los casos, los colegas tienen la madurez para participar en decisiones incluso dolorosas y el ingenio para llegar a soluciones creativas.
 
 
-  #### When large scale change is needed
+  Cuando se trata de involucra a un gran número de colegas, los procesos de grupos grandes, como la Teoría U, la Indagación Apreciativa, el Espacio Abierto u otros pueden ser utilizados para lograr efectivamente una comprensión colectiva y para cristalizar una visión del futuro. ¿Hasta qué punto los proyectos de cambio necesitan ser formalmente planificados y seguidos? A menudo dentro del paradigma Teal, la forma sigue a la función. Por ejemplo, si hay muchas interdependencias, plazos muy ajustados o altos grados de riesgo, una planificación más formal y su seguimiento podría ser necesaria. En otros casos, una comprensión común y clara del futuro es todo lo que se necesita. Los grupos de personas lanzarán los proyectos necesarios para manifestar la visión colectiva. Si esto no sucede, el sistema se va a auto corregir: alguien va a hablar e iniciar el cambio.
 
 
-  Even in those rare situations when large scale change is needed, Teal organizations naturally work to involve all those affected by the change in determining the appropriate response. In most cases, Teal organizations will uphold the advice process, even if it means including the entire organization. Experience has shown that, in most cases, colleagues have the maturity to participate in even painful decisions and the ingenuity to come up with creative solutions.
-
-
-  When many colleagues are involved, large group processes, such as Theory U, Appreciative Inquiry, Open Space or others may be used to effectively surface a collective understanding and to crystallize a vision of the future. To what degree do change projects then need to be formally planned and followed up? As is often true within the Teal paradigm, form follows function. For instance, if there are many interdependencies, very tight deadlines, or high degrees of risk, more formal planning and follow-up might be needed. In other cases, a common, clear understanding of the future is all that is required. Groups of people launch the necessary projects to manifest the collective vision. If that fails to happen, the system will self-correct: someone will speak up to initiate further change.
+  <!--EndFragment-->
 faq:
-  - question: "Surely a Teal organization must sometimes face a situation where
-      drastic change and top-down decision-making are needed: Are traditional
-      change management methods helpful in such cases?"
-    answer: Teal organizations tend to adapt continuously to small changes in the
-      environment. But sometimes the organization can fail to adapt to a number
-      of changes that build up over time. In other cases, a sudden, external
-      shock occurs (say, the biggest client goes bust, or a key regulation
-      changes). In such circumstances, drastic and quick actions may be
-      necessary, calling for the [advice process](../decision-making/) to be
-      suspended, and for decisions to be made quickly by a small group of people
-      or even an individual. However, it is made clear to all that such a
-      suspension is temporary. See “Crisis Management”.
-  - question: How do these practices link with the three Teal breakthroughs?
+  - question: Seguramente una organización Teal debe a veces enfrentarse a una
+      situación en la que se necesitan cambios drásticos y toma de decisiones de
+      arriba hacia abajo:¿Son útiles los métodos tradicionales de gestión del
+      cambio en estos casos?
     answer: >-
-      All three Teal breakthroughs support a more fluid, organic approach to
-      change that makes "change management" largely irrelevant.
+      <!--StartFragment-->
 
 
-      ##### *Self-management*
+      Las organizaciones Teal tienden a adaptarse continuamente a pequeños cambios en el medio ambiente. Pero a veces la organización no puede adaptarse a una serie de cambios que se acumulan con el tiempo. En otros casos, se produce un choque externo repentino (digamos, el cliente más grande se desvanece o cambia una regulación clave). En tales circunstancias, pueden ser necesarias acciones drásticas y rápidas, pidiendo que el [proceso de los consejos](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Toma_de_Decisiones "Toma de Decisiones") sea suspendido y que las decisiones sean tomadas rápidamente por un pequeño grupo de personas o incluso por un individuo. Sin embargo, se deja claro a todos que tal suspensión es temporal. Consulte "[Gestión de crisis](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Gesti%C3%B3n_de_la_Crisis "Gestión de la Crisis")".
 
 
-      Self-management encourages everyone to sense when change is needed and to initiate the necessary actions to make it happen. No longer do people wait for a mandate for change to come from someone higher up the chain of command.
+      <!--EndFragment-->
+  - question: ¿Cómo se relacionan estas prácticas con los tres avances Teal?
+    answer: >-
+      <!--StartFragment-->
 
 
-      ##### *Wholeness*
+      Los tres avances Teal apoyan un enfoque más fluido y orgánico del cambio que hace que la "gestión del cambio" sea en gran medida irrelevante.\
+
+      \
+
+      **Autogestión**\
+
+      La [autogestión ](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Autogesti%C3%B3n "Autogestión")anima a todos a percibir (sentir) cuando el cambio es necesario e iniciar las acciones necesarias para que esto suceda. Ya no esperan que venga un mandato para el cambio de alguien más arriba de la cadena de mando.\
+
+      \
+
+      **Plenitud**\
+
+      Cuantos más colegas puedan situarse desde una postura de [plenitud en el trabajo](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Plenitud "Plenitud"), mejor pueden percibir (sentir) los cambios en el ambiente y lo que el propósito de la organización podría requerir. Un ambiente que se siente seguro y confiado también hará más fácil la involucración de los colegas en la necesidad de cambio, especialmente cuando el cambio propuesto puede ser riesgoso o doloroso.\
+
+      \
+
+      **Propósito evolutivo**\
+
+      Los paradigmas organizacionales anteriores (predicción y control) sostienen que corresponde a la alta dirección determinar cuáles deben ser los objetivos de la organización e iniciar cualquier programa de cambio necesario para lograrlos. En Teal, mientras las acciones de las personas estén siendo guiadas por la continua ["escucha" del propósito](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Escuchando_el_Prop%C3%B3sito "Escuchando el Propósito") de la organización a través de “*Sentir-y-Responder”* a los cambios en el ambiente, no hay necesidad de la "gestión del cambio".
 
 
-      The more colleagues can show up from a place of wholeness at work, the better they can sense changes in the environment and what the organization's purpose might call for. An environment that feels safe and trusting will also make it easier to enlist colleagues in the need for change, especially when the proposed change might be risky or painful.
-
-
-      ##### *Evolutionary purpose*
-
-
-      Earlier organizational paradigms (predict and control) hold that that it is up to senior management to determine what the objectives of the organization should be and to initiate any change programs needed to achieve them. In Teal, as long as people’s actions are being guided by their “listening” to the organization’s purpose and sensing/responding to changes in the environment, there is no need for "change management".
+      <!--EndFragment-->
 relatedTheory:
   - Listening to Purpose
   - Evolutionary Purpose
@@ -126,4 +141,3 @@ relatedTheory:
   - Crisis Management
   - Project teams and task forces
 ---
-to be removed
