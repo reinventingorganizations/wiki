@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Information Flow
-name: Information Flow
+name: Flujo de la Información
 sortOrder: 5
 category: Daily practices
 intro: This article describes how information and information flow are used in
