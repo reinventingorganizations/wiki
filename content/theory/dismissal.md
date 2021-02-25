@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Dismissal
-name: Dismissal
+name: Despidos
 sortOrder: 10
 category: People practices
 intro: >-
