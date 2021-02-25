@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Role Definition and Allocation
-name: Role Definition and Allocation
+name: Definición y Asignación de funciones
 sortOrder: 9
 category: People practices
 intro: "This article describes how roles are defined and allocated in Teal
