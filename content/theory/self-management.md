@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Self-Management
-name: Self-Management
+name: Autogestión
 sortOrder: 1
 category: teal-concepts
 intro: >-
