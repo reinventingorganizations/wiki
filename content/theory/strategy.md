@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Strategy
-name: Strategy
+name: La Estrategia
 sortOrder: 1
 category: Important Processes
 intro: >-
