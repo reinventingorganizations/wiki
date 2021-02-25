@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Organizational Structure
-name: Organizational Structure
+name: Estructura Organizativa
 sortOrder: 1
 category: Structure of an organization
 intro: >-
