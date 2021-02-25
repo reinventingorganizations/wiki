@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Orange Paradigm and Organizations
-name: Orange Paradigm and Organizations
+name: El Paradigma Naranja y las Organizaciones
 sortOrder: 4
 category: history
 intro: >-
