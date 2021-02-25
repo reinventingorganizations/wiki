@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Purchasing and Investments
-name: Purchasing and Investments
+name: Compras e Inversiones
 sortOrder: 4
 category: Important Processes
 intro: >-
