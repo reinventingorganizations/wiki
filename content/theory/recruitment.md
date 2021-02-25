@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Recruitment
-name: Recruitment
+name: Reclutamiento
 sortOrder: 1
 category: People practices
 intro: This topic addresses recruitment and describes the processes for how
