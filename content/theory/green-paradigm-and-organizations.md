@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Green Paradigm and Organizations
-name: Green Paradigm and Organizations
+name: El Paradigma Verde y las Organizaciones
 sortOrder: 5
 category: history
 intro: >-
