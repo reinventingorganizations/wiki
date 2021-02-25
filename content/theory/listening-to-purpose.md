@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Listening to Purpose
-name: Listening to Purpose
+name: Escuchando el Propósito
 sortOrder: 10
 category: Daily practices
 intro: >-
