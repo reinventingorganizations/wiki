@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Red Organizations
-name: Red Paradigm and Organizations
+name: El paradigma Rojo y las Organizaciones
 sortOrder: 2
 category: history
 intro: >-
