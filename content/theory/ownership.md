@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Ownership
-name: Ownership
+name: La Propiedad
 sortOrder: 6
 category: Structure of an organization
 intro: "This article discusses the structure of ownership under Teal and the
