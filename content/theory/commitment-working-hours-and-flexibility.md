@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Commitment, Working Hours and Flexibility
-name: Commitment, Working Hours and Flexibility
+name: Compromiso, Horas de Trabajo y Flexibilidad
 sortOrder: 4
 category: People practices
 intro: >-
