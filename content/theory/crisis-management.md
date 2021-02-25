@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Crisis Management
-name: Crisis Management
+name: Gestión de la Crisis
 sortOrder: 8
 category: Important Processes
 intro: >-
