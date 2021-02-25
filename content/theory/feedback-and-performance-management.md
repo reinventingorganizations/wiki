@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Feedback and Performance Management
-name: Feedback and Performance Management
+name: Retroalimentación y Administración del desempeño
 sortOrder: 7
 category: People practices
 intro: >-
