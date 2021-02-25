@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Teal Paradigm and Organizations
-name: Teal Paradigm and Organizations
+name: El Paradigma Teal y las organizaciones
 sortOrder: 6
 category: history
 intro: >-
