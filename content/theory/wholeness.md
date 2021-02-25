@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: wholeness
-name: Wholeness
+name: Plenitud
 sortOrder: 3
 category: teal-concepts
 intro: >-
