@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Objectives and Target Setting
-name: Objectives and Target Setting
+name: Objetivos y Establecimiento de Metas
 sortOrder: 6
 category: People practices
 intro: >-
