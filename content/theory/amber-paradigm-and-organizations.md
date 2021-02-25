@@ -85,55 +85,134 @@ intro: >-
   <!--EndFragment-->
 
 
-  #### Breakthroughs and characteristics of Amber organizations
+  <!--StartFragment-->
 
 
-  The advent of Amber organizations brought about two major breakthroughs: organizations can now plan for the medium and long term, and they can create organizational structures that are stable and can scale. Combine these two breakthroughs, and you get organizations able to achieve unprecedented outcomes, beyond anything Red organizations could have even contemplated. Historically, Amber organizations are the ones that have built irrigation systems, pyramids, and the Great Wall of China. Amber organizations ran the ships, the trading posts, and the plantations of the Colonial world. The Catholic Church is built on this paradigm―arguably it has been the defining Amber organization for the Western world. The first large corporations of the Industrial Revolution were run on this template. Amber organizations are still very present today: most government agencies, public schools, religious institutions, and the military are run based on Amber principles and practices.
+  **Avances Revolucionarios y Características de las Organizaciones Ámbar**
 
 
-  ##### Amber breakthrough 1: Long-term perspective (stable processes)
+  <!--EndFragment-->
 
 
-  Red organizations tend to be opportunistic; they don’t generally think more than a few weeks ahead. Amber organizations can take on long-term projects―constructing cathedrals that might take two centuries to complete or creating networks of colonial trading posts thousands of miles away to facilitate commerce.
+  <!--StartFragment-->
 
 
-  This breakthrough is very much linked to the invention of processes. With processes, we can replicate past experience into the future. Last year’s harvest will be our template for this year’s; next year’s classroom will be run with the same lesson plan as this year’s. With processes, critical knowledge no longer depends on a particular person; it is embedded in the organization and can be transmitted across generations. Any person can be replaced by another that takes over the same role in the process. Even the chief is replaceable, in an orderly succession, and Amber organizations can therefore survive for centuries.
+  La aparición de las organizaciones Ámbar trajo consigo dos avances revolucionarios: se hizo posible planificar a medio y a largo plazo y crear estructuras organizativas estables que permiten escalar. Si combinamos ambos avances, el resultado son organizaciones capaces de alcanzar logros sin precedentes, mucho más allá de cualquier cosa que hubieran podido imaginar las organizaciones Rojas. En sentido histórico, las organizaciones Ámbar son las que construyeron los sistemas de riego, las pirámides y la gran muralla china. Las organizaciones Ámbar-Conformista pusieron en marcha los barcos, los mercados internacionales y las plantaciones coloniales. Con este paradigma se construyó la Iglesia católica que, según se dice, sería la organización Ámbar por excelencia del mundo occidental. En el marco de este modelo operaron las primeras grandes corporaciones de la revolución industrial. Hoy en día, las organizaciones Ámbar siguen estando muy presentes: la mayor parte de las organizaciones gubernamentales, de las escuelas públicas, de las instituciones religiosas y las Fuerzas armadas operan sobre los principios y prácticas Ámbar-Conformista.
 
 
-  At an individual level, people operating from a Amber paradigm strive for order and predictability; change is viewed with suspicion. The same holds true for Amber organizations, which are exceptionally well-suited for a stable world where the future can be planned based on past experience. They operate on the hidden assumption that there is one right way of doing things and that the world is (or should be) absolute. What has worked in the past will work in the future. Amber organizations find it hard to accept the need for change. The idea that there is one right way makes them uncomfortable with competition. Historically, they have striven for dominance and monopoly.
+  <!--EndFragment-->
 
 
-  ##### Amber breakthrough 2: Size and stability (formal hierarchies)
+  <!--StartFragment-->
 
 
-  In Red organizations, power structures are in constant flux as personalities jockey for influence. Amber organizations bring stability to power, with formal titles, fixed hierarchies, and organization charts. The overall structure settles into a well defined hierarchy. The plant manager is in charge of the department heads, who in turn oversee unit managers, line managers, foremen, and operators. Personal allegiance to the chief is no longer needed because everyone knows where they fit in the hierarchy. Much larger organizations become possible, spanning not hundreds but thousands of workers, and they can operate across vast distances. Mankind’s first global organizations―from the Catholic Church to the East India Company―were built on a Amber template.
+  **Avance revolucionario 1: Perspectiva de Largo Plazo (Procesos Estables)**
 
 
-  Planning and execution are strictly separated: the thinking happens at the top, the doing at the bottom. Decisions made at the top get handed down through successive layers of management. Control is maintained through compliance with rules and procedures. Leaders at all levels are given responsibility for compliance and can discipline those found wanting..
+  <!--EndFragment-->
 
 
-  The underlying worldview is that workers are mostly lazy, dishonest, and in need of direction. They must be supervised and told what is expected of them. Participatory management seems foolish from an Amber perspective; management must rely on command and control to achieve results. Jobs at the frontlines are specific and often routine. Innovation, critical thinking, and self-expression are not asked for (and are often discouraged). Information is shared on an as-needed basis. People are effectively interchangeable resources.
+  <!--StartFragment-->
 
 
-  From the vantage point of later stages, this might sound severely limiting. But as a step up from Red, it is major progress. Even people at the bottom of the organization feel that the predictability of routine work is liberating compared to the constant vigilance required in Red organization.. We no longer need to watch out for threats and danger that might come unexpectedly from any direction. We just need to follow the rules.
+  Las organizaciones Rojas tienden a ser extremadamente oportunistas; no acostumbran poner el ojo en una recompensa que esté a más de pocos días o semanas de distancia. Las organizaciones Ámbar pueden poner en marcha proyectos a muy largo plazo, por ejemplo edificar catedrales cuya construcción puede llevar doscientos años, o crear redes de mercados fronterizos coloniales separados por miles de kilómetros para facilitar el comercio.\
+
+  \
+
+  Este avance revolucionario está en gran medida conectado con la creación de los procesos. Los procesos nos permiten replicar en el futuro la experiencia pasada. La cosecha de! año pasado será el modelo para la de este año; la clase del año que viene se hará con el mismo plan de estudios que la de este año. Si contamos con procesos, el conocimiento crítico ya no depende de una persona en particular; impregna la organización y puede ser transmitido de una generación a otra. Cualquier persona puede ser reemplazada por otra que se haga cargo de la misma función en el proceso. Incluso el jefe es reemplazable, en una sucesión ordenada, y así las organizaciones Ámbar pueden sobrevivir por siglos.\
+
+  \
+
+  A nivel individual, las personas que operan desde un paradigma Ámbar-Conformista luchan por el orden y la predictibilidad. El cambio les resulta sospechoso. Lo mismo sucede con las organizaciones Ámbar, que son excepcionalmente apropiadas en contextos estables en los que se puede planificar el futuro a partir de la experiencia pasada. Operan con el supuesto oculto de que hay una sola forma correcta de hacer las cosas y de que el mundo es (o debería ser) inmutable. Aquello que funcionó en el pasado, funcionará en el futuro. Cuando el contexto es cambiante y nuestra forma de hacer las cosas deja de funcionar, a las organizaciones Ámbar les resulta difícil aceptar la necesidad del cambio. La idea de que hay una sola forma correcta hace que la competencia les resulte incómoda. En la historia, han luchado por la dominación y el monopolio, y aún hoy la competencia les parece sospechosa.
 
 
-  ##### Amber shadow: the social mask
+  <!--EndFragment-->
 
 
-  Size and stability become possible because people in Amber are content to stay in their place in return for safety and predictability. People operating from this stage closely identify with their role and position. Amber organizations have invented and generalized the use of titles, ranks, and uniforms to bolster role identification. A bishop’s robe signals that inside is no mere priest. A general’s uniform can hardly be confused with a lieutenant’s or a private’s, even from far away. In factories, the owner, the engineer, the accountant, the foreman, and the machine operator tend to dress differently, even to this day. When we put on our ‘uniform’, we also put on a distinct identity, a social mask. We internalize behaviors that are expected of people with our rank and in our line of work. As a worker, it’s not only that I wear a different clothes to the engineer. I eat in the workers’ mess; he eats in the factory restaurant. And in these places, the subjects of conversation, the jokes, and the type of self-disclosure are vastly different. Social stability comes at the price of wearing a mask, of learning to distance ourselves from our unique nature, from our personal desires, needs, and feelings; instead, we embrace a socially acceptable self.
+  <!--StartFragment-->
 
 
-  Historically, this hierarchical stratification in organizations paralleled social stratification: The roles you could aspire to depended on your families position in society. It was often very difficult to ‘break the mold’. Fortunately, that rigid social stratification has disappeared in modern societies. Today’s Amber organizations still tend to reinforce hierarchy, albeit in more subtle ways. Promotion is often based on experience and service and sometimes the most qualified do not get the job because they haven’t ticked all the right boxes.
+  **Avance revolucionario 2: Tamaño y Estabilidad (Jerarquías Formales)**
 
 
-  ##### Amber shadow: Us versus them
+  <!--EndFragment-->
 
 
-  Social belonging is paramount in the Amber paradigm. You are part of the group, or you are not―it is “us” versus “them.” This dividing line can be found throughout Amber organizations―nurses versus doctors versus administrators, line versus staff, frontline versus headquarters etc. Amber organizations have definitive silos, and groups eye each other with suspicion across them. Co-operation and trust is enabled through procedures and rules that people have to abide by.
+  <!--StartFragment-->
 
 
-  If there are barriers inside the organization, there is a moat between the organization and the outside world. Amber organizations try wherever possible to be self-contained and autonomous. Early car factories had their own rubber plantations and steel mills, operated their own bakeries, and provided social housing. Employees also “belong” to the organization: employment is assumed to be lifelong, and much of people’s social life revolves around the organization. The possibility of dismissal therefore carries a double threat: employees risk losing both the identity the work gives them as well as the social fabric they are embedded in. Someone who decides to leave the organization is often met with bewilderment, if not accused of betrayal. Many of today’s Amber organizations still have lifetime employment as an underlying norm. For those who decide to leave, the process is often painful―akin to shedding an old life and having to reinvent a new one.
+  En las organizaciones Rojas, las estructuras de poder están en constante movimiento debido a que existe una competencia permanente por la influencia. Las organizaciones Ámbar-Conformista estabilizan el poder con sus títulos formales, sus jerarquías fijas y sus organigramas. La estructura general es una pirámide rígida con una cascada de líneas formales de información que va de los jefes a los subordinados. Debajo del Papa se encuentran los cardenales; debajo de los cardenales, los arzobispos; debajo de los arzobispos, los obispos; y debajo de los obispos, los sacerdotes. El gerente de planta manda sobre los jefes de departamento, que a su vez supervisan a los jefes de unidad, a los gerentes de línea, a los capataces y a los operadores de las máquinas. Ya no es necesario que el soldado le deba lealtad personal al cacique, porque el soldado ya ocupa su lugar en la jerarquía. Aunque el Papa sea débil, ningún sacerdote planeará apuñalarlo por la espalda y ocupar su lugar. Esto hace posible organizaciones mucho más grandes, que incluyen ya no cientos, sino miles de trabajadores, y que pueden operar desde grandes distancias. Las primeras organizaciones globales de la humanidad (desde la Iglesia católica hasta la Compañía Británica de las Indias Orientales) fueron creadas con un molde Ámbar-Conformista.\
+
+  \
+
+  La planificación y la ejecución están estrictamente separadas: se piensa en la cima y se actúa en la base. Las decisiones que se toman arriba pasan hacia abajo a través de sucesivas capas de dirección. La constante amenaza de violencia que viene de arriba en las organizaciones Rojas da paso a mecanismos de control más sutiles y elaborados. Se arma un catálogo completo de reglas. Una parte del personal queda a cargo de asegurar que estas se cumplan y de imponer medidas disciplinarias entre los que no lo hagan. Al que llegue tarde al trabajo, se le descontará parte del sueldo. Si llega tarde de nuevo, quedará suspendido por un día. Si llega tarde otra vez, acaso lo despidan.\
+
+  \
+
+  La visión del mundo que subyace es que los trabajadores son por lo general débiles, deshonestos y urgidos de orden. Hay que supervisarlos y decirles lo que se espera de ellos. Desde la perspectiva Ámbar-Conformista, la gestión participativa parece ridícula; para obtener resultados, la gestión dependerá del orden y del control. En el frente de batalla, los trabajos son pequeños y rutinarios. No sólo no se espera que surja la innovación, el pensamiento crítico ni la auto expresión, sino que a menudo se desalientan. La información sólo se comparte en la medida de lo necesario. La personas son recursos intercambiables; no se distingue ni se desarrolla el talento Individual.\
+
+  \
+
+  Todo esto puede sonar severamente limitante desde la ventajosa perspectiva de los estadios posteriores. Pero como paso desde el estadio Rojo significa un enorme progreso. Incluso aquellos que están en la base y desempeñan trabajos rutinarios pueden sentirse liberados. En las organizaciones Rojas, la gente debe luchar día tras día para defender su territorio (y hasta su vida) de su jefe, de sus pares y de sus subordinados. En contraste, el orden y la predictibilidad de las organizaciones Ámbar resultan un refugio seguro. Ya no necesitamos protegernos de amenazas o peligros imprevisibles. Lo único que necesitamos es seguir las reglas.
+
+
+  <!--EndFragment-->
+
+
+  <!--StartFragment-->
+
+
+  **La sombra Ámbar: La mascara social**
+
+
+  <!--EndFragment-->
+
+
+  <!--StartFragment-->
+
+
+  Las dimensiones más grandes y la estabilidad son posibles porque en el Ámbar-Conformista la gente está satisfecha de permanecer en su compartimento y no rivalizar por un premio mayor. Quienes operan desde este estadio, se identifican con su función y con su lugar particular dentro de la organización. Las organizaciones Ámbar han inventado y generalizado el uso de títulos, rangos y uniformes para reforzar la Identificación de las funciones. La sotana de un obispo indica que quien la lleva puesta no es sólo un sacerdote. Es difícil confundir el uniforme de un general con el de un teniente o un soldado raso, aun en la distancia. Todavía hoy, el dueño, el ingeniero, el capataz y el operario de una fábrica tienden a vestirse distinto. Al vestirnos, nos calzamos también una identidad distintiva, una máscara social. Interiorizamos los comportamientos previsibles en alguien con nuestro rango y en nuestra línea de trabajo. Los obreros no sólo llevan un uniforme distinto al de un ingeniero. También almuerzan en medio del desorden de los obreros mientras el ingeniero almuerza en el restaurante de la fábrica. Ambos lugares son diferentes en todo: en los temas de conversación, en las bromas y en cuánta franqueza está permitida. El precio de la estabilidad social es la obligación de usar una máscara y de aprender a distanciarnos de nuestra naturaleza única, de nuestros propios deseos, necesidades y sentimientos. A cambio, interiorizamos un personaje socialmente aceptable.\
+
+  \
+
+  En la historia, esta estratificación jerárquica de las organizaciones ha sido paralela a la estratificación social: los sacerdotes se reclutaban entre los campesinos, y los obispos y cardenales entre la aristocracia. En las organizaciones, la escala tenía grandes brechas; un hombre (y ni hablar de una mujer) nacido en la clase trabajadora no lograría nunca ascender a una posición de mando. Por fortuna, en nuestra sociedad moderna esta rígida estratificación social ha desaparecido. Pero las actuales organizaciones Ámbar aún tienden a replicar la estratificación jerárquica, aunque de maneras más sutiles. La promoción es a menudo basada en la experiencia y el servicio y algunas veces los más calificados no obtienen el trabajo porque no han sido etiquetados en las cajas correctas.
+
+
+  <!--EndFragment-->
+
+
+  <!--StartFragment-->
+
+
+  **La sombra Ámbar: Nosotros versus ellos**
+
+
+  <!--EndFragment-->
+
+
+  <!--StartFragment-->
+
+
+  La pertenencia social es primordial en el paradigma Ámbar-Conformista. O eres parte del grupo o no lo eres; somos "nosotros" versus "ellos". Esta línea divisoria puede encontrarse a lo largo de todas las organizaciones Ámbar: enfermeras versos doctores versus administradores, departamento versus empleados, marketing versos finanzas, atención al cliente versus oficina central, escuelas públicas versus escuelas particulares subvencionadas, etcétera. El recurso para desviar el conflicto interno de un grupo es culpar a otros de los problemas y errores. Las organizaciones Ámbar tienen compartimentos estancos muy definidos y los grupos se observan unos a otros con recelo. Intentan restaurar la confianza a través del control, y para ello crean procedimientos a los que deberán atenerse las personas de cada compartimento.\
+
+  Si dentro de la organización hay barreras, entre la organización y el mundo exterior hay una fosa. Las organizaciones Ámbar se esfuerzan por ser autocontenldas y autónomas en lo posible; uno no debería necesitar del mundo exterior. Las primeras fábricas de automóviles tenían sus propias plantaciones de caucho y plantas acereras, dirigían sus propias panaderías y proporcionaban viviendas sociales.\
+
+  Los empleados también "pertenecen" a la organización: se asume que el trabajo es para toda la vida y gran parte de la vida social de la gente transcurre en torno a la organización. De esta manera, un posible despido lleva consigo una doble amenaza: los empleados se arriesgan a perder tanto la Identidad que íes da su trabajo como el entramado social del que forman parte. Alguien que decide abandonar su trabajo se encuentra a menudo con la perplejidad de los demás y hasta puede ser acusado de traición. De forma más sutil, las actuales organizaciones Ámbar (a menudo instituciones gubernamentales, religiosas, militares o escuelas públicas) siguen teniendo el trabajo de por vida como norma implícita o explícita, y para muchos de sus empleados la vida social gira en buena parte en torno a la vida laboral. Quienes se sienten insatisfechos en las organizaciones Ámbar y deciden dejarlas, suelen pasar por un proceso doloroso, similar a dejar atrás un tipo de vida para reinventar otro.\
+
+  \
+
+  **Notas y referencias**
+
+
+  <!--EndFragment--><!--StartFragment-->
+
+
+  1. Esta etapa corresponde a la "Mítica" de Gebser, Loevinger’s, Cook-Greuter’s and Wade's “Conformist,” Graves’ “DQ,” Spiral Dynamics’ “Blue,” Kegan’s “Interpersonal,” Torbert’s “Diplomat” and “Expert,” Piaget’s “Concrete Operational,” and others.
+
+  2. Ken Wilber, A Brief History of Everything (Boston: Shambhala Publications, 1996), 273.
+
+
+  <!--EndFragment-->
 perspective: ""
 inPractice: ""
 ---
