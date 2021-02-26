@@ -6,118 +6,124 @@ name: Compromiso, Horas de Trabajo y Flexibilidad
 sortOrder: 4
 category: People practices
 intro: >-
-  The topic of commitment, working hours and flexibility includes the process of
-  how working hours are set, what commitment a person is expected to provide and
-  how organizations respond to changing demands.
+  <!--StartFragment-->
+
+
+  El tema del compromiso, las horas de trabajo y la flexibilidad incluye el proceso de cómo se establecen las horas de trabajo, qué compromiso se espera que una persona proporcione y cómo las organizaciones responden a las demandas cambiantes.
+
+
+  <!--EndFragment-->
 
 
   ![](/media/agenda.jpg)
 perspective: >-
-  #### Working Hours
+  <!--StartFragment-->
 
 
-  In traditional hierarchies, working hours are specified in an employment contract. There is often an underlying fear that people will not work the hours they are paid for without monitoring, especially at the lower levels in an organization.
+  **Horas laborales**\
+
+  En las jerarquías tradicionales, las horas de trabajo se especifican en un contrato de trabajo. Hay a menudo un temor subyacente que la gente no trabajará las horas que se pagan sin la supervisión, especialmente en los niveles más bajos en una organización. Cuando las personas tienen la libertad de elegir y acordar sus propias horas de trabajo, se crea un ambiente de confianza que motiva a las personas a ser plenamente responsables de su trabajo.\
+
+  Cuando una organización no está preparada para la autogestión, auto establecer las horas de trabajo pueden ser un buen primer paso. Este enfoque comienza a construir una mayor confianza y colaboración entre jefe y colaborador cuando se hace bien.\
+
+  \
+
+  **Compromisos**\
+
+  Cuando los colegas trabajan en una cultura donde es normal y necesario compartir otros compromisos en sus vidas, la autenticidad y el ser entero en el trabajo son bienvenidos. La apertura sobre los compromisos personales puede desarrollar relaciones más fuertes entre colegas y resultar en una cultura donde los colegas se apoyan mutuamente. En épocas de necesidad o crisis, por ejemplo en temporada alta, es común en las [organizaciones Teal](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones") que los trabajadores, trabajen voluntariamente más horas para completar una tarea con motivación y orgullo, apoyando a sus colegas y trabajando hacia el propósito de la organización.\
+
+  \
+
+  Cada etapa histórica ha dado nacimiento a una perspectiva distinta sobre el compromiso, las horas de trabajo y la flexibilidad, ya prácticas muy diferentes:\
+
+  \
+
+  **Organizaciones Rojas**\
+
+  En las [organizaciones Rojas](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_paradigma_Rojo_y_las_Organizaciones "El paradigma Rojo y las Organizaciones"), el jefe determina las horas de trabajo para cada persona. No hay un proceso formal de establecimiento y / o monitoreo de horas de trabajo. Las personas pertenecen a la organización y se espera que estén disponibles cuando sea necesario.\
+
+  \
+
+  **Organizaciones Ámbar**\
+
+  En [Organizaciones Ámbar](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_%C3%81mbar_y_las_Organizaciones "El Paradigma Ámbar y las Organizaciones") , las horas de trabajo son determinadas por altos líderes y especificadas en un contrato de trabajo. Ellos deciden qué trabajo se llevará a cabo y cómo se controlará el horario de trabajo.\
+
+  \
+
+  **Organizaciones Naranja**\
+
+  En las [Organizaciones Naranja](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Naranja_y_las_Organizaciones "El Paradigma Naranja y las Organizaciones"), la gente generalmente cae en uno de los dos campos. Hay aquellos (a menudo en roles manuales) que trabajan un conjunto fijo de horas de reloj y reloj, y aquellos (a menudo en puestos de gestión), que se espera que su trabajo realizado independientemente de las horas indicadas en su contrato.\
+
+  \
+
+  **Organizaciones Verdes**\
+
+  En las [organizaciones Verdes](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Verde_y_las_Organizaciones "El Paradigma Verde y las Organizaciones"), normalmente existe una cultura de cooperación en la que las personas tienen el poder de trabajar las horas que escogen, aunque dentro de una estructura definida. Flex-tiempo se utiliza a menudo para los trabajadores de nivel inferior, a fin de permitir que las personas para encajar en el trabajo con el resto de su vida. Trabajar desde casa es una opción realista para aquellos cuyo papel lo permite.\
+
+  \
+
+  **Organizaciones Teal**\
+
+  En la superficie, las [organizaciones Teal](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones") pueden no parecer tan diferentes de las verdes en relación con el compromiso, las horas de trabajo y la flexibilidad. La diferencia está en la madurez y la coherencia. Mientras que una organización Verde podría poner los perfiles de prácticas arriba disponibles para poblaciones específicas, una organización Teal haría estas prácticas ampliamente disponibles como parte normal de su forma de operar.\
+
+  Las organizaciones Teal suelen presentar las siguientes medidas generales:
 
 
-  When people have the freedom to choose and agree their own working hours, an environment of trust is created that motivates people to be fully responsible for their work.
+  * Las horas de trabajo no son controladas ni decididas por nadie
+
+  * Se confía en la gente para establecer sus propias metas y que trabajará hasta que las alcance.
+
+  * Hay un entendimiento compartido de que a veces, las personas pueden necesitar variar su compromiso con el trabajo. Estas situaciones se comparten y abiertamente se discuten para que la tarea en cuestión se puede completar con el apoyo de todos.
 
 
-  When an organization isn’t ready for self-management, self-set working hours can be a good first step. This approach starts to build greater trust and collaboration between boss and subordinate when it works well.
 
 
-  #### Commitments
-
-
-  When colleagues work in a culture where it is normal and necessary to share other commitments in their lives, authenticity and being whole at work are embraced. Openness about personal commitments can develop stronger relationships amongst colleagues and result in a culture where colleagues support each other.
-
-
-  In times of need or crisis, for example in high season,  it is common in [Teal organizations](../teal-paradigm-and-organizations/) for workers, to voluntarily work longer hours to complete a task with motivation and pride, supporting their colleagues and working towards the purpose of the organization.
-
-  Every historical stage has given birth to a distinct perspective on commitment, working hours and flexibility, and to very different practices:
-
-
-  #### **Red organizations**
-
-
-  In [Red organizations](../red-organizations/), the boss determines working hours for each person. There is no formal process of setting and/or monitoring working hours. People belong to the organization and are expected to be available when needed.
-
-
-  #### **Amber organizations**
-
-
-  In [Amber Organizations](../amber-paradigm-and-organizations/), working hours are determined by senior leaders and specified in an employment contract. They decide what work is to be carried out and how working hours will be monitored.
-
-
-  #### **Orange organizations**
-
-
-  In [Orange organizations](../orange-paradigm-and-organizations/), people generally fall into one of two camps. There are those (often in manual roles) who work a fixed set of hours clocking in and clocking out, and those (often in management positions), who are expected to get their work done regardless of the hours stated in their contract.
-
-
-  #### **Green organizations**
-
-
-  In [Green organizations](../green-paradigm-and-organizations/), there is typically a culture of co-operation where people are empowered to work the hours they choose albeit within a defined structure. Flex-time is often used for lower-level workers in order to allow people to fit work in with the rest of their life. Working from home is a realistic option for those whose role allows it.
-
-
-  #### **Teal organizations**
-
-
-  On the surface, [Teal organizations ](../teal-paradigm-and-organizations/)may not look so different from Green ones relative to commitment, working hours and flexibility. The difference is in maturity and coherence. Whereas a Green organization might make the practices outlines above available to specific populations, a Teal organization would make these practices widely available as a normal part of the way they operate.
-
-
-  Teal organizations often exhibit the following general measures:
-
-
-  * Working hours are not controlled or decided by anyone
-
-  * People are trusted to set their own goals and work until they reach them.
-
-  * There is a shared understanding that at times, individuals may need to vary their commitment to work. These situations are shared and openly discussed so that the task in hand can be completed with everyone’s support.
+  <!--EndFragment-->
 inPractice: >-
-  [Teal organizations ](../teal-paradigm-and-organizations/)start from the
-  premise that even for routine work, people have a sense of pride and want to
-  do a good job. People are systematically considered to be reliable,
-  self-motivated, trustworthy and intelligent.
+  <!--StartFragment-->
 
 
-  ##### **Commitment**
+  Las [organizaciones Teal](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones") parten de la premisa de que incluso para el trabajo de rutina, las personas tienen un sentido de orgullo y quieren hacer un buen trabajo. Las personas son sistemáticamente consideradas confiables, auto-motivadas, confiables e inteligentes.\
+
+  \
+
+  **Compromiso**\
+
+  En la mayoría de las organizaciones tradicionales, hay una suposición tácita de que las personas en puestos gerenciales deben poner el compromiso de trabajar por encima de cualquier otro compromiso en sus vidas. Pocos colegas cancelarían una reunión importante para el juego escolar de su hijo o porque un buen amigo necesita ayuda. En las organizaciones de autogestión, hablar sobre otros compromisos importantes en la vida de uno se considera necesario para ser auténtico y entero en el trabajo. No hay necesidad de pretender de que el trabajo siempre es primero. Las organizaciones Teal celebran reuniones a intervalos regulares en las que los colegas pueden discutir cuánto tiempo y energía, en ese momento de sus vidas, quieren comprometer con la organización. Debido a que los colegas discuten abiertamente sus otros compromisos, se pueden encontrar soluciones para proporcionar apoyo y hacer que la tarea se realice.\
+
+  \
+
+  **Horas de trabajo / horario flexible**\
+
+  En las organizaciones Teal se confía en que las personas trabajen las horas que necesitan para alcanzar sus propias metas. No hay ningún requisito para el monitoreo de las horas de trabajo, o el reloj de entrada y salida, o tiempo flexible. En algunas organizaciones Teal como [FAVI](http://www.favi.com/en/) y [Sun Hydraulics](http://www.sunhydraulics.com/), la jornada de trabajo sigue dividida en turnos, que es aproximadamente el tiempo que se espera que los colegas gasten en la planta, pero no es raro ver al operador permanecer durante el siguiente turno Terminar un trabajo porque él / ella sabe que necesita ser hecho.\
+
+  \
+
+  **En tiempos de necesidad**\
+
+  Equilibrar las necesidades del individuo con las de la organización no siempre es fácil. Por ejemplo, Morning Star tiene una temporada alta para el procesamiento de tomate cuando todas las manos deben estar en cubierta. Si alguien quiere reducir sus horas de trabajo durante tiempos muy ocupados, se espera que encuentren una solución para mantener los compromisos que han hecho. Esta expectativa es la otra cara de no tener HR o función de planificación. Una persona no puede simplemente presentar una solicitud y dejar que otra persona se preocupe por resolver este problema. Tiene plena libertad para encontrar una solución, pero hasta que no encuentre una, están obligados a cumplir sus compromisos anteriores.\
+
+  \
+
+  **Horas de trabajo y Teal en el futuro**\
+
+  En el futuro, es probable que cuanto más personas se comprometan con el "propósito personal" en sus vidas, más flexibles serán sus arreglos con la organización. Acomodar compromisos personales con el autoempleo, el trabajo a tiempo parcial o el trabajo voluntario será normal. No habrá necesidad de aprobación. Una persona simplemente encontrará una manera de cumplir o transferir sus compromisos a otro colega y / o explorar con colegas qué nuevos roles y compromisos podría asumir que añadirían valor a la organización.
 
 
-  In most traditional organizations, there is an unspoken assumption that people in managerial positions should put their commitment to work above any other commitment in their lives. Few colleagues would cancel an important meeting for their child’s school play or because a good friend needs help. In self-managing organizations, speaking up about other important commitments in one's life is considered necessary to be authentic and whole at work. There is no need for the pretence that work will always come first. Teal organizations hold meetings at regular intervals in which colleagues can discuss how much time and energy, at that moment in their lives, they want to commit to the organization.  Because colleagues discuss their other commitments openly, solutions can be found to provide support and get the task done.
-
-
-  ##### **Working hours/flex-time**
-
-
-  In Teal organizations people are trusted to work the hours they need to achieve their own goals. There is no requirement for monitoring of working hours, or clocking in and out, or flex-time. In some Teal organizations such as [FAVI](http://www.favi.com/) and [Sun Hydraulics](http://www.sunhydraulics.com/), the working day is still divided into shifts, which is roughly the time colleagues are expected to spend on the shop floor, but it is not uncommon to see an operator stay on during the following shift to finish a job because he/she knows it needs to be done.
-
-
-  ##### **In times of need**
-
-
-  Balancing the needs of the individual with those of the organization is not always easy. For example, [Morning Star](http://www.morningstarco.com/) has a high season for tomato processing when all hands need to be on deck. If someone wants to reduce their working hours during very busy times, they are expected to find a solution to uphold the commitments they have made. This expectation is the flip side of having no HR or planning function. An individual cannot simply file a request and let someone else worry about solving this issue. He/she has full liberty to find a solution, but until they have found one, they are bound to their previous commitments.
-
-
-  ##### **Working hours and Teal in the future**
-
-
-  In the future, it is likely that the more people commit to ‘personal purpose’ in their lives, the more flexible their arrangements with the organization will be. Accommodating personal commitments to self-employment, part time work, or volunteering work will be normal. There will be no need for approval. A person will simply find a way to meet or transfer his/her commitments to another colleague and/or explore with colleagues what new roles and commitments he/she could take on that would add value to the organization.
+  <!--EndFragment-->
 faq:
-  - question: What happens if a person can’t keep up their commitment to the
-      organization due to other personal commitments?
-    answer: The regular meeting held to share personal commitments provides the
-      forum for this to be aired with colleagues. If someone wants to reduce
-      their working hours they are expected to find a solution to uphold the
-      commitments they have made. He/she has full liberty to find a solution,
-      but until they have found one, they are bound to their previous
-      commitments. If a colleague continually needs to work fewer hours over a
-      longer period of time, then this may well be raised by that person or
-      other colleagues as part of a regular peer-based compensation and self-set
-      salary process.
+  - question: ¿Qué sucede si una persona no puede mantener su compromiso con la
+      organización debido a otros compromisos personales?
+    answer: >-
+      <!--StartFragment-->
+
+
+      La reunión ordinaria celebrada para compartir los compromisos personales proporciona el foro para que esto se difunda con los colegas. Si alguien quiere reducir sus horas de trabajo se espera que encuentren una solución para mantener los compromisos que han hecho. Tiene plena libertad para encontrar una solución, pero hasta que haya encontrado una, están obligados a cumplir sus compromisos anteriores. Si un colega necesita continuamente trabajar menos horas durante un periodo de tiempo más largo, entonces esto puede ser planteado por esa persona u otros compañeros como parte de un proceso regular de compensación por pares y el proceso de auto establecimiento del salario.
+
+
+      <!--EndFragment-->
 relatedTheory:
   - Meetings
   - Listening to Purpose
   - Compensation and incentives
 ---
-to be removed
