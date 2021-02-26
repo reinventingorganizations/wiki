@@ -6,167 +6,166 @@ name: Compensación e Incentivos
 sortOrder: 8
 category: People practices
 intro: >-
-  The topic of compensation and incentives includes the process of how salaries
-  are set and by whom, the types of incentives being used, and the issue of
-  compensation inequality.
+  <!--StartFragment-->
+
+
+  El tema de la compensación e incentivos incluye el proceso de cómo se fijan los salarios y por quién, los tipos de incentivos que se utilizan, y la cuestión de la desigualdad de compensación.
+
+
+  <!--EndFragment-->
 
 
   ![](/media/compensation-and-incentives-2-small.jpg)
 perspective: >-
-  In [Teal Organizations,](../teal-paradigm-and-organizations/) compensation is
-  determined not only in a different way, but takes on a fundamentally different
-  nature and level of importance. Typically these organizations exhibit the
-  following general characteristics with regard to compensation:
+  <!--StartFragment-->
 
 
-  * People set their own salaries, with guidance from their peers.
-
-  * There are no individual or team incentives, as incentives are seen to distract people from their inner motivation, and to skew behaviors.
-
-  * While not necessarily explicitly attempting to create an egalitarian pay structure, it seems that in these organizations, people strive to reduce the sometimes extreme pay disparities witnessed in many sectors today. A special focus is to ensure that the lowest paid make enough to satisfy basic needs.
+  En las [organizaciones Teal](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones"), la compensación se determina no sólo de manera diferente, sino que asume una naturaleza y un nivel de importancia fundamentalmente diferentes. Típicamente estas organizaciones exhiben las siguientes características generales con respecto a la compensación:
 
 
-  In contrast, compensation and incentives in earlier stage organizations can be summarized as follows:
+  * La gente establece sus propios salarios, con la guía de sus compañeros.
+
+  * No hay incentivos individuales o de equipo, ya que los incentivos son vistos para distraer a la gente de su motivación interna, y para sesgar comportamientos.
+
+  * Aunque no necesariamente explícitamente tratando de crear una estructura de remuneración igualitaria, parece que en estas organizaciones, las personas se esfuerzan por reducir las disparidades salariales a veces extremas presenciadas en muchos sectores hoy en día. Un enfoque especial es asegurar que los más bajos pagados hacen lo suficiente para satisfacer las necesidades básicas.
 
 
-  #### **Red Organizations**
+  \
+
+  En contraste, la compensación y los incentivos en las organizaciones de etapas anteriores pueden resumirse de la siguiente manera:\
+
+  \
+
+  **Organizaciones Rojas**\
+
+  En el [paradigma Rojo](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_paradigma_Rojo_y_las_Organizaciones "El paradigma Rojo y las Organizaciones"), la prerrogativa del jefe es libremente, por capricho, decidir aumentar o reducir la paga. No existen procesos formales para negociar sobre salarios, ni procesos formales de incentivos documentados.\
+
+  \
+
+  **Organizaciones Ámbar**\
+
+  En el [paradigma Ámbar](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_%C3%81mbar_y_las_Organizaciones "El Paradigma Ámbar y las Organizaciones"), la compensación es generalmente fijada y determinada por el nivel de una persona en la jerarquía (u otro marcador de estado fijo, como el tipo de título universitario de la persona). No hay negociaciones salariales individuales, no hay incentivos. Es "mismo trabajo, mismo sueldo".\
+
+  \
+
+  **Organizaciones Naranja**\
+
+  En el [paradigma Naranja](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Naranja_y_las_Organizaciones "El Paradigma Naranja y las Organizaciones"), hay una negociación individual del salario base, y la gente generalmente cae en bandas salariales. Un jefe tiene cierta libertad para aumentar la paga de alguien dentro de esa banda de sueldos. La organización Naranja cree firmemente en objetivos e incentivos individuales. Si la gente llega a objetivos predeterminados (que idealmente pertenecen a un sistema en cascada de objetivos o presupuesto que se acumula hasta la creación fuerte de valor para los accionistas), recibirán un bono robusto. Se consideran perfectamente aceptables las fuertes diferencias de remuneración entre los asalariados superiores y los inferiores, ya que reflejan los méritos y las contribuciones de las personas.\
+
+  \
+
+  **Organizaciones Verdes**\
+
+  El [paradigma Verde](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Verde_y_las_Organizaciones "El Paradigma Verde y las Organizaciones") cree tanto en la cooperación como en la competencia; Los incentivos individuales comienzan a dar paso a los bonos de equipo. Se hacen intentos para reducir la diferencia entre los salarios más altos y más bajos en el lugar de trabajo, por ejemplo, a través de un múltiplo máximo entre el salario del CEO y el salario medio (o más bajo) de la organización.
 
 
-  In the [Red paradigm](../red-organizations/), the prerogative of the boss is to freely, on a whim, decide to increase or reduce pay. There are no formal processes for negotiating on pay, nor any formal, documented incentive processes.
-
-
-  #### **Amber Organizations**
-
-
-  In the [Amber paradigm](../amber-paradigm-and-organizations/), compensation is generally fixed and determined by a person’s level in the hierarchy (or other fixed status marker, such as the person’s type of university degree). There are no individual salary negotiations, no incentives. It’s “same work, same pay”.
-
-
-  #### **Orange Organizations**
-
-
-  In the [Orange paradigm](../orange-paradigm-and-organizations/), there is some individual negotiation of base salary, and people generally fall into salary bands. A boss has some freedom to increase someone’s pay within that salary band. Orange believes strongly in individual targets and incentives. If people reach predetermined targets (that ideally belong to a cascaded system of targets or budget that builds up to strong creation of shareholder value), they will receive a hardy bonus. Strong differences in pay between top and bottom earners are seen as perfectly acceptable, as they reflect people’s merits and contributions.
-
-
-  #### **Green Organizatio**ns
-
-
-  The [Green paradigm](../green-paradigm-and-organizations/) believes in cooperation as much as in competition; individual incentives begin to make way for team bonuses. Attempts are made to reduce the difference between the highest and lowest earners in the workplace, for instance through a maximum multiple between the CEO pay and the median (or lowest) salary in the organization.
+  <!--EndFragment-->
 inPractice: >-
-  #### **How salaries are set and by whom**
+  <!--StartFragment-->
 
 
-  In traditional organizations, compensation is typically determined according to the organizational hierarchy. Generally, a boss can decide on a pay raise for his subordinates, often subject to HR (or institutional) guidelines or approval. In self-managing organizations, in the absence of bosses, the process to determine salaries and other types of compensation must be reinvented using the power of peer input. It seems that there are two broad categories of systems: ranking-based systems and self-set (advice-based) systems. \[Both of these can be used within hierarchical systems too. They don't depend on self-managing structures.]
+  **Cómo se fijan los salarios y por quién**\
+
+  En las organizaciones tradicionales, la compensación se determina normalmente de acuerdo con la jerarquía organizacional. Generalmente, un jefe puede decidir sobre un aumento de sueldo para sus subordinados, a menudo sujeto a las directrices o aprobación de HR (o institucionales). En las organizaciones autogestionadas, en ausencia de jefes, el proceso para determinar los salarios y otros tipos de compensación debe ser reinventado usando el poder de la entrada de los pares. Parece que hay dos grandes categorías de sistemas: sistemas basados en el ranking y sistemas basados en el asesoramiento (self-set). \[Ambos pueden ser usados dentro de sistemas jerárquicos también. No dependen de las estructuras de autogestión.]\
+
+  \
+
+  **Sistemas basados en la clasificación**\
+
+  En ciertas empresas, como W. L. Gore o HolacracyOne, los empleados clasifican o evalúan las contribuciones de los compañeros con los que trabajan más estrechamente. Sobre la base de esta entrada, las personas se asignan a diferentes bandas de sueldos - por lo general por un algoritmo o un comité elegido. Las personas que se ven como contribuyendo más se encontrarán en las bandas más altas que ganan salarios más grandes; Los colegas más jóvenes y menos experimentados gravitan naturalmente hacia bandas con salarios más bajos. El proceso es simple y fácil de entender y generalmente se considera justo. Cuando no es sólo una persona (el jefe), pero muchos de los colegas de una persona que informa al proceso, el salario resultante es probable que sea un reflejo más justo de la contribución de esa persona.\
+
+  Tales sistemas pueden dar lugar a salarios fluctuantes (subir pero también hacia abajo) a lo largo de los años, dependiendo de la contribución de la gente. En muchos países, las leyes laborales impiden que los salarios bajen, lo que requiere adaptaciones a este método. Por ejemplo, el sistema sólo podría utilizarse para determinar qué colegas deberían recibir un aumento de sueldo. Alternativamente, un sistema se puede diseñar usando un sueldo fijo bajo, y permitir las fluctuaciones a través de bonos individuales que pueden subir o bajar.\
+
+  \
+
+  **Sistemas de auto-asignación de sueldos (basados en consejo)**\
+
+  Una versión más potenciadora es aquella en la que la gente establece sus propios salarios, calibrados por el proceso de los consejos de sus compañeros. En este caso, por lo general una vez al año, las personas proponen qué aumento de sueldo creen que es apropiado para ellos mismos, y las justificaciones de su propuesta. Este aporte es revisado por un número de compañeros (por ejemplo, en un grupo de consejo de sueldo elegido) que dan asesoramiento individual sobre esa propuesta, basado en una calibración entre colegas. Las personas pueden elegir seguir el consejo que recibieron o no, y su elección se hace pública. Si así lo desea, el grupo de asesoría salarial puede decidir declarar un conflicto e invocar el mecanismo de resolución de conflictos.\
+
+  El proceso atraviesa gran parte del regateo, estrategias, quejas y "succión" que sucede cuando los sueldos son fijados por el jefe. Si la gente no está contenta con su salario, simplemente puede aumentarla. Y enfrentarán las consecuencias de sus elecciones, si deciden colocarse demasiado lejos del consejo de sus compañeros.\
+
+  \
+
+  **Uso de incentivos**\
+
+  En el paradigma Teal, las personas valoran intrínsecamente a los motivadores extrínsecos. Una vez que la gente gana el dinero suficiente para cubrir sus necesidades básicas, lo que más importa es que el trabajo sea significativo y que puedan expresar sus talentos y vocaciones en el trabajo. En el libro Drive, Daniel Pink concluye de una gran cantidad de investigación sobre el tema de que en la compleja configuración de trabajo actual, los incentivos son en su mayoría contraproducentes, reduciendo en lugar de mejorar el rendimiento de las personas. La consecuencia es que las organizaciones Teal generalmente operan sin incentivos financieros explícitos a nivel individual y de equipo. Nadie, ni siquiera las personas de ventas, tiene objetivos o incentivos y rara vez hay bonos individuales o opciones sobre acciones. En cambio, al final de los años muy provechosos, parte de la ganancia será compartida con todos los empleados (en algunos casos todos reciben el mismo porcentaje fijo del salario base, en otros todos reciben la misma cantidad fija). Véase también [Propiedad](http://www.reinventarlasorganizacioneswiki.com/index.php?title=La_Propiedad "La Propiedad").
 
 
-  ##### ***Ranking-based systems***
+  **Desigualdad en la compensación**\
+
+  Sin el uso de bonos y opciones de acciones, la desigualdad de compensación se reduce automáticamente, ya que gran parte de las desigualdades salariales en las compañías Fortune 500 de hoy provienen de los bonos a menudo extravagantes de CEO y opciones sobre acciones. Algunas organizaciones también se esfuerzan conscientemente por limitar la desigualdad en el salario base. Algunas organizaciones, como AES y FAVI, han reemplazado los salarios por hora con salarios mensuales para los operadores de taller, borrando la distinción entre trabajadores de color azul y cuello blanco. Todo el mundo es compensado con los mismos principios.
 
 
-  In certain companies, such as W. L. Gore or HolacracyOne, employees rank or evaluate the contributions of the peers they work with most closely. Based on this input, people are allocated to different salary bands - usually by an algorithm or an elected committee. People who are seen as contributing more will find themselves in the higher bands that earn bigger salaries; the more junior, less experienced colleagues naturally gravitate toward bands with lower salaries. The process is simple and easy to understand and it is generally seen as fair. When it’s not just one person (the boss), but many of an individual's colleagues informing the process, the resulting salary is likely to be a fairer reflection of that person's contribution.
-
-
-  Such systems can result in pay fluctuating (going up but also down) over the years, depending on people's contribution. In many countries, labor laws prevent salaries from going down, which requires adaptations to this method. For instance, the system could be used only to discern which colleagues should receive a pay raise. Alternatively, a system can be engineered using a low fixed salary, and allowing the fluctuations through individual bonuses that can go up or down.
-
-
-  ##### ***Self-set (advice-based) systems***
-
-
-  A more empowering version is one where people set their own salaries, calibrated by the advice process from their peers. In this case, generally once a year, people propose what salary raise they believe to be appropriate for themselves, and the justifications for their proposal. This input is reviewed by a number of peers (e.g. in an elected salary advice group) who give individual advice on that proposal, based on a calibration across colleagues. Individuals can then choose to follow the advice they have received or not, and their choice is made public. If it so chooses, the salary advice group can choose to declare a conflict and invoke the [conflict resolution mechanism](../conflict-resolution/).
-
-
-  The process cuts through much of the haggling, strategizing, complaining, and "sucking up" that happens when salaries are set by one's boss. If people are unhappy with their salary, they can simply raise it. And they will face the consequences of their choices, if they decide to place themselves too far outside their peers' advice.
-
-
-  #### **Use of incentives**
-
-
-  In the Teal paradigm, people value intrinsic over extrinsic motivators. Once people make enough money to cover their basic needs, what matters most is that work is meaningful and that they can express their talents and callings at work. In the book *Drive*, Daniel Pink concludes from a great amount of research on the matter that in today’s complex work settings, incentives are mostly counterproductive, reducing rather than enhancing people’s performance.
-
-
-  The consequence is that Teal Organizations generally operate without explicit financial incentives at individual and team level. No one, not even sales people, has targets or incentives and there are rarely individual bonuses or stock options. Instead, at the end of very profitable years, some part of the profit will be shared with all employees (in some cases everyone receives the same fixed percent of base salary, in others everyone receives the same fixed amount). See also [Ownership](../ownership/).
-
-
-  #### **Compensation inequality**
-
-
-  Without the use of bonuses and stock options, compensation inequality is automatically reduced, as a large share of the pay inequalities in today's Fortune 500 companies stem from the often extravagant CEO bonuses and stock options. Some organizations also strive consciously to limit inequality in the base salary. Some organizations, like AES and FAVI, have replaced hourly wages with monthly salaries for shop floor operators, erasing the distinction between blue- and white-collar workers. Everyone is compensated on the same principles.
+  <!--EndFragment-->
 faq:
-  - question: When salaries are self-set, how can salary inflation be prevented?
+  - question: ¿Cuándo los salarios se fijan por sí mismos, ¿cómo se puede prevenir
+      la inflación salarial?
     answer: >-
-      The advice process (and if needed the conflict resolution mechanism)
-      generally prevents a situation where one individual gets a raise that
-      would be disproportionately high. But one might then ask "what prevents a
-      sort of (even unconscious) collusion whereby everyone grants themselves
-      big raises, thereby inflating the entire payroll of the organization to a
-      degree where it might hurt shareholders or even the organizations
-      purpose?" This doesn't seem to be a problem with the pioneering
-      organizations that use self-set pay. Here is how they seem to go about it.
+      <!--StartFragment-->
 
 
-      * In some organizations (such as Morning Star in California), everyone needs to benchmark their salaries to a market rate. They institute a rule of thumb, for example, that salaries shouldn't be higher than 110% of the industry average. They might support this with the arguments that if salaries are too high, this allows for less investment and future development, makes the organization less able to achieve its purpose or is unfair to the shareholders.
+      El proceso de los consejos (y si es necesario el mecanismo de resolución de conflictos) generalmente impide que una persona obtenga un aumento que sería desproporcionadamente alto. Pero uno podría entonces preguntarse "¿qué impide una especie de colusión (incluso inconsciente) por la que todos se conceden grandes aumentos, inflando así la nómina completa de la organización en un grado en el que podría perjudicar a los accionistas o incluso el propósito de las organizaciones? Esto no parece ser un problema con las organizaciones pioneras que usan el pago auto-establecido. Aquí está como ellas lo resuelven.
 
-      * Many of the organizations researched are very profitable, and pay out a lot in profit sharing (workers at FAVI typically make the equivalent of 17 or 18 months of salary this way). The idea, therefore, is to keep compensation in line with the industry, and when profits allow, top up the salary with profit sharing. This reduces the incentive to try and increase one's base salary, knowing also that in bad times, jobs are more secure if the base salaries aren't inflated.
 
-      * Some organizations (like FAVI in the north of France) find it useful to have a simple rule of thumb for the organization overall: Revenues should break down into X% for salaries, Y% for material costs, Z% for investments so that a healthy P% of profit remains. Everyone seems to accept this rule as good common sense. This is the basis for what can be shared in profit sharing. If needed, the salary advice group could share these parameters with everyone upfront, for instance in years with low profitability.
-  - question: Should we make all salary information transparent?
+      * En algunas organizaciones (como Morning Star en California), todo el mundo necesita comparar sus salarios con una tasa de mercado. Establecen una regla general, por ejemplo, que los salarios no deben ser superiores al 110% del promedio de la industria. Ellos podrían apoyar esto con los argumentos de que si los salarios son demasiado altos, esto permite menos inversión y desarrollo futuro, hace que la organización sea menos capaz de lograr su propósito o sea injusta para los accionistas.
+
+      * Muchas de las organizaciones investigadas son muy rentables y pagan mucho en la participación en los beneficios (los trabajadores de FAVI suelen hacer el equivalente a 17 o 18 meses de salario de esta manera). La idea, por lo tanto, es mantener la compensación en línea con la industria, y cuando los beneficios permiten, complementar el salario con la participación en los beneficios. Esto reduce el incentivo para tratar de aumentar el salario base, sabiendo también que en los malos tiempos, los empleos son más seguros si los sueldos base no se inflan.
+
+      * Algunas organizaciones (como FAVI en el norte de Francia) encuentran útil tener una regla simple para la organización en general: Los ingresos deben dividirse en X% para los salarios, Y% para los costos de materiales, Z% para las inversiones para que una saludable P% del beneficio permanece. Todo el mundo parece aceptar esta regla como buen sentido común. Esta es la base de lo que se puede compartir en la participación en los beneficios. Si es necesario, el grupo de asesoría salarial podría compartir estos parámetros con todos, por ejemplo en años con baja rentabilidad.
+
+
+      <!--EndFragment-->
+  - question: ¿Deberíamos hacer transparente toda la información sobre los salarios?
     answer: >-
-      When some information is secret, it tends to generate rumors. For what
-      reason would salary information be made a secret? Probably because of the
-      idea that some people would be shocked by some of the information and
-      claim the salary distribution is not fair.
+      <!--StartFragment-->
 
 
-      From a Teal perspective, such discussions shouldn't be feared and avoided, but can be steered in productive ways. They can help bring to light unspoken issues and hidden grievances. They can help people grow as part of the process, in dealing with their relations to one another and to money. And perhaps, indeed, to correct some obviously unfair situations that might have slipped in over time.
+      Cuando alguna información es secreta, tiende a generar rumores. ¿Por qué razón se haría la información salarial en secreto? Probablemente debido a la idea de que algunas personas estarían sorprendidas por parte de la información y afirmar que la distribución del salario no es justa. Desde la perspectiva Teal, tales discusiones no deben ser temidas y evitadas, pero pueden dirigirse de manera productiva. Pueden ayudar a traer a la luz problemas tácitos y quejas ocultas. Pueden ayudar a las personas a crecer como parte del proceso, al tratar con sus relaciones mutuas y con el dinero. Y tal vez, de hecho, para corregir algunas situaciones obviamente injustas que podrían haber caído en el tiempo. Por esta razón, muchas organizaciones optan por hacer la información totalmente pública. (El fabricante de aplicaciones de medios de comunicación social Buffer incluso publica el salario de todos en línea). Algunas organizaciones, como la empresa de procesamiento de tomates Morning Star, han optado por hacer que los porcentajes de aumento salarial sean públicos dentro de la organización, pero no el salario base. Podría ser un paso intermedio hacia la plena transparencia de una organización.
 
 
-      For this reason, many organizations choose to make information totally public. (The social media app maker Buffer even publishes everyone's salary online). Some organizations, like the tomato-processing company Morning Star, have chosen to make the *salary increase percentages* public within the organization, but not the base salary. That might be an intermediary step towards full transparency for an organization to take.
-  - question: What happens in times of crisis?
+      <!--EndFragment-->
+  - question: ¿Qué sucede en tiempos de crisis?
     answer: >-
-      There are several documented examples of self-managing organizations where
-      colleagues have voluntarily decided to temporarily reduce their salaries
-      to weather a downturn so as to avoid having to lay-off staff. In
-      self-managing organizations, all [information tends to be
-      public](../information-flow/) and there is generally a high level of
-      maturity and literacy when it comes to financial matters. In a traditional
-      organization, when revenues are down and the organization faces heavy
-      losses, plans are often made secretly within HR for redundancies. In
-      self-managing organizations, everyone sees the storm coming. Someone, at
-      some point, calls in everyone (or in a large organization, might invite a
-      cross-section of the organization) to a meeting to say: what do we do?
-      From the group, solutions emerge, which in many cases simply come down to
-      everyone agreeing to a temporary salary reduction (with often the highest
-      salaries taking a higher percentage cut). 
+      <!--StartFragment-->
 
 
-      Semco, the Brazilian firm that Ricardo Semler's bestseller Maverick made famous, has put in place a "voluntary risk program" to institutionalize such salary reductions to protect the organization in times of crisis (to which Brazil has been prone over the last several decades). Employees are offered the option of a risk salary program. They take a pay cut of 25 percent and then receive a supplement raising their compensation to 125 percent if the company has a good year. If the company does poorly, they only receive 75 percent of their salary. As the good years outweigh the bad, the deal is favorable to employees willing to take a risk.
-  - question: How do these practices link with the three Teal breakthroughs?
+      Existen varios ejemplos documentados de organizaciones autogestionadas en las que los colegas han decidido voluntariamente reducir temporalmente sus salarios para hacer frente a un descenso, para evitar tener que despedir personal. En las organizaciones autogestionadas, toda la información [tiende a ser pública](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Flujo_de_la_Informaci%C3%B3n "Flujo de la Información") y generalmente hay un alto nivel de madurez y alfabetización cuando se trata de asuntos financieros. En una organización tradicional, cuando los ingresos son bajos y la organización se enfrenta a grandes pérdidas, los planes a menudo se hacen secretamente dentro de HR para los despidos. En las organizaciones autogestionadas, todos ven la tormenta. Alguien, en algún momento, llama a todos (o en una gran organización, puede invitar a una sección transversal de la organización) a una reunión para decir: ¿qué hacemos? Del grupo surgen soluciones que, en muchos casos, simplemente se reducen a que todos acuerden una reducción temporal de salarios (con los salarios más altos, a menudo, con un recorte de porcentaje más alto).\
+
+      Semco, la firma brasileña que hizo famoso el best-seller de Ricardo Semler, *Maverick*, ha puesto en marcha un "programa de riesgo voluntario" para institucionalizar tales reducciones salariales para proteger la organización en tiempos de crisis (a los que Brasil ha estado expuesto en las últimas décadas). A los empleados se les ofrece la opción de un programa de salario de riesgo. Toman un recorte salarial del 25 por ciento y luego reciben un suplemento elevando su compensación al 125 por ciento si la compañía tiene un buen año. Si la empresa hace mal, sólo reciben el 75 por ciento de su salario. Como los buenos años superan a los malos, el acuerdo es favorable para los empleados dispuestos a asumir un riesgo.
+
+
+      <!--EndFragment-->
+  - question: ¿Cómo se relacionan estas prácticas con los tres avances Teal?
     answer: >-
-      #### **Self-management**
+      <!--StartFragment-->
 
 
-      Self-set or ranking-based salaries are a key enabler to self-management: in traditional hierarchical structures, bosses decide on the salary raises and bonuses of their subordinates; in self-managing systems, it is necessary to upgrade to peer-based compensation mechanisms.
+      **Autogestión**\
+
+      Los salarios propios o basados en ranking son un factor clave para la autogestión: en las estructuras jerárquicas tradicionales, los jefes deciden sobre los aumentos salariales y los bonos de sus subordinados; En los sistemas de autogestión, es necesario actualizar a los mecanismos de compensación basados en los pares.
 
 
-      \[And yet, self-set or ranking-based systems can also be implemented within traditional hierarchical structures. It can be a step towards ultimately replacing hierarchy with self-management. Within an organization where complete self-management isn't in the cards (for instance if the board of directors wouldn't accept that the organization let go of a pyramid structure), it can also be an important step to take some power out of the boss-subordinate relationship and create more of a team-based collaborative spirit.]
+      \[Y, sin embargo, los sistemas basados en la auto-asignación o el ranking también pueden ser implementados dentro de las estructuras jerárquicas tradicionales. Puede ser un paso hacia la sustitución final de la jerarquía por la autogestión. Dentro de una organización donde la autogestión completa no está en las cartas (por ejemplo, si la junta directiva no acepta que la organización deje ir una estructura de pirámide), también puede ser un paso importante para sacar algo de energía de La relación subordinada del jefe y crear más un espíritu de colaboración basado en el equipo.]\
+
+      \
+
+      **Plenitud**\
+
+      Cuando hay un jefe que decide sobre el salario de una persona, es tentador querer complacer a esa persona, conformarse a sus expectativas, no hablar la verdad. Cuando no se trata de una sola persona, sino de un gran número de colegas con los que se trabaja para calibrar el aumento de sueldo, la mayoría de la gente se relaja naturalmente para mostrarse más veraz. De esta manera, los mecanismos de compensación basados en la auto-asignación o la clasificación ayudan a los colegas a mostrarse más fácilmente desde un lugar de plenitud.\
+
+      También nos ayudan a adoptar una postura de adultos hacia la compensación. Tradicional relación jefe-subordinado tienden a empujar a los empleados a comportarse como niños y jefes como los padres. Los sistemas de compensación basados en la autoevaluación también eliminan casi instantáneamente la mayoría de las estrategias, regateos y reclamaciones en torno a la compensación, y todo el mundo se ve obligado a adoptar una postura de adulto a adulto.\
+
+      \
+
+      **Propósito Evolutivo**\
+
+      \[El vínculo entre el propósito evolutivo y las prácticas de compensación puede aparecer en tiempos de crisis. Existen varios casos documentados de autogestión donde los trabajadores, en una grave recesión, eligen voluntariamente reducir sus compensaciones temporalmente para evitar despidos. En las organizaciones autogestionadas, los colegas suelen tener a menudo un alto nivel de conocimiento financiero y madurez, y eligen contribuir para salvar a sus compañeros de trabajo y mantener la capacidad de las organizaciones para perseguir su propósito con todas sus habilidades y recursos. Basado en la premisa de que los individuos están motivados principalmente, después de alcanzar las necesidades básicas, por factores intrínsecos tales como la búsqueda del propósito. Por lo tanto, tienden a no mostrar la primacía de la compensación, incluyendo incentivos añadidos, típicos en Naranja o incluso en Verde.]
 
 
-      #### **Wholeness**
 
 
-      When there is one boss that decides over a person's salary, it's tempting to want to please that person, to conform to their expectations, to not speak one's truth. When it's not one person, but a great number of colleagues one works with who calibrate one's salary increase, most people naturally relax into showing up more truthfully. In this way, self-set or ranking based compensation mechanisms help colleagues show up more easily from a place of wholeness.
-
-
-      They also help us take an adult stance towards compensation. Traditional boss-subordinate relationship tend to push employees to behave like children and bosses like parents. Self-set or ranking based compensation systems also do away, almost instantly, with much of the strategizing, haggling and complaining around compensation, with everyone forced to take an adult-to-adult stance. 
-
-
-      #### **Evolutionary purpose**
-
-
-      \[The link between evolutionary purpose and compensation practices can show up in times of crisis. There are several documented cases of self-managing where workers, in a severe downturn, choose voluntarily to reduce their compensations on a temporary basis to avoid lay-offs. In self-managing organizations, colleagues often often have a high level of financial knowledge and maturity, and choose to contribute to save their colleagues jobs and to maintain the organizations ability to pursue its purpose with all its skills and resources.]
-
-
-      \[Teal organizations are built on the premise that individuals are primarily motivated, after attaining basic needs, by intrinsic factors such as the pursuit of purpose. Thus, they tend not to exhibit the primacy of compensation, including added incentives, typical in Orange or even Green.]
+      <!--EndFragment-->
 relatedTheory:
   - Feedback and Performance Management
   - Dismissal
 ---
-to be removed
