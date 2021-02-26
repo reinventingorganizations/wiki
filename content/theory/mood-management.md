@@ -5,124 +5,155 @@ key: Mood Management
 name: Gestión del Estado de Ánimo
 sortOrder: 9
 category: Daily practices
-intro: Moods influence possibilities. The topic of mood management summarizes
-  how moods are dealt with in different types of organizations, and how
-  important it is to find ways in which moods that are supportive of the
-  intended outcomes are encouraged
+intro: >-
+  <!--StartFragment-->
+
+
+  Los estados de animo influyen en las posibilidades. El tema de la gestión del estado de ánimo resume cómo se manejan los estados de ánimo en diferentes tipos de organizaciones, y lo importante que es encontrar maneras para propiciar los estados de ánimo que hacen posible alcanzar los resultados deseados.
+
+
+  <!--EndFragment-->
 perspective: >-
-  Every historical stage has a distinct perspective on mood management, and
-  different practices:
+  <!--StartFragment-->
 
 
-  #### Red organizations
+  Cada etapa histórica tiene una perspectiva distinta sobre la gestión del estado de ánimo, y diferentes prácticas:\
+
+  \
+
+  **Organizaciones Rojas**\
+
+  En las [Organizaciones Rojas](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_paradigma_Rojo_y_las_Organizaciones "El paradigma Rojo y las Organizaciones") el manejo del humor se reduce a la sumisión al estado de ánimo del jefe (tribal) y a su "familia". Ellos supervisan a los soldados de a pie. El temor y la sumisión evitan que la organización se desintegre.\
+
+  \
+
+  **Organizaciones Ámbar**\
+
+  En las [organizaciones Ámbar](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_%C3%81mbar_y_las_Organizaciones "El Paradigma Ámbar y las Organizaciones"), el más alto 'sabe' lo que es mejor para los más bajos en la jerarquía. Estas expectativas se gestionan a través de roles y reglas. Las recompensas son para aquellos que siguen las reglas, y los castigos para los que no lo hacen. La gente puede valorar este orden y esta previsibilidad.\
+
+  \
+
+  **Organizaciones Naranja**\
+
+  En las [organizaciones Naranja](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Naranja_y_las_Organizaciones "El Paradigma Naranja y las Organizaciones") se trata de resultados planificados y eficientes. Los incentivos se usan comúnmente para lograr estos resultados organizacionales. Están diseñados para motivar / recompensar ciertos tipos de acción, pero no necesariamente los sentimientos, o estados de ánimo, que van con ellos.\
+
+  \
+
+  **Organizaciones Verdes**\
+
+  En las [organizaciones Verdes](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Verde_y_las_Organizaciones "El Paradigma Verde y las Organizaciones") se valora la armonía, la tolerancia y la igualdad. Los equipos y su salud son importantes. El propósito es estimular la motivación. Los recursos humanos pueden operar a través de procesos como iniciativas culturales, retroalimentación de 360 grados y encuestas de satisfacción de los empleados. Ahora hay un enfoque consciente en el estado de ánimo que prevalece. A menudo hay un esfuerzo para satisfacer todas las necesidades (o estados de ánimo) de las partes interesadas.\
+
+  \
+
+  **Organizaciones Teal**\
+
+  Gestión del estado de ánimo se considera integral y crucial para la creación de un espacio en el que los resultados previstos se puede lograr y se pueda servir al propósito de la organización.
 
 
-  In [Red Organizations ](../red-organizations/)mood management boils down to submission to the mood of the (tribal) chief and his “family”. They oversee the foot soldiers. Fear and submission keep the organization from disintegrating. 
+  * En las [organizaciones Teal](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones"), la combinación de un propósito que vale la pena, la autodirección y la colaboración contribuyen al estado de ánimo elevado.
+
+  * No hay ninguna función de recursos humanos cargada de 'gestionar del estado de ánimo'. Depende de individuos y grupos desarrollar prácticas que les permitan trabajar en armonía.
+
+  * Estas prácticas pueden apartarse - a veces radicalmente - de las organizaciones tradicionales. Los nuevos reclutas pueden encontrar esto difícil al principio.
+
+  * Las mejores prácticas tienden a ser adoptadas en toda la organización.
 
 
-  #### Amber organizations
 
 
-  In [Amber organizations](../amber-paradigm-and-organizations/) the most senior 'knows' what is best for those lower in the hierarchy. These expectations are managed via roles and rules. Rewards are for those who follow the rules, and punishments for those who don’t. People may value this order and predictability.
-
-
-  #### Orange organizations
-
-
-  In [Orange organizations](../orange-paradigm-and-organizations/) it's about planned and efficient outcomes. Incentives are commonly used to achieve these organizational outcomes. They are designed to motivate/reward certain kinds of action, but not necessarily the feelings, or moods, that go with them. 
-
-
-  #### Green organizations
-
-
-  In [Green organizations](../green-paradigm-and-organizations/) harmony, tolerance and equality are valued. Teams and their health are important. The purpose is to boost motivation. HR may operate via processes like culture initiatives, [360-degree feedback](https://en.wikipedia.org/wiki/360-degree_feedback) and employee satisfaction surveys. Now there is a conscious focus on mood appearing. There is often an effort to satisfy all stakeholder needs (or moods).
-
-
-  #### Teal organizations
-
-
-  * Mood Management is seen as integral and crucial to the creation of a space in which the intended outcomes can be achieved and the purpose of the organization served.
-
-  * In [Teal organizations ](../teal-paradigm-and-organizations/)the combination of worthwhile purpose, self-direction and collaboration contributes to elevated mood.
-
-  * There is no HR function charged with 'mood management'. It is up to individuals and groups to develop practices that enable them to work harmoniously.
-
-  * These practices may depart - sometimes radically - from traditional organizations. New recruits may find this difficult at first.
-
-  * The best practices tend to be adopted across the organization.
+  <!--EndFragment-->
 inPractice: >-
-  #### The way mood management works
+  <!--StartFragment-->
 
 
-  [Teal organizations](../teal-paradigm-and-organizations/) recognize that mood mediates what is possible; that it predisposes certain courses of action, and closes off others. In [self-managed](../self-management/) organizations people value both autonomy and collaboration in pursuit of purpose. The practice of shared processes supports this. Purpose and practice conspire to produce a sense of shared belonging, alignment and potency. This sense of potency supports [innovation](../innovation-and-product-development/). People have ideas, seek support from colleagues and, when they work, share the enjoyment of their wider acceptance. These successes give rise to stories and practices. These, combined with 'wholeness events' are two contributors to the mood in the organization.
+  El estado de animo moldea el desempeño del trabajo\
+
+  \
+
+  Las [organizaciones Teal](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones") reconocen que el estado de ánimo determina lo que es posible hacer; predispone ciertos cursos de acción y cierra otros. En las organizaciones [autogestionadas](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Autogesti%C3%B3n "Autogestión"), las personas valoran tanto la autonomía como la colaboración en la búsqueda del propósito. La práctica de los procesos compartidos apoya esto. El propósito y la práctica conspiran para producir un sentido de pertenencia compartida, alineación y potencia. Este sentido de potencia apoya la [innovación](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Innovaci%C3%B3n_y_Desarrollo_de_Productos "Innovación y Desarrollo de Productos"). Las personas tienen ideas, buscan el apoyo de sus colegas y, cuando trabajan, comparten el disfrute de su aceptación más amplia. Estos éxitos dan lugar a historias y prácticas. Estos, combinados con "eventos de plenitud” son dos factores que contribuyen al estado de ánimo en la organización.
 
 
-  Both may be used within hierarchical systems, too: they don’t depend on self-managing structures. But in Teal organizations they are more likely to arise from the inspiration of its members and their [shared values](../culture-and-values/). They may arise naturally, find their place, become openly adopted, and treasured.
+  Ambos pueden ser utilizados también dentro de sistemas jerárquicos: no dependen de estructuras autogestionadas. Pero en las organizaciones Teal es más probable que surjan de la inspiración de sus miembros y sus [valores compartidos](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Cultura_y_Valores "Cultura y Valores"). Pueden surgir naturalmente, encontrar su lugar, ser atesorados y adoptados abiertamente.\
+
+  \
+
+  **Storytelling**
 
 
-  ##### *Storytelling*
+  Las historias que las personas se dicen a sí mismas ya otras personas reflejan y refuerzan el estado de ánimo. Transmiten casos memorables de valores compartidos en el trabajo. ¿Qué estado de ánimo queremos compartir y celebrar? ¿Alegría? ¿Concentración? ¿Prudencia? ¿Alegría? ¿Orgullo? ¿Cuidado? ¿Gratitud? ¿Curiosidad? ¿Determinación? Si somos autogestionados, es probable que esta selección sea diferente para diferentes personas.
 
 
-  The stories people tell themselves and others reflect and reinforce mood. They convey memorable instances of shared values at work. What mood do we wish to share, and celebrate? Playfulness? Concentration? Prudence? Joy? Pride? Care? Gratitude? Curiosity? Determination? If we are self-managed, this selection is likely to be different for different people.
+  La gratitud es uno de los estados de ánimo más poderosos. Nos hace sentir satisfechos. Dejamos nuestra búsqueda de lograr más. En este momento, nos sentimos plenos. De esa plenitud, otras emociones emergen naturalmente. Experimentamos alegría y generosidad; Tratamos a otros con cuidado. Para nutrir esto conscientemente necesitamos descubrir y / o diseñar prácticas que evocan gratitud, o estados de ánimo relacionados.
 
 
-  Gratitude is one of the most powerful moods. We are satisfied. We drop our search for more. In this moment, we feel fulfilled. From that fullness, other emotions naturally emerge. We experience joy and generosity; we treat others with care. To nurture this consciously we need to discover and/or design practices that evoke gratitude, or related moods.
+  Podemos preguntarnos: ¿Qué historias podemos compartir que evocan el estado de ánimo que mejor nos sirve? De esta manera, las [organizaciones Teal](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones") pueden crear prácticas de narración de historias que apoyen y amplíen el estado de ánimo de aprecio, al tiempo que fortalecen la confianza entre los miembros.\
+
+  Las prácticas de narración de historias toman muchas formas:
 
 
-  We can ask: What stories can we share that evoke the mood that serves us best? In this fashion, [Teal organizations](../teal-paradigm-and-organizations/) may create storytelling practices that support and expand the mood of appreciation while strengthening trust among the members.
+  * Empezar las reuniones con cada participante por turnos comparte una breve historia de alguien a quien recientemente le agradeció o felicitó ([FAVI](http://www.favi.com/))
+
+  * Dar un día libre para expresar gratitud a alguien importante en su vida y al regresar al trabajo compartir con los colegas la tarea de expresar gratitud. ([Ozvision](http://www.ozvision.com/))
+
+  * La "reunión de alabanza" del viernes por la tarde en una escuela: compartiendo historias de bondad, coraje, cuidado o profesionalidad como clave para la excepcional cultura de aprendizaje de la escuela. ([ESBZ](http://www.ev-schule-zentrum.de/aktuell/))
+
+  * El e-mail "Good Stuff Friday": Comenzó por uno de los colegas y se envió a toda la plantilla agradeciendo a un colega o departamento por algo que sucedió esa semana, o simplemente para compartir algunas buenas noticias. Invariablemente desencadena una avalancha de reconocimiento. ([BerylHealth](https://www.stericyclecommunications.com/))
 
 
-  Storytelling practices take many forms:
+  \
+
+  \
+
+  **Eventos para la Plenitud humana**\
+
+  Los estados de ánimo también son creados por experiencias compartidas: sobre todo si se llenan de risa, alegría, diversión, creatividad, sentimiento de confianza, autenticidad, pertenencia, aceptación y reconocimiento.
 
 
-  * Starting meetings with each participant in turn sharing a brief story of someone they had recently thanked or congratulated. ([FAVI](http://www.favi.com/)) 
+  Las organizaciones tradicionales también pueden patrocinar eventos, por lo general por el departamento de Recursos Humanos o el CEO, para la construcción de equipos o similares. Sin embargo, en una [organización Teal](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones") suelen surgir de la propia organización. Cuando las personas se sienten lo suficientemente seguras como para tomar la iniciativa, parece que estos eventos auto-creados y organizados surgen espontáneamente. Deseamos, en el fondo, integrar toda nuestra humanidad: lo gracioso y lo peculiar, así como lo serio y lo responsable. Las conexiones humanas emergen de estos espacios.\
 
-  * Coming back to work from a day off (which included the task of expressing gratitude to somebody important in one's life), and sharing the experience with colleagues. ([Ozvision](http://ozvision.com/))
-
-  * The Friday afternoon “praise meeting” in a school: sharing stories of kindness, courage, care, or professionalism as key to the school’s exceptional learning culture. ([ESBZ](http://www.ev-schule-zentrum.de/aktuell/))
-
-  * The “Good Stuff Friday” e-mail: Started by one of the colleagues and sent to the entire workforce thanking a colleague or department for something that happened that week, or simply to share some good news. It invariably triggers an avalanche of recognition. ([BerylHealth](http://www.berylhealth.com/))
+  Eventos para la plenitud de las personas pueden ser de todo tipo. por ejemplo:
 
 
-  ##### *Wholeness Events*
+  * El auto-organizado "Salón de Arte" donde todos están invitados a compartir una pasión artística. Algunas muestran fotografías y pinturas. Otros realizan (canciones, bailes, malabares ...), y así sucesivamente. Si las personas realmente se divierten, estas pueden volverse institucionales. ([Sounds True](https://www.soundstrue.com/store/)).
+
+  * Diversión en el desayuno apareciendo en pijama para celebrar la primavera: se tuvo tanta diversión en el estreno de esto que ahora el 90% del personal se une en el "Día del Pijama" organizado anualmente. Es una celebración de la comunidad, la diversión, y conocer a los colegas de una manera completamente diferente. ([Sounds True](https://www.soundstrue.com/store/))
 
 
-  Moods are also created by shared experiences: especially if they are filled with laughter, joy, fun, creativity, a feeling of trust, authenticity, belonging, acceptance and recognition.
 
 
-  Traditional organizations may sponsor events, too - typically by HR or the CEO, for team building or similar. However, in a [Teal organization](../teal-paradigm-and-organizations/) they usually emerge out of the organization itself. When people feel safe enough to take the initiative, it seems that these self-created and organized events emerge spontaneously. We long, deep inside, to be in all of our humanity: the funny and the quirky, as well as the serious and responsible.  Human connections emerge from these places.
-
-
-  Wholeness Events can be all kinds of things, like:
-
-
-  * The self-organized “Art Salon” where everyone is invited to share an artistic passion. Some display photographs and paintings. Others perform (songs, dances, juggling ...), and so on. If people really enjoy themselves, these can become regular institutions. ([Sounds True](http://www.soundstrue.com/)) 
-
-  * Fun at breakfast by showing up in pajamas to celebrate spring: so much fun was had at the premiere of this that now 90% of staff join in the annual self-organized “Pajama Day”. It is a celebration of community, fun, and getting to know colleagues in a completely different way. ([Sounds True](http://www.soundstrue.com/))
+  <!--EndFragment-->
 faq:
-  - question: In a company we need to make money to thrive! So why should we bother
-      with moods?
+  - question: En una empresa necesitamos ganar dinero para prosperar! Entonces, ¿por
+      qué deberíamos preocuparnos de los estados de ánimo?
     answer: >-
-      We certainly need money to thrive in a business. Should the questions be:
-      What else do we need? Does this get in the way of, or support, financial
-      health? 
+      <!--StartFragment-->
 
 
-      Many (especially younger employees) are disillusioned with what they perceive as an excessive focus on money; especially when it manifests as greed. The result is a widespread disengagement evident in surveys by [Gallup ](http://www.gallup.com/services/169328/q12-employee-engagement.aspx)and others. 
+      Ciertamente necesitamos dinero para prosperar en un negocio. La pregunta debe ser: ¿Qué más necesitamos? ¿Esto se interpone o apoya la salud financiera de la organización?
 
 
-      A motivating work environment fosters financial success. [Teal organizations](../teal-paradigm-and-organizations/) offer this via more autonomy and more community in pursuit of worthwhile purpose. These are clear motivators. They elevate 'mood'; they foster engagement; which in turn can correlate with financial health.
-  - question: Isn't it too personal to deal with staff's moods?
+      Muchos (especialmente los empleados más jóvenes) están desilusionados con lo que perciben como un enfoque excesivo en el dinero; Especialmente cuando se manifiesta como codicia. El resultado es una desconexión (no- involucración) generalizada evidente en las encuestas de Gallup y otros.\
+
+      Un ambiente de trabajo motivador fomenta el éxito financiero. Las [organizaciones Teal](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones") ofrecen esto a través de más autonomía y más comunidad en búsqueda de un propósito que vale la pena. Estos son motivadores claros. Elevan el "estado de ánimo"; Fomentan el compromiso; Que a su vez puede correlacionarse con la salud financiera.
+
+
+      <!--EndFragment-->
+  - question: ¿No es algo demasiado personal para tener que lidiar con el estado de
+      animo de la gente?
     answer: >-
-      'To deal with' infers 'to manage by others'. In some styles of
-      organization this has been via programs initiated by senior management or
-      HR.
+      <!--StartFragment-->
 
 
-      In [Teal organizations](../teal-paradigm-and-organizations/) the practices that support elevated mood are often initiated by members and have optional participation. If staff can 'manage' their own practices, then the risk of being 'too personal' diminishes. It is fair to say, however, that new staff--especially senior ones--can find the move to a mood-sensitive organization difficult. This is a choice to be explored carefully during joining discussions.
+      ‘Lidiar con' infiere 'a manejar a otros'. En algunos estilos de organización esto ha sido a través de programas iniciados por la alta dirección o HR.
 
 
-      If 'mood' determines the choices open to individuals, groups and organizations, it still ranks as an important consideration.
+      En las [organizaciones Teal](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones"), las prácticas que apoyan el estado de ánimo elevado suelen ser iniciadas por los miembros y tienen una participación opcional. Si el personal puede "manejar" sus propias prácticas, entonces el riesgo de ser "demasiado personal" disminuye. Es justo decir, sin embargo, que el nuevo personal - especialmente los mayores - puede encontrar el movimiento a una organización sensible al estado de ánimo difícil. Esta es una elección que se debe explorar cuidadosamente durante las entrevistas de selección.
+
+
+      Si el 'estado de ánimo' determina las opciones que se abren a individuos, grupos y organizaciones, esta consideración ocupa un lugar muy importante.
+
+
+      <!--EndFragment-->
 relatedTheory:
   - Culture and Values
   - Team and Community Building
@@ -132,4 +163,3 @@ relatedTheory:
   - Fundamental Assumptions
   - Listening to Purpose
 ---
-to be removed
