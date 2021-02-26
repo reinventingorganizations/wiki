@@ -5,126 +5,138 @@ key: Recruitment
 name: Reclutamiento
 sortOrder: 1
 category: People practices
-intro: This topic addresses recruitment and describes the processes for how
-  external candidates are recruited into the organization, including  who
-  recruits and how the interview process is conducted.
+intro: >-
+  <!--StartFragment-->
+
+
+  Este tema trata del reclutamiento y describe los procesos de reclutamiento de candidatos externos a la organización, incluyendo quién recluta y cómo se lleva a cabo el proceso de entrevista.
+
+
+  <!--EndFragment-->
 perspective: >-
-  In [Teal organizations](../teal-paradigm-and-organizations), recruitment is
-  led by the team in need of a new member. Conversations with candidates tend to
-  center around three topics: Fit with the role, fit with the organization, and
-  fit with the purpose. The last two are often considered more important, as in
-  self-managing organizations, there is much fluidity around roles. A period of
-  testing is often arranged so that both parties can honestly assess if the
-  match is meant to be.
+  <!--StartFragment-->
 
 
-  Every historical stage has given birth to a distinct perspective on recruitment and to very different practices.
+  En las [organizaciones Teal](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones"), la contratación es dirigida por el equipo que necesita un nuevo miembro. Las conversaciones con los candidatos tienden a centrarse alrededor de tres temas: Ajuste con la función, el ajuste con la organización, y encajar con el propósito. Los dos últimos son a menudo considerados más importantes, como en las organizaciones de autogestión, hay mucha fluidez en torno a las funciones. A menudo se organiza un período de prueba para que ambas partes puedan evaluar honestamente si el acoplamiento está destinado a ser.
 
 
-  #### **Red organizations**
+  Cada etapa histórica ha dado nacimiento a una perspectiva distinta sobre reclutamiento y prácticas muy diferentes.
 
 
-  In [Red organizations](../red-organizations/), loyalty is key. The chief surrounds himself with family members or other people he feels he can trust or keep in line through both fear and a promise to take care of them. Recruitment boils down to co-option, and there are often ritualized joining practices where the newcomer chooses allegiance to the boss, who offers protection in return. 
+  **Organizaciones Rojas**\
+
+  En las [organizaciones de Rojas](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_paradigma_Rojo_y_las_Organizaciones "El paradigma Rojo y las Organizaciones"), la lealtad es clave. El jefe se rodea de miembros de la familia u otras personas que siente que puede confiar o mantener en línea a través del miedo y la promesa de cuidar de ellos. El reclutamiento se reduce a la co-opción, ya menudo hay prácticas rituales de unión donde el recién llegado elige la lealtad al jefe, que ofrece protección a cambio.\
+
+  \
+
+  **Organizaciones Ámbar**\
+
+  En las [organizaciones Ámbar,](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_%C3%81mbar_y_las_Organizaciones "El Paradigma Ámbar y las Organizaciones") la estratificación social es la base para el reclutamiento. Para solicitar un trabajo, los candidatos necesitan tener un específico expertise. Históricamente, esta estratificación jerárquica en las organizaciones era paralela a la estratificación social: los sacerdotes eran reclutados del campesinado; Obispos y cardenales, de la aristocracia. Un hombre (y ciertamente una mujer) nacido en la clase obrera no aspiraría a una posición de dirección, y una vez que entrara en la organización, no subiría a un nivel alto. Las organizaciones Ámbar de hoy en día todavía tienden a acatar la estratificación social, aunque de formas más sutiles. En las agencias gubernamentales, las escuelas y los militares, las posiciones más altas que un cierto nivel a menudo todavía requieren un diploma específico o un cierto número de años de experiencia. La persona contratada puede no ser la más calificada, pero es la que cumple todos los criterios.\
+
+  \
+
+  **Organizaciones Naranja**\
+
+  La búsqueda de rendimiento, eficiencia e innovación por parte de [organizaciones Naranja](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Naranja_y_las_Organizaciones "El Paradigma Naranja y las Organizaciones") les permite concentrar sus esfuerzos de reclutamiento en la selección de candidatos con las mejores habilidades, experiencia y conocimiento más relevantes para un papel específico, así como el mejor potencial futuro para el desarrollo. En algunas corporaciones grandes, las entrevistas son conducidas por el personal especializado de recursos humanos (para los roles superiores de liderazgo por las compañías externas de “Head Hunters"), en la mayoría de los casos conjuntamente con el futuro gerente de la persona. Se han desplegado esfuerzos y recursos significativos para desarrollar técnicas de entrevista y capacitación, así como herramientas de evaluación para ayudar a las organizaciones a optimizar su tasa de éxito en la contratación.\
+
+  \
+
+  **Organizaciones Verdes**\
+
+  En las [organizaciones Verdes,](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Verde_y_las_Organizaciones "El Paradigma Verde y las Organizaciones") la contratación gira en torno a la cultura compartida tanto como en las habilidades específicas del candidato. Los candidatos a puestos directivos son examinados rigurosamente en su mentalidad, comportamiento y valores: ¿están listos para empoderar a sus colaboradores, para ser un entrenador en lugar de un tomador de decisiones de arriba hacia abajo? ¿Guiarán con humildad? El enfoque en la cultura eleva a recursos humanos a un papel central.\
+
+  \
+
+  **Organizaciones Teal**\
+
+  En [organizaciones Teal](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones") , la contratación es dirigida por el equipo que necesita un nuevo miembro, no por Recursos Humanos (a menudo, no existe una función de Recursos Humanos). Las conversaciones con los candidatos tienden a centrarse en torno a tres temas: Encajar con la función, Encajar con la organización, y encajar con el propósito. Los dos últimos son a menudo considerados más importantes, dado que en las organizaciones de autogestión, hay mucha fluidez alrededor de las funciones.\
+
+  Las organizaciones Teal tratan de ser conscientes de la tentación de "verse bien" a los candidatos durante el reclutamiento. La premisa es que ambas partes están tratando de responder a una pregunta simple y fundamental: ¿Sentimos que estamos destinados a viajar juntos? Esta pregunta sólo se puede responder de manera significativa cuando las conversaciones se basan en la honestidad y la integridad, con una disposición a indagar profunda y abiertamente.
 
 
-  #### **Amber Organizations**
-
-
-  In [Amber organizations](../amber-paradigm-and-organizations/), social stratification is the basis for recruitment. To apply for a job, candidates need to have a specific background. Historically, this hierarchical stratification in organizations paralleled social stratification: priests were recruited from peasantry; bishops and cardinals, from aristocracy. A man (and certainly a woman) born into the working class would not aspire to a management position, and once entering the organization, would not climb high. Today’s Amber organizations still tend to abide by social stratification, albeit in subtler ways. In government agencies, schools, and the military, positions higher than a certain level often still require a specific diploma or a certain number of years of experience. The person recruited might not be the most qualified, but the one that meets all the criteria.
-
-
-  #### **Orange organizations**
-
-
-  [Orange organizations](../orange-paradigm-and-organizations/)' pursuit of performance, efficiency and innovation makes them focus their recruitment efforts on selecting the candidates with the best skills, the most relevant experience and expertise for a specific role, as well as the best future potential for development. In some large corporations, interviews are conducted by specialized Human Resources personnel (for top leadership roles by external "head hunter" search firms,) in most cases in conjunction with the person's future manager. Significant effort and resources have been deployed to develop interview techniques and training, as well as assessments tools to help organizations optimize their success rate in recruitment.
-
-
-  #### **Green organizations**
-
-
-  In[ Green organizations](../green-paradigm-and-organizations/), recruitment revolves around shared culture as much as on the specific skills of the candidate. Candidates for management positions are rigorously screened on their mindset, behavior and values: are they ready to empower their subordinates, to be a coach rather than a top-down decision maker? Will they lead with humility? The focus on culture elevates human resources to a central role. 
-
-
-  #### **Teal Organizations**
-
-
-  In [Teal Organizations,](../teal-paradigm-and-organizations/) recruitment is led by the team in need of a new member, not by Human Resources (often, an HR function doesn’t exist.) Conversations with candidates tend to center around three topics: Fit with the role, fit with the organization, and fit with the purpose. The last two are often considered more important, as in self-managing organizations, there is much fluidity around roles.
-
-
-  Teal organizations try to be mindful of the temptation to ‘look good’ to candidates during recruitment. The premise is that both parties are trying to answer one simple, fundamental question: Do we sense that we are meant to journey together? This question can only be meaningfully answered when conversations are rooted in honesty and integrity, with a willingness to inquire deeply and openly.
+  <!--EndFragment-->
 inPractice: >-
-  #### **Team recruitment**
+  <!--StartFragment-->
 
 
-  In traditional organizations, recruitment processes are regularly handled by Human Resources personnel. Their interest is to quickly fill an open position with a suitable candidate  as their performance is sometimes measured by the number of job openings that they fill. It is in their best interest to present a positive view of the company and the role in order to encourage the candidate to accept the offer. In the same way, candidates try to present themselves and their job experience in the most positive light to increase the chances that they will receive an offer of employment.
+  **Reclutamiento de equipos**\
+
+  En las organizaciones tradicionales, los procesos de reclutamiento son manejados regularmente por personal de Recursos Humanos. Su interés es llenar rápidamente una posición abierta con un candidato adecuado ya que su desempeño se mide a veces por el número de ofertas de trabajo que llenan. Es en su mejor interés el presentar una visión positiva de la empresa y la función o rol con el fin de alentar al candidato a aceptar la oferta. De la misma manera, los candidatos tratan de presentarse y su experiencia de trabajo en la luz más positiva para aumentar las posibilidades de que recibirán una oferta de empleo.\
+
+  Las organizaciones Teal tratan de alentar a ambas partes a ser tan veraces como sea posible uno con el otro. Las entrevistas son manejadas por futuros compañeros de equipo que simplemente quieren decidir si quieren trabajar con el candidato en el día a día. El equipo puede tomar guia y consejo de recursos humanos si tal función existe, pero ellos están a cargo del proceso y la decisión. Tener 10 a 12 conversaciones no es inusual para dar tiempo a ambas partes a sentirse mutuamente y establecer si el ajuste funcionará bien para el equipo y el candidato.\
+
+  \
+
+  Los compañeros de equipo no tienen metas de reclutamiento que hacer y tienden a ser honestos sobre el lugar de trabajo. Si ellos sobrevenden la compañía a su potencial nuevo compañero de equipo, tendrán que vivir con las consecuencias de eso en el día a día. Debido a que los miembros del equipo tienden a ser honestos sobre el lugar de trabajo, los candidatos se sienten invitados a ser honestos también. Los candidatos suelen reunirse con todos sus futuros colegas, recorrer las instalaciones, se sienten invitados a hacer genuinamente todo tipo de preguntas para determinar si realmente es un lugar al que se sienten llamados a trabajar. Muchas organizaciones Teal informan que su proceso de reclutamiento y toma de decisiones pueden tomar mucho más de lo habitual. A veces aceptan un crecimiento más lento, manteniendo una publicación abierta hasta que encuentren una persona que se ajuste no sólo a la vacante de trabajo sino también a la organización y su propósito.\
+
+  \
+
+  **Lo que hace que sea un buen ajuste**\
+
+  La mayoría de las organizaciones tradicionales se enfocan en el ajuste de una persona con la descripción del trabajo. Las organizaciones Teal tienden a adoptar una perspectiva más amplia, diseñando el reclutamiento como un proceso de descubrimiento de dos vías para responder a una pregunta fundamental: ¿Estamos destinados a viajar juntos?\
+
+  \
+
+  **Que encaje con el rol**\
+
+  Evaluar en que medida cubre el perfil en términos de habilidades, experiencia y experiencia sigue siendo un componente importante del proceso de contratación, especialmente para funciones específicas que requieren experiencia. Sin embargo, los roles en las organizaciones autogestionadas se intercambian muy fluidamente. Por esa razón, a menudo "que encaje con el rol" no se considera primordial, ya que es probable que los roles de una persona puedan cambiar rápidamente. Las organizaciones autogestionadas experimentan que cuando los empleados están motivados para asumir un nuevo y desafiante papel, desarrollan nuevas habilidades y experiencia en sorprendentemente poco tiempo.\
+
+  \
+
+  **Que encaje con la organización**\
+
+  Una segunda área a explorar en la conversación es: ¿florecerá esta persona en la organización? ¿Él o ella prosperará en un ambiente auto-organizado? ¿La persona se siente alineada con los valores de la organización? ¿él o ella “hace click" con los colegas? Muchas organizaciones Teal, como [Morning Star](http://www.morningstarco.com/), dan a los candidatos un entrenamiento en autogestión, por lo que los candidatos pueden determinar si eso es lo que quieren. Otras organizaciones crean momentos en el proceso de reclutamiento para tener discusiones en profundidad sobre los valores de la compañía y del candidato.\
+
+  \
+
+  **Que encaje con el propósito**\
+
+  Finalmente, ¿energiza a la persona el propósito de las organizaciones? ¿Hay algo en la historia de la persona que haga resonar ambos propósitos, los hace a ambos querer servir a este propósito en este momento de su vida? La discusión desencadenada por estas preguntas puede llegar a profundidad sustancial y ayudar tanto al candidato como a la organización a aprender más sobre sí mismos. El reclutamiento se convierte más en un proceso de auto-indagación y no tanto en un proceso de evaluación mutua.\
+
+  \
+
+  **Prueba de la complementaridad**\
+
+  Los períodos de prueba son comunes en las organizaciones Teal. Algunas organizaciones como [FAVI ](http://www.favi.com/en/)hacen uso extendido de este período para que ambas partes prueben si el acoplamiento funciona bien a largo plazo. [Zappos](https://en.wikipedia.org/wiki/Zappos) ofrece a sus nuevos empleados un cheque de $ 3,000 si tienen dudas y deciden salir durante las cuatro semanas de orientación. La idea es que todos estarán mejor si no se quedan en lo que promete ser un matrimonio infeliz.
 
 
-  Teal organizations try to encourage both parties to be as truthful as possible with each other. The interviews are handled by future teammates who simply want to decide if they want to work with the candidate on a daily basis. The team can take advice and counsel from HR if such a function exists, but they are in charge of the process and decision. Having 10 to 12 conversations is not unusual to provide time for both parties to feel each other out and establish if the fit will work well for the team and the candidate.
-
-
-  Teammates have no recruitment targets to make and tend to be honest about their workplace. If they oversell the company to their potential new teammate, they would have to live with the consequences of that on a daily basis. Because team members tend to be honest about the workplace, candidates feel invited to be honest too. Candidates often meet all their future colleagues, tour the premises, are invited to genuinely ask all sorts of questions to determine if it really is a place they feel called to work for. Many Teal Organizations report that their recruitment process and decisions can take significantly longer than usual. They sometimes accept slower growth, keeping a posting open until they find a person that fits not only the job opening but also the organization and its purpose.
-
-
-  #### **What makes for a good fit**
-
-
-  Most traditional organizations focus on a person's fit with the job description. Teal organizations tend to take a broader perspective, designing recruitment as a two-way discovery process to answer one fundamental question: Are we meant to journey together?
-
-
-  ##### ***Fit for role***
-
-
-  Assessing the fit in terms of skills, experience and expertise remains an important component of the recruitment process, especially for specific roles requiring expertise. Roles in self-managing organizations are exchanged very fluidly, though. For that reason, the "fit for role" is often not considered to be paramount, as it is likely that a person's roles might change quickly. Self-managing organizations experience that when employees are motivated to take on a new and challenging role, they  pick up new skills and experience in surprisingly little time.
-
-
-  ##### ***Fit with the organization***
-
-
-  A second area to explore in conversation is: will this person blossom in the organization? Will he or she thrive in a self-organizing environment? Does the person feel aligned by the organization's values? Does he or she "click" with the colleagues? Many Teal organizations, like [Morning Star](http://www.morningstarco.com/), give candidates a training in self-management, so candidates can determine if that is what they want. Other organizations create moments in the recruitment process to have in-depth discussions about the company's and the candidate's values.
-
-
-  ##### ***Fit with purpose***
-
-
-  Finally, is the person energized by the organizations’ [purpose](../listening-to-purpose/)? Is there something in the person's history that makes them resonate, makes them want to serve this purpose at this moment in their life? The discussion triggered by these questions can reach substantial depth and help both the candidate and the organization learn more about themselves. Recruitment becomes a process of self-inquiry as much as a process of mutual assessment.
-
-
-  ##### ***Testing the match***
-
-
-  Trial periods are common in Teal organizations. Some organizations such as [FAVI ](http://www.favi.com/en/)make extended use of this period for both parties to test whether the match works well in the long run. [Zappos ](https://en.wikipedia.org/wiki/Zappos)offers its new hires a $3,000 check if they have second thoughts and choose to quit during the four-week orientation. The idea is that everyone will be better off if they don’t stay in what promises to be an unhappy marriage.
+  <!--EndFragment-->
 faq:
-  - question: Is everybody a good fit for a Teal organization? Are there people who
-      can't adapt to such a workplace?
+  - question: ¿Todos son buenos para una organización Teal? ¿Hay personas que no
+      pueden adaptarse a tal lugar de trabajo?
     answer: >-
-      Some people will be more attracted than others to work in self-managing
-      environments, or in places that invite people into wholeness or to engage
-      deeply with a specific purpose. The more the recruitment process allows
-      candidates to have a deep understanding of the kind of workplace they are
-      applying for the higher the chance both the organization and the
-      individual may have a clear understanding and might realize the fit is not
-      ideal.
+      <!--StartFragment-->
 
 
-      * When it comes to [self-management](../self-management/), the challenge tends to be different, depending on a person's background. If the candidate is used to being a manager or to work in a staff position with power over operating units, it can be a challenging transition. Candidates who have previously worked in the lower levels of the organization may find it hard at first to deal with the higher levels of commitment and personal responsibility that self-management requires.
-
-      * When it comes to [wholeness](../wholeness/): is the person comfortable with an environment where colleagues are expecting each other to be open and vulnerable, to show up from a place of wholeness?
-
-      * When it comes to [evolutionary purpose:](/evolutionary-purpose/) does the person resonate with the organization's purpose, and do they feel ok with an environment in which there is little predict & control, and more sense and respond?
+      Algunas personas se sentirán más atraídas que otras personas a trabajar en entornos autogestionados, o en lugares que invitan a las personas a integrarse o a involucrarse profundamente con un propósito específico. Cuanto más el proceso de contratación permita a los candidatos tener una comprensión profunda del tipo de lugar de trabajo al que están aplicando será mayor la oportunidad de la organización y el individuo para que puedan tener un entendimiento claro y puedan darse cuenta de que es el ajuste ideal.
 
 
-      Traditional organizations that move to Teal find that it is often hard to predict who will thrive in the new environment or not. Some people suddenly blossom, whereas others where everyone predicted they would love it find it hard. So taking time in the recruitment process and building in, when possible, a test period might be helpful to increases chances of a good fit.
-  - question: Aren’t teammates tempted to recruit candidates without strong
-      personalities, who won't disturb them? Is there not a risk for lack of
-      diversity to creep in?
+      * Cuando se trata de la Autogestión, el desafío tiende a ser diferente, dependiendo de los antecedentes de una persona. Si el candidato está acostumbrado a ser un gerente o trabajar en un puesto staff con poder sobre las unidades operativas, puede ser una transición difícil. Los candidatos que han trabajado previamente en los niveles más bajos de la organización pueden encontrar difícil al principio para lidiar con los niveles muy altos de compromiso y responsabilidad personal que requiere la autogestión.
+
+      * Cuando se trata de la Plenitud: ¿Se siente cómoda la persona en un ambiente donde los colegas esperan que todos y cada uno se muestren abiertos y vulnerables, para mostrarse desde una posición de Plenitud?
+
+      * Cuando se trata de Propósito Evolutivo: ¿resuena la persona con el propósito de la organización, y se sienten bien con un ambiente en el que hay menos predicción y control y más sentir y responder?
+
+
+      \
+
+      Las organizaciones tradicionales que se trasladan a Teal encuentran que a menudo es difícil predecir quién prosperará en el nuevo entorno o no. Algunas personas repentinamente florecen, mientras que otras donde todo el mundo predijo que les encantaría lo encuentran difícil. Así que tomar tiempo en el proceso de reclutamiento e incorporación, cuando sea posible, un período de prueba podría ser útil para aumentar las posibilidades de un buen ajuste.
+
+
+      <!--EndFragment-->
+  - question: ¿No son los compañeros de equipo tentados a reclutar candidatos sin
+      personalidades fuertes, que no los molestarán? ¿No existe el riesgo de que
+      la falta de diversidad se infiltre?
     answer: >-
-      The risk exists, just as in any kind of organization, where people prefer
-      recruit someone  who looks like them : same age, same experience, same
-      initial training. Mitigating that risk is that recruitment is often a team
-      affair and not just a single or small groups decision. 
+      <!--StartFragment-->
 
 
-      Some[ Teal organizations](../teal-paradigm-and-organizations/) have invented processes to preserve diversity (see below RHD  bi-monthly “isms in the workplace meeting”).
+      El riesgo existe, al igual que en cualquier tipo de organización, donde la gente prefiere reclutar a alguien que se parece a ellos: la misma edad, la misma experiencia, la misma formación inicial. Para mitigar ese riesgo es que el reclutamiento es a menudo un asunto de equipo y no una sola decisión o de unos cuantos.\
+
+      Algunas organizaciones Teal han inventado procesos para preservar la diversidad (ver más abajo los "ismos en las reuniones de trabajo bimestrales de RHD).
+
+
+      <!--EndFragment-->
 relatedTheory:
   - Onboarding
   - Training and Coaching
@@ -132,4 +144,3 @@ relatedTheory:
   - Job Titles and Job Descriptions
   - Culture and Values
 ---
-to be removed
