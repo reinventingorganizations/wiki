@@ -6,136 +6,131 @@ name: Despidos
 sortOrder: 10
 category: People practices
 intro: >-
-  Even in Teal organizations, people do not always fit in or perform adequately.
-  But when this occurs, the responses in Teal are different from earlier stage
-  organizations.
+  <!--StartFragment-->
+
+
+  \
+
+  Incluso en las organizaciones Teal, las personas no siempre encajan o funcionan adecuadamente. Pero cuando esto ocurre, las respuestas en Teal son diferentes de las organizaciones de etapas anteriores.
+
+
+  <!--EndFragment-->
 
 
   ![](/media/dismissal.jpg)
 perspective: >-
-  In Teal organizations, dismissals are rare. Roles tend to evolve to fit an
-  individual’s strengths, and people are generally highly motivated by both a
-  sense of autonomy and a desire not to let their colleagues down. Layoffs are
-  infrequent since Teal organizations tend to adjust more flexibly and rapidly
-  to downturns. More likely, departures are voluntary. Some people are not
-  comfortable with this new approach to worklife and they overwhelmingly return
-  to other environments of their own volition.
+  <!--StartFragment-->
 
 
-  But, as a last resort (and only if a mediated conflict resolution process is unsuccessful), dismissal can occur. When it does, the associated emotions are embraced. People and choices are respected. Support is provided. And departure is treated as a learning opportunity, for both parties.
+  En las organizaciones Teal, los despidos son raros. Los roles tienden a evolucionar para ajustarse a las fortalezas de un individuo, y la gente generalmente está altamente motivada por un sentido de autonomía y un deseo de no dejar que sus colegas bajen. Los despidos son infrecuentes ya que las organizaciones Teal tienden a ajustarse de manera más flexible y rápida a las crisis. Lo más probable es que las salidas sean voluntarias. Algunas personas no se sienten cómodas con este nuevo enfoque de la vida laboral y regresan abrumadoramente a otros ambientes por su propia voluntad.\
+
+  Pero, como último recurso (y sólo si un proceso de resolución de conflictos mediado no tiene éxito), el despido puede ocurrir. Cuando lo hace, las emociones asociadas se abrazan. Las personas y las opciones son respetadas. Se proporciona soporte. Y la salida es tratada como una oportunidad de aprendizaje, para ambas partes.\
+
+  En contraste el despido en las organizaciones de etapas anteriores puede resumirse de la siguiente manera:\
+
+  \
+
+  **Organizaciones Rojas**\
+
+  En el [paradigma Rojo](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_paradigma_Rojo_y_las_Organizaciones "El paradigma Rojo y las Organizaciones"), corresponde al jefe / líder decidir quién disparar o mantener. Los procesos formales no son necesarios. Las salidas voluntarias pueden ser vistas como traición.\
+
+  \
+
+  **Organizaciones Ámbar**\
+
+  En las [organizaciones Ámbar,](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_%C3%81mbar_y_las_Organizaciones "El Paradigma Ámbar y las Organizaciones") los despidos siguen a menudo un lapso de la disciplina, o una violación de las reglas. Las consecuencias pueden estar bien definidas. Por ejemplo, una primera ofensa (tal vez llegar tarde) podría significar suspensión por un día. Un delito repetido puede resultar en un despido.\
+
+  En las versiones actuales de Ámbar - algunas agencias gubernamentales, organizaciones religiosas, escuelas públicas, militares, etc. - el empleo extendido (incluso de por vida) es la norma. Estas relaciones largas pueden extenderse a los círculos sociales. La posibilidad de despido lleva consigo la amenaza, no sólo de la pérdida de un empleo, sino también del tejido social asociado. Aquellos que se sienten insatisfechos en una organización Ámbar se enfrentan a una dolorosa elección.\
+
+  \
+
+  **Organizaciones Naranja**\
+
+  Las [organizaciones Naranja](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Naranja_y_las_Organizaciones "El Paradigma Naranja y las Organizaciones") tienen una amplia gama de prácticas para los despidos. Autoridad comúnmente miente con el jefe (tal vez después de la aprobación o consejería de recursos humanos). Las causas suelen ser el rendimiento o la organización de reducción de costos / redirección estratégica. Rara vez hay una comprensión implícita o contractual de que el empleo está garantizado.\
+
+  Es común tener sistemas elaborados de gestión del rendimiento. A continuación, el despido puede seguir cuando los intentos de elevar el rendimiento por debajo del par han fracasado.\
+
+  Por otro lado, la necesidad de un despido también puede verse como un defecto en el proceso de contratación. En parte, esto es porque el costo de contratar a alguien que más tarde demuestre ser insatisfactorio es alto. Los paquetes de separación no son infrecuentes. A veces, se ofrece ayuda para encontrar un nuevo trabajo. Las organizaciones naranjas pueden tener prácticas de despido bastante progresivas.\
+
+  \
+
+  **Organizaciones Verdes**\
+
+  Las [organizaciones Verdes ](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Verde_y_las_Organizaciones "El Paradigma Verde y las Organizaciones")tienen una alta tolerancia para las diferencias individuales y son más probables buscar una alternativa a dejar ir a la gente. Las personas que no se ajustan a las reglas y valores de la comunidad pueden sentirse marginadas y dejarlas como resultado. De lo contrario, las prácticas de despido son similares al paradigma Naranja.
 
 
-  **In contrast, dismissal in earlier stage organizations can be summarized as follows:**
-
-
-  #### Red organizations
-
-
-  In the[ Red paradigm](../red-organizations/), it’s up to the boss/leader to decide who to fire or keep. Formal processes are not necessary. Voluntary departures may be seen as betrayal.
-
-
-  #### Amber organizations
-
-
-  In [Amber organizations,](../amber-paradigm-and-organizations/) dismissals often follow a lapse of discipline, or a violation of the rules. The consequences may be well defined. For example, a first offense (perhaps arriving late) might mean suspension for a day. Repeated offense might result in dismissal.
-
-
-  In today’s versions of Amber — some government agencies, religious organizations, public schools, the military, etc. — extended (even lifetime) employment is the norm. These long relationships may extend to social circles. The possibility of dismissal carries the threat, not only of the loss of a job, but also of the associated social fabric. Those feeling unfulfilled in an Amber organizations face a painful choice.
-
-
-  #### Orange organizations
-
-
-  [Orange organizations ](../orange-paradigm-and-organizations/)have a wide range of practices for dismissals. Authority commonly lies with the boss (maybe after HR approval or counseling).
-
-
-  The causes are typically either performance or organizational cost-cutting/strategic redirection. Rarely is there implicit or contractual understanding that employment is guaranteed.
-
-
-  It is common to have elaborate systems of performance management. Then, dismissal can follow when attempts to lift below-par performance have failed.
-
-
-  On the other hand, the need for a dismissal may also be seen as a flaw in the hiring process. In part, this is because the cost of hiring someone who later proves to be unsatisfactory is high. . Severance packages are not uncommon. Sometimes, assistance in finding a new job is offered. Orange organizations may have quite progressive dismissal practices.
-
-
-  #### Green organizations
-
-
-  [Green organizations ](../green-paradigm-and-organizations/)have a high tolerance for individual differences and are likelier to look for an alternative to letting people go. People who do not conform to the community rules and values may feel marginalized, and leave as a result. Otherwise, dismissal practices are similar to the Orange paradigm.
+  <!--EndFragment-->
 inPractice: >-
-  #### People choose to leave before dismissal
+  <!--StartFragment-->
 
 
-  In Teal organizations, dismissals prove to be surprisingly rare—because of the in-built flexibility. Self-management means people can customize a job at which they excel. A person with “performance issues” might shed one or more roles in which she is not strong and take up others that better match her skills, interests, and talents. In traditional workplaces, where a job is well defined, there is usually less flexibility.
+  **La gente decide salir antes del despido**\
+
+  En las organizaciones Teal, los despidos demuestran ser sorprendentemente raros, debido a la flexibilidad incorporada. Autogestión significa que las personas pueden personalizar un trabajo en el que sobresalen. Una persona con "problemas de desempeño" podría arrojar uno o más roles en los que ella no es fuerte y tomar otros que mejor coinciden con sus habilidades, intereses y talentos. En los lugares de trabajo tradicionales, donde el trabajo está bien definido, suele haber menos flexibilidad.\
+
+  Por otra parte, la regeneración en funcionamiento en Teal no viene de otro nivel, alejado (como un jefe o un HR). Viene de colegas. Hay mucho menos razón para encontrar fallas en sus sentimientos acerca de su desempeño. Estas son las personas que necesita para trabajar con todos los días. Si esto se siente incómodo, puede tomar una decisión de adulto para seguir adelante.\
+
+  Por ejemplo, en Sun Hydraulics, un ingeniero puede notar que de alguna manera poco trabajo viene a su manera - pocos colegas lo invitan a unirse a sus proyectos, o solicitar su consejo. En Buurtzorg, una enfermera sentirá en sus interacciones con los colegas que no encaja en el equipo, o que la autogestión no le satisface después de todo. Alrededor de 25 enfermeras eligen salir cada mes por esa razón (mientras que 250 enfermeras se unen cada mes).\
+
+  Casi universalmente, la gente decide irse antes de ser despedidos. Y casi siempre la salida sucede por consentimiento mutuo, y sobre una base amistosa. Esto no cambia el hecho de que en un nivel personal el proceso puede ser doloroso. El contexto autogestionado ayuda a las personas a darse cuenta de que nadie es culpable; Que tal vez no están destinados a este tipo de trabajo.\
+
+  \
+
+  **El despido todavía ocurre ocasionalmente**\
+
+  Pero ocasionalmente, las organizaciones autogestionadas se enfrentan a situaciones donde necesitan separarse con personas que no encajan. Tal vez alguien rompe los valores de la empresa, o sistemáticamente no seguir el proceso de los consejos (en muchas organizaciones Teal, no seguir el proceso de los consejos es la única infracción "despedible"). En ambos casos, el tejido fundamental de la autogestión puede verse amenazado. Estas situaciones no se basan en una jerarquía de acción, sino en mecanismos basados en pares.\
+
+  Por lo general comienza con un esfuerzo de resolución de conflictos, iniciado por un equipo o un individuo. Hablan con la persona en cuestión y tratan de encontrar una solución mutuamente aceptable. Si esto falla, pueden llamar a un mediador, o un panel, para facilitar la resolución. En la mayoría de los casos, esto trae resolución. En algunos casos, la persona y el equipo deciden sobre compromisos mutuos y le dan otra oportunidad. En otros, la persona viene a ver que la confianza está irrevocablemente roto y entiende que es hora de irse.\
+
+  Si no se puede encontrar un acuerdo, y como última oportunidad para resolver el asunto, el equipo puede pedir a un propietario / fundador a mediar. En los raros casos en que incluso eso falla, el equipo puede pedirle al fundador que ponga fin al empleo de la persona. Este proceso, con algunas variaciones, se sigue en [Buurtzorg](http://www.buurtzorgnederland.com/) y [Morning Star](http://www.morningstarco.com/).\
+
+  \
+
+  **Las dificultades económicas se manejan de manera diferente**\
+
+  Pocas organizaciones Teal han despedido gente durante las recesiones. Las organizaciones autogestionadas son extremadamente flexibles y acumulan poco sobrepeso. Soportan mejor las dificultades económicas que las organizaciones tradicionales. Por ejemplo, [FAVI](http://www.favi.com/) y [Sun Hydraulics](http://www.sunhydraulics.com/) han soportado severas recesiones (con disminuciones de ingresos del 30 al 50 por ciento) sin despidos.\
+
+  \
+
+  En algunos casos, los colegas están de acuerdo en compartir el dolor y optar por reducciones salariales temporales. Desde la perspectiva Teal, sería improcedente despedir a colegas sólo para aumentar los beneficios durante unos meses si se considera que el exceso de personal es sólo temporal. Cuando una organización pasa a la autogestión, las personas que desempeñan funciones de gestión ya no son necesarias. [Zappos](https://www.zappos.com/) se enfrentó a esa situación y ofreció a los gerentes anteriores tiempo y asistencia sustanciales para encontrar nuevos roles donde pudieran agregar valor. También ofrecieron a todos los empleados un pago de indemnización generoso si no se sentían plenamente comprometidos con la nueva organización. \[1].\
+
+  \
+
+  Esto es diferente a los excesos estructurales.[AES](http://www.aes.com/home/default.aspx) se enfrentó a esto muchas veces con plantas eléctricas que compró en Europa del Este, Asia, América Latina y África. En algunos casos, los anteriores propietarios del gobierno habían utilizado las plantas para crear empleos artificiales. Después de la adquisición, AES redujo rápidamente el número de empleados, principalmente a través de un generoso programa voluntario de cesantía. Sólo pocas veces se les pedía que se fueran. En Panamá, AES creó un fondo de préstamos para los empleados que tomaron el paquete. Esto ayudó a muchos a iniciar nuevos negocios.\
+
+  \
+
+  Mantener puestos de trabajo artificialmente no tiene sentido desde la perspectiva Teal. La preocupación por la seguridad en el empleo se inspira en parte en el miedo. Negligencia la verdad de que todo cambia. Se descarta la posibilidad de que una persona cuyo talento se desperdicia en una organización con exceso de personal podría encontrar una mejor manera de expresar sus dones donde se necesitan. La vida se desarrolla continuamente; Despidos e incluso despidos pueden ser parte de ese despliegue, aunque son raros en estructuras autogestionadas.
 
 
-  Moreover, feedback on performance in Teal does not come from another, remote level (like a boss or HR). It comes from colleagues. There is much less reason to find fault with their feelings about your performance. These are the people you need to work with everyday. If this feels awkward, you can take an adult decision to move on.
-
-
-  For example, at Sun Hydraulics, an engineer might notice that somehow little work comes his way — few colleagues invite him to join their projects, or solicit his advice. At Buurtzorg, a nurse will feel in her interactions with colleagues that she doesn’t fit the team, or that self-management doesn’t suit her after all. About 25 nurses elect to leave each month for that reason (while 250 nurses join every month).
-
-
-  Almost universally, people choose to leave before they are dismissed. And almost always the departure happens by mutual consent, and on a friendly basis. This does not change the fact that on a personal level the process can be painful. The self-managing context helps people realize that no one is to blame; that they are perhaps not meant for this kind of work.
-
-
-  #### Dismissal still happens occasionally
-
-
-  But occasionally, self-managing organizations do face situations where they need to part ways with people who don’t fit. Perhaps someone breaches company values, or systematically fails to follow the advice process (in many Teal organizations, failing to follow the advice process is the only “fireable” offense). In both of these cases, the fundamental fabric of self-management may be threatened. These situations don’t rely on a hierarchy for action, but on peer-based mechanisms.
-
-
-  It usually starts with a conflict resolution effort, initiated by a team or an individual. They talk with the person in question and try to find a mutually agreeable solution. If this fails, they can call a mediator, or a panel, to facilitate resolution. In most cases, this brings resolution. In some cases, the person and the team decide on some mutual commitments and give it another go. In others, the person comes to see that trust is irrevocably broken and understands it is time to leave.
-
-
-  If no agreement can be found, and as a last chance to settle the matter, the team may ask an owner/founder to mediate. In the rare cases where even that fails, the team can ask the founder to put an end to the person’s employment. This process, with some variations, is followed at [Buurtzorg ](http://www.buurtzorgnederland.com/)and [Morning Star](http://www.morningstarco.com/).
-
-
-  #### Economic troughs are handled differently
-
-
-  Few Teal organizations have laid people off during downturns. Self-managing organizations are exceedingly flexible and accumulate little overhead. They weather downturns better than traditional organizations. [FAVI ](http://www.favi.com/)and [Sun Hydraulics](http://www.sunhydraulics.com/), for example, have both withstood severe recessions (with revenue decreases of 30 to 50 percent) without layoffs.
-
-
-  In some cases, colleagues agree to share the pain and opt for temporary pay reductions. From a Teal perspective, it would be improper to lay off colleagues just to boost profits for a few months if the overstaffing is deemed to be only temporary.
-
-
-  When an organization moves to self-management, people in management roles are no longer needed. Zappos faced that situation and offered former managers substantial time and assistance to find new roles where they could add value. They also offered all employees a generous severance payment if they did not feel fully committed to the new organization. ^\[Quartz's article "Internal Memo: Zappos is offering severance to employees who aren’t all in with Holacracy"].
-
-
-  This is different to structural overstaffing. [AES ](http://www.aes.com/)faced this many times with power plants it bought in Eastern Europe, Asia, Latin America, and Africa. In some cases, the previous government owners had used the plants to create artificial jobs. After acquisition, AES swiftly reduced the number of employees, mainly via a generous voluntary severance program. Only rarely were people asked to leave. In Panama, AES created a loan fund for employees who took the package. This helped many to start new businesses.
-
-
-  Maintaining jobs artificially makes no sense from a Teal perspective. A concern about job security is partly inspired by fear. It neglects the truth that everything changes. It dismisses the possibility that a person whose talents are wasted in an overstaffed organization might find a better way to express his gifts where they are needed. Life is continuously unfolding; dismissals and even layoffs can be part of that unfolding, although they are rare in self-managed structures.
+  <!--EndFragment-->
 faq:
-  - question: How do these practices link with the three Teal breakthroughs?
+  - question: ¿Cómo se relacionan estas prácticas con los tres avances Teal?
     answer: >-
-      In [Teal organizations](../teal-paradigm-and-organizations/) the decision
-      about whether a person will stay with the organization belongs with that
-      individual and/or their team. Forced dismissals are infrequent because
-      people are given clear indications if they are not a fit so that they can
-      choose to leave voluntarily. In many cases a parting of the ways happens
-      by mutual consent in the process of self-managed conflict resolution. Only
-      when everything else fails do organization founders fire people, but this
-      is also initiated by the team or a conflict mediation panel.
+      <!--StartFragment-->
 
 
-      #### Wholeness
+      **Autogestión**\
+
+      En las [organizaciones Teal](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones"), la decisión sobre si una persona permanecerá con la organización corresponde a esa persona y / o su equipo. Los despidos forzosos son infrecuentes porque a las personas se les dan indicaciones claras y si no embonan pueden optar por abandonar voluntariamente. En muchos casos, una separación de los caminos sucede por consentimiento mutuo en el proceso de resolución de conflictos autogestionados. Sólo cuando todo lo demás falla, los fundadores de la organización despiden a la gente, pero esto también es iniciado por el equipo o un panel de mediación de conflictos.\
+
+      \
+
+      **Plenitud**\
+
+      Cuando usted no tiene miedo de que su jefe puede disparar a voluntad, es más fácil mostrarse plenamente en el trabajo. Si usted no está siendo juzgado y no depende de adherirse a un conjunto de reglas para permanecer en el trabajo, tiende a traer todo su ser al lugar de trabajo. Las organizaciones Teal no reducen los despidos a fríos, las transacciones contractuales que evitan tratar con las emociones y el dolor. En cambio, aceptan y trabajan con esas cuestiones humanas para convertir las salidas en experiencias de aprendizaje que pueden mejorar significativamente el camino futuro de la persona y de la organización.\
+
+      \
+
+      **Propósito evolutivo**\
+
+      Dar a la gente la oportunidad y alentarlos a encontrar activamente un nuevo papel en la empresa cuando no están funcionando bien o cuando su papel actual ya no es necesario contribuye a la capacidad de la organización para escuchar y entender lo que está tratando de convertirse, para cumplir con su [propósito evolutivo](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Prop%C3%B3sito_Evolutivo "Propósito Evolutivo").
 
 
-      When you don’t have a fear that your boss may fire you at will, it’s easier to show up fully at work. If you’re not being judged and do not depend on adhering to a set of rules to stay in the job, you tend to bring your whole self to the workplace.
-
-
-      [Teal organizations ](../teal-paradigm-and-organizations/)don’t reduce dismissals to cold, contractual transactions that avoid dealing with the emotions and pain. Instead, they accept and work with those human issues to turn departures into a learning experiences that can meaningfully enhance the person’s and the organization’s future path. 
-
-
-      #### Evolutionary purpose
-
-
-      Giving people the opportunity and encouraging them to actively find a new role in the company when they are not performing well or when their current role is no longer needed contributes to the organization’s ability to listen and understand what it is trying to become, to fulfill its [evolutionary purpose](../evolutionary-purpose/).
+      <!--EndFragment-->
 relatedTheory:
   - Feedback and Performance Management
   - Compensation and incentives
   - Conflict resolution
   - Commitment, Working Hours and Flexibility
 ---
-To be removed
