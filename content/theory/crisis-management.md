@@ -6,112 +6,128 @@ name: Gestión de la Crisis
 sortOrder: 8
 category: Important Processes
 intro: >-
-  The topic of Crisis Management addresses the organizational process of making
-  swift or particularly challenging decisions at times of crisis, and how this
-  may differ from regular [decision making](../decision-making/) processes.
+  <!--StartFragment-->
+
+
+  El tema de la Gestión de la Crisis aborda el proceso organizativo de toma de decisiones rápidas o particularmente difíciles en momentos de crisis, y cómo esto puede diferir de los procesos de toma de decisiones tradicionales.
+
+
+  <!--EndFragment-->
 
 
   ![](/media/crisis.jpg)
 perspective: >-
-  In a Teal organization, everyone is involved in decision making to allow the
-  best response to emerge from collective intelligence. 
-
-  Every historical stage has given birth to a distinct perspective on Crisis Management, and to very different practices:
+  <!--StartFragment-->
 
 
-  #### Red Organizations
+  En una organización Teal, todos participan en la toma de decisiones para permitir que la mejor respuesta surja de la inteligencia colectiva.\
+
+  \
+
+  Cada etapa histórica ha dado nacimiento a una clara perspectiva sobre la Gestión de Crisis y a prácticas muy diferentes:\
+
+  \
+
+  **Organizaciones Rojas**\
+
+  En el [paradigma Rojo](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_paradigma_Rojo_y_las_Organizaciones "El paradigma Rojo y las Organizaciones"), el horizonte de planificación a corto plazo de la organización y su naturaleza reactiva lo hacen que este familiarizado con las crisis. Las decisiones se pueden tomar por capricho y se transmiten a los empleados de arriba usando el paradigma Rojo del mando autoritario.\
+
+  \
+
+  **Organizaciones Ámbar**\
+
+  En el [paradigma Ámbar](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_%C3%81mbar_y_las_Organizaciones "El Paradigma Ámbar y las Organizaciones"), la organización es más estable y predecible. Los procesos y procedimientos definen la forma en que se hacen las cosas. Se supone que los trabajadores necesitan dirección. En el impredecible reino de la crisis, el CEO y la alta gerencia toman decisiones que luego se traducen en órdenes para los que están más abajo en la jerarquía. Se espera que sigan sin chistar.\
+
+  \
+
+  **Organizaciones Naranja**\
+
+  En el [paradigma Naranja](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Naranja_y_las_Organizaciones "El Paradigma Naranja y las Organizaciones"), la toma de decisiones se basa en la efectividad, medida por el impacto en medidas como la utilidad y la cuota de mercado. La toma de decisiones en Naranja se basa más en la experiencia que en la jerarquía. En crisis, un grupo de trabajo de asesores selectos podría reunirse confidencialmente para asesorar al director general y al consejo. La alta dirección estará bajo presión para recuperar el control y como consecuencia la toma de decisiones puede estar centralizada en manos de los altos ejecutivos. Las decisiones se comunican típicamente después de que se hicieron y después se espera que sean implementadas inmediatamente.\
+
+  \
+
+  **Organizaciones Verdes**\
+
+  En las [organizaciones Verdes](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Verde_y_las_Organizaciones "El Paradigma Verde y las Organizaciones") dirigidas por los valores, la descentralización y el empoderamiento ayudan a llevar la toma de decisiones cotidiana a los trabajadores de primera línea que pueden hacerlos sin la aprobación de la gerencia. Para decisiones de largo alcance, el consenso es valorado y buscado por la alta gerencia antes de actuar. Las crisis desafían estas prácticas. Para las decisiones altamente contenciosas y sensibles al tiempo, es posible que el CEO intervenga, suspenda el modelo de consenso y haga una determinación de arriba hacia abajo.\
+
+  \
+
+  **Organizaciones Teal**\
+
+  En el [paradigma Teal](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones"), todos participan en la toma de decisiones para permitir que la mejor respuesta surja de la inteligencia colectiva. Si el proceso de los consejos necesita ser suspendido, el alcance y el tiempo de esta suspensión son limitados.
 
 
-  In the [Red paradigm](../red-organizations/), the organization's short term planning horizon and its reactive nature makes it familiar with crises. Decisions can be made on a whim and are passed down to employees from above by using the Red breakthrough of command authority.
-
-
-  #### Amber Organizations
-
-
-  In the [Amber paradigm](../amber-paradigm-and-organizations/), the organization is more stable and predictable.  Processes and procedures define the way things are done. It is assumed that workers need direction.  In the unpredictable realm of crisis, the CEO and highest management make decisions which are then translated into orders for those further down the hierarchy. They are expected to follow without question.
-
-
-  #### Orange Organizations
-
-
-  In the [Orange paradigm](../orange-paradigm-and-organizations/), decision making is based on effectiveness, measured by impact on measures like profit and market share. Decision-making in Orange is based more on expertise than on hierarchy. In crisis a task force of select advisors might meet confidentially to advise the CEO and board. Top management will be under pressure to regain control and as a consequence decision making may be centralized in the hands of the senior executives . Decisions are typically communicated after they are made and then expected to be implemented swiftly.
-
-
-  #### Green Organizations
-
-
-  In values-driven, purpose-led [Green organizations](../green-paradigm-and-organizations/), decentralization and empowerment help to push day-to-day decision making down to frontline workers who can make them without management approval. For far-reaching decisions, consensus is valued, and sought, by senior management before they act. Crises challenge these practices. For highly contentious and time-sensitive decisions, it may be that the CEO steps in, suspends the consensus model, and makes a top down determination.
-
-
-  #### Teal Organizations
-
-
-  In the Teal paradigm, everyone is involved in decision making to allow the best response to emerge from collective intelligence. If the advice process needs to be suspended, the scope and time of this suspension are limited.
+  <!--EndFragment-->
 inPractice: >-
-  #### Upholding the advice process
+  <!--StartFragment-->
 
 
-  The regular [decision making](../decision-making/) model adopted by Teal organizations is the advice process, which distributes decision-making. This remains the preferred approach to deal with crisis situations.
+  **Mantener el proceso de los consejos**
 
 
-  ##### *Trusting the process*
+  El modelo regular de [toma de decisiones](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Toma_de_Decisiones "Toma de Decisiones") adoptado por las organizaciones Teal es el proceso de los consejos, que distribuye la toma de decisiones. Este sigue siendo el enfoque preferido para hacer frente a las situaciones de crisis.\
+
+  \
+
+  **Confiando en el proceso**\
+
+  Gestión de Crisis a través del proceso de los consejos es una demostración final de \[Autogestión]. En las crisis, las decisiones sensibles y urgentes pueden tener consecuencias negativas para los empleados y la organización en su conjunto: por ejemplo, la pérdida de puestos de trabajo o la venta de partes del negocio.\
+
+  Es natural, en vista de los modelos de organización anteriores, cuestionar la capacidad del personal para ser incluido en la toma de decisiones en circunstancias tan delicadas.\
+
+  Un líder de una organización Teal se ve desafiado a confiar en el proceso de los consejos de todos modos. Se arriesgan ante la desconocida reacción de los empleados, y el potencial para que las cosas se vuelvan un caos o los intercambios se tornen adversos. Sin embargo, cuando el proceso de los consejos no se utiliza, existe el riesgo de perder la confianza de los empleados al dudar de su capacidad para resolver la situación. Cuando los empleados están plenamente comprometidos con el proceso de los consejos en una crisis, se les pide que compartan la responsabilidad de las decisiones difíciles y se confía en que harán su contribución. Esto es empoderante y ayuda a la organización a crecer.\
+
+  Ver [FAVI](http://www.favi.com/) y [Buurtzorg](http://www.buurtzorgnederland.com/) a continuación.\
+
+  \
+
+  **Suspender el proceso de los consejos**\
+
+  Ocasionalmente, una crisis puede requerir que el proceso de los consejos sea suspendido debido a la escala o urgencia de la situación. En estas circunstancias, el líder puede decidir suspender temporalmente el proceso de los consejos. Esto puede ser aceptable siempre que:
 
 
-  Crisis Management via the advice process is an ultimate demonstration of \[Self-Management Self Management]. In crises, sensitive and urgent decisions may have negative implications for employees and the organization as a whole: for example, loss of jobs, or selling off parts of the business.
+  * Las razones de la suspensión se revelan completamente
+
+  * Las limitaciones (período de tiempo, áreas de toma de decisiones, etc.) se explican
+
+  * La toma de decisiones se pasa a una persona capacitada en lugar del líder
 
 
-  It is natural, given the earlier organization models, to question the capacity of staff to be included in making decisions in such sensitive circumstances.
+  Vea [AES](http://www.aes.com/home/default.aspx) a continuación.\
+
+  \
+
+  **Autogestión**\
+
+  Tratar una crisis a través del proceso de los consejos es una prueba clave de la autogestión. Se pide a los líderes que suspendan cualquier deseo de hacerse cargo y confíen en la fuerza de trabajo para ofrecer soluciones eficaces. Hay una creencia subyacente de que los empleados son responsables, comprometidos y capaces.\
+
+  \
+
+  **Plenitud**\
+
+  Al mantener el proceso de los consejos, incluso en situaciones de crisis, los líderes se ven obligados a afrontar el temor de que perder el control pueda poner en peligro la organización, causar caos y arriesgar los intereses de los grupos de interés. Las situaciones de crisis brindan una oportunidad para que los líderes demuestren su integridad al ser transparentes, potencialmente vulnerables y apoyar genuinamente la participación de sus colegas. Los empleados a su vez están invitados a asumir la responsabilidad de sus propios sentimientos en situaciones que pueden tener resultados no deseados.\
+
+  Una situación de crisis ofrece una oportunidad para que una organización se reúna en conjunto para encontrar soluciones. Esto a menudo conduce a soluciones más poderosas que las creadas por un líder o un grupo de asesores en forma aislada. Cuando estas situaciones se abordan con éxito, la organización experimenta colectivamente un crecimiento en \[totalidad total].\
+
+  \
+
+  **Propósito evolutivo**\
+
+  Cuando los empleados participan en el proceso de los consejos en una crisis, se les invita a comprender lo que está sucediendo y participar activamente en las decisiones que deben tomarse. Decidir qué hacer pide a todos que se vuelvan a conectar con el propósito de la organización. Servir las necesidades del propósito evolutivo se convierte en un factor importante para decidir qué hacer. Sin este punto de referencia, la toma de decisiones puede ser fácilmente dominada por el interés propio y las necesidades de supervivencia.
 
 
-  A leader of a Teal organization is challenged to trust in the advice process anyway. They risk the unknown reaction of the employees, and the potential for things to descend into chaos or adversarial exchanges. However, when the advice process is not used, there is a risk of losing the trust of the employees by doubting their ability to resolve the situation. When employees are fully engaged with the advice process in a crisis, they are asked to share responsibility for difficult decisions and trusted to make a contribution. This is empowering and helps the organization to grow.
-
-
-  See [FAVI](http://www.favi.com/) and [Buurtzorg](http://www.buurtzorgnederland.com/) below.
-
-
-  #### Suspending the advice process
-
-
-  Occasionally a crisis may require the advice process to be suspended because of the scale or urgency of the situation. Under these circumstances the leader may choose to suspend the advice process temporarily. This can be acceptable providing:
-
-
-  * the reasons for the suspension are fully disclosed
-
-  * the limitations (time period, areas of decision making etc) are explained
-
-  * Decision making is passed to a capable person rather than the leader
-
-
-  See [AES](http://www.aes.com/) below.
-
-
-  #### Self-management
-
-
-  Dealing with a crisis via the advice process is a key test of self management. Leaders are asked to suspend any desire to take charge and trust the workforce to deliver effective solutions. There is an underlying belief that employees are responsible, committed and capable.
-
-
-  #### Wholeness
-
-
-  By upholding the advice process, even in crisis situations, leader(s) are forced to face a fear that losing control could imperil the organization, cause chaos, and risk the interests of stakeholders. Crisis situations provide an opportunity for leaders to demonstrate their wholeness by being transparent, potentially vulnerable and genuinely supportive of their colleagues' participation. Employees in turn are invited to take responsibility for their own feelings in situations that may have unwelcome outcomes.
-
-
-  A crisis situation offers an opportunity for an organization to come together as a whole to find solutions. This often leads to more powerful solutions than those created by a leader or a group of advisors in isolation. When these situations are successfully addressed, the organization collectively experiences a growth into \[Wholeness wholeness].
-
-
-  #### Evolutionary purpose
-
-
-  When employees are engaged in the advice process in a crisis, they are invited to understand what is unfolding and participate actively in the decisions that need to be taken. Deciding what to do asks everyone to re-connect with the purpose of the organization. Serving the needs of the evolutionary purpose becomes an important factor in deciding what to do. Without this reference point, decision making can easily be dominated by self interest and survival needs.
+  <!--EndFragment-->
 faq:
-  - question: No matter what is theoretically attractive, there must be occasions
-      when 'the buck stops here'?
-    answer: "'The buck stops here' is part of our inheritance of 'heroic
-      management'. Theoretically, it sounds unarguable. Perhaps the best answers
-      are what can happen in practice. Three examples of crisis management below
-      (Favi, Buurtzorg, AES) show how three Teal organizations have handled
-      crises constructively. "
+  - question: No importa lo que es teóricamente atractivo, ¿debe haber ocasiones en
+      que "alguien asuma la responsabilidad”?
+    answer: >-
+      <!--StartFragment-->
+
+
+      "Ser el responsable o asumir la responsabilidad" es parte de nuestra herencia de "gestión heroica". Teóricamente, suena indiscutible. Quizás las mejores respuestas son lo que puede suceder en la práctica. Tres ejemplos de gestión de crisis a continuación ([Favi](http://www.favi.com/),[Buurtzorg,](http://www.buurtzorgnederland.com/) [AES](http://www.aes.com/home/default.aspx)) muestran cómo tres organizaciones Teal han manejado las crisis de manera constructiva.
+
+
+      <!--EndFragment-->
 relatedTheory:
   - Listening to Purpose
   - Self-Management
@@ -120,4 +136,3 @@ relatedTheory:
   - Change Management
   - Decision Making
 ---
-to be removed
