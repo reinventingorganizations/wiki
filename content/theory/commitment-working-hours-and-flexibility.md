@@ -1,108 +1,111 @@
 ---
 layout: article
 tags: theory
-key: Commitment, Working Hours and Flexibility
-name: Commitment, Working Hours and Flexibility
+key: Engagement, horaires de travail et flexibilité
+name: Engagement, horaires de travail et flexibilité
 sortOrder: 4
 category: People practices
 intro: >-
-  The topic of commitment, working hours and flexibility includes the process of
-  how working hours are set, what commitment a person is expected to provide and
-  how organizations respond to changing demands.
+  Le thème de l'engagement, des heures de travail et de la flexibilité comprend
+  le processus de définition des heures de travail, l'engagement qu'une personne
+  est censée fournir et la manière dont les organisations répondent aux demandes
+  changeantes.
 
 
   ![](/media/agenda.jpg)
 perspective: >-
-  #### Working Hours
+  #### Horaires de travail
 
 
-  In traditional hierarchies, working hours are specified in an employment contract. There is often an underlying fear that people will not work the hours they are paid for without monitoring, especially at the lower levels in an organization.
+  Dans les hiérarchies traditionnelles, les heures de travail sont précisées dans un contrat de travail. Il existe souvent une crainte sous-jacente que les gens ne travailleront pas les heures pour lesquelles ils sont payés sans surveillance, en particulier aux échelons inférieurs d'une organisation.
 
 
-  When people have the freedom to choose and agree their own working hours, an environment of trust is created that motivates people to be fully responsible for their work.
+  Lorsque les gens ont la liberté de choisir et de convenir de leurs propres heures de travail, un environnement de confiance est créé qui motive les gens à être pleinement responsables de leur travail.
 
 
-  When an organization isn’t ready for self-management, self-set working hours can be a good first step. This approach starts to build greater trust and collaboration between boss and subordinate when it works well.
+  Lorsqu'une organisation n'est pas prête pour l'autogestion, les horaires de travail auto-définis peuvent être une bonne première étape. Cette approche commence à renforcer la confiance et la collaboration entre le patron et le subordonné lorsqu'elle fonctionne bien.
 
 
-  #### Commitments
+  #### Engagement
 
 
-  When colleagues work in a culture where it is normal and necessary to share other commitments in their lives, authenticity and being whole at work are embraced. Openness about personal commitments can develop stronger relationships amongst colleagues and result in a culture where colleagues support each other.
+  Lorsque les collègues travaillent dans une culture où il est normal et nécessaire de partager d'autres engagements dans leur vie, l'authenticité et la solidarité au travail sont adoptées. L'ouverture sur les engagements personnels peut développer des relations plus solides entre collègues et aboutir à une culture où les collègues se soutiennent mutuellement.
 
 
-  In times of need or crisis, for example in high season,  it is common in [Teal organizations](../teal-paradigm-and-organizations/) for workers, to voluntarily work longer hours to complete a task with motivation and pride, supporting their colleagues and working towards the purpose of the organization.
+  En période de besoins plus importants ou de crise, par exemple en haute saison, il est courant dans les [organisations Opale](https://fr--reinventingorganizations-wiki.netlify.app/theory/teal-paradigm-and-organizations/), pour les travailleurs, de travailler volontairement de plus longues heures pour accomplir une tâche avec motivation et fierté , en soutenant leurs collègues et en travaillant au service de l'organisation.
 
-  Every historical stage has given birth to a distinct perspective on commitment, working hours and flexibility, and to very different practices:
-
-
-  #### **Red organizations**
+  Chaque étape historique a donné naissance à une perspective distincte sur l'engagement, les horaires de travail et la flexibilité, et à des pratiques très différentes:
 
 
-  In [Red organizations](../red-organizations/), the boss determines working hours for each person. There is no formal process of setting and/or monitoring working hours. People belong to the organization and are expected to be available when needed.
+  #### **Organizations Rouge**
 
 
-  #### **Amber organizations**
+  Dans les [organisations Rouge](https://fr--reinventingorganizations-wiki.netlify.app/theory/red-organizations/), le patron détermine les heures de travail de chaque personne. Il n'y a pas de processus formel de fixation et / ou de contrôle des heures de travail. Les gens appartiennent à l'organisation et doivent être disponibles en cas de besoin.
 
 
-  In [Amber Organizations](../amber-paradigm-and-organizations/), working hours are determined by senior leaders and specified in an employment contract. They decide what work is to be carried out and how working hours will be monitored.
+  #### **Organizations Ambre**
 
 
-  #### **Orange organizations**
+  Dans les [organisations Ambre](https://fr--reinventingorganizations-wiki.netlify.app/theory/amber-paradigm-and-organizations/), les heures de travail sont déterminées par les hauts dirigeants et précisées dans un contrat de travail. Ils décident du travail à effectuer et de la manière dont les heures de travail seront contrôlées.
 
 
-  In [Orange organizations](../orange-paradigm-and-organizations/), people generally fall into one of two camps. There are those (often in manual roles) who work a fixed set of hours clocking in and clocking out, and those (often in management positions), who are expected to get their work done regardless of the hours stated in their contract.
+  #### **Organizations Orange**
 
 
-  #### **Green organizations**
+  Dans les [organisations Orange](https://fr--reinventingorganizations-wiki.netlify.app/theory/orange-paradigm-and-organizations/), les gens tombent généralement dans l'un des deux camps. Il y a ceux (souvent dans des rôles manuels) qui travaillent un ensemble fixe d'heures de pointage d'entrée et de sortie, et ceux (souvent dans des postes de direction), qui sont censés faire leur travail indépendamment des heures indiquées dans leur contrat.
 
 
-  In [Green organizations](../green-paradigm-and-organizations/), there is typically a culture of co-operation where people are empowered to work the hours they choose albeit within a defined structure. Flex-time is often used for lower-level workers in order to allow people to fit work in with the rest of their life. Working from home is a realistic option for those whose role allows it.
+  #### **Organizations Verte**
 
 
-  #### **Teal organizations**
+  Dans les [organisations vertes](https://fr--reinventingorganizations-wiki.netlify.app/theory/green-paradigm-and-organizations/), il existe généralement une culture de coopération où les gens sont habilités à travailler les heures de leur choix, mais dans une structure définie. Le temps flexible est souvent utilisé pour les travailleurs de niveau inférieur afin de permettre aux gens de s'adapter au travail avec le reste de leur vie. Le travail à domicile est une option réaliste pour ceux dont le rôle le permet.
 
 
-  On the surface, [Teal organizations ](../teal-paradigm-and-organizations/)may not look so different from Green ones relative to commitment, working hours and flexibility. The difference is in maturity and coherence. Whereas a Green organization might make the practices outlines above available to specific populations, a Teal organization would make these practices widely available as a normal part of the way they operate.
+  #### **Organizations Opale**
 
 
-  Teal organizations often exhibit the following general measures:
+  En apparence, les [organisations Opal](https://fr--reinventingorganizations-wiki.netlify.app/theory/teal-paradigm-and-organizations/)e peuvent ne pas sembler si différentes des organisations vertes en termes d'engagement, d'heures de travail et de flexibilité. La différence réside dans la maturité et la cohérence. Alors qu'une organisation verte pourrait rendre les pratiques décrites ci-dessus disponibles à des populations spécifiques, une organisation Opale rendrait ces pratiques largement disponibles dans le cadre normal de leur fonctionnement.
 
 
-  * Working hours are not controlled or decided by anyone
+  Les organisations Opale présentent souvent les mesures générales suivantes:
 
-  * People are trusted to set their own goals and work until they reach them.
 
-  * There is a shared understanding that at times, individuals may need to vary their commitment to work. These situations are shared and openly discussed so that the task in hand can be completed with everyone’s support.
+  * Les heures de travail ne sont ni contrôlées ni décidées par quiconque
+
+  * On fait confiance aux gens pour fixer leurs propres objectifs et travailler jusqu'à ce qu'ils les atteignent.
+
+  * Il y a une compréhension commune que parfois, les individus peuvent avoir besoin de varier leur engagement à travailler. Ces situations sont partagées et discutées ouvertement afin que la tâche en cours puisse être accomplie avec le soutien de tous.
 inPractice: >-
-  [Teal organizations ](../teal-paradigm-and-organizations/)start from the
-  premise that even for routine work, people have a sense of pride and want to
-  do a good job. People are systematically considered to be reliable,
-  self-motivated, trustworthy and intelligent.
+  Les [organisations
+  Opale](https://fr--reinventingorganizations-wiki.netlify.app/theory/teal-paradigm-and-organizations/)
+  partent du principe que même pour le travail de routine, les gens ont un
+  sentiment de fierté et veulent faire du bon travail. Les gens sont
+  systématiquement considérés comme fiables, motivés, dignes de confiance et
+  intelligents.
 
 
-  ##### **Commitment**
+  ##### **Engagement**
 
 
-  In most traditional organizations, there is an unspoken assumption that people in managerial positions should put their commitment to work above any other commitment in their lives. Few colleagues would cancel an important meeting for their child’s school play or because a good friend needs help. In self-managing organizations, speaking up about other important commitments in one's life is considered necessary to be authentic and whole at work. There is no need for the pretence that work will always come first. Teal organizations hold meetings at regular intervals in which colleagues can discuss how much time and energy, at that moment in their lives, they want to commit to the organization.  Because colleagues discuss their other commitments openly, solutions can be found to provide support and get the task done.
+  Dans la plupart des organisations traditionnelles, il existe une hypothèse tacite selon laquelle les personnes occupant des postes de direction devraient placer leur engagement à travailler au-dessus de tout autre engagement dans leur vie. Peu de collègues annuleraient une réunion importante pour la pièce de théâtre de leur enfant ou parce qu’un bon ami a besoin d’aide. Dans les organisations autogérées, parler d'autres engagements importants dans sa vie est considéré comme nécessaire pour être authentique et complet au travail. Il n'est pas nécessaire de prétendre que le travail passera toujours en premier. Les organisations Opale tiennent des réunions à intervalles réguliers au cours desquelles les collègues peuvent discuter du temps et de l'énergie qu'ils souhaitent consacrer à l'organisation à ce moment de leur vie. Parce que les collègues discutent ouvertement de leurs autres engagements, des solutions peuvent être trouvées pour fournir un soutien et accomplir la tâche.
 
 
-  ##### **Working hours/flex-time**
+  ##### **Heures de travail/flex-time**
 
 
-  In Teal organizations people are trusted to work the hours they need to achieve their own goals. There is no requirement for monitoring of working hours, or clocking in and out, or flex-time. In some Teal organizations such as [FAVI](http://www.favi.com/) and [Sun Hydraulics](http://www.sunhydraulics.com/), the working day is still divided into shifts, which is roughly the time colleagues are expected to spend on the shop floor, but it is not uncommon to see an operator stay on during the following shift to finish a job because he/she knows it needs to be done.
+  Dans les organisations Opale, on fait confiance aux gens pour travailler les heures dont ils ont besoin pour atteindre leurs propres objectifs. Il n'y a aucune obligation de surveillance des heures de travail, ni de pointage d'entrée et de sortie, ni d'horaire flexible. Dans certaines organisations Opale telles que [FAVI](https://fr--reinventingorganizations-wiki.netlify.app/cases/favi/) et [Sun Hydraulics](https://fr--reinventingorganizations-wiki.netlify.app/cases/sun-hydraulics/), la journée de travail est toujours divisée en équipes, ce qui à peu près le temps que les collègues sont censés passer dans l'atelier, mais il n'est pas rare de voir un opérateur rester pendant le quart suivant pour terminer un travail parce qu'il sait que cela doit être fait.
 
 
-  ##### **In times of need**
+  ##### **En cas de besoin de renfort**
 
 
-  Balancing the needs of the individual with those of the organization is not always easy. For example, [Morning Star](http://www.morningstarco.com/) has a high season for tomato processing when all hands need to be on deck. If someone wants to reduce their working hours during very busy times, they are expected to find a solution to uphold the commitments they have made. This expectation is the flip side of having no HR or planning function. An individual cannot simply file a request and let someone else worry about solving this issue. He/she has full liberty to find a solution, but until they have found one, they are bound to their previous commitments.
+  Équilibrer les besoins de l'individu avec ceux de l'organisation n'est pas toujours facile. Par exemple, [Morning Star](https://fr--reinventingorganizations-wiki.netlify.app/cases/morning-star/) a une haute saison pour la transformation des tomates, toutes les mains doivent être sur le pont. Si quelqu'un souhaite réduire ses heures de travail pendant les périodes de forte affluence, on attend de lui qu'il trouve une solution pour respecter les engagements qu'il a pris. Cette attente est le revers de la médaille de l'absence de fonction RH ou de planification. Un individu ne peut pas simplement déposer une demande et laisser quelqu'un d'autre se soucier de résoudre ce problème. Il / elle a toute liberté pour trouver une solution, mais tant qu'ils n'en ont pas trouvé une, ils sont liés par leurs engagements antérieurs.
 
 
-  ##### **Working hours and Teal in the future**
+  ##### **Heures de travail and perspectives pour l'Opale**
 
 
-  In the future, it is likely that the more people commit to ‘personal purpose’ in their lives, the more flexible their arrangements with the organization will be. Accommodating personal commitments to self-employment, part time work, or volunteering work will be normal. There will be no need for approval. A person will simply find a way to meet or transfer his/her commitments to another colleague and/or explore with colleagues what new roles and commitments he/she could take on that would add value to the organization.
+  À l’avenir, il est probable que plus les gens s’engagent à des «fins personnelles» dans leur vie, plus leurs arrangements avec l’organisation seront flexibles. Il sera normal de prendre des engagements personnels en matière de travail indépendant, de travail à temps partiel ou de bénévolat. Il n'y aura pas besoin d'approbation. Une personne trouvera simplement un moyen de respecter ou de transférer ses engagements à un autre collègue et / ou d'explorer avec ses collègues les nouveaux rôles et engagements qu'elle pourrait assumer et qui ajouteraient de la valeur à l'organisation.
 faq:
   - question: What happens if a person can’t keep up their commitment to the
       organization due to other personal commitments?
