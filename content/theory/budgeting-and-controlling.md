@@ -31,7 +31,7 @@ perspective: >-
   La budgétisation et le contrôle dans la compréhension actuelle ne seraient pas reconnus dans les [Organisations rouges](https://fr--reinventingorganizations-wiki.netlify.app/theory/red-organizations/). La planification a tendance à être à court terme avec une capacité limitée pour la stratégie à long terme. L'accent est généralement mis sur la réponse aux nouvelles menaces ou opportunités qui peuvent être exploitées à des fins d'exploitation ou de gain.
 
 
-  ### Organisations ambres/marron
+  ### Organisations ambres
 
 
   Les [organisations marron](https://fr--reinventingorganizations-wiki.netlify.app/theory/amber-paradigm-and-organizations/) reposent sur des processus stables et reproductibles. Ils créent également des structures et des hiérarchies clairement définies. Ensemble, ces caractéristiques permettent de réaliser des projets et des plans à une échelle beaucoup plus grande que ceux réalisables par les organisations rouges. La planification et la budgétisation sont utilisées pour déterminer les ressources nécessaires pour atteindre des objectifs bien compris et prévisibles. La planification est un processus descendant, les budgets étant transmis à ceux qui sont situés plus bas dans l'organisation.
