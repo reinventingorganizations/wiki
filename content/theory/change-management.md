@@ -1,89 +1,91 @@
 ---
 layout: article
 tags: theory
-key: Change Management
-name: Change Management
+key: Management du changement
+name: Management du changement
 sortOrder: 7
 category: Important Processes
 intro: >-
-  This article discusses the difference between traditional “change management”
-  and the evolutionary process of change under Teal.
+  Cet article traite de la différence entre la «gestion du changement»
+  traditionnelle et le processus évolutif de changement sous Opale.
 
 
   ![](/media/change.jpg)
 perspective: >-
-  In the machine paradigm of Orange, organizations are viewed as fixed systems.
-  These systems don’t have an inner capacity for change. Force must be applied
-  from outside. That is the role of senior management. They are the ones that
-  must identify the need for change, determine how that change will be brought
-  about, and ensure that it happens.
+  Dans le paradigme de l'Orange, les organisations sont considérées comme des
+  systèmes fixes. Ces systèmes n’ont pas de capacité interne de changement. La
+  force doit être appliquée de l'extérieur. C'est le rôle de la haute direction.
+  Ce sont eux qui doivent identifier le besoin de changement, déterminer comment
+  ce changement sera apporté et veiller à ce qu'il se produise.
 
 
-  Furthermore, the impetus for change in pre-Teal organizations does not come easily. These paradigms view change as an unfortunate necessity or the result of management failure. It is the job of management to predict and/or control the future, thus eliminating surprises. Reality should conform to a well executed budget and strategic plan. When it doesn’t, managment is often slow to acknowledge their presumed failure. And when they finally accept that the world around them has changed while they were pursuing their plan, they are uncomfortable with what they see. They now have to act decisively to make up for lost time. They must impose with urgency.
+  De plus, l'impulsion pour le changement dans les organisations pré-Opale ne vient pas facilement. Ces paradigmes considèrent le changement comme une nécessité malheureuse ou comme le résultat d'un échec de gestion. C'est le travail de la direction de prédire et / ou de contrôler l'avenir, éliminant ainsi les surprises. La réalité doit être conforme à un budget et un plan stratégique bien exécutés. Quand ce n’est pas le cas, la direction tarde souvent à reconnaître l’échec présumé. Et quand ils acceptent enfin que le monde qui les entoure a changé pendant qu'ils poursuivent leur plan, ils sont mal à l'aise avec ce qu'ils voient. Ils doivent désormais agir de manière décisive pour rattraper le temps perdu. Ils doivent s'imposer avec urgence.
 
 
-  The change will be painful (they imagine), but once accomplished, everything will be fine again. And so, they hasten to redesign the machinery of the organization. Unsurprisingly, people resist change being imposed upon them. To overcome this, management may feel compelled to play on fears, and choose to blame hostile competitive forces or titanic environmental factors that threaten the organization’s survival if it doesn't react. .
+  Le changement sera douloureux (imaginent-ils), mais une fois accompli, tout ira bien à nouveau. Et ainsi, ils s'empressent de repenser les rouages ​​de l'organisation. Sans surprise, les gens résistent au changement qui leur est imposé. Pour surmonter cela, la direction peut se sentir obligée de jouer sur les peurs et choisir de blâmer les forces compétitives hostiles ou les facteurs environnementaux titanesques qui menacent la survie de l'organisation si elle ne réagit pas.
 
 
-  Thus, change tends to happen in a series of ‘jumps’. This is not a fluid, emergent process. It’s a series of discrete and usually disruptive movements, from one relatively static state to another.
+  Ainsi, le changement a tendance à se produire dans une série de «sauts». Ce n'est pas un processus fluide et émergent. C’est une série de mouvements discrets et généralement perturbateurs, d’un état relativement statique à un autre.
 
 
   ![]()
 
 
-  In contrast, living systems seem to have the capacity to sense change in the environment and adapt from within. In a forest, no master tree plans and dictates to the other trees what to do when rain fails to fall or when spring chooses to come early. The whole ecosystem reacts creatively, in the moment. Teal organizations approach change in a similar way. People are encouraged to act on what they sense is needed. They are not confined by static job descriptions, fixed reporting lines, or functional discipline. They react creatively to life’s emerging, non-linear changes. Change is expected. It happens naturally, all the time^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4671-4688). Nelson Parker. Kindle Edition.]
+  En revanche, les systèmes vivants semblent avoir la capacité de ressentir les changements dans l'environnement et de s'adapter de l'intérieur. Dans une forêt, aucun arbre maître ne planifie et ne dicte aux autres arbres ce qu'il faut faire lorsque la pluie ne tombe pas ou lorsque le printemps choisit d'arriver tôt. L'ensemble de l'écosystème réagit de manière créative, sur le moment. Les organisations Oples abordent le changement de la même manière. Les gens sont encouragés à agir en fonction de ce qu'ils jugent nécessaire. Ils ne sont pas limités par des descriptions de poste statiques, des liens hiérarchiques fixes ou une discipline fonctionnelle. Ils réagissent de manière créative aux changements émergents et non linéaires de la vie. Le changement est attendu. Cela arrive naturellement, tout le temps ^ \[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4671-4688). Nelson Parker. Kindle Edition.]
 
 
-  For more on how earlier stages undergo organizational change, see below:
+  Pour en savoir plus sur la manière dont les étapes précédentes subissent le changement organisationnel, voir ci-dessous:
 
 
-  #### Red organizations
+  ### Organizations rouge
 
 
-  In [Red Organizations](../red-organizations/), change is directed by the boss. A Red organization can often adapt quickly in chaotic environments, because the leader can initiate rapid change, if necessary through intimidation. Change typically consists of immediate reactions to threats and opportunities rather than a response to more gradual and longer term (although no less important) developments. Little attention is paid to altering ingrained patterns of employee behavior over time.
+  Dans les [organisations-rouges](https://fr--reinventingorganizations-wiki.netlify.app/theory/red-organizations/), le changement est dirigé par le patron. Une organisation rouge peut souvent s'adapter rapidement dans des environnements chaotiques, car le leader peut initier un changement rapide, si nécessaire par l'intimidation. Le changement consiste généralement en des réactions immédiates aux menaces et aux opportunités plutôt qu'en une réponse à des développements plus graduels et à plus long terme (bien que non moins importants). Peu d'attention est accordée à la modification des modèles de comportement enracinés des employés au fil du temps.
 
 
-  #### Amber organizations
+  #### Organizations ambre
 
 
-  The [Amber paradigm](../amber-paradigm-and-organizations/) believes the world is (or should) be essentially immutable: what was true yesterday should be true today and tomorrow. It is built around an orderly structure and formal, stable processes. Change is primarily via small improvements to enhance the excellence of existing processes and traditions. Amber organizations can display a strong resistance to the need for change, especially if the nature of the change threatens ideological boundaries or social norms. When outside forces do impose the need for change, the change is mandated top-down with little thought of how change could be planned to minimize resistance. In that sense, there is little or no "change management" to speak of. 
+  Le [paradigme de l'ambre](https://fr--reinventingorganizations-wiki.netlify.app/theory/amber-paradigm-and-organizations/) croit que le monde est (ou devrait) être essentiellement immuable: ce qui était vrai hier devrait être vrai aujourd'hui et demain. Il est construit autour d'une structure ordonnée et de processus formels et stables. Le changement passe principalement par de petites améliorations pour améliorer l'excellence des processus et des traditions existants. Les organisations ambres peuvent afficher une forte résistance à la nécessité du changement, surtout si la nature du changement menace les frontières idéologiques ou les normes sociales. Lorsque des forces extérieures imposent le besoin de changement, le changement est imposé de haut en bas avec peu de réflexion sur la façon dont le changement pourrait être planifié pour minimiser la résistance. En ce sens, il y a peu ou pas de «gestion du changement» à proprement parler.
 
 
-  #### Orange organizations
+  #### Organizations oranges
 
 
-  [Orange organizations](../orange-paradigm-and-organizations/) are more likely to embrace change. Innovation is the key to outperforming competitors. Change should be constant. Unfortunately, as Orange organizations are typically structured as hierarchical pyramids, change can be difficult. Thus, the constant pursuit of change, hindered by the static nature of the organization, gave rise to "change management" and an industry of tools and consultancies to help organizations overcome their internal resistance to change.^\[For prominent theories developed to facilitate organizational change, see for instance Kurt Lewin’s three-stage model of change and John Kotter’s eight-step process for leading change.]
+  Les [organisations Orange](https://fr--reinventingorganizations-wiki.netlify.app/theory/orange-paradigm-and-organizations/) sont plus susceptibles d'adopter le changement. L'innovation est la clé pour surpasser les concurrents. Le changement doit être constant. Malheureusement, les organisations Orange étant généralement structurées sous forme de pyramides hiérarchiques, le changement peut être difficile. Ainsi, la poursuite constante du changement, entravée par la nature statique de l'organisation, a donné naissance à la "gestion du changement" et à une industrie d'outils et de consultants pour aider les organisations à surmonter leur résistance interne au changement. ^ \ \[Pour les théories de premier plan développées pour faciliter changement organisationnel, voir par exemple le modèle de changement en trois étapes de Kurt Lewin et le processus en huit étapes de John Kotter pour diriger le changement.]
 
 
-  In Orange, the dominant perspective on change comes from engineering. The typical steps to any change (e.g., re-organizations, re-structuring, re-branding, re-positioning, etc.) are to diagnose the current situation, design the desired future state, and then plan the change journey from here to there. For large change projects, this might involve several projects, program milestones and a central "program office" that reports to the top leadership. This kind of change planning is typically performed by a small team of senior leaders or "high potentials", sometimes with the help of external consultants. When their plan is approved by senior management, it is communicated throughout the organization, often with some “burning platform” message (“we must act now, or we are doomed”) due to the perceived need to provide the necessary motivation for change. Consistent with the Orange metaphor likening the organization to a machine, the phrase “drive change” is common. Change, in others words, is done to people, not via people.
+  Chez l'Orange, la perspective dominante du changement vient de l'ingénierie. Les étapes typiques de tout changement (par exemple, réorganisations, restructurations, re-branding, repositionnement, etc.) consistent à diagnostiquer la situation actuelle, à concevoir l'état futur souhaité, puis à planifier le parcours du changement d'ici à là. Pour les grands projets de changement, cela peut impliquer plusieurs projets, des jalons de programme et un «bureau de programme» central qui relève de la haute direction. Ce type de planification du changement est généralement effectué par une petite équipe de hauts dirigeants ou de «hauts potentiels», parfois avec l'aide de consultants externes. Lorsque leur plan est approuvé par la haute direction, il est communiqué dans toute l'organisation, souvent avec un message de «plate-forme brûlante» («nous devons agir maintenant, ou nous sommes condamnés») en raison du besoin perçu de fournir la motivation nécessaire au changement. Conformément à la métaphore d'Orange comparant l'organisation à une machine, l'expression «conduire le changement» est courante. Le changement, en d'autres termes, se fait sur les gens, non par les gens.
 
 
-  #### Green organizations
+  #### Organizations Verte
 
 
-  [Green organizations](../green-paradigm-and-organizations/) try to be more consensual. Having only a handful of people design the future state and change process sits uncomfortably with Green's ideal of empowerment. More people are likely to be involved. This might take the form of large group workshops and innovative facilitation techniques (think for instance, Appreciative Inquiry, Theory U, Open Space, etc.) in which a large number of colleagues participate. The every-day hierarchical structure of the organization is suspended temporarily to make room for an organic process of collective intelligence. The outcomes are then fed back into the traditional structures and processes of the organization. Involving a larger number of colleagues in the planning of change can feel risky for the senior leadership (what if the group veers in a direction we don't want?), but it tends to increase the buy-in of employees and improve future designs by capturing the insights of collective intelligence.
+  Les organisations vertes essaient d'être plus consensuelles. Le fait d'avoir seulement une poignée de personnes qui conçoivent l'état futur et le processus de changement n'est pas à l'aise avec l'idéal d'autonomisation du Vert. Davantage de personnes sont susceptibles d'être impliquées. Cela peut prendre la forme d'ateliers en grand groupe et de techniques de facilitation innovantes (pensez par exemple, enquête appréciative, théorie U, espace ouvert, etc.) auxquels un grand nombre de collègues participent. La structure hiérarchique quotidienne de l'organisation est temporairement suspendue pour faire place à un processus organique d'intelligence collective. Les résultats sont ensuite réinjectés dans les structures et processus traditionnels de l'organisation. Impliquer un plus grand nombre de collègues dans la planification du changement peut sembler risqué pour la haute direction (que se passe-t-il si le groupe vire dans une direction que nous ne voulons pas?), Mais cela tend à accroître l'adhésion des employés et à améliorer les conceptions futures. en captant les idées de l'intelligence collective.
 inPractice: >-
-  Change management is less of an issue in Teal organizations. Change tends to
-  happen more naturally, and continuously, with less effort or management. It's
-  an evolutionary process which can be initiated by anyone and managed by
-  everyone. As the organization evolves, it changes on a daily basis, and there
-  is rarely a need for major overhaul or drastic change management programs.
-  Change management as a field of practice mostly disappears.
+  La gestion du changement est moins problématique dans les organisations Opale.
+  Le changement a tendance à se produire plus naturellement et en continu, avec
+  moins d'efforts ou de gestion. C'est un processus évolutif qui peut être
+  initié par n'importe qui et géré par tout le monde. Au fur et à mesure que
+  l'organisation évolue, elle change au quotidien et il est rarement nécessaire
+  de procéder à une refonte majeure ou à des programmes de gestion du changement
+  drastiques. La gestion du changement en tant que domaine de pratique disparaît
+  en grande partie.
 
 
-  #### Change on a continuous basis
+  #### Le changement est permanent 
 
 
-  Thinking of Teal organizations as living systems helps to explain how change unfolds within them. Living systems have a capacity to sense change in the environment and adapt. They react creatively, in the moment. Teal organizations deal with change in a similar way. People are free to act on what they sense is needed. They are not restricted by static job descriptions, reporting lines and functional units. They can react to emerging events. Specific methods embedded in the organization allow space for people to listen to the organization's purpose and the change it may require. When everyone is free to sense the need for change, and to act on it, change is a given; it happens naturally, everywhere, all the time, mostly without great pain or effort. Major disruptive change efforts (as we know them from more traditional organizations) largely disappear.
+  Penser les organisations Opale comme des systèmes vivants aide à expliquer comment le changement se déroule en leur sein. Les systèmes vivants ont la capacité de ressentir le changement de l'environnement et de s'adapter. Ils réagissent de manière créative, sur le moment. Les organisations Opale gèrent le changement de la même manière. Les gens sont libres d'agir en fonction de ce qu'ils jugent nécessaire. Ils ne sont pas limités par des descriptions de poste statiques, des liens hiérarchiques et des unités fonctionnelles. Ils peuvent réagir aux événements émergents. Des méthodes spécifiques intégrées dans l'organisation permettent aux personnes d'écouter l'objectif de l'organisation et les changements qu'elle peut nécessiter. Lorsque chacun est libre de ressentir le besoin de changement et d’agir en conséquence, le changement est acquis; cela se produit naturellement, partout, tout le temps, le plus souvent sans grande douleur ni effort. Les grands efforts de changement perturbateur (tels que nous les connaissons des organisations plus traditionnelles) disparaissent en grande partie.
 
 
-  #### When large scale change is needed
+  #### Lorsqu'un changement à grande échelle est nécessaire
 
 
-  Even in those rare situations when large scale change is needed, Teal organizations naturally work to involve all those affected by the change in determining the appropriate response. In most cases, Teal organizations will uphold the advice process, even if it means including the entire organization. Experience has shown that, in most cases, colleagues have the maturity to participate in even painful decisions and the ingenuity to come up with creative solutions.
+  Même dans les rares situations où un changement à grande échelle est nécessaire, les organisations Opale s'efforcent naturellement d'impliquer toutes les personnes affectées par le changement dans la détermination de la réponse appropriée. Dans la plupart des cas, les organisations Opale respecteront le processus de conseil, même si cela implique d'inclure toute l'organisation. L'expérience a montré que, dans la plupart des cas, les collègues ont la maturité nécessaire pour participer à des décisions même douloureuses et l'ingéniosité nécessaire pour trouver des solutions créatives.
 
 
-  When many colleagues are involved, large group processes, such as Theory U, Appreciative Inquiry, Open Space or others may be used to effectively surface a collective understanding and to crystallize a vision of the future. To what degree do change projects then need to be formally planned and followed up? As is often true within the Teal paradigm, form follows function. For instance, if there are many interdependencies, very tight deadlines, or high degrees of risk, more formal planning and follow-up might be needed. In other cases, a common, clear understanding of the future is all that is required. Groups of people launch the necessary projects to manifest the collective vision. If that fails to happen, the system will self-correct: someone will speak up to initiate further change.
+  Lorsque de nombreux collègues sont impliqués, des processus de grands groupes, tels que Theory U, Appreciative Inquiry, Open Space ou autres, peuvent être utilisés pour faire émerger efficacement une compréhension collective et cristalliser une vision de l'avenir. Dans quelle mesure les projets de changement doivent-ils alors être officiellement planifiés et suivis? Comme c'est souvent le cas dans le paradigme Opale, la forme suit la fonction. Par exemple, s'il existe de nombreuses interdépendances, des délais très serrés ou des niveaux de risque élevés, une planification et un suivi plus formels pourraient être nécessaires. Dans d'autres cas, une compréhension commune et claire de l'avenir est tout ce qui est nécessaire. Des groupes de personnes lancent les projets nécessaires pour manifester la vision collective. Si cela ne se produit pas, le système se corrigera automatiquement: quelqu'un prendra la parole pour initier de nouveaux changements.
 faq:
   - question: "Surely a Teal organization must sometimes face a situation where
       drastic change and top-down decision-making are needed: Are traditional
