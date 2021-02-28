@@ -1,8 +1,8 @@
 ---
 layout: article
 tags: theory
-key: Budget et pilotage
-name: Budget et pilotage
+key: Budget et contrôle
+name: Budget et contrôle
 sortOrder: 5
 category: Important Processes
 intro: >-
@@ -83,29 +83,10 @@ inPractice: >-
   Si un budget est établi, il n'y a pas d'ajustement d'en haut. Quels que soient les chiffres prévus par les équipes, ils deviennent le budget. Certaines entreprises trouvent utile que leurs pairs se défient mutuellement leurs budgets. Conformément à l'esprit d'[auto-organisation](https://fr--reinventingorganizations-wiki.netlify.app/theory/self-management/), personne ne peut forcer une équipe à changer ses effectifs. Par exemple, à [Morning Star](https://fr--reinventingorganizations-wiki.netlify.app/cases/morning-star/), les unités présentent leur budget et leurs plans d'investissement à un groupe de travail sur le budget, composé de bénévoles de tous les secteurs de l'entreprise, qui peut contester les chiffres, et offrir des opinions et des suggestions. [AES](https://fr--reinventingorganizations-wiki.netlify.app/cases/aes-applied-energy-services/) avait un processus similaire.
 
 
-  #### No 'Top Down' targets
+  ### Aucun objectif «descendant»
 
 
-  Teal organizations don’t set any top-down targets. Sales people at [FAVI](http://www.favi.com/) for example have no targets to reach. From an Evolutionary-Teal perspective, targets are problematic for at least three reasons;
-
-
-  * they rest on the assumption that we can predict the future,
-
-  * they skew our behavior away from inner motivation, and
-
-  * they tend to narrow our capacity to sense new possibilities.
-
-
-  From a Teal perspective, life is complex and events and circumstances change so fast, that setting a target is mostly guesswork. A year after a target has been set, in most cases it is just an arbitrary number―either so easy to reach as to be meaningless or so challenging that people must take shortcuts. Both circumstances hurt the organization in the long run.
-
-
-  Targets and in particular budget and sales targets also skew our behavior. In many companies managers often spend any budget left at the end of the year, sometimes on meaningless items, for fear that their funding might be cut in the following year. Without targets, these games disappear. People are free to tap into their inner motivation to simply do the best job they can.
-
-
-  ### Aucune cible «descendante»
-
-
-  Les organisations Teal ne définissent pas d'objectifs descendants. Les commerciaux de [FAVI](http://www.favi.com/) par exemple n'ont aucun objectif à atteindre. Du point de vue Evolutionary-Teal, les cibles sont problématiques pour au moins trois raisons;
+  Les organisations Opales ne définissent pas d'objectifs descendants. Les commerciaux de [FAVI](https://fr--reinventingorganizations-wiki.netlify.app/cases/favi/) par exemple n'ont aucun objectif à atteindre. Du point de vue Opale, les objectifs sont problématiques pour au moins trois raisons :
 
 
   * ils reposent sur l'hypothèse que l'on peut prédire l'avenir,
@@ -115,29 +96,28 @@ inPractice: >-
   * ils ont tendance à réduire notre capacité à détecter de nouvelles possibilités.
 
 
-  Du point de vue de Teal, la vie est complexe et les événements et les circonstances changent si vite que la définition d'un objectif est principalement une supposition. Un an après qu'un objectif a été fixé, dans la plupart des cas, il ne s'agit que d'un nombre arbitraire - soit si facile à atteindre qu'il n'a pas de sens ou si difficile que les gens doivent prendre des raccourcis. Les deux circonstances nuisent à l'organisation à long terme.
+  Du point de vue de l'Opale, la vie est complexe et les événements et les circonstances changent si vite que la définition d'un objectif est principalement une supposition. Un an après qu'un objectif ait été fixé, dans la plupart des cas, il ne s'agit que d'un nombre arbitraire - soit si facile à atteindre qu'il n'a pas de sens ou si difficile que les gens doivent prendre des raccourcis. Les deux circonstances nuisent à l'organisation à long terme.
 
 
   Les objectifs et en particulier le budget et les objectifs de vente faussent également notre comportement. Dans de nombreuses entreprises, les dirigeants dépensent souvent le budget restant à la fin de l'année, parfois sur des éléments dénués de sens, de peur que leur financement ne soit réduit l'année suivante. Sans cibles, ces jeux disparaissent. Les gens sont libres de puiser dans leur motivation intérieure pour simplement faire le meilleur travail possible.
 
 
-
-  In [self-managing](../self-management/) organizations, people can choose to set themselves targets when they find it useful―rather like a hobby runner who spurs herself on by extending her goals. At [FAVI](http://www.favi.com/), operators set themselves target times to machine their pieces, and they monitor their performance against that target.
-
-
-  Targets provide guidance when they are well understood. They become problematic when circumstances change and they do not change in response.
+  Dans les organisations autogérées, les gens peuvent choisir de se fixer des objectifs lorsqu'ils le trouvent utile, plutôt que comme une course amateur qui se stimule en élargissant ses objectifs. Chez [FAVI,](https://fr--reinventingorganizations-wiki.netlify.app/cases/favi/) les opérateurs se fixent des heures cibles pour usiner leurs pièces, et ils surveillent leurs performances par rapport à cet objectif.
 
 
-  #### Letting go of the desire to control
+  Les objectifs fournissent des orientations lorsqu'elles sont bien comprises. Ils deviennent problématiques lorsque les circonstances changent et que les objectifs ne changent pas en réponse.
 
 
-  Predictions are valuable in world that can be controllled, but lose relevance in a complex world that is changing rapidly. Setting budgets and managing against them is a way of trying to predict the future.
+  #### Lâcher prise sur l'envie de contrôler
 
 
-  Teal organizations make peace with a complex world by understanding that a perfect solution is rarely possible. Determing a workable solution that can be implemented quickly is far more effective than waiting for detailed analysis before taking action. When new information emerges, the decision can be revisited and improved at any point. From this perspective, creating budgets for long periods ahead, and trying to exercise control makes little sense.
+  Les prédictions sont précieuses dans un monde contrôlable, mais perdent de leur pertinence dans un monde complexe qui évolue rapidement. Établir des budgets est une façon d'essayer de prédire l'avenir.
 
 
-  Companies that work this way, make many fast iterations instead of a few mighty leaps, progressing much faster towards their purpose. In the end, paradoxically, people often feel safer when they give up the illusion of control and learn to work with reality as it unfolds.
+  Les organisations Opales font la paix avec un monde complexe en comprenant qu'une solution parfaite est rarement possible. Déterminer une solution viable qui peut être mise en œuvre rapidement est bien plus efficace que d'attendre une analyse détaillée avant d'agir. Lorsque de nouvelles informations émergent, la décision peut être revue et améliorée à tout moment. De ce point de vue, créer des budgets pour de longues périodes à venir et essayer d'exercer un contrôle n'a guère de sens.
+
+
+  Les entreprises qui fonctionnent de cette façon font de nombreuses itérations rapides au lieu de quelques sauts puissants, progressant beaucoup plus rapidement vers leur objectif. En fin de compte, paradoxalement, les gens se sentent souvent plus en sécurité lorsqu'ils abandonnent l'illusion du contrôle et apprennent à travailler avec la réalité telle qu'elle se déroule.
 faq:
   - question: How do we manage spending and cash flow if there are no budgets that
       set limits?
