@@ -1,141 +1,145 @@
 ---
 layout: article
 tags: theory
-key: Conflict resolution
-name: Conflict resolution
+key: Résolution de conflit
+name: Résolution de conflit
 sortOrder: 4
 category: Daily practices
 intro: >-
-  The topic of Conflict Resolution includes how conflicts are dealt with and by
-  whom. In particular we discuss the types of processes used, factors that
-  reduce conflict avoidance and structures that prevent conflict.
+  Le thème de la résolution des conflits comprend la manière dont les conflits
+  sont traités et par qui. En particulier, les types de processus utilisés, les
+  facteurs qui réduisent l'évitement des conflits et les structures qui
+  empêchent les conflits.
 
 
   ![](/media/conflict.jpg)
 perspective: >-
-  Conflict resolution is a vital piece of the system in a Teal organization. If
-  there is no boss to act as a conflict meditator, then a new process to handle
-  conflict is required. In a Teal organization, conflict resolution is based on
-  peer relationships. Without this approach, the organization would find it very
-  difficult, if not impossible, to function.
+  La résolution des conflits est un élément vital du système dans une
+  organisation Opale. S'il n'y a pas de patron pour agir en tant que médiateur
+  en cas de conflits, alors un nouveau processus pour gérer les conflits est
+  nécessaire. Dans une organisation Opale, la résolution des conflits est basée
+  sur les relations entre pairs. Sans cette approche, l'organisation trouverait
+  très difficile, voire impossible, de fonctionner.
 
 
-  Most Teal organizations work on certain assumptions about human nature: that workers are thoughtful, trustworthy adults, capable of being accountable and responsible for their decisions and actions. In a workplace based on Teal assumptions, a clear conflict resolution process, together with appropriate training, gives people the path and skills to work through disagreements with maturity and grace
+  La plupart des organisations Opale reposent sur certaines hypothèses concernant la nature humaine: que les travailleurs sont des adultes réfléchis et dignes de confiance, capables de rendre des comptes et d'être responsables de leurs décisions et de leurs actions. Dans un lieu de travail basé sur les hypothèses de l'Opale, un processus clair de résolution des conflits, associé à une formation appropriée, donne aux gens le chemin et les compétences nécessaires pour surmonter les désaccords avec maturité et grâce
 
 
-  Every historical stage has given birth to a distinct perspective on conflict resolution and to very different practices:
+  Chaque étape historique a donné naissance à une perspective distincte sur la résolution des conflits et à des pratiques très différentes: 
 
 
-  #### **Red organizations**
+
+  #### **Organizations Rouge**
 
 
-  In the [Red paradigm](../red-organizations/), there is dominant exercise of power by the boss or leader to keep others in line. Fear is the glue of the organization. In general, conflict is handled by suppression, power or dominance, and strict rules are enforced by fear of consequences.
+  Dans le [paradigme rouge](https://fr--reinventingorganizations-wiki.netlify.app/theory/red-organizations/), il y a un exercice dominant du pouvoir par le patron ou le chef pour garder les autres en ligne. La peur est le ciment de l'organisation. En général, les conflits sont gérés par la répression, le pouvoir ou la domination, et des règles strictes sont appliquées par peur des conséquences.
 
 
-  #### **Amber organizations**
+  #### **Organizations Ambre**
 
 
-  The [Amber paradigm](../amber-paradigm-and-organizations/) has formalized roles within a hierarchical pyramid structure and top-down command and control (what and how). Stability is valued above all and is maintained through clearly defined roles and processes.
+  Le [paradigme ambre](https://fr--reinventingorganizations-wiki.netlify.app/theory/amber-paradigm-and-organizations/) a formalisé des rôles au sein d'une structure pyramidale hiérarchique, d'un commandement et d'un contrôle descendant (quoi et comment). La stabilité est valorisée avant tout et est maintenue à travers des rôles et des processus clairement définis.
 
 
-  Methods for managing conflict include avoidance or suppression. Rules are imposed by those with authority and may be enforced through legal action. These types of organizations have strong HR processes for managing conflict and grievances between employee and employer.
+  Les méthodes de gestion des conflits incluent l'évitement ou la suppression. Les règles sont imposées par ceux qui ont autorité et peuvent être appliquées par voie de poursuites judiciaires. Ces types d'organisations disposent de processus RH solides pour gérer les conflits et les griefs entre les employés et l'employeur.
 
 
-  #### **Orange organizations**
+  #### **Organizations Orange**
 
 
-  In the [Orange paradigm](../orange-paradigm-and-organizations/), there is also a hierarchical structure, but management is by objective (definition of the what; with more freedom on the how). In many Orange organisations, although there are formal conflict resolution procedures, conflict is often not well adressed. Although individuals are often encouraged to resolve disagreements by themselves, conflict may often need to be settled by intervention from a third party. This is most often done by referring the issue to the boss or by deferring to HR policies and procedures. These procedures create a level of objective independence from the those in conflict.
+  Dans le [paradigme orange](https://fr--reinventingorganizations-wiki.netlify.app/theory/orange-paradigm-and-organizations/), il y a aussi une structure hiérarchique, mais la gestion est par objectif (définition du quoi; avec plus de liberté sur le comment). Dans de nombreuses organisations Orange, bien qu'il existe des procédures formelles de résolution des conflits, les conflits sont souvent mal traités. Bien que les individus soient souvent encouragés à résoudre eux-mêmes les désaccords, les conflits doivent souvent être réglés par l'intervention d'un tiers. Cela se fait le plus souvent en renvoyant le problème au patron ou en s'en remettant aux politiques et procédures RH. Ces procédures créent un niveau d'indépendance objective par rapport aux personnes en conflit.
 
 
-  #### **Green organizations**
+  #### **Organizations verte**
 
 
-  The [Green paradigm ](../green-paradigm-and-organizations/)again uses a classical pyramid structure, but with a stronger focus on empowerment. Green organizations have values-based cultures that include principles of integrity, respect, and openness. There is a large investment in fostering collaboration, communication, problem solving and drafting agreements that meet underlying needs. These processes can sometimes remove the source of conflict. When they do arise, conflicts can take a long time to resolve as groups seek to find a harmonious solution. However, the boss is usually the final arbiter in conflict situations.
+  Le [paradigm vert](https://fr--reinventingorganizations-wiki.netlify.app/theory/green-paradigm-and-organizations/) utilise à nouveau une structure pyramidale classique, mais avec un accent plus fort sur l'autonomisation. Les organisations vertes ont des cultures fondées sur des valeurs qui incluent des principes d'intégrité, de respect et d'ouverture. Il y a un investissement important pour favoriser la collaboration, la communication, la résolution de problèmes et la rédaction d'accords qui répondent aux besoins sous-jacents. Ces processus peuvent parfois supprimer la source de conflit. Lorsqu'ils surviennent, les conflits peuvent prendre du temps à se résoudre, car les groupes cherchent à trouver une solution harmonieuse. Cependant, le patron est généralement l'arbitre final dans les situations de conflit.
 
 
-  #### **Teal organizations**
+  #### **Organizations Opale**
 
 
-  In [Teal organizations](../teal-paradigm-and-organizations/), conflict is seen as a natural part of human interaction and, when safely supported, is often viewed as healthy and creative. Conflict handled with grace and tenderness can create possibility and learning for all involved. In Teal organizations time is regularly devoted to surface and address conflicts in individual and group settings. Often formal, multi-step conflict resolution practices are used and everyone is trained in conflict management. Conflict is restricted to the parties involved, and mediators, or peers who might be asked to serve on a mediating panel. Such a panel rarely has responsibility to impose a solution. The focus is instead on helping the involved parties find a solution.
+  Dans les organisations Opale, le conflit est considéré comme une partie naturelle de l'interaction humaine et, lorsqu'il est soutenu en toute sécurité, il est souvent considéré comme sain et créatif. Un conflit géré avec grâce et tendresse peut créer des possibilités et un apprentissage pour toutes les personnes impliquées. Dans les organisations Opale, du temps est régulièrement consacré à la surface et à la résolution des conflits dans les contextes individuels et de groupe. Souvent, des pratiques formelles de résolution de conflits en plusieurs étapes sont utilisées et chacun est formé à la gestion des conflits. Le conflit est limité aux parties impliquées, aux médiateurs ou aux pairs qui pourraient être invités à faire partie d'un groupe de médiation. Un tel panel a rarement la responsabilité d'imposer une solution. L'objectif est plutôt d'aider les parties concernées à trouver une solution.
 inPractice: >-
-  **An organizational culture that supports effective conflict resolution** 
+  **Une culture organisationnelle qui soutient une résolution efficace des
+  conflits**
 
 
-  Conflict resolution mechanisms can be difficult to put in place and to maintain. The process is effective to the degree that there is a culture within the workplace where people feel safe and encouraged to hold each other to account, even when that feels uncomfortable.
+  Les mécanismes de résolution des conflits peuvent être difficiles à mettre en place et à maintenir. Le processus est efficace dans la mesure où il existe une culture sur le lieu de travail où les gens se sentent en sécurité et encouragés à se tenir mutuellement responsables, même lorsque cela ne leur convient pas.
 
 
-  Here are some basic principles that underlie many of the Teal organisation's approaches to conflict in a supportive culture:
+  Voici quelques principes de base qui sous-tendent de nombreuses approches du conflit de l'organisation Opale dans une culture de soutien:
 
 
-  * It’s impossible to change other people. We can only change ourselves. 
+  * Il est impossible de changer les autres. Nous ne pouvons que nous changer.
 
-  * We take ownership for our thoughts, beliefs, words, and actions.
+  * Nous prenons possession de nos pensées, croyances, paroles et actions.
 
-  * We don’t spread rumors.
+  * Nous ne répandons pas de rumeurs.
 
-  * We don’t talk behind someone’s back.
+  * Nous ne parlons pas dans le dos de quelqu'un.
 
-  * We resolve disagreements one-on-one and don’t drag other people into  the problem.
+  * Nous résolvons les désaccords individuellement et n'entraînons pas d'autres personnes dans le problème.
 
-  * We don’t blame problems on others. When we feel like blaming, we take it as an invitation to reflect on how we might be part of the problem (and the solution).
+  * Nous ne blâmons pas les problèmes sur les autres. Lorsque nous avons envie de blâmer, nous le prenons comme une invitation à réfléchir à la manière dont nous pourrions faire partie du problème (et de la solution).
 
-  * We focus on strengths more than weaknesses, on opportunities more than problems. 
-
-
-  Therefore, in addition to specific conflict resolution processes, other structures are needed to create and maintain this type of supportive culture. For instance, many organizations find it helpful to establish a set of values and translate these values into concrete behaviors that are either encouraged or declared unacceptable in the community of colleagues. Many Teal organizations also institute specific meeting practices to help participants interact with each other from a place of wholeness, to keep their egos in check and to ensure everybody’s voice is heard. This might be done by, for example, starting a meeting with a minute of silence, finishing a meeting with a round of appreciation or a structured decision-making process. Another key contributor to a supportive culture is the office space, which should feel safe, provide place for quiet reflection and encourage individual and collective wholeness.
+  * Nous nous concentrons sur les forces plus que sur les faiblesses, sur les opportunités plus que sur les problèmes.
 
 
-  #### **How conflicts are addressed**
+  Par conséquent, en plus des processus spécifiques de résolution des conflits, d'autres structures sont nécessaires pour créer et maintenir ce type de culture de soutien. Par exemple, de nombreuses organisations trouvent utile d'établir un ensemble de valeurs et de traduire ces valeurs en comportements concrets qui sont soit encouragés, soit déclarés inacceptables par les collègues. De nombreuses organisations Opale instituent également des pratiques de réunion spécifiques pour aider les participants à interagir les uns avec les autres à partir d'**un lieu d'intégrité**, pour garder leur ego sous contrôle et pour s'assurer que la voix de chacun est entendue. Cela peut être fait, par exemple, en commençant une réunion par une minute de silence, en terminant une réunion par une ronde d'appréciation ou un processus de prise de décision structuré. ***Un autre élément clé d'une culture de soutien est l'espace de bureau, qui doit se sentir en sécurité, offrir un lieu de réflexion tranquille et encourager l'intégrité individuelle et collective.***
 
 
-  In a conventional workplace, people often raise a dispute with a boss to settle the matter. In self-managing organizations, disagreements are resolved among peers, often using a conflict resolution process. Peers hold each other to account for their mutual commitments and responsibilities. Holding colleagues accountable in this way can feel uncomfortable and Teal organisations sometimes offer support and practices that encourage openness and emotional intelligence to emerge. Broadly there are three types of practices that Teal organizations put in place to help deal with conflicts.
+  #### **Comment les conflits sont résolus**
 
 
-  * First, methods are developed to help people bring tensions to the surface. 
-
-  * Second, clearly defined conflict resolution processes are available to help people safely confront each other when needed. 
-
-  * Third, most self-managing organizations train every new recruit in conflict resolution and interpersonal skills. 
+  Dans un lieu de travail conventionnel, les gens soulèvent souvent un différend avec un patron pour régler le problème. Dans les organisations autogérées, les désaccords sont résolus entre pairs, souvent à l'aide d'un processus de résolution de conflits. Les pairs se tiennent mutuellement responsables de leurs engagements et responsabilités mutuels. Tenir des collègues responsables de cette manière peut généré du malaise et les organisations Opale offrent parfois un soutien et des pratiques qui encouragent l'ouverture et invite l'intelligence émotionnelle à émerger. Globalement, les organisations Opale mettent en place trois types de pratiques pour aider à résoudre les conflits.
 
 
-  ##### ***Bringing tensions to the surface***
+  * Premièrement, des méthodes sont développées pour aider les gens à faire remonter les tensions à la surface.
+
+  * Deuxièmement, des processus de résolution de conflits clairement définis sont disponibles pour aider les gens à se confronter en toute sécurité en cas de besoin.
+
+  * Troisièmement, la plupart des organisations autogérées forment chaque nouvelle recrue à la résolution de conflits et aux relations interpersonnelles.
 
 
-  It can be hard for someone to stand up to a colleague and say, “We need to talk.”. Processes used by some organizations include regularly scheduled group meetings, company retreats, purpose circles and values days. Surfacing becomes a way of helping others to view conflict as normal, creative and a way of learning about diversity and difference. These practices enable others to share their vulnerabilities, see [creating safe spaces](../safe-space/).
+  ##### ***Faire remonter les tensions à la surface***
 
 
-  Here are some examples:
+  Il peut être difficile pour quelqu'un de tenir tête à un collègue et de dire: «Nous devons parler.». Les processus utilisés par certaines organisations comprennent des réunions de groupe régulières, des retraites d'entreprise, des cercles d'objectifs et des journées autour des valeurs. Le *"surfaçage"* devient un moyen d'aider les autres à considérer le conflit comme normal, créatif et un moyen d'apprendre  de la diversité et de la différence. Ces pratiques permettent à d'autres de partager leurs vulnérabilités, voir [création d'espaces sûrs](https://fr--reinventingorganizations-wiki.netlify.app/theory/safe-space/).
 
 
-  * At ESBZ, a school in Berlin, every class gets together at a fixed time each week to discuss and deal with tensions in the group. The meeting is facilitated by a student, who supports a number of ground rules that keep the discussion safe. 
-
-  * At Heiligenfeld, once a year, colleagues in every team rate the quality of their interaction with other teams. The result is a company-wide “heat map” that reveals which teams should have a conversation to improve their collaboration. 
-
-  * RHD holds a bi-monthly “-isms in the workplace" meeting. Anyone feeling that the organization should pay attention to a specific form or occurrence of racism, sexism, or any other “-ism” can join the meeting. 
+  Voici quelques exemples:
 
 
-  ##### ***Conflict resolution processes***
+  * Chez ESBZ, une école de Berlin, chaque classe se réunit à une heure fixe chaque semaine pour discuter et gérer les tensions dans le groupe. La réunion est animée par un étudiant, qui prend en charge un certain nombre de règles de base qui assurent la sécurité de la discussion.
+
+  * Chez Heiligenfeld, une fois par an, les collègues de chaque équipe évaluent la qualité de leur interaction avec les autres équipes. Le résultat est une «carte de chaleur» à l'échelle de l'entreprise qui révèle quelles équipes devraient avoir une conversation pour améliorer leur collaboration.
+
+  * RHD organise une réunion bimensuelle sur les «-ismes sur le lieu de travail» Toute personne estimant que l'organisation devrait prêter attention à une forme ou à une occurrence spécifique de racisme, de sexisme ou de tout autre «-isme» peut participer à la réunion.
 
 
-  In self-managing organisations, having a clear and well understood conflict resolution process helps people raise issues. Typical conflict resolution mechanisms include: one-on-one discussion, mediation by a peer and mediation by a panel. Some organizations also use team or individual coaching to work through an upset.
+  ##### ***Process de résolution de conflit***
 
 
-  For example, :
+  Dans les organisations autogérées, avoir un processus de résolution de conflit clair et bien compris aide les gens à soulever des problèmes. Les mécanismes typiques de résolution des conflits comprennent: une discussion individuelle, une médiation par un pair et une médiation par un panel. Certaines organisations utilisent également le coaching d'équipe ou individuel pour surmonter un bouleversement.
 
 
-  * In the first phase, the two people sit together and try to sort it out privately. 
-
-  * If they can’t find a solution agreeable to both, they nominate a colleague they both trust to act as a mediator. The mediator doesn’t impose a decision. Rather he or she supports the participants in coming to their own solution. 
-
-  * If mediation fails, a panel of topic-relevant colleagues is convened. Again the panel does not impose a solution. 
-
-  * If resolution is not found, the founder or president might be called into the panel to add to the panel’s moral weight (but again, not to impose a solution). 
+  Par exemple, :
 
 
-  ##### ***Training in Interpersonal skills***
+  * Dans la première phase, les deux personnes s'assoient ensemble et essaient de régler le problème en privé.
+
+  * S'ils ne parviennent pas à trouver une solution acceptable pour les deux, ils nomment un collègue en qui ils ont tous les deux confiance pour agir en tant que médiateur. Le médiateur n’impose pas de décision. Il ou elle aide plutôt les participants à trouver leur propre solution.
+
+  * Si la médiation échoue, un panel de collègues concernés par le sujet est convoqué. Là encore, le panel n'impose pas de solution.
+
+  * Si aucune résolution n’est trouvée, le fondateur ou le président pourrait être appelé dans le panel pour ajouter au poids moral du panel (mais encore une fois, ne pas imposer une solution).
 
 
-  Because effective conflict resolution skills are so central in self-managing organizations, many organizations train all their colleagues in interpersonal skills to enable them to deal gracefully with conflict. Generally in their first weeks at work, new hires are given foundational training including: self-management, deep listening, dealing constructively with conflict and creating a safe environment. For instance, companies like ESBZ and Buurtzorg train colleagues in [Nonviolent Communication ](https://en.wikipedia.org/wiki/Nonviolent_Communication)developed by Marshal Rosenberg.
+  ##### ***Formation aux compétences interpersonnelles***
+
+
+  Parce que les compétences efficaces de résolution de conflits sont si centrales dans les organisations autogérées, de nombreuses organisations forment tous leurs collègues aux compétences interpersonnelles pour leur permettre de gérer les conflits avec élégance. Généralement dans leurs premières semaines de travail, les nouvelles recrues reçoivent une formation de base comprenant: l'autogestion, l'écoute approfondie, la gestion constructive des conflits et la création d'un environnement sûr. Par exemple, des entreprises comme ESBZ et Buurtzorg forment leurs collègues à la [communication non violente](https://en.wikipedia.org/wiki/Nonviolent_Communication) développée par Marshal Rosenberg.
 faq:
   - question: If so much time is spent talking through every conflict, when does the
       work get done?
