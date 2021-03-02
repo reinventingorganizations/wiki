@@ -99,21 +99,54 @@ inPractice: >-
 
 
   <!--EndFragment-->
+
+
+  <!--StartFragment-->
+
+
+
+
+  \
+
+  ***¿Quién decidirá si el CEO necesita irse?***
+
+
+  El proceso de [resolución de conflictos ](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Resoluci%C3%B3n_de_Conflictos "Resolución de Conflictos")se ocupa de esto y puede ser iniciado por cualquier persona que se sienta que un titular de rol (incluido el de CEO) debe ser cambiado. Observe que en una compañía Teal, el papel del "CEO" puede ser diferente. El "CEO" es un empleado con los mismos derechos y deberes que cualquier otro. En Favi, cuando Zobrist se convirtió en CEO, prometió que su posición sería sometida a votación cada 5 años. En Buurtzorg, el consejo no nombra al CEO. Esto viene de dentro de la organización misma.
+
+
+  ***¿Quién debe formar parte del consejo?***
+
+
+  Personas adecuadas que:\
+
+  Entiendan el propósito central de la organización.
+
+
+  * Estén comprometidos con sus esfuerzos.
+
+  * Compartan sus creencias directrices.
+
+  * Puedan ayudar a conectar la organización y desarrollar relaciones con su entorno externo.
+
+
+  <!--EndFragment-->
 faq:
-  - question: If the organization is self-managing, why have a board?
+  - question: Si la organización se autogestiona, ¿para qué tener un Consejo?***
     answer: >-
-      1. A board might be a legal requirement, but more importantly it can act
-      as a "spaceholder" and protector of Teal practices. This obviously
-      necessitates that board members share the [fundamental
-      assumptions](../fundamental-assumptions/) and the [values
-      ](../culture-and-values/)underpinning Teal.
+      1. Un Consejo puede ser un requisito legal, pero lo más importante es que
+      puede actuar como un protector de las prácticas Teal. Esto obviamente
+      requiere que los miembros del consejo compartan los [supuestos
+      fundamentales](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Supuestos_Fundamentales
+      "Supuestos Fundamentales") y
+      los [valores ](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Cultura_y_Valores
+      "Cultura y Valores")Teal que sustentan.
 
-      2. It can add perspective, diversity and expertise on important decisions via the advice process.
+      2. Puede agregar perspectiva, diversidad y experiencia en decisiones importantes a través del proceso de los consejos.
 
-      3. It can facilitate the process of appointing a new "CEO", should the organization have a continuing need for such a role, when a transition is due.
+      3. Puede facilitar el proceso de designación de un nuevo "CEO", si la organización tiene una necesidad continua de tal papel, cuando se realice una transición.
 
 
-      Having said this, at Morningstar, Chris Rufer, founder and 100% owner, sees no need for a board. People at Morningstar regard the company’s mission/purpose as their ultimate boss.
+      Dicho esto, en Morningstar, Chris Rufer, fundador y propietario del 100%, no ve la necesidad de un consejo. La gente de Morningstar considera la misión / propósito de la compañía como su jefe supremo.
   - question: Who will decide whether the CEO needs to go?
     answer: >-
       The [conflict resolution ](../conflict-resolution/)process deals with this
@@ -148,4 +181,3 @@ relatedTheory:
   - Ownership
   - Decision Making
 ---
-To be removed
