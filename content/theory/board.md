@@ -133,6 +133,62 @@ faq:
       * Compartan sus creencias directrices.
 
       * Puedan ayudar a conectar la organización y desarrollar relaciones con su entorno externo.
+
+        <!--StartFragment-->
+
+        **Ejemplos concretos para inspiración**
+
+        Aquí hay algunos ejemplos prácticos de las juntas de las organizaciones Teal.
+
+        **Holacracy**\
+        Holacracy ha redactado una constitución que cumple con la ley de sociedades de los Estados Unidos. Da voz a los accionistas en cuestiones relacionadas con las finanzas, pero les impide imponer unilateralmente una estrategia.
+
+        **Patagonia**\
+        Ropa para uso en exteriores - Estados Unidos - 1350 colaboradores - Con fines de lucro.
+
+        [Patagonia](http://www.patagonia.com/es_US) se convirtió en la primera en ser certificada como [“B Corporation”](http://www.bcorporation.net/) en California en enero de 2012. Una “B Corporation” es una empresa con fines de lucro con un propósito social o ambiental específico. La junta está obligada a proteger estos intereses no financieros.
+
+        **Buurtzorg**\
+        Cuidado de la salud - Holanda - 9000 colaboradores - Sin fines de lucro.
+
+        En la fundación de Buurtzorg, Jos de Blok eligió a los miembros del consejo basándose en su experiencia -por ejemplo, un médico de familia, un banquero, un abogado, etc. Algunos no estaban cómodos con las prácticas de autogestión. Otros querían proyecciones financieras y presupuestos, y "herramientas" tradicionales similares. Con el tiempo, Blok persuadió a varios a renunciar y los reemplazó con otros más cómodos con los principios y prácticas nuevas de Buurtzorg. En la práctica, la junta de Buurtzorg sirve como una caja de resonancia para Jos de Blok y sus colegas.
+
+        Los estatutos de Buurtzorg establecen que el consejo no es responsable de la cita del CEO. Esto viene de dentro de la organización misma. \[2]
+
+        **Semco**\
+        Conglomerado de industrias y servicios Diversificado - Brasil - Con fines de lucro.
+
+        Las reuniones del consejo parecen a menudo como ocasiones misteriosas donde las decisiones grandes que afectan a trabajadores se toman en secreto. En [Semco](http://www.semco.com.br/en/), asientos adicionales están disponibles para los dos primeros empleados que aparezcan. Y tienen pleno derecho de voto. Semco reclama dos beneficios: en primer lugar, desmiente algunos mitos sobre los consejos (la gente aprende que estas reuniones son tan aburridas como la mayoría de los demás); Segundo, obliga a las discusiones a ser pragmáticas, a veces añadiendo una nueva perspectiva. \[3]
+
+        **Fitzii**\
+        [Fitzii](https://www.fitzii.com/go) es propiedad de una ["Bcorporation"](http://www.bcorporation.net/), The Ian Martin Group, cuyo CEO y altos directivos actúan como un consejo asesor. Las reuniones mensuales entre los dos grupos se centran en resolver conflictos y buscar consejo. La agenda de la reunión se crea en "tiempo real" al comienzo de cada reunión. Esto reduce la burocracia y cualquier politización para los asuntos que pueden no interesar a todo el grupo, o tienen urgencia. Cada jefe de equipo y miembro del consejo comparte cuatro elementos:
+
+        1. En que está concentrado.
+        2. Que le entusiasma.
+        3. Que le preocupa.
+        4. Tareas que necesitan atención inmediata.
+
+        \
+        \
+        Se discuten temas urgentes y de interés general y se aplazan otros. Las notas de la reunión son accesibles para todos los miembros del equipo de Fitzii.
+
+        **Temas relacionados**
+
+        * [Estrategia](http://www.reinventarlasorganizacioneswiki.com/index.php?title=La_Estrategia "La Estrategia")
+        * [Estructura organizativa](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Estructura_Organizativa "Estructura Organizativa")
+        * [Propiedad](http://www.reinventarlasorganizacioneswiki.com/index.php?title=La_Propiedad "La Propiedad")
+        * [Funciones del Staff](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Funciones_Staff "Funciones Staff")
+        * [Toma de decisiones](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Toma_de_Decisiones "Toma de Decisiones")
+
+
+
+        **Notas y referencias**
+
+        1. Laloux, Frederic. Reinventar las Organizaciones. Nelson Parker (2014), página 238
+        2. Entrevista Jos de Blok con Frederic Laloux en 2013
+        3. Ricardo Semler dirigiendo una reunión Zappos all hands. Mayo de 2015.
+
+        <!--EndFragment-->
 relatedTheory:
   - Strategy
   - Organizational Structure
