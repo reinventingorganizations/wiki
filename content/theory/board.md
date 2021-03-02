@@ -9,43 +9,50 @@ intro: >-
   ![](/media/board.jpg)
 
 
-  This section reviews the role of the board as well as some of the practices and ways of working as a board under Teal.
+  <!--StartFragment-->
+
+
+  Esta sección revisa el papel del consejo, así como algunas de las prácticas y maneras de trabajar como un consejo funciona en Teal.
+
+
+  <!--EndFragment-->
 perspective: >-
-  The composition of the board in a Teal organization is crucial, says Frederic
-  Laloux. He warns that, when adopting a Teal approach, “The only make-or-break
-  factors are the worldview held by the top leadership and by the owners/board
-  of the organization.”^\[Laloux, Frederic. Reinventing Organizations. Nelson
-  Parker (2014), page 238]
+  <!--StartFragment-->
 
 
-  Why is this so? Because history shows that boards may well support Teal practices when things are going well. But, under pressure, the support of outsiders—who typically make up the board and may not have worked in a similar environment before—can evaporate quickly, and under our current legal structure, boards continue to have ultimate authority.
+  **Una nueva perspectiva**
 
 
-  **The board’s role in earlier stage organizations can be characterized as follows:**
+  La composición del consejo en una organización Teal es crucial, dice Frederic Laloux. Advierte que, al adoptar un enfoque Teal, "los únicos factores que hacen o quebrantan son la cosmovisión que tienen los principales dirigentes y los propietarios/consejos de administración de la organización". \[1]
 
 
-  #### Red Organizations
+  ¿Por qué es esto? Porque la historia muestra que los Consejos pueden apoyar las prácticas Teal cuando las cosas van bien. Pero, bajo presión, el apoyo de los foráneos -que normalmente forman el consejo y tal vez no han trabajado en un entorno similar antes- puede evaporarse rápidamente, y bajo nuestra estructura legal actual, los consejos siguen teniendo la autoridad final.
 
 
-  In the [Red organization](../red-organizations/), while the Chief/Boss might confide in trusted colleagues or family, the real power is exercised by one person. A ‘board of oversight’ is not welcomed, nor appropriate, in these circumstances.
+  El papel del consejo en las organizaciones de etapas anteriores puede caracterizarse de la siguiente manera:
 
 
-  #### Amber Organizations
+  **Organizaciones Rojas**\
+
+  En la [organizaciones Rojas](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_paradigma_Rojo_y_las_Organizaciones "El paradigma Rojo y las Organizaciones"), mientras el CEO / jefe puede confiar en colegas de confianza o en la familia, el poder real es ejercido por una sola persona. En estas circunstancias una "junta de supervisión" no es bienvenida ni apropiada.
 
 
-  In the [Amber organization](../amber-paradigm-and-organizations/), the typical board is a small social class at the top of a rigid hierarchy. There may be formal criteria for inclusion, or a qualification process. The board plays the role of "guardian": it ensures that traditions, rules and processes are respected.
+  **Organizaciones Ámbar**\
+
+  En la [organización Ámbar](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_%C3%81mbar_y_las_Organizaciones "El Paradigma Ámbar y las Organizaciones"), el consejo típico es una pequeña clase social en la parte superior de una jerarquía rígida. Puede haber criterios formales para la inclusión, o un proceso de calificación. La junta desempeña el papel de "guardián": garantiza que se respeten las tradiciones, las reglas y los procesos.
 
 
-  #### Orange Organizations
+  **Organizaciones Naranja**\
+
+  En el [paradigma Naranja](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Naranja_y_las_Organizaciones "El Paradigma Naranja y las Organizaciones"), el consejo existe para que la administración sea responsable en nombre de los accionistas / dueños o en el caso de una organización sin fines de lucro en nombre de sus financiadores. Se centra en objetivos, resultados, estrategias, controles y sucesión. Es responsable de nombrar y, si es necesario, despedir al CEO.
 
 
-  In the [Orange paradigm](../orange-paradigm-and-organizations/), the board exists to hold management accountable on behalf of the shareholders/owners or in the case of a non-profit on behalf of its funders, . Its focus is on targets, results, strategies, controls and succession. It is responsible for appointing and, if necessary, dismissing the CEO.
+  **Organizaciones Verdes**\
+
+  En las [organizaciones Verdes](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Verde_y_las_Organizaciones "El Paradigma Verde y las Organizaciones"), las responsabilidades del consejo son similares a las Naranja, pero es más probable que incluyan actuar como guardianes del propósito / valores de la organización y de los intereses de múltiples actores. En las organizaciones con fines de lucro verdes, a menudo los accionistas son vistos como uno de los grupos de interés, y los miembros individuales del consejo pueden ser designados específicamente para representar el interés de otras partes interesadas, como los empleados.
 
 
-  #### Green Organizations
-
-
-  In [Green organizations](../green-paradigm-and-organizations/), board responsibilities are similar to those in Orange but more likely to include acting as guardians of the organization’s purpose/values and of the interests of multiple stakeholders. In Green for-profit organizations, shareholders are often viewed as just one of the stakeholder groups, and individual board members can be designated to specifically represent the interest of other stakeholders, such as employees.
+  <!--EndFragment-->
 inPractice: >-
   ### The board needs to adopt Teal thinking
 
