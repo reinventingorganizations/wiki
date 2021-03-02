@@ -106,12 +106,6 @@ inPractice: >-
 
 
 
-  \
-
-  ***¿Quién decidirá si el CEO necesita irse?***
-
-
-  El proceso de [resolución de conflictos ](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Resoluci%C3%B3n_de_Conflictos "Resolución de Conflictos")se ocupa de esto y puede ser iniciado por cualquier persona que se sienta que un titular de rol (incluido el de CEO) debe ser cambiado. Observe que en una compañía Teal, el papel del "CEO" puede ser diferente. El "CEO" es un empleado con los mismos derechos y deberes que cualquier otro. En Favi, cuando Zobrist se convirtió en CEO, prometió que su posición sería sometida a votación cada 5 años. En Buurtzorg, el consejo no nombra al CEO. Esto viene de dentro de la organización misma.
 
 
   ***¿Quién debe formar parte del consejo?***
@@ -147,19 +141,11 @@ faq:
 
 
       Dicho esto, en Morningstar, Chris Rufer, fundador y propietario del 100%, no ve la necesidad de un consejo. La gente de Morningstar considera la misión / propósito de la compañía como su jefe supremo.
-  - question: Who will decide whether the CEO needs to go?
+  - question: ¿Quién decidirá si el CEO necesita irse?
     answer: >-
-      The [conflict resolution ](../conflict-resolution/)process deals with this
-      and can be started by anyone who feels that a role-holder (including that
-      of CEO) should be changed. Note that In a Teal company, the "CEO" role may
-      be different. The "CEO" is an employee with the same rights and duties as
-      anybody else.
+      
 
-
-      At Favi, when Zobrist became CEO, he promised his position would be submitted to a vote every 5 years.
-
-
-      At Buurtzorg, the board does not appoint the CEO. This comes from within the organization itself.
+      El proceso de [resolución de conflictos ](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Resoluci%C3%B3n_de_Conflictos "Resolución de Conflictos")se ocupa de esto y puede ser iniciado por cualquier persona que se sienta que un titular de rol (incluido el de CEO) debe ser cambiado. Observe que en una compañía Teal, el papel del "CEO" puede ser diferente. El "CEO" es un empleado con los mismos derechos y deberes que cualquier otro. En Favi, cuando Zobrist se convirtió en CEO, prometió que su posición sería sometida a votación cada 5 años. En Buurtzorg, el consejo no nombra al CEO. Esto viene de dentro de la organización misma.
   - question: Who should be part of the board?
     answer: >-
       Suitable people who:
