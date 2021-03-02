@@ -99,33 +99,8 @@ inPractice: >-
 
 
   <!--EndFragment-->
-
-
-  <!--StartFragment-->
-
-
-
-
-
-
-  ***¿Quién debe formar parte del consejo?***
-
-
-  Personas adecuadas que:\
-
-  Entiendan el propósito central de la organización.
-
-
-  * Estén comprometidos con sus esfuerzos.
-
-  * Compartan sus creencias directrices.
-
-  * Puedan ayudar a conectar la organización y desarrollar relaciones con su entorno externo.
-
-
-  <!--EndFragment-->
 faq:
-  - question: Si la organización se autogestiona, ¿para qué tener un Consejo?***
+  - question: Si la organización se autogestiona, ¿para qué tener un Consejo?
     answer: >-
       1. Un Consejo puede ser un requisito legal, pero lo más importante es que
       puede actuar como un protector de las prácticas Teal. Esto obviamente
@@ -146,21 +121,18 @@ faq:
       
 
       El proceso de [resolución de conflictos ](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Resoluci%C3%B3n_de_Conflictos "Resolución de Conflictos")se ocupa de esto y puede ser iniciado por cualquier persona que se sienta que un titular de rol (incluido el de CEO) debe ser cambiado. Observe que en una compañía Teal, el papel del "CEO" puede ser diferente. El "CEO" es un empleado con los mismos derechos y deberes que cualquier otro. En Favi, cuando Zobrist se convirtió en CEO, prometió que su posición sería sometida a votación cada 5 años. En Buurtzorg, el consejo no nombra al CEO. Esto viene de dentro de la organización misma.
-  - question: Who should be part of the board?
+  - question: ¿Quién debe formar parte del consejo?
     answer: >-
-      Suitable people who:
+      Personas adecuadas que:\
+
+      Entiendan el propósito central de la organización.
 
 
-      * Understand the core purpose of the organization; 
+      * Estén comprometidos con sus esfuerzos.
 
+      * Compartan sus creencias directrices.
 
-      * Are committed to its endeavours;
-
-
-      * Share its guiding beliefs;
-
-
-      * Can help connect the organization and develop relationships with its external environment.
+      * Puedan ayudar a conectar la organización y desarrollar relaciones con su entorno externo.
 relatedTheory:
   - Strategy
   - Organizational Structure
