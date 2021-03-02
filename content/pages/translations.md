@@ -24,3 +24,5 @@ Please [let us know](https://reinventingorganizationswiki.com/pages/how-can-you-
 <https://pl.reinventingorganizationswiki.com/>
 
 ![](/media/flagrussia.jpg)      Russian Wiki [https://ru.reinventingorganizationswiki.com/](<https://ru.reinventingorganizationswiki.com/>)
+
+![](/media/flagitalia.jpg)      Italian Wiki [https://it.reinventingorganizationswiki.com/](/media/flagitaly.jpg)
