@@ -23,6 +23,6 @@ Please [let us know](https://reinventingorganizationswiki.com/pages/how-can-you-
 ![](/media/flagpoland.jpg)      Polish Wiki 
 <https://pl.reinventingorganizationswiki.com/>
 
-![](/media/flagrussia.jpg)      Russian Wiki [https://ru.reinventingorganizationswiki.com/](<https://ru.reinventingorganizationswiki.com/>)
+![](/media/flagrussia.jpg)      Russian Wiki [https://ru.reinventingorganizationswiki.com/](/media/flagrussia.jpg)
 
 ![](/media/flagitalia.jpg)      Italian Wiki [https://it.reinventingorganizationswiki.com/](/media/flagitaly.jpg)
