@@ -54,39 +54,51 @@ perspective: >-
 
   <!--EndFragment-->
 inPractice: >-
-  ### The board needs to adopt Teal thinking
+  <!--StartFragment-->
 
 
-  This means: 
+  **En la Práctica**
 
 
-  * Forgoing the command and control privileges of earlier perspectives
-
-  * Joining staff members in ‘listening’ for the organization's evolutionary purpose, and being willing to follow its direction.
-
-  * Embracing the purpose and values of the organization.
-
-  * “Holding the space” or doing whatever possible to support the organization’s practice of a Teal approach. 
-
-    ![]()
-
-  #### The board should also adopt Teal practices
-
-    In self-managing organizations, the board is part of the "advice process". For example, if a board member believes a decision is needed, she should seek advice from appropriate people throughout the organization. In so doing, she not only shows support for the practice, but also invites others to seek advice from the board. This means the division between the board and the rest of the company becomes more ‘porous’, reducing the need for "go-betweens".
-
-  #### The potential for conflict
+  **El consejo necesita adoptar la mentalidad Teal.**
 
 
-  As mentioned earlier, there is potential for conflict when board members do not have a deeply held Teal worldview, since a board generally has ultimate legal authority. Even for board members with a Teal worldview, there is potential for problems in for-profit organizations. This is because board members there have a fiduciary duty to shareholders, and there is at least the potential that Teal practices may not always be viewed as serving those fiduciary duties.
+  Esto significa:
 
 
-  For–profit Teal organizations can pursue a couple of avenues to limit this potential for conflict. First, they can work to transition (with appropriate shareholder consent) the company to a “Benefit Corporation” structure. This structure, adopted in many states in the U.S., extends the duty of directors to include non-financial interests such as social benefit, concerns of employees and suppliers and environmental impact.
+  * Abandonar los privilegios de comando y control de las perspectivas anteriores
+
+  * Unir a los miembros del staff en "escuchar" el propósito evolutivo de la organización y estar dispuestos a seguir su dirección.
+
+  * Adoptar el propósito y los valores de la organización.
+
+  * "Mantener el espacio" o hacer todo lo posible para apoyar las prácticas de la organización con un enfoque Teal.
 
 
-  Second, Holacracy has drafted a constitution that a board can adopt and make binding, even to future shareholders. It gives shareholders a legitimate say in matters related to finance, but prevents them from unilaterally imposing a strategy, or from reverting the organization to traditional management practices.
+  <!--EndFragment-->
 
 
-  Ultimately, the board is a construct of prior organizational stages, and it is as yet unclear exactly what its role should be under Teal or even if in its current form it is fully compatible with Teal.
+  * ![]()
+
+
+  <!--StartFragment-->
+
+
+  **El consejo también debe adoptar las prácticas Teal**\
+
+  En las organizaciones autogestionadas, el consejo forma parte del "proceso de los consejos". Por ejemplo, si un miembro del consejo cree que una decisión es necesaria, debe buscar el consejo de la gente apropiada en toda la organización. Al hacerlo, ella no sólo muestra apoyo para la práctica, sino que también invita a otros a buscar el consejo del Consejo. Esto significa que la división entre el consejo y el resto de la empresa se vuelve más "porosa", reduciendo la necesidad de “intermediarios".
+
+
+  **El potencial para el conflicto**\
+
+  Como se mencionó anteriormente, existe potencial para el conflicto cuando los miembros del consejo no tienen una visión Teal profundamente sostenida, ya que un consejo generalmente tiene la última autoridad legal. Incluso para los miembros del consejo con una cosmovisión Teal, hay potencial para problemas en las organizaciones con fines de lucro. Esto se debe a que los miembros de la junta directiva tienen un deber fiduciario para los accionistas, y existe al menos el potencial de que las prácticas Teal no siempre se vean como cumpliendo con esas obligaciones fiduciarias. Las organizaciones Teal con fines de lucro pueden perseguir un par de vías para limitar este potencial de conflicto. En primer lugar, pueden trabajar para la transición (con el consentimiento apropiado de los accionistas) de la empresa a una estructura de “Corporación de Beneficio". Esta estructura, adoptada en muchos estados de los Estados Unidos, extiende el deber de los consejos de incluir los intereses no financieros tales como el beneficio social, las preocupaciones de los empleados y proveedores y el impacto ambiental.\
+
+  En segundo lugar, Holacracy ha redactado una constitución que un consejo puede adoptar y hacer vinculante, incluso para futuros accionistas. Da a los accionistas una opinión legítima en asuntos relacionados con las finanzas, pero les impide imponer unilateralmente una estrategia, o de revertir la organización a las prácticas de gestión tradicionales.\
+
+  En última instancia, el Consejo es un constructo de etapas organizativas anteriores, y todavía no está claro exactamente cuál debe ser su papel bajo Teal o incluso si en su forma actual es totalmente compatible con Teal.
+
+
+  <!--EndFragment-->
 faq:
   - question: If the organization is self-managing, why have a board?
     answer: >-
