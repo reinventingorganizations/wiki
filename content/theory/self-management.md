@@ -136,8 +136,10 @@ faq:
       * Examples
 
       * Myths about self-management
-        
+
+
       **Part 2**
+
 
       * How you can self manage in the workplace
 
@@ -147,7 +149,7 @@ faq:
 
       * Invitation
 
-        https://www.enliveningedge.org/organizations/what-self-management-definition-advantages-examples-part-1/
+        [https://www.enliveningedge.org/organizations/what-self-management-definition-advantages-examples-part-1/](<* https://www.enliveningedge.org/organizations/what-self-management-definition-advantages-examples-part-1/>)
   - question: Are there videos that can explain more about self-management?
     answer: "https://thejourney.reinventingorganizations.com/videos.html#4 contains
       a rich set of 10-20 minutes videos that cover the following kind of
