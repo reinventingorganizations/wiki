@@ -4,7 +4,7 @@ name: Translations
 ---
 ![](/media/languages-write.jpg)
 
-### This wiki can easily host branches with local languages
+### This wiki can host branches with local languages
 
 Please [let us know](https://reinventingorganizationswiki.com/pages/how-can-you-contribute/) if you feel an impulse to start translating, we will help you setting it up.
 
