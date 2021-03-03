@@ -1,5 +1,5 @@
 ---
 tags: theoryCategories
 key: People practices
-name: People practices ("HR")
+name: Pratiques RH
 ---
