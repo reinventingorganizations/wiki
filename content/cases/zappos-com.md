@@ -1,15 +1,15 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
 name: Zappos.com
+date: 2020-11-09
 introduction: Zappos.com is famous for its outstanding culture, offers its new
   hires a $3,000 check if they have second thoughts and choose to quit during
   the four- week orientation.
-industry: G. Wholesale and retail trade; repair of motor vehicles and motorcycles
+industry: "G : COMMERCE ; RÉPARATION D’AUTOMOBILES ET DE MOTOCYCLES"
 geography: USA
 companySize: "> 500"
-profit: Profit
+profit: à but lucratif
 theory:
   - topic: Culture and Values
     title: Zappos.com is famous for its outstanding culture, offers its new hires a
