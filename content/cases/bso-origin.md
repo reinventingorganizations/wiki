@@ -6,10 +6,10 @@ date: 2020-08-24T20:05:33.747Z
 introduction: Originally IT consulting - Global - 10,000 employees - For profit.
   A European information technology company founded by Eckart Wintzen, now a
   part of Atos
-industry: J. Information and communication
+industry: "J : SERVICES D’INFORMATION ET DE COMMUNICATION"
 geography: Global
 companySize: "> 500"
-profit: Profit
+profit: à but lucratif
 theory:
   - topic: Ownership
     title: A multinational loses its momentum after a corporate takeover.
