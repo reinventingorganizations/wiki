@@ -1,17 +1,17 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
 name: Fitzii
+date: 2020-11-09
 introduction: >-
   Hiring software and services provider - Canada - 10 employees – For profit
 
 
   [Fitzii ](https://fitzii.com/go/about/)is a Ian Martin Group company (hiring support)
-industry: J. Information and communication
+industry: "J : SERVICES D’INFORMATION ET DE COMMUNICATION"
 geography: Canada
 companySize: 1-100
-profit: Profit
+profit: à but lucratif
 theory:
   - topic: Organizational Structure
     content: "Fitzii is organized in three parallel teams along functional lines –
