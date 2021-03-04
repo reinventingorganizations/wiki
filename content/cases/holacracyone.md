@@ -1,14 +1,14 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
 name: HolacracyOne
+date: 2020-11-09
 introduction: Founded in 2007 by Brian Robertson and Tom Thomison, HolacracyOne
   is the company spearheading the development of the Holacracy framework.
-industry: S. Other service activities
+industry: "S : AUTRES SERVICES"
 geography: USA
 companySize: 1-100
-profit: Profit
+profit: à but lucratif
 theory:
   - topic: Meetings
     title: HolacracyOne has created an effective set of meetings serving a specific
