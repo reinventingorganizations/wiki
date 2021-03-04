@@ -4,10 +4,10 @@ tags: cases
 name: Hanno
 date: 2020-11-17T14:57:05.017Z
 introduction: Digital design agency - Worldwide - 8 'shipmates' - For Profit.
-industry: M. Professional, scientific and technical activities
+industry: "M : SERVICES PROFESSIONNELS, SCIENTIFIQUES ET TECHNIQUES"
 geography: Global
 companySize: 1-100
-profit: Profit
+profit: à but lucratif
 theory:
   - topic: Compensation and incentives
     title: Evolution of open salary setting from algorithm to advice process.
