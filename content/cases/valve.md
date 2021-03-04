@@ -4,10 +4,10 @@ tags: cases
 name: Valve
 date: 2020-11-17T14:57:26.749Z
 introduction: Software - US - 330 Employees - For Profit.
-industry: J. Information and communication
+industry: "J : SERVICES D’INFORMATION ET DE COMMUNICATION"
 geography: USA
 companySize: 201-500
-profit: Profit
+profit: à but lucratif
 theory:
   - topic: Compensation and incentives
     title: Valve uses a stack ranking system to determine compensation.
