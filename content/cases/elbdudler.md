@@ -1,13 +1,13 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
 name: Elbdudler
+date: 2020-11-09
 introduction: Social media consulting - Germany - 34 people - For Profit.
-industry: M. Professional, scientific and technical activities
-geography: Germany
+industry: "M : SERVICES PROFESSIONNELS, SCIENTIFIQUES ET TECHNIQUES"
+geography: Allemagne
 companySize: 1-100
-profit: Profit
+profit: à but lucratif
 theory:
   - topic: Compensation and incentives
     title: People self-set their salaries based on 4 simple questions
