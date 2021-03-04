@@ -15,7 +15,7 @@ introduction: >-
 
 
   Wikipedia article : <https://en.wikipedia.org/wiki/The_Morning_Star_Company>
-industry: "I : SERVICES D’HÉBERGEMENT ET DE RESTAURATION"
+industry: "C : INDUSTRIE MANUFACTURIÈRE"
 geography: USA
 companySize: 201-500
 profit: à but lucratif
