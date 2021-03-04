@@ -1,8 +1,8 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
 name: Holacracy
+date: 2020-11-09
 introduction: >-
   Organizational operating model 
 
@@ -11,10 +11,10 @@ introduction: >-
 
 
   The Holacracy system was developed at Ternary Software, a company in Pennsylvania company.
-industry: V. Others
+industry: "V: AUTRES"
 geography: Global
 companySize: "> 500"
-profit: non-profit
+profit: à but non lucratif
 theory:
   - topic: Organizational Structure
     title: A nested team structure
