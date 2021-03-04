@@ -15,10 +15,10 @@ introduction: >-
 
 
   Wikipedia article : <https://en.wikipedia.org/wiki/The_Morning_Star_Company>
-industry: I. Accommodation and food service activities
+industry: "I : SERVICES D’HÉBERGEMENT ET DE RESTAURATION"
 geography: USA
 companySize: 201-500
-profit: Profit
+profit: à but lucratif
 theory:
   - topic: Culture and Values
     title: At Morning Star, every management practice is inspired by two basic
