@@ -1,13 +1,13 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
 name: W.L.Gore
+date: 2020-11-09
 introduction: Industrial conglomerate - Global - 10.000 associates - For Profit
-industry: C. Manufacturing
+industry: "C : INDUSTRIE MANUFACTURIÈRE"
 geography: Global
 companySize: "> 500"
-profit: Profit
+profit: à but lucratif
 theory:
   - topic: Compensation and incentives
     title: Gore uses a ranking system, calibrated by two panels, to decide on
