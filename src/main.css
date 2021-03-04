@@ -249,3 +249,18 @@ a {
   font: var(--ror-font-label-small);
   margin-bottom: 8px;
 }
+
+
+.l-sponsers {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.l-sponsers > * + * {
+  margin-left: 2rem;
+}
+
+.l-netlify img {
+  height: 3rem;
+}
