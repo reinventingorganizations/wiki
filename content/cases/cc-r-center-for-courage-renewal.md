@@ -1,13 +1,13 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
 name: CC&R (Center for Courage & Renewal)
+date: 2020-11-09
 introduction: CC&R has created meetings for welcoming and farewelling personnel.
-industry: P. Education
+industry: "P : ENSEIGNEMENT"
 geography: USA
 companySize: 1-100
-profit: non-profit
+profit: à but non lucratif
 theory:
   - topic: Meetings
     title: CC&R has created meetings for welcoming and farewelling personnel.
