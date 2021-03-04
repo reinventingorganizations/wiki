@@ -1,16 +1,16 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
 name: Sociocracy
+date: 2020-11-09
 introduction: Sociocracy, also called dynamic governance, is a system of
   governance which seeks to create harmonious social environments and productive
   organizations. It is distinguished by the use of consent, rather than majority
   voting, in decision-making, and of discussion by people who know each other.
-industry: V. Others
+industry: "V: AUTRES"
 geography: Global
 companySize: "> 500"
-profit: non-profit
+profit: à but non lucratif
 theory:
   - topic: Role Definition and Allocation
     title: A consent based election process to allocate roles within teams
