@@ -1,8 +1,8 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
 name: Schule im Aufbruch
+date: 2020-11-09
 introduction: >-
   Consulting Services - Germany - 6 employees - Non-profit
 
@@ -13,10 +13,10 @@ introduction: >-
   In order to enable the development of potential at school, a new learning culture, diverse learning formats and an appreciative attitude are required. What really counts: Trust, appreciation, relationship, responsibility, meaning.
 
   School in Transition stands for a holistic and transformative education as formulated in the UNESCO World Action Plan on Education for Sustainable Development. It is about taking responsibility for oneself, for one's fellow human beings and for our planet.
-industry: P. Education
-geography: Germany
+industry: "P : ENSEIGNEMENT"
+geography: Allemagne
 companySize: 1-100
-profit: non-profit
+profit: à but non lucratif
 theory:
   - topic: Evolutionary Purpose
     content: '"Schule im Aufbruch" (in English, “Schools on the Move”) is a
