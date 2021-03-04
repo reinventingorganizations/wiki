@@ -1,8 +1,8 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
 name: Sun Hydraulics
+date: 2020-11-09
 introduction: >-
   From its own website [Sun Hydraulics](https://www.sunhydraulics.com/about) is
   a leading designer and manufacturer of high-performance screw-in hydraulic
@@ -11,10 +11,10 @@ introduction: >-
 
 
   In business since 1970 and a public company since 1997, Sun Hydraulics Corporation became Helios Technologies (NASDAQ: SNHY) in 2018. Sun Hydraulics LLC operates as a wholly owned company under the new corporate name and sells its products globally, primarily through independent distributors, to diverse markets of mobile and industrial equipment and machinery manufacturers.
-industry: C. Manufacturing
+industry: "C : INDUSTRIE MANUFACTURIÈRE"
 geography: Global
 companySize: "> 500"
-profit: Profit
+profit: à but lucratif
 theory:
   - topic: Role Definition and Allocation
     title: An internal recruitment process in which future colleagues interview
