@@ -1,14 +1,14 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
 name: Ozvision
+date: 2020-11-09
 introduction: Ozvision has experimented with innovative approaches. One is the
   morning meeting called 'good or new'.
-industry: R. Arts, entertainment and recreation
-geography: Japan
+industry: "R : ARTS, SPECTACLES ET ACTIVITÉS RÉCRÉATIVES"
+geography: Japon
 companySize: 1-100
-profit: Profit
+profit: à but lucratif
 theory:
   - topic: Meetings
     title: Ozvision has experimented with innovative approaches. One is the morning
