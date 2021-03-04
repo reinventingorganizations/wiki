@@ -1,13 +1,13 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
 name: Heiligenfeld
+date: 2020-11-09
 introduction: Heiligenfeld have weekly, large group reflective meetings.
-industry: Q. Human health and social work activities
-geography: Germany
+industry: "Q : SANTÉ HUMAINE ET ACTION SOCIALE"
+geography: Allemagne
 companySize: "> 500"
-profit: non-profit
+profit: à but non lucratif
 theory:
   - topic: Meetings
     title: Heiligenfeld have weekly, large group reflective meetings.
