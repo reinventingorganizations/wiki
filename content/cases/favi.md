@@ -9,10 +9,10 @@ introduction: >-
 
 
   ![](/media/2_058n-favi-medium-small.png)
-industry: C. Manufacturing
+industry: "C : INDUSTRIE MANUFACTURIÈRE"
 geography: France
 companySize: 201-500
-profit: Profit
+profit: à but lucratif
 theory:
   - topic: sales-marketing
     title: Sending love to clients
