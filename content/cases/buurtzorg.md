@@ -21,10 +21,10 @@ introduction: "**Buurtzorg Nederland** is a Dutch home-care organization which
   by information technology, can be provided.\r
 
   \r\n"
-industry: Q. Human health and social work activities
-geography: Netherlands
+industry: "Q : SANTÉ HUMAINE ET ACTION SOCIALE"
+geography: Pays-Bas
 companySize: "> 500"
-profit: non-profit
+profit: à but non lucratif
 theory:
   - topic: Listening to Purpose
     title: Buurtzorg + approach
