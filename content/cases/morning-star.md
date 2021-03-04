@@ -15,7 +15,7 @@ introduction: >-
 
 
   Wikipedia article : <https://en.wikipedia.org/wiki/The_Morning_Star_Company>
-industry: I. Accommodation and food service activities
+industry: C. Manufacturing
 geography: USA
 companySize: 201-500
 profit: Profit
