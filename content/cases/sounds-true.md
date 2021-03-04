@@ -1,15 +1,15 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
 name: Sounds True
+date: 2020-11-09
 introduction: "**Sounds True** is a multimedia publishing company founded in
   1985 by Tami Simon, with the mission of disseminating spiritual wisdom. The
   company is based in Louisville, Colorado, near Boulder, Colorado."
-industry: Healthcare
+industry: "Q : SANTÉ HUMAINE ET ACTION SOCIALE"
 geography: USA
 companySize: 1-100
-profit: Profit
+profit: à but lucratif
 theory:
   - topic: Listening to Purpose
     content: "Tami Simon, the founder of Sounds True, has found that spiritual
