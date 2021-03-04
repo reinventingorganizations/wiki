@@ -1,16 +1,16 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
 name: Enspiral
+date: 2020-11-09
 introduction: The Enspiral Foundation is a charitable company co-owned by the
   Enspiral Members. Its mission is to support the network as a whole, facilitate
   collaboration between the people and ventures, and further the overall social
   mission of Enspiral.
-industry: Q. Human health and social work activities
-geography: New Zealand
+industry: "Q : SANTÉ HUMAINE ET ACTION SOCIALE"
+geography: Nouvelle Zélande
 companySize: 101-200
-profit: non-profit
+profit: à but non lucratif
 theory:
   - topic: Decision Making
     title: Enspiral is a distributed collective using a consent-based advice process
