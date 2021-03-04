@@ -1,5 +1,5 @@
 ---
 key: teal-concepts
-name: Teal Concepts
+name: Concepts Opale
 tags: theoryCategories
 ---
