@@ -154,7 +154,7 @@ collections:
           label: "Geography",
           name: "geography",
           widget: "select",
-          options: ["巴西", "加拿大", "China", "Egypt", "法国", "德国", "全球", "India", "日本", "Morrocco", "荷兰", "新西兰", "Philippines", "Switzerland", "美国"],
+          options: ["巴西", "加拿大", "中国", "埃及", "法国", "德国", "全球", "印度", "日本", "摩洛哥", "荷兰", "新西兰", "菲律宾", "瑞士", "United Kingdom", "美国"],
         }
       - {
           label: "Company size",
