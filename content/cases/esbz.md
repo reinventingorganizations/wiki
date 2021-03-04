@@ -1,13 +1,13 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
 name: ESBZ
+date: 2020-11-09
 introduction: ESBZ is recognized for its innovative curriculum and organization model.
-industry: P. Education
-geography: Germany
+industry: "P : ENSEIGNEMENT"
+geography: Allemagne
 companySize: "> 500"
-profit: non-profit
+profit: à but non lucratif
 theory:
   - topic: Meetings
     title: ESBZ is recognized for its innovative curriculum and organization model.
