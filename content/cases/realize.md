@@ -1,13 +1,13 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
 name: Realize!
+date: 2020-11-09
 introduction: Consulting - Netherlands - 4 partners - For Profit
-industry: M. Professional, scientific and technical activities
-geography: Netherlands
+industry: "M : SERVICES PROFESSIONNELS, SCIENTIFIQUES ET TECHNIQUES"
+geography: Pays-Bas
 companySize: 1-100
-profit: Profit
+profit: à but lucratif
 theory:
   - topic: Compensation and incentives
     title: Beautiful in-person conversation among partners to set their compensation.
