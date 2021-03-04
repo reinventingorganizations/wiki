@@ -1,14 +1,14 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
 name: RHD (Resources for Human Development)
+date: 2020-11-09
 introduction: RHD has developed over the years a beautiful and precisely worded
   Bill of Rights and Responsibilities for Employees and Consumers.
-industry: S. Other service activities
+industry: "S : AUTRES SERVICES"
 geography: USA
 companySize: "> 500"
-profit: non-profit
+profit: à but non lucratif
 theory:
   - topic: Culture and Values
     title: RHD has developed over the years a beautiful and precisely worded Bill of
@@ -177,7 +177,6 @@ theory:
       2. People are essentially good, unless proven otherwise.
 
       3. There is no single way to manage corporate issues well.
-
   - topic: wholeness
     title: An organizational Bill of Rights
     content: >-
