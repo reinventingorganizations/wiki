@@ -11,7 +11,7 @@ introduction: >-
 
 
   *This is how Patagonia speaks out about its purpose: "We at **Patagonia** know that all life on earth is threatened with extinction. We make it our goal to use all our resources to do something about it: our company, our investments, our voice and our imagination." ^\[test]*
-industry: S. Other service activities
+industry: C. Manufacturing
 geography: USA
 companySize: "> 500"
 profit: Profit
