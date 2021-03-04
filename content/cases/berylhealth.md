@@ -1,13 +1,13 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
 name: BerylHealth
+date: 2020-11-09
 introduction: Call center services for hospitals - USA - For profit
-industry: J. Information and communication
+industry: "J : SERVICES D’INFORMATION ET DE COMMUNICATION"
 geography: USA
 companySize: 201-500
-profit: Profit
+profit: à but lucratif
 theory:
   - topic: Mood Management
     title: At BerylHealth an e-mail sent to the whole workforce recognizing and
