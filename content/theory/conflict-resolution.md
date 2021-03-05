@@ -28,14 +28,13 @@ perspective: >-
   Chaque étape historique a donné naissance à une perspective distincte sur la résolution des conflits et à des pratiques très différentes: 
 
 
-
-  #### **Organizations Rouge**
+  #### **Organisations Rouge**
 
 
   Dans le [paradigme rouge](https://fr--reinventingorganizations-wiki.netlify.app/theory/red-organizations/), il y a un exercice dominant du pouvoir par le patron ou le chef pour garder les autres en ligne. La peur est le ciment de l'organisation. En général, les conflits sont gérés par la répression, le pouvoir ou la domination, et des règles strictes sont appliquées par peur des conséquences.
 
 
-  #### **Organizations Ambre**
+  #### **Organisations Ambre**
 
 
   Le [paradigme ambre](https://fr--reinventingorganizations-wiki.netlify.app/theory/amber-paradigm-and-organizations/) a formalisé des rôles au sein d'une structure pyramidale hiérarchique, d'un commandement et d'un contrôle descendant (quoi et comment). La stabilité est valorisée avant tout et est maintenue à travers des rôles et des processus clairement définis.
@@ -44,19 +43,19 @@ perspective: >-
   Les méthodes de gestion des conflits incluent l'évitement ou la suppression. Les règles sont imposées par ceux qui ont autorité et peuvent être appliquées par voie de poursuites judiciaires. Ces types d'organisations disposent de processus RH solides pour gérer les conflits et les griefs entre les employés et l'employeur.
 
 
-  #### **Organizations Orange**
+  #### **Organisations Orange**
 
 
   Dans le [paradigme orange](https://fr--reinventingorganizations-wiki.netlify.app/theory/orange-paradigm-and-organizations/), il y a aussi une structure hiérarchique, mais la gestion est par objectif (définition du quoi; avec plus de liberté sur le comment). Dans de nombreuses organisations Orange, bien qu'il existe des procédures formelles de résolution des conflits, les conflits sont souvent mal traités. Bien que les individus soient souvent encouragés à résoudre eux-mêmes les désaccords, les conflits doivent souvent être réglés par l'intervention d'un tiers. Cela se fait le plus souvent en renvoyant le problème au patron ou en s'en remettant aux politiques et procédures RH. Ces procédures créent un niveau d'indépendance objective par rapport aux personnes en conflit.
 
 
-  #### **Organizations verte**
+  #### **Organisations verte**
 
 
-  Le [paradigm vert](https://fr--reinventingorganizations-wiki.netlify.app/theory/green-paradigm-and-organizations/) utilise à nouveau une structure pyramidale classique, mais avec un accent plus fort sur l'autonomisation. Les organisations vertes ont des cultures fondées sur des valeurs qui incluent des principes d'intégrité, de respect et d'ouverture. Il y a un investissement important pour favoriser la collaboration, la communication, la résolution de problèmes et la rédaction d'accords qui répondent aux besoins sous-jacents. Ces processus peuvent parfois supprimer la source de conflit. Lorsqu'ils surviennent, les conflits peuvent prendre du temps à se résoudre, car les groupes cherchent à trouver une solution harmonieuse. Cependant, le patron est généralement l'arbitre final dans les situations de conflit.
+  Le [paradigme vert](https://fr--reinventingorganizations-wiki.netlify.app/theory/green-paradigm-and-organizations/) utilise à nouveau une structure pyramidale classique, mais avec un accent plus fort sur l'autonomisation. Les organisations vertes ont des cultures fondées sur des valeurs qui incluent des principes d'intégrité, de respect et d'ouverture. Il y a un investissement important pour favoriser la collaboration, la communication, la résolution de problèmes et la rédaction d'accords qui répondent aux besoins sous-jacents. Ces processus peuvent parfois supprimer la source de conflit. Lorsqu'ils surviennent, les conflits peuvent prendre du temps à se résoudre, car les groupes cherchent à trouver une solution harmonieuse. Cependant, le patron est généralement l'arbitre final dans les situations de conflit.
 
 
-  #### **Organizations Opale**
+  #### **Organisations Opale**
 
 
   Dans les organisations Opale, le conflit est considéré comme une partie naturelle de l'interaction humaine et, lorsqu'il est soutenu en toute sécurité, il est souvent considéré comme sain et créatif. Un conflit géré avec grâce et tendresse peut créer des possibilités et un apprentissage pour toutes les personnes impliquées. Dans les organisations Opale, du temps est régulièrement consacré à la surface et à la résolution des conflits dans les contextes individuels et de groupe. Souvent, des pratiques formelles de résolution de conflits en plusieurs étapes sont utilisées et chacun est formé à la gestion des conflits. Le conflit est limité aux parties impliquées, aux médiateurs ou aux pairs qui pourraient être invités à faire partie d'un groupe de médiation. Un tel panel a rarement la responsabilité d'imposer une solution. L'objectif est plutôt d'aider les parties concernées à trouver une solution.
