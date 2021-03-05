@@ -37,31 +37,31 @@ perspective: >-
   Chaque étape historique a donné naissance à une perspective distincte sur l'engagement, les horaires de travail et la flexibilité, et à des pratiques très différentes:
 
 
-  #### **Organizations Rouge**
+  #### **Organisations Rouge**
 
 
   Dans les [organisations Rouge](https://fr--reinventingorganizations-wiki.netlify.app/theory/red-organizations/), le patron détermine les heures de travail de chaque personne. Il n'y a pas de processus formel de fixation et / ou de contrôle des heures de travail. Les gens appartiennent à l'organisation et doivent être disponibles en cas de besoin.
 
 
-  #### **Organizations Ambre**
+  #### **Organisations Ambre**
 
 
   Dans les [organisations Ambre](https://fr--reinventingorganizations-wiki.netlify.app/theory/amber-paradigm-and-organizations/), les heures de travail sont déterminées par les hauts dirigeants et précisées dans un contrat de travail. Ils décident du travail à effectuer et de la manière dont les heures de travail seront contrôlées.
 
 
-  #### **Organizations Orange**
+  #### **Organisations Orange**
 
 
   Dans les [organisations Orange](https://fr--reinventingorganizations-wiki.netlify.app/theory/orange-paradigm-and-organizations/), les gens tombent généralement dans l'un des deux camps. Il y a ceux (souvent dans des rôles manuels) qui travaillent un ensemble fixe d'heures de pointage d'entrée et de sortie, et ceux (souvent dans des postes de direction), qui sont censés faire leur travail indépendamment des heures indiquées dans leur contrat.
 
 
-  #### **Organizations Verte**
+  #### **Organisations Verte**
 
 
   Dans les [organisations vertes](https://fr--reinventingorganizations-wiki.netlify.app/theory/green-paradigm-and-organizations/), il existe généralement une culture de coopération où les gens sont habilités à travailler les heures de leur choix, mais dans une structure définie. Le temps flexible est souvent utilisé pour les travailleurs de niveau inférieur afin de permettre aux gens de s'adapter au travail avec le reste de leur vie. Le travail à domicile est une option réaliste pour ceux dont le rôle le permet.
 
 
-  #### **Organizations Opale**
+  #### **Organisations Opale**
 
 
   En apparence, les [organisations Opal](https://fr--reinventingorganizations-wiki.netlify.app/theory/teal-paradigm-and-organizations/)e peuvent ne pas sembler si différentes des organisations vertes en termes d'engagement, d'heures de travail et de flexibilité. La différence réside dans la maturité et la cohérence. Alors qu'une organisation verte pourrait rendre les pratiques décrites ci-dessus disponibles à des populations spécifiques, une organisation Opale rendrait ces pratiques largement disponibles dans le cadre normal de leur fonctionnement.
