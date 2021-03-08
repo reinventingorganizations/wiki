@@ -13,207 +13,123 @@ intro: >-
 
 
   ![](/media/fundamental-assumptions.jpg)
-perspective: "Każdy etap historyczny zrodził fundamentalne założenia, odrębne
-  spojrzenie na ludzi i ich motywacje oraz bardzo różne podejścia do angażowania
-  się w świat.
+perspective: >-
+  Każdy etap historyczny zrodził fundamentalne założenia, odrębne spojrzenie na
+  ludzi i ich motywacje oraz bardzo różne podejścia do angażowania się w świat.
 
 
   #### Czerwone Organizacje
 
 
-  Podstawowymi założeniami z [Czerwonej perspektywy](../red-organizations/)
-  są:
+  Podstawowymi założeniami z [Czerwonej perspektywy](../red-organizations/) są:
 
-  * Świat ma nieskończone zasoby, które można wykorzystać. Osoby spoza
-  organizacji / plemienia również mogą być wykorzystywane.\r
 
-  * Świat to wrogie miejsce. „To ja lub ty”. Podbite terytorium musi być
-  bronione poprzez (stałą) walkę i czujność. Jeśli ktoś nie zareaguje szybko na
-  otoczenie, wszystko zostanie odebrane.\r
+  * Świat ma nieskończone zasoby, które można wykorzystać. Osoby spoza organizacji / plemienia również mogą być wykorzystywane.
 
-  * Struktura społeczeństwa polega na *** władzy i szacunku. *** Istnieje
-  naturalny porządek dziobania, który zapewnia, że ​​tylko „najlepsi” przeżywają
-  i rozwijają się. Aby przetrwać, trzeba albo dominować, by skorzystać, albo
-  ulegać ochronie.\r
+  * Świat to wrogie miejsce. „To ja lub ty”. Podbite terytorium musi być bronione poprzez (stałą) walkę i czujność. Jeśli ktoś nie zareaguje szybko na otoczenie, wszystko zostanie odebrane.
 
-  * Można tylko zaufać sobie - i do pewnego stopnia ludziom, którzy złożyli
-  „przysięgę wierności”. Czujność jest konieczna, ponieważ lojalność ludzi może
-  się zmienić z dnia na dzień.\r
+  * Struktura społeczeństwa polega na  ***władzy i szacunku.***  Istnieje naturalny porządek dziobania, który zapewnia, że ​​tylko „najlepsi” przeżywają i rozwijają się. Aby przetrwać, trzeba albo dominować, by skorzystać, albo ulegać ochronie.
 
-  * Nie ma stabilnych reguł z wyjątkiem władzy sprawowanej przez wodza. O tym,
-  co jest dobre, a co złe, decyduje szef. Nie musisz myśleć samodzielnie, jeśli
-  nie jesteś szefem.\r
+  * Można tylko zaufać sobie - i do pewnego stopnia ludziom, którzy złożyli „przysięgę wierności”. Czujność jest konieczna, ponieważ lojalność ludzi może się zmienić z dnia na dzień.
 
-  * Dopuszczalne jest (a nawet pożądane) troszczenie się tylko o siebie.
-  Branie tego, co się da - o ile nie zostanie złapany lub pobity przez kogoś
-  potężniejszego, jest OK. Nie ma winy, jest tylko władza lub poddanie się. To,
-  co myślą inni ludzie i jak się czują, nie jest problemem.\r
+  * Nie ma stabilnych reguł z wyjątkiem władzy sprawowanej przez wodza. O tym, co jest dobre, a co złe, decyduje szef. Nie musisz myśleć samodzielnie, jeśli nie jesteś szefem.
 
-  * Ludzie, którzy nie są częścią „wewnętrznego kręgu”, są po to, by ich użyć.
-  Lepiej się bać niż być kochanym.\r
+  * Dopuszczalne jest (a nawet pożądane) troszczenie się tylko o siebie. Branie tego, co się da - o ile nie zostanie złapany lub pobity przez kogoś potężniejszego, jest OK. Nie ma winy, jest tylko władza lub poddanie się. To, co myślą inni ludzie i jak się czują, nie jest problemem.
+
+  * Ludzie, którzy nie są częścią „wewnętrznego kręgu”, są po to, by ich użyć. Lepiej się bać niż być kochanym.
 
 
   (Leadership style: predatory, Metaphor: Wolf Pack)
 
 
-  #### Amber Organizations
+  #### Bursztynowe Organizacje
 
 
-  Fundamental assumptions from an [Amber
-  perspective](../amber-paradigm-and-organizations/) are:
+  Fundamental assumptions from an [Amber perspective](../amber-paradigm-and-organizations/) are:
 
 
-  * The world is (or should be) immutable, comprehensible and controllable.
-  What worked in the past will work in the future. ***Stability (safety) and
-  loyalty*** are essential. Change is to be viewed with suspicion. Leaving the
-  organization is the last option.
+  * The world is (or should be) immutable, comprehensible and controllable. What worked in the past will work in the future. ***Stability (safety) and loyalty*** are essential. Change is to be viewed with suspicion. Leaving the organization is the last option.
 
-  * Things are either right or wrong. There is always an institutional
-  authority to be obeyed: rules, procedures, etc. Personal opinions are not
-  relevant. Guilt is inescapable, when being in the wrong.
+  * Things are either right or wrong. There is always an institutional authority to be obeyed: rules, procedures, etc. Personal opinions are not relevant. Guilt is inescapable, when being in the wrong.
 
-  * You follow the rules and the expectations that society has on you, even if
-  it means wearing a social mask of virtue. Self-control is highly valued.
+  * You follow the rules and the expectations that society has on you, even if it means wearing a social mask of virtue. Self-control is highly valued.
 
-  * People are mostly lazy, dishonest, unintelligent and in need of direction.
-  They must be supervised and told what is expected from them. Thus there must
-  be a clear chain of command, formal processes, and clear cut rules that
-  stipulate who can do what.
+  * People are mostly lazy, dishonest, unintelligent and in need of direction. They must be supervised and told what is expected from them. Thus there must be a clear chain of command, formal processes, and clear cut rules that stipulate who can do what.
 
-  * Everyone is replaceable by someone who can take over the same role in the
-  process. Innovation, critical thinking and self-expression are not needed.
-  Information is to be shared on a need-to-know basis.
+  * Everyone is replaceable by someone who can take over the same role in the process. Innovation, critical thinking and self-expression are not needed. Information is to be shared on a need-to-know basis.
 
-  * Success means performing your role in the organization in a perfect way
-  (\"You *are* your job and your place in society is more or less clear from
-  birth.\")
+  * Success means performing your role in the organization in a perfect way ("You *are* your job and your place in society is more or less clear from birth.")
 
   * (Leadership style: authoritarian - paternalistic. Metaphor: Army.)
 
 
-  #### Orange Organizations
+  #### Pomarańczowej Organizacje
 
 
-  Fundamental assumptions from an [Orange
-  perspective](../orange-paradigm-and-organizations/) are:
+  Fundamental assumptions from an [Orange perspective](../orange-paradigm-and-organizations/) are:
 
 
-  * The world is full of possibilities and challenges waiting to be discovered
-  and taken up. If one is smart and works hard enough, all the benefits of high
-  status can be had. If one does not make it, it is one's own fault.
+  * The world is full of possibilities and challenges waiting to be discovered and taken up. If one is smart and works hard enough, all the benefits of high status can be had. If one does not make it, it is one's own fault.
 
-  * ***Material results and status*** are essential. What counts is the
-  financial bottom line: the (only) real measure for success is money and
-  material wealth. This is what ultimately motivates people.
+  * ***Material results and status*** are essential. What counts is the financial bottom line: the (only) real measure for success is money and material wealth. This is what ultimately motivates people.
 
-  * Truth is what works. Pragmatism is more valuable than authority.
-  Rationality is valued above all else. Emotions, doubts, dreams, questions of
-  meaning and purpose do not belong in the workplace. They are a distraction to
-  achieving our goals. Being professional means keeping private life private.
+  * Truth is what works. Pragmatism is more valuable than authority. Rationality is valued above all else. Emotions, doubts, dreams, questions of meaning and purpose do not belong in the workplace. They are a distraction to achieving our goals. Being professional means keeping private life private.
 
-  * Social acceptance is important, because one needs others to reach the own
-  goals and acknowledge the own success. One has to wear a professional mask of
-  success and control.
+  * Social acceptance is important, because one needs others to reach the own goals and acknowledge the own success. One has to wear a professional mask of success and control.
 
-  * Only the best in their field can and should make it to the top.
-  Competition is everywhere and should be encouraged. To survive and thrive, one
-  has to outsmart others and beat competition.
+  * Only the best in their field can and should make it to the top. Competition is everywhere and should be encouraged. To survive and thrive, one has to outsmart others and beat competition.
 
-  * Innovation is a necessity for growth. Change is the only constant thing.
-  There is no room or time to tolerate mistakes and weaknesses.
+  * Innovation is a necessity for growth. Change is the only constant thing. There is no room or time to tolerate mistakes and weaknesses.
 
-  * It is important to have clear goals. Achieving the next external goal
-  (getting the next promotion, finding a life partner, buying a new car,…) will
-  make one happy.
+  * It is important to have clear goals. Achieving the next external goal (getting the next promotion, finding a life partner, buying a new car,…) will make one happy.
 
-  * When people are all by themselves, nothing good will come out of it.
-  Although they can think up to a certain point and decide on *how* they do
-  their job, they are in need of direction. People need to be motivated by
-  external rewards and competition to perform at their peak. Management needs to
-  set clear goals, incentive schemes, and control. Management has to be in
-  control.
+  * When people are all by themselves, nothing good will come out of it. Although they can think up to a certain point and decide on *how* they do their job, they are in need of direction. People need to be motivated by external rewards and competition to perform at their peak. Management needs to set clear goals, incentive schemes, and control. Management has to be in control.
 
-  * (Leadership style: expert/achiever, \"problem solving, strategic, outcome
-  oriented\". Metaphor: Machine.)
+  * (Leadership style: expert/achiever, "problem solving, strategic, outcome oriented". Metaphor: Machine.)
 
 
-  #### Green Organizations
+  #### Zielone Organizacje
 
 
-  Fundamental assumptions from a [Green perspective
-  ](../green-paradigm-and-organizations/)are:
+  Fundamental assumptions from a [Green perspective ](../green-paradigm-and-organizations/)are:
 
 
-  * Materialistic obsession, social inequality and loss of community are bad.
-  Relationships are more important than outcomes. What is essential is
-  ***belonging and harmony***.
+  * Materialistic obsession, social inequality and loss of community are bad. Relationships are more important than outcomes. What is essential is ***belonging and harmony***.
 
-  * People are essentially good. Everyone’s point of view and opinion is
-  valuable. Conflict or competition are not the only laws of nature,
-  co-operation is also in our genes. Shared values work better than strict rules
-  and policies.
+  * People are essentially good. Everyone’s point of view and opinion is valuable. Conflict or competition are not the only laws of nature, co-operation is also in our genes. Shared values work better than strict rules and policies.
 
-  * Everyone has talents. Diversity leads to better results. Avoid conflict at
-  all cost. Use bottom up processes for input and aim for consensus for
-  decisions.
+  * Everyone has talents. Diversity leads to better results. Avoid conflict at all cost. Use bottom up processes for input and aim for consensus for decisions.
 
-  * At work, people must be able to grow and reach their full potential.
-  Management (HR) should create the necessary conditions. This means leaving a
-  lot of room for discussion, for learning and mistakes. It means stimulating
-  people to work in teams. Leadership should be in service to those being led.
+  * At work, people must be able to grow and reach their full potential. Management (HR) should create the necessary conditions. This means leaving a lot of room for discussion, for learning and mistakes. It means stimulating people to work in teams. Leadership should be in service to those being led.
 
-  * All people are of equal value. We are separate and many forces in society
-  pull us apart or into inequality, so achieving deep communion between people
-  is something we have to work for. There are multiple stakeholders - not only
-  shareholders. They deserve equal attention. Nature, the local community and
-  society as a whole are to be considered as stakeholders.
+  * All people are of equal value. We are separate and many forces in society pull us apart or into inequality, so achieving deep communion between people is something we have to work for. There are multiple stakeholders - not only shareholders. They deserve equal attention. Nature, the local community and society as a whole are to be considered as stakeholders.
 
-  * (Leadership style: catalytic/co-creative, \"team oriented, collaborative,
-  servant leadership\". Metaphor: Family.)
+  * (Leadership style: catalytic/co-creative, "team oriented, collaborative, servant leadership". Metaphor: Family.)
 
 
-  #### Teal Organizations
+  #### Turkusowe Organizacje
 
 
   Fundamental assumptions from a Teal perspective are:
 
 
-  * Human beings and organizations as living systems are full of potential
-  waiting to unfold. Building on strengths is more important than focusing on
-  weaknesses.
+  * Human beings and organizations as living systems are full of potential waiting to unfold. Building on strengths is more important than focusing on weaknesses.
 
-  * One can ***trust*** ***the abundance of life.*** People and organizations
-  who share the same life serving goals are allies rather than competitors.
+  * One can ***trust*** ***the abundance of life.*** People and organizations who share the same life serving goals are allies rather than competitors.
 
-  * All of life is intrinsically interconnected. As humans and individuals, we
-  share a place in the grand scheme of life. Having equal human value is
-  self-evident, and does not require struggle or sameness in form or expression.
+  * All of life is intrinsically interconnected. As humans and individuals, we share a place in the grand scheme of life. Having equal human value is self-evident, and does not require struggle or sameness in form or expression.
 
-  * The goal of life is ***becoming the truest expression of oneself***, to
-  honor one's birthright and callings, and to be of service to humanity and the
-  world. Your contribution is developing your own unique strengths and
-  expressions, and then leading life's joy through that into this world, thereby
-  playing your tune in the symphony of life.
+  * The goal of life is ***becoming the truest expression of oneself***, to honor one's birthright and callings, and to be of service to humanity and the world. Your contribution is developing your own unique strengths and expressions, and then leading life's joy through that into this world, thereby playing your tune in the symphony of life.
 
-  * One is not one's Ego. \"Don’t let the need to look good, to be successful,
-  to fit in,… run your life.\"
+  * One is not one's Ego. "Don’t let the need to look good, to be successful, to fit in,… run your life."
 
-  * If one keeps the channel open, one can listen into the life that wants to
-  be lived through oneself – or the purpose that wants to be served by the
-  organization. Life does not need to be coerced. All we have to do is tune into
-  what life wants to express or create and life will provide for itself what is
-  needed. Sense and respond, rather than plan and control.
+  * If one keeps the channel open, one can listen into the life that wants to be lived through oneself – or the purpose that wants to be served by the organization. Life does not need to be coerced. All we have to do is tune into what life wants to express or create and life will provide for itself what is needed. Sense and respond, rather than plan and control.
 
-  * Even if something unexpected or mistakes happen, things will turn out all
-  right. If they don’t, life is offering an opportunity to learn and grow. Let
-  go of fear.
+  * Even if something unexpected or mistakes happen, things will turn out all right. If they don’t, life is offering an opportunity to learn and grow. Let go of fear.
 
-  * A good decision is a decision that is in line with one's inner compass –
-  it is not only based on facts and figures, but includes emotions and
-  intuition.
+  * A good decision is a decision that is in line with one's inner compass – it is not only based on facts and figures, but includes emotions and intuition.
 
-  * (Leadership style: co-creative/synergistic, \"deeply empathetic, systemic,
-  holding space for the purpose\". Metaphor: Living System / Living Organism)."
+  * (Leadership style: co-creative/synergistic, "deeply empathetic, systemic, holding space for the purpose". Metaphor: Living System / Living Organism).
 inPractice: >-
   Many of us hold deeply ingrained assumptions about people and work that are
   based on fear, assumptions that call for hierarchy and control. Teal
