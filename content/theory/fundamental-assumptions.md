@@ -39,7 +39,7 @@ perspective: >-
   * Ludzie, którzy nie są częścią „wewnętrznego kręgu”, są po to, by ich użyć. Lepiej się bać niż być kochanym.
 
 
-  (Leadership style: predatory, Metaphor: Wolf Pack)
+  (Styl przywództwa: drapieżny, Metafora: wilcza wataha)
 
 
   #### Bursztynowe Organizacje
