@@ -96,59 +96,27 @@ inPractice: >-
 
   * 所有的培训计划或研讨会
 faq:
-  - question: How can ground rules for a safe space be established? What is the role
-      of the founder or "CEO" in the process?
-    answer: "As a founder or leader of the organization, you might be the main (or
-      perhaps even only) person to sense that creating safe space is critical.
-      Can you \"impose\" the creating of safe space? How could you involve
-      others in writing down a set of ground rules, if you are the only one that
-      sees the need? \r
-
-      \r
-
-      The best way to establish a set of ground rules is to involve as
-      many people as possible in the organization. How can that be done? Being
-      in a space where we feel truly safe is a liberating feeling, but that
-      unfortunately, many people (and therefore many of your colleagues) might
-      never have experienced in the workplace. And yet, it is something we all
-      long for, and that in some small way we have all experienced at some
-      point. Large group processes, such as Appreciative Inquiry, for instance,
-      can be great catalysts to bring people to reflect on and acknowledge the
-      importance of feeling safe, and to collectively develop a set of ground
-      rules. \r
-
-      \r
-
-      Using the Appreciative Inquiry framework as an example (but other
-      large group processes could be used too), you could invite the entire
-      organization (small or large, or subsections of the organization):\r
-
-      \r
-
-      * to inquire, in a deep reflection in paired interviews, into
-      moments (for instance in a conversation with a friend of family member)
-      where they have felt safe enough to show up whole. What did it feel like?
-      What were the necessary conditions?\r
-
-      * participants then share some of the stories and insights into a
-      broader circle (which itself is one that role models safe space), and
-      commonly establish some of the necessary conditions that were present.\r
-
-      * from those necessary conditions, participants to self-organize
-      into groups that craft a document which establishes the ground rules\r
-
-      * as a last step, participants to jointly define the recurring
-      moments during the year where the ground rules will be affirmed and
-      role-modeled by a facilitator. \r
+  - question: 如何建立安全空间的基本规则？创始人或“CEO”在这个过程中扮演什么角色？
+    answer: >-
+      组织的创始人或领导者，可能感觉到创造安全空间非常重要，是知道这个重要性的主要甚至是唯一的人。那么，创始人是否能“强制”的打造安全空间呢？如果创始人是唯一感觉到这个需要的人，如何才能诱导大家写下一套基本规则呢？
 
 
-      The role you can play as founder or CEO is to be the initiator and
-      convener, possibly the one choosing an external facilitator that might
-      hold the space for the process of Appreciative Inquiry or the methodology
-      you'll have chosen. In the invitation to the group, you can speak
-      powerfully to why you believe this is important. Once in the group
-      process, you can relax and become one voice among the many contributing to
-      establish the ground rules. "
+      建立安心空间基本规则的最佳方法，是让组织中尽可能多的成员参与打造。身处一个让我们感到真正安全的空间，能得到一种解放的感觉，但不幸的是，许多人（当然包括你的许多同事）可能从未在工作中经历过这样的职场。然而，这是我们所有人都渴望的东西，并且都在某些细微的人生场景中体验过这种安心感。具体做法可以是：通过全员讨论，基于赞赏感激的问答等方法，催化诱导成员进行反思，承认职场安全感的重要性，并共同制定一套基本规则。
+
+
+      基于赞赏感激的问答
+
+
+      * 第一步，邀请整个组织（或组织的一部分）参加讨论。通过配对访谈进行深度反思，询问每个成员：什么样的场景能让他/她感到安全安心，能勇敢展示自己的完整人性（例如在与信任的家人或朋友谈话时）。当时是什么感觉？出现这种感觉的必要条件是什么？
+
+      * 第二步，请参与者将这些故事和见解分享到一个更广泛的圈子（这个圈子本身就是安全空间的模板），并据此建立一些用于打造安心空间的必要条件（内容）。
+
+      * 第三步，参与者可以自行组织成小组，根据这些必要条件起草一份文件，确立安心职场的基本规则。
+
+      * 最后一步，在其后一年中，由参与者共同定义一些重要场景（确认推广会），主持人反复确认这些基本规则，并推广榜样案例。
+
+
+      创始人或首席执行官扮演的角色是打造安心空间规则的发起人和召集人，通常选人一位外部支持人负责推进基于赞赏感激的问答或同类措施。在小组讨论中，创始人可以有力地强调为什么你认为这很重要。这个打造流程一旦进入了小组流程，创始人就可以放松下来，作为打造基本规则的参与者之一参与活动。
 relatedTheory:
   - wholeness
   - Team and Community Building
