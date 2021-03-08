@@ -45,28 +45,29 @@ perspective: >-
   #### Bursztynowe Organizacje
 
 
-  Fundamental assumptions from an [Amber perspective](../amber-paradigm-and-organizations/) are:
+  Podstawowymi założeniami z [Bursztynowej perspektywy](../amber-paradigm-and-organizations/) są:
 
 
-  * The world is (or should be) immutable, comprehensible and controllable. What worked in the past will work in the future. ***Stability (safety) and loyalty*** are essential. Change is to be viewed with suspicion. Leaving the organization is the last option.
+  * Świat jest (lub powinien być) niezmienny, zrozumiały i kontrolowalny. To, co działało w przeszłości, będzie działać w przyszłości.  ***Stabilność (bezpieczeństwo) i lojalność***  są niezbędne. Na zmianę należy patrzeć z podejrzliwością. Opuszczenie organizacji to ostatnia opcja.
 
-  * Things are either right or wrong. There is always an institutional authority to be obeyed: rules, procedures, etc. Personal opinions are not relevant. Guilt is inescapable, when being in the wrong.
+  * Rzeczy są dobre lub złe. Zawsze istnieje instytucyjne zasady, której należy przestrzegać: przepisy, procedury itp. Osobiste opinie nie mają znaczenia. Poczucie winy jest nieuniknione, gdy jest się w błędzie.
 
-  * You follow the rules and the expectations that society has on you, even if it means wearing a social mask of virtue. Self-control is highly valued.
+  * Przestrzegasz zasad i oczekiwań, jakie ma wobec ciebie społeczność, nawet jeśli oznacza to noszenie społecznej maski cnoty. Samokontrola jest wysoko ceniona.
 
-  * People are mostly lazy, dishonest, unintelligent and in need of direction. They must be supervised and told what is expected from them. Thus there must be a clear chain of command, formal processes, and clear cut rules that stipulate who can do what.
+  * Ludzie są przeważnie leniwi, nieuczciwi, nieinteligentni i potrzebują wskazówek. Należy ich pilnować i mówić, czego się od nich oczekuje. Dlatego musi istnieć jasny łańcuch dowodzenia, formalne procesy i jasne zasady określające, kto może co robić.
 
-  * Everyone is replaceable by someone who can take over the same role in the process. Innovation, critical thinking and self-expression are not needed. Information is to be shared on a need-to-know basis.
+  * Każdego można zastąpić kimś, kto może przejąć tę samą rolę w procesie. Innowacja, krytyczne myślenie i wyrażanie siebie nie są potrzebne. Informacje mają być udostępniane na zasadzie ograniczonego dostępu.
 
-  * Success means performing your role in the organization in a perfect way ("You *are* your job and your place in society is more or less clear from birth.")
-
-  * (Leadership style: authoritarian - paternalistic. Metaphor: Army.)
+  * Sukces oznacza perfekcyjne wypełnianie swojej roli w organizacji („Ty  *jesteś*  swoją pracą i Twoje miejsce w społeczeństwie jest mniej więcej jasne od urodzenia”).
 
 
-  #### Pomarańczowej Organizacje
+  (Styl przywództwa: autorytarny - paternalistyczny. Metafora: armia.)
 
 
-  Fundamental assumptions from an [Orange perspective](../orange-paradigm-and-organizations/) are:
+  #### Pomarańczowe Organizacje
+
+
+  Podstawowymi założeniami z [Pomarańczowej perspektywy](../orange-paradigm-and-organizations/) są:
 
 
   * The world is full of possibilities and challenges waiting to be discovered and taken up. If one is smart and works hard enough, all the benefits of high status can be had. If one does not make it, it is one's own fault.
@@ -91,7 +92,7 @@ perspective: >-
   #### Zielone Organizacje
 
 
-  Fundamental assumptions from a [Green perspective ](../green-paradigm-and-organizations/)are:
+  Podstawowymi założeniami z [Zielonej perspektywy ](../green-paradigm-and-organizations/)są:
 
 
   * Materialistic obsession, social inequality and loss of community are bad. Relationships are more important than outcomes. What is essential is ***belonging and harmony***.
@@ -110,7 +111,7 @@ perspective: >-
   #### Turkusowe Organizacje
 
 
-  Fundamental assumptions from a Teal perspective are:
+  Podstawowymi założeniami z Turkusowej perspektywy są:
 
 
   * Human beings and organizations as living systems are full of potential waiting to unfold. Building on strengths is more important than focusing on weaknesses.
