@@ -1,8 +1,8 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
 name: Sun Hydraulics
+date: 2020-11-09
 introduction: >-
   From its own website [Sun Hydraulics](https://www.sunhydraulics.com/about) is
   a leading designer and manufacturer of high-performance screw-in hydraulic
@@ -46,12 +46,13 @@ theory:
 
       Why such a long induction? People at Sun Hydraulics believe it’s critical to build relationships with other employees across the company to understand it from all angles. A self-managing environment provides opportunity to make things happen, to freely reach out to colleagues, to discuss change without going through a hierarchy of approvals. The more people you know, the more you understand the whole, the more you’ll be able to come up with new ideas and turn them into reality. At Sun Hydraulics, it is not unusual that after the manufacturing tour, new hires end up taking up a role that wasn’t the one they were hired for. They stumble upon a new interest or some urgent need and end up in a different place.
   - topic: Training and Coaching
-    title: "At Sun Hydraulics, all new hires start with a “manufacturing tour,” no
-      matter what their future role will be; they learn to operate not just one,
-      but several work stations. For hourly employees, the tour lasts for two to
-      four weeks, and they work in four to six different areas. For salaried
-      employees, it takes even longer: one to four months on the shop floor.
-      Only then do they take on the roles they were hired for."
+    title: 'AEn Sun Hydraulics, todas las nuevas contrataciones comienzan con una
+      "gira de fabricación", sin importar cuál sea su papel futuro; Aprenden a
+      operar no sólo una, sino varias estaciones de trabajo. Para los empleados
+      por hora, el viaje dura de dos a cuatro semanas, y trabajan en cuatro a
+      seis áreas diferentes. Para los asalariados, se tarda aún más: de uno a
+      cuatro meses en el taller. Sólo entonces asumen los papeles para los que
+      fueron contratados.'
     content: Why such a long induction? People at Sun believe it’s critical to build
       relationships with other employees across the company to understand it
       from all angles. A self-managing environment provides opportunity to make
