@@ -1,8 +1,8 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
-name: RHD (Resources for Human Development)
+name: Recursos para el Desarrollo Humano (RHD)
+date: 2020-11-09
 introduction: RHD has developed over the years a beautiful and precisely worded
   Bill of Rights and Responsibilities for Employees and Consumers.
 industry: S. Other service activities
@@ -39,62 +39,33 @@ theory:
     title: Clear ground rules have been written to create a safe environment and
       constructively managing conflict and anger within the context of
       self-managing teams.
-    content: "Each of RHD’s programs is run by a self-managing team, with an average
-      of 20 and at most 50 people. Units, as these teams are called, are
-      encouraged to develop their own sense of purpose, pride, and identity.
-      Units are responsible for their entire operation. Central staff at
-      headquarters is kept to a minimum. Specialist staff can counsel teams, but
-      the final decision is kept in the unit. At RHD, teams have a team leader
-      (called “Unit Director”). Unit Directors have no power to impose decisions
-      and cannot unilaterally hire or fire anybody.\r
+    content: >-
+      <!--StartFragment-->
 
-      \r
 
-      RHD is explicitly founded on a number of basic assumptions about
-      people and work, including that: 1) all people are of equal human worth,
-      2) people are essentially good unless proven otherwise, and 3) there is no
-      single way to manage corporate issues well.\r
+      Servicios sociales - Estados Unidos - 4.000 personas - Sin fines de lucro
 
-      \r
 
-      RHD has developed a Bill of Rights and Responsibilities for
-      Employees and Consumers. The first two articles spell out RHD’s objective
-      of creating a safe environment and constructively managing conflict and
-      anger. The organisation has identified several basic assumptions, which
-      guide operations. One is that there are multiple “right” ways or paths we
-      can follow in making decisions. Thus there is no one “true” or “absolute”
-      reality. Each person in a situation holds his/her own view of reality and
-      his/her own perspective about the most effective way to do things. Whilst
-      conflict and difference (or disagreement) are to be expected, explosive or
-      otherwise hostile expressions of anger are not acceptable in RHD. As a
-      member of the RHD community, it is important to be able to do two things:
-      a) Separate from our own need to be “right” in order to hear and respect
-      others’ realities and perspectives: and, b) Differentiate between thoughts
-      (what’s going on inside your head) and behaviors (what you do or say).\r
+      Se han escrito reglas básicas claras para crear un ambiente seguro y manejar de manera constructiva el conflicto y la ira dentro del contexto de los equipos autogestionados.\
 
-      \r
+      \
 
-      The document goes on to spell out in detail five unacceptable
-      expressions of hostility. The first, “demeaning speech and behavior”, is
-      described in the following terms: Demeaning speech and behavior involves
-      any verbal or nonverbal behavior that someone experiences as undermining
-      of that person’s self-esteem and implies that he/she is less than worthy
-      as a human being. Such behaviors include, but are not limited to,
-      name-calling, ridicule, sarcasm, or other actions which “put down” people.
-      Demeaning a person with such physical behaviors as rolling one’s eyes when
-      the person speaks or otherwise negating her importance as a member of the
-      community is also unacceptable. Anyone encountering such hostile behavior
-      has the right and responsibility to surface it as an issue. Other
-      expressions of hostility include ”negative triangulated messages”, “threat
-      of abandonment”, “disconfirming the other person’s reality” and
-      “intimidation/explosion” are defined in an equally precise manner.\r
+      Cada uno de los programas de RHD está dirigido por un equipo autogestionado, con un promedio de 20 y un máximo de 50 personas. Las unidades, como se llama a estos equipos, se les anima a desarrollar su propio sentido de propósito, orgullo e identidad. Las unidades son responsables de toda su operación. El personal central de la sede se mantiene al mínimo. El personal especializado puede asesorar a los equipos, pero la decisión final se mantiene en la unidad. En RHD, los equipos tienen un líder de equipo (llamado "Director de la Unidad"). Los Directores de Unidad no tienen poder para imponer decisiones y no pueden contratar o despedir unilateralmente a nadie.
 
-      \r
 
-      “Above” the teams, there are no middle managers, but rather hub
-      leaders who support a number of units. Hub leaders expect to be kept
-      informed of major existing or potential problems. While they may advise or
-      help, the responsibility for resolving problems stays with the unit."
+      RHD se basa explícitamente en una serie de supuestos básicos sobre la gente y el trabajo, incluyendo que: 1) todas las personas son de igual valor humano, 2) las personas son esencialmente buenas a menos que se demuestre lo contrario, y 3) no hay una sola manera de gestionar las cuestiones corporativas bien.
+
+
+      RHD ha desarrollado una Carta de Derechos y Responsabilidades para Empleados y Consumidores. Los dos primeros artículos explican el objetivo de RHD de crear un ambiente seguro y manejar de manera constructiva el conflicto y la ira. La organización ha identificado varios supuestos básicos, que guían las operaciones. Una es que hay múltiples caminos "correctos" o caminos que podemos seguir para tomar decisiones. Por lo tanto, no hay una realidad "verdadera" o "absoluta". Cada persona en una situación tiene su propia visión de la realidad y su propia perspectiva sobre la forma más eficaz de hacer las cosas. Mientras que el conflicto y la diferencia (o el desacuerdo) es algo normal que debemos esperar, las expresiones explosivas o hostiles de la cólera no son aceptables en RHD. Como miembro de la comunidad RHD, es importante ser capaz de hacer dos cosas: a) Separarse de nuestra propia necesidad de tener “la razón” para oír y respetar las realidades y perspectivas de los demás; y, b) Diferenciar entre los pensamientos (Lo que está pasando dentro de su cabeza) y comportamientos (lo que usted hace o dice).
+
+
+      El documento continúa detallando cinco expresiones inaceptables de hostilidad. El primero, “discurso y comportamiento humillante", se describe en los siguientes términos: El discurso y la conducta de descalificación implican cualquier comportamiento verbal o no verbal que alguien haga y que socave la autoestima de otra persona e implique que él / ella es menos que valioso como ser humano. Tales comportamientos incluyen, pero no se limitan a, poner sobrenombres, ridiculizar, sarcasmo u otras acciones que "derriban" a la gente. Descalificar a una persona con tales comportamientos físicos como entornar sus ojos cuando la persona habla o negando de otra manera su importancia como miembro de la comunidad es también inaceptable. Cualquier persona que encuentre tal comportamiento hostil tiene el derecho y la responsabilidad de exponerlo como un problema. Otras expresiones de hostilidad incluyen "mensajes negativos triangulados", "amenaza de abandono", "descalificar la realidad de la otra persona" e "intimidación / explosión" se definen de manera igualmente precisa.
+
+
+      "Por encima" de los equipos, no hay gerentes de nivel intermedio, sino líderes de hubs que apoyan un número de unidades. Los líderes del centro esperan ser informados de los principales problemas existentes o potenciales. Aunque ellos pueden aconsejar o ayudar, la responsabilidad de resolver problemas permanece en el equipo de colaboradoes.
+
+
+      <!--EndFragment-->
   - topic: Recruitment
     title: Human Services - United States - 4,000 employees - Nonprofit  At RHD, the
       HR service is responsible for providing training, support and education of
@@ -177,7 +148,6 @@ theory:
       2. People are essentially good, unless proven otherwise.
 
       3. There is no single way to manage corporate issues well.
-
   - topic: wholeness
     title: An organizational Bill of Rights
     content: >-
