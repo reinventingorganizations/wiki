@@ -105,21 +105,15 @@ theory:
       social and environmental performance, public transparency and legal
       accountability.”^[<https://www.bcorporation.net/what-are-b-corps/about-b-lab>]
   - topic: wholeness
-    title: Children in Meetings
-    content: "At its headquarters in Ventura, California, Patagonia hosts a Child
-      Development Center for employees’ children, from a few months up to
-      kindergarten age. Children’s laughter and chatter are among the regular
-      sounds at the office, coming from the playground outside, from children
-      visiting their parents’ desks, or from kids joining parents and colleagues
-      for lunch at the cafeteria. It is not uncommon to see a mother nursing her
-      child during a meeting. Relationships change subtly but profoundly when
-      people see each other not only as colleagues, but also as people capable
-      of the profound love and care young children inspire. When colleagues have
-      just played with a baby over lunch, it’s that much harder to fly at each
-      other’s throats when they sit in a meeting.^[Laloux, Frederic
-      (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations
-      Inspired by the Next Stage of Human Consciousness (Kindle Locations
-      3191-3196). Nelson Parker. Kindle Edition.]"
+    title: Niños en las reuniones
+    content: >-
+      <!--StartFragment-->
+
+
+      En su oficina central en Ventura, California, la empresa alberga un centro de desarrollo infantil para los hijos de los empleados, desde unos pocos meses de edad hasta que pueden Ir al jardín de Infancia. En la oficina, la risa y parloteo de los niños son sonidos comunes que provienen del patio exterior de juegos, de los niños que visitan los escritorios de sus padres o de niños que almuerzan en la cafetería con padres y compañeros. Es habitual ver a una madre amamantando a su hijo durante una reunión. Las relaciones cambian de manera sutil pero profunda cuando las personas se ven no sólo como colegas, sino como seres capaces del amor profundo y de los cuidados que inspiran los niños pequeños. Cuando los compañeros terminan de jugar con un bebé durante el almuerzo, es mucho más difícil mostrarse agresivo durante una reunión.(18)
+
+
+      <!--EndFragment-->
   - topic: Evolutionary Purpose
     content: >-
       Yvon Chouinard, the founder and owner of Patagonia, didn’t set out to
