@@ -191,24 +191,18 @@ theory:
 
       <!--EndFragment-->
   - topic: Environmental and Social Management
-    title: At Buurtzorg, social initiatives emerge from the interaction with the
-      communities they serve.
-    content: "One example is the creation of a unit called “Buurtdienst”
-      (“neighborhood services”), which helps people like Alzheimer’s patients to
-      handle domestic chores. Working with the same structure of small,
-      self-organizing teams as in the nursing division, this project has grown
-      to 750 employees in two years.\r
+    title: En Buurtzorg, las iniciativas sociales surgen de la interacción con las
+      comunidades a las que sirven.
+    content: >-
+      <!--StartFragment-->
 
-      \r
 
-      The organization was also approached by youth workers. In 2012, the
-      first two teams of “Buurtzorg Jong” (“Buurtzorg Young”) started working
-      with neglected or delinquent children. Social workers, educators and
-      nurses work together with children and their families in their homes, and
-      in collaboration with police, schools, and family doctors. They hope to
-      overcome the fragmented and costly way that social services are
-      traditionally delivered ^[Source: Laloux, Frederic. Reinventing
-      Organizations. Nelson Parker (2014), page 207]"
+      Un ejemplo es la creación de una unidad llamada "Buurtdienst" (“servicios vecinales de barrio"), que ayuda a las personas como los pacientes de Alzheimer a manejar las tareas domésticas. Trabajando con la misma estructura de equipos pequeños y auto-organizados que en la división de Enfermería, este proyecto ha crecido a 750 empleados en dos años.\
+
+      La organización también fue abordada por trabajadores juveniles. En 2012, los dos primeros equipos de "Buurtzorg Jong" ("Buurtzorg Young") comenzaron a trabajar con niños descuidados o delincuentes. Trabajadores sociales, educadores y enfermeras trabajan juntos con los niños y sus familias en sus hogares y en colaboración con la policía, las escuelas y los médicos de familia. Esperan superar la fragmentada y costosa manera en que los servicios sociales son tradicionalmente entregados \[4].
+
+
+      <!--EndFragment-->
   - topic: Training and Coaching
     title: AEn Buurtzorg, todas las enfermeras son entrenadas en "Intervisie", una
       técnica de coaching que se originó en los Países Bajos.
