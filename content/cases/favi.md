@@ -149,11 +149,12 @@ theory:
 
       [FAVI](http://www.favi.com/)’s onboarding process ends on a nice touch. New teammates who have gone through all the training modules of the first two months are asked to write an open letter to the group of colleagues they have joined. There are no instructions on what the letter should be about, so new hires often dig deep in their selfhood to find something worthwhile to say. The letters are, time and again, deeply touching accounts of gratitude and joy. Many blue-collar workers join [FAVI](http://www.favi.com/) scarred from past experience of mistrust and command and control. Joining an environment where they are considered trustworthy and where their voice counts is often a groundbreaking experience. For many machine operators, writing is not their preferred style of expression. Finding the right words for the letter can take a lot of effort, and the practice is akin to a ritual, a rite of passage into the community.
   - topic: Training and Coaching
-    title: At FAVI, all engineers and administrative workers have been trained to
-      operate at least one machine on the shop floor. This training is put to
-      good use when orders must be rushed out. All hands are called on deck.
-      White-collar workers come from their office space to man the machines for
-      a few hours.
+    title: En FAVI, todos los ingenieros y trabajadores administrativos han sido
+      entrenados para operar al menos una máquina en la planta. Esta formación
+      se pone a buen uso cuando las órdenes deben ser apresuradas. Todas las
+      manos son llamadas en la cubierta. Los trabajadores de cuello blanco
+      vienen de su espacio de oficinas para manejar las máquinas durante unas
+      horas.
     content: "It’s a wonderful community-building practice. People from engineering
       and administration work under the guidance of the machine operators. They
       see first-hand how hard this work can be, and how much skill it requires.
