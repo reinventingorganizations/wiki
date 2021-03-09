@@ -71,21 +71,26 @@ theory:
       In Patagonia hire is made slowly with interview from peers, as much as possible from withiɳ.
   - topic: Environmental and Social Management
     content: >-
-      [Patagonia ](http://www.patagonia.com/)embraced reduction of their
-      environmental foot-print ― even at the risk of negative impact to the
-      bottom line. Yvon Chouinard, Patagonia’s founder, gives this example:
+      <!--StartFragment-->
 
 
-      "In the mid-nineties, we decided to change the packaging of our thermal underwear. We were using a thick, wraparound cardboard header inside a heavy Ziploc plastic bag... For the heavier-weight expedition underwear, we decided to go without any packaging at all and hang them up like regular clothing... For the underwear made of lighter-weight material, we just rolled them up and put a rubber band around them. We were warned to be prepared for a 30 percent cut in sales... we were competing with companies...extremely competitive with their packaging... We did it anyway because it was the right thing to do. The first year this practice kept twelve tons of material from being shipped around the world... and being dumped into landfills... it saved the company $150,000 in unnecessary packaging... (and) brought us a 25 percent increase in thermal underwear sales. Since they weren’t hidden away in a package and had to be displayed like the regular clothing, people could feel the material and appreciate the quality. And since they were displayed like the other clothes, we were forced to make our underwear look like regular clothing, to the point that now most Capilene underwear tops can be worn as a regular shirt, fulfilling our goal of making clothes that are multifunctional."
+      [Patagonia](http://www.patagonia.com/es_US) abrazó la reducción de su huella ambiental - asumiendo incluso el riesgo que pudiera tener este impacto en el renglón de las utilidades. Yvon Chouinard, fundador de la Patagonia, da este ejemplo:\
+
+      A mediados de los años noventa, decidimos cambiar el embalaje de nuestra ropa interior térmica. Estábamos utilizando un cartón grueso dentro de una pesada bolsa Ziploc. Para no utilizar este embalaje en la ropa interior más gruesa, decidimos probar colgándola como la ropa común. La ropa interior más ligera simplemente la enrollamos y la atamos con una banda elástica. Nos advirtieron que debíamos prepararnos para una reducción de un 30% de las ventas, porque nuestros rivales eran empresas extremadamente competitivas en sus embalajes. Por ejemplo, un competidor ofrecía su producto en adorables latas selladas. Pero lo hicimos, porque era lo correcto. El primer año, esta práctica evitó el envío de doce toneladas de material por todo el mundo (para luego terminar desechándose en vertederos) y permitió a la empresa ahorrar 150.000 dólares en embalaje innecesario. También aumentaron las ventas de ropa interior térmica en un 25%. Como las prendas no estaban escondidas en un paquete y se exhibían como ropa común, las personas pudieron sentir el material y apreciar la calidad. Y como estaban a la vista, al igual que otros tipos de ropa, nos vimos forzados a hacer que nuestras prendas se vieran como ropa común y corriente, hasta tal punto que ahora la mayoría de las camisetas de capileno se pueden usar como camisetas corrientes, con lo que alcanzamos nuestro objetivo de ofrecer ropa multifuncional.\
+
+      \
+
+      Lo más impresionante es que en el verano de 1994 [Patagonia](http://www.patagonia.com/es_US) decidió reemplazar todo el algodón de cultivo convencional por algodón orgánico antes de la primavera de 1996; una decisión con un plazo extremadamente corto y con implicaciones de largo alcance. La materia prima cuesta el triple y la línea de productos de algodón se redujo de 91 estilos a 66. El riesgo era enorme. Sin embargo, Patagonia creyó que no tenía alternativa una vez que se dio cuenta del daño que la industria del algodón ocasiona: los campos de algodón, que cubren apenas el 3% de las tierras cultivables del mundo, eran responsables de un 10% de los pesticidas y de un 25% de los insecticidas utilizados en todo el mundo. Contra toda expectativa, el programa de algodón orgánico de Patagonia resultó ser financieramente productivo. Y, lo que es más importante, convenció a otras empresas de la industria de imitar el ejemplo.\
+
+      \
+
+      Cuando la empresa trasladó su almacén de California a Nevada, muchos colegas también se mudaron. Algunos colaboradores advirtieron que Nevada cuenta con grandes campos y terrenos federales, pero sólo una pequeña parte de su vida silvestre está bajo control o protegida. Cuatro colaboradores tomaron la iniciativa. Obtuvieron el apoyo de los líderes de la empresa en forma de salarios e instalaciones. Ellos construyeron una amplia coalición, fueron a Washington, y presionaron. Como resultado, 1,2 millones de acres de selva fueron protegidos \[1].
 
 
-      Most strikingly, [Patagonia ](http://www.patagonia.com/)resolved in the summer of 1994 to replace all conventionally grown cotton with organic cotton... The raw material cost three times more, and the cotton product line was reduced from 91 styles to 66. It was a big risk. And yet Patagonia felt there was no alternative... cotton fields that covered only three percent of the world’s farmland were responsible for 10 percent of the worldwide use of pesticide and 25 percent of the use of insecticides. Against all expectations, Patagonia’s organic cotton program turned out to be financially beneficial. More importantly, it has convinced others in the industry to follow suit.
-
-
-      When the company moved its warehouse from California to Nevada, many colleagues moved too. Some realized that Nevada has lots of wild country and federal land, but very little of it was protected as wilderness. Four employees took the initiative. They got support from company leaders in the form of salries and facilities. They built a broad coalition, went to Washington, and lobbied. As a result, 1.2 million acres of wilderness were protected. ^\[Source: Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), pages 160-172]
-    title: Environmental and social initiatives can start anywhere in the
-      organization. To their surprise, they have found alignment to values may
-      not undermine financial performance―indeed, quite the contrary.
+      <!--EndFragment-->
+    title: as iniciativas ambientales y sociales pueden comenzar en cualquier parte
+      de la organización. Para su sorpresa, han encontrado que la alineación a
+      los valores no socava el rendimiento financiero, sino todo lo contrario.
   - topic: Ownership
     title: A privately held company formalizes its practices.
     content: Patagonia, the outdoor apparel maker, is 100% owned by its founder,
