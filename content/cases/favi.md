@@ -111,19 +111,18 @@ theory:
 
       Beyond that, they tend to have no regularly scheduled meetings at all. If cross-team meetings occur, it’s in response to a specific need.
   - topic: Mood Management
-    title: "FAVI had a beautiful practice of gratitude and celebration: every
-      meeting in the company started with a round where each participant in turn
-      shared a brief story of someone they had recently thanked or
-      congratulated."
-    content: "This powerful practice start of the meeting at [FAVI
-      ](http://www.favi.com/)had a telling effect on meetings: it nourished
-      moods of possibility, gratitude, celebration, and trust. Focusing on
-      others and their accomplishments shifts focus away from the personal
-      preoccupations members might have brought to the meeting. After a few
-      years, this practice started feeling staid to people at
-      [FAVI](http://www.favi.com/), and was dropped. It might show up again,
-      perhaps in another form. Such practices evolve. They should feel fresh and
-      meaningful, not formal and fixed."
+    title: "FAVI tenía una hermosa práctica de gratitud y celebración: cada reunión
+      en la empresa comienza con una ronda donde cada participante a su vez
+      comparte una breve historia de alguien a quien recientemente ha agradecido
+      o felicitado."
+    content: >-
+      <!--StartFragment-->
+
+
+      Este poderoso comienzo de la reunión en [FAVI](http://www.favi.com/) tuvo un efecto revelador en las reuniones: alimentó estados de ánimo de posibilidad, gratitud, celebración y confianza. Centrarse en los demás y en sus logros cambia el enfoque de las preocupaciones personales que los miembros podrían haber traído a la reunión. Después de unos pocos años, esta práctica comenzó a parecer aburrida a las personas en FAVI, y se abandonó. Puede aparecer de nuevo, quizás en otra forma. Tales prácticas evolucionan. Deben sentirse frescas y significativas, no formales y fijas.
+
+
+      <!--EndFragment-->
   - topic: Recruitment
     title: Uses an extended trial period, to ensure a mutual match.
     content: "[FAVI](http://www.favi.com/) made extended use of the trial period for
