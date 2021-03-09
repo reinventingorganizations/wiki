@@ -183,10 +183,7 @@ theory:
     title: Conflict is handled collaboratively within the team structure, sometimes
       with the help of a regional coach or mediator.
     content: >-
-      <!--StartFragment-->
-
-
-      Health Care - Países Bajos - 9.000 personas - Sin ánimo de lucro\
+      <!--StartFragment-->\
 
       El conflicto se maneja de forma colaborativa dentro de la estructura del equipo, a veces con la ayuda de un coach regional o un mediador.
 
