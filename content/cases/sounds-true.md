@@ -1,8 +1,8 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
 name: Sounds True
+date: 2020-11-09
 introduction: "**Sounds True** is a multimedia publishing company founded in
   1985 by Tami Simon, with the mission of disseminating spiritual wisdom. The
   company is based in Louisville, Colorado, near Boulder, Colorado."
@@ -44,54 +44,33 @@ theory:
 
       At [Sounds True](http://www.soundstrue.com/) mployees can join a 15-minute group meditation or simply sit in silence at their desk for those minutes.
   - topic: Mood Management
-    title: At Sounds True members of the organization came up with two ideas for
-      Wholeness Events. These promote a mood of fun, trust, wholeness and
-      excitement. The events called “Art Salon” and “Pajama Day”. They have
-      become annual events.
-    content: "Five years ago, a colleague at Sounds True took it upon herself to
-      organize an “Art Salon” on a Friday afternoon. Everyone was invited to
-      share an artistic passion with his or her colleagues. Walls throughout the
-      office were filled with photographs and paintings.\r
+    title: Los miembros de la organización Sound True trajeron dos ideas para los
+      acontecimientos de Plenitud. Estos promueven un estado de ánimo de
+      diversión, confianza, plenitud y emoción. Los eventos llamados "Salón de
+      Arte" y "Día de Pijama". Se han convertido en eventos anuales.
+    content: >-
+      <!--StartFragment-->
 
-      \r
 
-      A small stage was erected for performance. Some chose to sing (some
-      songs about life in the company were particular hits), others juggled or
-      danced. It was so popular that the salon became an annual event. Tami
-      Simon, the company founder, wasn’t involved in setting up the first salon,
-      but she sees that it has become an important element in the company
-      culture: \"I realized these events are saying to people, “You get to be a
-      whole person. This part of you, it may not fit to do it as part of your
-      job every day. … But the fact that you can now juggle five balls is
-      actually cool. And one Friday afternoon, we want to sit back and have a
-      glass of wine and watch you do this and acknowledge this part of you.”\r
+      Hace cinco años, una colega de Sounds True se encargó de organizar un "Salón de Arte" el viernes por la tarde. Todo el mundo fue invitado a compartir una pasión artística con sus colegas. Las paredes de toda la oficina estaban llenas de fotografías y pinturas.
 
-      \r
 
-      For reasons by now half-forgotten, someone suggested \"Pajama Day\"
-      as a celebration of the arrival of spring.  Everyone who wanted to join
-      would share breakfast at the office … in pajamas. The handful that showed
-      up had so much fun during breakfast that they decided to keep their
-      pajamas on at work the rest of the day.\r
+      Se construyó una pequeña escena para el espectáculo. Algunos optaron por cantar (algunas canciones sobre la vida en la empresa fueron éxitos particulares), otros hicieron malabares o bailaron. Se volvió tan popular que el salón se convirtió en un evento anual. Tami Simon, la fundadora de la empresa, no estuvo involucrada en la creación del primer salón, pero ve que se ha convertido en un elemento importante en la cultura de la empresa: "Me di cuenta de que estos acontecimientos están diciendo a la gente: Esta parte de ti, puede que no encaje para hacerlo como parte de tu trabajo todos los días ... Pero el hecho de que ahora puedas hacer malabares cinco pelotas es realmente genial. Y un viernes por la tarde, queremos sentarnos y tener un una copa de vino y verlo hacer esto y reconocer esta parte de ti”.
 
-      \r
 
-      Since then, the event has taken place every year. Now 90 percent of
-      the employees show up in pajamas, and a prize is given for the best
-      outfit. (A matching set of pajamas for master and dog shared the prize
-      once.)\r
+      Por razones ya olvidadas, alguien sugirió" Día de pijama "como una celebración de la llegada de la primavera.Todo el que quería unirse a compartir el desayuno en la oficina ... en pijama.Los pocos que se presentaron se divirtieron tanto durante el desayuno que decidieron usar sus pijamas en el trabajo el resto del día.
 
-      \r
 
-      It has become an event people look forward to and prepare for. In
-      its own quirky way, “Pajama Day” is a storytelling event―every pair of
-      pajamas represents a story waiting to say something about the person
-      wearing them: What made you choose that outfit?\r
+      Desde entonces, el evento ha tenido lugar todos los años. Ahora el 90 por ciento de los empleados aparecen en pijama, y un premio se da para el mejor equipo. (Hubo una vez en que el colaborador y el perro aparecieron con una pijama semejante les hizo ganar el premio).
 
-      \r
 
-      Wearing a professional mask at work is decidedly more difficult when
-      everyone strolls around in funny sleepwear."
+      Este evento se ha convertido en un acontecimiento que la gente espera y se prepara para el. En su propia manera peculiar, el "día de pijama" es un evento de storytelling - cada par de pijamas representa una historia que dice algo sobre la persona que las usa: ¿Qué hizo que usted escogieras este atuendo?
+
+
+      El usar una máscara profesional en el trabajo es decididamente más difícil cuando cada uno pasea alrededor en divertida ropa de dormir.
+
+
+      <!--EndFragment-->
   - topic: Recruitment
     title: "Tami Simon, the founder of Sounds True, tells the following story about
       its particular culture and how people may or may not fit in:"
