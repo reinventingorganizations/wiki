@@ -84,55 +84,33 @@ theory:
       Gaining Agreement”, which supports parties in finding agreement. Mediators
       may be called in for support, but they cannot impose a resolution from
       above.
-    content: "Within Morning Star, there are 23 teams (called Business Units), but
-      no management positions and no HR department. Colleagues operate entirely
-      on self-managing principles that were established early in its history .
-      When the first tomato processing factory was built, Chris Rufer and the
-      company’s first employees met to define how they wanted to work together.
-      They decided that two basic social values should inspire every management
-      practice at Morning Star: individuals should never use force against other
-      people and they should honor their commitments. These values are at the
-      heart of the company’s conflict resolution process, which is described in
-      great detail in the “Colleague Principles”. This is a core document
-      outlining Morning Star’s self-managing practices. The conflict resolution
-      process (called “Direct Communication and Gaining Agreement”), applies to
-      any type of disagreement. This could be a difference of opinion about a
-      technical decision, an interpersonal conflict or a breach of values.
-      Specifically, it can be used in performance issues when one colleague
-      believes that another is not pulling his weight.\r
+    content: >-
+      <!--StartFragment-->
 
-      \r
 
-      Whatever the topic, the process starts with one person asking
-      another to gain agreement: In a first phase, they sit together and try to
-      sort it out privately. The initiator has to make a clear request (not a
-      judgment, not a demand), and the other person has to respond clearly to
-      the request (with a “yes,” a “no,” or a counterproposal).\r
+      Cosecha, transporte y procesamiento de tomate - Estados Unidos - 400 personas - Con fines de lucro\
 
-      \r
+      \
 
-      If they can’t find a solution agreeable to both of them, they
-      nominate a colleague they both trust to act as a mediator. The colleague
-      supports the parties in finding agreement but cannot impose a
-      resolution.\r
+      Utiliza un proceso de resolución de conflictos llamado "Comunicación Directa y Obtención de Acuerdo", que apoya a las partes en la búsqueda de un acuerdo. Los mediadores pueden ser llamados para el apoyo, pero no pueden imponer una resolución de arriba.
 
-      \r
 
-      If mediation fails, a panel of topic-relevant colleagues is
-      convened. The panel’s role, again, is to listen and help shape agreement.
-      It cannot force a decision, but usually carries enough moral weight for
-      matters to come to a conclusion.\r
+      Dentro de Morning Star, hay 23 equipos (denominados Unidades de Negocio), pero no hay puestos directivos ni departamento de recursos humanos. Los colegas trabajan enteramente en principios autogestionados que se establecieron a principios de su historia. Cuando se construyó la primera fábrica de procesamiento de tomate, Chris Rufer y los primeros empleados de la empresa se reunieron para definir cómo querían trabajar juntos. Decidieron que dos valores sociales básicos deberían inspirar todas las prácticas de gestión en Morning Star: los individuos nunca deben usar la fuerza contra otras personas y deben honrar sus compromisos. Estos valores están en el centro del proceso de resolución de conflictos de la compañía, que se describe con gran detalle en “Colleague Principles”. Este es un documento básico que describe las prácticas autogestionadas de Morning Star. El proceso de resolución de conflictos (llamado "Comunicación Directa y Obtención de Acuerdo"), se aplica a cualquier tipo de desacuerdo. Esto podría ser una diferencia de opinión sobre una decisión técnica, un conflicto interpersonal o un incumplimiento de valores. Específicamente, puede ser utilizado en problemas de rendimiento cuando un colega cree que otro no está haciendo su parte.
 
-      \r
 
-      In an ultimate step, Chris Rufer, the founder and president, can be
-      called into the panel, to further reinforce the panel’s moral weight.
-      Since the disagreement is private, all parties are expected to respect
-      confidentiality during and after the processes. Of course, this
-      confidentiality also applies to the two persons at the heart of the
-      conflict. They must resolve their disagreement between themselves and are
-      discouraged from spreading the conflict by enlisting support and building
-      rival factions."
+      Cualquiera que sea el tema, el proceso comienza con una persona pidiendo a otro un acuerdo ganador: En una primera fase, se sientan juntos y tratan de resolverlo en privado. El iniciador tiene que hacer una solicitud clara (no un juicio, no una demanda), y la otra persona tiene que responder claramente a la solicitud (con un "sí", un "no" o una contrapropuesta).
+
+
+      Si no encuentran una solución aceptable para ambos, nombran a un colega en quien confían para actuar como mediadores. El colega apoya a las partes en la búsqueda de un acuerdo, pero no puede imponer una resolución.
+
+
+      Si falla la mediación, se convoca un grupo de colegas relevantes. El papel del panel, una vez más, es escuchar y ayudar a dar forma al acuerdo. No puede forzar una decisión, pero por lo general lleva suficiente peso moral para que las cosas lleguen a una conclusión.
+
+
+      En un último paso, Chris Rufer, el fundador y presidente, puede ser llamado al panel, para reforzar aún más el peso moral del panel. Dado que el desacuerdo es privado, se espera que todas las partes respeten la confidencialidad durante y después de los procesos. Por supuesto, esta confidencialidad también se aplica a las dos personas en el corazón del conflicto. Ellos deben resolver su desacuerdo entre ellos y se desalienta la propagación del conflicto mediante la obtención de apoyo y la construcción de facciones rivales.
+
+
+      <!--EndFragment-->
   - topic: Recruitment
     title: Recruitment in Morning Star is a very demanding process, generally
       including a multitude of interviews and a battery of diagnostics.
