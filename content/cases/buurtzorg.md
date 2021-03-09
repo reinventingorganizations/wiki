@@ -250,15 +250,16 @@ theory:
 
       <!--EndFragment-->
   - topic: Commitment, Working Hours and Flexibility
-    title: At Buurtzorg, the structure of small, self-managing teams helps in
-      providing flexibility.
-    content: "If a nurse wants to reduce her working hours, perhaps because she has
-      a sick parent to take care of for instance, the team will re-shuffle
-      existing clients and temporarily take in fewer new clients. The nurse will
-      discuss her other commitments with her team and together they will find a
-      solution such as temporarily taking on fewer new clients or moving the
-      care of a patient to another nurse or team if needed^[Laloux, Frederic.
-      Reinventing Organizations. Nelson Parker (2014), page 183].\r"
+    title: En Buurtzorg, la estructura de los equipos pequeños y autogestionados
+      ayuda a proporcionar flexibilidad
+    content: >-
+      <!--StartFragment-->
+
+
+      Si una enfermera quiere reducir sus horas de trabajo, tal vez porque tiene un padre enfermo para cuidar de, por ejemplo, el equipo re-distribuye los clientes existentes y temporalmente toma menos clientes nuevos. La enfermera discutirá sus otros compromisos con su equipo y juntos encontrarán una solución tal como tomar temporalmente menos clientes nuevos o mover el cuidado de un paciente a otra enfermera o equipo si es necesario \[2].
+
+
+      <!--EndFragment-->
   - topic: Job Titles and Job Descriptions
     title: Buurtzorg  is a not for profit provider of community healthcare in
       Holland, they create fluidity in roles through their 10 - 12 member self
