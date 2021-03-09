@@ -186,6 +186,11 @@ theory:
       <!--StartFragment-->
 
 
+      Health Care - Países Bajos - 9.000 personas - Sin ánimo de lucro\
+
+      El conflicto se maneja de forma colaborativa dentro de la estructura del equipo, a veces con la ayuda de un coach regional o un mediador.
+
+
       En Buurtzorg, las enfermeras trabajan en equipos de 10 a 12, cada equipo sirve alrededor de 50 pacientes en un barrio pequeño y bien definido. El equipo está a cargo de todas las tareas que, en organizaciones similares, están fragmentadas en diferentes departamentos. El entrenamiento inicial de Buurtzorg incluye técnicas para la resolución de conflictos y la [comunicación no violenta](https://en.wikipedia.org/wiki/Nonviolent_Communication) desarrollada por el Marshall Rosenberg. Los conflictos se trabajan de forma colaborativa dentro del equipo. Por ejemplo, cuando una persona ha perdido la confianza del equipo, el equipo trata de encontrar una solución mutuamente aceptable. Si eso no funciona, el grupo llama a su coach regional o a un facilitador externo para mediar. En casi todos los casos, la presencia de un mediador trae resolución. En algunos casos, la persona y el equipo deciden sobre compromisos mutuos y le dan otra oportunidad. En otros, después de alguna deliberación, la persona llega a ver que la confianza está irrevocablemente rota y entiende que es hora de irse. Si no se encuentra un acuerdo, como última oportunidad para tratar de resolver el asunto, los miembros del equipo pueden pedir a Jos de Blok, el fundador, que medie. En los casos raros, donde incluso esto falla, pueden pedirle que ponga fin al contrato de la persona (legalmente, él es el único que puede hacerlo).
 
 
