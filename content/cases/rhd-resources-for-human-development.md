@@ -85,11 +85,17 @@ theory:
   - topic: Training and Coaching
     title: RHD sponsors a coaching program that offers 10 free counseling sessions
       for employees and/or their families every year.
-    content: "No one else in the organization needs to be informed about the theme
-      of the coaching, and it must not be a professional topic. The program is
-      built on trust: if an employee is seeking support from an external coach,
-      the topic must be important enough to be worth the money the company pays
-      for it"
+    content: >-
+      <!--StartFragment-->
+
+
+      Servicios Humanos - Estados Unidos - 4,000 empleados - Sin fines de lucro [RHD](https://www.rhd.org/about-rhd/rhd-values/) patrocina un programa de entrenamiento que ofrece 10 sesiones gratuitas de consejería para los empleados y / o sus familias cada año.
+
+
+      Nadie más en la organización necesita ser informado sobre el tema del coaching, y no debe ser un tema profesional. El programa se basa en la confianza: si un empleado está buscando el apoyo de un entrenador externo, el tema debe ser lo suficientemente importante como para valer el dinero que la empresa paga por ello.
+
+
+      <!--EndFragment-->
   - topic: Job Titles and Job Descriptions
     title: RHD consciously does not use job descriptions
     content: >-
