@@ -43,9 +43,6 @@ theory:
       <!--StartFragment-->
 
 
-      Servicios sociales - Estados Unidos - 4.000 personas - Sin fines de lucro
-
-
       Se han escrito reglas básicas claras para crear un ambiente seguro y manejar de manera constructiva el conflicto y la ira dentro del contexto de los equipos autogestionados.\
 
       \
