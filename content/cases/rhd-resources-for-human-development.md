@@ -36,9 +36,9 @@ theory:
       and managing hostility, decisions making, managing differences and open
       communications.
   - topic: Conflict resolution
-    title: Clear ground rules have been written to create a safe environment and
-      constructively managing conflict and anger within the context of
-      self-managing teams.
+    title: Se han escrito reglas básicas claras para crear un ambiente seguro y
+      manejar de manera constructiva el conflicto y la ira dentro del contexto
+      de los equipos autogestionados.
     content: >-
       <!--StartFragment-->
 
