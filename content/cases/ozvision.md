@@ -1,8 +1,8 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
 name: Ozvision
+date: 2020-11-09
 introduction: Ozvision has experimented with innovative approaches. One is the
   morning meeting called 'good or new'.
 industry: R. Arts, entertainment and recreation
@@ -19,21 +19,23 @@ theory:
 
       Every morning people gather their teams for ‘good or new’--a sort of check-in for the day. A doll is passed around, like a talking stick. The holder can share either something new (news from work, the papers, or their private lives), or something good, or simply a story they want their colleagues to know about, work-related or not.
   - topic: Mood Management
-    title: This internet company has experimented a lot with innovative approaches
-      on mood management. Two such practices involve story-telling.
+    title: Esta empresa de Internet ha experimentado mucho con enfoques innovadores
+      sobre la gestión del estado de ánimo. Dos de estas prácticas implican
+      contar historias.
     content: >-
-      In the first, teams gather each morning for a quick meeting called “good
-      or new”. It's a kind of check-in for the day. A doll is passed round, like
-      a talking stick, and whoever has it shares either something new (news from
-      work, the press, or their private lives), or something good (simply a
-      story they want their colleagues to know about, work-related or not).
+      <!--StartFragment-->
 
 
-      Thus each day starts with a brief, joyful moment: a sort of ritual that says, “Let’s acknowledge that we are all here, as colleagues and as human beings.”
+      En la primera, los equipos se reúnen cada mañana para una reunión rápida llamada "buena o nueva". Es un tipo de registro para el día. Se pasa una muñeca redonda, como un bastón parlante, y quien la tiene comparte algo nuevo (noticias del trabajo, la prensa o sus vidas privadas), o algo bueno (simplemente una historia que quieren que sus colegas sepan, Relacionados o no con el trabajo).\
+
+      Así, cada día comienza con un momento breve y alegre: una especie de ritual que dice: "Reconozcamos que todos estamos aquí, como colegas y como seres humanos".
 
 
-      The second story-telling practice is based on the right of everyone to take an extra day off each year. It's called a "day of thanking". The employee gets $200 from company funds to spend in any way she wants, as long as it is to thank someone special. It might be a colleague, parent, friend, neighbor, or long-lost but not-forgotten school teacher. The only rule is that once she returns to work, she must share the story of what she gave and to whom and how the gift was received.
+      La segunda práctica de contar historias se basa en el derecho de todos a tomar un día de descanso extra cada año. Se llama un "día de agradecimiento". El empleado recibe $ 200 de los fondos de la empresa para gastar de la manera que quiera, siempre y cuando sea para agradecer a alguien especial. Podría ser un colega, padre, amigo, vecino, o maestro de escuela perdido desde hace mucho tiempo pero no olvidado. La única regla es que una vez que ella vuelva al trabajo, ella debe compartir la historia de lo que ella dio, a quién y cómo el regalo fue recibido.
 
 
-      At [Ozvision](http://ozvision.com/), with 40 employees, colleagues there hear three or four such stories every month. These are often deeply personal stories where colleagues are willing to share three steps in their experience―when the seed for gratitude was planted, how the person was thanked, and how their gift was received.
+      En [Ozvision](http://www.ozvision.com/), con 40 empleados, sus colegas escuchan tres o cuatro historias semejantes cada mes. Estas son a menudo profundamente personales historias donde los colegas están dispuestos a compartir tres pasos en su experiencia- cuando la semilla de gratitud fue plantada, cómo se le dio las gracias a la persona, y cómo su regalo fue recibido.
+
+
+      <!--EndFragment-->
 ---
