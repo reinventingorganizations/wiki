@@ -89,56 +89,23 @@ theory:
       Kindle Edition.]"
   - topic: wholeness
     title: Company-wide reflection
-    content: "Among the great number of innovative management practices Heiligenfeld
-      has introduced over the years, employees often credit one practice in
-      particular for making the company an outstanding workplace. Every Tuesday
-      morning, 350 or so employees come together for an hour and a quarter to
-      engage in joint reflection (as many as don’t need to be with patients and
-      as the size of the room will allow). Each week, a new topic that is
-      relevant at the moment and conducive to self-reflection is put on the
-      agenda - subjects as diverse as conflict resolution, dealing with failure,
-      company values, interpersonal communication, bureaucracy, IT innovations,
-      risk management, personal health, and mindfulness.\r
+    content: >-
+      <!--StartFragment-->
 
-      \r
 
-      The meeting always kicks off with a short presentation to frame the
-      subject matter. But the heart of the meeting happens in small groups
-      engaged in self-reflection. Let’s take the example of the topic “dealing
-      with failure” to illustrate how this event plays out at Heiligenfeld. The
-      short plenary presentation introduces ways to deal gracefully with
-      failure— how new possibilities open up when we stop being judgmental about
-      our failures; how from a higher place of consciousness we can view failure
-      as life’s invitation to expand our skills and awareness and grow into more
-      of who we are.\r
+      Entre el gran número de prácticas de administración innovadoras que Heiligenfeld ha introducido con el paso del tiempo, existe una práctica en particular que los empleados consideran que hace que la empresa sea un lugar de trabajo destacado. Cada martes por la mañana, 350 empleados se reúnen durante una hora y cuarto para reflexionar juntos. (Idealmente todos los empleados deberían participar, pero algunos deben permanecer con los pacientes. En la actualidad, el número de participantes también está limitado por el tamaño de la sala de reuniones más grande que hay en la organización).
 
-      \r
 
-      After this short introduction, people shuffle their chairs around to
-      create groups of six to ten people. In the groups, people are asked to
-      reflect on the topic— how they deal with failure in their lives, at work
-      and at home, individually and collectively. Every group elects a
-      facilitator who enforces a few ground rules to create a space where it’s
-      safe to explore, to be authentic and vulnerable. In the confines of the
-      small group, helped by their colleagues’ listening, people dare to dig
-      deep and gain new insights about themselves and others. At some point, a
-      microphone goes around the room and people who feel inclined to do so
-      share what came up for them in the discussion. There is no scripted
-      outcome to these meetings, no expected end product; everyone comes out of
-      the meeting with his or her own personal learning. Often, collective
-      insights emerge, as well as decisions and initiatives that are then
-      carried out when people go back to work.\r
+      Cada semana se programa un nuevo tema relevante para la autorreflexión. En las últimas reuniones, se ha reflexionado sobre temas tan diversos como la resolución de conflictos, cómo afrontar el fracaso, los valores de la empresa, la comunicación interpersonal, la burocracia, las innovaciones informáticas, la gestión de riesgos, la salud personal y mindfulness.
 
-      \r
 
-      It’s a time-consuming practice for sure - 75 minutes every week for
-      more than half of the company. But people at Heiligenfeld say the benefits
-      far outweigh the costs. These large group meetings are like a company-wide
-      training program on steroids; the whole organization grows its way through
-      one topic after another, week after week.[Laloux, Frederic (2014-02-09).
-      Reinventing Organizations: A Guide to Creating Organizations Inspired by
-      the Next Stage of Human Consciousness (Kindle Locations 3409-3430). Nelson
-      Parker. Kindle Edition.]\r
+      La reunión siempre empieza con una breve presentación del tema. Pero el corazón de la reunión está en los grupos pequeños que participan en la autorreflexión. Tomemos como ejemplo el tema de "cómo afrontar el fracaso". La breve introducción plenaria presenta formas de enfrentarse elegantemente al fracaso; cómo se abren nuevas posibilidades cuando dejamos de emitir juicios; cómo, desde un lugar superior de la conciencia, podemos considerar el fracaso una invitación de la vida a desarrollar nuestras habilidades y nuestra conciencia y a dirigir más nuestros pasos hacia lo que realmente somos.
 
-      \r\n"
+
+      Tras esta breve introducción, las personas se reorganizan para formar grupos de entre seis y diez integrantes. A los grupos se les pide que reflexionen sobre el tema: cómo se enfrentan al fracaso en sus vidas, en el trabajo y en el hogar, a nivel individual y colectivo. Cada grupo elige un facilitador que hace cumplir un par de normas básicas para crear un espacio en el que sea seguro explorar, ser auténtico y ser vulnerable. En los confines del grupo pequeño, con la ayuda que supone que sus compañeros escuchen, las personas se atreven a cavar muy hondo y logran nuevas revelaciones sobre sí mismos y sobre los demás. En determinado momento, un micrófono circula por la sala y las personas que lo desean comparten lo que han descubierto durante la conversación. En estas reuniones no hay resultados planificados ni se espera un producto final, pero todos salen con su propio aprendizaje personal. A menudo surgen aprendizajes colectivos o iniciativas que se llevan a cabo una vez las personas vuelven a su trabajo.
+
+
+      A buen seguro esta es una práctica que consume tiempo: unos 75 minutos a la semana, para más de la mitad de los empleados. Sin embargo, la gente de Heiligenfeld sostiene que los beneficios superan con creces los costos. Estas reuniones de grupos tan numerosos son como un programa de capacitación intensivo para toda la empresa; toda la organización revisa un tema tras otro, semana tras semana.(17)\
+
+      <!--EndFragment-->
 ---
