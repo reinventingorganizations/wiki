@@ -1,8 +1,8 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
 name: HolacracyOne
+date: 2020-11-09
 introduction: Founded in 2007 by Brian Robertson and Tom Thomison, HolacracyOne
   is the company spearheading the development of the Holacracy framework.
 industry: S. Other service activities
@@ -100,18 +100,16 @@ theory:
 
       Using the same scale of -3 to +3, people can also signal their interest in roles currently filled by other people. The market place helps people wanting to offload or pick up roles.
   - topic: Commitment, Working Hours and Flexibility
-    title: HolacracyOne uses a regular meeting practice for colleagues to share and
-      discuss commitment.
-    content: During these meetings, colleagues discuss how much time and energy, at
-      that moment in their lives, they want to commit to the organization’s
-      purpose. The rationale behind this regular meeting is for each person to
-      make a conscious choice about how much time and energy they are willing to
-      commit. At the same time, the meeting practice gives all colleagues a
-      conscious way of holding and recognizing that as humans, everyone has
-      multiple endeavors that interest and enliven them, and that each person is
-      choosing how much time and energy they want to give to any particular
-      purpose^[Laloux, Frederic. Reinventing Organizations. Nelson Parker
-      (2014), page 182].
+    title: HolacracyOne utiliza una práctica de reuniones regulares para que sus
+      colegas compartan y discutan sobre su compromiso.
+    content: >-
+      <!--StartFragment-->
+
+
+      Durante estas reuniones, los colegas discuten cuánto tiempo y energía, en ese momento de sus vidas, quieren comprometerse con el propósito de la organización. La justificación detrás de esta reunión regular es que cada persona tome una decisión consciente sobre cuánto tiempo y energía están dispuestos a comprometer. Al mismo tiempo, la práctica de la reunión da a todos los colegas una manera consciente de sostener y reconocer que como seres humanos, cada uno tiene múltiples esfuerzos que les interesan y los animan, y que cada persona elige cuánto tiempo y energía quiere dar a cualquier particular propósito \[3].
+
+
+      <!--EndFragment-->
   - topic: Compensation and incentives
     title: "HolacracyOne, the small consultancy/training company behind Holacracy,
       uses a ranking mechanism, which feeds an algorithm that allocates
