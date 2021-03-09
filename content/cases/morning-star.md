@@ -85,12 +85,7 @@ theory:
       may be called in for support, but they cannot impose a resolution from
       above.
     content: >-
-      <!--StartFragment-->
-
-
-      Cosecha, transporte y procesamiento de tomate - Estados Unidos - 400 personas - Con fines de lucro\
-
-      \
+      <!--StartFragment-->\
 
       Utiliza un proceso de resolución de conflictos llamado "Comunicación Directa y Obtención de Acuerdo", que apoya a las partes en la búsqueda de un acuerdo. Los mediadores pueden ser llamados para el apoyo, pero no pueden imponer una resolución de arriba.
 
