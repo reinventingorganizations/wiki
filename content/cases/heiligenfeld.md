@@ -1,8 +1,8 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
 name: Heiligenfeld
+date: 2021-03-09T04:17:38.158Z
 introduction: Heiligenfeld have weekly, large group reflective meetings.
 industry: Q. Human health and social work activities
 geography: Germany
@@ -62,23 +62,18 @@ theory:
     title: Innovative management practices are used to create a supportive work
       culture that fosters trust, empathy and compassion, while decreasing
       conflict.
-    content: At Heiligenfeld every Tuesday morning, all 350 employees come together
-      for an hour and a quarter to engage in joint reflection. Every week, a new
-      topic that is current and conducive to self-reflection is put on the
-      agenda. Recent meetings have reflected on subjects as diverse as conflict
-      resolution, dealing with failure, company values, interpersonal
-      communication, bureaucracy, IT innovations, risk management, personal
-      health and mindfulness. The meeting always kicks off with a short
-      presentation to frame the subject matter, followed by self-reflection in
-      small groups. Every group elects a facilitator who enforces ground rules
-      that create a space where it’s safe to explore, to be authentic and
-      vulnerable. In the confines of the small group, helped by their
-      colleagues’ listening, people dare to dig deep and gain new insights about
-      themselves and others. Colleagues are exposed every week to a space made
-      safe by ground rules that invites them to truly be themselves. They learn
-      to see each other in the light of their deep humanity, in the beauty of
-      their strengths and vulnerability. The trust, empathy and compassion that
-      develop in these meetings expand to permeate the whole organization
+    content: >-
+      <!--StartFragment-->
+
+
+      Las prácticas de gestión innovadoras se utilizan para crear una cultura de trabajo de apoyo que fomenta la confianza, la empatía y la compasión, mientras que disminuye el conflicto.\
+
+      \
+
+      En Heiligenfeld todos los martes por la mañana, los 350 empleados se reúnen durante una hora y un cuarto para participar en la reflexión conjunta. Cada semana, un nuevo tema que es actual y propicio para la autorreflexión se pone en la agenda. Las reuniones recientes han reflexionado sobre temas tan diversos como la resolución de conflictos, el fracaso, los valores de la empresa, la comunicación interpersonal, la burocracia, las innovaciones de TI, la gestión de riesgos, la salud personal y la atención plena. La reunión siempre comienza con una breve presentación para encuadrar el tema, seguida de auto-reflexión en pequeños grupos. Cada grupo elige a un facilitador que hace cumplir las reglas básicas que crean un espacio donde es seguro explorar, ser auténtico y vulnerable. En los confines del pequeño grupo, ayudado por la escucha de sus colegas, la gente se atreve a cavar profundamente y ganar nueva comprensión y entendimiento de si mismo y de otros. Los compañeros están expuestos cada semana a un espacio hecho seguro por las reglas de juego que los invita a ser verdaderamente ellos mismos. Aprenden a verse a la luz de su profunda humanidad, en la belleza de sus fortalezas y vulnerabilidad. La confianza, empatía y compasión que se desarrollan en estas reuniones se expanden y pernean en toda la organización
+
+
+      <!--EndFragment-->
   - topic: Strategy
     title: Strategy is developed through sensing rather than forecasting.
     content: "Heiligenfeld uses large group meetings at regular intervals to sense
