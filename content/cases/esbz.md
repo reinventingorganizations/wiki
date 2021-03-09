@@ -1,8 +1,8 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
 name: ESBZ
+date: 2021-03-09T04:19:11.045Z
 introduction: ESBZ is recognized for its innovative curriculum and organization model.
 industry: P. Education
 geography: Germany
@@ -45,14 +45,14 @@ theory:
   - topic: Conflict resolution
     title: Innovative curriculum and organizational model that fosters a sense of
       community and encourages the surfacing and resolution of conflict.
-    content: At ESBZ , a large school has been broken down into smaller, self
-      governing units, to create a sense of community within mini-schools. In
-      addition, all teachers and students are trained in [Nonviolent
-      Communication](https://en.wikipedia.org/wiki/Nonviolent_Communication).
-      Utilizing these and other conflict resolution skills, every class gets
-      together at a fixed time each week to discuss and deal with tensions in
-      the group. The meeting is facilitated by a student who enforces a number
-      of ground rules that keep the discussion safe.
+    content: >-
+      <!--StartFragment-->
+
+
+      ESBZ, una gran escuela se ha desglosado en unidades más pequeñas y autónomas, para crear un sentido de comunidad dentro de las mini-escuelas. Además, todos los profesores y estudiantes están capacitados en Comunicación No Violenta. Utilizando estas y otras habilidades de resolución de conflictos, cada clase se reúne a una hora fija cada semana para discutir y hacer frente a las tensiones en el grupo. La reunión es facilitada por un alumno que hace cumplir una serie de reglas básicas que mantienen la discusión segura.
+
+
+      <!--EndFragment-->
   - topic: wholeness
     title: The "Praise Meeting"
     content: "[ESBZ ](http://www.ev-schule-zentrum.de/aktuell/)has an extraordinary
