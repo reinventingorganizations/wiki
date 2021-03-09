@@ -342,49 +342,23 @@ theory:
       partnership in their neighborhood^\[Laloux, Frederic. Reinventing
       Organizations. Nelson Parker (2014), page 203]
   - topic: Change Management
-    title: At Buurtzorg, change happens organically.
-    content: "Buurtzorg was created not only out of frustration with the way
-      neighborhood nursing companies in the Netherlands had fragmented a noble
-      profession into a series of senseless tasks. It also grew out of a new,
-      and broader perspective of neighborhood care. The purpose of care is not
-      to inject medication or change a bandage; it is to help people have rich,
-      meaningful, and autonomous lives, to whatever degree that is possible.
-      Within this broad definition, Buurtzorg keeps evolving, keeps moving to
-      where it feels called.\r
+    title: En Buurtzorg, el cambio ocurre orgánicamente.
+    content: >-
+      <!--StartFragment-->
 
-      \r
 
-      Not too long ago, for instance, one team in the countryside
-      developed a new concept: a boarding house for patients, to offer the
-      patient’s primary caregiver a break. With most patients, Buurtzorg
-      provides medical care, but someone else — often the patient’s husband or
-      wife, sometimes a patient’s child — is really the primary caregiver. It is
-      not unusual for the husband or wife, often elderly as well, to be
-      exhausted by the constant patient needs, sometimes 24 hours a day. If the
-      strain becomes too much, the caregiver can fall sick too. Wouldn’t it be
-      wonderful, one team of nurses thought, if we could have a place where we
-      could take in our patients for a day or two, or even a week— a sort of bed
-      and breakfast and lunch and dinner and care — so that their primary
-      caretaker could take a break and rest? One of the nurses had inherited a
-      small farmhouse in the countryside. Together, the team transformed it into
-      a Buurtzorg boarding house.\r
+      [Buurtzorg](http://www.buurtzorgnederland.com/) no sólo se creó a partir de la frustración por la forma en la que las compañías vecinales de enfermería en Holanda habían fragmentado una noble profesión hasta convertirla en una serie de tareas sin sentido. Surgió de una perspectiva nueva y mucho más amplia del cuidado vecinal. El propósito de la atención médica no es proporcionar fármacos ni cambiar un vendaje; es ayudar a la gente a llevar vidas tan valiosas, autónomas y significativas como sea posible. Dentro de esta amplia definición, Buurtzorg sigue evolucionando, sigue moviéndose hacia donde su vocación le llama.\
 
-      \r
+      \
 
-      At a subsequent company retreat, the team presented its concept to
-      all of its colleagues. However it was left up to them to decide if they
-      felt called to create their own boarding houses. No one at Buurtzorg, not
-      even Jos de Blok, the founder, made the call in the name of the company to
-      say, “Yes, this fits Buurtzorg’s purpose, so we will create dozens of
-      boarding houses and here is the budget we will allocate,” or “No, this is
-      not within the scope of Buurtzorg. Let’s not pursue this.” The idea of
-      boarding houses was left to run its own course. If it was meant to be, it
-      would attract nurses to make it happen and carry Buurtzorg into a new
-      dimension of care. Otherwise, it would remain a small-scale
-      experiment.^[Laloux, Frederic (2014-02-09). Reinventing Organizations: A
-      Guide to Creating Organizations Inspired by the Next Stage of Human
-      Consciousness (Kindle Locations 4334-4351). Nelson Parker. Kindle
-      Edition.]"
+      Recientemente, por ejemplo, un equipo de campo desarrolló un nuevo concepto: una hostería para pacientes con el objetivo de permitir al cuidador primario tomarse un descanso. Para la gran mayoría de los pacientes, Buurtzorg proporciona los cuidados médicos, pero el cuidador primario es otra persona (a menudo el marido o la mujer del paciente, a veces un hijo o una hija). No es inusual que el marido o la mujer, a menudo también ancianos, estén exhaustos por el cuidado constante del paciente, a veces 24 horas al día. Si el agotamiento es excesivo, puede que el cuidador también enferme. ¿No sería maravilloso, pensó un equipo de enfermeras, si pudiéramos tener un lugar en el cual recibir a nuestros pacientes uno o dos días, o hasta una semana (una especie de B&B más almuerzo, cena y atención) para que el cuidador primario pudiera tomarse un descanso? Una de las enfermeras había heredado una pequeña casa de campo que el equipo transformó en un internado de Buurtzorg.\
+
+      \
+
+      En un reciente retiro empresarial, el equipo presentó la idea a todos sus colegas. El tiempo dirá si la idea prende, si otros equipos se sienten llamados a crear hostales. Esto es lo que hace fascinante el enfoque de Buurtzorg respecto a esta potencial expansión: nadie, ni siquiera Jos de Blok, toma la decisión en nombre de la empresa como para decir: "Sí, esto se adecúa al propósito de Buurtzorg, así que crearemos docenas de hostales y aquí está el presupuesto que asignaremos para eso" o "No, esto no está dentro del ámbito de Buurtzorg. Mejor no lo hagamos." La idea de los hostales seguirá su curso propio. Si estaba destinada a ser, si tiene suficiente fuerza vital, atraerá enfermeras que la harán real y llevarán a Buurtzorg a otra dimensión de la atención de pacientes. En caso contrario, permanecerá como un experimento a pequeña escala.(3)
+
+
+      <!--EndFragment-->
   - topic: Crisis Management
     title: Joe de Blok averted a cash crunch by asking his nurses to work harder
     content: "Buurtzorg faced a crisis in 2010 and mastered it using the advice
