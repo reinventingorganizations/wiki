@@ -134,8 +134,6 @@ faq:
 
       * Puedan ayudar a conectar la organización y desarrollar relaciones con su entorno externo.
 
-        <!--StartFragment-->
-
         **Ejemplos concretos para inspiración**
 
         Aquí hay algunos ejemplos prácticos de las juntas de las organizaciones Teal.
@@ -180,15 +178,11 @@ faq:
         * [Funciones del Staff](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Funciones_Staff "Funciones Staff")
         * [Toma de decisiones](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Toma_de_Decisiones "Toma de Decisiones")
 
-
-
         **Notas y referencias**
 
         1. Laloux, Frederic. Reinventar las Organizaciones. Nelson Parker (2014), página 238
         2. Entrevista Jos de Blok con Frederic Laloux en 2013
         3. Ricardo Semler dirigiendo una reunión Zappos all hands. Mayo de 2015.
-
-        <!--EndFragment-->
 relatedTheory:
   - Strategy
   - Organizational Structure
