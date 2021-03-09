@@ -23,25 +23,26 @@ theory:
 
       Students and teachers credit this weekly session as the defining practice for the school’s extraordinary spirit of learning, collaboration, and maturity.
   - topic: Mood Management
-    title: "ESBZ has an extraordinary trust and community-building practice based
-      around storytelling: the Friday afternoon “praise meeting” which fosters a
-      mood of gratitude."
+    title: 'ESBZ tiene una práctica extraordinaria de confianza y construcción de
+      comunidad basada en la narración de cuentos: la "reunión de alabanza" del
+      viernes por la tarde, que fomenta un sentimiento de gratitud.'
     content: >-
-      Each Friday afternoon, the [entire
-      school](http://www.ev-schule-zentrum.de/aktuell/)―students, teachers, and
-      staff―gathers for an hour in a large hall. They start by singing a song
-      together. The rest of the time together is unscripted. There is an open
-      microphone on stage, and a simple rule: we are here to praise and thank
-      each other.
+      <!--StartFragment-->
 
 
-      For the next 50 minutes, students and teachers who wish to do so stand up, walk on stage, take the microphone, and praise or thank another student or teacher for something they did or said during the week. They then sit down and someone else takes the stage. Every person at the microphone shares a mini-story that reveals something about two people―the storyteller and the person being thanked.
+      Cada viernes por la tarde, toda la escuela, los estudiantes, los maestros y el personal se reúnen durante una hora en un gran salón. Empiezan cantando una canción juntos. No hay agenda para el resto del tiempo juntos. Hay un micrófono abierto en el escenario, y una regla simple: estamos aquí para alabarnos y agradecernos unos a otros.
 
 
-      This practice erases boundaries between students and teachers. It’s part of the human condition that everyone at some point feels down, confused, or stuck and in need of help. And everyone has the gift of empathy, of finding ways to offer support, comfort, and friendship. It takes courage to stand up and praise others publicly, but in the school it has become practice.
+      Durante los próximos 50 minutos, los estudiantes y maestros que lo deseen levantarse, caminan sobre el escenario, toman el micrófono, y alaban o agradecen a otro estudiante o maestro por algo que hicieron o dijeron durante la semana. Entonces se sientan y alguien más sube al escenario. Cada persona en el micrófono comparte una mini-historia que revela algo acerca de dos personas-el narrador y la persona que se agradece.
 
 
-      Students don’t shy away from stories that are funny or touching, and heartfelt. Students and teachers credit this weekly session as the defining practice for the school’s extraordinary spirit of learning, collaboration, and maturity. Each story of kindness, courage, care, or professionalism told at the microphone is a thread woven into a rich tapestry of gratitude that has become key to the school’s exceptional learning culture. Faculty meetings have now integrated the same practice: they always start with a round of praise.
+      Esta práctica borra las fronteras entre estudiantes y profesores. Es parte de la condición humana que todo mundo en algún momento se siente caído, confundido, o atascado y necesita ayuda. Y todo el mundo tiene el don de la empatía, de encontrar maneras de ofrecer apoyo, confort y amistad. Se necesita coraje para ponerse de pie y alabar a los demás públicamente, pero en la escuela se ha convertido en práctica. Los estudiantes no se avergüenzan de historias que son graciosas o conmovedoras, y sincero.
+
+
+      Los estudiantes y profesores acreditan esta sesión semanal como la práctica definitoria para el extraordinario espíritu de aprendizaje, colaboración y madurez de la escuela. Cada historia de bondad, coraje, cuidado o profesionalidad contada en el micrófono es un hilo que se entreteje en un rico tapiz de gratitud que se ha convertido en clave para la excepcional cultura de aprendizaje de la escuela. Las reuniones de la facultad ahora han integrado la misma práctica: comienzan siempre con una ronda de elogios.
+
+
+      <!--EndFragment-->
   - topic: Conflict resolution
     title: Plan de estudios innovador y modelo organizacional que promueve un
       sentido de comunidad y fomenta el surgimiento y resolución de conflictos.
