@@ -180,12 +180,10 @@ theory:
 
       In an example of how an initiative might scale in a Teal organization, a Buurtzorg team in the countryside recently developed a new concept - a boarding house for patients, to offer the patient’s primary caregiver a break. This concept was presented to all colleagues at a company retreat. Nobody at Buurtzorg made the call that this fit or did not fit Buurtzorg’s purpose or that resources should be allocated to scale the initiative. The concept will have to run its own course. If it is meant to scale, it will attract nurses in other teams to make it happen organically.
   - topic: Conflict resolution
-    title: Conflict is handled collaboratively within the team structure, sometimes
-      with the help of a regional coach or mediator.
+    title: El conflicto se maneja de forma colaborativa dentro de la estructura del
+      equipo, a veces con la ayuda de un coach regional o un mediador.
     content: >-
       <!--StartFragment-->\
-
-      El conflicto se maneja de forma colaborativa dentro de la estructura del equipo, a veces con la ayuda de un coach regional o un mediador.
 
 
       En Buurtzorg, las enfermeras trabajan en equipos de 10 a 12, cada equipo sirve alrededor de 50 pacientes en un barrio pequeño y bien definido. El equipo está a cargo de todas las tareas que, en organizaciones similares, están fragmentadas en diferentes departamentos. El entrenamiento inicial de Buurtzorg incluye técnicas para la resolución de conflictos y la [comunicación no violenta](https://en.wikipedia.org/wiki/Nonviolent_Communication) desarrollada por el Marshall Rosenberg. Los conflictos se trabajan de forma colaborativa dentro del equipo. Por ejemplo, cuando una persona ha perdido la confianza del equipo, el equipo trata de encontrar una solución mutuamente aceptable. Si eso no funciona, el grupo llama a su coach regional o a un facilitador externo para mediar. En casi todos los casos, la presencia de un mediador trae resolución. En algunos casos, la persona y el equipo deciden sobre compromisos mutuos y le dan otra oportunidad. En otros, después de alguna deliberación, la persona llega a ver que la confianza está irrevocablemente rota y entiende que es hora de irse. Si no se encuentra un acuerdo, como última oportunidad para tratar de resolver el asunto, los miembros del equipo pueden pedir a Jos de Blok, el fundador, que medie. En los casos raros, donde incluso esto falla, pueden pedirle que ponga fin al contrato de la persona (legalmente, él es el único que puede hacerlo).
@@ -212,37 +210,45 @@ theory:
       traditionally delivered ^[Source: Laloux, Frederic. Reinventing
       Organizations. Nelson Parker (2014), page 207]"
   - topic: Training and Coaching
-    title: At Buurtzorg, all nurses are trained in “Intervisie,” a peer-coaching
-      technique that originated in the Netherlands.
+    title: AEn Buurtzorg, todas las enfermeras son entrenadas en "Intervisie", una
+      técnica de coaching que se originó en los Países Bajos.
     content: >-
-      **Peer Coaching**
+      <!--StartFragment-->
 
 
-      A nurse wrestling with a question can ask her colleagues for help in a group coaching session. *How should she deal with a client who refuses to take life-* saving medication? *How can she help an elderly patient accept help from his children? How to say "No" to clients, to protect herself from burnout?*
+      **Coaching de pares**
 
 
-      Some Buurtzorg teams allocate an hour for peer coaching every month; others convene whenever a team member requests it.
+      <!--StartFragment-->
 
 
-      “Intervisie,” the process used at Buurtzorg, follows a strict format with ground rules to prevent the group from administering simplistic advice, admonitions, or reassurances to each other. During the core process, members must ask only open-ended questions. This way they become fellow travelers into the mystery of the issue the person is dealing with. A safe space emerges that invites deep listening, authenticity, and vulnerability - the necessary ingredients for inner truth to emerge. The goal is for the nurse to see the problem in a new light and discover her own solutions. It is at once a simple and beautiful process.
+      Una enfermera que lucha con una pregunta puede pedir ayuda a sus colegas en una sesión de coaching grupal. *¿Cómo debe tratar con un cliente que se niega a tomar medicamentos que salvan vidas? ¿Cómo puede ayudar a un paciente anciano a aceptar la ayuda de sus hijos? ¿Cómo decir "no" a los clientes, para protegerse del agotamiento?* Algunos equipos de Buurtzorg asignan una hora para el entrenamiento de compañeros cada mes; otros se reúnen cuando un miembro del equipo lo solicite. "Intervisie", el proceso utilizado en Buurtzorg, sigue un formato estricto con reglas básicas para evitar que el grupo administre consejos simplistas, amonestaciones o garantías entre sí. Durante el proceso central, los miembros deben hacer solamente preguntas abiertas. De esta manera se convierten en compañeros de viaje en el misterio de la cuestión que la persona enfrenta. Surge un *espacio seguro* que invita a la escucha profunda, la autenticidad y la vulnerabilidad - los ingredientes necesarios para que surja la verdad interior. El objetivo es que la enfermera vea el problema bajo una nueva luz y descubra sus propias soluciones. Es a la vez un proceso simple y hermoso.
+
+
+      <!--EndFragment-->
   - topic: Training and Coaching
-    title: At Buurtzorg the principle emerged that teams can spend a certain amount
-      on training without needing to consult.
+    title: En Buurtzorg surgió el principio de que los equipos pueden dedicar cierta
+      cantidad a la formación sin necesidad de consultar.
     content: >-
-      **Personal responsibility for training**
+      <!--StartFragment-->
 
 
-      The nurses that work in self-managing teams decide on their own training needs, and look for the best provider - a medical supplier, a hospital department, or sometimes simply a pharmacist or another Buurtzorg team. It's accepted practice that a team can spend up to 3% of its revenues in training without needing to use the advice process.\
-
-      \
-
-      Jos de Blok, Buurtzorg’s founder, comments on how this freedom allows nurses to react quickly:
+      **Responsabilidad personal por la formación**
 
 
-      *"A remarkably high number of colleagues get themselves trained in specific medical conditions and technical equipment so that they can assist new clients in the best possible way. From drug pumps to dialysis and breathing devices, they learn how the equipment works and must be operated so that the number of professionals that deals with any client stays low. Because colleagues don’t need to ask if they can learn about something, their motivation to do so increases immediately. “It is as if I just woke up, because I start again to think of all sorts of possibilities,” is what you often hear at Buurtzorg."*
+      <!--EndFragment-->
 
 
-      As the word spreads that the nurses can handle all sort of devices and techniques, doctors start prescribing treatment methods that improve patients’ lives - say, a drug pump for a person with chronic pain - that fall outside the limited standards handled by a traditional nursing organization.
+      <!--StartFragment-->
+
+
+      Las enfermeras que trabajan en equipos autogestionados deciden sobre sus propias necesidades de entrenamiento y buscan el mejor proveedor - un proveedor médico, un departamento de hospital, o a veces simplemente un farmacéutico u otro equipo de Buurtzorg. Es una práctica aceptada que un equipo puede gastar hasta el 3% de sus ingresos en la capacitación sin necesidad de utilizar el proceso de los consejos.
+
+
+      Jos de Blok, fundador de Buurtzorg, comenta cómo esta libertad permite a las enfermeras reaccionar rápidamente: *"Un número notablemente elevado de colegas se capacitan en condiciones médicas específicas y equipos técnicos para que puedan ayudar a los nuevos clientes de la mejor manera posible. De las bombas de drogas a la diálisis y los dispositivos de respiración, aprenden cómo funciona el equipo y como debe ser operado por lo que que el número de profesionales que se ocupan de cualquier cliente se mantiene bajo.Porque los colegas no necesitan preguntar si pueden aprender algo, su motivación para hacerlo aumenta inmediatamente. "Es como si me acabara de despertar, porque empezar de nuevo pensar en todo tipo de posibilidades ", es lo que a menudo se oye en Buurtzorg"*. A medida que la palabra se extiende que las enfermeras pueden manejar todo tipo de dispositivos y técnicas, los médicos comienzan a prescribir métodos de tratamiento que mejoran la vida de los pacientes - digamos, una bomba de drogas para una persona con dolor crónico - que caen fuera de los estándares limitados manejados por una enfermera tradicional organización.
+
+
+      <!--EndFragment-->
   - topic: Commitment, Working Hours and Flexibility
     title: At Buurtzorg, the structure of small, self-managing teams helps in
       providing flexibility.
