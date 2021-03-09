@@ -182,25 +182,14 @@ theory:
   - topic: Conflict resolution
     title: Conflict is handled collaboratively within the team structure, sometimes
       with the help of a regional coach or mediator.
-    content: At Buurtzorg , nurses work in teams of 10 to 12, with each team serving
-      around 50 patients in a small, well-defined neighborhood. The team is in
-      charge of all the tasks that, in similar organisations, are fragmented
-      across different departments. The initial Buurtzorg training includes
-      techniques for conflict resolution and [Nonviolent
-      Communication](https://en.wikipedia.org/wiki/Nonviolent_Communication)
-      developed by Marshal Rosenberg. Conflicts are worked out collaboratively
-      within the team. For instance, when one person has lost the trust of the
-      team, the team tries to find a mutually agreeable solution. If that
-      doesn’t work out, the group calls in its regional coach or an external
-      facilitator to mediate. In almost all cases, the presence of a mediator
-      brings resolution. In some cases, the person and the team decide on some
-      mutual commitments and give it another go. In others, after some
-      deliberation, the person comes to see that trust is irrevocably broken and
-      understands it is time to leave. If no agreement can be found, as a last
-      chance to try to settle the matter, the team members can ask Jos de Blok,
-      the founder, to mediate. In the rare cases, where even this fails, they
-      can ask him to put an end to the person’s contract (legally, he is the
-      only one who can do so).
+    content: >-
+      <!--StartFragment-->
+
+
+      En Buurtzorg, las enfermeras trabajan en equipos de 10 a 12, cada equipo sirve alrededor de 50 pacientes en un barrio pequeño y bien definido. El equipo está a cargo de todas las tareas que, en organizaciones similares, están fragmentadas en diferentes departamentos. El entrenamiento inicial de Buurtzorg incluye técnicas para la resolución de conflictos y la [comunicación no violenta](https://en.wikipedia.org/wiki/Nonviolent_Communication) desarrollada por el Marshall Rosenberg. Los conflictos se trabajan de forma colaborativa dentro del equipo. Por ejemplo, cuando una persona ha perdido la confianza del equipo, el equipo trata de encontrar una solución mutuamente aceptable. Si eso no funciona, el grupo llama a su coach regional o a un facilitador externo para mediar. En casi todos los casos, la presencia de un mediador trae resolución. En algunos casos, la persona y el equipo deciden sobre compromisos mutuos y le dan otra oportunidad. En otros, después de alguna deliberación, la persona llega a ver que la confianza está irrevocablemente rota y entiende que es hora de irse. Si no se encuentra un acuerdo, como última oportunidad para tratar de resolver el asunto, los miembros del equipo pueden pedir a Jos de Blok, el fundador, que medie. En los casos raros, donde incluso esto falla, pueden pedirle que ponga fin al contrato de la persona (legalmente, él es el único que puede hacerlo).
+
+
+      <!--EndFragment-->
   - topic: Environmental and Social Management
     title: At Buurtzorg, social initiatives emerge from the interaction with the
       communities they serve.
