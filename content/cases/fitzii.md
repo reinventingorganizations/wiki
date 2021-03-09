@@ -1,8 +1,8 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
 name: Fitzii
+date: 2020-11-09
 introduction: >-
   Hiring software and services provider - Canada - 10 employees – For profit
 
@@ -78,23 +78,19 @@ theory:
 
       These may or may not be equally important in every hire. For example, hiring a programmer requires a high level of knowledge, skill, and ability (what) whereas hiring a senior person who will set strategy requires a high level of purpose alignment (why).
   - topic: Commitment, Working Hours and Flexibility
-    title: At Fitzii, coworkers have freedom to work anywhere there is internet
-      connection and responsibility to achieve the benefits of in-person
-      connections.
-    content: In considering working hours and location,
-      [Fitzii](https://www.fitzii.com/go) “manages a polarity” between freedom
-      and responsibility. Coworkers can work anywhere there is internet
-      connection (freedom). Flexibility is greatly enjoyed by individuals who
-      are productive working from home or have occasional needs, ex. one
-      coworker spent a week working in Miami in order to visit a sick relative.
-      In practice, coworkers work primarily from two offices – one in Oakville,
-      Ontario and the other in Toronto, Ontario. In an effort to spend time
-      together in person – the CEO is often heard saying “you can’t build
-      community unless you waste time together” – coworkers make every effort to
-      work from Oakville on Tuesdays and from Toronto on Thursdays
-      (responsibility). Monthly in-person team meetings rotate between the two
-      locations; an annual in-person team retreat provides quality structured
-      and unstructured interaction.
+    title: En Fitzii, los compañeros de trabajo tienen libertad para trabajar en
+      cualquier lugar hay conexión a Internet y la responsabilidad de lograr los
+      beneficios de las conexiones en persona.
+    content: >-
+      <!--StartFragment-->
+
+
+      Al considerar las horas de trabajo y la ubicación, Fitzii "maneja una polaridad" entre libertad y responsabilidad. Los compañeros de trabajo pueden trabajar en cualquier lugar donde haya conexión a Internet (libertad). La flexibilidad es altamente apreciada por las personas que son productivas trabajando desde casa o tienen necesidades ocasionales, por ejemplo. Un compañero de trabajo pasó una semana trabajando en Miami para visitar a un pariente enfermo. En la práctica, los compañeros de trabajo trabajan principalmente en dos oficinas - una en Oakville, Ontario y la otra en Toronto, Ontario. En un esfuerzo por pasar tiempo juntos en persona - el CEO a menudo se le escucha decir "no se puede construir la comunidad a menos que pierdan tiempo juntos" - los compañeros de trabajo hacen todo lo posible para trabajar desde Oakville los martes y de Toronto los jueves. Las reuniones mensuales en persona del equipo giran entre las dos localizaciones; Un retiro anual del equipo en persona proporciona una interacción estructurada y no estructurada de calidad.
+
+
+
+
+      <!--EndFragment-->
   - topic: Job Titles and Job Descriptions
     title: Fitzii has no set job descriptions; coworkers perform one or more roles
       based on their interests, talents, and the needs of the organization. A
