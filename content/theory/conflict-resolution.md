@@ -20,9 +20,6 @@ perspective: >-
   <!--StartFragment-->
 
 
-  **Una nueva perspectiva**
-
-
   La resolución de conflictos es una pieza vital del sistema en una organización Teal. Si no hay jefe para actuar como un meditador de conflicto, entonces se requiere de un nuevo proceso para manejar el conflicto. En una organización Teal, la resolución de conflictos se basa en las relaciones de pares. Sin este enfoque, la organización encontraría muy difícil, si no imposible, funcionar.
 
 
