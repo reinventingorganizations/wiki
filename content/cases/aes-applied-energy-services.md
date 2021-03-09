@@ -30,23 +30,16 @@ theory:
       direction and waits to be told what to do. A poor hire would be someone
       who wasn’t flexible and who says, “It’s not my job.”'
   - topic: Environmental and Social Management
-    title: "Via the advice process, AES employees initiate environmental and social
-      initiatives. "
+    title: A través del proceso de los consejos, los empleados de AES encabezan
+      iniciativas ambientales y sociales.
     content: >-
-      For [AES](http://www.aes.com/), environmental and social initiatives start
-      with inner rightness. Here is how AES expressed it in a public filing with
-      the U.S. Securities and Exchange Commission when it offered stock to the
-      public: "An important element of AES is its commitment to four major
-      'shared' values ^\[one of which is Social Responsibility, which triggered
-      AES’s decision to plant trees]. If the company perceives a conflict
-      between these values and profits, it will try to adhere to its values ―
-      even if doing so might result in diminished profits or foregone
-      opportunities. Moreover, the Company seeks to adhere to these values not
-      as a means to achieve economic success, but because adherence is a
-      worthwhile goal in and of itself."
+      <!--StartFragment-->
 
 
-      AES planted millions of trees to offset carbon emissions. This idea came from an employee in in Los Angeles, not the senior team. Initially there was no budget for this. Using the advice process, she built support for the money AES should put into tree planting. ^\[Source: Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), pages 160-172]
+      Para AES, las iniciativas ambientales y sociales comienzan con la rectitud interior. Así es como AES lo expresó en una presentación pública ante la Comisión de Valores de Estados Unidos cuando ofreció acciones al público: "Un elemento importante de AES es su compromiso con cuatro grandes valores" compartidos "\[2]. Si la compañía percibe un conflicto entre estos valores y las ganancias, tratará de adherirse a sus valores -aún si hacerlo podría resultar en beneficios disminuidos u oportunidades perdidas- Además, la Compañía busca adherirse a estos valores no como un medio para lograr el éxito económico, sino porque la adhesión es una meta que vale la pena en sí misma ". AES plantó millones de árboles para compensar las emisiones de carbono. Esta idea vino de una colaboradora de Los Ángeles, no del equipo mayor. Inicialmente no había presupuesto para esto. Utilizando el proceso de los consejos, ella construyó apoyo para el dinero que AES debería poner en la plantación de árboles \[3].
+
+
+      <!--EndFragment-->
   - topic: Strategy
     title: Strategic decisions can be made by anyone, often through an advice process.
     content: "A recently hired financial analyst at AES informed the CEO, Dennis
