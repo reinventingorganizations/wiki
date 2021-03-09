@@ -6,177 +6,193 @@ name: Resolución de Conflictos
 sortOrder: 4
 category: Daily practices
 intro: >-
-  The topic of Conflict Resolution includes how conflicts are dealt with and by
-  whom. In particular we discuss the types of processes used, factors that
-  reduce conflict avoidance and structures that prevent conflict.
+  <!--StartFragment-->
+
+
+  El tema de la Resolución de Conflictos incluye cómo se tratan los conflictos y por quién. En particular, discutimos los tipos de procesos utilizados, los factores que reducen evadir los conflictos y las estructuras que previenen el conflicto.
+
+
+  <!--EndFragment-->
 
 
   ![](/media/conflict.jpg)
 perspective: >-
-  Conflict resolution is a vital piece of the system in a Teal organization. If
-  there is no boss to act as a conflict meditator, then a new process to handle
-  conflict is required. In a Teal organization, conflict resolution is based on
-  peer relationships. Without this approach, the organization would find it very
-  difficult, if not impossible, to function.
+  <!--StartFragment-->
 
 
-  Most Teal organizations work on certain assumptions about human nature: that workers are thoughtful, trustworthy adults, capable of being accountable and responsible for their decisions and actions. In a workplace based on Teal assumptions, a clear conflict resolution process, together with appropriate training, gives people the path and skills to work through disagreements with maturity and grace
+  **Una nueva perspectiva**
 
 
-  Every historical stage has given birth to a distinct perspective on conflict resolution and to very different practices:
+  La resolución de conflictos es una pieza vital del sistema en una organización Teal. Si no hay jefe para actuar como un meditador de conflicto, entonces se requiere de un nuevo proceso para manejar el conflicto. En una organización Teal, la resolución de conflictos se basa en las relaciones de pares. Sin este enfoque, la organización encontraría muy difícil, si no imposible, funcionar.
 
 
-  #### **Red organizations**
+  La mayoría de las organizaciones Teal trabajan sobre ciertos supuestos acerca de la naturaleza humana: que los trabajadores son adultos reflexivos, confiables, capaces de ser responsables y responsables de sus decisiones y acciones. En el lugar de trabajo basado en los supuestos Teal, un proceso claro de resolución de conflictos, junto con una capacitación adecuada, le da a la gente el camino y las habilidades para superar los desacuerdos con la madurez y la gracia\
+
+  \
+
+  Cada etapa histórica ha dado lugar a una clara perspectiva sobre la resolución de conflictos y sobre prácticas muy diferentes:\
+
+  \
+
+  **Organizaciones Rojas**\
+
+  En el [paradigma Rojo](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_paradigma_Rojo_y_las_Organizaciones "El paradigma Rojo y las Organizaciones"), hay un ejercicio dominante del poder por el jefe o líder para mantener a los demás en la línea. El miedo es el pegamento de la organización. En general, el conflicto se maneja por la supresión, el poder o el dominio, y por reglas estrictas que se refuerzan por el miedo a las consecuencias.\
+
+  \
+
+  **Organizaciones Ámbar**\
+
+  El [paradigma Ámbar](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_%C3%81mbar_y_las_Organizaciones "El Paradigma Ámbar y las Organizaciones") ha instituido roles dentro de la estructura de pirámide jerárquica para mandar y controlar de arriba hacia abajo (qué y cómo). La estabilidad se valora sobre todo y se mantiene a través de roles y procesos claramente definidos. Los métodos para manejar el conflicto incluyen el evitarlos o suprimirlos. Las reglas son impuestas por aquellos con autoridad y pueden ser impuestas a través de acciones legales. Estos tipos de organizaciones tienen fuertes procesos de recursos humanos para manejar conflictos y quejas entre el empleado y el empleador.\
+
+  \
+
+  **Organizaciones Naranja**\
+
+  En el [paradigma Naranja](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Naranja_y_las_Organizaciones "El Paradigma Naranja y las Organizaciones"), también hay una estructura jerárquica, pero la gestión es por objetivo (definición del qué, con más libertad en el cómo). En muchas organizaciones Naranja, aunque hay procedimientos formales de resolución de conflictos, a menudo el conflicto no se maneja adecuadamente. Aunque a menudo se alienta a los individuos a resolver los desacuerdos por sí mismos, a menudo es necesario resolver el conflicto mediante la intervención de un tercero. A menudo esto se hace remitiendo el problema al jefe o acudiendo a las políticas de recursos humanos y procedimientos. Estos procedimientos crean un nivel de independencia objetiva de los que están en conflicto.\
+
+  \
+
+  **Organizaciones Verdes**\
+
+  El [paradigma Verde](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Verde_y_las_Organizaciones "El Paradigma Verde y las Organizaciones") utiliza nuevamente una estructura de pirámide clásica, pero con un mayor énfasis en el empoderamiento. Las organizaciones Verdes tienen culturas basadas en valores que incluyen principios de integridad, respeto y apertura. Hay una gran inversión en fomentar la colaboración, la comunicación, la resolución de problemas y la elaboración de acuerdos que satisfagan las necesidades subyacentes. Estos procesos a veces pueden eliminar la fuente del conflicto. Cuando surgen, los conflictos pueden tomar mucho tiempo para resolver a medida que los grupos buscan encontrar una solución armoniosa. Sin embargo, el jefe suele ser el árbitro final en situaciones de conflicto.\
+
+  \
+
+  **Organizaciones Teal**\
+
+  En las [organizaciones Teal](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones"), el conflicto es visto como una parte natural de la interacción humana y, cuando se atiende dentro de un espacio seguro, a menudo se ve como sano y creativo. Los conflictos manejados con gracia y sensibilidad abren posibilidades y aprendizaje para todos los involucrados. En organizaciones Teal, hay un tiempo especialmente reservado para atender, a nivel individual y colectivo los conflictos que normalmente surgen. A menudo se usan prácticas formales de resolución de conflictos de varios pasos y se capacita a todos en la gestión de conflictos. Los conflictos se restringen a las partes involucradas, y los mediadores, o pares que podrían ser invitados a servir en un panel mediador. Dicho panel rara vez tiene la responsabilidad de imponer una solución. Más bien el enfoque está puesto en ayudar a las partes involucradas a encontrar una solución.
 
 
-  In the [Red paradigm](../red-organizations/), there is dominant exercise of power by the boss or leader to keep others in line. Fear is the glue of the organization. In general, conflict is handled by suppression, power or dominance, and strict rules are enforced by fear of consequences.
-
-
-  #### **Amber organizations**
-
-
-  The [Amber paradigm](../amber-paradigm-and-organizations/) has formalized roles within a hierarchical pyramid structure and top-down command and control (what and how). Stability is valued above all and is maintained through clearly defined roles and processes.
-
-
-  Methods for managing conflict include avoidance or suppression. Rules are imposed by those with authority and may be enforced through legal action. These types of organizations have strong HR processes for managing conflict and grievances between employee and employer.
-
-
-  #### **Orange organizations**
-
-
-  In the [Orange paradigm](../orange-paradigm-and-organizations/), there is also a hierarchical structure, but management is by objective (definition of the what; with more freedom on the how). In many Orange organisations, although there are formal conflict resolution procedures, conflict is often not well adressed. Although individuals are often encouraged to resolve disagreements by themselves, conflict may often need to be settled by intervention from a third party. This is most often done by referring the issue to the boss or by deferring to HR policies and procedures. These procedures create a level of objective independence from the those in conflict.
-
-
-  #### **Green organizations**
-
-
-  The [Green paradigm ](../green-paradigm-and-organizations/)again uses a classical pyramid structure, but with a stronger focus on empowerment. Green organizations have values-based cultures that include principles of integrity, respect, and openness. There is a large investment in fostering collaboration, communication, problem solving and drafting agreements that meet underlying needs. These processes can sometimes remove the source of conflict. When they do arise, conflicts can take a long time to resolve as groups seek to find a harmonious solution. However, the boss is usually the final arbiter in conflict situations.
-
-
-  #### **Teal organizations**
-
-
-  In [Teal organizations](../teal-paradigm-and-organizations/), conflict is seen as a natural part of human interaction and, when safely supported, is often viewed as healthy and creative. Conflict handled with grace and tenderness can create possibility and learning for all involved. In Teal organizations time is regularly devoted to surface and address conflicts in individual and group settings. Often formal, multi-step conflict resolution practices are used and everyone is trained in conflict management. Conflict is restricted to the parties involved, and mediators, or peers who might be asked to serve on a mediating panel. Such a panel rarely has responsibility to impose a solution. The focus is instead on helping the involved parties find a solution.
+  <!--EndFragment-->
 inPractice: >-
-  **An organizational culture that supports effective conflict resolution** 
+  <!--StartFragment-->
 
 
-  Conflict resolution mechanisms can be difficult to put in place and to maintain. The process is effective to the degree that there is a culture within the workplace where people feel safe and encouraged to hold each other to account, even when that feels uncomfortable.
+  **Una cultura organizacional que apoya la resolución eficaz de conflictos**\
+
+  Los mecanismos de resolución de conflictos pueden ser difíciles de establecer y mantener. El proceso es efectivo en la medida en que existe una cultura en el lugar de trabajo donde las personas se sienten seguras y se les anima a responsabilizarse mutuamente, incluso cuando se sienten incómodas.\
+
+  Aquí hay algunos principios básicos que subyacen a muchos enfoques de las organizaciones Teal sobre los conflictos en una cultura que brinda soporte para resolverlos :
 
 
-  Here are some basic principles that underlie many of the Teal organisation's approaches to conflict in a supportive culture:
+  * Es imposible cambiar a otras personas. Sólo podemos cambiar a nosotros mismos.
+
+  * Nos apropiamos de nuestros pensamientos, creencias, palabras y acciones.
+
+  * No esparcimos rumores.
+
+  * No hablamos detrás de alguien.
+
+  * Resolvemos los desacuerdos uno a uno y no arrastramos a otras personas al problema.
+
+  * No culpamos a los demás de los problemas. Cuando sentimos ganas de culpar, lo tomamos como una invitación a reflexionar sobre cómo podemos ser parte del problema (y la solución).
+
+  * Nos centramos más en las fortalezas que en las debilidades, en las oportunidades más que en los problemas.
 
 
-  * It’s impossible to change other people. We can only change ourselves. 
+  \
 
-  * We take ownership for our thoughts, beliefs, words, and actions.
+  Por lo tanto, además de los procesos específicos de resolución de conflictos, se necesitan otras estructuras para crear y mantener este tipo de cultura de apoyo. Por ejemplo, muchas organizaciones consideran útil establecer un conjunto de valores y traducir estos valores en comportamientos concretos que son alentados o declarados inaceptables en la comunidad de colegas. Muchas organizaciones Teal también establecen prácticas específicas de reunión para ayudar a los participantes a interactuar entre sí desde una posición de plenitud, para mantener sus egos bajo control y para asegurar que la voz de todos se escucha. Esto puede hacerse, por ejemplo, iniciando una reunión con un minuto de silencio, finalizando una reunión con una ronda de agradecimiento o un proceso estructurado de toma de decisiones. Otro elemento clave para una cultura de apoyo es el espacio de oficinas, que debe sentirse seguro, proporcionar lugar para la una reflexión tranquila y fomentar la plenitud individual y colectiva.\
 
-  * We don’t spread rumors.
+  \
 
-  * We don’t talk behind someone’s back.
+  **Cómo se tratan los conflictos**\
 
-  * We resolve disagreements one-on-one and don’t drag other people into  the problem.
-
-  * We don’t blame problems on others. When we feel like blaming, we take it as an invitation to reflect on how we might be part of the problem (and the solution).
-
-  * We focus on strengths more than weaknesses, on opportunities more than problems. 
+  En un lugar de trabajo convencional, a menudo las personas plantean las disputas al jefe para que resuelva el asunto. En las organizaciones autogestionadas, los desacuerdos se resuelven entre pares, a menudo utilizando un proceso de resolución de conflictos. Los compañeros se apoyan y exigen mutuamente para dar cuenta de sus compromisos y responsabilidades mutuas. Lograr mantener esta responsabilidad entre los colegas responsables puede resultar incómodo por lo que las organizaciones Teal a veces ofrecen apoyo y prácticas que fomentan la apertura y emerja la inteligencia emocional. En general hay tres tipos de prácticas que las organizaciones Teal ponen en marcha para ayudar a lidiar con los conflictos.
 
 
-  Therefore, in addition to specific conflict resolution processes, other structures are needed to create and maintain this type of supportive culture. For instance, many organizations find it helpful to establish a set of values and translate these values into concrete behaviors that are either encouraged or declared unacceptable in the community of colleagues. Many Teal organizations also institute specific meeting practices to help participants interact with each other from a place of wholeness, to keep their egos in check and to ensure everybody’s voice is heard. This might be done by, for example, starting a meeting with a minute of silence, finishing a meeting with a round of appreciation or a structured decision-making process. Another key contributor to a supportive culture is the office space, which should feel safe, provide place for quiet reflection and encourage individual and collective wholeness.
+  * Primero, se desarrollan métodos para ayudar a las personas a traer las tensiones a la superficie.
+
+  * En segundo lugar, los procesos de resolución de conflictos claramente definidos están disponibles para ayudar a las personas a enfrentarse de manera segura cuando sea necesario.
+
+  * En tercer lugar, la mayoría de las organizaciones de autogestión capacitan a cada nuevo recluta en la resolución de conflictos y habilidades interpersonales.
 
 
-  #### **How conflicts are addressed**
+  \
+
+  \
+
+  **Traer tensiones a la superficie**\
+
+  Puede ser difícil para alguien pararse frente a un colega y decir: "Tenemos que hablar". Los procesos utilizados por algunas organizaciones incluyen reuniones regulares de grupo, retiros de empresas, círculos de propósito y días de valores. Sacar a la superficie se convierte en una forma de ayudar a otros a ver el conflicto como normal, creativo y una forma de aprender acerca de la diversidad y la diferencia. Estas prácticas permiten que otros compartan sus vulnerabilidades, ver crear [espacios seguros](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Creando_Espacios_Seguros "Creando Espacios Seguros").
 
 
-  In a conventional workplace, people often raise a dispute with a boss to settle the matter. In self-managing organizations, disagreements are resolved among peers, often using a conflict resolution process. Peers hold each other to account for their mutual commitments and responsibilities. Holding colleagues accountable in this way can feel uncomfortable and Teal organisations sometimes offer support and practices that encourage openness and emotional intelligence to emerge. Broadly there are three types of practices that Teal organizations put in place to help deal with conflicts.
+  **Aquí hay unos ejemplos:**
 
 
-  * First, methods are developed to help people bring tensions to the surface. 
+  * En ESBZ, una escuela en Berlín, cada clase se reúne a una hora fija cada semana para discutir y tratar las tensiones en el grupo. La reunión es facilitada por un estudiante, que ayuda a que se respete una serie de reglas básicas que mantienen la discusión segura.
 
-  * Second, clearly defined conflict resolution processes are available to help people safely confront each other when needed. 
+  * En Heiligenfeld, una vez al año, los colegas de cada equipo califican la calidad de su interacción con otros equipos. El resultado es un "mapa de calor" de toda la compañía que revela qué equipos deben tener una conversación para mejorar su colaboración.
 
-  * Third, most self-managing organizations train every new recruit in conflict resolution and interpersonal skills. 
-
-
-  ##### ***Bringing tensions to the surface***
+  * RHD celebra una reunión bimensual de "-ismos en el lugar de trabajo" Cualquier persona que sienta que la organización debe prestar atención a una forma específica de racismo, sexismo o cualquier otro "ismo" puede unirse a la reunión.
 
 
-  It can be hard for someone to stand up to a colleague and say, “We need to talk.”. Processes used by some organizations include regularly scheduled group meetings, company retreats, purpose circles and values days. Surfacing becomes a way of helping others to view conflict as normal, creative and a way of learning about diversity and difference. These practices enable others to share their vulnerabilities, see [creating safe spaces](../safe-space/).
+  \
+
+  \
+
+  **Procesos de resolución de conflictos**\
+
+  En las organizaciones autogestionadas, tener un proceso de resolución de conflictos claro y bien entendido ayuda a las personas a plantear problemas. Los mecanismos típicos de resolución de conflictos incluyen: discusión individualizada, mediación por un compañero y mediación por un panel. Algunas organizaciones también utilizan coaching individual o de equipo para trabajar algún malestar.\
+
+  **Por ejemplo:**
 
 
-  Here are some examples:
+  * En la primera fase, las dos personas se sientan juntas y tratan de resolverlo en privado.
+
+  * Si no encuentran una solución aceptable para ambos, nombran a un colega en quien ambos confían para actuar como mediadores. El mediador no impone una decisión. Más bien, él o ella apoya a los participantes a llegar a su propia solución.
+
+  * Si falla la mediación, se convoca un grupo de colegas relevantes. Una vez más, el panel no impone una solución.
+
+  * Si no se encuentra la resolución, el fundador o presidente puede ser llamado al panel para agregar al peso moral del panel (pero nuevamente, no impone una solución).
 
 
-  * At ESBZ, a school in Berlin, every class gets together at a fixed time each week to discuss and deal with tensions in the group. The meeting is facilitated by a student, who supports a number of ground rules that keep the discussion safe. 
+  \
 
-  * At Heiligenfeld, once a year, colleagues in every team rate the quality of their interaction with other teams. The result is a company-wide “heat map” that reveals which teams should have a conversation to improve their collaboration. 
+  **Entrenamiento en habilidades interpersonales**\
 
-  * RHD holds a bi-monthly “-isms in the workplace" meeting. Anyone feeling that the organization should pay attention to a specific form or occurrence of racism, sexism, or any other “-ism” can join the meeting. 
-
-
-  ##### ***Conflict resolution processes***
+  Debido a que las habilidades efectivas de resolución de conflictos son tan centrales en las organizaciones autogestionadas, muchas organizaciones capacitan a todos sus colegas en habilidades interpersonales para que puedan lidiar con gracia los conflictos. Generalmente en sus primeras semanas en el trabajo, las nuevas contrataciones reciben la formación inicial incluyendo: autogestión, escucha profunda, negociando constructivamente con el conflicto y creando un ambiente seguro. Por ejemplo, empresas como ESBZ y Burtzorg forman a colegas en la Comunicación No Violenta desarrollada por Marshall Rosenberg.
 
 
-  In self-managing organisations, having a clear and well understood conflict resolution process helps people raise issues. Typical conflict resolution mechanisms include: one-on-one discussion, mediation by a peer and mediation by a panel. Some organizations also use team or individual coaching to work through an upset.
-
-
-  For example, :
-
-
-  * In the first phase, the two people sit together and try to sort it out privately. 
-
-  * If they can’t find a solution agreeable to both, they nominate a colleague they both trust to act as a mediator. The mediator doesn’t impose a decision. Rather he or she supports the participants in coming to their own solution. 
-
-  * If mediation fails, a panel of topic-relevant colleagues is convened. Again the panel does not impose a solution. 
-
-  * If resolution is not found, the founder or president might be called into the panel to add to the panel’s moral weight (but again, not to impose a solution). 
-
-
-  ##### ***Training in Interpersonal skills***
-
-
-  Because effective conflict resolution skills are so central in self-managing organizations, many organizations train all their colleagues in interpersonal skills to enable them to deal gracefully with conflict. Generally in their first weeks at work, new hires are given foundational training including: self-management, deep listening, dealing constructively with conflict and creating a safe environment. For instance, companies like ESBZ and Buurtzorg train colleagues in [Nonviolent Communication ](https://en.wikipedia.org/wiki/Nonviolent_Communication)developed by Marshal Rosenberg.
+  <!--EndFragment-->
 faq:
-  - question: If so much time is spent talking through every conflict, when does the
-      work get done?
-    answer: Working through conflict in a collaborative way without a solution
-      imposed by a boss can take time. However, the structure of Teal
-      organizations within which employees are trusted to make decisions
-      collaboratively from a place of wholeness and care for others, prevents
-      many conflicts from happening in the first place. Also, many Teal
-      organizations extensively train their employees in effective communication
-      and similar skills that make talking through conflict an easier and faster
-      process. Even if resolving conflict does take some extra time, there are
-      many benefits, such as increased productivity from happier and more
-      empowered workers.
-  - question: Doesn’t it usually end up with a few team members doing most of work
-      because there is no boss to oversee the situation when someone slacks off?
-    answer: In traditional companies, when one person doesn’t deliver, colleagues
-      grumble and complain but leave it to the person’s boss to do something
-      about it. In self-managing organizations, people have to step up and
-      confront colleagues who fail to uphold their commitments. This can
-      sometimes be difficult or uncomfortable. Teal organizations invest a lot
-      of time and effort in giving people the skills and resources they need to
-      do this effectively.
-  - question: Are peers really fully trusted to resolve conflicts? In Teal
-      organizations there is still a founder or CEO. Doesn’t this person have
-      the final say?
-    answer: When there is disagreement between two colleagues, they may try to send
-      it up to the founder or CEO or other person deemed to have more authority.
-      The temptation to settle the matters in this way is resisted. Instead, the
-      conflict resolution mechanism helps colleagues work through the conflict
-      together. In this way, they learn that their voice is valued and they do
-      have the power to hold peers to their commitments, without the
-      intervention of a boss, even if it can be uncomfortable at times. A CEO or
-      founder might be involved later on if the original colleagues can’t sort
-      the issue out one-on-one and if they choose this person as a mediator or
-      panel member. But neither a mediator nor a panel can impose a solution.
-      Other support may also be requested when teams run into trouble, but
-      ultimately the participants must find their own solution.
+  - question: Si se gasta tanto tiempo hablando para tratar cada conflicto, ¿cuándo
+      se hace el trabajo?
+    answer: >-
+      <!--StartFragment-->
+
+
+      Trabajar a través del conflicto de una manera colaborativa sin una solución impuesta por un jefe puede tomar tiempo. Sin embargo, la estructura de las organizaciones Teal dentro de las cuales se confía a los empleados tomar decisiones de manera colaborativa desde una posición de plenitud y cuidado de los demás, evita que ocurran muchos conflictos. Además, muchas organizaciones Teal extensivamente entrenan a sus empleados en la comunicación eficaz y habilidades similares que les permiten hablar los conflictos en un proceso más fácil y más rápido. Incluso si la resolución de conflictos toma algún tiempo extra, hay muchos beneficios, como el aumento de la productividad de trabajadores más felices y más empoderados.
+
+
+
+
+      <!--EndFragment-->
+  - question: ¿No suele terminar con unos pocos miembros del equipo que hacen la
+      mayor parte del trabajo porque no hay un jefe para supervisar la situación
+      cuando alguien se afloja?
+    answer: >-
+      <!--StartFragment-->
+
+
+      En las empresas tradicionales, cuando una persona no rinde, los colegas se quejan y se quejan, pero dejan que el jefe de la persona haga algo al respecto. En las organizaciones autogestionadas, la gente tiene que pararse y confrontar a los colegas que no cumplen sus compromisos. Esto a veces puede ser difícil o incómodo. Las organizaciones Teal invierten mucho tiempo y esfuerzo en dar a la gente las habilidades y los recursos que necesitan para hacer esto efectivamente.
+
+
+      <!--EndFragment-->
+  - question: ¿Se puede realmente confiar en los compañeros para resolver
+      conflictos? En las organizaciones Teal todavía hay un fundador o CEO. ¿No
+      debería esta persona tener la última palabra?
+    answer: >-
+      <!--StartFragment-->
+
+
+      Cuando hay desacuerdo entre dos colegas, ellos pueden intentar enviarlo al fundador o CEO u otra persona que se considera que tiene más autoridad. Hay que resistir la tentación de resolver los asuntos de esta manera. En cambio, el mecanismo de resolución de conflictos ayuda a los colegas a resolver juntos el conflicto. De esta manera, aprenden que su voz es valorada y que tienen el poder de tener y sostener el compromiso de sus compañeros, sin la intervención de un jefe, aunque a veces resulte incómodo. Un CEO o fundador podría estar involucrado más tarde si los colegas originales no pueden resolver el asunto uno a uno y si eligieron a esta persona como mediador o miembro del panel. Pero ni un mediador ni un panel puede imponer una solución. También se puede solicitar otro tipo de apoyo cuando los equipos tienen problemas, pero en última instancia los participantes deben encontrar su propia solución.
+
+
+      <!--EndFragment-->
 relatedTheory:
   - Culture and Values
   - Onboarding
   - Dismissal
   - Training and Coaching
 ---
-to be deleted
