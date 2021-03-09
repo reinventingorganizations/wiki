@@ -146,24 +146,25 @@ theory:
 
       3. There is no single way to manage corporate issues well.
   - topic: wholeness
-    title: An organizational Bill of Rights
+    title: Una Declaración de derechos organizacional
     content: >-
-      RHD has developed over the years a beautiful and precisely worded Bill of
-      Rights and Responsibilities for Employees and Consumers. The first two
-      articles spell out RHD’s objective of creating a safe environment and
-      constructively managing conflict and anger. (Later articles deal with
-      topics related to self-management.) The premise is maintained that
-      conflict is inevitable, but that hostile behaviors are not:
+      <!--StartFragment-->
 
 
-      *This corporation has chosen to operate with several basic assumptions. One of those assumptions is that there are multiple “right” ways or paths we can follow in making decisions, thus there is no one “true” or “absolute” reality. Each person in a situation holds his/ her own view of reality, and his/ her own perspective about the most effective way to do things. This assumption allows us to recognize that conflict is inevitable and that people will disagree in the workplace. While conflict and difference (or disagreement) are to be expected, explosive or otherwise hostile expressions of anger are not acceptable in RHD. As a member of the RHD community, it is important to be able to do two things: a) Separate from our own need to be “right” in order to hear and respect others’ realities and perspectives: and, b) Differentiate between thoughts (what’s going on inside your head) and behaviors (what you do or say).^\[Robert Fishman and Barbara Fishman, The Common Good Corporation: The Experiment Has Worked! (Philadelphia: The Journey to Oz Press, 2006), 165.]*
+      RHD, por ejemplo, ha desarrollado con el paso de los años una hermosa Declaración de derechos y responsabilidades de empleados y consumidores, redactada con mucha precisión. Los primeros dos artículos detallan el objetivo de RHD de crear un ambiente seguro y de manejar constructivamente los conflictos y la ira. (Los artículos posteriores tratan temas relacionados con la autogestión.) La premisa es que los conflictos son inevitables, pero no así las conductas hostiles:
 
 
-      The document goes on to spell out in detail five unacceptable expressions of hostility. The first, demeaning speech and behavior, is described in the following terms:
+      *Esta corporación ha elegido funcionar con varios supuestos básicos. Uno de ellos es que existen múltiples formas o caminos "correctos" que podemos seguir para tomar decisiones; no existe una realidad "verdadera" o "absoluta". En una situación dada, cada persona mantiene su punto de vista sobre la realidad y su propia perspectiva acerca de la forma más eficaz de hacer las cosas. Este supuesto nos permite reconocer que el conflicto es inevitable y que habrá desacuerdos en el lugar de trabajo. Si bien cabe esperar que existan conflictos y diferencias (o desacuerdos), las expresiones explosivas u hostiles de ira no son aceptables en RHD. Como miembro de la comunidad de RHD es importante ser capaz de hacer dos cosas:* a) separarse de la necesidad de "tener razón" a fin de escuchar y respetar las realidades y perspectivas de los demás y, b) b) diferenciar entre pensamientos (lo que sucede en nuestra cabeza) y comportamientos (lo que hacemos o decimos).*(14)*
 
 
-      *Demeaning speech and behavior involves any verbal or nonverbal behavior that someone experiences as undermining of that person’s self-esteem and implies that he/she is less than worthy as a human being. Such behaviors include, but are not limited to, name-calling, ridicule, sarcasm, or other actions which “put down” people. Demeaning a person with such physical behaviors as rolling one’s eyes when the person speaks or otherwise negating her importance as a member of the community is also unacceptable. Anyone encountering such hostile behavior has the right and responsibility to surface it as an issue.^\[Robert Fishman and Barbara Fishman, The Common Good Corporation: The Experiment Has Worked! (Philadelphia: The Journey to Oz Press, 2006), 165.]*
+      El documento explica en detalle cinco expresiones inaceptables de hostilidad. La primera, discurso y conducta humillantes, se describe en los siguientes términos:
 
 
-      Other expressions of hostility ”negative triangulated messages,” “threat of abandonment,” “disconfirming the other person’s reality,” and “intimidation/explosion” are defined in an equally precise manner.^[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3332-3349). Nelson Parker. Kindle Edition.]
+      *Un discurso y una conducta humillantes involucran cualquier conducta verbal o no verbal que se perciba como algo que socava la autoestima de alguien y que implica que tiene menos valor humano. Dichas conductas incluyen, entre otras, el uso de ofensas, burlas, sarcasmo u otras acciones que denigran a las personas. Humillar a una persona con conductas físicas tales como entornar los ojos cuando la persona habla o negar su importancia como miembro de la comunidad también es inaceptable. Todo aquel que se encuentre con una conducta hostil de este tipo tiene el derecho y la responsabilidad de hacerla aflorar como un problema.*(15)
+
+
+      Otras expresiones de hostilidad, como "mensajes negativos triangulados", "amenaza de abandono", "invalidar la realidad de otra persona" e "intimidación/ explosión", se definen de manera igualmente precisa.(16)
+
+
+      <!--EndFragment-->
 ---
