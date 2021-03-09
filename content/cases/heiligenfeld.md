@@ -59,16 +59,11 @@ theory:
 
       [Heiligenfeld ](http://www.heiligenfeld.de/)has developed a simple practice of team supervision. The company works with four external coaches who each have their domain of expertise (relationships, organizational development, system thinking, leadership). There are a number of time slots with the coaches every month that teams can sign up for. The recommendation is for every team to hold at least one session a year; on average teams hold two to four. In the discussion, with the help of the outside supervisor, colleagues can explore what a tension reveals about themselves and how they can grow to resolve it.
   - topic: Conflict resolution
-    title: Innovative management practices are used to create a supportive work
-      culture that fosters trust, empathy and compassion, while decreasing
-      conflict.
+    title: Las prácticas de gestión innovadoras se utilizan para crear una cultura
+      de trabajo de apoyo que fomenta la confianza, la empatía y la compasión,
+      mientras que disminuye el conflicto.
     content: >-
-      <!--StartFragment-->
-
-
-      Las prácticas de gestión innovadoras se utilizan para crear una cultura de trabajo de apoyo que fomenta la confianza, la empatía y la compasión, mientras que disminuye el conflicto.\
-
-      \
+      <!--StartFragment-->\
 
       En Heiligenfeld todos los martes por la mañana, los 350 empleados se reúnen durante una hora y un cuarto para participar en la reflexión conjunta. Cada semana, un nuevo tema que es actual y propicio para la autorreflexión se pone en la agenda. Las reuniones recientes han reflexionado sobre temas tan diversos como la resolución de conflictos, el fracaso, los valores de la empresa, la comunicación interpersonal, la burocracia, las innovaciones de TI, la gestión de riesgos, la salud personal y la atención plena. La reunión siempre comienza con una breve presentación para encuadrar el tema, seguida de auto-reflexión en pequeños grupos. Cada grupo elige a un facilitador que hace cumplir las reglas básicas que crean un espacio donde es seguro explorar, ser auténtico y vulnerable. En los confines del pequeño grupo, ayudado por la escucha de sus colegas, la gente se atreve a cavar profundamente y ganar nueva comprensión y entendimiento de si mismo y de otros. Los compañeros están expuestos cada semana a un espacio hecho seguro por las reglas de juego que los invita a ser verdaderamente ellos mismos. Aprenden a verse a la luz de su profunda humanidad, en la belleza de sus fortalezas y vulnerabilidad. La confianza, empatía y compasión que se desarrollan en estas reuniones se expanden y pernean en toda la organización
 
