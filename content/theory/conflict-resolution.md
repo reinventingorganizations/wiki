@@ -151,7 +151,7 @@ inPractice: >-
 
   **Entrenamiento en habilidades interpersonales**\
 
-  Debido a que las habilidades efectivas de resolución de conflictos son tan centrales en las organizaciones autogestionadas, muchas organizaciones capacitan a todos sus colegas en habilidades interpersonales para que puedan lidiar con gracia los conflictos. Generalmente en sus primeras semanas en el trabajo, las nuevas contrataciones reciben la formación inicial incluyendo: autogestión, escucha profunda, negociando constructivamente con el conflicto y creando un ambiente seguro. Por ejemplo, empresas como ESBZ y Burtzorg forman a colegas en la Comunicación No Violenta desarrollada por Marshall Rosenberg.
+  Debido a que las habilidades efectivas de resolución de conflictos son tan centrales en las organizaciones autogestionadas, muchas organizaciones capacitan a todos sus colegas en habilidades interpersonales para que puedan lidiar con gracia los conflictos. Generalmente en sus primeras semanas en el trabajo, las nuevas contrataciones reciben la formación inicial incluyendo: autogestión, escucha profunda, negociando constructivamente con el conflicto y creando un ambiente seguro. Por ejemplo, empresas como ESBZ y Buurtzorg forman a colegas en la Comunicación No Violenta desarrollada por Marshall Rosenberg.
 
 
   <!--EndFragment-->
