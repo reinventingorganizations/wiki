@@ -5,100 +5,92 @@ key: Ownership
 name: La Propiedad
 sortOrder: 6
 category: Structure of an organization
-intro: "This article discusses the structure of ownership under Teal and the
-  implications for the types of owners of Teal organizations.\r
+intro: >-
+  <!--StartFragment-->
 
-  \r\n"
+
+  Este artículo discute la estructura de la propiedad bajo Teal y las implicaciones para los tipos de propietarios de las organizaciones Teal.
+
+
+  <!--EndFragment-->
 perspective: >-
-  Ownership and Teal have an uneasy relationship. Traditionally, ownership is a
-  concept that applies to “for profit” entities. From a strictly legal
-  perspective, the modern “for profit” organization, whether it be a sole
-  proprietorship, a partnership or a corporation, exists primarily to provide a
-  financial return to its owners. Indeed, the entire legal framework established
-  around “for profit” organizations in developed countries reflects the
-  assumption that such is their purpose. As this wiki discusses at length
-  elsewhere, the purpose of a Teal organization extends well beyond providing a
-  financial return to its owners.
+  <!--StartFragment-->
 
 
-  In the Teal paradigm, purpose transcends profit. This requires expanding beyond the primacy of ownership in Orange and even the Green multi-stakeholder perspective. In Teal, while fulfilling the organization’s purpose might require financial investment, which in turn might give investors a legitimate voice in the organization and the right to a fair return on their investment, the organization does not exist solely to serve its owners.
+  La propiedad y Teal tienen una relación incómoda. Tradicionalmente, la propiedad es un concepto que se aplica a entidades "con fines de lucro". Desde una perspectiva estrictamente legal, la organización moderna "con fines de lucro", ya sea una empresa unipersonal, una sociedad o una corporación, existe principalmente para proporcionar un retorno financiero a sus propietarios. De hecho, todo el marco jurídico establecido en torno a las organizaciones "lucrativas" en los países desarrollados refleja el supuesto de que tal es su propósito. Como este wiki discute extensamente en otra parte, el propósito de una organización Teal se extiende mucho más allá de proporcionar un reembolso financiero a sus dueños.
 
 
-  Taking a broader perspective, the concept of ownership might be replaced by a concept such as [stewardship](https://en.wikipedia.org/wiki/Stewardship). Can you own a living entity, like an organization, or part of it? Can you own energy that wants to manifest itself? Can you even own the assets - such as the metal that makes up a machine? We barely have begun asking these questions, and have no real answers yet. Ownership is today deeply enshrined in our legal frameworks that organizations must comply with. We have yet to invent what "stewardship" of an organization could mean (see “In practice” below).
+  En el paradigma Teal, el propósito trasciende el beneficio. Esto requiere expandirse más allá de la primacía de la propiedad del Naranja e incluso de la perspectiva de las múltiples partes interesadas del Verde. En Teal, mientras que el cumplimiento del propósito de la organización puede requerir inversión financiera, lo que a su vez podría dar a los inversionistas una voz legítima en la organización y el derecho a un justo retorno de su inversión, la organización no existe únicamente para servir a sus propietarios.
 
 
-  Today, we draw a distinction between “for profit” and “not for profit” organizations. Perhaps the implementation of something like “stewardship” would blur this distinction and lead to a new more broadly applicable legal form of organization.
+  Tomando una perspectiva más amplia, el concepto de propiedad podría ser reemplazado por un concepto como la mayordomía. ¿Puede ser dueño de una entidad viviente, como una organización, o parte de ella? ¿Puede usted poseer a la energía que quiere manifestarse? ¿Puede incluso poseer los activos - como el metal que forma una máquina? Apenas hemos comenzado a hacer estas preguntas, y todavía no tenemos respuestas reales. La propiedad está hoy profundamente consagrada en nuestros marcos legales que las organizaciones deben cumplir. Todavía tenemos que inventar lo que la "mayordomía" de una organización podría significar.
 
 
-  For a fuller discussion of a historical perspective on ownership, see below:
+  Hoy en día, hacemos una distinción entre organizaciones "sin fines de lucro" y "con fines de lucro". Tal vez la aplicación de algo como "mayordomía" desdibujaría esta distinción y conduciría a una nueva forma jurídica de organización más ampliamente aplicable.\
+
+  \
+
+  Para una discusión más completa de una perspectiva histórica sobre la propiedad, vea a continuación:
 
 
-  #### Red Organizations
+  **Organizaciones Rojas**\
+
+  En la [organización Roja](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_paradigma_Rojo_y_las_Organizaciones "El paradigma Rojo y las Organizaciones"), la propiedad es con frecuencia un concepto sin sentido, ya que la legitimidad de su liderazgo deriva del poder más que de algún tipo de propiedad. El propósito está más estrechamente relacionado con la agregación de poder que con el retorno financiero. En la medida en que las organizaciones Rojas reconocen la propiedad y el liderazgo, estas suelen estar fusionadas. El líder es también el propietario, o el representante clave de la familia propietaria.
 
 
-  In the [Red organization](https://reinventingorganizations-wiki.netlify.app/theory/red-organizations/), ownership is frequently a meaningless concept, as the legitimacy of its leadership stems from power more than some construct of ownership. Purpose is more closely tied to further aggregation of power than to financial return. To the extent Red organizations recognize ownership, ownership and leadership are typically fused. The leader is also the owner, or the key representative of the ownership family.
+  **Organizaciones Ámbar**\
+
+  Una vez más, en el [paradigma Ámbar](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_%C3%81mbar_y_las_Organizaciones "El Paradigma Ámbar y las Organizaciones"), la propiedad es a menudo una idea incongruente. Las organizaciones Ámbar frecuentemente tienen un propósito distinto al retorno financiero. No hay "dueño" de los militares, de la iglesia o de las agencias gubernamentales. En la medida en que las entidades con fines de lucro operan en el paradigma Ámbar, suelen equilibrar la búsqueda del rendimiento financiero con algún otro objetivo, como la auto preservación. A menudo de propiedad familiar, los propietarios pueden limitar la búsqueda estricta de la maximización de los beneficios en favor de intereses como mantener un legado.
 
 
-  #### Amber Organizations
+  **Organizaciones Naranja**\
+
+  Es bajo el [paradigma Naranja](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Naranja_y_las_Organizaciones "El Paradigma Naranja y las Organizaciones"), que el concepto de propiedad se vuelve primordial. Un objetivo principal de la organización clásica Naranja es proporcionar un retorno financiero a sus propietarios. Esto se refleja en la construcción legal moderna de una corporación, donde los accionistas tienen la última autoridad sobre la gerencia en proporción a su propiedad. La administración está legalmente obligada a buscar un rendimiento financiero para los accionistas. Esto ha dado lugar a la propiedad ampliamente dispersa de las organizaciones, así como la propiedad que puede cambiar a través de mecanismos como acciones negociables. Cada propietario puede tener una participación pequeña y variable, pero todos están unidos en la búsqueda de ganancias financieras.\
+
+  \
+
+  **Organizaciones Verdes**\
+
+  El [paradigma Verde](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Verde_y_las_Organizaciones "El Paradigma Verde y las Organizaciones") reacciona ante el foco del Naranja en los accionistas y en las preocupaciones financieras al insistir en la importancia de todas las partes interesadas: empleados, clientes, comunidades, proveedores y accionistas. Por lo tanto, incluso las organizaciones "lucrativas" no están únicamente en beneficio de los propietarios, sino que también deben tener en cuenta la pluralidad de intereses incluidos en sus actividades. El movimiento de Responsabilidad Social Corporativa ("RSE") nació desde esta perspectiva.\
+
+  Generalmente, sin embargo, las organizaciones verdes con fines de lucro no tienen una estructura de propiedad diferente a las organizaciones Naranja. Cuando los propietarios de una organización Verde comparten la perspectiva Verde, esto tiende a no crear un problema. Sin embargo, si algunos propietarios difieren en su opinión sobre la importancia de los retornos financieros, pueden surgir conflictos.
 
 
-  Again, in the the [Amber paradigm](http://reinventingorganizationswiki.com/Amber_Organizations), ownership is often an incongruous idea. Amber organizations frequently have a purpose other than financial return. There is no “owner” of the military, the church or government agencies. To the extent for-profit entities operate in the Amber paradigm, they typically balance the pursuit of financial return with some other objective such as self-preservation. Often family-owned, the owners can limit the strict pursuit of profit maximization in favor of interests like maintaining a legacy.
-
-
-  #### Orange Organizations
-
-
-  It is under the [Orange paradigm](http://reinventingorganizationswiki.com/Orange_Organizations), that the concept of ownership becomes paramount. A primary purpose of the classic Orange organization is to provide a financial return to its owners. This is reflected in the modern legal construct of a corporation, where shareholders have ultimate authority over management in proportion to their ownership. Management is legally obliged to seek a financial return for shareholders. This has resulted in widely dispersed ownership of organizations as well as ownership that can change through mechanisms like tradable shares. Each owner may have a tiny, and variable stake, but all are united in the pursuit of financial gain.
-
-
-  #### Green Organizations
-
-
-  The [Green paradigm](http://reinventingorganizationswiki.com/Green_Organizations) reacts to the Orange focus on shareholders and financial concerns by insisting on the importance of all stakeholders - employees, customers, communities, suppliers as well as shareholders. Thus, even “for profit” organizations are not solely for the benefit of owners: they ought also to take into account the plurality of interests included in its activities. The Corporate Social Responsibility (“CSR”) movement was born out of this perspective.
-
-
-  Generally however, for-profit Green organizations do not have a different ownership structure than Orange organizations. When the owners of a Green organization all share the Green perspective, this tends not to create a problem. However, should some owners differ in their view of the importance of financial returns, conflict can ensue.
+  <!--EndFragment-->
 inPractice: >-
-  Ownership in Teal organizations can take a number of forms. It may be
-  concentrated or dispersed, private or public, and this diversity has been in
-  evidence at least to some extent in those Teal organizations that have so far
-  come into being. Having said that, there is at least strong evidence that in
-  whatever form, the owners of Teal organizations must understand and embrace a
-  Teal worldview. While it is not clear that a Teal perspective is necessarily
-  incompatible with profit and wealth maximization (one might argue that Teal
-  can maximize these even as a by product of its evolutionary purpose), it is
-  certainly true that many might believe this to be so. Thus, a Teal
-  organization with owners who do not necessarily subscribe to a Teal worldview
-  is at risk that such owners (as a result of the legal rights typically
-  conferred upon them) can force the abandonment of Teal practices when they
-  seem to conflict with, or be less effective in terms of pursuing the more
-  traditional objective of profit (see BSO/Origin and AES under “Concrete
-  examples for inspiration” below).
+  <!--StartFragment-->
 
 
-  Certain legal developments have emerged to address this potential conflict, but they are not yet widespread. In the United States, some states recognize a “benefit corporation” as a type of for-profit entity that includes positive impact on society, workers, the community and the environment in addition to profit in its legally defined goals. In for-profit companies as we currently know them (the so-called C-Corporations), the organizations’ directors have a fiduciary duty to the shareholders, and to the shareholders only. They face the prospect of civil claims if they stray from their fiduciary duties by taking environmental or social concerns into account at the expense of shareholders. The duty of directors of benefit corporations is extended to include non-financial interests, such as social benefit, concerns of employees and suppliers, and environmental impact.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 5464-5467). Nelson Parker. Kindle Edition.]
+  La propiedad en las organizaciones Teal puede tomar una serie de formas. Puede estar concentrada o dispersa, privada o pública, y esta diversidad ha estado en evidencia al menos hasta cierto punto en aquellas organizaciones Teal que hasta ahora han surgido. Dicho esto, hay por lo menos evidencia fuerte que en cualquier forma, los dueños de las organizaciones Teal deben entender y abrazar una cosmovisión Teal. Aunque no está claro que la perspectiva Teal sea necesariamente incompatible con la maximización de ganancias y riquezas (se podría argumentar que Teal puede maximizarlas incluso como un producto de su propósito evolutivo), es cierto que muchos pueden creer que esto es así. Por lo tanto, una organización Teal con dueños que no necesariamente se suscriben a una cosmovisión Teal corre el riesgo de que tales propietarios (como resultado de los derechos legales que normalmente se les confieren) pueden forzar el abandono de las prácticas Teal cuando parezcan entrar en conflicto o ser menos eficaces en términos de perseguir el objetivo más tradicional del beneficio.
 
 
+  Han surgido ciertos desarrollos legales para hacer frente a este potencial conflicto, pero todavía no están muy extendidos. En Estados Unidos, algunos estados reconocen a una "corporación de beneficios" como un tipo de entidad con fines de lucro que incluye un impacto positivo en la sociedad, los trabajadores, la comunidad y el medio ambiente, además de obtener beneficios en sus metas legalmente definidas. En las empresas con fines de lucro tal como las conocemos actualmente (las denominadas C-Corporaciones), los directores de las organizaciones tienen un deber fiduciario para con los accionistas y sólo con los accionistas. Se enfrentan a la perspectiva de demandas civiles si se desvían de sus deberes fiduciarios teniendo en cuenta las preocupaciones ambientales o sociales en cuenta a expensas de los accionistas. El deber de los directores de las corporaciones de beneficios se amplía para incluir los intereses no financieros, tales como el beneficio social, las preocupaciones de los empleados y proveedores, y el impacto ambiental. \[1]
 
-  A much older but still somewhat rare structure is the cooperative, where ownership is placed with members (consumer cooperative) and/or employees (worker cooperative). However, while these organizations are presumably freed from a strict pursuit of profit, their purpose is to serve a single stakeholder group.
+
+  Una estructura mucho más antigua pero todavía algo rara es la cooperativa, donde la propiedad se coloca con miembros (cooperativa de consumidores) y / o empleados (cooperativa de trabajadores). Sin embargo, mientras que estas organizaciones son presumiblemente liberadas de una búsqueda estricta de beneficios, su propósito es servir a un solo grupo de partes interesadas. Holacracy ha redactado una constitución que un consejo puede adoptar y ser vinculante, incluso para futuros accionistas. Da a los accionistas una opinión legítima en materia de finanzas, pero les impide imponer unilateralmente una estrategia o volver a las prácticas de gestión tradicionales. Holacracy ha hecho los pasos legales para que su constitución encaje dentro de la ley corporativa de los Estados Unidos, y actualmente está adaptando la constitución a los sistemas legales en otros países. \[2]
 
 
-  Holacracy has drafted a constitution that a board can adopt and make binding, even to future shareholders. It gives shareholders a legitimate say in finance matters, but prevents them from unilaterally imposing a strategy, or from reverting to traditional management practices. Holacracy has done the legal footwork to make its constitution fit within US corporate law, and it is currently adapting the constitution to legal systems in other countries.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 5453-5457). Nelson Parker. Kindle Edition.]
+  <!--EndFragment-->
 faq:
-  - question: Teal organizations don't seem to encourage employee ownership. How come?
+  - question: Las organizaciones Teal no parecen alentar la propiedad de los
+      empleados. ¿Cómo es esto?
     answer: >-
-      Wouldn't employees be more motivated, feel more part of the organization
-      if they were to also own parts of it? Couldn't this help diminish income
-      inequality?
+      <!--StartFragment-->
 
 
-      1. Employee ownership is often thought of as a way to bind employees, especially the most talented and skilled, to the organization. From a Teal perspective that makes little sense. People should be free to pursue their calling. While that calling intersects with the purpose of the organization, then let people be part of it. And let them be free to leave when it is no longer the case. Profit sharing is an easy way for employees to benefit, but without having to buy stock, or be bought out, at a good or bad time.
+      ¿Acaso los empleados no estarían más motivados, sintiéndose parte de la organización si también tuvieran acciones de la compañía? ¿No podría esto ayudar a disminuir la desigualdad de ingresos?
 
-      2. Employee ownership is often thought of as a way to "motivate" employees. Under Teal, intrinsic motivation (such as purpose) is considered much more powerful than extrinsic factors like financial compensation.
 
-      3. Employee ownership is sometimes thought of as a way to give employees power and a voice. If employees have voting rights, they cannot simply be ignored. A self-managing structure distributes power anyway, and removes the need to do so via voting rights.
+      1. La propiedad del empleado a menudo se piensa como una manera de ligar a los empleados, especialmente los más talentosos y expertos, a la organización. Desde una perspectiva Teal eso tiene poco sentido. La gente debe ser libre para seguir su vocación. Mientras que esa vocación concuerde con el propósito de la organización, entonces deja que la gente sea parte de ella. Y dejar que sean libres de salir cuando ya no es el caso. El reparto de beneficios es una forma fácil para los empleados de beneficiarse, pero sin tener que comprar o vender acciones en un momento bueno o malo.
 
-      4. Employee ownership is sometimes seen as a way to reduce income inequality by allowing employees to share in the value creation of the organization. This is valid when it comes to young organizations that might rapidly increase in value and have limited cash resources. In more established companies, income inequality can often more easily be reduced through salary setting and profit sharing.
+      2. La propiedad del empleado a menudo se piensa como una manera de "motivar" a los empleados. Bajo Teal, la motivación intrínseca (como el propósito) se considera mucho más poderosa que los factores extrínsecos como la compensación financiera.
+
+      3. La propiedad de los empleados a veces se piensa como una manera de darle poder a los empleados y una voz. Si los empleados tienen derecho a votar, no pueden simplemente ser ignorados. Una estructura autogestionada distribuye el poder de todos modos, y elimina la necesidad de hacerlo a través de derechos de voto.
+
+      4. La propiedad de los empleados a veces es vista como una forma de reducir la desigualdad de ingresos al permitir que los empleados compartan la creación de valor de la organización. Esto es válido cuando se trata de organizaciones jóvenes que podrían aumentar rápidamente su valor y tener recursos en efectivo limitados. En las empresas más establecidas, la desigualdad de ingresos a menudo puede reducirse más fácilmente mediante la fijación de salarios y la participación en los beneficios.
+
+
+      <!--EndFragment-->
 relatedTheory:
   - board
   - Organizational Structure
