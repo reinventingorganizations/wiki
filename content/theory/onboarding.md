@@ -6,135 +6,138 @@ name: Incorporación
 sortOrder: 2
 category: People practices
 intro: >-
-  The topic of onboarding describes how new colleagues are welcomed and
-  supported when they join an organization. It covers training activities and
-  rotation programs to help new joiners integrate successfully into the
-  organizational and its culture.
+  <!--StartFragment-->
+
+
+  El tema de incorporación describe cómo los nuevos compañeros son bienvenidos y apoyados cuando se unen a una organización. Cubre actividades de capacitación y programas de rotación para ayudar a los nuevos integrantes a integrarse exitosamente en la organización y su cultura.
+
+
+  <!--EndFragment-->
 
 
   ![](/media/all-stages.jpg)
 perspective: >-
-  [Teal organizations](../teal-paradigm-and-organizations/) invest significant
-  time in welcoming and training new colleagues. This often includes learning
-  new relational skills, understanding what self-management means in practice
-  and going through a rotation program. These programs teach common skills and
-  provide an opportunity for new colleagues to meet a wide range of people.
-
-  Every historical stage has given birth to a distinct perspective on onboarding, and to very different practices:
+  <!--StartFragment-->
 
 
-  #### **Red Organizations**
+  Las [organizaciones Teal ](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones")invierten mucho tiempo en dar la bienvenida y entrenar a nuevos colegas. Esto a menudo incluye el aprendizaje de nuevas habilidades relacionales, la comprensión de lo que la autogestión significa en la práctica y pasar por un programa de rotación. Estos programas enseñan habilidades comunes y brindan una oportunidad para que nuevos colegas conozcan a una amplia gama de personas.
 
 
-  In [Red organizations](../red-organizations/) leaders continually exercise their power in order to maintain control. They often surround themselves with family members and trusted advisers, buying their allegiance by sharing the spoils. The onboarding process typically involves a ritual of allegiance to the leader. Mythical stories of the leaders power make the rounds and are part of the onboarding process.
+  Cada etapa histórica ha dado nacimiento a una perspectiva distinta sobre el embarque, ya prácticas muy diferentes:\
+
+  \
+
+  **Organizaciones Rojas**\
+
+  En las [organizaciones Rojas](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_paradigma_Rojo_y_las_Organizaciones "El paradigma Rojo y las Organizaciones"), los líderes ejercen continuamente su poder para mantener el control. A menudo se rodean de miembros de la familia y asesores de confianza, comprando su lealtad compartiendo el botín. El proceso de incorporación normalmente implica un ritual de lealtad al líder. Historias míticas del poder de los líderes circulan y son parte del proceso de integración.\
+
+  \
+
+  **Organizaciones Ámbar**\
+
+  Las [organizaciones Ámbar](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_%C3%81mbar_y_las_Organizaciones "El Paradigma Ámbar y las Organizaciones") valoran el orden y la previsibilidad. Todos tienen su lugar en una jerarquía que tiene roles claramente definidos y responsabilidades. La incorporación consiste en aprender los requisitos del trabajo y las expectativas que vienen con él. Esto a menudo significa poner las necesidades personales y los sentimientos a un lado en favor de la organización. Se espera que las personas sigan las reglas y permanezcan en su "caja".\
+
+  \
+
+  **Organizaciones Naranja**\
+
+  Las [organizaciones Naranja](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Naranja_y_las_Organizaciones "El Paradigma Naranja y las Organizaciones") se caracterizan por la competencia y la motivación de logro. La innovación es la clave para seguir adelante. El proceso de incorporación es a menudo funcional. La gente puede recibir algunos folletos sobre la historia de la compañía, la declaración de la misión y los valores, o puede haber una sesión de dos horas donde un líder de alto nivel habla sobre estos temas. Pero sobre todo, los primeros pasos son a menudo mundanos: hay papeles para firmar, un escritorio y un ordenador que encontrar, y una contraseña para asignar para acceder a la red de la empresa. Una vez listo, el nuevo empleado debe tratar de crear algo de tiempo en la agenda de su supervisor para obtener alguna orientación sobre qué hacer.\
+
+  \
+
+  **Organizaciones Verdes**\
+
+  Las [Organizaciones Verdes ](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Verde_y_las_Organizaciones "El Paradigma Verde y las Organizaciones")se enfocan en la cultura y el empoderamiento para alentar la motivación de los empleados. Enseñar el enfoque y las habilidades del liderazgo de servicio es un aspecto significativo de la incorporación para los gerentes. Los gerentes, a su vez, juegan un papel importante en dar la bienvenida a los recién llegados a la organización y ayudarlos a entender la cultura. La incorporación es a menudo sobre como construir la comunidad y el conocimiento de la nueva familia de una manera abierta.\
+
+  \
+
+  **Organizaciones Teal**\
+
+  Las [organizaciones Teal](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones") invierten mucho tiempo en dar la bienvenida y entrenar a nuevos colegas. Esto a menudo incluye el aprendizaje de nuevas habilidades relacionales, la comprensión de lo que la autogestión significa en la práctica y pasar por un programa de rotación. Estos programas enseñan habilidades comunes y proporcionan una oportunidad para que los nuevos colegas conozcan a una amplia gama de personas. Los recién llegados también se introducen en las prácticas de autogestión, plenitud y propósito evolutivo. Se les invita a considerar su vocación y sus talentos en relación con el propósito de la organización y sus actividades.
 
 
-  #### **Amber Organizations**
-
-
-  [Amber organizations](../amber-paradigm-and-organizations/) value order and predictability. Everybody has their place in a hierarchy which has clearly defined roles and responsibilities. Onboarding is about learning the requirements of the role and the expectations that come with it. This often means putting personal needs and feelings aside in favor of the organization. People are expected to follow the rules and stay in their ‘box’.
-
-
-  #### **Orange Organizations**
-
-
-  [Orange organizations](../orange-paradigm-and-organizations/) are characterized by competition and achievement drive. Innovation is the key to staying ahead. The onboarding process is often functional.. People might receive a few brochures about the company’s history, mission statement and values, or there might be a two-hour session where a senior leader talks about these topics. But mostly, the first steps are often mundane: there are papers to sign, a desk and computer to find, and a password to be assigned in order to access the firm’s network. Once ready to go, the new employee must try to create some time in his supervisor’s agenda to get some guidance on what to do.
-
-
-  #### **Green Organizations**
-
-
-  [Green Organizations](../green-paradigm-and-organizations/) focus on culture and empowerment to encourage employee motivation. Teaching the approach and skills of servant leadership is a significant aspect of onboarding for managers. Managers, in turn, play an important role in welcoming newcomers into the organization and helping them understand the culture. Onboarding is often about community building and meeting the new family in an open way.
-
-
-  #### **Teal Organizations**
-
-
-  [Teal organizations](../teal-paradigm-and-organizations/) invest significant time in welcoming and training new colleagues. This often includes learning new relational skills, understanding what self-management means in practice and going through a rotation program. These programs teach common skills and provide an opportunity for new colleagues to meet a wide range of people. Newcomers are also  introduced to the practices of [self-management](../self-management/), [wholeness](../wholeness/) and  [evolutionary purpose](../evolutionary-purpose/) They are invited to consider their calling and talents in relation to the organization's purpose and its activities.
+  <!--EndFragment-->[](../teal-paradigm-and-organizations/)
 inPractice: >-
-  #### **Training in relational skills and in company culture**
+  <!--StartFragment-->
 
 
-  [Teal Organizations Teal organizations](../teal-paradigm-and-organizations/) invest significant time and energy welcoming new colleagues. The first days and weeks are critical to helping them understand a new and often very different workplace. At the heart of the onboarding process is some form of training that helps colleagues understand and navigate the new environment they joined.
+  **Capacitación en habilidades relacionales y en la cultura de la empresa** Las [organizaciones Teal](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones") invierten mucho tiempo y energía dando la bienvenida a nuevos colegas. Los primeros días y semanas son fundamentales para ayudarles a entender su nuevo y a menudo muy diferente lugar de trabajo. En el corazón del proceso de incorporación es una forma de entrenamiento que ayuda a los colegas a entender y navegar el nuevo entorno al que se unieron.
 
 
-  At Buurtzorg, for example, all new team members are trained in problem solving and meeting practices, so they can operate in a team without a boss in charge. All new hires at [Heiligenfeld](http://www.heiligenfeld.com/) go through six training modules that include topics like "self-mastery" and "dealing with failure". All new recruits at [Morning Star](http://www.morningstarco.com/) attend a seminar on the basics of [self-management](../self-management/).
+  En Buurtzorg, por ejemplo, todos los nuevos miembros del equipo están entrenados en la resolución de problemas y las prácticas de reunión, para que puedan operar en un equipo sin un jefe a cargo. Todas las nuevas contrataciones en [Heiligenfeld](https://www.heiligenfeld.com/) pasan por seis módulos de formación que incluyen temas como "auto-dominio" y "lidiar con el fracaso". Todos los nuevos reclutas de [Morning Star ](http://www.morningstarco.com/)asisten a un seminario sobre los fundamentos de la [autogestión](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Autogesti%C3%B3n "Autogestión").\
+
+  \
+
+  Para las personas que anteriormente estaban en posiciones de liderazgo, la transición puede ser particularmente difícil. Tienen que aprender a hacer las cosas sin recurrir al mando y al control.\
+
+  Una parte significativa del proceso de incorporación se dedica a menudo a la comprensión del concepto de[propósito evolutivo](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Prop%C3%B3sito_Evolutivo "Propósito Evolutivo"). Se alienta a los nuevos empleados a expresar su vocación personal para ver cómo resuena con el propósito de la organización y para aprender cómo pueden apoyarse y alimentarse mutuamente.\
+
+  No hay una receta perfecta para un proceso Teal de integración. Cada organización elige una gama de actividades que apuntan a enseñar nuevas habilidades y, en el proceso, tocar el corazón y el alma de los que se unen. Una buena manera de desarrollar un proceso de incorporación es pedir a los empleados, especialmente a los nuevos, que co-creen su propio programa y actividades.
 
 
-  For people who were previously in leadership positions, the transition can be particularly difficult. They have to learn how to get things done without recourse to command and control.
+  El entrenamiento básico en algunas de las siguientes prácticas ayuda a nuevos colegas que empiezan en una organización Teal.\
+
+  \
+
+  **Reglas básicas o acuerdos**\
+
+  Crear un lugar de trabajo seguro comienza con la concientización de todo el mundo de las palabras y acciones que crean o socavan un ambiente de trabajo seguro. Las organizaciones Teal dedican mucho tiempo y energía a capacitar a todos en una serie de reglas básicas o acuerdos que apoyan una colaboración saludable y productiva. Estas reglas básicas son una aplicación tangible de la [cultura y los valores](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Cultura_y_Valores "Cultura y Valores") de la organización. Varias de las organizaciones terminan escribiendo esto en un documento. Por supuesto, se necesita más que un documento para traer valores a la vida. Muchas de las organizaciones Teal que han colaborado en la investigación han elegido comenzar desde el principio: todos los nuevos reclutas son invitados a una sesión de formación sobre los valores de la empresa y las reglas básicas, lo que ayuda a crear referencias comunes y un lenguaje común en toda la organización . Estas reglas básicas y valores son revisados regularmente para asegurar que reflejan mejor y sirven al propósito evolutivo de la organización.\
+
+  \
+
+  **Propósito**\
+
+  Un diálogo sobre cómo el propósito de la organización resuena con el llamado personal de los nuevos compañeros puede ser una gran introducción mutua. Las [organizaciones Teal ](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones")se ven teniendo una vida y un sentido de dirección propio. En lugar de tratar de predecir y controlar el futuro, los miembros de la organización están invitados a escuchar y entender lo que la organización quiere llegar a ser. Al comprender el propósito evolutivo, pueden ver cómo pueden contribuir a él mientras cumplen su propio llamado personal. Algunos fundadores y CEOs -como Jos de Blok en Buurtzorg y Yvon Chouinard en Patagonia- encuentran este módulo tan significativo que deciden participar en todas las sesiones.\
+
+  \
+
+  **Prácticas de la reuniones**\
+
+  Las reuniones, frecuentemente, se convierten en campos de juego para los egos, empujando a las almas a la clandestinidad. Por esa razón, casi todas las organizaciones Teal investigadas han instituido prácticas específicas de reunión para ayudar a los participantes a mantener sus egos bajo observación e interactuar entre sí desde una postura de plenitud. Para las nuevas contrataciones, es importante conocer prácticas como momentos de silencio y toma de decisiones estructuradas. Esto les permite contribuir a reuniones productivas.\
+
+  \
+
+  **Programas de rotación**\
+
+  Algunas organizaciones eligen entrenar a cada nuevo colega en habilidades de la línea del frente de batalla. El objetivo es construir relaciones con otros empleados en toda la compañía y crear comprensión de cómo opera la compañía. Este entendimiento permite a las personas desarrollar nuevas ideas y sugerencias de manera más efectiva.\
+
+  En [FAVI](http://www.favi.com/en/), el proveedor francés de automóviles, todos los ingenieros y trabajadores administrativos han sido entrenados para operar al menos una máquina en la planta. Esto construye la comunidad y permite que todos ayuden en la planta cuando la demanda es alta. En [Sun Hydraulics](http://www.sunhydraulics.com/), todas las nuevas contrataciones comienzan con un "tour de fabricación", sin importar cuál será su papel futuro. Este enfoque genera comprensión y un sentido de comunidad en toda la organización. No es raro que la gente asuma un papel diferente al que fueron contratados después de este proceso.
 
 
-  A significant part of the onboarding process is often dedicated to understanding the concept of [Evolutionary purpose](../evolutionary-purpose/). New employees are encouraged to express their personal calling to see how it resonates with the organization' s purpose and to learn how they might support and nurture each other.
-
-
-  There is no perfect recipe for a Teal onboarding process. Each organization chooses a range of activities that aim to teach new skills and, in the process, touch the heart and soul of those joining. A good way to develop an onboarding process is to ask employees, especially new ones, to co-create their own onboarding program and activities.
-
-
-  Foundational training in some of the following practices helps new colleagues starting in a Teal organization.
-
-
-  #### **Ground rules or agreements**
-
-
-  Creating a safe workplace starts with raising everybody’s awareness of the words and actions that create or undermine a safe working environment. Teal organizations spend significant time and energy training everybody in a number of ground rules or agreements that support healthy and productive collaboration. These ground rules are a tangible application of the [culture and values](../culture-and-values/) of the organization. Several of the organizations end up writing down these in a document.
-
-
-  Of course, it takes more than a document to bring values to life. Many researched Teal organizations have chosen to start right at the beginning: all new recruits are invited, as part of the onboarding, to a training session about the company values and ground rules, which helps to create common references and a common language across the organization. Those ground rules and values are regularly revisited to ensure they best reflect and serve the Evolutionary purpose of the organization.
-
-
-  #### **Purpose**
-
-
-  A dialogue on how the organization's purpose resonates with new colleagues personal calling can be a great mutual introduction. [Teal organizations](../teal-paradigm-and-organizations/) are seen as having a life and a sense of direction of their own. Instead of trying to predict and control the future, members of the organization are invited to listen in and understand what the organization wants to become. By understanding the Evolutionary purpose, they can see how they can contribute to it whilst also fulfilling their own personal calling.
-
-
-  Some founders and CEOs—such as Jos de Blok at [Buurtzorg](http://www.buurtzorgusa.org/) and Yvon Chouinard at [Patagonia](http://eu.patagonia.com/enGB/home)—find this module so significant that they choose to participate in every onboarding session.
-
-
-  #### **Meeting practices**
-
-
-  Meetings, more often than not, turn into playing fields for the egos, pushing souls into hiding. For that reason, almost all researched [Teal organizations](../teal-paradigm-and-organizations/) have instituted specific meeting practices to help participants keep their egos in check and interact with each other from a place of wholeness. For new hires, it is important to know about practices such as moments of silence, and structured decisions making. This enables them to contribute to productive meetings.
-
-
-  #### **Rotational programs**
-
-
-  Some organizations choose to train every new colleague in frontline skills. The goal is to build relationships with other employees across the company and to build understanding of how the company operates. This understanding enables people to develop new ideas and suggestions more effectively.
-
-
-  At [FAVI](http://www.favi.com/), the French automotive supplier, all engineers and administrative workers have been trained to operate at least one machine on the shop floor. This builds community and allows everyone to help on the shop floor when demand is high.
-
-
-  At [Sun Hydraulics](http://www.sunhydraulics.com/), all new hires start with a “manufacturing tour”, no matter what their future role will be. This approach builds understanding and a sense of community across the organization. It is not uncommon for people to take on a different role to the one they were hired for after this process.
+  <!--EndFragment-->
 faq:
-  - question: How to reduce the risk of new colleagues leaving the organization
-      during onboarding because of a Teal practices mismatch?
+  - question: " ¿Cómo reducir el riesgo de que nuevos compañeros abandonen la
+      organización durante el embarque debido a un desajuste en las prácticas
+      Teal?"
     answer: >-
-      Have in depth interviews with candidates performed by future colleagues
-      and focus on fit with organizational purpose and practices of
-      [self-management](../self-management/), [wholeness](../wholeness/) and
-      [evolutionary purpose](../evolutionary-purpose/). Pay particular attention
-      to candidates that formerly held senior positions in other organizations.
-      Turnover rates are high within this group, which is illustrated by the
-      following example:
+      <!--StartFragment-->
 
 
-      Paul Green Jr., who heads [Morning Star](http://www.morningstarco.com/)’s Self-Management Institute, estimates that close to 50 percent of people who formerly had senior positions in other organizations (VP levels or above) end up leaving the organization after a year or two “because they have a hard time adapting to a system where they can’t play God".
-  - question: How to maintain Teal practices when many new colleagues from non teal
-      organizations are joining?
-    answer: The onboarding of large groups of new colleagues from non [Teal
-      organizations](../teal-paradigm-and-organizations/) can result in
-      tensions. Best way to avoid disruptive tensions is to have a steady intake
-      of new colleagues and avoiding very large groups of new people starting at
-      once.
-  - question: How to onboard new colleagues by formal training and at the same time
-      give them time and space to be able to find their way by intuitive
-      exploration?
-    answer: "Make sure you select a mix of practices that not only appeal to the
-      rational, but also touch the heart and the soul of new colleagues.
-      Further, you may consider inviting them to co create their onboarding
-      program. "
+      Tener entrevistas en profundidad con los candidatos realizados por futuros colegas y centrarse en el ajuste con el propósito de la organización y las[prácticas de autogestión](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Autogesti%C3%B3n "Autogestión"), [la plenitud y](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Plenitud "Plenitud") el[propósito evolutivo](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Prop%C3%B3sito_Evolutivo "Propósito Evolutivo"). Preste especial atención a los candidatos que antes ocupaban altos cargos en otras organizaciones. Las tasas de rotación son altas dentro de este grupo, lo que se ilustra en el siguiente ejemplo: Paul Green Jr., quien dirige el Self-Management Institute de [Morning Star](http://www.morningstarco.com/), estima que cerca del 50 por ciento de las personas que anteriormente tenían altos cargos en otras organizaciones (VP o niveles superiores) terminan dejando la organización después de un año o dos "porque tienen una dificultad para adaptarse a un sistema donde no pueden jugar a Dios “.
+
+
+      <!--EndFragment-->
+  - question: ¿Cómo mantener las prácticas Teal cuando se estén uniendo muchos
+      nuevos colegas de organizaciones no teal?
+    answer: >-
+      <!--StartFragment-->
+
+
+      La incorporación de grandes grupos de nuevos colegas de organizaciones no Teal puede resultar en tensiones. La mejor manera de evitar las tensiones disruptiva es tener una incorporación constante de nuevos colegas y evitar grupos muy grandes de gente nueva a la vez.
+
+
+      <!--EndFragment-->
+  - question: ¿Cómo a bordo de nuevos compañeros de formación formal y al mismo
+      tiempo darles tiempo y espacio para ser capaz de encontrar su camino por
+      la exploración intuitiva?
+    answer: >-
+      <!--StartFragment-->
+
+
+      Asegúrese de seleccionar una mezcla de prácticas que no sólo apelen a lo racional, sino también que toquen el corazón y el alma de los nuevos colegas. Además, puede considerar invitarlos a crear su programa de integración.
+
+
+      <!--EndFragment-->
 relatedTheory:
   - Recruitment
   - Training and Coaching
