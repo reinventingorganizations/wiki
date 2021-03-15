@@ -10,27 +10,29 @@ companySize: 201-500
 profit: Profit
 theory:
   - topic: Compensation and incentives
-    title: Valve uses a stack ranking system to determine compensation.
+    title: Valve korzysta z systemu rankingowego stosu w celu określenia
+      wynagrodzenia.
     content: >-
-      [Valve](http://www.valvesoftware.com/) is a leading video game developer
-      and distributor. Once a year, a designated group of employees (the group
-      changes every year) interviews everyone in the company, asking for
-      feedback on each individual that person has worked with over the past year
-      (this information is used primarily for constructive feedback) and asking
-      the employee to rank each member of his own project/product group on the
-      following four metrics:
+      [Valve](http://www.valvesoftware.com/) jest wiodącym producentem i
+      dystrybutorem gier wideo. Raz w roku wyznaczona grupa pracowników (grupa
+      zmienia się co roku) przeprowadza wywiady ze wszystkimi osobami w firmie,
+      prosząc o informację zwrotną na temat każdej osoby, z którą osoba
+      pracowała w ciągu ostatniego roku (informacje te służą przede wszystkim do
+      konstruktywnej informacji zwrotnej) oraz pracownik oceniający każdego
+      członka jego własnego projektu / grupy produktów według następujących
+      czterech wskaźników:
 
 
-      * Skill level/Technical Ability
+      * Poziom umiejętności / zdolność techniczna
 
-      * Productivity/Output
+      * Produktywność / wydajność
 
-      * Group Contribution
+      * Wkład grupowy
 
-      * Product Contribution
+      * Wkład do produktu
 
 
-      Each of these metrics is given equal weight in compiling a stack ranking of all the employees in a given group. Once the intra-group ranking is done, the information gets pooled for the company as a whole and is used to determine compensation. The system is based on a belief that these four metrics are the most appropriate for determining the "correct" compensation and that they in turn are best determined through a peer-based valuation process (which the company believes is less likely to be subject to bias given its flat organizational structure).^[Valve Handbook for New Employees; 2012]
+      Każdemu z tych wskaźników przypisuje się taką samą wagę przy tworzeniu rankingu wszystkich pracowników w danej grupie. Po wykonaniu rankingu wewnątrzgrupowego informacje są gromadzone dla firmy jako całości i wykorzystywane do określenia rekompensaty. System opiera się na przekonaniu, że te cztery wskaźniki są najbardziej odpowiednie do określenia „prawidłowej” rekompensaty i że z kolei najlepiej je określać w procesie wyceny opartej na rówieśnikach (który, zdaniem firmy, jest mniej podatny na uprzedzenia biorąc pod uwagę jego płaską strukturę organizacyjną).^[Valve Handbook for New Employees; 2012]
   - topic: Project teams and task forces
     title: At Valve deciding what to work on is a job in and of itself.
     content: >-
