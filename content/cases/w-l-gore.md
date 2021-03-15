@@ -1,8 +1,8 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
 name: W.L.Gore
+date: 2020-11-09
 introduction: Industrial conglomerate - Global - 10.000 associates - For Profit
 industry: C. Manufacturing
 geography: Global
@@ -10,28 +10,28 @@ companySize: "> 500"
 profit: Profit
 theory:
   - topic: Compensation and incentives
-    title: Gore uses a ranking system, calibrated by two panels, to decide on
-      salaries.
+    title: Gore korzysta z systemu rankingowego, kalibrowanego przez dwa panele, aby
+      decydować o wynagrodzeniach.
     content: >-
-      ##### ***Contribution process***
+      ##### ***Proces wkładu***
 
 
-      Once a year, within each team (typically groups of 10 people in roughly the same function), everyone ranks the others from 1 to 9 (contrary to Holacracy, you don’t rank yourself in the list) based on their past and expected future contribution. The process has been automated, and on the forms, people can add a comment next to every person, and additionally assess if they are a “high culture fit" or "low culture fit”.
+      Raz w roku, w każdym zespole (zazwyczaj w grupach po 10 osób pełniących mniej więcej tę samą funkcję), wszyscy klasyfikują innych od 1 do 9 (w przeciwieństwie do Holakracji, nie umieszczasz się na liście) w oparciu o ich przeszły i oczekiwany przyszły wkład. Proces został zautomatyzowany, a na formularzach można dodać komentarz przy każdej osobie, a dodatkowo przypisać do "wysokiego dopasowania do kultury” lub "niskiego dopasowania do kultury”.
 
 
-      A small committee (typically the leader, another leader, and HR) reviews the aggregate results in great detail, and in their discussion they can change the order. Say John ends up number 2 on the aggregate list, but that feels too high, and the committee member suspect that it's really a loyalty vote. They can decide to move John down to number 4.
+      Mała komisja (zazwyczaj lider, inny lider i dział HR) szczegółowo analizuje zagregowane wyniki, a podczas dyskusji może zmienić kolejność. Powiedzmy, że John jest numerem 2 na zbiorczej liście, ale to wydaje się zbyt wysokie, a członek komitetu podejrzewa, że ​​to naprawdę głos lojalnościowy. Mogą zdecydować o przeniesieniu Johna na numer 4.
 
 
-      When the committee is done, each sponsor shares feedback with their person. Never the exact place in the rank. But “at the top”, “middle” and “bottom”. (If one person is at the bottom for a while, discussion will happen: other role that fits better? Need for training? Or exit the company?)
+      Kiedy komitet jest gotowy, każdy sponsor dzieli się opinią ze swoją osobą. Nigdy dokładne miejsce w rankingu. Ale „na górze”, „na środku” i „na dole”. (Jeśli osoba będzie przez jakiś czas na dole, dojdzie do dyskusji: inna rola, która lepiej pasuje? Potrzebujesz szkolenia? Czy opuścisz firmę?)
 
 
-      ##### ***Compensation process***
+      ##### ***Proces wynagrodzeń***
 
 
-      A compensation committee follows in the footsteps of the contribution committee. It will plot the salary curve of the 10 people that were ranked and see if the salaries are in line with the contribution. If needed, the committee will make the appropriate changes.
+      W ślad za komitetem wkładu podąża komitet wynagrodzeń. Spowoduje to wykreślenie krzywej wynagrodzeń 10 osób, które zostały sklasyfikowane i sprawdzenie, czy pensje są zgodne z wkładem. W razie potrzeby komisja dokona odpowiednich zmian.
 
 
-      ##### ***Transparency***
+      ##### ***Transparentność***
 
 
       There is no transparency on salaries at Gore. If a person in the committee is being discussed, he or she will not see the data that pertains to him or her.
