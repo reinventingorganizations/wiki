@@ -1,8 +1,8 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
 name: HolacracyOne
+date: 2020-11-09
 introduction: Founded in 2007 by Brian Robertson and Tom Thomison, HolacracyOne
   is the company spearheading the development of the Holacracy framework.
 industry: S. Other service activities
@@ -113,18 +113,18 @@ theory:
       purpose^[Laloux, Frederic. Reinventing Organizations. Nelson Parker
       (2014), page 182].
   - topic: Compensation and incentives
-    title: "HolacracyOne, the small consultancy/training company behind Holacracy,
-      uses a ranking mechanism, which feeds an algorithm that allocates
-      colleagues to salary bands. "
+    title: HolacracyOne, mała firma konsultingowa/szkoleniowa stojąca za Holacracy,
+      wykorzystuje mechanizm rankingowy, który zasila algorytm, który przypisuje
+      współpracowników do przedziałów wynagrodzeń.
     content: >-
-      Once a year, colleagues at HolacracyOne fill out a survey for all their
-      colleagues, consisting of only two questions:
+      Raz w roku koledzy z HolacracyOne wypełniają ankietę dla wszystkich swoich
+      współpracowników, składającą się tylko z dwóch pytań:
 
 
-      * “This person contributes (much) more or (much) less than me.” (On a scale of -3 to +3)
+      * “Ta osoba wnosi (dużo) więcej lub (dużo) mniej niż ja” (W skali od -3 do +3)
 
-      * “This person has a good basis to evaluate me.” (On a scale of 1 to 5)
+      * “Ta osoba ma dobre podstawy, by mnie oceniać” (W skali od 1 do 5)
 
 
-      A simple algorithm crunches through the answers and groups colleagues into a few salary buckets. The more experienced, knowledgeable, and hard-working people land in the higher buckets that earn bigger salaries; the more junior, less experienced colleagues naturally gravitate toward buckets with lower salaries.^[Interview Frederic Laloux with Tom Thomison, 2013]
+      Prosty algorytm analizuje odpowiedzi i grupuje współpracowników w kilka segmentów wynagrodzeń. Bardziej doświadczeni, znający się na rzeczy i ciężko pracujący ludzie trafiają do wyższych grup, które zarabiają większe pensje; młodsi, mniej doświadczeni koledzy w naturalny sposób skłaniają się ku poziomom z niższymi pensjami.^[Interview Frederic Laloux with Tom Thomison, 2013]
 ---
