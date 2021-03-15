@@ -108,18 +108,19 @@ faq:
       * Wiele badanych organizacji jest bardzo dochodowych i dużo płaci w podziale na zyski (pracownicy FAVI zazwyczaj zarabiają w ten sposób równowartość 17 lub 18 miesięcznych pensji). Chodzi więc o to, aby wynagrodzenie było zgodne z branżą, a gdy pozwalają na to zyski, uzupełniać pensję o udział w zyskach. Zmniejsza to motywację do prób podniesienia wynagrodzenia podstawowego, wiedząc również, że w złych czasach praca jest bezpieczniejsza, jeśli pensje podstawowe nie są zawyżone.
 
       * Niektóre organizacje (takie jak FAVI na północy Francji) uważają, że warto mieć prostą praktyczną zasadę dla całej organizacji: przychody powinny zostać podzielone na X% w przypadku wynagrodzeń, Y% w przypadku kosztów materiałów, Z% w przypadku inwestycji, pozostaje zdrowy P% zysku. Wydaje się, że wszyscy akceptują tę zasadę jako zdrowy rozsądek. To jest podstawa tego, czym można się podzielić w podziale zysków. W razie potrzeby grupa doradców płacowych mogłaby z góry podzielić się tymi parametrami ze wszystkimi, na przykład w latach o niskiej rentowności.
-  - question: Should we make all salary information transparent?
+  - question: Czy wszystkie informacje o wynagrodzeniach powinny być transparentne?
     answer: >-
-      When some information is secret, it tends to generate rumors. For what
-      reason would salary information be made a secret? Probably because of the
-      idea that some people would be shocked by some of the information and
-      claim the salary distribution is not fair.
+      Kiedy niektóre informacje są tajne, zwykle generują plotki. Z jakiego
+      powodu informacje o wynagrodzeniach miałyby zostać utajnione?
+      Prawdopodobnie z powodu myśli, że niektóre osoby byłyby zszokowane
+      niektórymi informacjami i twierdziliby, że dystrybucja wynagrodzeń jest
+      niesprawiedliwa.
 
 
-      From a Teal perspective, such discussions shouldn't be feared and avoided, but can be steered in productive ways. They can help bring to light unspoken issues and hidden grievances. They can help people grow as part of the process, in dealing with their relations to one another and to money. And perhaps, indeed, to correct some obviously unfair situations that might have slipped in over time.
+      Z perspektywy Turkusowej, takich dyskusji nie należy się bać i unikać, ale można nimi kierować w produktywny sposób. Mogą pomóc ujawnić niewypowiedziane problemy i ukryte pretensje. Mogą pomóc ludziom wzrastać w ramach tego procesu, radzić sobie z wzajemnymi relacjami i pieniędzmi. I być może rzeczywiście, w celu naprawienia niektórych ewidentnie niesprawiedliwych sytuacji, które mogły pojawić się z czasem.
 
 
-      For this reason, many organizations choose to make information totally public. (The social media app maker Buffer even publishes everyone's salary online). Some organizations, like the tomato-processing company Morning Star, have chosen to make the *salary increase percentages* public within the organization, but not the base salary. That might be an intermediary step towards full transparency for an organization to take.
+      Z tego powodu wiele organizacji decyduje się na całkowite upublicznienie informacji. (Twórca aplikacji społecznościowych Buffer publikuje nawet wynagrodzenie wszystkich osób w Internecie). Niektóre organizacje, takie jak firma przetwórstwa pomidorów Morning Star, postanowiły upublicznić  *procenty wzrostu wynagrodzeń*  w ramach organizacji, ale nie podstawową pensję. Może to być pośredni krok w kierunku pełnej przejrzystości dla organizacji.
   - question: What happens in times of crisis?
     answer: >-
       There are several documented examples of self-managing organizations where
