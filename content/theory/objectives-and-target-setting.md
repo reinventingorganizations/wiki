@@ -6,127 +6,151 @@ name: Objetivos y Establecimiento de Metas
 sortOrder: 6
 category: People practices
 intro: >-
-  This section outlines the role of objectives and target setting, in particular
-  we discuss the processes for enabling goals and ambition to be achieved in the
-  absence of formalized target setting processes.
+  <!--StartFragment-->
+
+
+  En esta sección se describe el papel de los objetivos y el establecimiento de metas, en particular se examinan los procesos para establecer metas y despertar la ambición de lograrlas en ausencia de procesos de establecimiento de objetivos formales.
+
+
+  <!--EndFragment-->
 
 
   ![](/media/objectives.jpg)
 perspective: >-
-  Rather than depending on management to set direction, in Teal organizations,
-  teams and individuals are intrinsically driven to fulfill the purpose of the
-  organization. They do not need extrinsic motivators in the form of objectives
-  and budgets to get them to do their work. They set their own objectives and
-  targets, when they feel it is necessary.
+  <!--StartFragment-->
 
 
-  Teal organizations evolve through sensing and responding to the environment. The process of listening to [evolutionary purpose](../evolutionary-purpose/) is used to decide on the next steps for a team or for the whole organization.
+  En lugar de depender de la dirección para establecer la dirección, en las organizaciones Teal, los equipos y los individuos están intrínsecamente impulsados a cumplir el propósito de la organización. No necesitan motivadores extrínsecos en forma de objetivos y presupuestos para hacer que hagan su trabajo. Establecen sus propios objetivos y objetivos, cuando lo sienten necesario.
 
 
-  Every historical stage has given birth to a distinct perspective on job titles and job descriptions, and to very different practices:
+  Las organizaciones Teal evolucionan a través de la detección y la respuesta al medio ambiente. El proceso de escuchar el [propósito evolutivo](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Prop%C3%B3sito_Evolutivo "Propósito Evolutivo") se utiliza para decidir sobre los próximos pasos para un equipo o para toda la organización.\
+
+  \
+
+  Cada etapa histórica ha dado nacimiento a una perspectiva distinta sobre los Objetivos y el establecimiento de metas, y a prácticas muy diferentes:\
+
+  \
+
+  **Organizaciones Rojas**\
+
+  Las [organizaciones Rojas ](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_paradigma_Rojo_y_las_Organizaciones "El paradigma Rojo y las Organizaciones")se caracterizan por comportamientos oportunistas ya menudo reactivos. En lugar de ser un proceso formal, los objetivos y la fijación de metas son un aspecto inherente a la protección y / o expansión de la base de poder de uno.\
+
+  \
+
+  **Organizaciones Ámbar**\
+
+  En las [organizaciones Ámbar](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_%C3%81mbar_y_las_Organizaciones "El Paradigma Ámbar y las Organizaciones"), los objetivos de las organizaciones son fijados por la alta dirección. El único aporte de niveles inferiores es la información técnica u operativa, ya sea como parte de su trabajo o por solicitud especial de arriba. El despliegue de los planes para alcanzar estos objetivos se da en forma de directivas a niveles inferiores, con metas como parte de las directivas. Los empleados tienen poco contacto directo con la alta dirección, y se espera que sigan las órdenes, incluso si su experiencia / conocimiento de las condiciones locales sugieren diferentes acciones.\
+
+  \
+
+  **Organizaciones Naranja**\
+
+  Las [organizaciones Naranja ](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Naranja_y_las_Organizaciones "El Paradigma Naranja y las Organizaciones")formalizan el proceso de planificación estratégica, estableciendo visión, misión, valores y objetivos como parte de un proceso formal de planificación ya través de la lente de la organización como una máquina. Esto comienza en la Junta y el nivel Ejecutivo seguido con unidades de negocio, equipos o departamentos. Se espera que estos niveles inferiores desarrollen sus propios planes estratégicos alineados con la visión, misión y objetivos corporativos.\
+
+  \
+
+  Por lo tanto, los objetivos se fijan en los diversos niveles para lograr los objetivos como parte de un paso del "mando y control" de las [El Paradigma Ámbar y las Organizaciones](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_%C3%81mbar_y_las_Organizaciones "El Paradigma Ámbar y las Organizaciones") a uno de *"predecir y controlar"*. La gerencia superior formula la dirección y la estrategia generales y esto se hace en cascada a través de la organización como objetivos, metas y objetivos. Los gerentes y el personal tienen libertad para usar su creatividad para lograr estos objetivos y se les pueden ofrecer incentivos para hacerlo. Cuando están bien alineados, la administración intermedia y, en cierta medida, los niveles inferiores, tienen la libertad de determinar cómo lograrán sus objetivos. Cuando no se alinea cuidadosamente este enfoque puede conducir al juego de objetivos, con los equipos a veces trabajando unos contra otros para lograr sus propios objetivos.\
+
+  \
+
+  **Organizaciones Verdes**\
+
+  Una metáfora que a veces se utiliza para describir las [organizaciones Verdes](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Verde_y_las_Organizaciones "El Paradigma Verde y las Organizaciones") centrada en el consenso es la de la "familia". Verde es inseguro con el poder y la jerarquía y cambia la autoridad y la toma de decisiones de los gerentes a los miembros del personal. En la práctica, las organizaciones verdes exitosas tienen estructuras jerárquicas. Los gerentes a menudo operan como líderes sirvientes que están ahí para apoyar y desarrollar a sus empleados. Los objetivos y metas suelen establecerse por consenso a nivel de equipo para apoyar una visión y una misión predefinidas.\
+
+  \
+
+  **Organizaciones Teal**\
+
+  Usando la metáfora de un sistema vivo, las [organizaciones Teal](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones") organizan alrededor de un sentido claro de [propósito](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Prop%C3%B3sito_Evolutivo "Propósito Evolutivo"). Este no es un propósito (misión) fijado por la gerencia superior, sino uno que permite evolucionar y es compartido por todos los miembros de la organización.
 
 
-  #### **Red Organizations**
+  Alineada con el propósito de la organización, la planificación se basa en "*sentir y responder*" con énfasis en un enfoque ágil para encontrar soluciones viables. Este proceso adaptativo es similar a los principios de lean start-up y [desarrollo de software](https://es.wikipedia.org/wiki/Manifiesto_%C3%A1gil). La toma de decisiones se lleva a cabo dentro de un marco de valores de toda la organización y equilibrada a través de un [proceso de los consejos.](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Toma_de_Decisiones "Toma de Decisiones") La estrategia surge de forma orgánica de la interacción de los empleados con el entorno organizacional Teal. Los empleados autogestionados pueden fijar objetivos por sí mismos, o un equipo puede decidir sobre un objetivo, p. Tiempo de respuesta más rápido, pero no hay ventas, eficiencia u otros objetivos. El proceso de buscar consejo de colegas y especialistas antes de comprometerse con un proyecto o cambio asegura que todos los aspectos, incluyendo la responsabilidad financiera, se tengan en cuenta. Parte del sistema de valores es que ningún miembro o grupo de miembros puede poner en riesgo a la organización con acciones o proyectos mal considerados o egoístas.
 
 
-  [Red organizations](../red-organizations/) are characterized by opportunistic and often reactive behaviors. Rather than being a formal process, objectives and target setting is an inherent aspect of protecting and/or expanding one's power base.
 
 
-  #### **Amber Organizations**
-
-
-  In [Amber organizations](../amber-paradigm-and-organizations/) objectives are set by senior management. The only input from lower levels is technical or operational information, either as part of their jobs or by special request from above. The roll-out of the plans to achieve these objectives are in the form of directives to lower levels, with targets as part of the directives. Employees have little direct contact with top management, and are expected to follow orders, even if their experience / knowledge of local conditions suggest different actions.
-
-
-  #### **Orange Organizations**
-
-
-  [Orange organizations](../Orange_Organizations) formalize the process of strategic planning, setting vision, mission, values and objectives as part of a formal planning process and through the lens of the organization as a machine. This starts at the Board and Executive level followed up with business units, teams or departments. These lower levels are expected to develop their own strategic plans aligned with the corporate vision, mission and objectives.
-
-
-  Targets are hence set at the various levels to achieve the objectives as part of a move from the ‘command and control’ of [Amber ](../amber-paradigm-and-organizations/)to one of ‘predict and control’. Top management formulates the overall direction and strategy and this is cascaded through the organization as targets, goals and objectives. Managers and staff are given freedom to use their creativity to achieve these objectives and may be offered incentives to do so. When aligned well, middle management, and to some extent lower levels, have the freedom to determine how they will achieve their objectives. When not thoughtfully aligned this approach can lead to gaming of targets, with teams sometimes working against each other to achieve their own goals.
-
-
-  #### **Green Organizations**
-
-
-  A metaphor that is sometimes used to describe consensus-focused [Green organization ](../green-paradigm-and-organizations/)is that of “family.” Green is uneasy with power and hierarchy and shifts authority and decision-making from managers to staff members. In practice successful Green organizations do have hierarchical structures. Managers often operate as servant leaders who are there to support and develop their employees. Objectives and targets are often set by consensus at the team level to support a predefined vision and mission.
-
-
-  #### **Teal Organizations**
-
-
-  Using the metaphor of a living system,[Teal organizations](../teal-paradigm-and-organizations/) organize around a clear sense of [purpose ](../listening-to-purpose/)This is not a purpose (mission) set by top management, but one that is allowed to evolve and is shared by all members of the organization.
-
-
-  Aligned with the organization's purpose, planning is based on "sense and respond", with an emphasis on an agile approach to finding workable solutions. This adaptive process is similar to lean start-up and [[software development](https://en.wikipedia.org/wiki/Agile_software_development%7Cagile)] principles. Decision-making is carried out within a framework of organization-wide values and balanced through an [advice process](../decision-making/). Strategy emerges organically from the interaction of employees with the Teal organizational environment. Self-managing employees may set objectives for themselves, or a team may decide on an objective, e.g. faster turnaround time, but there are no sales, efficiency or other targets. The process of seeking advice from colleagues and specialists before committing to a project or change ensures that all aspects, including financial responsibility, is taken into consideration. Part of the value system is that no single member or group of members may put the organization at risk with ill-considered or selfish actions or projects.
+  <!--EndFragment-->
 inPractice: >-
-  #### **The problem with objectives**
+  <!--StartFragment-->
 
 
-  In the Orange-Achievement paradigm, objectives and targets are the key drivers for success. They are the glue that holds the organization together, and give meaning to its existence. In the Teal-Evolutionary paradigm, [purpose  ](../listening-to-purpose/)and [values ](../culture-and-values/)drive the organization. The objective is to bring to life the purpose of the organization. There are no formal systems or top-down processes in place for setting objectives and targets. All the functions of management (planning, organizing, direction-setting, investments, budgeting, etc) are done by the people doing the work. In general, Teal-Evolutionary organizations tend not to set objectives or targets.
+  **El problema con los objetivos**
 
 
-  From a Teal-Evolutionary perspective, objectives and targets are problematic:
+  En el [paradigma Naranja - Logro](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Naranja_y_las_Organizaciones "El Paradigma Naranja y las Organizaciones"), los objetivos y las metas son los principales impulsores del éxito. Son el pegamento que mantiene a la organización unida y da sentido a su existencia. En el paradigma Teal-Evolutivo, el [propósito](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Prop%C3%B3sito_Evolutivo "Propósito Evolutivo") y los [valores](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Cultura_y_Valores "Cultura y Valores") impulsan la organización. El objetivo es dar vida al propósito de la organización. No existen sistemas formales ni procesos de arriba hacia abajo para establecer objetivos y metas. Todas las funciones de la dirección (planificación, organización, dirección, inversiones, presupuestos, etc.) son realizadas por las personas que realizan el trabajo. En general, las organizaciones Teal-evolutivas tienden a no fijar objetivos o metas.
 
 
-  * They rest on the assumption that we can predict the future,
+  \
 
-  * They skew behavior from intrinsic to extrinsic motivation,
-
-  * They tend to narrow the ability to sense new possibilities,
-
-  * They focus attention on the targets, rather than fulfilling the organization’s purpose,
-
-  * In the Orange-achievement world they always imply growth, something which is not always an inherent element of Teal organizations' purpose.
+  Desde una perspectiva Teal-Evolutiva, los objetivos y metas son problemáticos:
 
 
-  #### **Sense and respond – a new way to determine objectives, goals and strategy**
+  * Se basan en el supuesto de que podemos predecir el futuro,
+
+  * Desvían el comportamiento de motivación intrínseca a extrínseca,
+
+  * Tienden a reducir la capacidad de sentir nuevas posibilidades,
+
+  * Centran la atención en los objetivos, en lugar de cumplir con el propósito de la organización,
+
+  * En el mundo del logro Naranja siempre implican crecimiento, algo que no siempre es un elemento inherente al propósito de las organizaciones Teal.
 
 
-  Instead of trying to predict and control (the implicit goal behind objectives and targets), Teal organizations sense and respond. You could say that all target setting is instead initiated locally where it is "sensed and responded" to, then cascades or emerges through the organization as a living system as needed.
 
 
-  One example is the Buurtzorg Boardinghouse. Nurses noticed or sensed that primary care-givers of their patients needed a break from the ongoing demands of providing care. In response, they instituted a bed and breakfast-type solution where patients could receive care, providing care-givers a respite. There were no goals or objectives for Buurtzorg to become a bed and breakfast, but nurses sensed a need and their response of respite care took them down this path benefiting patients and care-givers in the process.
+  **Sentir y responder - una nueva forma de determinar objetivos, metas y estrategia**
 
 
-  We cannot plan for a world that is continuously changing, and where we have no control over the changes. So Teal-Evolutionary organizations work on the basis of sense and respond, rather than predict and control.
+  En lugar de tratar de predecir y controlar (la meta implícita detrás de los objetivos y metas), las organizaciones Teal sentido y responder. Se podría decir que todo el establecimiento de objetivos se inicia localmente donde se "detecta y responde" a, luego se desata o emerge a través de la organización como un sistema vivo según sea necesario.
 
 
-  #### **Investment process**
+  Un ejemplo es el Buurtzorg Boardinghouse. Las enfermeras notaron o percibieron que los cuidadores primarios de sus pacientes necesitaban un descanso de las demandas de cuidado. En respuesta, instituyeron una solución tipo bed and breakfast donde los pacientes podían recibir atención, proporcionando a los cuidadores un respiro. No había metas u objetivos para Buurtzorg para convertirse en una cama y desayuno, pero las enfermeras percibieron una necesidad y su respuesta del cuidado del respiro tomó abajo de esta trayectoria que beneficia a pacientes ya cuidadores en el proceso.
 
 
-  The closest that Teal-Evolutionary organizations come to setting objectives is the investment process. Most organizations have an annual investment process, where each team prepares its investment plans for the next year. These plans are added up, and, if they exceed available/accessible resources, the teams have to review and adjust their plans. Whether the investments are part of the annual plan, or ad-hoc, situational investments, teams are responsible for raising the external funding themselves, or negotiate internally with other teams for funding or resources.
+  No podemos planear para un mundo que está cambiando continuamente, y donde no tenemos ningún control sobre los cambios. Así que las organizaciones Teal-Evolutivas trabajan sobre la base del sentido y responden, en lugar de predecir y controlar.
 
 
-  Some Teal-Evolutionary organizations do have organization-wide objectives, or perhaps guidelines. For example, [Buurtzorg](http://www.buurtzorgnederland.com/), the Netherlands-based health care organization, has a target for billable hours of 60 - 65% for their mature teams.
+  \
+
+  **Planes de inversión**
 
 
-  #### **Team determined targets**
+  Lo más cercano que las organizaciones Teal-Evolutivas llegan a establecer objetivos es en el proceso de inversión. La mayoría de las organizaciones tienen un proceso de inversión anual, donde cada equipo prepara sus planes de inversión para el próximo año. Estos planes se suman y, si superan los recursos disponibles / accesibles, los equipos tienen que revisar y ajustar sus planes. Ya sea que las inversiones formen parte del plan anual, o de las inversiones situacionales ad hoc, los equipos son responsables de recaudar el financiamiento externo, o negocian internamente con otros equipos para obtener fondos o recursos.
 
 
-  People and teams can choose to set objectives or targets for themselves as measures that tell them how well they are doing at meeting the organization's purpose. Machine operators may set quality or performance targets for themselves. Teams may set objectives in order to get a new project up and running, or they may have set themselves targets for turnaround times. This is simply part of self-management, as opposed to objectives and targets imposed from above (outside the team or individual). Measurements are chosen that help the team better sense key changes and respond to them.
+  Algunas organizaciones Teal-Evolutivas tienen objetivos de toda la organización, o quizás directrices. Por ejemplo, [Buurtzorg](http://www.buurtzorgnederland.com/), la organización de salud con sede en los Países Bajos, tiene un objetivo de horas facturables del 60-65% para sus equipos maduros.
 
 
-  #### **Distributed responsibility and shared accountability**
+  \
+
+  **Objetivos determinados por el equipo**
 
 
-  Teal-Evolutionary organizations do not set sales targets. However, everyone, including the sales people, are fully aware and informed of what it takes to keep the organization going. Since sales people are part of the operational teams, they know how much work is required to keep the team going.
+  Las personas y los equipos pueden elegir establecer metas u objetivos para sí mismos como medidas que les digan lo bien que están haciendo para cumplir con el propósito de la organización. Los operadores de máquinas pueden fijar objetivos de calidad o rendimiento por sí mismos. Los equipos pueden fijar objetivos con el fin de poner en marcha un nuevo proyecto, o pueden haberse fijado objetivos para tiempos de respuesta. Esto es simplemente parte de la autogestión, en oposición a los objetivos y metas impuestas desde arriba (fuera del equipo o individuo). Se eligen las mediciones que ayudan al equipo a detectar mejor los cambios clave y responder a ellos.
+
+
+  \
+
+  **Responsabilidad distribuida y rendición de cuentas compartida**
+
+
+  Las organizaciones Teal-Evolutionary no establecen objetivos de ventas. Sin embargo, todo el mundo, incluidos los vendedores, son plenamente conscientes e informados de lo que se necesita para mantener la organización. Dado que los vendedores forman parte de los equipos operativos, saben cuánto trabajo se requiere para mantener al equipo en marcha.
+
+
+  <!--EndFragment-->
 faq:
-  - question: If no sales targets are set, how will the company know how much to
-      sell to achieve both break even and profitability?
+  - question: " Si no se establecen objetivos de ventas, ¿cómo sabrá la empresa
+      cuánto vender para lograr tanto el equilibrio como la rentabilidad?"
     answer: >-
-      Financial information is available to all, and everybody is trained to
-      read and understand financial information. They are also trained how to
-      relate the information to their activities. Since every member is
-      responsible for the health of the whole organization, they know exactly
-      what outputs are required to keep the organization financially healthy.
+      <!--StartFragment-->
 
 
-      Whether the teams have specific persons in sales roles, or are responsible for sales as part of their ongoing duties, everybody has a clear idea of what is happening in the marketplace, what customers' needs are and what other offerings there are.
+      La información financiera está disponible para todos y todos están capacitados para leer y entender la información financiera. También se les enseña a relacionar la información con sus actividades. Dado que cada miembro es responsable de la salud de toda la organización, saben exactamente qué productos son necesarios para mantener la organización financieramente sana.\
+
+      Si los equipos tienen personas específicas en funciones de ventas o son responsables de las ventas como parte de sus tareas en curso, todo el mundo tiene una idea clara de lo que está sucediendo en el mercado, lo que las necesidades de los clientes son y qué otras ofertas hay. La belleza de la naturaleza [auto organizada](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Autogesti%C3%B3n "Autogestión") de las [organizaciones Teal](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones") es que pueden sentir y adaptarse a los cambios del mercado en tiempo real. Las organizaciones Naranja-Logro tienen que esperar la retroalimentación de los equipos de ventas y la investigación de mercado, luego pasar por un laborioso establecimiento de objetivos y tomar decisiones y luego implementar cambios.
 
 
-      The beauty of the [self-organizing ](../self-management/)nature of [Teal organizations](../teal-paradigm-and-organizations/) is that they can sense and adapt to market changes in real-time. Orange-Achievement organizations have to wait for feedback from sales teams and market research, then go through a laborious target setting and decision making process and then implement changes.
+      <!--EndFragment-->
 relatedTheory:
   - Coordination
   - Evolutionary Purpose
