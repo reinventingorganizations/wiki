@@ -6,129 +6,137 @@ name: Compras e Inversiones
 sortOrder: 4
 category: Important Processes
 intro: >-
-  This article describes how purchasing and investments are handled in Teal
-  organisations.
+  <!--StartFragment-->
+
+
+  Este artículo describe cómo se manejan las compras y las inversiones en las organizaciones Teal.
+
+
+  <!--EndFragment-->
 
 
   ![](/media/compensation-and-incentives.jpg)
 perspective: >-
-  With respect to purchasing and investments, [Teal
-  organizations](../teal-paradigm-and-organizations/) exhibit the following
-  general measures:
+  <!--StartFragment-->
 
 
-  * Anybody can spend any amount provided the [advice process](../decision-making/) is respected.
-
-  * The one who suggested an investment takes the responsibility to conduct and monitor the purchasing process.
-
-  * Team investment budgets and purchasing can be challenged by peers.
+  Con respecto a las compras y las inversiones, las [organizaciones Teal](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones") presentan las siguientes medidas generales:
 
 
-  Employees’ power to make decisions using the [advice process](../decision-making/) is perhaps most evident when it comes to spending company money. In [self-managing](../self-management/) organizations there are no authorization limits and no procurement departments. Employees or teams do the analysis, create the necessary specifications, visit and negotiate with suppliers, and even secure financing from the bank if needed.
+  * Cualquiera puede gastar cualquier cantidad siempre que se respete el [proceso de los consejos](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Toma_de_Decisiones "Toma de Decisiones").
+
+  * El que sugiere una inversión toma la responsabilidad de conducir y supervisar el proceso de compra.
+
+  * Los presupuestos de inversión de los equipos y las compras pueden ser desafiados por sus pares.
 
 
-  In contrast, purchasing and investments in earlier stage organizations can be characterized as follows:
+  El poder de los empleados para tomar decisiones utilizando el [proceso de los consejos](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Toma_de_Decisiones "Toma de Decisiones") es quizás más evidente cuando se trata de gastar dinero de la empresa. En las organizaciones [autogestionadas](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Autogesti%C3%B3n "Autogestión") no hay límites de autorización ni departamentos de compras. Los empleados o equipos hacen el análisis, crean las especificaciones necesarias, visitan y negocian con los proveedores, e incluso aseguran el financiamiento del banco si es necesario.
 
 
-  #### Red organizations
+  **En contraste, las compras y las inversiones en organizaciones de etapas anteriores pueden ser caracterizadas como sigue:**\
+
+  \
+
+  **Organizaciones Rojas**\
+
+  En el [paradigma Rojo](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_paradigma_Rojo_y_las_Organizaciones "El paradigma Rojo y las Organizaciones"), el jefe o propietario de una organización decide por sí mismo qué comprar o dónde invertir. Normalmente no hay procesos formales documentados. Las inversiones se realizan de manera oportunista, incluso impulsiva, sobre la base de las preferencias del jefe.
 
 
-  In the [Red paradigm](../red-organizations/), the boss or owner of an organisation decides generally on his own what to purchase or where to invest. There are typically no formal documented processes. Investments are made opportunistically, even impulsively, based on the boss's preferences. 
+  **Organizaciones Ámbar**\
+
+  En el [paradigma Ámbar](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_%C3%81mbar_y_las_Organizaciones "El Paradigma Ámbar y las Organizaciones"), las compras e inversiones son realizadas por recursos de primer nivel dedicados dentro de la jerarquía siguiendo reglas simples, pero estrictas. Las inversiones son ahora menos impulsivas después de la planificación a medio o largo plazo. La compra en sí podría hacerse en niveles más bajos de una organización, siempre y cuando siga reglas definidas. Normalmente existen mecanismos de control que garantizan el cumplimiento de estas reglas.
 
 
-  #### Amber organizations
+  **Organizaciones Naranja**\
+
+  En el [paradigma Naranja](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Naranja_y_las_Organizaciones "El Paradigma Naranja y las Organizaciones"), las estrictas reglas generales del paradigma Ámbar se vuelven más abiertas y fluidas. Las reglas pueden ser cuestionadas o modificadas para apoyar la innovación. Partes de la organización están facultadas para decidir sobre las compras y las inversiones dentro de un rango dado por su cuenta. El descubrimiento revolucionario de la autogestión es un paso importante para distribuir las decisiones de inversión dentro de la organización (por ejemplo, en los proyectos) para innovar más y más rápido. Las decisiones de inversión distribuidas se aceptan siempre y cuando sigan la dirección general formulada por la alta dirección y los equipos alcancen el resultado deseado. Un gerente de primera línea puede ser libre de gastar hasta $ 1,000 pero requiere autorización de sus jefes más allá de esa cantidad; Un gerente de unidad podría tener un poder de gasto de hasta $ 10,000 y un gerente de planta de hasta $ 100,000. Independientemente de las cantidades, la orden de compra debe proceder generalmente a través de un departamento central de compras que coordina las relaciones y negociaciones con los proveedores.\
+
+  \
+
+  **Organizaciones Verdes**\
+
+  Las decisiones del [paradigma Verde](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Verde_y_las_Organizaciones "El Paradigma Verde y las Organizaciones") sobre compras e inversiones se desplazan más a los trabajadores de primera línea. La planificación de arriba hacia abajo de las organizaciones Naranja se enriquece con procesos ascendentes que involucran a los expertos operacionales. El descubrimiento revolucionario de la Autogestión activa la creatividad y la responsabilidad de los equipos dando suficiente espacio para comprar o invertir dentro de los límites presupuestarios y dentro del sistema de valores de la organización. La mayoría de las organizaciones aún tienen límites de autorización en su lugar. Los procesos de adquisición más descentralizados o distribuidos (a menudo apoyados por herramientas de software) deberían acelerar los procesos de decisión y mejorar la agilidad de los equipos de operaciones.
 
 
-  In the [Amber paradigm](../amber-paradigm-and-organizations/), purchases and investments are made by dedicated top level resources within the hierarchy following simple, but strict rules. Investments are now less impulsive following medium or long term planning. Purchasing itself could be done at lower levels of an organisation, as long as it follows defined rules. Control mechanisms typically exist ensuring compliance to these rules.
-
-
-  #### Orange organizations
-
-
-  In the [Orange paradigm](../orange-paradigm-and-organizations/), the strict general rules of the Amber paradigm become more open and fluid. Rules can be questioned or changed to support innovation. Parts of the organisation are empowered to decide on purchasing and investments within a given range on their own. The [breakthrough of Accountability](../orange-paradigm-and-organizations/) is an important step to distribute investment decisions within the organisation (e.g. into projects) to innovate more and faster. Distributed investment decisions are accepted as long as they follow the overall direction formulated by the top management and the teams reach the desired outcome. A frontline manager might be free to spend up to $1,000 but require authorization from his bosses beyond that amount; a unit manager might have spending power up to $10,000 and a plant manager up to $100,000. Whatever the amounts, the purchase order must generally proceed through a central procurement department that coordinates the relationships and negotiations with suppliers.
-
-
-  #### Green organizations
-
-
-  The [Green paradigm](../green-paradigm-and-organizations/) decisions about purchasing and investments are pushed more to the frontline workers. The top down planning of [Orange organisations](../orange-paradigm-and-organizations/) is enriched by bottom up processes involving the operational experts. The [breakthough Empowerment](../green-paradigm-and-organizations/) activates creativity and responsibility of the teams giving enough space to purchase or invest within budget boundaries and within the values system of the organisation. Most organizations still have authorization limits in place. More decentralized or distributed procurement processes (often supported by software tools) should speed up decision processes and enhance the agility of operations teams.
+  <!--EndFragment-->
 inPractice: >-
-  #### Anybody can spend any amount provide the advice process is respected
+  <!--StartFragment-->
 
 
-  An employee who needs a new $50 printer doesn’t have to call the IT department, hope for a green light from his boss, and wait the days or weeks it takes for the printer to arrive. He can simply head down to the specific shop or website and buy a printer. In principle, any person can spend any amount of money, provided he has sought the necessary advice before making the decision; the larger the purchase, the more people are typically involved in the [advice process](../decision-making/). In hierarchical organizations, when engineers do the analysis and choose a machine model, workers often complain about the new machine and drag their feet when it comes to learning how to operate it. When they have chosen the model, there is no such resistance to change. Organizations might vary in how to conduct the advice process, with some employing formal, written rules while others adopting a more informal, ad hoc process. Whatever specific process finally is chosen, it is based on transparency and trust.
+  **Cualquier persona puede gastar cualquier cantidad siempre que respete el proceso de los consejos**
 
 
-  #### The one who suggested an investment takes the responsibility to conduct and monitor the purchasing process
+  Un empleado que necesita una nueva impresora de $ 50 no tiene que llamar al departamento de TI, esperar una luz Verde de su jefe y esperar los días o semanas que tarda la impresora en llegar. Simplemente puede dirigirse a la tienda o sitio web específico y comprar una impresora. En principio, cualquier persona puede gastar cualquier cantidad de dinero, siempre que haya solicitado el asesoramiento necesario antes de tomar la decisión; Cuanto mayor es la compra, más gente suele participar en el proceso de los consejos. En las organizaciones jerárquicas, cuando los ingenieros hacen el análisis y eligen un modelo de máquina, los trabajadores a menudo se quejan de la nueva máquina y arrastran sus pies cuando se trata de aprender cómo operarla. Cuando han elegido el modelo, no hay tal resistencia al cambio. Las organizaciones pueden variar en la forma de llevar a cabo el [proceso de los consejos](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Toma_de_Decisiones "Toma de Decisiones"), algunas empleando reglas formales y escritas, mientras que otras adoptan un proceso ad hoc más informal. Cualquiera que sea el proceso específico finalmente elegido, se basa en la transparencia y la confianza.
 
 
-  In self-managing organizations, workers are in charge of the full purchasing or investment process. They do the analysis, write up the necessary specifications, visit and negotiate with suppliers, and secure financing from the bank if needed. It does not necessarily mean that the initiator needs to conduct all steps on his own, but at least he takes the responsibility from start to end.
+  \
+
+  **El que sugiere una inversión asume la responsabilidad de realizar y supervisar el proceso de compra**
 
 
-  #### Peer-based challenging of teams' investment budgets
+  En las organizaciones autogestionadas, los trabajadores se encargan de todo el proceso de compra o inversión. Ellos hacen el análisis, redactan las especificaciones necesarias, visitan y negocian con los proveedores, y aseguran el financiamiento del banco si es necesario. No significa necesariamente que el iniciador debe llevar a cabo todos los pasos por su cuenta, pero al menos toma la responsabilidad de principio a fin.
 
 
-  Especially in larger organisations, a transparent baseline budget is very helpful to let teams monitor whether a new investment can and should be funded or not. Different from non-Teal organisations, investment budgets aren't given or confirmed from higher levels of management. They are created based on realistic assumptions of the teams about what needs to be purchased during a planning period. If the collected numbers are in balance to expected revenues and seem reasonable, the investment budget is set. Any investments fitting into it don't need further investigation as long as the [advice process](../decision-making/) is conducted. Companies like [Morning Star](https://www.morningstarco.com/) do annual intensive budget planning sessions, in which each team presents its investment plans to a panel of peers for advice. Teams that are not performing well are likely to be challenged as to whether spending money is really the best way to fix their problems.
+  \
+
+  **Los colaboradores retan los presupuestos de inversión de los equipos**
+
+
+  Especialmente en las organizaciones más grandes, contar con un presupuesto base transparente es muy útil para permitir a los equipos supervisar si una nueva inversión puede y debe ser financiada o no. La diferencia en las organizaciones Teal, es que los presupuestos de inversión no los hacen o ratifican los niveles más altos de la gestión. Los crean los equipos sobre la base de supuestos realistas acerca de lo que necesitan comprar durante un período de planificación. Si los números recogidos están en equilibrio con los ingresos esperados y parecen razonables, se establece el presupuesto de inversión. Cualquier inversión que se ajuste a ella no necesita más investigación mientras se lleve a cabo el proceso de los consejos. Empresas como Morning Star realizan sesiones anuales de planificación intensiva del presupuesto, en las que cada equipo presenta sus planes de inversión a un grupo de pares para obtener su consejo. Es probable que los equipos que no están funcionando bien se les cuestione sobre si realmente el gastar dinero es realmente la mejor manera de arreglar sus problemas.
+
+
+  <!--EndFragment-->
 faq:
-  - question: What about volume discounts?
-    answer: "Surely money is left on the table if purchases are not pooled? As
-      often, the answer is: trust people to make the right decisions within the
-      framework of [self-management](../self-management/). For items where
-      volume discounts are too good to give up, colleagues who buy from the same
-      vendor will choose to coordinate to maximize their buying power. At
-      [Morning Star](https://www.morningstarco.com/), a tomato processing
-      company, colleagues noticed that lots of people were buying threadlocker,
-      an adhesive that prevents nuts and bolts from accidentally loosening, in
-      dozens of different formats and from different vendors. They were not only
-      losing out on volume discounts, but the uncoordinated purchasing generated
-      unnecessary bureaucracy because regulations in the food industry required
-      workers to painstakingly track every threadlocker format in a Material
-      Safety Data Sheet. At some point, a worker suggested that he could walk
-      around the plant once a quarter and ask colleagues if they wanted to order
-      threadlocker through him. A similar solution emerged for purchasing
-      packaging materials, an area where volume discounts can quickly add up.
-      When there is value in coordination, people simply start to coordinate."
-  - question: What about standardization?
-    answer: It often makes sense to buy computer or telephone equipment from the
-      same or compatible vendors, for instance. Again, one can simply trust the
-      [advice process](../decision-making/). A secretary buying herself a new
-      computer, unless she is very well versed in hardware and software
-      specifications, will likely seek advice from a knowledgeable party to
-      ensure the computer will easily fit in with the rest of the IT equipment.
-      In this case, there is no need for a central department to enforce
-      standards. In more complex cases, when standards need to be specified,
-      someone will step up and call together a group that will look into the
-      matter and define the standards.
-  - question: What about an investment that does not fit into the budget?
-    answer: From time to time an investment might not fit into the budget for some
-      reason. Possibly the investment is based on a sudden event or a valuable
-      opportunity. As with [Orange
-      organisations](../orange-paradigm-and-organizations/), spontaneous
-      investments should be accommodated under Teal. Again, the [advice
-      process](../decision-making/) is used to handle such situations. If a
-      particular department or group needs an increased budget allocation, they
-      can solicit support from other groups who might be willing to give a piece
-      from their budget. Challenging questions should be asked and answered, but
-      finally there will be a decision driven by the collective intelligence of
-      representatives of the teams.
-  - question: How do these practices link with the three Teal breakthroughs?
+  - question: ¿Qué pasa con los descuentos por volumen?
     answer: >-
-      #### Self-management
+      <!--StartFragment-->
 
 
-      [Self-management](../self-management/) heavily impacts purchasing and investments. Every employee is enabled to take action and innovate in his working context. Investments are initiated from where they are needed. The [advice process](../decision-making/) creates a deeper understanding of the impacts of investments. The localized responsibility for purchasing leads to a greater satisfaction about what is bought because the user defines the specifications.
+      Seguramente se preguntará ¿que no se pierde dinero si las compras no se agrupan?. Como siempre, la respuesta es: hay que confiar en que la gente tomará las decisiones correctas dentro del marco de la autogestión. Para los artículos en los que los descuentos por volumen son demasiado buenos para renunciar a ellos, los colaboradores que compran con el mismo proveedor elegirán coordinarse para maximizar su poder adquisitivo. En Morning Star, una empresa de procesamiento de tomate, los colegas notaron que mucha gente compraba threadlocker, un adhesivo sellador de roscas, que evita que las tuercas y pernos se aflojen accidentalmente, en docenas de formatos diferentes y de diferentes vendedores. No sólo estaban perdiendo los descuentos por volumen, sino que las compras no coordinadas generaban burocracia innecesaria debido a que las regulaciones en la industria alimentaria requerían que los trabajadores rastrearan minuciosamente cada formato del sellador de roscas en una Hoja de Datos de Seguridad de Materiales. En algún momento, un trabajador sugirió que podía caminar alrededor de la planta una vez al trimestre y preguntar a sus colegas si querían ordenar a través de él la compra del sellador. Una solución similar surgió para la compra de materiales de embalaje, un área donde los descuentos por volumen pueden agregar rápidamente. Cuando hay un valor en la coordinación, la gente simplemente empieza a coordinar.
 
 
-      #### Wholeness
+      <!--EndFragment-->
+  - question: ¿Qué pasa con la estandarización?
+    answer: >-
+      <!--StartFragment-->
 
 
-      To decide about investments a deep holistic understanding about the inter-dependencies and reach of a decision is necessary. The [advice process](../decision-making/) creates a wide transparency about the impacts of an investment. Especially when it is a bigger amount of money, it is essential to understand the company's financial situation and investment impacts on others as a whole.
+      A menudo tiene sentido comprar equipos informáticos o telefónicos de los mismos proveedores o compatibles, por ejemplo. Una vez más, uno puede simplemente confiar en el proceso de los consejos. Una secretaria que se compra una computadora nueva, a menos que esté muy versada en especificaciones de hardware y software, probablemente buscará el consejo de una parte informada para asegurar que la computadora encajará fácilmente con el resto del equipo de TI. En este caso, no hay necesidad de un departamento central para hacer cumplir las normas. En los casos más complejos, cuando los estándares necesitan ser especificados, alguien reunirá a un grupo que estudiará el asunto y definirá los estándares.
 
 
-      #### Evolutionary purpose
+      <!--EndFragment-->
+  - question: ¿Qué pasa con una inversión que no encaja en el presupuesto?
+    answer: >-
+      <!--StartFragment-->
 
 
-      One important criterion about investments is whether it fulfills an [evolutionary purpose](../evolutionary-purpose/). Distributed investment decisions empower those sensing the organization's purpose to act in a way to serve that purpose.
+      De vez en cuando una inversión podría no encajar en el presupuesto por alguna razón. Posiblemente la inversión se base en un evento repentino o una oportunidad valiosa. Al igual que con las organizaciones Naranja, las inversiones espontáneas deben ser acomodadas bajo Teal. Una vez más, el proceso de los consejos se utiliza para manejar estas situaciones. Si un departamento o grupo en particular necesita una mayor asignación de presupuesto, puede solicitar apoyo de otros grupos que podrían estar dispuestos a dar una pieza de su presupuesto. Las preguntas desafiantes deben ser hechas y contestadas, pero finalmente habrá una decisión impulsada por la inteligencia colectiva de los representantes de los equipos.
+
+
+      <!--EndFragment-->
+  - question: ¿Cómo se relacionan estas prácticas con los tres avances Teal?
+    answer: >-
+      <!--StartFragment-->
+
+
+      **Autogestión**\
+
+      La [autogestión afecta](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Autogesti%C3%B3n "Autogestión") fuertemente las compras y las inversiones. Cada empleado está capacitado para actuar e innovar en su contexto de trabajo. Las inversiones se inician desde donde se necesitan. El proceso de los consejos crea una comprensión más profunda de los impactos de las inversiones. La responsabilidad localizada de la compra conduce a una mayor satisfacción sobre lo que se compra porque el usuario define las especificaciones.\
+
+      \
+
+      **Plenitud**\
+
+      Para decidir sobre las inversiones es necesario un profundo conocimiento holístico sobre las interdependencias y el alcance de una decisión. [El proceso de los consejos](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Toma_de_Decisiones "Toma de Decisiones") crea una gran transparencia sobre los impactos de una inversión. Especialmente cuando se trata de una mayor cantidad de dinero, es esencial comprender la situación financiera de la empresa y los impactos de la inversión en otros como un todo.\
+
+      \
+
+      **Propósito evolutivo**\
+
+      Un criterio importante sobre las inversiones es si cumple un [propósito evolutivo](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Prop%C3%B3sito_Evolutivo "Propósito Evolutivo"). Las decisiones de inversión distribuidas facultan a quienes perciben el propósito de la organización para actuar de una manera que sirva a ese propósito.
+
+
+      <!--EndFragment-->
 relatedTheory:
   - Decision Making
   - Budgeting and Controlling
