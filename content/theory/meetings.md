@@ -6,231 +6,149 @@ name: Reuniones
 sortOrder: 2
 category: Daily practices
 intro: >-
-  The topic of meetings discusses when, how and for what purpose meetings are
-  organized.
+  <!--StartFragment-->
+
+
+  En esta sección se describe el papel de los objetivos y el establecimiento de metas, en particular se examinan los procesos para establecer metas y despertar la ambición de lograrlas en ausencia de procesos de establecimiento de objetivos formales.
+
+
+  <!--EndFragment-->
 
 
   ![](/media/meetings-2.jpg)
 perspective: >-
-  Meetings serve different purposes depending on the stage of the organization.
-  The number of meetings held typically grows as organizations develop, peaking
-  at the Green stage. The volume of meetings held declines at the Teal stage.
+  <!--StartFragment-->
 
 
-  Members of Teal organizations tend to feel more connected to each other and the work, and need fewer meetings to plan or resolve issues.
+  En lugar de depender de la dirección para establecer la dirección, en las organizaciones Teal, los equipos y los individuos están intrínsecamente impulsados a cumplir el propósito de la organización. No necesitan motivadores extrínsecos en forma de objetivos y presupuestos para hacer que hagan su trabajo. Establecen sus propios objetivos y objetivos, cuando lo sienten necesario.
 
 
-  ### Red organizations
+  Las organizaciones Teal evolucionan a través de la detección y la respuesta al medio ambiente. El proceso de escuchar el [propósito evolutivo](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Prop%C3%B3sito_Evolutivo "Propósito Evolutivo") se utiliza para decidir sobre los próximos pasos para un equipo o para toda la organización.\
+
+  \
+
+  Cada etapa histórica ha dado nacimiento a una perspectiva distinta sobre los Objetivos y el establecimiento de metas, y a prácticas muy diferentes:\
+
+  \
+
+  **Organizaciones Rojas**\
+
+  Las [organizaciones Rojas ](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_paradigma_Rojo_y_las_Organizaciones "El paradigma Rojo y las Organizaciones")se caracterizan por comportamientos oportunistas ya menudo reactivos. En lugar de ser un proceso formal, los objetivos y la fijación de metas son un aspecto inherente a la protección y / o expansión de la base de poder de uno.\
+
+  \
+
+  **Organizaciones Ámbar**\
+
+  En las [organizaciones Ámbar](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_%C3%81mbar_y_las_Organizaciones "El Paradigma Ámbar y las Organizaciones"), los objetivos de las organizaciones son fijados por la alta dirección. El único aporte de niveles inferiores es la información técnica u operativa, ya sea como parte de su trabajo o por solicitud especial de arriba. El despliegue de los planes para alcanzar estos objetivos se da en forma de directivas a niveles inferiores, con metas como parte de las directivas. Los empleados tienen poco contacto directo con la alta dirección, y se espera que sigan las órdenes, incluso si su experiencia / conocimiento de las condiciones locales sugieren diferentes acciones.\
+
+  \
+
+  **Organizaciones Naranja**\
+
+  Las [organizaciones Naranja ](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Naranja_y_las_Organizaciones "El Paradigma Naranja y las Organizaciones")formalizan el proceso de planificación estratégica, estableciendo visión, misión, valores y objetivos como parte de un proceso formal de planificación ya través de la lente de la organización como una máquina. Esto comienza en la Junta y el nivel Ejecutivo seguido con unidades de negocio, equipos o departamentos. Se espera que estos niveles inferiores desarrollen sus propios planes estratégicos alineados con la visión, misión y objetivos corporativos.\
+
+  \
+
+  Por lo tanto, los objetivos se fijan en los diversos niveles para lograr los objetivos como parte de un paso del "mando y control" de las [El Paradigma Ámbar y las Organizaciones](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_%C3%81mbar_y_las_Organizaciones "El Paradigma Ámbar y las Organizaciones") a uno de *"predecir y controlar"*. La gerencia superior formula la dirección y la estrategia generales y esto se hace en cascada a través de la organización como objetivos, metas y objetivos. Los gerentes y el personal tienen libertad para usar su creatividad para lograr estos objetivos y se les pueden ofrecer incentivos para hacerlo. Cuando están bien alineados, la administración intermedia y, en cierta medida, los niveles inferiores, tienen la libertad de determinar cómo lograrán sus objetivos. Cuando no se alinea cuidadosamente este enfoque puede conducir al juego de objetivos, con los equipos a veces trabajando unos contra otros para lograr sus propios objetivos.\
+
+  \
+
+  **Organizaciones Verdes**\
+
+  Una metáfora que a veces se utiliza para describir las [organizaciones Verdes](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Verde_y_las_Organizaciones "El Paradigma Verde y las Organizaciones") centrada en el consenso es la de la "familia". Verde es inseguro con el poder y la jerarquía y cambia la autoridad y la toma de decisiones de los gerentes a los miembros del personal. En la práctica, las organizaciones verdes exitosas tienen estructuras jerárquicas. Los gerentes a menudo operan como líderes sirvientes que están ahí para apoyar y desarrollar a sus empleados. Los objetivos y metas suelen establecerse por consenso a nivel de equipo para apoyar una visión y una misión predefinidas.\
+
+  \
+
+  **Organizaciones Teal**\
+
+  Usando la metáfora de un sistema vivo, las [organizaciones Teal](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones") organizan alrededor de un sentido claro de [propósito](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Prop%C3%B3sito_Evolutivo "Propósito Evolutivo"). Este no es un propósito (misión) fijado por la gerencia superior, sino uno que permite evolucionar y es compartido por todos los miembros de la organización.
 
 
-  In [Red organizations](../red-organizations/), meetings are held when the Chief or Boss feels they are necessary. They might be held to make announcements, pass judgements or to conduct ceremonies. Sometimes they are held, to seek counsel or gather information.
+  Alineada con el propósito de la organización, la planificación se basa en "*sentir y responder*" con énfasis en un enfoque ágil para encontrar soluciones viables. Este proceso adaptativo es similar a los principios de lean start-up y [desarrollo de software](https://es.wikipedia.org/wiki/Manifiesto_%C3%A1gil). La toma de decisiones se lleva a cabo dentro de un marco de valores de toda la organización y equilibrada a través de un [proceso de los consejos.](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Toma_de_Decisiones "Toma de Decisiones") La estrategia surge de forma orgánica de la interacción de los empleados con el entorno organizacional Teal. Los empleados autogestionados pueden fijar objetivos por sí mismos, o un equipo puede decidir sobre un objetivo, p. Tiempo de respuesta más rápido, pero no hay ventas, eficiencia u otros objetivos. El proceso de buscar consejo de colegas y especialistas antes de comprometerse con un proyecto o cambio asegura que todos los aspectos, incluyendo la responsabilidad financiera, se tengan en cuenta. Parte del sistema de valores es que ningún miembro o grupo de miembros puede poner en riesgo a la organización con acciones o proyectos mal considerados o egoístas.
 
 
-  ### Amber organizations
-
-
-  In [Amber organizations](https://reinventingorganizations-wiki.netlify.app/theory/amber-paradigm-and-organizations/), meetings are an important method of hierarchical control. They are used to gather, distill, and pass information up and down the organization. The highest-ranking person is in charge. It is incumbent on the others to be prepared to report information or provide answers as required.  
-
-
-  ### Orange organizations
-
-
-  [Orange organizations](https://reinventingorganizations-wiki.netlify.app/theory/orange-paradigm-and-organizations/) manage performance carefully to ensure that targets and goals are achieved. This requires regular (weekly/monthly/quarterly/annual) meetings at most levels in the organization.
-
-
-  Meetings are held for many reasons :
-
-
-  * Reporting progress and making decisions. 
-
-  * Planning
-
-  * To innovate through brainstorming and other creative processes.
-
-  * Gaining approval for investments and other important decisions
-
-  * Determining priorities, and so on.
-
-
-  As these meetings proliferate, they become the 'diary-filler' for busy senior executives. Until relatively recently, this often meant significant travel for some of those employed by international organizations.
-
-
-  Meetings often have pre-defined agendas with the intention of reaching clear outcomes. Rational discussion and logical arguments are valued. However, personal agendas are never far from the surface and have the potential to undermine organizational goals.
-
-
-  ### Green organizations
-
-
-  In [Green organizations](../green-paradigm-and-organizations/), aim to serve multiple stakeholders with equality, respect and inclusion. This requires meeting with them. Consensus is valued, but may be gruelling to achieve.
-
-
-  Meetings are not only about planning and reporting (as in Orange organizations), but are also about sustaining a sense of ownership, inclusion and empowerment: in other words, creating a values-based culture.  As a result, meeting practices tend to be more attentive to the underlying processes within the group.
-
-
-  ### Teal organizations
-
-
-  [Self-organization ](../self-management/)allows members of [Teal organizations](../teal-paradigm-and-organizations/) to take responsibility for making decisions without the need for approval or consensus. As a result there are usually far fewer meetings required.
-
-
-  Meetings tend to be held only when they are necessary. Reasons include:
-
-
-  * Seeking advice when this is required by the advice process
-
-  * Sharing information
-
-  * Responding to changing circumstances
-
-
-  Meetings usually incorporate specific practices to ensure that members engage with each other and the purpose of the meeting in a respectful and productive way. New joiners are typically trained in these processes so they can participate fully.
+  <!--EndFragment-->
 inPractice: >-
-  #### *Meeting activity is limited and arises from the 'need to meet'*
+  <!--StartFragment-->
 
 
-  Meetings can arise spontaneously whenever a member of the organization senses a need, and takes the initiative.  Meeting structures and facilitation support this [self-organizing ](../self-management/)spirit. The increased transparency in Teal organizations reduces the number and length of some meetings. When meetings are held, care is taken to use specific practices that foster a sense of [wholeness](../wholeness/).
+  **El problema con los objetivos**
 
 
-  #### *Self-management requires far fewer meetings*
+  En el [paradigma Naranja - Logro](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Naranja_y_las_Organizaciones "El Paradigma Naranja y las Organizaciones"), los objetivos y las metas son los principales impulsores del éxito. Son el pegamento que mantiene a la organización unida y da sentido a su existencia. En el paradigma Teal-Evolutivo, el [propósito](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Prop%C3%B3sito_Evolutivo "Propósito Evolutivo") y los [valores](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Cultura_y_Valores "Cultura y Valores") impulsan la organización. El objetivo es dar vida al propósito de la organización. No existen sistemas formales ni procesos de arriba hacia abajo para establecer objetivos y metas. Todas las funciones de la dirección (planificación, organización, dirección, inversiones, presupuestos, etc.) son realizadas por las personas que realizan el trabajo. En general, las organizaciones Teal-evolutivas tienden a no fijar objetivos o metas.
 
 
-  Overall there tend to be fewer meetings in [Teal organizations](../teal-paradigm-and-organizations/). In a traditional pyramid structure, meetings are needed to gather, package, filter and transmit information as it flows up and down the chain of command.  In self-managing structures, the need for many of these meetings falls away. Whereas in [Green organizations](../green-paradigm-and-organizations/) meetings may be a way of building ‘bottom up’ involvement, this is already 'built in' to a self-managing structure.
+  \
 
+  Desde una perspectiva Teal-Evolutiva, los objetivos y metas son problemáticos:
 
-  #### *Regular meetings at the operational team/circle level*
 
+  * Se basan en el supuesto de que podemos predecir el futuro,
 
-  The frequency of team/circle meetings is determined by the nature of the work.
+  * Desvían el comportamiento de motivación intrínseca a extrínseca,
 
+  * Tienden a reducir la capacidad de sentir nuevas posibilidades,
 
-  See FAVI, below. 
+  * Centran la atención en los objetivos, en lugar de cumplir con el propósito de la organización,
 
+  * En el mundo del logro Naranja siempre implican crecimiento, algo que no siempre es un elemento inherente al propósito de las organizaciones Teal.
 
-  #### *Agendas*
 
 
-  Traditionally, agendas are thought of as the minimum discipline for a productive meeting. But not necessarily in a Teal workplace. Many of their scheduled meetings have no pre-determined agenda. Rather, one is determined at the beginning, and is based on the topics that hold energy for the participants, at that time. This ensures meetings stay energized, purposeful, and engaging.  The interest is a real and present interest; it's not manufactured via a ritualistic approach.   
 
+  **Sentir y responder - una nueva forma de determinar objetivos, metas y estrategia**
 
-  #### *All-hands meetings*
 
+  En lugar de tratar de predecir y controlar (la meta implícita detrás de los objetivos y metas), las organizaciones Teal sentido y responder. Se podría decir que todo el establecimiento de objetivos se inicia localmente donde se "detecta y responde" a, luego se desata o emerge a través de la organización como un sistema vivo según sea necesario.
 
-  All-hands meetings may be scheduled when there is a new and important information to share: quarterly results, the annual values survey, a strategic inflection point, and so forth. The information is not simply 'presented' top-down – it is discussed and debated. Questions can take the meeting in any direction; frustrations can be vented; accomplishments spontaneously celebrated. More is at play than simply information exchange. Trust in the organization, and its values, is being tested and reaffirmed. Will the senior people be candid, humble, and vulnerable? Will they face the difficult questions? Will they involve the whole group?
 
+  Un ejemplo es el Buurtzorg Boardinghouse. Las enfermeras notaron o percibieron que los cuidadores primarios de sus pacientes necesitaban un descanso de las demandas de cuidado. En respuesta, instituyeron una solución tipo bed and breakfast donde los pacientes podían recibir atención, proporcionando a los cuidadores un respiro. No había metas u objetivos para Buurtzorg para convertirse en una cama y desayuno, pero las enfermeras percibieron una necesidad y su respuesta del cuidado del respiro tomó abajo de esta trayectoria que beneficia a pacientes ya cuidadores en el proceso.
 
-  In contrast, all-hands meetings in traditional companies tend to be presentation-driven--or otherwise avoided because of their unpredictability, and risk. 
 
+  No podemos planear para un mundo que está cambiando continuamente, y donde no tenemos ningún control sobre los cambios. Así que las organizaciones Teal-Evolutivas trabajan sobre la base del sentido y responden, en lugar de predecir y controlar.
 
-  #### *Form follows function: meetings emerge on an ad hoc basis*
 
+  \
 
-  Meetings needed to coordinate tasks across teams, or launch special projects, arise spontaneously. It’s an organic way of organizing. 
+  **Planes de inversión**
 
 
-  #### *A variety of meeting formats for different purposes*
+  Lo más cercano que las organizaciones Teal-Evolutivas llegan a establecer objetivos es en el proceso de inversión. La mayoría de las organizaciones tienen un proceso de inversión anual, donde cada equipo prepara sus planes de inversión para el próximo año. Estos planes se suman y, si superan los recursos disponibles / accesibles, los equipos tienen que revisar y ajustar sus planes. Ya sea que las inversiones formen parte del plan anual, o de las inversiones situacionales ad hoc, los equipos son responsables de recaudar el financiamiento externo, o negocian internamente con otros equipos para obtener fondos o recursos.
 
 
-  Examples include:
+  Algunas organizaciones Teal-Evolutivas tienen objetivos de toda la organización, o quizás directrices. Por ejemplo, [Buurtzorg](http://www.buurtzorgnederland.com/), la organización de salud con sede en los Países Bajos, tiene un objetivo de horas facturables del 60-65% para sus equipos maduros.
 
 
-  * Team [decision-making ](../decision-making/)meetings at [Buurtzorg ](http://www.buurtzorgnederland.com/)
+  \
 
-  * Holocratic Governance vs. Tactical meetings at [HolocracyOne ](http://www.holacracy.org/)
+  **Objetivos determinados por el equipo**
 
-  * [On-boarding ](../onboarding/)meetings / Departure meetings as at [CC&R ](http://www.couragerenewal.org/)
 
-  * Appraisal meetings
+  Las personas y los equipos pueden elegir establecer metas u objetivos para sí mismos como medidas que les digan lo bien que están haciendo para cumplir con el propósito de la organización. Los operadores de máquinas pueden fijar objetivos de calidad o rendimiento por sí mismos. Los equipos pueden fijar objetivos con el fin de poner en marcha un nuevo proyecto, o pueden haberse fijado objetivos para tiempos de respuesta. Esto es simplemente parte de la autogestión, en oposición a los objetivos y metas impuestas desde arriba (fuera del equipo o individuo). Se eligen las mediciones que ayudan al equipo a detectar mejor los cambios clave y responder a ellos.
 
-  * [Conflict resolution](../conflict-resolution/) meetings
 
-  * [Listening to purpose ](../listening-to-purpose/)meetings
+  \
 
-  * Large group reflections at [Heiligenfeld](http://www.heiligenfeld.de/)
+  **Responsabilidad distribuida y rendición de cuentas compartida**
 
-  * [Culture/Values](../culture-and-values/) meetings
 
-  * Praise meetings at [ESBZ ](http://www.ev-schule-zentrum.de/aktuell/)
+  Las organizaciones Teal-Evolutionary no establecen objetivos de ventas. Sin embargo, todo el mundo, incluidos los vendedores, son plenamente conscientes e informados de lo que se necesita para mantener la organización. Dado que los vendedores forman parte de los equipos operativos, saben cuánto trabajo se requiere para mantener al equipo en marcha.
 
 
-  #### Highlighting sense of wholeness and purpose
-
-
-  Meetings bring out the best and the worst of human nature.
-
-
-  In the best, they are places where others help us listen in to what we really care about. But meetings can also be playfields for egos. To feel safe, some seek to dominate proceedings. Others withdraw. In self-managingorganizations the absence of a boss takes some of these fears out of the room. But in a group of peers egos can dominate just as well. A variety of approaches support productive interactions consistent with [wholeness ](/wholeness/)and [purpose](../listening-to-purpose/).
-
-
-  #### Training in meeting practices
-
-
-  Some train new members in effective meeting formats. New members need to be comfortable to participate in decision-making procedures.
-
-
-  Training in facilitation, communication skills and mindsets support collegiality, trust building, and the resolution of tensions.
-
-
-  #### Starting at the right place
-
-
-  The beginning of a meeting sets the mood. [Teal Organizations ](../teal-paradigm-and-organizations/)may use the following practices:
-
-
-  * One widespread practice is to start with a 'check-in' round. Participants share how they feel in the moment, as they enter. The helps all to listen within, to their bodies and sensations, and to build awareness. Naming an emotion is often all it takes to deal with it.  Thus, this practice helps participants let go of distractions while supporting everyone to be present for the current meeting. 
-
-  * Or every meeting starts with a minute of silence to ground people in the moment. 
-
-  * Meetings may start with at short reading that one person has prepared. After a few moments of silence, participants share the thoughts this has sparked.  
-
-  * Another practice is to start every meeting with all sharing a brief story of someone they had recently thanked. This highlights possibility, gratitude, celebration, and trust.  
-
-  * Yet another variant is a minute of silence and/or a joke.
-
-
-  #### Keeping on track
-
-
-  Additional practices to keep intention and attention in the meeting:
-
-
-  * A volunteer holds of a pair of tingsha bells (two small hand cymbals that can make a crystal-like sound). If the holder feels ground rules are not being respected, she can make the cymbals sing. No one may speak until the cymbal sound has died out. During the silence, all can reflect on the question: "Am I in the service to the topic we are discussing?”  
-
-  * Some use a 'talking stick' or other artifact to regulate turn-taking, slow down the speed of conversation, and increase the quality of listening. 
-
-  * A facilitator may be used when there are specific requirements to fulfil. This may be an external facilitator in some circumstances.  
-
-
-  #### Ending meetings
-
-
-  Check-out rounds at the end of the meeting are a natural complement to the initial check-in round. They leave everyone with a sense of the impact of the meeting. A moment of silence is another way to reflect and conclude.  
-
-
-  #### Meeting transparency / open participation
-
-
-  Upcoming meetings may be listed on the intranet. This allows anyone who wants to share concerns or ideas to attend.  This transparency may extend to outsiders via streaming on the internet. Some claim this transparency results in closer relations with their external partners.
-
-
-  Meeting cultures in [Teal Organizations ](../teal-paradigm-and-organizations/)have adopted some of the ‘alternative meeting formats’ like Open Space, Art of Hosting, World Café etc.
+  <!--EndFragment-->
 faq:
-  - question: Doesn’t the advice process lead to more meetings rather than less?
+  - question: Si no se establecen objetivos de ventas, ¿cómo sabrá la empresa cuánto
+      vender para lograr tanto el equilibrio como la rentabilidad?
     answer: >-
-      Consulting with others, rather than making unilateral decisions, may mean
-      more meetings. However, this is often more than made up for by savings
-      elsewhere.
+      <!--StartFragment-->
 
 
-      Frédéric Laloux, tells this story as an illustration:
+      La información financiera está disponible para todos y todos están capacitados para leer y entender la información financiera. También se les enseña a relacionar la información con sus actividades. Dado que cada miembro es responsable de la salud de toda la organización, saben exactamente qué productos son necesarios para mantener la organización financieramente sana.\
+
+      Si los equipos tienen personas específicas en funciones de ventas o son responsables de las ventas como parte de sus tareas en curso, todo el mundo tiene una idea clara de lo que está sucediendo en el mercado, lo que las necesidades de los clientes son y qué otras ofertas hay. La belleza de la naturaleza [auto organizada](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Autogesti%C3%B3n "Autogestión") de las [organizaciones Teal](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones") es que pueden sentir y adaptarse a los cambios del mercado en tiempo real. Las organizaciones Naranja-Logro tienen que esperar la retroalimentación de los equipos de ventas y la investigación de mercado, luego pasar por un laborioso establecimiento de objetivos y tomar decisiones y luego implementar cambios.
 
 
-      “Jos de Blok, CEO of [Buurtzorg](https://www.buurtzorgnederland.com/), often applies the advice process by posting a blog note to the Buurtzorg web in the evening, proposing suggestions for new initiatives and decisions and asking for advice from all the members of the organization. 24 hours later, 50-80% of the employees will have read and perhaps commented. Maybe the overwhelming response is "yes, this is fine", in which case the decision can just be effectuated at this point. Alternatively, he will have received feedback on how he might be overlooking important negative consequences, or how this issue may be more complicated than he is aware off. In this case, he might revise his proposal accordingly and repost it, or sense the need to gather a voluntary group to deal with it. In any case this provides a swift [decision making process](../decision-making/) with very few meetings."
-
-
-      Compare this to the process that typically takes place in a traditional 9000 employee hierarchy. Say the CEO wants to change overtime conditions:
-
-
-      First he/she asks the Head of HR to prepare a proposal, who then asks someone more junior to do 'the staff work'. The junior drafts a proposal, maybe shows to a colleague and revises accordingly. Then the Head of HR goes over the draft, and suggests further refinements, before booking a meeting with the CEO who can make further changes. Then it goes to the executive committee...and so on...They want more revisions, and it goes down the line again, and back up again... It may now become political, bringing another layer of complications. If it is now approved, someone in internal communication works on it, and shows the CEO, again. Finally, it is cascaded to the managers who prepare presentations to make a team meetings. The total number meetings that may go into such a decision is huge.
+      <!--EndFragment-->
 relatedTheory:
   - Culture and Values
   - Feedback and Performance Management
