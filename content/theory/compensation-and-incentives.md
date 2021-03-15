@@ -121,25 +121,26 @@ faq:
 
 
       Z tego powodu wiele organizacji decyduje się na całkowite upublicznienie informacji. (Twórca aplikacji społecznościowych Buffer publikuje nawet wynagrodzenie wszystkich osób w Internecie). Niektóre organizacje, takie jak firma przetwórstwa pomidorów Morning Star, postanowiły upublicznić  *procenty wzrostu wynagrodzeń*  w ramach organizacji, ale nie podstawową pensję. Może to być pośredni krok w kierunku pełnej przejrzystości dla organizacji.
-  - question: What happens in times of crisis?
+  - question: Co dzieje się w czasach kryzysu?
     answer: >-
-      There are several documented examples of self-managing organizations where
-      colleagues have voluntarily decided to temporarily reduce their salaries
-      to weather a downturn so as to avoid having to lay-off staff. In
-      self-managing organizations, all [information tends to be
-      public](../information-flow/) and there is generally a high level of
-      maturity and literacy when it comes to financial matters. In a traditional
-      organization, when revenues are down and the organization faces heavy
-      losses, plans are often made secretly within HR for redundancies. In
-      self-managing organizations, everyone sees the storm coming. Someone, at
-      some point, calls in everyone (or in a large organization, might invite a
-      cross-section of the organization) to a meeting to say: what do we do?
-      From the group, solutions emerge, which in many cases simply come down to
-      everyone agreeing to a temporary salary reduction (with often the highest
-      salaries taking a higher percentage cut). 
+      Istnieje kilka udokumentowanych przykładów samozarządzających się
+      organizacji, w których koledzy dobrowolnie zdecydowali się tymczasowo
+      obniżyć swoje wynagrodzenia, aby przetrwać kryzys, aby uniknąć
+      konieczności zwalniania pracowników. W organizacjach samozarządzających
+      wszystkie [informacje są zazwyczaj publiczne] (../information-flow/) i
+      ogólnie istnieje wysoki poziom dojrzałości i umiejętności w zakresie spraw
+      finansowych. W tradycyjnej organizacji, gdy dochody spadają, a organizacja
+      stoi w obliczu poważnych strat, często plany zwolnień są tworzone w
+      tajemnicy w dziale HR. W organizacjach samozarządzających się wszyscy
+      widzą nadchodzącą burzę. Ktoś w pewnym momencie wzywa wszystkich (lub w
+      dużej organizacji, może zaprosić część organizacji) na spotkanie, aby
+      powiedzieć: co robimy? Z grupy wyłaniają się rozwiązania, które w wielu
+      przypadkach sprowadzają się po prostu do tego, że wszyscy zgadzają się na
+      czasową obniżkę wynagrodzeń (przy czym często najwyższe pensje przyjmują
+      wyższą obniżkę procentową).
 
 
-      Semco, the Brazilian firm that Ricardo Semler's bestseller Maverick made famous, has put in place a "voluntary risk program" to institutionalize such salary reductions to protect the organization in times of crisis (to which Brazil has been prone over the last several decades). Employees are offered the option of a risk salary program. They take a pay cut of 25 percent and then receive a supplement raising their compensation to 125 percent if the company has a good year. If the company does poorly, they only receive 75 percent of their salary. As the good years outweigh the bad, the deal is favorable to employees willing to take a risk.
+      Semco, brazylijska firma, którą rozsławił bestseller Ricardo Semlera, Maverick, wprowadził „dobrowolny program ryzyka” w celu zinstytucjonalizowania takich obniżek wynagrodzeń, aby chronić organizację w czasach kryzysu (na który Brazylia narażona jest przez ostatnie kilka dziesięcioleci). Pracownikom oferuje się program wynagrodzeń ryzyka. Biorą obniżkę wynagrodzenia o 25 procent, a następnie otrzymują dodatek zwiększający ich wynagrodzenie do 125 procent, jeśli firma ma dobry rok. Jeśli firma radzi sobie słabo, otrzymują tylko 75 procent swojej pensji. Ponieważ dobre lata przeważają nad złymi, umowa jest korzystna dla pracowników, którzy chcą podjąć ryzyko.
   - question: How do these practices link with the three Teal breakthroughs?
     answer: >-
       #### **Self-management**
