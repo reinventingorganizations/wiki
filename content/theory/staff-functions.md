@@ -5,113 +5,108 @@ key: Staff Functions
 name: Funciones Staff
 sortOrder: 2
 category: Structure of an organization
-intro: |-
-  This article addresses how staff functions are handled in Teal organizations.
+intro: >-
+  <!--StartFragment-->
+
+
+  En este artículo se explica cómo se manejan las funciones staff en las organizaciones Teal.
+
+
+  <!--EndFragment-->
+
 
   ![](/media/staff-functions.jpg)
-perspective: "In the last decades, we have witnessed, especially in large
-  organizations, a proliferation of staff functions: human resources (HR),
-  strategic planning, legal affairs, finance, internal communications, risk
-  management, internal audit, investor relations, training, public affairs,
-  environmental control, engineering services, quality control, knowledge
-  management and so on.\r
+perspective: >-
+  <!--StartFragment-->
 
-  \r
 
-  Staff roles were developed to support the establishment and adherence to
-  processes and planning of Amber organizations. They were further expanded to
-  facilitate the efficiencies sought by the Orange paradigm and to satisfy its
-  desire for expertise and accountability. While Green organizations tend to
-  place more emphasis on using staff roles to support the frontline (often
-  ironically, resulting in an increased HR staff), it is only under Teal that
-  the trend of increasing use of staff functions is reversed. In Teal, tasks
-  typically performed by support functions are, whenever possible, done by
-  frontline teams themselves. Those staff roles that do exist typically cannot
-  impose their rules or decisions on the organization."
+  En las últimas décadas hemos presenciado, sobre todo en las grandes organizaciones, una proliferación de funciones de staff: recursos humanos, planificación estratégica, asuntos legales, finanzas, comunicaciones internas, gestión de riesgos, auditoría interna, relaciones con inversionistas, capacitación, relaciones públicas, control ambiental, servicios de ingeniería, control de calidad, gestión del conocimiento, etc.
+
+
+  Las funciones de staff se desarrollaron para apoyar el establecimiento y la adhesión a los procesos y la planificación de las organizaciones Ámbar. Se expandieron aún más para facilitar las eficiencias buscadas por el paradigma Naranja y para satisfacer su deseo de experticia y responsabilidad. Mientras que las organizaciones Verdes tienden a poner más énfasis en el uso de funciones de staff para apoyar a los equipos de primera línea (a menudo irónicamente, lo que resulta en un mayor personal de recursos humanos), sólo bajo Teal se invierte la tendencia de aumentar el uso de las funciones de staff. En Teal, las tareas típicamente realizadas por las funciones de soporte son, siempre que es posible, realizadas por los propios equipos de primera línea. Los roles del staff que existen típicamente no pueden imponer sus reglas o decisiones sobre la organización.\
+
+  \
+
+  <!--EndFragment-->
 inPractice: >-
-  Centralized staff functions in most organizations create rules, policies and
-  processes for others to follow. There is a natural tendency for people in such
-  staff functions, often with the best of intentions, to prove their worth by
-  finding ways to “add value” by devising rules and procedures, building up
-  expertise, finding new problems to solve.
+  <!--StartFragment-->
 
 
-  Ultimately, this process concentrates power and decision-making away from the operational frontline. People there often end up feeling disempowered: they have to follow rules that often make sense only in principle but cannot accommodate the complexity of the concrete situations faced in practice.
+  En la mayoría de las organizaciones las funciones de staff centralizadas crean reglas, políticas y procesos para que otros las sigan. Existe una tendencia natural en las personas que desempeñan funciones de este tipo, a menudo con las mejores intenciones, de demostrar su valía mediante la búsqueda de formas de "agregar valor" mediante la elaboración de normas y procedimientos, la creación de conocimientos y la búsqueda de nuevos problemas a resolver.
 
 
-  For these reasons, Teal organizations keep staff functions to a bare minimum. They understand that the economies of scale and skill resulting from staff functions are often outweighed by the diseconomies of motivation produced. As a result, there are very few people working in staff functions in Teal Organizations. And those that do typically have no decision-making authority. They can provide guidelines but cannot impose a rule or a decision.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 1630-1636). Nelson Parker. Kindle Edition.]
+  En última instancia, este proceso concentra el poder y la toma de decisiones lejos de la primera línea operativa. Las personas a menudo terminan perdiendo poder: tienen que seguir reglas que a menudo tienen sentido sólo en principio, pero no pueden acomodarse a la complejidad de las situaciones concretas que enfrentan en la práctica.\
+
+  Por estas razones, las organizaciones Teal reducen las funciones de staff al mínimo. Comprenden que las economías de escala y de destreza resultantes de las funciones del personal suelen ser compensadas por las deseconomías de motivación producidas. Como resultado, hay muy pocas personas que trabajan en funciones de staff en las organizaciones Teal. Y las que quedan normalmente no tienen autoridad para tomar decisiones. Pueden proporcionar directrices, pero no pueden imponer una regla o una decisión. \[1]
 
 
-  #### The need for expertise
+  **La necesidad de la experiencia**\
+
+  En cada organización existe una tensión natural entre la necesidad de la experiencia y la necesidad de permitir que las personas de primera línea tomen decisiones. Cuando surge una necesidad de la experiencia, el primer instinto de la mayoría de las organizaciones es crear un grupo central de expertos. El riesgo, por supuesto, es que con el tiempo aparecen dos castas dentro de la organización: un prestigioso (a menudo muy bien pagado) grupo de expertos centrales, y un grupo de personas sin poder que realizan trabajo operativo en el campo.
 
 
-  In every organization there is a natural tension between the need for expertise and the need to let frontline people make decisions. When a need for expertise arises, the first instinct of most organizations is to create a central pool of experts. The risk, of course, is that over time two castes emerge within the organization: a prestigious (often highly paid) group of central experts, and a disempowered group of people performing operational work in the field.
+  En su lugar, las organizaciones Teal permiten que la experiencia se desarrolle de manera distribuida. Con el tiempo, colegas en equipos de primera línea acumulan un montón de conocimientos especializados. Un operador de la máquina podría saber todo sobre el uso de un lubricante determinado, una enfermera sobre todo acerca de una cierta condición médica arcana, o un ingeniero sobre cómo crear una herramienta financiera compleja para calcular el retorno de inversión de una nueva máquina. En lugar de establecer roles de staff para estos expertos, las organizaciones Teal buscan ayudar a los miembros del equipo a identificar a colegas con la experticia adecuada. Puede ser muy motivador para la gente que sea buscada por sus colegas para asesoramiento y experticia. Son comunes los sistemas especiales de intercambio de información, como las redes sociales internas y las plataformas de conocimiento.\
+
+  En muchos casos, se pueden crear [grupos de tarea](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Equipos_de_Proyecto_y_Grupos_de_Tarea "Equipos de Proyecto y Grupos de Tarea") voluntarios para codificar y difundir conocimientos en áreas específicas (a través de almacenes centrales de conocimientos, capacitación, etc.).\
+
+  Por último, la experiencia en ciertas áreas (por ejemplo, sobre el derecho laboral en Recursos Humanos) puede ser contratada desde el exterior. En lugar de contratar a un experto en un papel de staff, un freelancer o consultor puede ser utilizado como asesor cuando sea necesario por los miembros de los equipos de primera línea.
 
 
-  Instead, Teal organizations allow expertise to develop in a distributed fashion. Over time, colleagues in frontline teams build up a lot of specialized knowledge. A machine operator might know all about the use of a certain lubricant, a home-care nurse all about a certain arcane medical condition, or an engineer all about how to create a complex financial tool to calculate a new machine's return on investment. Rather than establishing staff roles for these experts, Teal organizations aim to help team members identify colleagues with the right expertise. It can be highly motivating for people to be sought out by colleagues for advice and expertise. Special systems for sharing information are common, such as internal social networks and knowledge platforms.
+  **Economías de escala**\
+
+  A menudo las funciones de staff se ponen en práctica sobre la base de la justificación de que proporcionarán economías de escala. Estas economías son fáciles de estimar en principio y proporcionan una justificación pronta para la centralización de ciertas tareas. Sin embargo, esto pasa por alto los otros costos reales en forma de deseconomías de motivación y desconexión de las realidades de primera línea.
 
 
-  In many cases, volunteer [task forces ](../project-teams-and-task-forces/)can be set up to codify and disseminate knowledge in specific areas (through central knowledge repositories, training, etc.).
+  Las organizaciones Teal buscarán economías de escala sin crear funciones de staff en el sentido tradicional. Digamos que los diferentes equipos en una fábrica o en un número de fábricas todos compran un determinado material, y la puesta en común de sus compras tiene sentido. Un equipo podría simplemente acelerar y convertirse en el comprador líder para ese producto (preguntar a otros equipos, con una frecuencia fija, por sus pedidos). De esta manera, diferentes equipos se unen para liderar ciertos esfuerzos para otros equipos de manera descentralizada.\
+
+  En otros casos, podría tener sentido para los colegas crear un rol para manejar ciertas funciones. Por ejemplo, en ciertos países, las leyes laborales podrían implicar mucho trabajo administrativo para administrar la nómina. Los equipos podrían decidir delegar este trabajo a un rol central de staff que ellos hayan creado. Sin embargo, en Teal, el papel central del staff es trabajar por encargo y al servicio de los equipos y no puede imponer decisiones de arriba hacia abajo. Un equipo de primera línea que decida no utilizar los servicios del staff central de apoyo es libre de hacerlo.
 
 
-  Finally, expertise in certain areas (say about labor law in Human Resources) can be contracted from the outside. Rather than hiring an expert into a staff role, a freelancer or consultant can be used as an advisor when needed by members of frontline teams.
+  **Estableciendo Estándares**\
 
+  Del mismo modo, en muchos casos, tiene sentido establecer estándares comunes para toda la organización, por ejemplo, en recursos humanos (por ejemplo, asegurarse de que todos tengan la misma experticia, independientemente del equipo en el que se contraten), comercialización (por ejemplo, uso de plantillas y elementos de diseño), finanzas (por ejemplo, hacer que los números sean comparables), IT (por ejemplo, vamos a comprar equipos compatibles), etc. En organizaciones tradicionales, las reglas, políticas y procedimientos son establecidos por las funciones del staff central. Quienes los hacen cumplir.\
 
-  #### Economies of scale
+  En Teal, tales estándares pueden ser fácilmente decididos por una persona que tome la iniciativa, usando el proceso de los consejos. Alternativamente, las personas con roles similares en diferentes unidades (digamos que las personas involucradas en la incorporación de nuevos colegas) pueden crear un grupo de trabajo voluntario y elaborar conjuntamente normas y directrices. AES, un gran proveedor de energía, cuando operaba sobre principios autogestionados, trabajaba con una regla 80/20: se esperaba que todos los colegas pasaran el 20% de su tiempo en un grupo de trabajo voluntario (o equipo de proyecto temporal) al lado del 80 % en sus funciones principales.\
 
+  \
 
-  Staff functions are also often put in place based on the rationale that they will provide economies of scale. These economies are easy to estimate in principle and provide a ready justification for the centralization of certain tasks. Yet this overlooks the other real costs in the form of diseconomies of motivation and disconnection from frontline realities.
-
-
-  Teal organizations will pursue economies of scale without creating staff functions in the traditional sense. Say different teams in a factory or across a number of factories all buy a certain material, and pooling their purchases makes sense . One team might simply step up and become the lead purchaser for that product (asking other teams, at a fixed frequency, for their orders). In this way, different teams step up to lead certain efforts for other teams in a decentralized way.
-
-
-  In other cases, it might make sense for colleagues to create a role to handle certain functions. For instance, in certain countries, labor laws might imply a lot of administrative work to manage payroll. Teams could decide to delegate this work to a central staff role that they created. In Teal however, the central staff role works on behalf of the teams, and cannot impose top-down decisions. A frontline team that decides not to use the services of the central support staff is free to do so.
-
-
-  #### Setting standards
-
-
-  Similarly, in many cases, it makes sense to set common standards for the entire organization, for instance in human resources (e.g., let's make sure everyone gets the same experience, whatever team they are hired into), marketing (e.g., let's use common templates and design elements), finance (e.g., let's make numbers comparable), IT (e.g., let's buy equipment that is compatible), etc. In traditional organizations, rules, policies and procedures are set up by central staff functions, who then also enforce compliance.
-
-
-  In Teal, such standards can easily be decided upon by one person taking the lead, using the advice process. Alternatively, people with similar roles in different units (say people involved with on-boarding new colleagues) can create a voluntary task force and jointly devise standards and guidelines. AES, a large energy provider, when it operated on self-managing principles, worked with an 80/20 rule: all colleagues were expected to spend 20% of their time in a voluntary task force (or temporary project team) next to the 80% on their primary roles.
+  <!--EndFragment-->
 faq:
-  - question: What about highly regulated businesses?
+  - question: ¿Qué pasa con los negocios altamente regulados?
     answer: >-
-      In some industries, the risks for non-compliance with certain procedures
-      are especially high. Regulators might even go so far as to require someone
-      to sign on behalf of the organization, typically a “C-Suite” executive
-      ―the CFO for the accounts, the Chief Risk Officer for topics related to
-      risk, etc. Because this individual risks personal consequences for the
-      organization’s non-compliance including legal actions imposed by outside
-      regulators, he or she would naturally want to protect him or herself from
-      risk by mandating strict rules and enforcing their compliance. How can
-      self-managing organizations address this issue?
+      <!--StartFragment-->
 
 
-      One way to deal with this is through voluntary task forces. A risk task force for instance, composed of people with roles related to risk in their respective units, could commonly decide on standards and policies to ensure risks are mitigated in ways that align with the regulator's request. In terms of who then signs on behalf of the organization (or interfaces with the regulator), members of the task force might take turns with each member taking on that responsibility for a one-year period. The task force can also decide to organize cross-audits where a member of one unit audits another unit. Organizations like AES who have used this method report that there is more, not less, control. Voluntary task forces know much better than a central staff function far away in headquarters where the risks are, what guidelines are appropriate, where and what to look for in cross-audits. And voluntary task forces breed a sense of solidarity and responsibility. If one unit fails, it will be "one of us" who has to bear the brunt of repercussions from the regulator. Compare this to traditional staff roles, where the Head of Risk in headquarters edicts rules that are often hard to apply on the ground, enticing people to find workarounds.
+      En algunas industrias, los riesgos de incumplimiento de determinados procedimientos son especialmente elevados. Los reguladores podrían incluso llegar a exigir a alguien que firme en nombre de la organización, normalmente un ejecutivo de "C-Suite" -el Director de Finanzas para las cuentas, el Oficial Principal de Riesgo para temas relacionados con el riesgo, etc. Esta persona se arriesga a sufrir consecuencias personales por el incumplimiento de la organización, incluidas las acciones legales impuestas por los reguladores externos, él o ella naturalmente querría protegerse de los riesgos mediante el establecimiento de normas estrictas y forzar su cumplimiento. ¿Cómo pueden las organizaciones autogestionadas abordar este problema?\
+
+      Una manera de lidiar con esto es a través de grupos de trabajo voluntarios. Por ejemplo, una fuerza de trabajo de riesgo, compuesta por personas con roles relacionados con el riesgo en sus respectivas unidades, podría decidir sobre normas y políticas para asegurar que los riesgos se mitiguen de manera que se alineen con la solicitud del regulador. En términos de quién firma en nombre de la organización (o interfiere con el regulador), los miembros del grupo de trabajo podrían tomar turnos con cada miembro asumiendo esa responsabilidad por un período de un año. El grupo de trabajo también puede decidir organizar auditorías cruzadas donde un miembro de una unidad audite a otra unidad. Organizaciones como AES que han usado este método informan que hay más, no menos, control. Los equipos de trabajo voluntarios conocen mucho mejor donde están los riesgos, qué directrices son apropiadas, dónde y qué buscar en las auditorías cruzadas. Y los grupos de trabajo voluntarios generan un sentido de solidaridad y responsabilidad. Si una unidad falla, será "uno de nosotros" quien tendrá que soportar el peso de las repercusiones del regulador. Compare esto con los roles tradicionales de staff, donde el Jefe de Riesgo de la sede central decreta reglas que a menudo son difíciles de aplicar en el terreno, desalentando a la gente a buscar soluciones.\
+
+      El caso de [AES](http://www.aes.com/home/default.aspx) (ver más de AES en apartado "Ejemplos concretos de inspiración"), que ha operado en los mercados altamente regulados de generación y distribución de electricidad, da por lo menos un indicio de que la existencia de regulación fuerte puede ser tratada por estructuras autogestionadas.
 
 
-      The case of [AES ](http://www.aes.com/)(see more on AES below) which has operated in the highly regulated electricity generation and distribution markets, gives at least an indication that the existence of strong regulation can be dealt with by self-managing structures.
-  - question: How do these practices link with the three Teal breakthroughs?
+      <!--EndFragment-->
+  - question: ¿Cómo se relacionan estas prácticas con los tres avances
+      revolucionarios Teal?
     answer: >-
-      #### Self-management
+      <!--StartFragment-->
 
 
-      Central staff functions, as they are used today in many large organizations, concentrate power away from their operational colleagues. Eliminating or drastically reducing the influence of centralized staff returns autonomy to the rest of the organization and is a key element of the Teal breakthrough of self-management.
+      **Autogestión**\
+
+      Las funciones de staff centralizadas, como se usan hoy en día en muchas organizaciones grandes, concentran el poder lejos de sus colegas de la operación. Eliminar o reducir drásticamente la influencia del staff centralizado devuelve autonomía al resto de la organización y es un elemento clave del avance Teal en la autogestión.
 
 
-      #### Wholeness
+      **Plenitud**\
+
+      En muchas organizaciones, la relación de las funciones del staff centralizado con las personas en las unidades operativas se basa en la desconfianza: sin el personal de staff que las vigile, no se puede confiar en que operaciones pueda actuar de manera que beneficie a la organización en su conjunto. Con Teal, se confía en la gente para tener en cuenta las necesidades de toda la organización y se liberan para perseguir sus pasiones e intereses.
 
 
-      In many organizations, the relationship of central staff functions with people in operating units is based on mistrust: without staff policing them, operations cannot be relied on to act in ways that benefit the organization as a whole. With Teal, people are trusted to take into account the needs of the whole organization and are freed to pursue their passions and interests.
+      **Propósito evolutivo**\
+
+      Las funciones de staff centralizadas tienden a hacer que la organización sea más estática e impedir que las innovaciones pasen libremente en los márgenes, con lo que se ralentiza el despliegue del propósito de la organización. Tratar de manera descentralizada con la necesidad de experticia, economías de escala y estándares conjuntos aumenta la agilidad de una organización y, por lo tanto, su potencial para perseguir su propósito evolutivo.
 
 
-      #### Evolutionary purpose
-
-
-      Central staff functions tend to make the organization more static and prevent innovations from happening freely at the margins, thereby slowing down the unfolding of the organization's purpose. Dealing in decentralized ways with the need for expertise, economies of scale and joint standards increases an organization's agility, and thereby its potential to pursue its evolutionary purpose.
+      <!--EndFragment-->
 relatedTheory:
   - Project teams and task forces
   - Organizational Structure
