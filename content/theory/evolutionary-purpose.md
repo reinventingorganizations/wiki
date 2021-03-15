@@ -6,82 +6,99 @@ name: Propósito Evolutivo
 sortOrder: 2
 category: teal-concepts
 intro: >-
-  *"Nothing endures except change"'* 
-
-  Heraclitus^\[Heraclitus, quoted by Diogenes Laërtius in Lives and Opinions of Eminent Philosophers]
+  <!--StartFragment-->
 
 
-  Nature, humankind, relationships: everything evolves, driven by a life force, to adapt, transform and grow. From a Teal perspective, organizations are viewed as an independent energy field with a purpose that transcends its stakeholders. In this paradigm, we don’t own or run the organization; instead we are stewards, listening to where it needs to go and helping it to do its work in the world..
+  *Nada dura excepto el cambio* Heráclito \[1].
+
+
+  Este artículo discute la tercera de las tres innovaciones fundamentales o “avances revolucionarios" que han generado las organizaciones Teal. Naturaleza, humanidad, relaciones: todo evoluciona, bajo el impulso de una fuerza vital, para adaptarse, transformarse y crecer. Desde la perspectiva Teal, las organizaciones son vistas como un campo de energía independiente con un propósito que trasciende a sus stakeholders. En este paradigma, no poseemos ni dirigimos la organización; En lugar de eso, somos mayordomos, escuchando dónde debe ir y ayudándola a hacer su contribución al mundo.
+
+
+  <!--EndFragment-->
 
 
   ![](/media/evolutionary-purpose-2.jpg)
 perspective: >-
-  > *"Like any living system, every organization co-evolves. Its character
-  and  capabilities emerge as it plays with possibilities. It messes about with
-  others until a workable system appears. This system has abilities and beliefs
-  no one planned. It accomplishes work in ways no one designed.  It has
-  relationships no one mandated. While we worry about designs and structures,
-  tweak procedures and rules, insist on compliance and control, we never succeed
-  in creating an organization by these activities. Organization wants to happen.
-  Human organizations emerge from processes that can be comprehended but never
-  controlled."* **A Simpler Way, Margaret J. Wheatley and Myron
-  Kellner-Rogers^\[Wheatley, Margaret J and Kellner-Rodgers, Myron. A Simpler
-  Way. Berrett-Koehler Publishers, San Francisco, CA, USA (1999), p.109.]**
+  <!--StartFragment-->
 
 
-  What is the “purpose” of an organization? While many modern organizations have “mission statements”, these statements often ring hollow, do not actually guide decision-making and in fact are often altogether unknown to employees. Rather than collective purpose, behavior in most organizations is driven by a desire for self-preservation. The fear-based nature of the ego in Red, Amber, and Orange predisposes leaders and employees to see the world as a dangerous place with competitors everywhere trying to steal their lunch. The only way to ensure survival is to seize every opportunity to make more profit and to gain market share at the expense of competitors. In the heat of the battle, who has time to think about purpose? Sadly, this fear-based fixation on competition plays out even when the self-preservation of the organization is not in doubt. In organizations that are somewhat shielded from competition (for example the military, public schools, and government agencies), the fearful ego still seeks safety, this time in internal competition; managers fight for the self-preservation of their units in turf wars with other units, to secure more funding, talent, or recognition. With the transition to Evolutionary-Teal, people learn to tame the fears of their egos. This process makes room for exploring deeper questions of meaning and purpose, both individually and collectively: What is my calling? What is truly worth achieving? Survival is no longer a fixation for Teal Organizations. Instead, the founding purpose truly matters.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4197-4205). Nelson Parker. Kindle Edition.]
+  *"Al igual que cualquier sistema vivo, cada organización co-evoluciona. Su carácter y capacidades emergen mientras juega con las posibilidades. Se confunde con los demás hasta que aparece un sistema viable.Este sistema tiene habilidades y creencias que nadie planeó.Cumple su función de maneras que uno no pensó, se relaciona sin que alguien lo mande.* Mientras nos preocupemos por los diseños y las estructuras, ajustar los procedimientos y las reglas, insistir en el cumplimiento y el control, nunca tendremos éxito en la creación de una organización a través de estas actividades. La organización hace que suceda lo que quiere. Las organizaciones humanas surgen de procesos que pueden ser comprendidos pero nunca controlados"*.*\
+
+  A Simpler Way, Margaret J. Wheatley y Myron Kellner-Rogers\[2]
+
+
+  \
+
+  \
+
+  ¿Cuál es el "propósito" de una organización? Si bien muchas organizaciones modernas tienen "declaraciones de misión", estas declaraciones suelen sonar huecas, en realidad no guían la toma de decisiones y, de hecho, a menudo son completamente desconocidas para los empleados. En lugar de un propósito colectivo, el comportamiento en la mayoría de las organizaciones es impulsado por un deseo de auto-preservación. La naturaleza del ego basado en el miedo del Rojo, del Ámbar y del Naranja predispone a los líderes y a los empleados a ver el mundo como un lugar peligroso lleno de competidores que intentan robarles la comida. La única manera de asegurar la supervivencia es aprovechar cada oportunidad para generar más ganancias y para conseguir mayor cuota de mercado a expensas de los competidores. Y en el fragor de la batalla, ¿quién tiene tiempo para pensar en el propósito? Lamentablemente, esta fijación basada en el miedo a la competencia entra en juego aun cuando no está en riesgo la auto preservación de la organización. En aquellas organizaciones que en cierto modo están protegidas de la competencia (por ejemplo los ejércitos, las empresas públicas y las instituciones de gobierno), el ego miedoso sigue buscando la seguridad, esta vez a través de la competencia interna; los directores pelean por la autopreservación de sus unidades armando guerras territoriales con otras unidades para asegurarse un mayor financiamiento, más talento o más reconocimiento.\
+
+  Con la transición a Teal-Evolutivo, la gente aprende a domesticar los miedos del ego. Este proceso deja lugar a la exploración de preguntas más profundas relacionadas con el significado y el propósito, tanto individuales como colectivos: ¿Cuál es mi vocación?¿Qué es lo que verdaderamente vale la pena lograr? Para las organizaciones Teal, la supervivencia ya no es una fijación. En cambio sí importa el propósito fundacional.\[3]
+
+
+  <!--EndFragment-->
 inPractice: >-
-  In a Teal organization, the ego driven desire for self-preservation is
-  replaced by a powerful drive to do work that has meaning and purpose. The
-  concept of ‘being the best’ becomes a hollow aim unless the organization is
-  doing something worthy of the energy, talents and creativity of the people who
-  work there. The Teal paradigm accepts that each organization has its own
-  identity, life force and calling. Brian Robertson, the founder of Holacracy,
-  uses the term evolutionary purpose to indicate that organizations, just like
-  individuals, have a calling and an evolutionary energy to move toward that
-  calling:
+  <!--StartFragment-->
 
 
-  > *What is the organization’s identity? And what does it want? … The metaphor is like the parent-child journey: … we recognize our child has its own identity and its own path and its own purpose. And just because I might be really excited at the idea of my child being a doctor, that doesn’t mean I get to project that on my child. There is a harmful, co-dependent process when I do that. We’ve learned as parents that the healthy parent’s journey is a differentiation process, and ironically that differentiation of parent and child allows each to have their own autonomy and identity more fully, which then allows a more conscious integration where we are in relationship and interconnect, but it’s a relation of peers, of equals. … It’s us humans that can tune into the organization’s evolutionary purpose; but the key is about separating identity and figuring out “What is this organization’s calling?” Not “What do we want to use this organization to do, as property?” but rather “What is this life, this living system’s creative potential?” That’s what we mean by evolutionary purpose: the deepest creative potential to bring something new to life, to contribute something energetically, valuably to the world. … It’s that creative impulse or potential that we want to tune into, independent from what we want ourselves.*^\[Laloux, Frederic (2014-02-09) Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4322). Nelson Parker. Kindle Edition.] 
+  En una organización Teal, el deseo impulsado por el ego para la autopreservación es reemplazado por un poderoso impulso para hacer un trabajo que tiene significado y propósito. El concepto de ser el mejor se convierte en un objetivo hueco a menos que la organización esté haciendo algo digno de la energía, los talentos y la creatividad de las personas que trabajan allí. El paradigma Teal acepta que cada organización tiene su propia identidad, fuerza vital y vocación. Brian Robertson, el fundador de Holacracy, utiliza el término propósito evolutivo para indicar que las organizaciones, al igual que los individuos, tienen una vocación y una energía evolutiva para moverse hacia esa vocación:
 
 
-  The evolutionary purpose is not the same as a vision statement. A vision statement usually reflects the ego-driven state of consciousness of the management team, who decide what they want the organization to be.
+  \
+
+  ¿Cuál es la identidad de la organización? ¿Y qué es lo que desea?... La metáfora es como la relación padre-hijo: reconocemos que nuestro hijo tiene su propia identidad, camino y propósito. Y si realmente me entusiasma que llegue a ser médico, no lo programo. Si lo hago, tiene lugar un proceso dañino y co-dependiente. Hemos aprendido que el viaje de los padres sanos es un proceso de diferenciación, e irónicamente esa diferenciación padre-hijo permite que cada uno tenga su propia autonomía e identidad de manera más plena, lo que a su vez permite una integración más consciente en la que tenemos una relación y nos conectamos, pero es una relación de pares, de iguales... Somos nosotros, los humanos, quienes podemos sintonizarnos con el propósito evolutivo de la organización; pero la clave tiene que ver con separar identidades y descubrir "¿Cuál es la vocación de la organización?" No "para qué queremos usar esta organización en tanto que propietarios", sino más bien "¿cuál es el potencial creativo de esta vida, de este sistema viviente? A eso nos referimos con propósito evolutivo: el potencial creativo más profundo para traer a la vida algo nuevo, para contribuir enérgicamente con algo valioso para el mundo... Es con ese impulso o potencial creativo que queremos sintonizarnos, y es independiente de lo que nosotros queremos.\[4]
 
 
-  The evolutionary purpose of a Teal organization reflects the deeper reason the organization exists. It relates to the difference it wants to make in the community it operates in, as well as in the marketplace it serves. It is not concerned with competition or outperforming others; it is serving the ‘greater good’ that matters. Some examples are:
+  \
+
+  El propósito evolutivo no es lo mismo que una declaración de visión. Una declaración de la visión por lo general refleja el estado de conciencia impulsado por el ego del equipo directivo, que decide lo que quiere que la organización sea. El propósito evolutivo de una organización Teal refleja la razón más profunda por la que la organización existe. Se relaciona con la diferencia que quiere hacer en la comunidad en la que opera, así como en el mercado al que sirve. No se ocupa de la competencia o de superar a otros; Está sirviendo al "bien mayor" que importa. Algunos ejemplos son:
 
 
-  * "Helping home-based patients become healthy and autonomous" - Buurtzorg, healthcare organization^[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4239-4240). Nelson Parker. Kindle Edition]
+  * "Ayudar a los pacientes en el hogar a ser sanos y autónomos" - Buurtzorg, Organización de salud, Holanda \[5]
 
-  * "Use business to inspire and implement solutions to the environmental crisis” - Patagonia, outdoor clothing retailer^[http://www.patagoniaworks.com/#index, accessed 2015/06/13] 
+  * "Utilizar los negocios para inspirar e implementar soluciones a la crisis ambiental" - Patagonia, minorista de ropa al aire libre \[6]
 
-  * "Two fundamental purposes: the first is to provide meaningful work in the area of Hallencourt, a rural area in northern France where good work is rare; the second is to give and receive love from clients" - FAVI, foundry and engineering firm.^[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4371-4372). Nelson Parker. Kindle Edition.] 
-
-
-  For Teal organizations, this transition to evolutionary purpose has profound implications for how they view such fundamental concepts as competition, growth and profit. While Orange organizations seem to be obsessed with beating the competition (as exemplified by the title of the ex-CEO of General Electric, Jack Welch’s. book, Winning), Teal organizations seem to lose the very notion of competition. Since the Teal organization truly lives for its purpose, anyone that can help to achieve that purpose is viewed as an ally, not a competitor. For an example of this in practice, see “Concrete Examples for Inspiration - Buurtzorg” below.
+  * "Dos objetivos fundamentales: el primero es proporcionar un trabajo significativo en el área de Hallencourt, una zona rural en el norte de Francia donde el buen trabajo es raro, y el segundo es dar y recibir el amor de los clientes" - FAVI, fundición y empresa de ingeniería. \[7]
 
 
-  Growth, in the same vein, is only an objective insofar as the purpose can be manifested on a larger scale, but never an objective in itself. Buurtzorg, for example, actively helps patients build a network of support with their families, friends, and neighbors. It basically tries to make itself irrelevant in patients’ lives as quickly as possible, which it does very successfully: a 2009 study showed that Buurtzorg’s patients get released from care twice as fast as competitors’ clients, and they end up claiming only 50 percent of the prescribed hours of care. Buurtzorg’s core strategy— helping patients become healthy and autonomous— in fact comes down to pursuing less growth, not more. Similarly, Patagonia is famous for having run full-page ads reading, “Don’t buy this jacket.” The ads were part of its “Common Threads Partnership.” Patagonia reckons that many of us in the developed world have enough clothes in our closets to keep us warm for a lifetime. And yet we keep buying new clothes, which are environmentally harmful to produce and will end up in a landfill. The Common Threads Partnership takes a serious stab at reducing (making clothes that last longer), repairing (Patagonia repairs clothes for its customers), reusing (the company resells your used clothes on eBay or in their stores’ Worn Wear section), and recycling (you can return your old clothes to Patagonia and they recycle them). Will this initiative harm Patagonia’s growth in the short term? Yes. Every repaired and every reused jacket is one less jacket bought. Will it increase its growth in the long term, through higher customer loyalty? Perhaps. But Patagonia’s decision wasn’t driven by forecasts and financials. The company chose the path its purpose called for.^[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4235-4248). Nelson Parker. Kindle Edition.]
+  \
+
+  Para las organizaciones Teal, esta transición al propósito evolutivo tiene implicaciones profundas en cómo ven conceptos tan fundamentales como la competencia, el crecimiento y las utilidades. Mientras que las organizaciones Naranja parecen estar obsesionadas con derrotar a la competencia (como ejemplifica el título del ex CEO de General Electric, libro de Jack Welch, Winning), las organizaciones Teal parecen perder la noción misma de competencia. Dado que la organización Teal realmente vive para su propósito, cualquiera que pueda ayudar a lograr ese propósito es visto como un aliado, no como un competidor. Para un ejemplo de esto en la práctica, ver "Ejemplos concretos para la inspiración - Buurtzorg" abajo.\
+
+  \
+
+  En la misma línea, el crecimiento sólo es un objetivo en la medida en que puede manifestarse el propósito a una escala mayor, pero nunca es un objetivo en si mismo. Recordemos por ejemplo que Buurtzorg ayuda activamente a los pacientes a construir una red de apoyo con sus familias, amigos y vecinos. Básicamente, intenta volverse prescindible en la vida de los pacientes tan pronto como sea posible, lo cual logra con mucho éxito: en el año 2009, un estudio mostró que se da de alta dos veces más rápido a los pacientes de Buurtzorg que a los clientes de la competencia, y que terminan solicitando sólo la mitad de las horas de cuidado prescritas. La estrategia medular de Buurtzorg (ayudar a que los pacientes se vuelvan saludables y autónomos) viene aparejada, de hecho, a un crecimiento menor y no mayor. De manera similar, Patagonia es famosa por haber publicado avisos a toda página en los periódicos con el eslogan "No compres esta chaqueta". Los avisos fueron parte de su "Common Threads Partnership". Patagonia sostiene que muchos de los que vivimos en el mundo desarrollado tenemos suficiente ropa para abrigarnos toda nuestra vida, y aun así seguimos comprando ropa nueva, cuya producción daña el medio ambiente y terminará en un vertedero. El Pacto Common Threads apunta seriamente a reducir (hacer que la ropa dure más), reparar (Patagonia repara la ropa para sus clientes), reutilizar (la empresa revende la ropa usada en eBay o en la sección de ropa usada de sus tiendas) y reciclar (podemos devolver a Patagonia nuestra ropa vieja y ellos la reciclan). ¿Dañará esta iniciativa el crecimiento de Patagonia a corto plazo? Sí. Cada chaqueta usada o que se repara será una chaqueta menos que Patagonia venda. ¿Aumentará su crecimiento a largo plazo, a través de la fidelidad de los clientes? Posiblemente. Pero Patagonia no tomó su decisión impulsada por pronósticos y razones financieros. La empresa eligió el camino que honraba su propósito. Y ese camino podría haber resultado en una menor ganancia asociada a las ventas que Patagonia habría estado dispuesta a asumir.\[8]\
+
+  \
+
+  La noción de ganancia cambia fundamentalmente en Teal también. El aumento del valor para los accionistas se ha convertido en la perspectiva dominante de las Organizaciones Naranja. Establece que las corporaciones tienen un deber primordial: maximizar los beneficios. En muchos países, esta perspectiva es jurídicamente vinculante; La gerencia puede ser demandada por las decisiones que ponen en peligro la rentabilidad. Bajo el hechizo del valor para los accionistas, las empresas públicas se concentran implacablemente en el resultado final. Las organizaciones con fines de lucro estudiadas tienen un mirada distinta de las ganancias. Los beneficios son necesarios y los accionistas merecen un retorno justo, pero no son el objetivo; el objetivo está puesto en el propósito. Varios de los fundadores de estas organizaciones usaron la misma metáfora: las ganancias son como el aire que respiramos. Necesitamos aire para vivir, pero no vivimos para respirar. Tami Simón, CEO de Sounds True, da una definición tan sencilla como hermosa del propósito de un negocio:\
+
+  \
+
+  Tenemos esta idea de los negocios... de que todo lo que hacemos tiene que ayudarnos a ganar más dinero, a ser más productivos, o algo así. Yo no veo el negocio de esta manera. Mi visión del negocio es que nos juntamos como comunidad para satisfacer una necesidad humana y realizarnos en nuestras vidas.(.\[9]\
+
+  \
+
+  En las organizaciones Teal, las ganancias son el subproducto de un trabajo bien hecho. El filósofo Viktor Frankl fue quizás quien mejor captó esto: "El éxito, como la felicidad, no puede perseguirse; debe ser una consecuencia, y esto sólo ocurre como efecto secundario de la dedicación personal a una causa más grande que uno mismo." 10]\
+
+  \
+
+  El propósito de una organización Teal es raramente estático - de ahí el término "propósito evolutivo". Se desarrollará con el tiempo, conforme la propia organización crece y se adapta. Por ejemplo, Buurtzorg, la organización holandesa de atención domiciliaria, fue creada para "ayudar a los pacientes enfermos y ancianos a vivir una vida más autónoma y significativa" \[11]. Sus actividades han crecido más allá del cuidado de los ancianos y ahora se enfoca en “ayudar a los pacientes a convertirse en saludables y autónomos".
 
 
-  The notion of profit changes fundamentally in Teal as well. Increasing shareholder value has become the dominant perspective of Orange Organizations. It states that corporations have one overriding duty: to maximize profits. In many countries, this perspective is legally binding; management can be sued for decisions that jeopardize profitability. Under the spell of shareholder value, public companies focus relentlessly on the bottom line. Teal for-profit organizations have a different perspective on profit. Profit is necessary and investors deserve a fair return, but the objective is purpose, not profit. Teal founders often use the same metaphor: profit is like the air we breathe. We need air to live, but we don’t live to breathe. Tami Simon, the CEO of Sounds True, gives the definition of a business’s purpose: “We have this idea about business— everything we do has to help us make more money, be more productive or whatever. But that’s not my view of business. My view of business is that we are coming together as a community to fill a human need and actualize our lives”.^[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4253-4264). Nelson Parker. Kindle Edition.]
-
-
-  In Teal Organizations, profits are a byproduct of a job well done. Philosopher Viktor Frankl captures this well: “Success, like happiness, cannot be pursued; it must ensue, and it only does so as the unintended side -effect of one’s personal dedication to a cause greater than oneself.”^[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4264-4266). Nelson Parker. Kindle Edition.]
-
-
-  The purpose of a Teal organization is rarely static – thus the term “Evolutionary Purpose”. It will evolve over time, as the organization itself grows and adapts. For example, Buurtzorg, the Dutch homecare organization, was set up to "help sick and elderly patients live a more autonomous and meaningful life."^[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4215-4216). Nelson Parker. Kindle Edition.] Its activities have grown beyond looking after the elderly, and it now focuses on helping "patients become healthy and autonomous".
+  <!--EndFragment-->
 faq:
-  - question: Can there be a conflict between individual and organizational purpose?
-    answer: Individual and organizational purpose go hand in hand. One needs the
-      other to flourish. When the individual and organizational purpose enter
-      into resonance and reinforce each other, extraordinary things can happen.
-      When work meets vocation — an encounter that theologian Frederick Buechner
-      described as “the place where your deep gladness meets the world’s deep
-      hunger”— then members of an organization can pour their heart and soul
-      into their work. They are fulfilled as human beings, not as productive
-      units. At the same time, the organization's evolutionary purpose is
-      furthered and allowed to grow.
+  - question: ¿Puede haber un conflicto entre el propósito individual y el de la
+      organización?
+    answer: >-
+      <!--StartFragment-->
+
+
+      El propósito individual y el de la organización van de la mano. Uno necesita que el otro florezca. Cuando el propósito individual y organizativo entra en resonancia y se refuerza mutuamente, cosas extraordinarias pueden suceder. Cuando el trabajo se encuentra con la vocación -un encuentro que el teólogo Frederick Buechner describió como "el lugar donde su profunda alegría resuelve el hambre profunda del mundo" - entonces los miembros de una organización pueden verter su corazón y su alma en su trabajo. Se vuelven plenos como seres humanos, no como unidades productivas. Al mismo tiempo, se fomenta el propósito evolutivo de la organización y se le permite crecer.
+
+
+      <!--EndFragment-->
 relatedTheory:
   - Listening to Purpose
   - Strategy
@@ -91,4 +108,4 @@ relatedTheory:
   - Objectives and Target Setting
   - Budgeting and Controlling
 ---
-*required content note*
+*remove*
