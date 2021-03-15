@@ -6,119 +6,111 @@ name: Autogestión
 sortOrder: 1
 category: teal-concepts
 intro: >-
-  This article discusses one of the three fundamental innovations or
-  “breakthroughs” brought about by Teal organizations.
+  <!--StartFragment-->
+
+
+  Este artículo discute una de las tres innovaciones fundamentales o “avances revolucionarios" que han generado las organizaciones Teal.
+
+
+  <!--EndFragment-->
 
 
   ![](/media/2_058f-self-management-medium-small.png)
 perspective: >-
-  Leading scientists believe that the principal science of the next century will
-  be the study of complex, autocatalytic, self-organizing, non-linear, and
-  adaptive systems. This is usually referred to as “complexity” or “chaos
-  theory” (the Teal equivalent to Orange’s Newtonian science). But even though
-  we are only now starting to get our heads around it, self-management is not a
-  startling new invention by any means. It is the way life has operated in the
-  world for billions of years, bringing forth creatures and ecosystems so
-  magnificent and complex we can hardly comprehend them. Self-organization is
-  the life force of the world, thriving on the edge of chaos with just enough
-  order to funnel its energy, but not so much as to slow down adaptation and
-  learning.^[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide
-  to Creating Organizations Inspired by the Next Stage of Human Consciousness
-  (Kindle Locations 2997-3003). Nelson Parker. Kindle Edition.]
+  <!--StartFragment-->
 
 
-  All stages of organizations prior to Teal have relied on a hierarchical power structure, with certain people exerting authority over others. The concentration of power and decision-making at the top, separating colleagues into the powerful and the powerless, brings with it problems that have plagued organizations for as long as we can remember. Power in organizations is seen as a scarce commodity worth fighting for. This situation invariably brings out the shadowy side of human nature: personal ambition, politics, mistrust, fear, and greed. At the bottom of organizations, it often evokes the twin brothers of powerlessness: resignation and resentment. The widespread lack of motivation we witness in many organizations is a devastating side effect of the unequal distribution of power. For a few lucky people, work is a place of joyful self-expression, a place of camaraderie with colleagues in pursuit of a meaningful purpose. For far too many, it is simply drudgery, a few hours of life “rented out” every day in exchange for a paycheck. The story of the global workforce is a sad tale of wasted talent and energy.^[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 1416-1423). Nelson Parker. Kindle Edition.] ^[A 2012 survey conducted by Tower Watson, a human resources consulting firm polled 32,000 workers in the corporate sector in 29 countries to measure employee engagement (as well as the key factors contributing to engagement, such as confidence in senior management and the perceived interest by senior management in employee well-being). The overarching conclusion: just around a third of people are engaged in their work (35 percent). Many more people are “detached” or actively “disengaged” (43 percent). The remaining 22 percent feel “unsupported.”] ^[For a deep discussion of what motivates the modern worker, see Drive: The Surprising Truth About What Motivates Us by Daniel Pink, Riverhead Hardcover, 2009.]
+  Los principales científicos creen que la principal ciencia del próximo siglo será el estudio de sistemas complejos, autocatalíticos, autoorganizados, no lineales y adaptativos. Esto se conoce generalmente como "complejidad" o "teoría del caos" (el Teal equivalente a la ciencia newtoniana de Naranja). Pero a pesar de que sólo ahora estamos empezando a pensar sobre ello, no significa que la autogestión sea una invención sorprendente nueva. Es la forma en que la vida ha operado en el mundo durante miles de millones de años, dando a luz criaturas y ecosistemas tan magníficos y complejos que apenas podemos comprenderlos. La auto organización es la fuerza vital del mundo, prosperando al borde del caos con el orden suficiente para canalizar su energía, pero no tanto como para frenar la adaptación y el aprendizaje. \[1]\
+
+  \
+
+  Todas las etapas de las organizaciones anteriores a Teal se han basado en una estructura de poder jerárquica, con algunas personas ejerciendo autoridad sobre otras. La concentración de poder y la toma de decisiones en la parte superior, la separación de los colegas en el poderoso y el impotente, trae consigo problemas que han plagado organizaciones durante el tiempo que podemos recordar. El poder en las organizaciones es visto como una mercancía escasa por la que vale la pena luchar. Esta situación invariablemente pone de manifiesto el lado sombrío de la naturaleza humana: la ambición personal, la política, la desconfianza, el miedo y la avaricia. En el fondo de las organizaciones, a menudo evoca a los hermanos gemelos de la impotencia: la resignación y el resentimiento. La falta generalizada de motivación que presenciamos en muchas organizaciones es un efecto secundario devastador de la desigual distribución del poder. Para algunos afortunados, el trabajo es un lugar de expresión alegre, un lugar de camaradería con los colegas en la búsqueda de un propósito significativo. Para demasiados, es simplemente trabajo penoso, unas pocas horas de vida "alquilada" cada día a cambio de un cheque de pago. La historia de la fuerza de trabajo global es una historia triste de talento y energía desperdiciados. \[2] \[3] \[4]\
+
+  \
+
+  Las organizaciones de la etapa anterior se construyen aparentemente sobre la suposición de que no se puede confiar en que las personas actúen en el mejor interés de la organización sin supervisión. en Teal las organizaciones se construyen sobre una base de confianza mutua. Los trabajadores y empleados son vistos como personas razonables que quieren hacer un buen trabajo y se puede confiar en que hagan lo correcto. Con esa premisa, muy pocas reglas y mecanismos de control son necesarios. Y los empleados están energizados para hacer que sucedan cosas extraordinarias.
 
 
-  Earlier stage organizations are seemingly built on the assumption that people cannot be trusted to act in the organization’s best interest without supervision. Teal Organizations are built on a foundation of mutual trust. Workers and employees are seen as reasonable people that want to do good work and can be trusted to do the right thing. With that premise, very few rules and control mechanisms are needed. And employees are energized to make extraordinary things happen.
+  <!--EndFragment-->
 inPractice: >-
-  Self-management in Teal comes about through a combination of innovative
-  structures and processes. These are described in detail throughout the wiki,
-  but a few are highlighted below:
+  <!--StartFragment-->
 
 
-  #### Autonomous teams
+  La autogestión en Teal surge a través de una combinación de estructuras y procesos innovadores. Estos se describen en detalle a lo largo de la wiki, pero algunos se destacan a continuación:\
+
+  \
+
+  **Equipos autónomos**\
+
+  \
+
+  La estructura más común de las organizaciones Teal son redes interdependientes de equipos pequeños y autónomos. La naturaleza de estas redes tendrá una variedad de formas, dependiendo de las características de su industria y el medio ambiente, pero todos consisten principalmente en equipos, por lo general 10-20 personas, que se auto-organizan y no están bajo la autoridad de nadie fuera del equipo . Ningún jefe ni organigrama No hay jerarquías fijas de autoridad en las organizaciones Teal. No hay jefes dentro o fuera de los equipos. La primacía de la relación jefe-subordinado se sustituye por los compromisos mutuos hechos con los pares. Cualquier persona que tenga la experiencia, el interés o la voluntad de intervenir y contribuir a una situación tiene el poder y el derecho a decidir. Las jerarquías fluidas y naturales reemplazan a las jerarquías de poder fijas de la pirámide tradicional, dejando a la organización sin un organigrama. Véase también [Estructura organizativa](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Estructura_Organizativa "Estructura Organizativa").\
+
+  \
+
+  **No hay descripciones de puestos ni títulos**\
+
+  \
+
+  Normalmente no hay descripciones de puestos o títulos de trabajo en las organizaciones Teal. Más bien cada individuo tiene una serie de funciones que él / ella ha aceptado y se ha comprometido a cumplir. Cuando alguien percibe un problema o una oportunidad que pide un nuevo papel, alguien simplemente avanza y se ofrece a asumir ese papel. Véase también [Títulos de trabajo y descripciones de trabajo](http://www.reinventarlasorganizacioneswiki.com/index.php?title=T%C3%ADtulos_de_trabajo_y_Descripciones_de_Puesto "Títulos de trabajo y Descripciones de Puesto") y [Definición y Asignación de funciones](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Definici%C3%B3n_y_Asignaci%C3%B3n_de_funciones "Definición y Asignación de funciones").\
+
+  \
+
+  **Toma de decisiones distribuida**\
+
+  \
+
+  La toma de decisiones está altamente distribuida. Las decisiones no necesitan ser validadas por la jerarquía ni por consenso de la comunidad. Cualquier persona puede tomar cualquier decisión después de buscar consejo de 1) todos los que serán afectados significativamente, y 2) personas con experiencia en el asunto. Ver también [Toma de decisiones.](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Toma_de_Decisiones "Toma de Decisiones")\
+
+  \
+
+  **Abierto flujo de la información**\
+
+  \
+
+  Todo el mundo tiene acceso a toda la información al mismo tiempo. Véase también [Flujo de información.](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Flujo_de_la_Informaci%C3%B3n "Flujo de la Información")\
+
+  \
+
+  **La resolución de conflictos**\
+
+  \
+
+  Los desacuerdos se resuelven entre pares usando un proceso de resolución de conflictos bien definido. Los pares se responsabilizan mutuamente de sus compromisos mutuos. Véase también [Resolución de Conflictos.](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Resoluci%C3%B3n_de_Conflictos "Resolución de Conflictos")
 
 
-  The most common structure of Teal organizations are interdependent networks of small, autonomous teams. The nature of these networks will take a variety of forms, depending on the characteristics of their industry and environment, but all consist primarily of teams, usually 10-20 people, that self-organize and are not under the authority of anyone outside the team.
-
-
-  #### No bosses or organization chart
-
-
-  There are no fixed hierarchies of authority in Teal organizations. There are no bosses within or outside of the teams. The primacy of the boss-subordinate relationship is replaced with peer-based mutual commitments. Decision rights and power flow to any individual who has the expertise, interest, or willingness to step in and contribute to a situation. Fluid, natural hierarchies replace the fixed power hierarchies of the traditional pyramid - leaving the organization without an organizational chart. See also [Organizational Structure](../organizational-structure/).
-
-
-  #### No job descriptions or job titles
-
-
-  There are typically no job descriptions or job titles in Teal organizations. Rather each individual has a number of roles that he/she has agreed to and committed to fulfill. When someone senses an issue or an opportunity that calls for a new role, someone simply steps forward and offers to take on that role. See also [Job Titles and Job Descriptions](../job-titles-and-job-descriptions/) and [Role Definition and Allocation](../role-definition-and-allocation/).
-
-
-  #### Distributed decision-making
-
-
-  Decision-making is highly distributed. Decisions do not need to be validated by the hierarchy nor by consensus of the community. Any person can make any decision after seeking advice from 1) everyone who will be meaningfully affected, and 2) people with expertise in the matter. See also [Decision Making](../decision-making/).
-
-
-  #### Open Information flow
-
-
-  Everybody is given access to all information at the same time. See also [Information Flow](../information-flow/).
-
-
-  #### Conflict resolution
-
-
-  Disagreements are resolved among peers using a well defined conflict resolution process. Peers hold each other accountable for their mutual commitments. See also [Conflict Resolution](../conflict-resolution/).
+  <!--EndFragment-->
 faq:
-  - question: Is there any evidence this actually works?
+  - question: ¿Hay alguna evidencia de que esto realmente funciona?
     answer: >-
-      A 2009 Ernst & Young study found that Buurtzorg (see “Concrete examples
-      for inspiration” below) requires, on average, close to 40 percent fewer
-      hours of care per client than other nursing organizations— which is ironic
-      when you consider that nurses in Buurtzorg take time for coffee and talk
-      with the patients, their families, and neighbors, while other nursing
-      organizations have come to time “products” in minutes. Patients stay in
-      care only half as long,heal faster, and become more autonomous. A third of
-      emergency hospital admissions are avoided, and when a patient does need to
-      be admitted to the hospital, the average stay is shorter. The savings for
-      the Dutch social security system are considerable— Ernst & Young estimates
-      that close to € 2 billion would be saved in the Netherlands every year if
-      all home care organizations achieved Buurtzorg’s results. Scaled to the US
-      population, this savings would be equivalent to roughly $ 49
-      billion^[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide
-      to Creating Organizations Inspired by the Next Stage of Human
-      Consciousness (Kindle Locations 1521-1527). Nelson Parker. Kindle
-      Edition.]
+      <!--StartFragment-->
 
 
-      In the case of FAVI (see “Concrete examples for inspiration” below), a foundry based in France, all its competitors have moved to China to enjoy cheaper labor costs. And yet FAVI is not only the one producer left standing in Europe; it also commands a 50 percent market share for its gearbox forks. Its product quality is legendary, and its on-time delivery close to mythical: workers are proud of their record of not a single order delivered late in over 25 years. FAVI delivers high profit margins, year in and year out, despite Chinese competition, salaries well above average, and highly cyclical demand patterns.^[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 1690-1694). Nelson Parker. Kindle Edition.]
-  - question: Isn’t this the same as “empowerment”?
-    answer: "Pluralistic-Green organizations seek to deal with the problem of power
-      inequality through empowerment, pushing decisions down the pyramid, and
-      they often achieve much higher employee engagement. But empowerment within
-      the traditional hierarchy means that someone at the top must be wise or
-      noble enough to give away some of his power, and those below are subject
-      to that power being reclaimed.^[Laloux, Frederic (2014-02-09). Reinventing
-      Organizations: A Guide to Creating Organizations Inspired by the Next
-      Stage of Human Consciousness (Kindle Locations 1431-1433). Nelson Parker.
-      Kindle Edition.]"
-  - question: Does this mean that everyone is equal?
+      Un estudio de Ernst & Young de 2009 encontró que Buurtzorg (ver "Ejemplos concretos de inspiración" a continuación) requiere, en promedio, cerca de un 40 por ciento menos horas de atención por cliente que otras organizaciones de enfermería, lo cual es irónico cuando se considera que las enfermeras de Buurtzorg toman tiempo para el café y para hablar con los pacientes, sus familias y vecinos, mientras que otras organizaciones de enfermería han convertido los minutos en “productos". Los pacientes permanecen en el cuidado sólo la mitad de tiempo, se curan más rápido y se vuelven más autónomos. Un tercio de las admisiones hospitalarias de emergencia se evitan, y cuando un paciente necesita ser admitido en el hospital, la estancia media es más corta. Ernst & Young estima que cerca de 2.000 millones de euros se ahorrarían en los Países Bajos cada año si todas las organizaciones de atención domiciliaria obtuvieran los resultados de Buurtzorg. Escalado a la población de los EEUU, este ahorro sería equivalente a cerca de $ 49 mil millones. \[5] En el caso de FAVI (ver ejemplos concretos para la inspiración abajo), una fundición establecida en Francia, todos sus competidores se han trasladado a China para aprovechar costos de mano de obra más baratos. Y sin embargo FAVI no es sólo el único productor que quedó en Europa; También controla una cuota de mercado del 50 por ciento para sus horquillas de caja de cambios. Su calidad de producto es legendaria, y su entrega a tiempo es casi mítica: los trabajadores están orgullosos de su récord de ni una sola orden entregada tarde por más de 25 años. FAVI ofrece altos márgenes de ganancia, año tras año, a pesar de la competencia china, salarios muy por encima del promedio, y patrones de demanda altamente cíclicos. \[6]
+
+
+      <!--EndFragment-->
+  - question: ¿No es esto lo mismo que "empoderamiento"?
     answer: >-
-      In Teal Organizations: the point is not to make everyone equal; it is to
-      allow all employees to grow into the strongest, healthiest version of
-      themselves. Gone is the dominator hierarchy (the structure where bosses
-      hold power over their subordinates). And precisely for that reason, lots
-      of natural, evolving, overlapping hierarchies can emerge— hierarchies of
-      development, skill, talent, expertise, and recognition, for example. This
-      is a point that management author Gary Hamel noted about Morning
-      Star:^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide
-      to Creating Organizations Inspired by the Next Stage of Human
-      Consciousness (Kindle Locations 3050-3058). Nelson Parker. Kindle
-      Edition.]
+      <!--StartFragment-->
 
 
-      *Morning Star is a collection of naturally dynamic hierarchies. There isn’t one formal hierarchy; there are many informal ones. On any issue some colleagues will have a bigger say than others will, depending on their expertise and willingness to help. These are hierarchies of influence, not position, and they’re built from the bottom up. At Morning Star one accumulates authority by demonstrating expertise, helping peers, and adding value. Stop doing those things, and your influence wanes— as will your pay.*^\[Gary Hamel, “First, Let’s Fire All the Managers,” Harvard Business Review, December 2011, http:// hbr.org/ 2011/ 12/ first-lets-fire-all-the-managers, accessed April 11, 2012.]
+      Las organizaciones pluralistas-verdes tratan de lidiar con el problema de la desigualdad de poder a través del empoderamiento, empujando las decisiones por la pirámide, y con frecuencia logran un compromiso mucho mayor de los empleados. Pero el empoderamiento dentro de la jerarquía tradicional significa que alguien en la cima debe ser lo suficientemente sabio o noble como para otorgar parte de su poder, y los que están debajo están expuestos a que el poder sea recuperado.
+
+
+      <!--EndFragment-->
+  - question: ¿Significa esto que todos son iguales?
+    answer: >-
+      <!--StartFragment-->
+
+
+      En las Organizaciones Teal: el punto no es hacer que todos sean iguales; Es permitir que todos los empleados crezcan en la versión más fuerte y saludable de sí mismos. La jerarquía del dominador se ha erradicado (la estructura donde los jefes tienen poder sobre sus subordinados). Y precisamente por eso, pueden surgir muchas jerarquías naturales, en evolución y superpuestas, jerarquías de desarrollo, habilidad, talento, experiencia y reconocimiento, por ejemplo. Este es un punto que el autor en gestión, Gary Hamel, señaló sobre Morning Star: \[8]\
+
+      \
+
+      *Morning Star es un grupo de jerarquías naturalmente dinámicas. No hay una jerarquía formal, sino varias jerarquías informales. En cualquier tema habrá colegas que tendrán más cosas que decir que otros, según su grado de experiencia y su voluntad de ayudar. Son jerarquías de influencia y no de posición, y se construyen de abajo arriba. En Morning Star, uno acumula autoridad demostrando experiencia, ayudando a los pares y agregando valor. Si dejamos de hacer esas cosas, nuestra influencia disminuirá, al igual que nuestra remuneración*.\[9]
+
+
+      <!--EndFragment-->
 ---
 remove
