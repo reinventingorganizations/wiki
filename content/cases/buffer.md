@@ -1,8 +1,8 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
 name: Buffer
+date: 2020-11-09
 introduction: Social media start up - Global - 40 people - For Profit.
 industry: M. Professional, scientific and technical activities
 geography: Global
@@ -10,59 +10,59 @@ companySize: 1-100
 profit: Profit
 theory:
   - topic: Compensation and incentives
-    title: "Buffer practices radical transparency, and their process relies on
-      self-set salaries using the advice process. "
+    title: Buffer stosuje radykalną transparentność, a ich proces opiera się na
+      ustalaniu przez siebie wynagrodzeń z wykorzystaniem procesu doradztwa.
     content: >-
-      #### Salary components
+      #### Składniki wynagrodzenia
 
 
-      The process of setting one's salary at Buffer focuses on a formula with 5 components:
+      Proces ustalania wynagrodzenia w Buffer skupia się na formule składającej się z 5 elementów:
 
 
-      * **Base Component**: A general base level for each type role
+      * **Komponent podstawowy**: Ogólny poziom podstawowy dla każdej roli typu
 
-      * **Location**: Cost of living in each teammate’s city (they use Numbeo to help with this)
+      * **Lokalizacja**: koszt życia w mieście każdego członka drużyny (używają do tego Numbeo)
 
-      * **Family**: An allowance for kids, parents, partners or other dependents
+      * **Rodzina**: dodatek na dzieci, rodziców, partnerów lub inne osoby pozostające na utrzymaniu
 
-      * **Journey**: Journey correlates to expanded role, leadership, and how often the teammate is sought out for advice
+      * **Podróż**: Podróż wiąże się z rozszerzoną rolą, przywództwem i częstotliwością korzystania z tego członka zespołu w celu uzyskania porady
 
-      * **Experience**: Putting a value to the growth of skills and knowledge that teammates accrue over time
-
-
-      \
-
-      ***Advice Process***
-
-
-      Each person has the ability to adjust each of these components to what feels fair for their case, using the formula as a general guideline. For example, for the location component, if you're in a C bracket but are traveling for several months through quite a few B cities, you might decide to go somewhere in between those two.
+      * **Doświadczenie**: Nadanie wartości rozwojowi umiejętności i wiedzy, które członkowie zespołu zdobywają w miarę upływu czasu
 
 
       \
 
-      ***Salary sounding board***
+      ***Proces doradczy***
 
 
-      A key element of this process is the “Salary Sounding Board.” This is a rotating group of team members whose role is to assist in finding an equilibrium for salary adjustments from a position of higher perspective.
+      Każda osoba ma możliwość dostosowania każdego z tych elementów do tego, co wydaje się sprawiedliwe w jej przypadku, stosując wzór jako ogólną wskazówkę. Na przykład w przypadku komponentu lokalizacji, jeśli jesteś w przedziale C, ale podróżujesz przez kilka miesięcy przez całkiem sporo miast B, możesz zdecydować się udać gdzieś pomiędzy tymi dwoma.
 
 
-      The Sounding Board helps each salary adjustment find its equilibrium through various methods, which could change depending on the situation. Some approaches could include:
+      \
+
+      ***Rada Oceny Wynagrodzeń***
 
 
-      * Suggesting team members who might provide a useful perspective on a salary adjustment and who might not have been sought for advice or been heard yet
-
-      * Cultivating transparency through open discussions and advice
-
-      * Encouraging honesty in the advice process, even when it may be challenging (for example, if someone feels that a salary adjustment is too high)
-
-      * Sensing adjustments (or lack of adjustments) that feel out of equilibrium
+      Kluczowym elementem tego procesu jest „Rada Oceny Wynagrodzeń”. Jest to rotacyjna grupa członków zespołu, których rolą jest pomoc w znalezieniu równowagi dla korekt wynagrodzeń z wyższej perspektywy.
 
 
-      The Sounding Board pays attention to how salary adjustments are proceeding across the entire company, to help the process stay healthy and encouraging while also balancing all perspectives and the overall financial wellbeing of Buffer.
+      Rada Oceny Wynagrodzeń pomaga każdej zmianie wynagrodzeń znaleźć równowagę za pomocą różnych metod, które mogą się zmieniać w zależności od sytuacji. Niektóre podejścia mogą obejmować:
 
 
-      #### Transparency
+      * Sugerowanie członków zespołu, którzy mogą zapewnić przydatne spojrzenie na korektę wynagrodzenia i którzy mogli nie być proszeni o poradę lub jeszcze nie wysłuchani
+
+      * Kultywowanie przejrzystości poprzez otwarte dyskusje i porady
+
+      * Zachęcanie do uczciwości w procesie udzielania porad, nawet jeśli może to być trudne (na przykład, jeśli ktoś uważa, że ​​dostosowanie wynagrodzenia jest zbyt wysokie)
+
+      * Wyczuwanie korekt (lub ich braku), które wydają się wytrącone z równowagi
 
 
-      The compensation of every colleague in Buffer is public, not only to colleagues themselves, but even to the [outside world](https://buffer.com/transparency). ^[Courtney Seiter, colleague at Buffer, May 2015]
+      Rada Oceny Wynagrodzeń zwraca uwagę na to, jak postępują korekty wynagrodzeń w całej firmie, aby pomóc procesowi pozostać zdrowym i zachęcającym, jednocześnie równoważąc wszystkie perspektywy i ogólny dobrobyt finansowy Buffer.
+
+
+      #### Transparentność
+
+
+      Wynagrodzenie każdego kolegi w Buffer jest jawne, nie tylko dla samych kolegów, ale nawet dla [świata zewnętrznego](https://buffer.com/transparency). ^[Courtney Seiter, colleague at Buffer, May 2015]
 ---
