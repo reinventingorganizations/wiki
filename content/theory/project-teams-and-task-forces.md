@@ -5,116 +5,110 @@ key: Project teams and task forces
 name: Equipos de Proyecto y Grupos de Tarea
 sortOrder: 4
 category: Structure of an organization
-intro: "This article describes how cross functional teams emerge and operate,
-  and how their activities fit with the rest of the organizational design.\r
+intro: >-
+  <!--StartFragment-->
 
-  \r\n"
+
+  Este artículo describe cómo los equipos funcionales cruzados emergen y operan, y cómo sus actividades encajan con el resto del diseño organizacional.
+
+
+  **Contenido**
+
+
+  <!--EndFragment-->
 perspective: >-
-  In earlier organizational stages, project teams and task forces are
-  established by upper management to break through strict organizational
-  boundaries. Typically a project manager/team leader is appointed, and team
-  members are selected based on factors such as competency, position in the
-  existing structure, loyalty or ability to work with others. The team leader
-  directs the activities of the team members. Upper management decides to
-  disband the team/task force when it deems results have been achieved, the
-  project is a failure or the prospects for success are no longer worth the
-  effort.
+  <!--StartFragment-->
 
 
-  Project teams and task forces in Teal organizations have the following characteristics:
+  En etapas organizativas anteriores, los equipos de proyecto y los grupos de trabajo son establecidos por la alta dirección para superar los estrictos límites de la organización. Normalmente se designa un jefe de proyecto/jefe de equipo y los miembros del equipo se seleccionan en función de factores como la competencia, la posición en la estructura existente, la lealtad o la capacidad de trabajar con otros. El líder del equipo dirige las actividades de los miembros del equipo. La alta dirección decide disolver el equipo/grupo de trabajo cuando considera que los resultados han sido alcanzados, el proyecto es un fracaso o las perspectivas de éxito ya no valen la pena el esfuerzo.
 
 
-  * They organically emerge and disband, depending on what the evolutionary purpose of the organization calls for at the time. They are not appointed by someone given authority to do so.
+  Los equipos de proyecto y los grupos de trabajo en las organizaciones Teal tienen las siguientes características:
 
-  * They are staffed with people who think the project is important, can and will attend to the project immediately, and are not necessarily the “best educated or best experienced persons for the job”.
 
-  * There is no single person to “lead” the team or task force or “manage” the project.
+  * Ellos orgánicamente emergen y se disuelven, dependiendo de lo que el propósito evolutivo de la organización pide en el momento. No son nombrados por alguien con autoridad para hacerlo.
 
-  * Individuals prioritize their involvement in the project based on usually one or more of these measures: What is most important? Most urgent? Most fun?
+  * Están dotados de personas que piensan que el proyecto es importante, pueden y van a asistir al proyecto inmediatamente, y no son necesariamente las "personas mejor educadas o mejor preparadas para el trabajo".
+
+  * No hay una sola persona para "dirigir" al equipo o grupo de trabajo o "administrar" el proyecto.
+
+  * Las personas priorizan su participación en el proyecto basándose generalmente en una o más de estas medidas: ¿Qué es lo más importante? ¿Más urgente? ¿Más divertido?
+
+
+  <!--EndFragment-->
 inPractice: >-
-  #### Organic formation
+  <!--StartFragment-->
 
 
-  In Teal, no one mandates the creation of a project team or task force. It is created when a number of people see a need and are willing to contribute to it. No one is appointed based on their competence or position in the organization. Anyone can start a project team. If no one can spare time for the project, there is a collective trust that it's probably not important right now.
+  **Formación orgánica**\
+
+  En Teal, nadie ordena la creación de un equipo de proyecto o grupo de trabajo. Se crea cuando un número de personas ven una necesidad y están dispuestos a contribuir a ello. Nadie es nombrado en base a su competencia o posición en la organización. Cualquiera puede iniciar un equipo de proyecto. Si nadie puede destinar tiempo para el proyecto, existe una confianza colectiva de que probablemente no sea importante en este momento.
 
 
-  #### Purpose-driven activity
+  **Actividad impulsada por el propósito**\
+
+  En Teal, existe un equipo de proyecto o grupo de trabajo siempre y cuando apoye una parte específica del [propósito evolutivo](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Prop%C3%B3sito_Evolutivo "Propósito Evolutivo") de la organización. Según lo tenga o no, se marchita y muere, o se transforma en algo nuevo. Los miembros del equipo priorizan su participación dependiendo de lo que consideren más importante, más urgente o más divertido de hacer. Si el creador de un proyecto no puede motivar a la gente a contribuir, debe preguntarse: ¿Está mi proyecto alineado con el propósito de la organización? ¿Otro proyecto atrae a las personas que necesito? Si es así, ¿cómo pueden nuestros dos proyectos apoyarse mutuamente?
 
 
-  In Teal, a project team or task force exists as long as it supports a specific part of the organization's evolutionary purpose. When it has - or if it doesn't - it withers and dies, or transforms into something new. Team members prioritize their involvement depending on what they sense is the most important, most urgent or most fun to do. If the creator of a project cannot motivate people to contribute, he should ask himself: Is my project aligned with the organization's purpose? Is another project attracting the people I need? If so, how can our two projects support each other?
+  **Gestión de proyectos radicalmente simplificada**\
+
+  En las organizaciones Teal, no hay gestores de proyectos ni de programas, ni sistemas de software ni diagramas de Gantt para organizar o controlar los diversos proyectos en curso. Hay un mínimo presupuesto para proyectos, ningún plan maestro y rara vez una línea de tiempo. Una gran cantidad de tiempo se libera dejando caer todas las formalidades de la planificación del proyecto: escribir el plan, obtener aprobación, informar sobre el progreso, explicar las variaciones, reprogramar y reestimar, por no hablar de la política que se utiliza para obtener recursos para el proyecto o para encontrar a algún culpable cuando los proyectos se exceden del tiempo o por encima del presupuesto. \[1]
 
 
-  #### Radically simplified project management
+  **Espacio físico fluido**\
+
+  En las empresas donde los proyectos Teal y las fuerzas de tarea son estándar, el plan arquitectónico puede ser diseñado para soportar una estructura fluida. La oficina de Sun Hydraulics es un gran espacio abierto con cubículos diseñados con altura máxima a la cintura. De un vistazo, la gente puede ver quién está allí y puede oír muchas conversaciones. Mejora enormemente la colaboración, dicen sus colegas.
 
 
-  In Teal organizations, there are no project or program managers, no software systems or Gantt charts to organize or control the various projects underway. There is minimal project budgeting, no master plan and rarely a timeline. A huge amount of time is freed by dropping all the formalities of project planning— writing the plan, getting approval, reporting on progress, explaining variations, rescheduling, and re-estimating, not to mention the politics that go into securing resources for one’s project or to find someone to blame when projects are over time or over budget.^[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 1924-1927). Nelson Parker. Kindle Edition.]
+  En [Valve](http://www.valvesoftware.com/), un desarrollador de juegos de Seattle, todos los empleados tienen escritorios sobre ruedas. Ruedan sus escritorios alrededor dependiendo de los proyectos a los que se integran o dejan. La compañía incluso ha diseñado una aplicación de intranet para que sus colegas puedan localizarse fácilmente. Muestra un mapa de la oficina, en tiempo real, mostrando donde la gente ha conectado sus computadoras. \[2]
 
 
-  #### Fluid physical space
+  Grupos de tarea en lugar de departamentos de staff formales\
+
+  En las compañías Teal, los grupos de trabajo voluntarios suelen usarse para realizar tareas típicamente llevadas a cabo por departamentos de staff tradicionales. Esto tiene múltiples beneficios: Los empleados pueden encontrar maneras de expresar talentos y dones que su rol principal podría no requerir. Pueden desarrollar áreas de experticia que luego pueden compartir con otros en la organización. Los grupos de trabajo también son formidables oportunidades de aprendizaje; Las personas recogen habilidades técnicas y de liderazgo de colegas más experimentados en una forma moderna de aprendizaje. \[3] Ver también [Funciones Staff](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Funciones_Staff "Funciones Staff")
 
 
-  In companies where Teal projects and task forces are standard, the architectural layout may be designed to support a fluid structure. The office at Sun Hydraulics is a big open space with custom-designed cubicles that go only waist high. At a glance, people can see who is there and can overhear many conversations. It greatly improves collaboration, colleagues say.
-
-
-  At [Valve](https://www.valvesoftware.com/hu/), a Seattle game developer, all employees have desks on wheels. They roll their desks around depending on the projects they join or leave. The company has even designed an intranet app so colleagues could locate each other easily. It displays an office map, in real-time, showing where people have plugged in their computers.^[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 85-6]
-
-
-  #### Task forces instead of formal staff departments
-
-
-  In Teal companies, voluntary task forces are often used to perform tasks typically carried out by traditional staff departments. This has multiple benefits: Employees can find ways to express talents and gifts their primary role might not call for. They can develop areas of expertise that can then be shared with others in the organization. Task forces are also formidable learning opportunities; people pick up technical and leadership skills from more experienced colleagues in a modern-day form of apprenticeship.^[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 90] See also Staff Functions
+  <!--EndFragment-->
 faq:
-  - question: Doesn’t this lead to chaos?
-    answer: Teal organizations trust the collective intelligence of the system.
-      While this may seem risky or outright foolish, if we reflect on lessons
-      learned in the domain of economics, we have reached a general consensus
-      that the centralized planning committees of the Soviet Union were
-      ineffective. While contemporary approaches to capitalism leave much to be
-      desired, the free-market system where a myriad of players sense and
-      respond to signals, make decisions, and coordinate among themselves has
-      proven to be more flexible and responsive. This means, that things
-      occasionally fall through the cracks, but this is often to be welcomed as
-      the outcome of a collective prioritization effort; the system simply roots
-      out a project that doesn't seem promising or important after all.^[Laloux,
-      Frederic. Reinventing Organizations. Nelson Parker (2014), page 85-6]
-  - question: What about agile and lean?
-    answer: 'Agile and lean can be naturally and deeply embedded in Teal project
-      teams. [FAVI](http://www.favi.com/) is an example: "The factory was an
-      eager and early adopter of Japanese manufacturing techniques; it masters
-      continuous improvement like few others, a critical capability to survive
-      and thrive in the low-margin automotive business... A very simple process
-      is at work: whenever a team stumbles upon a problem or an opportunity, as
-      happens every day, the issue is logged in a logbook. Anybody can volunteer
-      to tackle an item by writing his or her initials next to the issue in the
-      logbook. Typically, the two or three people that are most affected or
-      interested decide to join forces and analyze the issue. If no one picks up
-      a certain problem or opportunity, it probably means it is not important.
-      Otherwise, it will come up again, and someone will end up tackling it...
-      no one bothers with statistics, master plans, project management software,
-      or reporting. There is a simple reminder mechanism: operators have asked a
-      woman working in administration to go through the logs once in awhile, and
-      if there are items that have been open for more than three months, to
-      remind people who have signed up to tackle the issue about their
-      commitment. Teams have found this gentle prodding to be helpful."^[Laloux,
-      Frederic. Reinventing Organizations. Nelson Parker (2014), page 89]'
-  - question: How do these practices link with the three Teal breakthroughs?
+  - question: ¿Acaso esto no conduce al caos?
     answer: >-
-      #### Self-management
+      <!--StartFragment-->
 
 
-      In Teal, project teams and task forces are self-organized and voluntary. They are not created by upper management or commanded by a team leader.
+      Las organizaciones Teal confían en la inteligencia colectiva del sistema. Si bien esto puede parecer arriesgado o absurdo, si reflexionamos sobre las lecciones aprendidas en el campo de la economía, hemos llegado a un consenso general de que los comités de planificación centralizados de la Unión Soviética eran ineficaces. Si bien los enfoques contemporáneos del capitalismo dejan mucho que desear, el sistema de libre mercado, donde muchos jugadores perciben y responden a señales, toman decisiones y se coordinan entre sí, ha demostrado ser más flexible y sensible. Esto significa que las cosas pasan de vez en cuando por rupturas, pero esto a menudo es bienvenido como el resultado de un esfuerzo de priorización colectiva; El sistema simplemente no arraiga un proyecto que finalmente no parece prometedor o importante. \[4]
 
 
-      #### Wholeness
+      <!--EndFragment-->
+  - question: ¿Qué hay de los conceptos de “Agile” y “Lean”?
+    answer: >-
+      <!--StartFragment-->
 
 
-      In Teal, people are not limited to a single role or job description. They can join teams and task forces that match their interests and talents and are encouraged to use both their rational and intuitive minds to prioritize which projects to join.
+      Agile y Lean puede ser natural y profundamente incluido en los equipos de proyecto Teal. FAVI es un ejemplo: "La fábrica era un ávido e impaciente adoptante de las técnicas de fabricación japonesas, que domina la mejora continua como pocos otros, una capacidad crítica para sobrevivir y prosperar en el negocio automotriz de bajo margen ... Un proceso muy simple está en el trabajo: cada vez que un equipo se tropieza con un problema o una oportunidad, como ocurre todos los días, el problema se registra en un diario de registro. Cualquier persona puede ofrecerse voluntariamente para abordar uno de estos temas escribiendo sus iniciales al lado del problema en el cuaderno de bitácora. Dos o tres personas que son más afectados o interesados deciden unir fuerzas y analizar la cuestión. Si nadie recoge un cierto problema u oportunidad, probablemente significa que no es importante. Si lo es, va a aparecer de nuevo, y alguien lo va a tomar… sin necesidad de estadísticas, planes maestros, software de gestión de proyectos, o informes. Hay un mecanismo simple de recordatorio: los operadores han pedido a una mujer que trabaja en el área administrativa que vea los registros de vez en cuando, y cuando haya asuntos que han estado abiertos por más de tres meses, les recuerde a las personas que se han inscrito para abordar el tema de su compromiso. Los equipos han encontrado útil este suave impulso. "\[5]
 
 
-      #### Evolutionary purpose
+      <!--EndFragment-->
+  - question: ¿Cómo se relacionan estas prácticas con los tres avances Teal?
+    answer: >-
+      <!--StartFragment-->
 
 
-      Individuals and groups listen for what they sense is needed right now, and form project teams as required. Likewise, they trust, that if no one can find time to work on the project, it's because it's not important to the organization’s purpose right now.
+      **Autogestión**\
+
+      En Teal, los equipos de proyecto y los grupos de trabajo son auto organizados y voluntarios. No son creados por la alta dirección o dirigidos por un líder de equipo.
+
+
+      **Integridad**\
+
+      En Teal, la gente no se limita a una sola función o descripción del trabajo. Pueden unirse a equipos y grupos de tarea que coincidan con sus intereses y talentos y se les anima a utilizar tanto sus mentes racionales e intuitivas para priorizar a qué proyectos unirse.
+
+
+      **Propósito evolutivo**\
+
+      Los individuos y los grupos escuchan lo que sienten que se necesita en este momento, y forman equipos de proyecto según sea necesario. Del mismo modo, confían en que, si nadie puede encontrar tiempo para trabajar en el proyecto, es porque no es importante para el propósito de la organización en este momento.
+
+
+      <!--EndFragment-->
 relatedTheory:
   - Objectives and Target Setting
   - Organizational Structure
