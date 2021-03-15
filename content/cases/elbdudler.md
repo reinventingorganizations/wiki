@@ -26,5 +26,5 @@ theory:
       * Na co firma może sobie pozwolić?
 
 
-      Wszystkie wybory dotyczące wynagrodzenia są jawne. Jak dotąd nikt nigdy nie dokonał skandalicznego wyboru. Jeśli ktoś prosi o bardzo wysokie wynagrodzenie, koledzy mogą poprosić go o przedstawienie propozycji, w jaki sposób firma mogłaby zarobić więcej pieniędzy. Realizacja planu należy do tej osoby ^[[http://www.mopo.de/geld/deutschlands-coolster-chef-er-laesst-mitarbeiter-selbst--ueber-ihr-gehalt-bestimmen,5066776,29007608.html](https://www.mopo.de/news/politik-wirtschaft/geld/deutschlands-coolster-chef-er-laesst-mitarbeiter-selbst--ueber-ihr-gehalt-bestimmen-282620)]
+      Wszystkie wybory dotyczące wynagrodzenia są jawne. Jak dotąd nikt nigdy nie dokonał skandalicznego wyboru. Jeśli ktoś prosi o bardzo wysokie wynagrodzenie, koledzy mogą poprosić go o przedstawienie propozycji, w jaki sposób firma mogłaby zarobić więcej pieniędzy. Odpowiedzialnością tej osoby jest to, żeby ten plan się zrealizował ^[[http://www.mopo.de/geld/deutschlands-coolster-chef-er-laesst-mitarbeiter-selbst--ueber-ihr-gehalt-bestimmen,5066776,29007608.html](https://www.mopo.de/news/politik-wirtschaft/geld/deutschlands-coolster-chef-er-laesst-mitarbeiter-selbst--ueber-ihr-gehalt-bestimmen-282620)]
 ---
