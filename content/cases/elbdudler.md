@@ -1,8 +1,8 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
 name: Elbdudler
+date: 2020-11-09
 introduction: Social media consulting - Germany - 34 people - For Profit.
 industry: M. Professional, scientific and technical activities
 geography: Germany
@@ -10,20 +10,21 @@ companySize: 1-100
 profit: Profit
 theory:
   - topic: Compensation and incentives
-    title: People self-set their salaries based on 4 simple questions
+    title: Ludzie sami ustalają swoje wynagrodzenia na podstawie 4 prostych pytań
     content: >-
-      At Elbdudler, colleagues self-set their salaries using the 4 following
-      questions to trigger reflection and self-calibrate:
+      W firmie Elbdudler koledzy samodzielnie ustalają swoje wynagrodzenie,
+      korzystając z 4 następujących pytań, aby wywołać refleksję i
+      samokalibrację:
 
 
-      * What do I need?
+      * Czego potrzebuję?
 
-      * What's my market value outside of Elbdudler?
+      * Jaka jest moja wartość rynkowa poza firmą Elbdudler?
 
-      * How much do my colleagues earn?
+      * Ile zarabiają moi koledzy?
 
-      * What can the company afford to pay?
+      * Na co firma może sobie pozwolić?
 
 
-      All salary choices are public. So far, no one has ever made an outrageous choice. If someone asks for a very high salary, colleagues can ask him or her to make a proposal how the company could earn more money. It's up to that person to make the plan happen ^[[http://www.mopo.de/geld/deutschlands-coolster-chef-er-laesst-mitarbeiter-selbst--ueber-ihr-gehalt-bestimmen,5066776,29007608.html](https://www.mopo.de/news/politik-wirtschaft/geld/deutschlands-coolster-chef-er-laesst-mitarbeiter-selbst--ueber-ihr-gehalt-bestimmen-282620)]
+      Wszystkie wybory dotyczące wynagrodzenia są jawne. Jak dotąd nikt nigdy nie dokonał skandalicznego wyboru. Jeśli ktoś prosi o bardzo wysokie wynagrodzenie, koledzy mogą poprosić go o przedstawienie propozycji, w jaki sposób firma mogłaby zarobić więcej pieniędzy. Realizacja planu należy do tej osoby ^[[http://www.mopo.de/geld/deutschlands-coolster-chef-er-laesst-mitarbeiter-selbst--ueber-ihr-gehalt-bestimmen,5066776,29007608.html](https://www.mopo.de/news/politik-wirtschaft/geld/deutschlands-coolster-chef-er-laesst-mitarbeiter-selbst--ueber-ihr-gehalt-bestimmen-282620)]
 ---
