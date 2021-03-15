@@ -5,215 +5,227 @@ key: Role Definition and Allocation
 name: Definición y Asignación de funciones
 sortOrder: 9
 category: People practices
-intro: "This article describes how roles are defined and allocated in Teal
-  organizations.\r
+intro: >-
+  <!--StartFragment-->
 
-  \n"
+
+  Este artículo describe cómo se definen y se asignan los roles en las organizaciones Teal.
+
+
+  <!--EndFragment-->
 perspective: >-
-  In Teal organizations, members fill roles that are created, exchanged and
-  discontinued in reponse to current needs. Documentation of these varies from
-  the precise to the informal, based on the nature of the organization.
+  <!--StartFragment-->
 
 
-  Consequences of this approach are, commonly:
+  En las organizaciones Teal, los miembros cubren roles que se crean, intercambian y se descontinuan en respuesta a las necesidades actuales. La documentación de los mismos varía de lo preciso a lo informal, sobre la base de la naturaleza de la organización.\
+
+  **Consecuencias de este enfoque son, comúnmente:** • Ningún organigrama • Sin jerarquía • Ningún proceso formal de promoción • Compromiso individual con una serie de funciones • Falta de títulos de trabajo y descripciones de puestos • Compartiendo las tareas tradicionales de administración de planificación, monitoreo, reclutamiento, embarque, entrenamiento, etc. • Evolución de los roles a medida que las personas adquieren habilidades y respeto • Creación de oportunidades para nuevos colegas
 
 
-  * No organization chart No hierarchy
+  \
 
-  * No formal promotion process
+  \
 
-  * Individual commitment to a number of roles
+  En contraste, la definición de roles y la asignación en organizaciones de etapas anteriores pueden resumirse como sigue:\
 
-  * Lack of job titles and job descriptions
+  \
 
-  * Sharing of the traditional management tasks of planning, monitoring, recruiting, on-boarding, coaching, etc.
+  **Organizaciones Rojas**\
 
-  * Evolution of roles as people gain skills and respect
+  El estatus de los miembros del grupo se denomina por su proximidad al líder. La asignación de roles es a su discreción (o la de sus aliados cercanos). Una falta de alineación con los deseos del líder probablemente resultará en una pérdida de estatus. La lealtad y el éxito es probable que ganen más poder. Los lazos familiares con el líder también pueden determinar el estatus.\
 
-  * Creation of opportunities for new colleagues
+  \
 
+  **Organizaciones Ámbar**\
 
-  In contrast, role definition and allocation in earlier stage organizations can be summarized as follows:
-
-
-  #### Red Organizations
+  Los diagramas formales, jerarquías y títulos son típicos en las organizaciones Ámbar. Los roles y promociones se basan en procesos formales. El poder puede ser una función de:
 
 
-  In [Red Organizations](../red-organizations/) the status of group members is denoted by their proximity to the leader. Role allocation is at his discretion (or that of his close allies). A failure to align with the leader’s wishes will likely result in a loss of status. Loyalty and success are likely to earn more power. Family ties to the leader may also determine status.
+  * La opinión personal de un miembro de mayor rango
+
+  * Criterios específicos (como años de servicio, título o cualificaciones)
+
+  * La pertenencia a un determinado grupo social o casta, grupo étnico o género
 
 
-  #### Amber Organizations
+  \
+
+  \
+
+  **Organizaciones Naranja**\
+
+  Los roles en Naranja son fijos, vinculados a una caja en un organigrama y documentados en una "descripción de trabajo". Muchas funciones se centran en parte o en todo en la "gestión" de los siguientes en la jerarquía. Así, los roles están inevitablemente vinculados a la antigüedad, el título y la promoción.\
+
+  Así, los roles se entrelazan con otras actividades como la planificación de la sucesión, la rotación de puestos de trabajo y la gestión del talento. Estos están diseñados para preparar "altos potenciales" para futuras funciones de gestión\
+
+  \
+
+  **Organizaciones Verdes**\
+
+  Las organizaciones Verdes son similares a las Naranja en cuanto a roles. Pero el énfasis en "manejar" a otros es templado por el estímulo para actuar como líderes de servicio. En algunas empresas, los subordinados pueden seleccionar a la persona para llenar el papel de su gerente.
 
 
-  Formal charts, hierarchies and titles are typical in [Amber organizations](../amber-paradigm-and-organizations/). Roles and promotions are based on formal processes. Power can be a function of:
-
-
-  * The personal opinion of a higher ranking member
-
-  * Specific criteria (like years of service, title or qualifications)
-
-  * Membership in a particular social group or caste, ethnic group or gender
-
-
-  #### Orange Organizations
-
-
-  Roles in [Orange ](../orange-paradigm-and-organizations/)are fixed, tied to a box in an organization chart, and documented in a “job description”. Many roles focus in part or whole on “managing” those below in the hierarchy. Thus roles are inevitably linked to seniority, title and promotion.
-
-
-  Thus roles become interwoven with other activities like succession planning, job rotation and talent management. These are designed to groom "high potentials" for future management roles
-
-
-  #### Green Organizations
-
-
-  [Green organizations](../green-paradigm-and-organizations/) are similar to Orange in respect of roles. But the emphasis on ‘managing’ others is tempered by encouragement to act as servant leaders. In some companies, subordinates can select the person to fill the role of their manager.
+  <!--EndFragment-->
 inPractice: >-
-  #### Roles instead of jobs
+  <!--StartFragment-->
 
 
-  In self-managing organizations, there are no jobs, no "boxes" on an organization chart, no hierarchical layers of management, and thus no formal promotions to any of these "boxes".  Instead, every colleague has a number of roles that he/she has agreed and committed to fulfill. The traditional tasks of a manager (anticipating, planning, monitoring, recruiting, on-boarding, coaching, etc.) are typically scattered among various members of the team.  As people grow in experience, they take on roles with larger responsibilities and offload simpler ones to new recruits or more junior colleagues.
+  Roles en lugar de puestos de trabajo\
+
+  En las organizaciones autogestionadas, no hay empleos, ni "cuadros" en un organigrama, ni capas jerárquicas de administración, y por lo tanto no hay promociones formales a ninguno de estos "cuadros". En cambio, cada colega tiene una serie de funciones que ha acordado y comprometido a cumplir. Las tareas tradicionales de un gerente (anticipación, planificación, monitoreo, reclutamiento, embarque, entrenamiento, etc.) suelen estar dispersas entre varios miembros del equipo. A medida que las personas crecen en la experiencia, asumen papeles con responsabilidades mayores y descargan las más sencillas a los nuevos reclutas o a los colegas más jóvenes.\
+
+  \
+
+  **Cómo se definen los roles**\
+
+  Algunas organizaciones usan principalmente procesos informales para definir roles. Otros han puesto en marcha procesos más formales.\
+
+  \
+
+  **Definición informal del rol**\
+
+  En algunas compañías Teal, cuando alguien siente la necesidad de crear, modificar o desechar un rol, ellos lo realizan, usando el proceso de los consejos para consultar con personas relevantes y tomar una decisión. Si la organización está estructurada en torno a los equipos, una reunión de equipo es el lugar natural para tener esta conversación. Si el rol se extiende más allá del equipo, el iniciador puede llamar a una reunión, tener varias conversaciones uno a uno o compartir la sugerencia en la red social interna.\
+
+  \
+
+  **Definición formal del rol**\
+
+  Otras empresas tienen procesos formales para definir roles. Aquí hay dos: el primero que implica una conversación basada en el equipo, el otro, intercambios uno a uno:\
+
+  \
+
+  *Conversación basada en equipos*: Holacracy es un "sistema operativo" organizacional que utiliza "reuniones de gobernanza" específicas dedicadas a la creación, modificación y cesación de funciones. Por lo general, se llevan a cabo mensualmente. Cada voz es escuchada y nadie puede dominar la toma de decisiones. Las organizaciones que usan Holacracy encuentran que cada mes un equipo normalmente adaptará, aclarará, creará o descartará las funciones. (Nota: Una persona tiene múltiples roles.)\
+
+  \
+
+  *Conversaciones uno a uno:* Morning Star utiliza un sistema de contratación formal, uno a uno. Cada colega completa un documento para cada relación de trabajo. Debido a que Morning Star opera un proceso altamente eficiente, sin interrupciones (en el que cada etapa depende de la anterior y posterior), la precisión es necesaria. Sería ineficaz detener la línea para una conferencia de colega. El documento que describe estos compromisos mutuos se llama Carta de Entendimiento de los Colegas. Cuando se suman, estos detallan todos los roles y compromisos. En efecto, se trata de "contratos", negociados con el puñado o dos de los colegas con los que trabajan más estrechamente. Se refinan y se acuerdan directamente, uno-a-uno. Debido a que las mejoras menores pueden tener impactos significativos, tiene sentido definir papeles con gran granularidad, y seguir de cerca los indicadores.\
+
+  \
+
+  **Cómo se asignan los roles**\
+
+  Puede haber varios grados de formalidad en el proceso de cómo los roles se asignan a los colegas, pero todos ellos implican esencialmente la consulta y el acuerdo de los compañeros. Los roles con más responsabilidad y alcance (que suelen ser recompensados con una compensación más alta) tienden a ser dados a los colegas que han construido una reputación para ser capaz, útil y confiable.\
+
+  \
+
+  **Asignación informal de roles**\
+
+  Cuando se crea un nuevo rol, en muchos casos hay un candidato obvio que emerge naturalmente. Podría ser la persona que percibía la necesidad del nuevo rol, u otro miembro del equipo que todo el mundo ve como la persona natural para llenar el papel. A menudo, se necesita muy poca discusión. Una simple pregunta en una reunión de equipo ("¿Quién siente como asumir este papel?" O "Siento que Catalina sería la persona natural para asumir este papel, ¿qué piensas?") Es todo lo que se necesita.\
+
+  \
+
+  **Asignación formal de roles**\
+
+  En algunos casos, varios candidatos expresan un gran interés en el mismo papel y un proceso más formal podría ser requerido:
 
 
-  #### How roles get defined
+  * Entrevistas: Los candidatos pueden ser entrevistados por aquellos que trabajarán estrechamente con ellos. Los entrevistadores pueden optar por decidir sobre el candidato ganador utilizando una serie de mecanismos de toma de decisiones, como el consenso, el voto de la mayoría o el proceso de los consejos.
+
+  * Elecciones: Sociocracia y Holacracy usan un proceso de elección basado en el consentimiento para ciertas funciones. Los colegas nominan a sus candidatos preferidos. Un facilitador entonces ayuda al grupo a decidir.
+
+  * Proceso de los consejos: Una persona (por ejemplo, la persona que percibió la necesidad del nuevo rol o alguien que otros confían para dirigir bien este proceso) avanza y busca consejo para quién sería la mejor persona para llenar un nuevo rol antes de hacer un nuevo papel. decisión.
+
+  * Autoridad Designada: Asignar roles puede ser un rol en sí: en Holacracy, el "Lead Link" es un rol que viene, entre otros, con la autoridad para asignar roles operacionales.
 
 
-  Some organizations use mostly informal processes to define roles. Others have put in place more formal processes.
+  \
+
+  \
+
+  **Intercambio de roles**\
+
+  Debido a que los roles son granulares, es fácil intercambiar roles dentro de un equipo. Una persona que está demasiado ocupada puede pedirle a alguien que recoja uno de sus roles, ya sea temporalmente o permanentemente. Alguien que quiere adquirir una nueva habilidad puede pedirle a un colega que cambie un rol. HolacracyOne tiene un “mercado de roles” para facilitar este proceso.\
+
+  \
+
+  **Alcance de la responsabilidad**\
+
+  En las Organizaciones Teal, mientras que las personas tienen roles y responsabilidades claras, sus preocupaciones no deben limitarse a estas. Han de tomar en serio el bienestar de toda la organización. A continuación, a través del [proceso de los consejos](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Toma_de_Decisiones "Toma de Decisiones"), cualquier persona puede tomar medidas si percibe un problema. Como no hay jefes, no hay nadie que diga: "Eso no es asunto tuyo".\
+
+  \
+
+  [Morning Star ](http://www.morningstarco.com/)habla sobre "responsabilidad total", todos los colegas están obligados a hacer algo cuando sienten un problema, incluso si está fuera del alcance de sus roles, lo que significa hablar sobre el problema o la oportunidad con un colega cuyo rol se relaciona con él. Se considera inaceptable decir: "Alguien debería hacer algo sobre este problema ", y dejarlo en eso.
 
 
-  ##### Informal role definition
-
-
-  In some Teal companies, when someone senses the need to create, modify or scrap a role, they step forward, use the advice process to consult with relevant people, and make a decision.
-
-
-  If the organization is structured around teams, a team meeting is the natural place to have this conversation. If the role extends beyond the team, the initiator can call a meeting, have several one-on-one conversations, or share the suggestion on the internal social network.
-
-
-  ##### Formal role definition
-
-
-  Other companies have formal processes for defining roles. Here are two: the first involving a team-based conversation, the other, one-to-one exchanges:
-
-
-  *Team-based conversation*: Holacracy is an organizational "operating system", that uses specific "Governance meetings" dedicated to the creation, modification and cessation of roles. Usually these are held monthly. Every voice is heard and no one can dominate decision-making. Organizations using Holacracy find that every month a team will typically adapt, clarify, create, or discard roles. (Note: A person has multiple roles.)
-
-
-  *One-on-one conversations*: Morning Star uses a formal, one-on-one contracting system. Each colleague completes a document for every working relationship. Because Morning Star operates a highly efficient, non-stop process (in which each stage relies on the one before and after), precision is necessary. It would be inefficient to stop the line for a colleague conference. The document that describes these mutual commitments is called a Colleague Letter of Understanding. When summed, these detail all roles and commitments. In effect, these are "contracts", negotiated with the handful or two of colleagues they work with most closely. They are refined and agreed directly, one-on-one. Because minor improvements can have significant impacts, it makes sense to define roles with great granularity, and to track indicators closely.
-
-
-  #### How roles get allocated
-
-
-  There can be various degrees of formality in the process of how roles are allocated to colleagues, but they all essentially involve peer consultation and agreement. Roles with more responsibility and scope (which typically are rewarded with higher compensation) tend to be given to colleagues who have built up a reputation to be capable, helpful and trustworthy.
-
-
-  ##### Informal role allocation
-
-
-  When a new role is created, in many cases there is a obvious candidate that emerges naturally. It might be the person who sensed the need for the new role, or another team member that everyone sees as the natural person to fill the role. Often, very little discussion is needed. A simple question in a team meeting ("Who feels like taking on this role?" or "I feel Catherine would be the be the natural person to take on this role, what do you think?") is all that is needed.
-
-
-  ##### Formal role allocation
-
-
-  In some cases, several candidates express heavy interest in the same role and a more formal process might be called for: 
-
-
-  * *Interviews*: Candidates may be interviewed by those who will work closely with them.  Interviewers can choose to decide on the winning candidate using a number of [decision making](../decision-making/) mechanisms, such as consensus, majority vote or the advice process. 
-
-  * *Elections*: [Sociocracy ](https://en.wikipedia.org/wiki/Sociocracy)and [Holacracy ](http://www.holacracy.org/)use a consent-based election process for certain roles. Colleagues nominate their preferred candidates. A facilitator then helps the group to decide.
-
-  * *Advice Process*: One person (for instance, the person who sensed the need for the new role, or someone others trust to lead this process well) steps forward and seeks advice for who would be the best person to fill a new role before making a decision.
-
-  * *Designated Authority*: Allocating roles can be a role itself: in Holacracy, the "Lead Link" is a role that comes, among other, with the authority to allocate operational roles. 
-
-
-  #### Trading roles
-
-
-  Because roles are granular, it is easy to trade roles within a team. A person who is overly busy can ask someone to pick up one of his or her roles, either temporarily or permanently. Someone who wants to acquire a new skill can ask a colleague to trade a role. HolacracyOne has a "role market place" to facilitate this process.
-
-
-  #### Scope of responsibility
-
-
-  In Teal Organizations, while people have clear roles and responsibilities, their concerns need not be limited to these. They can take the well-being of the whole organization to heart. Then, via the [advice process](../decision-making/), anyone can take action if they sense an issue. As there are no bosses, there is no one to say, “That is none of your business.”
-
-
-  [Morning Star](http://morningstarco.com/) talks about "total responsibility”. All colleagues are obliged to do something when they sense an issue, even if it’s outside the scope of their roles. That usually means talking about the problem or opportunity with a colleague whose role does relate to the topic. It’s considered unacceptable to say: “Somebody should do something about this problem”, and leave it at that.
+  <!--EndFragment-->
 faq:
-  - question: Why do we need roles? Can't we work without formalizing any roles?
-    answer: "By the very nature of the division of labor in organizations, people
-      end up taking up certain roles. Colleagues often feel a need for clarity
-      around these roles, for example \"I need help with X: who can I talk
-      to?\", \"I have an idea to change something in this domain: who would be
-      the natural person to make that happen?\", \"We agreed to do something
-      that didn't get done: who was the person that committed to this?\". \r
-
-      \r
-
-      There is value, therefore, in creating clarity on roles and
-      commitments.  Some people can be allergic to any formality or clarity, as
-      it reminds them of traditional, static hierarchies, job titles and job
-      definitions.  Remember, roles can be fluidly created, modified, exchanged
-      and scrapped, using peer-based rather than top-down processes. "
-  - question: What kind of "management" roles can be given to team members?
+  - question: ¿Por qué necesitamos roles? ¿No podemos trabajar sin formalizar roles?
     answer: >-
-      In traditional organizations, managers act on behalf of those below them.
-      Many such ‘management’ tasks disappear in self-managing organizations.
-      Those that are still needed can be distributed among team members. For
-      example:
+      <!--StartFragment-->
 
 
-      * *Anticipating*: Everyone can anticipate the future, but some teams might find it useful to have one person dedicate time to anticipate the need for long term changes.
+      Por la misma naturaleza de la división del trabajo en las organizaciones, la gente termina asumiendo ciertos roles. Los compañeros a menudo sienten la necesidad de claridad en torno a estos roles, por ejemplo "Necesito ayuda con X: ¿con quién puedo hablar?", "Tengo una idea para cambiar algo en este dominio: ¿quién sería la persona natural para hacer que eso suceda? ? "," Acordamos hacer algo que no se hizo: ¿quién fue la persona que se comprometió a esto? ".\
 
-      * *Planning*: This can be further broken down, for instance into shift planning, raw material planning, etc. 
-        Setting objectives: Individuals and teams can set objectives to spur themselves on. One person can take the lead using the advice process. 
-      * *Monitoring performance indicators*: Compiling data into easy to understand insights to share with the team.
-
-      * *Recruiting*: Taking the lead in the recruitment process of new team members.
-
-      * *On-boarding:* Taking the lead in organizing the on-boarding of new team members.
-
-      * *Coaching*: Coaching junior team members, or anyone asking for coaching.
-
-      * *Mediating*: Mediating conflicts.
-
-      * *Facilitating*: Facilitating team meetings and decision making processes.
-
-      * *Scribe*: Documenting important conversations and decisions of the team.
-
-      * *Knowledge management*: Capturing and codifying  insights.
-
-      * *Continuous improvement*: Taking the lead in maintaining processes for continuous improvement.
-
-      * *Coordinating with outside parties*: Being the contact person for certain constituencies outside of the team ("I'm coordinating with the marketing team") or outside the organization ("I'm coordinating with hospitals, you are liaising with pharmacies"). 
-
-      * *Sensing team mood*: Sensing how the team as a whole and persons within the team feel, and initiate conversations when needed.
-
-      * *Organizing social events*: Creating events that build community feeling.
+      Por lo tanto, es importante crear claridad sobre los roles y los compromisos. Algunas personas pueden ser alérgicas a cualquier formalidad o claridad, ya que les recuerda las jerarquías tradicionales, estáticas, los títulos de trabajo y las definiciones de trabajo. Recuerde, los roles pueden ser creados, modificados, intercambiados y desechados de forma fluida, usando procesos basados en los pares en vez de arriba-abajo.
 
 
-      The advice process is the basis for which to make decision in these roles.
-  - question: How do these practices link with the three Teal breakthroughs?
+      <!--EndFragment-->
+  - question: ¿Qué tipo de roles de "gestión" se pueden dar a los miembros del equipo?
     answer: >-
-      #### Self-management
+      <!--StartFragment-->
 
 
-      The ability to craft a role that caters to one’s strengths not only has the potential to strengthen the organization, it is a clear example of managing one’s self. There are no managers or bosses in Teal organizations that decide roles, Rather roles are self-determined with the consent of peers.
+      En las organizaciones tradicionales, los gerentes actúan en nombre de los que están por debajo de ellos. Muchas de estas tareas de "gestión" desaparecen en las organizaciones autogestionadas. Los que todavía se necesitan pueden distribuirse entre los miembros del equipo. Por ejemplo:
 
 
-      #### Wholeness
+      * Anticipación: Todo el mundo puede anticipar el futuro, pero algunos equipos pueden encontrar útil tener una persona que dedique tiempo para anticipar la necesidad de cambios a largo plazo.
+
+      * Planificación: Puede desglosarse, por ejemplo, en la planificación de turnos, planificación de materias primas, etc.
+
+      * Establecimiento de objetivos: Individuos y equipos pueden establecer objetivos para estimularse. Una persona puede tomar la iniciativa utilizando el proceso de los consejos.
+
+      * Supervisión de los indicadores de rendimiento: La compilación de datos en fácil de entender las ideas para compartir con el equipo.
+
+      * Reclutamiento: Tomando la iniciativa en el proceso de reclutamiento de los nuevos miembros del equipo.
+
+      * En el embarque: Tomar la delantera en la organización de la incorporación de nuevos miembros del equipo.
+
+      * Entrenamiento: Entrenando a los miembros del equipo junior, o cualquier persona que pida entrenamiento.
+
+      * Mediación: mediando conflictos.
+
+      * Facilitar: Facilitar reuniones de equipo y procesos de toma de decisiones.
+
+      * Escribir: Documentar las conversaciones y decisiones importantes del equipo.
+
+      * Gestión del conocimiento: Capturar y codificar ideas.
+
+      * Mejora continua: Tomar la delantera en el mantenimiento de procesos de mejora continua.
+
+      * Coordinación con otras partes: Ser la persona de contacto para ciertos grupos fuera del equipo ("Estoy coordinando con el equipo de marketing") o fuera de la organización ("Estoy coordinando con los hospitales, estás en contacto con las farmacias").
+
+      * Sensar del estado de ánimo del equipo: Detectar cómo el equipo como un todo y las personas dentro del equipo se sienten, e iniciar conversaciones cuando sea necesario.
+
+      * Organizar eventos sociales: Crear eventos que construyan sentimientos comunitarios.
 
 
-      Equally, it is evident that the better the match between a person’s strengths/interests and their role, the more likely it is they can express themselves fully and freely via work.
+      El proceso de los consejos es la base para tomar decisiones en estas funciones.
 
 
-      #### Evolutionary purpose
+      <!--EndFragment-->
+  - question: ¿Cómo se relacionan estas prácticas con los tres avances Teal?
+    answer: >-
+      <!--StartFragment-->
 
 
-      When processes and a culture exists that help roles evolve continuously, it helps the organization adapt and support its evolving purpose.
+      **Autogestión**\
+
+      La capacidad de diseñar un papel que atienda a sus fortalezas no sólo tiene el potencial de fortalecer la organización, sino que es un claro ejemplo de cómo administrarse a sí mismo. No hay gerentes o jefes en las organizaciones Teal que decidan papeles, sino que los roles son autodeterminados con el consentimiento de los compañeros.\
+
+      \
+
+      **Plenitud**\
+
+      Del mismo modo, es evidente que cuanto mejor es la coincidencia entre los puntos fuertes / intereses de una persona y su rol, más probable es que puedan expresarse plena y libremente a través del trabajo.\
+
+      \
+
+      **Propósito evolutivo**\
+
+      Cuando existen procesos y una cultura que ayudan a los roles a evolucionar continuamente, ayuda a la organización a adaptarse y apoyar su propósito en evolución.
+
+
+      <!--EndFragment-->
 relatedTheory:
   - Organizational Structure
   - Job Titles and Job Descriptions
