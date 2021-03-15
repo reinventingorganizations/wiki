@@ -3,8 +3,8 @@ layout: case
 tags: cases
 name: RHD (Resources for Human Development)
 date: 2020-11-09
-introduction: RHD has developed over the years a beautiful and precisely worded
-  Bill of Rights and Responsibilities for Employees and Consumers.
+introduction: RHD opracowało przez lata piękną i precyzyjnie sformułowaną Kartę
+  Praw i Obowiązków Pracowników i Konsumentów.
 industry: S. Other service activities
 geography: USA
 companySize: "> 500"
@@ -131,23 +131,25 @@ theory:
 
       *Thelma, for instance, had already been working as a receptionist at our new outpatient clinic for many years when she asked me for a job description. … I felt, and so told her, that it was absurd for me to define the details of her work since she was already doing a quality job. One of her outstanding behaviors was the kindness with which she greeted our clients, brought them coffee, and made sure that the therapist took them into the therapy room in a timely manner. Delineating her kindness was impossible: words would never have done justice to her heartfelt warmth. Thelma already knew how to perform her job and a detailed job description, I believed, would have done her more harm than good. … There is no single way to define a job, and no supervisor has the answer to how another person’s job should be performed. If … I imposed my view on her job, the corporation would, in effect, lose her special contribution - her way of managing the relationship between people. That would have been a great loss.*
   - topic: Compensation and incentives
-    title: RHD has put in place a number of practices to boost the lowest salaries
-      and reduce pay inequality
-    content: RHD, a Philadelphia based non-profit, holds the principle that when
-      there is room for salary increases, they should be disproportionately
-      geared toward the lowest salaries first. The CEO’s salary is capped to a
-      maximum of 14 times the lowest salary in the organization. One can argue
-      about the multiple―is it too high or too low?―but RHD introduced a clever
-      twist by capping the highest salary not based on the average or median
-      salary, as many Green Organizations have started doing, but on the lowest.
-      It’s now very much in the CEO’s and the leadership’s own interest to
-      ensure that even the colleagues with the lowest qualification earn enough
-      for a decent living. Next to this direct focus on entry-level salaries,
-      RHD has set up a scholarship fund to offer staff members opportunities to
-      pursue formal education and increase their earning potential. And it has
-      instituted a companion currency, the RHD Equal Dollar, that allows
-      lower-paid colleagues to increase their access to goods and services by
-      trading with each other and with their local community.
+    title: RHD wprowadziło szereg praktyk w celu podniesienia najniższych
+      wynagrodzeń i zmniejszenia nierówności w wynagrodzeniach
+    content: RHD, organizacja non-profit z siedzibą w Filadelfii, wyznaje zasadę, że
+      jeśli jest miejsce na podwyżki wynagrodzeń, powinny one być najpierw
+      nieproporcjonalnie ukierunkowane na najniższe pensje. Wynagrodzenie
+      dyrektora generalnego jest ograniczone do maksymalnie 14-krotności
+      najniższej pensji w organizacji. Można spierać się o wielokrotność ― czy
+      to jest za wysoka czy za niska? Ale RHD wprowadziła sprytny zwrot,
+      ograniczając najwyższe wynagrodzenie nie na podstawie średniej lub mediany
+      pensji, jak zaczęło to robić wiele organizacji ekologicznych, ale na
+      najniższym. W interesie dyrektora generalnego i kierownictwa jest teraz
+      zapewnienie, że nawet koledzy z najniższymi kwalifikacjami zarabiają
+      wystarczająco dużo, by żyć na przyzwoitym poziomie. Oprócz bezpośredniego
+      skupienia się na wynagrodzeniach na poziomie podstawowym, RHD utworzyła
+      fundusz stypendialny, aby zaoferować pracownikom możliwość kontynuowania
+      formalnej edukacji i zwiększenia ich potencjału zarobkowego. Ustanowił
+      walutę towarzyszącą, RHD Equal Dollar, która umożliwia współpracownikom o
+      niższych dochodach zwiększenie dostępu do towarów i usług poprzez handel
+      między sobą i ze społecznością lokalną.
   - topic: Purchasing and Investments
     title: RHD runs its organization based on self-managing units which are
       responsible for their entire operation, from defining a strategy to
