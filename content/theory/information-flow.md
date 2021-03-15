@@ -5,69 +5,95 @@ key: Information Flow
 name: Flujo de la Información
 sortOrder: 5
 category: Daily practices
-intro: This article describes how information and information flow are used in
-  different management paradigms and organizational contexts throughout the
-  journey of evolution.
+intro: >-
+  <!--StartFragment-->
+
+
+  Este artículo describe cómo se utiliza la información y su flujo en los diferentes paradigmas de gestión y contextos organizacionales a lo largo del viaje de la evolución.
+
+
+  <!--EndFragment-->
 perspective: >-
-  Every historical stage has given birth to a distinct perspective on
-  **Information Flow**, and to very different practices:
+  <!--StartFragment-->
 
 
-  ### Red Organizations
+  Cada etapa histórica ha dado nacimiento a una perspectiva distinta sobre el Flujo de Información, ya prácticas muy diferentes:\
+
+  \
+
+  **Organizaciones Rojas**\
+
+  En las [organizaciones Rojas](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_paradigma_Rojo_y_las_Organizaciones "El paradigma Rojo y las Organizaciones"), el flujo de información e información es controlado por aquellos con poder, y se usa para controlar y manipular a las personas. La información es controlada y propagada a través de contar historias, emitir órdenes, hacer amenazas, sobornar y espiar. El jefe generalmente tiene la propiedad de la información y controla los medios de comunicación. El poder se usa para mantener a los seguidores dependientes y alineados. La verdad objetiva de la información es a menudo menos importante que su valor subjetivo, por ejemplo, la verdad no tiene valor o significado si se puede ganar más ¡diciendo una mentira! En este contexto, la gente sólo atiende a la información que ellos perciben útil a sus propias necesidades personales.\
+
+  \
+
+  **Organizaciones Ámbar**\
+
+  En las [organizaciones Ámbar](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_%C3%81mbar_y_las_Organizaciones "El Paradigma Ámbar y las Organizaciones"), la información está más ampliamente distribuida y hay un respeto por el argumento lógico. Se reconocen puntos de vista diferentes, pero sólo hay lugar para una sola verdad, o conjunto de verdades. La información es controlada y comunicada a través de la jerarquía organizacional. El respeto por el concepto de objetividad emerge, junto con las opiniones competitivas de los ortodoxos y los heréticos. La verdad de las declaraciones emitidas por los que están en la autoridad puede ser cuestionada, dentro de límites estrictos, pero las decisiones y opiniones de los que tienen autoridad deben ser respetadas; Si no, ¡los disidentes pueden ser castigados!\
+
+  \
+
+  **Organizaciones Naranja**\
+
+  En [organizaciones Naranja](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Naranja_y_las_Organizaciones "El Paradigma Naranja y las Organizaciones"), la información sirve principalmente como una medida para "predecir y controlar", con el credo: ¡cuanto más información, mejor! Mediante la información de la medición, la gente puede diseñar un plan para la organización como si ésta fuera una máquina. Se considera que la información perteneciente o procedente de los de rango superior en la organización es de mayor valor.\
+
+  \
+
+  **Organizaciones Verdes**\
+
+  En las [organizaciones Verdes](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Verde_y_las_Organizaciones "El Paradigma Verde y las Organizaciones"), la información sirve como moneda de valor cultural, con el propósito de inspirar a los miembros de la organización. El flujo de información a través del sistema se basa en la gestión de "libros abiertos", con aportaciones de todos los interesados. El contenido informativo de los "libros abiertos" sigue siendo definido por los "gobernantes" en una estructura jerárquica, pero aquellos en posiciones de autoridad se centran en escuchar, animar y motivar a sus equipos. Con la "familia" como metáfora de guía en las organizaciones Verdes, las historias son compartidas y todos pueden "cantar alrededor de la fogata".\
+
+  \
+
+  **Organizaciones Teal**\
+
+  En las [organizaciones Teal](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones"), la información se pone a disposición de todos por igual, "tal cual". No hay secretos, y la información fluye donde se necesita sin fronteras; Este es uno de los prerrequisitos fundamentales para la [autogestión](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Autogesti%C3%B3n "Autogestión") de las organizaciones. Los miembros de las organizaciones Teal siguen respetando una distinción entre el intercambio de información que pertenece al contexto organizacional y el intercambio confidencial de información personal; Las áreas grises se manejan con sensibilidad e integridad. Se entiende claramente el valor dudoso de la información de “oídas" (informes de segunda mano de comunicación verbal no registrada).
 
 
-  In [Red Organizations](../red-organizations/), information and information flow are controlled by those with power, and are used to control and manipulate people. Information is controlled and propagated through storytelling, issuing orders, making threats, bribing and by spying. The boss usually has ownership of information and controls the means of communication. Power is used to keep followers dependent and aligned. The objective truth of information is often less important than its subjective value, i.e. the truth has no value or meaning if there is more to gain from telling a lie! In this context, people only attend to the information which they perceive as serving their own personal needs.
-
-
-  ### Amber Organizations
-
-
-  In [Amber Organizations](../amber-paradigm-and-organizations/),information is more widely distributed and there is a respect for logical argument. Different viewpoints are acknowledged, but there is only room for a single truth, or set of truths. Information is controlled and communicated via the organizational hierarchy. Respect for the concept of objectivity emerges, together with competing views of the orthodox and the heretical. The truth of statements issued by those in authority may be questioned, within strict limits, but the decisions and opinions of those in authority must be respected; if not, dissenters may be punished!
-
-
-  ### Orange Organizations
-
-
-  In [Orange Organizations](../orange-paradigm-and-organizations/), information serves primarily as a measure for “predicting and controlling”, with the credo: the more information, the better! Using measurement information, people can design a blueprint for the organization as though it was a machine. Information owned by or coming from those of higher rank in the organization is considered to be of greater value.
-
-
-  ### Green Organizations
-
-
-  In [Green Organizations](../green-paradigm-and-organizations/), information serves as a currency for cultural value, with the purpose of inspiring members of the organization. Information flow through the system is founded on “open book” management, with inputs from all stakeholders being given equal consideration. The information content of the "open books" is still defined by "rulers" in a hierarchical structure, but those in positions of authority focus on listening to, encouraging and motivating their teams. With “family” as the guiding metaphor in Green organizations, stories are shared and everyone can ‘sing around the campfire’.
-
-
-  ### Teal Organizations
-
-
-  In [Teal Organizations](../teal-paradigm-and-organizations/), information is made available to everyone equally, on an “as-is” basis. There are no secrets, and information flows where it is needed without boundaries; this is one of the fundamental prerequisites for [self-management](../self-management/) of organizations. Members of Teal organizations still respect a distinction between the sharing of information which belongs in the organizational context, and the confidential sharing of personal information; grey areas are handled with sensitivity and integrity. The dubious value of “hearsay” (second-hand reports of unrecorded verbal communication) is clearly understood.
+  <!--EndFragment-->
 inPractice: >-
-  ### Share All Information!
+  <!--StartFragment-->
 
 
-  *"If you empower people but don´t give them information, they just fumble in the dark."* (Blair Vernon)
+  **¡Comparte *toda* la información!**\
+
+  "*Si usted da poder a la gente pero no les da información, ellos andarán a tientas en la oscuridad.*" (Blair Vernon)\
+
+  \
+
+  Los equipos autogestionados necesitan disponer de toda la información disponible para tomar decisiones óptimas de manera estratégica y cotidiana. Esto significa que todos los miembros de la organización deben tener acceso a todos los datos relacionados con el financiamiento y las operaciones de la organización, incluyendo salarios y desempeño de individuos y equipos. Compartir libremente información ayuda a crear y mantener la confianza dentro de la organización y reduce la probabilidad de que las jerarquías informales vuelvan a surgir.
 
 
-  Self-managing teams need to have all available information to make optimum [decisions ](../decision-making/)on a strategic and day-to-day basis. This means that all members of the organization must have access to all data related to the financing and operations of the organization, including salaries and performance of individuals and teams. Freely sharing information helps to build and maintain trust within the organization, and reduces the likelihood that informal hierarchies will re-emerge.
+  En las organizaciones Teal existe una cultura de confianza, no de miedo: compartir la información libremente no daña a nadie y no hay necesidad de proteger las fuentes de información a través del anonimato o el disfraz. Se confía en la gente para manejar la información con integridad, y para lidiar con las implicaciones positivas y negativas de toda la información disponible para ellos. De esta manera, las personas tienen una clara visión de la información que les afecta a ellos y a otros dentro de la organización, y nadie desarrolla una falsa sensación de ansiedad o seguridad.
 
 
-  In Teal organizations, there is a culture of trust, not fear: freely sharing information does not harm anybody, and there is no need to protect sources of information through anonymity or disguise. People are trusted to handle information with integrity, and to deal with both the positive and the negative implications of all the information available to them. In this way, people have a clear of view the information that affects them and others within the organization, and no-one develops a false sense of anxiety or security.
+  Cuando la información es analizada, contextualizada e interpretada, esto no se ve como una forma de establecer la verdad, sino como una forma de hacer que la información sea más valiosa. La información valiosa fluye naturalmente hacia los lugares donde ayuda a resolver problemas, a superar retos, a impulsar la innovación. Simplemente: la información ahora puede circular libremente y servir a su propósito.\
+
+  \
+
+  **¡Discuta y debata *sin distinción de rangos"!***Cuando hay información nueva e importante para compartir, las [reuniones generales](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Reuniones "Reuniones") de “todos a cubierta" son una práctica habitual en las organizaciones Teal. Los resultados trimestrales, la encuesta de valores anual, un punto de inflexión estratégica y así sucesivamente se discuten y debaten en una reunión sin guión o agenda de control. Esto es mucho más que simple intercambio de información: en lugar de *"predecir y controlar",* el principio guía del flujo de información es *"Sentir y Responder"*. Si la información se comparte de una manera que no sirve al propósito de la organización, esto puede ser debatido abiertamente y hacer los cambios que sean necesarios.
 
 
-  When information is analyzed, contextualized and interpreted, this is not seen as a way of establishing the truth, but as a way of making the information more valuable. Valuable information flows naturally to the places where it helps to solve problems, meet challenges, drive innovation. Simply: information can now circulate freely and serve its purpose.
-
-
-  #### *Discuss and Debate! Rank-free!*
-
-
-  When there is new and important information to share, “all-hands” [meetings ](../meetings/)are a standard practice in Teal organizations. Quarterly results, the annual values survey, a strategic inflection point and so forth are discussed and debated in a meeting with no script or agenda of control. This is much more than simple information exchange: instead of “predict and control”, the guiding principle of information flow is “sense and response”. If information is being shared in a way which does not serve the purpose of the organization, this can be debated openly and changes made as needed.
+  <!--EndFragment-->
 faq:
-  - question: What are good daily practices for sharing information?
-    answer: All-hands meetings, stand-up meetings, open intranets, discussion
-      forums, open task or work logs, blogs, open webinars.
-  - question: What indicates that information flow is "stuck"?
-    answer: Quiet meetings, culture of fear and blame, complex hierarchical
-      decision-making processes, frequent rumours, compulsory employee surveys.
+  - question: ¿Cuáles son las buenas prácticas diarias para compartir información?
+    answer: >-
+      <!--StartFragment-->
+
+
+      Reuniones de todo tipo, reuniones stand-up, intranets abiertas, foros de discusión, registros de tareas abiertas o de trabajo, blogs, seminarios web abiertos.
+
+
+      <!--EndFragment-->
+  - question: ¿Qué indica que el flujo de información está "atascado"?
+    answer: >-
+      <!--StartFragment-->
+
+
+      Reuniones tranquilas, cultura del miedo y la culpa, procesos complejos de toma de decisiones jerárquicos, rumores frecuentes, encuestas obligatorias a los empleados.
+
+
+      <!--EndFragment-->
 relatedTheory:
   - wholeness
   - Self-Management
