@@ -10,50 +10,51 @@ companySize: 1-100
 profit: Profit
 theory:
   - topic: Compensation and incentives
-    title: Evolution of open salary setting from algorithm to advice process.
+    title: Ewolucja otwartego ustalania wynagrodzeń od algorytmu do procesu
+      doradczego.
     content: >-
-      #### **Summary**
+      #### **Podsumowanie**
 
 
-      In September 2014, Hanno made the information about all team members' salaries openly available to the rest of the team.
+      We wrześniu 2014 roku Hanno udostępnił informacje o wynagrodzeniach wszystkich członków zespołu pozostałym członkom zespołu.
 
 
-      After trialling an algorithm-based model, as of June 2015 Hanno has implemented a self-set salary model, with an advice process. In the words of founder Jon Lay: "As long as we have total financial transparency, respect for the individual, peer review and self-discipline in our process of setting salaries, employees can be trusted to set a salary which works for them and also their team." ^[[https://logbook.hanno.co/choose-your-own-salary/](https://hanno.co/blog/choose-your-own-salary/)]
+      Po przetestowaniu modelu opartego na algorytmach, od czerwca 2015 r. Hanno wdrożył samoustawiający się model wynagrodzeń wraz z procesem doradczym. Cytując założyciela Jona Lay'a: „Dopóki mamy całkowitą przejrzystość finansową, szacunek dla jednostki, wzajemną ocenę i samodyscyplinę w naszym procesie ustalania wynagrodzeń, pracownikom można ufać, że ustalą wynagrodzenie, które  odpowiada im i także ich zespołom." ^[[https://logbook.hanno.co/choose-your-own-salary/](https://hanno.co/blog/choose-your-own-salary/)]
 
 
-      #### **Process for self-setting salaries at Hanno**
+      #### **Proces samoustalania wynagrodzeń w Hanno**
 
 
-      It works roughly like this:
+      Działa mniej więcej tak:
 
 
-      * To ensure financial transparency, all salaries are published to the team (aka 'shipmates').
+      * Aby zapewnić przejrzystość finansową, wszystkie wynagrodzenia są publikowane w zespole (zwanym także „członkami załogi”).
 
-      * There is an open briefing every 3-6 months on Hanno's financial status, which advises 'shipmates' on salary direction for the coming period - advice they are at liberty to challenge or ignore.
+      * Co 3-6 miesięcy odbywa się otwarta odprawa na temat statusu finansowego Hanno, która doradza „członkom statku” w sprawie kierunku wynagrodzeń na nadchodzący okres - porady, które mogą podważyć lub zignorować.
 
-      * This is followed by rounds of feedback and discussion, before each 'shipmate' submits their proposed salary for the next 3-6 months to an Advisory Process.
+      * Po tym następują rundy opinii i dyskusji, zanim każdy "kolega ze statku” przedstawi swoje proponowane wynagrodzenie na następne 3-6 miesięcy do Procesu Doradczego.
 
-      * After further feedback and discussion, each 'shipmate' may adjust (or not) their original proposal.
+      * Po dalszych opiniach i dyskusjach, każdy z "współpracowników” może zmienić (lub nie) swoją pierwotną propozycję.
 
-      * The new salaries are then also published to the whole team.
+      * Nowe pensje są następnie publikowane także dla całego zespołu.
 
-      * A salary proposal can only be rejected if it is felt there is a genuine risk that it will harm the interests of the company.
-
-
-      #### **Drawbacks of the algorithm model at Hanno**
+      * Propozycję wynagrodzenia można odrzucić tylko wtedy, gdy istnieje rzeczywiste ryzyko, że zaszkodzi ona interesom firmy.
 
 
-      The previous algorithm-based system (based on the Buffer model) used addition/multiplication factors based on Role, Expertise, and Location, as well as a Founder component. Hanno soon found that this model was often either tricky to apply, or produced results that seemed to work against their goals.
+      #### **Wady modelu algorytmu w Hanno**
 
 
-      It was particularly difficult to adjust the weighting so that 'shipmates' were appropriately rewarded for both investing in personal growth (new skills/expertise) and delivering strategic business value (e.g. networking, business development). In addition, it proved difficult - in such a rigid model - to account for factors such as differing elements of Location, and to ensure that the company remained sufficiently attractive to 'shipmates' with dependents.
+      Poprzedni system oparty na algorytmach (oparty na modelu z firmy Buffer) wykorzystywał współczynniki dodawania/mnożenia w oparciu o Rolę, Wiedzę fachową i Lokalizację, a także składnik Założycielski. Hanno szybko odkrył, że ten model był często trudny do zastosowania lub dawał wyniki, które wydawały się działać przeciwko ich celom.
 
 
-      In addition, the Founder factor was considered unfair (even by the founder himself), especially as this role had power over the salary formula itself and was therefore somewhat immune from checks and balances.
+      Szczególnie trudno było dostosować wagę, tak aby „współpracownicy” byli odpowiednio wynagradzani zarówno za inwestowanie w rozwój osobisty (nowe umiejętności / wiedza), jak i dostarczanie strategicznej wartości biznesowej (np. nawiązywanie kontaktów, rozwój biznesu). Ponadto w tak sztywnym modelu trudno było uwzględnić takie czynniki, jak różne elementy Lokalizacji i zapewnić, że firma pozostanie wystarczająco atrakcyjna dla „współpracowników” posiadających osoby na utrzymaniu.
 
 
-      #### **Further information**
+      Ponadto czynnik Założycielski został uznany za niesprawiedliwy (nawet przez samego założyciela), zwłaszcza że rola ta miała wpływ na samą formułę wynagrodzenia i dlatego była nieco odporna na kontrole i salda.
 
 
-      Details of this journey and its further evolution are documented in Hanno's online logbook.^[Source: https://logbook.hanno.co/choose-your-own-salary/]
+      #### **Dalsze informacje**
+
+
+      Szczegóły tej podróży i jej dalszej ewolucji są udokumentowane w internetowym dzienniku Hanno.^[Source: https://logbook.hanno.co/choose-your-own-salary/]
 ---
