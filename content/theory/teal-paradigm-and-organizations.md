@@ -10,190 +10,248 @@ intro: >-
 
   >
 
-  > *The most exciting breakthroughs of the twenty-first century will not occur because of technology, but because of an expanding concept of what it means to be human.*
+  > *Los avances más emocionantes del siglo veintiuno no se producirán debido a la tecnología, sino a debido a la expansión del concepto de lo que significa ser humano.* John Naisbitt
 
   >
 
-  > John Naisbitt
+  > <!--EndFragment-->
 
 
-  The Teal paradigm refers to the next stage in the evolution of human consciousness.^\[This stage corresponds to Gebser’s “Integral,” Loevinger’s “Integrated,” Cook-Greuter’s “Construct-Aware,” Kegan’s “Inter-individual,” Torbert’s “Strategist” and “Alchemist,” Graves’ “AN,” Spiral Dynamics’ “Yellow,” Maslow’s “Self-actualization,” Wade’s “Authentic,” and others; it is often referred to as integral.] When applied to organizations, this paradigm views the organization as an independent force with its own purpose, and not merely as a vehicle for achieving management's objectives. Teal organizations are characterized by self-organization and self-management. The hierarchical "predict and control" pyramid of Orange is replaced with a decentralized structure consisting of small teams that take responsibility for their own governance and for how they interact with other parts of the organization. Assigned positions and job descriptions are replaced with a multiplicity of roles, often self-selected and fluid. People’s actions are guided not by orders from someone up the chain of command but by ‘listening’ to the organization’s purpose. Unlike the highly static nature of [Amber](../amber-paradigm-and-organizations/), [Orange](../orange-paradigm-and-organizations/) and [Green ](../green-paradigm-and-organizations/)organizations, the organizational structure in Teal is characterized by rapid change and adaptation, as adjustments are continuously made to better serve the organization's purpose.
+  <!--StartFragment-->
 
 
-  #### Teal stage of consciousness
+  El paradigma Teal se refiere a la siguiente etapa en la evolución de la conciencia humana. \[1] Cuando se aplica a las organizaciones, este paradigma ve a la organización como una fuerza independiente con un propósito propio, y no meramente como un vehículo para alcanzar los objetivos de los directores. Las organizaciones Teal se caracterizan por la auto-organización y la autogestión. La pirámide jerárquica de "predicción y control" Naranja se sustituye por una estructura descentralizada que consiste en pequeños equipos que asumen la responsabilidad de su propia gobernanza y de cómo interactúan con otras partes de la organización. La asignación de posiciones y las descripciones de puestos se sustituyen por una multiplicidad de funciones, a menudo auto-seleccionadas y fluidas. Las acciones de las personas no son guiadas por órdenes de alguien que esté en la cadena de mando, sino a través de "escuchar" el propósito de la organización. A diferencia de la naturaleza altamente estática de las organizaciones [Ámbar](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_%C3%81mbar_y_las_Organizaciones "El Paradigma Ámbar y las Organizaciones"), [Naranja](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Naranja_y_las_Organizaciones "El Paradigma Naranja y las Organizaciones") y [Verde](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Verde_y_las_Organizaciones "El Paradigma Verde y las Organizaciones"), la estructura organizativa Teal se caracteriza por un rápido cambio y adaptación, a medida que se hacen ajustes continuamente para servir mejor al propósito de la organización.
 
 
-  To understand the Teal organizational paradigm it is necessary to understand the level of human consciousness that it comes from. [Abraham Maslow](https://en.wikipedia.org/wiki/Abraham_Maslow), the pioneering psychologist, and other authors agree that the shift from Green to Teal is a particularly momentous one in the human journey — so much so that[ Clare W. Graves](https://en.wikipedia.org/wiki/Clare_W._Graves), another psychologist known for his work in developmental models, and others in his wake have used the term “first-tier” consciousness for all stages up to and including Green and the term “second-tier” for the stages starting with Teal. All “first-tier” stages consider that their worldview is the only valid one, and that all other people are dangerously mistaken.^\[To oversimplify: people who see the world differently are weaklings to be taken advantage of (Red), heretics to be brought back to the one true way (Blue), fools who don’t know how to play the game of success (Orange), or intolerant people who won’t give everyone a voice (Green). Source: Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 6912-6914). Nelson Parker. Kindle Edition.] People transitioning to Teal can accept, for the first time, that there is an evolution in consciousness, that there is a momentum in evolution towards ever more complex and refined ways of dealing with the world (hence the term “Evolutionary-Teal”).^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Location 1097-1107). Nelson Parker. Kindle Edition.]^\[ASimpler Way, by Margaret J Wheatley and Myron Kellner-Rodgers (Berrett-Koehler Publishers, 1999) is a simple but beautiful treatise on Teal consciousness in organizations.] See also[ Developmental Perspective on Organizations](../developmental-perspective-on-organizations/).
+  <!--EndFragment-->
 
 
-  ##### Taming the fears of the ego
+  <!--StartFragment-->
 
 
-  Each shift in consciousness occurs when we are able to reach a higher vantage point from which we see the world in broader perspective. Like a fish that can see water for the first time when it jumps above the surface, gaining a new perspective requires that we disidentify from something we were previously engulfed by. The shift to Conformist-Amber, for instance, happens when Impulsive-Red internalizes rules that allow it to disidentify from impulsively satisfying its needs; the shift to Achievement-Orange happens when Amber disidentifies from group norms. The shift to Evolutionary-Teal happens when we learn to disidentify from our own ego. By looking at our ego from a distance, we can suddenly see how its fears, ambitions, and desires often run our life. We can learn to minimize our need to control, to look good, to fit in. We are no longer fused with our ego, and we don’t let its fears reflexively control our lives. In the process, we make room to listen to the wisdom of other, deeper parts of ourselves.
+  **Etapa Teal de conciencia**\
 
+  \
 
-  What replaces fear? A capacity to trust the abundance of life. All wisdom traditions posit the profound truth that there are two fundamental ways to live life: from fear and scarcity or from trust and abundance. In Evolutionary-Teal, we cross the chasm and learn to decrease our need to control people and events. We come to believe that even if something unexpected happens or if we make mistakes, things will turn out all right, and when they don’t, life will have given us an opportunity to learn and grow.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Location 1108-1119). Nelson Parker. Kindle Edition.]
+  Para entender el paradigma organizacional Teal es necesario entender el nivel de conciencia humana de la cual proviene. [Abraham Maslow](https://en.wikipedia.org/wiki/Abraham_Maslow), el psicólogo pionero, y otros autores coinciden en que el cambio de Verde a Teal es particularmente importante en el viaje humano - tanto que [Clare W. Graves](https://en.wikipedia.org/wiki/Clare_W._Graves), otro psicólogo conocido por su trabajo en modelos de desarrollo y otros en su estela han utilizado el término "primer nivel" de conciencia para todas las etapas incluida la Verde y el término "segundo nivel" para las etapas que comienzan con Teal. Todas las etapas de "primer nivel" consideran que su cosmovisión es la única válida, y que todas las demás personas están peligrosamente equivocadas. \[2] La gente que transita a Teal puede aceptar, por primera vez, que hay una evolución en la conciencia, que hay un impulso en la evolución hacia maneras cada vez más complejas y refinadas de tratar con el mundo (de ahí el término "Teal Evolutivo"). \[3] \[4] Véase también [Perspectivas de Desarrollo en las Organizaciones](http://www.reinventingorganizationswiki.com/Developmental_Perspective_on_Organizations)\
 
+  \
 
-  ##### Inner rightness as compass
+  **Domar los temores del ego**\
 
+  \
 
-  When we are fused with our ego, we are driven to make decisions informed by external factors — what others will think or what outcomes can be achieved. In the Impulsive-Red perspective, a good decision is the one that gets me what I want. In Conformist-Amber, we hold decisions up to the light of conformity to social norms. Decisions beyond what one’s family, religion, or social class considers legitimate cause guilt and shame. In Achievement-Orange, effectiveness and success are the yardsticks by which decisions are made. In Pluralistic-Green, matters are judged by the criteria of belonging and harmony. In Evolutionary-Teal, we shift from external to internal yardsticks in our decision-making. We are now concerned with the question of inner rightness: Does this decision seem right? Am I being true to myself? Is this in line with who I sense I’m called to become? Am I being of service to the world?
+  Cada cambio en la conciencia ocurre cuando somos capaces de alcanzar un punto de vista más alto desde el cual vemos el mundo en una perspectiva más amplia. Como un pez que puede ver el agua por primera vez cuando salta por encima de la superficie, la obtención de una nueva perspectiva requiere que nos des-identifiquemos de algo en lo que estábamos envueltos antes. El cambio a Ámbar - Conformista, por ejemplo, sucede cuando el rojo impulsivo internaliza las reglas que le permiten des-identificarse de impulsivamente satisfacer sus necesidades; El cambio a Naranja - Logro ocurre cuando Ámbar se des-identifica de las normas del grupo. El cambio a Teal Evolutivo sucede cuando aprendemos a des-identificarnos de nuestro propio ego. Al mirar a nuestro ego desde la distancia, de repente podemos ver cómo sus miedos, ambiciones y deseos a menudo dirigen nuestra vida. Podemos aprender a minimizar nuestra necesidad de controlar, de vernos bien, de encajar. Ya no estamos fusionados con nuestro ego, y no dejamos que sus miedos reflexivamente controlen nuestras vidas. En el proceso, hacemos sitio para escuchar la sabiduría de otras partes más profundas de nosotros mismos.\
 
+  \
 
-  With fewer ego-fears, we are able to make decisions that might seem risky, where we haven’t weighed all possible outcomes, but that resonate with deep inner convictions. We develop a sensitivity for situations that don’t quite feel right, situations that demand that we speak up and take action, even in the face of opposition or with seemingly low odds of success, out of a sense of integrity and authenticity. Recognition, success, wealth, and belonging are viewed as pleasurable experiences, but also as tempting traps for the ego. In contrast with previous stages, the order is reversed: we do not pursue recognition, success, wealth, and belonging to live a good life. We pursue a life well-lived, and the consequence might just be recognition, success, wealth, and love.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Location 1121-1134). Nelson Parker. Kindle Edition.]
+  ¿Qué reemplaza al miedo? Una capacidad para confiar en la abundancia de la vida. Todas las tradiciones de la sabiduría postulan la verdad profunda de que hay dos maneras fundamentales de vivir la vida: desde el miedo y la escasez o desde la confianza y la abundancia. En Teal Evolucionario, cruzamos el abismo y aprendemos a disminuir nuestra necesidad de controlar a las personas y los eventos. Llegamos a creer que incluso si algo inesperado ocurre o si cometemos errores, las cosas saldrán bien, y cuando no suceda así, la vida nos habrá dado la oportunidad de aprender y crecer.\
 
+  \
 
-  ##### Life as a journey of unfolding
+  **La rectitud interior como brújula**\
 
+  \
 
-  In previous stages, the pursuit of love, recognition, and success shapes our lives slowly but surely to the point that we end up, in the words of poet May Sarton, “wearing other people’s faces.” In Teal, our journey toward inner rightness prompts some soul searching of who we are and what our purpose in life might be. The ultimate goal in life is not to be successful or loved, but to become the truest expression of ourselves, to live into authentic selfhood, to honor our birthright gifts and callings, and be of service to humanity and our world. In Teal, life is seen as a journey of personal and collective unfolding toward our true nature.
+  Cuando estamos fusionados con nuestro ego, nuestro impulso es tomar decisiones influenciados por factores externos: que pensarán los demás o qué logros puedo conseguir. Desde la perspectiva Roja - Impulsiva, una buena decisión es aquella que me da lo que quiero. En el Ámbar - Conformista, decidimos en conformidad con las normas sociales. Las decisiones que están más allá de aquello que nuestra familia, religión o clase social consideran una legitima causa de culpa y vergüenza. En el Naranja - logro, la efectividad y el éxito son los criterios por los que se toman las decisiones. En el Verde - Pluralista, esos criterios están relacionados con la pertenencia y la armonía. En Teal Evolucionario, hay un giro de los criterios externos a los internos en la toma de decisiones. Ahora nos interesa la cuestión de la rectitud interna: *¿Esta decisión parece correcta? ¿Estoy siendo fiel a mí mismo? ¿Está esto alineado con quién siento que estoy llamado a ser? ¿Estoy sirviendo al mundo?*\
 
+  \
 
-  This is like a Copernican revolution in an age that tells us that we can become anything we want, if we only put our mind to it. If we “go Teal”, then instead of setting goals for our life, dictating what direction it should take, we learn to let go and listen to the life that wants to be lived through us. Parker Palmer, the author, educator, and activist, writes beautifully about this perspective on life and vocation in his book *Let Your Life Speak*:
+  Con menos temores egóticos, somos capaces de tomar decisiones que parecen arriesgadas, en las que no hemos sopesado todos los resultados posibles, pero que resuenan con nuestras profundas convicciones internas. Desarrollamos una sensibilidad hacia situaciones que no nos parecen correctas, situaciones que exigen que hablemos y tomemos medidas, incluso frente a la oposición o con probabilidades aparentemente bajas de éxito, por un sentido de integridad y autenticidad. El reconocimiento, el éxito, la riqueza y la pertenencia son vistos como experiencias placenteras, pero también como tentadoras trampas para el ego. En contraste con las etapas anteriores, el orden se invierte: no perseguimos el reconocimiento, el éxito, la riqueza y la pertenencia para vivir una buena vida. Buscamos una vida bien vivida, y puede que la consecuencia sea el reconocimiento, el éxito, la riqueza y el amor. \[6]\
 
+  \
 
-  > *Behind the understanding of vocation is a truth that the ego does not want to hear because it threatens the ego’s turf: everyone has a life that is different from the “I” of daily consciousness, a life that is trying to live through the “I” who is its vessel. … It takes time and hard experience to sense the difference between the two — to sense that running beneath the surface of the experience I call my life, there is a deeper and truer life waiting to be acknowledged. ^\[Source:23 Parker Palmer, Let Your Life Speak: Listening for the Voice of Vocation (San Francisco: Jossey-Bass, 2000), 5.]*
+  En etapas anteriores, la búsqueda del amor, el reconocimiento y el éxito moldean nuestras vidas de forma lenta pero segura hasta el punto de que terminamos, en palabras del poeta May Sarton, “Por llevar puestos los rostros de otros". En el Teal, nuestro viaje hacia la rectitud interna impulsa una búsqueda introspectiva de quiénes somos y de cual es nuestro propósito en la vida. El objetivo último en la vida no es ser exitoso o amado, sino convertirse en la expresión más verdadera de nosotros mismos, vivir desde una autentica individualidad, honrar nuestras capacidades y dones con los que nacimos, y servir a la humanidad y al mundo. En el Teal, la vida se considera como un viaje de despliegue personal y colectivo hacia nuestra verdadera naturaleza.\
 
+  \
 
-  Many people transitioning to this stage take up practices like meditation, centering, martial arts, yoga, or simply walking in nature to find a quiet place that allows the inner voice of the soul to speak its truth and guidance. Individuals who live from this perspective and connect to a deeper sense of purpose can become quite fearless in pursuit of their calling. With their ego under control, they don’t fear failure as much as not trying. Clare Graves’ favorite phrase to describe someone operating from Teal was “a person who has ambition, but is not ambitious.”
+  Esto es semejante a una revolución copernicana en una época que nos dice que podemos llegar a ser cualquier cosa que queramos, si sólo ponemos nuestra mente en ella. Si vamos a "Teal", entonces en lugar de establecer metas para nuestra vida, dictando qué dirección debe tomar, aprendemos a soltar y dejar ir y a escuchar la vida que quiere ser vivida a través de nosotros. Parker Palmer, el autor, educador y activista, escribe maravillosamente acerca de esta perspectiva sobre la vida y la vocación en su libro *Let Your Life Speak*:\
 
+  \
 
-  Growing into their true nature and working toward their calling is their driving force, so much so that to others who don’t come from the same perspective, persons operating from Teal can sometimes come across as impatient with people who impede their personal growth, or with situations that don’t feel aligned with the purpose they perceive for their life.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Location 1136-1157). Nelson Parker. Kindle Edition.]
+  *Detrás del entendimiento de la vocación es una verdad que el ego no quiere oír porque amenaza el territorio del ego: cada uno tiene una vida que es diferente del "yo" de la conciencia cotidiana, una vida que trata de vivir a través del yo "Que es su recipiente. ... Se necesita tiempo y una dura experiencia para sentir la diferencia entre los dos - para sentir que bajo la superficie de la experiencia que yo llamo mi vida, hay una vida más profunda y más verdadera esperando ser reconocida*. \[7]\
 
+  \
 
-  ##### Building on strengths
+  Mucha gente que transita hacia este estadio decide practicar la meditación, las artes marciales, el yoga, o simplemente caminar por la naturaleza para encontrar un lugar silencioso que permita a la voz Interna del alma hablar desde su verdad y su guía. Los individuos que viven desde esta perspectiva y se conectan a un sentido de propósito más profundo, pueden volverse bastante intrépidos al ir tras su vocación. Con el ego bajo control, no intentarlo nos asusta más que fracasar. La frase preferida de Clare Graves para describir a alguien que actúa desde el Teal es "una persona que tiene ambición, pero no es ambiciosa."\
 
+  \
 
-  When we set goals for our life that are disconnected from our deeper selfhood, when we wear other people’s faces, we don’t stand in the strength of our selfhood. Inevitably we will find ourselves lacking and invest much energy in trying to overcome our weaknesses, or in blaming ourselves or others for not being who we think we ought to be.
+  Su fuerza motriz es crecer en dirección a su verdadera naturaleza y vocación, a tal punto que, para quienes no vienen de la misma perspectiva, las personas que actúan desde el Teal pueden parecerles impacientes con quienes impiden su crecimiento personal o con aquellas situaciones que no sienten alineadas con su propósito vital.(8)\
 
+  \
 
-  When we see our life as a journey of unfolding toward our true nature, we can look more gently and realistically at our limitations and be at peace with what we see. Life is not asking us to become anything that isn’t already seeded in us. We also tend to focus less on what is wrong or missing in people and situations around us and move our attention instead to what is there, to the beauty and the potential. We trade in judgment for compassion and appreciation.
+  **Construir sobre las fortalezas**\
 
+  \
 
-  Psychologists talk about a shift from a deficit to a strength-based paradigm. Slowly, this shift is making profound inroads in different fields, from management to education, from psychology to health care — starting with the premise that, as human beings, we are not problems waiting to be solved, but potential waiting to unfold.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Location 1158-1167). Nelson Parker. Kindle Edition.]
+  Cuando nos ponemos metas para nuestra vida que están desconectadas de nuestra Identidad más profunda, cuando llevamos puestos los rostros de otros, no estamos afianzados sobre la fortaleza de nuestra verdadera Identidad. Inevitablemente, nos encontraremos en situación de insuficiencia e invertiremos mucha energía intentando superar nuestra debilidad o culpándonos (a nosotros mismos o a otros) por no ser quienes pensamos que deberíamos ser.\
 
+  \
 
-  ##### Dealing gracefully with adversity
+  Cuando contemplamos nuestra vida como un viaje de despliegue hacia nuestra verdadera naturaleza, podemos mirar con más amabilidad y realismo nuestras limitaciones y quedar en paz con lo que vemos. La vida no nos pide transformarnos en algo que no esté ya sembrado en nosotros. Dejamos de poner el foco en aquellas cosas que no funcionan o en las carencias que vemos en los demás o en las situaciones que nos rodean y trasladamos nuestra atención a aquello que está allí, a la belleza y al potencial. Cambiamos el juicio por la compasión y la valorización.\
 
+  \
 
-  When life is seen as a journey of discovery, then we learn to deal more gracefully with the setbacks, the mistakes, and the roadblocks in our life. We can start to grasp the spiritual insight that there are no mistakes, simply experiences that point us to a deeper truth about ourselves and the world. In previous stages, life’s roadblocks (an illness, a bad boss, a difficult marriage) are seen as unfair rolls of the dice. We meet them with anger, shame, or blame, and these feelings disconnect us from others and ourselves. In Teal, obstacles are seen as life’s way to teach us about ourselves and about the world. We are ready to let go of anger, shame, and blame, which are useful shields for the ego but poor teachers for the soul. We embrace the possibility that we played a part in creating the problem, and inquire what we can learn so as to grow from it.
+  Los psicólogos hablan de un cambio desde un paradigma basado en la carencia a un paradigma basado en la fortaleza. Poco a poco, este cambio conduce a profundos avances en distintos campos; desde el management hasta la educación, desde la psicología hasta el cuidado de la salud; partiendo de la premisa de que, como seres humanos, no somos problemas que esperan ser resueltos, sino un potencial que espera desplegarse. (9)\
 
+  \
 
-  In earlier paradigms, we often convince ourselves that everything is all right until a problem has snowballed and hits us like an avalanche, forcing change into our life. Now, we tend to make frequent small adjustments, as we learn and grow from problems we encounter along the way. In previous stages, change on a personal level feels threatening. As of Evolutionary-Teal, there is often an enjoyable tension in the journey of personal growth. ^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Location 1169-1177). Nelson Parker. Kindle Edition.]
+  **Lidiar con la adversidad de manera elegante**\
 
+  \
 
-  ##### Wisdom beyond rationality
+  Cuando consideramos que la vida es un viaje de descubrimiento, aprendemos a enfrentarnos de una manera más elegante con los contratiempos, los errores y los obstáculos. Podemos comenzar a saborear la percepción espiritual de que no existen los errores, sino simplemente experiencias que nos señalan una verdad más profunda sobre nosotros mismos y el mundo. En los estadios previos, los obstáculos de la vida (una enfermedad, un mal jefe, un matrimonio difícil) se viven como una mala jugada. Nos enfrentamos a ellos con rabia, vergüenza o culpa, y estas emociones nos desconectan de los demás y de nosotros mismos. En Teal, los obstáculos se consideran la forma que la vida adopta para enseñarnos algo sobre nosotros mismos y el mundo. Estamos listos para soltar o dejar ir la rabia, la vergüenza y la culpa, que son escudos útiles para el ego, pero profesores muy pobres para el alma. Nos abrimos a la posibilidad de que quizá tuvimos algo que ver con la creación del problema, y nos preguntamos qué podemos aprender para crecer a partir de él. En los paradigmas más tempranos, solemos convencernos de que todo está bien hasta que un problema ha crecido tanto que nos golpea como una avalancha y fuerza el cambio en nuestras vidas. Ahora, tendemos a realizar ajustes pequeños y frecuentes a medida que aprendemos y crecemos con los problemas que encontramos en nuestro camino. En estadios previos, el cambio a nivel personal se percibe como algo amenazador: en el Teal-Evolutivo, la tensión que se siente en el viaje del crecimiento personal posee la cualidad del disfrute. (10)\
 
+  \
 
-  In Orange, rationality is king and rules unquestioned in the pursuit of the decision that will yield the best outcome. Any source of insight other than facts and logical reasoning is “irrational” and must be discarded. Ironically, however, Orange’s attachment to outcomes often clouds the ability to see reality clearly. Amid the stacks of information that are meant to inform complex decisions, we can fail to see information that is incongruous with our worldview or with the future our ego has projected and is attached to; often the writing was all over the wall, and yet people dismissed the clues (or didn’t dare to speak up). Teal, less attached to outcomes, can more easily accept the sometimes unpleasant truths of reality; therefore, rational thinking within Teal can be more accurately informed by data.
+  **Sabiduría en vez de racionalidad**\
 
+  \
 
-  Beyond facts and figures, cognition at this stage taps a broader range of sources to support decision making. The Orange modern-scientific perspective is wary of emotions that could cloud our ability to reason rationally, whereas Green sometimes goes to the other extreme, rejecting analytical “left brain” approaches for “right brain” feeling as a basis for decision-making. Teal is happy to tap into all the domains of knowing. There are insights to be gained from analytical approaches. There is also wisdom to be found in emotions, if we learn to inquire into their significance: Why am I angry, fearful, ambitious, or excited? What does this reveal about me or about the situation that is unfolding?
+  En el Naranja, la racionalidad es soberana y gobierna Indiscutiblemente la búsqueda de la decisión que dé el mejor resultado. Cualquier fuente de información que no sean los hechos y el razonamiento lógico es "irracional" y debe descartarse. Sin embargo, irónicamente, el apego del Naranja a los resultados suele esconder su habilidad para discernir la realidad con claridad. Perdidos entre los montones de información que supuestamente respaldan las decisiones complejas, puede que no veamos esa información incompatible con nuestra visión del mundo o con el futuro que nuestro ego proyecta y al cual se ha aferrado; a menudo la información estaba escrita en todas partes, pero la gente desestimó los indicios (o no se atrevió a hablar). El Teal, que está menos apegado a los resultados, puede aceptar con mayor facilidad las verdades a veces desagradables de la realidad; por consiguiente, el pensamiento racional del Teal puede ser informado por los datos con mayor precisión.\
 
+  \
 
-  Wisdom can be found in intuition, too. Intuition honors the complex, ambiguous, paradoxical, non-linear nature of reality; we unconsciously connect patterns in a way that our rational mind cannot. Intuition is a muscle that can be trained, just like logical thinking: when we learn to pay attention to our intuitions, to honor them, to question them for the truth and guidance they might contain, more intuitive answers will surface.
+  Más allá de los hechos y las cifras, en este estadio la cognición utiliza un rango más amplio de fuentes para respaldar sus decisiones. La perspectiva científica Naranja moderna recela de las emociones que podrían oscurecer nuestra habilidad de razonar racionalmente, en tanto el Verde a veces se va al otro extremo, rechazando los enfoques analíticos del "cerebro izquierdo" y favoreciendo el sentimiento del "cerebro derecho" como base para la toma de decisiones. El Teal prefiere acceder a todos los dominios del conocimiento. Podemos descubrir ciertas cosas usando los enfoques analíticos pero si aprendemos a investigar el significado de las emociones, nos encontramos con que en ellas también existe sabiduría: ¿Por qué estoy enojado, asustado, ambicioso o entusiasmado? ¿Qué revela esto sobre mí o sobre la situación que se despliega?\
 
+  \
 
-  Many people believe that there are answers to be found in yet deeper sources. Wisdom traditions and transpersonal psychology trust that if we don’t simply ask a question, but live a question, the universe in its abundance may give us clues to the answer in unexpected events and synchronicity or in words and images that arise in dreams and meditations. Non-ordinary states of consciousness — meditative states, contemplative states, visionary experiences, flow, peak experiences — are available at any stage of consciousness, but from Teal onward, people often take on regular practices to deepen their experience in these states and access the full spectrum of human experience.^\[Ken Wilber makes the critical distinction between stages of consciousness and states of consciousness. States refer to the ephemeral, passing type of consciousness, while stages are longer-lasting structures that people grow into. States include waking consciousness, dreaming, sleeping, altered states (induced for instance by meditation, hypnosis, psychodrama, or drugs) and peak states of mystical experience. (Wilber generally uses the categorizations of gross, subtle, causal, witnessing, and non-dual). States and stages sometimes get confused, because the language of peak experience is often similar to the language that describes the highest stages, but they are two distinct properties of consciousness (with quadrants, lines, and types being third, fourth, and fifth properties in Wilber’s integral model). Say someone has a state of peak mystical experience while generally operating from the Conformist-Amber stage: the peak state does not propel the person to bypass the Orange, Green, Teal, and subsequent stages of development to reach the top of the ladder. The person is still operating from Amber, as will be clear when he or she is again in a state of waking consciousness. Wilber and Combs have found evidence that any state can be experienced at every stage. For instance, people can take up meditative and other altered state practices at any stage. From Teal onward, there is a marked interest in taking up regular practices of non-ordinary consciousness to access the full spectrum of human experience. ^[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 6916-6927). Nelson Parker. Kindle Edition.]
+  También podemos encontrar sabiduría en la intuición. La intuición honra la naturaleza compleja, ambigua, paradójica y no lineal de la realidad; inconscientemente podemos conectar patrones de una forma en la que nuestra mente racional no puede hacerlo. La intuición es un músculo que podemos entrenar, al igual que el pensamiento lógico: cuando aprendemos a prestar atención a nuestras Intuiciones y las seguimos, a invocar la verdad y la guía que pueden contener, surgen más respuestas intuitivas.\
 
+  \
 
-  Another cognitive breakthrough is the ability to reason in paradox, transcending the simple either-or with more complex both-and thinking. Breathing in and breathing out provides an easy illustration of the difference. In either-or thinking, we see them as opposites. In both-and thinking, we view them as two elements that need each other: the more we can breathe in, the more we can breathe out. The paradox is easy to grasp for breathing in and out; it is less obvious for some of the great paradoxes of life that we only start to truly understand when we reach Teal: freedom and responsibility, solitude and community, tending to the self and tending to others.
+  Muchas personas creen que es posible encontrar respuestas en fuentes aún más profundas. Las tradiciones de sabiduría y la psicología transpersonal confían en que si en vez de limitarnos a formular una pregunta la vivimos, el universo en su abundancia podría darnos pistas de la respuesta a través de sucesos inesperados y sincronías, o a través de palabras e Imágenes que surgen en sueños y meditaciones. Los estados de conciencia no ordinarios (estados meditativos, contemplativos, experiencias visionarias, flujos, experiencias limite) están disponibles en cualquier estadio de conciencia, pero del Teal en adelante, la gente suele adoptar prácticas regulares para profundizar su experiencia en estos estados y acceder al espectro completo de la experiencia humana.(11)\
 
+  \
 
-  Put this all together — a fearless rationality and the wisdom that can be found in emotions, intuition, events, and paradoxes — and Evolutionary-Teal turns the page from the rational-reductionist worldview of Orange and the post-modern worldview of Green to a holistic approach to knowing.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Location 1179-1207). Nelson Parker. Kindle Edition.]
+  Otro avance cognitivo revolucionario es la habilidad para razonar paradójicamente, trascendiendo el simple esto o lo otro con un pensamiento más complejo de esto y lo otro. Inhalar y exhalar son un ejemplo sencillo de esta diferencia. El pensamiento "esto o lo otro", las considera acciones opuestas. El pensamiento "esto y lo otro" las ve como dos elementos que se necesitan uno al otro: mientras más podemos inhalar, más podemos exhalar. La paradoja es fácil de comprender en este caso, pero es menos obvia para algunas de las grandes paradojas de la vida que apenas empezamos a comprender al alcanzar el estadio Teal: libertad y responsabilidad, soledad y comunidad, tendencia al yo y tendencia a los otros.\
 
+  \
 
-  ##### Striving for wholeness
+  Si juntamos todo esto (una racionalidad intrépida y la sabiduría que cabe encontrar en las emociones, en la intuición, en los hechos y en las paradojas), el Teal-Evolutivo da vuelta a la página desde el punto de vista racional-reduccionista del Naranja y de la visión del mundo postmoderna del Verde hacia un enfoque holístico del conocimiento.(12)\
 
+  \
 
-  Disidentifying from the ego is one more step of liberation on the human journey. But with disidentification comes separation, and people operating at this stage often develop a keen sense of how far we have let separation fragment our lives and how much it has cost us. We have let our busy egos trump the quiet voice of our soul; many cultures often celebrate the mind and neglect the body; value the masculine above the feminine; and many of us have lost community and our innate connection with nature.
+  **Luchar por la plenitud**\
 
+  \
 
-  With this stage comes a deep yearning for wholeness — bringing together the ego and the deeper parts of the self; integrating mind, body, and soul; cultivating both the feminine and masculine parts within; being whole in relation to others; and repairing our broken relationship with life and nature. Often the shift to Teal comes with an opening to a transcendent spiritual realm and a profound sense that at some level, we are all connected and part of one big whole. After many successive steps of disidentification, as we learn to be fully independent and true to ourselves, it dawns on us that, paradoxically, we are profoundly part of everything.
+  Des-Identificarse del ego es un paso más de liberación en el recorrido humano. Pero con la des-identificación viene la separación, y la gente que actúa desde este estadio acostumbra desarrollar una aguda percepción sobre cuánto hemos permitido que fragmente nuestras vidas la separación y del costo que esto ha tenido. Hemos permitido que nuestros atareados egos silencien la suave voz de nuestra alma; en nuestra cultura, solemos celebrar la mente y descuidar el cuerpo; a menudo valoramos lo masculino sobre lo femenino; hemos perdido nuestra comunidad, nuestra conexión innata con la naturaleza.\
 
+  \
 
-  This longing for wholeness is at odds with the separation that most existing workplaces foster, albeit unconsciously — overemphasizing the ego and the rational while negating the spiritual and emotional; separating people based on the departments they work in, their rank, background, or level of performance; separating the professional from the personal; separating the organization from its competitors and the ecosystem it is embedded in.
+  Con este estadio sobreviene un profundo anhelo de plenitud, de integrar el ego y las partes más profundas del yo; de integrar la mente, el cuerpo y el alma; de cultivar tanto nuestra parte femenina como masculina; de alcanzar la plenitud en nuestra relación con los demás; y de reparar nuestra maltrecha relación con la vida y la naturaleza. A menudo, el cambio a Teal viene con la apertura a lo transcendental y a una profunda sensación de que, a cierto nivel, todos estamos conectados y formamos parte de una totalidad más grande. Tras muchos pasos sucesivos de desidentificación, a medida que aprendemos a ser independientes y fieles a nosotros mismos, caemos en la cuenta de que, paradójicamente, somos profundamente parte del todo.\
 
+  \
 
-  Vocabulary we use is often revealing: in organizations, we often speak about “work-life balance” a notion that shows how little life is left in work when we have separated ourselves from so much that truly matters. For people transitioning to Teal, these separations in the workplace often become so painful that they choose to leave organizational life for some form of self-employment, a more accommodating context to find wholeness with themselves and with others.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Location 1209-1224). Nelson Parker. Kindle Edition.]
+  Este anhelo de plenitud se contradice con la separación que se promueve (aunque sea de manera Inconsciente) en la mayoría de los lugares de trabajo: al sobreenfatlzar el ego y lo racional mientras se niega lo espiritual y lo emocional; al separar a las personas según el departamento en el que trabajan, su rango, sus antecedentes históricos o su nivel de desempeño; al separar lo profesional de lo personal; al separar a la organización de sus competidores y del ecosistema en que está inmersa.\
 
+  \
 
-  ##### Wholeness in relation to others
+  El vocabulario que usamos suele ser muy revelador: en las organizaciones, a menudo hablamos del "equilibrio vida-trabajo", una expresión que demuestra la poca vida que tenemos en el trabajo cuando nos hemos separado de todo lo que realmente importa. Para las personas que transitan hacia el Teal, estas separaciones en el trabajo suelen resultar tan dolorosas que a menudo terminan por abandonar la vida en las organizaciones y optar por alguna forma de trabajo independiente: un contexto más espacioso para encontrar la plenitud propia y con los demás. (13)\
 
+  \
 
-  In Evolutionary-Teal, we can transcend the opposites of judgment and tolerance. In earlier stages, when we disagree with other people, we often meet them in judgment, believing that we must be right and they must be wrong. Our task then is to convince, teach, fix, or dismiss them. Or we can, in the name of tolerance, the Green ideal, gloss over our differences and affirm that all truths are equally valid. In Teal, we can transcend this polarity and integrate with the higher truth of non-judgment we can examine our belief and find it to be superior in truth and yet embrace the other as a human being of fundamentally equal value.
+  **Plenitud en relación con los demás**\
 
+  \
 
-  In the absence of judgment, relationships take on a new quality. Our listening is no longer limited to gathering information so as to better convince, fix, or dismiss. We can create a shared space safe from judgment, where our deep listening helps others to find their voice and their truth, just as they help us find ours. In Orange, we broke free from the oppressive, normative communities of Amber. Now we have a chance to recreate community on new grounding, where we listen each other into selfhood and wholeness.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Location 1225-1234). Nelson Parker. Kindle Edition.]
+  En el Teal-Evolutivo podemos trascender los opuestos del juicio y la tolerancia. En los estadios previos, cuando estamos en desacuerdo con otros, a menudo nos enfrentamos a ellos desde el juicio, desde la creencia de que estamos en lo cierto y ellos equivocados. En esos casos, nuestra tarea es convencerles, enseñarles, corregirlos o desestimarlos. O bien en nombre de la tolerancia, el ideal Verde, podemos suavizar nuestras diferencias y afirmar que todas las verdades son válidas. En el Teal, podemos trascender esta polaridad e integrar con la verdad superior del no-juicio; podemos examinar nuestra creencia y llegar a la conclusión de que es superior en cuanto verdad y. aún así, acoger al otro como un ser humano de un valor fundamentalmente igual.\
 
+  \
 
-  ##### Wholeness with life and nature
+  En ausencia de juicio, las relaciones adoptan otra cualidad. Nuestra escucha ya no se limita a reunir información para convencer, corregir o desestimar. Podemos crear un espacio compartido, libre de juicio, en el que nuestra escucha profunda ayude a otros a encontrar su voz y su verdad, así como ellos nos ayudan a nosotros a encontrar la nuestra. En el Naranja, nos libramos de las comunidades opresivas y normativas del Ámbar. Ahora disponemos de la oportunidad de recrear la comunidad sobre otra base, en la que podemos alcanzar la plenitud y la individualidad a través de la escucha mutua.(14)\
 
+  \
 
-  Paradoxically, again, the more we learn to be true to our unique self, the more it dawns on us that we are just one expression of something larger, an interconnected web of life and consciousness. That realization can be elating but also painful — we now comprehend how deeply our relationship with life and nature has been broken. We strive to repair that relationship, not from a place of moral obligation, but from an inner awareness, knowing that we are not separate from but one with nature. We see the foolishness and arrogance of mankind’s stance of putting itself above the rest of life and try to find a more truthful and humble place in the midst of it. Often, rekindling our relationship with life and nature causes us to pursue a simpler life, less cluttered by possessions we thought we needed until we understood that we are rich not through the things we own, but through the relationships that nourish our soul.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Location 1235-1242). Nelson Parker. Kindle Edition.]
+  **Plenitud con la vida y la naturaleza**\
 
+  \
 
-  #### Breakthroughs and characteristics of Teal organizations
+  Paradójicamente, de nuevo, cuanto más aprendemos a ser leales a nuestro yo, único, más advertimos que sólo somos una expresión de algo más grande, una red interconectada de vida y conciencia. Esa realización puede ser fuente de alegría, pero puede también resultar dolorosa: ahora comprendemos cuan profundamente se ha quebrado nuestra relación con la vida y la naturaleza. Luchamos entonces por repararla, no ya desde un deber moral, sino desde una conciencia interna, conscientes de no estar separados de la naturaleza sino de ser uno con ella. Logramos ver la insensata y arrogante postura de la humanidad al situarse por encima del resto de la vida e intentamos encontrar un lugar más humilde y verdadero, como parte de ella. A menudo, reavivar nuestra relación con la vida y la naturaleza nos lleva a buscar una vida más simple, menos atiborrada de las posesiones que creímos necesarias, hasta que comprendimos que no somos ricos por lo que poseemos sino por las relaciones que nos alimentan el alma.(15)\
 
+  \
 
-  Like earlier organizational paradigms, Teal can be credited with bringing about certain fundamental breakthroughs in how humans collaborate:
+  **Descubrimientos Revolucionarios y características de las organizaciones Teal**\
 
+  \
 
-  ##### Teal breakthrough 1: Self-Management
+  Al igual que los paradigmas organizacionales anteriores, se puede acreditar a las organizaciones Teal la realización de ciertos avances fundamentales en la forma en que los seres humanos colaboran:\
 
+  \
 
-  Teal Organizations have found the key to operate effectively, even at a large scale, with a system based on peer relationships, without the need for either hierarchy or consensus. (See [Self-Management](../self-management/)).
+  **Descubrimiento Revolucionario Teal 1: Autogestión**\
 
+  \
 
-  ##### Teal breakthrough 2: Wholeness
+  Las organizaciones Teal han encontrado la clave para operar eficazmente, incluso a gran escala, con un sistema basado en las relaciones entre pares, sin necesidad de jerarquía ni de consenso. ([Ver Auto-Gestión](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Autogesti%C3%B3n "Autogestión")).\
 
+  \
 
-  Organizations have always been places that encourage people to show up with a narrow “professional” self and to check other parts of the self at the door. They often require us to show a masculine resolve, to display determination and strength, and to hide doubts and vulnerability. Rationality rules as king, while the emotional, intuitive, and spiritual parts of ourselves often feel unwelcome, out of place. Teal Organizations have developed a consistent set of practices that invite us to reclaim our inner wholeness and bring all of who we are to work. (See [Wholeness](../wholeness/)).
+  **Descubrimiento Revolucionario Teal 2: Plenitud**\
 
+  \
 
-  ##### Teal breakthrough 3: Evolutionary Purpose
+  Las organizaciones siempre han sido lugares que animan a la gente a presentarse con un yo "profesional" estrecho y a dejar otras partes del yo en la puerta. A menudo nos requieren mostrar una resolución masculina, mostrar determinación y fuerza, y ocultar dudas y vulnerabilidad. La racionalidad gobierna como reina, mientras que las partes emocional, intuitiva y espiritual de nosotros mismos a menudo nos sentimos incómodos, fuera de lugar. Las organizaciones Teal han desarrollado un conjunto consistente de prácticas que nos invitan a reclamar nuestra integridad interior y a traer todo lo que somos al trabajo. ([Ver plenitud](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Plenitud "Plenitud")).\
 
+  \
 
-  Teal Organizations are seen as having a life and a sense of direction of their own. Instead of trying to predict and control the future, members of the organization are invited to listen in and understand what the organization wants to become, what purpose it wants to serve. (See [Evolutionary Purpose](../evolutionary-purpose/)).
+  **Descubrimiento Revolucionario Teal 3: Propósito evolutivo**\
 
+  \
 
-  ##### Teal metaphor: organizations as living systems
+  La percepción de las organizaciones Teal es que poseen una vida y un sentido de orientación propio. En vez de a predecir y controlar el futuro, los miembros de la organización están invitados a escuchar y entender aquello en lo que la organización desea convertirse, el propósito al que quiere servir. ([ver Propósito evolutivo](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Prop%C3%B3sito_Evolutivo "Propósito Evolutivo")).
 
 
-  Teal organizations have a useful metaphor for the workplaces they aspire to create. Whereas Achievement-Orange speaks of organizations as machines and Pluralistic-Green uses the metaphor of families, Teal organizations refer to themselves as living organisms or living systems. Life, in all its evolutionary wisdom, manages ecosystems of unfathomable beauty, ever evolving toward more wholeness, complexity, and consciousness. Change in nature happens everywhere, all the time, in a self-organizing urge that comes from every cell and every organism, with no need for central command and control to give orders or pull the levers.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 1299-1303). Nelson Parker. Kindle Edition.]
+  \
 
+  **La Metáfora Teal: Las organizaciones como sistemas vivientes**\
 
-  ##### Teal organizations as "complex adaptive systems"
+  \
 
+  Los fundadores de las organizaciones Teal usan una metáfora distinta para los lugares de trabajo que aspiran crear. Muy a menudo hablan de su organización como un organismo vivo o sistema vivo. La vida, en toda su sabiduría evolutiva, maneja ecosistemas de una belleza insondable, siempre en evolución hacia una mayor plenitud, complejidad y conciencia. En la naturaleza, el cambio ocurre en todas partes todo el tiempo, con un ansia de auto-organización que proviene de cada célula y de cada organismo, sin necesidad de un mando central ni de un control que ordene ni mueva palancas.(16)\
 
-  An Evolutionary-Teal organization exhibits many properties of a [Complex Adaptive System](https://en.wikipedia.org/wiki/Complex_adaptive_system) ^\[Complex adaptive systems are self-organizing systems that shows behavior which cannot be inferred from the behavior of their elements. Melanie Mitchell in Complexity, A Guided Tour, defines a complex adaptive system as "a system in which large networks of components with no central control and simple rules of operation give rise to complex collective behavior, sophisticated information processing and adaptation via learning or evolution" (p13). Human beings are perfect examples of complex adaptive systems: The behavior of our brains, hands, feet, lungs, heart, etc., seen individually, does not indicate what our behavior will be. However, non-animate systems can also exhibit complex, adaptive behavior, for example the economy or a stock exchange. For a fuller discussion of organizations as complex adaptive systems, readers can refer to Margaret J. Wheatley, Leadership and the New Science, 3rd Ed., Berrett-Koehler Publishers, 2006 and to Elizabeth McMillan, Complexity, Management and the Dynamics of Change, Routledge, 2008. Melanie Mitchell's Complexity, A Guided Tour (Oxford University Press, 2009) is also an excellent layman's introduction to the science of complex adaptive systems.]
+  \
 
+  **Organizaciones Teal como "sistemas adaptativos complejos"**\
 
-  1. It has a purpose of its own, distinct from the purposes or objectives of its members, 
+  \
 
-  2. It consists of a number of elements (members or teams),
+  Una organización Teal - Evolutiva exhibe muchas propiedades de un [sistema adaptativo complejo](https://en.wikipedia.org/wiki/Complex_adaptive_system) \[17]
 
-  3. The elements interact, in a non-linear way, to achieve the purpose of the system,
 
-  4. The interaction and relationships between elements are based on a few simple rules or guiding principles,
+  1. Tiene un propósito propio, distinto de los propósitos o objetivos de sus miembros,
 
-  5. The nature of the relationships and number of interactions between the elements result in emergent behavior - the behavior of the system is not the sum of the behaviors of the elements,
+  2. Consiste en un número de elementos (miembros o equipos),
 
-  6. The elements produce and use signals and information (sensing) from both external and internal environments and react accordingly,
+  3. Los elementos interactúan, de manera no lineal, para lograr el propósito del sistema,
 
-  7. There is no central control,
+  4. La interacción y las relaciones entre los elementos se basan en unas pocas reglas simples o principios rectores,
 
-  8. The elements self-organize, that is, change the relationships between themselves to adapt to changes in the environment,
+  5. La naturaleza de las relaciones y el número de interacciones entre los elementos resultan en un comportamiento emergente - el comportamiento del sistema no es la suma de los comportamientos de los elementos,
 
-  9. The elements learn from history, and from the environment, and adapt accordingly to ensure the survival of the system.
+  6. Los elementos producen y usan señales e información (detección) tanto de ambientes externos como internos y reaccionan en consecuencia,
 
+  7. No hay control central,
 
-  Teal organizations are run by self-managing teams. These teams consists of workers who each fulfill certain roles, including functional and managerial duties. All decisions are made using a simple advice process and/or a conflict resolution process when appropriate. There is no centralized control. Values are no longer given perfunctory attention but are actually lived in how people behave in the organization. Everyone listens to the organization’s purpose and takes action accordingly while sensing for changes in the environment. Out of these collective actions, the behavior of the organization emerges.
+  8. Los elementos se auto organizan, es decir, cambian las relaciones entre sí para adaptarse a los cambios en el medio ambiente,
 
+  9. Los elementos aprenden de la historia, y del medio ambiente, y se adaptan en consecuencia para asegurar la supervivencia del sistema.
 
-  **Please [leave your feedback](https://docs.google.com/forms/d/e/1FAIpQLSeKJ9e_35o57wtjr5F2NrlptK1ULTCawjJqSqOxNdvQ1lWFzA/viewform?c=0&w=1) regarding the usefulness of the wiki, in order for the voluntary team to improve it over time!**
+
+  Las organizaciones Teal están dirigidas por equipos autogestionados. Estos equipos están formados por trabajadores que cumplen determinados roles, incluyendo responsabilidades funcionales y de gestión. Todas las decisiones se toman usando un simple proceso de los consejos y / o un proceso de resolución de conflictos cuando sea apropiado. No hay control centralizado. Los valores ya no reciben atención superficial, sino que en realidad se viven en la forma en que las personas se comportan en la organización. Todos escuchan el propósito de la organización y actúan en consecuencia mientras detectan cambios en el medio ambiente. De estas acciones colectivas surge el comportamiento de la organización.
+
+
+  <!--StartFragment-->
+
+
+  ¡Por favor, deje sus comentarios sobre la utilidad del wiki, para que el equipo de voluntarios pueda mejorarlo con el tiempo!
+
+
+  <!--EndFragment-->
 perspective: remove
 inPractice: remove
+relatedTheory: []
 ---
 remove
