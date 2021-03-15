@@ -153,4 +153,3 @@ relatedTheory:
   - Purchasing and Investments
   - Decision Making
 ---
-to be removed
