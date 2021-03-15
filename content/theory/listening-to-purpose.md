@@ -9,80 +9,90 @@ intro: >-
   ![](/media/listening-to-purpose.jpg)
 
 
-  As described more fully in the Background article, “Evolutionary Purpose”, one of the defining characteristics of Teal organizations is how decision-making and actions are driven by a desire to fulfill the organization’s purpose, a purpose which evolves over time and which is distinct from maximizing profits or beating the competition. If we accept that an organization has its own energy, its own sense of direction, and that its members’ roles are to align with rather than dictate that direction, the question becomes, “How do we find out where it wants to go?” As a result, a critical organizational process in Teal organizations is what is often referred to as “Listening to Purpose.”
+  <!--StartFragment-->
+
+
+  Como se describe con más detalle en el artículo de fondo, "Propósito evolutivo", una de las características definitorias de las organizaciones Teal es cómo la toma de decisiones y las acciones son impulsadas por el deseo de cumplir el propósito de la organización, un propósito que evoluciona con el tiempo y que es distinto de maximizar las ganancias o superar la competencia. Si aceptamos que una organización tiene su propia energía, su propio sentido de dirección y que los roles de sus miembros, más que dictar, deben alinearse con esa dirección, la pregunta es: "¿Cómo podemos saber hacia dónde quiere ir?". El resultado, de este proceso organizacional crítico en las organizaciones Teal es lo que a menudo se conoce como "Escuchar el Propósito”.
+
+
+  <!--EndFragment-->
 perspective: ""
 inPractice: >-
-  #### Sensing Approaches
+  <!--StartFragment-->
 
 
-  The simplest answer to finding out where an organization wants to go: do nothing special. Let self-management work its magic. There is a word that often comes up with Teal pioneers: sensing. We are all natural sensors; we are gifted to notice when something isn’t working as well as it could or when a new opportunity opens up. With self-management, everybody can be a sensor and initiate changes— just as in a living organism every cell senses its environment and can alert the organism to needed change. We cannot stop sensing. Sensing happens everywhere, all the time, but in traditional organizations, the information often gets filtered out. Only the signals sensed at the top are acted upon, but unfortunately these signals are often distorted and far removed from reality on the ground. Holacracy’s Brian Robertson uses a powerful analogy to talk about organizations filtering people’s ability to sense their environment:
+  **Enfoques de Sentir**
 
 
-  > *A transformative experience \[happened happened] for me when I nearly crashed an airplane. I was a student pilot, and shortly into a solo flight my “Low Voltage” light came on. Every other instrument was telling me “all is well,” so I ignored it, just like we do in organizational life all the time, when one lone “instrument” (a human) senses something that no one else does. Ignoring a key instrument proved to be a very bad decision when flying an airplane and helped catalyze my search for organizational approaches that didn’t suffer from the same blindness— how can an organization fully harness each of us \[as as] human instruments, without “outvoting the low-voltage light”?*^\[Laloux, Frederic (2014-02-09) Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4383-4394). Nelson Parker. Kindle Edition.]
+  ¿Cómo saber hacia donde quiere ir la organización? La respuesta es muy simple: no es necesario hacer nada en especial. Sólo permitir que funcione la magia de la autogestión. Existe una palabra que suele surgir entre los pioneros Teal: sentir. Todos somos sensores naturales; estamos dotados para darnos cuenta de cuando algo no está funcionando tan bien como podría o cuando se abre una nueva oportunidad. En la autogestión, todos pueden ser sensores e iniciar cambios, así como en un organismo vivo cada célula percibe su entorno y puede alertar al organismo del cambio que es necesario hacer. No podemos dejar de sentir. Este tipo de percepción ocurre en todas partes, todo el tiempo, pero en las organizaciones tradicionales la información suele ser filtrada. Sólo se actúa de acuerdo con las señales percibidas en lo alto, pero por desgracia éstas suelen estar distorsionadas y muy alejadas de la realidad del terreno. Brian Robertson, de Holacracy, usa una poderosa analogía para hablar de cómo las organizaciones ignoran la habilidad de la gente para percibir su entorno:
 
 
-  For an example of how this might work in practice, see “Concrete Examples for Inspiration - Buurtzorg” below.
+  *Tuve una experiencia transformadora cuando casi me estrello en un avión. Era aprendiz de piloto y poco después de despegar, en un vuelo en el que iba solo, se encendió la luz de "bajo voltaje". Todos los demás instrumentos me indicaban "está todo bien", de modo que la ignoré, como hacemos todo el tiempo en la vida de las organizaciones cuando un solo "instrumento" (un humano) percibe algo que nadie más percibe. Ignorar un instrumento crucial terminó siendo una muy mala decisión en el caso del avión, y me ayudó a catalizar mi búsqueda de enfoques organizativos que no adolecieran de la misma ceguera: ¿Cómo podría una organización aprovecharnos a todos \[como] instrumentos humanos, sin "ganarle por número de votos a la luz de bajo voltaje”?*(1)
 
 
-  Brian goes on to say, “… getting clear on purpose is more like detective work than like creative work. What you are looking for is already there, waiting to be found— it is no more a decision than your child’s purpose is. Simply ask yourself: “On the basis of our current context and the resources, talents, and capacities at our disposal, the products or services we offer, the history of the company and its market space, and so on, what’s the deepest potential it can help create or manifest in the world? Why does the world need it?”^\[Robertson, Brian J. (2015-06-02). Holacracy: The New Management System for a Rapidly Changing World (Kindle Locations 482-485). Henry Holt and Co.. Kindle Edition.]
+  Para un ejemplo de cómo esto puede funcionar en la práctica, vea "Ejemplos concretos para la inspiración - Buurtzorg" a continuación.
 
 
-  While people are naturally gifted sensors, we can increase our capacity to sense with practice. Meditative or spiritual practices, in particular, can help us distance ourselves from self-centered needs and tap into broader sources of wisdom.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4411-4413). Nelson Parker. Kindle Edition.] For an example of how this might work in practice, see “Concrete Examples for Inspiration - Sounds True” below.
+  Brian continúa diciendo, "... obtener claridad sobre el propósito es más un trabajo de detective que un trabajo creativo. Lo que estás buscando ya está ahí, esperando que lo encuentres, igual a como no decides cual es el propósito de tu hijo. Simplemente pregúntate: "Sobre la base de nuestro contexto actual y los recursos, talentos y capacidades a nuestra disposición, los productos o servicios que ofrecemos, la historia de la empresa y su espacio de mercado, etc., ¿cuál es el potencial más profundo que tiene para ayudar a crear o manifestar en el mundo? ¿Por qué el mundo necesita esta empresa? "\[2] Dado que las personas somos sensores dotados naturalmente, podemos aumentar nuestra capacidad de sentir con la práctica. Las prácticas meditativas o espirituales, en particular, pueden ayudarnos a distanciarnos de las necesidades egocéntricas y aprovechar fuentes más amplias de sabiduría. \[3] Para obtener un ejemplo de cómo esto podría funcionar en la práctica, vea "Ejemplos concretos para la inspiración - Sounds True" abajo.
 
 
-  #### The Empty Chair
+  \
+
+  **La silla vacía**
 
 
-  A simple, less esoteric practice to listen in to an organization’s purpose consists of allocating an empty chair at any meeting to represent the organization and its evolutionary purpose. Anybody participating in the meeting can, at any time, change seats, to listen to and become the voice of the organization. The empty chair can be used explicitly or as a guiding voice in our heads. Here are some questions one might tune into while sitting in that chair:
+  Una práctica sencilla y menos esotérica para escuchar el propósito de una organización consiste en incluir en cada reunión una silla vacía que represente a la organización y a su propósito evolutivo. En cualquier momento, cualquiera que participe en la reunión puede cambiar de asiento para escuchar y también para convertirse en la voz de la organización. He aquí una lista de preguntas con las cuales podríamos sintonizarnos mientras estamos sentados en esa silla:
 
 
-  • Have the decisions and the discussion served you (the organization) well?
+  • ¿Han estado a tu servicio (de la organización) las decisiones y la conversación? ¿Cómo te sientes ahora que la reunión finaliza? • ¿Qué destacas de la reunión de hoy? • ¿En qué dirección querrías ir? ¿A qué velocidad? ¿Estamos siendo lo bastante audaces? ¿Demasiado audaces? • ¿Hay alguna otra cosa que sería necesario decir o que debemos discutir?(4)
 
 
-  • How are you at the end of this meeting?
+  \
+
+  Heiligenfeld, un operador de instalaciones de salud mental en Alemania, utiliza una práctica con un efecto similar. Como parte de cada reunión, se pide a algún voluntario tomar posesión de un par de campanas de tingsha, dos pequeños platillos de mano que pueden emitir un hermoso sonido cristalino. Cada vez que la persona siente que las reglas de juego no se respetan, o que la reunión está sirviendo a los egos más que al propósito, ella puede hacer sonar los platillos. La regla es que nadie puede hablar hasta que el último sonido del platillo haya desaparecido, lo cual toma un tiempo sorprendentemente largo. Durante el silencio, los participantes deben reflexionar sobre la pregunta: "¿Estoy al servicio del tema que estamos discutiendo y de la organización?" Los colegas están ahora tan acostumbrados a esta práctica que simplemente señalan los címbalos, es todo lo que se necesita para reencauzar de nuevo la reunión.\[5]
 
 
-  • What stands out to you from today’s meeting?
+  \
+
+  **Procesos en grupos numerosos**
 
 
-  • In what direction do you want to go? At what speed? Are we being bold enough? Too bold?
+  La silla vacía puede usarse cotidianamente, incluso para tomar decisiones relativamente pequeñas. Cuando una organización se encuentra en un punto de inflexión mayor, hay varios procesos bonitos y más elaborados que pueden ayudar a que grupos numerosos de personas escuchen juntos el propósito y el sentido del rumbo de su organización. Estos procesos incluyen la 'Teoría en U", de Otto Scharmer, la "Indagación apreciativa", de David Cooperrider, “Future Search" de Marvin Weisbord y Sandra Janoff y el "Espacio abierto" de Harrison Owen. Estos procesos son no-jerárquicos y auto-organizadores. A menudo incluyen al "sistema completo" en la sala: todos los miembros de una organización, sean éstos unas pocas docenas, cientos o miles, se juntan para llevar a cabo una sesión de trabajo de uno o varios días. Se puede invitar a clientes, a socios y a proveedores para añadir su punto de vista a la indagación. Cada uno de estos procesos posee su formato particular, pero tienen una cosa en común: logran la difícil hazaña de darles voz a todos (aun cuando haya miles de personas involucradas) y al mismo tiempo canalizar estas voces hacia un resultado colectivo valioso.(6)
 
 
-  • Is there something else that needs to be said or discussed?^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4432-4437). Nelson Parker. Kindle Edition.]
+  \
+
+  **Incitación desde el exterior**
 
 
-  Heiligenfeld, an operator of mental health facilities in Germany, uses a practice with a similar effect. As part of every meeting, someone is asked to volunteer to take possession of a pair of tingsha bells, two small hand cymbals that can make a beautiful, crystal-like sound. Whenever the person feels that ground rules are not being respected, or that the meeting is serving egos more than purpose, she can make the cymbals sing. The rule is that no one can speak until the last sound of the cymbal has died out— which takes a surprisingly long time. During the silence, participants are to reflect on the question: “Am I in service to the topic we are discussing and to the organization?” Colleagues are now so used to this practice that simply reaching out to the cymbals is all it takes to get a meeting back on track.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3595-3602). Nelson Parker. Kindle Edition.]
+  Muchas personas han sentido que cuando siguen su vocación la vida parece proporcionarles todas las oportunidades en el momento adecuado. Lo mismo parece ser cierto en las organizaciones. Cuando una empresa tiene claro su propósito, el mundo exterior llama a su puerta con oportunidades. A veces parecería que no sólo la gente de dentro de la organización percibe a dónde quiere ir, sino también la de afuera.
 
 
-  #### Large Group Processes
+  Buurtzorg nos proporciona un ejemplo fascinante. A estas alturas, hay gente de todos los orígenes que se pone en contacto con Jos de Blok y con otros miembros de la organización para explorar ideas que podrían dar forma al rumbo futuro de Buurtzorg. De Blok y sus colegas aceptan estas reuniones y escuchan con la mente abierta. Cuando la conversación parece prometedora, idean experimentos y observan qué sucede. No hay comités, ni evaluaciones por etapas ni asignación de presupuestos. Realmente es así de sencillo: los diálogos o charlas se realizan y a partir de ahí las cosas evolucionan. Aquello que está destinado a suceder, sucederá.(7)
 
 
-  While the empty chair is typically used on a day-to-day basis, when an organization faces a major inflection point, there are a number of more elaborate processes that can help large groups of people to listen in jointly to their organization’s purpose and sense of direction. These processes include Otto Scharmer’s “Theory U,” David Cooperrider’s “Appreciative Inquiry,” Marvin Weisbord and Sandra Janoff’s “Future Search,” “World Café,” "Liberating Structures" and Harrison Owen’s “Open Space.”
-
-
-  These processes are non-hierarchical and self-organizing. They often bring the “whole system” into the room: all colleagues of an organization, whether a few dozen, hundreds, or thousands, come together for a working session of one or several days. Clients, partners, and suppliers can be invited to join, to add their perspective to the inquiry. Each of these processes comes with its particular format, but they have one thing in common: they achieve the unlikely feat of giving everybody a voice (even when thousands of people are involved), while at the same time channeling these voices toward a valuable collective outcome.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4445-4454). Nelson Parker. Kindle Edition.]
-
-
-  #### Outside Prompting
-
-
-  Teal organizations seem to have found that when a company is clear about its purpose, the outside world comes knocking at its door with opportunities. Sometimes it feels as if it isn’t only people inside the organization sensing where it wants to go, but people from the outside, too. At Buurtzorg for example, by now, people from all sorts of backgrounds get in touch with Jos de Blok and others in the organization to explore ideas that could shape where Buurtzorg might go next. De Blok and his colleagues accept these meetings and listen with open minds. When the discussion seems promising, they set up experiments and see what happens. There are no committees, no stage-gate processes, no set budgets. It really is that simple: discussions take place and things evolve from there. The feeling is that what is meant to happen will happen.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4470-4478). Nelson Parker. Kindle Edition.]
+  <!--EndFragment-->
 faq:
-  - question: How can we be sure the purpose is well known in the organization and
-      that the decision-making process is based on it?
-    answer: "One suggestion is to use tools like surveys or periodic group
-      discussions to address this issue. At Buurtzorg, Jos de Blok and others
-      talk about purpose all the time, but have never written down the
-      organization’s purpose in the form of a mission statement. They find that
-      keeping it oral keeps it alive and evolving and prevents it from becoming
-      constraining.^[Laloux, Frederic (2014-02-09). Reinventing Organizations: A
-      Guide to Creating Organizations Inspired by the Next Stage of Human
-      Consciousness (Kindle Locations 4352-4354). Nelson Parker. Kindle
-      Edition.]"
-  - question: Do Teal organizations then abandon the traditional process of
-      strategic planning?
-    answer: See related article "[Strategy](../strategy/)" under "Major
-      Organizational Processes".
+  - question: ¿Cómo podemos estar seguros de que el propósito sea bien conocido en
+      la organización y que el proceso de toma de decisiones se base en él?
+    answer: >-
+      <!--StartFragment-->
+
+
+      Una sugerencia es usar herramientas como encuestas o discusiones periódicas en grupo para abordar este tema. En Buurtzorg, Jos de Blok y otros hablan de propósito todo el tiempo, pero nunca han anotado el propósito de la organización en forma de declaración de misión. Ellos encuentran que mantenerlo oral lo mantiene vivo y evoluciona e impide que se convierta en restricción. \[8]
+
+
+      <!--EndFragment-->
+  - question: ¿Las organizaciones Teal abandonan entonces el proceso tradicional de
+      planificación estratégica?
+    answer: >-
+      <!--StartFragment-->
+
+
+      Ver articulo relativo “[Estrategia](http://www.reinventarlasorganizacioneswiki.com/index.php?title=La_Estrategia "La Estrategia")” dentro de “Procesos Organizativos Mayores”
+
+
+      <!--EndFragment-->
 relatedTheory:
   - Evolutionary Purpose
   - Self-Management
