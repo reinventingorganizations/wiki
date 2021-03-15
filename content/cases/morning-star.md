@@ -198,27 +198,29 @@ theory:
       have done and refine their plans^\\[Laloux, Frederic. Reinventing
       Organizations. Nelson Parker (2014), page 124, 125]."
   - topic: Compensation and incentives
-    title: Salaries are self-initiated, calibrated by the advice given by an elected
-      salary committee, and if needed, using the conflict resolution process.
+    title: Wynagrodzenia są inicjowane samodzielnie, kalibrowane na podstawie porad
+      udzielonych przez wybierany Komitet ds. Wynagrodzeń oraz, w razie
+      potrzeby, z wykorzystaniem procesu rozwiązywania konfliktów.
     content: >-
-      If you work at Morning Star, then once a year, along with all your
-      colleagues, you write a letter stating the raise in salary you believe to
-      be fair for yourself and why. In an uneventful year, you are likely to
-      stick with a cost-of-living adjustment. But if you feel you have taken on
-      more challenging roles or made special contributions, you can choose a
-      higher percentage. You back up the letter with the peer-based feedback you
-      received from your CLOU colleagues (the people with whom you concluded
-      one-on-one contracts a year earlier) and any relevant data on performance
-      indicators you are responsible for.
+      If you work at Morning Star, then once a year, along with Jeśli pracujesz
+      w Morning Star, to raz w roku, wraz ze wszystkimi współpracownikami,
+      piszesz list, w którym podasz podwyżkę wynagrodzenia, którą uważasz za
+      sprawiedliwą dla siebie i dlaczego. W roku spokojnym, prawdopodobnie
+      będziesz trzymać się korekty kosztów życia. Ale jeśli czujesz, że
+      przyjąłeś trudniejsze role lub włożyłeś specjalny wkład, możesz wybrać
+      wyższy procent. Uzupełnij pismo o opinie uzyskane od współpracowników z
+      CLOU (osób, z którymi rok wcześniej zawarłeś indywidualne umowy) oraz
+      wszelkie istotne dane dotyczące wskaźników wydajności, za które jesteś
+      odpowiedzialny.
 
 
-      You then share your letter with a handful of colleagues that were elected into a compensation committee (there is one such committee in each of the company’s four locations). The committee’s job is to review all the letters it receives, calibrate them, and provide feedback. It might tell you that you’ve been too humble about your accomplishments and that you should consider going for a bigger raise. Or it might tell you that, in comparison to your peers, the salary increase you granted yourself seems on the high side. The committee has only advisory power and cannot impose its decision, but the process to set salaries is understood to be part of Morning Star's "Gaining Agreement" process. If you choose to ignore the committee's advice for you to lower your salary raise, the committee can choose to enter into the Gaining Agreement process (a [conflict resolution process](../conflict-resolution/)) with you to create a space and time to explore in more depth where your and the committee’s assessments diverge and to help you and the committee reach agreement.
+      Następnie udostępniasz swój list garstce kolegów, którzy zostali wybrani do komitetu ds. Wynagrodzeń (po jednym takim komitecie w każdej z czterech lokalizacji firmy). Zadaniem komitetu jest przeglądanie wszystkich otrzymywanych listów, ich kalibracja i przekazywanie informacji zwrotnych. Może ci to powiedzieć, że byłeś zbyt skromny, jeśli chodzi o swoje osiągnięcia i że powinieneś rozważyć pójście na wyższą podwyżkę. Albo może ci powiedzieć, że w porównaniu z rówieśnikami podwyżka pensji, którą sobie przyznałeś, wydaje się zawyżona. Komisja ma jedynie uprawnienia doradcze i nie może narzucić swojej decyzji, ale proces ustalania wynagrodzeń jest rozumiany jako część procesu "Gaining Agreement” firmy Morning Star. Jeśli zdecydujesz się zignorować radę komitetu dotyczącą obniżenia podwyżki wynagrodzenia, komitet może zdecydować się na przystąpienie z Tobą do procesu Gaining Agreement ([proces rozwiązywania konfliktu](../conflict-resolution/)) z Tobą w celu stworzenia miejsca i czasu na bardziej szczegółowe zbadanie, gdzie różnią się oceny twoje i komitetu, i pomóc tobie i komitetowi w osiągnięciu porozumienia.
 
 
-      Morning Star’s experience is that people prove to be remarkably skillful at assessing a fair compensation for themselves. In any given year, roughly a quarter of people choose salary increases above the cost-of-living adjustment. Only a handful of people throughout the company receive feedback that they might have aimed too high. ^[Gary Hamel, “First, Let’s Fire All the Managers,” Harvard Business Review, December 2011, [http://hbr.org/2011/12/first-lets-fire-all-the-managers](https://hbr.org/2011/12/first-lets-fire-all-the-managers). and interviews Frederic Laloux at Morning Star Self-Management Institute.]
+      Z doświadczenia Morning Star wynika, że ​​ludzie okazują się niezwykle kompetentni w oszacowaniu dla siebie godziwego wynagrodzenia. W każdym roku mniej więcej jedna czwarta osób wybiera podwyżki wynagrodzeń powyżej korekty kosztów utrzymania. Tylko garstka osób w całej firmie otrzymuje informacje zwrotne, które mogły być zbyt wysokie. ^[Gary Hamel, “First, Let’s Fire All the Managers,” Harvard Business Review, December 2011, [http://hbr.org/2011/12/first-lets-fire-all-the-managers](https://hbr.org/2011/12/first-lets-fire-all-the-managers). and interviews Frederic Laloux at Morning Star Self-Management Institute.]
 
 
-      Corporate Rebels article on self-set salaries describes the compensation committee at Morning Star <https://corporate-rebels.com/self-set-salaries/>
+      Artykuł Corporate Rebels na temat samoustalania wynagrodzeń opisuje Komitet ds. Wynagrodzeń w Morning Star <https://corporate-rebels.com/self-set-salaries/>
   - topic: Purchasing and Investments
     title: Morning Star implemented a strong performance evaluation process, which
       includes a view on the effectiveness of using company resources and an
