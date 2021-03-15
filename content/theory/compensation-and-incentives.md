@@ -141,33 +141,30 @@ faq:
 
 
       Semco, brazylijska firma, którą rozsławił bestseller Ricardo Semlera, Maverick, wprowadził „dobrowolny program ryzyka” w celu zinstytucjonalizowania takich obniżek wynagrodzeń, aby chronić organizację w czasach kryzysu (na który Brazylia narażona jest przez ostatnie kilka dziesięcioleci). Pracownikom oferuje się program wynagrodzeń ryzyka. Biorą obniżkę wynagrodzenia o 25 procent, a następnie otrzymują dodatek zwiększający ich wynagrodzenie do 125 procent, jeśli firma ma dobry rok. Jeśli firma radzi sobie słabo, otrzymują tylko 75 procent swojej pensji. Ponieważ dobre lata przeważają nad złymi, umowa jest korzystna dla pracowników, którzy chcą podjąć ryzyko.
-  - question: How do these practices link with the three Teal breakthroughs?
+  - question: Jak te praktyki łączą się z trzema przełomami w Turkusie?
     answer: >-
-      #### **Self-management**
+      #### **Samozarządzanie**
 
 
-      Self-set or ranking-based salaries are a key enabler to self-management: in traditional hierarchical structures, bosses decide on the salary raises and bonuses of their subordinates; in self-managing systems, it is necessary to upgrade to peer-based compensation mechanisms.
+      Wynagrodzenia ustalane samodzielnie lub na podstawie rankingu są kluczowym czynnikiem umożliwiającym samozarządzanie: w tradycyjnych strukturach hierarchicznych szefowie decydują o podwyżkach i premiach swoich podwładnych; w systemach samozarządzających konieczna jest aktualizacja do mechanizmów kompensacji opartych na równorzędności.
 
 
-      \[And yet, self-set or ranking-based systems can also be implemented within traditional hierarchical structures. It can be a step towards ultimately replacing hierarchy with self-management. Within an organization where complete self-management isn't in the cards (for instance if the board of directors wouldn't accept that the organization let go of a pyramid structure), it can also be an important step to take some power out of the boss-subordinate relationship and create more of a team-based collaborative spirit.]
+      \[A ponadto, systemy samoustawiające się lub oparte na rankingach można również wdrażać w ramach tradycyjnych struktur hierarchicznych. Może to być krok w kierunku ostatecznego zastąpienia hierarchii samozarządzaniem. W organizacji, w której nie ma pełnego zarządzania sobą (na przykład, jeśli zarząd nie zaakceptowałby, że organizacja porzuciła strukturę piramidy), może to być również ważny krok, aby odebrać trochę władzy relacje szef-podwładny i stworzyć bardziej zespołowego ducha współpracy.]
 
 
-      #### **Wholeness**
+      #### **Pełnia**
 
 
-      When there is one boss that decides over a person's salary, it's tempting to want to please that person, to conform to their expectations, to not speak one's truth. When it's not one person, but a great number of colleagues one works with who calibrate one's salary increase, most people naturally relax into showing up more truthfully. In this way, self-set or ranking based compensation mechanisms help colleagues show up more easily from a place of wholeness.
+      Kiedy jest jeden szef, który decyduje o pensji danej osoby, kusi, by chcieć zadowolić tę osobę, dostosować się do jej oczekiwań, nie mówić prawdy. Kiedy nie jest to jedna osoba, ale duża liczba współpracowników, z którymi się pracuje, i którzy skalują podwyżkę pensji, większość ludzi zachowuje się w naturalny sposób, pokazując się bardziej prawdziwie. W ten sposób mechanizmy wynagrodzeń ustalane przez siebie lub oparte na rankingu pomagają współpracownikom łatwiej pokazywać się w pełni. 
 
 
-      They also help us take an adult stance towards compensation. Traditional boss-subordinate relationship tend to push employees to behave like children and bosses like parents. Self-set or ranking based compensation systems also do away, almost instantly, with much of the strategizing, haggling and complaining around compensation, with everyone forced to take an adult-to-adult stance. 
+      ####  **Ewolucyjny cel** 
 
 
-      #### **Evolutionary purpose**
+      \[Związek między ewolucyjnym celem a praktykami wynagrodzeń może pojawić się w czasach kryzysu. Istnieje kilka udokumentowanych przypadków samodzielnego zarządzania, w których pracownicy, w okresie poważnego spowolnienia, dobrowolnie decydują się na tymczasowe obniżenie swoich odszkodowań, aby uniknąć zwolnień. W organizacjach samozarządzających, koledzy często mają wysoki poziom wiedzy i dojrzałości finansowej i decydują się przyczynić się do ochrony miejsc pracy swoich kolegów i utrzymania zdolności organizacji do dążenia do celu przy użyciu wszystkich swoich umiejętności i zasobów.]
 
 
-      \[The link between evolutionary purpose and compensation practices can show up in times of crisis. There are several documented cases of self-managing where workers, in a severe downturn, choose voluntarily to reduce their compensations on a temporary basis to avoid lay-offs. In self-managing organizations, colleagues often often have a high level of financial knowledge and maturity, and choose to contribute to save their colleagues jobs and to maintain the organizations ability to pursue its purpose with all its skills and resources.]
-
-
-      \[Teal organizations are built on the premise that individuals are primarily motivated, after attaining basic needs, by intrinsic factors such as the pursuit of purpose. Thus, they tend not to exhibit the primacy of compensation, including added incentives, typical in Orange or even Green.]
+      \[Turkusowe organizacje opierają się na założeniu, że po zaspokojeniu podstawowych potrzeb jednostki motywują przede wszystkim czynniki wewnętrzne, takie jak dążenie do celu. W związku z tym zwykle nie wykazują prymatu rekompensat, w tym dodatkowych zachęt, typowych dla Pomarańczowego, a nawet Zielonego.]
 relatedTheory:
   - Strategy
   - Organizational Structure
