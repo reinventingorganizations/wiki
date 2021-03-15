@@ -89,23 +89,25 @@ inPractice: >-
 
   Bez wykorzystania premii i opcji na akcje nierówności wynagrodzeń są automatycznie zmniejszane, ponieważ duży udział w nierównościach płac w dzisiejszych firmach z listy Fortune 500 wynika z często ekstrawaganckich premii prezesów i opcji na akcje. Niektóre organizacje świadomie dążą też do ograniczenia nierówności w wynagrodzeniu zasadniczym. Niektóre organizacje, takie jak AES i FAVI, zastąpiły stawki godzinowe wynagrodzeniami miesięcznymi dla pracowników hali produkcyjnej, usuwając podział na pracowników fizycznych i umysłowych. Każdy otrzymuje wynagrodzenie na tych samych zasadach.
 faq:
-  - question: When salaries are self-set, how can salary inflation be prevented?
+  - question: Gdy wynagrodzenia są ustalane samodzielnie, jak można zapobiec ich
+      inflacji?
     answer: >-
-      The advice process (and if needed the conflict resolution mechanism)
-      generally prevents a situation where one individual gets a raise that
-      would be disproportionately high. But one might then ask "what prevents a
-      sort of (even unconscious) collusion whereby everyone grants themselves
-      big raises, thereby inflating the entire payroll of the organization to a
-      degree where it might hurt shareholders or even the organizations
-      purpose?" This doesn't seem to be a problem with the pioneering
-      organizations that use self-set pay. Here is how they seem to go about it.
+      Proces doradczy (i w razie potrzeby mechanizm rozwiązywania konfliktów)
+      generalnie zapobiega sytuacji, w której jedna osoba otrzyma
+      nieproporcjonalnie wysoką podwyżkę. Ktoś mógłby jednak zapytać, „co
+      zapobiega rodzajowi (nawet nieświadomej) zmowie, w ramach której każdy
+      daje sobie duże podwyżki, a tym samym zawyża całą listę płac organizacji
+      do takiego stopnia, że ​​mogłoby to zaszkodzić akcjonariuszom, a nawet
+      celom organizacji?”. Wydaje się, że nie stanowi to problemu w przypadku
+      pionierskich organizacji, które stosują samodzielnie ustalane
+      wynagrodzenie. Oto, jak oni wydają się sobie z tym radzić.
 
 
-      * In some organizations (such as Morning Star in California), everyone needs to benchmark their salaries to a market rate. They institute a rule of thumb, for example, that salaries shouldn't be higher than 110% of the industry average. They might support this with the arguments that if salaries are too high, this allows for less investment and future development, makes the organization less able to achieve its purpose or is unfair to the shareholders.
+      * W niektórych organizacjach (takich jak Morning Star w Kalifornii) każdy musi porównać swoje zarobki z rynkową stawką. Ustanawiają na przykład praktyczną zasadę, że wynagrodzenia nie powinny przekraczać 110% średniej w branży. Mogą to poprzeć argumentami, że zbyt wysokie pensje pozwalają na mniejsze inwestycje i przyszły rozwój, zmniejszają zdolność organizacji do osiągnięcia swojego celu lub są niesprawiedliwe wobec akcjonariuszy.
 
-      * Many of the organizations researched are very profitable, and pay out a lot in profit sharing (workers at FAVI typically make the equivalent of 17 or 18 months of salary this way). The idea, therefore, is to keep compensation in line with the industry, and when profits allow, top up the salary with profit sharing. This reduces the incentive to try and increase one's base salary, knowing also that in bad times, jobs are more secure if the base salaries aren't inflated.
+      * Wiele badanych organizacji jest bardzo dochodowych i dużo płaci w podziale na zyski (pracownicy FAVI zazwyczaj zarabiają w ten sposób równowartość 17 lub 18 miesięcznych pensji). Chodzi więc o to, aby wynagrodzenie było zgodne z branżą, a gdy pozwalają na to zyski, uzupełniać pensję o udział w zyskach. Zmniejsza to motywację do prób podniesienia wynagrodzenia podstawowego, wiedząc również, że w złych czasach praca jest bezpieczniejsza, jeśli pensje podstawowe nie są zawyżone.
 
-      * Some organizations (like FAVI in the north of France) find it useful to have a simple rule of thumb for the organization overall: Revenues should break down into X% for salaries, Y% for material costs, Z% for investments so that a healthy P% of profit remains. Everyone seems to accept this rule as good common sense. This is the basis for what can be shared in profit sharing. If needed, the salary advice group could share these parameters with everyone upfront, for instance in years with low profitability.
+      * Niektóre organizacje (takie jak FAVI na północy Francji) uważają, że warto mieć prostą praktyczną zasadę dla całej organizacji: przychody powinny zostać podzielone na X% w przypadku wynagrodzeń, Y% w przypadku kosztów materiałów, Z% w przypadku inwestycji, pozostaje zdrowy P% zysku. Wydaje się, że wszyscy akceptują tę zasadę jako zdrowy rozsądek. To jest podstawa tego, czym można się podzielić w podziale zysków. W razie potrzeby grupa doradców płacowych mogłaby z góry podzielić się tymi parametrami ze wszystkimi, na przykład w latach o niskiej rentowności.
   - question: Should we make all salary information transparent?
     answer: >-
       When some information is secret, it tends to generate rumors. For what
