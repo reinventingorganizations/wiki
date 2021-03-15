@@ -70,23 +70,24 @@ perspective: >-
   Podstawowymi założeniami z [Pomarańczowej perspektywy](../orange-paradigm-and-organizations/) są:
 
 
-  * The world is full of possibilities and challenges waiting to be discovered and taken up. If one is smart and works hard enough, all the benefits of high status can be had. If one does not make it, it is one's own fault.
+  * Świat jest pełen możliwości i wyzwań czekających na odkrycie i podjęcie. Jeśli ktoś jest sprytny i wystarczająco ciężko pracuje, może mieć wszystkie korzyści płynące z wysokiego statusu. Jeśli się nie udaje, to jest to jego wina.
 
-  * ***Material results and status*** are essential. What counts is the financial bottom line: the (only) real measure for success is money and material wealth. This is what ultimately motivates people.
+  * Istotne są ***wyniki i materialny status***. Liczy się wynik finansowy: (jedyną) rzeczywistą miarą sukcesu są pieniądze i bogactwo materialne. To ostatecznie motywuje ludzi.
 
-  * Truth is what works. Pragmatism is more valuable than authority. Rationality is valued above all else. Emotions, doubts, dreams, questions of meaning and purpose do not belong in the workplace. They are a distraction to achieving our goals. Being professional means keeping private life private.
+  * Prawdziwe jest to, co działa. Pragmatyzm jest cenniejszy niż autorytet. Przede wszystkim ceni się racjonalność. Emocje, wątpliwości, marzenia, pytania o sens i cel nie należą do miejsca pracy. Są przeszkodą w osiąganiu naszych celów. Bycie profesjonalistą oznacza zachowanie prywatności.
 
-  * Social acceptance is important, because one needs others to reach the own goals and acknowledge the own success. One has to wear a professional mask of success and control.
+  * Akceptacja społeczna jest ważna, ponieważ do osiągnięcia własnych celów i uznania własnego sukcesu potrzeba innych. Trzeba nosić profesjonalną maskę sukcesu i kontroli.
 
-  * Only the best in their field can and should make it to the top. Competition is everywhere and should be encouraged. To survive and thrive, one has to outsmart others and beat competition.
+  * Tylko najlepsi w swojej dziedzinie mogą i powinni dotrzeć na szczyt. Konkurencja jest wszędzie i należy ją wspierać. Aby przetrwać i prosperować, trzeba przechytrzyć innych i pokonać konkurencję.
 
-  * Innovation is a necessity for growth. Change is the only constant thing. There is no room or time to tolerate mistakes and weaknesses.
+  * Innowacja jest konieczna dla rozwoju. Zmiana jest jedyną stałą rzeczą. Nie ma miejsca ani czasu na tolerowanie błędów i słabości.
 
-  * It is important to have clear goals. Achieving the next external goal (getting the next promotion, finding a life partner, buying a new car,…) will make one happy.
+  * Ważne jest, aby mieć jasne cele. Osiągnięcie kolejnego celu zewnętrznego (kolejny awans, znalezienie partnera życiowego, zakup nowego samochodu…) uszczęśliwi.
 
-  * When people are all by themselves, nothing good will come out of it. Although they can think up to a certain point and decide on *how* they do their job, they are in need of direction. People need to be motivated by external rewards and competition to perform at their peak. Management needs to set clear goals, incentive schemes, and control. Management has to be in control.
+  * Kiedy ludzie są sami, nic dobrego z tego nie wyniknie. Chociaż mogą wymyślić do pewnego momentu i zdecydować, *jak* wykonują swoją pracę, potrzebują wskazówek. Aby osiągać szczytowe wyniki, ludzie muszą być motywowani zewnętrznymi nagrodami i konkurencją. Kierownictwo musi wyznaczyć jasne cele, schematy motywacyjne i kontrolę. Zarządzanie musi mieć kontrolę.
 
-  * (Leadership style: expert/achiever, "problem solving, strategic, outcome oriented". Metaphor: Machine.)
+
+  (Styl przywództwa: ekspert / osoba, która osiągnęła sukces, „rozwiązywanie problemów, strategiczne, zorientowane na wyniki”. Metafora: maszyna.)
 
 
   #### Zielone Organizacje
