@@ -34,11 +34,11 @@ theory:
       ##### ***Transparentność***
 
 
-      There is no transparency on salaries at Gore. If a person in the committee is being discussed, he or she will not see the data that pertains to him or her.
+      W Gore nie ma przejrzystości wynagrodzeń. Jeśli przedmiotem dyskusji jest wynagrodzenie osoby z komisji, nie zobaczy ona danych, które jej dotyczą.
 
 
-      ##### ***Incentives and profit sharing***
+      ##### ***Zachęty i podział zysków***
 
 
-      At Gore, there are no incentives or bonuses. Everybody gets shares in the company as part of profit sharing. For example, someone making £50K in salary in the UK could make an additional £5K in shares. The profit sharing is proportional to the base salary (it is calculated based on this year's salary and the salary over the last 3 years in some formula). So if your unit loses lots of money or makes lots of it, it doesn’t change profit sharing, to reinforce the “all in the same boat” mantra. ^[<http://www.managementexchange.com/story/innovation-democracy-wl-gores-original-management-model> and personal interview Frederic Laloux with Gore leader, April 2015]
+      W Gore nie ma żadnych zachęt ani premii. Każdy otrzymuje udziały w firmie w ramach udziału w zyskach. Na przykład osoba zarabiająca £50K w UK może zarobić dodatkowe £5K w akcjach. Udział w zyskach jest proporcjonalny do wynagrodzenia zasadniczego (jest obliczany na podstawie tegorocznej pensji i pensji z ostatnich 3 lat w jakiejś formule). Więc jeśli twoja jednostka straci dużo pieniędzy lub zarobi dużo, nie zmieni to podziału zysków, aby wzmocnić mantrę „wszyscy na tej samej łodzi”. ^[<http://www.managementexchange.com/story/innovation-democracy-wl-gores-original-management-model> i osobisty wywiad Frederic'a Laloux z liderem Gore, kwiecień 2015]
 ---
