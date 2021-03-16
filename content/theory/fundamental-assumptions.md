@@ -146,7 +146,7 @@ inPractice: >-
   #### Sprawdzanie podstawowych założeń w codziennych procesach
 
 
-  Współpracownicy w organizacjach Teal rutynowo sprawdzają sposób codziennych praktyk ([spotkań](../meetings/), [rozwiązywania konfliktów](../conflict-resolution/), [zespół / budowanie społeczności](../team-and-community-building/), [podejmowania decyzji](../decision-making/)) są przeprowadzane –i wyniki, które generują za pomocą [wartości](../culture-and-values/) i leżących u ich podstaw podstawowych założeń.  
+  Współpracownicy w organizacjach Teal rutynowo sprawdzają sposób przeprowadzania codziennych praktyk ([spotkań](../meetings/), [rozwiązywania konfliktów](../conflict-resolution/), [zespół / budowanie społeczności](../team-and-community-building/), [podejmowania decyzji](../decision-making/)) – i wyniki, które generują za pomocą [wartości](../culture-and-values/) i leżących u ich podstaw podstawowych założeń.  
 
 
   #### Wyartykułowanie obu zestawów założeń podczas przekształcania istniejącej organizacji
