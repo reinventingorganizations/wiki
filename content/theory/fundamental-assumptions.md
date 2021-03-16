@@ -87,7 +87,7 @@ perspective: >-
   * Kiedy ludzie są sami, nic dobrego z tego nie wyniknie. Chociaż mogą wymyślić do pewnego momentu i zdecydować, *jak* wykonują swoją pracę, potrzebują wskazówek. Aby osiągać szczytowe wyniki, ludzie muszą być motywowani zewnętrznymi nagrodami i konkurencją. Kierownictwo musi wyznaczyć jasne cele, schematy motywacyjne i kontrolę. Zarządzanie musi mieć kontrolę.
 
 
-  (Styl przywództwa: ekspert / osoba, która osiągnęła sukces, „rozwiązywanie problemów, strategiczne, zorientowane na wyniki”. Metafora: maszyna.)
+  (Styl przywództwa: ekspert / osoba, która osiągnęła sukces, „rozwiązywanie problemów, strategiczne, zorientowane na wyniki”. Metafora: Maszyna.)
 
 
   #### Zielone Organizacje
@@ -96,17 +96,18 @@ perspective: >-
   Podstawowymi założeniami z [Zielonej perspektywy ](../green-paradigm-and-organizations/)są:
 
 
-  * Materialistic obsession, social inequality and loss of community are bad. Relationships are more important than outcomes. What is essential is ***belonging and harmony***.
+  * Materialistyczna obsesja, nierówność społeczna i utrata wspólnoty są złe. Relacje są ważniejsze niż wyniki. Najważniejsze jest ***przynależność i harmonia***.
 
-  * People are essentially good. Everyone’s point of view and opinion is valuable. Conflict or competition are not the only laws of nature, co-operation is also in our genes. Shared values work better than strict rules and policies.
+  * Ludzie są zasadniczo dobrzy. Punkt widzenia i opinia każdego są cenne. Konflikt czy konkurencja to nie jedyne prawa natury, współpraca jest także w naszych genach. Wspólne wartości działają lepiej niż surowe zasady i zasady.
 
-  * Everyone has talents. Diversity leads to better results. Avoid conflict at all cost. Use bottom up processes for input and aim for consensus for decisions.
+  * Każdy ma talenty. Różnorodność prowadzi do lepszych wyników. Unikaj konfliktów za wszelką cenę. Wykorzystuj procesy oddolne jako dane wejściowe i dąż do konsensusu przy podejmowaniu decyzji.
 
-  * At work, people must be able to grow and reach their full potential. Management (HR) should create the necessary conditions. This means leaving a lot of room for discussion, for learning and mistakes. It means stimulating people to work in teams. Leadership should be in service to those being led.
+  * W pracy ludzie muszą mieć możliwość rozwoju i pełnego wykorzystania swojego potencjału. Kierownictwo (HR) powinno stworzyć niezbędne warunki. Oznacza to pozostawienie miejsca na dyskusję, naukę i błędy. To stymulowanie ludzi do pracy w zespołach. Przywództwo powinno służyć tym, którym jest kierowany.
 
-  * All people are of equal value. We are separate and many forces in society pull us apart or into inequality, so achieving deep communion between people is something we have to work for. There are multiple stakeholders - not only shareholders. They deserve equal attention. Nature, the local community and society as a whole are to be considered as stakeholders.
+  * Wszyscy ludzie mają taką samą wartość. Jesteśmy oddzieleni i wiele sił w społeczeństwie dzieli nas od siebie lub prowadzi do nierówności, więc osiągnięcie głębokiej komunii między ludźmi jest czymś, na co musimy pracować. Jest wielu interesariuszy - nie tylko akcjonariuszy. Zasługują na taką samą uwagę. Przyrodę, społeczność lokalną i całe społeczeństwo należy traktować jako interesariuszy.
 
-  * (Leadership style: catalytic/co-creative, "team oriented, collaborative, servant leadership". Metaphor: Family.)
+
+  (Styl przywództwa: katalityczny / współtwórczy, „zorientowany na zespół, oparty na współpracy, przywództwo służebne”. Metafora: Rodzina).
 
 
   #### Turkusowe Organizacje
