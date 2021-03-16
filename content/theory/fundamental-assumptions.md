@@ -116,23 +116,23 @@ perspective: >-
   Podstawowymi założeniami z Turkusowej perspektywy są:
 
 
-  * Human beings and organizations as living systems are full of potential waiting to unfold. Building on strengths is more important than focusing on weaknesses.
+  * Istoty ludzkie i organizacje jako żywe systemy są pełne potencjału czekającego na rozwój. Budowanie na mocnych stronach jest ważniejsze niż skupianie się na słabościach.
 
-  * One can ***trust*** ***the abundance of life.*** People and organizations who share the same life serving goals are allies rather than competitors.
+  * Można ***ufać*** ***dostatku życia***. Ludzie i organizacje, które mają te same cele życiowe, są raczej sojusznikami niż konkurentami.
 
-  * All of life is intrinsically interconnected. As humans and individuals, we share a place in the grand scheme of life. Having equal human value is self-evident, and does not require struggle or sameness in form or expression.
+  * Całe życie jest ze sobą nierozerwalnie związane. Jako ludzie i jednostki dzielimy miejsce w wielkim planie życia. Posiadanie równej wartości ludzkiej jest oczywiste i nie wymaga walki ani identyczności w formie lub wyrazie.
 
-  * The goal of life is ***becoming the truest expression of oneself***, to honor one's birthright and callings, and to be of service to humanity and the world. Your contribution is developing your own unique strengths and expressions, and then leading life's joy through that into this world, thereby playing your tune in the symphony of life.
+  * Celem życia jest ***stanie się najprawdziwszym wyrazem siebie***, szanowanie swojego pierworodztwa i powołania oraz służenie ludzkości i światu. Wasz wkład polega na rozwijaniu własnych unikalnych mocnych stron i ekspresji, a następnie prowadzeniu przez to radości życia do tego świata, grając w ten sposób swoją melodię w symfonii życia.
 
-  * One is not one's Ego. "Don’t let the need to look good, to be successful, to fit in,… run your life."
+  * Nie jest się swoim Ego. "Nie pozwól, by potrzeba dobrze wyglądać, odnosić sukcesy, pasować… kierować swoim życiem”.
 
-  * If one keeps the channel open, one can listen into the life that wants to be lived through oneself – or the purpose that wants to be served by the organization. Life does not need to be coerced. All we have to do is tune into what life wants to express or create and life will provide for itself what is needed. Sense and respond, rather than plan and control.
+  * Jeśli ktoś ma otwarty umysł, może wsłuchać się w życie, którym chce się żyć samemu - lub cel, któremu chce służyć organizacja. Życie nie wymaga przymusu. Wszystko, co musimy zrobić, to dostroić się do tego, co życie chce wyrazić lub stworzyć, a życie zapewni sobie to, co jest potrzebne. Raczej wyczuwaj i reaguj, niż planuj i kontroluj.
 
-  * Even if something unexpected or mistakes happen, things will turn out all right. If they don’t, life is offering an opportunity to learn and grow. Let go of fear.
+  * Nawet jeśli wydarzy się coś nieoczekiwanego lub pomyłki, wszystko ułoży się dobrze. Jeśli tego nie zrobi, życie oferuje możliwość uczenia się i rozwoju. Odpuść strach.
 
-  * A good decision is a decision that is in line with one's inner compass – it is not only based on facts and figures, but includes emotions and intuition.
+  * Dobra decyzja to taka, która jest zgodna z wewnętrznym kompasem - opiera się nie tylko na faktach i liczbach, ale zawiera emocje i intuicję.
 
-  * (Leadership style: co-creative/synergistic, "deeply empathetic, systemic, holding space for the purpose". Metaphor: Living System / Living Organism).
+  (Styl przywództwa: współtwórczy / synergistyczny, "głęboko empatyczny, systemowy, utrzymujący przestrzeń dla celu”. Metafora: Żyjący System / Żywy Organizm).
 inPractice: >-
   Many of us hold deeply ingrained assumptions about people and work that are
   based on fear, assumptions that call for hierarchy and control. Teal
