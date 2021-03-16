@@ -134,28 +134,27 @@ perspective: >-
 
   (Styl przywództwa: współtwórczy / synergistyczny, "głęboko empatyczny, systemowy, utrzymujący przestrzeń dla celu”. Metafora: Żyjący System / Żywy Organizm).
 inPractice: >-
-  Many of us hold deeply ingrained assumptions about people and work that are
-  based on fear, assumptions that call for hierarchy and control. Teal
-  organizations articulate the assumptions they hold about people and about
-  work. Only by shining light on these fear-based beliefs can we decide to
-  choose a different set of assumptions. When colleagues talk about the two sets
-  of assumptions and are reminded of them frequently, they start to shift their
-  belief system.
+  Wielu z nas ma głęboko zakorzenione założenia dotyczące ludzi i pracy, które
+  są oparte na strachu, założeniach, które wymagają hierarchii i kontroli.
+  Organizacje turkusowe formułują swoje założenia dotyczące ludzi i pracy. Tylko
+  rzucając światło na te przekonania oparte na strachu, możemy zdecydować się na
+  wybór innego zestawu założeń. Kiedy koledzy mówią o dwóch zestawach założeń i
+  często im o nich przypomina, zaczynają zmieniać swój system przekonań.
 
 
-  #### Checking with the fundamental assumptions in daily processes
+  #### Sprawdzanie podstawowych założeń w codziennych procesach
 
 
-  Colleagues in Teal organizations routinely check the way daily practices ([meetings](../meetings/), [conflict resolution](../conflict-resolution/), [team / community building](../team-and-community-building/), [decision making](../decision-making/)) are conducted – and the outcomes they generate with the [values ](../culture-and-values/)and underlying fundamental assumptions.  
+  Współpracownicy w organizacjach Teal rutynowo sprawdzają sposób codziennych praktyk ([spotkań](../meetings/), [rozwiązywania konfliktów](../conflict-resolution/), [zespół / budowanie społeczności](../team-and-community-building/), [podejmowania decyzji](../decision-making/)) są przeprowadzane –i wyniki, które generują za pomocą [wartości](../culture-and-values/) i leżących u ich podstaw podstawowych założeń.  
 
 
-  #### Articulating both sets of assumptions when transforming an existing organization
+  #### Wyartykułowanie obu zestawów założeń podczas przekształcania istniejącej organizacji
 
 
-  Most of the organizational practices chosen will be deeply counter-cultural to more conventional organizations. It is possible that people will question choices and call new assumptions foolish. Debates can be more fruitful when they don't stay at the level of arguing for or against a certain management practice, but when they take place at a deeper level, discussing the often hidden assumptions underneath the practice.
+  Większość wybranych praktyk organizacyjnych będzie głęboko kontrkulturowa z bardziej konwencjonalnymi organizacjami. Możliwe, że ludzie będą kwestionować wybory i nazywać nowe założenia głupotami. Debaty mogą być bardziej owocne, gdy nie pozostają na poziomie argumentowania za lub przeciw określonej praktyce zarządzania, ale gdy toczą się na głębszym poziomie, omawiając często ukryte założenia praktyki.
 
 
-  For example, each time when [AES](http://www.aes.com/) acquired a new power plant, the CEO would introduce AES's management practices to the new group of colleagues by asking them what assumptions owners and managers of a typical factory hold of their workers (see further: In Practice).
+  Na przykład za każdym razem, gdy [AES] (http://www.aes.com/) kupował nową elektrownię, dyrektor generalny przedstawiał nowej grupie współpracowników praktyki zarządzania AES, pytając ich, jakie są założenia właścicieli i menedżerów typowy zakład produkcyjny swoich pracowników (patrz dalej: W praktyce).
 
 
   #### Practical tips:
