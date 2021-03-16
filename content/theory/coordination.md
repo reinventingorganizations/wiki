@@ -6,116 +6,105 @@ name: Coordinación
 sortOrder: 3
 category: Structure of an organization
 intro: >-
-  The topic of coordination covers the process of organizing work and exchanging
-  knowledge across the organization.
+  <!--StartFragment-->
+
+
+  El tema de la coordinación abarca el proceso de organización del trabajo y el intercambio de conocimientos en toda la organización.
+
+
+  <!--EndFragment-->
 
 
   ![](/media/coordination.jpg)
 perspective: >-
-  In Teal organisations, the need for coordination does not go away. However,
-  the bosses, staff roles and endless meetings typically used to accomplish such
-  coordination in earlier stages are replaced by more ad hoc and organic
-  processes, including direct agreements and commitments between colleagues, ad
-  hoc meetings, conversations on internal social networks, as well as people
-  holding specific roles to support coordination. The advice process for making
-  decisions is also fundamental to coordination in Teal.
+  <!--StartFragment-->
 
 
-  #### Red Organisations[](https://reinventingorganizationswiki.com/index.php?title=Coordination&action=edit&section=2 "\<span>\<span>\</span>\<span>\<span>Red\</span>\</span>\</span> Organizations")
+  En las organizaciones Teal, la necesidad de coordinación no desaparece. Sin embargo, los jefes, las funciones de staff y las reuniones interminables típicamente utilizadas para lograr dicha coordinación en etapas anteriores se sustituyen por procesos más ad hoc y orgánicos, incluidos acuerdos directos y compromisos entre colegas, reuniones ad hoc, conversaciones sobre redes sociales internas y personas que desempeñan funciones específicas para apoyar la coordinación. El proceso de los consejos para tomar decisiones es también fundamental para la coordinación en Teal.
 
 
-  In [Red organisations ](https://reinventingorganizations-wiki.netlify.app/theory/red-organizations/)coordination happens ad hoc and is intrinsically fused with power: coordination is generally limited to the boss’s ability to enforce it.
+  Para una discusión más completa de la coordinación en organizaciones de etapas anteriores, vea a continuación:
 
 
-  #### Amber Organisations
+  **Organizaciones Rojas**\
+
+  En las [organizaciones Rojas](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_paradigma_Rojo_y_las_Organizaciones "El paradigma Rojo y las Organizaciones") la coordinación sucede ad hoc y está intrínsecamente fusionada con el poder: la coordinación generalmente está limitada a la capacidad del jefe para hacerla cumplir.
 
 
-  [Amber organisations](https://reinventingorganizations-wiki.netlify.app/theory/amber-paradigm-and-organizations/) strive for order and predictability. Coordination happens mainly through formalized processes that everyone adheres to. The static nature of Amber organisations means there is little perceived need for coordinating actions beyond already established processes.
+  **Organizaciones Ámbar**\
+
+  Las [organizaciones Ámbar](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_%C3%81mbar_y_las_Organizaciones "El Paradigma Ámbar y las Organizaciones") se esfuerzan por el orden y la previsibilidad. La coordinación se realiza principalmente a través de procesos formalizados a los que todos se adhieren. La naturaleza estática de las organizaciones Ámbar significa que hay poca necesidad percibida de coordinar las acciones más allá de los procesos ya establecidos.
 
 
-  #### Orange Organisations
+  **Organizaciones Naranja**\
+
+  Las [organizaciones naranjas](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Naranja_y_las_Organizaciones "El Paradigma Naranja y las Organizaciones") dependen de la innovación y la optimización continuas para competir. Esto significa más necesidad de coordinación entre unidades. El principal medio de coordinación son las reuniones, una estructura de toma de decisiones jerárquica y la creación de funciones de personal. Las reuniones, en particular, tratan de aprovechar la inteligencia del grupo. Hay reuniones regulares, fijas - a menudo semanales - en todos los niveles de la organización, así como numerosas reuniones de proyectos y reuniones multifuncionales sobre iniciativas específicas.
 
 
-  [Orange organisations ](https://reinventingorganizations-wiki.netlify.app/theory/orange-paradigm-and-organizations/)rely on continuous innovation and optimisation in order to compete. This means more need for coordination across units. The primary means of coordinating are meetings, a hierarchical decision-making structure and the creation of staff roles. Meetings, in particular, try to tap into the intelligence of the group. There are regular, fixed – often weekly – team meetings at every level of the organisation as well as numerous project and cross-functional meetings on specific initiatives.
+  **Organizaciones Verdes**\
+
+  En las [organizaciones Verdes](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Verde_y_las_Organizaciones "El Paradigma Verde y las Organizaciones"), la coordinación suele consumir mucho tiempo ya que la cultura en estas organizaciones tiende a ser más sensible a los sentimientos de las personas. Se gasta mucho tiempo en plantear puntos de vista potencialmente opuestos al consenso. Este enfoque igualitario puede conducir a reuniones frustrantemente largas y a una falta de toma de decisiones efectiva. Como resultado, los colegas a veces sienten la necesidad de volver a los juegos de poder tras bambalinas para hacer que las cosas se muevan.
 
 
-  #### Green Organisations
-
-
-  In [Green organisations](../green-paradigm-and-organizations/) coordination is often time consuming as the culture in these organisations tends to be more sensitive to people’s feelings. A lot of time is spent on bringing potentially opposing points of view to consensus. This egalitarian approach can lead to frustratingly long meetings and a lack of effective decision taking. As a result, colleagues sometimes feel the need to revert to power games behind the scenes to get things moving.
+  <!--EndFragment-->
 inPractice: >-
-  In a pyramid structure, meetings are needed at every level to gather, package,
-  filter, and transmit information as it flows up and down the chain of command.
-  In self-managing structures, the need for these meetings falls away almost
-  entirely. Meeting overload in traditional organizations is particularly acute
-  the higher you go up the hierarchy. The typical day of a top manager consists
-  of back-to-back meetings. The joke goes that in most organizations, people low
-  in the hierarchy work, while people higher up do meetings. In functional
-  pyramidal structures, it could hardly be otherwise. The higher you go, the
-  more lines converge. It is only at the very top that the different departments
-  such as sales, marketing, R&D, production, HR, and finance meet. Decisions are
-  naturally pushed up to the top, as it’s the only place where decisions and
-  tradeoffs can be informed from the various angles involved. It’s almost
-  deterministic: with a pyramidal shape, people at the top of organizations will
-  complain about meeting overload, while people below feel
-  disempowered.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A
-  Guide to Creating Organizations Inspired by the Next Stage of Human
-  Consciousness (Kindle Locations 1752-1759). Nelson Parker. Kindle Edition.]
+  <!--StartFragment-->
 
 
-  Teal organizations are not structured with fixed reporting lines that stack up to a pyramid, but often in small, autonomous teams. How then do colleagues coordinate actions across teams? What prevents the organization from disintegrating?
+  En una estructura piramidal, se necesitan reuniones en todos los niveles para recopilar, integrar, filtrar y transmitir información a medida que fluye hacia arriba y hacia abajo de la cadena de mando. En las estructuras autogestionadas, la necesidad de estas reuniones desaparece casi por completo. La sobrecarga de reuniones en las organizaciones tradicionales es particularmente aguda cuanto más alto se sube en la jerarquía. El día típico de un gerente superior consiste en reuniones seguidas. En broma se dice que, en la mayoría de las organizaciones, las personas de bajo nivel en la jerarquía trabajan, mientras que las personas más arriba hacen reuniones. En las estructuras piramidales funcionales, difícilmente podría ser de otra manera. Cuanto más alto vayas, más líneas convergen. Es sólo en la parte superior que los diferentes departamentos, tales como ventas, marketing, I + D, producción, recursos humanos y finanzas se encuentran. Las decisiones son naturalmente empujadas a la cima, ya que es el único lugar donde las decisiones y los compromisos pueden ser informados desde los diversos ángulos involucrados. Es casi determinista: con una forma piramidal, las personas en la parte superior de las organizaciones se quejarán de la sobrecarga de reuniones, mientras que las personas de abajo se sienten sin poder.(1)
 
 
-  Teal Organizations deal with the need for coordination in a rather simple form-follows-function manner. When a problem or an opportunity arises, an ad hoc meeting is convened. When a more permanent form of coordination is needed, a specific role might be created. For instance, in a factory, teams could create a role for sharing best practice, for making joint-purchasing happen or for dealing with payroll administration. Such roles are created in a process of reverse delegation: the teams delegate coordinating tasks to someone outside the team. This person has no power to impose decisions or rules onto the team. When coordination is no longer needed, the role disappears. None of this needs approval from above. Things happen organically. Meetings and roles in self-managing structures emerge spontaneously; they exist as long as they add value to the ecosystem.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 1810-1814). Nelson Parker. Kindle Edition.]
+  Las organizaciones Teal no están estructuradas con líneas fijas de información que se acumulan en una pirámide, sino a menudo en equipos pequeños y autónomos. ¿Cómo entonces los colegas coordinan las acciones entre los equipos? ¿Qué impide que la organización se desintegre? Las Organizaciones Teal se ocupan de la necesidad de coordinación de una manera bastante simple. Cuando surge un problema o una oportunidad, se convoca una reunión ad hoc. Cuando se necesita una forma más permanente de coordinación, se podría crear un papel específico. Por ejemplo, en una fábrica, los equipos podrían crear un papel para compartir las mejores prácticas, para hacer la compra conjunta o para hacer frente a la administración de la nómina. Dichos roles se crean en un proceso de delegación inversa: los equipos delegan tareas de coordinación a alguien fuera del equipo. Esta persona no tiene poder para imponer decisiones o reglas al equipo. Cuando la coordinación ya no es necesaria, el papel desaparece. Nada de esto necesita aprobación desde arriba. Las cosas suceden orgánicamente. Las reuniones y los roles en las estructuras autogestionadas surgen espontáneamente; Existen, siempre que agreguen valor al ecosistema. \[2]
 
 
-  #### Direct agreements and commitments
+  **Acuerdos directos y compromisos**\
+
+  La forma más simple de coordinación es simplemente un colega hablando con otro colega - sea cual sea su papel y lugar en la organización. En ausencia de estructuras jerárquicas, ningún colega está fuera de límites. Ningún superior necesita ser informado cuando un colega quiere llegar a otro colega.
 
 
-  The simplest form of coordination is simply one colleague speaking with another colleague – whatever their role and place in the organization. In the absence of hierarchical structures, no colleague is out of bounds. No superior needs to be informed when a colleague wants to reach out to another colleague.
+  **Reuniones especiales**\
+
+  Las organizaciones autogestionadas tienden a no tener reuniones fijas y recurrentes para coordinar los equipos. Las reuniones se convocan de manera ad hoc cuando alguien siente que ha surgido una necesidad.
 
 
-  #### Ad hoc meetings
+  **Redes sociales internas**\
+
+  Las herramientas de tecnología de la información, como las redes sociales internas y los repositorios de conocimientos, pueden desempeñar un papel fundamental para evitar las estructuras innecesarias y orientar el intercambio de conocimientos y la coordinación (especialmente cuando las empresas crecen y la gente se extiende por diferentes lugares).
 
 
-  Self-managing organizations tend not to have fixed, recurring meetings to coordinate across teams. Meetings are called in ad hoc fashion when someone feels that a need has arisen.
+  **Funciones específicas de coordinación (delegación inversa)**\
+
+  Cuando se necesita una forma de coordinación más permanente y expansiva, se podría crear un rol específico para ayudar a asegurar la coordinación. Por ejemplo, en una fábrica, los equipos podrían crear un rol para compartir las mejores prácticas, para hacer que las compras conjuntas ocurran o para manejar la administración de pagos. Tales roles se crean en un proceso de delegación inversa: los equipos delegan tareas de coordinación que tienen sentido que ocurren fuera del equipo, y la persona que llena el rol no tiene poder para imponer el uso de sus servicios, decisiones o reglas al equipo. Cuando la coordinación ya no es necesaria, el papel desaparece naturalmente.
 
 
-  #### Internal social networks
+  **El proceso de los consejos**\
+
+  Las organizaciones autogestionadas usan un proceso de toma de decisiones (a menudo llamado el "proceso de los consejos") que trasciende mecanismos tradicionales de arriba hacia abajo o basados en el consenso. El proceso de los consejos es un poderoso mecanismo diario para coordinar acciones en organizaciones autogestionadas. Cuando una colega se comunica con otros colegas para compartir su decisión propuesta y escucha su consejo, está en efecto creando coordinación. Cuando más tarde informa a sus colegas sobre la decisión final, la coordinación ya ha ocurrido. El proceso de los consejos está en el centro de la coordinación en las organizaciones Teal.
 
 
-  Information technology tools such as internal social networks and knowledge repositories can play a critical role in avoiding unnecessary structures and in steering knowledge exchange and coordination (especially when companies grow larger and people are spread throughout various locations).
-
-
-  #### Specific coordination roles (reverse delegation)
-
-
-  When a more permanent and expansive form of coordination is needed, a specific role might be created to help ensure the coordination. For instance, in a factory, teams could create a role for sharing best practices, for making joint purchasing happen or for dealing with pay-roll administration. Such roles are created in a process of reverse delegation: the teams delegate coordinating tasks that make sense to happen outside the team, and the person filling the role has no power to impose the use of his or her services, decisions or rules onto the team. When coordination is no longer needed, the role naturally disappears.
-
-
-  #### The Advice process
-
-
-  Self-managing organizations use a [decision making](../decision-making/) processes (often called the "advice process") that transcends more traditional top-down or consensus-based mechanisms. The advice process is a powerful, daily mechanism to coordinate actions in self-managing organizations. When a colleague reaches out to other colleagues to share her proposed decision and listens to their advice, she is in effect creating coordination. When she later informs colleagues about the final decision, coordination has already happened. The advice process is at the heart of coordination in Teal organizations.
+  <!--EndFragment-->
 faq:
-  - question: How do these practices link with the three Teal breakthroughs?
+  - question: ¿Cómo se relacionan estas prácticas con los tres avances Teal?
     answer: >-
-      #### Self-management
+      <!--StartFragment-->
 
 
-      Since coordination is largely organic and voluntary rather than imposed through hierarchy, these practices support the Teal breakthrough of self-management.
+      **Autogestión**\
+
+      Dado que la coordinación es en gran medida orgánica y voluntaria en lugar de impuesta a través de la jerarquía, estas prácticas soportan el avance revolucionario Teal de la autogestión.
 
 
-      #### Wholeness
+      **Integridad**\
+
+      Del mismo modo, ya que la coordinación bajo Teal es voluntaria, cualquier individuo es libre de promover la coordinación de esfuerzos de una manera que él o ella vea la forma de llenarla con sus talentos e intereses.
 
 
-      Similarly, since coordination under Teal is voluntary, any individual is free to promote coordination of efforts in a way that he or she sees fit and that meshes with his or her talents and interests.
+      **Propósito evolutivo**\
+
+      El enfoque Teal de la coordinación permite que una organización funcione como un sistema vivo con su propio sentido de dirección. Los empleados están coordinados ya que todas sus acciones se guían escuchando el propósito de la organización. La confianza en la inteligencia colectiva del sistema elimina, en muchos casos, la necesidad de un plan maestro.
 
 
-      #### Evolutionary purpose
-
-
-      The Teal approach to coordination allows an organization to function as a living system with its own sense for direction. Employees are coordinated as all their actions are guided by listening to the organization’s purpose. Trust in the collective intelligence of the system does away, in many cases, with the need for a master plan.
+      <!--EndFragment-->
 relatedTheory:
   - Meetings
   - Project teams and task forces
