@@ -132,6 +132,7 @@ perspective: >-
 
   * Dobra decyzja to taka, która jest zgodna z wewnętrznym kompasem - opiera się nie tylko na faktach i liczbach, ale zawiera emocje i intuicję.
 
+
   (Styl przywództwa: współtwórczy / synergistyczny, "głęboko empatyczny, systemowy, utrzymujący przestrzeń dla celu”. Metafora: Żyjący System / Żywy Organizm).
 inPractice: >-
   Wielu z nas ma głęboko zakorzenione założenia dotyczące ludzi i pracy, które
