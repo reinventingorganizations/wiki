@@ -302,29 +302,28 @@ inPractice: >-
 
   * Na dłuższą metę nie ma kompromisów między celem a zyskami. Jeśli skupimy się na celu (przyczynie), zysk (skutek) nastąpi.
 faq:
-  - question: What's the difference between making explicit the fundamental
-      assumptions and formulating new ones – and the traditional exercise on
-      values?
-    answer: "The traditional values document is often a rather disappointing
-      instrument for cultural change. If there is a perceivable difference
-      between theory and practice, between the official policy and experienced
-      reality. A value document will most likely be irrelevant as a change
-      driver. This is because the traditional exercise that produces it does not
-      question the underlying fundamental assumptions which shape the structure
-      and culture of the organization, and the behavior that goes with it. (It
-      is like the fish not knowing the water because it is all around it.)\r
-
-      \r\n"
-  - question: Why should I bother to make these assumptions explicit?
+  - question: Jaka jest różnica między jawnym określaniem podstawowych założeń i
+      formułowaniem nowych - a tradycyjnym ćwiczeniem wartości?
+    answer: Dokument dotyczący tradycyjnych wartości jest często raczej
+      rozczarowującym instrumentem zmiany kulturowej. Jeśli istnieje
+      dostrzegalna różnica między teorią a praktyką, między oficjalną polityką a
+      doświadczoną rzeczywistością. Dokument wartościowy najprawdopodobniej nie
+      będzie miał znaczenia jako czynnik powodujący zmianę. Dzieje się tak,
+      ponieważ tradycyjne ćwiczenie, które je tworzy, nie kwestionuje
+      podstawowych fundamentalnych założeń, które kształtują strukturę i kulturę
+      organizacji, oraz związane z nią zachowanie. (To tak, jakby ryba nie znała
+      wody, ponieważ jest wokół niej.)
+  - question: Dlaczego miałbym zawracać sobie głowę przedstawieniem tych założeń w
+      sposób wyraźny?
     answer: >-
-      Consider these three reasons to do so:
+      Rozważ te trzy powody, aby to zrobić:
 
 
-      1. It makes it easier to explain why you've chosen to use operating practices that defy conventional management.
+      1. Ułatwia wyjaśnienie, dlaczego zdecydowałeś się zastosować praktyki operacyjne, które przeczą konwencjonalnemu zarządzaniu.
 
-      2. The assumptions can serve as touchstones for every new practice or process you consider introducing.
+      2. Założenia mogą służyć jako probierz dla każdej nowej praktyki lub procesu, który rozważasz wprowadzić.
 
-      3. Explicit assumptions make it easier for anybody in the organization, even the most junior colleague, to speak up and say: "I wonder if what we are doing is in line with our basic assumptions".
+      3. Jasne założenia ułatwiają każdemu w organizacji, nawet najmłodszemu koledze, zabranie głosu i powiedzenie: "Zastanawiam się, czy to, co robimy, jest zgodne z naszymi podstawowymi założeniami”.
 relatedTheory:
   - Culture and Values
 ---
