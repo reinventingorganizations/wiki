@@ -20,9 +20,6 @@ perspective: >-
   <!--StartFragment-->
 
 
-  **Una nueva perspectiva**
-
-
   La composición del consejo en una organización Teal es crucial, dice Frederic Laloux. Advierte que, al adoptar un enfoque Teal, "los únicos factores que hacen o quebrantan son la cosmovisión que tienen los principales dirigentes y los propietarios/consejos de administración de la organización". \[1]
 
 
@@ -55,9 +52,6 @@ perspective: >-
   <!--EndFragment-->
 inPractice: >-
   <!--StartFragment-->
-
-
-  **En la Práctica**
 
 
   **El consejo necesita adoptar la mentalidad Teal.**
