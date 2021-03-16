@@ -155,7 +155,7 @@ inPractice: >-
   Większość wybranych praktyk organizacyjnych będzie głęboko kontrkulturowa z bardziej konwencjonalnymi organizacjami. Możliwe, że ludzie będą kwestionować wybory i nazywać nowe założenia głupotami. Debaty mogą być bardziej owocne, gdy nie pozostają na poziomie argumentowania za lub przeciw określonej praktyce zarządzania, ale gdy toczą się na głębszym poziomie, omawiając często ukryte założenia praktyki.
 
 
-  Na przykład za każdym razem, gdy [AES] (http://www.aes.com/) kupował nową elektrownię, dyrektor generalny przedstawiał nowej grupie współpracowników praktyki zarządzania AES, pytając ich, jakie są założenia właścicieli i menedżerów typowy zakład produkcyjny swoich pracowników (patrz dalej: W praktyce).
+  Na przykład za każdym razem, gdy [AES](http://www.aes.com/) kupował nową elektrownię, dyrektor generalny przedstawiał nowej grupie współpracowników praktyki zarządzania AES, pytając ich, jakie są założenia właścicieli i menedżerów typowy zakład produkcyjny swoich pracowników (patrz dalej: W praktyce).
 
 
   #### Praktyczne wskazówki:
@@ -195,7 +195,7 @@ inPractice: >-
 
   * Każdy z nas jest w stanie poradzić sobie z trudnymi i drażliwymi wiadomościami.
 
-  * Wierzymy w siłę zbiorowej inteligencji. Nikt nie jest tak mądry jak wszyscy. Dlatego wszystkie decyzje będą podejmowane w ramach "[procesu doradczego] (../decision-making/)".
+  * Wierzymy w siłę zbiorowej inteligencji. Nikt nie jest tak mądry jak wszyscy. Dlatego wszystkie decyzje będą podejmowane w ramach "[procesu doradczego](../decision-making/)".
 
 
   ##### *Odpowiedzialność i rozliczalność*
