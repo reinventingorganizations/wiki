@@ -5,34 +5,33 @@ key: Meetings
 name: Spotkania
 sortOrder: 2
 category: Daily practices
-intro: >-
-  The topic of meetings discusses when, how and for what purpose meetings are
-  organized.
-
+intro: |-
+  Temat spotkań dotyczy tego, kiedy, jak i w jakim celu są organizowane.
 
   ![](/media/meetings-2.jpg)
 perspective: >-
-  Meetings serve different purposes depending on the stage of the organization.
-  The number of meetings held typically grows as organizations develop, peaking
-  at the Green stage. The volume of meetings held declines at the Teal stage.
+  Spotkania służą różnym celom w zależności od etapu organizacji. Liczba
+  organizowanych spotkań zazwyczaj rośnie wraz z rozwojem organizacji, osiągając
+  szczyt na etapie Zielonym. Liczba odbywających się spotkań spada na etapie
+  Turkusowym.
 
 
-  Members of Teal organizations tend to feel more connected to each other and the work, and need fewer meetings to plan or resolve issues.
+  Członkowie organizacji Turkusu zwykle czują się bardziej związani ze sobą i z pracą i potrzebują mniej spotkań, aby zaplanować lub rozwiązać problemy.
 
 
-  ### Red organizations
+  ### Czerwone organizacje
 
 
-  In [Red organizations](../red-organizations/), meetings are held when the Chief or Boss feels they are necessary. They might be held to make announcements, pass judgements or to conduct ceremonies. Sometimes they are held, to seek counsel or gather information.
+  W [Czerwonych organizacjach](../red-organizations/), spotkania odbywają się, gdy Szef uzna je za konieczne. Mogą być zwoływane w celu ogłaszania informacji, wydawania wyroków lub przeprowadzania ceremonii. Czasami są zwoływane, aby zasięgnąć porady lub zebrać informacje.
 
 
-  ### Amber organizations
+  ### Bursztynowe organizacje
 
 
-  In [Amber organizations](https://reinventingorganizations-wiki.netlify.app/theory/amber-paradigm-and-organizations/), meetings are an important method of hierarchical control. They are used to gather, distill, and pass information up and down the organization. The highest-ranking person is in charge. It is incumbent on the others to be prepared to report information or provide answers as required.  
+  W [Bursztynowych organizacjach](https://reinventingorganizations-wiki.netlify.app/theory/amber-paradigm-and-organizations/), spotkania są ważną metodą kontroli hierarchicznej. Służą do zbierania, destylowania i przekazywania informacji w górę i w dół organizacji. Kieruje nimi osoba zajmująca najwyższe pozycje w rankingu. Na pozostałych spoczywa obowiązek przygotowania się do zgłaszania informacji lub udzielania odpowiedzi w razie potrzeby.  
 
 
-  ### Orange organizations
+  ### Pomarańczowe organizacje
 
 
   [Orange organizations](https://reinventingorganizations-wiki.netlify.app/theory/orange-paradigm-and-organizations/) manage performance carefully to ensure that targets and goals are achieved. This requires regular (weekly/monthly/quarterly/annual) meetings at most levels in the organization.
