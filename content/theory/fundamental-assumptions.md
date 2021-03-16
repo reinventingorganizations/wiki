@@ -157,150 +157,150 @@ inPractice: >-
   Na przykład za każdym razem, gdy [AES] (http://www.aes.com/) kupował nową elektrownię, dyrektor generalny przedstawiał nowej grupie współpracowników praktyki zarządzania AES, pytając ich, jakie są założenia właścicieli i menedżerów typowy zakład produkcyjny swoich pracowników (patrz dalej: W praktyce).
 
 
-  #### Practical tips:
+  #### Praktyczne wskazówki:
 
 
-  1. Start by uncovering the unspoken assumptions behind the traditional hierarchical organizational (Amber/Orange) model.
+  1. Zacznij od odkrycia niewypowiedzianych założeń stojących za tradycyjnym hierarchicznym modelem organizacyjnym (Bursztynowy/ Pomarańczowy).
 
-  2. Don't do it alone - explore it together with your team.
+  2. Nie rób tego sam - eksploruj to razem ze swoim zespołem.
 
 
-  #### Discussing the fundamental assumptions when starting up a teal organization
+  #### Omówienie podstawowych założeń podczas zakładania organizacji turkusowej
 
 
-  When starting up a Teal organization, choosing the right co-founders is a critical decision. If the organization is to run on Evolutionary-Teal principles, the founders' readiness to embrace Teal ways of operating are crucial. Be ready to spend a significant amount of time discussing these topics - including the fundamental assumptions on people and work. You are shaping the culture of your organization before it has even started.  
+  Podczas zakładania organizacji Turkusu wybór odpowiednich współzałożycieli jest decyzją krytyczną. Jeśli organizacja ma działać na zasadach ewolucyjno-turkusowych, gotowość założycieli do przyjęcia metod działania Turkusu jest kluczowa. Przygotuj się na spędzenie dużej ilości czasu na omawianiu tych tematów - w tym podstawowych założeń dotyczących ludzi i pracy. Kształtujesz kulturę swojej organizacji, zanim jeszcze się zaczęła.  
 
 
-  #### Self-management
+  #### Samozarządzanie
 
 
-  To operate effectively – even at a large scale – with a system based on peer relationships, without the need for either hierarchy nor consensus, one relies on the following Teal principles. They in turn are based on the fundamental assumptions of Teal:
+  Aby skutecznie działać - nawet na dużą skalę - z systemem opartym na relacjach partnerskich, bez potrzeby hierarchii ani konsensusu, należy polegać na następujących zasadach Turkusu. One z kolei opierają się na fundamentalnych założeniach Turkusu:
 
 
-  ##### *Trust*
+  ##### *Zaufanie*
 
 
-  * We relate to one another with an assumption of positive intent.
+  * Podchodzimy do siebie nawzajem z założeniem pozytywnych intencji.
 
-  * Until we are proven wrong, trusting co-workers is our default means of engagement.
+  * Dopóki nie udowodnimy, że się mylimy, zaufanie współpracownikom jest naszym domyślnym sposobem zaangażowania.
 
-  * Freedom and accountability are two sides of the same coin.
+  * Wolność i odpowiedzialność to dwie strony tego samego medalu.
 
 
-  ##### *Information and decision making*
+  ##### *Informacje i podejmowanie decyzji*
 
 
-  * All business information is open to all.
+  * Wszystkie informacje biznesowe są dostępne dla wszystkich.
 
-  * Every one of us is able to handle difficult and sensitive news.
+  * Każdy z nas jest w stanie poradzić sobie z trudnymi i drażliwymi wiadomościami.
 
-  * We believe in the power of collective intelligence. Nobody is as smart as everybody. Therefore all decisions will be made with the "[advice process](../decision-making/)".
+  * Wierzymy w siłę zbiorowej inteligencji. Nikt nie jest tak mądry jak wszyscy. Dlatego wszystkie decyzje będą podejmowane w ramach "[procesu doradczego] (../decision-making/)".
 
 
-  ##### *Responsibility and accountability*
+  ##### *Odpowiedzialność i rozliczalność*
 
 
-  * We each have full responsibility for the organization. If we sense that something needs to happen, we have a duty to address it. it's not acceptable to limit our concern to the remit of roles.
+  * Każdy z nas ponosi pełną odpowiedzialność za organizację. Jeśli czujemy, że coś musi się wydarzyć, mamy obowiązek się tym zająć. niedopuszczalne jest ograniczanie naszej troski do zakresu ról.
 
-  * Everyone must be comfortable with holding others accountable to their commitments through feedback and respectful confrontation.
+  * Każdy musi czuć się komfortowo z pociąganiem innych do odpowiedzialności za swoje zobowiązania poprzez informacje zwrotne i pełną szacunku konfrontację.
 
 
-  #### Wholeness
+  #### Pełnia
 
 
-  To bring your whole self to work, to be able to be whole in your relationship with others and with life and nature, you build on the following assumptions:
+  Aby zmusić siebie do pracy, aby móc być integralnym w relacjach z innymi oraz z życiem i naturą, opierasz się na następujących założeniach:
 
 
-  ##### *Equal worth*
+  ##### *Taka sama wartość*
 
 
-  * We are all of fundamental equal worth.
+  * Wszyscy mamy fundamentalną równą wartość.
 
-  * At the same time, our community will be richest if we let all members contribute in their distinctive way. We appreciate the differences in roles, education, backgrounds, interests, skills, characters and points of view.
+  * Jednocześnie nasza społeczność będzie najbogatsza, jeśli pozwolimy wszystkim członkom wnosić swój własny wkład. Doceniamy różnice w rolach, wykształceniu, pochodzeniu, zainteresowaniach, umiejętnościach, charakterach i punktach widzenia.
 
 
-  ##### *Safe and caring workplace*
+  ##### *Bezpieczne i opiekuńcze miejsce pracy*
 
 
-  * Any situation can be approached from fear and separation or from love and connection. We choose love and connection.
+  * Do każdej sytuacji można podejść z pozycji strachu i odseparowania lub z miłością i poczuciem więzi. Wybieramy miłość i więź.
 
-  * We strive to create emotionally and spiritually safe environments, where each of us can behave authentically.
+  * Staramy się tworzyć środowiska bezpieczne emocjonalnie i duchowo, w których każdy z nas może zachowywać się autentycznie.
 
-  * We honor the moods of love, care, appreciation, recognition, gratitude, curiosity, fun, playfulness…
+  * Szanujemy nastroje miłości, troski, uznania, uznania, wdzięczności, ciekawości, zabawy, żartobliwości…
 
-  * We are comfortable with vocabulary like care, love, service, purpose, soul,... in the workplace.
+  * Słownictwo takie jak troska, miłość, służba, cel, dusza, ... w miejscu pracy jest dla nas komfortowe.
 
 
-  ##### *Overcoming separation*
+  ##### *Pokonywanie separacji*
 
 
-  * We aim to have a workplace where we can honor all parts of us: the cognitive, the physical, emotional and spiritual; the rational and the intuitive, the feminine and the masculine.
+  * Naszym celem jest stworzenie miejsca pracy, w którym możemy szanować wszystkie części nas: poznawczą, fizyczną, emocjonalną i duchową; racjonalny i intuicyjny, kobiecy i męski.
 
-  * We recognize that we are all deeply interconnected, part of something bigger and that includes nature and all forms of life.
+  * Zdajemy sobie sprawę, że wszyscy jesteśmy głęboko połączeni, częścią czegoś większego, co obejmuje naturę i wszystkie formy życia.
 
 
-  ##### *Learning*
+  ##### *Uczenie się*
 
 
-  * Every problem is an invitation to learn and grow. We will always be learners. We have never arrived.
+  * Każdy problem jest zaproszeniem do nauki i rozwoju. Zawsze będziemy się uczyć. To się nigdy nie skończy.
 
-  * Failure is always a possibility, if we strive boldly for our purpose. We discuss failures openly and learn from them. Hiding or neglecting to learn from failure is not acceptable.
+  * Porażka jest zawsze możliwa, jeśli odważnie dążymy do naszego celu. Otwarcie rozmawiamy o porażkach i uczymy się na nich. Ukrywanie się lub zaniedbywanie uczenia się na błędach jest niedopuszczalne.
 
-  * Feedback and respectful confrontation are gifts we share to help one another grow.
+  * Informacje zwrotne i pełna szacunku konfrontacja to prezenty, które wspólnie dzielimy, aby pomagać sobie nawzajem w rozwoju.
 
-  * We focus on strengths more than weaknesses, on opportunities more than problems.
+  * Skupiamy się bardziej na mocnych stronach niż słabych, na szansach bardziej niż na problemach.
 
 
-  ##### *Relationships and conflict*
+  ##### *Relacje i konflikty*
 
 
-  * It's impossible to change other people. We can only change ourselves.
+  * Nie można zmienić innych ludzi. Możemy zmienić tylko siebie.
 
-  * Every person has life lessons they are meant to learn by themselves. What we can do is be there to support each other in that process of personal change.
+  * Każda osoba ma lekcje życia, których ma się nauczyć samodzielnie. To, co możemy zrobić, to wspierać się nawzajem w procesie osobistej zmiany.
 
-  * We take ownership for our thoughts, beliefs, words and actions.
+  * Przejmujemy odpowiedzialność za nasze myśli, przekonania, słowa i czyny.
 
-  * We don't spread rumors. We don't talk behind someone's back.
+  * Nie rozpowszechniamy plotek. Nie rozmawiamy za czyimś plecami.
 
-  * We resolve disagreements one-on-one and don't drag other people into the problem.
+  * Rozwiązujemy nieporozumienia jeden na jeden i nie wciągamy innych osób w problem.
 
-  * We don't blame problems on others. When we feel like blaming, we take it as an invitation to reflect on how we might be part of the problem (and the solution).
+  * Nie obwiniamy innych za problemy. Kiedy mamy ochotę się winić, traktujemy to jako zaproszenie do zastanowienia się, w jaki sposób możemy być częścią problemu (i rozwiązania).
 
 
-  #### Evolutionary purpose
+  #### Ewolucyjny cel
 
 
-  To see the organization as having a life of its own, with a purpose of its own, is based on trust in the abundance of life and the ability to distance yourself from your ego:
+  Postrzeganie organizacji jako mającej własne życie, z własnym celem, opiera się na zaufaniu do dostatku życia i zdolności do dystansowania się od swojego ego:
 
 
-  ##### *Collective purpose*
+  ##### *Cel zbiorowy*
 
 
-  * We view the organization as having a soul, a creative impulse and purpose of its own.
+  * Postrzegamy organizację jako mającą duszę, twórczy impuls i własny cel.
 
-  * We try to listen in to where the organization wants to go and beware of forcing direction onto it.
+  * Staramy się wsłuchiwać w to, dokąd organizacja chce iść, i wystrzegać się narzucania jej kierunku.
 
 
-  ##### *Individual purpose*
+  ##### *Cel indywidualny*
 
 
-  * We have a duty to ourselves and to the organization to inquire into our personal sense of calling to see if and how it resonates with the organization's purpose.
+  * Mamy obowiązek wobec siebie i organizacji zbadać nasze osobiste poczucie powołania, aby zobaczyć, czy i jak współgra z celem organizacji.
 
-  * We try to imbue our roles with our souls, not our egos.
+  * Staramy się napełniać nasze role duszami, a nie ego.
 
 
-  ##### *Planning the future*
+  ##### *Planowanie przyszłości*
 
 
-  * Trying to predict the future is futile. We make forecasts only when a specific decision requires us to do so.
+  * Próba przewidzenia przyszłości jest daremna. Prognozujemy tylko wtedy, gdy wymaga tego konkretna decyzja.
 
-  * Everything will unfold with more grace if we stop trying to control and instead choose to simply sense and respond.
+  * Wszystko rozwinie się z większą gracją, jeśli przestaniemy próbować kontrolować, a zamiast tego zdecydujemy się po prostu wyczuć i zareagować.
 
 
-  ##### *Profit*
+  ##### *Zysk*
 
 
-  * In the long run, there are no trade-offs between purpose and profits. If we focus on purpose (cause), the profit (effect) will follow.
+  * Na dłuższą metę nie ma kompromisów między celem a zyskami. Jeśli skupimy się na celu (przyczynie), zysk (skutek) nastąpi.
 faq:
   - question: What's the difference between making explicit the fundamental
       assumptions and formulating new ones – and the traditional exercise on
