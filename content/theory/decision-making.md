@@ -6,329 +6,348 @@ name: Toma de Decisiones
 sortOrder: 3
 category: Daily practices
 intro: >-
-  The topic of decision-making discusses how decisions are made within
-  organizations, and by whom. In Teal organizations, decision-making authority
-  is truly distributed throughout the organization.
+  <!--StartFragment-->
+
+
+  El tema de la toma de decisiones discute cómo se toman las decisiones dentro de las organizaciones y por quién. En las organizaciones Teal, la autoridad para tomar decisiones está verdaderamente distribuida en toda la organización.
+
+
+  <!--EndFragment-->
 
 
   ![](/media/decision.jpg)
 perspective: >-
-  In [Teal organizations](../teal-paradigm-and-organizations/) decision-making
-  is highly distributed. Front-line individuals or teams have the opportunity to
-  make decisions that affect their work. While these decisions may not need to
-  be validated by a hierarchy or consensus, it is expected that experts, and
-  those affected, should be involved.
+  <!--StartFragment-->
 
 
-  Every historical stage has given birth to a distinct perspective on decision making and to very different practices. In earlier periods, decisions may have been made at the top. Today, some organizations consciously try to "empower" people at the bottom. 
+  En las organizaciones Teal, la toma de decisiones está altamente distribuida. Los individuos o equipos de primera línea tienen la oportunidad de tomar decisiones que afectan su trabajo. Si bien es posible que estas decisiones no necesiten ser validadas por una jerarquía o un consenso, se espera que los expertos y los afectados estén involucrados.\
+
+  \
+
+  Cada etapa histórica ha dado nacimiento a una perspectiva distinta sobre la toma de decisiones y prácticas muy diferentes. En períodos anteriores, las decisiones pueden haber sido tomadas en la parte superior. Hoy en día, algunas organizaciones tratan conscientemente de "empoderar" a la gente en la base.\
+
+  \
+
+  **Organizaciones Rojas**\
+
+  En el [paradigma Rojo](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_paradigma_Rojo_y_las_Organizaciones "El paradigma Rojo y las Organizaciones"), las decisiones de cualquier consecuencia son tomadas por el jefe / director. Los empleados deben solicitar su aprobación, o corren el riesgo de consecuencias graves. Las organizaciones Rojas pueden ser eficientes, pero el control, ejercido a través del miedo, limita la disposición de los miembros a tomar decisiones por si mismos.\
+
+  \
+
+  **Organizaciones Ámbar**\
+
+  En el [paradigma Ámbar](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_%C3%81mbar_y_las_Organizaciones "El Paradigma Ámbar y las Organizaciones"), la autoridad de decisión está determinada por el estatus del individuo en la jerarquía. La innovación no es particularmente valorada; mientras que seguir los procedimientos operativos estándar si lo es. Una cadena de mando clara apoyada por procesos formales define quién puede hacer qué. Se espera que los individuos adopten estos procesos y tradiciones.\
+
+  \
+
+  **Organizaciones Naranja**\
+
+  En el[paradigma Naranja](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Naranja_y_las_Organizaciones "El Paradigma Naranja y las Organizaciones"), las organizaciones son vistas como máquinas que necesitan ser "afinadas" para la eficiencia. La alta gerencia anuncia la dirección o la estrategia y luego los objetivos caen en cascada. Los gerentes elaboran planes para conseguir sus objetivos que deben ser aprobados. Estos planes guían la toma de decisiones hacia el logro de metas-por ejemplo, ganancias y cuota de mercado. Se invita a los miembros del equipo a sugerir iniciativas y participar en el proceso de toma de decisiones. Esto fomenta la innovación y el debate. Los objetivos primordiales son la previsibilidad y el control.\
+
+  \
+
+  **Organizaciones Verdes**\
+
+  Las [organizaciones Verdes](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Verde_y_las_Organizaciones "El Paradigma Verde y las Organizaciones") impulsadas por los valores y dirigidas por objetivos se esfuerzan por servir a múltiples partes interesadas (Stakeholders). A los empleados de primera línea, por ejemplo, a menudo se les anima a tomar decisiones importantes sin mayores aprobaciones en el interés de servir a los clientes y a la comunidad de interesados . Están en contacto con los problemas del día a día y confían en idear mejores soluciones que los 'expertos' que pueden estar lejos. El énfasis está en mantener una cultura fuerte, a menudo "familiar". El consenso es altamente valorado.\
+
+  \
+
+  **Organizaciones Teal**\
+
+  En el [Teal - Evolutivo](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones"), hay un cambio de los criterios externos a los internos en la toma de decisiones. La gente ahora está preocupada con la cuestión de la rectitud interior: ¿esta decisión parece correcta? ¿Estoy siendo fiel a mí mismo? ¿Está en línea con quién siento que soy? ¿Estoy sirviendo al mundo? Con menos temores del ego, la gente es capaz de tomar decisiones que pueden parecer riesgosas. No todos los resultados posibles pueden haber sido sopesados, pero la decisión resuena con profundas convicciones internas. Las personas desarrollan una sensibilidad para situaciones que no sienten bien, y situaciones que exigen que hablen y actúen, incluso frente a la oposición o con probabilidades aparentemente bajas de éxito. Esto nace de un sentido de integridad y autenticidad.
 
 
-  #### Red organizations
-
-
-  In the[ Red paradigm](../red-organizations/), decisions of any consequence are made by the boss/chief. Employees must seek his or her approval, or risk severe consequences. Red organizations can be efficient, but control, exercised through fear, limits the willingness of members to make independent decisions.
-
-
-  #### Amber organizations
-
-
-  In the [Amber paradigm](../amber-paradigm-and-organizations/), decision-making authority is determined by an individual’s status in the hierarchy. Innovation is not particularly valued; following standard operating procedures is. A clear chain of command supported by formal processes defines who can do what. Individuals are expected to embrace these processes and traditions.
-
-
-  #### Orange organizations
-
-
-  In the [Orange paradigm](../orange-paradigm-and-organizations/), organizations are viewed as machines that need to be 'tuned' for efficiency. Top management announces the overall direction or strategy and then objectives cascade down. Managers draw up plans for approval based on their objectives. These plans guide decision-making toward the achievement of goals—for example, profit and market share. Team members are invited to suggest initiatives and participate in the decision-making process. This encourages innovation and debate. The overriding aims are predictability and control.
-
-
-  #### Green organizations
-
-
-  Values-driven, purpose-led [Green organizations](../green-paradigm-and-organizations/) strive to serve multiple stakeholders. Front-line employees, for example, are often encouraged to make significant decisions without higher approvals in the interests of serving customers and the wider stakeholder community. They are in touch with the day-to-day issues, and trusted to devise better solutions than ‘experts’ who may be far away. Emphasis is on maintaining a strong, often “familial”, culture. Consensus is highly valued.
-
-
-  #### Teal organizations
-
-
-  In Evolutionary-Teal, there is a shift from external to internal yardsticks in decision-making. People are now concerned with the question of inner rightness: does this decision seem right? Am I being true to myself? Is this in line with who I sense I am? Am I being of service to the world? With fewer ego-fears, people are able to make decisions that might seem risky. All the possible outcomes may not have been weighed up, but the decision resonates with deep inner convictions. People develop a sensitivity for situations that don’t quite feel right, and situations that demand that they speak up and take action, even in the face of opposition or with seemingly low odds of success. This is born out of a sense of integrity and authenticity.
+  <!--EndFragment-->
 inPractice: >-
-  ### The advice process
+  <!--StartFragment-->
 
 
-  Almost all [Teal organizations](../teal-paradigm-and-organizations/) use, in one form or another, what an early practitioner ([AES](http://www.aes.com/)) called the “advice process.” 
+  **El proceso de los consejos**
 
 
-  It comes in many forms, but the essence is consistent: any person can make any decision after seeking advice from 1) everyone who will be meaningfully affected, and 2) people with expertise in the matter.
+  Casi todas las [organizaciones Teal](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones") utilizan, de una forma u otra, lo que una empresa pionera ([AES](http://www.aes.com/home/default.aspx)) llamó el "proceso de los consejos".\
 
+  Tiene muchas formas, pero la esencia es la misma: cualquier persona puede tomar cualquier decisión después de buscar el consejo de 1) todos los que serán afectados significativamente, y 2) las personas con experiencia en el asunto.
 
-  Advice received must be taken into consideration. The point is not to create a watered-down compromise that accommodates everybody’s wishes. It is about accessing collective wisdom in pursuit of a sound decision. With all the advice and perspectives the decision maker has received, they choose what they believe to be the best course of action.
 
+  Los consejos recibidos deben tenerse en cuenta. El punto no es crear un compromiso diluido que acomode los deseos de todos. Se trata de acceder a la sabiduría colectiva en pos de una decisión correcta. Con todos los consejos y perspectivas que ha recibido el tomador de decisiones, elige lo que cree que es el mejor curso de acción.
 
-  Advice is simply advice. No colleague, whatever their importance, can tell a decision-maker what to decide. Usually, the decision-maker is the person who first noticed the issue, or the person most affected by it. 
 
+  El consejo es simplemente consejo. Ningún colega, por importante que sea, puede decirle a un decisor qué decidir. Por lo general, el tomador de decisiones es la persona que primero notó el problema, o la persona más afectada por él.\
 
-  In practice, this process proves remarkably effective. It allows anybody to seize the initiative. Power is no longer a zero-sum game. Everyone is powerful via the advice process.
+  En la práctica, este proceso resulta notablemente eficaz. Permite a cualquiera aprovechar la iniciativa. El poder ya no es un juego de suma cero. Todo el mundo es poderoso a través del proceso de los consejos.\
 
+  \
 
-  #### It's not consensus
+  **No es consenso**\
 
+  A menudo imaginamos que las decisiones se pueden tomar de dos maneras: o por la persona con autoridad (alguien dispara, algunas personas pueden quedar frustradas, pero al menos las cosas se hacen), o por acuerdo unánime (todo el mundo expresa su opinión, pero puede ser desesperadamente lento).
 
-  We often imagine decisions can be made in only two ways: either by the person with authority (someone calls the shots; some people might be frustrated; but at least things get done), or by unanimous agreement (everyone gets a say, but it can be frustratingly slow).
 
+  Es un malentendido el que las decisiones de autogestión se toman haciendo que todos estén de acuerdo, o incluso involucrar a todos en la decisión. El solicitante de los consejos debe tener en cuenta todos los consejos pertinentes, pero al final es quien toma la decisión.
 
-  It is a misunderstanding that self-management decisions are made by getting everyone to agree, or even involving everyone in the decision. The advice seeker must take all relevant advice into consideration, but can still make the decision. 
 
+  El consenso puede sonar atractivo, pero no siempre resulta efectivo dar poder de veto a todos. En el proceso de los consejos, el poder y la responsabilidad recaen en el tomador de decisiones. Ergo, no hay poder para bloquear.
 
-  Consensus may sound appealing, but it's not always most effective to give everybody veto power. In the advice process, power and responsibility rest with the decision-maker. Ergo, there is no power to block.
 
+  La propiedad de la cuestión permanece claramente en una persona: el tomador de decisiones. Convencida de que tomó la mejor decisión posible, puede ver las cosas con entusiasmo, y ella puede aceptar la responsabilidad por cualquier error.
 
-  Ownership of the issue stays clearly with one person: the decision maker. Convinced she made the best possible decision, she can see things through with enthusiasm, and she can accept responsibility for any mistakes.
 
+  El proceso de los consejos, entonces, trasciende la toma de decisiones de arriba hacia abajo y la toma de decisiones basada en el consenso.\
 
-  The advice process, then, transcends both top-down *and* consensus-based decision making.
+  \
 
+  **Beneficios del proceso de los consejos**\
 
-  #### Benefits of the advice process
+  El proceso de los consejos permite que la autogestión florezca. Dennis Bakke, quien introdujo la práctica en AES (y quien escribió dos libros sobre ella), destaca algunos beneficios importantes: crear comunidad, humildad, aprendizaje, mejores decisiones y diversión.
 
 
-  The advice process allows self-management to flourish. Dennis Bakke, who introduced the practice at AES (and who wrote two books about it), highlights some important benefits: creating community, humility, learning, better decisions, and fun.
+  * **Comunidad**: atrae a la gente, cuyo consejo buscamos en la cuestión que nos ocupa. Ellos aprenden sobre el tema. El intercambio de información refuerza el sentimiento de comunidad. La persona cuyo consejo solicitamos se siente honrada y necesaria.
 
+  * **Humildad:** pedir consejo es un acto de humildad, que es una de las características más importantes de un lugar de trabajo divertido. El acto por sí solo dice: "te necesito." El tomador de decisiones y el asesor son empujados hacia una relación más estrecha, lo que hace casi imposible que el tomador de decisiones ignore el consejo.
 
-  * **Community**: it draws people, whose advice is sought into the question at hand. They learn about the issue. The sharing of information reinforces the feeling of community. The person whose advice is sought feels honored and needed.
+  * **Aprender:** tomar decisiones implica aprender en el trabajo. El consejo proviene de personas que tienen una comprensión de la situación y se preocupan por el resultado. Ninguna otra forma de educación o formación puede igualar esta experiencia en tiempo real.
 
-  * **Humility**: asking for advice is an act of humility, which is one of the most important characteristics of a fun workplace. The act alone says, "I need you“. The decision maker and the adviser are pushed into a closer relationship. This makes it nearly impossible for the decision-maker to ignore the advice.
+  * **Mejores decisiones:** las posibilidades de alcanzar la mejor decisión son mayores que en los enfoques convencionales de arriba hacia abajo. El tomador de decisiones tiene la ventaja de estar más cerca de la cuestión y tiene que vivir con la responsabilidad de las consecuencias de la decisión. El asesoramiento proporciona aportes diversos, descubriendo temas importantes y nuevas perspectivas.
 
-  * **Learning**: making decisions is on-the-job education. Advice comes from people who have an understanding of the situation and care about the outcome. No other form of education or training can match this real-time experience.
+  * **Diversión**: el proceso es simplemente divertido para el tomador de decisiones, porque refleja la alegría que se encuentra en los deportes de equipo. El proceso de los consejos estimula la iniciativa y la creatividad, que se refuerzan con la sabiduría de personas conocedoras de otras partes de la organización.
 
-  * **Better decisions**: chances of reaching the best decision are greater than under conventional top-down approaches. The decision maker has the advantage of being closer to the issue and has to live with responsibility for the consequences of the decision. Advice provides diverse input, uncovering important issues and new perspectives.
 
-  * **Fun**: the process is just plain fun for the decision-maker, because it mirrors the joy found in playing team sports. The advice process stimulates initiative and creativity, which are enhanced by the wisdom from knowledgeable people elsewhere in the organization.
+  \
 
+  **Pasos del proceso de los consejos**
 
-  #### Steps in the advice process
 
+  Hay varios pasos en el proceso de los consejos:
 
-  There are a number of steps in the advice process:
 
+  * Alguien nota un problema o una oportunidad y toma la iniciativa, o alerta a alguien mejor situado para hacerlo.
 
-  * Someone notices a problem or opportunity and takes the initiative, or alerts someone better placed to do so.
+  * Antes de hacer una propuesta, el encargado de la toma de decisiones puede buscar información para analizar las perspectivas antes de proponer la acción.
 
-  * Prior to a proposal, the decision-maker may seek input to sound out perspectives before proposing action. 
+  * El iniciador hace una propuesta y busca consejo de los afectados o de aquellos con experiencia.
 
-  * The initiator makes a proposal and seeks advice from those affected or those with expertise. 
+  * Teniendo en cuenta este consejo, el tomador de decisiones decide sobre una acción e informa a aquellos que le han dado consejos.
 
-  * Taking this advice into account, the decision-maker decides on an action and informs those who have given advice.
 
+  \
 
-  #### Forms the advice process can take
+  \
 
+  **Formas que puede tomar el proceso de los consejos**\
 
-  Because the advice process involves taking advice from those affected by a decision, it naturally follows that the bigger the decision, the wider the net needs to be cast - including, if these roles exist, the CEO or board.
+  Debido a que el proceso de los consejos implica tomar el consejo de los afectados por una decisión, naturalmente sigue que cuanto mayor es la decisión, más amplia debe ser la red - incluyendo, si estos roles existen, el CEO o junta directiva.
 
 
-  For minor decisions, there may be no need to seek advice. For larger decisions, advice can come through various channels, including one-on-one conversations, meetings, or online communication. 
+  Para decisiones menores, puede que no haya necesidad de buscar consejo. Para decisiones más amplias, el asesoramiento puede venir a través de varios canales, incluyendo conversaciones uno-a-uno, reuniones o comunicación en línea.\
 
+  Algunas organizaciones tienen tipos específicos de reuniones para apoyar el proceso de los consejos, o siguen métodos formales. (Véase Buurtzorg y Holacracy a continuación). Algunas organizaciones eligen tener círculos compuestos de colegas representativos que pasan por el proceso de los consejos en nombre de toda la organización.
 
-  Some organizations have specific types of meetings to support the advice process, or follow formal methods. (See Buurtzorg and Holacracy below). Some organizations choose to have circles made up of representative colleagues who go through the advice process on behalf of the whole organization.
 
+  Cuando las decisiones afectan a grandes números, o las personas no pueden asistir físicamente, el proceso puede realizarse a través de Internet.
 
-  When decisions affect large numbers, or people who cannot meet physically, the process can happen via the internet.
 
+  * El encargado de la toma de decisiones puede publicar una propuesta en el blog de la empresa y solicitar comentarios o invitar respuestas por correo electrónico y luego procesar los consejos que reciben.
 
-  * The decision-maker can post a proposal on the company blog and call for comments or invite email responses and then process the advice they receive.
+  * La organización puede utilizar software de toma de decisiones como Loomio, una herramienta gratuita y de código abierto. El proceso para utilizar el proceso de los consejos en Loomio: iniciar una discusión para enmarcar el tema y recopilar información, organizar una propuesta para que todos los afectados por el problema puedan expresar su posición, y luego el decisor final especifica el resultado grupo).
 
-  * The organization can use decision-making software like [Loomio](https://www.loomio.org/), a free and open-source tool. The process for using the advice process on [Loomio](https://www.loomio.org/): start a discussion to frame the topic and gather input, host a proposal so everyone affected by the issue can voice their position, and then the final decision-maker specifies the outcome (automatically notifying the whole group).
 
+  **Mentalidades subyacentes y entrenamiento**
 
-  #### Underlying mindsets and training
 
+  El proceso de los consejos es una herramienta que ayuda a la toma de decisiones a través de la inteligencia colectiva. Mucho depende del espíritu en el que la gente se acerque. Cuando se introduce el proceso de los consejos, podría valer la pena entrenar a los colegas no sólo en la mecánica sino también en la mentalidad subyacente en el uso efectivo.
 
-  The advice process is a tool that helps decision-making via collective intelligence. Much depends on the spirit in which people approach it. When the advice process is introduced, it might be worthwhile to train colleagues not only in the mechanics but also on the mindset underlying effective use.
 
+  El proceso de los consejos puede proceder de varias maneras, dependiendo de la mentalidad que la gente le aporte:
 
-  The advice process can proceed in several ways, depending on the mindset people bring to it:
 
+  * El iniciador puede proceder de manera autoritaria ("No me importa lo que otros digan" o, alternativamente, "Yo cumplo plenamente con lo que otros -alguien muy respetado, o la mayoría- han dicho").
 
-  * The initiator can approach it authoritatively ("I don't care about what others have said" or, alternatively, "I fully comply with what others - someone highly respected, or the majority - have said").
+  * Pueden abordar desde una perspectiva de negociación o compromiso ("Voy a hacer algo de lo que dicen para que estén contentos, aunque a mi me frustre").
 
-  * They can approach from a perspective of negotiation or compromise ("I'll do some of what they say so they're happy, but it will increment my frustration account by 1").
+  * Pueden abordarlo de forma co-creativa, que es el espíritu del proceso de los consejos (Escucharé a los demás, entenderé la verdadera necesidad en lo que dicen y pensaré creativamente en una solución elegante“).
 
-  * They can approach it co-creatively, which is the spirit of the advice process ("I will listen to others, understand the real need in what they say, and think creatively about an elegant solution").
 
+  \
 
-  #### Role modeling
+  **Modelar los roles**
 
 
-  When the advice process is first introduced, the founder and/or CEO need to be role-models. Power is initially held by organizational leaders, and it doesn't get distributed by magic - [successfully distributing leadership requires careful, proactive effort](https://medium.com/enspiral-tales/how-to-grow-distributed-leadership-7f6b25f0361c). By role modeling, others will take cues from their behavior.  
+  Cuando el proceso de los consejos es presentado por primera vez, el fundador y / o CEO deben ser modelos a seguir. El poder inicialmente lo tienen los líderes de la organización, y no se logra distribuir por arte de magia - [distribuir con éxito el liderazgo requiere un esfuerzo cuidadoso y proactivo](https://medium.com/enspiral-tales/how-to-grow-distributed-leadership-7f6b25f0361c). Mediante el modelado de roles, los demás captarán los puntos clave viendo el comportamiento del fundador o CEO.
 
 
-  Role modeling can take several forms: 
+  **El modelado de roles puede adoptar varias formas:**
 
 
-  * When you want to make a decision, pause and ask: Am I the best person for this decision? (That is, the person most closely linked to the decision, or the person with most energy, skill, and experience to make it?). If not, ask the person you think is better placed to take the initiative. If he/she doesn't want to, you might be best placed after all.
+  * Cuando quiera tomar una decisión, haga una pausa y pregunte: ¿Soy la mejor persona para esta decisión? (Es decir, la persona más estrechamente vinculada a la decisión, o la persona con más energía, habilidad y experiencia para hacerlo?). Si no es así, pregúntele a la persona que cree que está mejor colocada para tomar la iniciativa. Si él / ella no quiere, usted puede ser que sea colocado mejor después de todos.
 
-  * If you are the right person to make a decision, identify those from whom you should seek advice. Approach them and explain what you are doing. ("I'm playing by the advice process. Here is an opportunity I see. This is the decision I propose to take. Can you give me your advice?"). You can also share who else you are asking for advice. Once you've received advice and made your decision, inform those you consulted (and anyone else who should know).
+  * Si usted es la persona adecuada para tomar una decisión, identifique a aquellos de quienes debe buscar consejo. Acérquese y explique lo que está haciendo. (“Quiero seguir el proceso de los consejos, ésta es una oportunidad que veo, ésta es la decisión que me propongo tomar ¿Puedes darme tu consejo?"). También puede compartir con alguien mas que este solicitando consejo. Una vez que haya recibido consejo y haya tomado su decisión, informe a los consultados (y cualquier otra persona que deba saberlo).
 
-  * When colleagues ask you to make a decision ("What should I do?"), instead ask them "What is your proposed decision?". In the same vein, state clearly that you no longer give approval for decisions. Instead, share your advice and suggest who else to ask. Remind them the decision is theirs.
+  * Cuando los colegas le piden que usted tome una decisión ("¿Qué debo hacer?"), En lugar de responder pregúnteles "¿Cuál es la decisión que tu propones?". En la misma línea, indique claramente que ya no da aprobación para las decisiones. En su lugar, comparta su consejo y sugiera a quién más preguntar. Recuérdeles que la decisión es de ellos.
 
 
-  For many leaders, unlearning the habit of making all the decisions is hard. It requires commitment and mindfulness. If you find yourself falling into the old pattern, take the opportunity to acknowledge your mistake, and restate the importance of the process. This can turn a mistake into a powerful learning moment. Better habits are formed through repeated practice.
+  Para muchos líderes, desaprender el hábito de tomar todas las decisiones es difícil. Requiere compromiso y atención plena. Si usted se encuentra cayendo en el patrón antiguo, aproveche la oportunidad para reconocer su error, y reafirmar la importancia del proceso. Esto puede convertir el error en un poderoso momento de aprendizaje. Mejores hábitos se forman a través de la práctica repetida.\
 
+  \
 
-  ### Consent-based decision making
+  **Tomar decisiones basadas en el consentimiento**\
 
+  Una variante del proceso de los consejos es la toma de decisiones basada en el consentimiento. "Consentimiento" es diferente del "consenso" en el sentido de unanimidad. El principio de consentimiento dice que una decisión puede tomarse siempre que nadie tenga una objeción razonada y sustancial (también conocida como "bloque"). El consentimiento no significa que todo el mundo ama la decisión, pero que pueden vivir con ella.
 
-  A variation of the advice process is consent-based decision making. "Consent" is different from "consensus" in the sense of unanimity. The consent principle says that a decision can be made as long as no one has a reasoned, substantial objection (also known as a "block"). Consent doesn't mean everyone loves the decision, but that they can live with it. 
 
+  En la práctica, el consentimiento significa que si una persona plantea una objeción basada en principios, la decisión queda bloqueada. El proponente debe hacer una pausa y, junto con el objetante, idear una solución que venza la objeción. Un bloque en un proceso de consenso es una señal para todo el equipo se "aglutine" para entender la objeción y resolver problemas.
 
-  In practice, consent means that if one person raises a principled objection, the decision is blocked. The proposer must pause and, together with the objector, devise a solution that overcomes the objection. A block in a consensus process is a signal to the whole team to "swarm" to understand the objection and problem solve.
 
+  Dar tal poder a una objeción basada en principios puede ser valioso y peligroso. Valioso porque a veces una sola persona siente algo importante que nadie ve. Por otra parte, tal poder puede ser abusado si la gente bloquea las decisiones por razones distintas del propósito. Los grupos que utilizan la toma de decisiones basada en el consentimiento a menudo toman muy en serio el bloqueo y el entendimiento compartido sobre las políticas y la cultura. (Para un ejemplo del mundo real, véase el [Acuerdo de Decisión Enspiral](https://handbook.enspiral.com/agreements.html).
 
-  Giving such power to a principled objection can be both valuable and dangerous. Valuable because sometimes a single person senses something important that no one else sees. On the other hand, such power can be abused if people block decisions for reasons other than purpose. Groups that use consent-based decision-making often take blocking and shared understanding about policies and culture around blocking very seriously for this reason. (For a real-world example, see the [Enspiral Decision Agreement](https://handbook.enspiral.com/decisions_agreement.html)).
 
+  Algunos métodos, como Holacracy, consideran una objeción válida sólo si el argumento pasa pruebas rigurosas, por ejemplo, empeora las cosas. Un colega no puede bloquear una propuesta simplemente porque él o ella piensa que tienen una mejor propuesta, o porque no aman la idea.\
 
-  Some methods, like Holacracy, deem an objection valid only if the argument passes stringent tests, such as it makes matters worse. A colleague cannot block a proposal simply because he or she thinks they have a better proposal, or because they don't love an idea.
+  \
 
+  **El proceso de los consejos dentro de una jerarquía**\
 
-  (for a description of Consent Based Decision, see[ https://thedecider.app/consent-decision-making](https://thedecider.app/consent-decision-making))
+  Algunas organizaciones quieren avanzar hacia la autogestión, pero no pueden alejarse completamente de la jerarquía. Otros, especialmente las grandes organizaciones, prefieren adoptar medidas provisionales. Esto puede ser parte de una transición hacia la autogestión.
 
 
-  #### The advice process within a hierarchy
+  AES, la empresa de 40.000 empleados en la que se acuñó el término "proceso de los consejos", funcionaba con restos de jerarquía, cualquiera podía iniciar el proceso, pero era obligatorio consultar a ciertas categorías de colegas, entre ellos los superiores o incluso el consejo .\
 
+  \
 
-  Some organizations want to move toward self-management, but cannot move away from hierarchy completely. Others, especially large organizations, prefer to adopt interim steps. This can be part of a transition to self-management.  
+  **Fuentes que influencian la toma de decisiones**
 
 
-  AES, the 40,000 employee company where the term "advice process' was coined, operated with remnants of a hierarchy. Anyone could initiate the process, but it was mandatory to consult certain categories of colleagues. These might include one's superiors, or even the board.
+  Las organizaciones Teal suelen tener en cuenta una amplia gama de fuentes:
 
 
-  #### Sources that inform decision-making
+  **Racionalidad:** Muchos piensan que la racionalidad rige, y es la base legítima para la toma de decisiones. Teal considera que los enfoques racionales y analíticos son críticos, pero no son la única fuente de información para la toma de decisiones.\
 
+  Emociones: Mientras que la perspectiva de la ciencia moderna es cautelosa con las emociones, Teal reconoce que la sabiduría se encuentra ahí cuando aprendemos a investigar su significado: *"¿Por qué estoy enojado, temeroso, ambicioso o excitado? O sobre la situación que se está desarrollando? "*\
 
-  Teal organizations tend to take a broad range of sources into account:
+  **Intuición**: La sabiduría se puede encontrar también en la intuición. La intuición honra la naturaleza ambigua, paradójica, no lineal de la realidad. Conscientemente conectamos los patrones de manera que nuestra mente racional no es capaz. Muchas grandes mentes, como Einstein, tenían una reverencia profunda por la intuición. Afirman que es un músculo que puede ser entrenado. Aprender a prestar atención a las intuiciones, a cuestionarlas como guía, permite respuestas intuitivas a la superficie.\
 
+  **Pensamiento paradójico:** Un avance Teal es la habilidad de vivir con la paradoja; Más allá de una mentalidad de “esto o lo otro" a “ambos” inspirar y exhalar ilustran la diferencia: o bien el pensamiento los ve como opuestos, ambos, y el pensamiento los ve como necesitados unos de otros, cuanto más podemos inhalar, más podemos exhalar. Tal paradoja es el proceso de los consejos: es un proceso de toma de decisiones que al mismo tiempo alienta la iniciativa individual y la voz del colectivo. Es esto y lo otro.
 
-  * **Rationality**: Many think that rationality rules, and is the legitimate basis for decision-making. Teal considers rational, analytical approaches to be critical, but not the only source to inform decision making.
 
-  * **Emotions**: Whereas the modern-scientific perspective is wary of emotions, Teal recognizes that wisdom is to be found there when we learn to inquire into their significance: "Why am I angry, fearful, ambitious, or excited? What does this reveal about me or about the situation that is unfolding?"
-
-  * **Intuition**: Wisdom can be found in intuition, too. Intuition honors the ambiguous, paradoxical, non-linear nature of reality. We unconsciously connect patterns in ways that our rational mind cannot. Many great minds, like Einstein, had a deep reverence for intuition. They claim it is a muscle that can be trained. Learning to pay attention to intuitions, to question them for guidance, allows intuitive answers to surface.
-
-  * **Paradoxical thinking**: A Teal breakthrough is the ability to live with paradox; beyond "either-or" to "both-and" thinking. Breathing in and breathing out illustrates the difference. Either-or thinking sees them as opposites. Both-and thinking sees them as needing each other. The more we can breathe in, the more we can breathe out. One such paradox is the advice process: it is a decision-making process that at once encourages individual initiative and the voice of the collective. It's both-and.
-
-
-  #### More to read
-
-
-  An Introduction to the Advice Process, with a video of Frédéric Laloux on this topic
-
-  <http://dev.alchemi.co.uk/adviceprocess/#/page/5cf823717fb0de42f3aeddfc>
+  <!--EndFragment-->
 faq:
-  - question: What prevents people from simply not requesting or ignoring advice?
+  - question: ¿Qué impide que la gente simplemente no solicite o ignore el consejo?
     answer: >-
-      Colleagues know that using the advice process isn't optional. One way to
-      be dismissed is to ignore the mutual obligations of the advice process.
-      With a [conflict resolution process](../conflict-resolution/) (as in some
-      Teal entities) someone who feels the advice process is not being respected
-      can hold a colleague to account. 
+      <!--StartFragment-->
 
 
-      But when people get used to it, respect for the practice grows. This because people are on both sides of the equation. When you ask me for my advice this morning, I hope you will take it seriously. If our roles are reversed this afternoon, I need to take you seriously, too. Because power is distributed, you know that others can take decisions about things you care about as well, so you are apt to take their needs and views into account.
-  - question: Who decides who gets to be the decision maker?
-    answer: "Put another way: Who can decide who makes what decisions, while still
-      using the advice process? \r
+      Los colegas saben que el uso del proceso de los consejos no es opcional. Una causa de [despido](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Despidos "Despidos") es ignorar las obligaciones mutuas del proceso de los consejos. Con un proceso de [resolución de conflictos](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Resoluci%C3%B3n_de_Conflictos "Resolución de Conflictos") (como en algunas organizaciones Teal) alguien que siente que el proceso de los consejos no se respeta puede llamar a cuentas a un colega.
 
-      \r
 
-      In practice, initiating advice and decision making usually fits
-      within in the scope of a certain role. Someone sensing a problem or an
-      opportunity could step forward to say: \"Hey, I see this opportunity. What
-      do you think? Given your role should you initiate this?\". However, if
-      that person doesn't have the interest or bandwidth to lead the process,
-      any other person can. If no one does, it usually means the decision is not
-      that important right now. \r
+      Pero cuando la gente se acostumbra a ello, el respeto por la práctica crece. Esto porque la gente está en ambos lados de la ecuación. Cuando me pides mi consejo esta mañana, espero que lo tomes en serio. Si nuestros papeles están invertidos esta tarde, necesito tomarlo en serio, también. Debido a que el poder se distribuye, usted sabe que otros pueden tomar decisiones sobre cosas que le importan también, por lo que son capaces de tener en cuenta sus necesidades y puntos de vista.
 
-      \r
 
-      Holacracy adds a twist: for particularly sensitive areas, a
-      \"domain\" can be declared. A domain basically means \"hands-off\".
-      Decisions relating to that domain can only be made by nominated person(s).
-      The idea is that domains remain exceptional and shouldn't be used
-      frequently. "
-  - question: If we accept that an organization has its own sense of direction, how
-      do we find out where it wants to go?
+      <!--EndFragment-->
+  - question: ¿Quién decide quién llega a ser el tomador de decisiones?
     answer: >-
-      #### Sensing as a natural outcome of self-management
+      <!--StartFragment-->
 
 
-      The simplest answer is often: Do nothing special. Let self-management work its magic. One word often comes up with Teal pioneers: *Sensing*. We notice when something isn’t working as it should, or could. With experience, our capacity to sense grows. 
+      Dicho de otra manera: ¿Quién puede decidir quién toma las decisiones, mientras sigue usando el proceso de los consejos?
 
 
-      #### The Empty Chair
+      En la práctica, iniciar el consejo y la toma de decisiones por lo general encaja dentro del alcance de un determinado rol. Alguien que detecta un problema o una oportunidad puede dar un paso adelante para decir: "Oye, veo esta oportunidad, ¿qué piensas? ¿Dado tu papel, debes iniciar esto?". Sin embargo, si esa persona no tiene el interés o ancho de banda para dirigir el proceso, cualquier otra persona puede. Si nadie lo hace, por lo general significa que la decisión no es tan importante en este momento.
 
 
-      One practice to keep purpose foremost is to allocate an empty chair at meetings to represent our [evolutionary purpose](../evolutionary-purpose/). Anybody can occupy the seat and represent the voice of the organization. Different questions can arise from this perspective: Have today's discussions and decisions served you (the organization) well? What stands out to you from today’s meeting? Are we being bold enough? Too bold? Is there anything else that needs to be discussed?
+      Holacracy agrega un giro: para áreas particularmente sensibles, un "dominio" puede ser declarado. Un dominio básicamente significa "manos-fuera". Las decisiones relativas a ese dominio sólo pueden ser hechas por persona (s) designada (s). La idea es que los dominios siguen siendo excepcionales y no se deben utilizar con frecuencia.
 
 
-      #### Large Group Processes
-
-
-      When facing a major inflection, some more elaborate processes help. These include Otto Scharmer’s “[Theory U](https://en.wikipedia.org/wiki/U-procedure_and_Theory_U)”, David Cooperrider’s “[Appreciative Inquiry](https://en.wikipedia.org/wiki/Appreciative_inquiry)", Marvin Weisbord and Sandra Janoff’s “[Future Search](https://en.wikipedia.org/wiki/Future_Search)",  Harrison Owen’s “[Open Space Technology](https://en.wikipedia.org/wiki/Open_Space_Technology), [Art of Hosting](http://www.artofhosting.org/), [World Café](http://www.theworldcafe.com/), etc. ”
-  - question: Can this type of decision-making be upheld in a time of crisis?
+      <!--EndFragment-->
+  - question: Si aceptamos que una organización tiene su propio sentido de
+      dirección, ¿cómo podemos averiguar dónde quiere ir?
     answer: >-
-      In crises, time is of the essence. Is the advice process too unwieldy?
+      <!--StartFragment-->
 
 
-      There are good examples of organizations that have used the advice process during crises. Rarely are decisions so urgent that a few hours can't be found to seek advice. And if possible, a crisis makes it even more important that a 'right' decision is made. 
+      ***Sensar* (capacidad de sentir) como resultado natural de la autogestión**
 
 
-      If, for some reason, the process does need to be suspended, two guidelines maintain trust in[ self-management:](../self-management/) Full transparency about the scope and time frame of the crisis response, and making sure such powers clearly cease when the crisis is over.
+      La respuesta más simple es a menudo: No hacer nada especial. Deje que la autogestión funcione su magia. Una palabra a menudo viene con los pioneros Teal: Sensing. Nos damos cuenta cuando algo no está funcionando como debería, o podría. Con la experiencia, nuestra capacidad de sentir crece.\
+
+      \
+
+      **La silla vacía**\
+
+      Una práctica para mantener el propósito primero es asignar una silla vacía en las reuniones para representar nuestro [propósito evolutivo](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Prop%C3%B3sito_Evolutivo "Propósito Evolutivo"). Cualquiera puede ocupar el asiento y representar la voz de la organización. Pueden surgir diferentes preguntas desde esta perspectiva: ¿Las discusiones y decisiones de hoy le han servido bien? ¿Qué resalta de la reunión de hoy? ¿Estamos siendo lo suficientemente audaces? ¿Demasiado audaz? ¿Hay algo más que necesita ser discutido?\
+
+      \
+
+      **Procesos de Grandes Grupos**\
+
+      Cuando se enfrenta a una inflexión importante, algunos procesos más elaborados ayudan. Entre éstas se encuentran la "[Teoría U](https://en.wikipedia.org/wiki/Theory_U)" de Otto Scharmer, "[Investigación Apreciativa](https://en.wikipedia.org/wiki/Appreciative_inquiry)" de David Cooperrider, Marvin Weisbord y "[Future Search](https://en.wikipedia.org/wiki/Future_Search)" de Sandra Janoff, de Harrison Owen "[Open Space Technology](https://en.wikipedia.org/wiki/Future_Search), [Art of Hosting](http://www.artofhosting.org/), [World Café](http://www.theworldcafe.com/)".
 
 
-      In fact in many ways, the advice process allows for even faster and more decisive action, because many people in the organization practice being empowered decision-makers on a regular basis. In a well-functioning Teal organization, someone who is aware of a crises will weigh the advice it's feasible to get in the time they have, and make a judgement call.
-  - question: What about decisions that affect the whole organization? Isn’t it
-      impractical to solicit feedback from large numbers?
+      <!--EndFragment-->
+  - question: ¿Qué pasa con las decisiones que afectan a toda la organización? ¿No
+      es poco práctico solicitar retroalimentación de grandes números?
     answer: >-
-      When decisions affect the whole organization, it is particularly important
-      to make the right decision. Yet, in very large organizations, the decision
-      maker can hardly meet with everyone.
+      <!--StartFragment-->
 
 
-      Some use internal social networks, or decision-making tools like [Loomio](https://www.loomio.org/), for wide and swift consultation. The initiator puts the proposal up as a post. Colleagues offer advice by responding on-line. If their comments signal agreement, the decision can be made very quickly. If new perspectives and debate emerge, the decision maker can choose to amend his proposal and float it again. If it appears decision time is not yet ripe, a working group may be set up.
-  - question: Is there no room for centralized planning? Aren’t we losing something
-      important here?
+      Cuando las decisiones afectan a toda la organización, es particularmente importante tomar la decisión correcta. Sin embargo, en organizaciones muy grandes, el tomador de decisiones difícilmente puede reunirse con todos.\
+
+      Algunos utilizan redes sociales internas, o herramientas de toma de decisiones como Loomio, para una consulta amplia y rápida. El iniciador pone la propuesta como una entrada. Colegas ofrecen consejos respondiendo en línea. Si sus comentarios señalan un acuerdo, la decisión se puede tomar muy rápidamente. Si surgen nuevas perspectivas y debate, el tomador de decisiones puede elegir enmendar su propuesta y volverla a flotar. Si parece que el tiempo de decisión aún no está maduro, se puede configurar un grupo de trabajo.
+
+
+      <!--EndFragment-->
+  - question: ¿Se puede mantener este tipo de toma de decisiones en un momento de crisis?
     answer: >-
-      Predictions offer a comforting sense of control, but reality is that
-      organizations and the world they exist in are complex. In such systems, it
-      is meaningless to predict the future with great confidence. 
+      <!--StartFragment-->
 
 
-      [Teal Organizations](../teal-paradigm-and-organizations/) accept a complex world in which perfection is elusive. They don't aim for perfection, but for workable solutions that arise from current reality, and which can be implemented quickly.
+      En las crisis, el tiempo es esencial. ¿El proceso de los consejos es demasiado pesado?
 
 
-      If there is a workable solution on the table (“workable” = the solution won't make things worse), it will be adopted.  Decisions are not postponed because someone thinks more analysis will produce a better decision. The decision can be reviewed at any time. This is the essence of a culture of continuous iterative improvement.
+      Hay buenos ejemplos de organizaciones que han utilizado el proceso de los consejos durante las crisis. Raramente son decisiones tan urgentes que no se pueden encontrar unas horas para buscar consejo. Y si es posible, una crisis hace que sea aún más importante que se tome una decisión "correcta".
 
 
-      Brian Robertson from [Holacracy ](http://www.holacracy.org/)uses a powerful metaphor to contrast the two approaches:
+      Si, por alguna razón, el proceso tiene que ser suspendido, dos directrices mantienen la confianza en la autogestión: transparencia total sobre el alcance y el tiempo de la respuesta a la crisis y asegurándose de que tales poderes cesen claramente cuando termine la crisis.
 
 
-      > “Imagine if we rode a bicycle like we try to manage our companies today. It would look something like this: we’d have our big committee meeting, where we all plan how to best steer the bicycle. We’d fearfully look at the road up ahead, trying to predict exactly where the bicycle is going to be when. … We’d make our plans, we’d have our project managers, we’d have our Gantt charts, we’d put in place our controls to make sure this all goes according to plan. Then we get on the bicycle, we close our eyes, we hold the handle bar rigidly at the angle we calculated up front and we try to steer according to plan. And if the bicycle falls over somewhere along the way ... well, first: who is to blame? Let’s find them, fire them, get them out of here. And then: we know what to do differently next time. We obviously missed something. We need more upfront prediction. We need more controls to make sure things go according to plan.”
+      De hecho, de muchas maneras, el proceso de los consejos permite una acción aún más rápida y decisiva, ya que muchas personas en la práctica de la organización son los encargados de tomar decisiones con regularidad. En una organización Teal que funciona bien, alguien que es consciente de una crisis sopesará el consejo que es factible obtener en el tiempo que tiene, y hacer una llamada de juicio.
 
 
-      In the Teal paradigm, the rider gets on the bike, starts with an angle that seems about right, and then keeps adjusting to get to the destination. Companies working this way often progress faster, and more smoothly toward their purpose, with less wasted energy.
-  - question: Does decision-making in Teal organizations require multiple bottom
-      line accounting systems?
-    answer: "Among Teal management practices, multiple bottom line accounting
-      systems are rare. There is a school of thought that suggests we need ways
-      to track not just profit, but also the firm’s impact on people and planet.
-      How else can managers make trade-offs between these elements?  \r
+      <!--EndFragment-->
+  - question: "¿No hay espacio para una planificación centralizada? ¿No estamos
+      perdiendo algo importante aquí? "
+    answer: >-
+      <!--StartFragment-->
 
-      \r
 
-      Perhaps the answer lies elsewhere: Multiple bottom lines originated
-      to avoid a narrow fixation on profits. From a Teal perspective, a wider
-      perspective already exists. Purpose, integrity and wholeness should
-      transcend the primacy of profits.  "
+      Las predicciones ofrecen una sensación reconfortante de control, pero la realidad es que las organizaciones y el mundo en el que existen son complejos. En tales sistemas, no tiene sentido predecir el futuro con gran confianza.
+
+
+      Las organizaciones Teal aceptan un mundo complejo en el que la perfección es elusiva. No apuntan a la perfección, sino a soluciones viables que surgen de la realidad actual, y que pueden aplicarse rápidamente.
+
+
+      Si hay una solución viable sobre la mesa ("viable" = la solución no empeorará las cosas), se adoptará. Las decisiones no se posponen porque alguien piensa que más análisis producirá una mejor decisión. La decisión puede ser revisada en cualquier momento. Esta es la esencia de una cultura de mejora iterativa continua.
+
+
+      Brian Robertson de Holacracy utiliza una poderosa metáfora para contrastar los dos enfoques: "*Imagínese si montamos una bicicleta como tratamos de manejar nuestras compañías hoy. Parecería algo así: tendríamos nuestra gran reunión de comité, en la que todos planificaremos cómo dirigir mejor la bicicleta. Teníamos miedo de mirar el camino por delante, tratando de predecir exactamente dónde va a estar la bicicleta cuando. ... Hacíamos nuestros planes, teníamos nuestros jefes de proyecto, teníamos nuestros gráficos de Gantt, poníamos nuestros controles para asegurarnos de que todo saliera bien. Luego nos subimos a la bicicleta, cerramos los ojos, sostenemos el manillar rígidamente en el ángulo que calculamos en la parte delantera y tratamos de dirigir de acuerdo al plan. Y si la bicicleta cae en alguna parte del camino ... bueno, primero: ¿quién tiene la culpa? Vamos a encontrarlos, dispararles, sacarlos de aquí. Y entonces: sabemos qué hacer de manera diferente la próxima vez. Obviamente nos perdimos algo. Necesitamos más predicción anticipada. Necesitamos más controles para asegurarnos de que las cosas van de acuerdo a lo planeado"*.
+
+
+      En el paradigma Teal, el ciclista se sube a la bicicleta, comienza con un ángulo que parece estar a la derecha, y luego sigue ajustándose para llegar al destino. Empresas que trabajan de esta manera a menudo progresan más rápido, y más suavemente hacia su propósito, con menos energía desperdiciada.
+
+
+      <!--EndFragment-->
+  - question: ¿La toma de decisiones en las organizaciones Teal requiere múltiples
+      sistemas de contabilidad del renglón de resultados?
+    answer: >-
+      <!--StartFragment-->
+
+
+      Entre las prácticas de gestión Teal, los sistemas de contabilidad de resultados múltiples son raros. Hay una escuela de pensamiento que sugiere que necesitamos formas de rastrear no sólo el beneficio, sino también el impacto de la empresa en las personas y el planeta. ¿De qué otra manera los gerentes pueden hacer concesiones entre estos elementos?
+
+
+      Quizás la respuesta esté en otra parte: las líneas de resultados múltiples se originaron para evitar una fijación estrecha en las ganancias. Desde la perspectiva Teal, ya existe una perspectiva más amplia. El propósito, la integridad y la plenitud deben trascender la primacía de las utilidades.
+
+
+      <!--EndFragment-->
 relatedTheory:
   - Self-Management
   - Evolutionary Purpose
