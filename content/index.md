@@ -1,7 +1,7 @@
 ---
 layout: home
 name: Home
-tagline: A hearty welcome to the refreshed
+tagline: Ein herzliches Willkommen im aufgefrischten
 title: Reinventing Organizations Wiki
 intro: >-
   
