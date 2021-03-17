@@ -1,8 +1,8 @@
 ---
 layout: home
 name: Home
-tagline: A hearty welcome to the
-title: Reinventing Organizations Wiki
+tagline: Una calurosa bienvenida al
+title: Reinventando Organizaciones Wiki
 intro: >-
   ![](/media/flagSpain.jpg)
 
