@@ -95,7 +95,7 @@ collections:
           default: "theoryCategories",
         }
       - {
-          label: "Key (Short name of the category. Can't be changed after the category is created.)",
+          label: "Key (Nombre corto de la categoría. No se puede cambiar una vez creada la categoría.   )",
           name: "key",
           widget: "string",
         }
@@ -126,35 +126,35 @@ collections:
           name: "industry",
           widget: "select",
           options: [
-            "A. Agriculture, forestry and fishing", 
-            "B. Mining and quarrying",
-            "C. Manufacturing",
-            "D. Electricity, gas, steam and air conditioning supply",
-            "E. Water supply; sewerage, waste management and remediation activities",
-            "F. Construction",
-            "G. Wholesale and retail trade; repair of motor vehicles and motorcycles",
-            "H. Transportation and storage",
-            "I. Accommodation and food service activities",
-            "J. Information and communication",
-            "K. Financial and insurance activities",
-            "L. Real estate activities",
-            "M. Professional, scientific and technical activities",
-            "N. Administrative and support service activities",
-            "O. Public administration and defence; compulsory social security",
-            "P. Education",
-            "Q. Human health and social work activities",
-            "R. Arts, entertainment and recreation",
-            "S. Other service activities",
-            "T. Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use",
-            "U. Activities of extraterritorial organizations and bodies",
-            "V. Others"
+            "A. Agricultura, silvicultura, ganadería y pesca", 
+            "B. Minera",
+            "C. Fabricación",
+            "D. Electricidad, gas, calefacción por vapor, aire acondicionado",
+            "E. Suministro y drenaje de agua, tratamiento de aguas residuales",
+            "F. Construcción",
+            "G. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",
+            "H. Carga y almacenamiento",
+            "I. Alojamiento y pensión",
+            "J. Información y comunicación",
+            "K. Finanzas, seguro",
+            "L. Bienes raíces",
+            "M. Investigación científica, alta tecnología",
+            "N. Servicios de apoyo a la administración",
+            "O. Administración pública y seguridad social",
+            "P. Educación",
+            "Q. Salud, servicios sociales",
+            "R. Arte, entretenimiento",
+            "S. Servicios públicos",
+            "T. Servicios domésticos, bienes y servicios no clasificados, actividades de producción orientadas a la familia",
+            "U.Organización extraterriter y actividades institucionales",
+            "V. Otros"
             ],
         }
       - {
           label: "Geography",
           name: "geography",
           widget: "select",
-          options: ["Brazil", "Canada", "China", "Egypt", "France", "Germany", "Global", "India", "Japan", "Morrocco", "Netherlands", "New Zealand", "Philippines", "Switzerland", "USA"],
+          options: ["Alemania", "Brasil", "Canadá", "China", "Egipto", "Estados Unidos", "Filipinas", "Francia", "India", "Japón", "Marruecos", "Nueva Zelanda", "Holanda", "Reino Unido", "Suiza", "En todo el mundo"],
         }
       - {
           label: "Company size",
@@ -166,7 +166,7 @@ collections:
           label: "Profit",
           name: "profit",
           widget: "select",
-          options: ["Profit", "non-profit"],
+          options: ["Organización con fines de lucro", "Organización sin ánimo de lucro"],
         }
       - label: "Theory"
         name: "theory"
