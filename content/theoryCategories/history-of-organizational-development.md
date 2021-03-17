@@ -1,5 +1,5 @@
 ---
 tags: theoryCategories
 key: history
-name: History of Organizational Development
+name: Historia del desarrollo organizacional
 ---
