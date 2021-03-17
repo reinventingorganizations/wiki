@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Conflict resolution
-name: Conflict resolution
+name: Konfliktlösung
 sortOrder: 4
 category: Daily practices
 intro: >-
