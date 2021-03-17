@@ -6,326 +6,356 @@ name: Supuestos Fundamentales
 sortOrder: 1
 category: Daily practices
 intro: >-
-  The topic of fundamental assumptions explains how deeply held, often
-  unconscious assumptions (about people, their motivations, role in the world
-  and workplace, the meaning of life etc.) lie at the root of organizational
-  models and practices
+  <!--StartFragment-->
+
+
+  El tema de los supuestos fundamentales explica cómo los supuestos que tenemos, a nivel muy profundo y a menudo inconscientes (sobre las personas, sus motivaciones, su papel en el mundo y el lugar de trabajo, el sentido de la vida, etc.) están en la raíz de las prácticas y modelos organizacionales.
+
+
+  <!--EndFragment-->
 
 
   ![](/media/fundamental-assumptions.jpg)
 perspective: >-
-  Every historical stage has given birth to fundamental assumptions, a distinct
-  perspective on people and their motivations, and to very different approaches
-  to engaging with the world.
+  <!--StartFragment-->
 
 
-  #### Red Organizations
+  Cada etapa histórica ha dado nacimiento a supuestos fundamentales, a una distinta perspectiva sobre las personas y sus motivaciones, y a muy diferentes enfoques para relacionarse con el mundo.\
 
+  \
 
-  Fundamental assumptions from a [Red perspective](../red-organizations/) are:
+  **Organizaciones Rojas**\
 
+  Los supuestos fundamentales desde una [perspectiva roja](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_paradigma_Rojo_y_las_Organizaciones "El paradigma Rojo y las Organizaciones") son:
 
-  * The world has endless resources that can be exploited. People outside the organization/tribe can be exploited too.
 
-  * The world is a hostile place. "It is me or you". Conquered territory has to be defended through (constant) struggle and vigilance. If one does not react swiftly to the environment, everything will be taken away.
+  * El mundo tiene infinitos recursos que pueden ser explotados. También la gente fuera de la organización / tribu puede ser explotada.
 
-  * Structure in society is all about ***power and respect.*** There is a natural pecking order which ensures that only "the best" survive and thrive. To survive, one either has to be dominant to take advantage, or submissive for protection.
+  * El mundo es un lugar hostil. "Soy yo o tú". El territorio conquistado tiene que ser defendido a través de la lucha (constante) y la vigilancia. Si uno no reacciona rápidamente al medio ambiente, todo le será arrebatado.
 
-  * One can only trust oneself – and, to some extent, the people who have “sworn allegiance”.. Vigilance is imperative, because people’s allegiances can change overnight.
+  * La estructura en la sociedad es toda sobre **poder y respeto**. Hay un orden natural de depuración que asegura que sólo "los mejores" sobreviven y prosperan. Para sobrevivir, uno tiene que ser dominante para tomar ventaja, o sumiso para obtener protección.
 
-  * There are no stable rules except the rule of power exercised by the chief. What is right and what is wrong is decided by the boss. No need to think for oneself if one is not the boss
+  * Uno no puede confiar más que en sí mismo - y, hasta cierto punto, en las personas que han "jurado lealtad". La vigilancia es imprescindible, porque las lealtades de las personas pueden cambiar de la noche a la mañana.
 
-  * It is acceptable (and even desirable) to only care about oneself. Taking what one can get – as long as one is not caught or beaten by someone more powerful is OK. There is no guilt, only power or submission. What other people think and how they feel is not a concern.
+  * No hay reglas estables excepto la regla de poder ejercida por el jefe. Lo que es correcto y lo que está mal es decidido por el jefe. Si no eres el jefe no hay necesidad de que pienses por ti mismo.
 
-  * People who are not part of the "inner circle" are there to be used. Better to be feared than to be loved.
+  * Preocuparse sólo por uno mismo es aceptable (e incluso deseable). Esta bien tomar todo lo que uno pueda - siempre y cuando no lo pesquen o golpee a alguien más poderoso está bien. No hay culpa, sólo poder o sumisión. Lo que otras personas piensen o sientan no importa.
 
-  *
+  * Las personas que no forman parte del "círculo interior" están allí para ser usadas. Es mejor ser temido que ser amado.
 
+  * (Estilo de liderazgo: depredador, Metáfora: Lobo Salvaje)
 
-  (Leadership style: predatory, Metaphor: Wolf Pack)
 
+  \
 
-  #### Amber Organizations
+  **Organizaciones Ámbar**\
 
+  Los supuestos fundamentales desde una [perspectiva Ámbar son](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_%C3%81mbar_y_las_Organizaciones "El Paradigma Ámbar y las Organizaciones"):
 
-  Fundamental assumptions from an [Amber perspective](../amber-paradigm-and-organizations/) are:
 
+  * El mundo es (o debería ser) inmutable, comprensible y controlable. Lo que funcionó en el pasado funcionará en el futuro. La **estabilidad (seguridad) y la lealtad** son esenciales. El cambio debe ser visto con sospecha. Salir de la organización es la última opción.
 
-  * The world is (or should be) immutable, comprehensible and controllable. What worked in the past will work in the future. ***Stability (safety) and loyalty*** are essential. Change is to be viewed with suspicion. Leaving the organization is the last option.
+  * Las cosas están bien o mal. Siempre hay una autoridad institucional a la que hay que obedecer: reglas, procedimientos, etc. Las opiniones personales no son relevantes. La culpa es ineludible, cuando uno está en el error.
 
-  * Things are either right or wrong. There is always an institutional authority to be obeyed: rules, procedures, etc. Personal opinions are not relevant. Guilt is inescapable, when being in the wrong.
+  * Debes seguir las reglas y las expectativas que la sociedad tiene sobre ti, aunque signifique usar una máscara social de virtud. El autocontrol es altamente valorado.
 
-  * You follow the rules and the expectations that society has on you, even if it means wearing a social mask of virtue. Self-control is highly valued.
+  * La gente es en su mayoría perezosa, deshonesta, no inteligente y necesita ser dirigida. Deben ser supervisados y se les debe decir lo que se espera de ellos. Por lo tanto, debe haber una cadena de mando clara, procesos formales y reglas claras que estipulen quién puede hacer qué.
 
-  * People are mostly lazy, dishonest, unintelligent and in need of direction. They must be supervised and told what is expected from them. Thus there must be a clear chain of command, formal processes, and clear cut rules that stipulate who can do what.
+  * Todo el mundo es reemplazable por alguien que puede asumir el mismo papel en el proceso. La innovación, el pensamiento crítico y la auto expresión no son necesarios. Debe compartirse sólo la información necesaria que se requiere para hacer el trabajo.
 
-  * Everyone is replaceable by someone who can take over the same role in the process. Innovation, critical thinking and self-expression are not needed. Information is to be shared on a need-to-know basis.
+  * El éxito implica que cada quien desempeñe su papel en la organización de una manera perfecta ("Tú eres tu trabajo y tu lugar en la sociedad es más o menos claro desde el nacimiento”).
 
-  * Success means performing your role in the organization in a perfect way ("You *are* your job and your place in society is more or less clear from birth.")
+  * (Estilo de liderazgo: autoritario - paternalista.) Metáfora: El Ejército.
 
-  * (Leadership style: authoritarian - paternalistic. Metaphor: Army.)
 
+  \
 
-  #### Orange Organizations
+  **Organizaciones Naranja**
 
 
-  Fundamental assumptions from an [Orange perspective](../orange-paradigm-and-organizations/) are:
+  Los supuestos fundamentales desde una [perspectiva Naranja](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Naranja_y_las_Organizaciones "El Paradigma Naranja y las Organizaciones") son:
 
 
-  * The world is full of possibilities and challenges waiting to be discovered and taken up. If one is smart and works hard enough, all the benefits of high status can be had. If one does not make it, it is one's own fault.
+  * El mundo está lleno de posibilidades y desafíos que esperan ser descubiertos y tomados. Si uno es inteligente y trabaja lo suficientemente duro, puedes conseguir todos los beneficios y alto estatus. Si uno no lo hace, es culpa de uno mismo.
 
-  * ***Material results and status*** are essential. What counts is the financial bottom line: the (only) real measure for success is money and material wealth. This is what ultimately motivates people.
+  * Los resultados materiales y el estatus son esenciales. Lo que cuenta es el resultado financiero: la (única) medida real para el éxito es el dinero y la riqueza material. Esto es lo que en última instancia motiva a la gente.
 
-  * Truth is what works. Pragmatism is more valuable than authority. Rationality is valued above all else. Emotions, doubts, dreams, questions of meaning and purpose do not belong in the workplace. They are a distraction to achieving our goals. Being professional means keeping private life private.
+  * La verdad es lo que funciona. El pragmatismo es más valioso que la autoridad. La racionalidad es valorada por encima de todo. Emociones, dudas, sueños, preguntas de significado y propósito no pertenecen al lugar de trabajo. Son una distracción para lograr nuestros objetivos. Ser profesional significa mantener privada tu vida privada.
 
-  * Social acceptance is important, because one needs others to reach the own goals and acknowledge the own success. One has to wear a professional mask of success and control.
+  * La aceptación social es importante, porque uno necesita de los demás para alcanzar las metas propias y que reconozcan nuestro éxito. Uno tiene que usar una máscara profesional de éxito y control.
 
-  * Only the best in their field can and should make it to the top. Competition is everywhere and should be encouraged. To survive and thrive, one has to outsmart others and beat competition.
+  * Sólo los mejores en su campo pueden y deben llegar a la cima. La competencia está en todas partes y debe ser alentada. Para sobrevivir y prosperar, uno tiene que ser más astuto que otros y vencer a la competencia.
 
-  * Innovation is a necessity for growth. Change is the only constant thing. There is no room or time to tolerate mistakes and weaknesses.
+  * La innovación es una necesidad para el crecimiento. El cambio es la única constante. No hay espacio ni tiempo para tolerar errores y debilidades.
 
-  * It is important to have clear goals. Achieving the next external goal (getting the next promotion, finding a life partner, buying a new car,…) will make one happy.
+  * Es importante tener objetivos claros. Lograr el siguiente objetivo externo (conseguir la próxima promoción, encontrar un compañero de vida, comprar un coche nuevo, ...) hará que uno se sienta feliz.
 
-  * When people are all by themselves, nothing good will come out of it. Although they can think up to a certain point and decide on *how* they do their job, they are in need of direction. People need to be motivated by external rewards and competition to perform at their peak. Management needs to set clear goals, incentive schemes, and control. Management has to be in control.
+  * Cuando la gente se manda sola, nada bueno saldrá de ella. A pesar de que pueden pensar hasta cierto punto y decidir sobre cómo hacer su trabajo, necesitan dirección. La gente necesita estar motivada por las recompensas externas y la competencia para realizar su máximo esfuerzo. La gerencia necesita establecer metas claras, esquemas de incentivos y control. La gerencia tiene que estar en control.
 
-  * (Leadership style: expert/achiever, "problem solving, strategic, outcome oriented". Metaphor: Machine.)
+  * (Estilo de liderazgo: experto / realizador, "solución de problemas, estratégico, orientado a resultados." Metáfora: Máquina.)
 
 
-  #### Green Organizations
+  \
 
+  **Organizaciones Verdes**
 
-  Fundamental assumptions from a [Green perspective ](../green-paradigm-and-organizations/)are:
 
+  Los supuestos fundamentales desde una [perspectiva Verde](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Verde_y_las_Organizaciones "El Paradigma Verde y las Organizaciones") son:
 
-  * Materialistic obsession, social inequality and loss of community are bad. Relationships are more important than outcomes. What is essential is ***belonging and harmony***.
 
-  * People are essentially good. Everyone’s point of view and opinion is valuable. Conflict or competition are not the only laws of nature, co-operation is also in our genes. Shared values work better than strict rules and policies.
+  * La obsesión materialista, la desigualdad social y la pérdida de comunidad son malas. Las relaciones son más importantes que los resultados. Lo esencial es la **pertenencia y la armonía**.
 
-  * Everyone has talents. Diversity leads to better results. Avoid conflict at all cost. Use bottom up processes for input and aim for consensus for decisions.
+  * La gente es esencialmente buena. Es valioso el punto de vista y opinión de todos y cada uno. El conflicto o la competencia no son las únicas leyes de la naturaleza, la cooperación también está en nuestros genes. Los valores compartidos funcionan mejor que las reglas y políticas estrictas.
 
-  * At work, people must be able to grow and reach their full potential. Management (HR) should create the necessary conditions. This means leaving a lot of room for discussion, for learning and mistakes. It means stimulating people to work in teams. Leadership should be in service to those being led.
+  * Todos tienen talentos. La diversidad conduce a mejores resultados. Evitar los conflictos a toda costa. Utilizar los procesos de abajo hacia arriba para los inputs y el consenso para las decisiones.
 
-  * All people are of equal value. We are separate and many forces in society pull us apart or into inequality, so achieving deep communion between people is something we have to work for. There are multiple stakeholders - not only shareholders. They deserve equal attention. Nature, the local community and society as a whole are to be considered as stakeholders.
+  * En el trabajo, las personas deben ser capaces de crecer y alcanzar su pleno potencial. Gestión (HR) debe crear las condiciones necesarias. Esto significa dejar mucho espacio para la discusión, el aprendizaje y los errores. Significa estimular a la gente a trabajar en equipo. El liderazgo debe estar al servicio de los que están siendo dirigidos.
 
-  * (Leadership style: catalytic/co-creative, "team oriented, collaborative, servant leadership". Metaphor: Family.)
+  * Todas las personas son de igual valor. Estamos separados y muchas fuerzas en la sociedad nos separan o en la desigualdad, por lo que la comunión profunda entre las personas es algo que tenemos que trabajar. Hay múltiples partes interesadas - no sólo accionistas. Merecen la misma atención. La naturaleza, la comunidad local y la sociedad en su conjunto deben ser consideradas como partes interesadas
 
+  * (estilo de l
 
-  #### Teal Organizations
 
+  iderazgo: catalítico / co-creativo, "orientado al equipo, colaborativo, liderazgo de servicio") Metáfora: Familia.
 
-  Fundamental assumptions from a Teal perspective are:
 
+  \
 
-  * Human beings and organizations as living systems are full of potential waiting to unfold. Building on strengths is more important than focusing on weaknesses.
+  **Organizaciones Teal**\
 
-  * One can ***trust*** ***the abundance of life.*** People and organizations who share the same life serving goals are allies rather than competitors.
+  Los supuestos fundamentales desde una [perspectiva Teal](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones") son
 
-  * All of life is intrinsically interconnected. As humans and individuals, we share a place in the grand scheme of life. Having equal human value is self-evident, and does not require struggle or sameness in form or expression.
 
-  * The goal of life is ***becoming the truest expression of oneself***, to honor one's birthright and callings, and to be of service to humanity and the world. Your contribution is developing your own unique strengths and expressions, and then leading life's joy through that into this world, thereby playing your tune in the symphony of life.
+  * Los seres humanos y las organizaciones como sistemas vivientes están llenos de potenciales en espera para desarrollarse. Construir sobre las fortalezas es más importante que centrarse en las debilidades.
 
-  * One is not one's Ego. "Don’t let the need to look good, to be successful, to fit in,… run your life."
+  * Uno puede confiar en la **abundancia de la vida**. Las personas y las organizaciones que comparten la misma vida que sirve objetivos son aliados en lugar de competidores. Todo en la vida está intrínsecamente interconectado. Como seres humanos e individuos, compartimos un lugar en el gran esquema de la vida.
 
-  * If one keeps the channel open, one can listen into the life that wants to be lived through oneself – or the purpose that wants to be served by the organization. Life does not need to be coerced. All we have to do is tune into what life wants to express or create and life will provide for itself what is needed. Sense and respond, rather than plan and control.
+  * El objetivo de la vida es **llegar a ser la expresión más auténtica de uno mismo**, honrar el derecho de nacimiento y la vocación, y servir a la humanidad y al mundo . Tu contribución es desarrollar tus propias fortalezas y expresiones únicas, y así llevar la alegría de tu vida por todo el mundo, jugando así tu sintonía en la sinfonía de la vida. Uno no es el Ego de uno. "No dejes que la necesidad de verse bien, de tener éxito, de encajar, ... guíe tu vida". Si uno mantiene abierto el canal, puede escuchar la vida que quiere ser vivida a través de uno mismo - o el propósito que quiere ser atendido por la organización. La vida no necesita ser coaccionada. Todo lo que tenemos que hacer es sintonizar lo que la vida quiere expresar o crear y la vida proporcionará por ella misma lo que se necesita. Sentir y responder, en lugar de planificar y controlar. Incluso si ocurren errores o algo inesperado, las cosas van a salir bien. Si no lo hacen, la vida ofrecerá una oportunidad de aprender y crecer. Dejar ir el miedo. Una buena decisión es una decisión que está en línea con la brújula interior de uno - no sólo se basa en hechos y cifras, sino que incluye emociones e intuición.
 
-  * Even if something unexpected or mistakes happen, things will turn out all right. If they don’t, life is offering an opportunity to learn and grow. Let go of fear.
+  * (estilo de liderazgo: co-creativo / sinérgico, Sistémico, con espacio para el propósito. "Metáfora: Sistema viviente / organismo vivo).
 
-  * A good decision is a decision that is in line with one's inner compass – it is not only based on facts and figures, but includes emotions and intuition.
 
-  * (Leadership style: co-creative/synergistic, "deeply empathetic, systemic, holding space for the purpose". Metaphor: Living System / Living Organism).
+  <!--EndFragment-->
 inPractice: >-
-  Many of us hold deeply ingrained assumptions about people and work that are
-  based on fear, assumptions that call for hierarchy and control. Teal
-  organizations articulate the assumptions they hold about people and about
-  work. Only by shining light on these fear-based beliefs can we decide to
-  choose a different set of assumptions. When colleagues talk about the two sets
-  of assumptions and are reminded of them frequently, they start to shift their
-  belief system.
+  <!--StartFragment-->
 
 
-  #### Checking with the fundamental assumptions in daily processes
+  Muchos de nosotros tenemos supuestos profundamente arraigadas sobre la gente y el trabajo que están basadas en el miedo, supuestos que reclaman jerarquía y control. Las organizaciones Teal articulan los supuestos que ellas tienen sobre la gente y sobre el trabajo. Sólo arrojando luz brillante sobre estas creencias basadas en el miedo podemos decidir elegir un diferente conjunto de supuestos. Cuando los colegas hablan de los dos conjuntos de supuestos y se les recuerdan con frecuencia, comienzan a cambiar su sistema de creencias.
 
 
-  Colleagues in Teal organizations routinely check the way daily practices ([meetings](../meetings/), [conflict resolution](../conflict-resolution/), [team / community building](../team-and-community-building/), [decision making](../decision-making/)) are conducted – and the outcomes they generate with the [values ](../culture-and-values/)and underlying fundamental assumptions.  
+  \
 
+  **Comprobar los supuestos fundamentales en los procesos cotidianos**\
 
-  #### Articulating both sets of assumptions when transforming an existing organization
+  Los colegas en las organizaciones Teal rutinariamente comprueban la forma en que las prácticas diarias ([reuniones](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Reuniones "Reuniones"), [solución de Conflictos](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Resoluci%C3%B3n_de_Conflictos "Resolución de Conflictos"), [equipo ](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Equipos_de_Proyecto_y_Grupos_de_Tarea "Equipos de Proyecto y Grupos de Tarea")/ [construcción del equipo/comunidad](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Construcci%C3%B3n_del_Equipo_/_la_Comunidad "Construcción del Equipo / la Comunidad"), la [toma de Decisiones](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Toma_de_Decisiones "Toma de Decisiones")) se llevan a cabo - y los resultados que ellos generan con los valores y los supuestos fundamentales subyacentes.
 
 
-  Most of the organizational practices chosen will be deeply counter-cultural to more conventional organizations. It is possible that people will question choices and call new assumptions foolish. Debates can be more fruitful when they don't stay at the level of arguing for or against a certain management practice, but when they take place at a deeper level, discussing the often hidden assumptions underneath the practice.
+  **Articular los dos conjuntos de supuestos cuando transformamos una organización existente**\
 
+  La mayoría de las prácticas organizacionales elegidas serán profundamente contra-culturales para las organizaciones más convencionales. Es posible que la gente cuestione las opciones y llame absurdos los nuevos supuestos. Los debates pueden ser más fructíferos cuando no se mantienen al nivel de argumentar a favor o en contra de cierta práctica de gestión, sino cuando tienen lugar a un nivel más profundo, discutiendo los supuestos a menudo ocultos debajo de la práctica.\
 
-  For example, each time when [AES](http://www.aes.com/) acquired a new power plant, the CEO would introduce AES's management practices to the new group of colleagues by asking them what assumptions owners and managers of a typical factory hold of their workers (see further: In Practice).
+  Por ejemplo, cada vez que [AES](http://www.aes.com/home/default.aspx) adquiere una nueva planta de energía, el CEO presenta las prácticas de gestión de AES al nuevo grupo de colegas preguntándoles qué supuestos tienen los propietarios y gerentes de una fábrica tradicional sobre sus trabajadores (ver más adelante: En la práctica).
 
 
-  #### Practical tips:
+  **Consejos prácticos:**
 
 
-  1. Start by uncovering the unspoken assumptions behind the traditional hierarchical organizational (Amber/Orange) model.
+  1. Comience descubriendo los supuestos tácitos detrás del modelo organizacional jerárquico tradicional (Ámbar / Naranja).
 
-  2. Don't do it alone - explore it together with your team.
+  2. No lo haga solo: explórelos junto con su equipo.
 
 
-  #### Discussing the fundamental assumptions when starting up a teal organization
 
 
-  When starting up a Teal organization, choosing the right co-founders is a critical decision. If the organization is to run on Evolutionary-Teal principles, the founders' readiness to embrace Teal ways of operating are crucial. Be ready to spend a significant amount of time discussing these topics - including the fundamental assumptions on people and work. You are shaping the culture of your organization before it has even started.  
+  **Discutir los supuestos fundamentales al iniciar una organización Teal**
 
 
-  #### Self-management
+  Al iniciar una organización Teal, la elección de los co-fundadores es una decisión crítica. Si la organización va a seguir los principios del Teal Evolutivo, la disposición de los fundadores a abrazar las formas de funcionamiento Teal es crucial. Esté listo para pasar una cantidad significativa de tiempo discutiendo estos temas - incluyendo los supuestos fundamentales sobre las personas y el trabajo. Está moldeando la cultura de su organización antes de que empiece a operar.
 
 
-  To operate effectively – even at a large scale – with a system based on peer relationships, without the need for either hierarchy nor consensus, one relies on the following Teal principles. They in turn are based on the fundamental assumptions of Teal:
+  **Autogestión**
 
 
-  ##### *Trust*
+  Para operar eficazmente, incluso a gran escala, con un sistema basado en relaciones entre pares, sin necesidad de jerarquía ni consenso, uno se apoya en los siguientes principios Teal. A su vez, se basan en los supuestos fundamentales Teal:
 
 
-  * We relate to one another with an assumption of positive intent.
+  **Confianza**
 
-  * Until we are proven wrong, trusting co-workers is our default means of engagement.
 
-  * Freedom and accountability are two sides of the same coin.
+  * Nos relacionamos unos con otros bajo el supuesto de intención positiva.
 
+  * Hasta que no se pruebe lo contrario, confiar en los compañeros es por default nuestro compromiso.
 
-  ##### *Information and decision making*
+  * La libertad y la responsabilidad son dos caras de la misma moneda.
 
 
-  * All business information is open to all.
+  \
 
-  * Every one of us is able to handle difficult and sensitive news.
+  **Información y toma de decisiones**
 
-  * We believe in the power of collective intelligence. Nobody is as smart as everybody. Therefore all decisions will be made with the "[advice process](../decision-making/)".
 
+  * Toda la información del negocio está abierta a todos.
 
-  ##### *Responsibility and accountability*
+  * Cada uno de nosotros es capaz de manejar noticias difíciles y sensibles.
 
+  * Creemos en el poder de la inteligencia colectiva. Nadie es tan inteligente como todos juntos. Por lo tanto, todas las decisiones se tomarán con el "proceso de los consejos”.
 
-  * We each have full responsibility for the organization. If we sense that something needs to happen, we have a duty to address it. it's not acceptable to limit our concern to the remit of roles.
 
-  * Everyone must be comfortable with holding others accountable to their commitments through feedback and respectful confrontation.
+  \
 
+  **Responsabilidad y rendición de cuentas**
 
-  #### Wholeness
 
+  * Cada uno de nosotros tiene plena responsabilidad por la organización. Si sentimos que algo tiene que suceder, tenemos el deber de abordarlo. No es aceptable limitar nuestra preocupación a nuestro rol.
 
-  To bring your whole self to work, to be able to be whole in your relationship with others and with life and nature, you build on the following assumptions:
+  * Todo el mundo debe estar cómodo con la manera como otros responsables cumplen sus compromisos a través de retroalimentación y confrontación respetuosa.
 
 
-  ##### *Equal worth*
+  \
 
+  **Plenitud**\
 
-  * We are all of fundamental equal worth.
+  Para llevar a todo su ser al trabajo, y ser capaz de aportarse por entero en su relación con los demás y con la vida y la naturaleza, has de asumir los siguientes supuestos:
 
-  * At the same time, our community will be richest if we let all members contribute in their distinctive way. We appreciate the differences in roles, education, backgrounds, interests, skills, characters and points of view.
 
+  **De Igual valor**
 
-  ##### *Safe and caring workplace*
 
+  * Todos tenemos fundamentalmente el mismo valor.
 
-  * Any situation can be approached from fear and separation or from love and connection. We choose love and connection.
+  * Al mismo tiempo, nuestra comunidad será más rica si dejamos que todos los miembros contribuyan de manera distintiva. Apreciamos las diferencias en roles, educación, antecedentes, intereses, habilidades, caracteres y puntos de vista.
 
-  * We strive to create emotionally and spiritually safe environments, where each of us can behave authentically.
 
-  * We honor the moods of love, care, appreciation, recognition, gratitude, curiosity, fun, playfulness…
+  \
 
-  * We are comfortable with vocabulary like care, love, service, purpose, soul,... in the workplace.
+  **Un lugar de trabajo seguro y que cuida**
 
 
-  ##### *Overcoming separation*
+  * Cualquier situación se puede abordar desde el miedo y la separación o desde el amor y conexión. Elegimos el amor y la conexión.
 
+  * Nos esforzamos por crear ambientes emocional y espiritualmente seguros, donde cada uno de nosotros pueda comportarse auténticamente.
 
-  * We aim to have a workplace where we can honor all parts of us: the cognitive, the physical, emotional and spiritual; the rational and the intuitive, the feminine and the masculine.
+  * Honramos los estados de ánimo de amor, cuidado, aprecio, reconocimiento, gratitud, curiosidad, diversión, juego ...
 
-  * We recognize that we are all deeply interconnected, part of something bigger and that includes nature and all forms of life.
+  * Nos sentimos cómodos con el uso de palabras como cuidado, amor, servicio, propósito, alma, ... en el lugar de trabajo.
 
 
-  ##### *Learning*
+  \
 
+  **Superar la separación**
 
-  * Every problem is an invitation to learn and grow. We will always be learners. We have never arrived.
 
-  * Failure is always a possibility, if we strive boldly for our purpose. We discuss failures openly and learn from them. Hiding or neglecting to learn from failure is not acceptable.
+  * Nuestro objetivo es tener un lugar de trabajo donde podamos honrar a todas las partes de nosotros: lo cognitivo, lo físico, lo emocional y lo espiritual; Lo racional y lo intuitivo, lo femenino y lo masculino.
 
-  * Feedback and respectful confrontation are gifts we share to help one another grow.
+  * Reconocemos que todos estamos profundamente interconectados, somos parte de algo más grande que incluye la naturaleza y todas las formas de vida.
 
-  * We focus on strengths more than weaknesses, on opportunities more than problems.
 
+  \
 
-  ##### *Relationships and conflict*
+  **Aprendizaje**
 
 
-  * It's impossible to change other people. We can only change ourselves.
+  * Cada problema es una invitación a aprender y crecer. Siempre seremos aprendices. Nunca consideraremos que hemos llegado.
 
-  * Every person has life lessons they are meant to learn by themselves. What we can do is be there to support each other in that process of personal change.
+  * El fracaso es siempre una posibilidad, si nos esforzamos audazmente por nuestro propósito. Discutimos las fallas abiertamente y aprendemos de ellas. Ocultar o ser negligente para aprender de las fallas no es aceptable.
 
-  * We take ownership for our thoughts, beliefs, words and actions.
+  * La retroalimentación y la confrontación respetuosa son dones que compartimos para ayudarnos mutuamente a crecer.
 
-  * We don't spread rumors. We don't talk behind someone's back.
+  * Nos centramos más en las fortalezas que en las debilidades, en las oportunidades más que en los problemas.
 
-  * We resolve disagreements one-on-one and don't drag other people into the problem.
 
-  * We don't blame problems on others. When we feel like blaming, we take it as an invitation to reflect on how we might be part of the problem (and the solution).
+  \
 
+  **Relaciones y conflictos**
 
-  #### Evolutionary purpose
 
+  * Es imposible cambiar a otras personas. Sólo podemos cambiar nosotros mismos.
 
-  To see the organization as having a life of its own, with a purpose of its own, is based on trust in the abundance of life and the ability to distance yourself from your ego:
+  * Cada persona tiene lecciones de vida que debe aprender por sí misma. Lo que podemos hacer es estar ahí para apoyarnos mutuamente en ese proceso de cambio personal.
 
+  * Nos apropiamos de nuestros pensamientos, creencias, palabras y acciones.
 
-  ##### *Collective purpose*
+  * No esparcimos rumores. No hablamos detrás de alguien.
 
+  * Resolvemos los desacuerdos uno a uno y no arrastramos a otras personas al problema.
 
-  * We view the organization as having a soul, a creative impulse and purpose of its own.
+  * No culpamos a los demás de los problemas. Cuando sentimos ganas de culpar, lo tomamos como una invitación a reflexionar sobre cómo podemos ser parte del problema (y la solución).
 
-  * We try to listen in to where the organization wants to go and beware of forcing direction onto it.
 
+  \
 
-  ##### *Individual purpose*
+  **Propósito evolutivo**
 
 
-  * We have a duty to ourselves and to the organization to inquire into our personal sense of calling to see if and how it resonates with the organization's purpose.
+  • Ver la organización teniendo una vida propia, con un propósito propio, se basa en la confianza en la abundancia de la vida y la capacidad de distanciarse de su ego.
 
-  * We try to imbue our roles with our souls, not our egos.
 
+  **Propósito colectivo**
 
-  ##### *Planning the future*
 
+  * Consideramos que la organización tiene un alma, un impulso creativo y un propósito propio.
 
-  * Trying to predict the future is futile. We make forecasts only when a specific decision requires us to do so.
+  * Tratamos de escuchar a donde la organización quiere ir y somos cuidadosos de no forzar la dirección.
 
-  * Everything will unfold with more grace if we stop trying to control and instead choose to simply sense and respond.
 
+  \
 
-  ##### *Profit*
+  **Propósito individual**
 
 
-  * In the long run, there are no trade-offs between purpose and profits. If we focus on purpose (cause), the profit (effect) will follow.
+  * Tenemos un deber para con nosotros mismos y para la organización de investigar nuestra vocación personal para ver si resuena con el propósito de la organización como lo hace.
+
+  * Tratamos de imbuir nuestros roles con nuestras almas, no con nuestros egos.
+
+
+  \
+
+  **Planificación del futuro**
+
+
+  * Tratar de predecir el futuro es inútil. Hacemos pronósticos sólo cuando una decisión específica nos obliga a hacerlo.
+
+  * Todo se desarrollará con más gracia si dejamos de intentar controlar y en lugar de ello simplemente elegimos sentir y responder.
+
+
+  \
+
+  **Ganancias**\
+
+  A largo plazo, no hay negociación entre el propósito y los beneficios. Si nos centramos en el propósito (causa), el beneficio (efecto) vendrá.
+
+
+
+
+  <!--EndFragment-->
 faq:
-  - question: What's the difference between making explicit the fundamental
-      assumptions and formulating new ones – and the traditional exercise on
-      values?
-    answer: "The traditional values document is often a rather disappointing
-      instrument for cultural change. If there is a perceivable difference
-      between theory and practice, between the official policy and experienced
-      reality. A value document will most likely be irrelevant as a change
-      driver. This is because the traditional exercise that produces it does not
-      question the underlying fundamental assumptions which shape the structure
-      and culture of the organization, and the behavior that goes with it. (It
-      is like the fish not knowing the water because it is all around it.)\r
-
-      \r\n"
-  - question: Why should I bother to make these assumptions explicit?
+  - question: ¿Cuál es la diferencia entre hacer explícitos los supuestos
+      fundamentales y formular otros nuevos - y el ejercicio tradicional sobre
+      los valores?
     answer: >-
-      Consider these three reasons to do so:
+      <!--StartFragment-->
 
 
-      1. It makes it easier to explain why you've chosen to use operating practices that defy conventional management.
+      El documento de valores tradicionales suele ser un instrumento bastante decepcionante para el cambio cultural. Si hay una diferencia perceptible entre la teoría y la práctica, entre la política oficial y la realidad experimentada. Un documento de declaración de valores muy probablemente será irrelevante como un generador de cambio. Esto se debe a que el ejercicio tradicional que lo produce no cuestiona los supuestos fundamentales subyacentes que configuran la estructura y la cultura de la organización y el comportamiento que la acompaña. (Es como el pescado que no conoce el agua porque está inmerso en ella.)
 
-      2. The assumptions can serve as touchstones for every new practice or process you consider introducing.
 
-      3. Explicit assumptions make it easier for anybody in the organization, even the most junior colleague, to speak up and say: "I wonder if what we are doing is in line with our basic assumptions".
+      <!--EndFragment-->
+  - question: ¿Por qué molestarnos en hacer explícitas estos supuestos?
+    answer: >-
+      <!--StartFragment-->
+
+
+      Considere estas tres razones para hacerlo:
+
+
+      1. Es más fácil explicar por qué ha elegido utilizar prácticas operativas que desafían la gestión convencional.
+
+      2. Los supuestos pueden servir como piedras de toque para cada nueva práctica o proceso que usted considere introducir.
+
+      3. Los supuestos explícitos facilitan que cualquiera en la organización, incluso el colega de reciente ingreso, hable y diga: "Me pregunto si lo que estamos haciendo está en línea con nuestros supuestos básicos".
+
+
+      <!--EndFragment-->
 relatedTheory:
   - Culture and Values
 ---
