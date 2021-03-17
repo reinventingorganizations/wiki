@@ -13,7 +13,7 @@ intro: >-
   Es una labor de amor, el trabajo de una comunidad alegre, dedicada a que las organizaciones con alma cobren vida en todas partes. Le invitamos a[ unirse a nosotros y contribuir](/pages/how-can-you-contribute) para añadir casos y puntos de vista a esta wiki.
 
 
-  ![](/media/flagGreatBritainXXS.png)    [Click here ](/pages/translations) for accessing translations of this Wiki (Hungarian and Spanish are available today - Russian, Chinese and French in progress)
+  ![](/media/flagGreatBritainXXS.png)    [Haga click aquí](/pages/translations) Acceso a otras páginas de idiomas de la base de conocimiento (inglés, húngaro y español completado - construido en ruso, francés, italiano, polaco, turco, y alemán)
 topics:
   - title: Teal Concepts
     image: /media/home_reinvention-etienne-small.png
