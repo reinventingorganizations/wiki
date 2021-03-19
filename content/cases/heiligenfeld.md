@@ -83,7 +83,7 @@ theory:
       Stage of Human Consciousness (Kindle Locations 4460-4463). Nelson Parker.
       Kindle Edition.]"
   - topic: wholeness
-    title: Company-wide reflection
+    title: Reflexión colectiva con todos
     content: >-
       <!--StartFragment-->
 
