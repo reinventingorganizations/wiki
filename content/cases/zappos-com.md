@@ -12,9 +12,8 @@ companySize: "> 500"
 profit: Profit
 theory:
   - topic: Culture and Values
-    title: Zappos.com is famous for its outstanding culture, offers its new hires a
-      $3,000 check if they have second thoughts and choose to quit during the
-      four- week orientation.
+    title: "Ofrece a sus nuevos empleados un cheque de $ 3,000 si tienen dudas y
+      deciden salir durante la orientación de cuatro semanas. "
     content: Zappos.com es famoso por sus prácticas culturales verdes descritas en
       el bestseller “Delivering Happiness", escrito por el CEO Tony Hsieh. La
       cultura Zappos se basa en la confianza, el amor y el respeto. Con valores
