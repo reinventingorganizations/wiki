@@ -38,17 +38,16 @@ theory:
       semanas, y trabajan en cuatro a seis áreas diferentes. Para los
       asalariados, se tarda aún más: de uno a cuatro meses en el taller. Sólo
       entonces asumen los papeles para los que fueron contratados.'
-    content: >-
-      At [Sun Hydraulics](http://www.sunhydraulics.com/), all new hires start
-      with a “manufacturing tour,” no matter what their future role will be;
-      they learn to operate not just one, but several work stations. For hourly
-      employees, the tour lasts for two to four weeks, and they work in four to
-      six different areas. For salaried employees, it takes even longer: one to
-      four months on the shop floor. Only then do they take on the roles they
-      were hired for.
-
-
-      ¿Por qué una inducción tan larga? La gente de Sun cree que es fundamental establecer relaciones con otros empleados de la empresa para entenderla desde todos los ángulos. Un entorno de autogestión ofrece la oportunidad de hacer que las cosas sucedan, de llegar libremente a los colegas, de discutir los cambios sin pasar por una jerarquía de aprobaciones. Cuanta más gente conozca, más entienda el conjunto, más podrá aportar nuevas ideas y convertirlas en realidad. En Sun, no es raro que, tras la gira por la fábrica, los nuevos contratados asuman una función distinta a aquella para la que fueron contratados. Tropiezan con un nuevo interés o una necesidad urgente y acaban en un lugar diferente.
+    content: ¿Por qué una inducción tan larga? La gente de Sun cree que es
+      fundamental establecer relaciones con otros empleados de la empresa para
+      entenderla desde todos los ángulos. Un entorno de autogestión ofrece la
+      oportunidad de hacer que las cosas sucedan, de llegar libremente a los
+      colegas, de discutir los cambios sin pasar por una jerarquía de
+      aprobaciones. Cuanta más gente conozca, más entienda el conjunto, más
+      podrá aportar nuevas ideas y convertirlas en realidad. En Sun, no es raro
+      que, tras la gira por la fábrica, los nuevos contratados asuman una
+      función distinta a aquella para la que fueron contratados. Tropiezan con
+      un nuevo interés o una necesidad urgente y acaban en un lugar diferente.
   - topic: Training and Coaching
     title: ' En [Sun Hydraulics,](http://www.sunhydraulics.com/) todas las nuevas
       contrataciones comienzan con una "gira de fabricación", sin importar cuál
