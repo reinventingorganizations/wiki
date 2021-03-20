@@ -1,8 +1,8 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
 name: Sun Hydraulics
+date: 2020-11-09
 introduction: >-
   From its own website [Sun Hydraulics](https://www.sunhydraulics.com/about) is
   a leading designer and manufacturer of high-performance screw-in hydraulic
@@ -146,40 +146,46 @@ theory:
       and a dispersed and fluid ownership. Maybe Teal organizations and non-Teal
       ownership can be compatible after all?"
   - topic: Project teams and task forces
-    title: Sun manages projects without project planning.
-    content: "[Sun Hydraulics](http://www.sunhydraulics.com/) is a global producer
-      of hydraulic cartridge valves and manifolds with hundreds of engineering
-      projects running in parallel. Despite this, there is no master plan. There
-      are no project charters and no one bothers with staffing people on
-      projects. Project teams form organically and disband again when work is
-      done. Nobody knows if projects are on time or on budget, because for 90
-      percent of the projects, no one cares to put a timeline on paper or to
-      establish a budget. A huge amount of time is freed by dropping all the
-      formalities of project planning - writing the plan, getting approval,
-      reporting on progress, explaining variations, rescheduling, and
-      re-estimating, not to mention the politics that go into securing resources
-      for one's project or to find someone to blame when projects are over time
-      or over budget. According to one of Sun's leaders, \"We don't waste time
-      being busy\".^[Laloux, Frederic (2014-02-09). Reinventing Organizations: A
-      Guide to Creating Organizations Inspired by the Next Stage of Human
-      Consciousness (Kindle Location 1927). Nelson Parker. Kindle Edition.]"
+    title: Sun gestiona los proyectos sin planificación de los mismos.
+    content: '[Sun Hydraulics](http://www.sunhydraulics.com/) es un productor
+      mundial de válvulas de cartucho hidráulicas y colectores con cientos de
+      proyectos de ingeniería ejecutándose en paralelo. A pesar de esto, no
+      existe un plan maestro. No hay charters del proyecto y nadie se molesta
+      con la dotación de personal en los proyectos. Los equipos de proyecto se
+      forman orgánicamente y se disuelven de nuevo cuando se realiza el trabajo.
+      Nadie sabe si los proyectos están a tiempo o dentro de presupuesto, porque
+      para el 90 por ciento de los proyectos, nadie se preocupa de poner un
+      cronograma en el papel o para establecer un presupuesto. Una gran cantidad
+      de tiempo se libera por la caída de todas las formalidades de la
+      planificación del proyecto - escribir el plan, obtener la aprobación,
+      informar sobre el progreso, explicar las variaciones, reprogramar, y re
+      estimar, por no hablar de la política generada para asegurar recursos para
+      su proyecto o para encontrar a alguien a quien culpar cuando los proyectos
+      exceden el tiempo o el presupuesto. Según uno de los líderes de Sun, "no
+      perdemos el tiempo estando ocupados". \[10]. ^\[Laloux, Frederic
+      (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations
+      Inspired by the Next Stage of Human Consciousness (Kindle Location 1927).
+      Nelson Parker. Kindle Edition.]'
   - topic: Self-Management
     title: A global, engineering company run largely without hierarchy or central
       control
-    content: "[Sun Hydraulics](http://www.sunhydraulics.com/) is a global producer
-      of hydraulic cartridge valves and manifolds with hundreds of engineering
-      projects running in parallel. Despite this, there is no master plan. There
-      are no project charters and no one bothers with staffing people on
-      projects. Project teams form organically and disband again when work is
-      done. Nobody knows if projects are on time or on budget, because for 90
-      percent of the projects, no one cares to put a timeline on paper or to
-      establish a budget. A huge amount of time is freed by dropping all the
-      formalities of project planning - writing the plan, getting approval,
-      reporting on progress, explaining variations, rescheduling, and
-      re-estimating, not to mention the politics that go into securing resources
-      for one's project or to find someone to blame when projects are over time
-      or over budget. According to one of Sun's leaders, \"We don't waste time
-      being busy\".^[Laloux, Frederic (2014-02-09). Reinventing Organizations: A
-      Guide to Creating Organizations Inspired by the Next Stage of Human
-      Consciousness (Kindle Location 1927). Nelson Parker. Kindle Edition.]"
+    content: '[Sun Hydraulics](http://www.sunhydraulics.com/) es un productor
+      mundial de válvulas de cartucho hidráulicas y colectores con cientos de
+      proyectos de ingeniería ejecutándose en paralelo. A pesar de esto, no
+      existe un plan maestro. No hay charters del proyecto y nadie se molesta
+      con la dotación de personal en los proyectos. Los equipos de proyecto se
+      forman orgánicamente y se disuelven de nuevo cuando se realiza el trabajo.
+      Nadie sabe si los proyectos están a tiempo o dentro de presupuesto, porque
+      para el 90 por ciento de los proyectos, nadie se preocupa de poner un
+      cronograma en el papel o para establecer un presupuesto. Una gran cantidad
+      de tiempo se libera por la caída de todas las formalidades de la
+      planificación del proyecto - escribir el plan, obtener la aprobación,
+      informar sobre el progreso, explicar las variaciones, reprogramar, y re
+      estimar, por no hablar de la política generada para asegurar recursos para
+      su proyecto o para encontrar a alguien a quien culpar cuando los proyectos
+      exceden el tiempo o el presupuesto. Según uno de los líderes de Sun, "no
+      perdemos el tiempo estando ocupados". \[10]. \[Laloux, Frederic
+      (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations
+      Inspired by the Next Stage of Human Consciousness (Kindle Location 1927).
+      Nelson Parker. Kindle Edition.]'
 ---
