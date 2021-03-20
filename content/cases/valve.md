@@ -10,38 +10,45 @@ companySize: 201-500
 profit: Profit
 theory:
   - topic: Compensation and incentives
-    title: Valve uses a stack ranking system to determine compensation.
+    title: Valve utiliza un sistema de clasificación de bloques para determinar la
+      compensación.
     content: >-
-      [Valve](http://www.valvesoftware.com/) is a leading video game developer
-      and distributor. Once a year, a designated group of employees (the group
-      changes every year) interviews everyone in the company, asking for
-      feedback on each individual that person has worked with over the past year
-      (this information is used primarily for constructive feedback) and asking
-      the employee to rank each member of his own project/product group on the
-      following four metrics:
+      [Valve](http://www.valvesoftware.com/) es un desarrollador y distribuidor
+      líder de videojuegos. Una vez al año, un grupo designado de empleados (el
+      grupo cambia cada año) entrevista a todos en la empresa, solicitando
+      información sobre cada persona con la que ha trabajado durante el último
+      año (esta información se utiliza principalmente para comentarios
+      constructivos) Empleado para clasificar a cada miembro de su propio grupo
+      de proyecto / producto en las cuatro métricas siguientes:
 
 
-      * Skill level/Technical Ability
+      * Nivel de habilidad / Capacidad técnica
 
-      * Productivity/Output
+      * Productividad / Producción
 
-      * Group Contribution
+      * Contribución del Grupo
 
-      * Product Contribution
+      * Contribución del producto
 
 
-      Each of these metrics is given equal weight in compiling a stack ranking of all the employees in a given group. Once the intra-group ranking is done, the information gets pooled for the company as a whole and is used to determine compensation. The system is based on a belief that these four metrics are the most appropriate for determining the "correct" compensation and that they in turn are best determined through a peer-based valuation process (which the company believes is less likely to be subject to bias given its flat organizational structure).^[Valve Handbook for New Employees; 2012]
+      \
+
+      Cada una de las métricas recibe el mismo peso al compilar una clasificación de todos los empleados de un grupo dado. Una vez realizada la clasificación intragrupo, la información se agrupa para la empresa en su conjunto y se utiliza para determinar la compensación. El sistema se basa en la creencia de que estas cuatro métricas son las más apropiadas para determinar la compensación "correcta" y que a su vez se determinan mejor a través de un proceso de valoración basado en pares (que la empresa cree que es menos probable que esté sujeto a sesgo dada su plana estructura organizativa). \[9]
   - topic: Project teams and task forces
-    title: At Valve deciding what to work on is a job in and of itself.
+    title: En Valve, decidir en qué trabajar es un trabajo en sí mismo.
     content: >-
-      [Valve](https://www.valvesoftware.com/hu/) is a leading videogame
-      developer and distributor. According to their employee handbook, "When you
-      give smart talented people the freedom to create without fear of failure,
-      amazing things happen.^\[Valve Handbook for New Employees; 2012]
+      [Valve](http://www.valvesoftware.com/) es uno de los principales
+      desarrolladores y distribuidores de videojuegos. Según su manual del
+      empleado, "cuando usted da a gente talentosa y elegante la libertad de
+      crear sin el miedo del fracaso, las cosas asombrosas suceden”. (8)
 
 
-      At Valve, employees are not told what to do but rather are expected to work on what they believe to be of most value to the company. Valve acknowledges that "deciding what to work on can be the hardest part of your job" and advises employees to ask themselves questions such as "Of all the projects currently under way, what's the most valuable thing I can be working on?" and "What's interesting? What's rewarding?" What leverages my individual strengths the most?"
+      \
+
+      En Valve, a los empleados no se les dice qué hacer, sino que se espera que trabajen en lo que creen que es de mayor valor para la empresa. Valve reconoce que "decidir cuál es su trabajo puede ser la parte más difícil de su trabajo" y aconseja a los empleados que se hagan preguntas como "De todos los proyectos actualmente en marcha, ¿cuál es la cosa más valiosa en la que puedo trabajar?". Y “¿Cuál es la más interesante? ¿Cuál es la más gratificante?" ¿Qué aprovecha más mis puntos fuertes individuales? "
 
 
-      As a result, most of the work at Valve is accomplished via self-organized, temporary, multi-disciplinary project teams called "cabals". They form organically as people decide to join a group based on their belief that the group's work is important enough for them to contribute their skills. Often someone will emerge as the "lead" on a project. However, their role is not to manage the team in a traditional sense but rather to act as a kind of information clearinghouse. By having an understanding of the whole project, they can act as a resource for team members to check decisions against.^\[Valve Handbook for New Employees; 2012]
+      \
+
+      Como resultado, la mayor parte del trabajo en Valve se lleva a cabo a través de equipos de proyecto auto-organizados, temporales y multidisciplinarios llamados "cabals". Se forman orgánicamente según las personas decidan unirse a un grupo basado en su creencia de que el trabajo del grupo es lo suficientemente importante para que ellos contribuyan con sus habilidades. A menudo alguien emergerá como el "líder" en un proyecto. Sin embargo, su papel no es administrar el equipo en un sentido tradicional, sino más bien actuar como una especie de centro de intercambio de información. Al tener una comprensión de todo el proyecto, pueden actuar como un recurso para que los miembros del equipo puedan contrastar sus decisiones. \[9]
 ---
