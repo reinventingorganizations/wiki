@@ -33,21 +33,21 @@ theory:
       making the leap to Holacracy, which will make it the largest holacratic
       organization to date.
   - topic: Recruitment
-    title: "Ofrece a sus nuevos empleados un cheque de $ 3,000 si tienen dudas y
-      deciden salir durante la orientación de cuatro semanas. "
+    title: Zappos.com offers its new hires a $3,000 check if they have second
+      thoughts and choose to quit during the four-week orientation.
     content: >-
-      La idea es que es mejor para todo mundo no permanecer en un matrimonio que
-      no está destinado a ser. Tres mil dólares es un montón de dinero para las
-      personas que trabajan en centros de llamadas o moviendo cajas en los
-      centros de distribución, que es lo que la mayoría de los empleados
-      de [Zappos.com](https://www.zappos.com/) hacen. Es un tributo a la cultura
-      sobresaliente de Zappos que el porcentaje de personas que toman el dinero
-      y se van es sólo alrededor del uno o dos por ciento. Cada vez que el
-      porcentaje de personas que toman el cheque se acerca demasiado a cero,
-      Zappos aumenta la cantidad (empezó con $ 100, luego subió a $ 200 y lo
-      elevó una y otra vez hasta su nivel actual). La práctica, en esencia, se
-      reduce a un barómetro real de la salud de la cultura de la organización.
+      The idea is that everyone will be better off not staying in a marriage
+      that isn’t meant to be. Three thousand dollars is a lot of money for
+      people working in call centers or moving boxes in fulfillment centers,
+      which is what most Zappos.com employees do. It’s a tribute
+      to [Zappos](https://www.zappos.com/)’ outstanding culture that the
+      percentage of people taking the money and leaving is only around one or
+      two percent. Whenever the percentage of people taking the check draws too
+      close to zero, Zappos increases the amount (it started with $100, then
+      raised it to $200, and raised it again and again up to its current level).
+      The practice, in essence, boils down to a real-life barometer of the
+      health of the organization’s culture.
 
 
-      Zappos.com es famoso por sus prácticas culturales verdes descritas en el bestseller *Delivering Happiness*, escrito por el CEO Tony Hsieh. La empresa de 1.500 empleados está dando el salto a Holacracy.
+      Zappos.com is famous for its Green cultural practices described in the bestseller Delivering Happiness, written by CEO Tony Hsieh. The 1,500-employee company is currently making the leap to Holacracy.
 ---
