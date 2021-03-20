@@ -81,30 +81,35 @@ theory:
 
       Feedback about how individuals can improve is given in the natural course of events throughout the year and not saved up for the annual appraisal.^[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 186]
   - topic: Purchasing and Investments
-    title: Sun Hydraulics dropped most formalities of project planning, thereby
-      freeing up productive capacity.
-    content: At [Sun Hydraulics](http://www.sunhydraulics/) project and investment
-      management is radically simplified. There is no management that wants to
-      understand and control the complexity. Projects happen organically and
-      informally. Engineers are typically working on several projects in
-      parallel. They constantly rearrange their priorities, based on what they
-      sense is the most important, most urgent, or most fun to do. Google has
-      the famous practice of “20 percent time” - engineers are free to decide
-      how to spend their Fridays. Sun and other self-managing organizations
-      basically extend this to the whole week. There is no master plan. There
-      are no project charters and no one bothers with staffing people on
-      projects. Project teams form organically and disband again when work is
-      done. Nobody knows if projects are on time or on budget, because for 90
-      percent of the projects, no one cares to put a timeline on paper or to
-      establish a budget. A huge amount of time is freed by dropping all the
-      formalities of project planning - writing the plan, getting approval,
-      reporting on progress, explaining variations, rescheduling, and
-      re-estimating, not to mention the politics that go into securing resources
-      for one’s project or to find someone to blame when projects are over time
-      or over budget. When Kirsten Regal, one of Sun’s leaders, was asked about
-      how little their meeting rooms seemed to be used, she quipped, “We don’t
-      waste time being busy.^[Laloux, Frederic. Reinventing Organizations.
-      Nelson Parker (2014), page 84 and following]
+    title: Sun Hydraulics abandonó la mayoría de las formalidades de la
+      planificación de proyectos, liberando así la capacidad productiva.
+    content: >-
+      En [Sun Hydraulics](http://www.sunhydraulics.com/es), se ha simplificado
+      todo esto de manera radical. No existe una dirección que deba entender y
+      controlar la complejidad. Los proyectos avanzan de manera orgánica e
+      Informal. Normalmente, los ingenieros trabajan en varios proyectos a la
+      vez. Reorganizan sus prioridades constantemente según entiendan qué es más
+      importante, más urgente o más entretenido. Google desarrolla la famosa
+      práctica del "veinte por ciento del tiempo", en que los ingenieros son
+      libres de elegir cómo pasan sus viernes. Sun y otras organizaciones
+      autogestionadas extienden esto a la semana completa. No hay un plan
+      maestro. No hay planificación de proyectos y nadie se molesta en asignar
+      personal a los proyectos. Los equipos se constituyen orgánicamente y se
+      disuelven cuando el trabajo ha terminado. Nadie sabe si los proyectos
+      están a tiempo o dentro del presupuesto porque, para el noventa por ciento
+      de los proyectos, nadie se preocupa de cronometrarlos o de establecer un
+      presupuesto. Se ahorra una enorme cantidad de tiempo cuando se renuncia a
+      todas las formalidades de la planificación de proyectos: elaborar un plan,
+      obtener la aprobación, informar del progreso, explicar las variaciones,
+      reprogramar y recalcular, sin mencionar las políticas que entran en juego
+      para asegurar los recursos o para encontrar un culpable cuando los
+      proyectos se exceden en plazo o en costes. Cuando le comenté a Kirsten
+      Regal, una de las líderes de Sun, lo poco que parecían usar sus salas de
+      reuniones, dijo a modo de broma, "no perdemos el tiempo estando
+      ocupados.”(2)
+
+
+      ^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 84 and following]
   - topic: Budgeting and Controlling
     title: Un ejemplo de enfoque sin presupuesto de Sun Hydraulics, una empresa que
       cotiza en bolsa en Estados Unidos
