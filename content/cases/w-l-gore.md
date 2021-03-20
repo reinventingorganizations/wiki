@@ -37,5 +37,5 @@ theory:
       En Gore, no hay incentivos ni bonos. Todo el mundo obtiene participaciones en la empresa como parte de la participación en los beneficios. Por ejemplo, alguien que gana £ 50K en salario en el Reino Unido podría hacer un adicional de £ 5K en acciones. La participación en los beneficios es proporcional al salario base (se calcula sobre la base del salario de este año y el salario de los últimos 3 años en alguna fórmula). Así que si su unidad pierde mucho dinero o hace mucho, no cambia la participación en los beneficios, para reforzar el mantra "todo en el mismo barco". \[7] 
 
 
-      ##### ^[<http://www.managementexchange.com/story/innovation-democracy-wl-gores-original-management-model> and personal interview Frederic Laloux with Gore leader, April 2015]
+      \[<http://www.managementexchange.com/story/innovation-democracy-wl-gores-original-management-model> and personal interview Frederic Laloux with Gore leader, April 2015]
 ---
