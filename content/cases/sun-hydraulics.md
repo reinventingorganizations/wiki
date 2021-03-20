@@ -98,26 +98,26 @@ theory:
       waste time being
       busy.[\[2]](https://sp--reinventingorganizations-wiki.netlify.app/cases/sun-hydraulics/#fn2)
   - topic: Budgeting and Controlling
-    title: Un ejemplo de enfoque sin presupuesto de Sun Hydraulics, una empresa que
-      cotiza en bolsa en Estados Unidos
+    title: An example of a budget-free approach of Sun Hydraulics, a publicly listed
+      company in the United States.
     content: >-
-      El caso de Sun Hydraulics demuestra que un enfoque libre de presupuesto es
-      posible incluso para una compañía que cotiza en bolsa. Allen Carlson, CEO,
-      explica: *"Después de nuestra OPI en enero de 1997, tuvimos que mejorar en
-      la predicción de nuestros números... El mercado nos penalizó cuando
-      perdimos un trimestre en 1999 después de adoptar un nuevo sistema de
-      fabricación. Hemos dicho, "Mira, no podemos predecir lo que está pasando
-      en la economía, y no tenemos idea de cómo se verán nuestros pedidos en un
-      año a partir de ahora... No dirigimos este negocio por los números. Los
-      números estarán haciendo los que los números hacen, sólo podemos darle una
-      buena imagen de lo que el próximo trimestre traerá. Así que nos alejamos
-      de hacer proyecciones anuales y empezamos a hacer pronósticos
-      trimestrales... Sabemos que nuestro desempeño en el largo plazo será el
-      resultado de hacer las cosas correctas todos los días"*. \
+      The case of [Sun Hydraulics](https://www.sunhydraulics.com/) shows that a
+      budget-free approach is possible even for a publicly listed company. Allen
+      Carlson, the CEO, explains: "*After our IPO in January 1997, we had to get
+      better at predicting our numbers. … The market penalized us when we missed
+      one quarter in ‘99 after we adopted a new manufacturing system. We said,
+      'Look, we can’t predict what’s going on in the economy, and we have no
+      idea what our orders will look like a year from now. … We don’t run this
+      business by the numbers. The numbers will be doing what the numbers will
+      be doing; we can just give you a good picture of what the next quarter
+      will bring.' So, we got away from making annual projections and started
+      just doing quarterly forecasts. … We know our performance in the long run
+      will be a result of just doing the right things every day."*
+
 
       \
 
-      La mayoría de los líderes empresariales se sentirían desnudos sin presupuestos y pronósticos. Cuando le hicieron esta pregunta a Carlson: “¿Cómo manejas el hecho de que no manejar un pronóstico para comprar el desempeño de la gente? ¿Cómo sabes si los chicos de Alemania (donde Sun tiene una planta) estaban haciendo un buen trabajo el año pasado, si no tiene ningún objetivo para comparar?", Su respuesta fue pan comido: “*¿Quién sabe? ¿A quién le importa? Todos están trabajando duro, haciendo lo mejor que pueden. Tenemos buenas personas en todos los lugares alrededor del mundo y si necesito ese tipo de tarjeta de puntuación, probablemente tengo la persona equivocada. Esa es la forma en que operamos. ... Si soy el jefe de ventas de Sun en los EE.UU. y me preguntas qué es el pronóstico, no tengo ni idea! ¿Cómo podría generar uno de todos modos? ... Al final del día, hay mucho fuera de su control. ... Es imposible predecir lo impredecible.”*
+      Most business leaders would feel naked without budgets and forecasts. When the question was put to Carlson "How do you deal with having no forecasts to compare people’s performance to? For instance, how do you know if the guys in Germany (where Sun has a plant) were doing a good job last year, if you have no target to compare against?"*,* his answer came shooting out of the barrel: *Who knows? Who cares? They are all working hard, doing the best they can. We have good people in all the places around the world and if I need that sort of scorecard I probably got the wrong person. That’s just the way we operate. … If I’m the head of sales of Sun in the US and you ask me what is the forecast, I have no clue! How could I generate one anyway? … At the end of the day, there is so much outside of your control. … It’s impossible to predict the unpredictable.*
   - topic: Ownership
     title: Una empresa pública desde 1997 mantiene su compromiso Teal.
     content: "Sun Hydraulics, una empresa que fue fundada en 1970 por dos
