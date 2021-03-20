@@ -40,5 +40,5 @@ theory:
       ##### ***Incentives and profit sharing***
 
 
-      At Gore, there are no incentives or bonuses. Everybody gets shares in the company as part of profit sharing. For example, someone making £50K in salary in the UK could make an additional £5K in shares. The profit sharing is proportional to the base salary (it is calculated based on this year's salary and the salary over the last 3 years in some formula). So if your unit loses lots of money or makes lots of it, it doesn’t change profit sharing, to reinforce the “all in the same boat” mantra. [\[1]](https://sp--reinventingorganizations-wiki.netlify.app/cases/w-l-gore/#fn1)
+      At Gore, there are no incentives or bonuses. Everybody gets shares in the company as part of profit sharing. For example, someone making £50K in salary in the UK could make an additional £5K in shares. The profit sharing is proportional to the base salary (it is calculated based on this year's salary and the salary over the last 3 years in some formula). So if your unit loses lots of money or makes lots of it, it doesn’t change profit sharing, to reinforce the “all in the same boat” mantra. \[[1]](https://reinventingorganizations-wiki.netlify.app/cases/w-l-gore/#fn1)
 ---
