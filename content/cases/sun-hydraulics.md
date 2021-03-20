@@ -17,15 +17,15 @@ companySize: "> 500"
 profit: Profit
 theory:
   - topic: Role Definition and Allocation
-    title: Un proceso de contratación interna en el que los futuros colegas
-      entrevistan a los candidatos para un puesto.
+    title: " An internal recruitment process in which future colleagues interview
+      candidates for a role."
     content: >-
-      En [Sun Hydraulics](http://www.sunhydraulics.com/), los cambios de rol
-      menores ocurren a menudo orgánicamente, por la gente simplemente
-      intensificándose para asumir un papel o abrir una conversación sobre la
-      necesidad de que alguien asuma ese papel.\
+      At Sun Hydraulics, minor role changes often take place organically, by
+      people simply stepping up to take on a role or opening a conversation
+      about the need for someone to take on that role.
 
-      Cuando se crea un rol más grande o se dispone de un conjunto de roles existente (digamos que existe la necesidad de un ingeniero de automatización), se lleva a cabo un proceso de reclutamiento interno. Los candidatos son entrevistados por los colegas que trabajarán más estrechamente con la persona que llena el nuevo rol.
+
+      When a larger role is created or an existing set of roles becomes available (say there is a need for an automation engineer), an internal recruitment process takes place. Candidates are interviewed by the colleagues who will work most closely with the person filling the new role.
   - topic: Onboarding
     title: ' En [Sun Hydraulics,](http://www.sunhydraulics.com/) todas las nuevas
       contrataciones comienzan con una "gira de fabricación", sin importar cuál
