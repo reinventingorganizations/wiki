@@ -10,8 +10,8 @@ companySize: "> 500"
 profit: Profit
 theory:
   - topic: Compensation and incentives
-    title: Gore uses a ranking system, calibrated by two panels, to decide on
-      salaries.
+    title: "Gore utiliza un sistema de clasificación, calibrado por dos paneles,
+      para decidir sobre los salarios. "
     content: >-
       **Proceso de clasificación según la contribución**
 
