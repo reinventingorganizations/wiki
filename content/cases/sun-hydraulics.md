@@ -27,23 +27,16 @@ theory:
 
       When a larger role is created or an existing set of roles becomes available (say there is a need for an automation engineer), an internal recruitment process takes place. Candidates are interviewed by the colleagues who will work most closely with the person filling the new role.
   - topic: Onboarding
-    title: ' En [Sun Hydraulics,](http://www.sunhydraulics.com/) todas las nuevas
-      contrataciones comienzan con una "gira de fabricación", sin importar cuál
-      sea su papel futuro; Aprenden a operar no sólo una, sino varias estaciones
-      de trabajo. Para los empleados por hora, el viaje dura de dos a cuatro
-      semanas, y trabajan en cuatro a seis áreas diferentes. Para los
-      asalariados, se tarda aún más: de uno a cuatro meses en el taller. Sólo
-      entonces asumen los papeles para los que fueron contratados.'
-    content: ¿Por qué una inducción tan larga? La gente de Sun cree que es
-      fundamental establecer relaciones con otros empleados de la empresa para
-      entenderla desde todos los ángulos. Un entorno de autogestión ofrece la
-      oportunidad de hacer que las cosas sucedan, de llegar libremente a los
-      colegas, de discutir los cambios sin pasar por una jerarquía de
-      aprobaciones. Cuanta más gente conozca, más entienda el conjunto, más
-      podrá aportar nuevas ideas y convertirlas en realidad. En Sun, no es raro
-      que, tras la gira por la fábrica, los nuevos contratados asuman una
-      función distinta a aquella para la que fueron contratados. Tropiezan con
-      un nuevo interés o una necesidad urgente y acaban en un lugar diferente.
+    title: " At Sun Hydraulics all new hires start with a manufacturing tour in
+      which they learn to operate several works stations before they take on the
+      roles they were hired for."
+    content: >-
+      \
+
+      At [Sun Hydraulics](http://www.sunhydraulics.com/), all new hires start with a “manufacturing tour,” no matter what their future role will be; they learn to operate not just one, but several work stations. For hourly employees, the tour lasts for two to four weeks, and they work in four to six different areas. For salaried employees, it takes even longer: one to four months on the shop floor. Only then do they take on the roles they were hired for.
+
+
+      Why such a long induction? People at Sun Hydraulics believe it’s critical to build relationships with other employees across the company to understand it from all angles. A self-managing environment provides opportunity to make things happen, to freely reach out to colleagues, to discuss change without going through a hierarchy of approvals. The more people you know, the more you understand the whole, the more you’ll be able to come up with new ideas and turn them into reality. At Sun Hydraulics, it is not unusual that after the manufacturing tour, new hires end up taking up a role that wasn’t the one they were hired for. They stumble upon a new interest or some urgent need and end up in a different place.
   - topic: Training and Coaching
     title: ' En [Sun Hydraulics,](http://www.sunhydraulics.com/) todas las nuevas
       contrataciones comienzan con una "gira de fabricación", sin importar cuál
