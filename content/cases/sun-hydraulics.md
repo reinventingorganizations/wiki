@@ -112,31 +112,23 @@ theory:
       be doing; we can just give you a good picture of what the next quarter
       will bring.' So, we got away from making annual projections and started
       just doing quarterly forecasts. … We know our performance in the long run
-      will be a result of just doing the right things every day."*
-
-
-      \
+      will be a result of just doing the right things every day."*\
 
       Most business leaders would feel naked without budgets and forecasts. When the question was put to Carlson "How do you deal with having no forecasts to compare people’s performance to? For instance, how do you know if the guys in Germany (where Sun has a plant) were doing a good job last year, if you have no target to compare against?"*,* his answer came shooting out of the barrel: *Who knows? Who cares? They are all working hard, doing the best they can. We have good people in all the places around the world and if I need that sort of scorecard I probably got the wrong person. That’s just the way we operate. … If I’m the head of sales of Sun in the US and you ask me what is the forecast, I have no clue! How could I generate one anyway? … At the end of the day, there is so much outside of your control. … It’s impossible to predict the unpredictable.*
   - topic: Ownership
-    title: Una empresa pública desde 1997 mantiene su compromiso Teal.
-    content: "Sun Hydraulics, una empresa que fue fundada en 1970 por dos
-      ingenieros, diseña y fabrica válvulas de cartucho hidráulico y colectores.
-      Ha sido una empresa de propiedad pública desde 1997 con fábricas en
-      Florida (donde tiene su sede), Kansas, Inglaterra, Alemania y Corea. Sus
-      acciones se negocian en NASDAQ, y al 1 de junio de 2016 Sun tenía una
-      capitalización de mercado de casi $ 800 millones. Si bien la familia del
-      fundador todavía tiene una participación significativa en Sun, no ejercen
-      el control mayoritario. \\[9] \\[A 1 de marzo de 2016, Christine L. Koski,
-      la hija del fallecido fundador de la empresa, Robert E. Koski, es miembro
-      del consejo de administración, y ella, junto con otros miembros de su
-      familia, posee o controla aproximadamente el 14% de las acciones
-      ordinarias en circulación de Sun. Fuente: Sun Hydraulics Corporation 10-K
-      presentado el 31 de marzo de 2016; p. 11. ] Sun parece ser un caso
-      importante de una empresa capaz de mantener un compromiso con Teal a pesar
-      de una estructura corporativa tradicional y una propiedad dispersa y
-      fluida. ¿Tal vez las organizaciones Teal y organizaciones no Teal pueden
-      ser compatibles después de todo?"
+    title: A public company since 1997 holds its commitment to Teal.
+    content: Sun Hydraulics, a company that was founded in 1970 by two engineers,
+      designs and manufactures hydraulic cartridge valves and manifolds. It has
+      been a publicly owned company since 1997 with factories in Florida (where
+      it is headquartered), Kansas, England, Germany, and Korea. Its shares are
+      traded on NASDAQ, and as of June 1, 2016 Sun had a market capitalization
+      of nearly $800 million. While the founder’s family still has a significant
+      stake in Sun, they do not exercise majority
+      control.[\[3]](https://sp--reinventingorganizations-wiki.netlify.app/cases/sun-hydraulics/#fn3) Sun
+      would seem to be an important case of a company able to maintain a
+      commitment to Teal despite a traditional corporate structure and a
+      dispersed and fluid ownership. Maybe Teal organizations and non-Teal
+      ownership can be compatible after all?
   - topic: Project teams and task forces
     title: Sun manages projects without project planning.
     content: At [Sun Hydraulics](http://www.sunhydraulics/) project and investment
