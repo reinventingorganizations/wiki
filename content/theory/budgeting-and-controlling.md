@@ -6,9 +6,9 @@ name: Budgeting and Controlling
 sortOrder: 5
 category: Important Processes
 intro: >-
-  Organisations prepare financial budgets and monitor performance against them
+  Organizations prepare financial budgets and monitor performance against them
   to control their operations and to determine how well objectives and targets
-  are achieved This article deals with how budgets are established, monitored
+  are achieved. This article deals with how budgets are established, monitored
   and what control practices are used to achieve results.
 
 
