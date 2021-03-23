@@ -34,55 +34,55 @@ perspective: >-
   ### Pomarańczowe organizacje
 
 
-  [Orange organizations](https://reinventingorganizations-wiki.netlify.app/theory/orange-paradigm-and-organizations/) manage performance carefully to ensure that targets and goals are achieved. This requires regular (weekly/monthly/quarterly/annual) meetings at most levels in the organization.
+  [Pomarańczowe organizacje](../orange-paradigm-and-organizations/)  z uwagą zarządzają wydajnością, aby zapewnić osiągnięcie celów i zadań. Wymaga to regularnych (cotygodniowych/miesięcznych/kwartalnych/rocznych) spotkań na większości szczebli organizacji.
 
 
-  Meetings are held for many reasons :
+  Spotkania odbywają się z wielu powodów:
 
 
-  * Reporting progress and making decisions. 
+  * Raportowanie postępów i podejmowanie decyzji.
 
-  * Planning
+  * Planowanie.
 
-  * To innovate through brainstorming and other creative processes.
+  * Wprowadzanie innowacji poprzez burzę mózgów i inne procesy twórcze.
 
-  * Gaining approval for investments and other important decisions
+  * Uzyskanie akceptacji dla inwestycji i innych ważnych decyzji.
 
-  * Determining priorities, and so on.
-
-
-  As these meetings proliferate, they become the 'diary-filler' for busy senior executives. Until relatively recently, this often meant significant travel for some of those employed by international organizations.
+  * Określanie priorytetów i tak dalej.
 
 
-  Meetings often have pre-defined agendas with the intention of reaching clear outcomes. Rational discussion and logical arguments are valued. However, personal agendas are never far from the surface and have the potential to undermine organizational goals.
+  W miarę jak te spotkania się mnożą, stają się one "wypełnianiem kalendarzy" dla zapracowanych menedżerów wyższego szczebla. Jeszcze do niedawna oznaczało to często duże podróże dla tych, którzy są zatrudnieni w organizacjach międzynarodowych.
 
 
-  ### Green organizations
+  Spotkania często mają z góry określony program z zamiarem osiągnięcia jasnych rezultatów. Ceniona jest racjonalna dyskusja i logiczne argumenty. Jednak osobiste plany nigdy nie są zbyt daleko ukryte i mogą potencjalnie podważać cele organizacyjne.
 
 
-  In [Green organizations](../green-paradigm-and-organizations/), aim to serve multiple stakeholders with equality, respect and inclusion. This requires meeting with them. Consensus is valued, but may be gruelling to achieve.
+  ### Zielone organizacje
 
 
-  Meetings are not only about planning and reporting (as in Orange organizations), but are also about sustaining a sense of ownership, inclusion and empowerment: in other words, creating a values-based culture.  As a result, meeting practices tend to be more attentive to the underlying processes within the group.
+  W [Zielonych organizacjach](../green-paradigm-and-organizations/), celem jest by służyć wielu interesariuszom z równością, szacunkiem i włączeniem. To wymaga spotkania z nimi. Konsensus jest ceniony, ale jego osiągnięcie może być wyczerpujące.
 
 
-  ### Teal organizations
+  Spotkania służą nie tylko planowaniu i raportowaniu (jak w organizacjach Pomarańczowych), ale także podtrzymywaniu poczucia własności, integracji i upodmiotowienia: innymi słowy, tworzenia kultury opartej na wartościach. W rezultacie praktyki spotkań są bardziej zorientowane na podstawowe procesy w grupie.
 
 
-  [Self-organization ](../self-management/)allows members of [Teal organizations](../teal-paradigm-and-organizations/) to take responsibility for making decisions without the need for approval or consensus. As a result there are usually far fewer meetings required.
+  ### Turkusowe organizacje
 
 
-  Meetings tend to be held only when they are necessary. Reasons include:
+  [Samoorganizacja](../self-management/) pozwala członkowm [Turskusowych organizacji](../teal-paradigm-and-organizations/) brać odpowiedzialność za podejmowanie decyzji bez potrzeby uzyskania zgody lub konsensusu. W rezultacie zwykle wymaganych jest znacznie mniej spotkań.
 
 
-  * Seeking advice when this is required by the advice process
-
-  * Sharing information
-
-  * Responding to changing circumstances
+  Spotkania zwykle odbywają się tylko wtedy, gdy są konieczne. Powody to:
 
 
-  Meetings usually incorporate specific practices to ensure that members engage with each other and the purpose of the meeting in a respectful and productive way. New joiners are typically trained in these processes so they can participate fully.
+  * Poszukiwanie porad, gdy jest to wymagane w procesie doradczym
+
+  * Dzielić się informacjami
+
+  * Reagowanie na zmieniające się okoliczności
+
+
+  Spotkania zwykle zawierają określone praktyki, aby zapewnić, że członkowie angażują się wzajemnie i realizują cel spotkania w sposób produktywny i pełen szacunku. Nowi dołączający są zwykle szkoleni w tych procesach, aby mogli w nich w pełni uczestniczyć.
 inPractice: >-
   #### *Meeting activity is limited and arises from the 'need to meet'*
 
