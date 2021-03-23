@@ -8,7 +8,9 @@ category: Important Processes
 intro: >-
   Les organisations préparent des budgets financiers et suivent les performances
   (par rapport aux budgets) pour contrôler leurs opérations et déterminer dans
-  quelle mesure les objectifs et les cibles sont atteints.
+  quelle mesure les objectifs et les cibles sont atteints. Cet article traite de
+  la manière dont les budgets sont établis, suivis et des pratiques de contrôle
+  utilisées pour atteindre les résultats.
 
 
   ![](/media/budgeting-and-controlling.jpg)
