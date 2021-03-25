@@ -1,8 +1,8 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
 name: Sociocracy
+date: 2020-11-09
 introduction: Sociocracy, also called dynamic governance, is a system of
   governance which seeks to create harmonious social environments and productive
   organizations. It is distinguished by the use of consent, rather than majority
@@ -13,27 +13,26 @@ companySize: "> 500"
 profit: non-profit
 theory:
   - topic: Role Definition and Allocation
-    title: A consent based election process to allocate roles within teams
+    title: Un proceso electoral basado en el consentimiento para asignar roles
+      dentro de los equipos
     content: >-
-      [Sociocracy.info ](http://www.sociocracy.info/)describes the Sociocratic
-      election process in the following way: 
+      [www.sociocracy.info](http://www.sociocracy.info/) describe el proceso de
+      elección sociocrática de la siguiente manera:
 
 
-      The circle meets for the purpose of deciding who is the best available person for a job. Election is by the consent of all members present or their consent to using a method other than consent. Alternate methods may include range voting, preference voting, majority vote, etc. The group may also consent to delegating the final decision.
+      1. El círculo se reúne con el propósito de decidir quién es la mejor persona disponible para un trabajo. La elección es por el consentimiento de todos los miembros presentes o su consentimiento para usar un método que no sea el consentimiento. Los métodos alternos pueden incluir el rango de votación, voto preferencial, voto mayoritario, etc. El grupo también puede consentir en delegar la decisión final.
 
+      2. El líder de la elección lee la descripción del trabajo. La descripción del trabajo define el objetivo de la elección. Como objetivo, establece las bases para el argumento y el consentimiento. El grupo puede haber definido previamente las funciones y tareas de la persona a ser elegida y consentida a la descripción del trabajo, o puede hacerse en la misma reunión. El líder de la elección puede haber sido elegido previamente, puede ser el líder regular del grupo, o puede ser elegido en la misma reunión. Esto se determina por el tamaño y la complejidad de la organización y la naturaleza de la elección, por ejemplo, si se espera que sea altamente competitivo o que sea una posición clave. 
 
-      1. The election leader reads the job description. The job description defines the aim of the election. As an aim, it establishes the basis for argument and consent. The group may have previously defined the functions and tasks of the person to be elected and consented to the job description, or it may be done in the same meeting. The election leader may have been previously elected, may be the regular leader of the group, or may be elected in the same meeting. This is determined by the size and complexity of the organization and the nature of the election, whether, for example, it is expected to be highly competitive or is a key position.
+      3. Las nominaciones se presentan por escrito como simplemente X designa a X. Los miembros del Círculo pueden nominarse a sí mismos. Pueden nominar a alguien que no es un miembro del círculo o nominar una "búsqueda externa" para alguien que no es actualmente un miembro del círculo. 
 
-      1. Nominations are submitted in writing as simply X nominates X. Circle members may nominate themselves. They may nominate someone who is not a member of the circle or nominate an “outside search” for someone not currently a member of the circle.
+      4. Los miembros dan sus argumentos para la persona que ellos nominaron. Todos los argumentos para un nominado se presentan en la misma ronda, preguntando a los nominadores adicionales si tienen argumentos que añadir a los de la primera persona a presentar. El líder de la elección debe monitorear si los argumentos se basan en la descripción del trabajo y la capacidad de la persona para cumplir con sus requisitos y detener el presentador si no lo son. 
 
-      1. Members give their arguments for the person they nominated. All arguments for one nominee are presented in the same round, asking the additional nominators if they have arguments to add to those of the first person to present. The election leader should monitor whether arguments are based on the job description and the ability of the person to fulfill its requirements and stop the presenter if they are not.
+      5. Los nominadores cambian o retiran las nominaciones. Después de los argumentos a favor de las nominaciones se presentan, los miembros tienen la oportunidad de cambiar o retirar sus nominaciones. 
 
-      1. Nominators change or withdraw nominations. After arguments in favor of nominations are presented, members are given the opportunity to change or withdraw their nominations.
+      6. Discusión abierta o rondas sobre las calificaciones de los miembros nominados. Dependiendo del tamaño del círculo, los miembros pueden hacer rondas para discutir los candidatos o tener una discusión abierta facilitada por el líder de la elección. En este momento cualquier preocupación o objeción a los candidatos puede ser abordada por el candidato u otro por otros miembros del círculo. Cuando sea apropiado, el líder de la elección puede sugerir que una persona parece ser el mejor candidato. El grupo debe aceptar esta decisión. 
 
-      1. Open discussion or rounds on the qualifications of nominated members. Depending on the size of the circle, members may do rounds to discuss the candidates or have open discussion facilitated by the election leader. At this time any concerns about or objections to candidates may be addressed by the candidate or other by other members of the circle. When appropriate, the election leader may suggest that one person seems to be the best candidate. The group must consent to this decision.
+      7. Los candidatos aceptan o rechazan. Cuando un candidato ha recibido el consentimiento de todos los miembros presentes, se le pregunta al candidato si acepta el cargo. A los candidatos no se les permite disminuir antes de este punto debido a que algunos candidatos pueden declinar prematuramente por miedo a presentarse a la elección o creer inapropiadamente que no están calificados. Al escuchar por qué sus compañeros los han elegido, los candidatos son más propensos a aceptar. 
 
-      1. Candidates accept or decline. When one candidate has received the consent of all members present, that candidate is asked if they will accept the position. Candidates are not allowed to decline before this point because some candidates migh decline prematurely for fear of standing for election or inappropriately believing themselves to be unqualified. On hearing why their peers have elected them, candidates are more likely to accept.
-
-
-      Candidates may also accept with provisions, such as a modification in the job description, additional financial or personal support, etc. The group must decide to accept these changes by consent. If they do not, another round may be conducted to elect another of the candidates nominated or a new election conducted.^[Source:  <http://www.sociocracy.info/about-sociocracy/the-sociocratic-election-process/> The article gives further interesting information about conditions that make for good or bad election decisions.]
+      8. Los candidatos también pueden aceptar con reservas, como una modificación en la descripción del puesto, apoyo financiero o personal adicional, etc. El grupo debe decidir si acepta estos cambios por consentimiento. Si no lo aceptan, se puede llevar a cabo otra ronda para elegir a otro de los candidatos propuestos o realizar una nueva elección.^[Source:  <http://www.sociocracy.info/about-sociocracy/the-sociocratic-election-process/> The article gives further interesting information about conditions that make for good or bad election decisions.]
 ---
