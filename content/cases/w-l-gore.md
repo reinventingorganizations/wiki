@@ -1,8 +1,8 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
 name: W.L.Gore
+date: 2020-11-09
 introduction: Industrial conglomerate - Global - 10.000 associates - For Profit
 industry: C. Manufacturing
 geography: Global
@@ -10,35 +10,32 @@ companySize: "> 500"
 profit: Profit
 theory:
   - topic: Compensation and incentives
-    title: Gore uses a ranking system, calibrated by two panels, to decide on
-      salaries.
+    title: "Gore utiliza un sistema de clasificación, calibrado por dos paneles,
+      para decidir sobre los salarios. "
     content: >-
-      ##### ***Contribution process***
+      **Proceso de clasificación según la contribución**\
 
+      Una vez al año, dentro de cada equipo (típicamente grupos de 10 personas en aproximadamente la misma función), todos clasifican a los demás de 1 a 9 (contrario a Holacracy, no se clasifican en la lista) en función de su futuro pasado y esperado contribución. El proceso ha sido automatizado, y en las formas, la gente puede agregar un comentario al lado de cada persona, y además evaluar si son un "ajuste de alta cultura" o "ajuste de cultura baja".\
 
-      Once a year, within each team (typically groups of 10 people in roughly the same function), everyone ranks the others from 1 to 9 (contrary to Holacracy, you don’t rank yourself in the list) based on their past and expected future contribution. The process has been automated, and on the forms, people can add a comment next to every person, and additionally assess if they are a “high culture fit" or "low culture fit”.
+      \
 
+      Un comité pequeño (típicamente el líder, otro líder y HR) revisa los resultados agregados en gran detalle, y en su discusión pueden cambiar el orden. Digamos que John termina en el segundo lugar de la lista agregada, pero que se siente demasiado alto, y el miembro del comité sospecha que realmente es un voto de lealtad. Ellos pueden decidir mover a John hasta el número 4. Cuando el comité está hecho, cada patrocinador comparte comentarios con su persona. Nunca el lugar exacto en el rango. Pero "en la parte superior", "medio" y "inferior". (Si una persona está en la parte inferior por un tiempo, la discusión va a suceder: otro papel que se adapte mejor? Necesidad de formación o salir de la empresa?) \
 
-      A small committee (typically the leader, another leader, and HR) reviews the aggregate results in great detail, and in their discussion they can change the order. Say John ends up number 2 on the aggregate list, but that feels too high, and the committee member suspect that it's really a loyalty vote. They can decide to move John down to number 4.
+      \
 
+      **Proceso de compensación**\
 
-      When the committee is done, each sponsor shares feedback with their person. Never the exact place in the rank. But “at the top”, “middle” and “bottom”. (If one person is at the bottom for a while, discussion will happen: other role that fits better? Need for training? Or exit the company?)
+      Un comité de compensación sigue las huellas del comité de contribuciones. Se traza la curva de salario de las 10 personas que fueron clasificados y ver si los salarios están en consonancia con la contribución. Si es necesario, el comité hará los cambios apropiados. \
 
+      \
 
-      ##### ***Compensation process***
+      **Transparencia**\
 
+      No hay transparencia en los salarios de Gore. Si se está discutiendo el salario de una persona en el comité, él o ella no verá los datos que pertenecen a él o ella. \
 
-      A compensation committee follows in the footsteps of the contribution committee. It will plot the salary curve of the 10 people that were ranked and see if the salaries are in line with the contribution. If needed, the committee will make the appropriate changes.
+      \
 
+      **Incentivos y compartir ganancias**\
 
-      ##### ***Transparency***
-
-
-      There is no transparency on salaries at Gore. If a person in the committee is being discussed, he or she will not see the data that pertains to him or her.
-
-
-      ##### ***Incentives and profit sharing***
-
-
-      At Gore, there are no incentives or bonuses. Everybody gets shares in the company as part of profit sharing. For example, someone making £50K in salary in the UK could make an additional £5K in shares. The profit sharing is proportional to the base salary (it is calculated based on this year's salary and the salary over the last 3 years in some formula). So if your unit loses lots of money or makes lots of it, it doesn’t change profit sharing, to reinforce the “all in the same boat” mantra. ^[<http://www.managementexchange.com/story/innovation-democracy-wl-gores-original-management-model> and personal interview Frederic Laloux with Gore leader, April 2015]
+      En Gore, no hay incentivos ni bonos. Todo el mundo obtiene participaciones en la empresa como parte de la participación en los beneficios. Por ejemplo, alguien que gana £ 50K en salario en el Reino Unido podría hacer un adicional de £ 5K en acciones. La participación en los beneficios es proporcional al salario base (se calcula sobre la base del salario de este año y el salario de los últimos 3 años en alguna fórmula). Así que si su unidad pierde mucho dinero o hace mucho, no cambia la participación en los beneficios, para reforzar el mantra "todo en el mismo barco". \[7]
 ---
