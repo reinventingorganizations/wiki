@@ -1,5 +1,5 @@
 ---
 tags: theoryCategories
 key: Important Processes
-name: Procesos importantes
+name: Procesos Importantes
 ---
