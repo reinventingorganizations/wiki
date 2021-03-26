@@ -2,18 +2,18 @@
 layout: content
 name: Key organizational structures and practices
 ---
-## Key organizational structures and practices
+## Kluczowe struktury i praktyki organizacyjne
 
 ![](/media/structure.jpg)
 
-### Structure
+### Struktury
 
-* [Organizational Structure](/theory/organizational-structure/)
-* [Staff Functions](/theory/staff-functions/)
-* [Coordination](/theory/coordination/)
-* [Project teams and task forces](/theory/project-teams-and-task-forces/)
-* [Board](/theory/board/)
-* [Ownership](/theory/ownership/)
+* [Struktura Organizacyjna](/theory/organizational-structure/)
+* [Fukcje Personelu](/theory/staff-functions/)
+* [Koordynacja](/theory/coordination/)
+* [Zespoły projektowe i grupy zadaniowe](/theory/project-teams-and-task-forces/)
+* [Zarząd](/theory/board/)
+* [Własność](/theory/ownership/)
 
   \--------------------------------------
 
