@@ -21,31 +21,31 @@ name: Key organizational structures and practices
 
 ### Key business processes
 
-* [Strategy](/theory/strategy/)
-* [Innovation and Product Development](/theory/innovation-and-product-development/)
-* [Sales and Marketing](/theory/sales-marketing/)
-* [Purchasing and Investments](/theory/purchasing-and-investments/)
-* [Budgeting and Controlling](/theory/budgeting-and-controlling/)
-* [Environmental and Social Management](/theory/environmental-and-social-management/)
-* [Change Management](/theory/change-management/)
-* [Crisis Management](/theory/crisis-management/)
+* [Strategia](/theory/strategy/)
+* [Innowacje i Rozwój Produktu](/theory/innovation-and-product-development/)
+* [Sprzedaż i Marketing](/theory/sales-marketing/)
+* [Zakupy i Inwestycje](/theory/purchasing-and-investments/)
+* [Budżetowanie i Kontroling](/theory/budgeting-and-controlling/)
+* [Zarządzanie Środowiskowe i Społeczne](/theory/environmental-and-social-management/)
+* [Zarządzanie Zmianą](/theory/change-management/)
+* [Zarządzanie Kryzysowe](/theory/crisis-management/)
 
   \--------------------------------------
 
 ![](/media/people-practices.jpg)
 
-### People practices
+### Praktyki Kadrowe
 
-* [Recruitment](/theory/recruitment/)
+* [Rekrutacja](/theory/recruitment/)
 * [Onboarding](/theory/onboarding/)
-* [Training and Coaching](/theory/training-and-coaching/)
-* [Commitment, Working Hours and Flexibility](/theory/commitment-working-hours-and-flexibility/)
-* [Job Titles and Job Descriptions](/theory/job-titles-and-job-descriptions/)
-* [Objectives and Target Setting](/theory/objectives-and-target-setting/)
-* [Feedback and Performance Management](/theory/feedback-and-performance-management/)
-* [Compensation and incentives](/theory/compensation-and-incentives/)
-* [Role Definition and Allocation](/theory/role-definition-and-allocation/)
-* [Dismissal](/theory/dismissal/)
+* [Szkolenia i Coaching](/theory/training-and-coaching/)
+* [Zaangażowanie, Godziny Pracy i Elastyczność](/theory/commitment-working-hours-and-flexibility/)
+* [Tytuły i Opisy Stanowisk](/theory/job-titles-and-job-descriptions/)
+* [Cele i Wyznaczanie Celów](/theory/objectives-and-target-setting/)
+* [Informacja Zwrotna i Zarządzanie Wydajnością](/theory/feedback-and-performance-management/)
+* [Wynagrodzenia i Zachęty](/theory/compensation-and-incentives/)
+* [Definicja i Alokacja Ról](/theory/role-definition-and-allocation/)
+* [Zwolnienia](/theory/dismissal/)
 
   \--------------------------------------
 
@@ -53,30 +53,30 @@ name: Key organizational structures and practices
 
 ### Daily organizational practices
 
-* [Fundamental Assumptions](/theory/fundamental-assumptions/)
-* [Meetings](/theory/meetings/)
-* [Decision Making](/theory/decision-making/)
-* [Conflict resolution](/theory/conflict-resolution/)
-* [Information Flow](/theory/information-flow/)
-* [Culture and Values](/theory/culture-and-values/)
-* [Creating Safe Space](/theory/safe-space/)
-* [Team and Community Building](/theory/team-and-community-building/)
-* [Mood Management](/theory/mood-management/)
-* [Listening to Purpose](/theory/listening-to-purpose/)
+* [Podstawowe Założenia](/theory/fundamental-assumptions/)
+* [Spotkania](/theory/meetings/)
+* [Podejmowanie Decyzji](/theory/decision-making/)
+* [Rozwiązywanie konfliktów](/theory/conflict-resolution/)
+* [Przepływ informacji](/theory/information-flow/)
+* [Kultura i Wartości](/theory/culture-and-values/)
+* [Tworzenie Bezpiecznej Przestrzeni](/theory/safe-space/)
+* [Budowanie Zespołu i Społeczności](/theory/team-and-community-building/)
+* [Zarządzanie Nastrojem](/theory/mood-management/)
+* [Wsłuchiwanie się w Cel Organizacji](/theory/listening-to-purpose/)
 
 \--------------------------------------
 
-## Background articles
+## Uzupełniające artykuły
 
-### Teal Concepts
+### Koncepcje Turkusu
 
 ![](/media/fundamental-assumptions.jpg)
 
-Short resume about the main teal concepts described in the book
+Krótkie podsumowanie dotyczące głównych koncepcji turkusowych opisanych w książce
 
-* [Self-Management](/theory/self-management/)
-* [Wholeness](/theory/wholeness/)
-* [Evolutionary Purpose](/theory/evolutionary-purpose/)
+* [Samoorganizacja](/theory/self-management/)
+* [Pełnia](/theory/wholeness/)
+* [Ewolucyjny Cel](/theory/evolutionary-purpose/)
 
 ### History of Organizational Development
 
