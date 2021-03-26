@@ -4,15 +4,15 @@ tags: cases
 name: Schule im Aufbruch
 date: 2020-11-09
 introduction: >-
-  Consulting Services - Germany - 6 employees - Non-profit
+  Servicios de consultoría - Alemania - 6 empleados - Sin ánimo de lucro
 
 
-  Schule im Aufbruch is an initiative that aims to help children develop their potential, maintain and promote the innate enthusiasm and creativity of children and young people.
+  Schule im Aufbruch es una iniciativa que pretende ayudar a los niños a desarrollar su potencial, mantener y promover el entusiasmo y la creatividad innatos de los niños y los jóvenes.
 
 
-  In order to enable the development of potential at school, a new learning culture, diverse learning formats and an appreciative attitude are required. What really counts: Trust, appreciation, relationship, responsibility, meaning.
+  Para permitir el desarrollo del potencial en la escuela, se requiere una nueva cultura de aprendizaje, diversos formatos de aprendizaje y una actitud apreciativa. Lo que realmente cuenta: La confianza, el aprecio, la relación, la responsabilidad, el sentido.
 
-  School in Transition stands for a holistic and transformative education as formulated in the UNESCO World Action Plan on Education for Sustainable Development. It is about taking responsibility for oneself, for one's fellow human beings and for our planet.
+  La Escuela en Marcha defiende una educación holística y transformadora, tal como se formula en el Plan de Acción Mundial de la UNESCO sobre la Educación para el Desarrollo Sostenible. Se trata de asumir la responsabilidad por uno mismo, por los demás seres humanos y por nuestro planeta.
 industry: P. Education
 geography: Germany
 companySize: 1-100
@@ -32,5 +32,5 @@ theory:
       realidad su potencial como escuela según su propio estilo, así como a
       hacer realidad todo el potencial de los empleados de Schule im
       Aufbruch.^\[Monia Ben Larbi, partner/employee at Schule im Aufbruch.]'
-    title: Escuelas en movimiento
+    title: Escuelas en Marcha
 ---
