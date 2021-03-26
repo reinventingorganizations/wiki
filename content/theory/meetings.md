@@ -84,10 +84,11 @@ perspective: >-
 
   Spotkania zwykle zawierają określone praktyki, aby zapewnić, że członkowie angażują się wzajemnie i realizują cel spotkania w sposób produktywny i pełen szacunku. Nowi dołączający są zwykle szkoleni w tych procesach, aby mogli w nich w pełni uczestniczyć.
 inPractice: >-
-  #### *Meeting activity is limited and arises from the 'need to meet'*
+  #### *Aktywność związana ze spotkaniami jest ograniczona i wynika z 'potrzeby
+  spotkania'*
 
 
-  Meetings can arise spontaneously whenever a member of the organization senses a need, and takes the initiative.  Meeting structures and facilitation support this [self-organizing ](../self-management/)spirit. The increased transparency in Teal organizations reduces the number and length of some meetings. When meetings are held, care is taken to use specific practices that foster a sense of [wholeness](../wholeness/).
+  Spotkania mogą odbywać się spontanicznie, ilekroć członek organizacji wyczuje potrzebę i przejmuje inicjatywę. Struktury spotkań i facylitacja wspierają ducha [samo-organizacji](../self-management/). Zwiększona przejrzystość w organizacjach Turkusu zmniejsza liczbę i długość niektórych spotkań. Podczas spotkań zwraca się uwagę na stosowanie określonych praktyk, które sprzyjają poczuciu [pełni](../wholeness/).
 
 
   #### *Self-management requires far fewer meetings*
