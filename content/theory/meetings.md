@@ -88,25 +88,25 @@ inPractice: >-
   spotkania'*
 
 
-  Spotkania mogą odbywać się spontanicznie, ilekroć członek organizacji wyczuje potrzebę i przejmuje inicjatywę. Struktury spotkań i facylitacja wspierają ducha [samo-organizacji](../self-management/). Zwiększona przejrzystość w organizacjach Turkusu zmniejsza liczbę i długość niektórych spotkań. Podczas spotkań zwraca się uwagę na stosowanie określonych praktyk, które sprzyjają poczuciu [pełni](../wholeness/).
+  Spotkania mogą odbywać się spontanicznie, ilekroć członek organizacji wyczuje potrzebę i przejmuje inicjatywę. Struktury spotkań i facylitacja wspierają ducha [samoorganizacji](../self-management/). Zwiększona przejrzystość w organizacjach Turkusu zmniejsza liczbę i długość niektórych spotkań. Podczas spotkań zwraca się uwagę na stosowanie określonych praktyk, które sprzyjają poczuciu [pełni](../wholeness/).
 
 
-  #### *Self-management requires far fewer meetings*
+  #### *Samozarządzanie wymaga znacznie mniejszej liczby spotkań*
 
 
-  Overall there tend to be fewer meetings in [Teal organizations](../teal-paradigm-and-organizations/). In a traditional pyramid structure, meetings are needed to gather, package, filter and transmit information as it flows up and down the chain of command.  In self-managing structures, the need for many of these meetings falls away. Whereas in [Green organizations](../green-paradigm-and-organizations/) meetings may be a way of building ‘bottom up’ involvement, this is already 'built in' to a self-managing structure.
+  Ogólnie jest mniej spotkań w [organizacjach Turkusowych](../teal-paradigm-and-organizations/). W tradycyjnej strukturze piramidy spotkania są potrzebne w celu gromadzenia, obrabiana, filtrowania i przesyłania informacji, które przepływają w górę i w dół łańcucha dowodzenia. W strukturach samozarządzających odpada potrzeba wielu takich spotkań. Podczas gdy w [Zielonych organizacjach](../green-paradigm-and-organizations/) spotkania mogą być sposobem budowania 'oddolnego' zaangażowania , jest ono już 'wbudowane' w samozarządzającą się strukturę.
 
 
-  #### *Regular meetings at the operational team/circle level*
+  #### *Regularne spotkania na poziomie zespołu operacyjnego/kręgu*
 
 
-  The frequency of team/circle meetings is determined by the nature of the work.
+  Częstotliwość spotkań zespołu/kręgu zależy od charakteru pracy.
 
 
-  See FAVI, below. 
+  Zobacz FAVI poniżej. 
 
 
-  #### *Agendas*
+  #### *Agendy spotkań*
 
 
   Traditionally, agendas are thought of as the minimum discipline for a productive meeting. But not necessarily in a Teal workplace. Many of their scheduled meetings have no pre-determined agenda. Rather, one is determined at the beginning, and is based on the topics that hold energy for the participants, at that time. This ensures meetings stay energized, purposeful, and engaging.  The interest is a real and present interest; it's not manufactured via a ritualistic approach.   
