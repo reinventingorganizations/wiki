@@ -1,5 +1,5 @@
 ---
 tags: theoryCategories
 key: Daily practices
-name: Prácticas organizacionales diarias
+name: Prácticas Organizacionales Diarias
 ---
