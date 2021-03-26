@@ -19,7 +19,7 @@ name: Key organizational structures and practices
 
 ![](/media/key-business-processes.jpg)
 
-### Key business processes
+### Kluczowe procesy biznesowe
 
 * [Strategia](/theory/strategy/)
 * [Innowacje i Rozwój Produktu](/theory/innovation-and-product-development/)
