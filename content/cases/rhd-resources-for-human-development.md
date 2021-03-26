@@ -3,47 +3,42 @@ layout: case
 tags: cases
 name: Recursos para el Desarrollo Humano (RHD)
 date: 2020-11-09
-introduction: RHD has developed over the years a beautiful and precisely worded
-  Bill of Rights and Responsibilities for Employees and Consumers.
-industry: S. Other service activities
-geography: USA
+introduction: RHD ha desarrollado a lo largo de los años una hermosa y precisa
+  Carta de Derechos y Responsabilidades para Empleados y Consumidores.
+industry: V. Otros
+geography: Estados Unidos
 companySize: "> 500"
-profit: non-profit
+profit: Organización sin ánimo de lucro
 theory:
   - topic: Culture and Values
-    title: RHD has developed over the years a beautiful and precisely worded Bill of
-      Rights and Responsibilities for Employees and Consumers.
-    content: "The first two articles spell out RHD’s objective of creating a safe
-      environment and constructively managing conflict and anger. (Later
-      articles deal with topics related to self- management.) The premise is
-      maintained that conflict is inevitable, but that hostile behaviors are
-      not:\r
+    title: "RHD ha desarrollado a lo largo de los años una hermosa y precisa
+      Declaración de Derechos y Responsabilidades para Empleados y Consumidores.
+      "
+    content: >-
+      Los dos primeros artículos explican el objetivo de RHD de crear un
+      ambiente seguro y manejar de manera constructiva el conflicto y la ira.
+      (Los artículos posteriores abordan temas relacionados con la autogestión.)
+      Sostiene la premisa de que el conflicto es inevitable, pero que los
+      comportamientos hostiles no lo son: \
 
-      \r
-
-      Values meeting: Every two months, all RHD colleagues are invited to
-      join the values implementation meeting, where people can bring up issues
-      they have encountered with values in the workplace or suggest changes to
-      the Bill of Rights and Responsibilities . The meeting is well attended.
-      Bob Fishman, RHD’s founder, makes a point to be present every time."
+      **Reunión de valores:** Cada dos meses, todos los colegas de RHD están invitados a unirse a la reunión de implementación de valores, donde las personas pueden plantear los asuntos que han encontrado respecto a los valores en el lugar de trabajo o sugerir cambios a la Declaración de Derechos y Responsabilidades. La reunión es muy concurrida. Bob Fishman, fundador de RHD, separa tiempo para estar presente cada vez.
   - topic: Safe Space
-    title: RHD has developed a written document called Bill of Rights and
-      Responsibilities that spell out detailed ground rules for encourage safe
-      behaviors and identify inacceptable behaviors (document attached)
-    content: RHD has developed over the years a beautiful and precisely worded "Bill
-      of Rights and Responsibilities for Employees and Consumers''. The document
-      covers, among other, the topics of conflict, expressing anger, recognizing
-      and managing hostility, decisions making, managing differences and open
-      communications.
+    title: RHD ha desarrollado un documento escrito llamado Declaración de Derechos
+      y Responsabilidades que especifica reglas básicas para fomentar conductas
+      seguras e identificar comportamientos inaceptables (documento adjunto).
+    content: RHD ha desarrollado a lo largo de los años una hermosa y precisa
+      "Declaración de Derechos y Responsabilidades para Empleados y
+      Consumidores". El documento abarca, entre otros, los temas de conflicto,
+      expresión de la ira, reconocer y manejar la hostilidad, la toma de
+      decisiones, el manejo de las diferencias y comunicaciones abiertas.
   - topic: Conflict resolution
     title: Se han escrito reglas básicas claras para crear un ambiente seguro y
       manejar de manera constructiva el conflicto y la ira dentro del contexto
       de los equipos autogestionados.
     content: >-
-      <!--StartFragment-->
-
-
-      Se han escrito reglas básicas claras para crear un ambiente seguro y manejar de manera constructiva el conflicto y la ira dentro del contexto de los equipos autogestionados.\
+      Se han escrito reglas básicas claras para crear un ambiente seguro y
+      manejar de manera constructiva el conflicto y la ira dentro del contexto
+      de los equipos autogestionados.\
 
       \
 
@@ -59,105 +54,110 @@ theory:
       El documento continúa detallando cinco expresiones inaceptables de hostilidad. El primero, “discurso y comportamiento humillante", se describe en los siguientes términos: El discurso y la conducta de descalificación implican cualquier comportamiento verbal o no verbal que alguien haga y que socave la autoestima de otra persona e implique que él / ella es menos que valioso como ser humano. Tales comportamientos incluyen, pero no se limitan a, poner sobrenombres, ridiculizar, sarcasmo u otras acciones que "derriban" a la gente. Descalificar a una persona con tales comportamientos físicos como entornar sus ojos cuando la persona habla o negando de otra manera su importancia como miembro de la comunidad es también inaceptable. Cualquier persona que encuentre tal comportamiento hostil tiene el derecho y la responsabilidad de exponerlo como un problema. Otras expresiones de hostilidad incluyen "mensajes negativos triangulados", "amenaza de abandono", "descalificar la realidad de la otra persona" e "intimidación / explosión" se definen de manera igualmente precisa.
 
 
-      "Por encima" de los equipos, no hay gerentes de nivel intermedio, sino líderes de hubs que apoyan un número de unidades. Los líderes del centro esperan ser informados de los principales problemas existentes o potenciales. Aunque ellos pueden aconsejar o ayudar, la responsabilidad de resolver problemas permanece en el equipo de colaboradoes.
-
-
-      <!--EndFragment-->
+      "Por encima" de los equipos, no hay gerentes de nivel intermedio, sino líderes de hubs que apoyan un número de unidades. Los líderes del centro esperan ser informados de los principales problemas existentes o potenciales. Aunque ellos pueden aconsejar o ayudar, la responsabilidad de resolver problemas permanece en el equipo de colaboradores.
   - topic: Recruitment
-    title: Human Services - United States - 4,000 employees - Nonprofit  At RHD, the
-      HR service is responsible for providing training, support and education of
-      unit personnel regarding employment practices, but do not provide a
-      centralized hiring process. RHD uses frequent peer reflection in all
-      programs and groups to evaluate group composition, in order to adapt
-      recruiting so they can provide a diverse workplace.
+    title: "En RHD, el servicio de recursos humanos es responsable de proporcionar
+      capacitación, apoyo y educación al personal de la unidad con respecto a
+      las prácticas de empleo, pero no provee un proceso de contratación
+      centralizado. RHD utiliza frecuentemente la reflexión de pares en todos
+      los programas y grupos para evaluar la composición del grupo, con el fin
+      de adaptar el reclutamiento para que puedan proporcionar un lugar de
+      trabajo diverso. "
     content: >-
-      [Resources for Human Development (RHD)](https://www.rhd.org/) is a
-      Philadelphia-based nonprofit , 4,000 employees operating in 14 states,
-      serving people in need through a variety of homes, shelters, and programs
-      in areas such as mental disabilities, addiction recovery, and
-      homelessness. It was founded in 1970 by Robert Fishman.
+      [Resources for Human Development (RHD)](https://www.rhd.org/) es una
+      organización sin fines de lucro con sede en Filadelfia, 4.000 empleados
+      que operan en 14 estados, sirviendo a personas necesitadas a través de una
+      variedad de hogares, refugios y programas en áreas como discapacidades
+      mentales, recuperación de adicciones y sin hogar. Fue fundada en 1970 por
+      Robert Fishman.\
+
+      \
+
+      En la [Declaración de Derechos y Responsabilidades](https://www.rhd.org/about-rhd/rhd-values/) (un documento que especifica reglas básicas detalladas para fomentar conductas seguras e identificar comportamientos inaceptables) se indica que se solicita a todos los programas y grupos de toda la organización que examinen periódicamente la composición de los miembros de su grupo, Y reflexionar sobre las razones e impactos de esa composición. Sobre la base de esa reflexión, el grupo puede querer tomar decisiones acerca de cómo avanzará en la creación y valoración de una membresía diversa. 
 
 
-      In the [Bill of Rights and Responsibilities](http://www.rhd.org/docs/default-source/docs/RHDBillofRights.pdf?sfvrsn=0) (a document that spell out detailed ground rules for encouraging safe behaviors and identify inacceptable behaviors) is indicated that all programs and groups throughout the organization are requested to periodically look at the composition of the membership in their group, and to reflect on the reasons for and impacts of that composition. Based on such reflection, the group may want to make decisions about how it will move forward in creating and valuing a diverse membership.
-
-
-      RHD holds a bi-monthly “isms in the workplace meeting.” Anyone feeling that the organization should pay attention to a specific form or occurrence of racism, sexism, or any other “-ism” can join the meeting. If noticed that the organization as a whole tends to hire disproportionately more white than black people, or that women generally don’t step into certain roles; there is no obvious party to confront; everyone is called to find a solution.
+      RHD tiene una reunión bimensual de "ismos en el lugar de trabajo". Cualquier persona que sienta que la organización debe prestar atención a una forma específica de racismo, sexismo o cualquier otro "-ismismo" puede unirse a la reunión. Si se nota que la organización como un todo tiende a contratar desproporcionadamente más blancos que los negros, o que las mujeres generalmente no asumen ciertos papeles; No hay ninguna parte que no se pueda confrontar; Todo el mundo está llamado a encontrar una solución.
   - topic: Training and Coaching
-    title: RHD sponsors a coaching program that offers 10 free counseling sessions
-      for employees and/or their families every year.
-    content: >-
-      <!--StartFragment-->
-
-
-      Servicios Humanos - Estados Unidos - 4,000 empleados - Sin fines de lucro [RHD](https://www.rhd.org/about-rhd/rhd-values/) patrocina un programa de entrenamiento que ofrece 10 sesiones gratuitas de consejería para los empleados y / o sus familias cada año.
-
-
-      Nadie más en la organización necesita ser informado sobre el tema del coaching, y no debe ser un tema profesional. El programa se basa en la confianza: si un empleado está buscando el apoyo de un entrenador externo, el tema debe ser lo suficientemente importante como para valer el dinero que la empresa paga por ello.
-
-
-      <!--EndFragment-->
+    title:  [RHD](https://www.rhd.org/about-rhd/rhd-values/) patrocina un programa
+      de entrenamiento que ofrece 10 sesiones gratuitas de consejería para los
+      empleados y / o sus familias cada año.
+    content: "Nadie más en la organización necesita ser informado sobre el tema del
+      coaching, y no debe ser un tema profesional. El programa se basa en la
+      confianza: si un empleado está buscando el apoyo de un coach externo, el
+      tema debe ser lo suficientemente importante como para valer el dinero que
+      la empresa paga por ello."
   - topic: Job Titles and Job Descriptions
-    title: RHD consciously does not use job descriptions
+    title: RHD conscientemente no utiliza descripciones de puestos de trabajo
     content: >-
-      Bob Fishman, the founder of [RHD](https://www.rhd.org/), explains the
-      benefits of not using job descriptions in his organization: RHD
-      consciously does not use job descriptions. Instead, the assumption that
-      people are essentially good leads us to believe that, once an employee has
-      a general sense of the job, he or she will want to shape the way it is
-      done.
+      Bob Fishman, el fundador de [RHD](https://www.rhd.org/), explica los
+      beneficios de no usar descripciones de trabajo en su organización: RHD
+      conscientemente no utiliza las descripciones de trabajo. En su lugar, la
+      suposición de que las personas son esencialmente buenas nos lleva a creer
+      que, una vez que un empleado tiene un sentido general del trabajo, él o
+      ella querrá configurar la forma en que lo hace.
 
 
-      *Thelma, for instance, had already been working as a receptionist at our new outpatient clinic for many years when she asked me for a job description. … I felt, and so told her, that it was absurd for me to define the details of her work since she was already doing a quality job. One of her outstanding behaviors was the kindness with which she greeted our clients, brought them coffee, and made sure that the therapist took them into the therapy room in a timely manner. Delineating her kindness was impossible: words would never have done justice to her heartfelt warmth. Thelma already knew how to perform her job and a detailed job description, I believed, would have done her more harm than good. … There is no single way to define a job, and no supervisor has the answer to how another person’s job should be performed. If … I imposed my view on her job, the corporation would, in effect, lose her special contribution - her way of managing the relationship between people. That would have been a great loss.*
+      *Thelma, por ejemplo, ya había trabajado como recepcionista en nuestra nueva clínica ambulatoria durante muchos años cuando me pidió una descripción del trabajo. ... Sentí, y así le dije, que era absurdo para mí definir los detalles de su trabajo ya que ella ya estaba haciendo un trabajo de calidad. Una de sus conductas sobresalientes era la amabilidad con la que saludaba a nuestros clientes, les traía café y se aseguraba de que el terapeuta los llevara a la sala de terapia de manera oportuna. Delinear su bondad era imposible: las palabras jamás hubieran hecho justicia a su calor sincero. Thelma ya sabía cómo realizar su trabajo y una descripción detallada del trabajo, creía yo, le habría hecho más daño que bien. ... No hay una sola manera de definir un trabajo, y ningún supervisor tiene la respuesta a cómo debe realizarse el trabajo de otra persona. Si ... yo imponía mi punto de vista sobre su trabajo, la corporación podría perder, como efecto, su contribución especial - su manera de manejar la relación entre las personas. Eso habría sido una gran pérdida.*
   - topic: Compensation and incentives
-    title: RHD has put in place a number of practices to boost the lowest salaries
-      and reduce pay inequality
-    content: RHD, a Philadelphia based non-profit, holds the principle that when
-      there is room for salary increases, they should be disproportionately
-      geared toward the lowest salaries first. The CEO’s salary is capped to a
-      maximum of 14 times the lowest salary in the organization. One can argue
-      about the multiple―is it too high or too low?―but RHD introduced a clever
-      twist by capping the highest salary not based on the average or median
-      salary, as many Green Organizations have started doing, but on the lowest.
-      It’s now very much in the CEO’s and the leadership’s own interest to
-      ensure that even the colleagues with the lowest qualification earn enough
-      for a decent living. Next to this direct focus on entry-level salaries,
-      RHD has set up a scholarship fund to offer staff members opportunities to
-      pursue formal education and increase their earning potential. And it has
-      instituted a companion currency, the RHD Equal Dollar, that allows
-      lower-paid colleagues to increase their access to goods and services by
-      trading with each other and with their local community.
+    title: RHD ha puesto en marcha una serie de prácticas para aumentar los salarios
+      más bajos y reducir la desigualdad salarial
+    content: RHD, con sede en Filadelfia sin fines de lucro, tiene el principio de
+      que cuando hay espacio para los aumentos salariales, deben estar
+      desproporcionadamente orientado hacia los salarios más bajos primero. El
+      salario del CEO está limitado a un máximo de 14 veces el salario más bajo
+      de la organización. Uno puede discutir sobre el múltiple, ¿es demasiado
+      alto o demasiado bajo? Pero RHD introdujo un giro inteligente al limitar
+      el salario más alto no basado en el salario medio o mediano, como muchas
+      organizaciones verdes han comenzado a hacer, pero en el más bajo. Ahora es
+      mucho en el CEO y el propio interés del liderazgo para asegurar que
+      incluso los colegas con la calificación más baja ganan lo suficiente para
+      una vida decente. Junto a este enfoque directo en los salarios de nivel de
+      entrada, RHD ha creado un fondo de becas para ofrecer a los miembros del
+      personal oportunidades de perseguir la educación formal y aumentar su
+      potencial de ingresos. Y ha instituido una moneda complementaria, la RHD
+      Equal Dollar, que permite a los colegas con salarios más bajos aumentar su
+      acceso a bienes y servicios intercambiando entre sí y con su comunidad
+      local.
   - topic: Purchasing and Investments
-    title: RHD runs its organization based on self-managing units which are
-      responsible for their entire operation, from defining a strategy to
-      recruiting and purchasing, from budgeting to monitoring results.
-      Investment decisions stay within the units, which are counseled by budget
-      managers who bring in financial expertise.
-    content: Each of [RHD](https://www.rhd.org/)’s programs is run by a
-      self-managing team, with an average of 20 and at most 40 to 50 people.
-      Units, as these teams are called within RHD, are encouraged to develop
-      their own sense of purpose, pride, and identity. Within the units, there
-      are no job descriptions. Units are responsible for their entire operation,
-      from defining a strategy to recruiting and purchasing, from budgeting to
-      monitoring results. Central staff at headquarters is kept to a minimum.
-      Specialist staff - for instance, the budget managers that support teams in
-      financial matters or specialists in clinical review - can counsel teams,
-      but the final decision is kept in the unit. ^[Laloux, Frederic.
-      Reinventing Organizations. Nelson Parker (2014), page 148 and following]
+    title: RHD dirige su organización basada en unidades de autogestión que son
+      responsables de toda su operación, desde la definición de una estrategia
+      hasta la contratación y compra, desde la definición del presupuesto hasta
+      la supervisión de los resultados. Las decisiones de inversión permanecen
+      dentro de las unidades, que son asesoradas por los gerentes de presupuesto
+      que aportan experiencia financiera.
+    content: Cada uno de los programas de RHD está dirigido por un equipo
+      autogestionado, con un promedio de 20 y un máximo de 40 a 50 personas. Las
+      unidades, como estos equipos son llamados dentro de RHD, son alentados a
+      desarrollar su propio sentido de propósito, orgullo e identidad. Dentro de
+      las unidades, no hay [descripciones de
+      trabajo](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Definici%C3%B3n_y_Asignaci%C3%B3n_de_funciones
+      "Definición y Asignación de funciones"). Las unidades son responsables de
+      toda su operación, desde la definición de una estrategia hasta el
+      reclutamiento y la compra, desde la definición del presupuesto hasta el
+      monitoreo de resultados. El personal de la sede central se mantiene al
+      mínimo. El personal especializado - por ejemplo, los gerentes de
+      presupuesto que apoyan a los equipos en asuntos financieros o
+      especialistas en revisión clínica - puede asesorar a los equipos, pero la
+      decisión final se mantiene en la unidad.^\[Laloux, Frederic. Reinventing
+      Organizations. Nelson Parker (2014), page 148 and following]
   - topic: Fundamental Assumptions
-    title: Three beliefs for people, workers and management.
+    title: Tres creencias sobre las personas, los trabajadores y la gestión.
     content: |-
-      1. All people are of equal human worth.
+      
 
-      2. People are essentially good, unless proven otherwise.
-
-      3. There is no single way to manage corporate issues well.
+      1. Todas las personas son de igual valor humano.
+      2. La gente es esencialmente buena, a menos que se demuestre lo contrario.
+      3. No hay una sola manera de gestionar bien los asuntos corporativos.
   - topic: wholeness
     title: Una Declaración de derechos organizacional
     content: >-
-      <!--StartFragment-->
-
-
-      RHD, por ejemplo, ha desarrollado con el paso de los años una hermosa Declaración de derechos y responsabilidades de empleados y consumidores, redactada con mucha precisión. Los primeros dos artículos detallan el objetivo de RHD de crear un ambiente seguro y de manejar constructivamente los conflictos y la ira. (Los artículos posteriores tratan temas relacionados con la autogestión.) La premisa es que los conflictos son inevitables, pero no así las conductas hostiles:
+      RHD, por ejemplo, ha desarrollado con el paso de los años una hermosa
+      Declaración de derechos y responsabilidades de empleados y consumidores,
+      redactada con mucha precisión. Los primeros dos artículos detallan el
+      objetivo de RHD de crear un ambiente seguro y de manejar constructivamente
+      los conflictos y la ira. (Los artículos posteriores tratan temas
+      relacionados con la autogestión.) La premisa es que los conflictos son
+      inevitables, pero no así las conductas hostiles:
 
 
       *Esta corporación ha elegido funcionar con varios supuestos básicos. Uno de ellos es que existen múltiples formas o caminos "correctos" que podemos seguir para tomar decisiones; no existe una realidad "verdadera" o "absoluta". En una situación dada, cada persona mantiene su punto de vista sobre la realidad y su propia perspectiva acerca de la forma más eficaz de hacer las cosas. Este supuesto nos permite reconocer que el conflicto es inevitable y que habrá desacuerdos en el lugar de trabajo. Si bien cabe esperar que existan conflictos y diferencias (o desacuerdos), las expresiones explosivas u hostiles de ira no son aceptables en RHD. Como miembro de la comunidad de RHD es importante ser capaz de hacer dos cosas:* a) separarse de la necesidad de "tener razón" a fin de escuchar y respetar las realidades y perspectivas de los demás y, b) b) diferenciar entre pensamientos (lo que sucede en nuestra cabeza) y comportamientos (lo que hacemos o decimos).*(14)*
@@ -170,7 +170,4 @@ theory:
 
 
       Otras expresiones de hostilidad, como "mensajes negativos triangulados", "amenaza de abandono", "invalidar la realidad de otra persona" e "intimidación/ explosión", se definen de manera igualmente precisa.(16)
-
-
-      <!--EndFragment-->
 ---
