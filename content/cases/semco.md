@@ -1,8 +1,8 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
 name: Semco
+date: 2020-11-09
 introduction: >-
   Diversified industrial and service conglomerate.
 
@@ -13,14 +13,16 @@ companySize: "> 500"
 profit: Profit
 theory:
   - topic: board
-    content: "Board meetings often seem like mysterious occasions where big
-      decisions affecting workers are taken in secret. At
-      [Semco](http://www.semco.com.br/en/), extra seats are available for the
-      first two employees to show up. And they have full voting rights. Semco
-      claims two benefits: first, it debunks some myths about boards (people
-      learn these meetings are as boring as most others); second, it forces
-      discussions to be pragmatic, sometimes by adding a fresh
-      perspective.^[Ricardo Semler addressing Zappos all hands meeting. May
+    content: "Las reuniones del consejo parecen a menudo como ocasiones misteriosas
+      donde las decisiones grandes que afectan a trabajadores se toman en
+      secreto. En [Semco](http://www.semco.com.br/en/), asientos adicionales
+      están disponibles para los dos primeros empleados que aparezcan. Y tienen
+      pleno derecho de voto. Semco reclama dos beneficios: en primer lugar,
+      desmiente algunos mitos sobre los consejos (la gente aprende que estas
+      reuniones son tan aburridas como la mayoría de los demás); Segundo, obliga
+      a las discusiones a ser pragmáticas, a veces añadiendo una nueva
+      perspectiva.^\\[Ricardo Semler addressing Zappos all hands meeting. May
       2015.]"
-    title: At Semco, employees may attend board meetings
+    title: En Semco, los empleados pueden asistir a las reuniones del consejo de
+      administración
 ---
