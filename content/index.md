@@ -15,13 +15,13 @@ intro: >-
 
   ![](/media/flagGreatBritainXXS.png)    [Haga click aquí](/pages/translations) Acceso a otras páginas de idiomas de la base de conocimiento (inglés, húngaro y español completado - construido en ruso, francés, italiano, polaco, turco, y alemán)
 topics:
-  - title: Teal Concepts
+  - title: Conceptos Teal
     image: /media/home_reinvention-etienne-small.png
     link: /pages/tealconcepts
-  - title: Key structures and practices
+  - title: Estructura y Prácticas Teal
     image: /media/home_difference-etrienne-small.png
     link: /pages/tealpractices
-  - title: Concrete cases for inspiration
+  - title: Casos concretos para inspirarse
     image: /media/home_cases-etienne-small.png
     link: /cases
 ---
