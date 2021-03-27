@@ -1,62 +1,63 @@
 ---
 layout: article
 tags: theory
-key: Culture and Values
+key: Kultura i Wartości
 name: Culture and Values
 sortOrder: 6
 category: Daily practices
 intro: >-
-  The topic of culture and values explore the different values, beliefs, ground
-  rules and the resulting cultures of Teal organizations as well as practices
-  for establishing and bringing culture and values to life.
+  Temat kultury i wartości obejmuje różne wartości, przekonania, podstawowe
+  zasady i wynikające z nich kultury organizacji Turkusu, a także praktyki
+  tworzenia i wprowadzania kultury i wartości w życie.
 
 
   ![](/media/tree.jpg)
 perspective: >-
-  Teal organizations take shared values to the next level either through clear
-  ground rules or sharing beliefs about what is acceptable or unacceptable. Most
-  Teal organizations spend a lot of time during the recruitment process
-  informing candidates about the values of the organization to determine whether
-  there is a good culture fit. Teal organizations also set practices to
-  frequently review and question culture and values to ensure they are truly
-  lived by those in the organization. Some values that are often present are
-  trust, transparency, collective intelligence, wholeness and authenticity.
+  Organizacje Turkusowe przenoszą wspólne wartości na wyższy poziom poprzez
+  jasne podstawowe zasady lub dzielenie się przekonaniami na temat tego, co jest
+  akceptowalne, a co nie. Większość organizacji Turkusu spędza dużo czasu
+  podczas procesu rekrutacji, informując kandydatów o wartościach organizacji,
+  aby określić, czy istnieje dobra kultura. Organizacje Turkusu ustalają również
+  praktyki częstego przeglądu i kwestionowania kultury i wartości, aby upewnić
+  się, że są one naprawdę przestrzegane przez osoby w organizacji. Niektóre
+  wartości, które są często obecne, to zaufanie, przejrzystość, zbiorowa
+  inteligencja, całość i autentyczność.
 
 
-  Every historical stage has given birth to a distinct perspective on culture and values, and to very different practices:
+  Każdy etap historyczny dał początek odrębnemu spojrzeniu na kulturę i wartości oraz bardzo różne praktyki:
 
 
-  ##### Red organizations
+  ##### Czerwone organizacje
 
 
-  In [Red organizations](../red-organizations/), leaders typically demonstrate egocentric behaviors driven by their personal need for power and control. They are often impulsive and find ways to exert their dominance. This creates a culture of a fear, control, risk taking and submission. Close bonds are usually formed by those in the organization.
+  W [Czerwonych organizacjach](../red-organizations/) liderzy zazwyczaj przejawiają egocentryczne zachowania wynikające z osobistej potrzeby władzy i kontroli. Często są impulsywni i znajdują sposoby na wywieranie dominacji. Tworzy to kulturę strachu, kontroli, podejmowania ryzyka i poddania się. Bliskie więzi są zwykle tworzone przez osoby w organizacji.
 
 
-  ##### Amber organizations
+  ##### Bursztynowe organizacje
 
 
-  In [Amber organizations](../amber-paradigm-and-organizations/), stability and respect for the group norms are highly valued. The Amber leader looks for order, stability, and predictability. Change is viewed with suspicion. Control is maintained through institutions and bureaucracies. This tends to creates a culture of conformity. The focus is to do what is right and to fit in within the group norms. Thinking is dominated by whether one has the right appearance, behaviors, and thoughts. Social stability comes at the price of wearing a mask. People may distance themselves from their unique nature, personal desires, needs, and feelings; instead, embracing a socially acceptable self. The shadow side of this worldview is that workers are often viewed as mostly lazy, dishonest, and in need of direction. Management and supervision is believed to be necessary to ensure work is carried out properly.
+  W [Bursztynowych organizacjach](../amber-paradigm-and-organizations/) wysoko ceni się stabilność i poszanowanie norm grupowych. Lider Bursztynu poszukuje porządku, stabilności i przewidywalności. Zmiana jest postrzegana z podejrzliwością. Kontrolę sprawują instytucje i biurokracje. To tworzy kulturę konformizmu. Skupiamy się na robieniu tego, co słuszne i dostosowaniu się do norm grupowych. Myślenie jest zdominowane przez to, czy ktoś ma właściwy wygląd, zachowanie i myśli. Stabilność społeczna ma cenę noszenia maski. Ludzie mogą dystansować się od swojej wyjątkowej natury, osobistych pragnień, potrzeb i uczuć; zamiast tego obejmując społecznie akceptowalną jaźń. Ciemną stroną tego światopoglądu jest to, że pracownicy są często postrzegani jako przeważnie leniwi, nieuczciwi i potrzebujący wskazówek. Uważa się, że zarządzanie i nadzór są niezbędne, aby zapewnić prawidłowe wykonanie pracy.
 
 
-  ##### Orange organizations
+  ##### Pomarańczowe organizacje
 
 
-  In [Orange organizations](../orange-paradigm-and-organizations/) the underlying values are success, innovation, effectiveness, competing/winning, profit and recognition. This worldview is materialistic and rationality is highly valued. Only what can be seen and touched is real. The organizational metaphor is a ‘machine’. The culture can become highly professional, rational and sometimes soulless. Change is welcome provided it contributes to increased performance. Cross-organisation collaboration is valued and encouraged to speed up innovation and change. Management is strategic and focused on results rather than how to achieve them. Individual competence, results and achievements are valued and incentivized. Progression is based on merit rather than social standing or rank. 
+  W [Pomarańczowych organizacjach](../orange-paradigm-and-organizations/) podstawowymi wartościami są sukces, innowacyjność, skuteczność, konkurowanie/wygrywanie, zysk i uznanie. Ten światopogląd jest materialistyczny, a racjonalność jest wysoko ceniona. Tylko to, co można zobaczyć i dotknąć, jest prawdziwe. Metafora organizacyjna to 'maszyna'. Kultura może stać się wysoce profesjonalna, racjonalna, a czasem bezduszna. Zmiana jest mile widziana, pod warunkiem że przyczyni się do zwiększenia wydajności. Współpraca między organizacjami jest ceniona i zachęcana do przyspieszania innowacji i zmian. Zarządzanie jest strategiczne i koncentruje się na wynikach, a nie na tym, jak je osiągnąć. Indywidualne kompetencje, wyniki i osiągnięcia są cenione i motywowane. Postęp opiera się na zasługach, a nie na pozycji społecznej lub randze. 
 
 
-  ##### Green organizations
+  ##### Zielone organizacje
 
 
-  In [Green organizations](../green-paradigm-and-organizations/) relationships are valued sometimes at the expense of outcomes. Community, communication, collaboration, consensus, harmony, tolerance, integrity, respect, openness and equality are common values. Focus is on creating great workplace culture based on empowerment in order to boost employees' motivation. Although Green organizations are most often built on the traditional hierarchical model and structures, the culture is ill at ease with power and hierarchy. Participative and servant leadership approaches are valued to foster collaborative bottom up processes, developing shared values and a culture where people feel valued and empowered to contribute. The guiding metaphor is ‘family’. Whereas Orange organizations often use their values as a marketing tool, Green organizations embrace and live by them. 
+  W [Zielonych organizacjach](../green-paradigm-and-organizations/) relacje są czasami cenione kosztem wyników. Społeczność, komunikacja, współpraca, konsensus, harmonia, tolerancja, uczciwość, szacunek, otwartość i równość to wspólne wartości. Nacisk kładziony jest na tworzenie wspaniałej kultury pracy opartej na empowerment w celu zwiększenia motywacji pracowników. Chociaż organizacje Zielone są najczęściej zbudowane na tradycyjnym hierarchicznym modelu i strukturach, kultura nie radzi sobie z władzą i hierarchią. Podejścia oparte na przywództwie partycypacyjnym i służebnym są cenione w celu wspierania wspólnych procesów oddolnych, rozwijania wspólnych wartości i kultury, w której ludzie czują się doceniani i upoważnieni do wnoszenia wkładu. Przewodnią metaforą jest 'rodzina'. Podczas gdy organizacje Pomarańczu często wykorzystują swoje wartości jako narzędzie marketingowe, organizacje zielone je przyjmują i żyją zgodnie z nimi. 
 
 
-  ##### Teal organizations
+  ##### Turkusowe organizacje
 
 
-  [Teal organizations ](../teal-paradigm-and-organizations/)strive to create highly effective organizations that allow people to be fully human at work.. The culture of Teal organizations is shaped by the specific context and  [purpose ](https://reinventingorganizations-wiki.netlify.app/theory/evolutionary-purpose/)of the organization, not by personal assumptions, norms and concerns of the founders and leaders. The metaphor for the organization is a ‘living system’. As such it should be allowed to have its own autonomous identity and culture that can evolve with time. The culture and values are well integrated with the structure and processes. 
+  [Turskusowe organizacje](../teal-paradigm-and-organizations/) dążą do tworzenia wysoce skutecznych organizacji, które pozwalają ludziom być w pełni ludzkimi w pracy. Kultura organizacji Turkusu jest kształtowana przez specyficzny kontekst i [cel](https://reinventingorganizations-wiki.netlify.app/theory/evolutionary-purpose/) organizacji, a nie z osobistych założeń, norm i obaw założycieli i liderów. Metaforą organizacji jest 'żywy system'. Jako taka powinna mieć własną autonomiczną tożsamość i kulturę, które mogą ewoluować z czasem. Kultura i wartości są dobrze zintegrowane ze strukturą i procesami.
 
 
-  Teal organizations take shared values to the next level either through clear ground rules or sharing beliefs about what is acceptable or unacceptable. Most Teal organizations spend a lot of time during the recruitment process informing candidates about the values of the organization to determine whether there is a good culture fit. Teal organizations also set practices to frequently review and question culture and values to ensure they are truly lived by those in the organization. Some values that are often present are trust, transparency, collective intelligence, wholeness and authenticity.
+  Organizacje Turkusowe przenoszą wspólne wartości na wyższy poziom poprzez jasne podstawowe zasady lub dzielenie się przekonaniami na temat tego, co jest akceptowalne, a co nie. Większość organizacji Turkusu spędza dużo czasu podczas procesu rekrutacji, informując kandydatów o wartościach organizacji, aby określić, czy istnieje dobra kultura. Organizacje Turkusu ustalają również praktyki częstego przeglądu i kwestionowania kultury i wartości, aby upewnić się, że są one naprawdę przestrzegane przez osoby w organizacji. Niektóre wartości, które są często obecne, to zaufanie, przejrzystość, zbiorowa inteligencja, całość i autentyczność.
 inPractice: >-
   #### Establishing values and ground rules
 
