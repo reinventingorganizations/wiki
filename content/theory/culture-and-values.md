@@ -59,25 +59,25 @@ perspective: >-
 
   Organizacje Turkusowe przenoszą wspólne wartości na wyższy poziom poprzez jasne podstawowe zasady lub dzielenie się przekonaniami na temat tego, co jest akceptowalne, a co nie. Większość organizacji Turkusu spędza dużo czasu podczas procesu rekrutacji, informując kandydatów o wartościach organizacji, aby określić, czy istnieje dobra kultura. Organizacje Turkusu ustalają również praktyki częstego przeglądu i kwestionowania kultury i wartości, aby upewnić się, że są one naprawdę przestrzegane przez osoby w organizacji. Niektóre wartości, które są często obecne, to zaufanie, przejrzystość, zbiorowa inteligencja, całość i autentyczność.
 inPractice: >-
-  #### Establishing values and ground rules
+  #### Ustalanie wartości i podstawowych zasad
 
 
-  ##### *Defining a set of values*
+  ##### *Definiowanie zbioru wartości*
 
 
-  Many organizations find it helpful to define a set of values. In [Teal organizations](../teal-paradigm-and-organizations/), those values, together with [purpose](../evolutionary-purpose/), are at the very core of the organization' s culture, influencing most behaviors and processes. Those values often stem from the founder's vision, and are typically collectively defined. Values and related ground rules are not fixed, they are openly discussed and amended so that they remain a faithful reflection of what people in the organization live and believe in. Some organizations set out a simple set of common beliefs, or assumptions about human endeavor and behavior.
+  Wiele organizacji uważa, że ​​pomocne jest zdefiniowanie zestawu wartości. W [Turkusowych organizacjach](../teal-paradigm-and-organizations/), te wartości, wraz z [celem](../evolutionary-purpose/), stanowią sedno kultury organizacji, wpływając większość zachowań i procesów. Wartości te często wynikają z wizji założyciela i są zazwyczaj definiowane zbiorowo. Wartości i związane z nimi podstawowe zasady nie są ustalone, są otwarcie dyskutowane i zmieniane, aby pozostawały wiernym odzwierciedleniem tego, w co żyją iw co wierzą ludzie w organizacji. Niektóre organizacje przedstawiają prosty zestaw wspólnych przekonań lub założeń dotyczących ludzkich wysiłków i zachowanie.
 
 
-  ##### *Ground rules for safe space*
+  ##### *Podstawowe zasady dotyczące bezpiecznej przestrzeni*
 
 
-  To show up fully in the presence of others, as [Teal organizations ](../teal-paradigm-and-organizations/)encourage, people need to feel it is safe to do so. Having a defined set of values translated into clear "ground rules", when necessary, helps to do this.
+  Aby w pełni pojawić się w obecności innych, jak zachęcają [Turkusowe organizacje](../teal-paradigm-and-organizations/), ludzie muszą czuć, że jest to bezpieczne. Pomaga w tym posiadanie określonego zestawu wartości przełożonych na jasne „podstawowe zasady”, gdy jest to konieczne.
 
 
-  Some examples are: [RHD](http://www.rhd.org/)’s Bill of Rights and Responsibilities, [Morning Star](http://www.morningstarco.com/)’s Colleague Principles, [FAVI](http://www.favi.com/)'s fiches or [Holacracy](http://www.holacracy.org/)'s Constitution. These documents provide a vision for a safe and productive workplace. They give colleagues a vocabulary to discuss healthy relationships, and they draw lines that separate recommended from unacceptable behaviors.
+  Oto kilka przykładów: [RHD](http://www.rhd.org/)’s Bill of Rights and Responsibilities, [Morning Star](http://www.morningstarco.com/)’s Colleague Principles, [FAVI](http://www.favi.com/)'s fiches or [Holacracy](http://www.holacracy.org/)'s Constitution. Dokumenty te przedstawiają wizję bezpiecznego i produktywnego miejsca pracy. Dają współpracownikom słownictwo do omawiania zdrowych relacji i wytyczają granice, które oddzielają zalecane od niedopuszczalnych zachowań.
 
 
-  Some startups find it important to draft a full version of such a document early on. Others will develop one as they grow. Organizations make sure they are written collectively so that they are full owned by all the people.
+  Niektóre startupy uważają, że ważne jest wczesne sporządzenie pełnej wersji takiego dokumentu. Inni będą się rozwijać, gdy będą rosnąć. Organizacje upewniają się, że są napisane wspólnie, tak aby w całości należały do ​​wszystkich ludzi.
 
 
   #### Bringing values to life
