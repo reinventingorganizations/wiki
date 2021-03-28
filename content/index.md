@@ -13,9 +13,6 @@ intro: >-
   Es ist ein Werk der Liebe, die Arbeit einer freudigen Community, die sich dafür einsetzt, dass seelenvolle Organisationen überall zum Leben erweckt werden. Wir laden euch ein,[ sich uns anzuschließen und beizutragen](/pages/how-can-you-contribute), um Cases und Erkenntnisse zu diesem Wiki hinzuzufügen.
 
 
-  Wir laden euch ein,[ mitzumachen und beizutragen](/pages/how-can-you-contribute), Cases und Erkenntnisse zu diesem Wiki beizutragen.
-
-
   ![](/media/flagGreatBritainXXS.png)    [Klickt hier ](/pages/translations), um auf Übersetzungen dieses Wikis zuzugreifen (Englisch, Ungarisch, Chinesisch und Spanisch sind heute verfügbar - Polnisch, Russisch, Französisch, Italienisch und Türkisch sind in Arbeit)
 topics:
   - title: Teal Concepts
