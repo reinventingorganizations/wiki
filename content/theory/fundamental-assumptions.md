@@ -6,10 +6,10 @@ name: Fundamental Assumptions
 sortOrder: 1
 category: Daily practices
 intro: >-
-  The topic of fundamental assumptions explains how deeply held, often
-  unconscious assumptions (about people, their motivations, role in the world
-  and workplace, the meaning of life etc.) lie at the root of organizational
-  models and practices
+  Das Thema der Grundannahmen erklärt, wie tief verwurzelte, oft unbewusste
+  Annahmen (über Menschen, ihre Motivationen, ihre Rolle in der Welt und am
+  Arbeitsplatz, den Sinn des Lebens usw.) den Organisationsmodellen und
+  -praktiken zugrunde liegen.
 
 
   ![](/media/fundamental-assumptions.jpg)
