@@ -14,15 +14,16 @@ intro: >-
 
   ![](/media/fundamental-assumptions.jpg)
 perspective: >-
-  Every historical stage has given birth to fundamental assumptions, a distinct
-  perspective on people and their motivations, and to very different approaches
-  to engaging with the world.
+  Jede geschichtliche Etappe hat grundlegende Annahmen, eine andere Sichtweise
+  auf die Menschen und ihre Motivationen und sehr unterschiedliche Ansätze zur
+  Auseinandersetzung mit der Welt hervorgebracht.
 
 
-  #### Red Organizations
+  #### Rote Organisationen
 
 
-  Fundamental assumptions from a [Red perspective](../red-organizations/) are:
+  Grundlegende Annahmen aus einer [roten Perspektive](../red-organizations/) sind:
+
 
 
   * The world has endless resources that can be exploited. People outside the organization/tribe can be exploited too.
