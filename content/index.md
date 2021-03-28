@@ -13,8 +13,7 @@ intro: >-
   Es ist ein Werk der Liebe, die Arbeit einer freudigen Community, die sich dafür einsetzt, dass seelenvolle Organisationen überall zum Leben erweckt werden. Wir laden euch ein,[ sich uns anzuschließen und beizutragen](/pages/how-can-you-contribute), um Cases und Erkenntnisse zu diesem Wiki hinzuzufügen.
 
 
-
-  We  invite you to[ join us and contribute](/pages/how-can-you-contribute)  to add cases and insights to this wiki.
+  Wir laden Sie ein,[ mitzumachen und beizutragen](/pages/how-can-you-contribute), um Cases und Erkenntnisse zu diesem Wiki hinzuzufügen.
 
 
   ![](/media/flagGreatBritainXXS.png)    [Click here ](/pages/translations) for accessing translations of this Wiki (Hungarian, Chinese and Spanish are available today - Polish, Russian, French, Italian and Turkish are in progress)
