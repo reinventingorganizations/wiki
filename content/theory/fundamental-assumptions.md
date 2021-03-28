@@ -50,11 +50,11 @@ perspective: >-
   Grundlegende Annahmen aus einer [bernstein Perspektive](../amber-paradigm-and-organizations/) sind:
 
 
-  * The world is (or should be) immutable, comprehensible and controllable. What worked in the past will work in the future. ***Stability (safety) and loyalty*** are essential. Change is to be viewed with suspicion. Leaving the organization is the last option.
+  * Die Welt ist (oder sollte es zumindest sein) unveränderlich, nachvollziehbar und beherrschbar. Was in der Vergangenheit funktioniert hat, wird auch in der Zukunft funktionieren. ***Stabilität (Sicherheit) und Loyalität*** sind wesentlich. Veränderung ist mit Misstrauen zu betrachten. Das Verlassen der Organisation ist die letzte Option.
 
-  * Things are either right or wrong. There is always an institutional authority to be obeyed: rules, procedures, etc. Personal opinions are not relevant. Guilt is inescapable, when being in the wrong.
+  * Dinge sind entweder richtig oder falsch. Es gibt immer eine institutionelle Autorität, der man gehorchen muss: Regeln, Verfahren usw. Persönliche Meinungen sind nicht relevant. Schuldgefühle sind unausweichlich, wenn man im Unrecht ist.
 
-  * You follow the rules and the expectations that society has on you, even if it means wearing a social mask of virtue. Self-control is highly valued.
+  * Sie befolgen die Regeln und die Erwartungen, die die Gesellschaft an Sie stellt, auch wenn das bedeutet, eine soziale Maske der Tugend zu tragen. Selbstbeherrschung wird hochgeschätzt.
 
   * People are mostly lazy, dishonest, unintelligent and in need of direction. They must be supervised and told what is expected from them. Thus there must be a clear chain of command, formal processes, and clear cut rules that stipulate who can do what.
 
