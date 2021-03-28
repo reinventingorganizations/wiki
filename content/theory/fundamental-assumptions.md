@@ -41,13 +41,13 @@ perspective: >-
   * Menschen, die nicht zum "inneren Kreis" gehören, sind dazu da, benutzt zu werden. Es ist besser gefürchtet als geliebt zu werden.
 
 
-  (Leadership style: predatory, Metaphor: Wolf Pack)
+  (Führungsstil: räuberisch, Metapher: Wolfsrudel)
 
 
-  #### Amber Organizations
+  #### Bernstein Organisation
 
 
-  Fundamental assumptions from an [Amber perspective](../amber-paradigm-and-organizations/) are:
+  Grundlegende Annahmen aus einer [bernstein Perspektive](../amber-paradigm-and-organizations/) sind:
 
 
   * The world is (or should be) immutable, comprehensible and controllable. What worked in the past will work in the future. ***Stability (safety) and loyalty*** are essential. Change is to be viewed with suspicion. Leaving the organization is the last option.
