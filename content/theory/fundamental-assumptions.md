@@ -32,9 +32,9 @@ perspective: >-
 
   * Bei der Struktur in der Gesellschaft geht es um ***Macht und Respekt***. Es gibt eine natürliche Hackordnung, die sicherstellt, dass nur "die Besten" überleben und Erfolg haben. Um zu überleben, muss man entweder dominant sein, um Vorteile zu nutzen, oder unterwürfig, um sich zu schützen.
 
-  * One can only trust oneself – and, to some extent, the people who have “sworn allegiance”.. Vigilance is imperative, because people’s allegiances can change overnight.
+  * Man kann nur sich selbst vertrauen - und bis zu einem gewissen Grad auch den Menschen, die "Treue geschworen" haben. Wachsamkeit ist unabdingbar, denn die Loyalitäten der Menschen können sich über Nacht ändern.
 
-  * There are no stable rules except the rule of power exercised by the chief. What is right and what is wrong is decided by the boss. No need to think for oneself if one is not the boss
+  * Es gibt keine stabilen Regeln außer der Machtherrschafft, die der Anführer ausübt. Was richtig und was falsch ist, entscheidet der Chef. Keine Notwendigkeit, selbst zu denken, wenn man nicht der Chef ist.
 
   * It is acceptable (and even desirable) to only care about oneself. Taking what one can get – as long as one is not caught or beaten by someone more powerful is OK. There is no guilt, only power or submission. What other people think and how they feel is not a concern.
 
