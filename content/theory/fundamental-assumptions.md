@@ -26,11 +26,11 @@ perspective: >-
 
 
 
-  * The world has endless resources that can be exploited. People outside the organization/tribe can be exploited too.
+  * Die Welt hat unendlich viele Ressourcen, die ausgebeutet werden können. Auch Menschen außerhalb der Organisation/des Stammes können ausgebeutet werden.
 
-  * The world is a hostile place. "It is me or you". Conquered territory has to be defended through (constant) struggle and vigilance. If one does not react swiftly to the environment, everything will be taken away.
+  * Die Welt ist ein feindlicher Ort. "Es ist ich oder du". Erobertes Gebiet muss durch (ständigen) Kampf und Wachsamkeit verteidigt werden. Wenn man nicht schnell auf die Umwelt reagiert, wird einem alles genommen.
 
-  * Structure in society is all about ***power and respect.*** There is a natural pecking order which ensures that only "the best" survive and thrive. To survive, one either has to be dominant to take advantage, or submissive for protection.
+  * Bei der Struktur in der Gesellschaft geht es um ***Macht und Respekt***. Es gibt eine natürliche Hackordnung, die sicherstellt, dass nur "die Besten" überleben und Erfolg haben. Um zu überleben, muss man entweder dominant sein, um Vorteile zu nutzen, oder unterwürfig, um sich zu schützen.
 
   * One can only trust oneself – and, to some extent, the people who have “sworn allegiance”.. Vigilance is imperative, because people’s allegiances can change overnight.
 
