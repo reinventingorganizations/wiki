@@ -36,11 +36,9 @@ perspective: >-
 
   * Es gibt keine stabilen Regeln außer der Machtherrschafft, die der Anführer ausübt. Was richtig und was falsch ist, entscheidet der Chef. Keine Notwendigkeit, selbst zu denken, wenn man nicht der Chef ist.
 
-  * It is acceptable (and even desirable) to only care about oneself. Taking what one can get – as long as one is not caught or beaten by someone more powerful is OK. There is no guilt, only power or submission. What other people think and how they feel is not a concern.
+  * Es ist akzeptabel (und sogar wünschenswert), sich nur um sich selbst zu kümmern. Nehmen, was man kriegen kann - solange man nicht erwischt oder von jemand Mächtigerem geschlagen wird, ist OK. Es gibt keine Schuld, nur Macht oder Unterwerfung. Was andere Menschen denken und wie sie sich fühlen, ist nicht von Belang.
 
-  * People who are not part of the "inner circle" are there to be used. Better to be feared than to be loved.
-
-  *
+  * Menschen, die nicht zum "inneren Kreis" gehören, sind dazu da, benutzt zu werden. Es ist besser gefürchtet als geliebt zu werden.
 
 
   (Leadership style: predatory, Metaphor: Wolf Pack)
