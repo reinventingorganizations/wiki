@@ -16,7 +16,7 @@ intro: >-
   Wir laden Sie ein,[ mitzumachen und beizutragen](/pages/how-can-you-contribute), um Cases und Erkenntnisse zu diesem Wiki hinzuzufügen.
 
 
-  ![](/media/flagGreatBritainXXS.png)    [Click here ](/pages/translations) for accessing translations of this Wiki (Hungarian, Chinese and Spanish are available today - Polish, Russian, French, Italian and Turkish are in progress)
+  ![](/media/flagGreatBritainXXS.png)    [Klicken Sie hier ](/pages/translations), um auf Übersetzungen dieses Wikis zuzugreifen (Englisch, Ungarisch, Chinesisch und Spanisch sind heute verfügbar - Polnisch, Russisch, Französisch, Italienisch und Türkisch sind in Arbeit)
 topics:
   - title: Teal Concepts
     image: /media/home_reinvention-etienne-small.png
