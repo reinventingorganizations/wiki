@@ -15,12 +15,12 @@ perspective: >-
   Dans les organisations Opale, le besoin de coordination ne disparaît pas.
   Cependant, les patrons, les ***rôles du personnel (staff roles)*** et les
   réunions interminables généralement utilisés pour la coordination dans les
-  étapes antérieures sont remplacés par des processus ad hoc et plus organiques,
-  y compris des accords directs et des engagements entre collègues, des réunions
-  ad hoc, des conversations sur les réseaux sociaux internes, ainsi que des
-  personnes occupant des rôles spécifiques pour soutenir la coordination. Le
-  processus de collecte d'avis pour prendre des décisions est également
-  fondamental pour la coordination dans les organisations Opale.
+  étapes antérieures sont remplacés par des processus plus adaptés et
+  organiques, y compris des accords directs et des engagements entre collègues,
+  des réunions ad hoc, des conversations sur les réseaux sociaux internes, ainsi
+  que des personnes occupant des rôles spécifiques pour soutenir la
+  coordination. Le processus desollicitation d'avis pour prendre des décisions
+  est également fondamental pour la coordination dans les organisations Opale.
 
 
   In Teal organisations, the need for coordination does not go away. However, the bosses, staff roles and endless meetings typically used to accomplish such coordination in earlier stages are replaced by more ad hoc and organic processes, including direct agreements and commitments between colleagues, ad hoc meetings, conversations on internal social networks, as well as people holding specific roles to support coordination. The advice process for making decisions is also fundamental to coordination in Teal.
@@ -29,19 +29,19 @@ perspective: >-
   #### Organisations Rouge[](https://reinventingorganizationswiki.com/index.php?title=Coordination&action=edit&section=2 "\<span>\<span>\</span>\<span>\<span>Red\</span>\</span>\</span> Organizations")
 
 
-  Dans les [organisations rouges](https://fr--reinventingorganizations-wiki.netlify.app/theory/red-organizations/), la **coordination est réalisée ad hoc** et est intrinsèquement fusionnée avec le pouvoir : la coordination est généralement limitée à la capacité du patron à la faire respecter.
+  Dans les [organisations rouges](https://fr--reinventingorganizations-wiki.netlify.app/theory/red-organizations/), la coordination se fait de manière ad hoc et est intrinsèquement fusionnée avec le pouvoir : la coordination est généralement limitée à la capacité du patron à la faire respecter.
 
 
   #### Organisations Ambre
 
 
-  Les [organisations Ambres](https://fr--reinventingorganizations-wiki.netlify.app/theory/amber-paradigm-and-organizations/)  s'efforcent de maintenir l'ordre et la prévisibilité. La coordination passe principalement par des processus formalisés auxquels tout le monde adhère. La nature statique des organisations Ambre signifie qu'il y a peu de besoin perçu de coordonner les actions au-delà des processus déjà établis
+  Les [organisations ambre](https://fr--reinventingorganizations-wiki.netlify.app/theory/amber-paradigm-and-organizations/) s'efforcent de maintenir l'ordre et la prévisibilité. La coordination passe principalement par des processus formalisés auxquels tout le monde adhère. La nature statique des organisations ambre signifie qu'il y a peu de besoin perçu de coordonner les actions au-delà des processus déjà établis.
 
 
   #### Organisations Orange
 
 
-  Les [organisations Orange](https://fr--reinventingorganizations-wiki.netlify.app/theory/orange-paradigm-and-organizations/) s'appuient sur l'innovation et l'optimisation continue pour être compétitives. Cela signifie un besoin accru de coordination entre les unités. Les principaux moyens de coordination sont les réunions, une structure décisionnelle hiérarchique et la création de rôles pour les collaborateurs. Les réunions, en particulier, tentent de puiser dans l'intelligence du groupe. Il y a des réunions d'équipe régulières, fixes - souvent hebdomadaires - à tous les niveaux de l'organisation ainsi que de nombreuses réunions de projet et transversales sur des initiatives spécifiques.
+  Les [organisations orange](https://fr--reinventingorganizations-wiki.netlify.app/theory/orange-paradigm-and-organizations/) s'appuient sur l'innovation et l'optimisation continue pour être compétitives. Cela signifie un besoin accru de coordination entre les unités. Les principaux moyens de coordination sont les réunions, une structure décisionnelle hiérarchique et la création de rôles pour les collaborateurs. Les réunions, en particulier, tentent de puiser dans l'intelligence du groupe. Il y a des réunions d'équipe régulières, fixes - souvent hebdomadaires - à tous les niveaux de l'organisation ainsi que de nombreuses réunions de projet et réunions transversales sur des initiatives spécifiques.
 
 
   #### Organisations Verte
@@ -66,25 +66,25 @@ inPractice: >-
   où les décisions et les compromis peuvent être éclairés sous les différents
   angles impliqués. C'est presque déterministe: avec une forme pyramidale, les
   personnes au sommet des organisations se plaindront de la surcharge des
-  réunions, tandis que les personnes en dessous se sentent impuissantes. En
-  savoir plus \[Laloux, Frederic (2014-02-09). Reinventing Organizations: A
+  réunions, tandis que les personnes en dessous se sentent
+  impuissantes.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A
   Guide to Creating Organizations Inspired by the Next Stage of Human
   Consciousness (Kindle Locations 1752-1759). Nelson Parker. Kindle Edition.]
 
 
-  Les organisations Opale ne sont pas structurées avec des lignes hiérarchiques fixes qui s'empilent jusqu'à une pyramide, mais souvent en petites équipes autonomes. Comment alors les collègues coordonnent-ils les actions entre les équipes? Qu'est-ce qui empêche l'organisation de se désintégrer?
+  Les organisations opale ne sont pas structurées avec des lignes hiérarchiques fixes qui s'empilent en une pyramide, mais souvent en petites équipes autonomes. Comment alors les collègues coordonnent-ils les actions entre les équipes? Qu'est-ce qui empêche l'organisation de se désintégrer?
 
 
-  Les organisations Opales traitent le besoin de coordination d'une manière plutôt simple forme-fonction-fonction. Lorsqu'un problème ou une opportunité se présente, une réunion ad hoc est organisée. Lorsqu'une forme de coordination plus permanente est nécessaire, un rôle spécifique peut être créé. Par exemple, dans une usine, les équipes peuvent créer un rôle pour partager les meilleures pratiques, pour réaliser des achats en commun ou pour gérer l'administration de la paie. Ces rôles sont créés dans un processus de délégation inversée: les équipes délèguent des tâches de coordination à une personne extérieure à l'équipe. Cette personne n'a pas le pouvoir d'imposer des décisions ou des règles à l'équipe. Lorsque la coordination n'est plus nécessaire, le rôle disparaît. Rien de tout cela ne nécessite l'approbation d'en haut. Les choses se passent de manière organique. Les réunions et les rôles dans les structures autogérées émergent spontanément; ils existent tant qu'ils ajoutent de la valeur à l'écosystème. \[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 1810-1814). Nelson Parker. Kindle Edition.]
+  Les organisations opale traitent le besoin de coordination d'une manière plutôt simple : la forme suit la fonction. Lorsqu'un problème ou une opportunité se présente, une réunion ad hoc est organisée. Lorsqu'une forme de coordination plus permanente est nécessaire, un rôle spécifique peut être créé. Par exemple, dans une usine, les équipes peuvent créer un rôle pour partager les meilleures pratiques, pour réaliser des achats en commun ou pour gérer l'administration de la paie. Ces rôles sont créés dans un processus de délégation inversée: les équipes délèguent des tâches de coordination à une personne extérieure à l'équipe. Cette personne n'a pas le pouvoir d'imposer des décisions ou des règles à l'équipe. Lorsque la coordination n'est plus nécessaire, le rôle disparaît. Rien de tout cela ne nécessite l'approbation d'en haut. Les choses se passent de manière organique. Les réunions et les rôles dans les structures autogérées émergent spontanément; ils existent tant qu'ils ajoutent de la valeur à l'écosystème.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 1810-1814). Nelson Parker. Kindle Edition.]
 
 
-  #### Accords directs et engagements 
+  #### Accords et engagements directs
 
 
   La forme la plus simple de coordination est simplement un collègue parlant avec un autre collègue - quels que soient leur rôle et leur place dans l'organisation. En l'absence de structures hiérarchiques, aucun collègue n'est hors limites. Aucun supérieur n'a besoin d'être informé lorsqu'un collègue souhaite contacter un autre collègue.
 
 
-  #### Réunions Ad Hoc
+  #### Réunions ad hoc
 
 
   Les organisations autogérées ont tendance à ne pas organiser de réunions fixes et récurrentes pour se coordonner entre les équipes. Les réunions sont convoquées de manière ad hoc lorsque quelqu'un sent qu'un besoin est apparu.
@@ -102,10 +102,10 @@ inPractice: >-
   Lorsqu'une forme de coordination plus permanente et plus étendue est nécessaire, un rôle spécifique peut être créé pour aider à assurer la coordination. Par exemple, dans une usine, les équipes pourraient créer un rôle pour partager les meilleures pratiques, pour réaliser des achats en commun ou pour gérer l'administration de la paie. De tels rôles sont créés dans un processus de délégation inversée: les équipes délèguent des tâches de coordination qui ont du sens à se produire en dehors de l'équipe, et la personne qui remplit le rôle n'a pas le pouvoir d'imposer l'utilisation de ses services, décisions ou règles à l'équipe. Lorsque la coordination n'est plus nécessaire, le rôle disparaît naturellement.
 
 
-  #### Le process d'Avis
+  #### La sollicitation d'avis
 
 
-  Les organisations autogérées utilisent un [processus de prise de décision](https://fr--reinventingorganizations-wiki.netlify.app/theory/decision-making/) (souvent appelé **«processus d'avis»**) qui transcende les mécanismes descendants ou consensuels plus traditionnels. Le **processus d'avis** est un puissant mécanisme quotidien de coordination des actions dans les organisations autogérées. Lorsqu'une collègue s'adresse à d'autres collègues pour partager sa proposition et écoute leurs avis, elle crée en fait une coordination. Lorsqu'elle informe plus tard ses collègues de la décision finale, la coordination a déjà eu lieu. Le processus d'avis est au cœur de la coordination dans les organisations Opales.
+  Les organisations autogérées utilisent un [processus de prise de décision](https://fr--reinventingorganizations-wiki.netlify.app/theory/decision-making/) (souvent appelé «sollicitation d'avis») qui transcende les mécanismes descendants ou consensuels plus traditionnels. La sollicitation d'avis est un puissant mécanisme quotidien de coordination des actions dans les organisations autogérées. Lorsqu'une collègue s'adresse à d'autres collègues pour partager sa proposition et écouter leurs avis, elle crée en fait une coordination. Lorsqu'elle informe plus tard ses collègues de la décision finale, la coordination a déjà eu lieu. Le processus d'avis est au cœur de la coordination dans les organisations opale.
 faq:
   - question: How do these practices link with the three Teal breakthroughs?
     answer: >-
