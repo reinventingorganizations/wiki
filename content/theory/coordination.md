@@ -19,7 +19,7 @@ perspective: >-
   organiques, y compris des accords directs et des engagements entre collègues,
   des réunions ad hoc, des conversations sur les réseaux sociaux internes, ainsi
   que des personnes occupant des rôles spécifiques pour soutenir la
-  coordination. Le processus desollicitation d'avis pour prendre des décisions
+  coordination. Le processus de sollicitation d'avis pour prendre des décisions
   est également fondamental pour la coordination dans les organisations Opale.
 
 
