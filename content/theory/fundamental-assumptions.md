@@ -411,114 +411,167 @@ inPractice: "Viele von uns haben tief verwurzelte Annahmen über Menschen und
   Charakteren und Sichtweisen.
 
 
-  ##### *Safe and caring workplace*
+  ##### *Sicherer und fürsorglicher Arbeitsplatz*
 
 
-  * Any situation can be approached from fear and separation or from love and
-  connection. We choose love and connection.
+  \r
 
-  * We strive to create emotionally and spiritually safe environments, where
-  each of us can behave authentically.
+  \r
 
-  * We honor the moods of love, care, appreciation, recognition, gratitude,
-  curiosity, fun, playfulness…
+  *Jede Situation kann aus Angst und Trennung oder aus Liebe und Verbindung
+  angegangen werden. Wir wählen Liebe und Verbindung.\r
 
-  * We are comfortable with vocabulary like care, love, service, purpose,
-  soul,... in the workplace.
+  * Wir bemühen uns, emotional und spirituell sichere Umgebungen zu schaffen,
+  in denen sich jeder von uns authentisch verhalten kann.\r
 
+  * Wir ehren die Stimmungen von Liebe, Fürsorge, Wertschätzung, Anerkennung,
+  Dankbarkeit, Neugierde, Spaß, Verspieltheit...\r
 
-  ##### *Overcoming separation*
-
-
-  * We aim to have a workplace where we can honor all parts of us: the
-  cognitive, the physical, emotional and spiritual; the rational and the
-  intuitive, the feminine and the masculine.
-
-  * We recognize that we are all deeply interconnected, part of something
-  bigger and that includes nature and all forms of life.
+  * Wir fühlen uns wohl mit Vokabeln wie Fürsorge, Liebe, Service, Zweck,
+  Seele,... am Arbeitsplatz.
 
 
-  ##### *Learning*
+  ##### *Überwindung der Trennung*
 
 
-  * Every problem is an invitation to learn and grow. We will always be
-  learners. We have never arrived.
+  \r
 
-  * Failure is always a possibility, if we strive boldly for our purpose. We
-  discuss failures openly and learn from them. Hiding or neglecting to learn
-  from failure is not acceptable.
+  \r
 
-  * Feedback and respectful confrontation are gifts we share to help one
-  another grow.
+  * Wir streben einen Arbeitsplatz an, an dem wir alle Teile von uns ehren
+  können: den kognitiven, den physischen, den emotionalen und den spirituellen;
+  den rationalen und den intuitiven, den weiblichen und den männlichen.\r
 
-  * We focus on strengths more than weaknesses, on opportunities more than
-  problems.
-
-
-  ##### *Relationships and conflict*
+  * Wir erkennen an, dass wir alle zutiefst miteinander verbunden sind, Teil
+  von etwas Größerem sind und das schließt die Natur und alle Formen des Lebens
+  ein.
 
 
-  * It's impossible to change other people. We can only change ourselves.
-
-  * Every person has life lessons they are meant to learn by themselves. What
-  we can do is be there to support each other in that process of personal
-  change.
-
-  * We take ownership for our thoughts, beliefs, words and actions.
-
-  * We don't spread rumors. We don't talk behind someone's back.
-
-  * We resolve disagreements one-on-one and don't drag other people into the
-  problem.
-
-  * We don't blame problems on others. When we feel like blaming, we take it
-  as an invitation to reflect on how we might be part of the problem (and the
-  solution).
+  ##### *Lernen*
 
 
-  #### Evolutionary purpose
+  \r
+
+  \r
+
+  * Jedes Problem ist eine Einladung zum Lernen und Wachsen. Wir werden immer
+  Lernende sein. Wir sind nie angekommen.\r
+
+  * Scheitern ist immer eine Möglichkeit, wenn wir mutig nach unserem Ziel
+  streben. Wir sprechen offen über Misserfolge und lernen aus ihnen. Das
+  Verstecken oder Vernachlässigen des Lernens aus Fehlern ist nicht
+  akzeptabel.\r
+
+  * Feedback und respektvolle Konfrontation sind Gaben, die wir miteinander
+  teilen, um uns gegenseitig zu helfen, zu wachsen.\r
+
+  * Wir konzentrieren uns mehr auf Stärken als auf Schwächen, mehr auf Chancen
+  als auf Probleme.
 
 
-  To see the organization as having a life of its own, with a purpose of its
-  own, is based on trust in the abundance of life and the ability to distance
-  yourself from your ego:
+  ##### *Beziehungen und Konflikte*
 
 
-  ##### *Collective purpose*
+  \r
+
+  \r
+
+  *Es ist unmöglich, andere Menschen zu ändern. Wir können nur uns selbst
+  ändern.\r
+
+  * Jeder Mensch hat Lebenslektionen, die er selbst lernen muss. Was wir tun
+  können, ist, uns gegenseitig in diesem Prozess der persönlichen Veränderung zu
+  unterstützen.\r
+
+  * Wir übernehmen die Verantwortung für unsere Gedanken, Überzeugungen, Worte
+  und Handlungen.\r
+
+  * Wir verbreiten keine Gerüchte. Wir reden nicht hinter dem Rücken von
+  anderen.\r
+
+  * Wir lösen Meinungsverschiedenheiten unter vier Augen und ziehen andere
+  Menschen nicht in das Problem hinein.\r
+
+  * Wir schieben Probleme nicht auf andere. Wenn wir das Gefühl haben, dass
+  wir beschuldigt werden, nehmen wir es als Einladung, darüber nachzudenken, wie
+  wir Teil des Problems (und der Lösung) sein könnten.
 
 
-  * We view the organization as having a soul, a creative impulse and purpose
-  of its own.
-
-  * We try to listen in to where the organization wants to go and beware of
-  forcing direction onto it.
+  #### Evolutionärer Zweck
 
 
-  ##### *Individual purpose*
+  \r
+
+  \r
+
+  Die Organisation als ein Eigenleben mit einem eigenen Zweck zu sehen,
+  basiert auf dem Vertrauen in die Fülle des Lebens und der Fähigkeit, sich von
+  seinem Ego zu distanzieren:
 
 
-  * We have a duty to ourselves and to the organization to inquire into our
-  personal sense of calling to see if and how it resonates with the
-  organization's purpose.
+  \r
 
-  * We try to imbue our roles with our souls, not our egos.
+  \r
 
-
-  ##### *Planning the future*
+  ##### *Kollektiver Zweck*
 
 
-  * Trying to predict the future is futile. We make forecasts only when a
-  specific decision requires us to do so.
+  \r
 
-  * Everything will unfold with more grace if we stop trying to control and
-  instead choose to simply sense and respond.
+  \r
+
+  * Wir sehen die Organisation als etwas, das eine Seele hat, einen eigenen
+  schöpferischen Impuls und einen eigenen Zweck.\r
+
+  * Wir versuchen, hineinzuhören, wohin die Organisation gehen will, und hüten
+  uns davor, ihr eine Richtung aufzuzwingen.
 
 
-  ##### *Profit*
+  ##### *Individueller Zweck*
 
 
-  * In the long run, there are no trade-offs between purpose and profits. If
-  we focus on purpose (cause), the profit (effect) will follow."
+  \r
+
+  \r
+
+  * Wir haben die Pflicht uns selbst und der Organisation gegenüber, unser
+  persönliches Gefühl der Berufung zu erforschen, um zu sehen, ob und wie es mit
+  dem Zweck der Organisation in Resonanz steht.\r
+
+  * Wir versuchen, unsere Rollen mit unserer Seele und nicht mit unserem Ego
+  zu besetzen.
+
+
+  \r
+
+  \r
+
+  ##### * Die Zukunft planen*
+
+
+  \r
+
+  \r
+
+  * Der Versuch, die Zukunft vorherzusagen, ist sinnlos. Wir machen nur dann
+  Prognosen, wenn eine bestimmte Entscheidung dies erfordert.\r
+
+  * Alles wird sich mit mehr Anmut entfalten, wenn wir aufhören zu versuchen,
+  zu kontrollieren, und stattdessen wählen, einfach zu spüren und zu reagieren.
+
+
+  ##### *Gewinn*
+
+
+  \r
+
+  \r
+
+  * Auf lange Sicht gibt es keine Kompromisse zwischen Zweck und Gewinn. Wenn
+  wir uns auf den Zweck (Ursache) konzentrieren, wird der Gewinn (Wirkung)
+  folgen.
+
+  \r"
 faq:
   - question: What's the difference between making explicit the fundamental
       assumptions and formulating new ones – and the traditional exercise on
