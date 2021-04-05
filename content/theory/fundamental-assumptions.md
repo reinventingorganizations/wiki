@@ -94,20 +94,20 @@ perspective: >-
   #### Grüne Organisation
 
 
-  Fundamental assumptions from a [Green perspective ](../green-paradigm-and-organizations/)are:
+  Grundlegende Annahmen aus einer [grünen Perspektive ](../green-paradigm-and-organizations/)sind:
 
 
-  * Materialistic obsession, social inequality and loss of community are bad. Relationships are more important than outcomes. What is essential is ***belonging and harmony***.
+  * Materialistische Besessenheit, soziale Ungleichheit und Verlust der Gemeinschaft sind schlecht. Beziehungen sind wichtiger als Ergebnisse. Das Wesentliche ist ***Zugehörigkeit und Harmonie***.
 
-  * People are essentially good. Everyone’s point of view and opinion is valuable. Conflict or competition are not the only laws of nature, co-operation is also in our genes. Shared values work better than strict rules and policies.
+  * Menschen sind grundsätzlich gut. Jedermanns Sichtweise und Meinung ist wertvoll. Konflikt oder Konkurrenz sind nicht die einzigen Naturgesetze, Kooperation liegt auch in unseren Genen. Gemeinsame Werte funktionieren besser als strenge Regeln und Richtlinien.
 
-  * Everyone has talents. Diversity leads to better results. Avoid conflict at all cost. Use bottom up processes for input and aim for consensus for decisions.
+  * Jeder hat Talente. Vielfältigkeit führt zu besseren Ergebnissen. Vermeiden Sie Konflikte um jeden Preis. Nutzen Sie Bottom-up-Prozesse für Input und streben Sie einen Konsens für Entscheidungen an.
 
-  * At work, people must be able to grow and reach their full potential. Management (HR) should create the necessary conditions. This means leaving a lot of room for discussion, for learning and mistakes. It means stimulating people to work in teams. Leadership should be in service to those being led.
+  * Bei der Arbeit müssen Menschen die Möglichkeit haben, zu wachsen und ihr volles Potenzial zu erreichen. Das Management (HR) sollte die notwendigen Bedingungen schaffen. Das bedeutet, viel Raum für Diskussionen, für Lernen und Fehler zu lassen. Es bedeutet, Menschen dazu zu ermutigen, in Teams zu arbeiten. Führung sollte im Dienst derer stehen, die geführt werden.
 
-  * All people are of equal value. We are separate and many forces in society pull us apart or into inequality, so achieving deep communion between people is something we have to work for. There are multiple stakeholders - not only shareholders. They deserve equal attention. Nature, the local community and society as a whole are to be considered as stakeholders.
+  * Alle Menschen sind gleichwertig. Wir sind getrennt und viele Kräfte in der Gesellschaft ziehen uns auseinander oder in die Ungleichheit hinein, daher ist das Erreichen einer tiefen Gemeinschaft zwischen Menschen etwas, wofür wir arbeiten müssen. Es gibt mehrere Stakeholder - nicht nur Aktionäre. Sie verdienen die gleiche Aufmerksamkeit. Die Natur, die lokale Gemeinschaft und die Gesellschaft als Ganzes sind als Stakeholder zu betrachten.
 
-  * (Leadership style: catalytic/co-creative, "team oriented, collaborative, servant leadership". Metaphor: Family.)
+  * (Führungsstil: katalytisch/ko-kreativ, "teamorientiert, kooperativ, dienende Führung". Metapher: Familie.)
 
 
   #### Teal Organizations
