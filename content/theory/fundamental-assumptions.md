@@ -573,19 +573,18 @@ inPractice: "Viele von uns haben tief verwurzelte Annahmen über Menschen und
 
   \r"
 faq:
-  - question: What's the difference between making explicit the fundamental
-      assumptions and formulating new ones – and the traditional exercise on
-      values?
-    answer: "The traditional values document is often a rather disappointing
-      instrument for cultural change. If there is a perceivable difference
-      between theory and practice, between the official policy and experienced
-      reality. A value document will most likely be irrelevant as a change
-      driver. This is because the traditional exercise that produces it does not
-      question the underlying fundamental assumptions which shape the structure
-      and culture of the organization, and the behavior that goes with it. (It
-      is like the fish not knowing the water because it is all around it.)\r
-
-      \r\n"
+  - question: Was ist der Unterschied zwischen dem Explizitmachen der Grundannahmen
+      und dem Formulieren neuer Annahmen - und der traditionellen Übung über
+      Werte?
+    answer: Das traditionelle Wertedokument ist oft ein eher enttäuschendes
+      Instrument für den kulturellen Wandel. Wenn es einen wahrnehmbaren
+      Unterschied zwischen Theorie und Praxis, zwischen der offiziellen Politik
+      und der erlebten Realität gibt. Ein Wertedokument wird
+      höchstwahrscheinlich als Treiber für Veränderungen irrelevant sein. Das
+      liegt daran, dass die traditionelle Übung, die es hervorbringt, nicht die
+      zugrundeliegenden Grundannahmen hinterfragt, die die Struktur und Kultur
+      der Organisation und das damit verbundene Verhalten prägen. (Es ist wie
+      der Fisch, der das Wasser nicht kennt, weil es um ihn herum ist.)
   - question: Why should I bother to make these assumptions explicit?
     answer: >-
       Consider these three reasons to do so:
