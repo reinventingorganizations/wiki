@@ -72,26 +72,26 @@ perspective: >-
   Grundlegende Annahmen aus einer [Orange-Perspektive](../orange-paradigm-and-organizations/) sind:
 
 
-  * The world is full of possibilities and challenges waiting to be discovered and taken up. If one is smart and works hard enough, all the benefits of high status can be had. If one does not make it, it is one's own fault.
+  * Die Welt ist voll von Möglichkeiten und Herausforderungen, die darauf warten, entdeckt und angenommen zu werden. Wenn man klug ist und hart genug arbeitet, kann man alle Vorteile eines hohen Status haben. Wenn man es nicht schafft, ist es die eigene Schuld.
 
-  * ***Material results and status*** are essential. What counts is the financial bottom line: the (only) real measure for success is money and material wealth. This is what ultimately motivates people.
+  * ***Materielle Ergebnisse und Status*** sind wesentlich. Was zählt, ist das finanzielle Ergebnis: Der (einzige) wirkliche Maßstab für Erfolg ist Geld und materieller Wohlstand. Das ist es, was die Menschen letztlich motiviert.
 
-  * Truth is what works. Pragmatism is more valuable than authority. Rationality is valued above all else. Emotions, doubts, dreams, questions of meaning and purpose do not belong in the workplace. They are a distraction to achieving our goals. Being professional means keeping private life private.
+  * Wahrheit ist das, was funktioniert. Pragmatismus ist wertvoller als Autorität. Rationalität wird über alles andere geschätzt. Emotionen, Zweifel, Träume, Fragen nach Sinn und Zweck gehören nicht an den Arbeitsplatz. Sie lenken von der Erreichung unserer Ziele ab. Professionell zu sein bedeutet, das Privatleben privat zu halten.
 
-  * Social acceptance is important, because one needs others to reach the own goals and acknowledge the own success. One has to wear a professional mask of success and control.
+  * Soziale Akzeptanz ist wichtig, denn man braucht andere, um die eigenen Ziele zu erreichen und den eigenen Erfolg anzuerkennen. Man muss eine professionelle Maske des Erfolgs und der Kontrolle tragen.
 
-  * Only the best in their field can and should make it to the top. Competition is everywhere and should be encouraged. To survive and thrive, one has to outsmart others and beat competition.
+  * Nur die Besten auf ihrem Gebiet können und sollten es an die Spitze schaffen. Wettbewerb ist überall und sollte gefördert werden. Um zu überleben und zu gedeihen, muss man andere übertrumpfen und die Konkurrenz schlagen.
 
-  * Innovation is a necessity for growth. Change is the only constant thing. There is no room or time to tolerate mistakes and weaknesses.
+  * Innovation ist eine Notwendigkeit für Wachstum. Veränderung ist die einzige Konstante. Es gibt keinen Raum und keine Zeit, um Fehler und Schwächen zu tolerieren.
 
-  * It is important to have clear goals. Achieving the next external goal (getting the next promotion, finding a life partner, buying a new car,…) will make one happy.
+  * Es ist wichtig, klare Ziele zu haben. Das Erreichen des nächsten Ziels (die nächste Beförderung zu bekommen, einen Lebenspartner zu finden, ein neues Auto zu kaufen,...) wird einen glücklich machen.
 
-  * When people are all by themselves, nothing good will come out of it. Although they can think up to a certain point and decide on *how* they do their job, they are in need of direction. People need to be motivated by external rewards and competition to perform at their peak. Management needs to set clear goals, incentive schemes, and control. Management has to be in control.
+  * Wenn Menschen ganz mit sich selbst beschäftigt sind, wird nichts Gutes dabei herauskommen. Sie können zwar bis zu einem gewissen Punkt denken und entscheiden, *wie* sie ihre Arbeit machen, aber sie brauchen eine Richtung. Menschen müssen durch externe Belohnungen und Wettbewerb motiviert werden, um Höchstleistungen zu erbringen. Das Management muss klare Ziele, Anreizsysteme und Kontrolle vorgeben. Das Management muss die Kontrolle haben.
 
-  * (Leadership style: expert/achiever, "problem solving, strategic, outcome oriented". Metaphor: Machine.)
+  * (Führungsstil: Experte/Überflieger, "problemlösend, strategisch, ergebnisorientiert". Metapher: Maschine.)
 
 
-  #### Green Organizations
+  #### Grüne Organisation
 
 
   Fundamental assumptions from a [Green perspective ](../green-paradigm-and-organizations/)are:
