@@ -110,10 +110,10 @@ perspective: >-
   * (Führungsstil: katalytisch/ko-kreativ, "teamorientiert, kooperativ, dienende Führung". Metapher: Familie.)
 
 
-  #### Teal Organizations
+  #### Petrole Organisation
 
 
-  Fundamental assumptions from a Teal perspective are:
+  Grundlegende Annahmen aus Sicht von Teal sind:
 
 
   * Human beings and organizations as living systems are full of potential waiting to unfold. Building on strengths is more important than focusing on weaknesses.
