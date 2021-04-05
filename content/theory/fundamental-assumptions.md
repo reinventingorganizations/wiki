@@ -56,7 +56,7 @@ perspective: >-
 
   * Sie befolgen die Regeln und die Erwartungen, die die Gesellschaft an Sie stellt, auch wenn das bedeutet, eine soziale Maske der Tugend zu tragen. Selbstbeherrschung wird hochgeschätzt.
 
-  * People are mostly lazy, dishonest, unintelligent and in need of direction. They must be supervised and told what is expected from them. Thus there must be a clear chain of command, formal processes, and clear cut rules that stipulate who can do what.
+  * Menschen sind meist faul, unehrlich, unintelligent und orientierungsbedürftig. Sie müssen beaufsichtigt werden und man muss ihnen sagen, was von ihnen erwartet wird. Daher muss es eine klare Befehlskette, formale Prozesse und klare Regeln geben, die festlegen, wer was tun darf.
 
   * Everyone is replaceable by someone who can take over the same role in the process. Innovation, critical thinking and self-expression are not needed. Information is to be shared on a need-to-know basis.
 
