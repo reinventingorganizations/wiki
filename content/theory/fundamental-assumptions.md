@@ -66,17 +66,10 @@ perspective: >-
 
 
 
-  * Everyone is replaceable by someone who can take over the same role in the process. Innovation, critical thinking and self-expression are not needed. Information is to be shared on a need-to-know basis.
-
-  * Success means performing your role in the organization in a perfect way ("You *are* your job and your place in society is more or less clear from birth.")
-
-  * (Leadership style: authoritarian - paternalistic. Metaphor: Army.)
+  #### Orange Organisation
 
 
-  #### Orange Organizations
-
-
-  Fundamental assumptions from an [Orange perspective](../orange-paradigm-and-organizations/) are:
+  Grundlegende Annahmen aus einer [Orange-Perspektive](../orange-paradigm-and-organizations/) sind:
 
 
   * The world is full of possibilities and challenges waiting to be discovered and taken up. If one is smart and works hard enough, all the benefits of high status can be had. If one does not make it, it is one's own fault.
