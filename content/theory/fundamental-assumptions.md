@@ -346,45 +346,69 @@ inPractice: "Viele von uns haben tief verwurzelte Annahmen über Menschen und
   \r
 
 
-  ##### *Information and decision making*
+  ##### *Informations- und Entscheidungsfindung*
 
 
-  * All business information is open to all.
+  \r
 
-  * Every one of us is able to handle difficult and sensitive news.
+  \r
 
-  * We believe in the power of collective intelligence. Nobody is as smart as
-  everybody. Therefore all decisions will be made with the \"[advice
-  process](../decision-making/)\".
+  * Alle geschäftlichen Informationen sind für alle zugänglich.\r
 
+  * Jeder von uns ist in der Lage, mit schwierigen und sensiblen Nachrichten
+  umzugehen.\r
 
-  ##### *Responsibility and accountability*
-
-
-  * We each have full responsibility for the organization. If we sense that
-  something needs to happen, we have a duty to address it. it's not acceptable
-  to limit our concern to the remit of roles.
-
-  * Everyone must be comfortable with holding others accountable to their
-  commitments through feedback and respectful confrontation.
+  * Wir glauben an die Kraft der kollektiven Intelligenz. Niemand ist so klug
+  wie alle. Deshalb werden alle Entscheidungen mit dem
+  \"[Beratungsprozess](../decision-making/)\" getroffen.
 
 
-  #### Wholeness
+  \r
+
+  \r
+
+  ##### *Verantwortung und Rechenschaftspflicht*\r
+
+  \r
+
+  * Jeder von uns trägt die volle Verantwortung für die Organisation. Wenn wir
+  spüren, dass etwas passieren muss, haben wir die Pflicht, uns damit zu
+  befassen. Es ist nicht akzeptabel, unser Anliegen auf den Aufgabenbereich von
+  Rollen zu beschränken.\r
+
+  * Jeder muss sich damit wohlfühlen, andere durch Feedback und respektvolle
+  Konfrontation zur Verantwortung zu ziehen.
 
 
-  To bring your whole self to work, to be able to be whole in your
-  relationship with others and with life and nature, you build on the following
-  assumptions:
+  #### Ganzheitlichkeit
 
 
-  ##### *Equal worth*
+  \r
+
+  \r
+
+  Um Ihr ganzes Selbst in die Arbeit einzubringen, um in Ihrer Beziehung zu
+  anderen und zum Leben und zur Natur ganz sein zu können, bauen Sie auf den
+  folgenden Annahmen auf:
 
 
-  * We are all of fundamental equal worth.
+  \r
 
-  * At the same time, our community will be richest if we let all members
-  contribute in their distinctive way. We appreciate the differences in roles,
-  education, backgrounds, interests, skills, characters and points of view.
+  \r
+
+  ##### *Gleichwertigkeit*
+
+
+  \r
+
+  \r
+
+  * Wir sind alle von grundsätzlich gleichem Wert.\r
+
+  * Gleichzeitig wird unsere Gemeinschaft am reichsten sein, wenn wir alle
+  Mitglieder auf ihre unverwechselbare Weise beitragen lassen. Wir schätzen die
+  Unterschiede in Rollen, Ausbildung, Hintergründen, Interessen, Fähigkeiten,
+  Charakteren und Sichtweisen.
 
 
   ##### *Safe and caring workplace*
