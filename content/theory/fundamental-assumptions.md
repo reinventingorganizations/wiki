@@ -13,32 +13,48 @@ intro: >-
 
 
   ![](/media/fundamental-assumptions.jpg)
-perspective: >-
-  Jede geschichtliche Etappe hat grundlegende Annahmen, eine andere Sichtweise
-  auf die Menschen und ihre Motivationen und sehr unterschiedliche Ansätze zur
-  Auseinandersetzung mit der Welt hervorgebracht.
+perspective: "Jede geschichtliche Etappe hat grundlegende Annahmen, eine andere
+  Sichtweise auf die Menschen und ihre Motivationen und sehr unterschiedliche
+  Ansätze zur Auseinandersetzung mit der Welt hervorgebracht.
 
 
   #### Rote Organisationen
 
 
-  Grundlegende Annahmen aus einer [roten Perspektive](../red-organizations/) sind:
+  Grundlegende Annahmen aus einer [roten Perspektive](../red-organizations/)
+  sind:
 
 
 
-  * Die Welt hat unendlich viele Ressourcen, die ausgebeutet werden können. Auch Menschen außerhalb der Organisation/des Stammes können ausgebeutet werden.
+  * Die Welt hat unendlich viele Ressourcen, die ausgebeutet werden können.
+  Auch Menschen außerhalb der Organisation/des Stammes können ausgebeutet
+  werden.
 
-  * Die Welt ist ein feindlicher Ort. "Es ist ich oder du". Erobertes Gebiet muss durch (ständigen) Kampf und Wachsamkeit verteidigt werden. Wenn man nicht schnell auf die Umwelt reagiert, wird einem alles genommen.
+  * Die Welt ist ein feindlicher Ort. \"Es ist ich oder du\". Erobertes Gebiet
+  muss durch (ständigen) Kampf und Wachsamkeit verteidigt werden. Wenn man nicht
+  schnell auf die Umwelt reagiert, wird einem alles genommen.
 
-  * Bei der Struktur in der Gesellschaft geht es um ***Macht und Respekt***. Es gibt eine natürliche Hackordnung, die sicherstellt, dass nur "die Besten" überleben und Erfolg haben. Um zu überleben, muss man entweder dominant sein, um Vorteile zu nutzen, oder unterwürfig, um sich zu schützen.
+  * Bei der Struktur in der Gesellschaft geht es um ***Macht und Respekt***.
+  Es gibt eine natürliche Hackordnung, die sicherstellt, dass nur \"die Besten\"
+  überleben und Erfolg haben. Um zu überleben, muss man entweder dominant sein,
+  um Vorteile zu nutzen, oder unterwürfig, um sich zu schützen.
 
-  * Man kann nur sich selbst vertrauen - und bis zu einem gewissen Grad auch den Menschen, die "Treue geschworen" haben. Wachsamkeit ist unabdingbar, denn die Loyalitäten der Menschen können sich über Nacht ändern.
+  * Man kann nur sich selbst vertrauen - und bis zu einem gewissen Grad auch
+  den Menschen, die \"Treue geschworen\" haben. Wachsamkeit ist unabdingbar,
+  denn die Loyalitäten der Menschen können sich über Nacht ändern.
 
-  * Es gibt keine stabilen Regeln außer der Machtherrschafft, die der Anführer ausübt. Was richtig und was falsch ist, entscheidet der Chef. Keine Notwendigkeit, selbst zu denken, wenn man nicht der Chef ist.
+  * Es gibt keine stabilen Regeln außer der Machtherrschafft, die der Anführer
+  ausübt. Was richtig und was falsch ist, entscheidet der Chef. Keine
+  Notwendigkeit, selbst zu denken, wenn man nicht der Chef ist.
 
-  * Es ist akzeptabel (und sogar wünschenswert), sich nur um sich selbst zu kümmern. Nehmen, was man kriegen kann - solange man nicht erwischt oder von jemand Mächtigerem geschlagen wird, ist OK. Es gibt keine Schuld, nur Macht oder Unterwerfung. Was andere Menschen denken und wie sie sich fühlen, ist nicht von Belang.
+  * Es ist akzeptabel (und sogar wünschenswert), sich nur um sich selbst zu
+  kümmern. Nehmen, was man kriegen kann - solange man nicht erwischt oder von
+  jemand Mächtigerem geschlagen wird, ist OK. Es gibt keine Schuld, nur Macht
+  oder Unterwerfung. Was andere Menschen denken und wie sie sich fühlen, ist
+  nicht von Belang.
 
-  * Menschen, die nicht zum "inneren Kreis" gehören, sind dazu da, benutzt zu werden. Es ist besser gefürchtet als geliebt zu werden.
+  * Menschen, die nicht zum \"inneren Kreis\" gehören, sind dazu da, benutzt
+  zu werden. Es ist besser gefürchtet als geliebt zu werden.
 
 
   (Führungsstil: räuberisch, Metapher: Wolfsrudel)
@@ -47,20 +63,38 @@ perspective: >-
   #### Bernstein Organisation
 
 
-  Grundlegende Annahmen aus einer [bernstein Perspektive](../amber-paradigm-and-organizations/) sind:
+  Grundlegende Annahmen aus einer [bernstein
+  Perspektive](../amber-paradigm-and-organizations/) sind:
 
 
-  * Die Welt ist (oder sollte es zumindest sein) unveränderlich, nachvollziehbar und beherrschbar. Was in der Vergangenheit funktioniert hat, wird auch in der Zukunft funktionieren. ***Stabilität (Sicherheit) und Loyalität*** sind wesentlich. Veränderung ist mit Misstrauen zu betrachten. Das Verlassen der Organisation ist die letzte Option.
+  * Die Welt ist (oder sollte es zumindest sein) unveränderlich,
+  nachvollziehbar und beherrschbar. Was in der Vergangenheit funktioniert hat,
+  wird auch in der Zukunft funktionieren. ***Stabilität (Sicherheit) und
+  Loyalität*** sind wesentlich. Veränderung ist mit Misstrauen zu betrachten.
+  Das Verlassen der Organisation ist die letzte Option.
 
-  * Dinge sind entweder richtig oder falsch. Es gibt immer eine institutionelle Autorität, der man gehorchen muss: Regeln, Verfahren usw. Persönliche Meinungen sind nicht relevant. Schuldgefühle sind unausweichlich, wenn man im Unrecht ist.
+  * Dinge sind entweder richtig oder falsch. Es gibt immer eine
+  institutionelle Autorität, der man gehorchen muss: Regeln, Verfahren usw.
+  Persönliche Meinungen sind nicht relevant. Schuldgefühle sind unausweichlich,
+  wenn man im Unrecht ist.
 
-  * Sie befolgen die Regeln und die Erwartungen, die die Gesellschaft an Sie stellt, auch wenn das bedeutet, eine soziale Maske der Tugend zu tragen. Selbstbeherrschung wird hochgeschätzt.
+  * Sie befolgen die Regeln und die Erwartungen, die die Gesellschaft an Sie
+  stellt, auch wenn das bedeutet, eine soziale Maske der Tugend zu tragen.
+  Selbstbeherrschung wird hochgeschätzt.
 
-  * Menschen sind meist faul, unehrlich, unintelligent und orientierungsbedürftig. Sie müssen beaufsichtigt werden und man muss ihnen sagen, was von ihnen erwartet wird. Daher muss es eine klare Befehlskette, formale Prozesse und klare Regeln geben, die festlegen, wer was tun darf.
+  * Menschen sind meist faul, unehrlich, unintelligent und
+  orientierungsbedürftig. Sie müssen beaufsichtigt werden und man muss ihnen
+  sagen, was von ihnen erwartet wird. Daher muss es eine klare Befehlskette,
+  formale Prozesse und klare Regeln geben, die festlegen, wer was tun darf.
 
-  * Jeder ist ersetzbar durch jemanden, der die gleiche Rolle im Prozess übernehmen kann. Innovation, kritisches Denken und Selbstdarstellung sind nicht gefragt. Informationen werden nur auf einer Need-to-know-Basis weitergegeben.
+  * Jeder ist ersetzbar durch jemanden, der die gleiche Rolle im Prozess
+  übernehmen kann. Innovation, kritisches Denken und Selbstdarstellung sind
+  nicht gefragt. Informationen werden nur auf einer Need-to-know-Basis
+  weitergegeben.
 
-  * Erfolg bedeutet, dass man seine Rolle in der Organisation perfekt ausführt ("Sie *sind* Ihr Job und Ihr Platz in der Gesellschaft ist mehr oder weniger von Geburt an klar.")
+  * Erfolg bedeutet, dass man seine Rolle in der Organisation perfekt ausführt
+  (\"Sie *sind* Ihr Job und Ihr Platz in der Gesellschaft ist mehr oder weniger
+  von Geburt an klar.\")
 
   * (Führungsstil: autoritär - paternalistisch. Metapher: Armee.)
 
@@ -69,70 +103,176 @@ perspective: >-
   #### Orange Organisation
 
 
-  Grundlegende Annahmen aus einer [Orange-Perspektive](../orange-paradigm-and-organizations/) sind:
+  Grundlegende Annahmen aus einer
+  [Orange-Perspektive](../orange-paradigm-and-organizations/) sind:
 
 
-  * Die Welt ist voll von Möglichkeiten und Herausforderungen, die darauf warten, entdeckt und angenommen zu werden. Wenn man klug ist und hart genug arbeitet, kann man alle Vorteile eines hohen Status haben. Wenn man es nicht schafft, ist es die eigene Schuld.
+  * Die Welt ist voll von Möglichkeiten und Herausforderungen, die darauf
+  warten, entdeckt und angenommen zu werden. Wenn man klug ist und hart genug
+  arbeitet, kann man alle Vorteile eines hohen Status haben. Wenn man es nicht
+  schafft, ist es die eigene Schuld.
 
-  * ***Materielle Ergebnisse und Status*** sind wesentlich. Was zählt, ist das finanzielle Ergebnis: Der (einzige) wirkliche Maßstab für Erfolg ist Geld und materieller Wohlstand. Das ist es, was die Menschen letztlich motiviert.
+  * ***Materielle Ergebnisse und Status*** sind wesentlich. Was zählt, ist das
+  finanzielle Ergebnis: Der (einzige) wirkliche Maßstab für Erfolg ist Geld und
+  materieller Wohlstand. Das ist es, was die Menschen letztlich motiviert.
 
-  * Wahrheit ist das, was funktioniert. Pragmatismus ist wertvoller als Autorität. Rationalität wird über alles andere geschätzt. Emotionen, Zweifel, Träume, Fragen nach Sinn und Zweck gehören nicht an den Arbeitsplatz. Sie lenken von der Erreichung unserer Ziele ab. Professionell zu sein bedeutet, das Privatleben privat zu halten.
+  * Wahrheit ist das, was funktioniert. Pragmatismus ist wertvoller als
+  Autorität. Rationalität wird über alles andere geschätzt. Emotionen, Zweifel,
+  Träume, Fragen nach Sinn und Zweck gehören nicht an den Arbeitsplatz. Sie
+  lenken von der Erreichung unserer Ziele ab. Professionell zu sein bedeutet,
+  das Privatleben privat zu halten.
 
-  * Soziale Akzeptanz ist wichtig, denn man braucht andere, um die eigenen Ziele zu erreichen und den eigenen Erfolg anzuerkennen. Man muss eine professionelle Maske des Erfolgs und der Kontrolle tragen.
+  * Soziale Akzeptanz ist wichtig, denn man braucht andere, um die eigenen
+  Ziele zu erreichen und den eigenen Erfolg anzuerkennen. Man muss eine
+  professionelle Maske des Erfolgs und der Kontrolle tragen.
 
-  * Nur die Besten auf ihrem Gebiet können und sollten es an die Spitze schaffen. Wettbewerb ist überall und sollte gefördert werden. Um zu überleben und zu gedeihen, muss man andere übertrumpfen und die Konkurrenz schlagen.
+  * Nur die Besten auf ihrem Gebiet können und sollten es an die Spitze
+  schaffen. Wettbewerb ist überall und sollte gefördert werden. Um zu überleben
+  und zu gedeihen, muss man andere übertrumpfen und die Konkurrenz schlagen.
 
-  * Innovation ist eine Notwendigkeit für Wachstum. Veränderung ist die einzige Konstante. Es gibt keinen Raum und keine Zeit, um Fehler und Schwächen zu tolerieren.
+  * Innovation ist eine Notwendigkeit für Wachstum. Veränderung ist die
+  einzige Konstante. Es gibt keinen Raum und keine Zeit, um Fehler und Schwächen
+  zu tolerieren.
 
-  * Es ist wichtig, klare Ziele zu haben. Das Erreichen des nächsten Ziels (die nächste Beförderung zu bekommen, einen Lebenspartner zu finden, ein neues Auto zu kaufen,...) wird einen glücklich machen.
+  * Es ist wichtig, klare Ziele zu haben. Das Erreichen des nächsten Ziels
+  (die nächste Beförderung zu bekommen, einen Lebenspartner zu finden, ein neues
+  Auto zu kaufen,...) wird einen glücklich machen.
 
-  * Wenn Menschen ganz mit sich selbst beschäftigt sind, wird nichts Gutes dabei herauskommen. Sie können zwar bis zu einem gewissen Punkt denken und entscheiden, *wie* sie ihre Arbeit machen, aber sie brauchen eine Richtung. Menschen müssen durch externe Belohnungen und Wettbewerb motiviert werden, um Höchstleistungen zu erbringen. Das Management muss klare Ziele, Anreizsysteme und Kontrolle vorgeben. Das Management muss die Kontrolle haben.
+  * Wenn Menschen ganz mit sich selbst beschäftigt sind, wird nichts Gutes
+  dabei herauskommen. Sie können zwar bis zu einem gewissen Punkt denken und
+  entscheiden, *wie* sie ihre Arbeit machen, aber sie brauchen eine Richtung.
+  Menschen müssen durch externe Belohnungen und Wettbewerb motiviert werden, um
+  Höchstleistungen zu erbringen. Das Management muss klare Ziele, Anreizsysteme
+  und Kontrolle vorgeben. Das Management muss die Kontrolle haben.
 
-  * (Führungsstil: Experte/Überflieger, "problemlösend, strategisch, ergebnisorientiert". Metapher: Maschine.)
+  * (Führungsstil: Experte/Überflieger, \"problemlösend, strategisch,
+  ergebnisorientiert\". Metapher: Maschine.)
 
 
   #### Grüne Organisation
 
 
-  Grundlegende Annahmen aus einer [grünen Perspektive ](../green-paradigm-and-organizations/)sind:
+  Grundlegende Annahmen aus einer [grünen Perspektive
+  ](../green-paradigm-and-organizations/)sind:
 
 
-  * Materialistische Besessenheit, soziale Ungleichheit und Verlust der Gemeinschaft sind schlecht. Beziehungen sind wichtiger als Ergebnisse. Das Wesentliche ist ***Zugehörigkeit und Harmonie***.
+  * Materialistische Besessenheit, soziale Ungleichheit und Verlust der
+  Gemeinschaft sind schlecht. Beziehungen sind wichtiger als Ergebnisse. Das
+  Wesentliche ist ***Zugehörigkeit und Harmonie***.
 
-  * Menschen sind grundsätzlich gut. Jedermanns Sichtweise und Meinung ist wertvoll. Konflikt oder Konkurrenz sind nicht die einzigen Naturgesetze, Kooperation liegt auch in unseren Genen. Gemeinsame Werte funktionieren besser als strenge Regeln und Richtlinien.
+  * Menschen sind grundsätzlich gut. Jedermanns Sichtweise und Meinung ist
+  wertvoll. Konflikt oder Konkurrenz sind nicht die einzigen Naturgesetze,
+  Kooperation liegt auch in unseren Genen. Gemeinsame Werte funktionieren besser
+  als strenge Regeln und Richtlinien.
 
-  * Jeder hat Talente. Vielfältigkeit führt zu besseren Ergebnissen. Vermeiden Sie Konflikte um jeden Preis. Nutzen Sie Bottom-up-Prozesse für Input und streben Sie einen Konsens für Entscheidungen an.
+  * Jeder hat Talente. Vielfältigkeit führt zu besseren Ergebnissen. Vermeiden
+  Sie Konflikte um jeden Preis. Nutzen Sie Bottom-up-Prozesse für Input und
+  streben Sie einen Konsens für Entscheidungen an.
 
-  * Bei der Arbeit müssen Menschen die Möglichkeit haben, zu wachsen und ihr volles Potenzial zu erreichen. Das Management (HR) sollte die notwendigen Bedingungen schaffen. Das bedeutet, viel Raum für Diskussionen, für Lernen und Fehler zu lassen. Es bedeutet, Menschen dazu zu ermutigen, in Teams zu arbeiten. Führung sollte im Dienst derer stehen, die geführt werden.
+  * Bei der Arbeit müssen Menschen die Möglichkeit haben, zu wachsen und ihr
+  volles Potenzial zu erreichen. Das Management (HR) sollte die notwendigen
+  Bedingungen schaffen. Das bedeutet, viel Raum für Diskussionen, für Lernen und
+  Fehler zu lassen. Es bedeutet, Menschen dazu zu ermutigen, in Teams zu
+  arbeiten. Führung sollte im Dienst derer stehen, die geführt werden.
 
-  * Alle Menschen sind gleichwertig. Wir sind getrennt und viele Kräfte in der Gesellschaft ziehen uns auseinander oder in die Ungleichheit hinein, daher ist das Erreichen einer tiefen Gemeinschaft zwischen Menschen etwas, wofür wir arbeiten müssen. Es gibt mehrere Stakeholder - nicht nur Aktionäre. Sie verdienen die gleiche Aufmerksamkeit. Die Natur, die lokale Gemeinschaft und die Gesellschaft als Ganzes sind als Stakeholder zu betrachten.
+  * Alle Menschen sind gleichwertig. Wir sind getrennt und viele Kräfte in der
+  Gesellschaft ziehen uns auseinander oder in die Ungleichheit hinein, daher ist
+  das Erreichen einer tiefen Gemeinschaft zwischen Menschen etwas, wofür wir
+  arbeiten müssen. Es gibt mehrere Stakeholder - nicht nur Aktionäre. Sie
+  verdienen die gleiche Aufmerksamkeit. Die Natur, die lokale Gemeinschaft und
+  die Gesellschaft als Ganzes sind als Stakeholder zu betrachten.
 
-  * (Führungsstil: katalytisch/ko-kreativ, "teamorientiert, kooperativ, dienende Führung". Metapher: Familie.)
+  * (Führungsstil: katalytisch/ko-kreativ, \"teamorientiert, kooperativ,
+  dienende Führung\". Metapher: Familie.)
 
 
   #### Petrole Organisation
 
 
-  Grundlegende Annahmen aus Sicht von Teal sind:
+  Grundlegende Annahmen aus Sicht von Petrol sind:
 
 
-  * Human beings and organizations as living systems are full of potential waiting to unfold. Building on strengths is more important than focusing on weaknesses.
+  * Menschen und Organisationen als lebende Systeme sind voller Potenziale,
+  die darauf warten, sich zu entfalten. Es ist wichtiger, auf Stärken
+  aufzubauen, als sich auf Schwächen zu konzentrieren.\r
 
-  * One can ***trust*** ***the abundance of life.*** People and organizations who share the same life serving goals are allies rather than competitors.
+  * Man kann der Fülle des Lebens ***vertrauen***. *** Menschen und
+  Organisationen, die dieselben dem Leben dienenden Ziele teilen, sind eher
+  Verbündete als Konkurrenten.\r
 
-  * All of life is intrinsically interconnected. As humans and individuals, we share a place in the grand scheme of life. Having equal human value is self-evident, and does not require struggle or sameness in form or expression.
+  * Alles Leben ist untrennbar miteinander verbunden. Als Menschen und
+  Individuen teilen wir einen Platz im großen Plan des Lebens. Der gleiche
+  menschliche Wert ist selbstverständlich und erfordert keinen Kampf oder
+  Gleichheit in Form oder Ausdruck.\r
 
-  * The goal of life is ***becoming the truest expression of oneself***, to honor one's birthright and callings, and to be of service to humanity and the world. Your contribution is developing your own unique strengths and expressions, and then leading life's joy through that into this world, thereby playing your tune in the symphony of life.
+  * Das Ziel des Lebens ist ***der wahrhaftigste Ausdruck seiner selbst zu
+  werden***, sein Geburtsrecht und seine Berufung zu ehren und der Menschheit
+  und der Welt zu dienen. Ihr Beitrag besteht darin, Ihre eigenen einzigartigen
+  Stärken und Ausdrücke zu entwickeln und dann die Freude des Lebens dadurch in
+  diese Welt zu tragen und dadurch Ihre Melodie in der Symphonie des Lebens zu
+  spielen.\r
 
-  * One is not one's Ego. "Don’t let the need to look good, to be successful, to fit in,… run your life."
+  * Man ist nicht das eigene Ego. \"Lassen Sie nicht zu, dass das Bedürfnis,
+  gut auszusehen, erfolgreich zu sein, sich anzupassen, ... Ihr Leben
+  bestimmt.\"\r
 
-  * If one keeps the channel open, one can listen into the life that wants to be lived through oneself – or the purpose that wants to be served by the organization. Life does not need to be coerced. All we have to do is tune into what life wants to express or create and life will provide for itself what is needed. Sense and respond, rather than plan and control.
+  * Wenn man den Kanal offen hält, kann man in das Leben hineinhören, das
+  durch einen selbst gelebt werden will - oder in den Zweck, der durch die
+  Organisation erfüllt werden will. Das Leben muss nicht erzwungen werden. Wir
+  müssen uns nur auf das einstimmen, was das Leben ausdrücken oder erschaffen
+  möchte, und das Leben wird von selbst für das sorgen, was gebraucht wird.
+  Spüren und reagieren, statt planen und kontrollieren.\r
 
-  * Even if something unexpected or mistakes happen, things will turn out all right. If they don’t, life is offering an opportunity to learn and grow. Let go of fear.
+  * Selbst wenn etwas Unerwartetes oder Fehler passieren, werden sich die
+  Dinge zum Guten wenden. Wenn nicht, bietet das Leben eine Gelegenheit zum
+  Lernen und Wachsen. Lassen Sie die Angst los.\r
 
-  * A good decision is a decision that is in line with one's inner compass – it is not only based on facts and figures, but includes emotions and intuition.
+  * Eine gute Entscheidung ist eine Entscheidung, die mit dem eigenen inneren
+  Kompass übereinstimmt - sie basiert nicht nur auf Fakten und Zahlen, sondern
+  schließt Emotionen und Intuition mit ein.\r
 
-  * (Leadership style: co-creative/synergistic, "deeply empathetic, systemic, holding space for the purpose". Metaphor: Living System / Living Organism).
+  * (Führungsstil: co-kreativ/synergistisch, \"tief empathisch, systemisch,
+  Raum für den Zweck haltend\". Metapher: Lebendes System / Lebender
+  Organismus).
+
+
+
+  * Human beings and organizations as living systems are full of potential
+  waiting to unfold. Building on strengths is more important than focusing on
+  weaknesses.
+
+  * One can ***trust*** ***the abundance of life.*** People and organizations
+  who share the same life serving goals are allies rather than competitors.
+
+  * All of life is intrinsically interconnected. As humans and individuals, we
+  share a place in the grand scheme of life. Having equal human value is
+  self-evident, and does not require struggle or sameness in form or expression.
+
+  * The goal of life is ***becoming the truest expression of oneself***, to
+  honor one's birthright and callings, and to be of service to humanity and the
+  world. Your contribution is developing your own unique strengths and
+  expressions, and then leading life's joy through that into this world, thereby
+  playing your tune in the symphony of life.
+
+  * One is not one's Ego. \"Don’t let the need to look good, to be successful,
+  to fit in,… run your life.\"
+
+  * If one keeps the channel open, one can listen into the life that wants to
+  be lived through oneself – or the purpose that wants to be served by the
+  organization. Life does not need to be coerced. All we have to do is tune into
+  what life wants to express or create and life will provide for itself what is
+  needed. Sense and respond, rather than plan and control.
+
+  * Even if something unexpected or mistakes happen, things will turn out all
+  right. If they don’t, life is offering an opportunity to learn and grow. Let
+  go of fear.
+
+  * A good decision is a decision that is in line with one's inner compass –
+  it is not only based on facts and figures, but includes emotions and
+  intuition.
+
+  * (Leadership style: co-creative/synergistic, \"deeply empathetic, systemic,
+  holding space for the purpose\". Metaphor: Living System / Living Organism)."
 inPractice: >-
   Many of us hold deeply ingrained assumptions about people and work that are
   based on fear, assumptions that call for hierarchy and control. Teal
