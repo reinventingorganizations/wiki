@@ -216,8 +216,8 @@ perspective: "Jede geschichtliche Etappe hat grundlegende Annahmen, eine andere
   gut auszusehen, erfolgreich zu sein, sich anzupassen, ... Ihr Leben
   bestimmt.\"\r
 
-  * Wenn man den Kanal offen hält, kann man in das Leben hineinhören, das
-  durch einen selbst gelebt werden will - oder in den Zweck, der durch die
+  * Wenn man den Weg offen hält, kann man in das Leben hineinhören, das durch
+  einen selbst gelebt werden will - oder in den Zweck, der durch die
   Organisation erfüllt werden will. Das Leben muss nicht erzwungen werden. Wir
   müssen uns nur auf das einstimmen, was das Leben ausdrücken oder erschaffen
   möchte, und das Leben wird von selbst für das sorgen, was gebraucht wird.
@@ -233,46 +233,7 @@ perspective: "Jede geschichtliche Etappe hat grundlegende Annahmen, eine andere
 
   * (Führungsstil: co-kreativ/synergistisch, \"tief empathisch, systemisch,
   Raum für den Zweck haltend\". Metapher: Lebendes System / Lebender
-  Organismus).
-
-
-
-  * Human beings and organizations as living systems are full of potential
-  waiting to unfold. Building on strengths is more important than focusing on
-  weaknesses.
-
-  * One can ***trust*** ***the abundance of life.*** People and organizations
-  who share the same life serving goals are allies rather than competitors.
-
-  * All of life is intrinsically interconnected. As humans and individuals, we
-  share a place in the grand scheme of life. Having equal human value is
-  self-evident, and does not require struggle or sameness in form or expression.
-
-  * The goal of life is ***becoming the truest expression of oneself***, to
-  honor one's birthright and callings, and to be of service to humanity and the
-  world. Your contribution is developing your own unique strengths and
-  expressions, and then leading life's joy through that into this world, thereby
-  playing your tune in the symphony of life.
-
-  * One is not one's Ego. \"Don’t let the need to look good, to be successful,
-  to fit in,… run your life.\"
-
-  * If one keeps the channel open, one can listen into the life that wants to
-  be lived through oneself – or the purpose that wants to be served by the
-  organization. Life does not need to be coerced. All we have to do is tune into
-  what life wants to express or create and life will provide for itself what is
-  needed. Sense and respond, rather than plan and control.
-
-  * Even if something unexpected or mistakes happen, things will turn out all
-  right. If they don’t, life is offering an opportunity to learn and grow. Let
-  go of fear.
-
-  * A good decision is a decision that is in line with one's inner compass –
-  it is not only based on facts and figures, but includes emotions and
-  intuition.
-
-  * (Leadership style: co-creative/synergistic, \"deeply empathetic, systemic,
-  holding space for the purpose\". Metaphor: Living System / Living Organism)."
+  Organismus)."
 inPractice: >-
   Many of us hold deeply ingrained assumptions about people and work that are
   based on fear, assumptions that call for hierarchy and control. Teal
