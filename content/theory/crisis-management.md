@@ -1,31 +1,38 @@
 ---
 layout: article
 tags: theory
-key: Crisis Management
-name: Crisis Management
+key: Gestion de crise
+name: Gestion de crise
 sortOrder: 8
 category: Important Processes
 intro: >-
-  The topic of Crisis Management addresses the organizational process of making
-  swift or particularly challenging decisions at times of crisis, and how this
-  may differ from regular [decision making](../decision-making/) processes.
+  Le thème de la gestion de crise porte sur le processus organisationnel de
+  prise de décisions rapides ou particulièrement difficiles en temps de crise,
+  et sur la manière dont il peut différer des processus normaux de [prise de
+  décision](https://fr--reinventingorganizations-wiki.netlify.app/theory/decision-making/).
 
 
   ![](/media/crisis.jpg)
 perspective: >-
-  In a Teal organization, everyone is involved in decision making to allow the
-  best response to emerge from collective intelligence. 
+  Dans une organisation Opale, chacun est impliqué dans la prise de décision
+  pour permettre à la meilleure réponse d'émerger de l'intelligence collective. 
 
-  Every historical stage has given birth to a distinct perspective on Crisis Management, and to very different practices:
-
-
-  #### Red Organizations
+  Chaque étape historique a donné naissance à une perspective distincte de la gestion de crise, et à des pratiques très différentes :
 
 
-  In the [Red paradigm](../red-organizations/), the organization's short term planning horizon and its reactive nature makes it familiar with crises. Decisions can be made on a whim and are passed down to employees from above by using the Red breakthrough of command authority.
+  #### Organisations Rouge
 
 
-  #### Amber Organizations
+  Dans le [paradigme Rouge](https://fr--reinventingorganizations-wiki.netlify.app/theory/red-organizations/), la planification à court terme de l'organisation et sa nature réactive la rendent familière aux crises. Les décisions peuvent être prises sur un coup de tête et sont transmises aux employés par le haut en utilisant l'autorité du commandement.
+
+
+  #### Organisations Ambre
+
+
+  Dans le [paradigme ambré](../amber-paradigm-and-organisations/), l'organisation est plus stable et prévisible.  Les processus et les procédures définissent la façon dont les choses sont faites. On suppose que les travailleurs ont besoin de direction.  Dans le domaine imprévisible de la crise, le PDG et les plus hauts dirigeants prennent des décisions qui sont ensuite traduites en ordres pour les personnes situées plus bas dans la hiérarchie. On attend d'eux qu'ils suivent sans poser de questions.
+
+
+  Traduit avec www.DeepL.com/Translator (version gratuite)
 
 
   In the [Amber paradigm](../amber-paradigm-and-organizations/), the organization is more stable and predictable.  Processes and procedures define the way things are done. It is assumed that workers need direction.  In the unpredictable realm of crisis, the CEO and highest management make decisions which are then translated into orders for those further down the hierarchy. They are expected to follow without question.
