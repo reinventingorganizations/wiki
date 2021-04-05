@@ -186,10 +186,10 @@ perspective: "Jede geschichtliche Etappe hat grundlegende Annahmen, eine andere
   dienende Führung\". Metapher: Familie.)
 
 
-  #### Petrole Organisation
+  #### Petrole (Teal) Organisation
 
 
-  Grundlegende Annahmen aus Sicht von Petrol sind:
+  Grundlegende Annahmen aus Sicht von Teal sind:
 
 
   * Menschen und Organisationen als lebende Systeme sind voller Potenziale,
@@ -235,13 +235,15 @@ perspective: "Jede geschichtliche Etappe hat grundlegende Annahmen, eine andere
   Raum für den Zweck haltend\". Metapher: Lebendes System / Lebender
   Organismus)."
 inPractice: >-
-  Many of us hold deeply ingrained assumptions about people and work that are
-  based on fear, assumptions that call for hierarchy and control. Teal
-  organizations articulate the assumptions they hold about people and about
-  work. Only by shining light on these fear-based beliefs can we decide to
-  choose a different set of assumptions. When colleagues talk about the two sets
-  of assumptions and are reminded of them frequently, they start to shift their
-  belief system.
+  Viele von uns haben tief verwurzelte Annahmen über Menschen und Arbeit, die
+  auf Angst beruhen, Annahmen, die nach Hierarchie und Kontrolle verlangen.
+  Teal-Organisationen artikulieren die Annahmen, die sie über Menschen und über
+  Arbeit haben. Nur wenn wir diese angstbasierten Annahmen beleuchten, können
+  wir uns entscheiden, eine andere Art von Annahmen zu wählen. Wenn Kollegen
+  über die beiden Gruppen von Annahmen sprechen und häufig daran erinnert
+  werden, beginnen sie, ihr Glaubenssystem zu verändern.
+
+
 
 
   #### Checking with the fundamental assumptions in daily processes
