@@ -585,16 +585,25 @@ faq:
       zugrundeliegenden Grundannahmen hinterfragt, die die Struktur und Kultur
       der Organisation und das damit verbundene Verhalten prägen. (Es ist wie
       der Fisch, der das Wasser nicht kennt, weil es um ihn herum ist.)
-  - question: Why should I bother to make these assumptions explicit?
-    answer: >-
-      Consider these three reasons to do so:
+  - question: Warum sollte ich mir die Mühe machen, diese Annahmen explizit zu machen?
+    answer: "Betrachten Sie diese drei Gründe dafür:
 
 
-      1. It makes it easier to explain why you've chosen to use operating practices that defy conventional management.
+      \r
 
-      2. The assumptions can serve as touchstones for every new practice or process you consider introducing.
+      \r
 
-      3. Explicit assumptions make it easier for anybody in the organization, even the most junior colleague, to speak up and say: "I wonder if what we are doing is in line with our basic assumptions".
+      1. Es macht es einfacher zu erklären, warum Sie sich für
+      Betriebspraktiken entschieden haben, die sich dem konventionellen
+      Management widersetzen.\r
+
+      2. Die Annahmen können als Prüfsteine für jede neue Praxis oder
+      jeden neuen Prozess dienen, den Sie einführen möchten.\r
+
+      3. Explizite Annahmen machen es für jeden in der Organisation,
+      selbst für den jüngsten Kollegen, einfacher, sich zu äußern und zu sagen:
+      \"Ich frage mich, ob das, was wir tun, im Einklang mit unseren
+      Grundannahmen steht\"."
 relatedTheory:
   - Culture and Values
 ---
