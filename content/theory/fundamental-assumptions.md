@@ -58,6 +58,14 @@ perspective: >-
 
   * Menschen sind meist faul, unehrlich, unintelligent und orientierungsbedürftig. Sie müssen beaufsichtigt werden und man muss ihnen sagen, was von ihnen erwartet wird. Daher muss es eine klare Befehlskette, formale Prozesse und klare Regeln geben, die festlegen, wer was tun darf.
 
+  * Jeder ist ersetzbar durch jemanden, der die gleiche Rolle im Prozess übernehmen kann. Innovation, kritisches Denken und Selbstdarstellung sind nicht gefragt. Informationen werden nur auf einer Need-to-know-Basis weitergegeben.
+
+  * Erfolg bedeutet, dass man seine Rolle in der Organisation perfekt ausführt ("Sie *sind* Ihr Job und Ihr Platz in der Gesellschaft ist mehr oder weniger von Geburt an klar.")
+
+  * (Führungsstil: autoritär - paternalistisch. Metapher: Armee.)
+
+
+
   * Everyone is replaceable by someone who can take over the same role in the process. Innovation, critical thinking and self-expression are not needed. Information is to be shared on a need-to-know basis.
 
   * Success means performing your role in the organization in a perfect way ("You *are* your job and your place in society is more or less clear from birth.")
