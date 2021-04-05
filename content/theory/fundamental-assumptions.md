@@ -234,51 +234,77 @@ perspective: "Jede geschichtliche Etappe hat grundlegende Annahmen, eine andere
   * (Führungsstil: co-kreativ/synergistisch, \"tief empathisch, systemisch,
   Raum für den Zweck haltend\". Metapher: Lebendes System / Lebender
   Organismus)."
-inPractice: >-
-  Viele von uns haben tief verwurzelte Annahmen über Menschen und Arbeit, die
-  auf Angst beruhen, Annahmen, die nach Hierarchie und Kontrolle verlangen.
-  Teal-Organisationen artikulieren die Annahmen, die sie über Menschen und über
-  Arbeit haben. Nur wenn wir diese angstbasierten Annahmen beleuchten, können
-  wir uns entscheiden, eine andere Art von Annahmen zu wählen. Wenn Kollegen
-  über die beiden Gruppen von Annahmen sprechen und häufig daran erinnert
-  werden, beginnen sie, ihr Glaubenssystem zu verändern.
+inPractice: "Viele von uns haben tief verwurzelte Annahmen über Menschen und
+  Arbeit, die auf Angst beruhen, Annahmen, die nach Hierarchie und Kontrolle
+  verlangen. Teal-Organisationen artikulieren die Annahmen, die sie über
+  Menschen und über Arbeit haben. Nur wenn wir diese angstbasierten Annahmen
+  beleuchten, können wir uns entscheiden, eine andere Art von Annahmen zu
+  wählen. Wenn Kollegen über die beiden Gruppen von Annahmen sprechen und häufig
+  daran erinnert werden, beginnen sie, ihr Glaubenssystem zu verändern.
 
 
+  #### Überprüfung der Grundannahmen in den täglichen Abläufen
 
 
-  #### Checking with the fundamental assumptions in daily processes
+  \r
+
+  \r
+
+  Kollegen in Teal-Organisationen überprüfen routinemäßig die Art und Weise,
+  wie tägliche Praktiken ([Besprechungen](../meetings/),
+  [Konfliktlösung](../conflict-resolution/), [Team-
+  /Gemeinschaftsbildung](../team-and-community-building/),
+  [Entscheidungsfindung](../decision-making/)) durchgeführt werden -und die
+  Ergebnisse, die sie erzeugen, mit den [Werten ](../culture-and-values/)und den
+  zugrunde liegenden Grundannahmen.\ 
 
 
-  Colleagues in Teal organizations routinely check the way daily practices ([meetings](../meetings/), [conflict resolution](../conflict-resolution/), [team / community building](../team-and-community-building/), [decision making](../decision-making/)) are conducted – and the outcomes they generate with the [values ](../culture-and-values/)and underlying fundamental assumptions.  
+  #### Articulating both sets of assumptions when transforming an existing
+  organization
 
 
-  #### Articulating both sets of assumptions when transforming an existing organization
+  Most of the organizational practices chosen will be deeply counter-cultural
+  to more conventional organizations. It is possible that people will question
+  choices and call new assumptions foolish. Debates can be more fruitful when
+  they don't stay at the level of arguing for or against a certain management
+  practice, but when they take place at a deeper level, discussing the often
+  hidden assumptions underneath the practice.
 
 
-  Most of the organizational practices chosen will be deeply counter-cultural to more conventional organizations. It is possible that people will question choices and call new assumptions foolish. Debates can be more fruitful when they don't stay at the level of arguing for or against a certain management practice, but when they take place at a deeper level, discussing the often hidden assumptions underneath the practice.
-
-
-  For example, each time when [AES](http://www.aes.com/) acquired a new power plant, the CEO would introduce AES's management practices to the new group of colleagues by asking them what assumptions owners and managers of a typical factory hold of their workers (see further: In Practice).
+  For example, each time when [AES](http://www.aes.com/) acquired a new power
+  plant, the CEO would introduce AES's management practices to the new group of
+  colleagues by asking them what assumptions owners and managers of a typical
+  factory hold of their workers (see further: In Practice).
 
 
   #### Practical tips:
 
 
-  1. Start by uncovering the unspoken assumptions behind the traditional hierarchical organizational (Amber/Orange) model.
+  1. Start by uncovering the unspoken assumptions behind the traditional
+  hierarchical organizational (Amber/Orange) model.
 
   2. Don't do it alone - explore it together with your team.
 
 
-  #### Discussing the fundamental assumptions when starting up a teal organization
+  #### Discussing the fundamental assumptions when starting up a teal
+  organization
 
 
-  When starting up a Teal organization, choosing the right co-founders is a critical decision. If the organization is to run on Evolutionary-Teal principles, the founders' readiness to embrace Teal ways of operating are crucial. Be ready to spend a significant amount of time discussing these topics - including the fundamental assumptions on people and work. You are shaping the culture of your organization before it has even started.  
+  When starting up a Teal organization, choosing the right co-founders is a
+  critical decision. If the organization is to run on Evolutionary-Teal
+  principles, the founders' readiness to embrace Teal ways of operating are
+  crucial. Be ready to spend a significant amount of time discussing these
+  topics - including the fundamental assumptions on people and work. You are
+  shaping the culture of your organization before it has even started. \ 
 
 
   #### Self-management
 
 
-  To operate effectively – even at a large scale – with a system based on peer relationships, without the need for either hierarchy nor consensus, one relies on the following Teal principles. They in turn are based on the fundamental assumptions of Teal:
+  To operate effectively – even at a large scale – with a system based on peer
+  relationships, without the need for either hierarchy nor consensus, one relies
+  on the following Teal principles. They in turn are based on the fundamental
+  assumptions of Teal:
 
 
   ##### *Trust*
@@ -286,7 +312,8 @@ inPractice: >-
 
   * We relate to one another with an assumption of positive intent.
 
-  * Until we are proven wrong, trusting co-workers is our default means of engagement.
+  * Until we are proven wrong, trusting co-workers is our default means of
+  engagement.
 
   * Freedom and accountability are two sides of the same coin.
 
@@ -298,21 +325,28 @@ inPractice: >-
 
   * Every one of us is able to handle difficult and sensitive news.
 
-  * We believe in the power of collective intelligence. Nobody is as smart as everybody. Therefore all decisions will be made with the "[advice process](../decision-making/)".
+  * We believe in the power of collective intelligence. Nobody is as smart as
+  everybody. Therefore all decisions will be made with the \"[advice
+  process](../decision-making/)\".
 
 
   ##### *Responsibility and accountability*
 
 
-  * We each have full responsibility for the organization. If we sense that something needs to happen, we have a duty to address it. it's not acceptable to limit our concern to the remit of roles.
+  * We each have full responsibility for the organization. If we sense that
+  something needs to happen, we have a duty to address it. it's not acceptable
+  to limit our concern to the remit of roles.
 
-  * Everyone must be comfortable with holding others accountable to their commitments through feedback and respectful confrontation.
+  * Everyone must be comfortable with holding others accountable to their
+  commitments through feedback and respectful confrontation.
 
 
   #### Wholeness
 
 
-  To bring your whole self to work, to be able to be whole in your relationship with others and with life and nature, you build on the following assumptions:
+  To bring your whole self to work, to be able to be whole in your
+  relationship with others and with life and nature, you build on the following
+  assumptions:
 
 
   ##### *Equal worth*
@@ -320,39 +354,53 @@ inPractice: >-
 
   * We are all of fundamental equal worth.
 
-  * At the same time, our community will be richest if we let all members contribute in their distinctive way. We appreciate the differences in roles, education, backgrounds, interests, skills, characters and points of view.
+  * At the same time, our community will be richest if we let all members
+  contribute in their distinctive way. We appreciate the differences in roles,
+  education, backgrounds, interests, skills, characters and points of view.
 
 
   ##### *Safe and caring workplace*
 
 
-  * Any situation can be approached from fear and separation or from love and connection. We choose love and connection.
+  * Any situation can be approached from fear and separation or from love and
+  connection. We choose love and connection.
 
-  * We strive to create emotionally and spiritually safe environments, where each of us can behave authentically.
+  * We strive to create emotionally and spiritually safe environments, where
+  each of us can behave authentically.
 
-  * We honor the moods of love, care, appreciation, recognition, gratitude, curiosity, fun, playfulness…
+  * We honor the moods of love, care, appreciation, recognition, gratitude,
+  curiosity, fun, playfulness…
 
-  * We are comfortable with vocabulary like care, love, service, purpose, soul,... in the workplace.
+  * We are comfortable with vocabulary like care, love, service, purpose,
+  soul,... in the workplace.
 
 
   ##### *Overcoming separation*
 
 
-  * We aim to have a workplace where we can honor all parts of us: the cognitive, the physical, emotional and spiritual; the rational and the intuitive, the feminine and the masculine.
+  * We aim to have a workplace where we can honor all parts of us: the
+  cognitive, the physical, emotional and spiritual; the rational and the
+  intuitive, the feminine and the masculine.
 
-  * We recognize that we are all deeply interconnected, part of something bigger and that includes nature and all forms of life.
+  * We recognize that we are all deeply interconnected, part of something
+  bigger and that includes nature and all forms of life.
 
 
   ##### *Learning*
 
 
-  * Every problem is an invitation to learn and grow. We will always be learners. We have never arrived.
+  * Every problem is an invitation to learn and grow. We will always be
+  learners. We have never arrived.
 
-  * Failure is always a possibility, if we strive boldly for our purpose. We discuss failures openly and learn from them. Hiding or neglecting to learn from failure is not acceptable.
+  * Failure is always a possibility, if we strive boldly for our purpose. We
+  discuss failures openly and learn from them. Hiding or neglecting to learn
+  from failure is not acceptable.
 
-  * Feedback and respectful confrontation are gifts we share to help one another grow.
+  * Feedback and respectful confrontation are gifts we share to help one
+  another grow.
 
-  * We focus on strengths more than weaknesses, on opportunities more than problems.
+  * We focus on strengths more than weaknesses, on opportunities more than
+  problems.
 
 
   ##### *Relationships and conflict*
@@ -360,35 +408,46 @@ inPractice: >-
 
   * It's impossible to change other people. We can only change ourselves.
 
-  * Every person has life lessons they are meant to learn by themselves. What we can do is be there to support each other in that process of personal change.
+  * Every person has life lessons they are meant to learn by themselves. What
+  we can do is be there to support each other in that process of personal
+  change.
 
   * We take ownership for our thoughts, beliefs, words and actions.
 
   * We don't spread rumors. We don't talk behind someone's back.
 
-  * We resolve disagreements one-on-one and don't drag other people into the problem.
+  * We resolve disagreements one-on-one and don't drag other people into the
+  problem.
 
-  * We don't blame problems on others. When we feel like blaming, we take it as an invitation to reflect on how we might be part of the problem (and the solution).
+  * We don't blame problems on others. When we feel like blaming, we take it
+  as an invitation to reflect on how we might be part of the problem (and the
+  solution).
 
 
   #### Evolutionary purpose
 
 
-  To see the organization as having a life of its own, with a purpose of its own, is based on trust in the abundance of life and the ability to distance yourself from your ego:
+  To see the organization as having a life of its own, with a purpose of its
+  own, is based on trust in the abundance of life and the ability to distance
+  yourself from your ego:
 
 
   ##### *Collective purpose*
 
 
-  * We view the organization as having a soul, a creative impulse and purpose of its own.
+  * We view the organization as having a soul, a creative impulse and purpose
+  of its own.
 
-  * We try to listen in to where the organization wants to go and beware of forcing direction onto it.
+  * We try to listen in to where the organization wants to go and beware of
+  forcing direction onto it.
 
 
   ##### *Individual purpose*
 
 
-  * We have a duty to ourselves and to the organization to inquire into our personal sense of calling to see if and how it resonates with the organization's purpose.
+  * We have a duty to ourselves and to the organization to inquire into our
+  personal sense of calling to see if and how it resonates with the
+  organization's purpose.
 
   * We try to imbue our roles with our souls, not our egos.
 
@@ -396,15 +455,18 @@ inPractice: >-
   ##### *Planning the future*
 
 
-  * Trying to predict the future is futile. We make forecasts only when a specific decision requires us to do so.
+  * Trying to predict the future is futile. We make forecasts only when a
+  specific decision requires us to do so.
 
-  * Everything will unfold with more grace if we stop trying to control and instead choose to simply sense and respond.
+  * Everything will unfold with more grace if we stop trying to control and
+  instead choose to simply sense and respond.
 
 
   ##### *Profit*
 
 
-  * In the long run, there are no trade-offs between purpose and profits. If we focus on purpose (cause), the profit (effect) will follow.
+  * In the long run, there are no trade-offs between purpose and profits. If
+  we focus on purpose (cause), the profit (effect) will follow."
 faq:
   - question: What's the difference between making explicit the fundamental
       assumptions and formulating new ones – and the traditional exercise on
