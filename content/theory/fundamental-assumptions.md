@@ -256,66 +256,94 @@ inPractice: "Viele von uns haben tief verwurzelte Annahmen über Menschen und
   /Gemeinschaftsbildung](../team-and-community-building/),
   [Entscheidungsfindung](../decision-making/)) durchgeführt werden -und die
   Ergebnisse, die sie erzeugen, mit den [Werten ](../culture-and-values/)und den
-  zugrunde liegenden Grundannahmen.\ 
+  zugrunde liegenden Grundannahmen.
 
 
-  #### Articulating both sets of assumptions when transforming an existing
-  organization
+  #### Artikulation beider Annahmen bei der Transformation einer bestehenden
+  Organisation
 
 
-  Most of the organizational practices chosen will be deeply counter-cultural
-  to more conventional organizations. It is possible that people will question
-  choices and call new assumptions foolish. Debates can be more fruitful when
-  they don't stay at the level of arguing for or against a certain management
-  practice, but when they take place at a deeper level, discussing the often
-  hidden assumptions underneath the practice.
+  \r
+
+  \r
+
+  Die meisten der gewählten organisatorischen Praktiken werden für
+  konventionellere Organisationen zutiefst kontrakulturell sein. Es ist möglich,
+  dass Menschen Entscheidungen in Frage stellen und neue Annahmen als töricht
+  bezeichnen. Debatten können fruchtbarer sein, wenn sie nicht auf der Ebene des
+  Argumentierens für oder gegen eine bestimmte Managementpraxis bleiben, sondern
+  wenn sie auf einer tieferen Ebene stattfinden und die oft versteckten Annahmen
+  hinter der Praxis diskutieren.\r
+
+  \r
+
+  Jedes Mal, wenn beispielsweise [AES](http://www.aes.com/) ein neues
+  Kraftwerk erwarb, stellte der CEO der neuen Gruppe von Kollegen die
+  Managementpraktiken von AES vor, indem er sie fragte, welche Annahmen
+  Eigentümer und Manager einer typischen Fabrik über ihre Arbeiter haben (siehe
+  weiter: In der Praxis). \ 
 
 
-  For example, each time when [AES](http://www.aes.com/) acquired a new power
-  plant, the CEO would introduce AES's management practices to the new group of
-  colleagues by asking them what assumptions owners and managers of a typical
-  factory hold of their workers (see further: In Practice).
+  #### Praktische Tipps:
 
 
-  #### Practical tips:
+  \r
+
+  \r
+
+  1. Beginnen Sie damit, die unausgesprochenen Annahmen hinter dem
+  traditionellen hierarchischen Organisationsmodell (Bernstein/Orange)
+  aufzudecken.\r
+
+  2. Tun Sie es nicht allein - erkunden Sie es gemeinsam mit Ihrem Team.
 
 
-  1. Start by uncovering the unspoken assumptions behind the traditional
-  hierarchical organizational (Amber/Orange) model.
-
-  2. Don't do it alone - explore it together with your team.
+  #### Erörterung der grundlegenden Annahmen bei der Gründung einer
+  Teal-Organisation
 
 
-  #### Discussing the fundamental assumptions when starting up a teal
-  organization
+  \r
+
+  \r
+
+  Bei der Gründung einer Teal-Organisation ist die Auswahl der richtigen
+  Mitgründer eine kritische Entscheidung. Wenn die Organisation nach
+  Evolutionär-Teal-Prinzipien geführt werden soll, ist die Bereitschaft der
+  Gründer, die Teal-Arbeitsweise zu übernehmen, entscheidend. Seien Sie bereit,
+  viel Zeit mit der Diskussion dieser Themen zu verbringen - einschließlich der
+  grundlegenden Annahmen über Menschen und Arbeit. Sie formen die Kultur Ihrer
+  Organisation, bevor sie überhaupt begonnen hat.\ 
 
 
-  When starting up a Teal organization, choosing the right co-founders is a
-  critical decision. If the organization is to run on Evolutionary-Teal
-  principles, the founders' readiness to embrace Teal ways of operating are
-  crucial. Be ready to spend a significant amount of time discussing these
-  topics - including the fundamental assumptions on people and work. You are
-  shaping the culture of your organization before it has even started. \ 
+  #### Selbstmanagement
 
 
-  #### Self-management
+  \r
+
+  \r
+
+  Um effektiv - auch in großem Maßstab - mit einem System zu arbeiten, das auf
+  Peer-Beziehungen basiert und weder Hierarchie noch Konsens benötigt, stützt
+  man sich auf die folgenden Teal-Prinzipien. Diese wiederum beruhen auf den
+  Grundannahmen von Teal:
 
 
-  To operate effectively – even at a large scale – with a system based on peer
-  relationships, without the need for either hierarchy nor consensus, one relies
-  on the following Teal principles. They in turn are based on the fundamental
-  assumptions of Teal:
+  \r
 
+  \r
 
-  ##### *Trust*
+  ##### *Vertrauen*\r
 
+  \r
 
-  * We relate to one another with an assumption of positive intent.
+  * Wir beziehen uns aufeinander mit der Annahme einer positiven Absicht.\r
 
-  * Until we are proven wrong, trusting co-workers is our default means of
-  engagement.
+  * Bis zum Beweis des Gegenteils ist das Vertrauen in die Mitarbeiter unsere
+  Standardeinstellung im Umgang miteinander.\r
 
-  * Freedom and accountability are two sides of the same coin.
+  * Freiheit und Verantwortlichkeit sind zwei Seiten derselben Medaille.\ 
+
+  \r
 
 
   ##### *Information and decision making*
