@@ -4,10 +4,10 @@ tags: cases
 name: Elbdudler
 date: 2020-11-09
 introduction: Consultoría en redes sociales - Alemania - 34 personas - Con fines de lucro.
-industry: M. Professional, scientific and technical activities
-geography: Germany
+industry: M. Investigación científica, alta tecnología
+geography: Alemania
 companySize: 1-100
-profit: Profit
+profit: Organización con fines de lucro
 theory:
   - topic: Compensation and incentives
     title: Las personas autodefinen sus salarios en base a 4 simples preguntas
