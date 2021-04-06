@@ -2,14 +2,15 @@
 layout: case
 tags: cases
 name: Zappos.com
-date: 2020-11-09
+date: 2021-04-06T05:10:48.327Z
 introduction: Zappos.com es famosa por su excelente cultura, ofrece a sus nuevos
   empleados un cheque de $ 3,000 si tienen dudas y deciden dejar la empresa
   durante las cuatro semanas de inducción.
-industry: G. Wholesale and retail trade; repair of motor vehicles and motorcycles
-geography: USA
+industry: G. Comercio al por mayor y al por menor, reparación de vehículos de
+  motor y motocicletas
+geography: Estados Unidos
 companySize: "> 500"
-profit: Profit
+profit: Organización con fines de lucro
 theory:
   - topic: Culture and Values
     title: "Zappos.com es famosa por su excelente cultura, ofrece a sus nuevos
