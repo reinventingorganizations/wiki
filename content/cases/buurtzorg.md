@@ -3,166 +3,123 @@ layout: case
 tags: cases
 name: Buurtzorg
 date: 2020-11-17T14:48:06.315Z
-introduction: "**Buurtzorg Nederland** is a Dutch home-care organization which
-  has attracted international attention for its innovative use of independent
-  nurse teams in delivering relatively low-cost care. Buurtzorg is Dutch for
-  “neighborhood care”.
+introduction: >-2
+   **Buurtzorg Nederland**  es una organización holandesa de atención domiciliaria que ha atraído la atención internacional por su uso innovador de equipos de enfermeras independientes para brindar atención de costo relativamente bajo. Buurtzorg en holandés significa “cuidado del vecindario”.
+
+  **Historia**
 
 
-  **History**
-
-
-  It was founded in 2006 in the small city of Almelo by Jos de Blok and a
-  small team of professional nurses who were dissatisfied with the delivery of
-  health care by traditional home care organizations in the Netherlands.
-  According to Sharda S. Nandram, the company has created a new management
-  approach: “integrating simplification,” characterized by a simple, flat
-  organizational structure through which a wide range of services, facilitated
-  by information technology, can be provided.\r
-
-  \r\n"
+  Fue fundada en 2006 en la pequeña ciudad de Almelo por Jos de Blok y un pequeño equipo de enfermeras profesionales que no estaban satisfechas con la prestación de atención médica por parte de las organizaciones tradicionales de atención domiciliaria en los Países Bajos. Según Sharda S. Nandram, la empresa ha creado un nuevo enfoque de gestión: “simplificación integradora”, que se caracteriza por una estructura organizativa simple y plana a través de la cual se puede proporcionar una amplia gama de servicios, facilitados por la tecnología de la información.
 industry: Q. Human health and social work activities
 geography: Netherlands
 companySize: "> 500"
 profit: non-profit
 theory:
   - topic: Listening to Purpose
-    title: Buurtzorg + approach
-    content: "Two nurses on a Buurtzorg team found themselves pondering the fact
-      that elderly people, when they fall, often break their hips. Hip
-      replacements are routine surgery, but patients don’t always recover the
-      same autonomy. Could Buurtzorg play a role in preventing its older
-      patients from falling down? The two nurses experimented and created a
-      partnership with a physiotherapist and an occupational therapist from
-      their neighborhood. They advised patients on small changes they could
-      bring to their home interiors, and changes of habits that would minimize
-      risks of falling down. Other teams showed interest, and the approach, now
-      called Buurtzorg +, has spread throughout the country.\r
+    title: Buurtzorg + aproximación
+    content: >-
+      Dos enfermeras de un equipo de Buurtzorg se encontraron reflexionando
+      sobre el hecho de que las personas mayores, cuando se caen, a menudo se
+      rompen las caderas. Los reemplazos de cadera son cirugías de rutina, pero
+      los pacientes no siempre recuperan la misma autonomía. ¿Podría Buurtzorg
+      desempeñar un papel en la prevención de la caída de sus pacientes mayores?
+      Las dos enfermeras experimentaron y crearon una asociación con un
+      fisioterapeuta y un terapeuta ocupacional de su vecindario. Aconsejaron a
+      los pacientes sobre los pequeños cambios que podrían introducir en el
+      interior de su hogar y los cambios de hábitos que minimizarían los riesgos
+      de caídas. Otros equipos mostraron interés y el enfoque, ahora llamado
+      Buurtzorg +, se ha extendido por todo el país.
 
-      \r
 
-      The two nurses sensed a need, and with the power of self-management
-      acted upon it. Self-management helped the idea to spread. Any team
-      interested in Buurtzorg + can sign up for a training event that teaches
-      them the basics of how the concept works and how to create such a
-      partnership in their neighborhood.^[Laloux, Frederic (2014-02-09).
-      Reinventing Organizations: A Guide to Creating Organizations Inspired by
-      the Next Stage of Human Consciousness (Kindle Locations 4396-4406). Nelson
-      Parker. Kindle Edition.]"
+      Las dos enfermeras sintieron una necesidad y, con el poder de la autogestión, actuaron en consecuencia. La autogestión ayudó a que la idea se extendiera. Cualquier equipo interesado en Buurtzorg + puede inscribirse en un evento de capacitación que les enseñe los conceptos básicos de cómo funciona el concepto y cómo crear una asociación de este tipo en su vecindario. ^ \ \[Laloux, Frederic (2014-02-09). Reinventar organizaciones: una guía para crear organizaciones inspiradas en la próxima etapa de la conciencia humana (ubicaciones de Kindle 4396-4406). Nelson Parker. Versión Kindle.]
   - topic: sales-marketing
-    title: Has grown from 4 people in 2007 to 10,000 employees in 2016 without using
-      any marketing.
+    title: Ha pasado de 4 personas en 2007 a 10.000 empleados en 2016 sin utilizar
+      ningún marketing.
     content: >-
-      At [Buurtzorg](https://www.buurtzorgnederland.com/), with a 10,000 people
-      organization only 45 people work at the head office and there is no
-      marketing department. In fact, since the organization was started in 2007
-      they have not used any conventional marketing at all. From the beginning
-      Buurtzorg focused on patients and on solving problems.
+      En [Buurtzorg](https://www.buurtzorgnederland.com/), con una organización
+      de 10,000 personas, solo 45 personas trabajan en la oficina central y no
+      hay un departamento de marketing. De hecho, desde que se inició la
+      organización en 2007, no han utilizado ningún tipo de marketing
+      convencional. Desde el principio, Buurtzorg se centró en los pacientes y
+      en la resolución de problemas.
 
 
-      "We believed this would create a better result. We would not use any marketing, instead use free publicity when people were satisfied with our services.", says Jos de Blok. Today Buurtzorg work a lot on establishing close and genuine relationships with patients, different stakeholders and other people with a natural interest in their services. Because of the success of the organization, this also includes communication with media and newspapers in an effort to meet the interest that has been generated by many years of good word of mouth. "Buurtzorg has become associated with something “good” now, so it is easier for us nowadays.", says Jos de Blok.
+      "Creíamos que esto crearía un mejor resultado. No utilizaríamos ningún tipo de marketing, sino publicidad gratuita cuando la gente estuviera satisfecha con nuestros servicios", dice Jos de Blok. Hoy en día, Buurtzorg trabaja mucho para establecer relaciones cercanas y genuinas con pacientes, diferentes partes interesadas y otras personas con un interés natural en sus servicios. Debido al éxito de la organización, esto también incluye la comunicación con los medios y periódicos en un esfuerzo por satisfacer el interés que se ha generado por muchos años de buen boca a boca. "Buurtzorg se ha asociado con algo 'bueno' ahora, por lo que es más fácil para nosotros hoy en día", dice Jos de Blok.
   - topic: Organizational Structure
-    title: Buurtzorg uses a geographically-based parallel team structure and team
-      coaches.
-    content: "At Buurtzorg, a Dutch neighbourhood nursing organization, nurses work
-      in teams of 10 to 12, with each team serving around 50 patients in a
-      small, well-defined neighbourhood. The team is in charge of all tasks that
-      were previously fragmented across different departments.\r
+    title: Buurtzorg utiliza una estructura de equipos paralelos y entrenadores de
+      equipos basados geográficamente.
+    content: >-
+      En Buurtzorg, una organización de enfermería de barrio holandés, las
+      enfermeras trabajan en equipos de 10 a 12, y cada equipo atiende a unos 50
+      pacientes en un barrio pequeño y bien definido. El equipo está a cargo de
+      todas las tareas que anteriormente estaban fragmentadas en diferentes
+      departamentos.
 
-      \r
 
-      Each team has a coach. The coach has no decision-making power and
-      works with 40 to 50 teams at a time, making sure that no one team becomes
-      overly dependent on the coach. The coach's role is to ask insightful
-      questions that help teams find their own solutions.\r
+      Cada equipo tiene un entrenador. El entrenador no tiene poder para tomar decisiones y trabaja con 40 a 50 equipos a la vez, asegurándose de que ningún equipo se vuelva demasiado dependiente del entrenador. El rol del entrenador es hacer preguntas perspicaces que ayuden a los equipos a encontrar sus propias soluciones.
 
-      \r
 
-      The team is responsible for doing the intake, planning, vacation
-      scheduling as well as administration. They even decide where to rent an
-      office and how to decorate it. There is no leader within the team;
-      important decisions are made collectively.\r
+      El equipo es responsable de realizar la admisión, la planificación, la programación de las vacaciones y la administración. Incluso deciden dónde alquilar una oficina y cómo decorarla. No hay líder dentro del equipo; las decisiones importantes se toman colectivamente.
 
-      \r
 
-      Because of this, a problem-solving culture thrives. Nurses can't
-      offload difficult decisions to a boss and when things get tense,
-      stressful, or unpleasant, there is no boss and no structure to blame The
-      team knows they have all the power and latitude to solve their own
-      problems.\r
+      Debido a esto, prospera una cultura de resolución de problemas. Las enfermeras no pueden traspasar las decisiones difíciles a un jefe y cuando las cosas se ponen tensas, estresantes o desagradables, no hay jefe ni estructura a la que culpar. El equipo sabe que tiene todo el poder y la libertad para resolver sus propios problemas.
 
-      \r
 
-      The teams of nurses aren't simply empowered by their hierarchy. They
-      are truly powerful because there is no hierarchy that has decision-making
-      power over them. Each team is also responsible for their own recruitment.
-      Because the team members make hiring decisions themselves, they are
-      emotionally invested in making the recruit successful.\r
+      Los equipos de enfermeras no están simplemente empoderados por su jerarquía. Son realmente poderosos porque no existe una jerarquía que tenga poder de decisión sobre ellos. Cada equipo también es responsable de su propia contratación. Debido a que los miembros del equipo toman las decisiones de contratación por sí mismos, están emocionalmente involucrados en hacer que el recluta sea exitoso.
 
-      \r
 
-      The absence of rules and procedures imposed by headquarters staff
-      functions creates a huge sense of freedom and responsibility throughout
-      the organization.\r
+      La ausencia de reglas y procedimientos impuestos por las funciones del personal de la sede crea un gran sentido de libertad y responsabilidad en toda la organización.
 
-      \r
 
-      The results achieved by Buurtzorg speak for themselves. A 2009 Ernst
-      & Young study found that Buurtzorg requires, on average, close to 40
-      percent fewer hours of care per client than other nursing organizations.
-      This is despite the fact that nurses in Buurtzorg take time for coffee and
-      talk with patients, their families, and neighbors, while other nursing
-      organizations have come to tightly allocate the time allowed for almost
-      every service. . At Buurtzorg, patients stay in care only half as long,
-      heal faster, and become more autonomous."
+      Los resultados obtenidos por Buurtzorg hablan por sí mismos. Un estudio de Ernst & Young de 2009 encontró que Buurtzorg requiere, en promedio, cerca de un 40 por ciento menos de horas de atención por cliente que otras organizaciones de enfermería. Esto es a pesar del hecho de que las enfermeras en Buurtzorg se toman un tiempo para tomar un café y hablar con los pacientes, sus familias y vecinos, mientras que otras organizaciones de enfermería han llegado a asignar estrictamente el tiempo permitido para casi todos los servicios. . En Buurtzorg, los pacientes permanecen bajo atención solo la mitad del tiempo, se curan más rápido y se vuelven más autónomos.
   - topic: Information Flow
-    title: Uses information structure and transparency to provide the best service
-      to the customers
-    content: At[ Buurtzorg](https://www.buurtzorgnederland.com/), all data
-      concerning performance of all the teams is put on the company's intranet.
-      A team that struggles in one area can identifiy a team in the neighborhood
-      with outstanding results (which is not a threat, but an offer) and can ask
-      for advice and best practices. If there is an need for a decision, the
-      request is posted on the intranet. Teams can see every month how their
-      productivity compares to that of other teams. The data of other teams is
-      not anonymized or averaged out. Employees are trusted to handle the
-      positive and negative impacts of information with integrity.
+    title: Utiliza la estructura de la información y la transparencia para brindar
+      el mejor servicio a los clientes.
+    content: En [Buurtzorg](https://www.buurtzorgnederland.com/), todos los datos
+      relacionados con el rendimiento de todos los equipos se encuentran en la
+      intranet de la empresa. Un equipo que lucha en un área puede identificar
+      un equipo en el vecindario con resultados sobresalientes (que no es una
+      amenaza, sino una oferta) y puede solicitar consejos y mejores prácticas.
+      Si es necesario tomar una decisión, la solicitud se publica en la
+      intranet. Los equipos pueden ver todos los meses cómo se compara su
+      productividad con la de otros equipos. Los datos de otros equipos no se
+      anonimizan ni se promedian. Se confía en los empleados para manejar los
+      impactos positivos y negativos de la información con integridad.
   - topic: Meetings
-    title: Small, self-managing teams provide flexibility.
+    title: Los equipos pequeños y autogestionados brindan flexibilidad.
     content: >-
-      #### Team decision making procedure
+      #### Procedimiento de toma de decisiones del equipo
 
 
-      [Buurtzorg](https://www.buurtzorgnederland.com/) teams use a very efficient method for problem solving and [decision-making](../decision-making/). They first choose a facilitator. The facilitator is not allowed to make any statements, suggestions, or decisions; she can only ask questions: “What is your proposal?” Or “What is the rationale for your proposal?”. All responses are listed on a flipchart.
+      Los equipos de [Buurtzorg](https://www.buurtzorgnederland.com/) utilizan un método muy eficiente para la resolución de problemas y la \[toma de decisiones] (../ decision-making /). Primero eligen un facilitador. El facilitador no puede hacer declaraciones, sugerencias o decisiones; ella solo puede hacer preguntas: "¿Cuál es tu propuesta?" O "¿Cuál es el fundamento de su propuesta?". Todas las respuestas se enumeran en un rotafolio.
 
 
-      Then all are reviewed, improved and refined.
+      Luego, todos se revisan, mejoran y refinan.
 
 
-      In a third round, proposals are put up for decision. The basis for decision-making is not consensus. For a solution to be adopted it is enough that nobody has a principled objection. A person cannot veto a decision because she feels another solution (for example, hers!) would have been preferable. The perfect solution that all would embrace wholeheartedly might not exist, and its pursuit could prove exhausting. As long as there is no principled objection, a solution will be adopted, with the understanding that it can be revisited at any time when new information is available.  
+      En una tercera ronda, las propuestas se someten a decisión. La base para la toma de decisiones no es el consenso. Para que se adopte una solución, es suficiente que nadie tenga una objeción de principio. Una persona no puede vetar una decisión porque siente que hubiera sido preferible otra solución (por ejemplo, la suya). La solución perfecta que todos aceptarían de todo corazón podría no existir, y su búsqueda podría resultar agotadora. Mientras no exista una objeción de principio, se adoptará una solución, en el entendimiento de que puede revisarse en cualquier momento cuando haya nueva información disponible.
 
 
-      If, despite their training and meeting techniques, teams get stuck, they can ask for external facilitation at any time.
+      Si, a pesar de su capacitación y técnicas de reunión, los equipos se estancan, pueden solicitar facilitación externa en cualquier momento.
 
 
-      #### Limiting ‘higher level’ regional coach meetings:
+      #### Limitación de las reuniones regionales de entrenadores de "nivel superior":
 
 
-      In many ways it would make good sense for Jos de Blok, CEO of Buurtzorg to meet regularly with the regional coaches: they have great insight into what’s happening in the field. Collectively, they could spot issues and opportunities and determine actions to take.
+      En muchos sentidos, tendría sentido que Jos de Blok, director ejecutivo de Buurtzorg, se reuniera periódicamente con los entrenadores regionales: tienen una gran comprensión de lo que está sucediendo en el campo. Colectivamente, podrían detectar problemas y oportunidades y determinar las acciones a tomar.
 
 
-      But this process would now be like an executive management committee--the opposite of what they want.
+      Pero este proceso ahora sería como un comité de gestión ejecutiva, lo contrario de lo que ellos quieren.
 
 
-      To avoid this, Jos de Block limits his meetings with the coaches to quarterly.
+      Para evitarlo, Jos de Block limita sus reuniones con los entrenadores a trimestrales.
   - topic: Team and Community Building
-    title: At Buurtzorg, all nurses are trained in “Intervisie,” a peer-coaching
-      technique that originated in the Netherlands.
-    content: >-
-      **Example for Peer coaching**
+    title: En Buurtzorg, todas las enfermeras están capacitadas en "Intervisie", una
+      técnica de coaching entre pares que se originó en los Países Bajos.
+    content: >-2
+       **Ejemplo de coaching entre compañeros** 
 
-
-      A nurse that wrestles with a certain question can ask colleagues on her team to help her sort it out in a group coaching session. How should she deal with a client that refuses to take lifesaving medication? How can she help an elderly patient accept help from his children? How to say no to clients to protect herself from burnout? Often, when a nurse struggles with one of these matters, it is because the question brings up a broader personal issue she hasn’t worked through. In these cases, a peer coaching session can help. Some [Buurtzorg ](http://www.buurtzorgnederland.com/)teams allot an hour for peer coaching every month; other teams convene when a team member requests it. “Intervisie”, the process used at Buurtzorg, follows a strict format and ground rules to prevent the group from administering the all-too-common medicine of advice, admonitions, or reassurance. During most of the process, team members can ask only open-ended questions; they become fellow travelers into the mystery of the issue the person is dealing with. A safe space is created that invites deep listening, authenticity, and vulnerability - the necessary ingredients for inner truth to emerge. The goal is for the nurse to see the problem in a new light and discover her own solutions. It is at once a simple and beautiful process. Being respectfully and compassionately “held” by a group is for many people a new and unforgettable experience.
+      Una enfermera que lucha con una determinada pregunta puede pedirle a sus colegas de su equipo que la ayuden a resolverla en una sesión de coaching grupal. ¿Cómo debe lidiar con un cliente que se niega a tomar medicamentos que le salvan la vida? ¿Cómo puede ayudar a un paciente anciano a aceptar la ayuda de sus hijos? ¿Cómo decirle que no a los clientes para protegerse del agotamiento? A menudo, cuando una enfermera lucha con uno de estos asuntos, es porque la pregunta trae a colación un problema personal más amplio que no ha resuelto. En estos casos, una sesión de coaching entre compañeros puede ayudar. Algunos equipos de [Buurtzorg](http://www.buurtzorgnederland.com/) asignan una hora para el entrenamiento entre pares cada mes; otros equipos se reúnen cuando un miembro del equipo lo solicita. “Intervisie”, el proceso utilizado en Buurtzorg, sigue un formato estricto y reglas básicas para evitar que el grupo administre la medicina demasiado común de consejos, advertencias o tranquilidad. Durante la mayor parte del proceso, los miembros del equipo solo pueden hacer preguntas abiertas; se convierten en compañeros de viaje en el misterio del problema con el que se enfrenta la persona. Se crea un espacio seguro que invita a la escucha profunda, la autenticidad y la vulnerabilidad, los ingredientes necesarios para que surja la verdad interior. El objetivo es que la enfermera vea el problema desde una nueva perspectiva y descubra sus propias soluciones. Es un proceso simple y hermoso a la vez. Ser “sostenido” con respeto y compasión por un grupo es para muchas personas una experiencia nueva e inolvidable.
   - topic: Coordination
     title: At Buurtzorg where 9000 nurses are scattered over the country, the
       internal social network ‘BuurtzorgWeb’ plays a critical role in knowledge
@@ -230,12 +187,6 @@ theory:
       **Responsabilidad personal por la formación**
 
 
-      <!--EndFragment-->
-
-
-      <!--StartFragment-->
-
-
       Las enfermeras que trabajan en equipos autogestionados deciden sobre sus propias necesidades de entrenamiento y buscan el mejor proveedor - un proveedor médico, un departamento de hospital, o a veces simplemente un farmacéutico u otro equipo de Buurtzorg. Es una práctica aceptada que un equipo puede gastar hasta el 3% de sus ingresos en la capacitación sin necesidad de utilizar el proceso de los consejos.
 
 
@@ -255,87 +206,98 @@ theory:
 
       <!--EndFragment-->
   - topic: Job Titles and Job Descriptions
-    title: Buurtzorg  is a not for profit provider of community healthcare in
-      Holland, they create fluidity in roles through their 10 - 12 member self
-      managing teams.
-    content: A nurse at Buurtzorg whose patients suddenly require more care might
-      ask a colleague to take over her role of team planner for instance. For a
-      while some nurses might carry more than their fair share of management
-      tasks for the team and less at other times.The Teams are careful to keep
-      management tasks somewhat spread out at all times. There is a risk, as
-      some teams have experienced that hierarchical structures creep back in
-      when too many management roles are delegated to a single team member.
+    title: Buurtzorg es un proveedor sin fines de lucro de atención médica
+      comunitaria en Holanda, crean fluidez en los roles a través de sus equipos
+      de autogestión de 10 a 12 miembros.
+    content: Una enfermera de Buurtzorg cuyos pacientes de repente requieran más
+      atención podría pedirle a un colega que se haga cargo de su papel de
+      planificadora del equipo, por ejemplo. Durante un tiempo, algunas
+      enfermeras pueden realizar más de lo que les corresponde en las tareas de
+      gestión del equipo y menos en otras ocasiones. Los equipos tienen cuidado
+      de mantener las tareas de gestión algo dispersas en todo momento. Existe
+      un riesgo, ya que algunos equipos han experimentado que las estructuras
+      jerárquicas vuelven a aparecer cuando se delegan demasiados roles de
+      gestión a un solo miembro del equipo.
   - topic: Objectives and Target Setting
-    title: Teams set their own objectives.
-    content: In [Buurtzorg](http://www.buurtzorgnederland.com/), teams are required
-      to make yearly plans for initiatives they want to take in the areas of
-      client care and quality, training, organization, and other issues. All
-      mature teams have a target for billable hours of 60 -65 percent.
+    title: Los equipos establecen sus propios objetivos.
+    content: En [Buurtzorg](http://www.buurtzorgnederland.com/), los equipos deben
+      hacer planes anuales para las iniciativas que desean tomar en las áreas de
+      atención al cliente y calidad, capacitación, organización y otros temas.
+      Todos los equipos maduros tienen un objetivo de horas facturables del 60
+      al 65 por ciento.
   - topic: Feedback and Performance Management
-    title: Buurtzorg openly compares team results across the organization and has
-      developed a process for giving individual feedback within a team.
+    title: Buurtzorg compara abiertamente los resultados del equipo en toda la
+      organización y ha desarrollado un proceso para brindar retroalimentación
+      individual dentro de un equipo.
     content: >-
-      Each community nursing team at [Buurtzorg
-      ](http://www.buurtzorgnederland.com/)manages its own processes and service
-      delivery. These are shared so that others can adopt developments and good
-      practice if they choose. Team performance is shared openly, making very
-      apparent which teams are at the bottom of the list. Teams are motivated to
-      improve their performance out of pride, not shame.
+      Cada equipo de enfermería comunitaria de
+      [Buurtzorg](http://www.buurtzorgnederland.com/) gestiona sus propios
+      procesos y prestación de servicios. Estos se comparten para que otros
+      puedan adoptar desarrollos y buenas prácticas si así lo desean. El
+      rendimiento del equipo se comparte abiertamente, lo que hace muy evidente
+      qué equipos están al final de la lista. Los equipos están motivados para
+      mejorar su desempeño por orgullo, no por vergüenza.
 
 
-      All the organization stipulates is that each team must hold annual appraisals based on a competency model that the team has developed. Each team chooses its own format to give feedback. One team decided, for example, to give feedback in groups of three. Everyone prepares their self-evaluation and feedback for the other two. The process allows people to gauge their self-perception against the views of their colleagues\[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 126].
+      Lo único que estipula la organización es que cada equipo debe realizar evaluaciones anuales basadas en un modelo de competencias que el equipo ha desarrollado. Cada equipo elige su propio formato para dar su opinión. Un equipo decidió, por ejemplo, dar retroalimentación en grupos de tres. Todos preparan su autoevaluación y retroalimentación para los otros dos. El proceso permite a las personas evaluar su autopercepción frente a las opiniones de sus colegas \ \[Laloux, Frederic. Reinvención de organizaciones. Nelson Parker (2014), página 126].
   - topic: Strategy
-    title: Employees are empowered to self-manage and make changes when needed.
-    content: "Two nurses on a Buurtzorg team found themselves pondering the fact
-      that elderly people, when they fall, often break their hips. Hip
-      replacements are routine surgery, but patients don’t always recover the
-      same autonomy. Could Buurtzorg play a role in preventing its older
-      patients from falling down? The two nurses experimented and created a
-      partnership with a physiotherapist and an occupational therapist from
-      their neighborhood. They advised patients on small changes they could
-      bring to their home interiors, and changes of habits that would minimize
-      risks of falling down. Other teams showed interest, and the approach, now
-      called Buurtzorg +, has spread throughout the country.^[Laloux, Frederic
-      (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations
-      Inspired by the Next Stage of Human Consciousness (Kindle Locations
-      4396-4401). Nelson Parker. Kindle Edition.]"
+    title: Los empleados tienen la capacidad de autogestionarse y realizar cambios
+      cuando sea necesario.
+    content: "Dos enfermeras de un equipo de Buurtzorg se encontraron reflexionando
+      sobre el hecho de que las personas mayores, cuando se caen, a menudo se
+      rompen las caderas. Los reemplazos de cadera son cirugías de rutina, pero
+      los pacientes no siempre recuperan la misma autonomía. ¿Podría Buurtzorg
+      desempeñar un papel en la prevención de la caída de sus pacientes mayores?
+      Las dos enfermeras experimentaron y crearon una asociación con un
+      fisioterapeuta y un terapeuta ocupacional de su vecindario. Aconsejaron a
+      los pacientes sobre los pequeños cambios que podrían introducir en el
+      interior de su hogar y los cambios de hábitos que minimizarían los riesgos
+      de caídas. Otros equipos mostraron interés y el enfoque, ahora llamado
+      Buurtzorg +, se ha extendido por todo el país. ^ \\ \\[Laloux, Frederic
+      (2014-02-09). Reinventar organizaciones: una guía para crear
+      organizaciones inspiradas en la próxima etapa de la conciencia humana
+      (ubicaciones de Kindle 4396-4401). Nelson Parker. Versión Kindle.]"
   - topic: Innovation and Product Development
-    title: Buurtzorg develops a new boarding house to support overwhelmed relatives
-      of their patients.
+    title: Buurtzorg desarrolla una nueva pensión para apoyar a los familiares
+      abrumados de sus pacientes.
     content: >-
-      One team in the countryside had an idea: A boarding house for patients, to
-      offer the patient's primary caregiver a break. With most patients,
-      [Buurtzorg](http://www.buurtzorgnederland.com/) provides medical care, but
-      someone else - often the patient's husband or wife, sometimes a patient's
-      child - is really the primary caretaker. It is not unusual for the husband
-      or wife, often elderly as well, to be exhausted by the constant care of
-      the patient, sometimes 24 hours a day. If the strain becomes too much, the
-      caregiver can fall sick too.
+      Un equipo en el campo tuvo una idea: una pensión para pacientes, para
+      ofrecer un descanso al cuidador principal del paciente. Con la mayoría de
+      los pacientes, [Buurtzorg](http://www.buurtzorgnederland.com/) brinda
+      atención médica, pero otra persona, a menudo el esposo o la esposa del
+      paciente, a veces el hijo del paciente, es realmente el cuidador
+      principal. No es inusual que el esposo o la esposa, a menudo también
+      ancianos, se sientan agotados por el cuidado constante del paciente, a
+      veces las 24 horas del día. Si la tensión se vuelve excesiva, el cuidador
+      también puede enfermarse.
 
 
-      *Wouldn't it be wonderful*, one team of nurses thought, *if we could have a place where we could take in our patients for a day or two, or even a week - a sort of bed and breakfast and lunch and dinner and care - so that their primary caretaker could take a break and rest?* One of the nurses had inherited a small farmhouse in the countryside. Together, the team transformed it into a Buurtzorg boarding house.
+      * ¿No sería maravilloso *, pensó un equipo de enfermeras,*  si pudiéramos tener un lugar donde pudiéramos acoger a nuestros pacientes durante un día o dos, o incluso una semana, una especie de alojamiento y desayuno, almuerzo y cena? y cuidado, ¿para que su cuidador principal pudiera tomar un descanso y descansar? * Una de las enfermeras había heredado una pequeña granja en el campo. Juntos, el equipo lo transformó en una pensión de Buurtzorg.
 
 
-      The idea of boarding houses will run its own course. If it is meant to be, if it has enough life force, it will attract nurses from other teams to make it happen and carry Buurtzorg into a new dimension of care. Otherwise, it will remain a small scale experiment^[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 200]
+      La idea de las pensiones seguirá su propio curso. Si está destinado a ser así, si tiene suficiente fuerza vital, atraerá enfermeras de otros equipos para que suceda y lleve a Buurtzorg a una nueva dimensión de atención. De lo contrario, seguirá siendo un experimento a pequeña escala ^ \ \[Laloux, Frederic. Reinvención de organizaciones. Nelson Parker (2014), página 200]
   - topic: Innovation and Product Development
-    title: Buurtzorg develops a new service concept, Buurtzorg+, to improve injury
-      prevention.
-    content: Two nurses on a [Buurtzorg](https://www.buurtzorgnederland.com/) team
-      found themselves pondering the fact that elderly people, when they fall,
-      often break their hips. Hip replacements are routine surgery, but patients
-      don’t always recover the same autonomy. Could Buurtzorg play a role in
-      preventing its older patients from falling down? The two nurses
-      experimented and created a partnership with a physiotherapist and an
-      occupational therapist from their neighborhood. They advised patients on
-      small changes they could bring to their home interiors, and changes of
-      habits that would minimize risks of falling down. Other teams showed
-      interest, and the approach, now called Buurtzorg+, has spread throughout
-      the country. The two nurses sensed a need, and with the power of
-      self-management acted upon it. Self-management helped the idea to spread.
-      Any team interested in Buurtzorg+ can sign up for a training event that
-      teaches them the basics of how the concept works and how to create such a
-      partnership in their neighborhood^\[Laloux, Frederic. Reinventing
-      Organizations. Nelson Parker (2014), page 203]
+    title: Buurtzorg desarrolla un nuevo concepto de servicio, Buurtzorg +, para
+      mejorar la prevención de lesiones.
+    content: Dos enfermeras de un equipo de
+      [Buurtzorg](https://www.buurtzorgnederland.com/) se encontraron
+      reflexionando sobre el hecho de que las personas mayores, cuando caen, a
+      menudo se rompen las caderas. Los reemplazos de cadera son cirugías de
+      rutina, pero los pacientes no siempre recuperan la misma autonomía.
+      ¿Podría Buurtzorg desempeñar un papel en la prevención de la caída de sus
+      pacientes mayores? Las dos enfermeras experimentaron y crearon una
+      asociación con un fisioterapeuta y un terapeuta ocupacional de su
+      vecindario. Aconsejaron a los pacientes sobre los pequeños cambios que
+      podrían introducir en el interior de su hogar y los cambios de hábitos que
+      minimizarían los riesgos de caídas. Otros equipos mostraron interés y el
+      enfoque, ahora llamado Buurtzorg +, se ha extendido por todo el país. Las
+      dos enfermeras sintieron una necesidad y, con el poder de la autogestión,
+      actuaron en consecuencia. La autogestión ayudó a que la idea se
+      extendiera. Cualquier equipo interesado en Buurtzorg + puede inscribirse
+      en un evento de capacitación que les enseñe los conceptos básicos de cómo
+      funciona el concepto y cómo crear una asociación de este tipo en su
+      vecindario ^ \ \[Laloux, Frederic. Reinvención de organizaciones. Nelson
+      Parker (2014), página 203]
   - topic: Change Management
     title: En Buurtzorg, el cambio ocurre orgánicamente.
     content: >-
@@ -355,161 +317,165 @@ theory:
 
       <!--EndFragment-->
   - topic: Crisis Management
-    title: Joe de Blok averted a cash crunch by asking his nurses to work harder
-    content: "Buurtzorg faced a crisis in 2010 and mastered it using the advice
-      process. The young company was growing at breakneck speed when Jos de Blok
-      heard that health insurance companies had threatened to withhold €4
-      million in payments to Buurtzorg, citing technical reasons (the more
-      likely reason: the insurance companies wanted to signal to Buurtzorg that
-      it was growing too fast at the expense of established providers). A cash
-      crunch loomed. Jos de Blok wrote an internal blog post to the nurses
-      exposing the problem. He put forward two solutions: either Buurtzorg could
-      temporarily stop growing (new teams cost money at first) or nurses could
-      commit to increasing productivity (increasing client work within the
-      contract hours). In the blog comments, nurses overwhelmingly chose to work
-      harder because they didn’t like the alternative: slower growth would have
-      meant saying no to clients and nurses wanting to join Buurtzorg. In a
-      matter of a day or two, a solution to the cash problem was found (and
-      after some time, the insurance companies eventually disbursed the withheld
-      funds).\r
-
-      \r\n"
-  - title: A vast organization run almost entirely with small, independent teams
+    title: Joe de Blok evitó una crisis de efectivo pidiendo a sus enfermeras que
+      trabajaran más duro
+    content: "Buurtzorg enfrentó una crisis en 2010 y la dominó utilizando el
+      proceso de asesoramiento. La joven empresa estaba creciendo a una
+      velocidad vertiginosa cuando Jos de Blok escuchó que las compañías de
+      seguros de salud habían amenazado con retener 4 millones de euros en pagos
+      a Buurtzorg, citando razones técnicas (la razón más probable: las
+      compañías de seguros querían indicarle a Buurtzorg que estaba creciendo
+      demasiado rápido a expensas de los proveedores establecidos). Se avecinaba
+      una crisis de efectivo. Jos de Blok escribió una publicación de blog
+      interna para las enfermeras exponiendo el problema. Presentó dos
+      soluciones: o Buurtzorg podría dejar de crecer temporalmente (los nuevos
+      equipos cuestan dinero al principio) o las enfermeras podrían
+      comprometerse a aumentar la productividad (aumentar el trabajo del cliente
+      dentro de las horas del contrato). En los comentarios del blog, las
+      enfermeras optaron abrumadoramente por trabajar más duro porque no les
+      gustaba la alternativa: un crecimiento más lento habría significado decir
+      no a los clientes y enfermeras que quisieran unirse a Buurtzorg. En
+      cuestión de uno o dos días, se encontró una solución al problema del
+      efectivo (y después de algún tiempo, las compañías de seguros finalmente
+      desembolsaron los fondos retenidos)."
+  - title: Una vasta organización dirigida casi en su totalidad por equipos pequeños
+      e independientes.
     topic: Self-Management
-    content: "Within Buurtzorg (which means “neighborhood care” in Dutch), nurses
-      work in teams of 10 to 12, with each team serving around 50 patients in a
-      small, well-defined neighborhood. The team is in charge of all the tasks
-      that were previously fragmented across different departments. They are
-      responsible not only for providing care, but for deciding how many and
-      which patients to serve. They do the intake, the planning, the vacation
-      and holiday scheduling, and the administration. They decide where to rent
-      an office and how to decorate it. They determine how best to integrate
-      with the local community, which doctors and pharmacies to reach out to,
-      and how to best work with local hospitals. They decide when they meet and
-      how they will distribute tasks among themselves, and they make up their
-      individual and team training plans. They decide if they need to expand the
-      team or split it in two if there are more patients than they can keep up
-      with, and they monitor their own performance and decide on corrective
-      action if productivity drops. There is no leader within the team;
-      important decisions are made collectively.^[Laloux, Frederic (2014-02-09).
-      Reinventing Organizations: A Guide to Creating Organizations Inspired by
-      the Next Stage of Human Consciousness (Kindle Locations 1498-1505). Nelson
-      Parker. Kindle Edition.]"
+    content: "Dentro de Buurtzorg (que significa “atención en el vecindario” en
+      holandés), las enfermeras trabajan en equipos de 10 a 12, y cada equipo
+      atiende a unos 50 pacientes en un vecindario pequeño y bien definido. El
+      equipo está a cargo de todas las tareas que anteriormente estaban
+      fragmentadas en diferentes departamentos. Ellos son responsables no solo
+      de brindar atención, sino de decidir a cuántos y a qué pacientes atender.
+      Ellos hacen la ingesta, la planificación, la programación de vacaciones y
+      días festivos, y la administración. Ellos deciden dónde alquilar una
+      oficina y cómo decorarla. Determinan la mejor manera de integrarse con la
+      comunidad local, a qué médicos y farmacias acudir y cómo trabajar mejor
+      con los hospitales locales. Deciden cuándo se encuentran y cómo se
+      repartirán las tareas entre ellos, y elaboran sus planes de formación
+      individual y en equipo. Ellos deciden si necesitan expandir el equipo o
+      dividirlo en dos si hay más pacientes de los que pueden atender, y
+      monitorean su propio desempeño y deciden acciones correctivas si la
+      productividad cae. No hay líder dentro del equipo; las decisiones
+      importantes se toman colectivamente. ^ \\ \\[Laloux, Frederic
+      (2014-02-09). Reinventar organizaciones: una guía para crear
+      organizaciones inspiradas en la próxima etapa de la conciencia humana
+      (ubicaciones de Kindle 1498-1505). Nelson Parker. Versión Kindle.]"
   - topic: Decision Making
-    title: Buurtzorg has found an effective way for making decisions that affect
-      large numbers of people.
+    title: Buurtzorg ha encontrado una forma eficaz de tomar decisiones que afectan
+      a un gran número de personas.
     content: >-
-      [Buurtzorg ](http://www.buurtzorgnederland.com/)uses social media (as
-      mentioned above) in a powerful and way to support the advice process.  For
-      example, if all 9,000 employees must be consulted, Jos de Blok, the
-      founder, posts his suggestions on-line. He posts regularly, from the
-      heart, without PR polish (there is no communications department at
-      Buurtzorg), often at 10pm at night from his home.
+      [Buurtzorg](http://www.buurtzorgnederland.com/) utiliza las redes sociales
+      (como se mencionó anteriormente) de una manera poderosa para respaldar el
+      proceso de asesoramiento. Por ejemplo, si se debe consultar a los 9.000
+      empleados, Jos de Blok, el fundador, publica sus sugerencias en línea.
+      Publica regularmente, desde el corazón, sin pulir relaciones públicas (no
+      hay departamento de comunicaciones en Buurtzorg), a menudo a las 10 de la
+      noche desde su casa.
 
 
-      Given the respect he enjoys, his posts are widely read. Typically, 24 hours later, a majority of nurses will have read the post. Within hours, these posts evoke dozens, sometimes hundreds, of comments. 
+      Dado el respeto que disfruta, sus publicaciones son ampliamente leídas. Normalmente, 24 horas después, la mayoría de las enfermeras habrán leído la publicación. En cuestión de horas, estas publicaciones evocan decenas, a veces cientos, de comentarios.
 
 
-      This can make for fast decision-making. If the comments signal agreement, it is made within hours. If debate ensues, the proposal is amended and floated again. Or a workgroup is set up to refine it.
+      Esto puede acelerar la toma de decisiones. Si los comentarios indican un acuerdo, se hace en cuestión de horas. Si se produce un debate, la propuesta se modifica y se vuelve a presentar. O se configura un grupo de trabajo para refinarlo.
 
 
-      This kind of leadership by blog post requires a degree of trust, candor and vulnerability that few CEOs in would feel comfortable with. Once a post is published, there is no going back. Critical comments and rebukes are for all to see; they cannot be erased and cannot be ignored. And what the organization does with the post is beyond the CEO’s control.
+      Este tipo de liderazgo por publicación de blog requiere un grado de confianza, franqueza y vulnerabilidad con el que pocos directores ejecutivos se sentirían cómodos. Una vez que se publica una publicación, no hay vuelta atrás. Los comentarios críticos y las reprimendas están a la vista de todos; no se pueden borrar ni ignorar. Y lo que la organización hace con el puesto está fuera del control del director ejecutivo.
 
 
-      What seems risky when looked at through a traditional lens is wonderfully efficient from a Teal perspective. A post made from the comfort of a sofa at home can be a decision by next afternoon, endorsed by thousands of people in the organization. An idea or concern about where the industry is going? Write a short post, and you get to know how the organization reacts. If people disagree with your thought, you have lost 15 minutes of your time … but gained a new insight into what the organization thinks. When we think of how decision-making happens in large organizations today (the PowerPoint decks that need to be written, the lengthy steering committee and executive meetings where decisions get debated, followed by top-down communications where every word is weighted), we can only marvel at the efficiency of leadership and decision making within Buurtzorg.
+      Lo que parece arriesgado cuando se mira a través de una lente tradicional es maravillosamente eficiente desde la perspectiva de Teal. Un post realizado desde la comodidad de un sofá en casa puede ser una decisión para la tarde siguiente, avalada por miles de personas de la organización. ¿Una idea o inquietud sobre hacia dónde se dirige la industria? Escribe una publicación breve y conocerás cómo reacciona la organización. Si la gente no está de acuerdo con su pensamiento, ha perdido 15 minutos de su tiempo ... pero ha adquirido una nueva perspectiva de lo que piensa la organización. Cuando pensamos en cómo ocurre la toma de decisiones en las grandes organizaciones hoy en día (las presentaciones de PowerPoint que deben escribirse, el comité directivo prolongado y las reuniones ejecutivas donde se debaten las decisiones, seguidas de comunicaciones de arriba hacia abajo donde se pondera cada palabra), podemos Maravíllate ante la eficiencia del liderazgo y la toma de decisiones dentro de Buurtzorg.
   - topic: Decision Making
-    title: Buurtzorg uses a formal when decisions are made within a team
+    title: Buurtzorg utiliza un método formal cuando las decisiones se toman dentro
+      de un equipo.
     content: >-
-      [Buurtzorg's ](http://www.buurtzorgnederland.com/)employees work in 750+
-      teams of 10-12 people. These teams are largely autonomous. Many decisions
-      (say how the night shifts are handled, if there is room to accept more
-      clients, etc.) affect the whole team, but no one else. Then, it makes
-      sense for the advice process to take place within a team meeting.
-      Buurtzorg uses a specific method for decisions called “Solution-Driven
-      Methods of Interaction" developed by Ben Wenting and Astrid Vermeer of the
-      Instituut voor Samenwerkingsvraagstukken in the Netherlands.
+      
+
+      Los empleados de [Buurtzorg](http://www.buurtzorgnederland.com/) trabajan en más de 750 equipos de 10-12 personas. Estos equipos son en gran parte autónomos. Muchas decisiones (decir cómo se manejan los turnos de noche, si hay espacio para aceptar más clientes, etc.) afectan a todo el equipo, pero a nadie más. Entonces, tiene sentido que el proceso de asesoramiento se lleve a cabo dentro de una reunión de equipo. Buurtzorg utiliza un método específico para tomar decisiones llamado “Métodos de interacción basados ​​en soluciones” desarrollado por Ben Wenting y Astrid Vermeer del Instituut voor Samenwerkingsvraagstukken en los Países Bajos.
 
 
-      * The group chooses a facilitator for the meeting.
+      * El grupo elige un facilitador para la reunión.
 
-      * The agenda of topics is put together on the spot. The facilitator can only ask questions: “What is your proposal?” or “What is the rationale for your proposal?” All proposals are listed on a flipchart.
+      * La agenda de temas se elabora sobre el terreno. El facilitador solo puede hacer preguntas: "¿Cuál es su propuesta?" o "¿Cuál es el fundamento de su propuesta?" Todas las propuestas se enumeran en un rotafolio.
 
-      * Topics are then addressed one by one. In the first round, proposals are reviewed, and refined.
+      * Los temas se abordan uno por uno. En la primera ronda, las propuestas se revisan y perfeccionan.
 
-      * In a second, proposals are put to group decision based on a consent (not consensus). For a solution to be adopted, it is enough that nobody has a principled objection. If there are none, the solution will be adopted, with the understanding that it can be revisited at any time when new information is available.
+      * En un segundo, las propuestas se someten a decisión grupal en base a un consentimiento (no consenso). Para que se adopte una solución, basta con que nadie tenga una objeción de principio. Si no hay ninguno, se adoptará la solución, en el entendimiento de que se puede revisar en cualquier momento cuando haya nueva información disponible.
   - topic: Evolutionary Purpose
-    title: help sick and elderly patients live a more autonomous and meaningful life
-    content: "For Buurtzorg, its purpose— to help sick and elderly patients live a
-      more autonomous and meaningful life— is paramount, so much so that Jos de
-      Blok, its founder, has documented and published Buurtzorg’s revolutionary
-      ways of operating in great detail, to invite competition to imitate him.
-      He accepts all invitations from competitors to explain his methods. He and
-      a colleague are deeply involved as advisors to ZorgAccent, a direct
-      competitor, and don’t ask to be compensated for it. From an Orange
-      perspective, this attitude makes no sense. Buurtzorg’s breakthrough
-      organizational innovations are its equivalent to Coca-Cola’s secret
-      formula: a competitive advantage that should be locked up in a vault. But
-      from an Evolutionary-Teal perspective, the defining purpose is not
-      Buurtzorg’s market share or Jos de Blok’s personal success. What matters
-      is patients living a healthy, autonomous and meaningful life. De Blok
-      says, “In my perspective, the whole notion of competition is idiotic. It
-      really makes no sense. You try to figure out how you can best organize
-      things to provide the best care. If you then share the knowledge and the
-      information, things will change more quickly”.^[Laloux, Frederic
-      (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations
-      Inspired by the Next Stage of Human Consciousness (Kindle Locations
-      4215-4224). Nelson Parker. Kindle Edition.]"
+    title: Ayudar a los pacientes enfermos y ancianos a vivir una vida más autónoma
+      y significativa
+    content: "Para Buurtzorg, su propósito, ayudar a los pacientes enfermos y
+      ancianos a vivir una vida más autónoma y significativa, es primordial,
+      tanto es así que Jos de Blok, su fundador, ha documentado y publicado las
+      formas revolucionarias de operar de Buurtzorg con gran detalle, para
+      invitar a la competencia. para imitarlo. Acepta todas las invitaciones de
+      los competidores para explicar sus métodos. Él y un colega están
+      profundamente involucrados como asesores de ZorgAccent, un competidor
+      directo, y no piden ser compensados ​​por ello. Desde la perspectiva de
+      Orange, esta actitud no tiene sentido. Las innovaciones organizativas
+      revolucionarias de Buurtzorg son su equivalente a la fórmula secreta de
+      Coca-Cola: una ventaja competitiva que debería guardarse en una bóveda.
+      Pero desde una perspectiva de Evolutionary-Teal, el propósito definitorio
+      no es la participación de mercado de Buurtzorg o el éxito personal de Jos
+      de Blok. Lo que importa es que los pacientes vivan una vida sana, autónoma
+      y significativa. De Blok dice: “En mi perspectiva, toda la noción de
+      competencia es una idiotez. Realmente no tiene sentido. Intenta averiguar
+      cómo puede organizar mejor las cosas para brindar la mejor atención. Si
+      luego comparte el conocimiento y la información, las cosas cambiarán más
+      rápidamente ”. ^ \\ \\[Laloux, Frederic (2014-02-09). Reinventar
+      organizaciones: una guía para crear organizaciones inspiradas en la
+      próxima etapa de la conciencia humana (ubicaciones de Kindle 4215-4224).
+      Nelson Parker. Versión Kindle.]"
   - topic: board
-    title: Buurtzorg needed to replace some board members.
-    content: "At Buurtzorg's founding, Jos de Blok chose members of the board based
-      on their expertise—for example, a family doctor, a banker, a lawyer, etc.
-      Some were not comfortable with self-managing practices. Others wanted
-      financial projections and budgets, and similar, traditional ‘tools’. Over
-      time, de Blok persuaded several to resign and replaced them with others
-      more comfortable with Buurtzorg's novel principles and practices. In
-      practice, the Buurtzorg board serves as a sounding board for Jos de Blok
-      and his colleagues.\r
+    title: Buurtzorg necesitaba reemplazar a algunos miembros de la junta.
+    content: >-
+      En la fundación de Buurtzorg, Jos de Blok eligió a los miembros de la
+      junta en función de su experiencia, por ejemplo, un médico de familia, un
+      banquero, un abogado, etc. Algunos no se sentían cómodos con las prácticas
+      de autogestión. Otros querían proyecciones financieras y presupuestos, y
+      "herramientas" tradicionales similares. Con el tiempo, De Blok persuadió a
+      varios a dimitir y los reemplazó por otros más cómodos con los principios
+      y prácticas novedosos de Buurtzorg. En la práctica, la junta de Buurtzorg
+      sirve como caja de resonancia para Jos de Blok y sus colegas.
 
-      \r
 
-      The Buurtzorg by-laws state that the board is not responsible for
-      CEO appointment. This comes from within the organization itself.
-      ^[Interview Jos de Blok with Frederic Laloux in 2013]"
+      Los estatutos de Buurtzorg establecen que la junta no es responsable del nombramiento de CEO. Esto proviene de la propia organización. ^ \ \[Entrevista a Jos de Blok con Frederic Laloux en 2013]
   - topic: Dismissal
-    title: Dismissals are self-managed, using a mediated conflict resolution process.
+    title: Los despidos son autogestionados, utilizando un proceso de resolución de
+      conflictos mediado.
     content: >-
-      Dismissals are self-managed, using a mediated [conflict
-      resolution](../conflict-resolution/) process.
+      Los despidos son autogestionados, mediante un proceso de \[resolución de
+      conflictos] (../ resolución de conflictos /) mediado.
 
 
-      At [Buurtzorg](http://www.buurtzorgnederland.com/), if someone has lost the trust of the team, they try to find a mutually agreeable solution. If that doesn’t work out, the group calls in the regional coach or external facilitator to mediate. In almost all cases, the presence of a mediator brings resolution. In some cases, the person and the team decide on some mutual commitments and give it another go.
+      En [Buurtzorg](http://www.buurtzorgnederland.com/), si alguien ha perdido la confianza del equipo, intenta encontrar una solución de mutuo acuerdo. Si eso no funciona, el grupo llama al entrenador regional o al facilitador externo para mediar. En casi todos los casos, la presencia de un mediador trae resolución. En algunos casos, la persona y el equipo deciden algunos compromisos mutuos y vuelven a intentarlo.
 
 
-      In others, after some deliberation, the person comes to see that trust is irrevocably broken and understands it is time to leave. If no agreement can be found, and as a last attempt to settle the matter, team members can ask Jos de Blok, the founder, to mediate. In the rare case where even that fails, they can ask him to put an end to the person’s contract (legally, he is the only one who can do so)^[Source: Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 128].
+      En otros, después de un poco de deliberación, la persona llega a ver que la confianza está irrevocablemente rota y comprende que es hora de irse. Si no se puede llegar a un acuerdo, y como último intento de resolver el asunto, los miembros del equipo pueden pedirle a Jos de Blok, el fundador, que medie. En el raro caso de que incluso eso falle, pueden pedirle que ponga fin al contrato de la persona (legalmente, él es el único que puede hacerlo) ^ \ \[Fuente: Laloux, Frederic. Reinvención de organizaciones. Nelson Parker (2014), página 128].
   - topic: Staff Functions
-    title: Buurtzorg has a bare minimum central staff and has put in place
-      mechanisms to leverage its decentralized expertise.
+    title: Buurtzorg tiene un personal central mínimo y ha implementado mecanismos
+      para aprovechar su experiencia descentralizada.
     content: >-
-      Buurtzorg has 9,000 employees, with a headquarters of only 40. There are
-      no typical staff roles (no CFO, head of HR, etc.). Most headquarters
-      employees are involved in administrative tasks (social security
-      administration, for instance).
+      Buurtzorg tiene 9.000 empleados, con una oficina central de solo 40. No
+      hay roles de personal típicos (sin director financiero, jefe de recursos
+      humanos, etc.). La mayoría de los empleados de la sede están involucrados
+      en tareas administrativas (administración de la seguridad social, por
+      ejemplo).
 
 
-      How is it possible to manage a 9,000-person-strong organization with such a bare bones headquarters? Many of the typical staff tasks are simply devolved back to the teams. Take recruitment for example: when a team feels the need to expand, it does its own recruiting (the regional coach might give advice when asked, but is not involved in the decision). Chances are that the team will co-opt somebody who fits in well. Because the team members make the decision themselves, they are emotionally invested in making the recruit successful.
+      ¿Cómo es posible gestionar una organización de 9.000 personas con una sede tan básica? Muchas de las tareas típicas del personal simplemente se devuelven a los equipos. Tomemos como ejemplo el reclutamiento: cuando un equipo siente la necesidad de expandirse, realiza su propio reclutamiento (el entrenador regional puede dar consejos cuando se le solicite, pero no participa en la decisión). Lo más probable es que el equipo elija a alguien que encaje bien. Debido a que los miembros del equipo toman la decisión ellos mismos, están emocionalmente involucrados en hacer que el recluta sea exitoso.
 
 
-      How about expertise? At Buurtzorg, it doesn’t make sense for every one of the roughly 600 Buurtzorg teams to develop expertise in every arcane medical condition they might encounter. But rather than create staff roles, Buurtzorg has developed a number of effective alternatives to deal with a need for expertise, both medical and non-medical:
+      ¿Qué tal la experiencia? En Buurtzorg, no tiene sentido que cada uno de los aproximadamente 600 equipos de Buurtzorg desarrolle experiencia en cada condición médica arcana que puedan encontrar. Pero en lugar de crear roles de personal, Buurtzorg ha desarrollado una serie de alternativas efectivas para hacer frente a la necesidad de experiencia, tanto médica como no médica:
 
 
-      * Nurses on the teams are encouraged to build up expertise and become contact points beyond their team. Through Buurtzorg’s intranet, nurses can easily identify and access colleagues with relevant expertise in a specific subject area.
+      * Se anima a las enfermeras de los equipos a que adquieran experiencia y se conviertan en puntos de contacto más allá de su equipo. A través de la intranet de Buurtzorg, las enfermeras pueden identificar y acceder fácilmente a colegas con experiencia relevante en un área temática específica.
 
-      * Occasionally, volunteer task forces of nurses are set up to, in addition to their work with patients, investigate a new topic and build up expertise (for instance, how Buurtzorg should adapt in response to new legislation).
+      * Ocasionalmente, se establecen grupos de trabajo voluntarios de enfermeras para, además de su trabajo con los pacientes, investigar un nuevo tema y desarrollar experiencia (por ejemplo, cómo Buurtzorg debería adaptarse en respuesta a la nueva legislación).
 
-      * When needed, an expert can be hired as a consultant , rather than brought into a staff role.
+      * Cuando sea necesario, se puede contratar a un experto como consultor, en lugar de incorporarlo a un puesto de personal.
 
-      * If a staff person is hired, they have no decision-making authority over teams.
+      * Si se contrata a un miembro del personal, no tiene autoridad para tomar decisiones sobre los equipos.
 
 
-      As an illustration, in a meeting of Buurtzorg’s regional coaches, a suggestion was made to hire a specialist in labor law, a topic many teams occasionally need assistance with. The suggestion made sense. And yet, other avenues were explored After closer examination, it appeared that most questions were recurring, and so the group decided to create a self-help section of “frequently asked questions on labor law” on Buurtzorg’s intranet. This took care of most questions, but a year later, the group realized that some questions still popped up for which the FAQ provided no answers. It was decided to contract a freelance expert for a few days per month who would answer questions from teams on request.^[Source: Laloux, Frederic. Reinventing Organizations. Nelson Parker, Brussels, Belgium (2014)]
+      A modo de ilustración, en una reunión de entrenadores regionales de Buurtzorg, se sugirió contratar a un especialista en derecho laboral, un tema en el que muchos equipos ocasionalmente necesitan ayuda. La sugerencia tenía sentido. Y, sin embargo, se exploraron otras vías. Después de un examen más detenido, parecía que la mayoría de las preguntas eran recurrentes, por lo que el grupo decidió crear una sección de autoayuda de "preguntas frecuentes sobre derecho laboral" en la intranet de Buurtzorg. Esto resolvió la mayoría de las preguntas, pero un año después, el grupo se dio cuenta de que aún aparecían algunas preguntas para las que las preguntas frecuentes no brindaban respuesta. Se decidió contratar a un experto independiente durante unos días al mes que respondería a las preguntas de los equipos que lo solicitaran. ^ \ \[Fuente: Laloux, Frederic. Reinvención de organizaciones. Nelson Parker, Bruselas, Bélgica (2014)]
 ---
