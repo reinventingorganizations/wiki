@@ -2,7 +2,7 @@
 layout: case
 tags: cases
 name: Heiligenfeld
-date: 2021-03-09T04:17:38.158Z
+date: 2021-04-06T04:06:37.420Z
 introduction: Heiligenfeld tiene reuniones de reflexión semanales en grupos grandes.
 industry: Q. Salud, servicios sociales
 geography: Alemania
