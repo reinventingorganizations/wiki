@@ -4,66 +4,72 @@ tags: cases
 name: FAVI
 date: 2020-11-17T14:57:47.618Z
 introduction: >-
-  Favi is a French SME born in 1956 specialized in gearbox forks for cars and
-  copper rotors. 
+  Favi es una pyme francesa nacida en 1956 especializada en horquillas de caja
+  de cambios para turismos y rotores de cobre.
 
 
   ![](/media/2_058n-favi-medium-small.png)
-industry: C. Manufacturing
-geography: France
+industry: C. Fabricación
+geography: Francia
 companySize: 201-500
-profit: Profit
+profit: Organización con fines de lucro
 theory:
   - topic: sales-marketing
-    title: Sending love to clients
-    content: "Through a process of collective discussion, FAVI’s employees
-      determined the organization had two reasons for existence, two fundamental
-      purposes: the first to provide meaningful work in the area of Hallencourt,
-      a rural area in northern France where good work is rare; the second to
-      give and receive love from clients. Yes, love, a word rarely heard in the
-      world of business, and even more unexpected in a blue-collar manufacturing
-      environment. At FAVI, it has taken on real meaning. Operators don’t just
-      send products to their clients, they send products into which they have
-      put their heart. A few years ago, around Christmas time, an operator at
-      FAVI molded excess brass into a few small figurines of Santa and of
-      reindeers. He added the figurines into the boxes of finished products,
-      rather like kids put a message in a bottle they throw out to sea,
-      imagining that someone, somewhere, would find it. Other operators have
-      since picked up on the idea and at random times of the year add brass
-      figurines into their shipments, as little tokens of love to their
-      counterparts working on assembly lines at Volkswagen or Volvo, who will
-      find the figurines when they unpack the boxes.^\\[Laloux, Frederic
-      (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations
-      Inspired by the Next Stage of Human Consciousness (Kindle Locations
-      4371-4378). Nelson Parker. Kindle Edition.]"
+    title: Enviando amor a los clientes
+    content: "A través de un proceso de discusión colectiva, los empleados de FAVI
+      determinaron que la organización tenía dos razones de existencia, dos
+      propósitos fundamentales: el primero de proporcionar un trabajo
+      significativo en el área de Hallencourt, una zona rural en el norte de
+      Francia donde el buen trabajo es raro; el segundo para dar y recibir amor
+      de los clientes. Sí, amor, una palabra que rara vez se escucha en el mundo
+      de los negocios y aún más inesperada en un entorno de manufactura de
+      cuello azul. En FAVI, ha adquirido un significado real. Los operadores no
+      solo envían productos a sus clientes, envían productos en los que han
+      puesto su corazón. Hace unos años, alrededor de la época navideña, un
+      operador de FAVI moldeó el exceso de latón en unas pequeñas figuritas de
+      Papá Noel y renos. Añadió las figurillas a las cajas de productos
+      terminados, como si los niños pusieran un mensaje en una botella que
+      arrojaban al mar, imaginando que alguien, en algún lugar, lo encontraría.
+      Desde entonces, otros operadores han captado la idea y en momentos
+      aleatorios del año agregan estatuillas de bronce a sus envíos, como
+      pequeñas muestras de amor para sus contrapartes que trabajan en las líneas
+      de ensamblaje de Volkswagen o Volvo, quienes encontrarán las figuras
+      cuando desempaqueten las cajas. ^ \\ \\[Laloux, Frederic (9 de febrero de
+      2014). Reinventar organizaciones: una guía para crear organizaciones
+      inspiradas en la próxima etapa de la conciencia humana (ubicaciones de
+      Kindle 4371-4378). Nelson Parker. Versión Kindle.]"
   - topic: Organizational Structure
-    title: FAVI employs a customer-based parallel team structure with supporting teams
-    content: "FAVI’s factory has more than 500 employees that are organized in 21
-      teams called “mini-factories” of 15 to 35 people. Most of the teams are
-      dedicated to a specific customer or customer type (the Volkswagen team,
-      the Audi team, the Volvo team, and so forth). There are a few upstream
-      production teams (the foundry team, the mold repair team, maintenance),
-      and support teams (engineering, quality, lab, administration, and sales
-      support). Each team self-organizes; there is no middle management, and
-      there are virtually no rules or procedures other than those that the teams
-      decide upon themselves. The staff functions have nearly all disappeared.
-      The former HR, planning, scheduling, engineering, production-IT and
-      purchasing departments have all been shut down. Their tasks have been
-      taken over by the operators in the teams, who do their own hiring,
-      purchasing, planning, and scheduling. The sales department has been
-      disbanded too. The sales account manager for Audi is now part of the Audi
-      team, just as the sales account manager for Volvo is part of the Volvo
-      team. There is no head of sales above the group of account managers. In
-      the old structure, white-collar workers in offices with windows
-      overlooking the shop floor planned in detail what the workers needed to
-      do, by when, and how. Now blue-collar workers effectively wear their own
-      white collars and no longer receive instructions from above.^[Laloux,
-      Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating
-      Organizations Inspired by the Next Stage of Human Consciousness (Kindle
-      Locations 1704-1715). Nelson Parker. Kindle Edition.]"
+    title: FAVI emplea una estructura de equipo paralelo basada en el cliente con
+      equipos de apoyo
+    content: 'La fábrica de FAVI cuenta con más de 500 empleados que se organizan en
+      21 equipos denominados "mini-fábricas" de 15 a 35 personas. La mayoría de
+      los equipos están dedicados a un cliente o tipo de cliente específico (el
+      equipo Volkswagen, el equipo Audi, el equipo Volvo, etc.). Hay algunos
+      equipos de producción ascendentes (el equipo de fundición, el equipo de
+      reparación de moldes, mantenimiento) y los equipos de soporte (ingeniería,
+      calidad, laboratorio, administración y soporte de ventas). Cada equipo se
+      autoorganiza; no hay mandos intermedios y prácticamente no existen reglas
+      o procedimientos distintos de los que los equipos deciden por sí mismos.
+      Casi todas las funciones del personal han desaparecido. Los antiguos
+      departamentos de RR.HH., planificación, programación, ingeniería, TI de
+      producción y compras se han cerrado. Sus tareas han sido asumidas por los
+      operadores de los equipos, quienes realizan sus propias contrataciones,
+      compras, planificación y programación. El departamento de ventas también
+      se ha disuelto. El gerente de cuentas de ventas de Audi ahora es parte del
+      equipo de Audi, al igual que el gerente de cuentas de ventas de Volvo es
+      parte del equipo de Volvo. No hay ningún jefe de ventas por encima del
+      grupo de gestores de cuentas. En la antigua estructura, los trabajadores
+      de cuello blanco en oficinas con ventanas que daban a la planta planeaban
+      en detalle lo que los trabajadores tenían que hacer, cuándo y cómo. Ahora
+      los trabajadores manuales usan efectivamente sus propios cuellos blancos y
+      ya no reciben instrucciones de arriba. ^ \ \[Laloux, Frederic
+      (2014-02-09). Reinventar organizaciones: una guía para crear
+      organizaciones inspiradas en la próxima etapa de la conciencia humana
+      (ubicaciones de Kindle 1704-1715). Nelson Parker. Versión Kindle.]'
   - topic: Coordination
-    title: At FAVI, coordination happens organically on a voluntary basis through
-      regular meetings, temporary project teams and reverse delegation.
+    title: En FAVI, la coordinación ocurre orgánicamente de forma voluntaria a
+      través de reuniones periódicas, equipos de proyectos temporales y
+      delegación inversa.
     content: "At FAVI, production is organized by customer. This makes
       load-balancing a significant issue: because customer orders fluctuate, on
       any given day some teams might have too much work and others too little.
@@ -75,41 +81,42 @@ theory:
       volunteers to switch teams for a shift or two. The person from the Audi
       team, for example, might ask who in the team is willing to spend the day
       with the Volvo team. Things happen organically on a voluntary basis;
-      nobody is being allocated to a team by a higher authority.^[Laloux,
+      nobody is being allocated to a team by a higher authority.^\\[Laloux,
       Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating
       Organizations Inspired by the Next Stage of Human Consciousness (Kindle
       Locations 1766-1772). Nelson Parker. Kindle Edition.]"
   - topic: Information Flow
-    title: Information flow in time of crisis.
+    title: Flujo de información en tiempos de crisis.
     content: >-
-      When Jean-Francois Zobrist, the CEO of [FAVI](http://www.favi.com/), was
-      faced with difficult and critical decisions at the company, he readily
-      admitted he needed help to find a good answer. More than once, on impulse,
-      he went around the shop floor, asked everybody to stop the machines,
-      climbed on a soapbox and shared his problem with all employees, trying to
-      figure out a course of action.
+      Cuando Jean-Francois Zobrist, director ejecutivo de
+      [FAVI](http://www.favi.com/), se enfrentó a decisiones difíciles y
+      críticas en la empresa, admitió que necesitaba ayuda para encontrar una
+      buena respuesta. Más de una vez, por impulso, recorrió el taller, pidió a
+      todos que detuvieran las máquinas, se subió a una caja de jabón y
+      compartió su problema con todos los empleados, tratando de encontrar un
+      curso de acción.
 
 
-      In time of crisis, he openly shared information with all employees about the reality of the situation, trusting them to handle it. As a result, employees did not retain a false sense of safety. Everybody, regardless of any rank, could take the opportunity to sense the impact of the information offered and resonate to it. People in the audience shouted questions and proposals. Together they found a collective course of action to overcome the crisis.
+      En tiempos de crisis, compartió abiertamente información con todos los empleados sobre la realidad de la situación, confiando en ellos para manejarla. Como resultado, los empleados no mantuvieron una falsa sensación de seguridad. Todo el mundo, independientemente de su rango, podría aprovechar la oportunidad para sentir el impacto de la información ofrecida y resonar en ella. La gente del público gritó preguntas y propuestas. Juntos encontraron un curso de acción colectivo para superar la crisis.
   - topic: Meetings
-    title: A rhythm of meetings to suit manufacturing.
+    title: Un ritmo de reuniones a la medida de la fabricación.
     content: >-
-      Weekly senior management meetings in [Favi](http://www.favi.com/) used to
-      include the heads of sales, production, maintenance, finance, HR, etc.
-      These are now held at the team level.  
+      Las reuniones semanales de alta dirección en [Favi](http://www.favi.com/)
+      solían incluir a los jefes de ventas, producción, mantenimiento, finanzas,
+      RR.HH., etc. Ahora se llevan a cabo a nivel de equipo.
 
 
-      Teams hold short regular meetings to align and make decisions as follows:
+      Los equipos celebran reuniones periódicas breves para alinearse y tomar decisiones de la siguiente manera:
 
 
-      * a short tactical discussion at the start of every shift
+      * una breve discusión táctica al comienzo de cada turno
 
-      * a weekly meeting with the sales account manager to discuss orders
+      * una reunión semanal con el gerente de cuentas de ventas para discutir los pedidos
 
-      * a monthly meeting with an open agenda
+      * una reunión mensual con una agenda abierta
 
 
-      Beyond that, they tend to have no regularly scheduled meetings at all. If cross-team meetings occur, it’s in response to a specific need.
+      Más allá de eso, tienden a no tener reuniones programadas regularmente. Si se producen reuniones entre equipos, es en respuesta a una necesidad específica.
   - topic: Mood Management
     title: "FAVI tenía una hermosa práctica de gratitud y celebración: cada reunión
       en la empresa comienza con una ronda donde cada participante a su vez
@@ -124,9 +131,10 @@ theory:
 
       <!--EndFragment-->
   - topic: Recruitment
-    title: Uses an extended trial period, to ensure a mutual match.
-    content: "[FAVI](http://www.favi.com/) made extended use of the trial period for
-      both parties to test whether the match works out."
+    title: Utiliza un período de prueba extendido para garantizar una coincidencia
+      mutua.
+    content: FAVI hizo un uso prolongado del período de prueba para que ambas partes
+      probaran si el partido funciona.
   - topic: Onboarding
     title: FAVI newly hired engineers and administrative workers are trained at
       operating at least one machine on the shop floor.  New hires also end
@@ -154,24 +162,15 @@ theory:
       manos son llamadas en la cubierta. Los trabajadores de cuello blanco
       vienen de su espacio de oficinas para manejar las máquinas durante unas
       horas.
-    content: "It’s a wonderful community-building practice. People from engineering
-      and administration work under the guidance of the machine operators. They
-      see first-hand how hard this work can be, and how much skill it requires.
-      When the orders are shipped on time, colleagues share a sense of pride in
-      the accomplishment.\r
+    content: >-
+      Es una maravillosa práctica de construcción de comunidad. El personal de
+      ingeniería y administración trabaja bajo la guía de los operadores de la
+      máquina. Ellos ven de primera mano cuán difícil puede ser este trabajo y
+      cuánta habilidad requiere. Cuando los pedidos se envían a tiempo, los
+      colegas comparten un sentimiento de orgullo por el logro.
 
-      \r
 
-      FAVI also has a training program given to new members. But one
-      session, only, may insufficient for someone to unlearn old habits and pick
-      up new ones. The initial training modules are therefore expanded with
-      follow-up training and workshops interwoven into daily life. The CEO,
-      Jean- François Zobrist, used to chair a one-hour session every Friday
-      morning, open to whoever wanted to join. The topic: An in-depth look at
-      one of FAVI’s core organizational tools. (FAVI calls them fiches, or index
-      cards, as they are literally available in the form of index cards to
-      employees.) These include organization purpose, values, decision-making
-      mechanisms, and lean manufacturing techniques. "
+      FAVI también tiene un programa de capacitación para nuevos miembros. Pero una sola sesión puede ser insuficiente para que alguien pueda desaprender viejos hábitos y adquirir nuevos. Por lo tanto, los módulos de formación inicial se amplían con formación de seguimiento y talleres entretejidos en la vida diaria. El director general, Jean-François Zobrist, solía presidir una sesión de una hora todos los viernes por la mañana, abierta a quienes quisieran unirse. El tema: Una mirada en profundidad a una de las herramientas organizativas centrales de FAVI. (FAVI los llama fichas o fichas, ya que están literalmente disponibles en forma de fichas para los empleados). Estos incluyen el propósito de la organización, los valores, los mecanismos de toma de decisiones y las técnicas de manufactura esbelta.
   - topic: Commitment, Working Hours and Flexibility
     title: En FAVI, nadie checa entrada ni salida, pero los trabajadores todavía
       trabajan en patrones de cambio y se espera que gasten aproximadamente esta
@@ -185,120 +184,130 @@ theory:
 
       <!--EndFragment-->
   - topic: Job Titles and Job Descriptions
-    title: A worker at FAVI might operate a number of different machines, be in
-      charge of ordering supplies for his team, lead a number of continuous
-      improvement actions, and be responsible for recruitment to his team.
-      Except perhaps for recruitment purposes, no one bothers to write down a
-      job description.
-    content: "However, at [FAVI](http://www.favi.com/), one person on the team holds
-      most management roles for the team ([FAVI](http://www.favi.com/) calls
-      them, rather unhelpfully, a “team leader”, which might imply hierarchical
-      power over their colleagues). FAVI found it works best to have one person
-      free to roam among the team and only operate a machine occasionally when a
-      helping hand is needed. FAVI’s team leaders act as coaches for their
-      colleagues, as a clearinghouse for information, and as a point person when
-      coordination is needed with other teams. This choice nevertheless carries
-      a risk. Our cultural baggage of hierarchy is so strong that over time,
-      team leaders could start behaving like bosses and become the primary
-      decision makers on their teams. At FAVI, a simple but powerful relief
-      valve exists, should a team leader find the taste of power too sweet:
-      workers can choose at any moment to join another team. Team leaders have
-      no meaningful way of coercing people into desired behavior; they certainly
-      don’t have the authority to fire people unilaterally. If they start to
-      behave autocratically, people can simply walk away"
+    title: Un trabajador de FAVI puede operar varias máquinas diferentes, estar a
+      cargo de solicitar suministros para su equipo, liderar una serie de
+      acciones de mejora continua y ser responsable de la contratación de su
+      equipo. Excepto quizás para fines de contratación, nadie se molesta en
+      escribir una descripción del puesto.
+    content: "Sin embargo, en FAVI, una persona en el equipo tiene la mayoría de los
+      roles gerenciales para el equipo (FAVI los llama, de manera bastante
+      inútil, “líder de equipo”, lo que podría implicar poder jerárquico sobre
+      sus colegas). FAVI descubrió que funciona mejor tener una persona libre
+      para deambular entre el equipo y solo operar una máquina ocasionalmente
+      cuando se necesita una mano amiga. Los líderes de equipo de FAVI actúan
+      como entrenadores para sus colegas, como centro de intercambio de
+      información y como persona de contacto cuando se necesita coordinación con
+      otros equipos. Sin embargo, esta elección conlleva un riesgo. Nuestro
+      bagaje cultural de jerarquía es tan fuerte que con el tiempo, los líderes
+      de equipo podrían comenzar a comportarse como jefes y convertirse en los
+      principales tomadores de decisiones en sus equipos. En FAVI, existe una
+      válvula de alivio simple pero poderosa, si un líder de equipo encuentra
+      que el sabor del poder es demasiado dulce: los trabajadores pueden elegir
+      en cualquier momento unirse a otro equipo. Los líderes de equipo no tienen
+      una forma significativa de coaccionar a las personas para que adopten el
+      comportamiento deseado; ciertamente no tienen la autoridad para despedir
+      personas unilateralmente. Si comienzan a comportarse de manera
+      autocrática, la gente simplemente puede alejarse"
   - topic: Objectives and Target Setting
-    title: Sales teams have no sales targets.
+    title: Los equipos de ventas no tienen objetivos de ventas.
     content: >-
-      At [Favi](http://www.favi.com/), sales account roles are part of the
-      product team, for example the Audi team. No one gives them sales targets.
-      Their motivation is to serve their clients well and, in the face of
-      Chinese competition, to maintain and when possible increase the number of
-      jobs the factory can provide. To account managers, feeding their team with
-      work is a motivation far stronger than any sales target from a Head of
-      Sales could ever provide. At Favi, sales orders are always discussed in
-      terms of employment, not in monetary terms; so there is no "we got a
-      million order" but rather "we got an order for 10 people's work". This is
-      in line with the organization's purpose, which is to create jobs in an
-      area where jobs are scarce.
+      En [Favi](http://www.favi.com/), los roles de la cuenta de ventas son
+      parte del equipo de producto, por ejemplo, el equipo de Audi. Nadie les da
+      objetivos de ventas. Su motivación es servir bien a sus clientes y, frente
+      a la competencia china, mantener y, cuando sea posible, aumentar el número
+      de puestos de trabajo que la fábrica puede proporcionar. Para los gerentes
+      de cuentas, alimentar a su equipo con trabajo es una motivación mucho más
+      fuerte que la que podría proporcionar cualquier objetivo de ventas de un
+      jefe de ventas. En Favi, las órdenes de venta siempre se discuten en
+      términos de empleo, no en términos monetarios; así que no hay "tenemos un
+      pedido de un millón" sino más bien "tenemos un pedido para el trabajo de
+      10 personas". Esto está en línea con el propósito de la organización, que
+      es crear puestos de trabajo en un área donde los puestos de trabajo son
+      escasos.
 
 
-      Incidentally, workers at Favi do not get production targets either. They are well aware of the impact China has on their market, given the feedback they receive from their sales account managers. Operators set themselves target times to machine their pieces, and they monitor their performance against that target.
+      Por cierto, los trabajadores de Favi tampoco alcanzan objetivos de producción. Son muy conscientes del impacto que China tiene en su mercado, dada la retroalimentación que reciben de sus gerentes de cuentas de ventas. Los operadores se fijan tiempos objetivo para mecanizar sus piezas y controlan su rendimiento frente a ese objetivo.
   - topic: Innovation and Product Development
-    title: FAVI invents the first method for molding 100 % pure copper - for
-      challenge and beauty, with zero market research.
+    title: FAVI inventa el primer método para moldear cobre 100% puro - para desafío
+      y belleza, sin investigación de mercado.
     content: >-
-      In the 1990s, Zobrist (CEO) and a few colleagues at [FAVI
-      ](http://www.favi.com/)became fascinated with the following idea:
-      foundries always produce alloys, because pure copper cannot be molded.
-      What if FAVI could somehow do the impossible - shape industrial products
-      made of 100 percent pure copper? They started tinkering.
+      En la década de 1990, Zobrist (CEO) y algunos colegas de
+      [FAVI](http://www.favi.com/) quedaron fascinados con la siguiente idea:
+      las fundiciones siempre producen aleaciones, porque el cobre puro no se
+      puede moldear. ¿Qué pasaría si FAVI pudiera de alguna manera hacer los
+      productos industriales de forma imposible hechos de cobre puro al 100 por
+      ciento? Empezaron a juguetear.
 
 
-      Would there be a market for such products? They had no idea, but they didn't care to commission a market study. Pure copper has some properties, like electrical conductivity, that alloys don't have; such a property must have a purpose. What really got them excited was not the market they might discover. They were excited by the beauty of the seemingly impossible: to shape pure copper.
+      ¿Habría mercado para tales productos? No tenían idea, pero no les importaba encargar un estudio de mercado. El cobre puro tiene algunas propiedades, como la conductividad eléctrica, que las aleaciones no tienen; tal propiedad debe tener un propósito. Lo que realmente los entusiasmó no fue el mercado que podrían descubrir. Estaban emocionados por la belleza de lo aparentemente imposible: dar forma al cobre puro.
 
 
-      After two years of tinkering, they succeeded. And as they had imagined, a market came knocking at their door. Pure copper rotors have interesting properties in electrical motors. This is now an important business for FAVI.^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 208]
+      Después de dos años de retoques, lo consiguieron. Y como habían imaginado, un mercado llamó a su puerta. Los rotores de cobre puro tienen propiedades interesantes en motores eléctricos. Este es ahora un negocio importante para FAVI. ^ \ \[Laloux, Frederic. Reinvención de organizaciones. Nelson Parker (2014), página 208]
   - topic: Innovation and Product Development
-    title: FAVI invents a new antiseptic copper alloy for hospitals using aesthetics
-      and intuition.
+    title: FAVI inventa una nueva aleación de cobre antiséptico para hospitales
+      utilizando la estética y la intuición.
     content: >-
-      Metallurgists have long known that copper has antiseptic properties. *It's
-      a shame*, people at [FAVI](http://www.favi.com/) thought, *that this
-      property isn't put to use in products*. A team started tinkering with
-      antimicrobial copper equipment for hospitals. A prototype soon gave
-      promising results, but Zobrist (CEO) was bothered by its color. The
-      reddish color of copper evokes the faded world of old 19th-century
-      sanatoriums, he found.
+      Los metalúrgicos saben desde hace mucho tiempo que el cobre tiene
+      propiedades antisépticas.  *Es una pena* , la gente de
+      [FAVI](http://www.favi.com/) pensó,  *que esta propiedad no se utilice en
+      productos* . Un equipo comenzó a manipular equipos de cobre antimicrobiano
+      para hospitales. Un prototipo pronto dio resultados prometedores, pero a
+      Zobrist (CEO) le molestó su color. El color rojizo del cobre evoca el
+      mundo descolorido de los viejos sanatorios del siglo XIX, descubrió.
 
 
-      Zobrist (CEO) asked the project team if they could make a prototype with a silver-colored alloy, to give it the shine of stainless steel we associate with modern equipment. The team scoffed: This simply made no sense. The added material for the alloy would make the copper lose its antiseptic properties. Zobrist (CEO) knew he had no ground to stand on. But he was possessed by a deep aesthetic and intuitive sense that it was worth pursuing. He managed to persuade the team into giving it a try.
+      Zobrist (CEO) preguntó al equipo del proyecto si podían hacer un prototipo con una aleación de color plateado, para darle el brillo del acero inoxidable que asociamos con los equipos modernos. El equipo se burló: esto simplemente no tenía sentido. El material agregado para la aleación haría que el cobre perdiera sus propiedades antisépticas. Zobrist (CEO) sabía que no tenía ningún terreno en el que pararse. Pero estaba poseído por un profundo sentido estético e intuitivo de que valía la pena perseguirlo. Se las arregló para persuadir al equipo para que lo intentara.
 
 
-      To everybody's surprise, and for reasons still unclear, the silver-color alloy not only kept the copper's antiseptic properties, it enhanced them. A new market opened for FAVI.
+      Para sorpresa de todos, y por razones aún no claras, la aleación de color plateado no solo mantuvo las propiedades antisépticas del cobre, sino que las realzó. Se abrió un nuevo mercado para FAVI.
 
 
-      The product development process that FAVI used to achieve this breakthrough was developed in collaboration with a Japanese professor, Shoji Shiba. It is a design process that explicitly factors in emotions, beauty and intuition^[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 209]
+      El proceso de desarrollo de productos que FAVI utilizó para lograr este avance se desarrolló en colaboración con un profesor japonés, Shoji Shiba. Es un proceso de diseño que tiene en cuenta explícitamente las emociones, la belleza y la intuición ^ \ \[Laloux, Frederic. Reinvención de organizaciones. Nelson Parker (2014), página 209]
   - topic: Purchasing and Investments
-    title: FAVI implemented a practice of bottom-up planning based on trust towards
-      its teams to come up with realistic budget requests. In case of conflicts,
-      representatives of each team sort out problems on their own.
+    title: FAVI implementó una práctica de planificación ascendente basada en la
+      confianza hacia sus equipos para presentar solicitudes presupuestarias
+      realistas. En caso de conflictos, los representantes de cada equipo
+      solucionan los problemas por su cuenta.
     content: >-
-      Once a year, every team at [FAVI](http://www.favi.com/) establishes the
-      investment budget for the next year - new machines, new tooling, and so
-      on. In most organizations, the finance department challenges these
-      requests and ultimately the executive committee or the CEO arbitrates
-      across departments to channel more money in one direction or another. This
-      opens up the can of worms of politics. Everyone jockeys for a bigger part
-      of the pie. For middle managers, the size of the budget is often the
-      yardstick by which their status is measured. They try, as best as they
-      can, to influence the decision makers in the executive committee through
-      any formal and informal channels at their disposal.
+      Una vez al año, cada equipo de [FAVI](http://www.favi.com/) establece el
+      presupuesto de inversión para el próximo año: nuevas máquinas, nuevas
+      herramientas, etc. En la mayoría de las organizaciones, el departamento de
+      finanzas cuestiona estas solicitudes y, en última instancia, el comité
+      ejecutivo o el director ejecutivo arbitra entre departamentos para
+      canalizar más dinero en una dirección u otra. Esto abre la lata de gusanos
+      de la política. Todos compiten por una mayor parte del pastel. Para los
+      gerentes intermedios, el tamaño del presupuesto es a menudo el criterio
+      con el que se mide su estatus. Intentan, lo mejor que pueden, influir en
+      los tomadores de decisiones del comité ejecutivo a través de los canales
+      formales e informales a su disposición.
 
 
-      At FAVI, there are no middle managers that fight for budgets, and their CEO Jean-Francois Zobrist refused to play the role of the father who would decide how to divide up the candy among his children. Teams know that no haggling will take place, so they don’t throw in inflated numbers to start with; they make realistic requests based on realistic needs. In most years, when the budgets of the teams are added up, the resulting number is reasonable, and all plans get the green light, with neither discussion nor scrutiny. Teams are trusted to do the right thing; if one team were to get itself golden-plated machines, other teams would quickly notice, and peer-pressure would self-regulate the problem away. In those years where the combined projects exceed what would be reasonable, the CEO simply asks teams to sit together and to come back to him with a revised plan. Representatives from each team come together and put all the plans on a table. They look at what is most important and what might be deferred in everyone’s plans. In one or two meetings, the problem is always sorted out.
+      En FAVI, no hay mandos intermedios que luchen por los presupuestos, y su director general, Jean-Francois Zobrist, se negó a hacer el papel del padre que decidiría cómo repartir los caramelos entre sus hijos. Los equipos saben que no habrá regateo, por lo que, para empezar, no arrojan números inflados; hacen solicitudes realistas basadas en necesidades realistas. En la mayoría de los años, cuando se suman los presupuestos de los equipos, el número resultante es razonable y todos los planes obtienen luz verde, sin discusión ni escrutinio. Se confía en los equipos para hacer lo correcto; si un equipo tuviera máquinas doradas, otros equipos lo notarían rápidamente y la presión de los compañeros autorregularía el problema. En aquellos años en los que los proyectos combinados superan lo que sería razonable, el CEO simplemente pide a los equipos que se sienten juntos y que regresen a él con un plan revisado. Los representantes de cada equipo se reúnen y ponen todos los planos sobre una mesa. Observan lo que es más importante y lo que podría aplazarse en los planes de todos. En una o dos reuniones, el problema siempre se resuelve.
 
 
-      Like other roles, the traditional purchasing and investments tasks of a manager - budgeting, planning, and controlling - are scattered among various members of a team. A worker at [FAVI](http://www.favi.com/), might operate a number of different machines, be in charge of ordering supplies for his team, lead a number of continuous improvement actions, and be responsible for recruitment to his team^[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 77-79 and following]
+      Al igual que otros roles, las tareas tradicionales de compras e inversiones de un gerente (presupuestación, planificación y control) se encuentran dispersas entre varios miembros de un equipo. Un trabajador de [FAVI](http://www.favi.com/), podría operar varias máquinas diferentes, estar a cargo de solicitar suministros para su equipo, liderar una serie de acciones de mejora continua y ser responsable de la contratación a su equipo ^ \ \[Laloux, Frederic. Reinvención de organizaciones. Nelson Parker (2014), páginas 77-79 y siguientes]
   - topic: Budgeting and Controlling
-    title: FAVI implemented a practice of bottom-up planning based on trust towards
-      its teams to come up with realistic budget requests.  In case of
-      conflicts, representatives of each team sort out problems on their own.
+    title: FAVI implementó una práctica de planificación ascendente basada en la
+      confianza hacia sus equipos para presentar solicitudes presupuestarias
+      realistas. En caso de conflictos, los representantes de cada equipo
+      solucionan los problemas por su cuenta.
     content: >-
-      The traditional practice in organizations, says FAVI, is to look five
-      years ahead and make plans for the next year. FAVI believes we should
-      think like farmers; look 20 years ahead, and plan only for the next day.
-      One must look far out to decide which fruit trees to plant or which crops
-      to grow. But it makes no sense to plan at the beginning of the year the
-      precise date for harvest. As hard as we try, we cannot control the
-      weather, the crops, or the soil. They all have a life of their own beyond
-      our control. A farmer who would stick rigidly to plan, instead of sensing
-      and adjusting to reality, would quickly grow hungry.
+      La práctica tradicional en las organizaciones, dice FAVI, es mirar cinco
+      años hacia adelante y hacer planes para el próximo año. FAVI cree que
+      deberíamos pensar como agricultores; mire 20 años hacia adelante y
+      planifique solo para el día siguiente. Hay que mirar muy lejos para
+      decidir qué árboles frutales plantar o qué cultivos cultivar. Pero no
+      tiene sentido planificar a principios de año la fecha precisa de cosecha.
+      Por mucho que lo intentemos, no podemos controlar el clima, los cultivos o
+      el suelo. Todos tienen una vida propia más allá de nuestro control. Un
+      agricultor que se apegara rígidamente al plan, en lugar de sentir y
+      adaptarse a la realidad, rápidamente se volvería hambriento.
 
 
-      FAVI finds it needs a basic budget to help make certain decisions. Once a year, every operating team (FAVI is organized by client teams, e.g., the Volkswagen team, the Volvo team, etc, and by support teams, e.g., the foundry team, the maintenance team, etc.) makes a monthly forecast for the year to come of sales and costs. The numbers are added up, and whatever the result, it is considered the budget for FAVI overall. That budget can then be used to inform decision making, for instance, to determine the expected tonnage of metal that will be bought for which a supply contract must be secured.
+      FAVI encuentra que necesita un presupuesto básico para ayudar a tomar ciertas decisiones. Una vez al año, cada equipo operativo (FAVI está organizado por equipos de clientes, por ejemplo, el equipo de Volkswagen, el equipo de Volvo, etc., y por equipos de soporte, por ejemplo, el equipo de fundición, el equipo de mantenimiento, etc.) hace un pronóstico mensual para el próximo año de ventas y costes. Los números se suman y cualquiera que sea el resultado, se considera el presupuesto de FAVI en general. Luego, ese presupuesto puede usarse para informar la toma de decisiones, por ejemplo, para determinar el tonelaje esperado de metal que se comprará para el cual se debe asegurar un contrato de suministro.
 
 
-      The budget is not used to track mostly performance: there is no monthly comparison of actuals vs budget. Teams simply track their monthly numbers and if the numbers are unsatisfactory (as compared to the previous month or year, or to some ratio) they discuss corrective action. In its management manifesto, FAVI captures the thinking about budgets in a provocative statement; “*In the new way of thinking, we aim to make money without knowing how we do it, as opposed to the old way of losing money knowing exactly how we lose it*.” FAVI is privately owned and doesn’t need to report to outside shareholders.
+      El presupuesto no se utiliza para realizar un seguimiento mayoritariamente del rendimiento: no hay una comparación mensual de los datos reales frente al presupuesto. Los equipos simplemente realizan un seguimiento de sus números mensuales y si los números no son satisfactorios (en comparación con el mes o año anterior, o con alguna proporción), discuten la acción correctiva. En su manifiesto de gestión, FAVI captura el pensamiento sobre los presupuestos en una declaración provocativa; " *En la nueva forma de pensar, nuestro objetivo es ganar dinero sin saber cómo lo hacemos, a diferencia de la antigua forma de perder dinero sabiendo exactamente cómo lo perdemos* ". FAVI es de propiedad privada y no necesita informar a accionistas externos.
   - topic: Crisis Management
     title: CEO of FAVI, Jean-Francois Zobrist asks everyone on the shop floor for
       help in the wake of the first Gulf War.
