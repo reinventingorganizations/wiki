@@ -309,204 +309,131 @@ theory:
 
       El presupuesto no se utiliza para realizar un seguimiento mayoritariamente del rendimiento: no hay una comparación mensual de los datos reales frente al presupuesto. Los equipos simplemente realizan un seguimiento de sus números mensuales y si los números no son satisfactorios (en comparación con el mes o año anterior, o con alguna proporción), discuten la acción correctiva. En su manifiesto de gestión, FAVI captura el pensamiento sobre los presupuestos en una declaración provocativa; " *En la nueva forma de pensar, nuestro objetivo es ganar dinero sin saber cómo lo hacemos, a diferencia de la antigua forma de perder dinero sabiendo exactamente cómo lo perdemos* ". FAVI es de propiedad privada y no necesita informar a accionistas externos.
   - topic: Crisis Management
-    title: CEO of FAVI, Jean-Francois Zobrist asks everyone on the shop floor for
-      help in the wake of the first Gulf War.
-    content: "It was a common occurrence, that when faced with difficult and
-      critical decisions at FAVI, Zobrist would readily admit he needed help to
-      find a good answer. On impulse, he would go around the shop floor and ask
-      everyone to stop machines, and he would climb on a soapbox and share the
-      problem with all the employees, trying to figure the course of action. The
-      first major crisis under his leadership occurred in 1990 when car orders
-      plummeted in the wake of the first Gulf War. Stocks were piling up, and
-      there simply wasn't enough work to keep workers busy. Capacity and costs
-      needed to be reduced.\r
-
-      \r
-
-      There was one obvious solution: fire the temp workers. But at FAVI,
-      no one was really considered a temp worker. For reasons related to labor
-      laws in France, new recruits were hired as temp workers for 18 months
-      before they were offered a full contract. Most of them were already
-      considered full members of their teams. By firing the temps, FAVI would
-      rescind its moral commitment to them, and it would lose talent it had
-      invested in, with a recovery perhaps only a few months away. With many
-      questions and no clear answers, Zobrist found himself on the soapbox and
-      shared his dilemma with all employees in that shift (including the temp
-      workers whose fate was being discussed). People in the audience shouted
-      questions and proposals. One worker said, \"This month, why don't we all
-      work only three weeks and get three weeks' pay, and we keep the temp
-      workers? If we need to we will do the same thing next month as well.\"
-      Heads nodded, and the proposal was put to a vote.\r
-
-      \r
-
-      To Zobrist's surprise, there was unanimous agreement. Workers had
-      just agreed to a temporary 25 percent salary cut. In less than an hour,
-      the problem was solved and machine noise reverberated around the factory
-      again. Zobrist’s ability to keep his fear in check paved the way for a
-      radically more productive and empowering approach and showed that it is
-      possible to confront employees with a harsh problem and let them
-      self-organize their way out of it."
-  - topic: Fundamental Assumptions
-    title: Leader Jean François Zobrist analyzed the organization chart of the
-      traditionally run factory in the 1980's. Together with his colleagues, he
-      made explicit the underlying assumptions about men and women in the
-      organization. Then they defined three new assumptions, that over time have
-      become mantras inside the factory.
+    title: El director ejecutivo de FAVI, Jean-Francois Zobrist, pide ayuda a todos
+      en el taller a raíz de la primera Guerra del Golfo.
     content: >-
-      At FAVI in the 1980's, regarding the organizational practices, men and
-      women were considered to be :
+      Era una ocurrencia común, que cuando se enfrentaba a decisiones difíciles
+      y críticas en FAVI, Zobrist admitía fácilmente que necesitaba ayuda para
+      encontrar una buena respuesta. Siguiendo un impulso, iba por el taller y
+      les pedía a todos que detuvieran las máquinas, y se subía a una caja de
+      jabón y compartía el problema con todos los empleados, tratando de
+      determinar el curso de acción. La primera gran crisis bajo su liderazgo
+      ocurrió en 1990 cuando los pedidos de automóviles se desplomaron a raíz de
+      la primera Guerra del Golfo. Las existencias se estaban acumulando y
+      simplemente no había suficiente trabajo para mantener ocupados a los
+      trabajadores. Era necesario reducir la capacidad y los costos.
 
 
-      * **Thieves**, because everything was locked up in storage rooms.
-
-      * **Lazy**, as their working time was controlled and every late showing punished by somebody (who didn't care to inquire about the reasons for being late).
-
-      * **Not dependable,** because all their production was controlled by somebody else – who must not have been very dependable either because general control mechanisms had been put in place.
-
-      * **Not intelligent**, as a "manufacturing engineering" department did the thinking for them.
+      Había una solución obvia: despedir a los trabajadores temporales. Pero en FAVI, nadie era considerado realmente un trabajador temporal. Por razones relacionadas con las leyes laborales en Francia, se contrató a nuevos reclutas como trabajadores temporales durante 18 meses antes de que se les ofreciera un contrato completo. La mayoría de ellos ya eran considerados miembros de pleno derecho de sus equipos. Al despedir a los temporales, FAVI rescindiría su compromiso moral con ellos, y perdería el talento en el que había invertido, con una recuperación quizás a solo unos meses de distancia. Con muchas preguntas y sin respuestas claras, Zobrist se encontró en la tribuna y compartió su dilema con todos los empleados en ese turno (incluidos los trabajadores temporales cuyo destino se estaba discutiendo). La gente del público gritó preguntas y propuestas. Un trabajador dijo: "Este mes, ¿por qué no trabajamos todos sólo tres semanas y recibimos el pago de tres semanas, y nos quedamos con los trabajadores temporales? Si es necesario, también haremos lo mismo el próximo mes". Las cabezas asintieron y la propuesta se sometió a votación.
 
 
-      Here are the new assumptions :
+      Para sorpresa de Zobrist, hubo un acuerdo unánime. Los trabajadores acababan de acordar un recorte salarial temporal del 25 por ciento. En menos de una hora, el problema se resolvió y el ruido de la máquina volvió a resonar en la fábrica. La capacidad de Zobrist para controlar su miedo allanó el camino para un enfoque radicalmente más productivo y empoderador y demostró que es posible confrontar a los empleados con un problema difícil y dejar que ellos mismos se organicen para salir de él.
+  - topic: Fundamental Assumptions
+    title: El líder Jean François Zobrist analizó el organigrama de la fábrica
+      tradicional en la década de 1980. Junto con sus colegas, explicitó las
+      suposiciones subyacentes sobre hombres y mujeres en la organización. Luego
+      definieron tres nuevos supuestos, que con el tiempo se han convertido en
+      mantras dentro de la fábrica.
+    content: >-
+      
+
+      En FAVI de la década de los 80, en cuanto a las prácticas organizativas, se consideró a hombres y mujeres como:
 
 
-      * People are systematically considered to be good (reliable, self-motivated, trustworthy, intelligent).
+      *  **Ladrones** , porque todo estaba encerrado en trasteros.
 
-      * There is no performance without happiness. To be happy, we need to be responsible. To be responsible, we must understand why and for whom we work, and be free to decide how.
+      *  **Perezoso** , ya que su tiempo de trabajo estaba controlado y cada retraso era castigado por alguien (que no se preocupó de preguntar por las razones del retraso).
 
-      * Value is created on the shop floor. Shop floor operators craft the products, the CEO and staff at best serve to support them. At worst, they are costly distractions.
+      *  **No confiable,**  porque toda su producción fue controlada por otra persona, quien tampoco debe haber sido muy confiable porque se habían implementado mecanismos de control general.
+
+      *  **No es inteligente** , ya que un departamento de "ingeniería de fabricación" pensó por ellos.
+
+
+      Aquí están las nuevas suposiciones:
+
+
+      * Las personas son sistemáticamente consideradas buenas (confiables, automotivadas, confiables, inteligentes).
+
+      * No hay actuación sin felicidad. Para ser felices, debemos ser responsables. Para ser responsables, debemos entender por qué y para quién trabajamos, y ser libres para decidir cómo.
+
+      * El valor se crea en el taller. Los operadores de los talleres elaboran los productos, el director ejecutivo y el personal sirven para respaldarlos. En el peor de los casos, son distracciones costosas.
   - topic: Self-Management
-    title: A competitive global supplier run without middle management
-    content: "FAVI’s factory has more than 500 employees that are organized in 21
-      teams called “mini-factories” of 15 to 35 people. Most of the teams are
-      dedicated to a specific customer or customer type (the Volkswagen team,
-      the Audi team, the Volvo team, the water meter team, and so forth). There
-      are a few upstream production teams (the foundry team, the mold repair
-      team, maintenance), and support teams (engineering, quality, lab,
-      administration, and sales support). Each team self-organizes; there is no
-      middle management, and there are virtually no rules or procedures other
-      than those that the teams decide upon themselves.^[Laloux, Frederic
-      (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations
-      Inspired by the Next Stage of Human Consciousness (Kindle Locations
-      1704-1708). Nelson Parker. Kindle Edition.]"
+    title: Un proveedor global competitivo dirigido sin mandos intermedios
+    content: 'La fábrica de FAVI cuenta con más de 500 empleados que se organizan en
+      21 equipos denominados "mini-fábricas" de 15 a 35 personas. La mayoría de
+      los equipos están dedicados a un cliente o tipo de cliente específico (el
+      equipo Volkswagen, el equipo Audi, el equipo Volvo, el equipo de medidores
+      de agua, etc.). Hay algunos equipos de producción ascendentes (el equipo
+      de fundición, el equipo de reparación de moldes, mantenimiento) y los
+      equipos de soporte (ingeniería, calidad, laboratorio, administración y
+      soporte de ventas). Cada equipo se autoorganiza; no hay mandos intermedios
+      y prácticamente no existen reglas o procedimientos distintos de los que
+      los equipos deciden por sí mismos. ^ \ \[Laloux, Frederic (2014-02-09).
+      Reinventar organizaciones: una guía para crear organizaciones inspiradas
+      en la próxima etapa de la conciencia humana (ubicaciones de Kindle
+      1704-1708). Nelson Parker. Versión Kindle.]'
   - topic: Listening to Purpose
-    title: soul searching prompted by a proposed order that came out of the blue
-    content: "Early on in his tenure as CEO, Jean-François Zobrist invited all the
-      factory employees to a meeting to figure out the organization’s raison
-      d’être. The soul searching was prompted by a proposed order that came out
-      of the blue from a French car manufacturer. Could they, within a year,
-      supply not only a gear fork, but a full gearbox? This single order would
-      be larger than all of FAVI’s existing business. Many people thought it was
-      too risky. Zobrist felt the decision could not be made without inquiring
-      into the purpose of the organization. In keeping with his style, he
-      involved the whole company, in meetings with subgroups of 15 people at a
-      time on Friday afternoons. He showed up at the meeting with no agenda and
-      no process; he trusted that his colleagues would somehow self-organize in
-      these meetings, reconvening every Friday if needed, until they had
-      answered this most fundamental question: what is our purpose?\r
+    title: examen de conciencia impulsado por una orden propuesta que surgió de la
+      nada
+    content: >-
+      Al principio de su mandato como director ejecutivo, Jean-François Zobrist
+      invitó a todos los empleados de la fábrica a una reunión para averiguar la
+      razón de ser de la organización. La búsqueda del alma fue impulsada por
+      una orden propuesta que surgió de la nada de un fabricante de automóviles
+      francés. ¿Podrían, dentro de un año, suministrar no solo una horquilla de
+      engranajes, sino una caja de cambios completa? Este único pedido sería más
+      grande que todos los negocios existentes de FAVI. Mucha gente pensó que
+      era demasiado arriesgado. Zobrist sintió que la decisión no se podía tomar
+      sin investigar el propósito de la organización. Siguiendo su estilo,
+      involucró a toda la empresa, en reuniones con subgrupos de 15 personas a
+      la vez los viernes por la tarde. Se presentó a la reunión sin agenda ni
+      proceso; confiaba en que sus colegas de alguna manera se autoorganizarían
+      en estas reuniones, volviéndose a reunir todos los viernes si era
+      necesario, hasta que hubieran respondido a esta pregunta fundamental:
+      ¿cuál es nuestro propósito?
 
-      \r
 
-      After much discussion, when the obvious but superficial ideas had
-      been discarded, the answer emerged with clarity. FAVI has two reasons for
-      existence, two fundamental purposes: the first is to provide meaningful
-      work in the area of Hallencourt, a rural area in northern France where
-      good work is rare; the second is to give and receive love from clients.\r
+      Después de mucha discusión, cuando se descartaron las ideas obvias pero superficiales, la respuesta surgió con claridad. FAVI tiene dos razones de existencia, dos propósitos fundamentales: el primero es proporcionar un trabajo significativo en el área de Hallencourt, una zona rural en el norte de Francia donde el buen trabajo es raro; el segundo es dar y recibir amor de los clientes.
 
-      \r
 
-      At FAVI, love, a word rarely heard in the world of business, has
-      taken on real meaning. Operators don’t just send products to their
-      clients, they send products into which they have put their heart. A few
-      years ago, around Christmas time, an operator at FAVI molded excess brass
-      into a few small figurines of Santa and of reindeers. He added the
-      figurines into the boxes of finished products, rather like kids put a
-      message in a bottle they throw out to sea, imagining that someone,
-      somewhere, would find it. Other operators have since picked up on the idea
-      and at random times of the year add brass figurines into their shipments,
-      as little tokens of love to their counterparts working on assembly lines
-      at Volkswagen or Volvo, who will find the figurines when they unpack the
-      boxes. ^[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide
-      to Creating Organizations Inspired by the Next Stage of Human
-      Consciousness (Kindle Locations 4363-4378). Nelson Parker. Kindle
-      Edition]."
+      En FAVI, el amor, una palabra que rara vez se escucha en el mundo de los negocios, ha cobrado un significado real. Los operadores no solo envían productos a sus clientes, envían productos en los que han puesto su corazón. Hace unos años, alrededor de la época navideña, un operador de FAVI moldeó el exceso de latón en unas pequeñas figuritas de Papá Noel y renos. Añadió las figurillas a las cajas de productos terminados, como si los niños pusieran un mensaje en una botella que arrojaban al mar, imaginando que alguien, en algún lugar, lo encontraría. Desde entonces, otros operadores han captado la idea y en momentos aleatorios del año agregan estatuillas de bronce a sus envíos, como pequeñas muestras de amor para sus contrapartes que trabajan en las líneas de ensamblaje de Volkswagen o Volvo, quienes encontrarán las figuras cuando desempaqueten las cajas. . ^ \ \[Laloux, Frederic (9 de febrero de 2014). Reinventar organizaciones: una guía para crear organizaciones inspiradas en la próxima etapa de la conciencia humana (ubicaciones de Kindle 4363-4378). Nelson Parker. Versión Kindle].
   - topic: Dismissal
-    title: A novel alternative to dismissal in a time of crisis
-    content: "When CEO Jean-François Zobrist was faced with critical decisions, he
-      readily looked to the workforce for help. More than once, on impulse, he
-      went around the shop floor, asked everybody to stop the machines, climbed
-      on a soapbox and shared his problem.\r
+    title: Una alternativa novedosa al despido en tiempos de crisis
+    content: >-
+      Cuando el CEO Jean-François Zobrist se enfrentó a decisiones críticas,
+      buscó fácilmente la ayuda de la fuerza laboral. Más de una vez, por
+      impulso, recorrió el taller, pidió a todos que detuvieran las máquinas, se
+      subió a una caja de jabón y compartió su problema.
 
-      \r
 
-      His first major crisis happened in 1990 when orders plummeted in the
-      wake of the First Gulf War. there simply wasn’t enough work to keep
-      workers busy. Capacity and costs needed to be reduced. There was one
-      obvious solution: fire the temp workers.\r
+      Su primera gran crisis ocurrió en 1990 cuando los pedidos se desplomaron a raíz de la Primera Guerra del Golfo. simplemente no había suficiente trabajo para mantener ocupados a los trabajadores. Era necesario reducir la capacidad y los costos. Había una solución obvia: despedir a los trabajadores temporales.
 
-      \r
 
-      But at FAVI, no one was really considered a temp worker. For reasons
-      related to labor laws in France, new recruits were hired as temp workers
-      for 18 months before being offered a full contract. Most were already
-      considered full members of their teams. By firing them, FAVI would rescind
-      its moral commitment to them, and it would lose talent it had invested in,
-      with a recovery perhaps only a few months away.\r
+      Pero en FAVI, nadie era considerado realmente un trabajador temporal. Por razones relacionadas con las leyes laborales en Francia, se contrató a nuevos empleados como trabajadores temporales durante 18 meses antes de que se les ofreciera un contrato completo. La mayoría ya eran considerados miembros de pleno derecho de sus equipos. Al despedirlos, FAVI rescindiría su compromiso moral con ellos y perdería el talento en el que había invertido, con una recuperación quizás a solo unos meses de distancia.
 
-      \r
 
-      With no clear answers, Zobrist found himself on the soapbox and
-      shared his dilemma with all employees (including the temp workers whose
-      fate was being discussed). People shouted questions and proposals. One
-      said, “This month, why don’t we all work only three weeks and get three
-      weeks’ pay, and we keep the temp workers? If we need to, we will do the
-      same thing next month as well.”\r
+      Sin respuestas claras, Zobrist se encontró en la tribuna y compartió su dilema con todos los empleados (incluidos los trabajadores temporales cuyo destino se estaba discutiendo). La gente gritó preguntas y propuestas. Uno dijo: “Este mes, ¿por qué no trabajamos todos solo tres semanas y recibimos el pago de tres semanas, y nos quedamos con los trabajadores temporales? Si es necesario, también haremos lo mismo el próximo mes ".
 
-      \r
 
-      Heads nodded, the proposal was put to a vote, and unanimously
-      agreed. Workers just agreed to a temporary 25 percent salary cut. In less
-      than an hour, the problem was solved and machine noise reverberated around
-      the factory again.\r
-
-      \r\n"
+      Cabezas asintieron, la propuesta fue sometida a votación y acordada por unanimidad. Los trabajadores acaban de acordar un recorte salarial temporal del 25 por ciento. En menos de una hora, el problema se resolvió y el ruido de la máquina volvió a resonar en la fábrica.
   - topic: Staff Functions
-    title: At FAVI, almost all central staff functions have disappeared and been
-      integrated into "mini-factories".
-    content: "Today, FAVI has more than 500 employees who are organized into 21
-      teams called “mini-factories” of 15 to 35 people. Most of the teams are
-      dedicated to a specific customer or customer type (the Volkswagen team,
-      the Audi team, the Volvo team, the water meter team, and so forth). There
-      are a few upstream production teams (the foundry team, the mold repair
-      team, maintenance), and support teams (engineering, quality, lab,
-      administration, and sales support). Each team self-organizes; there is no
-      middle management, and there are virtually no rules or procedures other
-      than those that the teams decide upon themselves.\r
+    title: En FAVI, casi todas las funciones centrales del personal han desaparecido
+      y se han integrado en "minifábricas".
+    content: >-
+      Hoy, FAVI cuenta con más de 500 empleados que están organizados en 21
+      equipos denominados “mini-fábricas” de 15 a 35 personas. La mayoría de los
+      equipos están dedicados a un cliente o tipo de cliente específico (el
+      equipo Volkswagen, el equipo Audi, el equipo Volvo, el equipo de medidores
+      de agua, etc.). Hay algunos equipos de producción ascendentes (el equipo
+      de fundición, el equipo de reparación de moldes, mantenimiento) y los
+      equipos de soporte (ingeniería, calidad, laboratorio, administración y
+      soporte de ventas). Cada equipo se autoorganiza; no hay mandos intermedios
+      y prácticamente no existen reglas o procedimientos distintos de los que
+      los equipos deciden por sí mismos.
 
-      \r
 
-      The staff functions have nearly all disappeared. The former HR,
-      planning, scheduling, engineering, production, IT and purchasing
-      departments have all been shut down. Their tasks have been taken over by
-      the operators in the teams, who do their own hiring, purchasing, planning,
-      and scheduling.\r
+      Casi todas las funciones del personal han desaparecido. Los antiguos departamentos de recursos humanos, planificación, programación, ingeniería, producción, TI y compras se han cerrado. Sus tareas han sido asumidas por los operadores de los equipos, quienes realizan sus propias contrataciones, compras, planificación y programación.
 
-      \r
 
-      When opportunities arise that span the boundaries of several teams,
-      FAVI workers self-nominate to create a temporary project team. Sometimes a
-      person is appointed for a staff role to coordinate across teams, but that
-      person receives no authority to impose decisions on the teams. For
-      example, at FAVI there is Denis, an engineer, whose role is to help teams
-      exchange insights and best practices. He spends his days encouraging
-      machine operators to go and see what other teams have come up with. He
-      can’t coerce a team into adopting another team’s ideas. He must get them
-      interested and excited. If he fails to do so, if teams stop seeing added
-      value in his work, then his role will naturally disappear, and Denis will
-      need to find himself another role to fill. In the true sense of the word,
-      he has a support function. This is highly unusual for manufacturing
-      environments - an engineer who is in service to and not in command of
-      less-educated (but highly skilled) blue-collar workers..^[Source: Laloux,
-      Frederic. Reinventing Organizations. Nelson Parker, Brussels, Belgium
-      (2014)]"
+      Cuando surgen oportunidades que traspasan los límites de varios equipos, los trabajadores de FAVI se auto nominan para crear un equipo de proyecto temporal. A veces, se designa a una persona para un rol de personal para coordinar entre equipos, pero esa persona no recibe autoridad para imponer decisiones en los equipos. Por ejemplo, en FAVI está Denis, un ingeniero, cuya función es ayudar a los equipos a intercambiar conocimientos y mejores prácticas. Pasa sus días animando a los operadores de máquinas a que vayan a ver qué se les ocurre a otros equipos. No puede obligar a un equipo a adoptar las ideas de otro equipo. Debe hacer que se interesen y emocionen. Si no lo hace, si los equipos dejan de ver un valor agregado en su trabajo, entonces su rol desaparecerá naturalmente y Denis tendrá que buscar otro rol que desempeñar. En el verdadero sentido de la palabra, tiene una función de apoyo. Esto es muy inusual para los entornos de fabricación: un ingeniero que está al servicio y no al mando de trabajadores manuales con menos educación (pero muy calificados). ^ \ \[Fuente: Laloux, Frederic. Reinvención de organizaciones. Nelson Parker, Bruselas, Bélgica (2014)]
 ---
