@@ -5,19 +5,19 @@ name: Ozvision
 date: 2020-11-09
 introduction: Ozvision has experimented with innovative approaches. One is the
   morning meeting called 'good or new'.
-industry: R. Arts, entertainment and recreation
-geography: Japan
+industry: R. Arte, entretenimiento
+geography: Japón
 companySize: 1-100
-profit: Profit
+profit: Organización con fines de lucro
 theory:
   - topic: Meetings
-    title: Ozvision has experimented with innovative approaches. One is the morning
-      meeting called 'good or new'.
+    title: Ozvision ha experimentado con enfoques innovadores. Una es la reunión de
+      la mañana llamada "buena o nueva".
     content: >-
-      **Morning meeting:**
+      **Reunión matutina:**
 
 
-      Every morning people gather their teams for ‘good or new’--a sort of check-in for the day. A doll is passed around, like a talking stick. The holder can share either something new (news from work, the papers, or their private lives), or something good, or simply a story they want their colleagues to know about, work-related or not.
+      Todas las mañanas, la gente reúne a sus equipos para "bueno o nuevo", una especie de registro del día. Se pasa una muñeca, como un bastón parlante. El titular puede compartir algo nuevo (noticias del trabajo, los periódicos o su vida privada), algo bueno, o simplemente una historia que quiere que sus colegas conozcan, relacionada con el trabajo o no.
   - topic: Mood Management
     title: Esta empresa de Internet ha experimentado mucho con enfoques innovadores
       sobre la gestión del estado de ánimo. Dos de estas prácticas implican
