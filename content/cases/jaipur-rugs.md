@@ -73,9 +73,9 @@ theory:
       *For more insight, please see the following articles from the founder:*
 
 
-      [What is Social Responsibility in Business?](https://www.nkchaudhary.com/healing/what-is-social-responsibility-in-business/)
+      * [What is Social Responsibility in Business?](https://www.nkchaudhary.com/healing/what-is-social-responsibility-in-business/)
 
-      [Social Entrepreneurship in Post-COVID-19 Era](https://www.nkchaudhary.com/founders-mentality/social-entrepreneurship-in-post-covid-19-era/)
+      * [Social Entrepreneurship in Post-COVID-19 Era](https://www.nkchaudhary.com/founders-mentality/social-entrepreneurship-in-post-covid-19-era/)
   - topic: Job Titles and Job Descriptions
     title: Thinking creatively
     content: >-
