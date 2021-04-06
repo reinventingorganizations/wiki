@@ -56,4 +56,20 @@ theory:
       [Benefits of Transforming an Organization into a Learning Institution](https://www.nkchaudhary.com/founders-mentality/benefits-of-transforming-an-organization-into-a-learning-institution/)
 
       [Unlearning is Important to Business](https://www.nkchaudhary.com/founders-mentality/unlearning-is-important-to-business/)
+  - topic: Environmental and Social Management
+    title: Connecting rural craftsmanship to global markets
+    content: >-
+      Jaipur Rugs brings rural craftsmanship to global markets via handmade
+      carpets. It is a family business based in Jaipur, and offers hand-knotted
+      and woven rugs made using traditional art forms. 
+
+      The founder, Mr. Nand Kishore Chaudhary, created a business model which provides a livelihood for the artisans at their doorstep. This changed the standard practice of involving middlemen to work with artisan communities. 
+
+
+      *For more insight, please see the following articles from the founder:*
+
+
+      [What is Social Responsibility in Business?](https://www.nkchaudhary.com/healing/what-is-social-responsibility-in-business/)
+
+      [Social Entrepreneurship in Post-COVID-19 Era](https://www.nkchaudhary.com/founders-mentality/social-entrepreneurship-in-post-covid-19-era/)
 ---
