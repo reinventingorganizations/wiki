@@ -2,7 +2,7 @@
 layout: case
 tags: cases
 name: Valve
-date: 2020-11-17T14:57:26.749Z
+date: 2021-04-06T05:08:15.965Z
 introduction: Software - EE. UU. - 330 empleados - Con fines de lucro.
 industry: J. Información y comunicación
 geography: Estados Unidos
