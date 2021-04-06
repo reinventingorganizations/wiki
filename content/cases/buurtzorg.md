@@ -10,10 +10,10 @@ introduction: >-2
 
 
   Fue fundada en 2006 en la pequeña ciudad de Almelo por Jos de Blok y un pequeño equipo de enfermeras profesionales que no estaban satisfechas con la prestación de atención médica por parte de las organizaciones tradicionales de atención domiciliaria en los Países Bajos. Según Sharda S. Nandram, la empresa ha creado un nuevo enfoque de gestión: “simplificación integradora”, que se caracteriza por una estructura organizativa simple y plana a través de la cual se puede proporcionar una amplia gama de servicios, facilitados por la tecnología de la información.
-industry: Q. Human health and social work activities
-geography: Netherlands
+industry: Q. Salud, servicios sociales
+geography: Holanda
 companySize: "> 500"
-profit: non-profit
+profit: Organización sin ánimo de lucro
 theory:
   - topic: Listening to Purpose
     title: Buurtzorg + aproximación
