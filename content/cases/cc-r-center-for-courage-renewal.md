@@ -4,10 +4,10 @@ tags: cases
 name: CC&R (Centro para la valentía y la renovación)
 date: 2020-11-09
 introduction: CC&R ha creado reuniones para el personal de bienvenida y despedida.
-industry: P. Education
-geography: USA
+industry: P. Educación
+geography: Estados Unidos
 companySize: 1-100
-profit: non-profit
+profit: Organización sin ánimo de lucro
 theory:
   - topic: Meetings
     title: CC&R ha creado reuniones para el personal de bienvenida y despedida.
