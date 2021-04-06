@@ -5,10 +5,10 @@ name: AES (Applied Energy Services)
 date: 2020-11-09
 introduction: La Corporación AES es una empresa que genera y distribuye energía
   eléctrica. AES tiene su sede en Arlington y Virginia.
-industry: D. Electricity, gas, steam and air conditioning supply
-geography: Global
+industry: D. Electricidad, gas, calefacción por vapor, aire acondicionado
+geography: En todo el mundo
 companySize: "> 500"
-profit: Profit
+profit: Organización con fines de lucro
 theory:
   - topic: Culture and Values
     title: AES used the practice of a survey to stimulate discussions about values
