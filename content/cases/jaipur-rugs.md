@@ -27,11 +27,12 @@ theory:
 
       *For more insight, please look at the following blog articles from the founder:*
 
-      [Look for purpose and passion when hiring](https://www.nkchaudhary.com/business/look-for-purpose-and-passion-when-hiring/)
 
-      [Know how to hire and retain your employees](https://www.nkchaudhary.com/business/know-how-to-hire-and-retain-your-employees/)
+      * [Look for purpose and passion when hiring](https://www.nkchaudhary.com/business/look-for-purpose-and-passion-when-hiring/)
 
-      [Nurture Creative Leadership](https://www.nkchaudhary.com/founders-mentality/the-need-for-creative-leadership/)
+      * [Know how to hire and retain your employees](https://www.nkchaudhary.com/business/know-how-to-hire-and-retain-your-employees/)
+
+      * [Nurture Creative Leadership](https://www.nkchaudhary.com/founders-mentality/the-need-for-creative-leadership/)
   - topic: Onboarding
     title: An Artisan Engagement Program
     content: "Onboarding programs are immersive and extensive. They offer induction
