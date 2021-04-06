@@ -1,7 +1,7 @@
 ---
 layout: case
 tags: cases
-name: CC&R (Center for Courage & Renewal)
+name: CC&R (Centro para la valentía y la renovación)
 date: 2020-11-09
 introduction: CC&R ha creado reuniones para el personal de bienvenida y despedida.
 industry: P. Education
