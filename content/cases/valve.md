@@ -3,11 +3,11 @@ layout: case
 tags: cases
 name: Valve
 date: 2020-11-17T14:57:26.749Z
-introduction: Software - US - 330 Employees - For Profit.
-industry: J. Information and communication
-geography: USA
+introduction: Software - EE. UU. - 330 empleados - Con fines de lucro.
+industry: J. Información y comunicación
+geography: Estados Unidos
 companySize: 201-500
-profit: Profit
+profit: Organización con fines de lucro
 theory:
   - topic: Compensation and incentives
     title: Valve utiliza un sistema de clasificación de pilas para determinar la
