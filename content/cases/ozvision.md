@@ -3,8 +3,8 @@ layout: case
 tags: cases
 name: Ozvision
 date: 2020-11-09
-introduction: Ozvision has experimented with innovative approaches. One is the
-  morning meeting called 'good or new'.
+introduction: Ozvision ha experimentado con enfoques innovadores. Una es la
+  reunión de la mañana llamada "buena o nueva".
 industry: R. Arte, entretenimiento
 geography: Japón
 companySize: 1-100
