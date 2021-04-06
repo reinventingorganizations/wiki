@@ -115,7 +115,8 @@ theory:
 
       *For more insight, please look at the following blog articles from the founder:* 
 
-      [Business is Art](https://www.nkchaudhary.com/business/business-is-art/)
+
+      * [Business is Art](https://www.nkchaudhary.com/business/business-is-art/)
   - topic: Evolutionary Purpose
     title: Be flexible, free and flow like water
     content: >-
