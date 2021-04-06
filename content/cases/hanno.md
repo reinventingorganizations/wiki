@@ -2,8 +2,9 @@
 layout: case
 tags: cases
 name: Hanno
-date: 2020-11-17T14:57:05.017Z
-introduction: Digital design agency - Worldwide - 8 'shipmates' - For Profit.
+date: 2021-04-06T04:07:17.309Z
+introduction: Agencia de diseño digital - Mundial - 8 'compañeros de barco' -
+  Con fines de lucro.
 industry: M. Investigación científica, alta tecnología
 geography: En todo el mundo
 companySize: 1-100
