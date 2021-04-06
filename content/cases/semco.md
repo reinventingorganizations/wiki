@@ -4,13 +4,13 @@ tags: cases
 name: Semco
 date: 2020-11-09
 introduction: >-
-  Diversified industrial and service conglomerate.
+  Conglomerado industrial y de servicios diversificado.
 
-  [Semco Partners](http://www.semco.com.br/en/about-us/) is the successor to Semco Group, a centrifuge manufacturer founded in the 1950s by Antonio Curt Semler. In the 1980s Antonio’s son, Ricardo Semler, took over the firm,  modernized management practices, and expanded the company’s range by moving heavily into the service sector, including environmental consultancy, facilities management, real estate brokerage, and inventory support.
-industry: C. Manufacturing
-geography: Brazil
+  [Semco Partners](http://www.semco.com.br/en/about-us/) es el sucesor de Semco Group, un fabricante de centrifugadoras fundado en la década de 1950 por Antonio Curt Semler. En la década de 1980, el hijo de Antonio, Ricardo Semler, asumió el control de la empresa, modernizó las prácticas de gestión y amplió la gama de la empresa al incursionar fuertemente en el sector de servicios, incluida la consultoría medioambiental, la gestión de instalaciones, la intermediación inmobiliaria y el soporte de inventario.
+industry: C. Fabricación
+geography: Brasil
 companySize: "> 500"
-profit: Profit
+profit: Organización con fines de lucro
 theory:
   - topic: board
     content: "Las reuniones del consejo parecen a menudo como ocasiones misteriosas
