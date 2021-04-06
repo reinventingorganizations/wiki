@@ -1,29 +1,29 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
 name: Elbdudler
-introduction: Social media consulting - Germany - 34 people - For Profit.
+date: 2020-11-09
+introduction: Consultoría en redes sociales - Alemania - 34 personas - Con fines de lucro.
 industry: M. Professional, scientific and technical activities
 geography: Germany
 companySize: 1-100
 profit: Profit
 theory:
   - topic: Compensation and incentives
-    title: People self-set their salaries based on 4 simple questions
+    title: Las personas autodefinen sus salarios en base a 4 simples preguntas
     content: >-
-      At Elbdudler, colleagues self-set their salaries using the 4 following
-      questions to trigger reflection and self-calibrate:
+      En Elbdudler, los colegas autoestablecen sus salarios utilizando las
+      siguientes 4 preguntas para desencadenar la reflexión y autocalibrarse:
 
 
-      * What do I need?
+      * ¿Qué necesito?
 
-      * What's my market value outside of Elbdudler?
+      * ¿Cuál es mi valor de mercado fuera de Elbdudler?
 
-      * How much do my colleagues earn?
+      * ¿Cuánto ganan mis compañeros?
 
-      * What can the company afford to pay?
+      * ¿Qué puede permitirse pagar la empresa?
 
 
-      All salary choices are public. So far, no one has ever made an outrageous choice. If someone asks for a very high salary, colleagues can ask him or her to make a proposal how the company could earn more money. It's up to that person to make the plan happen ^[[http://www.mopo.de/geld/deutschlands-coolster-chef-er-laesst-mitarbeiter-selbst--ueber-ihr-gehalt-bestimmen,5066776,29007608.html](https://www.mopo.de/news/politik-wirtschaft/geld/deutschlands-coolster-chef-er-laesst-mitarbeiter-selbst--ueber-ihr-gehalt-bestimmen-282620)]
+      Todas las opciones salariales son públicas. Hasta ahora, nadie ha tomado una decisión escandalosa. Si alguien pide un salario muy alto, los compañeros pueden pedirle que haga una propuesta de cómo la empresa podría ganar más dinero. Depende de esa persona hacer realidad el plan ^ [[http://www.mopo.de/geld/deutschlands-coolster-chef-er-laesst-mitarbeiter-selbst--ueber-ihr-gehalt-bestimmen,5066776, 29007608.html](https://www.mopo.de/news/politik-wirtschaft/geld/deutschlands-coolster-chef-er-laesst-mitarbeiter-selbst--ueber-ihr-gehalt-bestimmen-282620)]
 ---
