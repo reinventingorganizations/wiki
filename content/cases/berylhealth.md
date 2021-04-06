@@ -3,7 +3,7 @@ layout: case
 tags: cases
 name: BerylHealth
 date: 2020-11-09
-introduction: Call center services for hospitals - USA - For profit
+introduction: Servicios de centro de llamadas para hospitales - EE. UU. - Con fines de lucro
 industry: J. Information and communication
 geography: USA
 companySize: 201-500
