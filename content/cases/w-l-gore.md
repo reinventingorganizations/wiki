@@ -3,11 +3,11 @@ layout: case
 tags: cases
 name: W.L.Gore
 date: 2020-11-09
-introduction: Industrial conglomerate - Global - 10.000 associates - For Profit
-industry: C. Manufacturing
-geography: Global
+introduction: Conglomerado industrial - Global - 10.000 asociados - Con fines de lucro
+industry: C. Fabricación
+geography: En todo el mundo
 companySize: "> 500"
-profit: Profit
+profit: Organización con fines de lucro
 theory:
   - topic: Compensation and incentives
     title: "Gore utiliza un sistema de clasificación, calibrado por dos paneles,
