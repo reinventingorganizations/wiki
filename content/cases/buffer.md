@@ -1,68 +1,64 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
 name: Buffer
-introduction: Social media start up - Global - 40 people - For Profit.
+date: 2020-11-09
+introduction: Inicio de redes sociales - Global - 40 personas - Con fines de lucro.
 industry: M. Professional, scientific and technical activities
 geography: Global
 companySize: 1-100
 profit: Profit
 theory:
   - topic: Compensation and incentives
-    title: "Buffer practices radical transparency, and their process relies on
-      self-set salaries using the advice process. "
+    title: Buffer practica la transparencia radical y su proceso se basa en salarios
+      autoestablecidos utilizando el proceso de asesoramiento.
     content: >-
-      #### Salary components
+      #### Componentes salariales
 
 
-      The process of setting one's salary at Buffer focuses on a formula with 5 components:
+      El proceso de fijar el salario en Buffer se centra en una fórmula con 5 componentes:
 
 
-      * **Base Component**: A general base level for each type role
+      *  **Componente base** : un nivel básico general para cada tipo de rol
 
-      * **Location**: Cost of living in each teammate’s city (they use Numbeo to help with this)
+      *  **Ubicación** : costo de vida en la ciudad de cada compañero de equipo (usan Numbeo para ayudar con esto)
 
-      * **Family**: An allowance for kids, parents, partners or other dependents
+      *  **Familia** : un subsidio para niños, padres, socios u otros dependientes
 
-      * **Journey**: Journey correlates to expanded role, leadership, and how often the teammate is sought out for advice
+      *  **Journey** : Journey se correlaciona con el rol ampliado, el liderazgo y la frecuencia con la que se busca consejo al compañero de equipo.
 
-      * **Experience**: Putting a value to the growth of skills and knowledge that teammates accrue over time
-
-
-      \
-
-      ***Advice Process***
-
-
-      Each person has the ability to adjust each of these components to what feels fair for their case, using the formula as a general guideline. For example, for the location component, if you're in a C bracket but are traveling for several months through quite a few B cities, you might decide to go somewhere in between those two.
+      *  **Experiencia** : poner en valor el crecimiento de las habilidades y el conocimiento que los compañeros de equipo acumulan a lo largo del tiempo.
 
 
       \
+       ***Proceso de asesoramiento*** 
 
-      ***Salary sounding board***
-
-
-      A key element of this process is the “Salary Sounding Board.” This is a rotating group of team members whose role is to assist in finding an equilibrium for salary adjustments from a position of higher perspective.
+      Cada persona tiene la capacidad de ajustar cada uno de estos componentes a lo que considere justo para su caso, utilizando la fórmula como guía general. Por ejemplo, para el componente de ubicación, si está en un grupo C pero viaja durante varios meses a través de bastantes ciudades B, puede decidir ir en algún lugar entre esos dos.
 
 
-      The Sounding Board helps each salary adjustment find its equilibrium through various methods, which could change depending on the situation. Some approaches could include:
+      \
+       ***Caja de resonancia salarial*** 
+
+      Un elemento clave de este proceso es la "Junta de Sondeo Salarial". Este es un grupo rotatorio de miembros del equipo cuya función es ayudar a encontrar un equilibrio para los ajustes salariales desde una posición de mayor perspectiva.
 
 
-      * Suggesting team members who might provide a useful perspective on a salary adjustment and who might not have been sought for advice or been heard yet
-
-      * Cultivating transparency through open discussions and advice
-
-      * Encouraging honesty in the advice process, even when it may be challenging (for example, if someone feels that a salary adjustment is too high)
-
-      * Sensing adjustments (or lack of adjustments) that feel out of equilibrium
+      La caja de resonancia ayuda a que cada ajuste salarial encuentre su equilibrio a través de varios métodos, que podrían cambiar según la situación. Algunos enfoques podrían incluir:
 
 
-      The Sounding Board pays attention to how salary adjustments are proceeding across the entire company, to help the process stay healthy and encouraging while also balancing all perspectives and the overall financial wellbeing of Buffer.
+      * Sugerir miembros del equipo que podrían proporcionar una perspectiva útil sobre un ajuste salarial y que es posible que aún no se hayan buscado para obtener asesoramiento o no se les haya escuchado
+
+      * Cultivar la transparencia a través de discusiones y consejos abiertos
+
+      * Fomentar la honestidad en el proceso de asesoramiento, incluso cuando puede ser un desafío (por ejemplo, si alguien siente que un ajuste salarial es demasiado alto)
+
+      * Detección de ajustes (o falta de ajustes) que se sienten fuera de equilibrio
 
 
-      #### Transparency
+      El Sounding Board presta atención a cómo se están llevando a cabo los ajustes salariales en toda la empresa, para ayudar a que el proceso se mantenga saludable y alentador, al mismo tiempo que equilibra todas las perspectivas y el bienestar financiero general de Buffer.
 
 
-      The compensation of every colleague in Buffer is public, not only to colleagues themselves, but even to the [outside world](https://buffer.com/transparency). ^[Courtney Seiter, colleague at Buffer, May 2015]
+      #### Transparencia
+
+
+      La compensación de cada colega en Buffer es pública, no solo para los propios colegas, sino incluso para el [mundo exterior](https://buffer.com/transparency). ^ \ \[Courtney Seiter, colega de Buffer, mayo de 2015]
 ---
