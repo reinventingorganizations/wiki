@@ -3,102 +3,101 @@ layout: case
 tags: cases
 name: HolacracyOne
 date: 2020-11-09
-introduction: Founded in 2007 by Brian Robertson and Tom Thomison, HolacracyOne
-  is the company spearheading the development of the Holacracy framework.
-industry: S. Other service activities
+introduction: Fundada en 2007 por Brian Robertson y Tom Thomison, HolacracyOne
+  es la empresa que encabeza el desarrollo del marco de la Holocracia.
+industry: V. Otros
 geography: USA
 companySize: 1-100
-profit: Profit
+profit: Organización con fines de lucro
 theory:
   - topic: Meetings
-    title: HolacracyOne has created an effective set of meetings serving a specific
-      purpose
+    title: HolacracyOne ha creado un conjunto eficaz de reuniones con un propósito
+      específico
     content: >-
-      In Holacracy there are 4 meeting types:
+      En Holacracy hay 4 tipos de reuniones:
 
 
-      All meetings start with a 'check-in" and close with a 'check-out'.
+      Todas las reuniones comienzan con un "check-in" y cierran con un "check-out".
 
 
-      Tactical meetings:  These short daily or weekly meetings serve the operational process. Here work is coordinated. Operational processes are addressed, actions decided, and things get done. 
+      Reuniones tácticas: estas breves reuniones diarias o semanales sirven al proceso operativo. Aquí se coordina el trabajo. Se abordan los procesos operativos, se deciden las acciones y se hacen las cosas.
 
 
-      Strategic meetings:  These rare meetings have no specific form and process thinking about how to best serve the [evolutionary purpose.](../evolutionary-purpose/)
+      Reuniones estratégicas: estas raras reuniones no tienen una forma y un proceso específicos para pensar en cómo servir mejor al \[propósito evolutivo] (../ evolutionary-propósito /)
 
 
-      Special topic meetings:   Held when a topic calls for special attention. These meetings also have no specific form.
+      Reuniones de temas especiales: se llevan a cabo cuando un tema requiere atención especial. Estas reuniones tampoco tienen una forma específica.
 
 
-      Governance meetings:  These meetings are restricted to roles, and collaboration; not the rough and tumble of getting work done. The latter are for tactical meetings.  Governance meetings are held generally every month. They follow strict process to ensure everybone’s voice is heard and that no one can dominate [decision-making](../decision-making/). A facilitator guides the proceeding via the following process:
+      Reuniones de gobernanza: estas reuniones se limitan a funciones y colaboración; no la rudeza de hacer el trabajo. Estos últimos son para reuniones tácticas. Las reuniones de gobierno se llevan a cabo generalmente todos los meses. Siguen un proceso estricto para garantizar que se escuche la voz de todos y que nadie pueda dominar \[la toma de decisiones] (../ toma de decisiones /). Un facilitador guía el procedimiento a través del siguiente proceso:
 
 
-      1. Present proposal
+      1. Presentar propuesta
 
-      2. Clarifying questions
+      2. Preguntas aclaratorias
 
-      3. Reaction round
+      3. Ronda de reacción
 
-      4. Amend and clarify
+      4. Modificar y aclarar
 
-      5. Objection round
+      5. Ronda de objeciones
 
-      6. Integration
+      6. Integración
 
 
-      The process might sound formal and needs to get used to, but people who use it report they find it deeply liberating and dramatically efficient.
+      El proceso puede parecer formal y necesita acostumbrarse, pero las personas que lo usan informan que lo encuentran profundamente liberador y dramáticamente eficiente.
   - topic: Coordination
-    title: HolocracyOne has set-up a company-wide Role Market Place to help
-      coordinate workload
+    title: HolocracyOne ha creado un mercado de roles en toda la empresa para ayudar
+      a coordinar la carga de trabajo
     content: >-
-      [HolacracyOne ](https://www.holacracy.org/holacracyone/about)has set up a
-      company-wide Role Marketplace in order to make trading roles easy. On the
-      company’s intranet is a file where colleagues can “rate” every role they
-      currently fill, using a scale of -3 to +3:
+      [HolacracyOne](https://www.holacracy.org/holacracyone/about) ha
+      establecido un mercado de roles en toda la empresa para facilitar los
+      roles comerciales. En la intranet de la empresa hay un archivo donde los
+      colegas pueden "calificar" cada puesto que ocupan actualmente, utilizando
+      una escala de -3 a +3:
 
 
-      * If they find the role energizing (+) or draining (-). 
+      * Si encuentran el papel energizante (+) o agotador (-).
 
-      * If they find their talents aligned (+) or not (-) with this role. 
+      * Si encuentran sus talentos alineados (+) o no (-) con este rol.
 
-      * If they find their current skills and knowledge conducive to (+) or limiting in (-) this role.
+      * Si encuentran que sus habilidades y conocimientos actuales conducen a (+) o limitan en (-) este rol.
 
 
-      Using the same scale of -3 to +3, people can also signal their interest in roles currently filled by other people. The marketplace thus helps people wanting to offload or pick up roles.
+      Usando la misma escala de -3 a +3, las personas también pueden indicar su interés en los roles que actualmente ocupan otras personas. El mercado, por tanto, ayuda a las personas que desean descargar o asumir funciones.
   - topic: Recruitment
-    title: Team members qualify candidates based on fit for organization, purpose
-      and role.
+    title: Los miembros del equipo califican a los candidatos según su adecuación a
+      la organización, el propósito y el rol.
     content: >-
-      [HolacracyOne](http://www.holacracyone.com/) is a training, consulting,
-      and research company dedicated to spreading a new organizational model,
-      “holcacray”, originally developed by Brian Robertson and his team at
-      Ternary Software, a Philadelphia-based start-up. After transferring
-      Ternary to new leadership, Robertson co-founded HolacracyOne.
+      
+
+      [HolacracyOne](http://www.holacracyone.com/) es una empresa de formación, consultoría e investigación dedicada a difundir un nuevo modelo organizativo, "holcacray", desarrollado originalmente por Brian Robertson y su equipo en Ternary Software, Filadelfia. puesta en marcha basada en Después de transferir a Ternary a un nuevo liderazgo, Robertson cofundó HolacracyOne.
 
 
-      During the recruitment process, teammates check if
+      Durante el proceso de reclutamiento, los compañeros de equipo verifican si
 
 
-      * the person is “fit for organization” i.e. Is this person in resonance and energized by the evolutionary purpose, intrinsically motivated and comfortable with complex ever changing environment.
+      * la persona está "apta para la organización", es decir, ¿está esta persona en resonancia y energizada por el propósito evolutivo, intrínsecamente motivada y cómoda con un entorno complejo en constante cambio?
 
-      * If yes, they check if the candidate is “fit for role”.
+      * En caso afirmativo, comprueban si el candidato es "apto para el puesto".
   - topic: Role Definition and Allocation
-    title: An internal "Role Market place" to help in trading roles
+    title: Un "mercado de roles" interno para ayudar en los roles comerciales
     content: >-
-      HolacracyOne has set up a company-wide Role Market Place in order to make
-      trading roles easy (in holacratic language, this is an “app;” it’s not
-      part of the basic operating system). On the company’s intranet is a file
-      where colleagues can “rate” every role they currently fill, using a scale
-      of -3 to +3:
+      HolacracyOne ha establecido un mercado de roles en toda la empresa para
+      facilitar los roles comerciales (en lenguaje holacrático, esta es una
+      "aplicación"; no es parte del sistema operativo básico). En la intranet de
+      la empresa hay un archivo donde los colegas pueden "calificar" cada puesto
+      que ocupan actualmente, utilizando una escala de -3 a +3:
 
 
-      * If they find the role energizing (+) or draining (-).
+      * Si encuentran el papel energizante (+) o agotador (-).
 
-      * If they find their talents aligned (+) or not (-) with this role.
+      * Si encuentran sus talentos alineados (+) o no (-) con este rol.
 
-      * If they find their current skills and knowledge conducive to (+) or limiting in (-) this role.
+      * Si encuentran que sus habilidades y conocimientos actuales conducen a (+) o limitan en (-) este rol.
 
 
-      Using the same scale of -3 to +3, people can also signal their interest in roles currently filled by other people. The market place helps people wanting to offload or pick up roles.
+      Usando la misma escala de -3 a +3, las personas también pueden indicar su interés en los roles que actualmente ocupan otras personas. El mercado ayuda a las personas que desean descargar o asumir roles.
   - topic: Commitment, Working Hours and Flexibility
     title: HolacracyOne utiliza una práctica de reuniones regulares para que sus
       colegas compartan y discutan sobre su compromiso.
@@ -111,18 +110,18 @@ theory:
 
       <!--EndFragment-->
   - topic: Compensation and incentives
-    title: "HolacracyOne, the small consultancy/training company behind Holacracy,
-      uses a ranking mechanism, which feeds an algorithm that allocates
-      colleagues to salary bands. "
+    title: HolacracyOne, la pequeña empresa de consultoría / capacitación detrás de
+      Holacracy, utiliza un mecanismo de clasificación, que alimenta un
+      algoritmo que asigna a los colegas a las bandas salariales.
     content: >-
-      Once a year, colleagues at HolacracyOne fill out a survey for all their
-      colleagues, consisting of only two questions:
+      Una vez al año, los colegas de HolacracyOne completan una encuesta para
+      todos sus colegas, que consta de solo dos preguntas:
 
 
-      * “This person contributes (much) more or (much) less than me.” (On a scale of -3 to +3)
+      * "Esta persona aporta (mucho) más o (mucho) menos que yo". (En una escala de -3 a +3)
 
-      * “This person has a good basis to evaluate me.” (On a scale of 1 to 5)
+      * "Esta persona tiene una buena base para evaluarme". (En una escala de 1 a 5)
 
 
-      A simple algorithm crunches through the answers and groups colleagues into a few salary buckets. The more experienced, knowledgeable, and hard-working people land in the higher buckets that earn bigger salaries; the more junior, less experienced colleagues naturally gravitate toward buckets with lower salaries.^[Interview Frederic Laloux with Tom Thomison, 2013]
+      Un algoritmo simple analiza las respuestas y agrupa a los colegas en unos pocos grupos salariales. Las personas más experimentadas, informadas y trabajadoras llegan a los niveles más altos que ganan salarios más altos; los colegas más jóvenes y menos experimentados gravitan naturalmente hacia categorías con salarios más bajos. ^ \ \[Entrevista a Frederic Laloux con Tom Thomison, 2013]
 ---
