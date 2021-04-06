@@ -30,4 +30,14 @@ theory:
       [Know how to hire and retain your employees](https://www.nkchaudhary.com/business/know-how-to-hire-and-retain-your-employees/)
 
       [Nurture Creative Leadership](https://www.nkchaudhary.com/founders-mentality/the-need-for-creative-leadership/)
+  - topic: Onboarding
+    title: An Artisan Engagement Program
+    content: "Onboarding programs are immersive and extensive. They offer induction
+      for joiners and run up to 5 days.  There they learn about every vertical
+      from the grassroots (villages) to the head office. This includes even the
+      artisans. HR department arranges for representatives from each department
+      to present about their work, so each new joiner gets a common
+      understanding. A lot of resources, including videos, and business process
+      are shown and explained. The Artisan Engagement Program ensures they have
+      a holistic understanding of the company and its business model. \r\n"
 ---
