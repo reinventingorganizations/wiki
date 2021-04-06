@@ -4,13 +4,14 @@ tags: cases
 name: Hanno
 date: 2020-11-17T14:57:05.017Z
 introduction: Digital design agency - Worldwide - 8 'shipmates' - For Profit.
-industry: M. Professional, scientific and technical activities
-geography: Global
+industry: M. Investigación científica, alta tecnología
+geography: En todo el mundo
 companySize: 1-100
-profit: Profit
+profit: Organización con fines de lucro
 theory:
   - topic: Compensation and incentives
-    title: Evolution of open salary setting from algorithm to advice process.
+    title: Evolución de la configuración salarial abierta desde el algoritmo hasta
+      el proceso de asesoramiento.
     content: >-
       #### **Summary**
 
@@ -55,5 +56,5 @@ theory:
       #### **Further information**
 
 
-      Details of this journey and its further evolution are documented in Hanno's online logbook.^[Source: https://logbook.hanno.co/choose-your-own-salary/]
+      Details of this journey and its further evolution are documented in Hanno's online logbook.^\[Source: https://logbook.hanno.co/choose-your-own-salary/]
 ---
