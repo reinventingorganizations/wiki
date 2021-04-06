@@ -4,10 +4,10 @@ tags: cases
 name: Buffer
 date: 2020-11-09
 introduction: Inicio de redes sociales - Global - 40 personas - Con fines de lucro.
-industry: M. Professional, scientific and technical activities
-geography: Global
+industry: M. Investigación científica, alta tecnología
+geography: En todo el mundo
 companySize: 1-100
-profit: Profit
+profit: Organización con fines de lucro
 theory:
   - topic: Compensation and incentives
     title: Buffer practica la transparencia radical y su proceso se basa en salarios
