@@ -2,7 +2,7 @@
 layout: case
 tags: cases
 name: Schule im Aufbruch
-date: 2020-11-09
+date: 2021-04-06T04:57:57.688Z
 introduction: >-
   Servicios de consultoría - Alemania - 6 empleados - Sin ánimo de lucro
 
@@ -13,10 +13,10 @@ introduction: >-
   Para permitir el desarrollo del potencial en la escuela, se requiere una nueva cultura de aprendizaje, diversos formatos de aprendizaje y una actitud apreciativa. Lo que realmente cuenta: La confianza, el aprecio, la relación, la responsabilidad, el sentido.
 
   La Escuela en Marcha defiende una educación holística y transformadora, tal como se formula en el Plan de Acción Mundial de la UNESCO sobre la Educación para el Desarrollo Sostenible. Se trata de asumir la responsabilidad por uno mismo, por los demás seres humanos y por nuestro planeta.
-industry: P. Education
-geography: Germany
+industry: P. Educación
+geography: Alemania
 companySize: 1-100
-profit: non-profit
+profit: Organización sin ánimo de lucro
 theory:
   - topic: Evolutionary Purpose
     content: '"Schule im Aufbruch" (en inglés Schools on the Move) es una
