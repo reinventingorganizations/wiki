@@ -56,9 +56,10 @@ theory:
 
       *For more insight, see the following blog articles from the founder:* 
 
-      [Benefits of Transforming an Organization into a Learning Institution](https://www.nkchaudhary.com/founders-mentality/benefits-of-transforming-an-organization-into-a-learning-institution/)
 
-      [Unlearning is Important to Business](https://www.nkchaudhary.com/founders-mentality/unlearning-is-important-to-business/)
+      * [Benefits of Transforming an Organization into a Learning Institution](https://www.nkchaudhary.com/founders-mentality/benefits-of-transforming-an-organization-into-a-learning-institution/)
+
+      * [Unlearning is Important to Business](https://www.nkchaudhary.com/founders-mentality/unlearning-is-important-to-business/)
   - topic: Environmental and Social Management
     title: Connecting rural craftsmanship to global markets
     content: >-
