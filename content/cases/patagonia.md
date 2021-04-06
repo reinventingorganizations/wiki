@@ -2,73 +2,78 @@
 layout: case
 tags: cases
 name: Patagonia
-date: 2020-11-17T14:59:20.385Z
-introduction: >-
-  **Patagonia, Inc.** is an American clothing company that markets and sells
-  outdoor clothing. The company was founded by Yvon Chouinard in 1973 and is
-  based in Ventura, California.Its logo is the outline of Mount Fitz Roy, the
-  border between Chile and Argentina, in the region of Patagonia.
+date: 2021-04-06T04:53:51.087Z
+introduction: >-2
+  
 
+   **Patagonia, Inc.**  es una empresa de ropa estadounidense que comercializa y vende ropa para exteriores. La empresa fue fundada por Yvon Chouinard en 1973 y tiene su sede en Ventura, California, y su logo es el contorno del Monte Fitz Roy, la frontera entre Chile y Argentina, en la región de la Patagonia.
 
-  *This is how Patagonia speaks out about its purpose: "We at **Patagonia** know that all life on earth is threatened with extinction. We make it our goal to use all our resources to do something about it: our company, our investments, our voice and our imagination." ^\[test]*
-industry: S. Other service activities
-geography: USA
+  * Así es como Patagonia habla sobre su propósito: "Nosotros en  **Patagonia**  sabemos que toda la vida en la tierra está en peligro de extinción. Nuestro objetivo es utilizar todos nuestros recursos para hacer algo al respecto: nuestra empresa, nuestra inversiones, nuestra voz y nuestra imaginación ".
+industry: S. Servicios públicos
+geography: Estados Unidos
 companySize: "> 500"
-profit: Profit
+profit: Organización con fines de lucro
 theory:
   - topic: board
-    title: Adoption of the B Corp certification
-    content: "[Patagonia ](http://www.patagonia.com/)became the first certified B
-      Corp in California in January 2012. A B Corporation is a for-profit
-      company with a specific social or environmental purpose. The board is
-      obliged to protect these non-financial interests."
+    title: Adopción de la certificación B Corp
+    content: "[Patagonia](http://www.patagonia.com/) se convirtió en la primera
+      Corporación B certificada en California en enero de 2012. Una Corporación
+      B es una empresa con fines de lucro con un propósito social o ambiental
+      específico. La junta está obligada a proteger estos intereses no
+      financieros."
   - topic: sales-marketing
-    title: Marketing as “Don’t Buy Our Product”?!
-    content: "Where most brands use marketing to convert prospects into customers,
-      [Patagonia ](https://eu.patagonia.com/fr/fr/home/)wants to turn customers
-      into activists. Patagonia is famous for having run full-page ads reading,
-      “Don’t buy this jacket.” The ads were part of its “Common Threads
-      Partnership.” Patagonia reckons that many of us in the developed world
-      have enough clothes in our closets to keep us warm for a lifetime. And yet
-      we keep buying new clothes, which are environmentally harmful to produce
-      and will end up in a landfill. The Common Threads Partnership takes a
-      serious stab at reducing (making clothes that last longer), repairing
-      (Patagonia repairs clothes for its customers), reusing (the company
-      resells your used clothes on eBay or in their stores’ Worn Wear section),
-      and recycling (you can return your old clothes to Patagonia and they
-      recycle them). Will this initiative harm Patagonia’s growth in the short
-      term? Yes. Every repaired and every reused jacket is one less jacket
-      bought. Will it increase its growth in the long term, through higher
-      customer loyalty? Perhaps. But Patagonia’s decision wasn’t driven by
-      forecasts and financials. The company chose the path its purpose called
-      for. For more on Patagonia’s marketing approach see, [The Purpose-Driven
-      Marketer: How Patagonia Uses Storytelling To Turn Consumers Into
-      Activists.](https://www.fastcompany.com/3038557/the-purpose-driven-market\
-      er-how-patagonia-uses-storytelling-to-turn-consume)"
+    title: ¿El marketing como "no compre nuestro producto"?
+    content: 'Mientras que la mayoría de las marcas utilizan el marketing para
+      convertir prospectos en clientes,
+      [Patagonia](https://eu.patagonia.com/fr/fr/home/) quiere convertir a los
+      clientes en activistas. Patagonia es famosa por haber publicado anuncios
+      de página completa que dicen: "No compre esta chaqueta". Los anuncios
+      formaban parte de su "Asociación de subprocesos comunes". Patagonia
+      reconoce que muchos de nosotros en el mundo desarrollado tenemos
+      suficiente ropa en nuestros armarios para mantenernos calientes durante
+      toda la vida. Y, sin embargo, seguimos comprando ropa nueva, cuya
+      producción es dañina para el medio ambiente y terminará en un vertedero.
+      Common Threads Partnership se esfuerza seriamente por reducir (hacer ropa
+      que dure más), reparar (Patagonia repara la ropa para sus clientes),
+      reutilizar (la empresa revende la ropa usada en eBay o en la sección de
+      ropa usada de sus tiendas) y reciclar. (puedes devolver tu ropa vieja a la
+      Patagonia y la reciclan). ¿Esta iniciativa perjudicará el crecimiento de
+      Patagonia en el corto plazo? Si. Cada chaqueta reparada y reutilizada es
+      una chaqueta menos comprada. ¿Incrementará su crecimiento a largo plazo, a
+      través de una mayor fidelización de los clientes? Quizás. Pero la decisión
+      de Patagonia no fue impulsada por pronósticos y finanzas. La empresa
+      eligió el camino que requería su propósito. Para obtener más información
+      sobre el enfoque de marketing de Patagonia, consulte \[The Purpose-Driven
+      Marketer: How Patagonia Uses Storytelling to Turn Consumers into
+      Activists.]
+      (Https://www.fastcompany.com/3038557/the-purpose-driven-marketer-how-patagonia
+      -utiliza-la-narración-para-girar-consumir)'
   - topic: Information Flow
-    title: Extend information flow throughout the market, incorporating suppliers
-      and customers
-    content: "[Patagonia](https://eu.patagonia.com/fr/fr/home/) has gone beyond the
-      boundaries of the organization with its \"Footprint Chronicles\".
-      Information transparency has been extended to suppliers and customers.
-      Customers can see where everthing is made, how it is made, what the
-      conditions are like, what the impact of transportation and water usage is
-      on the overall carbon footprint. A major part of the organization's
-      purpose is served by employing this radical degree of honesty with regard
-      to information and information flow when dealing with outside parties.
-      Information exchange with suppliers and customers via email and internet
-      is used to fuel continous improvement."
+    title: Ampliar el flujo de información en todo el mercado, incorporando
+      proveedores y clientes.
+    content: '[Patagonia](https://eu.patagonia.com/fr/fr/home/) ha traspasado los
+      límites de la organización con su "Footprint Chronicles". La transparencia
+      de la información se ha extendido a proveedores y clientes. Los clientes
+      pueden ver dónde se produce todo, cómo se hace, cómo son las condiciones,
+      cuál es el impacto del transporte y el uso del agua en la huella de
+      carbono general. Una parte importante del propósito de la organización se
+      logra empleando este grado radical de honestidad con respecto a la
+      información y el flujo de información cuando se trata con partes externas.
+      El intercambio de información con proveedores y clientes a través de
+      correo electrónico e Internet se utiliza para impulsar la mejora
+      continua.'
   - topic: Recruitment
-    title: Hiring is a relatively slow process, performed by peers over multiple
-      interviews.
+    title: La contratación es un proceso relativamente lento, realizado por pares en
+      múltiples entrevistas.
     content: >-
-      Yvon Chouinard founded what would later be called
-      [Patagonia](http://www.patagonia.com/) in 1957 to produce climbing pitons.
-      The California-based company has grown into a leading outdoor apparel
-      maker, committed to being a positive influence on the environment.
+      Yvon Chouinard fundó lo que más tarde se llamaría
+      [Patagonia](http://www.patagonia.com/) en 1957 para producir pitones
+      trepadores. La compañía con sede en California se ha convertido en un
+      fabricante líder de ropa para exteriores, comprometido con ser una
+      influencia positiva en el medio ambiente.
 
 
-      In Patagonia hire is made slowly with interview from peers, as much as possible from withiɳ.
+      En la Patagonia la contratación se realiza de forma paulatina con entrevistas de pares, en la medida de lo posible desde fuera.
   - topic: Environmental and Social Management
     content: >-
       <!--StartFragment-->
@@ -92,23 +97,26 @@ theory:
       de la organización. Para su sorpresa, han encontrado que la alineación a
       los valores no socava el rendimiento financiero, sino todo lo contrario.
   - topic: Ownership
-    title: A privately held company formalizes its practices.
-    content: Patagonia, the outdoor apparel maker, is 100% owned by its founder,
-      Yves Chouinard and his wife.^[Patagonia's Founder Is America's Most
-      Unlikely Business Guru; Wall St. Journal Magazine; April 26, 2012] Mr.
-      Chouinard can therefore presumably do whatever he wants with Patagonia,
-      and this no doubt has given him great freedom to guide the company into a
-      Teal organization. Interestingly though, Patagonia has gone to the trouble
-      of attaining benefit corporation status, perhaps as a result of
-      Chouinard’s desire to give the company some protection from potential
-      future owners or perhaps out of a desire to make a symbolic gesture.
-      Patagonia has gone even further by becoming the first Californian company
-      to achieve “B Corp certification” at the beginning of 2012 (while often
-      confused, “benefit corporation” and “B Corp” are not the same). B Corp
-      certification is a private certification issued by B Lab, a global
-      non-profit, to companies which meet its standards of “verified, overall
-      social and environmental performance, public transparency and legal
-      accountability.”^[<https://www.bcorporation.net/what-are-b-corps/about-b-lab>]
+    title: Una empresa privada formaliza sus prácticas.
+    content: "Patagonia, el fabricante de ropa para actividades al aire libre, es
+      100% propiedad de su fundador, Yves Chouinard y su esposa. ^ \\ \\[El
+      fundador de Patagonia es el gurú empresarial más improbable de Estados
+      Unidos; Revista Wall St. Journal; 26 de abril de 2012] Por lo tanto, el
+      Sr. Chouinard presumiblemente puede hacer lo que quiera con Patagonia, y
+      esto sin duda le ha dado una gran libertad para guiar a la empresa hacia
+      una organización Teal. Curiosamente, sin embargo, Patagonia se ha tomado
+      la molestia de obtener el estatus de corporación de beneficios, tal vez
+      como resultado del deseo de Chouinard de brindarle a la compañía algo de
+      protección de posibles futuros propietarios o tal vez por el deseo de
+      hacer un gesto simbólico. Patagonia ha ido aún más lejos al convertirse en
+      la primera empresa californiana en lograr la “certificación B Corp” a
+      principios de 2012 (aunque a menudo se confunde, “corporación de
+      beneficios” y “B Corp” no son lo mismo). La certificación B Corp es una
+      certificación privada emitida por B Lab, una organización global sin fines
+      de lucro, a empresas que cumplen con sus estándares de “desempeño social y
+      ambiental general verificado, transparencia pública y responsabilidad
+      legal”. ^ \\ \\[<Https: // www .bcorporation.net / what-are-b-corps /
+      about-b-lab>]"
   - topic: wholeness
     title: Niños en las reuniones
     content: >-
@@ -121,24 +129,25 @@ theory:
       <!--EndFragment-->
   - topic: Evolutionary Purpose
     content: >-
-      Yvon Chouinard, the founder and owner of Patagonia, didn’t set out to
-      create a business at all, initially. Probably one of the people most
-      unlikely to become a business founder, he stumbled on the purpose that
-      would turn into a $540 million company employing 1,350 people.
+      Yvon Chouinard, fundador y propietario de Patagonia, no se propuso crear
+      un negocio en un principio. Probablemente una de las personas con menos
+      probabilidades de convertirse en fundador de un negocio, tropezó con el
+      propósito que se convertiría en una empresa de $ 540 millones que empleaba
+      a 1.350 personas.
 
 
-      As a kid, he spent every free minute outdoors— rock-climbing, diving, and training hawks for hunting. A misfit in school, Chouinard remembers that the classroom was mostly “an opportunity for me to practice holding my breath, so that on weekends I could free-dive deeper to catch the abundant abalone and lobster off the Malibu coast.” When he left school, he lived with no income, finding shelter in shacks on the beach or near the mountains, hopping on freight trains in pursuit of the next climb or dive. In 1957, he bought a used coal-fired forge from a junkyard and taught himself blacksmithing to make his own climbing pitons. When a few friends asked him to produce pitons for them, he found a way to sustain his simple lifestyle. For years, he would fabricate pitons in the winter months, making just enough money to spend April to July on the walls of Yosemite, devote the summer to the mountains of Wyoming, and then go back to Yosemite in the fall until snow fell in November. He wouldn’t have been considered a businessman by anybody, least of all himself. Now, as the owner of a multimillion-dollar company, he has turned into one, but he hasn’t lost sight of the lights and shadows of the profession:
+      Cuando era niño, pasaba cada minuto libre al aire libre: escalando rocas, buceando y entrenando halcones para cazar. Un inadaptado en la escuela, Chouinard recuerda que el aula era principalmente "una oportunidad para que yo practicara contener la respiración, de modo que los fines de semana pudiera bucear más profundo para atrapar el abulón y la langosta en la costa de Malibú". Cuando dejó la escuela, vivía sin ingresos, encontrando refugio en chozas en la playa o cerca de las montañas, subiéndose a trenes de carga en busca de la próxima escalada o inmersión. En 1957, compró una forja de carbón usada en un depósito de chatarra y se enseñó a sí mismo a hacer herrería para fabricar sus propios pitones de escalada. Cuando algunos amigos le pidieron que les produjera pitones, encontró la manera de mantener su estilo de vida sencillo. Durante años, fabricaba pitones en los meses de invierno, ganando el dinero suficiente para gastar de abril a julio en las paredes de Yosemite, dedicaba el verano a las montañas de Wyoming y luego regresaba a Yosemite en el otoño hasta que nevaba en noviembre. . Nadie lo habría considerado un hombre de negocios, y menos él mismo. Ahora, como dueño de una empresa multimillonaria, se ha convertido en una, pero no ha perdido de vista las luces y sombras de la profesión:
 
 
-      > "I’ve been a businessman for almost fifty years. It’s as difficult for me to say those words as it is for someone to admit to being an alcoholic or a lawyer. I’ve never respected the profession. It’s business that has to take the majority of the blame for being the enemy of nature, for destroying native cultures, for taking from the poor and giving to the rich, and poisoning the earth with the effluent from its factories. Yet business can produce food, cure disease, control population, employ people, and generally enrich our lives. And it can do these good things and make a profit without losing its soul."^\[Yvon Chouinard, Let My People Go Surfing, p. 3.]
+      > "Soy empresario desde hace casi cincuenta años. Es tan difícil para mí pronunciar esas palabras como para alguien admitir que es alcohólico o abogado. Nunca he respetado la profesión. Es un negocio lo que tiene que ser asumir la mayor parte de la culpa por ser el enemigo de la naturaleza, por destruir las culturas nativas, por quitarle a los pobres y dárselo a los ricos, y envenenar la tierra con el efluente de sus fábricas. Sin embargo, las empresas pueden producir alimentos, curar enfermedades, controlar población, emplear personas y, en general, enriquecer nuestras vidas. Y puede hacer estas cosas buenas y obtener ganancias sin perder su alma ". ^ \ \[Yvon Chouinard, Let My People Go Surfing, p. 3.]
 
 
-      Chouinard’s defining experience as a businessman came as he climbed up a mountain in 1970.
+      La experiencia definitoria de Chouinard como empresario se produjo cuando subió una montaña en 1970.
 
 
-      > "After an ascent of the Nose route on El Capitan, which had been pristine a few summers earlier, I came home disgusted with the degradation I had seen. The repeated hammering of hard steel pitons, during both placement and removal in the same fragile cracks, were severely disfiguring the rock. Frost \[his friend and partner in the forge] and I decided we would phase out the piton business. … Pitons were the mainstay of our business, but we were destroying the very rocks we loved."^\[Yvon Chouinard, Let My People Go Surfing, p. 31.]
+      > "Después de un ascenso de la ruta de la Nariz en El Capitán, que había estado impecable unos veranos antes, llegué a casa disgustado por la degradación que había visto. El martilleo repetido de pitones de acero duro, tanto durante la colocación como en la extracción en el grietas, estaban desfigurando severamente la roca. Frost \ \[su amigo y socio en la forja] y yo decidimos eliminar gradualmente el negocio de los pitones ... Los pitones eran el pilar de nuestro negocio, pero estábamos destruyendo las mismas rocas que amamos ". ^ \ \[Yvon Chouinard, Deja que mi gente vaya a surfear, p. 31.]
 
 
-      Chouinard and Frost found an alternative to hard steel pitons: aluminum chocks that can be wedged by hand and leave the rock unaltered. Two years later, Chouinard edited his first product catalog, and within a few months, the piton business was done; chocks sold faster than they could be made. Yvon Chouinard stumbled upon a need of the climbing world when he found a way for the activity he and others loved not to create environmental damage.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4267-4295). Nelson Parker. Kindle Edition]
-    title: " Let My People Go Surfing"
+      Chouinard y Frost encontraron una alternativa a los pitones de acero duro: calzos de aluminio que se pueden calzar a mano y dejar la roca inalterada. Dos años más tarde, Chouinard editó su primer catálogo de productos y, a los pocos meses, se hizo el negocio de los pitones; los calzos se vendieron más rápido de lo que podrían fabricarse. Yvon Chouinard se topó con una necesidad del mundo de la escalada cuando encontró la manera de que la actividad que él y otros adoraban no crear daños ambientales. ^ \ \[Laloux, Frederic (2014-02-09). Reinventar organizaciones: una guía para crear organizaciones inspiradas en la siguiente etapa de la conciencia humana (ubicaciones de Kindle 4267-4295). Nelson Parker. Versión Kindle]
+    title: " Deja que mi gente vaya a surfear"
 ---
