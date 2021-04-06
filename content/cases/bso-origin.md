@@ -6,10 +6,10 @@ date: 2020-08-24T20:05:33.747Z
 introduction: Originalmente consultoría de TI - Global - 10,000 empleados - Con
   fines de lucro. Una empresa europea de tecnología de la información fundada
   por Eckart Wintzen, ahora parte de Atos
-industry: J. Information and communication
-geography: Global
+industry: J. Información y comunicación
+geography: En todo el mundo
 companySize: "> 500"
-profit: Profit
+profit: Organización con fines de lucro
 theory:
   - topic: Ownership
     title: Una multinacional pierde su impulso después de una adquisición corporativa.
