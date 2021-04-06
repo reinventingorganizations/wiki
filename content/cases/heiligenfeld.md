@@ -3,61 +3,58 @@ layout: case
 tags: cases
 name: Heiligenfeld
 date: 2021-03-09T04:17:38.158Z
-introduction: Heiligenfeld have weekly, large group reflective meetings.
-industry: Q. Human health and social work activities
-geography: Germany
+introduction: Heiligenfeld tiene reuniones de reflexión semanales en grupos grandes.
+industry: Q. Salud, servicios sociales
+geography: Alemania
 companySize: "> 500"
-profit: non-profit
+profit: Organización sin ánimo de lucro
 theory:
   - topic: Meetings
-    title: Heiligenfeld have weekly, large group reflective meetings.
-    content: >-
-      **Large group reflective meetings:**
+    title: Heiligenfeld tiene reuniones de reflexión semanales en grupos grandes.
+    content: >-2
+       **Reuniones de reflexión de grupos grandes:** 
+
+      Cada martes por la mañana, 350 empleados se reúnen para participar en una reflexión conjunta. (Algunos colegas deben quedarse con los pacientes).
 
 
-      Every Tuesday morning 350 employees come together to engage in joint reflection. (Some colleagues need to stay with patients.)
+      Cada semana se incluye un tema nuevo y relevante en la agenda. Los temas han incluido: \[resolución de conflictos] (../ resolución de conflictos /), cómo lidiar con el fracaso, \[valores] (../ cultura-y-valores /) y similares.
 
 
-      Every week a new, relevant topic is put on the agenda. Topics have included: [conflict resolution](../conflict-resolution/), dealing with failure, [values](../culture-and-values/), and similar.
+      La reunión comienza con una presentación para enmarcar el tema.
 
 
-      The meeting kicks off with a presentation to frame the subject matter.
+      El corazón de la reunión es cuando los grupos pequeños se involucran en la autorreflexión. Como, por ejemplo, el tema "lidiar con el fracaso": una breve presentación presenta formas de lidiar con elegancia con el fracaso: cómo se abren nuevas posibilidades cuando dejamos de juzgar nuestros fracasos, etc.
 
 
-      The heart of the meeting is when small groups engage in self-reflection. As for instance, the topic ‘dealing with failure’: A short presentation introduces ways to deal gracefully with failure – how new possibilities open up when we stop being judgmental about our failures, etc.
+      Luego, la gente baraja las sillas para crear grupos de 6 a 10 personas. Reflexionan sobre el tema, guiados por un facilitador que eligen.
 
 
-      Then people shuffle chairs around to create groups of 6 to 10 people. They reflect on the topic, guided by a facilitator they elect.  
+      En algún momento, un micrófono recorre la sala y la gente puede compartir lo que surgió en la discusión.
 
 
-      At some point, a microphone goes around the room and people can share what came up in the discussion.
+      No hay un resultado programado para estas reuniones: no se espera un producto final. Además del aprendizaje personal, surgen conocimientos colectivos. Luego, las iniciativas se llevan a cabo cuando la gente vuelve al trabajo.
 
 
-      There is no scripted outcome to these meetings: no expected end product. As well as personal learning, collective insights emerge. Initiatives are then carried out when people go back to work.
+      Es una práctica que requiere mucho tiempo, pero la gente de [Heiligenfeld](http://www.heiligenfeld.de/) dice que los beneficios superan con creces los costos. Estas reuniones son como un programa de capacitación sobre esteroides para toda la empresa.
 
 
-      It’s a time-consuming practice, but people at [Heiligenfeld](http://www.heiligenfeld.de/) say the benefits far outweigh the costs. These meetings are like a company-wide training program on steroids.  
-
-
-      The common experience also fosters community and a common language. To approving chuckles in the room, an employee of Heiligenfeld once stood up at the end of one such meeting and said ‘ You know, I wish I could have more Heiligenfeld at home.
+      La experiencia común también fomenta la comunidad y un lenguaje común. Para las risas de aprobación en la sala, un empleado de Heiligenfeld una vez se puso de pie al final de una de esas reuniones y dijo: "Sabes, me gustaría poder tener más Heiligenfeld en casa.
   - topic: Team and Community Building
-    title: Heiligenfeld uses innovative management practices to create a supportive
-      work culture that fosters trust, empathy, and compassion while decreasing
-      conflict.
-    content: >-
-      **Example for Reflective Practice**
+    title: Heiligenfeld utiliza prácticas de gestión innovadoras para crear una
+      cultura de trabajo de apoyo que fomenta la confianza, la empatía y la
+      compasión al tiempo que reduce los conflictos.
+    content: >-2
+       **Ejemplo de práctica reflexiva** 
 
-
-      At [Heiligenfeld](http://www.heiligenfeld.de/), every Tuesday morning, 350 employees come together for an hour and a quarter to engage in joint reflection. Every week, a new topic that is relevant at the moment and conducive to self-reflection is put on the agenda. Recent meetings have reflected on subjects as diverse as conflict resolution, dealing with failure, company values, interpersonal communication, bureaucracy, IT innovations, risk management, personal health, and mindfulness. The meeting always kicks off with a short presentation to frame the subject matter, followed by self-reflection in small groups. Every group elects a facilitator who enforces a few ground rules to create a space where it’s safe to explore, to be authentic and vulnerable. In the confines of the small group, helped by their colleagues’ listening, people dare to dig deep and gain new insights about themselves and others. Colleagues are exposed every week to a space made safe by ground rules that invites them to truly be themselves. They learn to see each other in the light of their deep humanity, in the beauty of their strengths and vulnerability. The trust, empathy, and compassion that build up in the meeting expand well beyond the confines of the meeting room. These feelings start to permeate the whole organization.
+      En [Heiligenfeld](http://www.heiligenfeld.de/), todos los martes por la mañana, 350 empleados se reúnen durante una hora y cuarto para participar en una reflexión conjunta. Cada semana, se incluye en la agenda un nuevo tema que es relevante en este momento y propicio para la autorreflexión. Reuniones recientes han reflexionado sobre temas tan diversos como la resolución de conflictos, el manejo del fracaso, los valores de la empresa, la comunicación interpersonal, la burocracia, las innovaciones de TI, la gestión de riesgos, la salud personal y la atención plena. La reunión siempre comienza con una breve presentación para enmarcar el tema, seguida de una autorreflexión en pequeños grupos. Cada grupo elige un facilitador que hace cumplir algunas reglas básicas para crear un espacio donde es seguro explorar, ser auténtico y vulnerable. En los confines del grupo pequeño, con la ayuda de la escucha de sus colegas, la gente se atreve a profundizar y obtener nuevos conocimientos sobre sí mismos y los demás. Los colegas están expuestos cada semana a un espacio protegido por reglas básicas que los invita a ser realmente ellos mismos. Aprenden a verse a la luz de su profunda humanidad, en la belleza de sus fortalezas y vulnerabilidad. La confianza, la empatía y la compasión que se acumulan en la reunión se expanden mucho más allá de los confines de la sala de reuniones. Estos sentimientos comienzan a impregnar a toda la organización.
   - topic: Team and Community Building
-    title: Heiligenfeld uses innovative management practices to create a supportive
-      work culture that fosters trust, empathy, and compassion while decreasing
-      conflict.
-    content: >-
-      **Example for Team supervision**
+    title: Heiligenfeld utiliza prácticas de gestión innovadoras para crear una
+      cultura de trabajo de apoyo que fomenta la confianza, la empatía y la
+      compasión al tiempo que reduce los conflictos.
+    content: >-2
+       **Ejemplo de supervisión de equipo** 
 
-
-      [Heiligenfeld ](http://www.heiligenfeld.de/)has developed a simple practice of team supervision. The company works with four external coaches who each have their domain of expertise (relationships, organizational development, system thinking, leadership). There are a number of time slots with the coaches every month that teams can sign up for. The recommendation is for every team to hold at least one session a year; on average teams hold two to four. In the discussion, with the help of the outside supervisor, colleagues can explore what a tension reveals about themselves and how they can grow to resolve it.
+      [Heiligenfeld](http://www.heiligenfeld.de/) ha desarrollado una práctica simple de supervisión de equipo. La empresa trabaja con cuatro coaches externos, cada uno de los cuales tiene su dominio de experiencia (relaciones, desarrollo organizacional, pensamiento sistémico, liderazgo). Hay una serie de franjas horarias con los entrenadores cada mes en las que los equipos pueden inscribirse. La recomendación es que cada equipo celebre al menos una sesión al año; en promedio, los equipos tienen de dos a cuatro. En la discusión, con la ayuda del supervisor externo, los colegas pueden explorar qué revela una tensión sobre ellos mismos y cómo pueden crecer para resolverla.
   - topic: Conflict resolution
     title: Las prácticas de gestión innovadoras se utilizan para crear una cultura
       de trabajo de apoyo que fomenta la confianza, la empatía y la compasión,
@@ -70,18 +67,18 @@ theory:
 
       <!--EndFragment-->
   - topic: Strategy
-    title: Strategy is developed through sensing rather than forecasting.
-    content: "Heiligenfeld uses large group meetings at regular intervals to sense
-      into its future. From one such session, the vision emerged of bringing
-      Heiligenfeld’s holistic approach to mental illness to families with
-      children and adolescents. Wouldn’t it be wonderful if patients could be
-      treated together with their close family members, in a way that would
-      specifically address and honor the family ties in the therapy? A year
-      later, they opened, a new mental health hospital specifically dedicated to
-      therapy for families.^[Laloux, Frederic (2014-02-09). Reinventing
-      Organizations: A Guide to Creating Organizations Inspired by the Next
-      Stage of Human Consciousness (Kindle Locations 4460-4463). Nelson Parker.
-      Kindle Edition.]"
+    title: La estrategia se desarrolla mediante la detección en lugar de la previsión.
+    content: "Heiligenfeld utiliza reuniones de grupos grandes a intervalos
+      regulares para intuir su futuro. De una de esas sesiones, surgió la visión
+      de llevar el enfoque holístico de Heiligenfeld a las enfermedades mentales
+      a las familias con niños y adolescentes. ¿No sería maravilloso si los
+      pacientes pudieran ser tratados junto con sus familiares cercanos, de una
+      manera que abordara y respetara específicamente los lazos familiares en la
+      terapia? Un año después, abrieron un nuevo hospital de salud mental
+      dedicado específicamente a la terapia para familias. ^ \\ \\[Laloux,
+      Frederic (2014-02-09). Reinventar organizaciones: una guía para crear
+      organizaciones inspiradas en la próxima etapa de la conciencia humana
+      (ubicaciones de Kindle 4460-4463). Nelson Parker. Versión Kindle.]"
   - topic: wholeness
     title: Reflexión colectiva con todos
     content: >-
