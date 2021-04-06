@@ -2,20 +2,18 @@
 layout: content
 name: About
 ---
-![](/media/evolutionary-purpose.jpg)
+#### Para líderes que transforman sus organizaciones ...
 
-#### For leaders transforming their organizations...
+#### Y para estudiantes, académicos, entrenadores, bloggers ...
 
-#### And for students, academics, coaches, bloggers...
+Este wiki está destinado a ser un regalo para los líderes que se sienten llamados a crear organizaciones radicalmente más conmovedoras y decididas (más información en el \[estatuto de fundación] (../ fundador-estatuto) del wiki). También es un recurso que hace que las prácticas de la próxima generación sean más visibles y comprensibles para los blogueros, estudiantes de medios, académicos y el público en general.
 
-This wiki is meant as a gift for leaders who feel called to create radically more soulful and purposeful organizations (more in the wiki’s [founding charter](../founding-charter)). It is also a resource that makes next-generation practices more visible and understandable for bloggers, media students, academics, and the broader public.
+#### Un enfoque nítido en las prácticas organizativas de la siguiente etapa
 
-#### A sharp focus on next-stage organizational practices
+La wiki se basa en la idea de que existen distintos pasos evolutivos en la forma en que las personas conciben y dirigen las organizaciones. Esta wiki no repite el pensamiento de gestión tradicional como se enseña en las escuelas de negocios. En cambio, describe estructuras y prácticas organizativas congruentes con una nueva forma de conciencia que está emergiendo actualmente en el mundo (a veces llamada amarilla, verde azulado, integral, holística, auténtica o en red).
 
-The wiki is founded on the idea that there are distinct evolutionary steps in the way people conceive of and run organizations. This wiki does not rehash traditional management thinking as taught in business schools. Instead, it describes  organizational structures and practices congruent with a new form of consciousness that is currently emerging in the world (sometimes called Yellow, Teal, Integral, Holistic, Authentic, or Networked).
+#### Una wiki autónoma impulsada por voluntarios
 
-#### A volunteer driven, self-governing wiki
+Este cuerpo de conocimiento es llevado al mundo por un grupo de voluntarios entusiastas inspirados por las ideas presentadas en el libro, “[Reinventing Organizations](https://www.reinventingorganizations.com/)” y la serie de videos “[Insights for the Journey](https://thejourney.reinventingorganizations.com/index.html) ”(ambos de Frederic Laloux). La comunidad de contribuyentes de wiki opera por sí misma, ¿cómo podría ser de otra manera? - utilizando prácticas de próxima generación que analiza el wiki.
 
-This body of knowledge is brought to the world by a group of enthusiastic volunteers inspired by the ideas presented in the book, “[Reinventing Organizations](https://www.reinventingorganizations.com/)” and the video series “[Insights for the Journey](https://thejourney.reinventingorganizations.com/index.html)” (both by Frederic Laloux). The community of wiki contributors operates itself—how could it be otherwise?—using next-generation practices that the wiki discusses.
-
-In case you would also like to contribute yourself, please [visit this page](../how-can-you-contribute/)
+En caso de que también desee contribuir usted mismo, \[visite esta página] (../ cómo-puede-contribuir /)
