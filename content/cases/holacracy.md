@@ -1,185 +1,192 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
-name: Holacracy
+name: Holacracy (Holocracia)
+date: 2021-04-06T04:08:51.980Z
 introduction: >-
-  Organizational operating model 
+  Modelo operativo organizacional
 
 
-  [Holacracy ](https://en.wikipedia.org/wiki/Holacracy)is a method of decentralized management and organizational governance, in which authority and decision-making are distributed throughout a holarchy of self-organizing teams rather than being vested in a management hierarchy
+  [Holacracy](https://en.wikipedia.org/wiki/Holacracy) (Holocracia) es un método de gestión descentralizada y gobierno organizacional, en el que la autoridad y la toma de decisiones se distribuyen a través de una holarquía de equipos autoorganizados en lugar de estar en manos de una jerarquía de gestión
 
 
-  The Holacracy system was developed at Ternary Software, a company in Pennsylvania company.
-industry: V. Others
-geography: Global
+  El sistema de  Holacracia se desarrolló en Ternary Software, una empresa de Pensilvania.
+industry: V. Otros
+geography: En todo el mundo
 companySize: "> 500"
-profit: non-profit
+profit: Organización sin ánimo de lucro
 theory:
   - topic: Organizational Structure
-    title: A nested team structure
-    content: Holacracy is an organizational operating system adopted by hundreds of
-      organizations around the world using a nested team structure. It refers to
-      teams as “circles” and to the structure as a whole as a “holarchy” (as
-      distinct from a hierarchy). In a holarchy, each circle is not subjugated
-      to those above it, but retains autonomy, individual authority, and
-      wholeness. Circles are grouped within broader circles, all the way up
-      until the biggest circle contains the entire organization. This circle is
-      called the “Anchor Circle”. Teams near the "top" work on wider purposes;
-      teams near the "bottom" work on more specialized purposes. Every circle
-      and role within the holarchy retains real autonomy and authority as a
-      cohesive, whole entity itself, while also having real responsibilities as
-      a part of a larger entity. For a fuller description, see [Holacracy's
-      website](http://www.holacracy.org/).
+    title: Una estructura de equipo anidado
+    content: Holacracia es un sistema operativo organizacional adoptado por cientos
+      de organizaciones en todo el mundo que utilizan una estructura de equipo
+      anidado. Se refiere a los equipos como "círculos" ya la estructura en su
+      conjunto como una "holarquía" (a diferencia de una jerarquía). En una
+      holarquía, cada círculo no está subyugado a los que están por encima de
+      él, sino que conserva la autonomía, la autoridad individual y la
+      integridad. Los círculos se agrupan dentro de círculos más amplios, hasta
+      que el círculo más grande contiene toda la organización. Este círculo se
+      llama "Círculo de ancla". Los equipos cercanos a la "cima" trabajan con
+      propósitos más amplios; los equipos que están cerca de los "últimos"
+      trabajan con fines más especializados. Cada círculo y rol dentro de la
+      holarquía retiene autonomía y autoridad reales como una entidad cohesiva y
+      completa en sí misma, al mismo tiempo que tiene responsabilidades reales
+      como parte de una entidad más grande. Para obtener una descripción más
+      completa, consulte el [sitio web de Holacracy](http://www.holacracy.org/).
   - topic: Coordination
-    title: Holacracy creates specific non-staff roles for coordination
-    content: In Holacracy's structure of nested circles, there are specific
-      coordinating roles called “links". Sub-circles elect a representative, the
-      “Rep Link”, for its overarching circle who sits on all that circle’s
-      meetings. The overarching circle sends a representative of its own, the
-      “Lead Link” to be part of the discussion in the sub-circle. Both roles
-      come with specific accountabilities to ensure proper coordination across
-      circle and sub-circle. See also “[Role Definition and
-      Allocation](../role-definition-and-allocation/)”/”Concrete examples for
-      inspiration”/”Holacracy” and [Holacracy's
-      constitution](http://www.holacracy.org/constitution).
+    title: Holacracy crea roles específicos que no pertenecen al personal para la
+      coordinación
+    content: En la estructura de círculos anidados de Holacracia, hay roles de
+      coordinación específicos llamados "enlaces". Los subcírculos eligen un
+      representante, el "Enlace de representante", para su círculo general que
+      se sienta en todas las reuniones de ese círculo. El círculo general envía
+      un representante de su propios, el "Enlace principal" para ser parte de la
+      discusión en el subcírculo. Ambos roles vienen con responsabilidades
+      específicas para garantizar la coordinación adecuada entre el círculo y el
+      subcírculo. Ver también "\[Definición y asignación de roles] (../ role
+      -definición-y-asignación /) ”/” Ejemplos concretos de inspiración ”/”
+      Holacracia ”y [Constitución de
+      Holacracy](http://www.holacracy.org/constitution).
   - topic: Role Definition and Allocation
-    title: A well defined process to create, modify and assign roles
+    title: Un proceso bien definido para crear, modificar y asignar roles.
     content: >-
-      In Holacratic language, people don’t have a job, but fill a number of
-      *roles*. (The Holacracy constitution defines a role as consisting of three
-      specific elements: a “purpose” to express; possibly one or more “domains”
-      to control; and a set of “accountabilities” to enact. Some roles will have
-      all three of these parts, though often roles will start out with only a
-      purpose or just a single accountability and evolve from there. A purpose
-      tells us why the role exists: what it aims to achieve. A domain (of which
-      there may be several) specifies something the role has the exclusive
-      authority to control on behalf of the organization— in other words, this
-      role’s “property,” which no other role can mess with. And each
-      accountability is an ongoing activity that the role has the authority to
-      perform and is expected to perform or otherwise manage for the
-      organization.^\[Robertson, Brian J.. Holacracy: The New Management System
-      for a Rapidly Changing World (Kindle Locations 619-623). Henry Holt and
-      Co.. Kindle Edition.]
+      En el lenguaje holacrático, las personas no tienen trabajo, pero cumplen
+      una serie de  *roles* . (La constitución de  la Holacracia define un rol
+      como que consta de tres elementos específicos: un "propósito" para
+      expresar; posiblemente uno o más "dominios" para controlar; y un conjunto
+      de "responsabilidades" para promulgar. Algunos roles tendrán las tres
+      partes , aunque a menudo los roles comenzarán con un solo propósito o una
+      sola responsabilidad y evolucionarán a partir de ahí. Un propósito nos
+      dice por qué existe el rol: lo que pretende lograr. Un dominio (de los
+      cuales puede haber varios) especifica algo el rol tiene la autoridad
+      exclusiva para controlar en nombre de la organización; en otras palabras,
+      la "propiedad" de este rol, con la que ningún otro rol puede meterse. Y
+      cada responsabilidad es una actividad continua que el rol tiene la
+      autoridad de realizar y se espera que realice o administrar de otra manera
+      para la organización. ^ \ \[Robertson, Brian J .. Holacracy: El nuevo
+      sistema de administración para un mundo que cambia rápidamente
+      (Ubicaciones Kindle 619-623). Henry Holt and Co .. Edición Kindle.]
 
 
-      When someone senses that a new role must be created or an existing role amended or discarded, they bring it up within their team in a governance meeting.  Governance meetings are specific meetings where only questions related to roles and collaboration are to be discussed. A detailed description of the governance meeting process can be found [here](http://www.holacracy.org/governance-meetings).
+      Cuando alguien siente que se debe crear un nuevo rol o que se debe modificar o descartar un rol existente, lo menciona dentro de su equipo en una reunión de gobierno. Las reuniones de gobierno son reuniones específicas en las que solo se deben discutir cuestiones relacionadas con los roles y la colaboración. Se puede encontrar una descripción detallada del proceso de la reunión de gobernanza [aquí](http://www.holacracy.org/governance-meetings).
 
 
-      Holacracy's constitution calls for organizing roles into “circles”. The roles a circle contains are a breakdown of what’s needed to express its overall purpose, enact its accountabilities, and control its domains. Circles (“sub-circles”) are in turn grouped within broader circles (“super-circles”) in a nesting fashion all the way up until the biggest circle contains the entire organization (the “anchor circle”).^\[Robertson, Brian J.. Holacracy: The New Management System for a Rapidly Changing World (Kindle Locations 676-677). Henry Holt and Co. Kindle Edition.]
+      La constitución de la Holocracia exige la organización de roles en "círculos". Los roles que contiene un círculo son un desglose de lo que se necesita para expresar su propósito general, promulgar sus responsabilidades y controlar sus dominios. Los círculos ("subcírculos") se agrupan a su vez dentro de círculos más amplios ("supercírculos") de forma anidada hasta que el círculo más grande contiene toda la organización (el "círculo de anclaje"). ^ \ \[Robertson , Brian J .. Holacracy: el nuevo sistema de gestión para un mundo que cambia rápidamente (ubicaciones de Kindle 676-677). Henry Holt and Co. Edición Kindle.]
 
 
-      In Holacracy, each sub-circle contains a special governance role called the “Lead Link” which is appointed by the super-circle to represent its interests in the sub-circle. The Lead Link does not manage the circle but does have the authority to assign people to roles and to set priorities within that circle.
+      En la Holocracia, cada subcírculo contiene un rol de gobierno especial llamado "Enlace principal" que es designado por el supercírculo para representar sus intereses en el subcírculo. El Lead Link no administra el círculo, pero tiene la autoridad para asignar roles a las personas y establecer prioridades dentro de ese círculo.
 
 
-      Holacracy's constitution stipulates that certain specific roles (the facilitator, the secretary, the Lead Link and the "Rep Link") are appointed using a consent-based election. All other roles are appointed by the person holding the team's Lead Link role. (See [Holacracy's constitution ](http://www.holacracy.org/constitution)for a detailed description of the process).
+      La constitución de la Holocracia estipula que ciertos roles específicos (el facilitador, el secretario, el enlace principal y el "enlace del representante") se designan mediante una elección basada en el consentimiento. Todos los demás roles son designados por la persona que tiene el rol de enlace principal del equipo. (Ver [Constitución de Holacracy](http://www.holacracy.org/constitution) para una descripción detallada del proceso).
   - topic: Job Titles and Job Descriptions
-    title: 'A worker in a Holacracy might "energize" any number of roles in any
-      number of Circles. Each role has a purpose expressed within the larger
-      purpose of the Circle, and a set of accountabilities to enact.
-      Additionally, some roles have Domains: sensitive areas where they hold
-      absolute authority.'
+    title: 'Un trabajador en una Holocracia podría "energizar" cualquier número de
+      roles en cualquier número de Círculos. Cada rol tiene un propósito
+      expresado dentro del propósito más amplio del Círculo, y un conjunto de
+      responsabilidades que cumplir. Además, algunos roles tienen dominios:
+      áreas sensibles donde tienen autoridad absoluta.'
     content: >-
-      How accountabilities are fulfilled is up to the role-holder. The
-      role-holder is also responsible for tracking and making visible the "next
-      actions" they deem necessary for each accountability, as well as the
-      timeline for completion. Projects are also tracked in this way. This
-      ensures that others who are energizing roles with dependency on another
-      are kept aware of how key accountabilities are progressing; additionally,
-      one role can ask another to prioritize a request specific to a dependency;
-      the role-holder is then required to prioritize the request over those
-      accountabilities where a request has not been made.
+      La forma en que se cumplen las responsabilidades depende del titular de la
+      función. El titular de la función también es responsable de hacer un
+      seguimiento y hacer visibles las "próximas acciones" que considere
+      necesarias para cada responsabilidad, así como el cronograma para su
+      finalización. Los proyectos también se controlan de esta manera. Esto
+      asegura que otros que tienen roles energizantes con dependencia de otro se
+      mantengan al tanto de cómo están progresando las responsabilidades clave;
+      además, un rol puede pedirle a otro que dé prioridad a una solicitud
+      específica de una dependencia; A continuación, se requiere que el titular
+      de la función dé prioridad a la solicitud sobre aquellas responsabilidades
+      en las que no se ha realizado una solicitud.
 
 
-      Roles are created and amended in a governance process. The question of who fills what role is typically an obvious choice, with whomever proposed the creation of a new role typically being the one who fills it; however, it is the purview of the Circle's Lead Link to assign anyone within the organization to a role in those instances where the choice is less obvious.
+      Los roles se crean y modifican en un proceso de gobernanza. La cuestión de quién desempeña qué rol suele ser una elección obvia, y quien propuso la creación de un nuevo rol suele ser quien lo desempeña; sin embargo, es competencia del Enlace principal del Círculo asignar a cualquier persona dentro de la organización un rol en aquellos casos en los que la elección sea menos obvia.
 
 
-      How one leaves a role varies from organization to organization. Constitutionally, it is the responsibility of the Lead Link to remove a person from a role when necessary. Some organizations, like the [Whidbey Institute](http://whidbeyinstitute.org/), create a roles marketplace where those who wish to move on from a particular role can let others know that it is available; anyone interested in taking on that role may do so through the authority of the Lead Link.
+      La forma en que uno deja un puesto varía de una organización a otra. Constitucionalmente, es responsabilidad del Enlace Principal remover a una persona de un rol cuando sea necesario. Algunas organizaciones, como el [Whidbey Institute](http://whidbeyinstitute.org/), crean un mercado de roles donde aquellos que desean pasar de un rol en particular pueden hacer saber a otros que está disponible; cualquier persona interesada en asumir ese rol puede hacerlo a través de la autoridad del Lead Link.
   - topic: Strategy
-    title: Strategic plans are replaced with "rules of thumb"
+    title: Los planes estratégicos se reemplazan por "reglas generales"
     content: >-
-      Holacracy has a practice of developing “rules of thumb” in lieu of
-      strategic plans. Brian Robertson explains:
+      
+
+      La Holocracia tiene la práctica de desarrollar “reglas generales” en lugar de planes estratégicos. Brian Robertson explica:
 
 
-      *We may not be able to map the perfect route to the ideal future, but we can often ascertain some orienting principles for navigation. Without trying to predict exactly what forks in that road we will encounter, we can ask ourselves what will help us to make the best decisions when we do come to a fork. When we step back to look at the broader context and the general terrain and options in front of us, we can often come up with guidelines, such as “Generally head east,” or “Choose the easy roads even over the most direct roads.” A rule of thumb like this really helps when we’re confronted with a choice and want to benefit from wisdom generated when we had the luxury of pulling back and analyzing the bigger-picture context. When we distill that wisdom into memorable guidelines, we can apply them more easily and more regularly amidst the hustle and bustle of day-to-day execution. This, then, is the form that strategy takes in Holacracy— an easy-to-remember rule of thumb that aids moment-to-moment decision-making and prioritization (the technical term for such a rule is “heuristic”). I’ve found it useful to express these decision-support rules in the form of a simple phrase such as “Emphasize X, even over Y,” in which X is one potentially valuable activity, emphasis, focus, or goal, and Y is another potentially valuable activity, emphasis, focus, or goal.*
+      * Es posible que no podamos trazar el mapa de la ruta perfecta hacia el futuro ideal, pero a menudo podemos determinar algunos principios orientadores para la navegación. Sin intentar predecir exactamente qué bifurcaciones encontraremos en ese camino, podemos preguntarnos qué nos ayudará a tomar las mejores decisiones cuando lleguemos a una bifurcación. Cuando damos un paso atrás para mirar el contexto más amplio y el terreno general y las opciones que tenemos frente a nosotros, a menudo podemos encontrar pautas, como "Generalmente diríjase hacia el este" o "Elija las carreteras fáciles incluso sobre las carreteras más directas". " Una regla empírica como esta realmente ayuda cuando nos enfrentamos a una elección y queremos beneficiarnos de la sabiduría generada cuando tuvimos el lujo de retroceder y analizar el contexto general. Cuando destilamos esa sabiduría en pautas memorables, podemos aplicarlas con mayor facilidad y regularidad en medio del ajetreo y el bullicio de la ejecución diaria. Esta es, entonces, la forma que toma la estrategia en Holacracy, una regla práctica fácil de recordar que ayuda a la toma de decisiones y la priorización momento a momento (el término técnico para tal regla es “heurístico”). Me ha resultado útil expresar estas reglas de apoyo a la toma de decisiones en forma de una frase simple como "Enfatizar X, incluso sobre Y", en la que X es una actividad, énfasis, enfoque u objetivo potencialmente valioso, e Y es otra actividad, énfasis, enfoque u objetivo potencialmente valioso. *
 
-
-      *Now, to make that useful, you can’t just have X be good and Y be bad. “Emphasize customer service, even over pissing off customers” is not helpful advice. Both X and Y need to be positives, so that the strategy gives you some sense of which one to privilege, for now, given your current context. For example, one of HolacracyOne’s strategies earlier in our company’s development was “Emphasize documenting and aligning to standards, even over developing and co-creating novelty.” Notice that both of those activities are positive things for an organization to be engaging in, but they are also polarities, in tension with each other. Our strategy is not a general, universal statement of value— in fact, if we tried to apply it forever it would undoubtedly cause serious harm eventually. There are times when it is essential to emphasize developing and co-creating novelty over documenting and aligning to standards. But for HolacracyOne, given our context at the time, and the recent history before that, and the purpose we’re serving, that was our best sense of what to privilege, at least for a while: standardization, even at the expense of pursuing new and exciting opportunities.*^[Robertson, Brian J. (2015-06-02). Holacracy: The New Management System for a Rapidly Changing World (Kindle Locations 1800-1818). Henry Holt and Co.. Kindle Edition.]
+      * Ahora, para que eso sea útil, no puede hacer que X sea bueno e Y sea malo. “Enfatizar el servicio al cliente, incluso en lugar de molestar a los clientes” no es un consejo útil. Tanto X como Y deben ser positivos, de modo que la estrategia le dé una idea de cuál privilegiar, por ahora, dado su contexto actual. Por ejemplo, una de las estrategias de HolacracyOne al principio del desarrollo de nuestra empresa era "Enfatizar la documentación y la alineación con los estándares, incluso sobre el desarrollo y la co-creación de la novedad". Tenga en cuenta que ambas actividades son cosas positivas en las que puede participar una organización, pero también son polaridades, en tensión entre sí. Nuestra estrategia no es una declaración de valor general y universal; de hecho, si intentáramos aplicarla para siempre, indudablemente causaría un daño grave a la larga. Hay momentos en los que es esencial enfatizar el desarrollo y la co-creación de la novedad sobre la documentación y la alineación con los estándares. Pero para HolacracyOne, dado nuestro contexto en ese momento, y la historia reciente antes de eso, y el propósito al que estamos sirviendo, ese era nuestro mejor sentido de qué privilegiar, al menos por un tiempo: la estandarización, incluso a expensas de perseguir oportunidades nuevas y emocionantes. * ^ \ \[Robertson, Brian J. (02-06-2015). Holacracy: el nuevo sistema de gestión para un mundo que cambia rápidamente (ubicaciones de Kindle 1800-1818). Henry Holt and Co .. Edición Kindle.]
   - topic: Decision Making
-    title: 'Holacracy uses two types of decision making: "autocratic" and
-      "integrative", both of which, on close scrutiny, can be seen as variations
-      of the advice process.'
+    title: 'La holacracia utiliza dos tipos de toma de decisiones: "autocrática" e
+      "integradora", las cuales, en un escrutinio minucioso, pueden verse como
+      variaciones del proceso de asesoramiento.'
     content: >-
-      Governance decisions (decisions about people's roles and accountabilities)
-      are made using "Integrative decision making". All others are made
-      "autocratically".
+      Las decisiones de gobernanza (decisiones sobre los roles y
+      responsabilidades de las personas) se toman mediante "Toma de decisiones
+      integradora". Todos los demás se hacen "autocráticamente".
 
 
-      #### Integrative decisions making
+      #### Toma de decisiones integradora
 
 
-      When someone senses a role must be created, amended or discarded, he brings it up in a governance meeting. These are meetings where only questions about roles and collaboration are to be discussed. That is, separate from the details of getting work done. The latter are discussed in “tactical meetings”, with their own specific meeting practices.
+      Cuando alguien siente que un rol debe ser creado, enmendado o descartado, lo menciona en una reunión de gobierno. Se trata de reuniones en las que solo se discutirán cuestiones sobre roles y colaboración. Es decir, separado de los detalles de cómo realizar el trabajo. Estos últimos se discuten en “reuniones tácticas”, con sus propias prácticas específicas de reunión.
 
 
-      A facilitator guides the proceedings.
+      Un facilitador guía los procedimientos.
 
 
-      Anybody who feels a role change is needed (the proposer) can add it to the agenda. Each governance item is resolved with to the following process:
+      Cualquiera que sienta que se necesita un cambio de rol (el proponente) puede agregarlo a la agenda. Cada elemento de gobernanza se resuelve con el siguiente proceso:
 
 
-      1. Present proposal: The proposer states his proposal and the issue this proposal is attempting to resolve.
+      1. Propuesta actual: El proponente expone su propuesta y el tema que esta propuesta intenta resolver.
 
-      1. Clarifying questions: Anybody can seek information or more understanding. It is not yet time for reactions. The facilitator will interrupt any question that cloaks a reaction.
+      2. Preguntas aclaratorias: Cualquiera puede buscar información o más comprensión. Aún no es el momento de reaccionar. El facilitador interrumpirá cualquier pregunta que encubra una reacción.
 
-      1. Reaction round: Each person reacts to the proposal. Discussions are not allowed.
+      3. Ronda de reacción: Cada persona reacciona a la propuesta. No se permiten discusiones.
 
-      1. Amend and clarify: The proposer can clarify his proposal further, or amend it, based on these reactions.
+      4. Modificar y aclarar: El proponente puede aclarar más su propuesta, o modificarla, basándose en estas reacciones.
 
-      1. Objection round: The facilitator asks, ”Do you see any reasons why adopting this proposal would cause harm or move us backwards?” Objections are captured without discussion; the proposal is adopted if none surface.
+      5. Ronda de objeciones: El facilitador pregunta: "¿Ve alguna razón por la que la adopción de esta propuesta podría causarnos daño o hacernos retroceder?" Las objeciones se capturan sin discusión; la propuesta se adopta si no surge ninguna.
 
-      1. Integration: If an objection is raised, the facilitator tests the objection for validity. If it is found to be valid, he leads a discussion to craft an amendment that would avoid the objection. If several objections are raised, they get addressed one at a time, until all are removed.
-
-
-      There are strict criteria for an objection to be considered valid. The process might sound formal, but people who use it often report they find it deeply liberating. It addresses issues without the need for corridor talk, politics, and coalition building. Anybody who senses the need for something to change has a forum.
+      6. Integración: Si se presenta una objeción, el facilitador prueba la objeción para verificar su validez. Si se determina que es válida, dirige una discusión para elaborar una enmienda que evite la objeción. Si se plantean varias objeciones, se abordan una a la vez, hasta que se eliminan todas.
 
 
-      Others are surprised at how efficient this process is. 
+      Existen criterios estrictos para que una objeción se considere válida. El proceso puede parecer formal, pero las personas que lo usan a menudo informan que lo encuentran profundamente liberador. Aborda temas sin la necesidad de conversaciones, políticas y construcción de coaliciones. Cualquiera que sienta la necesidad de que algo cambie tiene un foro.
 
 
-      Holacracy’s governance process is a variation of the advice process. Anyone can bring forward an issue or opportunity (a "tension" in holacratic language) and make a decision happen, after listening to relevant advice. The particularity of the process here is that the advice happens in the setting of a meeting, with a structured number of rounds, and that the decision maker must integrate valid objections, if there are any. The goal, again, is to not to aim for a perfect answer, but a workable solution, and then iterate quickly if needed.
+      Otros se sorprenden de la eficacia de este proceso.
 
 
-      Roles evolve organically, adapting to change in the environment.
+      El proceso de gobernanza de la Holaocracia es una variación del proceso de asesoramiento. Cualquiera puede plantear un problema u oportunidad (una "tensión" en lenguaje holacrático) y tomar una decisión, después de escuchar los consejos pertinentes. La particularidad del proceso aquí es que el asesoramiento ocurre en el marco de una reunión, con un número estructurado de rondas, y que el tomador de decisiones debe integrar objeciones válidas, si las hay. El objetivo, nuevamente, es no apuntar a una respuesta perfecta, sino a una solución viable, y luego iterar rápidamente si es necesario.
 
 
-      #### Autocratic decision making
+      Los roles evolucionan orgánicamente, adaptándose a los cambios en el entorno.
 
 
-      In Holacracy, any decision other than governance decisions can be made "autocratically". Only when a "domain" is declared, which should be in exceptional circumstances only, are decisions off-limits to others. In all other cases, anyone can step up and make any decision.
+      #### Toma de decisiones autocrática
 
 
-      Decisions can be made "autocratically", meaning no one needs to be consulted, and there is no formal process such as in the integrative decision making process. Yet in practice, people are well advised to seek advice when relevant.
+      En Holocracia, cualquier decisión que no sea de gobernanza se puede tomar de forma "autocrática". Sólo cuando se declara un "dominio", que debería ser sólo en circunstancias excepcionales, las decisiones están fuera del alcance de otros. En todos los demás casos, cualquiera puede intervenir y tomar cualquier decisión.
 
 
-      If person A makes an autocratic decision that frustrates person B who has an obvious stake in that decision, person B is likely to bring up the topic in the next governance meeting. For example, if person (A), whose role it is to book meeting venues, chooses a new venue without discussing it with the main trainer (B) who has ideas as to what kind of venue is necessary for that specific training. The trainer (B) will suggest to amend the role of person A so that person A must consult the trainer before making decisions on venues in the future. Ultimately it boils down to the same: either person A spontaneously and informally seeks advice from person B, or it is likely that the role person A is currently energizing will be changed so that this role must formally seek advice from the trainer role (person B) before deciding on a venue.
+      Las decisiones se pueden tomar de forma "autocrática", lo que significa que no es necesario consultar a nadie, y no existe un proceso formal como en el proceso de toma de decisiones integrador. Sin embargo, en la práctica, se aconseja a las personas que busquen asesoramiento cuando sea pertinente.
+
+
+      Si la persona A toma una decisión autocrática que frustra a la persona B, que tiene un interés obvio en esa decisión, es probable que la persona B plantee el tema en la próxima reunión de gobierno. Por ejemplo, si la persona (A), cuya función es reservar lugares para reuniones, elige un nuevo lugar sin discutirlo con el capacitador principal (B), quien tiene ideas sobre qué tipo de lugar es necesario para esa capacitación específica. El capacitador (B) sugerirá modificar el rol de la persona A para que la persona A deba consultar al capacitador antes de tomar decisiones sobre lugares en el futuro. En última instancia, todo se reduce a lo mismo: o la persona A busca de manera espontánea e informal el consejo de la persona B, o es probable que el rol que la persona A está energizando actualmente cambie, de modo que este rol debe buscar formalmente el consejo del rol de capacitador (persona B ) antes de decidirse por el lugar.
   - topic: board
-    title: A constitution that a board can adopt.
-    content: "[Holacracy ](http://holocracyone.com/)has drafted a constitution which
-      complies with U.S. corporate law. It gives shareholders a say in matters
-      related to finance, but prevents them from unilaterally imposing a
-      strategy."
+    title: Una constitución que puede adoptar una junta.
+    content: "[Holacracy](http://holocracyone.com/) ha redactado una constitución
+      que cumple con las leyes corporativas de EE. UU. Da voz a los accionistas
+      en asuntos relacionados con las finanzas, pero les impide imponer
+      unilateralmente una estrategia."
   - topic: Dismissal
-    title: In the Holacracy model, a person can be removed from their roles but
-      still stay in the member pool and take time to hunt for new roles. If this
-      fails, a custom dismissal process, such as a peer removal, can be
-      initiated.
+    title: En el modelo Holacracia, una persona puede ser eliminada de sus roles
+      pero aún permanecer en el grupo de miembros y tomarse el tiempo para
+      buscar nuevos roles. Si esto falla, se puede iniciar un proceso de despido
+      personalizado, como el retiro de un compañero.
     content: >-
-      See ^[Interview Frederic Laloux with Brian J. Robertson, 2013]
+      Véase ^ \ \[Entrevista a Frederic Laloux con Brian J. Robertson, 2013]
 
 
-      [Holacracy ](http://www.holacracy.org/)does not prescribe a specific process for dismissals. Starting and terminating people’s contracts originally lands in the scope of the top circle, who can then assign that authority as they see fit. For example, there can be an HR role that has authority to hire and fire. Or in the partnership model (as in [HolacracyOne](http://www.holacracy.org/)) there is a partnership removal process with partner peer review (similar to [Morning Star](http://www.morningstarco.com/)).
+      [Holacracy](http://www.holacracy.org/)  no prescribe un proceso específico para los despidos. Comenzar y rescindir los contratos de las personas originalmente cae en el ámbito del círculo superior, que luego puede asignar esa autoridad como mejor le parezca. Por ejemplo, puede haber un rol de recursos humanos que tenga autoridad para contratar y despedir. O en el modelo de asociación (como en [HolacracyOne](http://www.holacracy.org/)) hay un proceso de eliminación de asociación con revisión por pares de socios (similar a \[Morning Star] (http: //www.morningstarco. com /)).
 
 
-      Because there is no fusion of person and title, the lead link in any circle is free to make a decision and remove somebody from a specific role. The person is not fired in this case, but remains in a member pool and must pitch for other roles. If no new role can be found, the person either leaves voluntarily, or a custom dismissal process is triggered.
+      Debido a que no hay fusión de persona y título, el enlace principal en cualquier círculo es libre de tomar una decisión y eliminar a alguien de un rol específico. La persona no es despedida en este caso, pero permanece en un grupo de miembros y debe lanzar para otros roles. Si no se puede encontrar un nuevo rol, la persona se va voluntariamente o se desencadena un proceso de despido personalizado.
 ---
