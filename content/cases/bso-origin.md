@@ -3,30 +3,31 @@ layout: case
 tags: cases
 name: BSO / Origin
 date: 2020-08-24T20:05:33.747Z
-introduction: Originally IT consulting - Global - 10,000 employees - For profit.
-  A European information technology company founded by Eckart Wintzen, now a
-  part of Atos
+introduction: Originalmente consultoría de TI - Global - 10,000 empleados - Con
+  fines de lucro. Una empresa europea de tecnología de la información fundada
+  por Eckart Wintzen, ahora parte de Atos
 industry: J. Information and communication
 geography: Global
 companySize: "> 500"
 profit: Profit
 theory:
   - topic: Ownership
-    title: A multinational loses its momentum after a corporate takeover.
+    title: Una multinacional pierde su impulso después de una adquisición corporativa.
     content: >-
-      BSO/Origin was founded in 1973 by Eckart Wintzen in the Netherlands. In
-      the following 20 years, he grew the company to 10,000 people, setting up
-      shop in 18 countries in Europe, South America, and Asia. The company’s
-      structure consisted entirely of self-managing units, with virtually no
-      headquarters and no staff functions. In 1994, the company established a
-      joint venture with a Business Unit from Philips, a large publicly held
-      company, that took majority ownership of BSO/ Origin two years later. In a
-      matter of mere months, BSO was radically transformed as traditional
-      management practices were brought in.
+      BSO / Origin fue fundada en 1973 por Eckart Wintzen en los Países Bajos.
+      En los siguientes 20 años, hizo crecer la empresa a 10,000 personas,
+      estableciendo tiendas en 18 países de Europa, América del Sur y Asia. La
+      estructura de la empresa consistía en unidades de autogestión,
+      prácticamente sin sede ni funciones de personal. En 1994, la compañía
+      estableció una empresa conjunta con una Unidad de Negocios de Philips, una
+      gran empresa que cotiza en bolsa, que tomó la propiedad mayoritaria de BSO
+      / Origin dos años más tarde. En cuestión de meses, BSO se transformó
+      radicalmente a medida que se introdujeron las prácticas de gestión
+      tradicionales.
 
 
-      Wintzen recounts a decade later in a book :
+      Wintzen relata una década después en un libro:
 
 
-      *I (became) a board member and gave powerful speeches to leave the system in place. But unfortunately - though not surprisingly given the perspective they came from - my colleagues from Phillips on the board pronounced the word "unacceptable" regularly and forcefully. In the eyes of Phillips it was ' "a deadly sin" ' to give people the authority to hire personnel or even just give away tickets for a musical. I believe that once we literally shouted over the issue until our faces turned red. The two worlds collided, one of strict financial procedures combined with "check, check, double check" with one of "have trust, have trust"*^[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), pages 252-253]
+      * Me convertí en miembro de la junta y pronuncié poderosos discursos para dejar el sistema en su lugar. Pero desafortunadamente, aunque no es sorprendente dada la perspectiva desde la que vinieron, mis colegas de Phillips en la junta pronunciaron la palabra "inaceptable" con regularidad y contundencia. A los ojos de Phillips, era "un pecado mortal" "dar a la gente la autoridad para contratar personal o incluso simplemente regalar entradas para un musical. Creo que una vez gritamos literalmente sobre el tema hasta que nuestras caras se pusieron rojas. Los dos mundos chocaron, uno de estrictos procedimientos financieros combinado con "comprobar, comprobar, volver a comprobar" con uno de "tener confianza, tener confianza" * ^ \ \[Laloux, Frederic. Reinvención de organizaciones. Nelson Parker (2014), páginas 252-253]
 ---
