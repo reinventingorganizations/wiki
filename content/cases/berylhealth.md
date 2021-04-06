@@ -4,10 +4,10 @@ tags: cases
 name: BerylHealth
 date: 2020-11-09
 introduction: Servicios de centro de llamadas para hospitales - EE. UU. - Con fines de lucro
-industry: J. Information and communication
-geography: USA
+industry: J. Información y comunicación
+geography: Estados Unidos
 companySize: 201-500
-profit: Profit
+profit: Organización con fines de lucro
 theory:
   - topic: Mood Management
     title: En BerylHealth un correo electrónico enviado a toda la fuerza laboral
