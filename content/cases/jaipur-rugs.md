@@ -129,6 +129,5 @@ theory:
       In the following blog article, the founder explains how running his company requires him “to be flexible and free flowing like water” :
 
 
-
-      [Making Mistakes or Building a Pathway for Creativity?](https://www.nkchaudhary.com/innovation/making-mistakes-or-building-a-pathway-for-creativity/)
+      * [Making Mistakes or Building a Pathway for Creativity?](https://www.nkchaudhary.com/innovation/making-mistakes-or-building-a-pathway-for-creativity/)
 ---
