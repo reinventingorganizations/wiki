@@ -2,12 +2,12 @@
 layout: case
 tags: cases
 name: Realize!
-date: 2020-11-09
-introduction: Consulting - Netherlands - 4 partners - For Profit
-industry: M. Professional, scientific and technical activities
-geography: Netherlands
+date: 2021-04-06T04:54:53.658Z
+introduction: Consultoría - Países Bajos - 4 socios - Con fines de lucro
+industry: M. Investigación científica, alta tecnología
+geography: Holanda
 companySize: 1-100
-profit: Profit
+profit: Organización con fines de lucro
 theory:
   - topic: Compensation and incentives
     title: Hermosas conversaciones en persona entre los socios para establecer su
