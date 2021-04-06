@@ -1,25 +1,22 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
 name: CC&R (Center for Courage & Renewal)
-introduction: CC&R has created meetings for welcoming and farewelling personnel.
+date: 2020-11-09
+introduction: CC&R ha creado reuniones para el personal de bienvenida y despedida.
 industry: P. Education
 geography: USA
 companySize: 1-100
 profit: non-profit
 theory:
   - topic: Meetings
-    title: CC&R has created meetings for welcoming and farewelling personnel.
-    content: >-
-      **Welcoming new personnel:**
+    title: CC&R ha creado reuniones para el personal de bienvenida y despedida.
+    content: >-2
+       **Bienvenida al nuevo personal:** 
 
+      Cada miembro del equipo existente trae un objeto que simboliza un deseo para su nuevo colega. Lo presentan y comparten su deseo. Esto celebra al recién llegado y lo hace sentir bienvenido. También sirve a los miembros del equipo existentes. Ellos también se conocen a un nivel más profundo.
 
-      Each existing team member brings an object symbolising a wish for their new colleague. They present it, and share their wish. This celebrates the newcomer, and makes him or her feel welcome. It also serves existing team members. They too get to know each other at a deeper level. 
+       **Personal de despedida:** 
 
-
-      **Farewelling personnel:**
-
-
-      There is a similar practice when someone leaves. Team members join in a meal with the departing colleague. Everybody prepares a personal story about that person and the organization. The stories celebrate the person who is leaving. But again, they reveal just as much about the storyteller.
+      Existe una práctica similar cuando alguien se va. Los miembros del equipo se unen a una comida con el colega que se va. Todos preparan una historia personal sobre esa persona y la organización. Las historias celebran a la persona que se va. Pero nuevamente, revelan tanto sobre el narrador.
 ---
