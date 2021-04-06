@@ -95,7 +95,8 @@ theory:
 
       *For more insight, please look at the following blog article from the founder:*
 
-      [Allow Employees to think creatively](https://www.nkchaudhary.com/business/give-employees-the-gift-of-creative-freedom/)
+
+      * [Allow Employees to think creatively](https://www.nkchaudhary.com/business/give-employees-the-gift-of-creative-freedom/)
   - topic: Role Definition and Allocation
     title: Space to grow and explore
     content: >-
