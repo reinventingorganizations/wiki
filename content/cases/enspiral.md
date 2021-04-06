@@ -7,10 +7,10 @@ introduction: La Fundación Enspiral es una empresa benéfica copropiedad de los
   miembros de Enspiral. Su misión es apoyar a la red en su conjunto, facilitar
   la colaboración entre las personas y las empresas y promover la misión social
   general de Enspiral.
-industry: Q. Human health and social work activities
-geography: New Zealand
+industry: Q. Salud, servicios sociales
+geography: Nueva Zelanda
 companySize: 101-200
-profit: non-profit
+profit: Organización sin ánimo de lucro
 theory:
   - topic: Decision Making
     title: Enspiral es un colectivo distribuido que utiliza un proceso de
