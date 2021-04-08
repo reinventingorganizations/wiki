@@ -1,14 +1,15 @@
 ---
 layout: article
 tags: theory
-key: Culture and Values
-name: Culture and Values
+key: Culture et valeurs
+name: Culture et valeurs
 sortOrder: 6
 category: Daily practices
 intro: >-
-  The topic of culture and values explore the different values, beliefs, ground
-  rules and the resulting cultures of Teal organizations as well as practices
-  for establishing and bringing culture and values to life.
+  Le thème de la culture et des valeurs explore les différentes valeurs,
+  croyances, règles de base et les cultures qui en résultent dans les
+  organisations Opales, ainsi que les pratiques permettant d'établir et de faire
+  vivre la culture et les valeurs.
 
 
   ![](/media/tree.jpg)
@@ -29,7 +30,7 @@ perspective: >-
   ##### Red organizations
 
 
-  In [Red organizations](../red-organizations/), leaders typically demonstrate egocentric behaviors driven by their personal need for power and control. They are often impulsive and find ways to exert their dominance. This creates a culture of a fear, control, risk taking and submission. Close bonds are usually formed by those in the organization.
+  In [Red organizations](https://fr--reinventingorganizations-wiki.netlify.app/theory/red-organizations/), leaders typically demonstrate egocentric behaviors driven by their personal need for power and control. They are often impulsive and find ways to exert their dominance. This creates a culture of a fear, control, risk taking and submission. Close bonds are usually formed by those in the organization.
 
 
   ##### Amber organizations
