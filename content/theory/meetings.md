@@ -89,16 +89,18 @@ perspective: "Meetings dienen je nach Stadium der Organisation unterschiedlichen
   ### Grüne Organisationen
 
 
-  In [Green organizations](../green-paradigm-and-organizations/), aim to serve
-  multiple stakeholders with equality, respect and inclusion. This requires
-  meeting with them. Consensus is valued, but may be gruelling to achieve.
+  In [grünen Organisationen](../green-paradigm-and-organizations/)zielen Sie
+  darauf ab, mehreren Interessengruppen mit Gleichheit, Respekt und Einbeziehung
+  zu dienen. Dies erfordert, sich mit ihnen zu treffen. Konsens wird geschätzt,
+  kann aber zermürbend sein, um ihn zu erreichen.
 
 
-  Meetings are not only about planning and reporting (as in Orange
-  organizations), but are also about sustaining a sense of ownership, inclusion
-  and empowerment: in other words, creating a values-based culture.  As a
-  result, meeting practices tend to be more attentive to the underlying
-  processes within the group.
+  Bei Meetings geht es nicht nur um Planung und Berichterstattung (wie in
+  orangen Organisationen), sondern auch um die Aufrechterhaltung eines Gefühls
+  von Eigenverantwortung, Einbeziehung und Befähigung: mit anderen Worten, um
+  die Schaffung einer wertebasierten Kultur. Infolgedessen sind die
+  Meeting-Praktiken tendenziell aufmerksamer gegenüber den zugrunde liegenden
+  Prozessen innerhalb der Gruppe.
 
 
   ### Teal organizations
