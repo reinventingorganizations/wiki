@@ -180,19 +180,24 @@ inPractice: "#### *Die Aktivität von Meetings ist begrenzt und entsteht aus dem
   bestimmt.
 
 
-  See FAVI, below.\ 
+  Siehe FAVI, unten.\ 
 
 
   #### *Agendas*
 
 
-  Traditionally, agendas are thought of as the minimum discipline for a
-  productive meeting. But not necessarily in a Teal workplace. Many of their
-  scheduled meetings have no pre-determined agenda. Rather, one is determined at
-  the beginning, and is based on the topics that hold energy for the
-  participants, at that time. This ensures meetings stay energized, purposeful,
-  and engaging.  The interest is a real and present interest; it's not
-  manufactured via a ritualistic approach.  \ 
+  \r
+
+  \r
+
+  Traditionell gelten Tagesordnungen als die Mindestdisziplin für ein
+  produktives Meeting. Aber nicht unbedingt an einem Teal-Arbeitsplatz. Viele
+  ihrer geplanten Meetings haben keine vorher festgelegte Tagesordnung. Vielmehr
+  wird eine zu Beginn festgelegt und basiert auf den Themen, die zu diesem
+  Zeitpunkt Energie für die Teilnehmer bereithalten. Dies stellt sicher, dass
+  die Meetings angeregt, zielgerichtet und fesselnd bleiben. Das Interesse ist
+  ein echtes und gegenwärtiges Interesse; es wird nicht durch einen
+  ritualisierten Ansatz hergestellt.\ 
 
 
   #### *All-hands meetings*
