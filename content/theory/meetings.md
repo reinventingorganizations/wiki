@@ -17,7 +17,7 @@ perspective: "Meetings dienen je nach Stadium der Organisation unterschiedlichen
   Phase. Die Anzahl der abgehaltenen Meetings nimmt in der Teal-Phase ab.
 
 
-  Die Mitglieder von Teal Organisationen fühlen sich in der Regel stärker
+  Die Mitglieder von Teal-Organisationen fühlen sich in der Regel stärker
   miteinander und mit der Arbeit verbunden und benötigen weniger Meetings zur
   Planung oder Lösung von Problemen.
 
@@ -103,11 +103,11 @@ perspective: "Meetings dienen je nach Stadium der Organisation unterschiedlichen
   Prozessen innerhalb der Gruppe.
 
 
-  ### Teal Organisationen
+  ### Teal-Organisationen
 
 
   Die [Selbstorganisation](../self-management/) erlaubt es den Mitgliedern von
-  [Teal Organisationen](../teal-paradigm-and-organizations/) die Verantwortung
+  [Teal-Organisationen](../teal-paradigm-and-organizations/) die Verantwortung
   für Entscheidungen zu übernehmen, ohne dass eine Genehmigung oder ein Konsens
   erforderlich ist. Infolgedessen sind in der Regel weit weniger Treffen
   erforderlich.
@@ -154,12 +154,12 @@ inPractice: "#### *Die Aktivität von Meetings ist begrenzt und entsteht aus dem
 
   \r
 
-  Insgesamt gibt es tendenziell weniger Meetings in [Teal
-  Organisationen](../teal-paradigm-and-organizations/). In einer traditionellen
-  Pyramidenstruktur werden Meetings benötigt, um Informationen zu sammeln, zu
-  verpacken, zu filtern und weiterzuleiten, während sie die Befehlskette auf und
-  ab fließen.  In selbstverwaltenden Strukturen fällt die Notwendigkeit für
-  viele dieser Meetings weg. Während in [grünen
+  Insgesamt gibt es tendenziell weniger Meetings in
+  [Teal-Organisationen](../teal-paradigm-and-organizations/). In einer
+  traditionellen Pyramidenstruktur werden Meetings benötigt, um Informationen zu
+  sammeln, zu verpacken, zu filtern und weiterzuleiten, während sie die
+  Befehlskette auf und ab fließen.  In selbstverwaltenden Strukturen fällt die
+  Notwendigkeit für viele dieser Meetings weg. Während in [grünen
   Organisationen](../green-paradigm-and-organizations/) Meetings ein Weg sein
   können, eine \"Bottom-up\"-Beteiligung aufzubauen, ist dies in einer
   selbstverwalteten Struktur bereits \"eingebaut\".
