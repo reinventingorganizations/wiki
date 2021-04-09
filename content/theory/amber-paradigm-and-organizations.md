@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Amber Paradigm and Organizations
-name: Amber Paradigm and Organizations
+name: Paradygmat Bursztynu i Organizacje
 sortOrder: 3
 category: history
 intro: >-
