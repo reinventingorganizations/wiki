@@ -299,15 +299,24 @@ inPractice: "#### *Die Aktivität von Meetings ist begrenzt und entsteht aus dem
   [Zweck](../listening-to-purpose/) übereinstimmen.
 
 
-  #### Training in meeting practices
+  #### Schulung in Meeting-Praktiken
 
 
-  Some train new members in effective meeting formats. New members need to be
-  comfortable to participate in decision-making procedures.
+  \r
+
+  \r
+
+  Einige schulen neue Mitglieder in effektiven Besprechungsformaten. Neue
+  Mitglieder müssen sich wohlfühlen, um an Entscheidungsprozessen teilnehmen zu
+  können.
 
 
-  Training in facilitation, communication skills and mindsets support
-  collegiality, trust building, and the resolution of tensions.
+  \r
+
+  \r
+
+  Schulungen in Moderation, Kommunikationsfähigkeiten und Denkweisen
+  unterstützen Kollegialität, Vertrauensbildung und die Lösung von Spannungen.
 
 
   #### Starting at the right place
