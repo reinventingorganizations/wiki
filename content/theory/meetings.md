@@ -135,10 +135,11 @@ perspective: "Meetings dienen je nach Stadium der Organisation unterschiedlichen
   Mitglieder werden in der Regel in diesen Prozessen geschult, damit sie
   vollständig teilnehmen können.\r"
 inPractice: >-
-  #### *Meeting activity is limited and arises from the 'need to meet'*
+  #### *Die Aktivität von Meetings ist begrenzt und entsteht aus dem "Bedürfnis,
+  sich zu treffen".*
 
 
-  Meetings can arise spontaneously whenever a member of the organization senses a need, and takes the initiative.  Meeting structures and facilitation support this [self-organizing ](../self-management/)spirit. The increased transparency in Teal organizations reduces the number and length of some meetings. When meetings are held, care is taken to use specific practices that foster a sense of [wholeness](../wholeness/).
+  Meetings können spontan entstehen, wenn ein Mitglied der Organisation ein Bedürfnis verspürt und die Initiative ergreift.  Meeting-Strukturen und Moderation unterstützen diesen [selbstorganisierenden](../self-management/) Geist. Die erhöhte Transparenz in Teal Organisationen reduziert die Anzahl und Länge einiger Meetings. Wenn Meetings abgehalten werden, wird darauf geachtet, bestimmte Praktiken zu verwenden, die ein Gefühl der [Ganzheitlichkeit](../wholeness/) fördern.
 
 
   #### *Self-management requires far fewer meetings*
