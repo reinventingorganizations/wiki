@@ -319,32 +319,42 @@ inPractice: "#### *Die Aktivität von Meetings ist begrenzt und entsteht aus dem
   unterstützen Kollegialität, Vertrauensbildung und die Lösung von Spannungen.
 
 
-  #### Starting at the right place
+  #### Am richtigen Ort beginnen
 
 
-  The beginning of a meeting sets the mood. [Teal Organizations
-  ](../teal-paradigm-and-organizations/)may use the following practices:
+  \r
+
+  \r
+
+  Der Beginn eines Meetings bestimmt die Stimmung. In
+  [Teal-Organisationen](../teal-paradigm-and-organizations/)können die folgenden
+  Praktiken verwendet werden:
 
 
-  * One widespread practice is to start with a 'check-in' round. Participants
-  share how they feel in the moment, as they enter. This helps all to listen
-  within, to their bodies and sensations, and to build awareness. Naming an
-  emotion is often all it takes to deal with it.  Thus, this practice helps
-  participants let go of distractions while supporting everyone to be present
-  for the current meeting.\ 
+  \r
 
-  * Or every meeting starts with a minute of silence to ground people in the
-  moment.\ 
+  \r
 
-  * Meetings may start with at short reading that one person has prepared.
-  After a few moments of silence, participants share the thoughts this has
-  sparked. \ 
+  * Eine weit verbreitete Praxis ist es, mit einer \"Check-in\"-Runde zu
+  beginnen. Die Teilnehmer teilen mit, wie sie sich im Moment fühlen, wenn sie
+  eintreten. Das hilft allen, in sich hineinzuhören, auf ihren Körper und ihre
+  Empfindungen zu hören und Bewusstsein zu entwickeln. Eine Emotion zu benennen
+  ist oft alles, was es braucht, um mit ihr umzugehen. So hilft diese Übung den
+  Teilnehmern, Ablenkungen loszulassen, während sie jeden dabei unterstützt, für
+  das aktuelle Meeting präsent zu sein. \r
 
-  * Another practice is to start every meeting with all sharing a brief story
-  of someone they had recently thanked. This highlights possibility, gratitude,
-  celebration, and trust. \ 
+  * Oder jedes Meeting beginnt mit einer Schweigeminute, um die Menschen im
+  Moment zu erden. \r
 
-  * Yet another variant is a minute of silence and/or a joke.
+  * Meetings können mit einer kurzen Lesung beginnen, die eine Person
+  vorbereitet hat. Nach ein paar Momenten der Stille teilen die Teilnehmer die
+  Gedanken mit, die dies ausgelöst hat.  \r
+
+  * Eine andere Praxis ist, jedes Treffen damit zu beginnen, dass alle eine
+  kurze Geschichte von jemandem erzählen, dem sie kürzlich gedankt haben. Das
+  hebt Möglichkeiten, Dankbarkeit, Feiern und Vertrauen hervor.  \r
+
+  * Eine weitere Variante ist eine Schweigeminute und/oder ein Witz.
 
 
   #### Keeping on track
