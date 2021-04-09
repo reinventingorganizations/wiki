@@ -3,14 +3,16 @@ layout: case
 tags: cases
 name: Jaipur Rugs
 date: 2021-04-06T06:24:29.395Z
-introduction: >
+introduction: >-
   Jaipur Rugs has 700 employees and a network of >40,000 artisans in 600 rural
   villages spread across five Indian states. Its business model is end-to-end,
   from sourcing wool to exporting handmade rugs.
 
   More can be read about Jaipur rugs
 
-  - In an article from Doug Kirkpatrick in 2019 (https://medium.com/redshift-3/jaipur-rugs-self-managed-art-that-you-can-walk-on-5756479726e0)
+
+  * In an article from Doug Kirkpatrick in 2019^[
+    [https://medium.com/redshift-3/jaipur-rugs-self-managed-art-that-you-can-walk-on-5756479726e0](<* https://medium.com/redshift-3/jaipur-rugs-self-managed-art-that-you-can-walk-on-5756479726e0>) Self-Managed Art That You Can Walk On Doug Kirkpatrick April 11, 2019]
 industry: C. Manufacturing
 geography: India
 companySize: "> 500"
