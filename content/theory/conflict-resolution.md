@@ -14,26 +14,27 @@ intro: >-
 
   ![](/media/conflict.jpg)
 perspective: >-
-  Conflict resolution is a vital piece of the system in a Teal organization. If
-  there is no boss to act as a conflict meditator, then a new process to handle
-  conflict is required. In a Teal organization, conflict resolution is based on
-  peer relationships. Without this approach, the organization would find it very
-  difficult, if not impossible, to function.
+  Rozwiązywanie konfliktów jest istotnym elementem systemu w organizacji
+  Turkusu. Jeśli nie ma szefa, który mógłby działać jako mediator w konflikcie,
+  wymagany jest nowy proces radzenia sobie z konfliktem. W organizacji Turkusu
+  rozwiązywanie konfliktów opiera się na relacjach ze współpracownikami. Bez
+  takiego podejścia organizacja miałaby bardzo trudne, jeśli nie niemożliwe,
+  funkcjonowanie.
 
 
-  Most Teal organizations work on certain assumptions about human nature: that workers are thoughtful, trustworthy adults, capable of being accountable and responsible for their decisions and actions. In a workplace based on Teal assumptions, a clear conflict resolution process, together with appropriate training, gives people the path and skills to work through disagreements with maturity and grace
+  Większość organizacji Turkusu opiera się na pewnych założeniach dotyczących ludzkiej natury: pracownicy są rozważnymi, godnymi zaufania dorosłymi ludźmi, zdolnymi do bycia odpowiedzialnymi za swoje decyzje i działania. W miejscu pracy opartym na założeniach Turkusu jasny proces rozwiązywania konfliktów, wraz z odpowiednim szkoleniem, daje ludziom ścieżkę i umiejętności do radzenia sobie z nieporozumieniami z dojrzałością i gracją.
 
 
-  Every historical stage has given birth to a distinct perspective on conflict resolution and to very different practices:
+  Każdy etap historyczny dał początek odrębnemu spojrzeniu na rozwiązywanie konfliktów i bardzo różnym praktykom:
 
 
-  #### **Red organizations**
+  #### **Czerwone organizacje**
 
 
   In the [Red paradigm](../red-organizations/), there is dominant exercise of power by the boss or leader to keep others in line. Fear is the glue of the organization. In general, conflict is handled by suppression, power or dominance, and strict rules are enforced by fear of consequences.
 
 
-  #### **Amber organizations**
+  #### **Bursztynowe organizacje**
 
 
   The [Amber paradigm](../amber-paradigm-and-organizations/) has formalized roles within a hierarchical pyramid structure and top-down command and control (what and how). Stability is valued above all and is maintained through clearly defined roles and processes.
@@ -42,22 +43,22 @@ perspective: >-
   Methods for managing conflict include avoidance or suppression. Rules are imposed by those with authority and may be enforced through legal action. These types of organizations have strong HR processes for managing conflict and grievances between employee and employer.
 
 
-  #### **Orange organizations**
+  #### **Pomarańczowe organizacje**
 
 
   In the [Orange paradigm](../orange-paradigm-and-organizations/), there is also a hierarchical structure, but management is by objective (definition of the what; with more freedom on the how). In many Orange organisations, although there are formal conflict resolution procedures, conflict is often not well adressed. Although individuals are often encouraged to resolve disagreements by themselves, conflict may often need to be settled by intervention from a third party. This is most often done by referring the issue to the boss or by deferring to HR policies and procedures. These procedures create a level of objective independence from "the those" in conflict.
 
 
-  #### **Green organizations**
+  #### **Zielone organizacje**
 
 
   The [Green paradigm ](../green-paradigm-and-organizations/)again uses a classical pyramid structure, but with a stronger focus on empowerment. Green organizations have values-based cultures that include principles of integrity, respect, and openness. There is a large investment in fostering collaboration, communication, problem solving and drafting agreements that meet underlying needs. These processes can sometimes remove the source of conflict. When they do arise, conflicts can take a long time to resolve as groups seek to find a harmonious solution. However, the boss is usually the final arbiter in conflict situations.
 
 
-  #### **Teal organizations**
+  #### **Turkusowe organizacje**
 
 
-  In [Teal organizations](../teal-paradigm-and-organizations/), conflict is seen as a natural part of human interaction and, when safely supported, is often viewed as healthy and creative. Conflict handled with grace and tenderness can create possibility and learning for all involved. In Teal organizations time is regularly devoted to surface and address conflicts in individual and group settings. Often formal, multi-step conflict resolution practices are used and everyone is trained in conflict management. Conflict is restricted to the parties involved, and mediators, or peers who might be asked to serve on a mediating panel. Such a panel rarely has responsibility to impose a solution. The focus is instead on helping the involved parties find a solution.
+  W [Turkusowych organizacjach](../teal-paradigm-and-organizations/), konflikt jest postrzegany jako naturalny element interakcji międzyludzkich, a gdy jest bezpiecznie wspierany, jest często postrzegany jako zdrowy i kreatywny. Konflikt rozwiązywany z wdziękiem i czułością może stworzyć możliwości i naukę dla wszystkich zaangażowanych. W organizacjach Turkusu regularnie poświęca się czas na ujawnianie i rozwiązywanie konfliktów w konfiguracjach indywidualnych i grupowych. Często stosowane są formalne, wieloetapowe praktyki rozwiązywania konfliktów, a każdy jest przeszkolony w zarządzaniu konfliktem. Konflikt jest ograniczony do zaangażowanych stron i mediatorów lub współpracowników, którzy mogą zostać poproszeni o zasiadanie w panelu mediacyjnym. Taki panel rzadko jest odpowiedzialny za narzucenie rozwiązania. Zamiast tego skupiamy się na pomocy zaangażowanym stronom w znalezieniu rozwiązania.
 inPractice: >-
   **An organizational culture that supports effective conflict resolution** 
 
