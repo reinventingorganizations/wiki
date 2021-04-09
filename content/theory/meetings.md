@@ -36,7 +36,7 @@ perspective: >-
   ### Orange Organisationen
 
 
-  [Orange organizations](https://reinventingorganizations-wiki.netlify.app/theory/orange-paradigm-and-organizations/) manage performance carefully to ensure that targets and goals are achieved. This requires regular (weekly/monthly/quarterly/annual) meetings at most levels in the organization.
+  [Orange Organisationen](https://reinventingorganizations-wiki.netlify.app/theory/orange-paradigm-and-organizations/) verwalten die Leistung sorgfältig, um sicherzustellen, dass die Ziele und Vorgaben erreicht werden. Dies erfordert regelmäßige (wöchentliche/monatliche/quartalsweise/jährliche) Besprechungen auf den meisten Ebenen der Organisation.
 
 
   Meetings are held for many reasons :
