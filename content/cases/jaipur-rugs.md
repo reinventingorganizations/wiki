@@ -8,11 +8,12 @@ introduction: >-
   villages spread across five Indian states. Its business model is end-to-end,
   from sourcing wool to exporting handmade rugs.
 
-  More can be read about Jaipur rugs
+  More can be found about Jaipur rugs, for example:
 
 
-  * In an article from Doug Kirkpatrick in 2019^[
+  * Article from Doug Kirkpatrick in 2019^[
     [https://medium.com/redshift-3/jaipur-rugs-self-managed-art-that-you-can-walk-on-5756479726e0](<* https://medium.com/redshift-3/jaipur-rugs-self-managed-art-that-you-can-walk-on-5756479726e0>) Self-Managed Art That You Can Walk On Doug Kirkpatrick April 11, 2019]
+  * Leadermorphosis Podcast Interview of M. Nand Kishore Chaudary^\[[https://leadermorphosis.co/ep-57-nand-kishore-chaudhary-from-jaipur-rugs-on-love-consciousness-and-self-management](<* https://leadermorphosis.co/ep-57-nand-kishore-chaudhary-from-jaipur-rugs-on-love-consciousness-and-self-management>) love, collective consciousness and self-management]
 industry: C. Manufacturing
 geography: India
 companySize: "> 500"
