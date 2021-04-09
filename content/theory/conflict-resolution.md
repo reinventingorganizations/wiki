@@ -6,9 +6,10 @@ name: Rozwiązywanie konfliktów
 sortOrder: 4
 category: Daily practices
 intro: >-
-  The topic of Conflict Resolution includes how conflicts are dealt with and by
-  whom. In particular we discuss the types of processes used, factors that
-  reduce conflict avoidance and structures that prevent conflict.
+  Temat rozwiązywania konfliktów obejmuje sposoby w jaki są rozwiązywane
+  konfliktów i przez kogo. W szczególności omawiamy rodzaje stosowanych
+  procesów, czynniki ograniczające unikanie konfliktów i struktury, które
+  zapobiegają konfliktom.
 
 
   ![](/media/conflict.jpg)
