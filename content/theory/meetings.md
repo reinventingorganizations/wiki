@@ -273,20 +273,30 @@ inPractice: "#### *Die Aktivität von Meetings ist begrenzt und entsteht aus dem
   * Lobpreis-Treffen im [ESBZ](http://www.ev-schule-zentrum.de/aktuell/)
 
 
-
-  #### Highlighting sense of wholeness and purpose
-
-
-  Meetings bring out the best and the worst of human nature.
+  #### Hervorhebung des Gefühls der Ganzheitlichkeit und des Zwecks
 
 
-  In the best, they are places where others help us listen in to what we
-  really care about. But meetings can also be playfields for egos. To feel safe,
-  some seek to dominate proceedings. Others withdraw. In
-  self-managingorganizations the absence of a boss takes some of these fears out
-  of the room. But in a group of peers egos can dominate just as well. A variety
-  of approaches support productive interactions consistent with [wholeness
-  ](/wholeness/)and [purpose](../listening-to-purpose/).
+  \r
+
+  \r
+
+  Meetings bringen das Beste und das Schlechteste der menschlichen Natur zum
+  Vorschein.
+
+
+  \r
+
+  \r
+
+  Im besten Fall sind sie Orte, an denen andere uns helfen, in das
+  hineinzuhören, was uns wirklich am Herzen liegt. Aber Meetings können auch
+  Spielwiese für Egos sein. Um sich sicher zu fühlen, versuchen manche, das
+  Geschehen zu dominieren. Andere ziehen sich zurück. In selbstverwalteten
+  Organisationen nimmt die Abwesenheit eines Chefs einige dieser Ängste aus dem
+  Raum. Aber in einer Gruppe von Gleichaltrigen können Egos genauso gut
+  dominieren. Eine Vielzahl von Ansätzen unterstützt produktive Interaktionen,
+  die mit [Ganzheitlichkeit](/wholholholess/) und
+  [Zweck](../listening-to-purpose/) übereinstimmen.
 
 
   #### Training in meeting practices
