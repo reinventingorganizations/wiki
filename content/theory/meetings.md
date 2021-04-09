@@ -27,13 +27,13 @@ perspective: >-
   In [roten Organisationen](../red-organizations/) werden Versammlungen abgehalten, wenn der Geschäftsführer oder Boss sie für notwendig hält. Sie können abgehalten werden, um Ankündigungen zu machen, Urteile zu fällen oder um Zeremonien durchzuführen. Manchmal werden sie auch abgehalten, um Rat zu suchen oder Informationen zu sammeln.
 
 
-  ### Amber organizations
+  ### Bernstein Organisationen
 
 
-  In [Amber organizations](https://reinventingorganizations-wiki.netlify.app/theory/amber-paradigm-and-organizations/), meetings are an important method of hierarchical control. They are used to gather, distill, and pass information up and down the organization. The highest-ranking person is in charge. It is incumbent on the others to be prepared to report information or provide answers as required.  
+  In [bernstein Organisationen](https://reinventingorganizations-wiki.netlify.app/theory/amber-paradigm-and-organizations/) sind Meetings eine wichtige Methode der hierarchischen Steuerung. Sie dienen dazu, Informationen zu sammeln, zu destillieren und nach oben und unten in der Organisation weiterzugeben. Die ranghöchste Person hat das Sagen. Es obliegt den anderen, sich bereit zu halten, um bei Bedarf Informationen zu berichten oder Antworten zu geben.   
 
 
-  ### Orange organizations
+  ### Orange Organisationen
 
 
   [Orange organizations](https://reinventingorganizations-wiki.netlify.app/theory/orange-paradigm-and-organizations/) manage performance carefully to ensure that targets and goals are achieved. This requires regular (weekly/monthly/quarterly/annual) meetings at most levels in the organization.
