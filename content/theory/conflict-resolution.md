@@ -31,28 +31,28 @@ perspective: >-
   #### **Czerwone organizacje**
 
 
-  In the [Red paradigm](../red-organizations/), there is dominant exercise of power by the boss or leader to keep others in line. Fear is the glue of the organization. In general, conflict is handled by suppression, power or dominance, and strict rules are enforced by fear of consequences.
+  W [Czerwonym paradygmacie](../red-organizations/) dominująca władza jest sprawowana przez szefa lub lidera, aby trzymać innych w ryzach. Strach jest spoiwem organizacji. Ogólnie rzecz biorąc, konflikt jest rozwiązywany przez tłumienie, władzę lub dominację, a surowe zasady są egzekwowane przez strach przed konsekwencjami.
 
 
   #### **Bursztynowe organizacje**
 
 
-  The [Amber paradigm](../amber-paradigm-and-organizations/) has formalized roles within a hierarchical pyramid structure and top-down command and control (what and how). Stability is valued above all and is maintained through clearly defined roles and processes.
+  [Bursztynowy paradygmat](../amber-paradigm-and-organizations/) ma sformalizowane role w ramach hierarchicznej struktury piramidy oraz odgórnego dowodzenia i kontroli (co i jak). Stabilność jest ceniona przede wszystkim i jest utrzymywana poprzez jasno określone role i procesy.
 
 
-  Methods for managing conflict include avoidance or suppression. Rules are imposed by those with authority and may be enforced through legal action. These types of organizations have strong HR processes for managing conflict and grievances between employee and employer.
+  Metody zarządzania konfliktami obejmują unikanie lub tłumienie. Zasady są nakładane przez osoby posiadające odpowiednie uprawnienia i mogą być egzekwowane na drodze prawnej. Tego typu organizacje mają silne procesy HR do zarządzania konfliktami i skargami między pracownikiem a pracodawcą.
 
 
   #### **Pomarańczowe organizacje**
 
 
-  In the [Orange paradigm](../orange-paradigm-and-organizations/), there is also a hierarchical structure, but management is by objective (definition of the what; with more freedom on the how). In many Orange organisations, although there are formal conflict resolution procedures, conflict is often not well adressed. Although individuals are often encouraged to resolve disagreements by themselves, conflict may often need to be settled by intervention from a third party. This is most often done by referring the issue to the boss or by deferring to HR policies and procedures. These procedures create a level of objective independence from "the those" in conflict.
+  W [Pomarańczowym paradygmacie](../orange-paradigm-and-organizations/) istnieje również struktura hierarchiczna, ale zarządzanie opiera się na celu (definicja tego, co; z większą swobodą w zakresie sposobu). W wielu organizacjach Pomarańczu, mimo że istnieją formalne procedury rozwiązywania konfliktów, często nie są one dobrze rozwiązywane. Chociaż często zachęca się poszczególne osoby do samodzielnego rozwiązywania sporów, często konflikt może wymagać interwencji strony trzeciej. Odbywa się to najczęściej poprzez skierowanie sprawy do szefa lub odwołanie się do zasad i procedur HR. Procedury te tworzą pewien poziom obiektywnej niezależności od "tych" w konflikcie.
 
 
   #### **Zielone organizacje**
 
 
-  The [Green paradigm ](../green-paradigm-and-organizations/)again uses a classical pyramid structure, but with a stronger focus on empowerment. Green organizations have values-based cultures that include principles of integrity, respect, and openness. There is a large investment in fostering collaboration, communication, problem solving and drafting agreements that meet underlying needs. These processes can sometimes remove the source of conflict. When they do arise, conflicts can take a long time to resolve as groups seek to find a harmonious solution. However, the boss is usually the final arbiter in conflict situations.
+  W [Zielonym paradygmacie](../green-paradigm-and-organizations/) ponownie używa się klasycznej struktury piramidy, ale z większym naciskiem na upełnomocnienie. Organizacje Zieleni mają kulturę opartą na wartościach, która obejmuje zasady uczciwości, szacunku i otwartości. Dużo inwestuje się we wspieranie współpracy, komunikację, rozwiązywanie problemów i przygotowywanie porozumień, które odpowiadają podstawowym potrzebom. Te procesy mogą czasami usunąć źródło konfliktu. Kiedy się pojawiają, ich rozwiązanie może zająć dużo czasu, ponieważ grupy starają się znaleźć harmonijne rozwiązanie. Jednak szef jest zwykle ostatecznym arbitrem w sytuacjach konfliktowych.
 
 
   #### **Turkusowe organizacje**
