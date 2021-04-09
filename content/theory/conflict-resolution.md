@@ -137,7 +137,7 @@ inPractice: >-
   ##### ***Szkolenie z umiejętności interpersonalnych***
 
 
-  Ponieważ umiejętności skutecznego rozwiązywania konfliktów są tak centralne w samozarządzających się organizacjach, wiele organizacji szkoli wszystkich swoich współpracowników w zakresie umiejętności interpersonalnych, aby umożliwić im pełne wdzięku radzenie sobie z konfliktem. Zasadniczo w pierwszych tygodniach pracy nowi pracownicy przechodzą podstawowe szkolenie obejmujące: zarządzanie sobą, głębokie słuchanie, konstruktywne radzenie sobie z konfliktami i tworzenie bezpiecznego środowiska. Na przykład firmy takie jak ESBZ i Buurtzorg szkolą kolegów w [Komunikacji Bez Przemocy](https://en.wikipedia.org/wiki/Nonviolent_Communication) opracowanej przez Marshala Rosenberga.
+  Ponieważ umiejętności skutecznego rozwiązywania konfliktów są tak centralne w samozarządzających się organizacjach, wiele organizacji szkoli wszystkich swoich współpracowników w zakresie umiejętności interpersonalnych, aby umożliwić im pełne wdzięku radzenie sobie z konfliktem. Zasadniczo w pierwszych tygodniach pracy nowi pracownicy przechodzą podstawowe szkolenie obejmujące: zarządzanie sobą, głębokie słuchanie, konstruktywne radzenie sobie z konfliktami i tworzenie bezpiecznego środowiska. Na przykład firmy takie jak ESBZ i Buurtzorg szkolą kolegów w [Porozumienie Bez Przemocy](https://en.wikipedia.org/wiki/Nonviolent_Communication) opracowanej przez Marshala Rosenberga.
 faq:
   - question: If so much time is spent talking through every conflict, when does the
       work get done?
