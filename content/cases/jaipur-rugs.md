@@ -10,7 +10,7 @@ introduction: >
 
   More can be read about Jaipur rugs
 
-  - In an article from Doug KirkPatrick in 2019 (https://medium.com/redshift-3/jaipur-rugs-self-managed-art-that-you-can-walk-on-5756479726e0)
+  - In an article from Doug Kirkpatrick in 2019 (https://medium.com/redshift-3/jaipur-rugs-self-managed-art-that-you-can-walk-on-5756479726e0)
 industry: C. Manufacturing
 geography: India
 companySize: "> 500"
