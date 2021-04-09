@@ -165,11 +165,19 @@ inPractice: "#### *Die Aktivität von Meetings ist begrenzt und entsteht aus dem
   selbstverwalteten Struktur bereits \"eingebaut\".
 
 
-  #### *Regular meetings at the operational team/circle level*
+  #### *Regelmäßige Besprechungen auf der Ebene des operativen Teams/Zirkels*
 
 
-  The frequency of team/circle meetings is determined by the nature of the
-  work.
+  \r
+
+  \r
+
+  \r
+
+  \r
+
+  Die Häufigkeit der Team-/Kreissitzungen wird durch die Art der Arbeit
+  bestimmt.
 
 
   See FAVI, below.\ 
