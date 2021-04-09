@@ -134,48 +134,83 @@ perspective: "Meetings dienen je nach Stadium der Organisation unterschiedlichen
   Weise miteinander und mit dem Zweck der Besprechung auseinandersetzen. Neue
   Mitglieder werden in der Regel in diesen Prozessen geschult, damit sie
   vollständig teilnehmen können.\r"
-inPractice: >-
-  #### *Die Aktivität von Meetings ist begrenzt und entsteht aus dem "Bedürfnis,
-  sich zu treffen".*
+inPractice: "#### *Die Aktivität von Meetings ist begrenzt und entsteht aus dem
+  \"Bedürfnis, sich zu treffen\".*
 
 
-  Meetings können spontan entstehen, wenn ein Mitglied der Organisation ein Bedürfnis verspürt und die Initiative ergreift.  Meeting-Strukturen und Moderation unterstützen diesen [selbstorganisierenden](../self-management/) Geist. Die erhöhte Transparenz in Teal Organisationen reduziert die Anzahl und Länge einiger Meetings. Wenn Meetings abgehalten werden, wird darauf geachtet, bestimmte Praktiken zu verwenden, die ein Gefühl der [Ganzheitlichkeit](../wholeness/) fördern.
+  Meetings können spontan entstehen, wenn ein Mitglied der Organisation ein
+  Bedürfnis verspürt und die Initiative ergreift.  Meeting-Strukturen und
+  Moderation unterstützen diesen [selbstorganisierenden](../self-management/)
+  Geist. Die erhöhte Transparenz in Teal Organisationen reduziert die Anzahl und
+  Länge einiger Meetings. Wenn Meetings abgehalten werden, wird darauf geachtet,
+  bestimmte Praktiken zu verwenden, die ein Gefühl der
+  [Ganzheitlichkeit](../wholeness/) fördern.
 
 
-  #### *Self-management requires far fewer meetings*
+  #### *Selbstmanagement erfordert deutlich weniger Meetings*
 
 
-  Overall there tend to be fewer meetings in [Teal organizations](../teal-paradigm-and-organizations/). In a traditional pyramid structure, meetings are needed to gather, package, filter and transmit information as it flows up and down the chain of command.  In self-managing structures, the need for many of these meetings falls away. Whereas in [Green organizations](../green-paradigm-and-organizations/) meetings may be a way of building ‘bottom up’ involvement, this is already 'built in' to a self-managing structure.
+  \r
+
+  \r
+
+  Insgesamt gibt es tendenziell weniger Meetings in [Teal
+  Organisationen](../teal-paradigm-and-organizations/). In einer traditionellen
+  Pyramidenstruktur werden Meetings benötigt, um Informationen zu sammeln, zu
+  verpacken, zu filtern und weiterzuleiten, während sie die Befehlskette auf und
+  ab fließen.  In selbstverwaltenden Strukturen fällt die Notwendigkeit für
+  viele dieser Meetings weg. Während in [grünen
+  Organisationen](../green-paradigm-and-organizations/) Meetings ein Weg sein
+  können, eine \"Bottom-up\"-Beteiligung aufzubauen, ist dies in einer
+  selbstverwalteten Struktur bereits \"eingebaut\".
 
 
   #### *Regular meetings at the operational team/circle level*
 
 
-  The frequency of team/circle meetings is determined by the nature of the work.
+  The frequency of team/circle meetings is determined by the nature of the
+  work.
 
 
-  See FAVI, below. 
+  See FAVI, below.\ 
 
 
   #### *Agendas*
 
 
-  Traditionally, agendas are thought of as the minimum discipline for a productive meeting. But not necessarily in a Teal workplace. Many of their scheduled meetings have no pre-determined agenda. Rather, one is determined at the beginning, and is based on the topics that hold energy for the participants, at that time. This ensures meetings stay energized, purposeful, and engaging.  The interest is a real and present interest; it's not manufactured via a ritualistic approach.   
+  Traditionally, agendas are thought of as the minimum discipline for a
+  productive meeting. But not necessarily in a Teal workplace. Many of their
+  scheduled meetings have no pre-determined agenda. Rather, one is determined at
+  the beginning, and is based on the topics that hold energy for the
+  participants, at that time. This ensures meetings stay energized, purposeful,
+  and engaging.  The interest is a real and present interest; it's not
+  manufactured via a ritualistic approach.  \ 
 
 
   #### *All-hands meetings*
 
 
-  All-hands meetings may be scheduled when there is a new and important information to share: quarterly results, the annual values survey, a strategic inflection point, and so forth. The information is not simply 'presented' top-down – it is discussed and debated. Questions can take the meeting in any direction; frustrations can be vented; accomplishments spontaneously celebrated. More is at play than simply information exchange. Trust in the organization, and its values, is being tested and reaffirmed. Will the senior people be candid, humble, and vulnerable? Will they face the difficult questions? Will they involve the whole group?
+  All-hands meetings may be scheduled when there is a new and important
+  information to share: quarterly results, the annual values survey, a strategic
+  inflection point, and so forth. The information is not simply 'presented'
+  top-down – it is discussed and debated. Questions can take the meeting in any
+  direction; frustrations can be vented; accomplishments spontaneously
+  celebrated. More is at play than simply information exchange. Trust in the
+  organization, and its values, is being tested and reaffirmed. Will the senior
+  people be candid, humble, and vulnerable? Will they face the difficult
+  questions? Will they involve the whole group?
 
 
-  In contrast, all-hands meetings in traditional companies tend to be presentation-driven--or otherwise avoided because of their unpredictability, and risk. 
+  In contrast, all-hands meetings in traditional companies tend to be
+  presentation-driven--or otherwise avoided because of their unpredictability,
+  and risk.\ 
 
 
   #### *Form follows function: meetings emerge on an ad hoc basis*
 
 
-  Meetings needed to coordinate tasks across teams, or launch special projects, arise spontaneously. It’s an organic way of organizing. 
+  Meetings needed to coordinate tasks across teams, or launch special
+  projects, arise spontaneously. It’s an organic way of organizing.\ 
 
 
   #### *A variety of meeting formats for different purposes*
@@ -184,11 +219,14 @@ inPractice: >-
   Examples include:
 
 
-  * Team [decision-making ](../decision-making/)meetings at [Buurtzorg ](http://www.buurtzorgnederland.com/)
+  * Team [decision-making ](../decision-making/)meetings at [Buurtzorg
+  ](http://www.buurtzorgnederland.com/)
 
-  * Holocratic Governance vs. Tactical meetings at [HolocracyOne ](http://www.holacracy.org/)
+  * Holocratic Governance vs. Tactical meetings at [HolocracyOne
+  ](http://www.holacracy.org/)
 
-  * [On-boarding ](../onboarding/)meetings / Departure meetings as at [CC&R ](http://www.couragerenewal.org/)
+  * [On-boarding ](../onboarding/)meetings / Departure meetings as at [CC&R
+  ](http://www.couragerenewal.org/)
 
   * Appraisal meetings
 
@@ -209,31 +247,50 @@ inPractice: >-
   Meetings bring out the best and the worst of human nature.
 
 
-  In the best, they are places where others help us listen in to what we really care about. But meetings can also be playfields for egos. To feel safe, some seek to dominate proceedings. Others withdraw. In self-managingorganizations the absence of a boss takes some of these fears out of the room. But in a group of peers egos can dominate just as well. A variety of approaches support productive interactions consistent with [wholeness ](/wholeness/)and [purpose](../listening-to-purpose/).
+  In the best, they are places where others help us listen in to what we
+  really care about. But meetings can also be playfields for egos. To feel safe,
+  some seek to dominate proceedings. Others withdraw. In
+  self-managingorganizations the absence of a boss takes some of these fears out
+  of the room. But in a group of peers egos can dominate just as well. A variety
+  of approaches support productive interactions consistent with [wholeness
+  ](/wholeness/)and [purpose](../listening-to-purpose/).
 
 
   #### Training in meeting practices
 
 
-  Some train new members in effective meeting formats. New members need to be comfortable to participate in decision-making procedures.
+  Some train new members in effective meeting formats. New members need to be
+  comfortable to participate in decision-making procedures.
 
 
-  Training in facilitation, communication skills and mindsets support collegiality, trust building, and the resolution of tensions.
+  Training in facilitation, communication skills and mindsets support
+  collegiality, trust building, and the resolution of tensions.
 
 
   #### Starting at the right place
 
 
-  The beginning of a meeting sets the mood. [Teal Organizations ](../teal-paradigm-and-organizations/)may use the following practices:
+  The beginning of a meeting sets the mood. [Teal Organizations
+  ](../teal-paradigm-and-organizations/)may use the following practices:
 
 
-  * One widespread practice is to start with a 'check-in' round. Participants share how they feel in the moment, as they enter. This helps all to listen within, to their bodies and sensations, and to build awareness. Naming an emotion is often all it takes to deal with it.  Thus, this practice helps participants let go of distractions while supporting everyone to be present for the current meeting. 
+  * One widespread practice is to start with a 'check-in' round. Participants
+  share how they feel in the moment, as they enter. This helps all to listen
+  within, to their bodies and sensations, and to build awareness. Naming an
+  emotion is often all it takes to deal with it.  Thus, this practice helps
+  participants let go of distractions while supporting everyone to be present
+  for the current meeting.\ 
 
-  * Or every meeting starts with a minute of silence to ground people in the moment. 
+  * Or every meeting starts with a minute of silence to ground people in the
+  moment.\ 
 
-  * Meetings may start with at short reading that one person has prepared. After a few moments of silence, participants share the thoughts this has sparked.  
+  * Meetings may start with at short reading that one person has prepared.
+  After a few moments of silence, participants share the thoughts this has
+  sparked. \ 
 
-  * Another practice is to start every meeting with all sharing a brief story of someone they had recently thanked. This highlights possibility, gratitude, celebration, and trust.  
+  * Another practice is to start every meeting with all sharing a brief story
+  of someone they had recently thanked. This highlights possibility, gratitude,
+  celebration, and trust. \ 
 
   * Yet another variant is a minute of silence and/or a joke.
 
@@ -244,26 +301,39 @@ inPractice: >-
   Additional practices to keep intention and attention in the meeting:
 
 
-  * A volunteer holds of a pair of tingsha bells (two small hand cymbals that can make a crystal-like sound). If the holder feels ground rules are not being respected, she can make the cymbals sing. No one may speak until the cymbal sound has died out. During the silence, all can reflect on the question: "Am I in the service to the topic we are discussing?”  
+  * A volunteer holds of a pair of tingsha bells (two small hand cymbals that
+  can make a crystal-like sound). If the holder feels ground rules are not being
+  respected, she can make the cymbals sing. No one may speak until the cymbal
+  sound has died out. During the silence, all can reflect on the question: \"Am
+  I in the service to the topic we are discussing?” \ 
 
-  * Some use a 'talking stick' or other artifact to regulate turn-taking, slow down the speed of conversation, and increase the quality of listening. 
+  * Some use a 'talking stick' or other artifact to regulate turn-taking, slow
+  down the speed of conversation, and increase the quality of listening.\ 
 
-  * A facilitator may be used when there are specific requirements to fulfil. This may be an external facilitator in some circumstances.  
+  * A facilitator may be used when there are specific requirements to fulfil.
+  This may be an external facilitator in some circumstances. \ 
 
 
   #### Ending meetings
 
 
-  Check-out rounds at the end of the meeting are a natural complement to the initial check-in round. They leave everyone with a sense of the impact of the meeting. A moment of silence is another way to reflect and conclude.  
+  Check-out rounds at the end of the meeting are a natural complement to the
+  initial check-in round. They leave everyone with a sense of the impact of the
+  meeting. A moment of silence is another way to reflect and conclude. \ 
 
 
   #### Meeting transparency / open participation
 
 
-  Upcoming meetings may be listed on the intranet. This allows anyone who wants to share concerns or ideas to attend.  This transparency may extend to outsiders via streaming on the internet. Some claim this transparency results in closer relations with their external partners.
+  Upcoming meetings may be listed on the intranet. This allows anyone who
+  wants to share concerns or ideas to attend.  This transparency may extend to
+  outsiders via streaming on the internet. Some claim this transparency results
+  in closer relations with their external partners.
 
 
-  Meeting cultures in [Teal Organizations ](../teal-paradigm-and-organizations/)have adopted some of the ‘alternative meeting formats’ like Open Space, Art of Hosting, World Café etc.
+  Meeting cultures in [Teal Organizations
+  ](../teal-paradigm-and-organizations/)have adopted some of the ‘alternative
+  meeting formats’ like Open Space, Art of Hosting, World Café etc."
 faq:
   - question: Doesn’t the advice process lead to more meetings rather than less?
     answer: >-
