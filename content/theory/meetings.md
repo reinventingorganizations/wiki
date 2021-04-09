@@ -419,23 +419,61 @@ inPractice: "#### *Die Aktivität von Meetings ist begrenzt und entsteht aus dem
   \"alternativen Besprechungsformate\" wie Open Space, Art of Hosting, World
   Café usw. übernommen."
 faq:
-  - question: Doesn’t the advice process lead to more meetings rather than less?
-    answer: >-
-      Consulting with others, rather than making unilateral decisions, may mean
-      more meetings. However, this is often more than made up for by savings
-      elsewhere.
+  - question: Führt der Beratungsprozess nicht eher zu mehr als zu weniger Meetings?
+    answer: "Sich mit anderen zu beraten, statt einseitige Entscheidungen zu
+      treffen, kann mehr Meetings bedeuten. Dies wird jedoch oft durch
+      Einsparungen an anderer Stelle mehr als wettgemacht.
 
 
-      Frédéric Laloux, tells this story as an illustration:
+      \r
+
+      \r
+
+      Frédéric Laloux, erzählt diese Geschichte zur Veranschaulichung:
 
 
-      “Jos de Blok, CEO of [Buurtzorg](https://www.buurtzorgnederland.com/), often applies the advice process by posting a blog note to the Buurtzorg web in the evening, proposing suggestions for new initiatives and decisions and asking for advice from all the members of the organization. 24 hours later, 50-80% of the employees will have read and perhaps commented. Maybe the overwhelming response is "yes, this is fine", in which case the decision can just be effectuated at this point. Alternatively, he will have received feedback on how he might be overlooking important negative consequences, or how this issue may be more complicated than he is aware off. In this case, he might revise his proposal accordingly and repost it, or sense the need to gather a voluntary group to deal with it. In any case this provides a swift [decision making process](../decision-making/) with very few meetings."
+      \"Jos de Blok, CEO von
+      [Buurtzorg](https://www.buurtzorgnederland.com/), wendet den
+      Beratungsprozess oft an, indem er abends eine Blog-Notiz ins Buurtzorg-Web
+      stellt, in der er Vorschläge für neue Initiativen und Entscheidungen macht
+      und alle Mitglieder der Organisation um Rat bittet. 24 Stunden später
+      haben 50-80 % der Mitarbeiter den Beitrag gelesen und vielleicht
+      kommentiert. Vielleicht ist die überwältigende Antwort \"ja, das ist
+      gut\", in diesem Fall kann die Entscheidung einfach zu diesem Zeitpunkt
+      getroffen werden. In diesem Fall kann die Entscheidung an dieser Stelle
+      einfach umgesetzt werden. Oder er hat Rückmeldungen erhalten, dass er
+      vielleicht wichtige negative Konsequenzen übersehen hat oder dass das
+      Thema komplizierter ist, als ihm bewusst ist. In diesem Fall könnte er
+      seinen Vorschlag entsprechend überarbeiten und neu posten, oder er sieht
+      die Notwendigkeit, eine freiwillige Gruppe zu versammeln, die sich damit
+      befasst. In jedem Fall ermöglicht dies einen schnellen
+      [Entscheidungsfindungsprozess] (../decision-making/) mit sehr wenigen
+      Treffen.\"
 
 
-      Compare this to the process that typically takes place in a traditional 9000 employee hierarchy. Say the CEO wants to change overtime conditions:
+      \r
+
+      Vergleichen Sie dies mit dem Prozess, der typischerweise in einer
+      traditionellen 9000er-Mitarbeiterhierarchie abläuft. Angenommen, der CEO
+      möchte die Überstundenbedingungen ändern:
+
+      \r
 
 
-      First he/she asks the Head of HR to prepare a proposal, who then asks someone more junior to do 'the staff work'. The junior drafts a proposal, maybe shows to a colleague and revises accordingly. Then the Head of HR goes over the draft, and suggests further refinements, before booking a meeting with the CEO who can make further changes. Then it goes to the executive committee...and so on...They want more revisions, and it goes down the line again, and back up again... It may now become political, bringing another layer of complications. If it is now approved, someone in internal communication works on it, and shows the CEO, again. Finally, it is cascaded to the managers who prepare presentations to make a team meetings. The total number meetings that may go into such a decision is huge.
+      Zuerst bittet er/sie den Personalleiter, einen Vorschlag zu
+      erstellen, der dann jemanden, der jünger ist, bittet, \"die
+      Personalarbeit\" zu machen. Der Junior entwirft einen Vorschlag, zeigt ihn
+      vielleicht einem Kollegen und überarbeitet ihn entsprechend. Dann geht der
+      Head of HR den Entwurf durch und schlägt weitere Verfeinerungen vor, bevor
+      er ein Treffen mit dem CEO vereinbart, der weitere Änderungen vornehmen
+      kann. Dann geht es an den Vorstand...und so weiter...Sie wollen weitere
+      Überarbeitungen, und es geht wieder die Linie hinunter, und wieder
+      hinauf... Es kann nun politisch werden, was eine weitere Ebene von
+      Komplikationen mit sich bringt. Wenn es nun genehmigt ist, arbeitet jemand
+      in der internen Kommunikation daran und zeigt es dem CEO, wieder.
+      Schließlich wird es zu den Managern kaskadiert, die Präsentationen
+      vorbereiten, um ein Team-Meeting zu machen. Die Gesamtzahl der Meetings,
+      die in eine solche Entscheidung einfließen können, ist enorm."
 relatedTheory:
   - Culture and Values
   - Feedback and Performance Management
