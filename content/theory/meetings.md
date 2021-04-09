@@ -386,26 +386,38 @@ inPractice: "#### *Die Aktivität von Meetings ist begrenzt und entsteht aus dem
   erfüllen gibt. Dies kann in manchen Fällen ein externer Moderator sein.\ 
 
 
-  #### Ending meetings
+  #### Beendigung von Meetings
 
 
-  Check-out rounds at the end of the meeting are a natural complement to the
-  initial check-in round. They leave everyone with a sense of the impact of the
-  meeting. A moment of silence is another way to reflect and conclude. \ 
+  \r
+
+  \r
+
+  Check-out-Runden am Ende des Meetings sind eine natürliche Ergänzung zur
+  anfänglichen Check-in-Runde. Sie hinterlassen bei allen ein Gefühl für die
+  Wirkung des Meetings. Ein Moment der Stille ist eine weitere Möglichkeit, um
+  zu reflektieren und abzuschließen.\ 
 
 
-  #### Meeting transparency / open participation
+  #### Meeting-Transparenz/offene Teilnahme
 
 
-  Upcoming meetings may be listed on the intranet. This allows anyone who
-  wants to share concerns or ideas to attend.  This transparency may extend to
-  outsiders via streaming on the internet. Some claim this transparency results
-  in closer relations with their external partners.
+  \r
 
+  \r
 
-  Meeting cultures in [Teal Organizations
-  ](../teal-paradigm-and-organizations/)have adopted some of the ‘alternative
-  meeting formats’ like Open Space, Art of Hosting, World Café etc."
+  Anstehende Meetings können im Intranet aufgelistet werden. So kann jeder,
+  der Bedenken oder Ideen mitteilen möchte, daran teilnehmen.  Diese Transparenz
+  kann sich über Streaming im Internet auch auf Außenstehende erstrecken. Einige
+  behaupten, dass diese Transparenz zu engeren Beziehungen mit ihren externen
+  Partnern führt.\r
+
+  \r
+
+  Besprechungskulturen in
+  [Teal-Organisationen](../teal-paradigm-and-organizations/)haben einige der
+  \"alternativen Besprechungsformate\" wie Open Space, Art of Hosting, World
+  Café usw. übernommen."
 faq:
   - question: Doesn’t the advice process lead to more meetings rather than less?
     answer: >-
