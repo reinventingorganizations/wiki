@@ -103,29 +103,37 @@ perspective: "Meetings dienen je nach Stadium der Organisation unterschiedlichen
   Prozessen innerhalb der Gruppe.
 
 
-  ### Teal organizations
+  ### Teal Organisationen
 
 
-  [Self-organization ](../self-management/)allows members of [Teal
-  organizations](../teal-paradigm-and-organizations/) to take responsibility for
-  making decisions without the need for approval or consensus. As a result there
-  are usually far fewer meetings required.
+  Die [Selbstorganisation](../self-management/) erlaubt es den Mitgliedern von
+  [Teal Organisationen](../teal-paradigm-and-organizations/) die Verantwortung
+  für Entscheidungen zu übernehmen, ohne dass eine Genehmigung oder ein Konsens
+  erforderlich ist. Infolgedessen sind in der Regel weit weniger Treffen
+  erforderlich.
 
 
-  Meetings tend to be held only when they are necessary. Reasons include:
+  Besprechungen werden in der Regel nur dann abgehalten, wenn sie notwendig
+  sind. Zu den Gründen gehören:
 
 
-  * Seeking advice when this is required by the advice process
+  \r
 
-  * Sharing information
+  \r
 
-  * Responding to changing circumstances
+  * Einholung von Ratschlägen, wenn dies im Rahmen des Beratungsprozesses
+  erforderlich ist\r
+
+  * Austausch von Informationen\r
+
+  * Reagieren auf veränderte Umstände
 
 
-  Meetings usually incorporate specific practices to ensure that members
-  engage with each other and the purpose of the meeting in a respectful and
-  productive way. New joiners are typically trained in these processes so they
-  can participate fully."
+  Besprechungen beinhalten in der Regel bestimmte Praktiken, um
+  sicherzustellen, dass sich die Mitglieder auf eine respektvolle und produktive
+  Weise miteinander und mit dem Zweck der Besprechung auseinandersetzen. Neue
+  Mitglieder werden in der Regel in diesen Prozessen geschult, damit sie
+  vollständig teilnehmen können.\r"
 inPractice: >-
   #### *Meeting activity is limited and arises from the 'need to meet'*
 
