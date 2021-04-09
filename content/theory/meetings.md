@@ -21,10 +21,10 @@ perspective: >-
   Die Mitglieder von Teal Organisationen fühlen sich in der Regel stärker miteinander und mit der Arbeit verbunden und benötigen weniger Meetings zur Planung oder Lösung von Problemen.
 
 
-  ### Rote Organizationen
+  ### Rote Organisationen
 
 
-  In [Red organizations](../red-organizations/), meetings are held when the Chief or Boss feels they are necessary. They might be held to make announcements, pass judgements or to conduct ceremonies. Sometimes they are held, to seek counsel or gather information.
+  In [roten Organisationen](../red-organizations/) werden Versammlungen abgehalten, wenn der Geschäftsführer oder Boss sie für notwendig hält. Sie können abgehalten werden, um Ankündigungen zu machen, Urteile zu fällen oder um Zeremonien durchzuführen. Manchmal werden sie auch abgehalten, um Rat zu suchen oder Informationen zu sammeln.
 
 
   ### Amber organizations
