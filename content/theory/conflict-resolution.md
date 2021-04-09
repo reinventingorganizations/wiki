@@ -60,84 +60,84 @@ perspective: >-
 
   W [Turkusowych organizacjach](../teal-paradigm-and-organizations/), konflikt jest postrzegany jako naturalny element interakcji międzyludzkich, a gdy jest bezpiecznie wspierany, jest często postrzegany jako zdrowy i kreatywny. Konflikt rozwiązywany z wdziękiem i czułością może stworzyć możliwości i naukę dla wszystkich zaangażowanych. W organizacjach Turkusu regularnie poświęca się czas na ujawnianie i rozwiązywanie konfliktów w konfiguracjach indywidualnych i grupowych. Często stosowane są formalne, wieloetapowe praktyki rozwiązywania konfliktów, a każdy jest przeszkolony w zarządzaniu konfliktem. Konflikt jest ograniczony do zaangażowanych stron i mediatorów lub współpracowników, którzy mogą zostać poproszeni o zasiadanie w panelu mediacyjnym. Taki panel rzadko jest odpowiedzialny za narzucenie rozwiązania. Zamiast tego skupiamy się na pomocy zaangażowanym stronom w znalezieniu rozwiązania.
 inPractice: >-
-  **An organizational culture that supports effective conflict resolution** 
+  ** Kultura organizacyjna wspierająca skuteczne rozwiązywanie konfliktów **
 
 
-  Conflict resolution mechanisms can be difficult to put in place and to maintain. The process is effective to the degree that there is a culture within the workplace where people feel safe and encouraged to hold each other to account, even when that feels uncomfortable.
+  Mechanizmy rozwiązywania konfliktów mogą być trudne do wprowadzenia i utrzymania. Proces jest skuteczny o tyle, o ile w miejscu pracy panuje kultura, w której ludzie czują się bezpiecznie i są zachęcani do pociągania się nawzajem do odpowiedzialności, nawet jeśli jest to niewygodne.
 
 
-  Here are some basic principles that underlie many of the Teal organisation's approaches to conflict in a supportive culture:
+  Oto kilka podstawowych zasad, które leżą u podstaw wielu podejść organizacji Turkusu do konfliktu w kulturze wspierającej:
 
 
-  * It’s impossible to change other people. We can only change ourselves. 
+  * Nie można zmienić innych ludzi. Możemy zmienić tylko siebie.
 
-  * We take ownership for our thoughts, beliefs, words, and actions.
+  * Przejmujemy odpowiedzialność za nasze myśli, przekonania, słowa i czyny.
 
-  * We don’t spread rumors.
+  * Nie rozpowszechniamy plotek.
 
-  * We don’t talk behind someone’s back.
+  * Nie rozmawiamy za czyimś plecami.
 
-  * We resolve disagreements one-on-one and don’t drag other people into  the problem.
+  * Nieporozumienia rozwiązujemy jeden na jeden i nie wciągamy innych osób w problem.
 
-  * We don’t blame problems on others. When we feel like blaming, we take it as an invitation to reflect on how we might be part of the problem (and the solution).
+  * Nie obwiniamy innych za problemy. Kiedy mamy ochotę się winić, traktujemy to jako zaproszenie do zastanowienia się, w jaki sposób możemy być częścią problemu (i rozwiązania).
 
-  * We focus on strengths more than weaknesses, on opportunities more than problems. 
-
-
-  Therefore, in addition to specific conflict resolution processes, other structures are needed to create and maintain this type of supportive culture. For instance, many organizations find it helpful to establish a set of values and translate these values into concrete behaviors that are either encouraged or declared unacceptable in the community of colleagues. Many Teal organizations also institute specific meeting practices to help participants interact with each other from a place of wholeness, to keep their egos in check and to ensure everybody’s voice is heard. This might be done by, for example, starting a meeting with a minute of silence, finishing a meeting with a round of appreciation or a structured decision-making process. Another key contributor to a supportive culture is the office space, which should feel safe, provide place for quiet reflection and encourage individual and collective wholeness.
+  * Skupiamy się bardziej na mocnych stronach niż słabych, na szansach bardziej niż na problemach.
 
 
-  #### **How conflicts are addressed**
+  Dlatego oprócz określonych procesów rozwiązywania konfliktów potrzebne są inne struktury do tworzenia i utrzymywania tego typu kultury wsparcia. Na przykład wiele organizacji uważa, że ​​pomocne jest ustalenie zestawu wartości i przełożenie ich na konkretne zachowania, które są promowane lub uznawane za niedopuszczalne w społeczności współpracowników. Wiele organizacji Turkusu ustanawia również określone praktyki spotkań, aby pomóc uczestnikom wchodzić ze sobą w interakcję z pozycji pełni, kontrolować swoje ego i zapewnić, że głos wszystkich jest słyszany. Można tego dokonać, na przykład, rozpoczynając spotkanie minutą ciszy, kończąc spotkanie rundą doceniania lub ustrukturyzowanym procesem decyzyjnym. Innym kluczowym elementem kultury wspierającej jest przestrzeń biurowa, która powinna dawać poczucie bezpieczeństwa, zapewniać miejsce do cichej refleksji oraz sprzyjać indywidualnej i zbiorowej pełni.
 
 
-  In a conventional workplace, people often raise a dispute with a boss to settle the matter. In self-managing organizations, disagreements are resolved among peers, often using a conflict resolution process. Peers hold each other to account for their mutual commitments and responsibilities. Holding colleagues accountable in this way can feel uncomfortable and Teal organisations sometimes offer support and practices that encourage openness and emotional intelligence to emerge. Broadly there are three types of practices that Teal organizations put in place to help deal with conflicts.
+  #### **Jak adresowane są konflikty **
 
 
-  * First, methods are developed to help people bring tensions to the surface. 
-
-  * Second, clearly defined conflict resolution processes are available to help people safely confront each other when needed. 
-
-  * Third, most self-managing organizations train every new recruit in conflict resolution and interpersonal skills. 
+  W tradycyjnym miejscu pracy ludzie często wchodzą w spór z szefem, aby załatwić sprawę. W organizacjach samozarządzających się spory są rozwiązywane między współpracownikami, często za pomocą procesu rozwiązywania konfliktów. Współpracownicy rozliczają się nawzajem ze swoich wzajemnych zobowiązań i obowiązków. Pociąganie kolegów do odpowiedzialności w ten sposób może być niewygodne i organizacje Turkusu czasami oferują wsparcie i praktyki, które zachęcają do pojawienia się otwartości i inteligencji emocjonalnej. Ogólnie rzecz biorąc, istnieją trzy rodzaje praktyk, które organizacje Turkusu wprowadziły, aby pomóc radzić sobie z konfliktami.
 
 
-  ##### ***Bringing tensions to the surface***
+  * Po pierwsze, opracowywane są metody pomagające ludziom wydobywać napięcia na powierzchnię.
+
+  * Po drugie, dostępne są jasno zdefiniowane procesy rozwiązywania konfliktów, które pomagają ludziom w bezpiecznej konfrontacji w razie potrzeby.
+
+  * Po trzecie, większość samozarządzających się organizacji szkoli każdego nowego pracownika w zakresie rozwiązywania konfliktów i umiejętności interpersonalnych. 
 
 
-  It can be hard for someone to stand up to a colleague and say, “We need to talk.”. Processes used by some organizations include regularly scheduled group meetings, company retreats, purpose circles and values days. Surfacing becomes a way of helping others to view conflict as normal, creative and a way of learning about diversity and difference. These practices enable others to share their vulnerabilities, see [creating safe spaces](../safe-space/).
+  ##### ***Wydobywanie napięć na powierzchnię***
 
 
-  Here are some examples:
+  Może być trudno przeciwstawienie się koledze i powiedzenie: "Musimy porozmawiać". Procesy stosowane przez niektóre organizacje obejmują regularnie planowane spotkania grupowe, firmowe odosobnienia, koła celu i dni wartości. Wydobywanie na powierzchnię staje się sposobem pomagania innym w postrzeganiu konfliktu jako normalnego, kreatywnego i sposobem uczenia się o różnorodności i odmienności. Te praktyki umożliwiają innym udostępnianie ich słabych punktów, patrz [tworzenie bezpiecznej przestrzeni] (../safe-space/).
 
 
-  * At ESBZ, a school in Berlin, every class gets together at a fixed time each week to discuss and deal with tensions in the group. The meeting is facilitated by a student, who supports a number of ground rules that keep the discussion safe. 
-
-  * At Heiligenfeld, once a year, colleagues in every team rate the quality of their interaction with other teams. The result is a company-wide “heat map” that reveals which teams should have a conversation to improve their collaboration. 
-
-  * RHD holds a bi-monthly “-isms in the workplace" meeting. Anyone feeling that the organization should pay attention to a specific form or occurrence of racism, sexism, or any other “-ism” can join the meeting. 
+  Oto kilka przykładów:
 
 
-  ##### ***Conflict resolution processes***
+  * W ESBZ, szkole w Berlinie, każda klasa zbiera się co tydzień o ustalonej porze, aby omówić i poradzić sobie z napięciami w grupie. Spotkanie jest prowadzone przez ucznia, który wspiera szereg podstawowych zasad zapewniających bezpieczeństwo dyskusji.
+
+  * W Heiligenfeld raz w roku koledzy z każdego zespołu oceniają jakość swoich interakcji z innymi zespołami. Rezultatem jest "mapa cieplna" obejmująca całą firmę, która pokazuje, które zespoły powinny porozmawiać, aby poprawić współpracę.
+
+  * RHD organizuje co dwa miesiące spotkanie „-izmy w pracy”. Do spotkania może dołączyć każdy, kto uważa, że ​​organizacja powinna zwrócić uwagę na określoną formę lub wystąpienie rasizmu, seksizmu lub innego „-izmu”.
 
 
-  In self-managing organisations, having a clear and well understood conflict resolution process helps people raise issues. Typical conflict resolution mechanisms include: one-on-one discussion, mediation by a peer and mediation by a panel. Some organizations also use team or individual coaching to work through an upset.
+  ##### ***Procesy rozwiązywania konfliktów***
 
 
-  For example, :
+  W organizacjach samozarządzających posiadanie jasnego i dobrze zrozumiałego procesu rozwiązywania konfliktów pomaga ludziom zgłaszać problemy. Typowe mechanizmy rozwiązywania konfliktów obejmują: dyskusję w cztery oczy, mediacje z kolegami i panele. Niektóre organizacje korzystają również z coachingu zespołowego lub indywidualnego, aby poradzić sobie z sytuacją krytyczną.
 
 
-  * In the first phase, the two people sit together and try to sort it out privately. 
-
-  * If they can’t find a solution agreeable to both, they nominate a colleague they both trust to act as a mediator. The mediator doesn’t impose a decision. Rather he or she supports the participants in coming to their own solution. 
-
-  * If mediation fails, a panel of topic-relevant colleagues is convened. Again the panel does not impose a solution. 
-
-  * If resolution is not found, the founder or president might be called into the panel to add to the panel’s moral weight (but again, not to impose a solution). 
+  Na przykład:
 
 
-  ##### ***Training in Interpersonal skills***
+  * W pierwszej fazie dwie osoby siedzą razem i sami próbują rozwiązać problem.
+
+  * Jeśli nie mogą znaleźć rozwiązania odpowiadającego obojgu, wyznaczają współpracownika, któremu oboje ufają, do działania w charakterze mediatora. Mediator nie narzuca decyzji. Raczej wspiera uczestników w znalezieniu własnego rozwiązania.
+
+  * Jeśli mediacja się nie powiedzie, zwoływany jest panel współpracowników zajmujących się tematem. Ponownie panel nie narzuca rozwiązania.
+
+  * Jeśli nie zostanie znalezione rozwiązanie, założyciel lub prezes może zostać wezwany do panelu, aby zwiększyć moralną wagę panelu (ale ponownie, aby nie narzucać rozwiązania).
 
 
-  Because effective conflict resolution skills are so central in self-managing organizations, many organizations train all their colleagues in interpersonal skills to enable them to deal gracefully with conflict. Generally in their first weeks at work, new hires are given foundational training including: self-management, deep listening, dealing constructively with conflict and creating a safe environment. For instance, companies like ESBZ and Buurtzorg train colleagues in [Nonviolent Communication ](https://en.wikipedia.org/wiki/Nonviolent_Communication)developed by Marshal Rosenberg.
+  ##### ***Szkolenie z umiejętności interpersonalnych***
+
+
+  Ponieważ umiejętności skutecznego rozwiązywania konfliktów są tak centralne w samozarządzających się organizacjach, wiele organizacji szkoli wszystkich swoich współpracowników w zakresie umiejętności interpersonalnych, aby umożliwić im pełne wdzięku radzenie sobie z konfliktem. Zasadniczo w pierwszych tygodniach pracy nowi pracownicy przechodzą podstawowe szkolenie obejmujące: zarządzanie sobą, głębokie słuchanie, konstruktywne radzenie sobie z konfliktami i tworzenie bezpiecznego środowiska. Na przykład firmy takie jak ESBZ i Buurtzorg szkolą kolegów w [Komunikacji Bez Przemocy](https://en.wikipedia.org/wiki/Nonviolent_Communication) opracowanej przez Marshala Rosenberga.
 faq:
   - question: If so much time is spent talking through every conflict, when does the
       work get done?
