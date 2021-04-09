@@ -228,39 +228,50 @@ inPractice: "#### *Die Aktivität von Meetings ist begrenzt und entsteht aus dem
   ihres Risikos vermieden.
 
 
-  #### *Form follows function: meetings emerge on an ad hoc basis*
+  #### *Die Form folgt der Funktion: Meetings entstehen ad hoc*.
 
 
-  Meetings needed to coordinate tasks across teams, or launch special
-  projects, arise spontaneously. It’s an organic way of organizing.\ 
+  \r
+
+  \r
+
+  Meetings, die benötigt werden, um teamübergreifende Aufgaben zu koordinieren
+  oder spezielle Projekte zu starten, entstehen spontan. Das ist eine organische
+  Art der Organisation.
 
 
-  #### *A variety of meeting formats for different purposes*
+  #### *Eine Vielzahl von Besprechungsformaten für unterschiedliche Zwecke*
 
 
-  Examples include:
+  \r
 
+  \r
 
-  * Team [decision-making ](../decision-making/)meetings at [Buurtzorg
-  ](http://www.buurtzorgnederland.com/)
+  Beispiele sind:\r
 
-  * Holocratic Governance vs. Tactical meetings at [HolocracyOne
-  ](http://www.holacracy.org/)
+  \r
 
-  * [On-boarding ](../onboarding/)meetings / Departure meetings as at [CC&R
-  ](http://www.couragerenewal.org/)
+  * Team [Entscheidungsfindung](../decision-making/) (Meetings bei
+  [Buurtzorg](http://www.buurtzorgnederland.com/))\r
 
-  * Appraisal meetings
+  * Holokratische Führung vs. taktische (Meetings bei [HolocracyOne
+  ](http://www.holacracy.org/))\r
 
-  * [Conflict resolution](../conflict-resolution/) meetings
+  * [On-Boarding](../onboarding/)-Besprechungen/Abschiedsbesprechungen wie bei
+  [CC&R ](http://www.couragerenewal.org/)\r
 
-  * [Listening to purpose ](../listening-to-purpose/)meetings
+  * Beurteilungs-Meetings\r
 
-  * Large group reflections at [Heiligenfeld](http://www.heiligenfeld.de/)
+  * [Konfliktlösungs](../conflict-resolution/)-Meetings\r
 
-  * [Culture/Values](../culture-and-values/) meetings
+  * [Zuhören zum Zweck](../listening-to-purpose/)-Meetings\r
 
-  * Praise meetings at [ESBZ ](http://www.ev-schule-zentrum.de/aktuell/)
+  * Großgruppenreflexionen auf [Heiligenfeld](http://www.heiligenfeld.de/)\r
+
+  * [Kultur/Werte](../culture-and-values/)-Treffen\r
+
+  * Lobpreis-Treffen im [ESBZ](http://www.ev-schule-zentrum.de/aktuell/)
+
 
 
   #### Highlighting sense of wholeness and purpose
