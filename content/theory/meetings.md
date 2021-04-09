@@ -6,21 +6,22 @@ name: Meetings
 sortOrder: 2
 category: Daily practices
 intro: >-
-  The topic of meetings discusses when, how and for what purpose meetings are
-  organized.
+  Beim Thema Meetings geht es darum, wann, wie und zu welchem Zweck Meetings
+  organisiert werden.
 
 
   ![](/media/meetings-2.jpg)
 perspective: >-
-  Meetings serve different purposes depending on the stage of the organization.
-  The number of meetings held typically grows as organizations develop, peaking
-  at the Green stage. The volume of meetings held declines at the Teal stage.
+  Meetings dienen je nach Stadium der Organisation unterschiedlichen Zwecken.
+  Die Anzahl der abgehaltenen Meetings nimmt in der Regel mit der Entwicklung
+  der Organisation zu und erreicht ihren Höhepunkt in der grünen Phase. Die
+  Anzahl der abgehaltenen Meetings nimmt in der Teal-Phase ab.
 
 
-  Members of Teal organizations tend to feel more connected to each other and the work, and need fewer meetings to plan or resolve issues.
+  Die Mitglieder von Teal Organisationen fühlen sich in der Regel stärker miteinander und mit der Arbeit verbunden und benötigen weniger Meetings zur Planung oder Lösung von Problemen.
 
 
-  ### Red organizations
+  ### Rote Organizationen
 
 
   In [Red organizations](../red-organizations/), meetings are held when the Chief or Boss feels they are necessary. They might be held to make announcements, pass judgements or to conduct ceremonies. Sometimes they are held, to seek counsel or gather information.
