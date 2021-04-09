@@ -357,23 +357,33 @@ inPractice: "#### *Die Aktivität von Meetings ist begrenzt und entsteht aus dem
   * Eine weitere Variante ist eine Schweigeminute und/oder ein Witz.
 
 
-  #### Keeping on track
+  #### Auf der Spur bleiben
 
 
-  Additional practices to keep intention and attention in the meeting:
+  \r
+
+  \r
+
+  Zusätzliche Übungen, um Absicht und Aufmerksamkeit in der Sitzung zu halten:
 
 
-  * A volunteer holds of a pair of tingsha bells (two small hand cymbals that
-  can make a crystal-like sound). If the holder feels ground rules are not being
-  respected, she can make the cymbals sing. No one may speak until the cymbal
-  sound has died out. During the silence, all can reflect on the question: \"Am
-  I in the service to the topic we are discussing?” \ 
+  \r
 
-  * Some use a 'talking stick' or other artifact to regulate turn-taking, slow
-  down the speed of conversation, and increase the quality of listening.\ 
+  \r
 
-  * A facilitator may be used when there are specific requirements to fulfil.
-  This may be an external facilitator in some circumstances. \ 
+  * Ein Freiwilliger hält ein Paar Tingsha-Glocken (zwei kleine Handzimbeln,
+  die einen kristallartigen Klang erzeugen können). Wenn die Halterin das Gefühl
+  hat, dass Grundregeln nicht respektiert werden, kann sie die Zimbeln zum
+  Singen bringen. Niemand darf sprechen, bis der Klang der Zimbeln verklungen
+  ist. Während der Stille können alle über die Frage nachdenken: \"Bin ich dem
+  Thema, das wir gerade besprechen, dienlich?\"  \r
+
+  * Einige verwenden einen \"Redestab\" oder ein anderes Artefakt, um das
+  Abwechseln zu regeln, die Geschwindigkeit der Unterhaltung zu verlangsamen und
+  die Qualität des Zuhörens zu erhöhen. \r
+
+  * Ein Moderator kann eingesetzt werden, wenn es bestimmte Anforderungen zu
+  erfüllen gibt. Dies kann in manchen Fällen ein externer Moderator sein.\ 
 
 
   #### Ending meetings
