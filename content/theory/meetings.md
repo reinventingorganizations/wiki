@@ -109,35 +109,35 @@ inPractice: >-
   #### *Agendy spotkań*
 
 
-  Traditionally, agendas are thought of as the minimum discipline for a productive meeting. But not necessarily in a Teal workplace. Many of their scheduled meetings have no pre-determined agenda. Rather, one is determined at the beginning, and is based on the topics that hold energy for the participants, at that time. This ensures meetings stay energized, purposeful, and engaging.  The interest is a real and present interest; it's not manufactured via a ritualistic approach.   
+  Tradycyjnie, agenda jest uważana za minimum dla produktywnego spotkania. Ale niekoniecznie w Turkusowym miejscu pracy. Wiele z ich zaplanowanych spotkań nie ma z góry ustalonego porządku. Raczej jest się kształtowany na początku i opiera się na tematach, które przyniosą uczestnicy, ponieważ są dla nich ważne. Dzięki temu spotkania są pełne energii, celowe i angażujące. Zaangażowanie jest rzeczywistym i aktualnym zainteresowaniem; nie jest tworzony poprzez rutynowe podejście.
 
 
-  #### *All-hands meetings*
+  #### *Spotkanie wszystkich*
 
 
-  All-hands meetings may be scheduled when there is a new and important information to share: quarterly results, the annual values survey, a strategic inflection point, and so forth. The information is not simply 'presented' top-down – it is discussed and debated. Questions can take the meeting in any direction; frustrations can be vented; accomplishments spontaneously celebrated. More is at play than simply information exchange. Trust in the organization, and its values, is being tested and reaffirmed. Will the senior people be candid, humble, and vulnerable? Will they face the difficult questions? Will they involve the whole group?
+  Spotkania wszystkich mogą być zaplanowane, gdy pojawią się nowe i ważne informacje do przekazania: wyniki kwartalne, roczne badanie wartości, strategiczny punkt zwrotny i tak dalej. Informacje nie są po prostu "przedstawiane" odgórnie - są dyskutowane i debatowane. Pytania mogą padać podczas spotkania z dowolnej strony; można wyładować frustracje; albo spontanicznie świętować osiągnięcia. W grę wchodzi coś więcej niż zwykła wymiana informacji. Zaufanie do organizacji i jej wartości są testowane i potwierdzane. Czy starszyzna będzie szczera, pokorna i wrażliwa? Czy zmierzą się z trudnymi pytaniami? Czy zaangażują całą grupę?
 
 
-  In contrast, all-hands meetings in traditional companies tend to be presentation-driven--or otherwise avoided because of their unpredictability, and risk. 
+  W przeciwieństwie do tego, spotkania wszystkich w tradycyjnych firmach są zwykle oparte na prezentacji - lub unika się ich ze względu na ich nieprzewidywalność i ryzyko.
 
 
-  #### *Form follows function: meetings emerge on an ad hoc basis*
+  #### *Forma podąża za funkcją: spotkania pojawiają się ad hoc*
 
 
-  Meetings needed to coordinate tasks across teams, or launch special projects, arise spontaneously. It’s an organic way of organizing. 
+  Spotkania potrzebne do koordynowania zadań w zespołach lub uruchamiania specjalnych projektów pojawiają się spontanicznie. To organiczny sposób organizacji. 
 
 
-  #### *A variety of meeting formats for different purposes*
+  #### *Różne formaty spotkań do różnych celów*
 
 
-  Examples include:
+  Przykłady obejmują:
 
 
-  * Team [decision-making ](../decision-making/)meetings at [Buurtzorg ](http://www.buurtzorgnederland.com/)
+  * Spotkania zespołowego [podejmowanie decyzji](../decision-making/) w [Buurtzorg ](http://www.buurtzorgnederland.com/)
 
-  * Holocratic Governance vs. Tactical meetings at [HolocracyOne ](http://www.holacracy.org/)
+  * Holokratyczne spotkania Zarządcze vs. Operacyjne w [HolocracyOne ](http://www.holacracy.org/)
 
-  * [On-boarding ](../onboarding/)meetings / Departure meetings as at [CC&R ](http://www.couragerenewal.org/)
+  * [On-boarding](../onboarding/) meetings / Departure meetings as at [CC&R ](http://www.couragerenewal.org/)
 
   * Appraisal meetings
 
