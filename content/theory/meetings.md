@@ -200,23 +200,32 @@ inPractice: "#### *Die Aktivität von Meetings ist begrenzt und entsteht aus dem
   ritualisierten Ansatz hergestellt.\ 
 
 
-  #### *All-hands meetings*
+  #### *All-Hands-Meetings*
 
 
-  All-hands meetings may be scheduled when there is a new and important
-  information to share: quarterly results, the annual values survey, a strategic
-  inflection point, and so forth. The information is not simply 'presented'
-  top-down – it is discussed and debated. Questions can take the meeting in any
-  direction; frustrations can be vented; accomplishments spontaneously
-  celebrated. More is at play than simply information exchange. Trust in the
-  organization, and its values, is being tested and reaffirmed. Will the senior
-  people be candid, humble, and vulnerable? Will they face the difficult
-  questions? Will they involve the whole group?
+  \r
+
+  \r
+
+  All-Hands-Meetings können anberaumt werden, wenn es eine neue und wichtige
+  Information zu teilen gibt: Quartalsergebnisse, die jährliche Werteumfrage,
+  ein strategischer Wendepunkt und so weiter. Die Informationen werden nicht
+  einfach von oben nach unten \"präsentiert\" - sie werden diskutiert und
+  debattiert. Fragen können das Meeting in jede Richtung lenken; Frustrationen
+  können abgelassen werden; Erfolge werden spontan gefeiert. Es ist mehr im
+  Spiel als nur Informationsaustausch. Das Vertrauen in die Organisation und
+  ihre Werte wird getestet und bekräftigt. Werden die leitenden Mitarbeiter
+  offen, bescheiden und verletzlich sein? Werden sie sich den schwierigen Fragen
+  stellen? Werden sie die ganze Gruppe einbeziehen?
 
 
-  In contrast, all-hands meetings in traditional companies tend to be
-  presentation-driven--or otherwise avoided because of their unpredictability,
-  and risk.\ 
+  \r
+
+  \r
+
+  Im Gegensatz dazu sind All-Hands-Meetings in traditionellen Unternehmen eher
+  präsentationsorientiert - oder werden aufgrund ihrer Unvorhersehbarkeit und
+  ihres Risikos vermieden.
 
 
   #### *Form follows function: meetings emerge on an ad hoc basis*
