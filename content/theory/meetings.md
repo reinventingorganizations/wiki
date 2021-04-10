@@ -137,82 +137,82 @@ inPractice: >-
 
   * Holokratyczne spotkania Zarządcze vs. Operacyjne w [HolocracyOne ](http://www.holacracy.org/)
 
-  * [On-boarding](../onboarding/) meetings / Departure meetings as at [CC&R ](http://www.couragerenewal.org/)
+  * Spotkania [On-boardingu](../onboarding/)/Odejść w [CC&R ](http://www.couragerenewal.org/)
 
-  * Appraisal meetings
+  * Spotkania doceniające
 
-  * [Conflict resolution](../conflict-resolution/) meetings
+  * Spotkania [rozwiązywania konfliktów](../conflict-resolution/)
 
-  * [Listening to purpose ](../listening-to-purpose/)meetings
+  * Spotkania [wsłuchiwania się w cel](../listening-to-purpose/)
 
-  * Large group reflections at [Heiligenfeld](http://www.heiligenfeld.de/)
+  * Refleksje w dużej grupie w [Heiligenfeld](http://www.heiligenfeld.de/)
 
-  * [Culture/Values](../culture-and-values/) meetings
+  * Spotkania [Kultura/Wartości](../culture-and-values/)
 
-  * Praise meetings at [ESBZ ](http://www.ev-schule-zentrum.de/aktuell/)
-
-
-  #### Highlighting sense of wholeness and purpose
+  * Spotkania z pochwałami w [ESBZ ](http://www.ev-schule-zentrum.de/aktuell/)
 
 
-  Meetings bring out the best and the worst of human nature.
+  #### Podkreślanie poczucia pełni i celu
 
 
-  In the best, they are places where others help us listen in to what we really care about. But meetings can also be playfields for egos. To feel safe, some seek to dominate proceedings. Others withdraw. In self-managingorganizations the absence of a boss takes some of these fears out of the room. But in a group of peers egos can dominate just as well. A variety of approaches support productive interactions consistent with [wholeness ](/wholeness/)and [purpose](../listening-to-purpose/).
+  Spotkania wydobywają z ludzkiej natury to, co najlepsze i najgorsze.
 
 
-  #### Training in meeting practices
+  W najlepszym przypadku są to miejsca, w których inni pomagają nam wsłuchać się w to, na czym naprawdę nam zależy. Ale spotkania mogą być również polem gry dla ego. Aby czuć się bezpiecznie, niektórzy starają się zdominować postępowanie. Inni się wycofują. W organizacjach samozarządzających się brak szefa usuwa niektóre z tych obaw z przestrzeni. Ale w grupie współpracowników równie dobrze może dominować ego. Różnorodne podejścia wspierają produktywne interakcje zgodne z [pełnią](/wholeness/) i [celem](../listening-to-purpose/).
 
 
-  Some train new members in effective meeting formats. New members need to be comfortable to participate in decision-making procedures.
+  #### Szkolenie w zakresie praktyk związanych ze spotkaniami
 
 
-  Training in facilitation, communication skills and mindsets support collegiality, trust building, and the resolution of tensions.
+  Niektóre organizacje szkolą nowych członków w efektywnych formatach spotkań. Nowi członkowie muszą czuć się komfortowo, aby uczestniczyć w procedurach decyzyjnych.
 
 
-  #### Starting at the right place
+  Szkolenia z facylitacji, umiejętności komunikacyjnych i nastawienia wspierają kolegialność, budowanie zaufania i rozwiązywanie napięć.
 
 
-  The beginning of a meeting sets the mood. [Teal Organizations ](../teal-paradigm-and-organizations/)may use the following practices:
+  #### Rozpoczynanie we właściwym miejscu
 
 
-  * One widespread practice is to start with a 'check-in' round. Participants share how they feel in the moment, as they enter. This helps all to listen within, to their bodies and sensations, and to build awareness. Naming an emotion is often all it takes to deal with it.  Thus, this practice helps participants let go of distractions while supporting everyone to be present for the current meeting. 
-
-  * Or every meeting starts with a minute of silence to ground people in the moment. 
-
-  * Meetings may start with at short reading that one person has prepared. After a few moments of silence, participants share the thoughts this has sparked.  
-
-  * Another practice is to start every meeting with all sharing a brief story of someone they had recently thanked. This highlights possibility, gratitude, celebration, and trust.  
-
-  * Yet another variant is a minute of silence and/or a joke.
+  Początek spotkania wprowadza odpowiedni nastrój. [Turkusowe Organizacje](../teal-paradigm-and-organizations/) mogą używać następujących praktyk:
 
 
-  #### Keeping on track
+  * Powszechną praktyką jest rozpoczęcie od rundki check-in. Uczestnicy opowiadają, jak się czują w chwili, gdy wchodzą. To pomaga wszystkim wsłuchiwać się w siebie, swoje ciała i wrażenia oraz budować świadomość. Nazwanie emocji często wystarczy, aby sobie z nimi poradzić. W ten sposób praktyka ta pomaga uczestnikom uwolnić się od rozpraszania, jednocześnie wspierając wszystkich, aby byli obecni na bieżącym spotkaniu. 
+
+  * Albo każde spotkanie zaczyna się minutą ciszy, aby ugruntować ludzi w danej chwili.
+
+  * Spotkania można rozpocząć od krótkiej lektury przygotowanej przez jedną osobę. Po kilku chwilach ciszy uczestnicy dzielą się myślami, które to wywołało.
+
+  * Inną praktyką jest rozpoczynanie każdego spotkania, w którym wszyscy dzielą się krótką historią o kimś, komu niedawno dziękowali. To podkreśla możliwość, wdzięczność, świętowanie i zaufanie.
+
+  * Kolejnym wariantem jest minuta ciszy i / lub żart.
 
 
-  Additional practices to keep intention and attention in the meeting:
+  #### Podążanie drogą
 
 
-  * A volunteer holds of a pair of tingsha bells (two small hand cymbals that can make a crystal-like sound). If the holder feels ground rules are not being respected, she can make the cymbals sing. No one may speak until the cymbal sound has died out. During the silence, all can reflect on the question: "Am I in the service to the topic we are discussing?”  
-
-  * Some use a 'talking stick' or other artifact to regulate turn-taking, slow down the speed of conversation, and increase the quality of listening. 
-
-  * A facilitator may be used when there are specific requirements to fulfil. This may be an external facilitator in some circumstances.  
+  Dodatkowe praktyki, aby zachować intencję i uwagę podczas spotkania:
 
 
-  #### Ending meetings
+  * Wolontariusz trzyma parę dzwonków tingsha (dwa małe dzwoneczki, które mogą wydawać kryształowy dźwięk). Jeśli poczuje, że podstawowe zasady nie są przestrzegane, może sprawić, że dzwonki zaśpiewają. Nikt nie może mówić, dopóki dźwięk dzwonka nie ucichnie. W ciszy wszyscy mogą zastanowić się nad pytaniem: „Czy służę tematowi, o którym rozmawiamy?”
+
+  * Niektórzy używają 'gadającego drążka' lub innego artefaktu, aby regulować zmianę mówiącego, spowalniać rozmowę i poprawiać jakość słuchania.
+
+  * Jeśli istnieją określone wymagania do spełnienia, można użyć facylitatora. W pewnych okolicznościach może to być zewnętrzny moderator.
 
 
-  Check-out rounds at the end of the meeting are a natural complement to the initial check-in round. They leave everyone with a sense of the impact of the meeting. A moment of silence is another way to reflect and conclude.  
+  #### Kończenie spotkań
 
 
-  #### Meeting transparency / open participation
+  Rundki na koniec spotkania są naturalnym uzupełnieniem wstępnej rundy check-in. Pozostawiają każdemu poczucie wpływu spotkania. Chwila ciszy to kolejny sposób na refleksję i zakończenie.
 
 
-  Upcoming meetings may be listed on the intranet. This allows anyone who wants to share concerns or ideas to attend.  This transparency may extend to outsiders via streaming on the internet. Some claim this transparency results in closer relations with their external partners.
+  #### Transparentność spotkań / otwarte uczestnictwo
 
 
-  Meeting cultures in [Teal Organizations ](../teal-paradigm-and-organizations/)have adopted some of the ‘alternative meeting formats’ like Open Space, Art of Hosting, World Café etc.
+  Informacje o nadchodzących spotkaniach można znaleźć w intranecie. Dzięki temu każdy, kto chce podzielić się obawami lub pomysłami, może wziąć w nim udział. Ta przejrzystość może rozciągać się na osoby z zewnątrz za pośrednictwem transmisji strumieniowej w Internecie. Niektórzy twierdzą, że ta przejrzystość skutkuje ściślejszymi relacjami z ich zewnętrznymi partnerami.
+
+
+  Kultury spotkań w [Turkusowych Organizacjach](../teal-paradigm-and-organizations/) przyjęły niektóre z ‘alternatywnych formatów spotkań’ takich jak Open Space, Art of Hosting, World Café etc.
 faq:
   - question: Doesn’t the advice process lead to more meetings rather than less?
     answer: >-
