@@ -6,12 +6,9 @@ name: How can you contribute?
 
 ![](/media/contribute.png)
 
-#### you can of course [donate](https://opencollective.com/tealwiki), so that we can continue maintaining and growing this website which is dedicated to inspire organizations on their transformation journey.
+#### If you are ready to give some time  to this initiative, there are 3  ways in which you can contribute:
 
-#### And if you are ready to give some time to this initiative, there are 3  ways in which you can contribute.
-
-1. **Share teal practices from your own organization!** Please fill out this [short form](https://surveyheart.com/form/5fb632d8c99c116adc299908) so that we can contact you (please note, that as we are volunteers, it might take a week or longer for us to respond).
-2. **Join our group of enthusiastic volunteers!** Please [fill out this form](https://surveyheart.com/form/5f12c56c042b2b3696da7a2e) so that we can contact you. We are looking for people happy to enrich and maintain the wiki, and there are different tasks to do and roles to fulfil. E.g.:
+1. **Join our group of enthusiastic volunteers!** Please [fill out this form](https://surveyheart.com/form/5f12c56c042b2b3696da7a2e) so that we can contact you. We are looking for people happy to enrich and maintain the wiki, and there are different tasks to do and roles to fulfil. E.g.:
 
    * **Review** current articles (for example language editing)
    * **Write** new articles
@@ -20,6 +17,9 @@ name: How can you contribute?
    * And much more. Please [fill out this form](https://surveyheart.com/form/5f12c56c042b2b3696da7a2e) so that we can contact you.
 
      You can [check this map](https://peerdom.org/ror-wiki/) to figure out what would fit best to your talents and appetite !
+2. **Share teal practices from your own organization!** Please fill out this [short form](https://surveyheart.com/form/5fb632d8c99c116adc299908) so that we can contact you (please note, that as we are volunteers, it might take a week or longer for us to respond).
 3. **Give feedback!** You can also react to what you have read in the current version of the wiki and [give feedback](https://surveyheart.com/form/5fb7b793ef396770afbeb29e).
+
+#### And you can of course [donate](https://opencollective.com/tealwiki), so that we can continue maintaining and growing this website which is dedicated to inspire organizations on their transformation journey.
 
    ![](/media/contribute.jpg)
