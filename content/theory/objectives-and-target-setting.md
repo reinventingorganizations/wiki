@@ -60,58 +60,102 @@ perspective: >-
 
 
   Zgodnie z celem organizacji planowanie opiera się na „rozsądku i reagowaniu”, z naciskiem na zwinne podejście do znajdowania wykonalnych rozwiązań. Ten proces adaptacyjny jest podobny do zasad Lean Start-up i zasady [[software development](https://en.wikipedia.org/wiki/Agile_software_development%7Cagile)]. Podejmowanie decyzji odbywa się w ramach wartości obowiązujących w całej organizacji i jest zrównoważone poprzez [proces doradczy](../decision-making/). Strategia wyłania się organicznie z interakcji pracowników ze środowiskiem organizacyjnym Turskusu. Samodzielni pracownicy mogą wyznaczać sobie cele, a zespół może zadecydować o celu, np. szybszy czas realizacji, ale nie ma celów dotyczących sprzedaży, wydajności ani innych celów. Proces zasięgania porady współpracowników i specjalistów przed zaangażowaniem się w projekt lub zmianę zapewnia uwzględnienie wszystkich aspektów, w tym odpowiedzialności finansowej. Częścią systemu wartości jest to, że żaden pojedynczy członek lub grupa członków nie może narazić organizacji na ryzyko poprzez nieprzemyślane lub samolubne działania lub projekty.
-inPractice: >-
-  #### **The problem with objectives**
+inPractice: "#### **Problem z celami**
 
 
-  In the Orange-Achievement paradigm, objectives and targets are the key drivers for success. They are the glue that holds the organization together, and give meaning to its existence. In the Teal-Evolutionary paradigm, [purpose  ](../listening-to-purpose/)and [values ](../culture-and-values/)drive the organization. The objective is to bring to life the purpose of the organization. There are no formal systems or top-down processes in place for setting objectives and targets. All the functions of management (planning, organizing, direction-setting, investments, budgeting, etc) are done by the people doing the work. In general, Teal-Evolutionary organizations tend not to set objectives or targets.
+  W paradygmacie Pomarańczu-Osiągnięć cele i zadania są kluczowymi czynnikami
+  sukcesu. Są spoiwem, które spaja organizację i nadaje sens jej istnieniu. W
+  paradygmacie Turkusu to [cel](../listening-to-purpose/) i
+  [wartości](../culture-and-values/) kierują organizacją. Celem jest
+  urzeczywistnienie celu organizacji. Nie istnieją żadne formalne systemy ani
+  odgórne procesy ustalania celów i zadań. Wszystkie funkcje zarządzania
+  (planowanie, organizowanie, wyznaczanie kierunków, inwestycje, budżetowanie
+  itp.) są wykonywane przez ludzi wykonujących pracę. Ogólnie rzecz biorąc,
+  organizacje Turkusu zwykle nie wyznaczają celów.
 
 
-  From a Teal-Evolutionary perspective, objectives and targets are problematic:
+  Z perspektywy Turkusowo-ewolucyjnej cele  są problematyczne:
 
 
-  * They rest on the assumption that we can predict the future,
+  * Opierają się na założeniu, że potrafimy przewidzieć przyszłość,
 
-  * They skew behavior from intrinsic to extrinsic motivation,
+  * Wypaczają zachowanie z wewnętrznej na zewnętrzną motywację,
 
-  * They tend to narrow the ability to sense new possibilities,
+  * Zawężają zdolność wyczuwania nowych możliwości,
 
-  * They focus attention on the targets, rather than fulfilling the organization’s purpose,
+  * Skupiają uwagę na celach, a nie na wypełnianiu celu organizacji,
 
-  * In the Orange-achievement world they always imply growth, something which is not always an inherent element of Teal organizations' purpose.
-
-
-  #### **Sense and respond – a new way to determine objectives, goals and strategy**
+  * W świecie Pomarańczowych osiągnięć zawsze implikują wzrost, co nie zawsze
+  jest nieodłącznym elementem celu organizacji Turkusu.
 
 
-  Instead of trying to predict and control (the implicit goal behind objectives and targets), Teal organizations sense and respond. You could say that all target setting is instead initiated locally where it is "sensed and responded" to, then cascades or emerges through the organization as a living system as needed.
+  #### **Wyczuwaj i odpowiadaj – nowy sposób określania celów i strategii**
 
 
-  One example is the Buurtzorg Boardinghouse. Nurses noticed or sensed that primary care-givers of their patients needed a break from the ongoing demands of providing care. In response, they instituted a bed and breakfast-type solution where patients could receive care, providing care-givers a respite. There were no goals or objectives for Buurtzorg to become a bed and breakfast, but nurses sensed a need and their response of respite care took them down this path benefiting patients and care-givers in the process.
+  Instead of trying to predict and control (the implicit goal behind
+  objectives and targets), Teal organizations sense and respond. You could say
+  that all target setting is instead initiated locally where it is \"sensed and
+  responded\" to, then cascades or emerges through the organization as a living
+  system as needed.\r
 
 
-  We cannot plan for a world that is continuously changing, and where we have no control over the changes. So Teal-Evolutionary organizations work on the basis of sense and respond, rather than predict and control.
+
+  Jednym z przykładów jest organizacja Buurtzorg. Pielęgniarki zauważyły ​​lub
+  wyczuły, że opiekunowie podstawowej opieki nad ich pacjentami potrzebują
+  oderwania się od bieżących wymagań związanych z opieką. W odpowiedzi
+  wprowadzili rozwiązanie typu bed and breakfast, w którym pacjenci mogliby
+  otrzymać opiekę, zapewniając opiekunom wytchnienie. Buurtzorg nie miał żadnych
+  celów ani celów, aby stać się pensjonatem, ale pielęgniarki wyczuły potrzebę,
+  a ich odpowiedź w postaci opieki wytchnienia poprowadziła je tą drogą,
+  przynosząc korzyści pacjentom i opiekunom w tym procesie.
 
 
-  #### **Investment process**
+  Nie możemy zaplanować świata, który ciągle się zmienia i w którym nie mamy
+  kontroli nad zmianami. Tak więc organizacje Turkusu działają na podstawie
+  rozsądku i reagowania, a nie przewidywania i kontroli.
 
 
-  The closest that Teal-Evolutionary organizations come to setting objectives is the investment process. Most organizations have an annual investment process, where each team prepares its investment plans for the next year. These plans are added up, and, if they exceed available/accessible resources, the teams have to review and adjust their plans. Whether the investments are part of the annual plan, or ad-hoc, situational investments, teams are responsible for raising the external funding themselves, or negotiate internally with other teams for funding or resources.
+  #### **Proces inwestycyjny**
 
 
-  Some Teal-Evolutionary organizations do have organization-wide objectives, or perhaps guidelines. For example, [Buurtzorg](http://www.buurtzorgnederland.com/), the Netherlands-based health care organization, has a target for billable hours of 60 - 65% for their mature teams.
+  Najbliższe organizacjom Turkusu do wyznaczania celów jest proces
+  inwestycyjny. Większość organizacji ma coroczny proces inwestycyjny, w którym
+  każdy zespół przygotowuje plany inwestycyjne na kolejny rok. Plany te są
+  sumowane, a jeśli przekraczają dostępne zasoby, zespoły muszą przejrzeć i
+  dostosować swoje plany. Niezależnie od tego, czy inwestycje są częścią planu
+  rocznego, czy też są to inwestycje doraźne, sytuacyjne, zespoły są
+  odpowiedzialne za samodzielne pozyskiwanie finansowania zewnętrznego lub
+  prowadzą wewnętrzne negocjacje z innymi zespołami w sprawie finansowania lub
+  zasobów.
 
 
-  #### **Team determined targets**
+  Niektóre organizacje Turkusu mają cele lub wytyczne dotyczące całej
+  organizacji. Na przykład [Buurtzorg] (http://www.buurtzorgnederland.com/),
+  organizacja opieki zdrowotnej z siedzibą w Holandii, wyznaczyła docelowy
+  poziom rozliczanych godzin w wysokości 60 - 65% dla swoich dojrzałych
+  zespołów.
 
 
-  People and teams can choose to set objectives or targets for themselves as measures that tell them how well they are doing at meeting the organization's purpose. Machine operators may set quality or performance targets for themselves. Teams may set objectives in order to get a new project up and running, or they may have set themselves targets for turnaround times. This is simply part of self-management, as opposed to objectives and targets imposed from above (outside the team or individual). Measurements are chosen that help the team better sense key changes and respond to them.
+  #### **Cele ustalane przez zespół**
 
 
-  #### **Distributed responsibility and shared accountability**
+  Ludzie i zespoły mogą zdecydować się na wyznaczenie sobie celów lub celów
+  jako mierników, które powiedzą im, jak dobrze radzą sobie z realizacją celów
+  organizacji. Operatorzy maszyn mogą wyznaczać sobie cele dotyczące jakości lub
+  wydajności. Zespoły mogą ustalać cele, aby uruchomić i uruchomić nowy projekt,
+  lub mogą wyznaczyć sobie cele dotyczące czasów realizacji. Jest to po prostu
+  część samozarządzania, w przeciwieństwie do celów i zadań narzucanych z góry
+  (spoza zespołu lub osoby). Pomiary są wybierane, aby pomóc zespołowi lepiej
+  wyczuwać kluczowe zmiany i reagować na nie.
 
 
-  Teal-Evolutionary organizations do not set sales targets. However, everyone, including the sales people, are fully aware and informed of what it takes to keep the organization going. Since sales people are part of the operational teams, they know how much work is required to keep the team going.
+  #### **Rozproszona odpowiedzialność i wspólna odpowiedzialność**
+
+
+  Organizacje Turkusu nie wyznaczają celów sprzedażowych. Jednak wszyscy, w
+  tym sprzedawcy, są w pełni świadomi i poinformowani o tym, co jest potrzebne,
+  aby organizacja działała. Ponieważ sprzedawcy są częścią zespołów
+  operacyjnych, wiedzą, ile pracy wymaga utrzymanie zespołu."
 faq:
   - question: If no sales targets are set, how will the company know how much to
       sell to achieve both break even and profitability?
