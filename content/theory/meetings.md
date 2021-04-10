@@ -77,7 +77,7 @@ perspective: >-
 
   * Poszukiwanie porad, gdy jest to wymagane w procesie doradczym
 
-  * Dzielić się informacjami
+  * Dzielenie się informacjami
 
   * Reagowanie na zmieniające się okoliczności
 
