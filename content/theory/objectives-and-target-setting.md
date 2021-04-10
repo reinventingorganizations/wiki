@@ -2,64 +2,64 @@
 layout: article
 tags: theory
 key: Objectives and Target Setting
-name: Objectives and Target Setting
+name: Cele i ich ustalanie
 sortOrder: 6
 category: People practices
 intro: >-
-  This section outlines the role of objectives and target setting, in particular
-  we discuss the processes for enabling goals and ambition to be achieved in the
-  absence of formalized target setting processes.
+  W tej części omówiono rolę celów i wyznaczanie celów, w szczególności omawiamy
+  procesy umożliwiające osiągnięcie celów i ambicji w przypadku braku
+  sformalizowanych procesów wyznaczania celów.
 
 
   ![](/media/objectives.jpg)
 perspective: >-
-  Rather than depending on management to set direction, in Teal organizations,
-  teams and individuals are intrinsically driven to fulfill the purpose of the
-  organization. They do not need extrinsic motivators in the form of objectives
-  and budgets to get them to do their work. They set their own objectives and
-  targets, when they feel it is necessary.
+  Zamiast polegać na zarządzaniu, które wyznacza kierunek, w organizacjach
+  Turskusu zespoły i osoby są z natury motywowane do wypełniania celu
+  organizacji. Nie potrzebują zewnętrznych motywatorów w postaci celów i
+  budżetów, aby skłonić ich do wykonania swojej pracy. Wyznaczają własne cele i
+  zadania, kiedy uważają, że jest to konieczne.
 
 
-  Teal organizations evolve through sensing and responding to the environment. The process of listening to [evolutionary purpose](../evolutionary-purpose/) is used to decide on the next steps for a team or for the whole organization.
+  Organizacje Turkusowe ewoluują poprzez wykrywanie i reagowanie na środowisko. Proces słuchania [celu ewolucyjnego](../evolutionary-purpose/) służy do decydowania o kolejnych krokach dla zespołu lub całej organizacji.
 
 
-  Every historical stage has given birth to a distinct perspective on job titles and job descriptions, and to very different practices:
+  Każdy etap historyczny dał początek odrębnemu spojrzeniu na cele  oraz różne praktyki ich ustalania:
 
 
-  #### **Red Organizations**
+  #### **Czerwone Organizacje**
 
 
-  [Red organizations](../red-organizations/) are characterized by opportunistic and often reactive behaviors. Rather than being a formal process, objectives and target setting is an inherent aspect of protecting and/or expanding one's power base.
+  [Czerwone organizacje](../red-organizations/) charakteryzują się oportunistycznymi i często reaktywnymi zachowaniami. Zamiast być formalnym procesem, cele i wyznaczanie celów jest nieodłącznym aspektem ochrony i/lub poszerzania własnej bazy władzy.
 
 
-  #### **Amber Organizations**
+  #### **Bursztynowe Organizacje**
 
 
-  In [Amber organizations](../amber-paradigm-and-organizations/) objectives are set by senior management. The only input from lower levels is technical or operational information, either as part of their jobs or by special request from above. The roll-out of the plans to achieve these objectives are in the form of directives to lower levels, with targets as part of the directives. Employees have little direct contact with top management, and are expected to follow orders, even if their experience / knowledge of local conditions suggest different actions.
+  W [Bursztynowych organizacjach](../amber-paradigm-and-organizations/) cele wyznacza kierownictwo wyższego szczebla. Jedynym wkładem z niższych poziomów są informacje techniczne lub operacyjne, albo w ramach ich pracy, albo na specjalne żądanie z góry. Plany osiągnięcia tych celów są wdrażane w formie dyrektyw na niższych poziomach, z celami jako częścią dyrektyw. Pracownicy mają niewielki bezpośredni kontakt z najwyższym kierownictwem i oczekuje się od nich wykonywania poleceń, nawet jeśli ich doświadczenie / znajomość lokalnych warunków sugeruje różne działania.
 
 
-  #### **Orange Organizations**
+  #### **Pomarańczowe Organizacje**
 
 
-  [Orange organizations](../Orange_Organizations) formalize the process of strategic planning, setting vision, mission, values and objectives as part of a formal planning process and through the lens of the organization as a machine. This starts at the Board and Executive level followed up with business units, teams or departments. These lower levels are expected to develop their own strategic plans aligned with the corporate vision, mission and objectives.
+  [Pomarańczowe organizacje](../Orange_Organizations) formalizują proces planowania strategicznego, ustalania wizji, misji, wartości i celów w ramach formalnego procesu planowania i przez pryzmat organizacji jako maszyny. Rozpoczyna się to na poziomie zarządu i kierownictwa, po czym kolejno jednostki biznesowe, zespoły lub działy. Oczekuje się, że te niższe szczeble opracują własne plany strategiczne zgodne z wizją, misją i celami firmy.
 
 
-  Targets are hence set at the various levels to achieve the objectives as part of a move from the ‘command and control’ of [Amber ](../amber-paradigm-and-organizations/)to one of ‘predict and control’. Top management formulates the overall direction and strategy and this is cascaded through the organization as targets, goals and objectives. Managers and staff are given freedom to use their creativity to achieve these objectives and may be offered incentives to do so. When aligned well, middle management, and to some extent lower levels, have the freedom to determine how they will achieve their objectives. When not thoughtfully aligned this approach can lead to gaming of targets, with teams sometimes working against each other to achieve their own goals.
+  W związku z tym cele są ustalane na różnych poziomach, aby osiągnąć cele w ramach przejścia od 'dowodzenia i kontroli' [Bursztynu](../amber-paradigm-and-organizations/) do jednego z 'przewidywania i kontroli'. Najwyższe kierownictwo formułuje ogólny kierunek i strategię, które są przekazywane kaskadowo przez organizację jako cele, cele i zadania. Kierownicy i pracownicy mają swobodę wykorzystywania swojej kreatywności, aby osiągnąć te cele, i mogą otrzymać do tego zachęty. Przy dobrym dopasowaniu kierownictwo średniego szczebla i do pewnego stopnia niższe szczeble ma swobodę decydowania, w jaki sposób osiągną swoje cele. Jeśli nie jest w przemyślany sposób dostosowane, podejście to może prowadzić do wyznaczania celów, a zespoły czasami pracują przeciwko sobie, aby osiągnąć własne cele.
 
 
-  #### **Green Organizations**
+  #### **Zielone Organizacje**
 
 
-  A metaphor that is sometimes used to describe consensus-focused [Green organization ](../green-paradigm-and-organizations/)is that of “family.” Green is uneasy with power and hierarchy and shifts authority and decision-making from managers to staff members. In practice successful Green organizations do have hierarchical structures. Managers often operate as servant leaders who are there to support and develop their employees. Objectives and targets are often set by consensus at the team level to support a predefined vision and mission.
+  Metafora, która jest czasami używana do opisania [Zielonej organizacji](../green-paradigm-and-organizations/) skoncentrowanej na konsensusie to “rodzina”. Zielony jest zaniepokojony władzą i hierarchią i przenosi władzę i proces decyzyjny z menedżerów na pracowników. W praktyce odnoszące sukcesy zielone organizacje mają struktury hierarchiczne. Menedżerowie często działają jako liderzy służący, którzy są po to, aby wspierać i rozwijać swoich pracowników. Cele i zadania są często ustalane w drodze konsensusu na poziomie zespołu, aby wspierać z góry określoną wizję i misję.
 
 
-  #### **Teal Organizations**
+  #### **Turskusowe Organizacje**
 
 
-  Using the metaphor of a living system,[Teal organizations](../teal-paradigm-and-organizations/) organize around a clear sense of [purpose ](../listening-to-purpose/)This is not a purpose (mission) set by top management, but one that is allowed to evolve and is shared by all members of the organization.
+  Używając metafory żywego systemu, [Turkusowe organizacje](../teal-paradigm-and-organizations/) organizują się wokół wyraźnego poczucia [celu](../listening-to-purpose/). To nie jest cel (misja) wyznaczona przez najwyższe kierownictwo, ale taka, która może ewoluować i jest wspólna dla wszystkich członków organizacji.
 
 
-  Aligned with the organization's purpose, planning is based on "sense and respond", with an emphasis on an agile approach to finding workable solutions. This adaptive process is similar to lean start-up and [[software development](https://en.wikipedia.org/wiki/Agile_software_development%7Cagile)] principles. Decision-making is carried out within a framework of organization-wide values and balanced through an [advice process](../decision-making/). Strategy emerges organically from the interaction of employees with the Teal organizational environment. Self-managing employees may set objectives for themselves, or a team may decide on an objective, e.g. faster turnaround time, but there are no sales, efficiency or other targets. The process of seeking advice from colleagues and specialists before committing to a project or change ensures that all aspects, including financial responsibility, is taken into consideration. Part of the value system is that no single member or group of members may put the organization at risk with ill-considered or selfish actions or projects.
+  Zgodnie z celem organizacji planowanie opiera się na „rozsądku i reagowaniu”, z naciskiem na zwinne podejście do znajdowania wykonalnych rozwiązań. Ten proces adaptacyjny jest podobny do zasad Lean Start-up i zasady [[software development](https://en.wikipedia.org/wiki/Agile_software_development%7Cagile)]. Podejmowanie decyzji odbywa się w ramach wartości obowiązujących w całej organizacji i jest zrównoważone poprzez [proces doradczy](../decision-making/). Strategia wyłania się organicznie z interakcji pracowników ze środowiskiem organizacyjnym Turskusu. Samodzielni pracownicy mogą wyznaczać sobie cele, a zespół może zadecydować o celu, np. szybszy czas realizacji, ale nie ma celów dotyczących sprzedaży, wydajności ani innych celów. Proces zasięgania porady współpracowników i specjalistów przed zaangażowaniem się w projekt lub zmianę zapewnia uwzględnienie wszystkich aspektów, w tym odpowiedzialności finansowej. Częścią systemu wartości jest to, że żaden pojedynczy członek lub grupa członków nie może narazić organizacji na ryzyko poprzez nieprzemyślane lub samolubne działania lub projekty.
 inPractice: >-
   #### **The problem with objectives**
 
