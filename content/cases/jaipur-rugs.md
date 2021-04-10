@@ -13,9 +13,9 @@ introduction: >-
 
   * Article from Doug Kirkpatrick in 2019^[
     [https://medium.com/redshift-3/jaipur-rugs-self-managed-art-that-you-can-walk-on-5756479726e0](<* https://medium.com/redshift-3/jaipur-rugs-self-managed-art-that-you-can-walk-on-5756479726e0>) Self-Managed Art That You Can Walk On Doug Kirkpatrick April 11, 2019]
-  * Leadermorphosis Podcast Interview of M. Nand Kishore Chaudary on love, collective consciousness and self-management^\[Leadermorphosis Podcast Interview of M. Nand Kishore Chaudary on love, collective consciousness and self-management <https://leadermorphosis.co/ep-57-nand-kishore-chaudhary-from-jaipur-rugs-on-love-consciousness-and-self-management](<* https://leadermorphosis.co/ep-57-nand-kishore-chaudhary-from-jaipur-rugs-on-love-consciousness-and-self-management>]
+  * Leadermorphosis Podcast Interview of M. Nand Kishore Chaudary on love, collective consciousness and self-management^[Leadermorphosis Podcast Interview of M. Nand Kishore Chaudary on love, collective consciousness and self-management <https://leadermorphosis.co/ep-57-nand-kishore-chaudhary-from-jaipur-rugs-on-love-consciousness-and-self-management>]
 
-  * Blog article from Adam Yukelson (Theory U workshop)^\[<https://adamyukelson.com/blog/2016/07/25/jaipur-rugs>]
+  * Blog article from Adam Yukelson (Theory U workshop)^[<https://adamyukelson.com/blog/2016/07/25/jaipur-rugs>]
 industry: C. Manufacturing
 geography: India
 companySize: "> 500"
