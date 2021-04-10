@@ -69,7 +69,7 @@ perspective: >-
   ### Turkusowe organizacje
 
 
-  [Samoorganizacja](../self-management/) pozwala członkowm [Turskusowych organizacji](../teal-paradigm-and-organizations/) brać odpowiedzialność za podejmowanie decyzji bez potrzeby uzyskania zgody lub konsensusu. W rezultacie zwykle wymaganych jest znacznie mniej spotkań.
+  [Samoorganizacja](../self-management/) pozwala członkom [Turskusowych organizacji](../teal-paradigm-and-organizations/) brać odpowiedzialność za podejmowanie decyzji bez potrzeby uzyskania zgody lub konsensusu. W rezultacie zwykle wymaganych jest znacznie mniej spotkań.
 
 
   Spotkania zwykle odbywają się tylko wtedy, gdy są konieczne. Powody to:
