@@ -23,7 +23,7 @@ perspective: >-
   Teal organizations evolve through sensing and responding to the environment. The process of listening to [evolutionary purpose](../evolutionary-purpose/) is used to decide on the next steps for a team or for the whole organization.
 
 
-  Every historical stage has given birth to a distinct perspective on job titles and job descriptions, and to very different practices:
+  Every historical stage has given birth to a distinct perspective on objectives and target setting, and to very different practices:
 
 
   #### **Red Organizations**
