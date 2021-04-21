@@ -1,70 +1,72 @@
 ---
 layout: article
 tags: theory
-key: sales-marketing
-name: Sales and Marketing
-sortOrder: 3
+key: commercial-marketing
+name: Commercial et Marketing
+sortOrder: 1
 category: Important Processes
-intro: This article discusses sales and marketing processes in Teal organizations.
+intro: Cet article aborde la démarche commerciale et marketing au sein des
+  organisations Opale.
 perspective: >-
-  Starting with the Orange paradigm, businesses have become highly sophisticated
-  at segmenting customers based on their conscious and unconscious needs,
-  preferences and buying behaviors. Driven by the objective of outmaneuvering
-  the competition, they carefully position their products and services for each
-  segment. This has contributed importantly to the innovation brought about in
-  Orange and Green, but increasingly, in our mature markets, it seems companies
-  are bent on creating new needs over meeting existing ones. In this process,
-  they often play on our fears and vanities. “Buy this and you will feel good
-  about yourself.” “Buy this and others will like you.” “Buy this and you will
-  be successful.”
+  À partir du paradigme Orange, les entreprises sont devenues particulièrement
+  expertes dans la manière de segmenter leurs clients en fonction de leurs
+  besoins, préférences et comportements d'achat conscients et inconscients. Mues
+  par la volonté de se démarquer de la concurrence, elles positionnent
+  soigneusement leurs produits et services pour chaque segment. Cette démarche a
+  largement favorisé l'innovation au niveau des stades orange et vert.
+  Cependant, sur nos marchés matures,  il semblerait que les entreprises
+  cherchent davantage à créer de nouveaux besoins plutôt qu'à satisfaire les
+  besoins existants. Pour cela, elles exploitent souvent nos angoisses et nos
+  faiblesses. "Achetez ce produit et vous vous sentirez bien dans votre peau".
+  "Achetez ceci et les autres vous aimeront." "Achetez cela et vous réussirez."
 
 
-  In contrast, the Teal approach to marketing is rather simplistic and stems directly from the organization’s sense of purpose. Companies simply ‘listen in’ to what feels like the right offering. There is less emphasis on customer surveys and focus groups. Essentially, marketing boils down to: This is our offer. At this moment, we feel this is the best we can possibly do. We hope you will like it. In a strange paradox, Teal organizations go about filling a need not by tuning in to the noise of the world (the surveys, the focus groups, the customer segmentation), but by listening within. What product would we be really proud of? What product would fill a genuine need in the world? These are the kinds of questions people in Teal organizations ask to define new products. It’s a process guided by beauty and intuition more than analytics.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4511-4521). Nelson Parker. Kindle Edition.]
+  À l'inverse, l'approche Opale en matière de marketing est relativement simple et s'appuie directement sur la raison d'être de l'organisation. Les entreprises se contentent d'"être à l'écoute" de ce qui leur semble être la meilleure offre. Elles attachent moins d'importance aux enquêtes de satisfaction et aux focus groups. Bien souvent, le marketing se résume à la formulation suivante : voici notre offre. À l'heure actuelle, nous estimons que c'est la meilleure offre que nous puissions vous faire. Nous espérons qu'elle vous conviendra. Paradoxalement, les organisations Opale répondent à un besoin, non pas en prêtant attention à ce qui se dit (enquêtes, focus groups, segmentation client), mais en étant à l'écoute de ce qui se passe en leur sein. Quel est le produit dont nous pourrions être vraiment fiers ? Quel produit pourrait répondre à un besoin véritable dans le monde ?  C'est ce type de questions que les collaborateurs des organisations Opale se posent afin de concevoir de nouveaux produits. C'est un processus davantage guidé par la qualité et l'intuition que par les statistiques.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations : vers des communautés de travail inspirées (Numéro d'emplacement Kindle 4511-4521). Nelson Parker. Kindle Edition.]
 inPractice: >-
-  As an organization’s guiding light switches from sales, profits and market
-  share to its purpose, sales and marketing practices change in fundamental
-  ways.
+  Lorsque le fil conducteur d'une entreprise délaisse les ventes, les bénéfices
+  et les parts de marché au profit de sa raison d'être, les pratiques en matière
+  de vente et de marketing évoluent considérablement.
 
 
-  ### Inside-out offer defined by purpose
+  # **Une offre inside-out fondée sur la raison d'être**
 
 
-  Earlier stage organizations will develop marketing strategies based heavily on an analysis of customers (using surveys, focus groups, etc.) with the objective of increasing sales, profit, market share, etc. often by creating artificial needs. This could be characterized as an “outside in” approach. Teal organizations take an “inside out” approach where product development and communication are driven by the desire to fulfill the organization’s purpose. See also[ Innovation and Product Development](../innovation-and-product-development/).  
+  Les entreprises qui en sont aux premiers stades de leur développement élaborent des stratégies de marketing fondées en grande partie sur l'analyse de la clientèle (au moyen d'enquêtes, de focus groups, etc.) dans le but d'augmenter les ventes, les bénéfices, les parts de marché, etc. en créant souvent des besoins fictifs. On pourrait qualifier cette approche d'approche "outside in". Les organisations Opale adoptent une approche "inside out" où le développement des produits et la communication sont guidés par la volonté de servir la raison d'être de l'organisation. Voir également [Innovation et Développement](../innovation-and-product-development/) produits.
 
 
-  ### Marketing driven more by purpose than product
+  ### Une démarche marketing davantage motivée par la raison d'être que par le produit 
+   
+
+  Étant donné que la raison d'être prime sur les ventes et les bénéfices, les organisations Opale préfèrent valoriser leur raison d'être et les moyens qu'elles mettent en œuvre pour l'atteindre, plutôt que de chercher à vendre leur produit ou leur service.  Voir l'exemple de Patagonia ci-dessous.
 
 
-  Because purpose takes priority over sales and profits in Teal, these organizations are most interested in promoting the importance of their purpose and how they are working to achieve it than they are on selling their product or service. See the example of Patagonia below.
+  ### Une communication moins axée sur la "concurrence"
 
 
-  ### The message is less directed at the “competition”
+  Dans une entreprise Opale, la communication autour de l'offre est rarement conçue pour affirmer une quelconque supériorité vis-à-vis de la concurrence. Il est d'ailleurs mentionné dans ce wiki que les organisations Opale considèrent souvent les entreprises affichant une raison d'être similaire à la leur comme des alliés plutôt que comme des concurrents. La communication est plus souvent axée sur l'importance de la raison d'être de l'organisation et sur la manière dont son offre y répond.
 
 
-  Communications about a Teal company’s offering are less frequently designed primarily to claim superiority over the competition. As noted elsewhere in this wiki, Teal organizations often view others that are pursuing a similar purpose as allies rather than competitors. Communication are more often focused on the importance of the organization’s purpose and how the offering fulfills that purpose.
+  ### Des investissements moindres dans les services commerciaux et marketing
 
 
-  ### Less investment in sales and marketing departments
+  Les ressources massives allouées au marketing, typiques des organisations plus anciennes, ont quasiment disparu au sein des organisations Opale.  Bien souvent, il n'y a aucun service commercial et marketing classique. Cette responsabilité est partagée au sein de l'organisation par des équipes autogérées qui sont en contact direct avec les clients.  Au sein des équipes projet, il existe souvent une personne en lien direct avec le client, chargée de communiquer avec lui et de faire remonter les difficultés ou les perspectives à l'équipe.
 
 
-  In Teal, the massive resources allocated to marketing typical in earlier stage organizations are largely gone. Traditional sales and marketing departments often do not exist. Responsibility is distributed throughout the organisation through self-managing teams who have direct customer contact. Within project teams there is often a role which links directly to the customer and is responsible for communicating with him and feeding back issues or opportunities to the team.
+  ### Moins d'objectifs de vente descendants
 
 
-  ### Fewer top-down sales targets
+  Si les organisations Opale peuvent se fixer leurs propres objectifs, en règle générale elles ne se fixent pas d'objectifs descendants. Les objectifs constituent un problème pour au moins trois raisons :
 
 
-  In Teal organizations, self-set targets may exist, but top-down targets usually don't. Targets are problematic for at least three reasons:
+  1. Ils reposent sur l'hypothèse que nous sommes en mesure de prédire l'avenir.
 
+  2. Ils peuvent détourner notre attention de la raison d'être.
 
-  1. They rest on the assumption that we can predict the future.
-
-  2. They may skew our focus away from purpose.
-
-  3. They may narrow our ability to sense possibilities.
+  3. Ils peuvent limiter notre capacité à percevoir les opportunités.
 faq: []
 relatedTheory:
   - Listening to Purpose
   - Evolutionary Purpose
   - Innovation and Product Development
 ---
-to be removed
+à supprimer
