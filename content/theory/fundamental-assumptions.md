@@ -186,7 +186,7 @@ perspective: "Jede geschichtliche Etappe hat grundlegende Annahmen, eine andere
   dienende Führung\". Metapher: Familie.)
 
 
-  #### Petrole (Teal) Organisation
+  #### Teal Organisation
 
 
   Grundlegende Annahmen aus Sicht von Teal sind:
