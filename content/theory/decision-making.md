@@ -140,7 +140,7 @@ inPractice: >-
   * The organization can use decision-making software like [Loomio](https://www.loomio.org/), a free and open-source tool. The process for using the advice process on [Loomio](https://www.loomio.org/): start a discussion to frame the topic and gather input, host a proposal so everyone affected by the issue can voice their position, and then the final decision-maker specifies the outcome (automatically notifying the whole group).
 
 
-  [Equal Experts](https://www.equalexperts.com), a network of software consultants based in the UK, specialising in agile delivery, has written an open playbook to share their ongoing experience of a real-world implementation of the Advice Process (the organization has approximately 1100 members in 2021). This boo, is available at <https://advice-process.playbook.ee>.
+  [Equal Experts](https://www.equalexperts.com), a network of software consultants based in the UK, specialising in agile delivery, has written an open playbook to share their ongoing experience of a real-world implementation of the Advice Process (the organization has approximately 1100 members in 2021). This book is available at <https://advice-process.playbook.ee>.
 
 
   #### Underlying mindsets and training
