@@ -43,16 +43,17 @@ perspective: >-
   Im [Orangen-Paradigma](../orange-paradigm-and-organizations/) werden Organisationen als Maschinen betrachtet, die auf Effizienz "getrimmt" werden müssen. Das Top-Management gibt die allgemeine Richtung oder Strategie vor, und dann werden die Ziele kaskadenartig nach unten weitergegeben. Manager erstellen Pläne zur Genehmigung, die auf ihren Zielen basieren. Diese Pläne leiten die Entscheidungsfindung für das Erreichen von Zielen, z. B. Gewinn und Marktanteil. Die Teammitglieder sind eingeladen, Initiativen vorzuschlagen und sich am Entscheidungsprozess zu beteiligen. Dies fördert Innovation und Diskussion. Die übergeordneten Ziele sind Vorhersehbarkeit und Kontrolle.
 
 
-  #### Green organizations
+  #### Grüne Organisationen
 
 
-  Values-driven, purpose-led [Green organizations](../green-paradigm-and-organizations/) strive to serve multiple stakeholders. Front-line employees, for example, are often encouraged to make significant decisions without higher approvals in the interests of serving customers and the wider stakeholder community. They are in touch with the day-to-day issues, and trusted to devise better solutions than ‘experts’ who may be far away. Emphasis is on maintaining a strong, often “familial”, culture. Consensus is highly valued.
+  Werteorientierte, zweckorientierte [Grüne Organisationen](../green-paradigm-and-organizations/) streben danach, mehreren Interessengruppen zu dienen. Mitarbeiter an der Front werden zum Beispiel oft ermutigt, wichtige Entscheidungen ohne übergeordnete Genehmigungen zu treffen, um den Kunden und der breiteren Stakeholder-Gemeinschaft zu dienen. Sie sind mit den alltäglichen Problemen vertraut und können bessere Lösungen finden als "Experten", die vielleicht weit weg sind. Der Schwerpunkt liegt auf der Aufrechterhaltung einer starken, oft "familiären" Kultur. Konsens wird hoch geschätzt.
 
 
-  #### Teal organizations
+
+  #### Teal-Organisationen
 
 
-  In Evolutionary-Teal, there is a shift from external to internal yardsticks in decision-making. People are now concerned with the question of inner rightness: does this decision seem right? Am I being true to myself? Is this in line with who I sense I am? Am I being of service to the world? With fewer ego-fears, people are able to make decisions that might seem risky. All the possible outcomes may not have been weighed up, but the decision resonates with deep inner convictions. People develop a sensitivity for situations that don’t quite feel right, and situations that demand that they speak up and take action, even in the face of opposition or with seemingly low odds of success. This is born out of a sense of integrity and authenticity.
+  Im Evolutionären-Teal findet eine Verschiebung von externen zu internen Maßstäben bei der Entscheidungsfindung statt. Die Menschen beschäftigen sich nun mit der Frage der inneren Richtigkeit: Erscheint mir diese Entscheidung richtig? Bin ich mir selbst treu? Steht sie im Einklang mit dem, was ich spüre, wer ich bin? Bin ich der Welt zu Diensten? Mit weniger Ego-Ängsten sind Menschen in der Lage, Entscheidungen zu treffen, die vielleicht riskant erscheinen. Es sind vielleicht nicht alle möglichen Ergebnisse abgewogen worden, aber die Entscheidung schwingt mit tiefen inneren Überzeugungen mit. Menschen entwickeln eine Sensibilität für Situationen, die sich nicht ganz richtig anfühlen, und für Situationen, die von ihnen verlangen, dass sie sich zu Wort melden und etwas unternehmen, auch gegen Widerstände oder mit scheinbar geringen Erfolgsaussichten. Dies wird aus einem Gefühl der Integrität und Authentizität geboren.
 inPractice: >-
   ### The advice process
 
