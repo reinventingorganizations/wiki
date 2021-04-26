@@ -141,7 +141,7 @@ inPractice: "#### *Die Aktivität von Meetings ist begrenzt und entsteht aus dem
   Meetings können spontan entstehen, wenn ein Mitglied der Organisation ein
   Bedürfnis verspürt und die Initiative ergreift.  Meeting-Strukturen und
   Moderation unterstützen diesen [selbstorganisierenden](../self-management/)
-  Geist. Die erhöhte Transparenz in Teal Organisationen reduziert die Anzahl und
+  Geist. Die erhöhte Transparenz in Teal-Organisationen reduziert die Anzahl und
   Länge einiger Meetings. Wenn Meetings abgehalten werden, wird darauf geachtet,
   bestimmte Praktiken zu verwenden, die ein Gefühl der
   [Ganzheitlichkeit](../wholeness/) fördern.
