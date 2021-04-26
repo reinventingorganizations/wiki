@@ -1,14 +1,14 @@
 ---
 layout: article
 tags: theory
-key: Decision Making
-name: Decision Making
+key: Entscheidungsfindung
+name: Entscheidungsfindung
 sortOrder: 3
 category: Daily practices
 intro: >-
-  The topic of decision-making discusses how decisions are made within
-  organizations, and by whom. In Teal organizations, decision-making authority
-  is truly distributed throughout the organization.
+  Beim Thema Entscheidungsfindung geht es darum, wie und von wem Entscheidungen
+  in Organisationen getroffen werden. In Teal-Organisationen ist die
+  Entscheidungsbefugnis tatsächlich in der gesamten Organisation verteilt.
 
 
   ![](/media/decision.jpg)
