@@ -24,7 +24,7 @@ perspective: >-
   Jede historische Phase hat eine andere Sichtweise auf die Entscheidungsfindung und sehr unterschiedliche Praktiken hervorgebracht. In früheren Perioden wurden Entscheidungen vielleicht an der Spitze getroffen. Heute versuchen einige Organisationen bewusst, Menschen an der Basis zu "bevollmächtigen".
 
 
-  #### Red organizations
+  #### Rote Organisationen
 
 
   In the[ Red paradigm](../red-organizations/), decisions of any consequence are made by the boss/chief. Employees must seek his or her approval, or risk severe consequences. Red organizations can be efficient, but control, exercised through fear, limits the willingness of members to make independent decisions.
