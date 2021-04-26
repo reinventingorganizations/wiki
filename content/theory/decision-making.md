@@ -13,14 +13,15 @@ intro: >-
 
   ![](/media/decision.jpg)
 perspective: >-
-  In [Teal organizations](../teal-paradigm-and-organizations/) decision-making
-  is highly distributed. Front-line individuals or teams have the opportunity to
-  make decisions that affect their work. While these decisions may not need to
-  be validated by a hierarchy or consensus, it is expected that experts, and
-  those affected, should be involved.
+  In [Teal-Organisationen](../teal-paradigm-and-organizations/) ist die
+  Entscheidungsfindung stark verteilt. Einzelpersonen oder Teams an der Front
+  haben die Möglichkeit, Entscheidungen zu treffen, die ihre Arbeit betreffen.
+  Auch wenn diese Entscheidungen nicht durch eine Hierarchie oder einen Konsens
+  validiert werden müssen, wird erwartet, dass Experten und Betroffene
+  einbezogen werden.
 
 
-  Every historical stage has given birth to a distinct perspective on decision making and to very different practices. In earlier periods, decisions may have been made at the top. Today, some organizations consciously try to "empower" people at the bottom. 
+  Jede historische Phase hat eine andere Sichtweise auf die Entscheidungsfindung und sehr unterschiedliche Praktiken hervorgebracht. In früheren Perioden wurden Entscheidungen vielleicht an der Spitze getroffen. Heute versuchen einige Organisationen bewusst, Menschen an der Basis zu "bevollmächtigen".
 
 
   #### Red organizations
