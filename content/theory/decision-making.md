@@ -37,10 +37,10 @@ perspective: >-
 
 
 
-  #### Orange Organisation
+  #### Orange Organisationen
 
 
-  In the [Orange paradigm](../orange-paradigm-and-organizations/), organizations are viewed as machines that need to be 'tuned' for efficiency. Top management announces the overall direction or strategy and then objectives cascade down. Managers draw up plans for approval based on their objectives. These plans guide decision-making toward the achievement of goals—for example, profit and market share. Team members are invited to suggest initiatives and participate in the decision-making process. This encourages innovation and debate. The overriding aims are predictability and control.
+  Im [Orangen-Paradigma](../orange-paradigm-and-organizations/) werden Organisationen als Maschinen betrachtet, die auf Effizienz "getrimmt" werden müssen. Das Top-Management gibt die allgemeine Richtung oder Strategie vor, und dann werden die Ziele kaskadenartig nach unten weitergegeben. Manager erstellen Pläne zur Genehmigung, die auf ihren Zielen basieren. Diese Pläne leiten die Entscheidungsfindung für das Erreichen von Zielen, z. B. Gewinn und Marktanteil. Die Teammitglieder sind eingeladen, Initiativen vorzuschlagen und sich am Entscheidungsprozess zu beteiligen. Dies fördert Innovation und Diskussion. Die übergeordneten Ziele sind Vorhersehbarkeit und Kontrolle.
 
 
   #### Green organizations
