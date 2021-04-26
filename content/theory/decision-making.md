@@ -27,16 +27,17 @@ perspective: >-
   #### Rote Organisationen
 
 
-  In the[ Red paradigm](../red-organizations/), decisions of any consequence are made by the boss/chief. Employees must seek his or her approval, or risk severe consequences. Red organizations can be efficient, but control, exercised through fear, limits the willingness of members to make independent decisions.
+  Im[ Roten-Paradigma](../red-organizations/) werden Entscheidungen jeglicher Tragweite vom Boss/Chef getroffen. Mitarbeiter müssen seine oder ihre Zustimmung einholen, oder sie riskieren ernsthafte Konsequenzen. Rote Organisationen können effizient sein, aber die Kontrolle, die durch Angst ausgeübt wird, begrenzt die Bereitschaft der Mitglieder, unabhängige Entscheidungen zu treffen.
 
 
-  #### Amber organizations
+  #### Bernstein Organisationen
 
 
-  In the [Amber paradigm](../amber-paradigm-and-organizations/), decision-making authority is determined by an individual’s status in the hierarchy. Innovation is not particularly valued; following standard operating procedures is. A clear chain of command supported by formal processes defines who can do what. Individuals are expected to embrace these processes and traditions.
+  Im [Bernstein-Paradigma] (../amber-paradigm-and-organizations/) wird die Entscheidungsbefugnis durch den Status einer Person in der Hierarchie bestimmt. Innovation wird nicht besonders geschätzt; das Befolgen von Standardarbeitsanweisungen schon. Eine klare Befehlskette, unterstützt durch formale Prozesse, definiert, wer was tun darf. Von Einzelpersonen wird erwartet, dass sie diese Prozesse und Traditionen übernehmen.
 
 
-  #### Orange organizations
+
+  #### Orange Organisation
 
 
   In the [Orange paradigm](../orange-paradigm-and-organizations/), organizations are viewed as machines that need to be 'tuned' for efficiency. Top management announces the overall direction or strategy and then objectives cascade down. Managers draw up plans for approval based on their objectives. These plans guide decision-making toward the achievement of goals—for example, profit and market share. Team members are invited to suggest initiatives and participate in the decision-making process. This encourages innovation and debate. The overriding aims are predictability and control.
