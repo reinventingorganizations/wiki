@@ -73,6 +73,8 @@ inPractice: >-
   In practice, this process proves remarkably effective. It allows anybody to seize the initiative. Power is no longer a zero-sum game. Everyone is powerful via the advice process.
 
 
+
+
   #### It's not consensus
 
 
