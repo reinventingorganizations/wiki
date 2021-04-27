@@ -252,17 +252,18 @@ inPractice: "### Der Beratungsprozess
   welcher Geisteshaltung die Mitarbeiter an ihn herangehen:
 
 
-  * The initiator can approach it authoritatively (\"I don't care about what
-  others have said\" or, alternatively, \"I fully comply with what others -
-  someone highly respected, or the majority - have said\").
+  * Der Initiator kann es autoritär angehen (\"Es ist mir egal, was andere
+  gesagt haben\" oder alternativ \"Ich halte mich voll und ganz an das, was
+  andere - jemand, der hoch angesehen ist, oder die Mehrheit - gesagt
+  haben\").\r
 
-  * They can approach from a perspective of negotiation or compromise (\"I'll
-  do some of what they say so they're happy, but it will increment my
-  frustration account by 1\").
+  * Sie können es aus einer Verhandlungs- oder Kompromissperspektive angehen
+  (\"Ich tue etwas von dem, was sie sagen, damit sie zufrieden sind, aber es
+  wird mein Frustrationskonto um 1 erhöhen\").\r
 
-  * They can approach it co-creatively, which is the spirit of the advice
-  process (\"I will listen to others, understand the real need in what they say,
-  and think creatively about an elegant solution\").
+  * Sie können es ko-kreativ angehen, was dem Geist des Beratungsprozesses
+  entspricht (\"Ich werde den anderen zuhören, die wahren Bedürfnisse in dem,
+  was sie sagen, verstehen und kreativ über eine elegante Lösung nachdenken\").
 
 
   #### Role modeling
