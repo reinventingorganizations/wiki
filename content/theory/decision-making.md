@@ -137,16 +137,19 @@ inPractice: "### Der Beratungsprozess
   Informationen stärkt das Gefühl der Gemeinschaft. Die Person, deren Rat
   gesucht wird, fühlt sich geehrt und gebraucht.
 
+  **Demut**: Um Rat zu fragen, ist ein Akt der Demut, der eine der wichtigsten
+  Eigenschaften eines spaßigen Arbeitsplatzes ist. Allein der Akt sagt: \"Ich
+  brauche dich\". Der Entscheidungsträger und der Berater werden in eine engere
+  Beziehung gedrängt. Das macht es für den Entscheider fast unmöglich, den Rat
+  zu ignorieren.
 
-  * **Humility**: asking for advice is an act of humility, which is one of the
-  most important characteristics of a fun workplace. The act alone says, \"I
-  need you“. The decision maker and the adviser are pushed into a closer
-  relationship. This makes it nearly impossible for the decision-maker to ignore
-  the advice.
+  * **Lernen**: Entscheidungen zu treffen ist eine Ausbildung am Arbeitsplatz.
+  Ratschläge kommen von Menschen, die die Situation verstehen und sich um das
+  Ergebnis kümmern. Keine andere Form der Ausbildung oder Schulung kann mit
+  dieser Echtzeit-Erfahrung mithalten.
 
-  * **Learning**: making decisions is on-the-job education. Advice comes from
-  people who have an understanding of the situation and care about the outcome.
-  No other form of education or training can match this real-time experience.
+
+
 
   * **Better decisions**: chances of reaching the best decision are greater
   than under conventional top-down approaches. The decision maker has the
