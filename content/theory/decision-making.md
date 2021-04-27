@@ -315,11 +315,12 @@ inPractice: "### Der Beratungsprozess
   können. Erinnern Sie sie daran, dass die Entscheidung bei ihnen liegt.
 
 
-  For many leaders, unlearning the habit of making all the decisions is hard.
-  It requires commitment and mindfulness. If you find yourself falling into the
-  old pattern, take the opportunity to acknowledge your mistake, and restate the
-  importance of the process. This can turn a mistake into a powerful learning
-  moment. Better habits are formed through repeated practice.
+  Vielen Führungskräften fällt es schwer, sich die Gewohnheit abzugewöhnen,
+  alle Entscheidungen zu treffen. Es erfordert Engagement und Achtsamkeit. Wenn
+  Sie sich dabei ertappen, in das alte Muster zu verfallen, nutzen Sie die
+  Gelegenheit, Ihren Fehler einzugestehen und die Wichtigkeit des Prozesses
+  erneut zu betonen. Dies kann einen Fehler in einen kraftvollen Lernmoment
+  verwandeln. Bessere Gewohnheiten bilden sich durch wiederholtes Üben.
 
 
   ### Consent-based decision making
