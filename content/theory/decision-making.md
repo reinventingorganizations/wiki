@@ -532,18 +532,40 @@ faq:
       Technology](https://en.wikipedia.org/wiki/Open_Space_Technology), [Art of
       Hosting](http://www.artofhosting.org/), [World
       Café](http://www.theworldcafe.com/), etc. \""
-  - question: Can this type of decision-making be upheld in a time of crisis?
-    answer: >-
-      In crises, time is of the essence. Is the advice process too unwieldy?
+  - question: Kann diese Art der Entscheidungsfindung in einer Krisenzeit
+      aufrechterhalten werden?
+    answer: "In Krisen ist Zeit das A und O. Ist der Beratungsprozess zu
+      umständlich?
 
 
-      There are good examples of organizations that have used the advice process during crises. Rarely are decisions so urgent that a few hours can't be found to seek advice. And if possible, a crisis makes it even more important that a 'right' decision is made. 
+      \r
+
+      \r
+
+      Es gibt gute Beispiele von Organisationen, die den Beratungsprozess
+      in Krisen genutzt haben. Selten sind Entscheidungen so dringlich, dass man
+      sich nicht ein paar Stunden Zeit nehmen kann, um Rat einzuholen. Und wenn
+      möglich, ist es in einer Krise umso wichtiger, dass eine \"richtige\"
+      Entscheidung getroffen wird.\ 
 
 
-      If, for some reason, the process does need to be suspended, two guidelines maintain trust in[ self-management:](../self-management/) Full transparency about the scope and time frame of the crisis response, and making sure such powers clearly cease when the crisis is over.
+      Wenn der Prozess aus irgendeinem Grund unterbrochen werden muss,
+      erhalten zwei Richtlinien das Vertrauen in das[
+      Selbstmanagement:](../Selbstmanagement/) Vollständige Transparenz über den
+      Umfang und den Zeitrahmen der Krisenreaktion und die Sicherstellung, dass
+      diese Befugnisse eindeutig enden, wenn die Krise vorbei ist.
 
 
-      In fact in many ways, the advice process allows for even faster and more decisive action, because many people in the organization practice being empowered decision-makers on a regular basis. In a well-functioning Teal organization, someone who is aware of a crises will weigh the advice it's feasible to get in the time they have, and make a judgement call.
+      \r
+
+      \r
+
+      In vielerlei Hinsicht ermöglicht der Beratungsprozess sogar ein
+      schnelleres und entschlosseneres Handeln, weil viele Menschen in der
+      Organisation regelmäßig üben, befugte Entscheidungsträger zu sein. In
+      einer gut funktionierenden Teal-Organisation wird jemand, der sich einer
+      Krise bewusst ist, die Ratschläge abwägen, die er in der ihm zur Verfügung
+      stehenden Zeit erhalten kann, und eine Entscheidung treffen."
   - question: What about decisions that affect the whole organization? Isn’t it
       impractical to solicit feedback from large numbers?
     answer: >-
