@@ -323,21 +323,27 @@ inPractice: "### Der Beratungsprozess
   verwandeln. Bessere Gewohnheiten bilden sich durch wiederholtes Üben.
 
 
-  ### Consent-based decision making
+  ### Zustimmungsbasierte Entscheidungsfindung
 
 
-  A variation of the advice process is consent-based decision making.
-  \"Consent\" is different from \"consensus\" in the sense of unanimity. The
-  consent principle says that a decision can be made as long as no one has a
-  reasoned, substantial objection (also known as a \"block\"). Consent doesn't
-  mean everyone loves the decision, but that they can live with it.\ 
+  \r
+
+  \r
+
+  Eine Variante des Beratungsprozesses ist die konsensbasierte
+  Entscheidungsfindung. \"Zustimmung\" ist etwas anderes als \"Konsens\" im
+  Sinne von Einstimmigkeit. Das Konsensprinzip besagt, dass eine Entscheidung
+  getroffen werden kann, solange niemand einen begründeten, substantiellen
+  Einwand hat (auch als \"Block\" bekannt). Zustimmung bedeutet nicht, dass alle
+  die Entscheidung lieben, sondern dass sie damit leben können.\ 
 
 
-  In practice, consent means that if one person raises a principled objection,
-  the decision is blocked. The proposer must pause and, together with the
-  objector, devise a solution that overcomes the objection. A block in a
-  consensus process is a signal to the whole team to \"swarm\" to understand the
-  objection and problem solve.
+  In der Praxis bedeutet Zustimmung, dass, wenn eine Person einen
+  prinzipiellen Einwand erhebt, die Entscheidung blockiert ist. Der
+  Vorschlagende muss innehalten und zusammen mit dem Einwender eine Lösung
+  erarbeiten, die den Einwand überwindet. Eine Blockade in einem Konsensprozess
+  ist ein Signal an das ganze Team, \"auszuschwärmen\", um den Einwand zu
+  verstehen und das Problem zu lösen.
 
 
   Giving such power to a principled objection can be both valuable and
