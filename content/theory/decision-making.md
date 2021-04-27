@@ -67,18 +67,16 @@ inPractice: >-
   Erhaltene Ratschläge müssen berücksichtigt werden. Es geht nicht darum, einen verwässerten Kompromiss zu schaffen, der die Wünsche aller berücksichtigt. Es geht darum, auf die kollektive Weisheit zuzugreifen, um eine gute Entscheidung zu treffen. Mit all den Ratschlägen und Perspektiven, die der Entscheidungsträger erhalten hat, wählt er das, was er für die beste Vorgehensweise hält.
 
 
-  Advice is simply advice. No colleague, whatever their importance, can tell a decision-maker what to decide. Usually, the decision-maker is the person who first noticed the issue, or the person most affected by it. 
+  Ratschläge sind einfach Ratschläge. Kein Kollege, egal wie wichtig er ist, kann einem Entscheidungsträger sagen, was er zu entscheiden hat. Normalerweise ist der Entscheidungsträger die Person, die das Problem zuerst bemerkt hat, oder die Person, die am meisten davon betroffen ist
 
 
-  In practice, this process proves remarkably effective. It allows anybody to seize the initiative. Power is no longer a zero-sum game. Everyone is powerful via the advice process.
+  In der Praxis erweist sich dieses Verfahren als bemerkenswert effektiv. Es erlaubt jedem, die Initiative zu ergreifen. Macht ist nicht länger ein Nullsummenspiel. Jeder ist durch den Beratungsprozess mächtig.
 
 
+  #### Es ist kein Konsens
 
 
-  #### It's not consensus
-
-
-  We often imagine decisions can be made in only two ways: either by the person with authority (someone calls the shots; some people might be frustrated; but at least things get done), or by unanimous agreement (everyone gets a say, but it can be frustratingly slow).
+  Wir stellen uns oft vor, dass Entscheidungen nur auf zwei Arten getroffen werden können: entweder durch die Person mit Autorität (jemand hat das Sagen; einige Leute könnten frustriert sein; aber zumindest werden die Dinge erledigt), oder durch einstimmige Zustimmung (jeder bekommt ein Mitspracherecht, aber das kann frustrierend langsam sein).
 
 
   It is a misunderstanding that self-management decisions are made by getting everyone to agree, or even involving everyone in the decision. The advice seeker must take all relevant advice into consideration, but can still make the decision. 
