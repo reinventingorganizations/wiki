@@ -1,8 +1,8 @@
 ---
 layout: article
 tags: theory
-key: Fundamental Assumptions
-name: Fundamental Assumptions
+key: Grundannahmen
+name: Grundannahmen
 sortOrder: 1
 category: Daily practices
 intro: >-
