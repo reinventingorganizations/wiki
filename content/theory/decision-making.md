@@ -481,25 +481,53 @@ faq:
       \"Hände weg\". Entscheidungen, die sich auf diese Domäne beziehen, können
       nur von einer ernannten Person(en) getroffen werden. Die Idee ist, dass
       Domänen eine Ausnahme bleiben und nicht häufig benutzt werden sollten."
-  - question: If we accept that an organization has its own sense of direction, how
-      do we find out where it wants to go?
-    answer: >-
-      #### Sensing as a natural outcome of self-management
+  - question: Wenn wir akzeptieren, dass eine Organisation ihren eigenen Sinn hat,
+      wie finden wir dann heraus, wohin sie gehen will?
+    answer: "#### Sensing als natürliches Ergebnis des Selbstmanagements
 
 
-      The simplest answer is often: Do nothing special. Let self-management work its magic. One word often comes up with Teal pioneers: *Sensing*. We notice when something isn’t working as it should, or could. With experience, our capacity to sense grows. 
+      \r
+
+      \r
+
+      Die einfachste Antwort ist oft: Nichts Besonderes tun. Lassen Sie
+      das Selbstmanagement seine Magie wirken. Ein Wort taucht bei
+      Teal-Pionieren oft auf: *Sensing*. Wir merken, wenn etwas nicht so
+      funktioniert, wie es sollte oder könnte. Mit der Erfahrung wächst unsere
+      Fähigkeit zu spüren.\ 
 
 
-      #### The Empty Chair
+      #### Der leere Stuhl
 
 
-      One practice to keep purpose foremost is to allocate an empty chair at meetings to represent our [evolutionary purpose](../evolutionary-purpose/). Anybody can occupy the seat and represent the voice of the organization. Different questions can arise from this perspective: Have today's discussions and decisions served you (the organization) well? What stands out to you from today’s meeting? Are we being bold enough? Too bold? Is there anything else that needs to be discussed?
+      \r
+
+      \r
+
+      Eine Praxis, um den Zweck im Vordergrund zu halten, besteht darin,
+      bei Versammlungen einen leeren Stuhl zu bestimmen, der unseren
+      [evolutionären Zweck](../evolutionary-purpose/) repräsentiert. Jeder kann
+      den Stuhl besetzen und die Stimme der Organisation vertreten. Aus dieser
+      Perspektive können sich verschiedene Fragen ergeben: Haben die heutigen
+      Diskussionen und Entscheidungen Ihnen (der Organisation) gut gedient? Was
+      sticht für Sie aus der heutigen Sitzung heraus? Sind wir mutig genug? Zu
+      mutig? Gibt es noch etwas, das diskutiert werden muss?
 
 
       #### Large Group Processes
 
 
-      When facing a major inflection, some more elaborate processes help. These include Otto Scharmer’s “[Theory U](https://en.wikipedia.org/wiki/U-procedure_and_Theory_U)”, David Cooperrider’s “[Appreciative Inquiry](https://en.wikipedia.org/wiki/Appreciative_inquiry)", Marvin Weisbord and Sandra Janoff’s “[Future Search](https://en.wikipedia.org/wiki/Future_Search)",  Harrison Owen’s “[Open Space Technology](https://en.wikipedia.org/wiki/Open_Space_Technology), [Art of Hosting](http://www.artofhosting.org/), [World Café](http://www.theworldcafe.com/), etc. ”
+      When facing a major inflection, some more elaborate processes help.
+      These include Otto Scharmer’s “[Theory
+      U](https://en.wikipedia.org/wiki/U-procedure_and_Theory_U)”, David
+      Cooperrider’s “[Appreciative
+      Inquiry](https://en.wikipedia.org/wiki/Appreciative_inquiry)\", Marvin
+      Weisbord and Sandra Janoff’s “[Future
+      Search](https://en.wikipedia.org/wiki/Future_Search)\",  Harrison Owen’s
+      “[Open Space
+      Technology](https://en.wikipedia.org/wiki/Open_Space_Technology), [Art of
+      Hosting](http://www.artofhosting.org/), [World
+      Café](http://www.theworldcafe.com/), etc. ”"
   - question: Can this type of decision-making be upheld in a time of crisis?
     answer: >-
       In crises, time is of the essence. Is the advice process too unwieldy?
