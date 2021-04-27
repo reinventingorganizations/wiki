@@ -79,16 +79,16 @@ inPractice: >-
   Wir stellen uns oft vor, dass Entscheidungen nur auf zwei Arten getroffen werden können: entweder durch die Person mit Autorität (jemand hat das Sagen; einige Leute könnten frustriert sein; aber zumindest werden die Dinge erledigt), oder durch einstimmige Zustimmung (jeder bekommt ein Mitspracherecht, aber das kann frustrierend langsam sein).
 
 
-  It is a misunderstanding that self-management decisions are made by getting everyone to agree, or even involving everyone in the decision. The advice seeker must take all relevant advice into consideration, but can still make the decision. 
+  Es ist ein Missverständnis, dass Selbstmanagement-Entscheidungen dadurch getroffen werden, dass alle zustimmen oder sogar alle in die Entscheidung einbezogen werden. Der Ratsuchende muss alle relevanten Ratschläge in Betracht ziehen, kann aber trotzdem die Entscheidung treffen. 
 
 
-  Consensus may sound appealing, but it's not always most effective to give everybody veto power. In the advice process, power and responsibility rest with the decision-maker. Ergo, there is no power to block.
+  Konsens mag verlockend klingen, aber es ist nicht immer am effektivsten, jedem ein Vetorecht einzuräumen. Im Beratungsprozess liegen Macht und Verantwortung bei den Entscheidungsträgern. Ergo, es gibt keine Macht zu blockieren.
 
 
-  Ownership of the issue stays clearly with one person: the decision maker. Convinced she made the best possible decision, she can see things through with enthusiasm, and she can accept responsibility for any mistakes.
+  Die Verantwortung für die Angelegenheit bleibt eindeutig bei einer Person: der Entscheidungsträgerin. In der Überzeugung, die bestmögliche Entscheidung getroffen zu haben, kann sie die Dinge mit Enthusiasmus durchziehen und die Verantwortung für eventuelle Fehler übernehmen.
 
 
-  The advice process, then, transcends both top-down *and* consensus-based decision making.
+  Der Beratungsprozess geht also über die Top-down- *und* konsensbasierte Entscheidungsfindung hinaus.
 
 
   #### Benefits of the advice process
