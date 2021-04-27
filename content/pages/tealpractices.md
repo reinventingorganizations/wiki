@@ -81,7 +81,7 @@ name: Key organizational structures and practices
 
 此节内容来自[资深平等联盟机构](https://advice-process.playbook.ee/introduction)（EE）。
 
-* [概要](https://cn.reinventingorganizationswiki.com/pages/entries/applaybook)
+* [概要](https://cn.reinventingorganizationswiki.com/pages/entries/applaybook/)
 * 建议流程使用指南
 
 > 1 背景
