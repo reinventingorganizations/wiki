@@ -283,14 +283,22 @@ inPractice: "### Der Beratungsprozess
   orientieren.
 
 
-  Role modeling can take several forms:\ 
+  Rollenmodellierung kann verschiedene Formen annehmen:\ 
 
 
-  * When you want to make a decision, pause and ask: Am I the best person for
-  this decision? (That is, the person most closely linked to the decision, or
-  the person with most energy, skill, and experience to make it?). If not, ask
-  the person you think is better placed to take the initiative. If he/she
-  doesn't want to, you might be best placed after all.
+  \r
+
+  \r
+
+  * Wenn Sie eine Entscheidung treffen wollen, halten Sie inne und fragen Sie:
+  Bin ich die beste Person für diese Entscheidung? (Das heißt, die Person, die
+  am engsten mit der Entscheidung verbunden ist, oder die Person mit der meisten
+  Energie, Fähigkeit und Erfahrung, um sie zu treffen?). Wenn nicht, bitten Sie
+  die Person, von der Sie denken, dass sie besser geeignet ist, die Initiative
+  zu ergreifen. Wenn er/sie das nicht möchte, sind Sie vielleicht doch am besten
+  geeignet.
+
+
 
   * If you are the right person to make a decision, identify those from whom
   you should seek advice. Approach them and explain what you are doing. (\"I'm
