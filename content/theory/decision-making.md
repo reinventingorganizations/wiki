@@ -154,13 +154,10 @@ inPractice: "### Der Beratungsprozess
   mit der Verantwortung für die Folgen der Entscheidung leben muss. Beratung
   liefert vielfältigen Input, deckt wichtige Themen und neue Perspektiven auf.
 
-
-
-
-  * **Fun**: the process is just plain fun for the decision-maker, because it
-  mirrors the joy found in playing team sports. The advice process stimulates
-  initiative and creativity, which are enhanced by the wisdom from knowledgeable
-  people elsewhere in the organization.
+  **Spaß**: Der Prozess macht den Entscheidungsträgern einfach Spaß, weil er
+  die Freude am Mannschaftssport widerspiegelt. Der Beratungsprozess regt
+  Initiative und Kreativität an, die durch die Weisheit von sachkundigen
+  Personen an anderer Stelle in der Organisation verstärkt werden.
 
 
   #### Steps in the advice process
