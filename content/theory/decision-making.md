@@ -397,36 +397,44 @@ inPractice: "### Der Beratungsprozess
   sogar der Vorstand gehören.
 
 
-  #### Sources that inform decision-making
+  #### Quellen für die Entscheidungsfindung
 
 
-  Teal organizations tend to take a broad range of sources into account:
+  \r
+
+  \r
+
+  Teal-Organisationen neigen dazu, eine breite Palette von Quellen zu
+  berücksichtigen:
 
 
-  * **Rationality**: Many think that rationality rules, and is the legitimate
-  basis for decision-making. Teal considers rational, analytical approaches to
-  be critical, but not the only source to inform decision making.
+  **Rationalität**: Viele denken, dass Rationalität herrscht und die legitime
+  Grundlage für die Entscheidungsfindung ist. Teal hält rationale, analytische
+  Ansätze für entscheidend, aber nicht für die einzige Quelle für die
+  Entscheidungsfindung.\r
 
-  * **Emotions**: Whereas the modern-scientific perspective is wary of
-  emotions, Teal recognizes that wisdom is to be found there when we learn to
-  inquire into their significance: \"Why am I angry, fearful, ambitious, or
-  excited? What does this reveal about me or about the situation that is
-  unfolding?\"
+  **Emotionen**: Während die modern-wissenschaftliche Sichtweise Emotionen
+  gegenüber misstrauisch ist, erkennt Teal, dass dort Weisheit zu finden ist,
+  wenn wir lernen, nach ihrer Bedeutung zu fragen: \"Warum bin ich wütend,
+  ängstlich, ehrgeizig oder aufgeregt? Was verrät das über mich oder über die
+  Situation, die sich gerade entfaltet?\"
 
-  * **Intuition**: Wisdom can be found in intuition, too. Intuition honors the
-  ambiguous, paradoxical, non-linear nature of reality. We unconsciously connect
-  patterns in ways that our rational mind cannot. Many great minds, like
-  Einstein, had a deep reverence for intuition. They claim it is a muscle that
-  can be trained. Learning to pay attention to intuitions, to question them for
-  guidance, allows intuitive answers to surface.
+  * **Intuition**: Weisheit kann auch in der Intuition gefunden werden.
+  Intuition ehrt die mehrdeutige, paradoxe, nicht-lineare Natur der Realität.
+  Wir verbinden unbewusst Muster auf eine Weise, die unser rationaler Verstand
+  nicht erfassen kann. Viele große Geister, wie Einstein, hatten eine tiefe
+  Verehrung für die Intuition. Sie behaupten, sie sei ein Muskel, der trainiert
+  werden kann. Wenn man lernt, auf Intuitionen zu achten und sie nach Führung zu
+  fragen, können intuitive Antworten an die Oberfläche kommen.
 
-  * **Paradoxical thinking**: A Teal breakthrough is the ability to live with
-  paradox; beyond \"either-or\" to \"both-and\" thinking. Breathing in and
-  breathing out illustrates the difference. Either-or thinking sees them as
-  opposites. Both-and thinking sees them as needing each other. The more we can
-  breathe in, the more we can breathe out. One such paradox is the advice
-  process: it is a decision-making process that at once encourages individual
-  initiative and the voice of the collective. It's both-and.
+  * **Paradoxes Denken**: Ein Teal-Durchbruch ist die Fähigkeit, mit Paradox
+  zu leben; jenseits des \"Entweder-oder\" zum \"Sowohl-als-auch\"-Denken.
+  Einatmen und Ausatmen verdeutlicht den Unterschied. Das Entweder-Oder-Denken
+  sieht sie als Gegensätze. Das Sowohl-als-auch-Denken sieht, dass sie sich
+  gegenseitig brauchen. Je mehr wir einatmen können, desto mehr können wir
+  ausatmen. Ein solches Paradoxon ist der Beratungsprozess: Er ist ein
+  Entscheidungsprozess, der gleichzeitig die individuelle Initiative und die
+  Stimme des Kollektivs fördert. Es ist ein Sowohl-als-auch.
 
 
   #### More to read
