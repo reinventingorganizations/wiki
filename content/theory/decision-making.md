@@ -266,15 +266,21 @@ inPractice: "### Der Beratungsprozess
   was sie sagen, verstehen und kreativ über eine elegante Lösung nachdenken\").
 
 
-  #### Role modeling
+  #### Rollenmodellierung
 
 
-  When the advice process is first introduced, the founder and/or CEO need to
-  be role-models. Power is initially held by organizational leaders, and it
-  doesn't get distributed by magic - [successfully distributing leadership
-  requires careful, proactive
-  effort](https://medium.com/enspiral-tales/how-to-grow-distributed-leadership-\
-  7f6b25f0361c). By role modeling, others will take cues from their behavior. \ 
+  \r
+
+  \r
+
+  Wenn der Beratungsprozess zum ersten Mal eingeführt wird, müssen der Gründer
+  und/oder der CEO ein Vorbild sein. Die Macht haben zu Beginn die
+  Organisationsleiter und sie wird nicht durch Magie verteilt - [eine
+  erfolgreiche Verteilung von Führung erfordert sorgfältige, proaktive
+  Bemühungen]
+  (https://medium.com/enspiral-tales/how-to-grow-distributed-leadership-7f6b25f\
+  0361c). Indem sie ein Vorbild sind, werden andere sich an ihrem Verhalten
+  orientieren.
 
 
   Role modeling can take several forms:\ 
