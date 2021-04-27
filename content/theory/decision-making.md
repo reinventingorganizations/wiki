@@ -55,16 +55,16 @@ perspective: >-
 
   Im Evolutionären-Teal findet eine Verschiebung von externen zu internen Maßstäben bei der Entscheidungsfindung statt. Die Menschen beschäftigen sich nun mit der Frage der inneren Richtigkeit: Erscheint mir diese Entscheidung richtig? Bin ich mir selbst treu? Steht sie im Einklang mit dem, was ich spüre, wer ich bin? Bin ich der Welt zu Diensten? Mit weniger Ego-Ängsten sind Menschen in der Lage, Entscheidungen zu treffen, die vielleicht riskant erscheinen. Es sind vielleicht nicht alle möglichen Ergebnisse abgewogen worden, aber die Entscheidung schwingt mit tiefen inneren Überzeugungen mit. Menschen entwickeln eine Sensibilität für Situationen, die sich nicht ganz richtig anfühlen, und für Situationen, die von ihnen verlangen, dass sie sich zu Wort melden und etwas unternehmen, auch gegen Widerstände oder mit scheinbar geringen Erfolgsaussichten. Dies wird aus einem Gefühl der Integrität und Authentizität geboren.
 inPractice: >-
-  ### The advice process
+  ### Der Beratungsprozess
 
 
-  Almost all [Teal organizations](../teal-paradigm-and-organizations/) use, in one form or another, what an early practitioner ([AES](http://www.aes.com/)) called the “advice process.” 
+  Fast alle [Teal-Organisationen](../teal-paradigm-and-organizations/) verwenden in der einen oder anderen Form das, was ein früher Praktiker ([AES](http://www.aes.com/)) den "Beratungsprozess" nannte. 
 
 
-  It comes in many forms, but the essence is consistent: any person can make any decision after seeking advice from 1) everyone who will be meaningfully affected, and 2) people with expertise in the matter.
+  Er kommt in vielen Formen vor, aber die Essenz ist einheitlich: Jede Person kann jede Entscheidung treffen, nachdem sie 1) jeden, der sinnvollerweise betroffen sein wird, und 2) Menschen mit Fachwissen in der Sache um Rat gefragt hat.
 
 
-  Advice received must be taken into consideration. The point is not to create a watered-down compromise that accommodates everybody’s wishes. It is about accessing collective wisdom in pursuit of a sound decision. With all the advice and perspectives the decision maker has received, they choose what they believe to be the best course of action.
+  Erhaltene Ratschläge müssen berücksichtigt werden. Es geht nicht darum, einen verwässerten Kompromiss zu schaffen, der die Wünsche aller berücksichtigt. Es geht darum, auf die kollektive Weisheit zuzugreifen, um eine gute Entscheidung zu treffen. Mit all den Ratschlägen und Perspektiven, die der Entscheidungsträger erhalten hat, wählt er das, was er für die beste Vorgehensweise hält.
 
 
   Advice is simply advice. No colleague, whatever their importance, can tell a decision-maker what to decide. Usually, the decision-maker is the person who first noticed the issue, or the person most affected by it. 
