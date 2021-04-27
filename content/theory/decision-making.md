@@ -514,20 +514,24 @@ faq:
       mutig? Gibt es noch etwas, das diskutiert werden muss?
 
 
-      #### Large Group Processes
+      #### Großgruppenprozesse
 
 
-      When facing a major inflection, some more elaborate processes help.
-      These include Otto Scharmer’s “[Theory
-      U](https://en.wikipedia.org/wiki/U-procedure_and_Theory_U)”, David
-      Cooperrider’s “[Appreciative
+      \r
+
+      \r
+
+      Wenn man vor einem großen Umbruch steht, helfen einige aufwändigere
+      Prozesse. Dazu gehören Otto Scharmers \"[Theory
+      U](https://en.wikipedia.org/wiki/U-procedure_and_Theory_U)\", David
+      Cooperriders \"[Appreciative
       Inquiry](https://en.wikipedia.org/wiki/Appreciative_inquiry)\", Marvin
-      Weisbord and Sandra Janoff’s “[Future
-      Search](https://en.wikipedia.org/wiki/Future_Search)\",  Harrison Owen’s
-      “[Open Space
+      Weisbord und Sandra Janoffs \"[Future
+      Search](https://en.wikipedia.org/wiki/Future_Search)\", Harrison Owens
+      \"[Open Space
       Technology](https://en.wikipedia.org/wiki/Open_Space_Technology), [Art of
       Hosting](http://www.artofhosting.org/), [World
-      Café](http://www.theworldcafe.com/), etc. ”"
+      Café](http://www.theworldcafe.com/), etc. \""
   - question: Can this type of decision-making be upheld in a time of crisis?
     answer: >-
       In crises, time is of the essence. Is the advice process too unwieldy?
