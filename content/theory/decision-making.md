@@ -461,27 +461,26 @@ faq:
 
 
       Aber wenn sich die Menschen daran gewöhnen, wächst der Respekt für diese Praxis. Besonders weil Menschen auf beiden Seiten der Gleichung stehen. Wenn Sie mich heute Morgen um meinen Rat bitten, hoffe ich, dass Sie ihn ernst nehmen. Wenn unsere Rollen heute Nachmittag vertauscht sind, muss ich Sie ebenfalls ernst nehmen. Da die Macht verteilt ist, wissen Sie, dass andere auch Entscheidungen über Dinge treffen können, die Ihnen wichtig sind, also sind Sie geneigt, deren Bedürfnisse und Ansichten zu berücksichtigen.
-  - question: Who decides who gets to be the decision maker?
-    answer: "Put another way: Who can decide who makes what decisions, while still
-      using the advice process? \r
+  - question: Wer entscheidet, wer der Entscheidungsträger sein darf?
+    answer: "Mit anderen Worten: Wer kann entscheiden, wer welche Entscheidungen
+      trifft, und dabei noch den Beratungsprozess nutzen? \r
 
       \r
 
-      In practice, initiating advice and decision making usually fits
-      within in the scope of a certain role. Someone sensing a problem or an
-      opportunity could step forward to say: \"Hey, I see this opportunity. What
-      do you think? Given your role should you initiate this?\". However, if
-      that person doesn't have the interest or bandwidth to lead the process,
-      any other person can. If no one does, it usually means the decision is not
-      that important right now. \r
+      In der Praxis fällt die Initiierung von Beratung und
+      Entscheidungsfindung in der Regel in den Bereich einer bestimmten Rolle.
+      Jemand, der ein Problem oder eine Gelegenheit wahrnimmt, könnte vortreten
+      und sagen: \"Hey, ich sehe diese Gelegenheit. Was denkst du? Sollten Sie
+      das in Ihrer Rolle initiieren?\". Wenn diese Person jedoch nicht das
+      Interesse oder die Bandbreite hat, den Prozess zu leiten, kann es jede
+      andere Person tun. Wenn es niemand tut, bedeutet es normalerweise, dass
+      die Entscheidung im Moment nicht so wichtig ist.\ 
 
-      \r
-
-      Holacracy adds a twist: for particularly sensitive areas, a
-      \"domain\" can be declared. A domain basically means \"hands-off\".
-      Decisions relating to that domain can only be made by nominated person(s).
-      The idea is that domains remain exceptional and shouldn't be used
-      frequently. "
+      Holacracy fügt eine Wendung hinzu: für besonders sensible Bereiche,
+      kann eine \"Domäne\" deklariert werden. Eine Domäne bedeutet im Grunde
+      \"Hände weg\". Entscheidungen, die sich auf diese Domäne beziehen, können
+      nur von einer ernannten Person(en) getroffen werden. Die Idee ist, dass
+      Domänen eine Ausnahme bleiben und nicht häufig benutzt werden sollten."
   - question: If we accept that an organization has its own sense of direction, how
       do we find out where it wants to go?
     answer: >-
