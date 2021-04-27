@@ -298,19 +298,21 @@ inPractice: "### Der Beratungsprozess
   zu ergreifen. Wenn er/sie das nicht möchte, sind Sie vielleicht doch am besten
   geeignet.
 
+  * Wenn Sie die richtige Person sind, um eine Entscheidung zu treffen,
+  identifizieren Sie diejenigen, von denen Sie Rat einholen sollten. Sprechen
+  Sie sie an und erklären Sie, was Sie tun. (\"Ich halte mich an den
+  Beratungsprozess. Hier ist eine Gelegenheit, die ich sehe. Das ist die
+  Entscheidung, die ich zu treffen vorschlage. Können Sie mir Ihren Rat
+  geben?\"). Sie können auch mitteilen, wen Sie sonst noch um Rat fragen. Wenn
+  Sie den Rat erhalten und Ihre Entscheidung getroffen haben, informieren Sie
+  die Personen, die Sie konsultiert haben (und alle anderen, die es wissen
+  sollten).\r
 
-
-  * If you are the right person to make a decision, identify those from whom
-  you should seek advice. Approach them and explain what you are doing. (\"I'm
-  playing by the advice process. Here is an opportunity I see. This is the
-  decision I propose to take. Can you give me your advice?\"). You can also
-  share who else you are asking for advice. Once you've received advice and made
-  your decision, inform those you consulted (and anyone else who should know).
-
-  * When colleagues ask you to make a decision (\"What should I do?\"),
-  instead ask them \"What is your proposed decision?\". In the same vein, state
-  clearly that you no longer give approval for decisions. Instead, share your
-  advice and suggest who else to ask. Remind them the decision is theirs.
+  * Wenn Kollegen Sie um eine Entscheidung bitten (\"Was soll ich tun?\"),
+  fragen Sie sie stattdessen \"Was ist Ihr Entscheidungsvorschlag?\". Sagen Sie
+  auch deutlich, dass Sie Entscheidungen nicht mehr genehmigen. Teilen Sie
+  stattdessen Ihren Rat mit und schlagen Sie vor, wen Sie sonst noch fragen
+  können. Erinnern Sie sie daran, dass die Entscheidung bei ihnen liegt.
 
 
   For many leaders, unlearning the habit of making all the decisions is hard.
