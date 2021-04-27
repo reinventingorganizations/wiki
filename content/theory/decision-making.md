@@ -437,13 +437,17 @@ inPractice: "### Der Beratungsprozess
   Stimme des Kollektivs fördert. Es ist ein Sowohl-als-auch.
 
 
-  #### More to read
+  #### Mehr zum Lesen
 
 
-  An Introduction to the Advice Process, with a video of Frédéric Laloux on
-  this topic
+  \r
 
-  <http://dev.alchemi.co.uk/adviceprocess/#/page/5cf823717fb0de42f3aeddfc>"
+  \r
+
+  Eine Einführung in den Beratungsprozess, mit einem Video von Frédéric Laloux
+  zu diesem Thema\r
+
+  <http://dev.alchemi.co.uk/adviceprocess/#/page/5cf823717fb0de42f3aeddfc>.\n"
 faq:
   - question: What prevents people from simply not requesting or ignoring advice?
     answer: >-
