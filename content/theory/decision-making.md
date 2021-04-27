@@ -449,7 +449,8 @@ inPractice: "### Der Beratungsprozess
 
   <http://dev.alchemi.co.uk/adviceprocess/#/page/5cf823717fb0de42f3aeddfc>.\n"
 faq:
-  - question: What prevents people from simply not requesting or ignoring advice?
+  - question: Was hindert Menschen daran, Ratschläge einfach nicht einzufordern oder
+      zu ignorieren?
     answer: >-
       Colleagues know that using the advice process isn't optional. One way to
       be dismissed is to ignore the mutual obligations of the advice process.
