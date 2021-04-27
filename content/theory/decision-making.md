@@ -170,40 +170,50 @@ inPractice: "### Der Beratungsprozess
   Es gibt eine Reihe von Schritten im Beratungsprozess:
 
 
-  * Someone notices a problem or opportunity and takes the initiative, or
-  alerts someone better placed to do so.
+  * Jemand bemerkt ein Problem oder eine Gelegenheit und ergreift die
+  Initiative oder benachrichtigt jemanden, der besser geeignet ist, dies zu tun.
 
-  * Prior to a proposal, the decision-maker may seek input to sound out
-  perspectives before proposing action.\ 
+  * Vor einem Vorschlag holt der Entscheidungsträger möglicherweise Beiträge
+  ein, um die Perspektiven auszuloten, bevor er eine Maßnahme vorschlägt.\ 
 
-  * The initiator makes a proposal and seeks advice from those affected or
-  those with expertise.\ 
+  * Der Initiator macht einen Vorschlag und holt sich Rat bei den Betroffenen
+  oder Fachleuten.\ 
 
-  * Taking this advice into account, the decision-maker decides on an action
-  and informs those who have given advice.
-
-
-  #### Forms the advice process can take
+  * Unter Berücksichtigung dieser Ratschläge entscheidet sich der
+  Entscheidungsträger für eine Maßnahme und informiert diejenigen, die
+  Ratschläge gegeben haben.
 
 
-  Because the advice process involves taking advice from those affected by a
-  decision, it naturally follows that the bigger the decision, the wider the net
-  needs to be cast - including, if these roles exist, the CEO or board.
+  #### Formen, die der Beratungsprozess annehmen kann
 
 
-  For minor decisions, there may be no need to seek advice. For larger
-  decisions, advice can come through various channels, including one-on-one
-  conversations, meetings, or online communication.\ 
+  \r
+
+  \r
+
+  Da der Beratungsprozess die Einholung von Ratschlägen von denjenigen
+  beinhaltet, die von einer Entscheidung betroffen sind, folgt daraus natürlich,
+  dass je größer die Entscheidung ist, desto breiter muss das Netz ausgeworfen
+  werden - einschließlich, falls diese Rollen existieren, des CEO oder des
+  Vorstands.
 
 
-  Some organizations have specific types of meetings to support the advice
-  process, or follow formal methods. (See Buurtzorg and Holacracy below). Some
-  organizations choose to have circles made up of representative colleagues who
-  go through the advice process on behalf of the whole organization.
+  Bei kleineren Entscheidungen besteht möglicherweise keine Notwendigkeit, Rat
+  einzuholen. Bei größeren Entscheidungen kann die Beratung über verschiedene
+  Kanäle erfolgen, z. B. durch Einzelgespräche, Meetings oder
+  Online-Kommunikation.\ 
 
 
-  When decisions affect large numbers, or people who cannot meet physically,
-  the process can happen via the internet.
+  Einige Organisationen haben spezifische Arten von Treffen, um den
+  Beratungsprozess zu unterstützen, oder folgen formalen Methoden. (Siehe
+  Buurtzorg und Holacracy unten). Einige Organisationen entscheiden sich für
+  Kreise, die aus repräsentativen Kollegen bestehen, die den Beratungsprozess im
+  Namen der gesamten Organisation durchlaufen.
+
+
+  Wenn Entscheidungen eine große Anzahl von Personen betreffen, oder Menschen,
+  die sich nicht physisch treffen können, kann der Prozess über das Internet
+  stattfinden.
 
 
   * The decision-maker can post a proposal on the company blog and call for
