@@ -631,19 +631,17 @@ faq:
       weiter an, um das Ziel zu erreichen. Unternehmen, die auf diese Weise
       arbeiten, kommen oft schneller und gleichmäßiger ans Ziel, mit weniger
       verschwendeter Energie."
-  - question: Does decision-making in Teal organizations require multiple bottom
-      line accounting systems?
-    answer: "Among Teal management practices, multiple bottom line accounting
-      systems are rare. There is a school of thought that suggests we need ways
-      to track not just profit, but also the firm’s impact on people and planet.
-      How else can managers make trade-offs between these elements?  \r
+  - question: Erfordert die Entscheidungsfindung in Teal-Organisationen mehrere
+      Bilanzierungssysteme?
+    answer: >-
+      Unter den Teal-Management-Praktiken sind Buchhaltungssysteme mit mehreren
+      Bilanzpositionen selten. Es gibt eine Denkschule, die vorschlägt, dass wir
+      Wege brauchen, um nicht nur den Gewinn zu verfolgen, sondern auch die
+      Auswirkungen des Unternehmens auf die Menschen und den Planeten. Wie
+      können Manager sonst Kompromisse zwischen diesen Elementen eingehen?  
 
-      \r
 
-      Perhaps the answer lies elsewhere: Multiple bottom lines originated
-      to avoid a narrow fixation on profits. From a Teal perspective, a wider
-      perspective already exists. Purpose, integrity and wholeness should
-      transcend the primacy of profits.  "
+      Vielleicht liegt die Antwort ganz woanders: Multiple Bottom Lines sind entstanden, um eine enge Fixierung auf Gewinne zu vermeiden. Aus der Sicht von Teal gibt es bereits eine breitere Perspektive. Zweck, Integrität und Ganzheitlichkeit sollten über das Primat der Gewinne hinausgehen.
 relatedTheory:
   - Self-Management
   - Evolutionary Purpose
