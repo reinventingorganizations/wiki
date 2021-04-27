@@ -566,15 +566,16 @@ faq:
       einer gut funktionierenden Teal-Organisation wird jemand, der sich einer
       Krise bewusst ist, die Ratschläge abwägen, die er in der ihm zur Verfügung
       stehenden Zeit erhalten kann, und eine Entscheidung treffen."
-  - question: What about decisions that affect the whole organization? Isn’t it
-      impractical to solicit feedback from large numbers?
+  - question: Was ist mit Entscheidungen, die die gesamte Organisation betreffen?
+      Ist es nicht unpraktisch, Feedback von einer großen Anzahl von Personen
+      einzuholen?
     answer: >-
-      When decisions affect the whole organization, it is particularly important
-      to make the right decision. Yet, in very large organizations, the decision
-      maker can hardly meet with everyone.
+      Wenn Entscheidungen die gesamte Organisation betreffen, ist es besonders
+      wichtig, die richtige Entscheidung zu treffen. Doch in sehr großen
+      Organisationen kann sich der Entscheidungsträger kaum mit allen treffen.
 
 
-      Some use internal social networks, or decision-making tools like [Loomio](https://www.loomio.org/), for wide and swift consultation. The initiator puts the proposal up as a post. Colleagues offer advice by responding on-line. If their comments signal agreement, the decision can be made very quickly. If new perspectives and debate emerge, the decision maker can choose to amend his proposal and float it again. If it appears decision time is not yet ripe, a working group may be set up.
+      Einige nutzen interne soziale Netzwerke oder Entscheidungsfindungstools wie [Loomio](https://www.loomio.org/) für eine breite und schnelle Abstimmung. Der Initiator stellt den Vorschlag als Posting ins Netz. Die Kollegen bieten Ratschläge an, indem sie online darauf antworten. Wenn ihre Kommentare Zustimmung signalisieren, kann die Entscheidung sehr schnell getroffen werden. Wenn neue Perspektiven und Diskussionen auftauchen, kann der Entscheidungsträger seinen Vorschlag abändern und erneut in Umlauf bringen. Wenn es scheint, dass die Zeit für eine Entscheidung noch nicht reif ist, kann eine Arbeitsgruppe eingerichtet werden.
   - question: Is there no room for centralized planning? Aren’t we losing something
       important here?
     answer: >-
