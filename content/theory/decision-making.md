@@ -373,18 +373,28 @@ inPractice: "### Der Beratungsprozess
   t-decision-making))
 
 
-  #### The advice process within a hierarchy
+  #### Der Beratungsprozess innerhalb einer Hierarchie
 
 
-  Some organizations want to move toward self-management, but cannot move away
-  from hierarchy completely. Others, especially large organizations, prefer to
-  adopt interim steps. This can be part of a transition to self-management. \ 
+  \r
+
+  \r
+
+  Manche Organisationen wollen sich in Richtung Selbstmanagement bewegen,
+  können sich aber nicht vollständig von der Hierarchie lösen. Andere, besonders
+  große Organisationen, ziehen es vor, Zwischenschritte zu machen. Dies kann
+  Teil eines Übergangs zum Selbstmanagement sein. \ 
 
 
-  AES, the 40,000 employee company where the term \"advice process' was
-  coined, operated with remnants of a hierarchy. Anyone could initiate the
-  process, but it was mandatory to consult certain categories of colleagues.
-  These might include one's superiors, or even the board.
+  \r
+
+  \r
+
+  AES, das Unternehmen mit 40.000 Mitarbeitern, in dem der Begriff
+  \"Beratungsprozess\" geprägt wurde, arbeitete mit Resten einer Hierarchie.
+  Jeder konnte den Prozess initiieren, aber es war obligatorisch, bestimmte
+  Kategorien von Kollegen zu konsultieren. Dazu konnten die Vorgesetzten oder
+  sogar der Vorstand gehören.
 
 
   #### Sources that inform decision-making
