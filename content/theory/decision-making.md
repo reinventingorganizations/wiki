@@ -452,14 +452,15 @@ faq:
   - question: Was hindert Menschen daran, Ratschläge einfach nicht einzufordern oder
       zu ignorieren?
     answer: >-
-      Colleagues know that using the advice process isn't optional. One way to
-      be dismissed is to ignore the mutual obligations of the advice process.
-      With a [conflict resolution process](../conflict-resolution/) (as in some
-      Teal entities) someone who feels the advice process is not being respected
-      can hold a colleague to account. 
+      Die Kollegen wissen, dass die Nutzung des Beratungsprozesses nicht
+      optional ist. Eine Möglichkeit, abgewiesen zu werden, besteht darin, die
+      gegenseitigen Verpflichtungen des Beratungsprozesses zu ignorieren. Mit
+      einem [Konfliktlösungsprozess](../Konfliktlösung/) (wie in einigen
+      Teal-Einheiten) kann jemand, der das Gefühl hat, dass der Beratungsprozess
+      nicht respektiert wird, einen Kollegen zur Verantwortung ziehen. 
 
 
-      But when people get used to it, respect for the practice grows. This because people are on both sides of the equation. When you ask me for my advice this morning, I hope you will take it seriously. If our roles are reversed this afternoon, I need to take you seriously, too. Because power is distributed, you know that others can take decisions about things you care about as well, so you are apt to take their needs and views into account.
+      Aber wenn sich die Menschen daran gewöhnen, wächst der Respekt für diese Praxis. Besonders weil Menschen auf beiden Seiten der Gleichung stehen. Wenn Sie mich heute Morgen um meinen Rat bitten, hoffe ich, dass Sie ihn ernst nehmen. Wenn unsere Rollen heute Nachmittag vertauscht sind, muss ich Sie ebenfalls ernst nehmen. Da die Macht verteilt ist, wissen Sie, dass andere auch Entscheidungen über Dinge treffen können, die Ihnen wichtig sind, also sind Sie geneigt, deren Bedürfnisse und Ansichten zu berücksichtigen.
   - question: Who decides who gets to be the decision maker?
     answer: "Put another way: Who can decide who makes what decisions, while still
       using the advice process? \r
