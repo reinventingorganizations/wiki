@@ -576,27 +576,61 @@ faq:
 
 
       Einige nutzen interne soziale Netzwerke oder Entscheidungsfindungstools wie [Loomio](https://www.loomio.org/) für eine breite und schnelle Abstimmung. Der Initiator stellt den Vorschlag als Posting ins Netz. Die Kollegen bieten Ratschläge an, indem sie online darauf antworten. Wenn ihre Kommentare Zustimmung signalisieren, kann die Entscheidung sehr schnell getroffen werden. Wenn neue Perspektiven und Diskussionen auftauchen, kann der Entscheidungsträger seinen Vorschlag abändern und erneut in Umlauf bringen. Wenn es scheint, dass die Zeit für eine Entscheidung noch nicht reif ist, kann eine Arbeitsgruppe eingerichtet werden.
-  - question: Is there no room for centralized planning? Aren’t we losing something
-      important here?
-    answer: >-
-      Predictions offer a comforting sense of control, but reality is that
-      organizations and the world they exist in are complex. In such systems, it
-      is meaningless to predict the future with great confidence. 
+  - question: Gibt es keinen Platz für eine zentrale Planung? Verlieren wir hier
+      nicht etwas Wichtiges?
+    answer: "Vorhersagen bieten ein beruhigendes Gefühl der Kontrolle, aber die
+      Realität ist, dass Organisationen und die Welt, in der sie existieren,
+      komplex sind. In solchen Systemen ist es sinnlos, die Zukunft mit großem
+      Vertrauen vorherzusagen.\ 
 
 
-      [Teal Organizations](../teal-paradigm-and-organizations/) accept a complex world in which perfection is elusive. They don't aim for perfection, but for workable solutions that arise from current reality, and which can be implemented quickly.
+      \r
+
+      \r
+
+      [Teal-Organisationen](../teal-paradigm-and-organizations/)
+      akzeptieren eine komplexe Welt, in der Perfektion schwer zu erreichen ist.
+      Sie streben nicht nach Perfektion, sondern nach praktikablen Lösungen, die
+      sich aus der aktuellen Realität ergeben und die schnell umgesetzt werden
+      können.
 
 
-      If there is a workable solution on the table (“workable” = the solution won't make things worse), it will be adopted.  Decisions are not postponed because someone thinks more analysis will produce a better decision. The decision can be reviewed at any time. This is the essence of a culture of continuous iterative improvement.
+      Wenn eine praktikable Lösung auf dem Tisch liegt (\"praktikabel\" =
+      die Lösung macht die Dinge nicht schlimmer), wird sie angenommen.
+      Entscheidungen werden nicht aufgeschoben, weil jemand denkt, dass mehr
+      Analyse eine bessere Entscheidung hervorbringen wird. Die Entscheidung
+      kann jederzeit überprüft werden. Dies ist die Essenz einer Kultur der
+      kontinuierlichen, iterativen Verbesserung.
 
 
-      Brian Robertson from [Holacracy ](http://www.holacracy.org/)uses a powerful metaphor to contrast the two approaches:
+      Brian Robertson von [Holacracy ](http://www.holacracy.org/)
+      verwendet eine kraftvolle Metapher, um die beiden Ansätze
+      gegenüberzustellen:
 
 
-      > “Imagine if we rode a bicycle like we try to manage our companies today. It would look something like this: we’d have our big committee meeting, where we all plan how to best steer the bicycle. We’d fearfully look at the road up ahead, trying to predict exactly where the bicycle is going to be when. … We’d make our plans, we’d have our project managers, we’d have our Gantt charts, we’d put in place our controls to make sure this all goes according to plan. Then we get on the bicycle, we close our eyes, we hold the handle bar rigidly at the angle we calculated up front and we try to steer according to plan. And if the bicycle falls over somewhere along the way ... well, first: who is to blame? Let’s find them, fire them, get them out of here. And then: we know what to do differently next time. We obviously missed something. We need more upfront prediction. We need more controls to make sure things go according to plan.”
+      > \"Stellen Sie sich vor, wir würden mit einem Fahrrad fahren, so
+      wie wir heute versuchen, unsere Unternehmen zu managen. Es würde in etwa
+      so aussehen: Wir hätten unser großes Komitee-Meeting, in dem wir alle
+      planen, wie wir das Fahrrad am besten lenken können. Wir würden ängstlich
+      auf die Straße vor uns schauen und versuchen, genau vorherzusagen, wo das
+      Fahrrad wann sein wird. ... Wir würden unsere Pläne machen, wir würden
+      unsere Projektmanager haben, wir würden unsere Gantt-Diagramme haben, wir
+      würden unsere Kontrollen einrichten, um sicherzustellen, dass alles nach
+      Plan läuft. Dann steigen wir auf das Fahrrad, schließen die Augen, halten
+      den Lenker starr in dem Winkel, den wir vorne berechnet haben, und
+      versuchen, nach Plan zu lenken. Und wenn das Fahrrad unterwegs umkippt ...
+      tja, erstens: Wer ist schuld? Finden wir sie, feuern sie und schaffen sie
+      weg. Und dann: Wir wissen, was wir beim nächsten Mal anders machen müssen.
+      Wir haben offensichtlich etwas übersehen. Wir brauchen mehr Vorhersagen im
+      Vorfeld. Wir brauchen mehr Kontrollen, um sicherzustellen, dass alles nach
+      Plan läuft.\"
 
 
-      In the Teal paradigm, the rider gets on the bike, starts with an angle that seems about right, and then keeps adjusting to get to the destination. Companies working this way often progress faster, and more smoothly toward their purpose, with less wasted energy.
+      Im Teal-Paradigma steigt der Fahrer auf das Fahrrad, beginnt mit
+      einem Winkel, der ungefähr richtig zu sein scheint, und passt sich dann
+      weiter an, um das Ziel zu erreichen. Unternehmen, die auf diese Weise
+      arbeiten, kommen oft schneller und gleichmäßiger ans Ziel, mit weniger
+      verschwendeter Energie."
   - question: Does decision-making in Teal organizations require multiple bottom
       line accounting systems?
     answer: "Among Teal management practices, multiple bottom line accounting
