@@ -1,6 +1,6 @@
 ---
 layout: content
-name: APPlaybook
+name: applaybook
 ---
 蔚蓝范式建议流程实践案例
 
