@@ -216,16 +216,18 @@ inPractice: "### Der Beratungsprozess
   stattfinden.
 
 
-  * The decision-maker can post a proposal on the company blog and call for
-  comments or invite email responses and then process the advice they receive.
+  * Der Entscheidungsträger kann einen Vorschlag im Unternehmensblog
+  veröffentlichen und zu Kommentaren aufrufen oder zu E-Mail-Antworten
+  auffordern und dann die erhaltenen Ratschläge verarbeiten.\r
 
-  * The organization can use decision-making software like
-  [Loomio](https://www.loomio.org/), a free and open-source tool. The process
-  for using the advice process on [Loomio](https://www.loomio.org/): start a
-  discussion to frame the topic and gather input, host a proposal so everyone
-  affected by the issue can voice their position, and then the final
-  decision-maker specifies the outcome (automatically notifying the whole
-  group).
+  * Die Organisation kann eine Software zur Entscheidungsfindung wie
+  [Loomio](https://www.loomio.org/), ein kostenloses und Open-Source-Tool,
+  verwenden. Der Prozess für die Verwendung des Beratungsprozesses auf
+  [Loomio](https://www.loomio.org/): Starten Sie eine Diskussion, um das Thema
+  zu umreißen und Input zu sammeln, veröffentlichen Sie einen Vorschlag, damit
+  jeder, der von der Angelegenheit betroffen ist, seine Position äußern kann,
+  und dann legt der endgültige Entscheidungsträger das Ergebnis fest (und
+  benachrichtigt automatisch die gesamte Gruppe).
 
 
   #### Underlying mindsets and training
