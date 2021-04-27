@@ -346,23 +346,29 @@ inPractice: "### Der Beratungsprozess
   verstehen und das Problem zu lösen.
 
 
-  Giving such power to a principled objection can be both valuable and
-  dangerous. Valuable because sometimes a single person senses something
-  important that no one else sees. On the other hand, such power can be abused
-  if people block decisions for reasons other than purpose. Groups that use
-  consent-based decision-making often take blocking and shared understanding
-  about policies and culture around blocking very seriously for this reason.
-  (For a real-world example, see the [Enspiral Decision
+  Einem prinzipiellen Einwand eine solche Macht zu geben, kann sowohl wertvoll
+  als auch gefährlich sein. Wertvoll, weil manchmal eine einzelne Person etwas
+  Wichtiges wahrnimmt, das sonst niemand sieht. Andererseits kann eine solche
+  Macht missbraucht werden, wenn Menschen Entscheidungen aus anderen Gründen als
+  dem Zweck blockieren. Gruppen, die zustimmungsbasierte Entscheidungsfindung
+  verwenden, nehmen aus diesem Grund oft das Blockieren und das gemeinsame
+  Verständnis über die Richtlinien und die Kultur um das Blockieren sehr ernst.
+  (Für ein Beispiel aus der realen Welt, siehe die [Enspiral Decision
   Agreement](https://handbook.enspiral.com/decisions_agreement.html)).
 
 
-  Some methods, like Holacracy, deem an objection valid only if the argument
-  passes stringent tests, such as it makes matters worse. A colleague cannot
-  block a proposal simply because he or she thinks they have a better proposal,
-  or because they don't love an idea.
+  Einige Methoden, wie Holacracy, halten einen Einwand nur dann für gültig,
+  wenn das Argument strenge Tests besteht, wie zum Beispiel, dass es die Dinge
+  schlechter macht. Ein Kollege kann einen Vorschlag nicht blockieren, nur weil
+  er oder sie denkt, dass sie einen besseren Vorschlag haben, oder weil sie eine
+  Idee nicht mögen.
 
 
-  (for a description of Consent Based Decision, see[
+  \r
+
+  \r
+
+  (für eine Beschreibung der zustimmungsbasierten Entscheidung, siehe[
   https://thedecider.app/consent-decision-making](https://thedecider.app/consen\
   t-decision-making))
 
