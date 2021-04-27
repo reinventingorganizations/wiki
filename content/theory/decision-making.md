@@ -148,14 +148,14 @@ inPractice: "### Der Beratungsprozess
   Ergebnis kümmern. Keine andere Form der Ausbildung oder Schulung kann mit
   dieser Echtzeit-Erfahrung mithalten.
 
+  * **Bessere Entscheidungen**: Die Chancen, die beste Entscheidung zu
+  treffen, sind größer als bei herkömmlichen Top-down-Ansätzen. Der
+  Entscheidungsträger hat den Vorteil, dass er näher an der Sache dran ist und
+  mit der Verantwortung für die Folgen der Entscheidung leben muss. Beratung
+  liefert vielfältigen Input, deckt wichtige Themen und neue Perspektiven auf.
 
 
 
-  * **Better decisions**: chances of reaching the best decision are greater
-  than under conventional top-down approaches. The decision maker has the
-  advantage of being closer to the issue and has to live with responsibility for
-  the consequences of the decision. Advice provides diverse input, uncovering
-  important issues and new perspectives.
 
   * **Fun**: the process is just plain fun for the decision-maker, because it
   mirrors the joy found in playing team sports. The advice process stimulates
