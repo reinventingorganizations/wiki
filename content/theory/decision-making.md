@@ -160,10 +160,14 @@ inPractice: "### Der Beratungsprozess
   Personen an anderer Stelle in der Organisation verstärkt werden.
 
 
-  #### Steps in the advice process
+  #### Schritte im Beratungsprozess
 
 
-  There are a number of steps in the advice process:
+  \r
+
+  \r
+
+  Es gibt eine Reihe von Schritten im Beratungsprozess:
 
 
   * Someone notices a problem or opportunity and takes the initiative, or
