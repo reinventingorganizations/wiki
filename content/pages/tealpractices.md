@@ -81,7 +81,7 @@ name: Key organizational structures and practices
 
 此节内容来自[资深平等联盟机构](https://advice-process.playbook.ee/introduction)（EE）。
 
-* 概要
+* [概要](https://cn.reinventingorganizationswiki.com/pages/entries/applaybook)
 * 建议流程使用指南
 
 > 1 背景
@@ -103,5 +103,3 @@ name: Key organizational structures and practices
 > 5 建议流程深挖
 >
 > 对于那些在探讨采用建议流程可能性的人，或者那些不能获得足够的创新管理素材的人（嘿，这经常发生），我们分享了一些可能有用的参考资料，这些资料在过去的几年里对我们帮助很大。您也可以联系我们，更详细地讨论这些问题，或者将您对本手册的看法告知我们（我们很乐意听到您的意见！）。
->
->
