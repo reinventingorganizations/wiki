@@ -230,17 +230,26 @@ inPractice: "### Der Beratungsprozess
   benachrichtigt automatisch die gesamte Gruppe).
 
 
-  #### Underlying mindsets and training
+  #### Grundlegende Denkweisen und Training
 
 
-  The advice process is a tool that helps decision-making via collective
-  intelligence. Much depends on the spirit in which people approach it. When the
-  advice process is introduced, it might be worthwhile to train colleagues not
-  only in the mechanics but also on the mindset underlying effective use.
+  \r
+
+  \r
+
+  Der Beratungsprozess ist ein Werkzeug, das die Entscheidungsfindung durch
+  kollektive Intelligenz unterstützt. Vieles hängt von der Einstellung ab, mit
+  der die Mitarbeiter an ihn herangehen. Wenn der Beratungsprozess eingeführt
+  wird, kann es sich lohnen, die Kollegen nicht nur in der Mechanik zu schulen,
+  sondern auch in der Denkweise, die der effektiven Nutzung zugrunde liegt.
 
 
-  The advice process can proceed in several ways, depending on the mindset
-  people bring to it:
+  \r
+
+  \r
+
+  Der Beratungsprozess kann auf verschiedene Arten ablaufen, je nachdem, mit
+  welcher Geisteshaltung die Mitarbeiter an ihn herangehen:
 
 
   * The initiator can approach it authoritatively (\"I don't care about what
