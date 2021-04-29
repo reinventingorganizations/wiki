@@ -1,13 +1,16 @@
 ---
 layout: article
 tags: theory
-key: Meetings
-name: Meetings
+key: Réunions
+name: Réunions
 sortOrder: 2
 category: Daily practices
 intro: >-
-  The topic of meetings discusses when, how and for what purpose meetings are
-  organized.
+  *Le thème des réunions traite de la question de savoir quand, comment et dans
+  quel but des réunions sont organisées.*
+
+
+  The topic of meetings discusses when, how and for what purpose meetings are organized.
 
 
   ![](/media/meetings-2.jpg)
@@ -20,13 +23,13 @@ perspective: >-
   Members of Teal organizations tend to feel more connected to each other and the work, and need fewer meetings to plan or resolve issues.
 
 
-  ### Red organizations
+  ### Organisations Rouge
 
 
-  In [Red organizations](../red-organizations/), meetings are held when the Chief or Boss feels they are necessary. They might be held to make announcements, pass judgements or to conduct ceremonies. Sometimes they are held, to seek counsel or gather information.
+  In Red organizations, meetings are held when the Chief or Boss feels they are necessary. They might be held to make announcements, pass judgements or to conduct ceremonies. Sometimes they are held, to seek counsel or gather information.
 
 
-  ### Amber organizations
+  ### Organisations Ambre
 
 
   In [Amber organizations](https://reinventingorganizations-wiki.netlify.app/theory/amber-paradigm-and-organizations/), meetings are an important method of hierarchical control. They are used to gather, distill, and pass information up and down the organization. The highest-ranking person is in charge. It is incumbent on the others to be prepared to report information or provide answers as required.  
