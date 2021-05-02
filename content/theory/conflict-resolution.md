@@ -228,15 +228,17 @@ faq:
       das Lösen von Konflikten etwas mehr Zeit in Anspruch nimmt, gibt es viele
       Vorteile, wie z.B. eine erhöhte Produktivität durch glücklichere und
       befähigtere Mitarbeiter.
-  - question: Doesn’t it usually end up with a few team members doing most of work
-      because there is no boss to oversee the situation when someone slacks off?
-    answer: In traditional companies, when one person doesn’t deliver, colleagues
-      grumble and complain but leave it to the person’s boss to do something
-      about it. In self-managing organizations, people have to step up and
-      confront colleagues who fail to uphold their commitments. This can
-      sometimes be difficult or uncomfortable. Teal organizations invest a lot
-      of time and effort in giving people the skills and resources they need to
-      do this effectively.
+  - question: Endet es nicht meist damit, dass einige wenige Teammitglieder den
+      Großteil der Arbeit erledigen, weil es keinen Chef gibt, der die Situation
+      überwacht, wenn jemand nachlässt?
+    answer: In traditionellen Unternehmen, wenn eine Person nicht liefert, murren
+      und beschweren sich die Kollegen, aber überlassen es dem Chef der Person,
+      etwas dagegen zu unternehmen. In selbstverwalteten Organisationen müssen
+      die Mitarbeiter aufstehen und Kollegen konfrontieren, die ihre
+      Verpflichtungen nicht einhalten. Das kann manchmal schwierig oder
+      unangenehm sein. Teal-Organisationen investieren viel Zeit und Mühe, um
+      den Mitarbeitern die Fähigkeiten und Ressourcen zu vermitteln, die sie
+      benötigen, um dies effektiv zu tun.
   - question: Are peers really fully trusted to resolve conflicts? In Teal
       organizations there is still a founder or CEO. Doesn’t this person have
       the final say?
