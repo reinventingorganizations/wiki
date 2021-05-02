@@ -33,10 +33,10 @@ perspective: >-
   Im [roten Paradigma](../red-organizations/) gibt es eine dominante Machtausübung durch den Chef oder die Führungskraft, um andere auf Linie zu halten. Angst ist der Klebstoff der Organisation. Im Allgemeinen werden Konflikte durch Unterdrückung, Macht oder Dominanz gehandhabt, und strenge Regeln werden durch Angst vor Konsequenzen durchgesetzt.
 
 
-  #### **Amber organizations**
+  #### **Bernstein Organisationen**
 
 
-  The [Amber paradigm](../amber-paradigm-and-organizations/) has formalized roles within a hierarchical pyramid structure and top-down command and control (what and how). Stability is valued above all and is maintained through clearly defined roles and processes.
+  Das [Bernstein-Paradigma](../amber-paradigm-and-organizations/) hat formalisierte Rollen innerhalb einer hierarchischen Pyramidenstruktur und Top-Down-Befehl und Kontrolle (was und wie). Stabilität wird über alles geschätzt und wird durch klar definierte Rollen und Prozesse aufrechterhalten.
 
 
   Methods for managing conflict include avoidance or suppression. Rules are imposed by those with authority and may be enforced through legal action. These types of organizations have strong HR processes for managing conflict and grievances between employee and employer.
