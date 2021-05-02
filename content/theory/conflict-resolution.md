@@ -178,29 +178,27 @@ inPractice: "**Eine Organisationskultur, die eine effektive Konfliktlösung
   Einzelcoaching, um einen Ärger durchzuarbeiten.
 
 
-  In self-managing organisations, having a clear and well understood conflict
-  resolution process helps people raise issues. Typical conflict resolution
-  mechanisms include: one-on-one discussion, mediation by a peer and mediation
-  by a panel. Some organizations also use team or individual coaching to work
-  through an upset.
+  Zum Beispiel:
 
 
-  For example, :
+  \r
 
+  \r
 
-  * In the first phase, the two people sit together and try to sort it out
-  privately.\ 
+  * In der ersten Phase setzen sich die beiden Personen zusammen und
+  versuchen, das Problem unter vier Augen zu lösen. \r
 
-  * If they can’t find a solution agreeable to both, they nominate a colleague
-  they both trust to act as a mediator. The mediator doesn’t impose a decision.
-  Rather he or she supports the participants in coming to their own solution.\ 
+  * Wenn sie keine Lösung finden, die für beide akzeptabel ist, ernennen sie
+  einen Kollegen, dem sie beide vertrauen, zum Mediator. Der Mediator drängt
+  keine Entscheidung auf. Vielmehr unterstützt er die Beteiligten dabei, eine
+  eigene Lösung zu finden. \r
 
-  * If mediation fails, a panel of topic-relevant colleagues is convened.
-  Again the panel does not impose a solution.\ 
+  * Scheitert die Mediation, wird ein Gremium aus themenrelevanten Kollegen
+  einberufen. Auch hier gibt das Gremium keine Lösung vor. \r
 
-  * If resolution is not found, the founder or president might be called into
-  the panel to add to the panel’s moral weight (but again, not to impose a
-  solution).\ 
+  * Wenn keine Lösung gefunden wird, kann der Gründer in das Gremium gerufen
+  werden, um dem Gremium zusätzliches moralisches Gewicht zu verleihen (aber
+  wiederum nicht, um eine Lösung aufzudrängen). \ 
 
 
   ##### ***Training in Interpersonal skills***
