@@ -14,11 +14,11 @@ intro: >-
 
   ![](/media/conflict.jpg)
 perspective: >-
-  Conflict resolution is a vital piece of the system in a Teal organization. If
-  there is no boss to act as a conflict meditator, then a new process to handle
-  conflict is required. In a Teal organization, conflict resolution is based on
-  peer relationships. Without this approach, the organization would find it very
-  difficult, if not impossible, to function.
+  Konfliktlösung ist ein wichtiger Teil des Systems in einer Teal-Organisation.
+  Wenn es keinen Chef gibt, der als Konfliktvermittler fungiert, dann ist ein
+  neuer Prozess zur Konfliktbearbeitung erforderlich. In einer Teal-Organisation
+  basiert die Konfliktlösung auf Peer-Beziehungen. Ohne diesen Ansatz würde die
+  Organisation nur sehr schwer, wenn nicht gar nicht, funktionieren.
 
 
   Most Teal organizations work on certain assumptions about human nature: that workers are thoughtful, trustworthy adults, capable of being accountable and responsible for their decisions and actions. In a workplace based on Teal assumptions, a clear conflict resolution process, together with appropriate training, gives people the path and skills to work through disagreements with maturity and grace
