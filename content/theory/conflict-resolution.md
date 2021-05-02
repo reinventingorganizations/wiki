@@ -6,9 +6,10 @@ name: Konfliktlösung
 sortOrder: 4
 category: Daily practices
 intro: >-
-  The topic of Conflict Resolution includes how conflicts are dealt with and by
-  whom. In particular we discuss the types of processes used, factors that
-  reduce conflict avoidance and structures that prevent conflict.
+  Das Thema "Konfliktlösung" beinhaltet, wie und von wem Konflikte bearbeitet
+  werden. Insbesondere wird besprochen, welche Arten von Verfahren eingesetzt
+  werden, welche Faktoren die Konfliktvermeidung reduzieren und welche
+  Strukturen Konflikte verhindern.
 
 
   ![](/media/conflict.jpg)
