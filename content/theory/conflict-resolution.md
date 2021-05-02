@@ -42,13 +42,13 @@ perspective: >-
   Zu den Methoden zur Konfliktbewältigung gehören Vermeidung oder Unterdrückung. Regeln werden von denjenigen mit Autorität auferlegt und können durch rechtliche Schritte durchgesetzt werden. Diese Arten von Organisationen haben starke HR-Prozesse für den Umgang mit Konflikten und Beschwerden zwischen Arbeitnehmer und Arbeitgeber.
 
 
-  #### **Orangene Organisation**
+  #### **Orangene Organisationen**
 
 
-  In the [Orange paradigm](../orange-paradigm-and-organizations/), there is also a hierarchical structure, but management is by objective (definition of the what; with more freedom on the how). In many Orange organisations, although there are formal conflict resolution procedures, conflict is often not well adressed. Although individuals are often encouraged to resolve disagreements by themselves, conflict may often need to be settled by intervention from a third party. This is most often done by referring the issue to the boss or by deferring to HR policies and procedures. These procedures create a level of objective independence from "the those" in conflict.
+  Im [Orange-Paradigma](../orange-paradigm-and-organizations/) gibt es auch eine hierarchische Struktur, aber das Management erfolgt durch Zielsetzung (Definition des "Was"; mit mehr Freiheit beim "Wie"). In vielen Orange-Organisationen gibt es zwar formale Verfahren zur Konfliktlösung, aber Konflikte werden oft nicht gut behandelt. Obwohl Einzelpersonen oft dazu ermutigt werden, Meinungsverschiedenheiten selbst zu lösen, muss ein Konflikt oft durch das Eingreifen einer dritten Partei gelöst werden. Dies geschieht meist, indem die Angelegenheit an den Chef verwiesen wird oder indem man sich auf die Personalpolitik und -verfahren beruft. Diese Verfahren schaffen eine Ebene der objektiven Unabhängigkeit von "denen", die im Konflikt stehen.
 
 
-  #### **Green organizations**
+  #### **Grüne Organisationen**
 
 
   The [Green paradigm ](../green-paradigm-and-organizations/)again uses a classical pyramid structure, but with a stronger focus on empowerment. Green organizations have values-based cultures that include principles of integrity, respect, and openness. There is a large investment in fostering collaboration, communication, problem solving and drafting agreements that meet underlying needs. These processes can sometimes remove the source of conflict. When they do arise, conflicts can take a long time to resolve as groups seek to find a harmonious solution. However, the boss is usually the final arbiter in conflict situations.
