@@ -126,28 +126,30 @@ inPractice: "**Eine Organisationskultur, die eine effektive Konfliktlösung
   erleichtern.
 
 
-  * First, methods are developed to help people bring tensions to the
-  surface.\ 
+  * Erstens werden Methoden entwickelt, die Menschen helfen, Spannungen an die
+  Oberfläche zu bringen. \r
 
-  * Second, clearly defined conflict resolution processes are available to
-  help people safely confront each other when needed.\ 
+  * Zweitens stehen klar definierte Konfliktlösungsprozesse zur Verfügung, um
+  Menschen zu helfen, sich bei Bedarf sicher zu konfrontieren. \r
 
-  * Third, most self-managing organizations train every new recruit in
-  conflict resolution and interpersonal skills.\ 
-
-
-  ##### ***Bringing tensions to the surface***
+  * Drittens schulen die meisten selbstverwalteten Organisationen jeden neuen
+  Mitarbeiter in Konfliktlösung und zwischenmenschlichen Fähigkeiten.\ 
 
 
-  It can be hard for someone to stand up to a colleague and say, “We need to
-  talk.”. Processes used by some organizations include regularly scheduled group
-  meetings, company retreats, purpose circles and values days. Surfacing becomes
-  a way of helping others to view conflict as normal, creative and a way of
-  learning about diversity and difference. These practices enable others to
-  share their vulnerabilities, see [creating safe spaces](../safe-space/).
+  ##### ***Spannungen an die Oberfläche bringen***
 
 
-  Here are some examples:
+  Es kann schwer für jemanden sein, zu einem Kollegen aufzustehen und zu
+  sagen: \"Wir müssen reden.\". Zu den Prozessen, die von einigen Organisationen
+  verwendet werden, gehören regelmäßig geplante Gruppentreffen, Firmenklausuren,
+  Zweckkreise und Wertetage. Das Sichtbarmachen wird zu einer Möglichkeit,
+  anderen zu helfen, Konflikte als normal und kreativ zu betrachten und eine
+  Möglichkeit, über Vielfalt und Unterschiede zu lernen. Diese Praktiken
+  ermöglichen es anderen, ihre Verletzlichkeit zu teilen, siehe [sichere Räume
+  schaffen](../safe-space/).
+
+
+  Hier sind einige Beispiele:
 
 
   * At ESBZ, a school in Berlin, every class gets together at a fixed time
