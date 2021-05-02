@@ -51,10 +51,10 @@ perspective: >-
   #### **Grüne Organisationen**
 
 
-  The [Green paradigm ](../green-paradigm-and-organizations/)again uses a classical pyramid structure, but with a stronger focus on empowerment. Green organizations have values-based cultures that include principles of integrity, respect, and openness. There is a large investment in fostering collaboration, communication, problem solving and drafting agreements that meet underlying needs. These processes can sometimes remove the source of conflict. When they do arise, conflicts can take a long time to resolve as groups seek to find a harmonious solution. However, the boss is usually the final arbiter in conflict situations.
+  Das [Grüne-Paradigma ](../green-paradigm-and-organizations/)verwendet wiederum eine klassische Pyramidenstruktur, jedoch mit einem stärkeren Fokus auf Befähigung. Grüne Organisationen haben eine wertebasierte Kultur, die Prinzipien wie Integrität, Respekt und Offenheit beinhaltet. Es wird viel in die Förderung von Zusammenarbeit, Kommunikation, Problemlösung und die Ausarbeitung von Vereinbarungen investiert, die den zugrunde liegenden Bedürfnissen entsprechen. Diese Prozesse können manchmal die Quelle von Konflikten beseitigen. Wenn sie auftreten, kann es lange dauern, bis Konflikte gelöst sind, da die Gruppen versuchen, eine harmonische Lösung zu finden. Der Chef ist jedoch normalerweise der letzte Schiedsrichter in Konfliktsituationen.
 
 
-  #### **Teal organizations**
+  #### **Teal-Organisationen**
 
 
   In [Teal organizations](../teal-paradigm-and-organizations/), conflict is seen as a natural part of human interaction and, when safely supported, is often viewed as healthy and creative. Conflict handled with grace and tenderness can create possibility and learning for all involved. In Teal organizations time is regularly devoted to surface and address conflicts in individual and group settings. Often formal, multi-step conflict resolution practices are used and everyone is trained in conflict management. Conflict is restricted to the parties involved, and mediators, or peers who might be asked to serve on a mediating panel. Such a panel rarely has responsibility to impose a solution. The focus is instead on helping the involved parties find a solution.
