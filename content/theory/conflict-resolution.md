@@ -201,18 +201,19 @@ inPractice: "**Eine Organisationskultur, die eine effektive Konfliktlösung
   wiederum nicht, um eine Lösung aufzudrängen). \ 
 
 
-  ##### ***Training in Interpersonal skills***
+  #####  ***Training in zwischenmenschlichen Fähigkeiten***
 
 
-  Because effective conflict resolution skills are so central in self-managing
-  organizations, many organizations train all their colleagues in interpersonal
-  skills to enable them to deal gracefully with conflict. Generally in their
-  first weeks at work, new hires are given foundational training including:
-  self-management, deep listening, dealing constructively with conflict and
-  creating a safe environment. For instance, companies like ESBZ and Buurtzorg
-  train colleagues in [Nonviolent Communication
-  ](https://en.wikipedia.org/wiki/Nonviolent_Communication)developed by Marshal
-  Rosenberg."
+  Da effektive Konfliktlösungsfähigkeiten in selbstverwaltenden Organisationen
+  so zentral sind, schulen viele Organisationen alle ihre Mitarbeiter in
+  zwischenmenschlichen Fähigkeiten, um ihnen einen würdevollen Umgang mit
+  Konflikten zu ermöglichen. In der Regel erhalten neu eingestellte Mitarbeiter
+  in den ersten Wochen ihrer Tätigkeit ein Grundlagentraining, das u.a. folgende
+  Themen umfasst: Selbstmanagement, tiefes Zuhören, konstruktiver Umgang mit
+  Konflikten und Schaffung einer sicheren Umgebung. Unternehmen wie ESBZ und
+  Buurtzorg schulen ihre Mitarbeiter beispielsweise in der von Marshal Rosenberg
+  entwickelten [Gewaltfreien Kommunikation
+  ](https://de.wikipedia.org/wiki/Gewaltfreie_Kommunikation)."
 faq:
   - question: If so much time is spent talking through every conflict, when does the
       work get done?
