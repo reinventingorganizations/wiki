@@ -168,7 +168,14 @@ inPractice: "**Eine Organisationskultur, die eine effektive Konfliktlösung
   achten sollte, kann an dem Treffen teilnehmen.\ 
 
 
-  ##### ***Conflict resolution processes***
+  ##### ***Konfliktlösungsverfahren***
+
+
+  In selbstverwalteten Organisationen hilft ein klarer und gut verstandener
+  Konfliktlösungsprozess den Mitarbeitern, Probleme anzusprechen. Typische
+  Konfliktlösungsmechanismen sind: Einzelgespräch, Mediation durch einen Peer
+  und Mediation durch ein Gremium. Einige Organisationen nutzen auch Team- oder
+  Einzelcoaching, um einen Ärger durchzuarbeiten.
 
 
   In self-managing organisations, having a clear and well understood conflict
