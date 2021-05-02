@@ -21,7 +21,7 @@ perspective: >-
   Organisation nur sehr schwer, wenn nicht gar nicht, funktionieren.
 
 
-  Most Teal organizations work on certain assumptions about human nature: that workers are thoughtful, trustworthy adults, capable of being accountable and responsible for their decisions and actions. In a workplace based on Teal assumptions, a clear conflict resolution process, together with appropriate training, gives people the path and skills to work through disagreements with maturity and grace
+  Die meisten Teal-Organisationen arbeiten auf der Grundlage bestimmter Annahmen über die menschliche Natur: dass Mitarbeiter nachdenkliche, vertrauenswürdige Erwachsene sind, die in der Lage sind, Rechenschaft abzulegen und für ihre Entscheidungen und Handlungen verantwortlich sind. In einem Arbeitsplatz, die auf Teal-Annahmen basiert, gibt ein klarer Konfliktlösungsprozess zusammen mit einer entsprechenden Schulung den Menschen den Weg und die Fähigkeiten, Meinungsverschiedenheiten mit Reife und Anmut zu bearbeiten
 
 
   Every historical stage has given birth to a distinct perspective on conflict resolution and to very different practices:
