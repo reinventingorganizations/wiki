@@ -39,8 +39,7 @@ perspective: >-
 
   * Menschen, die nicht zum "inneren Kreis" gehören, sind dazu da, benutzt zu werden. Es ist besser gefürchtet als geliebt zu werden.
 
-
-  (Führungsstil: räuberisch, Metapher: Wolfsrudel)
+  * (Führungsstil: räuberisch, Metapher: Wolfsrudel)
 
 
   #### Bernstein Organisation
