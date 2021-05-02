@@ -33,7 +33,7 @@ perspective: >-
 
   * Man kann nur sich selbst vertrauen - und bis zu einem gewissen Grad auch den Menschen, die "Treue geschworen" haben. Wachsamkeit ist unabdingbar, denn die Loyalitäten der Menschen können sich über Nacht ändern.
 
-  * Es gibt keine stabilen Regeln außer der Machtherrschafft, die der Anführer ausübt. Was richtig und was falsch ist, entscheidet der Chef. Keine Notwendigkeit, selbst zu denken, wenn man nicht der Chef ist.
+  * Es gibt keine stabilen Regeln außer der Machtherrschafft, die der Anführer ausübt. Was richtig und was falsch ist, entscheidet der Chef. Es gibt keine Notwendigkeit, selbst zu denken, wenn man nicht der Chef ist.
 
   * Es ist akzeptabel (und sogar wünschenswert), sich nur um sich selbst zu kümmern. Nehmen, was man kriegen kann - solange man nicht erwischt oder von jemand Mächtigerem geschlagen wird, ist OK. Es gibt keine Schuld, nur Macht oder Unterwerfung. Was andere Menschen denken und wie sie sich fühlen, ist nicht von Belang.
 
