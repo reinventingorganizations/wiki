@@ -239,21 +239,24 @@ faq:
       unangenehm sein. Teal-Organisationen investieren viel Zeit und Mühe, um
       den Mitarbeitern die Fähigkeiten und Ressourcen zu vermitteln, die sie
       benötigen, um dies effektiv zu tun.
-  - question: Are peers really fully trusted to resolve conflicts? In Teal
-      organizations there is still a founder or CEO. Doesn’t this person have
-      the final say?
-    answer: When there is disagreement between two colleagues, they may try to send
-      it up to the founder or CEO or other person deemed to have more authority.
-      The temptation to settle the matters in this way is resisted. Instead, the
-      conflict resolution mechanism helps colleagues work through the conflict
-      together. In this way, they learn that their voice is valued and they do
-      have the power to hold peers to their commitments, without the
-      intervention of a boss, even if it can be uncomfortable at times. A CEO or
-      founder might be involved later on if the original colleagues can’t sort
-      the issue out one-on-one and if they choose this person as a mediator or
-      panel member. But neither a mediator nor a panel can impose a solution.
-      Other support may also be requested when teams run into trouble, but
-      ultimately the participants must find their own solution.
+  - question: Wird den Peers wirklich volles Vertrauen entgegengebracht, um
+      Konflikte zu lösen? In Teal-Organisationen gibt es immer noch einen
+      Gründer oder CEO. Hat diese Person nicht das letzte Wort?
+    answer: Bei Unstimmigkeiten zwischen zwei Kollegen können diese versuchen, die
+      Angelegenheit an den Gründer oder den CEO oder eine andere Person, von der
+      angenommen wird, dass sie mehr Autorität hat, weiterzuleiten. Der
+      Versuchung, die Angelegenheiten auf diese Weise zu regeln, wird
+      widerstanden. Stattdessen hilft der Konfliktlösungsmechanismus den
+      Kollegen, den Konflikt gemeinsam durchzuarbeiten. Auf diese Weise lernen
+      sie, dass ihre Stimme wertgeschätzt wird und sie die Macht haben, die
+      Kollegen an ihre Verpflichtungen zu binden, ohne die Intervention eines
+      Chefs, auch wenn es manchmal unangenehm sein kann. Ein CEO oder Gründer
+      kann später hinzugezogen werden, wenn die ursprünglichen Kollegen das
+      Problem nicht unter vier Augen lösen können und wenn sie diese Person als
+      Mediator oder Gremiumsmitglied wählen. Aber weder ein Mediator noch ein
+      Gremium kann eine Lösung erzwingen. Andere Unterstützung kann auch
+      angefordert werden, wenn Teams in Schwierigkeiten geraten, aber
+      letztendlich müssen die Teilnehmer ihre eigene Lösung finden.
 relatedTheory:
   - Culture and Values
   - Onboarding
