@@ -94,19 +94,20 @@ inPractice: "**Eine Organisationskultur, die eine effektive Konfliktlösung
   als auf Probleme.
 
 
-  Therefore, in addition to specific conflict resolution processes, other
-  structures are needed to create and maintain this type of supportive culture.
-  For instance, many organizations find it helpful to establish a set of values
-  and translate these values into concrete behaviors that are either encouraged
-  or declared unacceptable in the community of colleagues. Many Teal
-  organizations also institute specific meeting practices to help participants
-  interact with each other from a place of wholeness, to keep their egos in
-  check and to ensure everybody’s voice is heard. This might be done by, for
-  example, starting a meeting with a minute of silence, finishing a meeting with
-  a round of appreciation or a structured decision-making process. Another key
-  contributor to a supportive culture is the office space, which should feel
-  safe, provide place for quiet reflection and encourage individual and
-  collective wholeness.
+  Daher werden neben spezifischen Konfliktlösungsprozessen auch andere
+  Strukturen benötigt, um diese Art von unterstützender Kultur zu schaffen und
+  zu erhalten. Viele Organisationen finden es zum Beispiel hilfreich, eine Reihe
+  von Werten festzulegen und diese Werte in konkrete Verhaltensweisen zu
+  übersetzen, die in der Gemeinschaft der Kollegen entweder gefördert oder für
+  inakzeptabel erklärt werden. Viele Teal-Organisationen führen auch bestimmte
+  Meeting-Praktiken ein, um den Teilnehmern zu helfen, von einem Ort der
+  Ganzheitlichkeit aus miteinander zu interagieren, ihre Egos im Zaum zu halten
+  und sicherzustellen, dass die Stimme eines jeden gehört wird. Dies kann z.B.
+  dadurch geschehen, dass ein Meeting mit einer Schweigeminute beginnt, mit
+  einer Dankesrunde beendet wird oder ein strukturierter Entscheidungsprozess
+  stattfindet. Ein weiterer wichtiger Beitrag zu einer unterstützenden Kultur
+  sind die Büroräume, der sich sicher anfühlen, Platz für ruhige Reflexion
+  bieten und individuelle und kollektive Ganzheitlichkeit fördern sollten.
 
 
   #### **How conflicts are addressed**
