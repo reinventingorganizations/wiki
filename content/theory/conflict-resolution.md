@@ -110,17 +110,20 @@ inPractice: "**Eine Organisationskultur, die eine effektive Konfliktlösung
   bieten und individuelle und kollektive Ganzheitlichkeit fördern sollten.
 
 
-  #### **How conflicts are addressed**
+  #### **Wie Konflikte angesprochen werden**
 
 
-  In a conventional workplace, people often raise a dispute with a boss to
-  settle the matter. In self-managing organizations, disagreements are resolved
-  among peers, often using a conflict resolution process. Peers hold each other
-  to account for their mutual commitments and responsibilities. Holding
-  colleagues accountable in this way can feel uncomfortable and Teal
-  organisations sometimes offer support and practices that encourage openness
-  and emotional intelligence to emerge. Broadly there are three types of
-  practices that Teal organizations put in place to help deal with conflicts.
+  An einem konventionellen Arbeitsplatz sprechen Menschen oft einen Streit mit
+  einem Chef an, um die Angelegenheit zu klären. In selbstverwalteten
+  Organisationen werden Meinungsverschiedenheiten unter Gleichrangigen geklärt,
+  oft unter Verwendung eines Konfliktlösungsprozesses. Peers ziehen sich
+  gegenseitig für ihre gegenseitigen Verpflichtungen und Verantwortlichkeiten
+  zur Rechenschaft. Kollegen auf diese Weise zur Rechenschaft zu ziehen, kann
+  sich unangenehm anfühlen. Daher bieten Teal-Organisationen manchmal
+  Unterstützung und Praktiken an, die Offenheit und emotionale Intelligenz
+  fördern, um sich zu entwickeln. Im Großen und Ganzen gibt es drei Arten von
+  Praktiken, die Teal-Organisationen einführen, um den Umgang mit Konflikten zu
+  erleichtern.
 
 
   * First, methods are developed to help people bring tensions to the
