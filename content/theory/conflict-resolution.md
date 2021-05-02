@@ -39,7 +39,7 @@ perspective: >-
   Das [Bernstein-Paradigma](../amber-paradigm-and-organizations/) hat formalisierte Rollen innerhalb einer hierarchischen Pyramidenstruktur und Top-Down-Befehl und Kontrolle (was und wie). Stabilität wird über alles geschätzt und wird durch klar definierte Rollen und Prozesse aufrechterhalten.
 
 
-  Methods for managing conflict include avoidance or suppression. Rules are imposed by those with authority and may be enforced through legal action. These types of organizations have strong HR processes for managing conflict and grievances between employee and employer.
+  Zu den Methoden zur Konfliktbewältigung gehören Vermeidung oder Unterdrückung. Regeln werden von denjenigen mit Autorität auferlegt und können durch rechtliche Schritte durchgesetzt werden. Diese Arten von Organisationen haben starke HR-Prozesse für den Umgang mit Konflikten und Beschwerden zwischen Arbeitnehmer und Arbeitgeber.
 
 
   #### **Orange organizations**
