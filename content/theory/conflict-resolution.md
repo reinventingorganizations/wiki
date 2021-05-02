@@ -30,7 +30,7 @@ perspective: >-
   #### **Rote Organisationen**
 
 
-  In the [Red paradigm](../red-organizations/), there is dominant exercise of power by the boss or leader to keep others in line. Fear is the glue of the organization. In general, conflict is handled by suppression, power or dominance, and strict rules are enforced by fear of consequences.
+  Im [roten Paradigma](../red-organizations/) gibt es eine dominante Machtausübung durch den Chef oder die Führungskraft, um andere auf Linie zu halten. Angst ist der Klebstoff der Organisation. Im Allgemeinen werden Konflikte durch Unterdrückung, Macht oder Dominanz gehandhabt, und strenge Regeln werden durch Angst vor Konsequenzen durchgesetzt.
 
 
   #### **Amber organizations**
