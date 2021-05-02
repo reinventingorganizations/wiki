@@ -62,7 +62,7 @@ inPractice: >-
   **Eine Organisationskultur, die eine effektive Konfliktlösung unterstützt** 
 
 
-  Conflict resolution mechanisms can be difficult to put in place and to maintain. The process is effective to the degree that there is a culture within the workplace where people feel safe and encouraged to hold each other to account, even when that feels uncomfortable.
+  Konfliktlösungsmechanismen können schwierig einzurichten und aufrechtzuerhalten sein. Der Prozess ist in dem Maße effektiv, wie es eine Kultur am Arbeitsplatz gibt, in der sich die Menschen sicher fühlen und ermutigt werden, sich gegenseitig zur Rechenschaft zu ziehen, auch wenn sich das unangenehm anfühlt.
 
 
   Here are some basic principles that underlie many of the Teal organisation's approaches to conflict in a supportive culture:
