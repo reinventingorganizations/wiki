@@ -215,18 +215,19 @@ inPractice: "**Eine Organisationskultur, die eine effektive Konfliktlösung
   entwickelten [Gewaltfreien Kommunikation
   ](https://de.wikipedia.org/wiki/Gewaltfreie_Kommunikation)."
 faq:
-  - question: If so much time is spent talking through every conflict, when does the
-      work get done?
-    answer: Working through conflict in a collaborative way without a solution
-      imposed by a boss can take time. However, the structure of Teal
-      organizations within which employees are trusted to make decisions
-      collaboratively from a place of wholeness and care for others, prevents
-      many conflicts from happening in the first place. Also, many Teal
-      organizations extensively train their employees in effective communication
-      and similar skills that make talking through conflict an easier and faster
-      process. Even if resolving conflict does take some extra time, there are
-      many benefits, such as increased productivity from happier and more
-      empowered workers.
+  - question: Wenn so viel Zeit damit verbracht wird, jeden Konflikt
+      durchzusprechen, wann wird dann die Arbeit erledigt?
+    answer: Konflikte in Zusammenarbeit zu lösen, ohne dass ein Chef eine Lösung
+      vorgibt, kann Zeit brauchen. Die Struktur von Teal-Organisationen, in
+      denen den Mitarbeitern vertraut wird, dass sie Entscheidungen gemeinsam
+      aus einem Gefühl der Ganzheitlichkeit und der Fürsorge für andere treffen,
+      verhindert jedoch, dass viele Konflikte überhaupt erst entstehen. Außerdem
+      schulen viele Teal-Organisationen ihre Mitarbeiter ausgiebig in effektiver
+      Kommunikation und ähnlichen Fähigkeiten, die das Durchsprechen von
+      Konflikten zu einem einfacheren und schnelleren Prozess machen. Auch wenn
+      das Lösen von Konflikten etwas mehr Zeit in Anspruch nimmt, gibt es viele
+      Vorteile, wie z.B. eine erhöhte Produktivität durch glücklichere und
+      befähigtere Mitarbeiter.
   - question: Doesn’t it usually end up with a few team members doing most of work
       because there is no boss to oversee the situation when someone slacks off?
     answer: In traditional companies, when one person doesn’t deliver, colleagues
