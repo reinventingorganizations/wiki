@@ -106,7 +106,7 @@ inPractice: "**Eine Organisationskultur, die eine effektive Konfliktlösung
   dadurch geschehen, dass ein Meeting mit einer Schweigeminute beginnt, mit
   einer Dankesrunde beendet wird oder ein strukturierter Entscheidungsprozess
   stattfindet. Ein weiterer wichtiger Beitrag zu einer unterstützenden Kultur
-  sind die Büroräume, der sich sicher anfühlen, Platz für ruhige Reflexion
+  sind die Arbeitsräume, die sich sicher anfühlen, Platz für ruhige Reflexion
   bieten und individuelle und kollektive Ganzheitlichkeit fördern sollten.
 
 
