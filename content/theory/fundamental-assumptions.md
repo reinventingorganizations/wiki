@@ -130,344 +130,177 @@ perspective: >-
   * Eine gute Entscheidung ist eine Entscheidung, die mit dem eigenen inneren Kompass übereinstimmt - sie basiert nicht nur auf Fakten und Zahlen, sondern schließt Emotionen und Intuition mit ein.
 
   * (Führungsstil: co-kreativ/synergistisch, "tief empathisch, systemisch, Raum für den Zweck haltend". Metapher: Lebendes System / Lebender Organismus).
-inPractice: "Viele von uns haben tief verwurzelte Annahmen über Menschen und
-  Arbeit, die auf Angst beruhen, Annahmen, die nach Hierarchie und Kontrolle
-  verlangen. Teal-Organisationen artikulieren die Annahmen, die sie über
-  Menschen und über Arbeit haben. Nur wenn wir diese angstbasierten Annahmen
-  beleuchten, können wir uns entscheiden, eine andere Art von Annahmen zu
-  wählen. Wenn Kollegen über die beiden Gruppen von Annahmen sprechen und häufig
-  daran erinnert werden, beginnen sie, ihr Glaubenssystem zu verändern.
+inPractice: >-
+  Viele von uns haben tief verwurzelte Annahmen über Menschen und Arbeit, die
+  auf Angst beruhen, Annahmen, die nach Hierarchie und Kontrolle verlangen.
+  Teal-Organisationen artikulieren die Annahmen, die sie über Menschen und über
+  Arbeit haben. Nur wenn wir diese angstbasierten Annahmen beleuchten, können
+  wir uns entscheiden, eine andere Art von Annahmen zu wählen. Wenn Kollegen
+  über die beiden Gruppen von Annahmen sprechen und häufig daran erinnert
+  werden, beginnen sie, ihr Glaubenssystem zu verändern.
 
 
   #### Überprüfung der Grundannahmen in den täglichen Abläufen
 
 
-  \r
-
-  \r
-
-  Kollegen in Teal-Organisationen überprüfen routinemäßig die Art und Weise,
-  wie tägliche Praktiken ([Besprechungen](../meetings/),
-  [Konfliktlösung](../conflict-resolution/), [Team-
-  /Gemeinschaftsbildung](../team-and-community-building/),
-  [Entscheidungsfindung](../decision-making/)) durchgeführt werden -und die
-  Ergebnisse, die sie erzeugen, mit den [Werten ](../culture-and-values/)und den
-  zugrunde liegenden Grundannahmen.
+  Kollegen in Teal-Organisationen überprüfen routinemäßig die Art und Weise, wie tägliche Praktiken ([Besprechungen](../meetings/), [Konfliktlösung](../conflict-resolution/), [Team- /Gemeinschaftsbildung](../team-and-community-building/), [Entscheidungsfindung](../decision-making/)) durchgeführt werden -und die Ergebnisse, die sie erzeugen, mit den [Werten ](../culture-and-values/)und den zugrundeliegenden Grundannahmen.
 
 
-  #### Artikulation beider Annahmen bei der Transformation einer bestehenden
-  Organisation
+  #### Artikulation beider Annahmen bei der Transformation einer bestehenden Organisation
 
 
-  \r
+  Die meisten der gewählten organisatorischen Praktiken werden für konventionellere Organisationen zutiefst kontrakulturell sein. Es ist möglich, dass Menschen Entscheidungen in Frage stellen und neue Annahmen als töricht bezeichnen. Debatten können fruchtbarer sein, wenn sie nicht auf der Ebene des Argumentierens für oder gegen eine bestimmte Managementpraxis bleiben, sondern wenn sie auf einer tieferen Ebene stattfinden und die oft versteckten Annahmen hinter der Praxis diskutieren.
 
-  \r
 
-  Die meisten der gewählten organisatorischen Praktiken werden für
-  konventionellere Organisationen zutiefst kontrakulturell sein. Es ist möglich,
-  dass Menschen Entscheidungen in Frage stellen und neue Annahmen als töricht
-  bezeichnen. Debatten können fruchtbarer sein, wenn sie nicht auf der Ebene des
-  Argumentierens für oder gegen eine bestimmte Managementpraxis bleiben, sondern
-  wenn sie auf einer tieferen Ebene stattfinden und die oft versteckten Annahmen
-  hinter der Praxis diskutieren.\r
-
-  \r
-
-  Jedes Mal, wenn beispielsweise [AES](http://www.aes.com/) ein neues
-  Kraftwerk erwarb, stellte der CEO der neuen Gruppe von Kollegen die
-  Managementpraktiken von AES vor, indem er sie fragte, welche Annahmen
-  Eigentümer und Manager einer typischen Fabrik über ihre Arbeiter haben (siehe
-  weiter: In der Praxis). \ 
+  Jedes Mal, wenn beispielsweise [AES](http://www.aes.com/) ein neues Kraftwerk erwarb, stellte der CEO der neuen Gruppe von Kollegen die Managementpraktiken von AES vor, indem er sie fragte, welche Annahmen Eigentümer und Manager einer typischen Fabrik über ihre Arbeiter haben (siehe weiter: In der Praxis).  
 
 
   #### Praktische Tipps:
 
 
-  \r
-
-  \r
-
-  1. Beginnen Sie damit, die unausgesprochenen Annahmen hinter dem
-  traditionellen hierarchischen Organisationsmodell (Bernstein/Orange)
-  aufzudecken.\r
+  1. Beginnen Sie damit, die unausgesprochenen Annahmen hinter dem traditionellen hierarchischen Organisationsmodell (Bernstein/Orange) aufzudecken.
 
   2. Tun Sie es nicht allein - erkunden Sie es gemeinsam mit Ihrem Team.
 
 
-  #### Erörterung der grundlegenden Annahmen bei der Gründung einer
-  Teal-Organisation
+  #### Erörterung der grundlegenden Annahmen bei der Gründung einer Teal-Organisation
 
 
-  \r
-
-  \r
-
-  Bei der Gründung einer Teal-Organisation ist die Auswahl der richtigen
-  Mitgründer eine kritische Entscheidung. Wenn die Organisation nach
-  Evolutionär-Teal-Prinzipien geführt werden soll, ist die Bereitschaft der
-  Gründer, die Teal-Arbeitsweise zu übernehmen, entscheidend. Seien Sie bereit,
-  viel Zeit mit der Diskussion dieser Themen zu verbringen - einschließlich der
-  grundlegenden Annahmen über Menschen und Arbeit. Sie formen die Kultur Ihrer
-  Organisation, bevor sie überhaupt begonnen hat.\ 
+  Bei der Gründung einer Teal-Organisation ist die Auswahl der richtigen Mitgründer eine kritische Entscheidung. Wenn die Organisation nach Evolutionär-Teal-Prinzipien geführt werden soll, ist die Bereitschaft der Gründer, die Teal-Arbeitsweise zu übernehmen, entscheidend. Seien Sie bereit, viel Zeit mit der Diskussion dieser Themen zu verbringen - einschließlich der grundlegenden Annahmen über Menschen und Arbeit. Sie formen die Kultur Ihrer Organisation, bevor sie überhaupt begonnen hat. 
 
 
   #### Selbstmanagement
 
 
-  \r
-
-  \r
-
-  Um effektiv - auch in großem Maßstab - mit einem System zu arbeiten, das auf
-  Peer-Beziehungen basiert und weder Hierarchie noch Konsens benötigt, stützt
-  man sich auf die folgenden Teal-Prinzipien. Diese wiederum beruhen auf den
-  Grundannahmen von Teal:
+  Um effektiv - auch in großem Maßstab - mit einem System zu arbeiten, das auf Peer-Beziehungen basiert und weder Hierarchie noch Konsens benötigt, stützt man sich auf die folgenden Teal-Prinzipien. Diese wiederum beruhen auf den Grundannahmen von Teal:
 
 
-  \r
+  ##### *Vertrauen*
 
-  \r
 
-  ##### *Vertrauen*\r
+  * Wir beziehen uns aufeinander mit der Annahme einer positiven Absicht.
 
-  \r
+  * Bis zum Beweis des Gegenteils ist das Vertrauen in die Mitarbeiter unsere Standardeinstellung im Umgang miteinander.
 
-  * Wir beziehen uns aufeinander mit der Annahme einer positiven Absicht.\r
-
-  * Bis zum Beweis des Gegenteils ist das Vertrauen in die Mitarbeiter unsere
-  Standardeinstellung im Umgang miteinander.\r
-
-  * Freiheit und Verantwortlichkeit sind zwei Seiten derselben Medaille.\ 
-
-  \r
+  * Freiheit und Verantwortlichkeit sind zwei Seiten derselben Medaille. 
 
 
   ##### *Informations- und Entscheidungsfindung*
 
 
-  \r
+  * Alle geschäftlichen Informationen sind für alle zugänglich.
 
-  \r
+  * Jeder von uns ist in der Lage, mit schwierigen und sensiblen Nachrichten umzugehen.
 
-  * Alle geschäftlichen Informationen sind für alle zugänglich.\r
-
-  * Jeder von uns ist in der Lage, mit schwierigen und sensiblen Nachrichten
-  umzugehen.\r
-
-  * Wir glauben an die Kraft der kollektiven Intelligenz. Niemand ist so klug
-  wie alle. Deshalb werden alle Entscheidungen mit dem
-  \"[Beratungsprozess](../decision-making/)\" getroffen.
+  * Wir glauben an die Kraft der kollektiven Intelligenz. Niemand ist so klug wie alle. Deshalb werden alle Entscheidungen mit dem "[Beratungsprozess](../decision-making/)" getroffen.
 
 
-  \r
+  ##### *Verantwortung und Rechenschaftspflicht*
 
-  \r
 
-  ##### *Verantwortung und Rechenschaftspflicht*\r
+  * Jeder von uns trägt die volle Verantwortung für die Organisation. Wenn wir spüren, dass etwas passieren muss, haben wir die Pflicht, uns damit zu befassen. Es ist nicht akzeptabel, unser Anliegen auf den Aufgabenbereich von Rollen zu beschränken.
 
-  \r
-
-  * Jeder von uns trägt die volle Verantwortung für die Organisation. Wenn wir
-  spüren, dass etwas passieren muss, haben wir die Pflicht, uns damit zu
-  befassen. Es ist nicht akzeptabel, unser Anliegen auf den Aufgabenbereich von
-  Rollen zu beschränken.\r
-
-  * Jeder muss sich damit wohlfühlen, andere durch Feedback und respektvolle
-  Konfrontation zur Verantwortung zu ziehen.
+  * Jeder muss sich damit wohlfühlen, andere durch Feedback und respektvolle Konfrontation zur Verantwortung zu ziehen.
 
 
   #### Ganzheitlichkeit
 
 
-  \r
+  Um Ihr ganzes Selbst in die Arbeit einzubringen, um in Ihrer Beziehung zu anderen und zum Leben und zur Natur ganz sein zu können, bauen Sie auf den folgenden Annahmen auf:
 
-  \r
-
-  Um Ihr ganzes Selbst in die Arbeit einzubringen, um in Ihrer Beziehung zu
-  anderen und zum Leben und zur Natur ganz sein zu können, bauen Sie auf den
-  folgenden Annahmen auf:
-
-
-  \r
-
-  \r
 
   ##### *Gleichwertigkeit*
 
 
-  \r
+  * Wir sind alle von grundsätzlich gleichem Wert.
 
-  \r
-
-  * Wir sind alle von grundsätzlich gleichem Wert.\r
-
-  * Gleichzeitig wird unsere Gemeinschaft am reichsten sein, wenn wir alle
-  Mitglieder auf ihre unverwechselbare Weise beitragen lassen. Wir schätzen die
-  Unterschiede in Rollen, Ausbildung, Hintergründen, Interessen, Fähigkeiten,
-  Charakteren und Sichtweisen.
+  * Gleichzeitig wird unsere Gemeinschaft am reichsten sein, wenn wir alle Mitglieder auf ihre unverwechselbare Weise beitragen lassen. Wir schätzen die Unterschiede in Rollen, Ausbildung, Hintergründen, Interessen, Fähigkeiten, Charakteren und Sichtweisen.
 
 
   ##### *Sicherer und fürsorglicher Arbeitsplatz*
 
 
-  \r
+  \*Jede Situation kann aus Angst und Trennung oder aus Liebe und Verbindung angegangen werden. Wir wählen Liebe und Verbindung.
 
-  \r
 
-  *Jede Situation kann aus Angst und Trennung oder aus Liebe und Verbindung
-  angegangen werden. Wir wählen Liebe und Verbindung.\r
+  * Wir bemühen uns, emotional und spirituell sichere Umgebungen zu schaffen, in denen sich jeder von uns authentisch verhalten kann.
 
-  * Wir bemühen uns, emotional und spirituell sichere Umgebungen zu schaffen,
-  in denen sich jeder von uns authentisch verhalten kann.\r
+  * Wir ehren die Stimmungen von Liebe, Fürsorge, Wertschätzung, Anerkennung, Dankbarkeit, Neugierde, Spaß, Verspieltheit...
 
-  * Wir ehren die Stimmungen von Liebe, Fürsorge, Wertschätzung, Anerkennung,
-  Dankbarkeit, Neugierde, Spaß, Verspieltheit...\r
-
-  * Wir fühlen uns wohl mit Vokabeln wie Fürsorge, Liebe, Service, Zweck,
-  Seele,... am Arbeitsplatz.
+  * Wir fühlen uns wohl mit Vokabeln wie Fürsorge, Liebe, Service, Zweck, Seele,... am Arbeitsplatz.
 
 
   ##### *Überwindung der Trennung*
 
 
-  \r
+  * Wir streben einen Arbeitsplatz an, an dem wir alle Teile von uns ehren können: den kognitiven, den physischen, den emotionalen und den spirituellen; den rationalen und den intuitiven, den weiblichen und den männlichen.
 
-  \r
-
-  * Wir streben einen Arbeitsplatz an, an dem wir alle Teile von uns ehren
-  können: den kognitiven, den physischen, den emotionalen und den spirituellen;
-  den rationalen und den intuitiven, den weiblichen und den männlichen.\r
-
-  * Wir erkennen an, dass wir alle zutiefst miteinander verbunden sind, Teil
-  von etwas Größerem sind und das schließt die Natur und alle Formen des Lebens
-  ein.
+  * Wir erkennen an, dass wir alle zutiefst miteinander verbunden sind, Teil von etwas Größerem sind und das schließt die Natur und alle Formen des Lebens ein.
 
 
   ##### *Lernen*
 
 
-  \r
+  * Jedes Problem ist eine Einladung zum Lernen und Wachsen. Wir werden immer Lernende sein. Wir sind nie angekommen.
 
-  \r
+  * Scheitern ist immer eine Möglichkeit, wenn wir mutig nach unserem Ziel streben. Wir sprechen offen über Misserfolge und lernen aus ihnen. Das Verstecken oder Vernachlässigen des Lernens aus Fehlern ist nicht akzeptabel.
 
-  * Jedes Problem ist eine Einladung zum Lernen und Wachsen. Wir werden immer
-  Lernende sein. Wir sind nie angekommen.\r
+  * Feedback und respektvolle Konfrontation sind Gaben, die wir miteinander teilen, um uns gegenseitig zu helfen, zu wachsen.
 
-  * Scheitern ist immer eine Möglichkeit, wenn wir mutig nach unserem Ziel
-  streben. Wir sprechen offen über Misserfolge und lernen aus ihnen. Das
-  Verstecken oder Vernachlässigen des Lernens aus Fehlern ist nicht
-  akzeptabel.\r
-
-  * Feedback und respektvolle Konfrontation sind Gaben, die wir miteinander
-  teilen, um uns gegenseitig zu helfen, zu wachsen.\r
-
-  * Wir konzentrieren uns mehr auf Stärken als auf Schwächen, mehr auf Chancen
-  als auf Probleme.
+  * Wir konzentrieren uns mehr auf Stärken als auf Schwächen, mehr auf Chancen als auf Probleme.
 
 
   ##### *Beziehungen und Konflikte*
 
 
-  \r
+  \*Es ist unmöglich, andere Menschen zu ändern. Wir können nur uns selbst ändern.
 
-  \r
 
-  *Es ist unmöglich, andere Menschen zu ändern. Wir können nur uns selbst
-  ändern.\r
+  * Jeder Mensch hat Lebenslektionen, die er selbst lernen muss. Was wir tun können, ist, uns gegenseitig in diesem Prozess der persönlichen Veränderung zu unterstützen.
 
-  * Jeder Mensch hat Lebenslektionen, die er selbst lernen muss. Was wir tun
-  können, ist, uns gegenseitig in diesem Prozess der persönlichen Veränderung zu
-  unterstützen.\r
+  * Wir übernehmen die Verantwortung für unsere Gedanken, Überzeugungen, Worte und Handlungen.
 
-  * Wir übernehmen die Verantwortung für unsere Gedanken, Überzeugungen, Worte
-  und Handlungen.\r
+  * Wir verbreiten keine Gerüchte. Wir reden nicht hinter dem Rücken von anderen.
 
-  * Wir verbreiten keine Gerüchte. Wir reden nicht hinter dem Rücken von
-  anderen.\r
+  * Wir lösen Meinungsverschiedenheiten unter vier Augen und ziehen andere Menschen nicht in das Problem hinein.
 
-  * Wir lösen Meinungsverschiedenheiten unter vier Augen und ziehen andere
-  Menschen nicht in das Problem hinein.\r
-
-  * Wir schieben Probleme nicht auf andere. Wenn wir das Gefühl haben, dass
-  wir beschuldigt werden, nehmen wir es als Einladung, darüber nachzudenken, wie
-  wir Teil des Problems (und der Lösung) sein könnten.
+  * Wir schieben Probleme nicht auf andere. Wenn wir das Gefühl haben, dass wir beschuldigt werden, nehmen wir es als Einladung, darüber nachzudenken, wie wir Teil des Problems (und der Lösung) sein könnten.
 
 
   #### Evolutionärer Zweck
 
 
-  \r
+  Die Organisation als ein Eigenleben mit einem eigenen Zweck zu sehen, basiert auf dem Vertrauen in die Fülle des Lebens und der Fähigkeit, sich von seinem Ego zu distanzieren:
 
-  \r
-
-  Die Organisation als ein Eigenleben mit einem eigenen Zweck zu sehen,
-  basiert auf dem Vertrauen in die Fülle des Lebens und der Fähigkeit, sich von
-  seinem Ego zu distanzieren:
-
-
-  \r
-
-  \r
 
   ##### *Kollektiver Zweck*
 
 
-  \r
+  * Wir sehen die Organisation als etwas, das eine Seele hat, einen eigenen schöpferischen Impuls und einen eigenen Zweck.
 
-  \r
-
-  * Wir sehen die Organisation als etwas, das eine Seele hat, einen eigenen
-  schöpferischen Impuls und einen eigenen Zweck.\r
-
-  * Wir versuchen, hineinzuhören, wohin die Organisation gehen will, und hüten
-  uns davor, ihr eine Richtung aufzuzwingen.
+  * Wir versuchen, hineinzuhören, wohin die Organisation gehen will, und hüten uns davor, ihr eine Richtung aufzuzwingen.
 
 
   ##### *Individueller Zweck*
 
 
-  \r
+  * Wir haben die Pflicht uns selbst und der Organisation gegenüber, unser persönliches Gefühl der Berufung zu erforschen, um zu sehen, ob und wie es mit dem Zweck der Organisation in Resonanz steht.
 
-  \r
-
-  * Wir haben die Pflicht uns selbst und der Organisation gegenüber, unser
-  persönliches Gefühl der Berufung zu erforschen, um zu sehen, ob und wie es mit
-  dem Zweck der Organisation in Resonanz steht.\r
-
-  * Wir versuchen, unsere Rollen mit unserer Seele und nicht mit unserem Ego
-  zu besetzen.
+  * Wir versuchen, unsere Rollen mit unserer Seele und nicht mit unserem Ego zu besetzen.
 
 
-  \r
-
-  \r
-
-  ##### * Die Zukunft planen*
+  #####  *Die Zukunft planen*
 
 
-  \r
+  * Der Versuch, die Zukunft vorherzusagen, ist sinnlos. Wir machen nur dann Prognosen, wenn eine bestimmte Entscheidung dies erfordert.
 
-  \r
-
-  * Der Versuch, die Zukunft vorherzusagen, ist sinnlos. Wir machen nur dann
-  Prognosen, wenn eine bestimmte Entscheidung dies erfordert.\r
-
-  * Alles wird sich mit mehr Anmut entfalten, wenn wir aufhören zu versuchen,
-  zu kontrollieren, und stattdessen wählen, einfach zu spüren und zu reagieren.
+  * Alles wird sich mit mehr Anmut entfalten, wenn wir aufhören zu versuchen, zu kontrollieren, und stattdessen wählen, einfach zu spüren und zu reagieren.
 
 
   ##### *Gewinn*
 
 
-  \r
-
-  \r
-
-  * Auf lange Sicht gibt es keine Kompromisse zwischen Zweck und Gewinn. Wenn
-  wir uns auf den Zweck (Ursache) konzentrieren, wird der Gewinn (Wirkung)
-  folgen.
-
-  \r"
+  * Auf lange Sicht gibt es keine Kompromisse zwischen Zweck und Gewinn. Wenn wir uns auf den Zweck (Ursache) konzentrieren, wird der Gewinn (Wirkung) folgen.
 faq:
   - question: Was ist der Unterschied zwischen dem Explizitmachen der Grundannahmen
       und dem Formulieren neuer Annahmen - und der traditionellen Übung über
