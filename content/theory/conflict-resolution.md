@@ -24,10 +24,10 @@ perspective: >-
   Die meisten Teal-Organisationen arbeiten auf der Grundlage bestimmter Annahmen über die menschliche Natur: dass Mitarbeiter nachdenkliche, vertrauenswürdige Erwachsene sind, die in der Lage sind, Rechenschaft abzulegen und für ihre Entscheidungen und Handlungen verantwortlich sind. In einem Arbeitsplatz, die auf Teal-Annahmen basiert, gibt ein klarer Konfliktlösungsprozess zusammen mit einer entsprechenden Schulung den Menschen den Weg und die Fähigkeiten, Meinungsverschiedenheiten mit Reife und Anmut zu bearbeiten
 
 
-  Every historical stage has given birth to a distinct perspective on conflict resolution and to very different practices:
+  Jede historische Etappe hat eine andere Perspektive auf Konfliktlösung und sehr unterschiedliche Praktiken hervorgebracht:
 
 
-  #### **Red organizations**
+  #### **Rote Organisationen**
 
 
   In the [Red paradigm](../red-organizations/), there is dominant exercise of power by the boss or leader to keep others in line. Fear is the glue of the organization. In general, conflict is handled by suppression, power or dominance, and strict rules are enforced by fear of consequences.
