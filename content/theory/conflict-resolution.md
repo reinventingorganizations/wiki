@@ -65,7 +65,7 @@ inPractice: >-
   Konfliktlösungsmechanismen können schwierig einzurichten und aufrechtzuerhalten sein. Der Prozess ist in dem Maße effektiv, wie es eine Kultur am Arbeitsplatz gibt, in der sich die Menschen sicher fühlen und ermutigt werden, sich gegenseitig zur Rechenschaft zu ziehen, auch wenn sich das unangenehm anfühlt.
 
 
-  Here are some basic principles that underlie many of the Teal organisation's approaches to conflict in a supportive culture:
+  Hier sind einige Grundprinzipien, die vielen Ansätzen der Teal-Organisation zum Umgang mit Konflikten in einer unterstützenden Kultur zugrunde liegen:
 
 
   * It’s impossible to change other people. We can only change ourselves. 
