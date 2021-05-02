@@ -152,19 +152,20 @@ inPractice: "**Eine Organisationskultur, die eine effektive Konfliktlösung
   Hier sind einige Beispiele:
 
 
-  * At ESBZ, a school in Berlin, every class gets together at a fixed time
-  each week to discuss and deal with tensions in the group. The meeting is
-  facilitated by a student, who supports a number of ground rules that keep the
-  discussion safe.\ 
+  * An der ESBZ, einer Schule in Berlin, kommt jede Klasse jede Woche zu einer
+  festen Zeit zusammen, um Spannungen in der Gruppe zu besprechen und zu
+  bearbeiten. Das Treffen wird von einem Schüler moderiert, der eine Reihe von
+  Grundregeln unterstützt, die die Diskussion sicher halten. \r
 
-  * At Heiligenfeld, once a year, colleagues in every team rate the quality of
-  their interaction with other teams. The result is a company-wide “heat map”
-  that reveals which teams should have a conversation to improve their
-  collaboration.\ 
+  * Bei Heiligenfeld bewerten die Kollegen in jedem Team einmal im Jahr die
+  Qualität ihrer Interaktion mit anderen Teams. Das Ergebnis ist eine
+  unternehmensweite \"Heatmap\", die zeigt, welche Teams ein Gespräch führen
+  sollten, um ihre Zusammenarbeit zu verbessern. \r
 
-  * RHD holds a bi-monthly “-isms in the workplace\" meeting. Anyone feeling
-  that the organization should pay attention to a specific form or occurrence of
-  racism, sexism, or any other “-ism” can join the meeting.\ 
+  * RHD hält alle zwei Monate ein \"-ismen am Arbeitsplatz\"-Treffen ab.
+  Jeder, der das Gefühl hat, dass die Organisation auf eine bestimmte Form oder
+  ein bestimmtes Vorkommen von Rassismus, Sexismus oder einem anderen \"-ismus\"
+  achten sollte, kann an dem Treffen teilnehmen.\ 
 
 
   ##### ***Conflict resolution processes***
