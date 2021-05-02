@@ -59,7 +59,7 @@ perspective: >-
 
   In [Teal-Organisationen](../teal-paradigm-and-organizations/) wird Konflikt als ein natürlicher Teil menschlicher Interaktion gesehen und, wenn er sicher unterstützt wird, oft als gesund und kreativ angesehen. Konflikte, die mit Anmut und Zärtlichkeit behandelt werden, können Möglichkeiten und Lernen für alle Beteiligten schaffen. In Teal-Organisationen wird regelmäßig Zeit darauf verwendet, Konflikte in Einzel- und Gruppensettings an die Oberfläche zu bringen und anzusprechen. Oft werden formelle, mehrstufige Konfliktlösungspraktiken angewandt und jeder wird im Konfliktmanagement geschult. Konflikte werden auf die involvierten Parteien und Mediatoren oder Peers beschränkt, die gebeten werden können, in einem Mediatorengremium zu dienen. Ein solches Gremium hat selten die Verantwortung, eine Lösung durchzusetzen. Der Fokus liegt stattdessen darauf, den beteiligten Parteien zu helfen, eine Lösung zu finden.
 inPractice: >-
-  **An organizational culture that supports effective conflict resolution** 
+  **Eine Organisationskultur, die eine effektive Konfliktlösung unterstützt** 
 
 
   Conflict resolution mechanisms can be difficult to put in place and to maintain. The process is effective to the degree that there is a culture within the workplace where people feel safe and encouraged to hold each other to account, even when that feels uncomfortable.
