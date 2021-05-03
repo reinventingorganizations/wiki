@@ -6,98 +6,96 @@ name: Réunions
 sortOrder: 2
 category: Daily practices
 intro: >-
-  *Le thème des réunions traite de la question de savoir quand, comment et dans
-  quel but des réunions sont organisées.*
-
-
-  The topic of meetings discusses when, how and for what purpose meetings are organized.
+  *Ce thème évoque le sujet des réunions : quand, comment et dans quel but
+  sont-elles organisées ?*
 
 
   ![](/media/meetings-2.jpg)
 perspective: >-
-  Meetings serve different purposes depending on the stage of the organization.
-  The number of meetings held typically grows as organizations develop, peaking
-  at the Green stage. The volume of meetings held declines at the Teal stage.
+  Les réunions ont des objectifs différents selon le stade de l'organisation. Le
+  nombre de réunions tenues augmente généralement à mesure que l'organisation se
+  développe, pour atteindre un pic au stade vert. Le nombre de réunions
+  organisées diminue au stade de la phase Opale.
 
 
-  Members of Teal organizations tend to feel more connected to each other and the work, and need fewer meetings to plan or resolve issues.
+  Les membres des organisations Opale ont tendance à se sentir plus proches les uns des autres et du travail, et ont besoin de moins de réunions pour planifier ou résoudre les problèmes.
 
 
   ### Organisations Rouge
 
 
-  In Red organizations, meetings are held when the Chief or Boss feels they are necessary. They might be held to make announcements, pass judgements or to conduct ceremonies. Sometimes they are held, to seek counsel or gather information.
+  Dans les [organisations Rouge](https://fr--reinventingorganizations-wiki.netlify.app/theory/red-organizations/), les réunions sont organisées lorsque le chef ou le patron les juge nécessaires. Elles peuvent être organisées pour faire des annonces, porter des jugements ou organiser des cérémonies. Parfois, elles sont organisées pour demander conseil ou recueillir des informations.
 
 
   ### Organisations Ambre
 
 
-  In [Amber organizations](https://reinventingorganizations-wiki.netlify.app/theory/amber-paradigm-and-organizations/), meetings are an important method of hierarchical control. They are used to gather, distill, and pass information up and down the organization. The highest-ranking person is in charge. It is incumbent on the others to be prepared to report information or provide answers as required.  
+  Dans les [organisations Ambre](https://fr--reinventingorganizations-wiki.netlify.app/theory/amber-paradigm-and-organizations/), les réunions constituent une méthode importante de contrôle hiérarchique. Elles sont utilisées pour rassembler, distiller et transmettre des informations de haut en bas de l'organisation. La personne la plus haut placée est aux commandes. Il incombe aux autres d'être prêts à rapporter des informations ou à fournir des réponses selon les besoins.
 
 
-  ### Orange organizations
+  ### Organisations Orange
 
 
-  [Orange organizations](https://reinventingorganizations-wiki.netlify.app/theory/orange-paradigm-and-organizations/) manage performance carefully to ensure that targets and goals are achieved. This requires regular (weekly/monthly/quarterly/annual) meetings at most levels in the organization.
+  Les [organisations Orange](https://fr--reinventingorganizations-wiki.netlify.app/theory/orange-paradigm-and-organizations/) gèrent soigneusement les performances pour s'assurer que les cibles et les objectifs sont atteints. Cela nécessite des réunions régulières (hebdomadaires/mensuelles/trimestrielles/annuelles) à tous les niveaux de l'organisation.
 
 
-  Meetings are held for many reasons :
+  Les réunions sont organisées pour plusieurs raisons :
 
 
-  * Reporting progress and making decisions. 
+  * Rendre compte des progrès et prendre des décisions. 
 
-  * Planning
+  * Planification
 
-  * To innovate through brainstorming and other creative processes.
+  * Innover par le biais de brainstorming et d'autres processus créatifs.
 
-  * Gaining approval for investments and other important decisions
+  * Obtenir l'approbation pour les investissements et autres décisions importantes.
 
-  * Determining priorities, and so on.
-
-
-  As these meetings proliferate, they become the 'diary-filler' for busy senior executives. Until relatively recently, this often meant significant travel for some of those employed by international organizations.
+  * Déterminer les priorités, et ainsi de suite.
 
 
-  Meetings often have pre-defined agendas with the intention of reaching clear outcomes. Rational discussion and logical arguments are valued. However, personal agendas are never far from the surface and have the potential to undermine organizational goals.
+  À mesure que ces réunions se multiplient, elles "remplissent l'agenda" de cadres supérieurs très occupés. Jusqu'à récemment, cela signifiait souvent des déplacements importants pour ceux qui sont employés par des organisations internationales.
 
 
-  ### Green organizations
+  Les réunions ont souvent un ordre du jour prédéfini, avec l'intention de parvenir à des résultats clairs. Les discussions rationnelles et les arguments logiques sont appréciés. Toutefois, les objectifs personnels ne sont jamais loin de la surface et sont susceptibles de saper les objectifs de l'organisation.
 
 
-  In [Green organizations](../green-paradigm-and-organizations/), aim to serve multiple stakeholders with equality, respect and inclusion. This requires meeting with them. Consensus is valued, but may be gruelling to achieve.
+  ### Organisations Verte
 
 
-  Meetings are not only about planning and reporting (as in Orange organizations), but are also about sustaining a sense of ownership, inclusion and empowerment: in other words, creating a values-based culture.  As a result, meeting practices tend to be more attentive to the underlying processes within the group.
+  Dans les [organisations Verte](https://fr--reinventingorganizations-wiki.netlify.app/theory/green-paradigm-and-organizations/), l'objectif est de servir les parties prenantes avec égalité, respect et inclusion. Pour cela, il faut les rencontrer. Le consensus est apprécié, mais il peut être difficile à obtenir.
 
 
-  ### Teal organizations
+  Les réunions ne servent pas seulement à planifier et à rendre compte (comme dans les organisations Orange), mais aussi à entretenir un sentiment d'appropriation, d'inclusion et d'autonomisation : en d'autres termes, à créer une culture fondée sur des valeurs.  Par conséquent, les pratiques de réunion ont tendance à être plus attentives aux processus sous-jacents au sein du groupe.
 
 
-  [Self-organization ](../self-management/)allows members of [Teal organizations](../teal-paradigm-and-organizations/) to take responsibility for making decisions without the need for approval or consensus. As a result there are usually far fewer meetings required.
+  ### Organisations Opale
 
 
-  Meetings tend to be held only when they are necessary. Reasons include:
+  L'[auto-gouvernance ](https://fr--reinventingorganizations-wiki.netlify.app/theory/self-management/)permet aux membres des [organisations Opale](https://fr--reinventingorganizations-wiki.netlify.app/theory/teal-paradigm-and-organizations/) de prendre la responsabilité des décisions sans avoir besoin d'approbation ou de consensus. Par conséquent, les réunions sont généralement beaucoup moins nombreuses.
 
 
-  * Seeking advice when this is required by the advice process
-
-  * Sharing information
-
-  * Responding to changing circumstances
+  Les réunions ne sont généralement organisées que lorsqu'elles sont nécessaires. Les raisons en sont les suivantes :
 
 
-  Meetings usually incorporate specific practices to ensure that members engage with each other and the purpose of the meeting in a respectful and productive way. New joiners are typically trained in these processes so they can participate fully.
+  * demander des conseils lorsque le processus de conseil l'exige
+
+  * Partager des informations
+
+  * Réagir à un changement de situation
+
+
+  Les réunions intègrent généralement des pratiques spécifiques pour s'assurer que les membres s'engagent les uns envers les autres et envers l'objectif de la réunion d'une manière respectueuse et productive. Les nouveaux membres sont généralement formés à ces processus afin qu'ils puissent participer pleinement.
 inPractice: >-
-  #### *Meeting activity is limited and arises from the 'need to meet'*
+  #### *Les* réunions sont limitées et découlent du "besoin de se réunir "
 
 
-  Meetings can arise spontaneously whenever a member of the organization senses a need, and takes the initiative.  Meeting structures and facilitation support this [self-organizing ](../self-management/)spirit. The increased transparency in Teal organizations reduces the number and length of some meetings. When meetings are held, care is taken to use specific practices that foster a sense of [wholeness](../wholeness/).
+  Les réunions peuvent naître spontanément lorsqu'un membre de l'organisation ressent un besoin et prend l'initiative.  Les structures et l'animation des réunions soutiennent cet esprit [d'auto-gouvernance](https://fr--reinventingorganizations-wiki.netlify.app/theory/self-management/). La transparence accrue des organisations Opale réduit le nombre et la durée de certaines réunions. Lorsque des réunions sont organisées, on veille à utiliser des pratiques spécifiques qui favorisent le sentiment de [plénitude](https://fr--reinventingorganizations-wiki.netlify.app/theory/wholeness/).
 
 
-  #### *Self-management requires far fewer meetings*
+  #### *L'auto-gouvernance nécessite beaucoup moins de réunion*
 
 
-  Overall there tend to be fewer meetings in [Teal organizations](../teal-paradigm-and-organizations/). In a traditional pyramid structure, meetings are needed to gather, package, filter and transmit information as it flows up and down the chain of command.  In self-managing structures, the need for many of these meetings falls away. Whereas in [Green organizations](../green-paradigm-and-organizations/) meetings may be a way of building ‘bottom up’ involvement, this is already 'built in' to a self-managing structure.
+  Dans l'ensemble, les réunions ont tendance à être moins nombreuses dans les [organisations Opale](../paradigme-sarcelle-et-organisations/). Dans une structure pyramidale traditionnelle, des réunions sont nécessaires pour rassembler, conditionner, filtrer et transmettre les informations qui circulent de haut en bas de la chaîne de commandement.  Dans les structures auto-gérées la plupart de ces réunions ne sont plus nécessaires. Alors que dans les [organisations Verte](https://fr--reinventingorganizations-wiki.netlify.app/theory/green-paradigm-and-organizations/), les réunions peuvent être un moyen de renforcer la participation "ascendante", celle-ci est déjà "intégrée" dans une structure auto-gérées.
 
 
   #### *Regular meetings at the operational team/circle level*
