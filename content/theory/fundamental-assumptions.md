@@ -224,7 +224,7 @@ inPractice: >-
 
   * Wir bemühen uns, emotional und spirituell sichere Umgebungen zu schaffen, in denen sich jeder von uns authentisch verhalten kann.
 
-  * Wir ehren die Stimmungen von Liebe, Fürsorge, Wertschätzung, Anerkennung, Dankbarkeit, Neugierde, Spaß, Verspieltheit...
+  * Wir ehren Stimmungen der Liebe, Fürsorge, Wertschätzung, Anerkennung, Dankbarkeit, Neugierde, Spaß, Verspieltheit...
 
   * Wir fühlen uns wohl mit Vokabeln wie Fürsorge, Liebe, Service, Zweck, Seele,... am Arbeitsplatz.
 
