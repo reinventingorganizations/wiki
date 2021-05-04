@@ -226,7 +226,7 @@ inPractice: >-
 
   * Wir ehren Stimmungen der Liebe, Fürsorge, Wertschätzung, Anerkennung, Dankbarkeit, Neugierde, Spaß, Verspieltheit...
 
-  * Wir fühlen uns wohl mit Vokabeln wie Fürsorge, Liebe, Service, Zweck, Seele,... am Arbeitsplatz.
+  * Am Arbeitsplatz fühlen wir uns wohl mit Vokabeln wie Fürsorge, Liebe, Service, Zweck, Seele... 
 
 
   ##### *Überwindung der Trennung*
