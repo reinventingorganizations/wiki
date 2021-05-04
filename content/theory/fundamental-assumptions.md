@@ -252,8 +252,7 @@ inPractice: >-
   ##### *Beziehungen und Konflikte*
 
 
-  \*Es ist unmöglich, andere Menschen zu ändern. Wir können nur uns selbst ändern.
-
+  * Es ist unmöglich, andere Menschen zu ändern. Wir können nur uns selbst ändern.
 
   * Jeder Mensch hat Lebenslektionen, die er selbst lernen muss. Was wir tun können, ist, uns gegenseitig in diesem Prozess der persönlichen Veränderung zu unterstützen.
 
