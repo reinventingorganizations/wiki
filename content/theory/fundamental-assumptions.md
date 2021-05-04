@@ -220,8 +220,7 @@ inPractice: >-
   ##### *Sicherer und fürsorglicher Arbeitsplatz*
 
 
-  \*Jede Situation kann aus Angst und Trennung oder aus Liebe und Verbindung angegangen werden. Wir wählen Liebe und Verbindung.
-
+  * Jede Situation kann aus Angst und Trennung oder aus Liebe und Verbindung angegangen werden. Wir wählen Liebe und Verbindung.
 
   * Wir bemühen uns, emotional und spirituell sichere Umgebungen zu schaffen, in denen sich jeder von uns authentisch verhalten kann.
 
@@ -289,7 +288,7 @@ inPractice: >-
   * Wir versuchen, unsere Rollen mit unserer Seele und nicht mit unserem Ego zu besetzen.
 
 
-  #####  *Die Zukunft planen*
+  ##### *Die Zukunft planen*
 
 
   * Der Versuch, die Zukunft vorherzusagen, ist sinnlos. Wir machen nur dann Prognosen, wenn eine bestimmte Entscheidung dies erfordert.
