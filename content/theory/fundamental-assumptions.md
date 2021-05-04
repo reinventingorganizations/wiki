@@ -229,7 +229,7 @@ inPractice: >-
   * Am Arbeitsplatz fühlen wir uns wohl mit Vokabeln wie Fürsorge, Liebe, Service, Zweck, Seele... 
 
 
-  ##### *Überwindung der Trennung*
+  ##### *Überwindung von Trennung*
 
 
   * Wir streben einen Arbeitsplatz an, an dem wir alle Teile von uns ehren können: den kognitiven, den physischen, den emotionalen und den spirituellen; den rationalen und den intuitiven, den weiblichen und den männlichen.
