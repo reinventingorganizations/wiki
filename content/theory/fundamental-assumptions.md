@@ -42,10 +42,10 @@ perspective: >-
   * (Führungsstil: räuberisch, Metapher: Wolfsrudel)
 
 
-  #### Bernstein Organisation
+  #### Bernstein-Organisationen
 
 
-  Grundlegende Annahmen aus einer [bernstein Perspektive](../amber-paradigm-and-organizations/) sind:
+  Grundlegende Annahmen aus einer [bernsteinfarbenen Perspektive](../amber-paradigm-and-organizations/) sind:
 
 
   * Die Welt ist (oder sollte es zumindest sein) unveränderlich, nachvollziehbar und beherrschbar. Was in der Vergangenheit funktioniert hat, wird auch in der Zukunft funktionieren. ***Stabilität (Sicherheit) und Loyalität*** sind wesentlich. Veränderung ist mit Misstrauen zu betrachten. Das Verlassen der Organisation ist die letzte Option.
@@ -63,10 +63,10 @@ perspective: >-
   * (Führungsstil: autoritär - paternalistisch. Metapher: Armee.)
 
 
-  #### Orange Organisation
+  #### Orange Organisationen
 
 
-  Grundlegende Annahmen aus einer [Orange-Perspektive](../orange-paradigm-and-organizations/) sind:
+  Grundlegende Annahmen aus einer [orangenen Perspektive](../orange-paradigm-and-organizations/) sind:
 
 
   * Die Welt ist voll von Möglichkeiten und Herausforderungen, die darauf warten, entdeckt und angenommen zu werden. Wenn man klug ist und hart genug arbeitet, kann man alle Vorteile eines hohen Status haben. Wenn man es nicht schafft, ist es die eigene Schuld.
@@ -88,7 +88,7 @@ perspective: >-
   * (Führungsstil: Experte/Überflieger, "problemlösend, strategisch, ergebnisorientiert". Metapher: Maschine.)
 
 
-  #### Grüne Organisation
+  #### Grüne Organisationen
 
 
   Grundlegende Annahmen aus einer [grünen Perspektive ](../green-paradigm-and-organizations/)sind:
@@ -107,7 +107,7 @@ perspective: >-
   * (Führungsstil: katalytisch/ko-kreativ, "teamorientiert, kooperativ, dienende Führung". Metapher: Familie.)
 
 
-  #### Teal Organisation
+  #### Teal-Organisationen
 
 
   Grundlegende Annahmen aus Sicht von Teal sind:
