@@ -36,7 +36,7 @@ perspective: >-
   ### Orange Organisationen
 
 
-  [Orange Organisationen](https://reinventingorganizations-wiki.netlify.app/theory/orange-paradigm-and-organizations/) verwalten die Leistung sorgfältig, um sicherzustellen, dass die Ziele und Vorgaben erreicht werden. Dies erfordert regelmäßige (wöchentliche/monatliche/quartalsweise/jährliche) Besprechungen auf den meisten Ebenen der Organisation.
+  [Orange Organisationen](https://reinventingorganizations-wiki.netlify.app/theory/orange-paradigm-and-organizations/) verwalten Leistung sorgfältig, um sicherzustellen, dass die Ziele und Vorgaben erreicht werden. Dies erfordert regelmäßige (wöchentliche/monatliche/quartalsweise/jährliche) Besprechungen auf den meisten Ebenen der Organisation.
 
 
   Meetings werden aus vielen Gründen abgehalten:
