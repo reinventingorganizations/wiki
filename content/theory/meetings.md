@@ -11,129 +11,80 @@ intro: >-
 
 
   ![](/media/meetings-2.jpg)
-perspective: "Meetings dienen je nach Stadium der Organisation unterschiedlichen
-  Zwecken. Die Anzahl der abgehaltenen Meetings nimmt in der Regel mit der
-  Entwicklung der Organisation zu und erreicht ihren Höhepunkt in der grünen
-  Phase. Die Anzahl der abgehaltenen Meetings nimmt in der Teal-Phase ab.
+perspective: >-
+  Meetings dienen je nach Stadium der Organisation unterschiedlichen Zwecken.
+  Die Anzahl der abgehaltenen Meetings nimmt in der Regel mit der Entwicklung
+  der Organisation zu und erreicht ihren Höhepunkt in der grünen Phase. Die
+  Anzahl der abgehaltenen Meetings nimmt in der Teal-Phase ab.
 
 
-  Die Mitglieder von Teal-Organisationen fühlen sich in der Regel stärker
-  miteinander und mit der Arbeit verbunden und benötigen weniger Meetings zur
-  Planung oder Lösung von Problemen.
+  Die Mitglieder von Teal-Organisationen fühlen sich in der Regel stärker miteinander und mit der Arbeit verbunden und benötigen weniger Meetings zur Planung oder Lösung von Problemen.
 
 
   ### Rote Organisationen
 
 
-  In [roten Organisationen](../red-organizations/) werden Versammlungen
-  abgehalten, wenn der Geschäftsführer oder Boss sie für notwendig hält. Sie
-  können abgehalten werden, um Ankündigungen zu machen, Urteile zu fällen oder
-  um Zeremonien durchzuführen. Manchmal werden sie auch abgehalten, um Rat zu
-  suchen oder Informationen zu sammeln.
+  In [roten Organisationen](../red-organizations/) werden Versammlungen abgehalten, wenn der Geschäftsführer oder Boss sie für notwendig hält. Sie können abgehalten werden, um Ankündigungen zu machen, Urteile zu fällen oder um Zeremonien durchzuführen. Manchmal werden sie auch abgehalten, um Rat zu suchen oder Informationen zu sammeln.
 
 
-  ### Bernstein Organisationen
+  ### Bernstein-Organisationen
 
 
-  In [bernstein
-  Organisationen](https://reinventingorganizations-wiki.netlify.app/theory/ambe\
-  r-paradigm-and-organizations/) sind Meetings eine wichtige Methode der
-  hierarchischen Steuerung. Sie dienen dazu, Informationen zu sammeln, zu
-  destillieren und nach oben und unten in der Organisation weiterzugeben. Die
-  ranghöchste Person hat das Sagen. Es obliegt den anderen, sich bereit zu
-  halten, um bei Bedarf Informationen zu berichten oder Antworten zu geben.  \ 
+  In [bernsteinfarbenen Organisationen](https://reinventingorganizations-wiki.netlify.app/theory/amber-paradigm-and-organizations/) sind Meetings eine wichtige Methode der hierarchischen Steuerung. Sie dienen dazu, Informationen zu sammeln, zu destillieren und nach oben und unten in der Organisation weiterzugeben. Die ranghöchste Person hat das Sagen. Es obliegt den anderen, sich bereit zu halten, um bei Bedarf Informationen zu berichten oder Antworten zu geben.   
 
 
   ### Orange Organisationen
 
 
-  [Orange
-  Organisationen](https://reinventingorganizations-wiki.netlify.app/theory/oran\
-  ge-paradigm-and-organizations/) verwalten die Leistung sorgfältig, um
-  sicherzustellen, dass die Ziele und Vorgaben erreicht werden. Dies erfordert
-  regelmäßige (wöchentliche/monatliche/quartalsweise/jährliche) Besprechungen
-  auf den meisten Ebenen der Organisation.
+  [Orange Organisationen](https://reinventingorganizations-wiki.netlify.app/theory/orange-paradigm-and-organizations/) verwalten die Leistung sorgfältig, um sicherzustellen, dass die Ziele und Vorgaben erreicht werden. Dies erfordert regelmäßige (wöchentliche/monatliche/quartalsweise/jährliche) Besprechungen auf den meisten Ebenen der Organisation.
 
 
   Meetings werden aus vielen Gründen abgehalten:
 
 
-  \r
+  * Berichterstattung über den Fortschritt und Treffen von Entscheidungen. 
 
-  \r
+  * Planen
 
-  * Berichterstattung über den Fortschritt und Treffen von Entscheidungen. \r
+  * Um durch Brainstorming und andere kreative Prozesse innovativ zu sein.
 
-  * Planen\r
-
-  * Um durch Brainstorming und andere kreative Prozesse innovativ zu sein.\r
-
-  * Einholen von Genehmigungen für Investitionen und andere wichtige
-  Entscheidungen\r
+  * Einholen von Genehmigungen für Investitionen und andere wichtige Entscheidungen
 
   * Festlegen von Prioritäten und so weiter.
 
 
-  Da diese Meetings immer mehr zunehmen, werden sie zum
-  \"Terminkalenderfüller\" für vielbeschäftigte leitende Angestellte. Bis vor
-  relativ kurzer Zeit bedeutete dies für einige der bei internationalen
-  Organisationen Beschäftigten oft eine erhebliche Reisetätigkeit.
+  Da diese Meetings immer mehr zunehmen, werden sie zum "Terminkalenderfüller" für vielbeschäftigte leitende Angestellte. Bis vor relativ kurzer Zeit bedeutete dies für einige der bei internationalen Organisationen Beschäftigten oft eine erhebliche Reisetätigkeit.
 
 
-  Meetings haben oft vordefinierte Tagesordnungen mit der Absicht, klare
-  Ergebnisse zu erzielen. Rationale Diskussionen und logische Argumente werden
-  geschätzt. Persönliche Interessen sind jedoch nie weit von der Oberfläche
-  entfernt und haben das Potenzial, die organisatorischen Ziele zu untergraben.
+  Meetings haben oft vordefinierte Tagesordnungen mit der Absicht, klare Ergebnisse zu erzielen. Rationale Diskussionen und logische Argumente werden geschätzt. Persönliche Interessen sind jedoch nie weit von der Oberfläche entfernt und haben das Potenzial, die organisatorischen Ziele zu untergraben.
 
 
   ### Grüne Organisationen
 
 
-  In [grünen Organisationen](../green-paradigm-and-organizations/)zielen Sie
-  darauf ab, mehreren Interessengruppen mit Gleichheit, Respekt und Einbeziehung
-  zu dienen. Dies erfordert, sich mit ihnen zu treffen. Konsens wird geschätzt,
-  kann aber zermürbend sein, um ihn zu erreichen.
+  In [grünen Organisationen](../green-paradigm-and-organizations/)zielen Sie darauf ab, mehreren Interessengruppen mit Gleichheit, Respekt und Einbeziehung zu dienen. Dies erfordert, sich mit ihnen zu treffen. Konsens wird geschätzt, kann aber zermürbend sein, um ihn zu erreichen.
 
 
-  Bei Meetings geht es nicht nur um Planung und Berichterstattung (wie in
-  orangen Organisationen), sondern auch um die Aufrechterhaltung eines Gefühls
-  von Eigenverantwortung, Einbeziehung und Befähigung: mit anderen Worten, um
-  die Schaffung einer wertebasierten Kultur. Infolgedessen sind die
-  Meeting-Praktiken tendenziell aufmerksamer gegenüber den zugrunde liegenden
-  Prozessen innerhalb der Gruppe.
+  Bei Meetings geht es nicht nur um Planung und Berichterstattung (wie in orangen Organisationen), sondern auch um die Aufrechterhaltung eines Gefühls von Eigenverantwortung, Einbeziehung und Befähigung: mit anderen Worten, um die Schaffung einer wertebasierten Kultur. Infolgedessen sind die Meeting-Praktiken tendenziell aufmerksamer gegenüber den zugrunde liegenden Prozessen innerhalb der Gruppe.
 
 
   ### Teal-Organisationen
 
 
-  Die [Selbstorganisation](../self-management/) erlaubt es den Mitgliedern von
-  [Teal-Organisationen](../teal-paradigm-and-organizations/) die Verantwortung
-  für Entscheidungen zu übernehmen, ohne dass eine Genehmigung oder ein Konsens
-  erforderlich ist. Infolgedessen sind in der Regel weit weniger Treffen
-  erforderlich.
+  Die [Selbstorganisation](../self-management/) erlaubt es den Mitgliedern von [Teal-Organisationen](../teal-paradigm-and-organizations/) die Verantwortung für Entscheidungen zu übernehmen, ohne dass eine Genehmigung oder ein Konsens erforderlich ist. Infolgedessen sind in der Regel weit weniger Treffen erforderlich.
 
 
-  Besprechungen werden in der Regel nur dann abgehalten, wenn sie notwendig
-  sind. Zu den Gründen gehören:
+  Besprechungen werden in der Regel nur dann abgehalten, wenn sie notwendig sind. Zu den Gründen gehören:
 
 
-  \r
+  * Einholung von Ratschlägen, wenn dies im Rahmen des Beratungsprozesses erforderlich ist
 
-  \r
-
-  * Einholung von Ratschlägen, wenn dies im Rahmen des Beratungsprozesses
-  erforderlich ist\r
-
-  * Austausch von Informationen\r
+  * Austausch von Informationen
 
   * Reagieren auf veränderte Umstände
 
 
-  Besprechungen beinhalten in der Regel bestimmte Praktiken, um
-  sicherzustellen, dass sich die Mitglieder auf eine respektvolle und produktive
-  Weise miteinander und mit dem Zweck der Besprechung auseinandersetzen. Neue
-  Mitglieder werden in der Regel in diesen Prozessen geschult, damit sie
-  vollständig teilnehmen können.\r"
+  Besprechungen beinhalten in der Regel bestimmte Praktiken, um sicherzustellen, dass sich die Mitglieder auf eine respektvolle und produktive Weise miteinander und mit dem Zweck der Besprechung auseinandersetzen. Neue Mitglieder werden in der Regel in diesen Prozessen geschult, damit sie vollständig teilnehmen können.
 inPractice: "#### *Die Aktivität von Meetings ist begrenzt und entsteht aus dem
   \"Bedürfnis, sich zu treffen\".*
 
