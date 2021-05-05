@@ -66,7 +66,7 @@ perspective: >-
   #### Orange Organisationen
 
 
-  Grundlegende Annahmen aus einer [orangenen Perspektive](../orange-paradigm-and-organizations/) sind:
+  Grundlegende Annahmen aus einer [orangen Perspektive](../orange-paradigm-and-organizations/) sind:
 
 
   * Die Welt ist voll von Möglichkeiten und Herausforderungen, die darauf warten, entdeckt und angenommen zu werden. Wenn man klug ist und hart genug arbeitet, kann man alle Vorteile eines hohen Status haben. Wenn man es nicht schafft, ist es die eigene Schuld.
