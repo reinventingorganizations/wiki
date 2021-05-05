@@ -62,7 +62,7 @@ perspective: >-
   ### Grüne Organisationen
 
 
-  In [grünen Organisationen](../green-paradigm-and-organizations/)zielen Sie darauf ab, mehreren Interessengruppen mit Gleichheit, Respekt und Einbeziehung zu dienen. Dies erfordert, sich mit ihnen zu treffen. Konsens wird geschätzt, kann aber zermürbend sein, um ihn zu erreichen.
+  In [grünen Organisationen](../green-paradigm-and-organizations/) zielen Sie darauf ab, mehreren Interessengruppen mit Gleichheit, Respekt und Einbeziehung zu dienen. Dies erfordert, sich mit ihnen zu treffen. Konsens wird geschätzt, kann aber zermürbend sein, um ihn zu erreichen.
 
 
   Bei Meetings geht es nicht nur um Planung und Berichterstattung (wie in orangen Organisationen), sondern auch um die Aufrechterhaltung eines Gefühls von Eigenverantwortung, Einbeziehung und Befähigung: mit anderen Worten, um die Schaffung einer wertebasierten Kultur. Infolgedessen sind die Meeting-Praktiken tendenziell aufmerksamer gegenüber den zugrunde liegenden Prozessen innerhalb der Gruppe.
