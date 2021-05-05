@@ -85,141 +85,71 @@ perspective: >-
 
 
   Besprechungen beinhalten in der Regel bestimmte Praktiken, um sicherzustellen, dass sich die Mitglieder auf eine respektvolle und produktive Weise miteinander und mit dem Zweck der Besprechung auseinandersetzen. Neue Mitglieder werden in der Regel in diesen Prozessen geschult, damit sie vollständig teilnehmen können.
-inPractice: "#### *Die Aktivität von Meetings ist begrenzt und entsteht aus dem
-  \"Bedürfnis, sich zu treffen\".*
+inPractice: >-
+  #### *Die Aktivität von Meetings ist begrenzt und entsteht aus dem "Bedürfnis,
+  sich zu treffen".*
 
 
-  Meetings können spontan entstehen, wenn ein Mitglied der Organisation ein
-  Bedürfnis verspürt und die Initiative ergreift.  Meeting-Strukturen und
-  Moderation unterstützen diesen [selbstorganisierenden](../self-management/)
-  Geist. Die erhöhte Transparenz in Teal-Organisationen reduziert die Anzahl und
-  Länge einiger Meetings. Wenn Meetings abgehalten werden, wird darauf geachtet,
-  bestimmte Praktiken zu verwenden, die ein Gefühl der
-  [Ganzheitlichkeit](../wholeness/) fördern.
+  Meetings können spontan entstehen, wenn ein Mitglied der Organisation ein Bedürfnis verspürt und die Initiative ergreift.  Meeting-Strukturen und Moderation unterstützen diesen [selbstorganisierenden](../self-management/) Geist. Die erhöhte Transparenz in Teal-Organisationen reduziert die Anzahl und Länge einiger Meetings. Wenn Meetings abgehalten werden, wird darauf geachtet, bestimmte Praktiken zu verwenden, die ein Gefühl der [Ganzheitlichkeit](../wholeness/) fördern.
 
 
   #### *Selbstmanagement erfordert deutlich weniger Meetings*
 
 
-  \r
-
-  \r
-
-  Insgesamt gibt es tendenziell weniger Meetings in
-  [Teal-Organisationen](../teal-paradigm-and-organizations/). In einer
-  traditionellen Pyramidenstruktur werden Meetings benötigt, um Informationen zu
-  sammeln, zu verpacken, zu filtern und weiterzuleiten, während sie die
-  Befehlskette auf und ab fließen.  In selbstverwaltenden Strukturen fällt die
-  Notwendigkeit für viele dieser Meetings weg. Während in [grünen
-  Organisationen](../green-paradigm-and-organizations/) Meetings ein Weg sein
-  können, eine \"Bottom-up\"-Beteiligung aufzubauen, ist dies in einer
-  selbstverwalteten Struktur bereits \"eingebaut\".
+  Insgesamt gibt es tendenziell weniger Meetings in [Teal-Organisationen](../teal-paradigm-and-organizations/). In einer traditionellen Pyramidenstruktur werden Meetings benötigt, um Informationen zu sammeln, zu verpacken, zu filtern und weiterzuleiten, während sie die Befehlskette auf und ab fließen.  In selbstverwaltenden Strukturen fällt die Notwendigkeit für viele dieser Meetings weg. Während in [grünen Organisationen](../green-paradigm-and-organizations/) Meetings ein Weg sein können, eine "Bottom-up"-Beteiligung aufzubauen, ist diese in einer selbstverwalteten Struktur bereits "eingebaut".
 
 
   #### *Regelmäßige Besprechungen auf der Ebene des operativen Teams/Zirkels*
 
 
-  \r
-
-  \r
-
-  \r
-
-  \r
-
-  Die Häufigkeit der Team-/Kreissitzungen wird durch die Art der Arbeit
-  bestimmt.
+  Die Häufigkeit der Team-/Kreissitzungen wird durch die Art der Arbeit bestimmt.
 
 
-  Siehe FAVI, unten.\ 
+  Siehe FAVI, unten. 
 
 
   #### *Agendas*
 
 
-  \r
-
-  \r
-
-  Traditionell gelten Tagesordnungen als die Mindestdisziplin für ein
-  produktives Meeting. Aber nicht unbedingt an einem Teal-Arbeitsplatz. Viele
-  ihrer geplanten Meetings haben keine vorher festgelegte Tagesordnung. Vielmehr
-  wird eine zu Beginn festgelegt und basiert auf den Themen, die zu diesem
-  Zeitpunkt Energie für die Teilnehmer bereithalten. Dies stellt sicher, dass
-  die Meetings angeregt, zielgerichtet und fesselnd bleiben. Das Interesse ist
-  ein echtes und gegenwärtiges Interesse; es wird nicht durch einen
-  ritualisierten Ansatz hergestellt.\ 
+  Traditionell gelten Tagesordnungen als die Mindestdisziplin für ein produktives Meeting. Aber nicht unbedingt an einem Teal-Arbeitsplatz. Viele ihrer geplanten Meetings haben keine vorher festgelegte Tagesordnung. Vielmehr wird diese zu Beginn festgelegt und basiert auf den Themen, die zu diesem Zeitpunkt Energie für die Teilnehmer bereithalten. Dies stellt sicher, dass die Meetings angeregt, zielgerichtet und fesselnd bleiben. Das Interesse ist ein echtes und gegenwärtiges Interesse; es wird nicht durch einen ritualisierten Ansatz hergestellt. 
 
 
   #### *All-Hands-Meetings*
 
 
-  \r
-
-  \r
-
-  All-Hands-Meetings können anberaumt werden, wenn es eine neue und wichtige
-  Information zu teilen gibt: Quartalsergebnisse, die jährliche Werteumfrage,
-  ein strategischer Wendepunkt und so weiter. Die Informationen werden nicht
-  einfach von oben nach unten \"präsentiert\" - sie werden diskutiert und
-  debattiert. Fragen können das Meeting in jede Richtung lenken; Frustrationen
-  können abgelassen werden; Erfolge werden spontan gefeiert. Es ist mehr im
-  Spiel als nur Informationsaustausch. Das Vertrauen in die Organisation und
-  ihre Werte wird getestet und bekräftigt. Werden die leitenden Mitarbeiter
-  offen, bescheiden und verletzlich sein? Werden sie sich den schwierigen Fragen
-  stellen? Werden sie die ganze Gruppe einbeziehen?
+  All-Hands-Meetings können anberaumt werden, wenn es eine neue und wichtige Information zu teilen gibt: Quartalsergebnisse, die jährliche Werteumfrage, ein strategischer Wendepunkt und so weiter. Die Informationen werden nicht einfach von oben nach unten "präsentiert" - sie werden diskutiert und debattiert. Fragen können das Meeting in jede Richtung lenken; Frustrationen können abgelassen werden; Erfolge werden spontan gefeiert. Es ist mehr im Spiel als nur Informationsaustausch. Das Vertrauen in die Organisation und ihre Werte wird getestet und bekräftigt. Werden die leitenden Mitarbeiter offen, bescheiden und verletzlich sein? Werden sie sich den schwierigen Fragen stellen? Werden sie die ganze Gruppe einbeziehen?
 
 
-  \r
-
-  \r
-
-  Im Gegensatz dazu sind All-Hands-Meetings in traditionellen Unternehmen eher
-  präsentationsorientiert - oder werden aufgrund ihrer Unvorhersehbarkeit und
-  ihres Risikos vermieden.
+  Im Gegensatz dazu sind All-Hands-Meetings in traditionellen Unternehmen eher präsentationsorientiert - oder werden aufgrund ihrer Unvorhersehbarkeit und ihres Risikos vermieden.
 
 
   #### *Die Form folgt der Funktion: Meetings entstehen ad hoc*.
 
 
-  \r
-
-  \r
-
-  Meetings, die benötigt werden, um teamübergreifende Aufgaben zu koordinieren
-  oder spezielle Projekte zu starten, entstehen spontan. Das ist eine organische
-  Art der Organisation.
+  Meetings, die benötigt werden, um teamübergreifende Aufgaben zu koordinieren oder spezielle Projekte zu starten, entstehen spontan. Das ist eine organische Art der Organisation.
 
 
   #### *Eine Vielzahl von Besprechungsformaten für unterschiedliche Zwecke*
 
 
-  \r
+  Beispiele sind:
 
-  \r
 
-  Beispiele sind:\r
+  * Team [Entscheidungsfindung](../decision-making/) (Meetings bei [Buurtzorg](http://www.buurtzorgnederland.com/))
 
-  \r
+  * Holokratische Führung vs. taktische (Meetings bei [HolocracyOne ](http://www.holacracy.org/))
 
-  * Team [Entscheidungsfindung](../decision-making/) (Meetings bei
-  [Buurtzorg](http://www.buurtzorgnederland.com/))\r
+  * [On-Boarding](../onboarding/)-Besprechungen/Abschiedsbesprechungen wie bei [CC&R ](http://www.couragerenewal.org/)
 
-  * Holokratische Führung vs. taktische (Meetings bei [HolocracyOne
-  ](http://www.holacracy.org/))\r
+  * Beurteilungs-Meetings
 
-  * [On-Boarding](../onboarding/)-Besprechungen/Abschiedsbesprechungen wie bei
-  [CC&R ](http://www.couragerenewal.org/)\r
+  * [Konfliktlösungs](../conflict-resolution/)-Meetings
 
-  * Beurteilungs-Meetings\r
+  * [Zuhören zum Zweck](../listening-to-purpose/)-Meetings
 
-  * [Konfliktlösungs](../conflict-resolution/)-Meetings\r
+  * Großgruppenreflexionen auf [Heiligenfeld](http://www.heiligenfeld.de/)
 
-  * [Zuhören zum Zweck](../listening-to-purpose/)-Meetings\r
-
-  * Großgruppenreflexionen auf [Heiligenfeld](http://www.heiligenfeld.de/)\r
-
-  * [Kultur/Werte](../culture-and-values/)-Treffen\r
+  * [Kultur/Werte](../culture-and-values/)-Treffen
 
   * Lobpreis-Treffen im [ESBZ](http://www.ev-schule-zentrum.de/aktuell/)
 
@@ -227,83 +157,34 @@ inPractice: "#### *Die Aktivität von Meetings ist begrenzt und entsteht aus dem
   #### Hervorhebung des Gefühls der Ganzheitlichkeit und des Zwecks
 
 
-  \r
-
-  \r
-
-  Meetings bringen das Beste und das Schlechteste der menschlichen Natur zum
-  Vorschein.
+  Meetings bringen das Beste und das Schlechteste der menschlichen Natur zum Vorschein.
 
 
-  \r
-
-  \r
-
-  Im besten Fall sind sie Orte, an denen andere uns helfen, in das
-  hineinzuhören, was uns wirklich am Herzen liegt. Aber Meetings können auch
-  Spielwiese für Egos sein. Um sich sicher zu fühlen, versuchen manche, das
-  Geschehen zu dominieren. Andere ziehen sich zurück. In selbstverwalteten
-  Organisationen nimmt die Abwesenheit eines Chefs einige dieser Ängste aus dem
-  Raum. Aber in einer Gruppe von Gleichaltrigen können Egos genauso gut
-  dominieren. Eine Vielzahl von Ansätzen unterstützt produktive Interaktionen,
-  die mit [Ganzheitlichkeit](/wholholholess/) und
-  [Zweck](../listening-to-purpose/) übereinstimmen.
+  Im besten Fall sind sie Orte, an denen andere uns helfen, in das hineinzuhören, was uns wirklich am Herzen liegt. Aber Meetings können auch Spielwiese für Egos sein. Um sich sicher zu fühlen, versuchen manche, das Geschehen zu dominieren. Andere ziehen sich zurück. In selbstverwalteten Organisationen nimmt die Abwesenheit eines Chefs einige dieser Ängste aus dem Raum. Aber in einer Gruppe von Gleichaltrigen können Egos genauso gut dominieren. Eine Vielzahl von Ansätzen unterstützt produktive Interaktionen, die mit [Ganzheitlichkeit](/wholholholess/) und [Zweck](../listening-to-purpose/) übereinstimmen.
 
 
   #### Schulung in Meeting-Praktiken
 
 
-  \r
-
-  \r
-
-  Einige schulen neue Mitglieder in effektiven Besprechungsformaten. Neue
-  Mitglieder müssen sich wohlfühlen, um an Entscheidungsprozessen teilnehmen zu
-  können.
+  Einige schulen neue Mitglieder in effektiven Besprechungsformaten. Neue Mitglieder müssen sich wohlfühlen, um an Entscheidungsprozessen teilnehmen zu können.
 
 
-  \r
-
-  \r
-
-  Schulungen in Moderation, Kommunikationsfähigkeiten und Denkweisen
-  unterstützen Kollegialität, Vertrauensbildung und die Lösung von Spannungen.
+  Schulungen in Moderation, Kommunikationsfähigkeiten und Denkweisen unterstützen Kollegialität, Vertrauensbildung und die Lösung von Spannungen.
 
 
   #### Am richtigen Ort beginnen
 
 
-  \r
-
-  \r
-
-  Der Beginn eines Meetings bestimmt die Stimmung. In
-  [Teal-Organisationen](../teal-paradigm-and-organizations/)können die folgenden
-  Praktiken verwendet werden:
+  Der Beginn eines Meetings bestimmt die Stimmung. In [Teal-Organisationen](../teal-paradigm-and-organizations/)können die folgenden Praktiken verwendet werden:
 
 
-  \r
+  * Eine weit verbreitete Praxis ist es, mit einer "Check-in"-Runde zu beginnen. Die Teilnehmer teilen mit, wie sie sich im Moment fühlen, wenn sie eintreten. Das hilft allen, in sich hineinzuhören, auf ihren Körper und ihre Empfindungen zu hören und Bewusstsein zu entwickeln. Eine Emotion zu benennen ist oft alles, was es braucht, um mit ihr umzugehen. So hilft diese Übung den Teilnehmern, Ablenkungen loszulassen, während sie jeden dabei unterstützt, für das aktuelle Meeting präsent zu sein. 
 
-  \r
+  * Oder jedes Meeting beginnt mit einer Schweigeminute, um die Menschen im Moment zu erden. 
 
-  * Eine weit verbreitete Praxis ist es, mit einer \"Check-in\"-Runde zu
-  beginnen. Die Teilnehmer teilen mit, wie sie sich im Moment fühlen, wenn sie
-  eintreten. Das hilft allen, in sich hineinzuhören, auf ihren Körper und ihre
-  Empfindungen zu hören und Bewusstsein zu entwickeln. Eine Emotion zu benennen
-  ist oft alles, was es braucht, um mit ihr umzugehen. So hilft diese Übung den
-  Teilnehmern, Ablenkungen loszulassen, während sie jeden dabei unterstützt, für
-  das aktuelle Meeting präsent zu sein. \r
+  * Meetings können mit einer kurzen Lesung beginnen, die eine Person vorbereitet hat. Nach ein paar Momenten der Stille teilen die Teilnehmer die Gedanken mit, die dies ausgelöst hat.  
 
-  * Oder jedes Meeting beginnt mit einer Schweigeminute, um die Menschen im
-  Moment zu erden. \r
-
-  * Meetings können mit einer kurzen Lesung beginnen, die eine Person
-  vorbereitet hat. Nach ein paar Momenten der Stille teilen die Teilnehmer die
-  Gedanken mit, die dies ausgelöst hat.  \r
-
-  * Eine andere Praxis ist, jedes Treffen damit zu beginnen, dass alle eine
-  kurze Geschichte von jemandem erzählen, dem sie kürzlich gedankt haben. Das
-  hebt Möglichkeiten, Dankbarkeit, Feiern und Vertrauen hervor.  \r
+  * Eine andere Praxis ist, jedes Treffen damit zu beginnen, dass alle eine kurze Geschichte von jemandem erzählen, dem sie kürzlich gedankt haben. Das hebt Möglichkeiten, Dankbarkeit, Feiern und Vertrauen hervor.  
 
   * Eine weitere Variante ist eine Schweigeminute und/oder ein Witz.
 
@@ -311,64 +192,29 @@ inPractice: "#### *Die Aktivität von Meetings ist begrenzt und entsteht aus dem
   #### Auf der Spur bleiben
 
 
-  \r
-
-  \r
-
   Zusätzliche Übungen, um Absicht und Aufmerksamkeit in der Sitzung zu halten:
 
 
-  \r
+  * Ein Freiwilliger hält ein Paar Tingsha-Glocken (zwei kleine Handzimbeln, die einen kristallartigen Klang erzeugen können). Wenn die Halterin das Gefühl hat, dass Grundregeln nicht respektiert werden, kann sie die Zimbeln zum Singen bringen. Niemand darf sprechen, bis der Klang der Zimbeln verklungen ist. Während der Stille können alle über die Frage nachdenken: "Bin ich dem Thema, das wir gerade besprechen, dienlich?"  
 
-  \r
+  * Einige verwenden einen "Redestab" oder ein anderes Artefakt, um das Abwechseln zu regeln, die Geschwindigkeit der Unterhaltung zu verlangsamen und die Qualität des Zuhörens zu erhöhen. 
 
-  * Ein Freiwilliger hält ein Paar Tingsha-Glocken (zwei kleine Handzimbeln,
-  die einen kristallartigen Klang erzeugen können). Wenn die Halterin das Gefühl
-  hat, dass Grundregeln nicht respektiert werden, kann sie die Zimbeln zum
-  Singen bringen. Niemand darf sprechen, bis der Klang der Zimbeln verklungen
-  ist. Während der Stille können alle über die Frage nachdenken: \"Bin ich dem
-  Thema, das wir gerade besprechen, dienlich?\"  \r
-
-  * Einige verwenden einen \"Redestab\" oder ein anderes Artefakt, um das
-  Abwechseln zu regeln, die Geschwindigkeit der Unterhaltung zu verlangsamen und
-  die Qualität des Zuhörens zu erhöhen. \r
-
-  * Ein Moderator kann eingesetzt werden, wenn es bestimmte Anforderungen zu
-  erfüllen gibt. Dies kann in manchen Fällen ein externer Moderator sein.\ 
+  * Ein Moderator kann eingesetzt werden, wenn es bestimmte Anforderungen zu erfüllen gibt. Dies kann in manchen Fällen ein externer Moderator sein. 
 
 
   #### Beendigung von Meetings
 
 
-  \r
-
-  \r
-
-  Check-out-Runden am Ende des Meetings sind eine natürliche Ergänzung zur
-  anfänglichen Check-in-Runde. Sie hinterlassen bei allen ein Gefühl für die
-  Wirkung des Meetings. Ein Moment der Stille ist eine weitere Möglichkeit, um
-  zu reflektieren und abzuschließen.\ 
+  Check-out-Runden am Ende des Meetings sind eine natürliche Ergänzung zur anfänglichen Check-in-Runde. Sie hinterlassen bei allen ein Gefühl für die Wirkung des Meetings. Ein Moment der Stille ist eine weitere Möglichkeit, um zu reflektieren und abzuschließen. 
 
 
   #### Meeting-Transparenz/offene Teilnahme
 
 
-  \r
+  Anstehende Meetings können im Intranet aufgelistet werden. So kann jeder, der Bedenken oder Ideen mitteilen möchte, daran teilnehmen.  Diese Transparenz kann sich über Streaming im Internet auch auf Außenstehende erstrecken. Einige behaupten, dass diese Transparenz zu engeren Beziehungen mit ihren externen Partnern führt.
 
-  \r
 
-  Anstehende Meetings können im Intranet aufgelistet werden. So kann jeder,
-  der Bedenken oder Ideen mitteilen möchte, daran teilnehmen.  Diese Transparenz
-  kann sich über Streaming im Internet auch auf Außenstehende erstrecken. Einige
-  behaupten, dass diese Transparenz zu engeren Beziehungen mit ihren externen
-  Partnern führt.\r
-
-  \r
-
-  Besprechungskulturen in
-  [Teal-Organisationen](../teal-paradigm-and-organizations/)haben einige der
-  \"alternativen Besprechungsformate\" wie Open Space, Art of Hosting, World
-  Café usw. übernommen."
+  Besprechungskulturen in [Teal-Organisationen](../teal-paradigm-and-organizations/)haben einige der "alternativen Besprechungsformate" wie Open Space, Art of Hosting, World Café usw. übernommen.
 faq:
   - question: Führt der Beratungsprozess nicht eher zu mehr als zu weniger Meetings?
     answer: "Sich mit anderen zu beraten, statt einseitige Entscheidungen zu
