@@ -36,7 +36,7 @@ perspective: >-
   #### **Bernstein Organisationen**
 
 
-  Das [Bernstein-Paradigma](../amber-paradigm-and-organizations/) hat formalisierte Rollen innerhalb einer hierarchischen Pyramidenstruktur und Top-Down-Befehl und Kontrolle (was und wie). Stabilität wird über alles geschätzt und wird durch klar definierte Rollen und Prozesse aufrechterhalten.
+  Das [ bernsteinfarbene Paradigma](../amber-paradigm-and-organizations/) hat formalisierte Rollen innerhalb einer hierarchischen Pyramidenstruktur und Top-Down-Befehl und Kontrolle (was und wie). Stabilität wird über alles geschätzt und wird durch klar definierte Rollen und Prozesse aufrechterhalten.
 
 
   Zu den Methoden zur Konfliktbewältigung gehören Vermeidung oder Unterdrückung. Regeln werden von denjenigen mit Autorität auferlegt und können durch rechtliche Schritte durchgesetzt werden. Diese Arten von Organisationen haben starke HR-Prozesse für den Umgang mit Konflikten und Beschwerden zwischen Arbeitnehmer und Arbeitgeber.
