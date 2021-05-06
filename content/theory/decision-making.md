@@ -33,7 +33,7 @@ perspective: >-
   #### Bernstein Organisationen
 
 
-  Im [ Bernstein-Paradigma] (../amber-paradigm-and-organizations/) wird die Entscheidungsbefugnis durch den Status einer Person in der Hierarchie bestimmt. Innovation wird nicht besonders geschätzt; das Befolgen von Standardarbeitsanweisungen schon. Eine klare Befehlskette, unterstützt durch formale Prozesse, definiert, wer was tun darf. Von Einzelpersonen wird erwartet, dass sie diese Prozesse und Traditionen übernehmen.
+  Im [ bernsteinfarbenen Paradigma] (../amber-paradigm-and-organizations/) wird die Entscheidungsbefugnis durch den Status einer Person in der Hierarchie bestimmt. Innovation wird nicht besonders geschätzt; das Befolgen von Standardarbeitsanweisungen schon. Eine klare Befehlskette, unterstützt durch formale Prozesse, definiert, wer was tun darf. Von Einzelpersonen wird erwartet, dass sie diese Prozesse und Traditionen übernehmen.
 
 
 
