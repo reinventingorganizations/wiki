@@ -100,7 +100,7 @@ inPractice: "**Eine Organisationskultur, die eine effektive Konfliktlösung
   von Werten festzulegen und diese Werte in konkrete Verhaltensweisen zu
   übersetzen, die in der Gemeinschaft der Kollegen entweder gefördert oder für
   inakzeptabel erklärt werden. Viele Teal-Organisationen führen auch bestimmte
-  Meeting-Praktiken ein, um den Teilnehmern zu helfen, von einem Ort der
+  Meeting-Praktiken ein, um den Teilnehmerinnen zu helfen, von einem Ort der
   Ganzheitlichkeit aus miteinander zu interagieren, ihre Egos im Zaum zu halten
   und sicherzustellen, dass die Stimme eines jeden gehört wird. Dies kann z.B.
   dadurch geschehen, dass ein Meeting mit einer Schweigeminute beginnt, mit
@@ -118,7 +118,7 @@ inPractice: "**Eine Organisationskultur, die eine effektive Konfliktlösung
   Organisationen werden Meinungsverschiedenheiten unter Gleichrangigen geklärt,
   oft unter Verwendung eines Konfliktlösungsprozesses. Peers ziehen sich
   gegenseitig für ihre gegenseitigen Verpflichtungen und Verantwortlichkeiten
-  zur Rechenschaft. Kollegen auf diese Weise zur Rechenschaft zu ziehen, kann
+  zur Rechenschaft. Kolleginnen auf diese Weise zur Rechenschaft zu ziehen, kann
   sich unangenehm anfühlen. Daher bieten Teal-Organisationen manchmal
   Unterstützung und Praktiken an, die Offenheit und emotionale Intelligenz
   fördern, um sich zu entwickeln. Im Großen und Ganzen gibt es drei Arten von
@@ -139,7 +139,7 @@ inPractice: "**Eine Organisationskultur, die eine effektive Konfliktlösung
   ##### ***Spannungen an die Oberfläche bringen***
 
 
-  Es kann schwer für jemanden sein, zu einem Kollegen aufzustehen und zu
+  Es kann schwer für jemanden sein, zu einer Kollegin aufzustehen und zu
   sagen: \"Wir müssen reden.\". Zu den Prozessen, die von einigen Organisationen
   verwendet werden, gehören regelmäßig geplante Gruppentreffen, Firmenklausuren,
   Zweckkreise und Wertetage. Das Sichtbarmachen wird zu einer Möglichkeit,
