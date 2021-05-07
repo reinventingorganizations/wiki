@@ -194,7 +194,7 @@ inPractice: "### Der Beratungsprozess
   Da der Beratungsprozess die Einholung von Ratschlägen von denjenigen
   beinhaltet, die von einer Entscheidung betroffen sind, folgt daraus natürlich,
   dass je größer die Entscheidung ist, desto breiter muss das Netz ausgeworfen
-  werden - einschließlich, falls diese Rollen existieren, des CEO oder des
+  werden - einschließlich, falls diese Rollen existieren, der Chefin oder des
   Vorstands.
 
 
@@ -216,7 +216,7 @@ inPractice: "### Der Beratungsprozess
   stattfinden.
 
 
-  * Der Entscheidungsträger kann einen Vorschlag im Unternehmensblog
+  * Die Entscheidungsträgerin kann einen Vorschlag im Unternehmensblog
   veröffentlichen und zu Kommentaren aufrufen oder zu E-Mail-Antworten
   auffordern und dann die erhaltenen Ratschläge verarbeiten.\r
 
