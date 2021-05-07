@@ -257,17 +257,17 @@ faq:
       \r
 
 
-      Zuerst bittet er/sie den Personalleiter, einen Vorschlag zu
-      erstellen, der dann jemanden, der jünger ist, bittet, \"die
-      Personalarbeit\" zu machen. Der Junior entwirft einen Vorschlag, zeigt ihn
-      vielleicht einem Kollegen und überarbeitet ihn entsprechend. Dann geht der
-      Head of HR den Entwurf durch und schlägt weitere Verfeinerungen vor, bevor
-      er ein Treffen mit dem CEO vereinbart, der weitere Änderungen vornehmen
-      kann. Dann geht es an den Vorstand...und so weiter...Sie wollen weitere
+      Zuerst bittet sie den Personalleiter, einen Vorschlag zu erstellen,
+      der dann jemanden, der jünger ist, bittet, \"die Personalarbeit\" zu
+      machen. Der Junior entwirft einen Vorschlag, zeigt ihn vielleicht einer
+      Kollegin und überarbeitet ihn entsprechend. Dann geht der Head of HR den
+      Entwurf durch und schlägt weitere Verfeinerungen vor, bevor er ein Treffen
+      mit der Chefin vereinbart, die weitere Änderungen vornehmen kann. Dann
+      geht es an den Vorstand...und so weiter...Sie wollen weitere
       Überarbeitungen, und es geht wieder die Linie hinunter, und wieder
       hinauf... Es kann nun politisch werden, was eine weitere Ebene von
       Komplikationen mit sich bringt. Wenn es nun genehmigt ist, arbeitet jemand
-      in der internen Kommunikation daran und zeigt es dem CEO, wieder.
+      in der internen Kommunikation daran und zeigt es der Chefin, wieder.
       Schließlich wird es zu den Managern kaskadiert, die Präsentationen
       vorbereiten, um ein Team-Meeting zu machen. Die Gesamtzahl der Meetings,
       die in eine solche Entscheidung einfließen können, ist enorm."
