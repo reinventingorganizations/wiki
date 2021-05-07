@@ -189,7 +189,7 @@ inPractice: "**Eine Organisationskultur, die eine effektive Konfliktlösung
   versuchen, das Problem unter vier Augen zu lösen. \r
 
   * Wenn sie keine Lösung finden, die für beide akzeptabel ist, ernennen sie
-  einen Kollegen, dem sie beide vertrauen, zum Mediator. Der Mediator drängt
+  eine Kollegin, dem sie beide vertrauen, zur Mediatorin. Die Mediatorin drängt
   keine Entscheidung auf. Vielmehr unterstützt er die Beteiligten dabei, eine
   eigene Lösung zu finden. \r
 
@@ -217,7 +217,7 @@ inPractice: "**Eine Organisationskultur, die eine effektive Konfliktlösung
 faq:
   - question: Wenn so viel Zeit damit verbracht wird, jeden Konflikt
       durchzusprechen, wann wird dann die Arbeit erledigt?
-    answer: Konflikte in Zusammenarbeit zu lösen, ohne dass ein Chef eine Lösung
+    answer: Konflikte in Zusammenarbeit zu lösen, ohne dass eine Chefin eine Lösung
       vorgibt, kann Zeit brauchen. Die Struktur von Teal-Organisationen, in
       denen den Mitarbeitern vertraut wird, dass sie Entscheidungen gemeinsam
       aus einem Gefühl der Ganzheitlichkeit und der Fürsorge für andere treffen,
@@ -232,9 +232,9 @@ faq:
       Großteil der Arbeit erledigen, weil es keinen Chef gibt, der die Situation
       überwacht, wenn jemand nachlässt?
     answer: In traditionellen Unternehmen, wenn eine Person nicht liefert, murren
-      und beschweren sich die Kollegen, aber überlassen es dem Chef der Person,
-      etwas dagegen zu unternehmen. In selbstverwalteten Organisationen müssen
-      die Mitarbeiter aufstehen und Kollegen konfrontieren, die ihre
+      und beschweren sich die Kolleginnen, aber überlassen es dem Chef der
+      Person, etwas dagegen zu unternehmen. In selbstverwalteten Organisationen
+      müssen die Mitarbeiterinnen aufstehen und Kollegen konfrontieren, die ihre
       Verpflichtungen nicht einhalten. Das kann manchmal schwierig oder
       unangenehm sein. Teal-Organisationen investieren viel Zeit und Mühe, um
       den Mitarbeitern die Fähigkeiten und Ressourcen zu vermitteln, die sie
@@ -243,14 +243,14 @@ faq:
       Konflikte zu lösen? In Teal-Organisationen gibt es immer noch einen
       Gründer oder CEO. Hat diese Person nicht das letzte Wort?
     answer: Bei Unstimmigkeiten zwischen zwei Kollegen können diese versuchen, die
-      Angelegenheit an den Gründer oder den CEO oder eine andere Person, von der
-      angenommen wird, dass sie mehr Autorität hat, weiterzuleiten. Der
+      Angelegenheit an die Gründerin oder den CEO oder eine andere Person, von
+      der angenommen wird, dass sie mehr Autorität hat, weiterzuleiten. Der
       Versuchung, die Angelegenheiten auf diese Weise zu regeln, wird
       widerstanden. Stattdessen hilft der Konfliktlösungsmechanismus den
       Kollegen, den Konflikt gemeinsam durchzuarbeiten. Auf diese Weise lernen
       sie, dass ihre Stimme wertgeschätzt wird und sie die Macht haben, die
-      Kollegen an ihre Verpflichtungen zu binden, ohne die Intervention eines
-      Chefs, auch wenn es manchmal unangenehm sein kann. Ein CEO oder Gründer
+      Kollegen an ihre Verpflichtungen zu binden, ohne die Intervention einer
+      Chefin, auch wenn es manchmal unangenehm sein kann. Ein CEO oder Gründer
       kann später hinzugezogen werden, wenn die ursprünglichen Kollegen das
       Problem nicht unter vier Augen lösen können und wenn sie diese Person als
       Mediator oder Gremiumsmitglied wählen. Aber weder ein Mediator noch ein
