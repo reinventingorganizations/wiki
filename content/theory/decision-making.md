@@ -27,7 +27,7 @@ perspective: >-
   #### Rote Organisationen
 
 
-  Im[ Roten-Paradigma](../red-organizations/) werden Entscheidungen jeglicher Tragweite vom Boss/Chef getroffen. Mitarbeiter müssen seine oder ihre Zustimmung einholen, oder sie riskieren ernsthafte Konsequenzen. Rote Organisationen können effizient sein, aber die Kontrolle, die durch Angst ausgeübt wird, begrenzt die Bereitschaft der Mitglieder, unabhängige Entscheidungen zu treffen.
+  Im[ Roten-Paradigma](../red-organizations/) werden Entscheidungen jeglicher Tragweite vom Boss oder Chefin getroffen. Mitarbeiter müssen seine oder ihre Zustimmung einholen, oder sie riskieren ernsthafte Konsequenzen. Rote Organisationen können effizient sein, aber die Kontrolle, die durch Angst ausgeübt wird, begrenzt die Bereitschaft der Mitglieder, unabhängige Entscheidungen zu treffen.
 
 
   #### Bernstein Organisationen
@@ -46,7 +46,7 @@ perspective: >-
   #### Grüne Organisationen
 
 
-  Werteorientierte, zweckorientierte [Grüne Organisationen](../green-paradigm-and-organizations/) streben danach, mehreren Interessengruppen zu dienen. Mitarbeiter an der Front werden zum Beispiel oft ermutigt, wichtige Entscheidungen ohne übergeordnete Genehmigungen zu treffen, um den Kunden und der breiteren Stakeholder-Gemeinschaft zu dienen. Sie sind mit den alltäglichen Problemen vertraut und können bessere Lösungen finden als "Experten", die vielleicht weit weg sind. Der Schwerpunkt liegt auf der Aufrechterhaltung einer starken, oft "familiären" Kultur. Konsens wird hoch geschätzt.
+  Werteorientierte, zweckorientierte [Grüne Organisationen](../green-paradigm-and-organizations/) streben danach, mehreren Interessengruppen zu dienen. Mitarbeiterinnen an der Front werden zum Beispiel oft ermutigt, wichtige Entscheidungen ohne übergeordnete Genehmigungen zu treffen, um den Kunden und der breiteren Stakeholder-Gemeinschaft zu dienen. Sie sind mit den alltäglichen Problemen vertraut und können bessere Lösungen finden als "Experten", die vielleicht weit weg sind. Der Schwerpunkt liegt auf der Aufrechterhaltung einer starken, oft "familiären" Kultur. Konsens wird hoch geschätzt.
 
 
 
