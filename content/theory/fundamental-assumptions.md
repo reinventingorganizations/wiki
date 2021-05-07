@@ -143,7 +143,7 @@ inPractice: >-
   #### Überprüfung der Grundannahmen in den täglichen Abläufen
 
 
-  Kollegen in Teal-Organisationen überprüfen routinemäßig die Art und Weise, wie tägliche Praktiken ([Besprechungen](../meetings/), [Konfliktlösung](../conflict-resolution/), [Team- /Gemeinschaftsbildung](../team-and-community-building/), [Entscheidungsfindung](../decision-making/)) durchgeführt werden -und die Ergebnisse, die sie erzeugen, mit den [Werten ](../culture-and-values/)und den zugrundeliegenden Grundannahmen.
+  Kolleginnen in Teal-Organisationen überprüfen routinemäßig die Art und Weise, wie tägliche Praktiken ([Besprechungen](../meetings/), [Konfliktlösung](../conflict-resolution/), [Team- /Gemeinschaftsbildung](../team-and-community-building/), [Entscheidungsfindung](../decision-making/)) durchgeführt werden -und die Ergebnisse, die sie erzeugen, mit den [Werten ](../culture-and-values/)und den zugrundeliegenden Grundannahmen.
 
 
   #### Artikulation beider Annahmen bei der Transformation einer bestehenden Organisation
@@ -166,7 +166,7 @@ inPractice: >-
   #### Erörterung der grundlegenden Annahmen bei der Gründung einer Teal-Organisation
 
 
-  Bei der Gründung einer Teal-Organisation ist die Auswahl der richtigen Mitgründer eine kritische Entscheidung. Wenn die Organisation nach Evolutionär-Teal-Prinzipien geführt werden soll, ist die Bereitschaft der Gründer, die Teal-Arbeitsweise zu übernehmen, entscheidend. Seien Sie bereit, viel Zeit mit der Diskussion dieser Themen zu verbringen - einschließlich der grundlegenden Annahmen über Menschen und Arbeit. Sie formen die Kultur Ihrer Organisation, bevor sie überhaupt begonnen hat. 
+  Bei der Gründung einer Teal-Organisation ist die Auswahl der richtigen Mitgründerinnen eine kritische Entscheidung. Wenn die Organisation nach Evolutionär-Teal-Prinzipien geführt werden soll, ist die Bereitschaft der Gründer, die Teal-Arbeitsweise zu übernehmen, entscheidend. Seien Sie bereit, viel Zeit mit der Diskussion dieser Themen zu verbringen - einschließlich der grundlegenden Annahmen über Menschen und Arbeit. Sie formen die Kultur Ihrer Organisation, bevor sie überhaupt begonnen hat. 
 
 
   #### Selbstmanagement
