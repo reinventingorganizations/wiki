@@ -273,8 +273,8 @@ inPractice: "### Der Beratungsprozess
 
   \r
 
-  Wenn der Beratungsprozess zum ersten Mal eingeführt wird, müssen der Gründer
-  und/oder der CEO ein Vorbild sein. Die Macht haben zu Beginn die
+  Wenn der Beratungsprozess zum ersten Mal eingeführt wird, müssen die
+  Gründerin und/oder der CEO ein Vorbild sein. Die Macht haben zu Beginn die
   Organisationsleiter und sie wird nicht durch Magie verteilt - [eine
   erfolgreiche Verteilung von Führung erfordert sorgfältige, proaktive
   Bemühungen]
