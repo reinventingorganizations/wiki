@@ -21,7 +21,7 @@ perspective: >-
   Organisation nur sehr schwer, wenn nicht gar nicht, funktionieren.
 
 
-  Die meisten Teal-Organisationen arbeiten auf der Grundlage bestimmter Annahmen über die menschliche Natur: dass Mitarbeiter nachdenkliche, vertrauenswürdige Erwachsene sind, die in der Lage sind, Rechenschaft abzulegen und für ihre Entscheidungen und Handlungen verantwortlich sind. In einem Arbeitsplatz, die auf Teal-Annahmen basiert, gibt ein klarer Konfliktlösungsprozess zusammen mit einer entsprechenden Schulung den Menschen den Weg und die Fähigkeiten, Meinungsverschiedenheiten mit Reife und Anmut zu bearbeiten
+  Die meisten Teal-Organisationen arbeiten auf der Grundlage bestimmter Annahmen über die menschliche Natur: dass Mitarbeiterinnen nachdenkliche, vertrauenswürdige Erwachsene sind, die in der Lage sind, Rechenschaft abzulegen und für ihre Entscheidungen und Handlungen verantwortlich sind. In einem Arbeitsplatz, die auf Teal-Annahmen basiert, gibt ein klarer Konfliktlösungsprozess zusammen mit einer entsprechenden Schulung den Menschen den Weg und die Fähigkeiten, Meinungsverschiedenheiten mit Reife und Anmut zu bearbeiten
 
 
   Jede historische Etappe hat eine andere Perspektive auf Konfliktlösung und sehr unterschiedliche Praktiken hervorgebracht:
@@ -45,7 +45,7 @@ perspective: >-
   #### **Orangene Organisationen**
 
 
-  Im [Orange-Paradigma](../orange-paradigm-and-organizations/) gibt es auch eine hierarchische Struktur, aber das Management erfolgt durch Zielsetzung (Definition des "Was"; mit mehr Freiheit beim "Wie"). In vielen Orange-Organisationen gibt es zwar formale Verfahren zur Konfliktlösung, aber Konflikte werden oft nicht gut behandelt. Obwohl Einzelpersonen oft dazu ermutigt werden, Meinungsverschiedenheiten selbst zu lösen, muss ein Konflikt oft durch das Eingreifen einer dritten Partei gelöst werden. Dies geschieht meist, indem die Angelegenheit an den Chef verwiesen wird oder indem man sich auf die Personalpolitik und -verfahren beruft. Diese Verfahren schaffen eine Ebene der objektiven Unabhängigkeit von "denen", die im Konflikt stehen.
+  Im [Orange-Paradigma](../orange-paradigm-and-organizations/) gibt es auch eine hierarchische Struktur, aber das Management erfolgt durch Zielsetzung (Definition des "Was"; mit mehr Freiheit beim "Wie"). In vielen Orange-Organisationen gibt es zwar formale Verfahren zur Konfliktlösung, aber Konflikte werden oft nicht gut behandelt. Obwohl Einzelpersonen oft dazu ermutigt werden, Meinungsverschiedenheiten selbst zu lösen, muss ein Konflikt oft durch das Eingreifen einer dritten Partei gelöst werden. Dies geschieht meist, indem die Angelegenheit an die Chefin verwiesen wird oder indem man sich auf die Personalpolitik und -verfahren beruft. Diese Verfahren schaffen eine Ebene der objektiven Unabhängigkeit von "denen", die im Konflikt stehen.
 
 
   #### **Grüne Organisationen**
