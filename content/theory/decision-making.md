@@ -139,9 +139,9 @@ inPractice: "### Der Beratungsprozess
 
   **Demut**: Um Rat zu fragen, ist ein Akt der Demut, der eine der wichtigsten
   Eigenschaften eines spaßigen Arbeitsplatzes ist. Allein der Akt sagt: \"Ich
-  brauche dich\". Der Entscheidungsträger und der Berater werden in eine engere
-  Beziehung gedrängt. Das macht es für den Entscheider fast unmöglich, den Rat
-  zu ignorieren.
+  brauche dich\". Die Entscheidungsträgerin und der Berater werden in eine
+  engere Beziehung gedrängt. Das macht es für die Entscheiderin fast unmöglich,
+  den Rat zu ignorieren.
 
   * **Lernen**: Entscheidungen zu treffen ist eine Ausbildung am Arbeitsplatz.
   Ratschläge kommen von Menschen, die die Situation verstehen und sich um das
@@ -154,7 +154,7 @@ inPractice: "### Der Beratungsprozess
   mit der Verantwortung für die Folgen der Entscheidung leben muss. Beratung
   liefert vielfältigen Input, deckt wichtige Themen und neue Perspektiven auf.
 
-  **Spaß**: Der Prozess macht den Entscheidungsträgern einfach Spaß, weil er
+  **Spaß**: Der Prozess macht der Entscheidungsträgerin einfach Spaß, weil sie
   die Freude am Mannschaftssport widerspiegelt. Der Beratungsprozess regt
   Initiative und Kreativität an, die durch die Weisheit von sachkundigen
   Personen an anderer Stelle in der Organisation verstärkt werden.
