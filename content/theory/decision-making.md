@@ -308,7 +308,7 @@ inPractice: "### Der Beratungsprozess
   die Personen, die Sie konsultiert haben (und alle anderen, die es wissen
   sollten).\r
 
-  * Wenn Kollegen Sie um eine Entscheidung bitten (\"Was soll ich tun?\"),
+  * Wenn Kolleginnen Sie um eine Entscheidung bitten (\"Was soll ich tun?\"),
   fragen Sie sie stattdessen \"Was ist Ihr Entscheidungsvorschlag?\". Sagen Sie
   auch deutlich, dass Sie Entscheidungen nicht mehr genehmigen. Teilen Sie
   stattdessen Ihren Rat mit und schlagen Sie vor, wen Sie sonst noch fragen
