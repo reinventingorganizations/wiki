@@ -81,7 +81,7 @@ perspective: >-
 
   * Innovation ist eine Notwendigkeit für Wachstum. Veränderung ist die einzige Konstante. Es gibt keinen Raum und keine Zeit, um Fehler und Schwächen zu tolerieren.
 
-  * Es ist wichtig, klare Ziele zu haben. Das Erreichen des nächsten Ziels (die nächste Beförderung zu bekommen, einen Lebenspartner zu finden, ein neues Auto zu kaufen,...) wird einen glücklich machen.
+  * Es ist wichtig, klare Ziele zu haben. Das Erreichen des nächsten Ziels (die nächste Beförderung zu bekommen, eine Lebenspartnerin zu finden, ein neues Auto zu kaufen,...) wird einen glücklich machen.
 
   * Wenn Menschen ganz mit sich selbst beschäftigt sind, wird nichts Gutes dabei herauskommen. Sie können zwar bis zu einem gewissen Punkt denken und entscheiden, *wie* sie ihre Arbeit machen, aber sie brauchen eine Richtung. Menschen müssen durch externe Belohnungen und Wettbewerb motiviert werden, um Höchstleistungen zu erbringen. Das Management muss klare Ziele, Anreizsysteme und Kontrolle vorgeben. Das Management muss die Kontrolle haben.
 
