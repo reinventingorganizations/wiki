@@ -24,7 +24,7 @@ perspective: >-
   ### Rote Organisationen
 
 
-  In [roten Organisationen](../red-organizations/) werden Versammlungen abgehalten, wenn der Geschäftsführer oder Boss sie für notwendig hält. Sie können abgehalten werden, um Ankündigungen zu machen, Urteile zu fällen oder um Zeremonien durchzuführen. Manchmal werden sie auch abgehalten, um Rat zu suchen oder Informationen zu sammeln.
+  In [roten Organisationen](../red-organizations/) werden Versammlungen abgehalten, wenn die Geschäftsführerin oder der Boss sie für notwendig hält. Sie können abgehalten werden, um Ankündigungen zu machen, Urteile zu fällen oder um Zeremonien durchzuführen. Manchmal werden sie auch abgehalten, um Rat zu suchen oder Informationen zu sammeln.
 
 
   ### Bernstein-Organisationen
@@ -160,7 +160,7 @@ inPractice: >-
   Meetings bringen das Beste und das Schlechteste der menschlichen Natur zum Vorschein.
 
 
-  Im besten Fall sind sie Orte, an denen andere uns helfen, in das hineinzuhören, was uns wirklich am Herzen liegt. Aber Meetings können auch Spielwiese für Egos sein. Um sich sicher zu fühlen, versuchen manche, das Geschehen zu dominieren. Andere ziehen sich zurück. In selbstverwalteten Organisationen nimmt die Abwesenheit eines Chefs einige dieser Ängste aus dem Raum. Aber in einer Gruppe von Gleichaltrigen können Egos genauso gut dominieren. Eine Vielzahl von Ansätzen unterstützt produktive Interaktionen, die mit [Ganzheitlichkeit](/wholholholess/) und [Zweck](../listening-to-purpose/) übereinstimmen.
+  Im besten Fall sind sie Orte, an denen andere uns helfen, in das hineinzuhören, was uns wirklich am Herzen liegt. Aber Meetings können auch Spielwiese für Egos sein. Um sich sicher zu fühlen, versuchen manche, das Geschehen zu dominieren. Andere ziehen sich zurück. In selbstverwalteten Organisationen nimmt die Abwesenheit einer Chefin einige dieser Ängste aus dem Raum. Aber in einer Gruppe von Gleichaltrigen können Egos genauso gut dominieren. Eine Vielzahl von Ansätzen unterstützt produktive Interaktionen, die mit [Ganzheitlichkeit](/wholholholess/) und [Zweck](../listening-to-purpose/) übereinstimmen.
 
 
   #### Schulung in Meeting-Praktiken
