@@ -340,7 +340,7 @@ inPractice: "### Der Beratungsprozess
 
   In der Praxis bedeutet Zustimmung, dass, wenn eine Person einen
   prinzipiellen Einwand erhebt, die Entscheidung blockiert ist. Der
-  Vorschlagende muss innehalten und zusammen mit dem Einwender eine Lösung
+  Vorschlagende muss innehalten und zusammen mit der Einwenderin eine Lösung
   erarbeiten, die den Einwand überwindet. Eine Blockade in einem Konsensprozess
   ist ein Signal an das ganze Team, \"auszuschwärmen\", um den Einwand zu
   verstehen und das Problem zu lösen.
@@ -575,7 +575,7 @@ faq:
       Organisationen kann sich der Entscheidungsträger kaum mit allen treffen.
 
 
-      Einige nutzen interne soziale Netzwerke oder Entscheidungsfindungstools wie [Loomio](https://www.loomio.org/) für eine breite und schnelle Abstimmung. Der Initiator stellt den Vorschlag als Posting ins Netz. Die Kollegen bieten Ratschläge an, indem sie online darauf antworten. Wenn ihre Kommentare Zustimmung signalisieren, kann die Entscheidung sehr schnell getroffen werden. Wenn neue Perspektiven und Diskussionen auftauchen, kann der Entscheidungsträger seinen Vorschlag abändern und erneut in Umlauf bringen. Wenn es scheint, dass die Zeit für eine Entscheidung noch nicht reif ist, kann eine Arbeitsgruppe eingerichtet werden.
+      Einige nutzen interne soziale Netzwerke oder Entscheidungsfindungstools wie [Loomio](https://www.loomio.org/) für eine breite und schnelle Abstimmung. Die Initiatorin stellt den Vorschlag als Posting ins Netz. Die Kollegen bieten Ratschläge an, indem sie online darauf antworten. Wenn ihre Kommentare Zustimmung signalisieren, kann die Entscheidung sehr schnell getroffen werden. Wenn neue Perspektiven und Diskussionen auftauchen, kann die Entscheidungsträgerin ihren Vorschlag abändern und erneut in Umlauf bringen. Wenn es scheint, dass die Zeit für eine Entscheidung noch nicht reif ist, kann eine Arbeitsgruppe eingerichtet werden.
   - question: Gibt es keinen Platz für eine zentrale Planung? Verlieren wir hier
       nicht etwas Wichtiges?
     answer: "Vorhersagen bieten ein beruhigendes Gefühl der Kontrolle, aber die
