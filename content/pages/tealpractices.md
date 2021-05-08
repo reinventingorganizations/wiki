@@ -76,10 +76,3 @@ name: Key organizational structures and practices
 * [橙色模式与组织](/theory/orange-paradigm-and-organizations/)
 * [绿色模式与组织](/theory/green-paradigm-and-organizations/)
 * [蔚蓝模式与组织](../theory/teal-paradigm-and-organizations/)
-
-## 建议流程指南
-
-此节内容来自[资深平等联盟机构](https://advice-process.playbook.ee/introduction)（EE）。
-
-* [概要](https://cn.reinventingorganizationswiki.com/pages/entries/applaybook/)
-* 建议流程使用指南
