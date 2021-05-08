@@ -14,47 +14,63 @@ intro: >-
 
   ![](/media/tree.jpg)
 perspective: >-
-  Teal organizations take shared values to the next level either through clear
-  ground rules or sharing beliefs about what is acceptable or unacceptable. Most
-  Teal organizations spend a lot of time during the recruitment process
-  informing candidates about the values of the organization to determine whether
-  there is a good culture fit. Teal organizations also set practices to
-  frequently review and question culture and values to ensure they are truly
-  lived by those in the organization. Some values that are often present are
-  trust, transparency, collective intelligence, wholeness and authenticity.
+  Les organisations Opaleportent les valeurs partagées à un niveau supérieur,
+  soit par des règles de base claires, soit par le partage de convictions sur ce
+  qui est acceptable ou inacceptable. La plupart des organisations Opale
+  consacrent beaucoup de temps au cours du processus de recrutement pour
+  informer les candidats sur les valeurs de l'organisation afin de déterminer
+  s'il existe une bonne adéquation au niveau de la culture. Les organisations
+  Opale mettent également en place des pratiques permettant de revoir et de
+  remettre en question fréquemment la culture et les valeurs afin de s'assurer
+  qu'elles sont réellement vécues par les membres de l'organisation. Les valeurs
+  suivantes sont souvent présentes: la confiance, la transparence,
+  l'intelligence collective, la globalité et l'authenticité.
 
 
-  Every historical stage has given birth to a distinct perspective on culture and values, and to very different practices:
+  Chaque étape historique a donné naissance à une perspective distincte sur la culture et les valeurs, et à des pratiques très différentes :
 
 
-  ##### Red organizations
+  ##### Organisations Rouges
 
 
-  In [Red organizations](https://fr--reinventingorganizations-wiki.netlify.app/theory/red-organizations/), leaders typically demonstrate egocentric behaviors driven by their personal need for power and control. They are often impulsive and find ways to exert their dominance. This creates a culture of a fear, control, risk taking and submission. Close bonds are usually formed by those in the organization.
+  Dans les [Organisations Rouges](https://fr--reinventingorganizations-wiki.netlify.app/theory/red-organizations/), les dirigeants font généralement preuve de comportements égocentriques motivés par leur besoin personnel de pouvoir et de contrôle. Ils sont souvent impulsifs et trouvent des moyens d'exercer leur domination. Cela crée une culture de la peur, du contrôle, de la prise de risque et de la soumission. Des liens étroits sont généralement formés par les membres de l'organisation.
 
 
-  ##### Amber organizations
+  ##### Organisations Ambre
 
 
-  In [Amber organizations](../amber-paradigm-and-organizations/), stability and respect for the group norms are highly valued. The Amber leader looks for order, stability, and predictability. Change is viewed with suspicion. Control is maintained through institutions and bureaucracies. This tends to creates a culture of conformity. The focus is to do what is right and to fit in within the group norms. Thinking is dominated by whether one has the right appearance, behaviors, and thoughts. Social stability comes at the price of wearing a mask. People may distance themselves from their unique nature, personal desires, needs, and feelings; instead, embracing a socially acceptable self. The shadow side of this worldview is that workers are often viewed as mostly lazy, dishonest, and in need of direction. Management and supervision is believed to be necessary to ensure work is carried out properly.
+  Dans les [organisations Ambre](../amber-paradigm-and-organizations/), la stabilité et le respect des normes du groupe sont très appréciés. Le leader Ambre recherche l'ordre, la stabilité et la prévisibilité. Le changement est considéré avec suspicion. Le contrôle est maintenu par les institutions et les bureaucraties. Cela tend à créer une culture de conformité. L'objectif est de faire ce qui est juste et de s'intégrer dans les normes du groupe. La pensée est dominée par la question de savoir si l'on a la bonne apparence, les bons comportements et les bonnes pensées. La stabilité sociale a pour prix le port d'un masque. Les gens peuvent s'éloigner de leur nature unique, de leurs désirs personnels, de leurs besoins et de leurs sentiments, au profit d'une image socialement acceptable. La face cachée de cette vision du monde est que les travailleurs sont souvent considérés comme paresseux, malhonnêtes et ayant besoin d'être dirigés. On croit que la gestion et la supervision sont nécessaires pour s'assurer que le travail est effectué correctement.
 
 
-  ##### Orange organizations
+  ##### Organisations Orange
 
 
-  In [Orange organizations](../orange-paradigm-and-organizations/) the underlying values are success, innovation, effectiveness, competing/winning, profit and recognition. This worldview is materialistic and rationality is highly valued. Only what can be seen and touched is real. The organizational metaphor is a ‘machine’. The culture can become highly professional, rational and sometimes soulless. Change is welcome provided it contributes to increased performance. Cross-organisation collaboration is valued and encouraged to speed up innovation and change. Management is strategic and focused on results rather than how to achieve them. Individual competence, results and achievements are valued and incentivized. Progression is based on merit rather than social standing or rank. 
+  Dans les [organisations Orange](../orange-paradigm-and-organizations/), les valeurs sous-jacentes sont le succès, l'innovation, l'efficacité, la compétition/la victoire, le profit et la reconnaissance. Cette vision du monde est matérialiste et la rationalité est hautement valorisée. Seul ce qui peut être vu et touché est réel. La métaphore organisationnelle est une "machine". La culture peut devenir très professionnelle, rationnelle et parfois sans âme. Le changement est bienvenu à condition qu'il contribue à l'amélioration des performances. La collaboration inter-organisationnelle est appréciée et encouragée pour accélérer l'innovation et le changement. La gestion est stratégique et axée sur les résultats plutôt que sur la manière de les atteindre. Les compétences, résultats et réalisations individuels sont valorisés et encouragés. La progression est basée sur le mérite plutôt que sur le statut social ou le rang.
 
 
-  ##### Green organizations
+  ##### Organisations Vertes
 
 
-  In [Green organizations](../green-paradigm-and-organizations/) relationships are valued sometimes at the expense of outcomes. Community, communication, collaboration, consensus, harmony, tolerance, integrity, respect, openness and equality are common values. Focus is on creating great workplace culture based on empowerment in order to boost employees' motivation. Although Green organizations are most often built on the traditional hierarchical model and structures, the culture is ill at ease with power and hierarchy. Participative and servant leadership approaches are valued to foster collaborative bottom up processes, developing shared values and a culture where people feel valued and empowered to contribute. The guiding metaphor is ‘family’. Whereas Orange organizations often use their values as a marketing tool, Green organizations embrace and live by them. 
+  Dans les [organisations Vertes](../green-paradigm-and-organizations/), les relations sont valorisées, parfois au détriment des résultats. Communauté, communication, collaboration, consensus, harmonie, tolérance, intégrité, respect, ouverture et égalité sont des valeurs communes. L'accent est mis sur la création d'une excellente culture du travail basée sur l'autonomisation afin de stimuler la motivation des employés. Bien que les organisations vertes soient le plus souvent construites sur le modèle et les structures hiérarchiques traditionnels, la culture est mal à l'aise avec le pouvoir et la hiérarchie. Les approches de leadership participatif et serviable sont appréciées pour favoriser **les processus collaboratifs qui vont du bas vers le haut**, le développement de valeurs communes et une culture dans laquelle les personnes se sentent valorisées et **encouragées** à contribuer. La métaphore directrice est la "famille". Alors que les organisations Orange utilisent souvent leurs valeurs comme un outil de marketing, les organisations Vertes les adoptent et les mettent en pratique.
 
 
-  ##### Teal organizations
 
 
-  [Teal organizations ](../teal-paradigm-and-organizations/)strive to create highly effective organizations that allow people to be fully human at work.. The culture of Teal organizations is shaped by the specific context and  [purpose ](https://reinventingorganizations-wiki.netlify.app/theory/evolutionary-purpose/)of the organization, not by personal assumptions, norms and concerns of the founders and leaders. The metaphor for the organization is a ‘living system’. As such it should be allowed to have its own autonomous identity and culture that can evolve with time. The culture and values are well integrated with the structure and processes. 
+  relationships are valued sometimes at the expense of outcomes. Community, communication, collaboration, consensus, harmony, tolerance, integrity, respect, openness and equality are common values. Focus is on creating great workplace culture based on empowerment in order to boost employees' motivation. Although Green organizations are most often built on the traditional hierarchical model and structures, the culture is ill at ease with power and hierarchy. Participative and servant leadership approaches are valued to foster collaborative **bottom up processes**, developing shared values and a culture where people feel valued and **empowered** to contribute. The guiding metaphor is ‘family’. Whereas Orange organizations often use their values as a marketing tool, Green organizations embrace and live by them. 
+
+
+  ##### Organisations Opale
+
+
+  Les [organisations Opale](../teal-paradigm-and-organizations/) s'efforcent de créer des organisations hautement efficaces qui permettent aux gens d'être pleinement humains au travail.... La culture des organisations Opale est façonnée par le contexte spécifique et [**l'intention** ](https://reinventingorganizations-wiki.netlify.app/theory/evolutionary-purpose/)de l'organisation, et non par les hypothèses, normes et préoccupations personnelles des fondateurs et des dirigeants. La métaphore de l'organisation est un "système vivant". En tant que tel, elle devrait être autorisée à avoir sa propre identité et sa propre culture autonomes qui peuvent évoluer avec le temps. La culture et les valeurs sont bien intégrées à la structure et aux processus.
+
+
+
+
+  strive to create highly effective organizations that allow people to be fully human at work.. The culture of Teal organizations is shaped by the specific context and **[purpose ](https://reinventingorganizations-wiki.netlify.app/theory/evolutionary-purpose/)**of the organization, not by personal assumptions, norms and concerns of the founders and leaders. The metaphor for the organization is a ‘living system’. As such it should be allowed to have its own autonomous identity and culture that can evolve with time. The culture and values are well integrated with the structure and processes. 
+
+
+  Les organisations Opale portent les valeurs partagées à un niveau supérieur, soit par des règles de base claires, soit par le partage de convictions sur ce qui est acceptable ou inacceptable. La plupart des organisations Opale passent beaucoup de temps pendant le processus de recrutement à informer les candidats sur les valeurs de l'organisation afin de déterminer s'il y a une bonne adéquation au niveau de la culture. Les organisations Opale mettent également en place des pratiques permettant de revoir et de remettre en question fréquemment la culture et les valeurs afin de s'assurer qu'elles sont réellement vécues par les membres de l'organisation. Les valeurs suivantes sont souvent présentes:  la confiance, la transparence, l'intelligence collective, la globalité et l'authenticité.
 
 
   Teal organizations take shared values to the next level either through clear ground rules or sharing beliefs about what is acceptable or unacceptable. Most Teal organizations spend a lot of time during the recruitment process informing candidates about the values of the organization to determine whether there is a good culture fit. Teal organizations also set practices to frequently review and question culture and values to ensure they are truly lived by those in the organization. Some values that are often present are trust, transparency, collective intelligence, wholeness and authenticity.
