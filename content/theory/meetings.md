@@ -98,13 +98,13 @@ inPractice: >-
   Dans l'ensemble, les réunions ont tendance à être moins nombreuses dans les [organisations Opale](../paradigme-sarcelle-et-organisations/). Dans une structure pyramidale traditionnelle, des réunions sont nécessaires pour rassembler, conditionner, filtrer et transmettre les informations qui circulent de haut en bas de la chaîne de commandement.  Dans les structures auto-gérées la plupart de ces réunions ne sont plus nécessaires. Alors que dans les [organisations Verte](https://fr--reinventingorganizations-wiki.netlify.app/theory/green-paradigm-and-organizations/), les réunions peuvent être un moyen de renforcer la participation "ascendante", celle-ci est déjà "intégrée" dans une structure auto-gérées.
 
 
-  #### *Regular meetings at the operational team/circle level*
+  #### Réunions régulières au niveau des équipes/cercles opérationnels
 
 
-  The frequency of team/circle meetings is determined by the nature of the work.
+  La fréquence des réunions d'équipe/cercle est déterminée par la nature du travail.
 
 
-  See FAVI, below. 
+  Voir FAVI, ci-dessous.niveau. 
 
 
   #### *Agendas*
