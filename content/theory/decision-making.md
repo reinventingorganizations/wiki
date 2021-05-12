@@ -1,162 +1,174 @@
 ---
 layout: article
 tags: theory
-key: Decision Making
-name: Decision Making
+key: Prise de décision
+name: Prise de décision
 sortOrder: 3
 category: Daily practices
 intro: >-
-  The topic of decision-making discusses how decisions are made within
-  organizations, and by whom. In Teal organizations, decision-making authority
-  is truly distributed throughout the organization.
+  Le thème de la prise de décision traite de la manière dont les décisions sont
+  prises au sein des organisations, et par qui. Dans les organisations Opale, le
+  pouvoir de décision est véritablement réparti dans l'ensemble de
+  l'organisation.
 
 
   ![](/media/decision.jpg)
 perspective: >-
-  In [Teal organizations](../teal-paradigm-and-organizations/) decision-making
-  is highly distributed. Front-line individuals or teams have the opportunity to
-  make decisions that affect their work. While these decisions may not need to
-  be validated by a hierarchy or consensus, it is expected that experts, and
-  those affected, should be involved.
+  Dans les [](../paradigme-sarcelles-et-organisations/)[organisations
+  Opale](../teal-paradigm-and-organizations/), la prise de décision est
+  fortement distribuée. Les individus ou les équipes en première ligne ont la
+  possibilité de prendre des décisions qui affectent leur travail. Même si ces
+  décisions n'ont pas besoin d'être validées par une hiérarchie ou un consensus,
+  on s'attend à ce que des experts, et les personnes concernées, soient
+  impliqués.
 
 
-  Every historical stage has given birth to a distinct perspective on decision making and to very different practices. In earlier periods, decisions may have been made at the top. Today, some organizations consciously try to "empower" people at the bottom. 
+  Chaque étape historique a donné naissance à une perspective distincte sur la prise de décision et à des pratiques très différentes. Dans les périodes antérieures, les décisions pouvaient être prises au sommet. Aujourd'hui, certaines organisations tentent consciemment de "responsabiliser" les personnes à la base.
 
 
-  #### Red organizations
+  #### Organisations Rouges
 
 
-  In the[ Red paradigm](../red-organizations/), decisions of any consequence are made by the boss/chief. Employees must seek his or her approval, or risk severe consequences. Red organizations can be efficient, but control, exercised through fear, limits the willingness of members to make independent decisions.
+  In the[ Red paradigm](../red-organizations/), **decisions of any consequence** are made by the boss/chief. Employees must seek his or her approval, or risk severe consequences. Red organizations can be efficient, but control, exercised through fear, limits the willingness of members to make independent decisions.
 
 
-  #### Amber organizations
+  Dans le [paradigme Rouge](../red-organizations/), **toutes les décisions, peu importe leur importance**, sont prises par le patron/chef. Les employés doivent chercher son approbation, ou risquer de graves conséquences. Les organisations rouges peuvent être efficaces, mais le contrôle, exercé par la peur, limite la volonté des membres de prendre des décisions indépendantes.
 
 
-  In the [Amber paradigm](../amber-paradigm-and-organizations/), decision-making authority is determined by an individual’s status in the hierarchy. Innovation is not particularly valued; following standard operating procedures is. A clear chain of command supported by formal processes defines who can do what. Individuals are expected to embrace these processes and traditions.
+  #### Organisations Ambre
 
 
-  #### Orange organizations
+  Dans le [paradigme Ambre](../amber-paradigm-and-organizations/)[](../amber-paradigm-and-organisations/), le pouvoir de décision est déterminé par le statut de l'individu dans la hiérarchie. L'innovation n'est pas particulièrement valorisée, contrairement au respect des procédures opérationnelles standard. Une chaîne de commandement claire, soutenue par des processus formels, définit qui peut faire quoi. On attend des individus qu'ils adhèrent à ces processus et traditions.
 
 
-  In the [Orange paradigm](../orange-paradigm-and-organizations/), organizations are viewed as machines that need to be 'tuned' for efficiency. Top management announces the overall direction or strategy and then objectives cascade down. Managers draw up plans for approval based on their objectives. These plans guide decision-making toward the achievement of goals—for example, profit and market share. Team members are invited to suggest initiatives and participate in the decision-making process. This encourages innovation and debate. The overriding aims are predictability and control.
+  #### Organisations Orange 
 
 
-  #### Green organizations
+  Dans le [paradigme Orange](../orange-paradigm-and-organizations/), les organisations sont considérées comme des machines qui doivent être "réglées" pour être efficaces. La direction générale annonce l'orientation ou la stratégie générale, puis les objectifs descendent en cascade. Les managers élaborent des plans pour approbation sur la base de leurs objectifs. Ces plans guident la prise de décision vers la réalisation des objectifs - par exemple, le profit et la part de marché. Les membres de l'équipe sont invités à suggérer des initiatives et à participer au processus de décision. Cela encourage l'innovation et le débat. Les objectifs primordiaux sont la prévisibilité et le contrôle.
 
 
-  Values-driven, purpose-led [Green organizations](../green-paradigm-and-organizations/) strive to serve multiple stakeholders. Front-line employees, for example, are often encouraged to make significant decisions without higher approvals in the interests of serving customers and the wider stakeholder community. They are in touch with the day-to-day issues, and trusted to devise better solutions than ‘experts’ who may be far away. Emphasis is on maintaining a strong, often “familial”, culture. Consensus is highly valued.
+  #### Organisations Vertes
 
 
-  #### Teal organizations
+  Les [](../paradigme-et-organisations-vertes/)[organisations Vertes](../green-paradigm-and-organizations/), axées sur les valeurs et la raison d'être, s'efforcent de servir de multiples parties prenantes. Les employés en première ligne, par exemple, sont souvent encouragés à prendre des décisions importantes sans l'approbation des échelons supérieurs, dans l'intérêt des clients et de l'ensemble des parties prenantes. Ils sont en contact avec les problèmes quotidiens et on leur fait confiance pour trouver de meilleures solutions que les "experts" qui peuvent être éloignés. L'accent est mis sur le maintien d'une culture forte, souvent "familiale". Le consensus est très apprécié.
 
 
-  In Evolutionary-Teal, there is a shift from external to internal yardsticks in decision-making. People are now concerned with the question of inner rightness: does this decision seem right? Am I being true to myself? Is this in line with who I sense I am? Am I being of service to the world? With fewer ego-fears, people are able to make decisions that might seem risky. All the possible outcomes may not have been weighed up, but the decision resonates with deep inner convictions. People develop a sensitivity for situations that don’t quite feel right, and situations that demand that they speak up and take action, even in the face of opposition or with seemingly low odds of success. This is born out of a sense of integrity and authenticity.
+  #### Organisations Opale
+
+
+  In **Evolutionary-Teal,** there is a shift from external to internal yardsticks in decision-making. People are now concerned with the question of inner rightness: does this decision seem right? Am I being true to myself? Is this in line with who I sense I am? Am I being of service to the world? With fewer ego-fears, people are able to make decisions that might seem risky. All the possible outcomes may not have been weighed up, but the decision resonates with deep inner convictions. People develop a sensitivity for situations that don’t quite feel right, and situations that demand that they speak up and take action, even in the face of opposition or with seemingly low odds of success. This is born out of a sense of integrity and authenticity.
+
+
+  Dans le cadre du paradigme **Opale-Évolutif**, on observe un passage des critères externes aux critères internes dans la prise de décision. Les gens sont maintenant préoccupés par la question de la justesse intérieure : cette décision semble-t-elle juste ? Suis-je fidèle à moi-même ? Est-ce que cela correspond à ce que je sens que je suis ? Est-ce que je rends service au monde ? Avec moins de peurs de l'ego, les gens sont capables de prendre des décisions qui peuvent sembler risquées. Tous les résultats possibles n'ont peut-être pas été évalués, mais la décision résonne avec des convictions intérieures profondes. Les gens développent une sensibilité pour les situations qui ne sont pas tout à fait normales et les situations qui exigent qu'ils prennent la parole et agissent, même face à l'opposition ou avec des chances de succès apparemment faibles. Cette sensibilité est le fruit d'un sentiment d'intégrité et d'authenticité.
 inPractice: >-
-  ### The advice process
+  ### La sollicitation d'avis
 
 
-  Almost all [Teal organizations](../teal-paradigm-and-organizations/) use, in one form or another, what an early practitioner ([AES](http://www.aes.com/)) called the “advice process.” 
+  Presque toutes les [](../paradigme-sarcelle-et-organisations/)[organisations Opale](../teal-paradigm-and-organizations/) utilisent, sous une forme ou une autre, ce qu'un praticien précoce ([AES](http://www.aes.com/)) a appelé la "sollicitation d'avis". 
 
 
-  It comes in many forms, but the essence is consistent: any person can make any decision after seeking advice from 1) everyone who will be meaningfully affected, and 2) people with expertise in the matter.
+  Ce processus se présente sous de nombreuses formes, mais son essence est cohérente : toute personne peut prendre une décision après avoir demandé conseil 1) à toutes les personnes qui seront touchées de manière significative, et 2) aux personnes compétentes en la matière.
 
 
-  Advice received must be taken into consideration. The point is not to create a watered-down compromise that accommodates everybody’s wishes. It is about accessing collective wisdom in pursuit of a sound decision. With all the advice and perspectives the decision maker has received, they choose what they believe to be the best course of action.
+  Les conseils reçus doivent être pris en considération. Il ne s'agit pas de créer un compromis édulcoré qui répond aux souhaits de chacun. Il s'agit d'accéder à la sagesse collective en vue d'une décision judicieuse. Compte tenu de tous les conseils et de toutes les perspectives qu'il a reçus, le décideur choisit ce qu'il estime être la meilleure ligne de conduite.
 
 
-  Advice is simply advice. No colleague, whatever their importance, can tell a decision-maker what to decide. Usually, the decision-maker is the person who first noticed the issue, or the person most affected by it. 
+  Un conseil est simplement un conseil. Aucun collègue, quelle que soit son importance, ne peut dire au décideur ce qu'il doit décider. En général, le décideur est la personne qui a remarqué le problème en premier, ou la personne la plus touchée par celui-ci. 
 
 
-  In practice, this process proves remarkably effective. It allows anybody to seize the initiative. Power is no longer a zero-sum game. Everyone is powerful via the advice process.
+  Dans la pratique, ce processus s'avère remarquablement efficace. Il permet à quiconque de prendre l'initiative. Le pouvoir n'est plus un jeu à somme nulle. Tout le monde a du pouvoir grâce à la sollicitation d'avis.
 
 
-  #### It's not consensus
+  #### Ce n'est pas du consensus
 
 
-  We often imagine decisions can be made in only two ways: either by the person with authority (someone calls the shots; some people might be frustrated; but at least things get done), or by unanimous agreement (everyone gets a say, but it can be frustratingly slow).
+  Nous imaginons souvent que les décisions ne peuvent être prises que de deux façons : soit par la personne ayant l'autorité (quelqu'un prend les décisions ; certaines personnes peuvent être frustrées ; mais au moins les choses se font), soit par accord unanime (tout le monde a son mot à dire, mais cela peut être frustrant et lent).
 
 
-  It is a misunderstanding that self-management decisions are made by getting everyone to agree, or even involving everyone in the decision. The advice seeker must take all relevant advice into consideration, but can still make the decision. 
+  C'est un malentendu de croire que les décisions d'autogestion sont prises en mettant tout le monde d'accord, ou même en impliquant tout le monde dans la décision. Le solliciteur d'avis doit prendre en considération tous les avis pertinents, mais il peut quand même prendre la décision. 
 
 
-  Consensus may sound appealing, but it's not always most effective to give everybody veto power. In the advice process, power and responsibility rest with the decision-maker. Ergo, there is no power to block.
+  Le consensus peut sembler séduisant, mais il n'est pas toujours plus efficace de donner à chacun un droit de veto. Dans la sollicitation d'avis, le pouvoir et la responsabilité incombent au décideur. Par conséquent, **il n'y a pas de pouvoir de blocage**.
 
 
-  Ownership of the issue stays clearly with one person: the decision maker. Convinced she made the best possible decision, she can see things through with enthusiasm, and she can accept responsibility for any mistakes.
+  Consensus may sound appealing, but it's not always most effective to give everybody veto power. In the advice process, power and responsibility rest with the decision-maker. Ergo, **there is no power to block**.
 
 
-  The advice process, then, transcends both top-down *and* consensus-based decision making.
+  La question reste clairement entre les mains d'une seule personne : le décideur. Convaincue d'avoir pris la meilleure décision possible, elle peut aller jusqu'au bout avec enthousiasme et accepter la responsabilité de toute erreur.
 
 
-  #### Benefits of the advice process
+  La sollicitation d'avis transcende donc à la fois la prise de décision hiérarchisée *et* celle basée sur le consensus.
 
 
-  The advice process allows self-management to flourish. Dennis Bakke, who introduced the practice at AES (and who wrote two books about it), highlights some important benefits: creating community, humility, learning, better decisions, and fun.
+  #### Les avantages de la sollicitation d'avis
 
 
-  * **Community**: it draws people, whose advice is sought into the question at hand. They learn about the issue. The sharing of information reinforces the feeling of community. The person whose advice is sought feels honored and needed.
+  La sollicitation d'avis permet à l'auto-organisation de prospérer. Dennis Bakke, qui a introduit cette pratique à l'AES (et qui a écrit deux livres à ce sujet), souligne certains avantages importants : création d'une communauté, humilité, apprentissage, meilleures décisions et plaisir.
 
-  * **Humility**: asking for advice is an act of humility, which is one of the most important characteristics of a fun workplace. The act alone says, "I need you“. The decision maker and the adviser are pushed into a closer relationship. This makes it nearly impossible for the decision-maker to ignore the advice.
 
-  * **Learning**: making decisions is on-the-job education. Advice comes from people who have an understanding of the situation and care about the outcome. No other form of education or training can match this real-time experience.
+  * **Communauté** : elle attire les personnes dont l'avis est sollicité sur la question à traiter. Ils apprennent à connaître le problème. Le partage d'informations renforce le sentiment de communauté. La personne dont l'avis est demandé se sent honorée et utile.
 
-  * **Better decisions**: chances of reaching the best decision are greater than under conventional top-down approaches. The decision maker has the advantage of being closer to the issue and has to live with responsibility for the consequences of the decision. Advice provides diverse input, uncovering important issues and new perspectives.
+  * **Humilité** : demander conseil est un acte d'humilité, qui est l'une des caractéristiques les plus importantes d'un lieu de travail agréable. Cet acte dit à lui seul : "J'ai besoin de toi". Le décideur et le conseiller sont amenés à entretenir une relation plus étroite. Cela rend presque impossible pour le décideur d'ignorer le conseil.
 
-  * **Fun**: the process is just plain fun for the decision-maker, because it mirrors the joy found in playing team sports. The advice process stimulates initiative and creativity, which are enhanced by the wisdom from knowledgeable people elsewhere in the organization.
+  * **Apprentissage** : la prise de décision est une formation sur le tas. Les conseils proviennent de personnes qui comprennent la situation et se soucient du résultat. Aucune autre forme d'éducation ou de formation ne peut égaler cette expérience en temps réel.
 
+  * **Meilleures décisions** : les chances de parvenir à la meilleure décision sont plus grandes que dans les approches hiérarchiques classiques. Le décideur a l'avantage d'être plus proche du problème et doit assumer la responsabilité des conséquences de sa décision. Les conseils apportent une contribution diversifiée, permettant de découvrir des questions importantes et de nouvelles perspectives.
 
-  #### Steps in the advice process
+  * **Fun** : le processus est tout simplement amusant pour le décideur, car il reflète la joie que l'on trouve dans la pratique de sports d'équipe. Le processus de conseil stimule l'initiative et la créativité, qui sont renforcées par la sagesse de personnes bien informées ailleurs dans l'organisation.
 
 
-  There are a number of steps in the advice process:
+  #### Les étapes de la sollicitation d'avis
 
 
-  * Someone notices a problem or opportunity and takes the initiative, or alerts someone better placed to do so.
+  La sollicitation d'avis comporte un certain nombre d'étapes :
 
-  * Prior to a proposal, the decision-maker may seek input to sound out perspectives before proposing action. 
 
-  * The initiator makes a proposal and seeks advice from those affected or those with expertise. 
+  * Quelqu'un remarque un problème ou une opportunité et prend l'initiative, ou alerte quelqu'un de mieux placé pour le faire.
 
-  * Taking this advice into account, the decision-maker decides on an action and informs those who have given advice.
+  * Avant de faire une proposition, le décideur peut demander des informations pour sonder les points de vue avant de proposer une action. 
 
+  * L'initiateur fait une proposition et demande l'avis des personnes concernées ou de celles qui ont une expertise. 
 
-  #### Forms the advice process can take
+  * En tenant compte de ces conseils, le décideur décide d'une action et informe ceux qui ont donné des conseils.
 
 
-  Because the advice process involves taking advice from those affected by a decision, it naturally follows that the bigger the decision, the wider the net needs to be cast - including, if these roles exist, the CEO or board.
+  #### Les formes que la sollicitation d'avis peut prendre
 
 
-  For minor decisions, there may be no need to seek advice. For larger decisions, advice can come through various channels, including one-on-one conversations, meetings, or online communication. 
+  Étant donné que la sollicitation d'avis implique de prendre l'avis des personnes concernées par une décision, il s'ensuit naturellement que plus la décision est importante, plus il faut ratisser large - y compris, si ces rôles existent, le PDG ou le conseil d'administration.
 
 
-  Some organizations have specific types of meetings to support the advice process, or follow formal methods. (See Buurtzorg and Holacracy below). Some organizations choose to have circles made up of representative colleagues who go through the advice process on behalf of the whole organization.
+  Pour les décisions mineures, il n'est peut-être pas nécessaire de demander conseil. Pour les décisions plus importantes, les conseils peuvent provenir de divers canaux, notamment de conversations individuelles, de réunions ou de communications en ligne. 
 
 
-  When decisions affect large numbers, or people who cannot meet physically, the process can happen via the internet.
+  Certaines organisations ont des types de réunions spécifiques pour soutenir la sollicitation d'avis, ou suivent des méthodes formelles. (Voir Buurtzorg et Holacracy ci-dessous). Certaines organisations choisissent d'avoir des cercles composés de collègues représentatifs qui appliquent la sollicitation d'avis au nom de l'ensemble de l'organisation.
 
 
-  * The decision-maker can post a proposal on the company blog and call for comments or invite email responses and then process the advice they receive.
+  Lorsque les décisions concernent un grand nombre de personnes, ou des personnes qui ne peuvent pas se rencontrer physiquement, le processus peut se dérouler via Internet.
 
-  * The organization can use decision-making software like [Loomio](https://www.loomio.org/), a free and open-source tool. The process for using the advice process on [Loomio](https://www.loomio.org/): start a discussion to frame the topic and gather input, host a proposal so everyone affected by the issue can voice their position, and then the final decision-maker specifies the outcome (automatically notifying the whole group).
 
+  * Le décideur peut publier une proposition sur le blog de l'entreprise et demander des commentaires ou inviter des réponses par courrier électronique, puis traiter les avis reçus.
 
-  #### Underlying mindsets and training
+  * L'organisation peut utiliser un logiciel de prise de décision comme [Loomio](https://www.loomio.org/), un outil gratuit et open-source. La procédure d'utilisation du processus d'avis sur [Loomio](https://www.loomio.org/) : lancer une discussion pour cadrer le sujet et recueillir des contributions, accueillir une proposition afin que toutes les personnes concernées par la question puissent exprimer leur position, puis le décideur final précise le résultat (en informant automatiquement l'ensemble du groupe).
 
 
-  The advice process is a tool that helps decision-making via collective intelligence. Much depends on the spirit in which people approach it. When the advice process is introduced, it might be worthwhile to train colleagues not only in the mechanics but also on the mindset underlying effective use.
+  #### État d'esprit nécessaire et formation 
 
 
-  The advice process can proceed in several ways, depending on the mindset people bring to it:
+  La sollicitation d'avis est un outil d'aide à la décision par l'intelligence collective. Beaucoup dépend de l'esprit dans lequel les gens l'abordent. Lorsque la sollicitation d'avis est introduite, il peut être utile de former les collègues non seulement aux mécanismes, mais aussi à l'état d'esprit qui en sous-tend une utilisation efficace.
 
 
-  * The initiator can approach it authoritatively ("I don't care about what others have said" or, alternatively, "I fully comply with what others - someone highly respected, or the majority - have said").
+  La sollicitation d'avis peut se dérouler de plusieurs manières, en fonction de l'état d'esprit dans lequel les personnes l'abordent :
 
-  * They can approach from a perspective of negotiation or compromise ("I'll do some of what they say so they're happy, but it will increment my frustration account by 1").
 
-  * They can approach it co-creatively, which is the spirit of the advice process ("I will listen to others, understand the real need in what they say, and think creatively about an elegant solution").
+  * L'initiateur peut l'aborder de manière autoritaire ("Je ne me soucie pas de ce que les autres ont dit" ou, alternativement, "Je me conforme entièrement à ce que les autres - quelqu'un de très respecté, ou la majorité - ont dit").
 
+  * Ils peuvent l'aborder dans une perspective de négociation ou de compromis ("Je vais faire une partie de ce qu'ils disent pour qu'ils soient contents, mais cela augmentera mon compte de frustration de 1").
 
-  #### Role modeling
+  * Ils peuvent l'aborder de manière co-créative, ce qui est réellement l'esprit de la sollicitation d'avis ("Je vais écouter les autres, comprendre le besoin réel dans ce qu'ils disent, et penser de manière créative à une solution élégante").
+
+
+  #### Donner l'exemple
 
 
   When the advice process is first introduced, the founder and/or CEO need to be role-models. Power is initially held by organizational leaders, and it doesn't get distributed by magic - [successfully distributing leadership requires careful, proactive effort](https://medium.com/enspiral-tales/how-to-grow-distributed-leadership-7f6b25f0361c). By role modeling, others will take cues from their behavior.  
@@ -173,6 +185,24 @@ inPractice: >-
 
 
   For many leaders, unlearning the habit of making all the decisions is hard. It requires commitment and mindfulness. If you find yourself falling into the old pattern, take the opportunity to acknowledge your mistake, and restate the importance of the process. This can turn a mistake into a powerful learning moment. Better habits are formed through repeated practice.
+
+
+
+
+  Lorsque la sollicitation d'avis est introduite pour la première fois, le fondateur et/ou le PDG doivent servir de modèle. Le pouvoir est initialement détenu par les dirigeants de l'organisation, et il n'est pas distribué par magie - [la distribution réussie du leadership exige un effort attentif et proactif](https://medium.com/enspiral-tales/how-to-grow-distributed-leadership-7f6b25f0361c). En servant de modèle, les autres s'inspireront de leur comportement.  
+
+
+  Donner l'exemple peut prendre plusieurs formes : 
+
+
+  * Lorsque vous voulez prendre une décision, faites une pause et demandez-vous : suis-je la meilleure personne pour prendre cette décision ? (C'est-à-dire, la personne la plus étroitement liée à la décision, ou la personne ayant le plus d'énergie, de compétences et d'expérience pour la prendre). Si ce n'est pas le cas, demandez à la personne que vous pensez être la mieux placée de prendre l'initiative. Si elle ne veut pas le faire, vous êtes peut-être la mieux placée après tout.
+
+  * Si vous êtes la personne la mieux placée pour prendre une décision, identifiez les personnes auprès desquelles vous devriez demander conseil. Approchez-les et expliquez-leur ce que vous faites. ("Je suis en train d'appliquer la sollicitation d'avis. Voici une opportunité que je vois. Voici la décision que je me propose de prendre. Pouvez-vous me donner votre avis ?"). Vous pouvez également indiquer à qui d'autre vous demandez conseil. Une fois que vous avez reçu des conseils et pris votre décision, informez les personnes que vous avez consultées (et toute autre personne qui devrait être au courant).
+
+  * Lorsque des collègues vous demandent de prendre une décision ("Que dois-je faire ?"), demandez-leur plutôt "Quelle est la décision que vous proposez ?". Dans le même ordre d'idées, indiquez clairement que vous ne donnez plus votre approbation pour les décisions. Au lieu de cela, donnez votre avis et suggérez des personnes à qui demander. Rappelez-leur que la décision leur appartient.
+
+
+  Pour de nombreux dirigeants, il est difficile de désapprendre l'habitude de prendre toutes les décisions. Cela demande de l'engagement et de la vigilance. Si vous vous retrouvez dans l'ancien schéma, saisissez l'occasion de reconnaître votre erreur et de réaffirmer l'importance du processus. Cela peut transformer une erreur en un puissant moment d'apprentissage. Les meilleures habitudes se forment par la pratique répétée.
 
 
   ### Consent-based decision making
