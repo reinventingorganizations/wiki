@@ -1,62 +1,60 @@
 ---
 layout: article
 tags: theory
-key: Environmental and Social Management
-name: Environmental and Social Management
-sortOrder: 6
+key: Gestion environnementale et sociale
+name: Gestion environnementale et sociale
+sortOrder: 1
 category: Important Processes
-intro: "Environmental and Social Management refers to the approach organizations
-  take regarding their environmental and social impact. \r
+intro: >-
+  La gestion environnementale et sociale fait référence à l'approche adoptée par
+  les organisations concernant leur impact environnemental et social.
 
-  \r
 
-  Nowadays many companies are including corporate social responsibility,
-  strategic shared value, and standardized reporting in their main processes.
-  Some of them consider sustainability and the Sustainable Development Goals
-  agenda part of their strategy. "
+  Aujourd'hui, de nombreuses entreprises intègrent la responsabilité sociale des entreprises, la valeur partagée stratégique et les rapports standards dans leurs processus habituels. Certaines d'entre elles considèrent le développement durable et l'agenda des Objectifs de développement durable comme faisant partie de leur stratégie.
 perspective: >-
-  Teal principles will reinforce the organization to sustainability, because
-  social and environmental impacts will be part of the daily life. From an
-  Evolutionary-Teal perspective, it all starts with inner rightness.
+  Le modèle Opale renforce l'organisation en matière de développement durable,
+  car les impacts sociaux et environnementaux font partie de la vie quotidienne.
+  Du point de vue de l'évolution Opale, tout commence par la justesse
+  intérieure.
 
 
-  As employees, we may have genuine concerns about the environment and the communities we work in. In Teal Organizations, power is decentralized; therefore, environmental and social initiatives can be initiated by passionate people joining forces from any place in the organization.
+  En tant qu'employés, il se peut que nous ayons de véritables préoccupations au sujet de l'environnement et du milieu dans lequel nous travaillons. Le pouvoir étant décentralisé au sein des organisations Opale, certaines initiatives environnementales et sociales peuvent être initiées par des personnes motivées  unissant leurs forces quelle que soit leur position au sein de l'organisation.
 
 
-  When we come from a place of wholeness, we feel compelled to do our share to heal our broken relationship with life in all its forms.
+  Quand nous avons un sentiment de plénitude, nous ressentons le besoin de contribuer au rétablissement de notre rapport brisé à la vie sous toutes ses formes.
 
 
-  Teal tends to zero waste, zero toxicity, and zero impact on ecosystems
+  L'organisation Opale tend vers le zéro déchet, la zéro toxicité et le zéro impact sur les écosystèmes.
 
 
-  For now, initiatives such as B-Corps and Holacracy’s constitution provide interesting avenues for teal leadership.
+  Actuellement, certaines initiatives comme le mouvement B Corp et l'holacratie offrent des pistes intéressantes en matière de leadership pour les organisations Opale.
 
 
-  Approaches to Environmental and Social Management have evolved over time from how can a resource be used or exploited to how can it be served.
+  Les approches en matière de gestion environnementale et sociale ont évolué au fil du temps, passant de la façon dont une ressource peut être utilisée ou exploitée à celle dont elle peut être utile.
 
 
-  **Red organizations**
+  **Les organisations Rouge**
 
 
-  The [Red paradigm](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/red-organizations) is based on social management via power. The organization is subject to nature and the environment, which might dictate tribal rhythms. Red sees the environment through the filter of the potential for use. What in the environment is open to be had, so that we may increase our ability to survive and prosper?
+  Le[ paradigm](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/red-organizations)e [Rouge](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/red-organizations) repose sur une gestion sociale basée sur le pouvoir. L'organisation est soumise à la nature et à l'environnement, susceptibles de lui imposer des rythmes tribaux. L'organisation Rouge considère l'environnement à travers le filtre du potentiel d'utilisation. Quels sont les aspects de l'environnement que nous pouvons exploiter, afin de développer notre capacité à survivre et à prospérer ?
 
 
-  **Amber organizations**
+  **Les organisations Ambre**
 
 
-  In the [Amber paradigm](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/amber-paradigm-and-organizations), organizations tend to be self-contained, standing apart from the outside world, and run by a hierarchy. Social priorities favor those with status based on birth, education, and gender. The environment is viewed as predictable and organisations seek ways to control it for their benefit, for example in irrigation projects.
+  Les organisations fonctionnant selon le [paradigm](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/amber-paradigm-and-organizations)e [de l'ambre ](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/amber-paradigm-and-organizations)sont généralement autonomes, isolées du reste du monde et gérées de manière hiérarchique. Ce modèle privilégie les individus dont le statut est basé sur la naissance, l'éducation et le genre. L'environnement est considéré comme un élément prévisible et les organisations cherchent des moyens de le contrôler dans leur propre intérêt, par exemple dans le cadre de projets d'irrigation.
 
 
-  With Amber, the first high cultures in the world emerged. The stable structures and long-term processes introduced brought unprecedented change to social structure and their potential.
+  Le paradigme Ambre est à l'origine des premières civilisations avancées du monde. La stabilité des structures et la mise en place de processus sur le long terme ont permis un changement sans précédent de la structure sociale et de son potentiel.
 
 
-  **Orange organizations**
+  **Les organisations Orange**
 
 
-  The goal-oriented organization of the [Orange paradigm](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/orange-paradigm-and-organizations) is focused on solving tangible problems. Growth is a consequence of successfully reaching your objectives, with a surplus of resources (profit). Not reaching objectives will over time, result in the organization dying. Thereis a belief that the strongest and best organizations will survive.
+  L'organisation centrée sur les objectifs du [paradigm](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/orange-paradigm-and-organizations)e [Orange](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/orange-paradigm-and-organizations) se concentre sur la résolution de problèmes tangibles. La croissance est une conséquence de la réussite de vos objectifs, avec un excédent de ressources (profit). Si les objectifs ne sont pas atteints, l'organisation est vouée à disparaître avec le temps. Il existe une croyance selon laquelle les organisations les plus puissantes et les plus performantes sont celles qui tirent leur épingle du jeu.
 
 
-  In Orange organizations, social and environmental efforts are usually focused on ensuring that legal obligations are met. This does not necessarily imply that Orange dismisses the value of these causes. It is rather that these organizations can only justify taking actions which benefit society and environment if these actions also contribute to the objectives of the organization. To Orange, such initiatives would otherwise need their own organization, with objectives that include those goals.
+  Au sein des organisations Orange, les initiatives sociales et environnementales visent généralement à garantir le respect des obligations légales. Cela ne signifie pas nécessairement que les organisations Orange rejettent les valeurs liées à ces causes.  C'est simplement que ces organisations ne justifient la prise de décisions bénéfiques pour la société et l'environnement que si ces actions contribuent également aux objectifs de l'organisation. Dans le cas du modèle Orange, de telles initiatives nécessiteraient en effet une organisation propre, avec des objectifs incluant ces buts.
 
 
   Some Orange organizations have embraced practices of [Corporate Social Responsibility ](https://en.wikipedia.org/wiki/Corporate_social_responsibility)constructively. Some contributions have been remarkable. Orange organizations frequently use their CSR initiatives to support their brand image through marketing.  
