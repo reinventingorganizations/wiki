@@ -152,7 +152,7 @@ inPractice: >-
   * L'organisation peut utiliser un logiciel de prise de décision comme [Loomio](https://www.loomio.org/), un outil gratuit et open-source. La procédure d'utilisation du processus d'avis sur [Loomio](https://www.loomio.org/) : lancer une discussion pour cadrer le sujet et recueillir des contributions, accueillir une proposition afin que toutes les personnes concernées par la question puissent exprimer leur position, puis le décideur final précise le résultat (en informant automatiquement l'ensemble du groupe).
 
 
-  #### État d'esprit nécessaire et formation 
+  #### État d'esprit nécessaire et formation
 
 
   La sollicitation d'avis est un outil d'aide à la décision par l'intelligence collective. Beaucoup dépend de l'esprit dans lequel les gens l'abordent. Lorsque la sollicitation d'avis est introduite, il peut être utile de former les collègues non seulement aux mécanismes, mais aussi à l'état d'esprit qui en sous-tend une utilisation efficace.
@@ -171,28 +171,13 @@ inPractice: >-
   #### Donner l'exemple
 
 
-  When the advice process is first introduced, the founder and/or CEO need to be role-models. Power is initially held by organizational leaders, and it doesn't get distributed by magic - [successfully distributing leadership requires careful, proactive effort](https://medium.com/enspiral-tales/how-to-grow-distributed-leadership-7f6b25f0361c). By role modeling, others will take cues from their behavior.  
-
-
-  Role modeling can take several forms: 
-
-
-  * When you want to make a decision, pause and ask: Am I the best person for this decision? (That is, the person most closely linked to the decision, or the person with most energy, skill, and experience to make it?). If not, ask the person you think is better placed to take the initiative. If he/she doesn't want to, you might be best placed after all.
-
-  * If you are the right person to make a decision, identify those from whom you should seek advice. Approach them and explain what you are doing. ("I'm playing by the advice process. Here is an opportunity I see. This is the decision I propose to take. Can you give me your advice?"). You can also share who else you are asking for advice. Once you've received advice and made your decision, inform those you consulted (and anyone else who should know).
-
-  * When colleagues ask you to make a decision ("What should I do?"), instead ask them "What is your proposed decision?". In the same vein, state clearly that you no longer give approval for decisions. Instead, share your advice and suggest who else to ask. Remind them the decision is theirs.
-
-
-  For many leaders, unlearning the habit of making all the decisions is hard. It requires commitment and mindfulness. If you find yourself falling into the old pattern, take the opportunity to acknowledge your mistake, and restate the importance of the process. This can turn a mistake into a powerful learning moment. Better habits are formed through repeated practice.
-
-
-
-
   Lorsque la sollicitation d'avis est introduite pour la première fois, le fondateur et/ou le PDG doivent servir de modèle. Le pouvoir est initialement détenu par les dirigeants de l'organisation, et il n'est pas distribué par magie - [la distribution réussie du leadership exige un effort attentif et proactif](https://medium.com/enspiral-tales/how-to-grow-distributed-leadership-7f6b25f0361c). En servant de modèle, les autres s'inspireront de leur comportement.  
 
 
-  Donner l'exemple peut prendre plusieurs formes : 
+  **Donner l'exemple** peut prendre plusieurs formes : 
+
+
+  **Role modeling can take several forms:** 
 
 
   * Lorsque vous voulez prendre une décision, faites une pause et demandez-vous : suis-je la meilleure personne pour prendre cette décision ? (C'est-à-dire, la personne la plus étroitement liée à la décision, ou la personne ayant le plus d'énergie, de compétences et d'expérience pour la prendre). Si ce n'est pas le cas, demandez à la personne que vous pensez être la mieux placée de prendre l'initiative. Si elle ne veut pas le faire, vous êtes peut-être la mieux placée après tout.
@@ -205,52 +190,52 @@ inPractice: >-
   Pour de nombreux dirigeants, il est difficile de désapprendre l'habitude de prendre toutes les décisions. Cela demande de l'engagement et de la vigilance. Si vous vous retrouvez dans l'ancien schéma, saisissez l'occasion de reconnaître votre erreur et de réaffirmer l'importance du processus. Cela peut transformer une erreur en un puissant moment d'apprentissage. Les meilleures habitudes se forment par la pratique répétée.
 
 
-  ### Consent-based decision making
+  ### Prise de décision fondée sur le consentement
 
 
-  A variation of the advice process is consent-based decision making. "Consent" is different from "consensus" in the sense of unanimity. The consent principle says that a decision can be made as long as no one has a reasoned, substantial objection (also known as a "block"). Consent doesn't mean everyone loves the decision, but that they can live with it. 
+  Une variante de la sollicitation d'avis est la prise de décision par consentement. Le "consentement" est différent du "consensus" au sens de l'unanimité. Le principe du consentement stipule qu'une décision peut être prise tant que personne n'a d'objection motivée et substantielle (également appelée "blocage"). Le consentement ne signifie pas que tout le monde aime la décision, mais que chacun peut s'en accommoder. 
 
 
-  In practice, consent means that if one person raises a principled objection, the decision is blocked. The proposer must pause and, together with the objector, devise a solution that overcomes the objection. A block in a consensus process is a signal to the whole team to "swarm" to understand the objection and problem solve.
+  Dans la pratique, le consentement signifie que si une personne soulève une objection de principe, la décision est bloquée. L'auteur de la proposition doit faire une pause et, avec l'opposant, trouver une solution qui permette de surmonter l'objection. Un blocage dans un processus de consensus est un signal pour que toute l'équipe "essaime" pour comprendre l'objection et résoudre le problème.
 
 
-  Giving such power to a principled objection can be both valuable and dangerous. Valuable because sometimes a single person senses something important that no one else sees. On the other hand, such power can be abused if people block decisions for reasons other than purpose. Groups that use consent-based decision-making often take blocking and shared understanding about policies and culture around blocking very seriously for this reason. (For a real-world example, see the [Enspiral Decision Agreement](https://handbook.enspiral.com/decisions_agreement.html)).
+  Donner un tel pouvoir à une objection de principe peut être à la fois précieux et dangereux. Précieux parce que parfois une seule personne perçoit quelque chose d'important que personne d'autre ne voit. D'un autre côté, un tel pouvoir peut être abusé si des personnes bloquent les décisions pour des raisons autres que la raison d'être. Les groupes qui utilisent la prise de décision basée sur le consentement prennent souvent le blocage et la compréhension partagée des politiques et de la culture autour du blocage très au sérieux pour cette raison. (Pour un exemple concret, voir le [Enspiral Decision Agreement](https://handbook.enspiral.com/decisions_agreement.html)).
 
 
-  Some methods, like Holacracy, deem an objection valid only if the argument passes stringent tests, such as it makes matters worse. A colleague cannot block a proposal simply because he or she thinks they have a better proposal, or because they don't love an idea.
+  Certaines méthodes, comme l'Holacracy, considèrent qu'une objection n'est valable que si l'argument passe des tests stricts, comme celui d'aggraver la situation. Un collègue ne peut pas bloquer une proposition simplement parce qu'il pense avoir une meilleure proposition, ou parce qu'il n'aime pas une idée.
 
 
-  (for a description of Consent Based Decision, see[ https://thedecider.app/consent-decision-making](https://thedecider.app/consent-decision-making))
+  (pour une description de la décision fondée sur le consentement, voir <https://thedecider.app/consent-decision-making>)
 
 
-  #### The advice process within a hierarchy
+  #### La sollicitation d'avis au sein d'une hiérarchie
 
 
-  Some organizations want to move toward self-management, but cannot move away from hierarchy completely. Others, especially large organizations, prefer to adopt interim steps. This can be part of a transition to self-management.  
+  Certaines organisations veulent évoluer vers l'autogouvernance, mais ne peuvent pas s'affranchir complètement de la hiérarchie. D'autres, en particulier les grandes organisations, préfèrent adopter des étapes intermédiaires. Cela peut faire partie d'une transition vers l'autogouvernance.  
 
 
-  AES, the 40,000 employee company where the term "advice process' was coined, operated with remnants of a hierarchy. Anyone could initiate the process, but it was mandatory to consult certain categories of colleagues. These might include one's superiors, or even the board.
+  AES, l'entreprise de 40 000 employés où le terme "sollicitation d'avis" a été inventé, fonctionnait avec les vestiges d'une hiérarchie. N'importe qui pouvait initier le processus, mais il était obligatoire de consulter certaines catégories de collègues. Il pouvait s'agir de ses supérieurs, parfois même du conseil d'administration.
 
 
-  #### Sources that inform decision-making
+  #### Sources qui soutiennent la prise de décision
 
 
-  Teal organizations tend to take a broad range of sources into account:
+  Les organisations Opale ont tendance à prendre en compte un large éventail de sources :
 
 
-  * **Rationality**: Many think that rationality rules, and is the legitimate basis for decision-making. Teal considers rational, analytical approaches to be critical, but not the only source to inform decision making.
+  * **Rationalité** : Beaucoup pensent que la rationalité domine et constitue la base légitime de la prise de décision. Le paradigme Opale considère que les approches rationnelles et analytiques sont essentielles, mais ne sont pas la seule source d'information pour la prise de décision.
 
-  * **Emotions**: Whereas the modern-scientific perspective is wary of emotions, Teal recognizes that wisdom is to be found there when we learn to inquire into their significance: "Why am I angry, fearful, ambitious, or excited? What does this reveal about me or about the situation that is unfolding?"
+  * **Emotions** : Alors que la perspective scientifique moderne se méfie des émotions, l'Opale reconnaît que l'on peut y trouver de la sagesse lorsque l'on apprend à s'interroger sur leur signification : "Pourquoi suis-je en colère, craintif, ambitieux ou excité ? Qu'est-ce que cela révèle sur moi ou sur la situation qui se déroule ? ".
 
-  * **Intuition**: Wisdom can be found in intuition, too. Intuition honors the ambiguous, paradoxical, non-linear nature of reality. We unconsciously connect patterns in ways that our rational mind cannot. Many great minds, like Einstein, had a deep reverence for intuition. They claim it is a muscle that can be trained. Learning to pay attention to intuitions, to question them for guidance, allows intuitive answers to surface.
+  * **Intuition** : La sagesse peut également être trouvée dans l'intuition. L'intuition rend hommage à la nature ambiguë, paradoxale et non linéaire de la réalité. Nous connectons inconsciemment des structures d'une manière que notre esprit rationnel ne peut pas faire. De nombreux grands esprits, comme Einstein, vouent un profond respect à l'intuition. Ils affirment que c'est un muscle qui peut être entraîné. Apprendre à prêter attention aux intuitions, à les interroger pour obtenir des conseils permet aux réponses intuitives de faire surface.
 
-  * **Paradoxical thinking**: A Teal breakthrough is the ability to live with paradox; beyond "either-or" to "both-and" thinking. Breathing in and breathing out illustrates the difference. Either-or thinking sees them as opposites. Both-and thinking sees them as needing each other. The more we can breathe in, the more we can breathe out. One such paradox is the advice process: it is a decision-making process that at once encourages individual initiative and the voice of the collective. It's both-and.
-
-
-  #### More to read
+  * **Pensée paradoxale** : Une des percées du paradigme Opale est la capacité de vivre avec le paradoxe, au-delà de la pensée "soit l'un, soit l'autre", vers "l'un et l'autre". Inspirer et expirer illustre la différence. La pensée "ou bien" les voit comme des opposés. La pensée "l'un et l'autre" considère qu'ils ont besoin l'un de l'autre. Plus nous pouvons inspirer, plus nous pouvons expirer. L'un de ces paradoxes est la sollicitation d'avis : il s'agit d'un processus décisionnel qui encourage à la fois l'initiative individuelle et la voix du collectif. C'est l'un et l'autre.
 
 
-  An Introduction to the Advice Process, with a video of Frédéric Laloux on this topic
+  #### Pour aller plus loin
+
+
+  Une introduction au processus de sollicitation d'avis, avec une vidéo de Frédéric Laloux sur ce sujet (en anglais).
 
   <http://dev.alchemi.co.uk/adviceprocess/#/page/5cf823717fb0de42f3aeddfc>
 faq:
