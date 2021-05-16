@@ -66,9 +66,10 @@ faq:
     answer: All-Hands-Meetings, Stand-up-Meetings, offene Intranets,
       Diskussionsforen, offene Aufgaben- oder Arbeitsprotokolle, Blogs, offene
       Webinare.
-  - question: What indicates that information flow is "stuck"?
-    answer: Quiet meetings, culture of fear and blame, complex hierarchical
-      decision-making processes, frequent rumours, compulsory employee surveys.
+  - question: Was deutet darauf hin, dass der Informationsfluss "klemmt"?
+    answer: Stille Meetings, Angst- und Schuldzuweisungskultur, komplexe
+      hierarchische Entscheidungsprozesse, häufige Gerüchte, verpflichtende
+      Mitarbeiterbefragungen.
 relatedTheory:
   - wholeness
   - Self-Management
