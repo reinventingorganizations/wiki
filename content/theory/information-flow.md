@@ -42,10 +42,10 @@ perspective: >-
 
   In [Teal-Organisationen](../teal-paradigm-and-organizations/) werden Informationen allen gleichermaßen zur Verfügung gestellt, auf einer "as-is"-Basis. Es gibt keine Geheimnisse, und Informationen fließen ohne Grenzen dorthin, wo sie gebraucht werden; dies ist eine der Grundvoraussetzungen für das [Selbstmanagement](../self-management/) von Organisationen. Mitglieder von Teal-Organisationen respektieren nach wie vor eine Unterscheidung zwischen dem Austausch von Informationen, die in den organisatorischen Kontext gehören, und dem vertraulichen Austausch von persönlichen Informationen; Grauzonen werden mit Sensibilität und Integrität behandelt. Der zweifelhafte Wert von "Hörensagen" (Berichte aus zweiter Hand über nicht aufgezeichnete mündliche Kommunikation) wird klar verstanden.
 inPractice: >-
-  ### Share All Information!
+  ### Teilen Sie alle Informationen!
 
 
-  *"If you empower people but don´t give them information, they just fumble in the dark."* (Blair Vernon)
+  *"Wenn man Menschen befähigt, ihnen aber keine Informationen gibt, tappen sie nur im Dunkeln."* (Blair Vernon)
 
 
   Self-managing teams need to have all available information to make optimum [decisions ](../decision-making/)on a strategic and day-to-day basis. This means that all members of the organization must have access to all data related to the financing and operations of the organization, including salaries and performance of individuals and teams. Freely sharing information helps to build and maintain trust within the organization, and reduces the likelihood that informal hierarchies will re-emerge.
