@@ -28,10 +28,10 @@ perspective: >-
   ### Orange Organizationen
 
 
-  In [Orange Organizations](../orange-paradigm-and-organizations/), information serves primarily as a measure for “predicting and controlling”, with the credo: the more information, the better! Using measurement information, people can design a blueprint for the organization as though it was a machine. Information owned by or coming from those of higher rank in the organization is considered to be of greater value.
+  In [orangen Organisationen](../orange-paradigm-and-organizations/) dient Information in erster Linie als Maß für "Vorhersage und Steuerung", mit dem Credo: Je mehr Information, desto besser! Mit Hilfe von Messinformationen können Menschen einen Bauplan für die Organisation entwerfen, als wäre sie eine Maschine. Informationen, die im Besitz von Personen mit höherem Rang in der Organisation sind oder von diesen stammen, werden als wertvoller angesehen.
 
 
-  ### Green Organizations
+  ### Grüne Organisationen
 
 
   In [Green Organizations](../green-paradigm-and-organizations/), information serves as a currency for cultural value, with the purpose of inspiring members of the organization. Information flow through the system is founded on “open book” management, with inputs from all stakeholders being given equal consideration. The information content of the "open books" is still defined by "rulers" in a hierarchical structure, but those in positions of authority focus on listening to, encouraging and motivating their teams. With “family” as the guiding metaphor in Green organizations, stories are shared and everyone can ‘sing around the campfire’.
