@@ -34,13 +34,13 @@ perspective: >-
   ### Grüne Organisationen
 
 
-  In [Green Organizations](../green-paradigm-and-organizations/), information serves as a currency for cultural value, with the purpose of inspiring members of the organization. Information flow through the system is founded on “open book” management, with inputs from all stakeholders being given equal consideration. The information content of the "open books" is still defined by "rulers" in a hierarchical structure, but those in positions of authority focus on listening to, encouraging and motivating their teams. With “family” as the guiding metaphor in Green organizations, stories are shared and everyone can ‘sing around the campfire’.
+  In [grünen Organisationen](../green-paradigm-and-organizations/) dient Information als Währung für kulturelle Werte, mit dem Ziel, die Mitglieder der Organisation zu inspirieren. Der Informationsfluss durch das System basiert auf einem "Open-Book"-Management, bei dem Inputs aller Stakeholder gleichermaßen berücksichtigt werden. Der Informationsgehalt der "offenen Bücher" wird immer noch von "Herrschern" in einer hierarchischen Struktur definiert, aber die Verantwortlichen konzentrieren sich darauf, ihren Teams zuzuhören, sie zu ermutigen und zu motivieren. Mit der "Familie" als Leitmetapher in Green-Organisationen werden Geschichten geteilt und alle können "am Lagerfeuer singen".
 
 
-  ### Teal Organizations
+  ### Teal-Organisationen
 
 
-  In [Teal Organizations](../teal-paradigm-and-organizations/), information is made available to everyone equally, on an “as-is” basis. There are no secrets, and information flows where it is needed without boundaries; this is one of the fundamental prerequisites for [self-management](../self-management/) of organizations. Members of Teal organizations still respect a distinction between the sharing of information which belongs in the organizational context, and the confidential sharing of personal information; grey areas are handled with sensitivity and integrity. The dubious value of “hearsay” (second-hand reports of unrecorded verbal communication) is clearly understood.
+  In [Teal-Organisationen](../teal-paradigm-and-organizations/) werden Informationen allen gleichermaßen zur Verfügung gestellt, auf einer "as-is"-Basis. Es gibt keine Geheimnisse, und Informationen fließen ohne Grenzen dorthin, wo sie gebraucht werden; dies ist eine der Grundvoraussetzungen für das [Selbstmanagement](../self-management/) von Organisationen. Mitglieder von Teal-Organisationen respektieren nach wie vor eine Unterscheidung zwischen dem Austausch von Informationen, die in den organisatorischen Kontext gehören, und dem vertraulichen Austausch von persönlichen Informationen; Grauzonen werden mit Sensibilität und Integrität behandelt. Der zweifelhafte Wert von "Hörensagen" (Berichte aus zweiter Hand über nicht aufgezeichnete mündliche Kommunikation) wird klar verstanden.
 inPractice: >-
   ### Share All Information!
 
