@@ -16,16 +16,16 @@ perspective: >-
   ### Rote Organisationen
 
 
-  In [Red Organizations](../red-organizations/), information and information flow are controlled by those with power, and are used to control and manipulate people. Information is controlled and propagated through storytelling, issuing orders, making threats, bribing and by spying. The boss usually has ownership of information and controls the means of communication. Power is used to keep followers dependent and aligned. The objective truth of information is often less important than its subjective value, i.e. the truth has no value or meaning if there is more to gain from telling a lie! In this context, people only attend to the information which they perceive as serving their own personal needs.
+  In [Roten Organisationen](../red-organizations/) werden Informationen und der Informationsfluss von den Machthabern kontrolliert und zur Kontrolle und Manipulation von Menschen eingesetzt. Informationen werden durch Geschichtenerzählen, das Erteilen von Befehlen, das Aussprechen von Drohungen, Bestechung und durch Spionage kontrolliert und weitergegeben. Die Chefin hat in der Regel das Eigentum an Informationen und kontrolliert die Kommunikationsmittel. Macht wird eingesetzt, um Anhänger abhängig und gleichgeschaltet zu halten. Der objektive Wahrheitsgehalt von Informationen ist oft weniger wichtig als ihr subjektiver Wert, d.h. die Wahrheit hat keinen Wert oder Bedeutung, wenn es mehr zu gewinnen gibt, wenn man eine Lüge erzählt! In diesem Zusammenhang achten die Menschen nur auf die Informationen, die sie als für ihre persönlichen Bedürfnisse dienlich wahrnehmen.
 
 
-  ### Amber Organizations
+  ### Bernstein-Organisationen
 
 
-  In [Amber Organizations](../amber-paradigm-and-organizations/),information is more widely distributed and there is a respect for logical argument. Different viewpoints are acknowledged, but there is only room for a single truth, or set of truths. Information is controlled and communicated via the organizational hierarchy. Respect for the concept of objectivity emerges, together with competing views of the orthodox and the heretical. The truth of statements issued by those in authority may be questioned, within strict limits, but the decisions and opinions of those in authority must be respected; if not, dissenters may be punished!
+  In [Bernstein-Organisationen](../amber-paradigm-and-organizations/) sind Informationen breiter gestreut und es gibt einen Respekt für logische Argumente. Verschiedene Standpunkte werden anerkannt, aber es gibt nur Platz für eine einzige Wahrheit oder eine Reihe von Wahrheiten. Informationen werden über die Organisationshierarchie kontrolliert und kommuniziert. Es entsteht Respekt für das Konzept der Objektivität, zusammen mit konkurrierenden Ansichten der Orthodoxen und der Ketzer. Der Wahrheitsgehalt von Aussagen, die von Autoritätspersonen herausgegeben werden, kann innerhalb strenger Grenzen in Frage gestellt werden, aber die Entscheidungen und Meinungen der Autoritätspersonen müssen respektiert werden; wenn nicht, können Andersdenkende bestraft werden!
 
 
-  ### Orange Organizations
+  ### Orange Organizationen
 
 
   In [Orange Organizations](../orange-paradigm-and-organizations/), information serves primarily as a measure for “predicting and controlling”, with the credo: the more information, the better! Using measurement information, people can design a blueprint for the organization as though it was a machine. Information owned by or coming from those of higher rank in the organization is considered to be of greater value.
