@@ -62,9 +62,10 @@ inPractice: >-
 
   Wenn es neue und wichtige Informationen zu teilen gibt, sind "All-Hands" [Meetings ](../meetings/)eine Standardpraxis in Teal-Organisationen. Quartalsergebnisse, die jährliche Werteumfrage, ein strategischer Wendepunkt und so weiter werden in einem Meeting ohne Skript oder Kontrollagenda diskutiert und debattiert. Dies ist viel mehr als ein einfacher Informationsaustausch: Statt "Vorhersage und Kontrolle" ist das Leitprinzip des Informationsflusses "Sinn und Reaktion". Wenn Informationen auf eine Art und Weise weitergegeben werden, die nicht dem Zweck der Organisation dient, kann dies offen diskutiert und bei Bedarf geändert werden.
 faq:
-  - question: What are good daily practices for sharing information?
-    answer: All-hands meetings, stand-up meetings, open intranets, discussion
-      forums, open task or work logs, blogs, open webinars.
+  - question: Was sind gute tägliche Praktiken für den Austausch von Informationen?
+    answer: All-Hands-Meetings, Stand-up-Meetings, offene Intranets,
+      Diskussionsforen, offene Aufgaben- oder Arbeitsprotokolle, Blogs, offene
+      Webinare.
   - question: What indicates that information flow is "stuck"?
     answer: Quiet meetings, culture of fear and blame, complex hierarchical
       decision-making processes, frequent rumours, compulsory employee surveys.
