@@ -5,9 +5,9 @@ key: Information Flow
 name: Informationsfluss
 sortOrder: 5
 category: Daily practices
-intro: This article describes how information and information flow are used in
-  different management paradigms and organizational contexts throughout the
-  journey of evolution.
+intro: Dieser Artikel beschreibt, wie Informationen und Informationsfluss in
+  verschiedenen Management-Paradigmen und organisatorischen Kontexten auf dem
+  Weg der Evolution verwendet werden.
 perspective: >-
   Every historical stage has given birth to a distinct perspective on
   **Information Flow**, and to very different practices:
