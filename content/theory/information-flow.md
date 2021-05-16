@@ -9,11 +9,11 @@ intro: Dieser Artikel beschreibt, wie Informationen und Informationsfluss in
   verschiedenen Management-Paradigmen und organisatorischen Kontexten auf dem
   Weg der Evolution verwendet werden.
 perspective: >-
-  Every historical stage has given birth to a distinct perspective on
-  **Information Flow**, and to very different practices:
+  Jede historische Etappe hat eine andere Perspektive auf den
+  **Informationsfluss** und sehr unterschiedliche Praktiken hervorgebracht:
 
 
-  ### Red Organizations
+  ### Rote Organisationen
 
 
   In [Red Organizations](../red-organizations/), information and information flow are controlled by those with power, and are used to control and manipulate people. Information is controlled and propagated through storytelling, issuing orders, making threats, bribing and by spying. The boss usually has ownership of information and controls the means of communication. Power is used to keep followers dependent and aligned. The objective truth of information is often less important than its subjective value, i.e. the truth has no value or meaning if there is more to gain from telling a lie! In this context, people only attend to the information which they perceive as serving their own personal needs.
