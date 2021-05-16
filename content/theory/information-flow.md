@@ -48,19 +48,19 @@ inPractice: >-
   *"Wenn man Menschen befähigt, ihnen aber keine Informationen gibt, tappen sie nur im Dunkeln."* (Blair Vernon)
 
 
-  Self-managing teams need to have all available information to make optimum [decisions ](../decision-making/)on a strategic and day-to-day basis. This means that all members of the organization must have access to all data related to the financing and operations of the organization, including salaries and performance of individuals and teams. Freely sharing information helps to build and maintain trust within the organization, and reduces the likelihood that informal hierarchies will re-emerge.
+  Selbstverwaltete Teams müssen über alle verfügbaren Informationen verfügen, um optimale [Entscheidungen](../decision-making/)auf strategischer und täglicher Basis zu treffen. Das bedeutet, dass alle Mitglieder der Organisation Zugang zu allen Daten haben müssen, die sich auf die Finanzierung und den Betrieb der Organisation beziehen, einschließlich der Gehälter und der Leistung von Einzelpersonen und Teams. Der freie Austausch von Informationen hilft, Vertrauen innerhalb der Organisation aufzubauen und zu erhalten, und verringert die Wahrscheinlichkeit, dass informelle Hierarchien wieder auftauchen.
 
 
-  In Teal organizations, there is a culture of trust, not fear: freely sharing information does not harm anybody, and there is no need to protect sources of information through anonymity or disguise. People are trusted to handle information with integrity, and to deal with both the positive and the negative implications of all the information available to them. In this way, people have a clear of view the information that affects them and others within the organization, and no-one develops a false sense of anxiety or security.
+  In Teal-Organisationen herrscht eine Kultur des Vertrauens, nicht der Angst: Der freie Austausch von Informationen schadet niemandem, und es besteht keine Notwendigkeit, Informationsquellen durch Anonymität oder Verschleierung zu schützen. Den Menschen wird zugetraut, mit Informationen integer umzugehen und sich sowohl mit den positiven als auch mit den negativen Implikationen aller ihnen zur Verfügung stehenden Informationen auseinanderzusetzen. Auf diese Weise haben die Mitarbeiter einen klaren Blick auf die Informationen, die sie und andere innerhalb der Organisation betreffen, und niemand entwickelt ein falsches Gefühl von Angst oder Sicherheit.
 
 
-  When information is analyzed, contextualized and interpreted, this is not seen as a way of establishing the truth, but as a way of making the information more valuable. Valuable information flows naturally to the places where it helps to solve problems, meet challenges, drive innovation. Simply: information can now circulate freely and serve its purpose.
+  Wenn Informationen analysiert, kontextualisiert und interpretiert werden, wird dies nicht als ein Weg zur Wahrheitsfindung gesehen, sondern als ein Weg, die Informationen wertvoller zu machen. Wertvolle Informationen fließen auf natürliche Weise dorthin, wo sie helfen, Probleme zu lösen, Herausforderungen zu bewältigen, Innovationen voranzutreiben. Ganz einfach: Informationen können nun frei zirkulieren und ihren Zweck erfüllen.
 
 
-  #### *Discuss and Debate! Rank-free!*
+  #### *Diskutieren und debattieren Sie! Rangfrei!*
 
 
-  When there is new and important information to share, “all-hands” [meetings ](../meetings/)are a standard practice in Teal organizations. Quarterly results, the annual values survey, a strategic inflection point and so forth are discussed and debated in a meeting with no script or agenda of control. This is much more than simple information exchange: instead of “predict and control”, the guiding principle of information flow is “sense and response”. If information is being shared in a way which does not serve the purpose of the organization, this can be debated openly and changes made as needed.
+  Wenn es neue und wichtige Informationen zu teilen gibt, sind "All-Hands" [Meetings ](../meetings/)eine Standardpraxis in Teal-Organisationen. Quartalsergebnisse, die jährliche Werteumfrage, ein strategischer Wendepunkt und so weiter werden in einem Meeting ohne Skript oder Kontrollagenda diskutiert und debattiert. Dies ist viel mehr als ein einfacher Informationsaustausch: Statt "Vorhersage und Kontrolle" ist das Leitprinzip des Informationsflusses "Sinn und Reaktion". Wenn Informationen auf eine Art und Weise weitergegeben werden, die nicht dem Zweck der Organisation dient, kann dies offen diskutiert und bei Bedarf geändert werden.
 faq:
   - question: What are good daily practices for sharing information?
     answer: All-hands meetings, stand-up meetings, open intranets, discussion
