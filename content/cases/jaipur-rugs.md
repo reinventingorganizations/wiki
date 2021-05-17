@@ -1,58 +1,51 @@
 ---
 layout: case
 tags: cases
-name: Jaipur Rugs
+name: Jaipur Rugs(斋普尔地毯)
 date: 2021-04-06T06:24:29.395Z
 introduction: >-
-  Jaipur Rugs has 700 employees and a network of >40,000 artisans in 600 rural
-  villages spread across five Indian states. Its business model is end-to-end,
-  from sourcing wool to exporting handmade rugs.
-
-  More can be found about Jaipur rugs, for example:
+  斋浦尔地毯拥有700名员工，在印度五个州的600个乡村拥有超过40000名工匠。它的商业模式是端对端的，从采购羊毛到出口手工地毯。
 
 
-  * Article from Doug Kirkpatrick in 2019^[Self-Managed Art That You Can Walk On Doug Kirkpatrick April 11, 2019 <https://medium.com/redshift-3/jaipur-rugs-self-managed-art-that-you-can-walk-on-5756479726e0>]
+  更多关于斋浦尔地毯的信息，例如：
 
-  * Leadermorphosis Podcast Interview of M. Nand Kishore Chaudary on love, collective consciousness and self-management^[Leadermorphosis Podcast Interview of M. Nand Kishore Chaudary on love, collective consciousness and self-management <https://leadermorphosis.co/ep-57-nand-kishore-chaudhary-from-jaipur-rugs-on-love-consciousness-and-self-management>]
 
-  * Blog article from Adam Yukelson (Theory U workshop)^[<https://adamyukelson.com/blog/2016/07/25/jaipur-rugs>]
-industry: C. Manufacturing
-geography: India
+  * 道格·柯克帕特里克2019年的文章^\[Self-Managed Art That You Can Walk On Doug Kirkpatrick April 11, 2019 <https://medium.com/redshift-3/jaipur-rugs-self-managed-art-that-you-can-walk-on-5756479726e0>]
+
+  * 播客主播对M南德基肖尔乔达里的采访，乔达里谈爱、集体意识和自我管理。^\[Leadermorphosis Podcast Interview of M. Nand Kishore Chaudary on love, collective consciousness and self-management <https://leadermorphosis.co/ep-57-nand-kishore-chaudhary-from-jaipur-rugs-on-love-consciousness-and-self-management>]
+
+  * 亚当·尤克尔森的博客文章（理论U与实践研讨会^\[<https://adamyukelson.com/blog/2016/07/25/jaipur-rugs>]
+industry: C.制造业
+geography: 印度
 companySize: "> 500"
-profit: Profit
+profit: 营利组织
 theory:
   - topic: Recruitment
-    title: Look for purpose and passion
+    title: 寻找目标和激情
     content: >-
-      A few years ago, the HR department in Jaipur Rugs was renamed “*The Search
-      for Divine Soul*”.
-
-      The company believes that all people are unique in their own way and their sense of purpose can add to the company’s higher purpose.
-
-      Recruitment is based on how candidate can add to company values. Interview questions are designed to learn about candidates’ purpose and principles—rather than focusing on experience and academic background. 
-
-      The founder is directly involved in this process, and often takes the final interview.  Managers at Head Office do the initial interviews. Final decisions are made by consensus of all stakeholders. 
+      几年前，斋浦尔地毯公司的人力资源部更名为“寻找神圣灵魂”。
 
 
+      公司相信每个人都有自己独特的方式，他们的目标感可以为公司的更高目标添砖加瓦。
 
-      *For more insight, please look at the following blog articles from the founder:*
+
+      公司招聘基于应聘者如何增加公司价值。面试问题旨在了解应聘者的目的和原则，而不是侧重于经验和学术背景。
 
 
-      * [Look for purpose and passion when hiring](https://www.nkchaudhary.com/business/look-for-purpose-and-passion-when-hiring/)
+      创始人直接参与招聘过程，并经常参加最终面试。总部的经理进行初步的面试。最终决定由所有利益相关者协商一致来作出。
 
-      * [Know how to hire and retain your employees](https://www.nkchaudhary.com/business/know-how-to-hire-and-retain-your-employees/)
 
-      * [Nurture Creative Leadership](https://www.nkchaudhary.com/founders-mentality/the-need-for-creative-leadership/)
+      *欲知更多详情，请参阅创始人的以下博客文章：*
+
+
+      * [在招聘时寻找目标和激情](https://www.nkchaudhary.com/business/look-for-purpose-and-passion-when-hiring/)
+
+      * [学会如何招聘并留住员工](https://www.nkchaudhary.com/business/know-how-to-hire-and-retain-your-employees/)
+
+      * [培育创造型领导力](https://www.nkchaudhary.com/founders-mentality/the-need-for-creative-leadership/)
   - topic: Onboarding
-    title: An Artisan Engagement Program
-    content: "Onboarding programs are immersive and extensive. They offer induction
-      for joiners and run up to 5 days.  There they learn about every vertical
-      from the grassroots (villages) to the head office. This includes even the
-      artisans. HR department arranges for representatives from each department
-      to present about their work, so each new joiner gets a common
-      understanding. A lot of resources, including videos, and business process
-      are shown and explained. The Artisan Engagement Program ensures they have
-      a holistic understanding of the company and its business model. \r\n"
+    title: 工匠参与计划
+    content: 入职培训计划非常深入而广泛。他们为入职者提供多达5天的入职培训。让他们在这个过程中了解从基层（村庄）到总部的每一个垂直部门。这甚至包括最基层的新加入工匠。人力资源部安排各部门代表介绍各自的工作，使每个新加入者都能达成共识。展示大量的资源（这包括视频）和业务流程，并详细解说。工匠参与计划确保大家对公司及其商业模式有全面的了解。
   - topic: Training and Coaching
     title: Learning together
     content: >-
