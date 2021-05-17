@@ -93,25 +93,24 @@ theory:
 
       * [允许员工发挥创造性思维](https://www.nkchaudhary.com/business/give-employees-the-gift-of-creative-freedom/)
   - topic: Role Definition and Allocation
-    title: Space to grow and explore
+    title: 促进成长和探索的空间
     content: >-
-      Members fill roles that are created, exchanged and discontinued in
-      response to current needs. They aren’t put in a box with a job title.
-      There is space to grow and explore. 
-
-      Some artisans become leaders, entrepreneurs or designers. 
-
-      Leaders: A program called Bunkar Sakhi (meaning  Artisan Leader) allows artisans to receive leadership training. They then help fellow artisans to achieve best quality in their work. 
-
-      Entrepreneurs: Jaipur Rugs artisans have opened centers of weaving in their homes. They have become tour guides for customers and visitors.
-
-      Artist: Under the Manchaha Program (meaning Artisan Original), Jaipur Rug artisans create and design their own rugs. 
+      成员自动填补根据当前需要创建、交换和终止的岗位。他们不是被放在一个有固定头衔的盒子里。拥有成长和探索的空间。
 
 
-      *For more insight, please look at the following blog articles from the founder:* 
+      一些工匠成为了领导者、企业家或设计师。
 
 
-      * [Business is Art](https://www.nkchaudhary.com/business/business-is-art/)
+      领导者：一个名为工匠领导者的项目，允许工匠接受领导力培训。然后，他们帮助其他工匠在他们的工作中达到最佳质量。
+
+
+      企业家：斋浦尔地毯工匠在家中开设编织中心。他们成了顾客和游客的导游。
+
+
+      艺术家：根据曼查哈计划（意指工匠原创），斋浦尔地毯工匠致力于创造和设计自己独特风格的地毯。
+
+
+      欲知更多详情，请参阅创始人的以下博客文章：[商务活动就是艺术创作](https://www.nkchaudhary.com/business/business-is-art/)
   - topic: Evolutionary Purpose
     title: Be flexible, free and flow like water
     content: >-
