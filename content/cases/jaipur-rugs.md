@@ -4,7 +4,7 @@ tags: cases
 name: Jaipur Rugs(斋普尔地毯)
 date: 2021-04-06T06:24:29.395Z
 introduction: >-
-  斋浦尔地毯拥有700名员工，在印度五个州的600个乡村拥有超过40000名工匠。它的商业模式是端对端的，从采购羊毛到出口手工地毯。
+  斋浦尔地毯拥有700名员工，在印度五个州的600个乡村拥有超过40000名工匠。它的商业模式是端对端的，从采购羊毛到出口手工地毯。（模式类似滴滴和美团派送）
 
 
   更多关于斋浦尔地毯的信息，例如：
@@ -80,26 +80,18 @@ theory:
 
       * [后新冠时代的社会创业模式](https://www.nkchaudhary.com/founders-mentality/social-entrepreneurship-in-post-covid-19-era/)
   - topic: Job Titles and Job Descriptions
-    title: Thinking creatively
+    title: 创造性思维
     content: >-
-      Most people don’t have a single “job” that fits a generic description.
-      Rather, they fill a combination of roles. They have the space to grow and
-      co-create with other departments and explore their interests. When a
-      candidate joins, they have a period of probation (3-6 months) during which
-      they explore their interests, and eventually decide on their work role.
-      This depends on requirements from specific teams. But the idea is that
-      each individual gets the chance to choose their tasks according to
-      interest and passion (always given these align with company’s vision).
-      This period also allows the company to assess and understand the
-      candidate. So, it’s win-win. 
-
-      Plus, employees participate in sessions where they provide feedback for management. Each department has such sessions. Additionally, the founder has an open-door policy. This is a direct platform for anyone to go and talk to the founder, which can also help individuals to talk about their roles, if and when required.
+      公司的大多数人没有一个符合一般描述的“工作”。相反，他们填补一个角色组合。他们有发展的空间，有潜力与其他部门共同创造，发掘自己的兴趣。当候选人加入公司时，会有一段试用期（3-6个月），在此期间他们会探索自己的兴趣，并最终决定自己的工作角色。这取决于特定团队的需求。但这样做的目的是，每个人都有机会根据自己的兴趣和热情来选择自己的任务（只要这些都符合公司的愿景）。这段时间也允许公司评估和了解候选人。所以，这是双赢。
 
 
-      *For more insight, please look at the following blog article from the founder:*
+      此外，员工还能参加会议，为管理层提供反馈。每个部门都有这样的会议。此外，创始人还打造了一个开放的政策。提供一个直接的平台，任何人都可以去和创始人交谈，这也可以帮助有需要的员工探讨并重新升维自己的角色。
 
 
-      * [Allow Employees to think creatively](https://www.nkchaudhary.com/business/give-employees-the-gift-of-creative-freedom/)
+      欲知更多详情，请参阅创始人的以下博客文章：
+
+
+      * [允许员工发挥创造性思维](https://www.nkchaudhary.com/business/give-employees-the-gift-of-creative-freedom/)
   - topic: Role Definition and Allocation
     title: Space to grow and explore
     content: >-
