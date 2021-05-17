@@ -65,21 +65,20 @@ theory:
 
       * [商务活动中逆学习很重要](https://www.nkchaudhary.com/founders-mentality/unlearning-is-important-to-business/)
   - topic: Environmental and Social Management
-    title: Connecting rural craftsmanship to global markets
+    title: 连接乡村匠人工艺与全球市场
     content: >-
-      Jaipur Rugs brings rural craftsmanship to global markets via handmade
-      carpets. It is a family business based in Jaipur, and offers hand-knotted
-      and woven rugs made using traditional art forms. 
-
-      The founder, Mr. Nand Kishore Chaudhary, created a business model which provides a livelihood for the artisans at their doorstep. This changed the standard practice of involving middlemen to work with artisan communities. 
+      斋浦尔地毯通过手工地毯将乡村工艺带到全球市场。这是一家位于斋浦尔的家族企业，提供用传统艺术形式制作的手工打结和编织地毯。
 
 
-      *For more insight, please see the following articles from the founder:*
+      创始人南德·基肖尔·乔杜里先生创造了一种商业模式，为家门口的工匠提供生计。这改变了中间商与工匠社区合作的标准做法。
 
 
-      * [What is Social Responsibility in Business?](https://www.nkchaudhary.com/healing/what-is-social-responsibility-in-business/)
+      欲了解更多信息，请参阅创始人的以下文章：
 
-      * [Social Entrepreneurship in Post-COVID-19 Era](https://www.nkchaudhary.com/founders-mentality/social-entrepreneurship-in-post-covid-19-era/)
+
+      * [商务活动中的社会责任](https://www.nkchaudhary.com/healing/what-is-social-responsibility-in-business/)
+
+      * [后新冠时代的社会创业模式](https://www.nkchaudhary.com/founders-mentality/social-entrepreneurship-in-post-covid-19-era/)
   - topic: Job Titles and Job Descriptions
     title: Thinking creatively
     content: >-
