@@ -47,22 +47,23 @@ theory:
     title: 工匠参与计划
     content: 入职培训计划非常深入而广泛。他们为入职者提供多达5天的入职培训。让他们在这个过程中了解从基层（村庄）到总部的每一个垂直部门。这甚至包括最基层的新加入工匠。人力资源部安排各部门代表介绍各自的工作，使每个新加入者都能达成共识。展示大量的资源（这包括视频）和业务流程，并详细解说。工匠参与计划确保大家对公司及其商业模式有全面的了解。
   - topic: Training and Coaching
-    title: Learning together
+    title: 共同学习
     content: >-
-      Training is an essential part of the development programs both for
-      grassroots (villages) and head office people. 
-
-      In 2020, Jaipur Rugs completed a leadership training session based on the founder’s ‘mentality model’. This training helped everyone to share best practices (including self-management) from around the world. The leadership department takes care of this training, which is offered regularly to ensure good participation. 
-
-      The company has formed teams to learn self-management in various ways, including participation in webinars & forums, and small experiments in the teams. 
+      培训是基层（村）和总部人员发展计划的重要组成部分。
 
 
-      *For more insight, see the following blog articles from the founder:* 
+      2020年，斋浦尔地毯公司根据创始人的“思维模式”完成了领导力培训课程。这个培训帮助每个人分享来自世界各地的最佳实践（包括自我管理）。领导部门负责定期提供这项培训，以确保良好的参与。
 
 
-      * [Benefits of Transforming an Organization into a Learning Institution](https://www.nkchaudhary.com/founders-mentality/benefits-of-transforming-an-organization-into-a-learning-institution/)
+      公司组建推进团队，通过各种方式学习自我管理，包括参加网络研讨会和论坛，以及团队中的小实验。
 
-      * [Unlearning is Important to Business](https://www.nkchaudhary.com/founders-mentality/unlearning-is-important-to-business/)
+
+      *欲知更多详情，请参阅创始人的以下博客文章：*
+
+
+      * [关于将一个组织转化成学习机构的想念](https://www.nkchaudhary.com/founders-mentality/benefits-of-transforming-an-organization-into-a-learning-institution/)
+
+      * [商务活动中逆学习很重要](https://www.nkchaudhary.com/founders-mentality/unlearning-is-important-to-business/)
   - topic: Environmental and Social Management
     title: Connecting rural craftsmanship to global markets
     content: >-
