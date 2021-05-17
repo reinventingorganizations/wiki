@@ -112,16 +112,13 @@ theory:
 
       欲知更多详情，请参阅创始人的以下博客文章：[商务活动就是艺术创作](https://www.nkchaudhary.com/business/business-is-art/)
   - topic: Evolutionary Purpose
-    title: Be flexible, free and flow like water
+    title: 灵活，自由，流动若水
     content: >-
-      Reviving the dying art of carpet weaving and creating community are at the
-      core of the company’s business philosophy. Jaipur Rugs has worked to
-      bridge the gap between weavers and consumers. 
+      重振地毯编织这门垂死的艺术，创造社区，是公司经营理念的核心。斋浦尔地毯一直致力于弥合织工和消费者之间的鸿沟。
 
 
+      在下面的博客文章中，这位创始人解释了经营他的公司需要他“变得灵活自如 “若水”：
 
-      In the following blog article, the founder explains how running his company requires him “to be flexible and free flowing like water” :
 
-
-      * [Making Mistakes or Building a Pathway for Creativity?](https://www.nkchaudhary.com/innovation/making-mistakes-or-building-a-pathway-for-creativity/)
+      * [犯错误还是建造创造力通道？](https://www.nkchaudhary.com/innovation/making-mistakes-or-building-a-pathway-for-creativity/)
 ---
