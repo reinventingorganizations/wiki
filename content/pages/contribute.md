@@ -1,6 +1,6 @@
 ---
 layout: content
-name: DRAFT Participation & Governance
+name: DRAFT / Participation & Governance
 ---
 #### Participation
 
@@ -31,27 +31,29 @@ Based on the comments and questions to that post (which are the advice from the 
 
 (If there is ever a need to remove someone from an existing role, this can happen through another person starting a conflict resolution process)
 
-Advice process
+**Advice process**
 All significant decisions get made using the advice process. The advice process states that anyone can make any decision, provided he/she has sought advice from 1) people with expertise and 2) people who will be meaningfully affected by the decision
 
 Typically, the bigger the decision, the more people need to be consulted. For a small decision (making an edit) no-one needs to be consulted. For important decisions, perhaps all contributors need to be consulted. This is best done by posting the proposed decision with request for advice on the Facebook group of the wiki. In some extremely important cases, perhaps a panel of users should be drawn in too.
 
 After listening carefully to the advice, the person takes the best decision in his/her opinion, in service to the wiki’s purpose. The decision should not need to be a watered-down compromise, it should represent the best decision based on the collective input received. The decision should be made transparent to everyone who should know about it (for instance, posting the decision again in the Facebook group), with if needed the reasoning behind it.
 
-Conflict resolution process
+**Conflict resolution process**
 Any conflict of perspectives, or any personal conflict, can be channeled through a conflict resolution process. The process can have up to 3 steps.
 
 Person A declares the conflict to person B. The two persons meet and person A must expose the conflict and make a request to person B. Person B can agree to the request, or must make a counter-proposal that satisfies person A’s grievance. And so forth until a resolution is reached
 If the two persons can’t find a solution, they can ask a third person (C) that they both trust to help out. C can’t impose a decision, simply ask questions and mirror back, possibly give advice
 If the conflicting parties still don’t find resolution, they ask a panel of 4 or 5 person to help them. Again the panel cannot impose a solution, simply help the persons try to find a solution.
-Celebration process
+
+
+**Celebration process**
 Any noteworthy intermediary progress as well as major achievement deserves to be celebrated, as well as any significant contribution.
 
 We are all donating our time and skills here, so it’s especially nice to feel others appreciate what we do. 
 
 This can happen in many ways. The simplest way is for anyone to post a message on the Facebook and/or a special wiki page, and others to send back messages to congratulate/celebrate. Perhaps we can invent other ways?
 
-Listening process
+**Listening process**
 Is the wiki serving its purpose well? Or does the purpose need updating? Where is the wiki called to go?
 
 We are all invited, collectively to listen. Hopefully, much of the listening happens on an on-going basis, without needing any specific process. We are all gifted sensors, and as different people bring up new ideas, thoughts, criticisms, the wiki will evolve organically to express its deepest creative potential.
