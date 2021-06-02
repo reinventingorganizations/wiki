@@ -28,7 +28,7 @@ ANYBODY inside the wiki team decide to continue this conversation, enrich the id
 
 ## Decisions on Criteria / Process v1.0
 
-1. Organization ideal profile (see below exceptions to this) : 
+1. Organization ideal profile (*see in section 2 **exceptions** to this*) : 
 
    * Minimum 100 persons working for the organization
    * At least 5 years since the start of the Teal journey
@@ -47,4 +47,5 @@ ANYBODY inside the wiki team decide to continue this conversation, enrich the id
    * The article is published, including in its introduction **a way to connect to the organization** for further information, this makes a link between the reader and the organization, with no bottleneck inside the wiki team.
 
 * When the article is published, the case owner makes sure that in the introduction, **the date of the publication** (or last revision) is clear.
-* please check https://trello.com/c/TBciKesB for details in Trello about the templates to be used by case owner and how the create the case*
+
+*please check <https://trello.com/c/TBciKesB> for details in Trello about the templates to be used by case owner and how the create the case*
