@@ -2,6 +2,8 @@
 layout: content
 name: Criteria / Process for an Organization to be studied as a new Wiki case
 ---
+![](/media/criteria.jpg)
+
 ### Version History
 
 * 1.0 released after June 2dn meeting with Imre, Bettina, Ana, Catherine. Based (following input provided since initial meeting on May 12th with Alia, Ana, Britta, Catherine, Frédéric (Losfeld), Graciela, Imre, Rose.
@@ -31,5 +33,3 @@ ANYBODY inside the wiki team decide to continue this conversation, enrich the id
    * At least 2 from the 3 main focuses (Evolutionary purpose, wholeness, self-management)
    * Top manager of the organization supports the case information, and he/she is open to further questions.
    * Prefer organizations that are under-represented inside the wiki (e.g. public sector) or have practices that are less illustrated (e.g. Self-management !)
-
-
