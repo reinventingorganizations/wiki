@@ -45,4 +45,5 @@ ANYBODY inside the wiki team decide to continue this conversation, enrich the id
    * The case owner also makes sure the pointer to the mast version of the articles are clear from the Trello card. From there anybody inside the wiki can comment, make suggestions, and article might be revised accordingly.
    * When the review process is finished (e.g. allowing 2 weeks to the people to see and reply to the case proposal), the case owner takes the decision to publish the case, or not.
    * A formal OK is requested to the organization before the publication. The agreement is stored in Trello as an attachment. This mightsound overkilling but can be a good way to protect us a an organization and as volunteers , just in case.
-   * The article is published, including in its introcution a way to connect to the organization for further information 
+   * The article is published, including in its introcution a way to connect to the organization for further information, this makes a link between the reader and the organization, with no bottleneck inside the wiki team.
+
