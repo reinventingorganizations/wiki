@@ -6,7 +6,9 @@ name: Criteria / Process for an Organization to be studied as a new Wiki case
 
 ### Version History
 
-* 1.0 released after June 2dn meeting with Imre, Bettina, Ana, Catherine. Based (following input provided since initial meeting on May 12th with Alia, Ana, Britta, Catherine, Frédéric (Losfeld), Graciela, Imre, Rose.
+* 1.0 released after **June 2nd, 2021** meeting with Imre, Bettina, Ana, Catherine. 
+
+  \> following input provided since initial meeting on May 12th, 2021 with Alia, Ana, Britta, Catherine, Frédéric (Losfeld), Graciela, Imre, Rose.
 
 ### Resources :
 
