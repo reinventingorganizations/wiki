@@ -45,7 +45,8 @@ ANYBODY inside the wiki team decide to continue this conversation, enrich the id
    * When the **review process** is finished (e.g. allowing 2 weeks to the people to see and reply to the case proposal), the case owner takes the decision to publish the case, or not.
    * A **formal OK** is requested to the organization before the publication. The agreement is stored in Trello as an attachment, just in case.
    * The article is published, including in its introduction **a way to connect to the organization** for further information, this makes a link between the reader and the organization, with no bottleneck inside the wiki team.
+   * When the article is published, the case owner makes sure that in the introduction, **the date of the publication** (or last revision) is clear.
 
-* When the article is published, the case owner makes sure that in the introduction, **the date of the publication** (or last revision) is clear.
+... And finally we will prepare (coming soon) a page which will be an internal summary for the wiki team of all the cases and **why they have been selected**. The case owner will need to update this page when the case is published.
 
 *please check <https://trello.com/c/TBciKesB> for details in Trello about the templates to be used by case owner and how the create the case*
