@@ -16,7 +16,7 @@ The wiki is not run along a traditional management model. There is no hierarchy,
 
 There are 5 processes that the group of contributors decide to adhere to, allowing the group to operate in a self-managing fashion:
 
-Role appointment process
+**Role appointment process**
 After the wikithon is over, any person can propose him or herself for any role (see role descriptions).
 
 People who want to be contribute as content editors or language editors can simply go and get busy, after introducing themselves on the Facebook group of the wiki. No appointment process for these two roles.
