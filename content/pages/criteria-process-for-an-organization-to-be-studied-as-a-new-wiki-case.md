@@ -24,7 +24,7 @@ name: Criteria / Process for an Organization to be studied as a new Wiki case
 
 This list of criteria / decision is an INITIAL framework for our team to work with. 
 
-ANYBODY inside the wiki team decide to continue this conversation, enrich the ideas feeding the initial decisions, and carry foward the production of a 2.0 (or later release) of this page.
+**Anybody inside the wiki team** decide to continue this conversation, enrich the ideas feeding the initial decisions, and carry forward the production of a 2.0 (or later release) of this page.
 
 ## Decisions on Criteria / Process v1.0
 
