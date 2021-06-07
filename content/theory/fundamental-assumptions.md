@@ -201,7 +201,7 @@ inPractice: >-
   ##### *Odpowiedzialność i rozliczalność*
 
 
-  * Każdy z nas ponosi pełną odpowiedzialność za organizację. Jeśli czujemy, że coś musi się wydarzyć, mamy obowiązek się tym zająć. niedopuszczalne jest ograniczanie naszej troski do zakresu ról.
+  * Każdy z nas ponosi pełną odpowiedzialność za organizację. Jeśli czujemy, że coś musi się wydarzyć, mamy obowiązek się tym zająć. Niedopuszczalne jest ograniczanie naszej troski do zakresu ról.
 
   * Każdy musi czuć się komfortowo z pociąganiem innych do odpowiedzialności za swoje zobowiązania poprzez informacje zwrotne i pełną szacunku konfrontację.
 
