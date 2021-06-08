@@ -1,5 +1,5 @@
 ---
 tags: practicesTheoryCategories
 key: Important Processes
-name: Key business processes
+name: Kluczowe procesy biznesowe
 ---
