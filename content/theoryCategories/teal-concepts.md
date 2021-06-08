@@ -1,5 +1,5 @@
 ---
 key: teal-concepts
-name: Teal concepts
+name: Koncepty Turkusu
 tags: backgroundTheoryCategories
 ---
