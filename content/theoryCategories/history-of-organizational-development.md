@@ -1,5 +1,5 @@
 ---
 tags: backgroundTheoryCategories
 key: history
-name: History of organizational evolution
+name: Historia rozwoju organizacyjnego
 ---
