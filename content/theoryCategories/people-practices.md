@@ -1,5 +1,5 @@
 ---
 tags: practicesTheoryCategories
 key: People practices
-name: People practices ("HR")
+name: Praktyki zarządzania ludźmi ("HR")
 ---
