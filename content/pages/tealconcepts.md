@@ -20,4 +20,4 @@ Short resume about the main teal concepts described in the book
 * [Amber Paradigm and Organizations](/theory/amber-paradigm-and-organizations/)
 * [Orange Paradigm and Organizations](/theory/orange-paradigm-and-organizations/)
 * [Green Paradigm and Organizations](/theory/green-paradigm-and-organizations/)
-* [Teal Paradigm and Organizations](../theory/teal-paradigm-and-organizations/)
+* [Teal Paradigm and Organizations](/theory/teal-paradigm-and-organizations/)
