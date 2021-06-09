@@ -94,37 +94,37 @@ inPractice: >-
   ### Proces doradczy
 
 
-  Almost all [Teal organizations](../teal-paradigm-and-organizations/) use, in one form or another, what an early practitioner ([AES](http://www.aes.com/)) called the “advice process.” 
+  Prawie wszystkie [Turkusowe organizacje](../teal-paradigm-and-organizations/) używają, w tej lub innej formie, jak wczesny praktyk ([AES](http://www.aes.com/)) nazwał “procesem doradczym”. 
 
 
-  It comes in many forms, but the essence is consistent: any person can make any decision after seeking advice from 1) everyone who will be meaningfully affected, and 2) people with expertise in the matter.
+  Występuje w wielu formach, ale istota jest spójna: każda osoba może podjąć dowolną decyzję po zasięgnięciu porady 1) każdego, kto będzie miał znaczący wpływ, oraz 2) osób posiadających doświadczenie w tej sprawie.
 
 
-  Advice received must be taken into consideration. The point is not to create a watered-down compromise that accommodates everybody’s wishes. It is about accessing collective wisdom in pursuit of a sound decision. With all the advice and perspectives the decision maker has received, they choose what they believe to be the best course of action.
+  Otrzymane porady muszą być brane pod uwagę. Nie chodzi o stworzenie rozwodnionego kompromisu, który spełniałby życzenia wszystkich. Chodzi o dostęp do zbiorowej mądrości w pogoni za rozsądną decyzją. Dzięki wszystkim radom i perspektywom, jakie otrzymał decydent, wybierają to, co uważają za najlepszy sposób działania.
 
 
-  Advice is simply advice. No colleague, whatever their importance, can tell a decision-maker what to decide. Usually, the decision-maker is the person who first noticed the issue, or the person most affected by it. 
+  Porada to po prostu rada. Żaden kolega, bez względu na jego znaczenie, nie może powiedzieć decydentowi, co ma podjąć. Zwykle decydentem jest osoba, która jako pierwsza zauważyła problem, lub osoba, której on najbardziej dotyczy.
 
 
-  In practice, this process proves remarkably effective. It allows anybody to seize the initiative. Power is no longer a zero-sum game. Everyone is powerful via the advice process.
+  W praktyce proces ten okazuje się niezwykle skuteczny. Każdy może przejąć inicjatywę. Władza nie jest już grą o sumie zerowej. Każdy ma wpływ dzięki procesowi doradztwa.
 
 
   #### To nie jest konsensus
 
 
-  We often imagine decisions can be made in only two ways: either by the person with authority (someone calls the shots; some people might be frustrated; but at least things get done), or by unanimous agreement (everyone gets a say, but it can be frustratingly slow).
+  Często wyobrażamy sobie, że decyzje mogą być podejmowane tylko na dwa sposoby: albo przez osobę sprawującą władzę (ktoś decyduje, niektórzy ludzie mogą być sfrustrowani, ale przynajmniej coś się udaje), albo przez jednomyślną zgodę (każdy ma coś do powiedzenia, ale może być frustrująco powolny).
 
 
-  It is a misunderstanding that self-management decisions are made by getting everyone to agree, or even involving everyone in the decision. The advice seeker must take all relevant advice into consideration, but can still make the decision. 
+  Nieporozumieniem jest, że decyzje dotyczące samozarządzania podejmowane są poprzez uzyskanie zgody wszystkich, a nawet angażowanie wszystkich w podejmowanie decyzji. Osoba poszukująca porady musi wziąć pod uwagę wszystkie istotne porady, ale nadal może podjąć decyzję.
 
 
-  Consensus may sound appealing, but it's not always most effective to give everybody veto power. In the advice process, power and responsibility rest with the decision-maker. Ergo, there is no power to block.
+  Konsensus może brzmieć zachęcająco, ale nie zawsze najskuteczniejsze jest dać każdemu prawo weta. W procesie doradczym władza i odpowiedzialność spoczywa na decydentach. Ergo, nie ma mocy do zablokowania.
 
 
-  Ownership of the issue stays clearly with one person: the decision maker. Convinced she made the best possible decision, she can see things through with enthusiasm, and she can accept responsibility for any mistakes.
+  Własność problemu pozostaje wyraźnie w rękach jednej osoby: decydenta. Przekonana, że ​​podjęła najlepszą możliwą decyzję, widzi wszystko z entuzjazmem i może przyjąć odpowiedzialność za wszelkie błędy.
 
 
-  The advice process, then, transcends both top-down *and* consensus-based decision making.
+  Proces doradczy wykracza zatem poza podejmowanie decyzji odgórne *i* oparte na konsensusie.
 
 
   #### Korzyści z procesu doradczego
