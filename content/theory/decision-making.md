@@ -6,53 +6,91 @@ name: Podejmowanie Decyzji
 sortOrder: 3
 category: Daily practices
 intro: >-
-  The topic of decision-making discusses how decisions are made within
-  organizations, and by whom. In Teal organizations, decision-making authority
-  is truly distributed throughout the organization.
+  Temat podejmowania decyzji dotyczy tego, jak i przez kogo podejmowane są
+  decyzje w organizacjach. W organizacjach turkusowych uprawnienia do
+  podejmowania decyzji są prawdziwie rozłożone w całej organizacji.
 
 
   ![](/media/decision.jpg)
-perspective: >-
-  In [Teal organizations](../teal-paradigm-and-organizations/) decision-making
-  is highly distributed. Front-line individuals or teams have the opportunity to
-  make decisions that affect their work. While these decisions may not need to
-  be validated by a hierarchy or consensus, it is expected that experts, and
-  those affected, should be involved.
+perspective: "W [organizacjach Turkusu](../teal-paradigm-and-organizations/)
+  proces decyzyjny jest bardzo rozproszony. Osoby lub zespoły z pierwszej linii
+  mają możliwość podejmowania decyzji, które mają wpływ na ich pracę. Chociaż
+  decyzje te mogą nie wymagać zatwierdzania przez hierarchię lub konsensus,
+  oczekuje się, że zaangażowani będą eksperci i osoby, których to dotyczy.
+
+  \r
+
+  \r
 
 
-  Every historical stage has given birth to a distinct perspective on decision making and to very different practices. In earlier periods, decisions may have been made at the top. Today, some organizations consciously try to "empower" people at the bottom. 
+  Na każdym etapie historycznym narodziła się odrębna perspektywa podejmowania
+  decyzji i bardzo różne praktyki. We wcześniejszych okresach decyzje mogły być
+  podejmowane na górze. Dziś niektóre organizacje świadomie próbują „umocnić”
+  ludzi na dole.
 
 
-  #### Red organizations
+  #### Czerwona organizacje
 
 
-  In the[ Red paradigm](../red-organizations/), decisions of any consequence are made by the boss/chief. Employees must seek his or her approval, or risk severe consequences. Red organizations can be efficient, but control, exercised through fear, limits the willingness of members to make independent decisions.
+  In the[ Red paradigm](../red-organizations/), decisions of any consequence
+  are made by the boss/chief. Employees must seek his or her approval, or risk
+  severe consequences. Red organizations can be efficient, but control,
+  exercised through fear, limits the willingness of members to make independent
+  decisions.
 
 
-  #### Amber organizations
+  #### Bursztynowe organizacje
 
 
-  In the [Amber paradigm](../amber-paradigm-and-organizations/), decision-making authority is determined by an individual’s status in the hierarchy. Innovation is not particularly valued; following standard operating procedures is. A clear chain of command supported by formal processes defines who can do what. Individuals are expected to embrace these processes and traditions.
+  In the [Amber paradigm](../amber-paradigm-and-organizations/),
+  decision-making authority is determined by an individual’s status in the
+  hierarchy. Innovation is not particularly valued; following standard operating
+  procedures is. A clear chain of command supported by formal processes defines
+  who can do what. Individuals are expected to embrace these processes and
+  traditions.
 
 
-  #### Orange organizations
+  #### Pomarańczowe organizacje
 
 
-  In the [Orange paradigm](../orange-paradigm-and-organizations/), organizations are viewed as machines that need to be 'tuned' for efficiency. Top management announces the overall direction or strategy and then objectives cascade down. Managers draw up plans for approval based on their objectives. These plans guide decision-making toward the achievement of goals—for example, profit and market share. Team members are invited to suggest initiatives and participate in the decision-making process. This encourages innovation and debate. The overriding aims are predictability and control.
+  In the [Orange paradigm](../orange-paradigm-and-organizations/),
+  organizations are viewed as machines that need to be 'tuned' for efficiency.
+  Top management announces the overall direction or strategy and then objectives
+  cascade down. Managers draw up plans for approval based on their objectives.
+  These plans guide decision-making toward the achievement of goals—for example,
+  profit and market share. Team members are invited to suggest initiatives and
+  participate in the decision-making process. This encourages innovation and
+  debate. The overriding aims are predictability and control.
 
 
-  #### Green organizations
+  #### Zielone organizacje
 
 
-  Values-driven, purpose-led [Green organizations](../green-paradigm-and-organizations/) strive to serve multiple stakeholders. Front-line employees, for example, are often encouraged to make significant decisions without higher approvals in the interests of serving customers and the wider stakeholder community. They are in touch with the day-to-day issues, and trusted to devise better solutions than ‘experts’ who may be far away. Emphasis is on maintaining a strong, often “familial”, culture. Consensus is highly valued.
+  Values-driven, purpose-led [Green
+  organizations](../green-paradigm-and-organizations/) strive to serve multiple
+  stakeholders. Front-line employees, for example, are often encouraged to make
+  significant decisions without higher approvals in the interests of serving
+  customers and the wider stakeholder community. They are in touch with the
+  day-to-day issues, and trusted to devise better solutions than ‘experts’ who
+  may be far away. Emphasis is on maintaining a strong, often “familial”,
+  culture. Consensus is highly valued.
 
 
-  #### Teal organizations
+  #### Turkusowe organizacje
 
 
-  In Evolutionary-Teal, there is a shift from external to internal yardsticks in decision-making. People are now concerned with the question of inner rightness: does this decision seem right? Am I being true to myself? Is this in line with who I sense I am? Am I being of service to the world? With fewer ego-fears, people are able to make decisions that might seem risky. All the possible outcomes may not have been weighed up, but the decision resonates with deep inner convictions. People develop a sensitivity for situations that don’t quite feel right, and situations that demand that they speak up and take action, even in the face of opposition or with seemingly low odds of success. This is born out of a sense of integrity and authenticity.
+  In Evolutionary-Teal, there is a shift from external to internal yardsticks
+  in decision-making. People are now concerned with the question of inner
+  rightness: does this decision seem right? Am I being true to myself? Is this
+  in line with who I sense I am? Am I being of service to the world? With fewer
+  ego-fears, people are able to make decisions that might seem risky. All the
+  possible outcomes may not have been weighed up, but the decision resonates
+  with deep inner convictions. People develop a sensitivity for situations that
+  don’t quite feel right, and situations that demand that they speak up and take
+  action, even in the face of opposition or with seemingly low odds of success.
+  This is born out of a sense of integrity and authenticity."
 inPractice: >-
-  ### The advice process
+  ### Proces doradczy
 
 
   Almost all [Teal organizations](../teal-paradigm-and-organizations/) use, in one form or another, what an early practitioner ([AES](http://www.aes.com/)) called the “advice process.” 
@@ -70,7 +108,7 @@ inPractice: >-
   In practice, this process proves remarkably effective. It allows anybody to seize the initiative. Power is no longer a zero-sum game. Everyone is powerful via the advice process.
 
 
-  #### It's not consensus
+  #### To nie jest konsensus
 
 
   We often imagine decisions can be made in only two ways: either by the person with authority (someone calls the shots; some people might be frustrated; but at least things get done), or by unanimous agreement (everyone gets a say, but it can be frustratingly slow).
@@ -88,7 +126,7 @@ inPractice: >-
   The advice process, then, transcends both top-down *and* consensus-based decision making.
 
 
-  #### Benefits of the advice process
+  #### Korzyści z procesu doradczego
 
 
   The advice process allows self-management to flourish. Dennis Bakke, who introduced the practice at AES (and who wrote two books about it), highlights some important benefits: creating community, humility, learning, better decisions, and fun.
@@ -105,7 +143,7 @@ inPractice: >-
   * **Fun**: the process is just plain fun for the decision-maker, because it mirrors the joy found in playing team sports. The advice process stimulates initiative and creativity, which are enhanced by the wisdom from knowledgeable people elsewhere in the organization.
 
 
-  #### Steps in the advice process
+  #### Kroki w procesie doradczym
 
 
   There are a number of steps in the advice process:
