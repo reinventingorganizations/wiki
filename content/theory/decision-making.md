@@ -32,63 +32,64 @@ perspective: "W [organizacjach Turkusu](../teal-paradigm-and-organizations/)
   #### Czerwona organizacje
 
 
-  In the[ Red paradigm](../red-organizations/), decisions of any consequence
-  are made by the boss/chief. Employees must seek his or her approval, or risk
-  severe consequences. Red organizations can be efficient, but control,
-  exercised through fear, limits the willingness of members to make independent
-  decisions.
+  W [Czerwonym paradygmacie](../red-organizations/), decyzje o wszelkich
+  konsekwencjach podejmuje szef. Pracownicy muszą uzyskać jego zgodę lub narażać
+  się na poważne konsekwencje. Czerwone organizacje mogą być skuteczne, ale
+  kontrola, sprawowana przez strach, ogranicza chęć członków do podejmowania
+  samodzielnych decyzji.
 
 
   #### Bursztynowe organizacje
 
 
-  In the [Amber paradigm](../amber-paradigm-and-organizations/),
-  decision-making authority is determined by an individual’s status in the
-  hierarchy. Innovation is not particularly valued; following standard operating
-  procedures is. A clear chain of command supported by formal processes defines
-  who can do what. Individuals are expected to embrace these processes and
-  traditions.
+  W [paradygmacie Bursztynu](../amber-paradigm-and-organizations/), władza
+  decyzyjna zależy od statusu jednostki w hierarchii. Innowacje nie są
+  szczególnie cenione; zgodnie ze standardowymi procedurami operacyjnymi. Jasny
+  łańcuch dowodzenia wspierany przez formalne procesy określa, kto może co
+  robić. Oczekuje się, że jednostki przyjmą te procesy i tradycje.
 
 
   #### Pomarańczowe organizacje
 
 
-  In the [Orange paradigm](../orange-paradigm-and-organizations/),
-  organizations are viewed as machines that need to be 'tuned' for efficiency.
-  Top management announces the overall direction or strategy and then objectives
-  cascade down. Managers draw up plans for approval based on their objectives.
-  These plans guide decision-making toward the achievement of goals—for example,
-  profit and market share. Team members are invited to suggest initiatives and
-  participate in the decision-making process. This encourages innovation and
-  debate. The overriding aims are predictability and control.
+  W [Pomarańczowym paradygmacie](../orange-paradigm-and-organizations/),
+  organizacje są postrzegane jako maszyny, które należy „dostroić” pod kątem
+  wydajności. Najwyższe kierownictwo ogłasza ogólny kierunek lub strategię, a
+  następnie cele spadają kaskadowo. Menedżerowie sporządzają plany do
+  zatwierdzenia w oparciu o ich cele. Plany te kierują podejmowaniem decyzji w
+  kierunku osiągnięcia celów — na przykład zysku i udziału w rynku. Członkowie
+  zespołu są zapraszani do zgłaszania inicjatyw i uczestniczenia w procesie
+  decyzyjnym. To zachęca do innowacji i debaty. Nadrzędnymi celami są
+  przewidywalność i kontrola.
 
 
   #### Zielone organizacje
 
 
-  Values-driven, purpose-led [Green
-  organizations](../green-paradigm-and-organizations/) strive to serve multiple
-  stakeholders. Front-line employees, for example, are often encouraged to make
-  significant decisions without higher approvals in the interests of serving
-  customers and the wider stakeholder community. They are in touch with the
-  day-to-day issues, and trusted to devise better solutions than ‘experts’ who
-  may be far away. Emphasis is on maintaining a strong, often “familial”,
-  culture. Consensus is highly valued.
+  Oparte na wartościach, ukierunkowane na cel [Zielone
+  organizacje](../green-paradigm-and-organizations/) starają się służyć wielu
+  interesariuszom. Na przykład pracownicy pierwszej linii są często zachęcani do
+  podejmowania ważnych decyzji bez wyższych aprobat w interesie obsługi klientów
+  i szerszej społeczności interesariuszy. Są w kontakcie z codziennymi
+  problemami i mają zaufanie, że opracują lepsze rozwiązania niż „eksperci”,
+  którzy mogą być daleko. Nacisk kładziony jest na utrzymanie silnej, często
+  „rodzinnej” kultury. Konsensus jest wysoko ceniony.
 
 
   #### Turkusowe organizacje
 
 
-  In Evolutionary-Teal, there is a shift from external to internal yardsticks
-  in decision-making. People are now concerned with the question of inner
-  rightness: does this decision seem right? Am I being true to myself? Is this
-  in line with who I sense I am? Am I being of service to the world? With fewer
-  ego-fears, people are able to make decisions that might seem risky. All the
-  possible outcomes may not have been weighed up, but the decision resonates
-  with deep inner convictions. People develop a sensitivity for situations that
-  don’t quite feel right, and situations that demand that they speak up and take
-  action, even in the face of opposition or with seemingly low odds of success.
-  This is born out of a sense of integrity and authenticity."
+  W ewolucyjnym Turkusie następuje przejście od zewnętrznych do wewnętrznych
+  mierników w podejmowaniu decyzji. Ludzie są teraz zainteresowani kwestią
+  wewnętrznej słuszności: czy ta decyzja wydaje się słuszna? Czy jestem wierny
+  sobie? Czy to jest zgodne z tym, kim czuję, że jestem? Czy służę światu? Mając
+  mniej lęków przed ego, ludzie są w stanie podejmować decyzje, które mogą
+  wydawać się ryzykowne. Być może nie rozważono wszystkich możliwych wyników,
+  ale decyzja ta ma głębokie wewnętrzne przekonania. Ludzie rozwijają wrażliwość
+  na sytuacje, które nie są dla nich właściwe i sytuacje, które wymagają od nich
+  zabrania głosu i podjęcia działań, nawet w obliczu sprzeciwu lub przy pozornie
+  niskich szansach na sukces. Rodzi się to z poczucia integralności i
+  autentyczności."
 inPractice: >-
   ### Proces doradczy
 
