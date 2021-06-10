@@ -113,7 +113,7 @@ theory:
       A concrete consequence of this commitment to mission is the boycott of Black Friday. Camif.fr closed its site on Nov. 24, 2017 for the first time to raise awareness of responsible consumption. An invitation is made to each one this day to make a step aside, to take distance on the habits of overconsumption. And to take times to think about adopting new behaviors like recycling, reusing.
 
 
-      With La Place (https://www.camif.fr/laplace/), Camif proposes alternatives to overconsumption and aims to promote local products. La Place is a platform that brings together all the players in the responsible economy, repair, recycling or the social and solidarity economy.
+      With La Place <https://www.camif.fr/laplace/>, Camif proposes alternatives to overconsumption and aims to promote local products. La Place is a platform that brings together all the players in the responsible economy, repair, recycling or the social and solidarity economy.
 
 
       (*) consumers, employees, suppliers, shareholders, local stakeholders
