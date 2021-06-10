@@ -92,9 +92,9 @@ theory:
 
       [https://www.camif.fr/lesbelleshistoires/anne-laure-maison-
 
-      une-artiste-en-residence-la-camif.html ](<https://www.camif.fr/lesbelleshistoires/anne-laure-maison-
+      une-artiste-en-residence-la-camif.html](<https://www.camif.fr/lesbelleshistoires/anne-laure-maison-
 
-      une-artiste-en-residence-la-camif.html>)(in french)
+      une-artiste-en-residence-la-camif.html>) *in french*
   - topic: Environmental and Social Management
     title: A mission-driven enterprise
     content: >-
