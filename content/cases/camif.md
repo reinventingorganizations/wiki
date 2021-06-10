@@ -93,4 +93,26 @@ theory:
       une-artiste-en-residence-la-camif.html ](<https://www.camif.fr/lesbelleshistoires/anne-laure-maison-
 
       une-artiste-en-residence-la-camif.html>)(in french)
+  - topic: Environmental and Social Management
+    title: A mission-driven enterprise
+    content: >-
+      After being certified as a “B Corp” or Benefit Corporation in 2015, Camif
+      chose to open a new era and become a pioneer “mission-driven enterprise”
+      in France which means that by law:
+
+
+      * The purpose of the company, called its “mission,” is defined and inscribed in legal statutes.
+
+      * A form of commitment: the statutes formally commit the shareholders, and are accompanied by conditions to be met in order to abolish or modify the mission (generally obtaining 2/3 votes of each class of shares).
+
+      * Control mechanisms associated with the mission, through the implementation of a reporting system, the rights of shareholders and third parties (or stakeholders*), as well as adapted governance mechanisms, accompany this legal system and ensure its control.
+
+
+      A concrete consequence of this commitment to mission is the boycott of Black Friday. Camif.fr closed its site on Nov. 24, 2017 for the first time to raise awareness of responsible consumption. An invitation is made to each one this day to make a step aside, to take distance on the habits of overconsumption. And to take times to think about adopting new behaviors like recycling, reusing.
+
+
+      With La Place (https://www.camif.fr/laplace/), Camif proposes alternatives to overconsumption and aims to promote local products. La Place is a platform that brings together all the players in the responsible economy, repair, recycling or the social and solidarity economy.
+
+
+      (*) consumers, employees, suppliers, shareholders, local stakeholders
 ---
