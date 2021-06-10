@@ -115,4 +115,23 @@ theory:
 
 
       (*) consumers, employees, suppliers, shareholders, local stakeholders
+  - topic: Information Flow
+    title: The musical chairs
+    content: >
+      The former Camif was very hierarchical and segregated before it went
+      bankrupt and was acquired in 2009.
+
+      The new management advocates now the free flow of information. 
+
+      It also actively preaches the movement of people! Every week, it's musical chairs: each employee changes neighbors, according to a very carefully orchestrated schedule. 
+
+      There is also the "Tuesday update": a group-viewed slide-show review of activity and projects in progress, and results. To facilitate the sharing, the animator is renewed each time. This is an opportunity to review Camif's core business: Marketing and Offer. Employees are free to insert their slide before Tuesday morning to present specific topics on their activities, make calls for volunteers, etc. (The slide deck is available on the network).
+
+      Tuesday's meeting is also an opportunity to talk about decisions that will be taken in a collaborative way: the telework charter, ...
+
+      For newcomers, it is required for them to present themselves to all the employees (what is your background, your job, your favorite food, your gesture for the planet.)
+
+      The participation rate is usually 100%, excluding absences due to illness, vacations, time off, etc.
+
+      Each week, an employee is drawn at random and will introduce the following Tuesday's update. He or she will be the facilitator and will also have to introduce himself or herself and the roles he or she plays in the organization. The objective here is to encourage all employees who do not necessarily have the opportunity to speak in public to do so.
 ---
