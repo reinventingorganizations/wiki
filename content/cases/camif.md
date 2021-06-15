@@ -44,4 +44,50 @@ theory:
       exchanges and to create links with the manufacturers in the
       regions.
       *<https://www.camif.fr/tour_camif.html>*
+  - topic: Culture et valeurs
+    title: "\"It's up to me to invent the future\""
+    content: >-
+      After the buyout and merger of Camif in 2009, the CEO knew
+
+      that moving towards more collaboration among the teams
+
+      would require a change in culture, and that this would be
+
+      something taking a lot of time.
+
+      To create links and encourage innovation, Camif has hosted
+
+      an artist in residence for three months. Struck by the fact that
+
+      the employees exchanged emails in the open space instead
+
+      of talking to each other, she started by marking the spots of
+
+      real exchanges with pink strips on the floor. The less talkative
+
+      ones quickly understood that they lacked interactivity.
+
+      Then she made use of the parking lot and renamed the
+
+      spaces with the names of her favorite artists. Every morning,
+
+      employees discovered new painters or sculptors while
+
+      parking and talked about them among themselves.
+
+      The teams were shaken up but were also quickly bonded by
+
+      the dialogue and the link created by these creations.
+
+      Moreover, it was no longer a question of rehashing the past
+
+      with things like “before, we did it like that". 
+
+
+      CAMIF became "C'est A Moi d'Inventer le Futur" ("It's up to me to invent the
+
+      future“).
+
+
+      <https://www.camif.fr/lesbelleshistoires/anne-laure-maison-une-artiste-en-residence-la-camif.html> *in french*
 ---
