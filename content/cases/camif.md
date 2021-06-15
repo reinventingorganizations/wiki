@@ -90,4 +90,45 @@ theory:
 
 
       <https://www.camif.fr/lesbelleshistoires/anne-laure-maison-une-artiste-en-residence-la-camif.html> *in french*
+  - topic: Gestion environnementale et sociale
+    title: A mission-driven enterprise
+    content: >-
+      After being certified as a “B Corp” or Benefit Corporation in 2015, Camif
+      chose to open a new era and become a pioneer “mission-driven enterprise”
+      in France which means that by law:
+
+
+      * The purpose of the company, called its “mission,” is defined and inscribed in legal statutes.
+
+      * A form of commitment: the statutes formally commit the shareholders, and are accompanied by conditions to be met in order to abolish or modify the mission (generally obtaining 2/3 votes of each class of shares).
+
+      * Control mechanisms associated with the mission, through the implementation of a reporting system, the rights of shareholders and third parties (or stakeholders*), as well as adapted governance mechanisms, accompany this legal system and ensure its control.
+
+
+      A concrete consequence of this commitment to mission is the boycott of Black Friday. Camif.fr closed its site on Nov. 24, 2017 for the first time to raise awareness of responsible consumption. An invitation is made to each one this day to make a step aside, to take distance on the habits of overconsumption. And to take times to think about adopting new behaviors like recycling, reusing.
+
+
+      With La Place <https://www.camif.fr/laplace/>, Camif proposes alternatives to overconsumption and aims to promote local products. La Place is a platform that brings together all the players in the responsible economy, repair, recycling or the social and solidarity economy.
+
+
+      (*) consumers, employees, suppliers, shareholders, local stakeholders
+  - topic: Communication interne
+    title: The musical chairs
+    content: >-
+      The former Camif was very hierarchical and segregated before it went
+      bankrupt and was acquired in 2009.
+
+      The new management advocates now the free flow of information. 
+
+      It also actively preaches the movement of people! Every week, it's musical chairs: each employee changes neighbors, according to a very carefully orchestrated schedule. 
+
+      There is also the "Tuesday update": a group-viewed slide-show review of activity and projects in progress, and results. To facilitate the sharing, the animator is renewed each time. This is an opportunity to review Camif's core business: Marketing and Offer. Employees are free to insert their slide before Tuesday morning to present specific topics on their activities, make calls for volunteers, etc. (The slide deck is available on the network).
+
+      Tuesday's meeting is also an opportunity to talk about decisions that will be taken in a collaborative way: the telework charter, ...
+
+      For newcomers, it is required for them to present themselves to all the employees (what is your background, your job, your favorite food, your gesture for the planet.)
+
+      The participation rate is usually 100%, excluding absences due to illness, vacations, time off, etc.
+
+      Each week, an employee is drawn at random and will introduce the following Tuesday's update. He or she will be the facilitator and will also have to introduce himself or herself and the roles he or she plays in the organization. The objective here is to encourage all employees who do not necessarily have the opportunity to speak in public to do so.
 ---
