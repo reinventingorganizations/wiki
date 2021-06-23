@@ -1,26 +1,26 @@
 ---
 layout: content
-name: Teal Concepts
+name: Conceptos Teal
 ---
 ![](/media/fundamental-assumptions.jpg)
 
-# Teal Concepts
+# Conceptos Teal
 
-\[Short resume about the main teal concepts described in the book]
+Resumen corto sobre los principales conceptos mencionados en el libro.
 
-* [Self-Management](/theory/self-management/)
-* [Wholeness](/theory/wholeness/)
-* [Evolutionary Purpose](/theory/evolutionary-purpose/)
+* [](/theory/self-management/)[Autogestión](<* [Self-Management](/theory/self-management/)>)
+* [Plenitud](https://sp.reinventingorganizationswiki.com/theory/wholeness/)
+* [Propósito Evolutivo](https://sp.reinventingorganizationswiki.com/theory/evolutionary-purpose/)
 
-## ... and you can also check
+## ... puedes también ver
 
 ![](/media/1_018-small.png)
 
-## History of Organizational Development
+## Historia del Desarrollo Organizacional
 
-* [Developmental Perspective on Organizations](/theory/developmental-perspective-on-organizations/)
-* [Red Paradigm and Organizations](/theory/red-organizations/)
-* [Amber Paradigm and Organizations](/theory/amber-paradigm-and-organizations/)
-* [Orange Paradigm and Organizations](/theory/orange-paradigm-and-organizations/)
-* [Green Paradigm and Organizations](/theory/green-paradigm-and-organizations/)
-* [Teal Paradigm and Organizations](../theory/teal-paradigm-and-organizations/)
+* [Perspectiva de Desarrollo de las Organizaciones](https://sp.reinventingorganizationswiki.com/theory/developmental-perspective-on-organizations/)
+* [El Paradigma Rojo y Las Organizaciones](https://sp.reinventingorganizationswiki.com/theory/red-organizations/)[](https://sp.reinventingorganizationswiki.com/theory/red-organizations/)
+* [El Paradigma Ámbar y Las Organizaciones](https://sp.reinventingorganizationswiki.com/theory/amber-paradigm-and-organizations/)
+* [El Paradigma Naranja y Las Organizaciones](https://sp.reinventingorganizationswiki.com/theory/orange-paradigm-and-organizations/)
+* [El Paradigma Verde y Las Organizaciones](https://sp.reinventingorganizationswiki.com/theory/green-paradigm-and-organizations/)
+* [El Paradigma Teal y Las Organizaciones](https://sp.reinventingorganizationswiki.com/theory/teal-paradigm-and-organizations/)
