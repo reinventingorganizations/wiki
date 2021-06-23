@@ -33,18 +33,17 @@ name: Key organizational structures and practices
 
 ### Prácticas de personas (RR.HH)
 
-* [Reclutamient](https://sp.reinventingorganizationswiki.com/theory/recruitment/)o
+* [Reclutamiento](https://sp.reinventingorganizationswiki.com/theory/recruitment/)
 * [Incorporación](https://sp.reinventingorganizationswiki.com/theory/onboarding/)
-* [](/theory/commitment-working-hours-and-flexibility/)[Entrenamiento y Coaching](https://sp.reinventingorganizationswiki.com/theory/training-and-coaching/)
+* [Entrenamiento y Coaching](https://sp.reinventingorganizationswiki.com/theory/training-and-coaching/)
 * [Compromiso, Horas de Trabajo y Flexibilidad](https://sp.reinventingorganizationswiki.com/theory/commitment-working-hours-and-flexibility/)
-* [](/theory/objectives-and-target-setting/)[Títulos de trabajo y Descripciones de Puesto](https://sp.reinventingorganizationswiki.com/theory/job-titles-and-job-descriptions/)
+* [Títulos de trabajo y Descripciones de Puesto](https://sp.reinventingorganizationswiki.com/theory/job-titles-and-job-descriptions/)
 * [Objetivos y Establecimiento de Metas](https://sp.reinventingorganizationswiki.com/theory/objectives-and-target-setting/)
-* [](/theory/compensation-and-incentives/)[Retroalimentación y Administración del desempeño](https://sp.reinventingorganizationswiki.com/theory/feedback-and-performance-management/)
-* [](/theory/role-definition-and-allocation/)[Compensación e Incentivos](https://sp.reinventingorganizationswiki.com/theory/compensation-and-incentives/)
-* [](/theory/dismissal/)[Definición y Asignación de funcione](/theory/dismissal/)s
+* [Retroalimentación y Administración del desempeño](https://sp.reinventingorganizationswiki.com/theory/feedback-and-performance-management/)
+* [Compensación e Incentivos](https://sp.reinventingorganizationswiki.com/theory/compensation-and-incentives/)
+* [Definición y Asignación de funciones](https://sp.reinventingorganizationswiki.com/theory/role-definition-and-allocation/)
 * [Despidos](https://sp.reinventingorganizationswiki.com/theory/dismissal/)
-
-  \--------------------------------------
+* \--------------------------------------
 
 ![](/media/daily-organizational-practices.jpg)
 
