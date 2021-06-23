@@ -5,6 +5,7 @@ name: Key organizational structures and practices
 ## Prácticas y Estructuras Organizativas Clave
 
 * [Estructura Organizativa](https://sp.reinventingorganizationswiki.com/theory/organizational-structure/)
+
 * [Funciones Staff](https://sp.reinventingorganizationswiki.com/theory/staff-functions/)
 * [Coordinación](https://sp.reinventingorganizationswiki.com/theory/coordination/)
 * [Equipos de Proyecto y Grupos de Tarea](https://sp.reinventingorganizationswiki.com/theory/project-teams-and-task-forces/)
@@ -17,6 +18,7 @@ name: Key organizational structures and practices
 ### Procesos Importantes
 
 * [La Estrategia](https://sp.reinventingorganizationswiki.com/theory/strategy/)
+
 * [Innovación y Desarrollo de Productos](https://sp.reinventingorganizationswiki.com/theory/innovation-and-product-development/)
 * [Ventas y Marketing](https://sp.reinventingorganizationswiki.com/theory/sales-marketing/)
 * [Compras e Inversiones](https://sp.reinventingorganizationswiki.com/theory/purchasing-and-investments/)
@@ -70,6 +72,7 @@ name: Key organizational structures and practices
 ## Historia del Desarrollo Organizacional
 
 * [Perspectiva de Desarrollo de las Organizaciones](https://sp.reinventingorganizationswiki.com/theory/developmental-perspective-on-organizations/)
+
 * [El Paradigma Rojo y Las Organizaciones](https://sp.reinventingorganizationswiki.com/theory/red-organizations/)[](https://sp.reinventingorganizationswiki.com/theory/red-organizations/)
 * [El Paradigma Ámbar y Las Organizaciones](https://sp.reinventingorganizationswiki.com/theory/amber-paradigm-and-organizations/)
 * [El Paradigma Naranja y Las Organizaciones](https://sp.reinventingorganizationswiki.com/theory/orange-paradigm-and-organizations/)
