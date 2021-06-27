@@ -185,10 +185,10 @@ inPractice: >-
   * **Verantwortung und Rechenschaftspflicht:** Jeder ist gegenüber der Organisation dafür verantwortlich, Probleme oder Chancen zu erkennen und anzugehen. Von den Menschen wird erwartet, dass sie sich gegenseitig für ihre [Verpflichtungen](../ommitment-working-hours-and-flexibility/), durch [feedback](../feedback-and-performance-management/) und respektvolle Konfrontation.
 
 
-  #### Wholeness
+  #### Ganzheit
 
 
-  Teal organizations seek a workplace that honors the humanness of the people who work there. The following are examples of the types of values/principles that support wholeness:
+  Teal-Organisationen suchen einen Arbeitsplatz, der die Menschlichkeit der Menschen ehrt, die dort arbeiten. Im Folgenden sind Beispiele für die Arten von Werten/Prinzipien aufgeführt, die Ganzheitlichkeit unterstützen:
 
 
   * **Equal worth:** All people are of equal worth and at the same time different. Community will be richest when members are able to contribute in their distinctive way, whilst appreciating their differences. 
