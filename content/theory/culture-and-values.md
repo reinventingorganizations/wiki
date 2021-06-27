@@ -214,16 +214,16 @@ inPractice: >-
 
   * **Sinn und Gewinn:** Auf lange Sicht gibt es keine Kompromisse zwischen Sinn und Gewinn. Wenn wir uns auf den Sinn konzentrieren, werden die Gewinne folgen.
 faq:
-  - question: Do you need to change your set of values and ground rules when you
-      transition to Teal?
-    answer: Not necessarily. If your values are consistent with your purpose and if
-      those values truly define who you are as an organisation, it is better for
-      you to keep them. Maybe the ground rules will need to be readapted to
-      better fit the [self-management
-      ](https://reinventingorganizations-wiki.netlify.app/theory/self-management/)structure
-      and processes. In any case you need to set up a process where those values
-      and ground rules can be regularly and collectively reviewed to ensure you
-      keep on living them.
+  - question: Müssen Sie Ihre Werte und Grundregeln ändern, wenn Sie zu Teal wechseln?
+    answer: Nicht unbedingt. Wenn Ihre Werte mit Ihrem Sinn übereinstimmen und diese
+      Werte wirklich definieren, wer Sie als Organisation sind, ist es besser
+      für Sie, sie beizubehalten. Vielleicht müssen die Grundregeln angepasst
+      werden, damit sie besser zur Struktur und den Prozessen von
+      [self-management
+      ](https://reinventingorganizations-wiki.netlify.app/theory/self-management/)
+      passen. In jedem Fall müssen Sie einen Prozess einrichten, in dem diese
+      Werte und Grundregeln regelmäßig und gemeinsam überprüft werden können, um
+      sicherzustellen, dass Sie sie auch weiterhin leben.
 relatedTheory:
   - Listening to Purpose
   - Evolutionary Purpose
