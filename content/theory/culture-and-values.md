@@ -35,13 +35,13 @@ perspective: >-
   In [roten Organisationen](../red-organizations/) zeigen Führungskräfte typischerweise egozentrische Verhaltensweisen, die von ihrem persönlichen Bedürfnis nach Macht und Kontrolle angetrieben werden. Sie sind oft impulsiv und finden Wege, ihre Dominanz auszuüben. Dies schafft eine Kultur der Angst, Kontrolle, Risikobereitschaft und Unterwerfung. Enge Bindungen werden normalerweise von denen in der Organisation gebildet.
 
 
-  ##### Amber organizations
+  ##### Bernstein-Organisationen
 
 
-  In [Amber organizations](../amber-paradigm-and-organizations/), stability and respect for the group norms are highly valued. The Amber leader looks for order, stability, and predictability. Change is viewed with suspicion. Control is maintained through institutions and bureaucracies. This tends to creates a culture of conformity. The focus is to do what is right and to fit in within the group norms. Thinking is dominated by whether one has the right appearance, behaviors, and thoughts. Social stability comes at the price of wearing a mask. People may distance themselves from their unique nature, personal desires, needs, and feelings; instead, embracing a socially acceptable self. The shadow side of this worldview is that workers are often viewed as mostly lazy, dishonest, and in need of direction. Management and supervision is believed to be necessary to ensure work is carried out properly.
+  In [bernsteinfarbene Organisationen](../amber-paradigm-and-organizations/) werden Stabilität und Respekt vor den Gruppennormen hoch geschätzt. Der Amber Leader sucht nach Ordnung, Stabilität und Vorhersehbarkeit. Veränderungen werden mit Argwohn betrachtet. Die Kontrolle wird durch Institutionen und Bürokratien aufrechterhalten. Dadurch entsteht tendenziell eine Kultur der Konformität. Der Fokus liegt darauf, das Richtige zu tun und sich in die Gruppennormen einzufügen. Das Denken wird davon dominiert, ob man das richtige Aussehen, Verhalten und Gedanken hat. Soziale Stabilität hat den Preis, eine Maske zu tragen. Menschen können sich von ihrer einzigartigen Natur, ihren persönlichen Wünschen, Bedürfnissen und Gefühlen distanzieren; stattdessen ein sozial akzeptables Selbst umarmen. Die Schattenseite dieser Weltanschauung ist, dass Arbeiter oft als meist faul, unehrlich und orientierungsbedürftig angesehen werden. Management und Überwachung werden als notwendig erachtet, um sicherzustellen, dass die Arbeiten ordnungsgemäß ausgeführt werden.
 
 
-  ##### Orange organizations
+  ##### Orange Organisationen
 
 
   In [Orange organizations](../orange-paradigm-and-organizations/) the underlying values are success, innovation, effectiveness, competing/winning, profit and recognition. This worldview is materialistic and rationality is highly valued. Only what can be seen and touched is real. The organizational metaphor is a ‘machine’. The culture can become highly professional, rational and sometimes soulless. Change is welcome provided it contributes to increased performance. Cross-organisation collaboration is valued and encouraged to speed up innovation and change. Management is strategic and focused on results rather than how to achieve them. Individual competence, results and achievements are valued and incentivized. Progression is based on merit rather than social standing or rank. 
