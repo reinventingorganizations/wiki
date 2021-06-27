@@ -124,10 +124,10 @@ perspective: "Teal Organisationen heben gemeinsame Werte auf die nächste Ebene,
   vorhanden sind, sind Vertrauen, Transparenz, kollektive Intelligenz, Ganzheit
   und Authentizität."
 inPractice: >-
-  #### Establishing values and ground rules
+  #### Werte und Grundregeln festlegen
 
 
-  ##### *Defining a set of values*
+  ##### *Werte definieren*
 
 
   Many organizations find it helpful to define a set of values. In [Teal organizations](../teal-paradigm-and-organizations/), those values, together with [purpose](../evolutionary-purpose/), are at the very core of the organization' s culture, influencing most behaviors and processes. Those values often stem from the founder's vision, and are typically collectively defined. Values and related ground rules are not fixed, they are openly discussed and amended so that they remain a faithful reflection of what people in the organization live and believe in. Some organizations set out a simple set of common beliefs, or assumptions about human endeavor and behavior.
