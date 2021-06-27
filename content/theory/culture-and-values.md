@@ -136,10 +136,10 @@ inPractice: >-
   ##### *Grundregeln für einen sicheren Raum*
 
 
-  To show up fully in the presence of others, as [Teal organizations ](../teal-paradigm-and-organizations/)encourage, people need to feel it is safe to do so. Having a defined set of values translated into clear "ground rules", when necessary, helps to do this.
+  Um in der Gegenwart anderer vollständig aufzutreten, wie es [Teal-Organisationen ](../teal-paradigm-and-organizations/) ermutigt, müssen die Menschen das Gefühl haben, dass dies sicher ist. Dabei hilft es, wenn nötig, definierte Werte in klare „Grundregeln“ übersetzen zu lassen.
 
 
-  Some examples are: [RHD](http://www.rhd.org/)’s Bill of Rights and Responsibilities, [Morning Star](http://www.morningstarco.com/)’s Colleague Principles, [FAVI](http://www.favi.com/)'s fiches or [Holacracy](http://www.holacracy.org/)'s Constitution. These documents provide a vision for a safe and productive workplace. They give colleagues a vocabulary to discuss healthy relationships, and they draw lines that separate recommended from unacceptable behaviors.
+  Einige Beispiele sind: [RHD](http://www.rhd.org/)'s Bill of Rights and Responsibilities, [Morning Star](http://www.morningstarco.com/)'s Colleague Principles, [FAVI ](http://www.favi.com/)'s Fiches oder [Holacracy](http://www.holacracy.org/)'s Constitution. Diese Dokumente bieten eine Vision für einen sicheren und produktiven Arbeitsplatz. Sie geben Kollegen ein Vokabular, um gesunde Beziehungen zu besprechen, und sie ziehen Grenzen, die empfohlenes von inakzeptablem Verhalten trennen.
 
 
   Some startups find it important to draft a full version of such a document early on. Others will develop one as they grow. Organizations make sure they are written collectively so that they are full owned by all the people.
