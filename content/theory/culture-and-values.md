@@ -32,7 +32,7 @@ perspective: >-
   ##### Rote Organisationen
 
 
-  In [Red organizations](../red-organizations/), leaders typically demonstrate egocentric behaviors driven by their personal need for power and control. They are often impulsive and find ways to exert their dominance. This creates a culture of a fear, control, risk taking and submission. Close bonds are usually formed by those in the organization.
+  In [roten Organisationen](../red-organizations/) zeigen Führungskräfte typischerweise egozentrische Verhaltensweisen, die von ihrem persönlichen Bedürfnis nach Macht und Kontrolle angetrieben werden. Sie sind oft impulsiv und finden Wege, ihre Dominanz auszuüben. Dies schafft eine Kultur der Angst, Kontrolle, Risikobereitschaft und Unterwerfung. Enge Bindungen werden normalerweise von denen in der Organisation gebildet.
 
 
   ##### Amber organizations
