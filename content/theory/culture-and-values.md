@@ -13,53 +13,114 @@ intro: >-
 
 
   ![](/media/tree.jpg)
-perspective: >-
-  Teal Organisationen heben gemeinsame Werte auf die nächste Ebene, entweder
-  durch klare Grundregeln oder den Austausch von Überzeugungen darüber, was
-  akzeptabel oder nicht akzeptabel ist. Die meisten Teal-Unternehmen verbringen
-  viel Zeit während des Rekrutierungsprozesses, um die Kandidaten über die Werte
-  des Unternehmens zu informieren, um festzustellen, ob die Kultur gut passt.
-  Teal-Unternehmen legen auch Praktiken fest, um Kultur und Werte häufig zu
-  überprüfen und zu hinterfragen, um sicherzustellen, dass sie von den
-  Mitarbeitern in der Organisation wirklich gelebt werden. Einige Werte, die oft
-  vorhanden sind, sind Vertrauen, Transparenz, kollektive Intelligenz, Ganzheit
-  und Authentizität.
+perspective: "Teal Organisationen heben gemeinsame Werte auf die nächste Ebene,
+  entweder durch klare Grundregeln oder den Austausch von Überzeugungen darüber,
+  was akzeptabel oder nicht akzeptabel ist. Die meisten Teal-Unternehmen
+  verbringen viel Zeit während des Rekrutierungsprozesses, um die Kandidaten
+  über die Werte des Unternehmens zu informieren, um festzustellen, ob die
+  Kultur gut passt. Teal-Unternehmen legen auch Praktiken fest, um Kultur und
+  Werte häufig zu überprüfen und zu hinterfragen, um sicherzustellen, dass sie
+  von den Mitarbeitern in der Organisation wirklich gelebt werden. Einige Werte,
+  die oft vorhanden sind, sind Vertrauen, Transparenz, kollektive Intelligenz,
+  Ganzheit und Authentizität.
 
 
-  Jede historische Etappe hat eine eigene Perspektive auf Kultur und Werte sowie sehr unterschiedliche Praktiken hervorgebracht:
+  Jede historische Etappe hat eine eigene Perspektive auf Kultur und Werte
+  sowie sehr unterschiedliche Praktiken hervorgebracht:
 
 
   ##### Rote Organisationen
 
 
-  In [roten Organisationen](../red-organizations/) zeigen Führungskräfte typischerweise egozentrische Verhaltensweisen, die von ihrem persönlichen Bedürfnis nach Macht und Kontrolle angetrieben werden. Sie sind oft impulsiv und finden Wege, ihre Dominanz auszuüben. Dies schafft eine Kultur der Angst, Kontrolle, Risikobereitschaft und Unterwerfung. Enge Bindungen werden normalerweise von denen in der Organisation gebildet.
+  In [roten Organisationen](../red-organizations/) zeigen Führungskräfte
+  typischerweise egozentrische Verhaltensweisen, die von ihrem persönlichen
+  Bedürfnis nach Macht und Kontrolle angetrieben werden. Sie sind oft impulsiv
+  und finden Wege, ihre Dominanz auszuüben. Dies schafft eine Kultur der Angst,
+  Kontrolle, Risikobereitschaft und Unterwerfung. Enge Bindungen werden
+  normalerweise von denen in der Organisation gebildet.
 
 
   ##### Bernstein-Organisationen
 
 
-  In [bernsteinfarbene Organisationen](../amber-paradigm-and-organizations/) werden Stabilität und Respekt vor den Gruppennormen hoch geschätzt. Der Amber Leader sucht nach Ordnung, Stabilität und Vorhersehbarkeit. Veränderungen werden mit Argwohn betrachtet. Die Kontrolle wird durch Institutionen und Bürokratien aufrechterhalten. Dadurch entsteht tendenziell eine Kultur der Konformität. Der Fokus liegt darauf, das Richtige zu tun und sich in die Gruppennormen einzufügen. Das Denken wird davon dominiert, ob man das richtige Aussehen, Verhalten und Gedanken hat. Soziale Stabilität hat den Preis, eine Maske zu tragen. Menschen können sich von ihrer einzigartigen Natur, ihren persönlichen Wünschen, Bedürfnissen und Gefühlen distanzieren; stattdessen ein sozial akzeptables Selbst umarmen. Die Schattenseite dieser Weltanschauung ist, dass Arbeiter oft als meist faul, unehrlich und orientierungsbedürftig angesehen werden. Management und Überwachung werden als notwendig erachtet, um sicherzustellen, dass die Arbeiten ordnungsgemäß ausgeführt werden.
+  In [bernsteinfarbene Organisationen](../amber-paradigm-and-organizations/)
+  werden Stabilität und Respekt vor den Gruppennormen hoch geschätzt. Der Amber
+  Leader sucht nach Ordnung, Stabilität und Vorhersehbarkeit. Veränderungen
+  werden mit Argwohn betrachtet. Die Kontrolle wird durch Institutionen und
+  Bürokratien aufrechterhalten. Dadurch entsteht tendenziell eine Kultur der
+  Konformität. Der Fokus liegt darauf, das Richtige zu tun und sich in die
+  Gruppennormen einzufügen. Das Denken wird davon dominiert, ob man das richtige
+  Aussehen, Verhalten und Gedanken hat. Soziale Stabilität hat den Preis, eine
+  Maske zu tragen. Menschen können sich von ihrer einzigartigen Natur, ihren
+  persönlichen Wünschen, Bedürfnissen und Gefühlen distanzieren; stattdessen ein
+  sozial akzeptables Selbst umarmen. Die Schattenseite dieser Weltanschauung
+  ist, dass Arbeiter oft als meist faul, unehrlich und orientierungsbedürftig
+  angesehen werden. Management und Überwachung werden als notwendig erachtet, um
+  sicherzustellen, dass die Arbeiten ordnungsgemäß ausgeführt werden.
 
 
   ##### Orange Organisationen
 
 
-  In [orangenen Organisationen](../orange-paradigm-and-organizations/) sind die zugrunde liegenden Werte Erfolg, Innovation, Effektivität, Wettbewerb/Gewinnen, Gewinn und Anerkennung. Dieses Weltbild ist materialistisch und Rationalität wird hoch geschätzt. Nur was man sehen und anfassen kann, ist echt. Die Organisationsmetapher ist eine „Maschine“. Die Kultur kann hochprofessionell, rational und manchmal seelenlos werden. Veränderungen sind willkommen, sofern sie zur Leistungssteigerung beitragen. Die organisationsübergreifende Zusammenarbeit wird geschätzt und gefördert, um Innovationen und Veränderungen zu beschleunigen. Das Management ist strategisch und auf Ergebnisse ausgerichtet, nicht darauf, wie man sie erreicht. Individuelle Kompetenz, Ergebnisse und Leistungen werden geschätzt und gefördert. Der Aufstieg basiert eher auf Verdiensten als auf sozialem Ansehen oder Rang.
+  In [orangenen Organisationen](../orange-paradigm-and-organizations/) sind
+  die zugrunde liegenden Werte Erfolg, Innovation, Effektivität,
+  Wettbewerb/Gewinnen, Gewinn und Anerkennung. Dieses Weltbild ist
+  materialistisch und Rationalität wird hoch geschätzt. Nur was man sehen und
+  anfassen kann, ist echt. Die Organisationsmetapher ist eine „Maschine“. Die
+  Kultur kann hochprofessionell, rational und manchmal seelenlos werden.
+  Veränderungen sind willkommen, sofern sie zur Leistungssteigerung beitragen.
+  Die organisationsübergreifende Zusammenarbeit wird geschätzt und gefördert, um
+  Innovationen und Veränderungen zu beschleunigen. Das Management ist
+  strategisch und auf Ergebnisse ausgerichtet, nicht darauf, wie man sie
+  erreicht. Individuelle Kompetenz, Ergebnisse und Leistungen werden geschätzt
+  und gefördert. Der Aufstieg basiert eher auf Verdiensten als auf sozialem
+  Ansehen oder Rang.
 
 
   ##### Grüne Organisationen
 
 
-  In [grünen Organisationen](../green-paradigm-and-organizations/) werden Beziehungen manchmal auf Kosten der Ergebnisse bewertet. Gemeinschaft, Kommunikation, Zusammenarbeit, Konsens, Harmonie, Toleranz, Integrität, Respekt, Offenheit und Gleichberechtigung sind gemeinsame Werte. Der Fokus liegt auf der Schaffung einer großartigen Arbeitsplatzkultur, die auf Empowerment basiert, um die Motivation der Mitarbeiter zu steigern. Obwohl grüne Organisationen meistens auf den traditionellen hierarchischen Modellen und Strukturen aufbauen, fühlt sich die Kultur mit Macht und Hierarchie nicht wohl. Partizipative und dienende Führungsansätze werden geschätzt, um kollaborative Bottom-up-Prozesse zu fördern, gemeinsame Werte und eine Kultur zu entwickeln, in der sich die Menschen wertgeschätzt und befähigt fühlen, ihren Beitrag zu leisten. Die Leitmetapher ist „Familie“. Während orange Unternehmen ihre Werte oft als Marketinginstrument nutzen, begrüßen und leben grüne Unternehmen sie. 
+  In [grünen Organisationen](../green-paradigm-and-organizations/) werden
+  Beziehungen manchmal auf Kosten der Ergebnisse bewertet. Gemeinschaft,
+  Kommunikation, Zusammenarbeit, Konsens, Harmonie, Toleranz, Integrität,
+  Respekt, Offenheit und Gleichberechtigung sind gemeinsame Werte. Der Fokus
+  liegt auf der Schaffung einer großartigen Arbeitsplatzkultur, die auf
+  Empowerment basiert, um die Motivation der Mitarbeiter zu steigern. Obwohl
+  grüne Organisationen meistens auf den traditionellen hierarchischen Modellen
+  und Strukturen aufbauen, fühlt sich die Kultur mit Macht und Hierarchie nicht
+  wohl. Partizipative und dienende Führungsansätze werden geschätzt, um
+  kollaborative Bottom-up-Prozesse zu fördern, gemeinsame Werte und eine Kultur
+  zu entwickeln, in der sich die Menschen wertgeschätzt und befähigt fühlen,
+  ihren Beitrag zu leisten. Die Leitmetapher ist „Familie“. Während orange
+  Unternehmen ihre Werte oft als Marketinginstrument nutzen, begrüßen und leben
+  grüne Unternehmen sie.\ 
 
 
-  ##### Teal organizations
+  ##### Teal-Organisationen
 
 
-  [Teal organizations ](../teal-paradigm-and-organizations/)strive to create highly effective organizations that allow people to be fully human at work.. The culture of Teal organizations is shaped by the specific context and  [purpose ](https://reinventingorganizations-wiki.netlify.app/theory/evolutionary-purpose/)of the organization, not by personal assumptions, norms and concerns of the founders and leaders. The metaphor for the organization is a ‘living system’. As such it should be allowed to have its own autonomous identity and culture that can evolve with time. The culture and values are well integrated with the structure and processes. 
+  \r
+
+  [Teal-Organisationen ](../teal-paradigm-and-organizations/) streben danach,
+  hocheffektive Organisationen zu schaffen, die es den Menschen ermöglichen, bei
+  der Arbeit ganz menschlich zu sein. Die Kultur von Teal-Organisationen wird
+  durch den spezifischen Kontext und [Zweck ](
+  https://reinventingorganizations-wiki.netlify.app/theory/evolutionary-purpose\
+  /)der Organisation, nicht durch persönliche Annahmen, Normen und Anliegen der
+  Gründer und Führungskräfte. Die Metapher für die Organisation ist ein
+  „lebendes System“. Als solche sollte es erlaubt sein, eine eigene autonome
+  Identität und Kultur zu haben, die sich mit der Zeit weiterentwickeln kann.
+  Kultur und Werte sind gut in Struktur und Prozesse integriert.\ 
 
 
-  Teal organizations take shared values to the next level either through clear ground rules or sharing beliefs about what is acceptable or unacceptable. Most Teal organizations spend a lot of time during the recruitment process informing candidates about the values of the organization to determine whether there is a good culture fit. Teal organizations also set practices to frequently review and question culture and values to ensure they are truly lived by those in the organization. Some values that are often present are trust, transparency, collective intelligence, wholeness and authenticity.
+  Teal organizations take shared values to the next level either through clear
+  ground rules or sharing beliefs about what is acceptable or unacceptable. Most
+  Teal organizations spend a lot of time during the recruitment process
+  informing candidates about the values of the organization to determine whether
+  there is a good culture fit. Teal organizations also set practices to
+  frequently review and question culture and values to ensure they are truly
+  lived by those in the organization. Some values that are often present are
+  trust, transparency, collective intelligence, wholeness and authenticity."
 inPractice: >-
   #### Establishing values and ground rules
 
