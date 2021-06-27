@@ -180,12 +180,9 @@ inPractice: >-
 
   * **Vertrauen:** Teal-Praktiken basieren auf Vertrauen. Treffen Sie Menschen mit Vertrauen und sie werden mit Vertrauen reagieren. Vertrauen ermöglicht es den Menschen, volle Verantwortung zu übernehmen. Es verringert auch den Bedarf an Hierarchie und Kontrolle und ermöglicht [Selbstverwaltung](../self-management/).
 
-   
+  * **Transparenz:** Wenn Mitarbeiter Zugang zu Geschäftsinformationen haben, die oft vom Management gespeichert werden, können sie handeln und Entscheidungen treffen, die für das Ganze gut sind. Wenn Transparenz und Offenheit vorhanden sind, steht kollektive Intelligenz allen zur Verfügung. Sensible Informationen können geteilt werden, da jeder in der Lage ist und vertraut, mit schwierigen Nachrichten umzugehen.
 
-  * **Transparency:** When people have access to business information, often held by management, they can act and take decisions that are good for the whole. When there is transparency and openness collective intelligence is available to all. Sensitive information can be shared because everyone is able and trusted to handle difficult news. 
-
-
-  * **Responsibility and accountability:** Everyone has a responsibility to the organization for sensing issues or opportunities and addressing them. People are expected to be comfortable with holding each other accountable for their [commitments](../commitment-working-hours-and-flexibility/), through [feedback](../feedback-and-performance-management/) and respectful confrontation.
+  * **Verantwortung und Rechenschaftspflicht:** Jeder ist gegenüber der Organisation dafür verantwortlich, Probleme oder Chancen zu erkennen und anzugehen. Von den Menschen wird erwartet, dass sie sich gegenseitig für ihre [Verpflichtungen](../ommitment-working-hours-and-flexibility/), durch [feedback](../feedback-and-performance-management/) und respektvolle Konfrontation.
 
 
   #### Wholeness
