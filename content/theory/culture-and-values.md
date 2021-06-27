@@ -130,10 +130,10 @@ inPractice: >-
   ##### *Werte definieren*
 
 
-  Many organizations find it helpful to define a set of values. In [Teal organizations](../teal-paradigm-and-organizations/), those values, together with [purpose](../evolutionary-purpose/), are at the very core of the organization' s culture, influencing most behaviors and processes. Those values often stem from the founder's vision, and are typically collectively defined. Values and related ground rules are not fixed, they are openly discussed and amended so that they remain a faithful reflection of what people in the organization live and believe in. Some organizations set out a simple set of common beliefs, or assumptions about human endeavor and behavior.
+  Viele Organisationen finden es hilfreich, eine Reihe von Werten zu definieren. In [Teal-Organisationen](../teal-paradigm-and-organizations/) sind diese Werte zusammen mit [dem Sinn](../evolutionary-purpose/) der Kern der Unternehmenskultur und beeinflussen die meisten Verhaltensweisen und Prozesse. Diese Werte stammen oft aus der Vision des Gründers und werden typischerweise kollektiv definiert. Werte und damit verbundene Grundregeln sind nicht festgelegt, sie werden offen diskutiert und geändert, damit sie ein getreues Spiegelbild dessen bleiben, woran die Menschen in der Organisation leben und woran sie glauben. Einige Organisationen legen einfache gemeinsame Überzeugungen oder Annahmen über menschliche Bemühungen fest und Verhalten.
 
 
-  ##### *Ground rules for safe space*
+  ##### *Grundregeln für einen sicheren Raum*
 
 
   To show up fully in the presence of others, as [Teal organizations ](../teal-paradigm-and-organizations/)encourage, people need to feel it is safe to do so. Having a defined set of values translated into clear "ground rules", when necessary, helps to do this.
