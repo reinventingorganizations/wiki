@@ -175,12 +175,15 @@ inPractice: >-
   #### Selbstverwaltung
 
 
-  Self-managing structures transcend the issue of culture versus systems. Inner and outer dimensions, culture and systems, work hand in hand, not in opposite directions. The following are some examples of the types of values/principles that support self-management:
+  Selbstverwaltende Strukturen transzendieren die Frage von Kultur versus System. Innere und äußere Dimensionen, Kultur und Systeme arbeiten Hand in Hand, nicht gegenläufig. Im Folgenden sind einige Beispiele für die Arten von Werten/Prinzipien aufgeführt, die das Selbstmanagement unterstützen:
 
 
-  * **Trust:** Teal practices are based on trust. Meet people with trust and they will respond with trust. Trust enables people to be fully responsible. It also lowers the need for hierarchy and control and enables [self-management](../self-management/). 
+  * **Vertrauen:** Teal-Praktiken basieren auf Vertrauen. Treffen Sie Menschen mit Vertrauen und sie werden mit Vertrauen reagieren. Vertrauen ermöglicht es den Menschen, volle Verantwortung zu übernehmen. Es verringert auch den Bedarf an Hierarchie und Kontrolle und ermöglicht [Selbstverwaltung](../self-management/).
+
+   
 
   * **Transparency:** When people have access to business information, often held by management, they can act and take decisions that are good for the whole. When there is transparency and openness collective intelligence is available to all. Sensitive information can be shared because everyone is able and trusted to handle difficult news. 
+
 
   * **Responsibility and accountability:** Everyone has a responsibility to the organization for sensing issues or opportunities and addressing them. People are expected to be comfortable with holding each other accountable for their [commitments](../commitment-working-hours-and-flexibility/), through [feedback](../feedback-and-performance-management/) and respectful confrontation.
 
