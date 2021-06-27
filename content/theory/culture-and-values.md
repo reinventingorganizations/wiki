@@ -44,7 +44,7 @@ perspective: >-
   ##### Orange Organisationen
 
 
-  In [Orange organizations](../orange-paradigm-and-organizations/) the underlying values are success, innovation, effectiveness, competing/winning, profit and recognition. This worldview is materialistic and rationality is highly valued. Only what can be seen and touched is real. The organizational metaphor is a ‘machine’. The culture can become highly professional, rational and sometimes soulless. Change is welcome provided it contributes to increased performance. Cross-organisation collaboration is valued and encouraged to speed up innovation and change. Management is strategic and focused on results rather than how to achieve them. Individual competence, results and achievements are valued and incentivized. Progression is based on merit rather than social standing or rank. 
+  In [orangenen Organisationen](../orange-paradigm-and-organizations/) sind die zugrunde liegenden Werte Erfolg, Innovation, Effektivität, Wettbewerb/Gewinnen, Gewinn und Anerkennung. Dieses Weltbild ist materialistisch und Rationalität wird hoch geschätzt. Nur was man sehen und anfassen kann, ist echt. Die Organisationsmetapher ist eine „Maschine“. Die Kultur kann hochprofessionell, rational und manchmal seelenlos werden. Veränderungen sind willkommen, sofern sie zur Leistungssteigerung beitragen. Die organisationsübergreifende Zusammenarbeit wird geschätzt und gefördert, um Innovationen und Veränderungen zu beschleunigen. Das Management ist strategisch und auf Ergebnisse ausgerichtet, nicht darauf, wie man sie erreicht. Individuelle Kompetenz, Ergebnisse und Leistungen werden geschätzt und gefördert. Der Aufstieg basiert eher auf Verdiensten als auf sozialem Ansehen oder Rang.
 
 
   ##### Green organizations
