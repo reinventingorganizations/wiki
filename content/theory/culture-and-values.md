@@ -6,21 +6,24 @@ name: Kultur und Werte
 sortOrder: 6
 category: Daily practices
 intro: >-
-  The topic of culture and values explore the different values, beliefs, ground
-  rules and the resulting cultures of Teal organizations as well as practices
-  for establishing and bringing culture and values to life.
+  Das Thema Kultur und Werte erforscht die unterschiedlichen Werte,
+  Überzeugungen, Grundregeln und die daraus resultierenden Kulturen von
+  Teal-Organisationen sowie Praktiken zur Etablierung und Erlebung von Kultur
+  und Werten.
 
 
   ![](/media/tree.jpg)
 perspective: >-
-  Teal organizations take shared values to the next level either through clear
-  ground rules or sharing beliefs about what is acceptable or unacceptable. Most
-  Teal organizations spend a lot of time during the recruitment process
-  informing candidates about the values of the organization to determine whether
-  there is a good culture fit. Teal organizations also set practices to
-  frequently review and question culture and values to ensure they are truly
-  lived by those in the organization. Some values that are often present are
-  trust, transparency, collective intelligence, wholeness and authenticity.
+  Teal Organisationen heben gemeinsame Werte auf die nächste Ebene, entweder
+  durch klare Grundregeln oder den Austausch von Überzeugungen darüber, was
+  akzeptabel oder nicht akzeptabel ist. Die meisten Teal-Unternehmen verbringen
+  viel Zeit während des Rekrutierungsprozesses, um die Kandidaten über die Werte
+  des Unternehmens zu informieren, um festzustellen, ob die Kultur gut passt.
+  Teal-Unternehmen legen auch Praktiken fest, um Kultur und Werte häufig zu
+  überprüfen und zu hinterfragen, um sicherzustellen, dass sie von den
+  Mitarbeitern in der Organisation wirklich gelebt werden. Einige Werte, die oft
+  vorhanden sind, sind Vertrauen, Transparenz, kollektive Intelligenz, Ganzheit
+  und Authentizität.
 
 
   Every historical stage has given birth to a distinct perspective on culture and values, and to very different practices:
