@@ -145,10 +145,10 @@ inPractice: >-
   Einige Startups finden es wichtig, frühzeitig eine Vollversion eines solchen Dokuments zu erstellen. Andere werden eine entwickeln, während sie wachsen. Organisationen stellen sicher, dass sie kollektiv geschrieben werden, damit sie im vollen Besitz aller Personen sind
 
 
-  #### Bringing values to life
+  #### Werte zum Leben erwecken
 
 
-  [Teal organizations](../teal-paradigm-and-organizations/) understand it takes more than a plaque on the wall to bring values and ground rules to life. They spend a significant amount of time and energy on training and involving everyone in a continuous process of revisiting them. Some examples of keeping values alive are:
+  [Teal-Organisationen](../teal-paradigm-and-organizations/) verstehen, dass es mehr braucht als eine Tafel an der Wand, um Werte und Grundregeln zum Leben zu erwecken. Sie verwenden viel Zeit und Energie für die Schulung und die Einbeziehung aller in einen kontinuierlichen Prozess der erneuten Überprüfung. Einige Beispiele für die Erhaltung von Werten sind:
 
 
   * Values Training: once the new recruits are onboard, they are trained in the set of values and ground rules. 
