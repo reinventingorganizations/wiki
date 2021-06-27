@@ -26,10 +26,10 @@ perspective: >-
   und Authentizität.
 
 
-  Every historical stage has given birth to a distinct perspective on culture and values, and to very different practices:
+  Jede historische Etappe hat eine eigene Perspektive auf Kultur und Werte sowie sehr unterschiedliche Praktiken hervorgebracht:
 
 
-  ##### Red organizations
+  ##### Rote Organisationen
 
 
   In [Red organizations](../red-organizations/), leaders typically demonstrate egocentric behaviors driven by their personal need for power and control. They are often impulsive and find ways to exert their dominance. This creates a culture of a fear, control, risk taking and submission. Close bonds are usually formed by those in the organization.
