@@ -206,13 +206,13 @@ inPractice: >-
   Es ist wichtig, sowohl der Organisation als auch uns selbst tief zuzuhören, um den evolutionären Zweck zu finden. (../evolutionary-purpose/) Im Folgenden sind Beispiele für die Arten von Werten/Prinzipien aufgeführt, die den evolutionären Zweck unterstützen:
 
 
-  * **Collective purpose:** We view the organization as having a soul and [purpose ](https://reinventingorganizations-wiki.netlify.app/theory/listening-to-purpose/)of its own. We try to listen in to where the organization wants to go and beware of forcing a direction onto it. 
+  * **Gemeinsamer Sinn:** Wir betrachten die Organisation als eine eigene Seele und [Zweck](https://reinventingorganizations-wiki.netlify.app/theory/listening-to-purpose/). Wir versuchen, zuzuhören, wohin die Organisation gehen möchte, und hüten uns davor, ihr eine Richtung aufzuzwingen.
 
-  * **Individual purpose:** We have a duty to ourselves and to the organization to inquire into our personal sense of calling to see if and how it resonates with the organization’s purpose. We try to imbue our roles with our souls, not our egos. 
+  * **Individueller Sinn:** Wir sind uns selbst und der Organisation gegenüber verpflichtet, unser persönliches Berufungsgefühl zu untersuchen, um zu sehen, ob und wie es mit dem Zweck der Organisation in Einklang steht. Wir versuchen, unsere Rollen mit unserer Seele zu erfüllen, nicht mit unserem Ego.
 
-  * **Planning the future:** Trying to predict and control the future is futile. We make forecasts only when a specific decision requires us to do so. Everything will unfold with more grace if we stop trying to control and instead choose to simply sense and respond. 
+  * **Die Zukunft planen:** Der Versuch, die Zukunft vorherzusagen und zu kontrollieren, ist zwecklos. Prognosen erstellen wir nur dann, wenn eine konkrete Entscheidung dies erfordert. Alles wird sich mit mehr Anmut entfalten, wenn wir aufhören zu kontrollieren und stattdessen einfach nur spüren und reagieren.
 
-  * **Purpose and Profit:** In the long run, there are no trade- offs between purpose and profits. If we focus on purpose, profits will follow.
+  * **Sinn und Gewinn:** Auf lange Sicht gibt es keine Kompromisse zwischen Sinn und Gewinn. Wenn wir uns auf den Sinn konzentrieren, werden die Gewinne folgen.
 faq:
   - question: Do you need to change your set of values and ground rules when you
       transition to Teal?
