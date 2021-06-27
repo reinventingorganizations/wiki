@@ -166,13 +166,13 @@ inPractice: >-
   [Teal-Organisationen](../teal-paradigm-and-organizations/) verstehen, dass die Einstellung und das Verhalten einer Person genauso wichtig sind wie ihre Fähigkeiten. Daher wird viel Energie darauf verwendet, Menschen zu finden, die zur Kultur und den Werten der Organisation passen. Neue Mitarbeiter werden sorgfältig interviewt, um sicherzustellen, dass sie in der Umgebung erfolgreich sein können. Es ist ein Zwei-Wege-Entdeckungsprozess, der darauf abzielt herauszufinden, ob die Organisation und die Person „gemeinsam reisen“ sollen.
 
 
-  #### Values for the three Teal breakthroughs
+  #### Werte für die drei Teal-Durchbrüche
 
 
-  The principles and practices outlines above support the three breakthroughs of [self-management](../self-management/), [wholeness ](../wholeness/)and [evolutionary purpose](../evolutionary-purpose/). 
+  Die oben skizzierten Prinzipien und Praktiken unterstützen die drei Durchbrüche von [Selbstmanagement](../self-management/), [Ganzheit](../wholeness/)und [evolutionärer Sinn](../evolutionary-purpose/) .
 
 
-  #### Self-management
+  #### Selbstverwaltung
 
 
   Self-managing structures transcend the issue of culture versus systems. Inner and outer dimensions, culture and systems, work hand in hand, not in opposite directions. The following are some examples of the types of values/principles that support self-management:
