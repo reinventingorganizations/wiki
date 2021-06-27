@@ -203,7 +203,7 @@ inPractice: >-
   #### Evolutionärer Sinn
 
 
-  Listening deeply to both the organization and to ourselves is essential in finding[ evolutionary purpose.](../evolutionary-purpose/) The following  are examples of the types of values/principles that support evolutionary purpose:
+  Es ist wichtig, sowohl der Organisation als auch uns selbst tief zuzuhören, um den evolutionären Zweck zu finden. (../evolutionary-purpose/) Im Folgenden sind Beispiele für die Arten von Werten/Prinzipien aufgeführt, die den evolutionären Zweck unterstützen:
 
 
   * **Collective purpose:** We view the organization as having a soul and [purpose ](https://reinventingorganizations-wiki.netlify.app/theory/listening-to-purpose/)of its own. We try to listen in to where the organization wants to go and beware of forcing a direction onto it. 
