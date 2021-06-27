@@ -151,13 +151,13 @@ inPractice: >-
   [Teal-Organisationen](../teal-paradigm-and-organizations/) verstehen, dass es mehr braucht als eine Tafel an der Wand, um Werte und Grundregeln zum Leben zu erwecken. Sie verwenden viel Zeit und Energie für die Schulung und die Einbeziehung aller in einen kontinuierlichen Prozess der erneuten Überprüfung. Einige Beispiele für die Erhaltung von Werten sind:
 
 
-  * Values Training: once the new recruits are onboard, they are trained in the set of values and ground rules. 
+  * Wertetraining: Sobald die neuen Rekruten an Bord sind, werden sie in den Werten und Grundregeln geschult.
 
-  * Values Day or regular events: once a year, a festive event is organized where everybody is invited to revisit the organization's purpose, values and ground rules. 
+  * Wertetag oder regelmäßige Veranstaltungen: Einmal im Jahr wird eine festliche Veranstaltung organisiert, bei der alle eingeladen sind, den Sinn, die Werte und die Grundregeln der Organisation erneut zu besprechen.
 
-  * Values meeting: every month or so, a meeting will take place where colleagues are invited to bring up issues with values and ground rules in the workplace and suggest changes. Values can also be discussed during Large Group Reflections.
+  * Wertetreffen: Etwa jeden Monat findet ein Treffen statt, bei dem Kollegen eingeladen werden, Fragen zu Werten und Grundregeln am Arbeitsplatz anzusprechen und Änderungen vorzuschlagen. Werte können auch in Large Group Reflections besprochen werden.
 
-  * Values survey: cultivating discussions around values can be supported by an annual survey.
+  * Werteumfrage: Die Pflege der Wertediskussion kann durch eine jährliche Umfrage unterstützt werden.
 
 
   #### Culture and value-based recruitment
