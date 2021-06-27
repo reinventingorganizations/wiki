@@ -191,13 +191,13 @@ inPractice: >-
   Teal-Organisationen suchen einen Arbeitsplatz, der die Menschlichkeit der Menschen ehrt, die dort arbeiten. Im Folgenden sind Beispiele für die Arten von Werten/Prinzipien aufgeführt, die Ganzheitlichkeit unterstützen:
 
 
-  * **Equal worth:** All people are of equal worth and at the same time different. Community will be richest when members are able to contribute in their distinctive way, whilst appreciating their differences. 
+  * **Gleichwertig:** Alle Menschen sind gleichwertig und gleichzeitig verschieden. Die Gemeinschaft wird am reichsten, wenn die Mitglieder in der Lage sind, auf ihre besondere Art und Weise beizutragen und gleichzeitig ihre Unterschiede zu schätzen.
 
-  * **Safe and caring workplace:** Situations are approached from love and connection rather than fear and separation. Creating a safe environment where everyone can behave authentically is essential. 
+  * **Sicherer und fürsorglicher Arbeitsplatz:** Situationen werden eher aus Liebe und Verbundenheit als aus Angst und Trennung angegangen. Es ist wichtig, eine sichere Umgebung zu schaffen, in der sich jeder authentisch verhalten kann.
 
-  * **Overcoming separation:**  All people are connected. We aim to create a workplace where cognitive, physical, emotional and spiritual aspects are be honored and valued. 
+  * **Trennung überwinden:** Alle Menschen sind verbunden. Unser Ziel ist es, einen Arbeitsplatz zu schaffen, an dem kognitive, physische, emotionale und spirituelle Aspekte gewürdigt und geschätzt werden.
 
-  * **Relationships and conflict:** It is impossible to change other people. We can only change ourselves. We take ownership of our thoughts, beliefs, words and actions. We don’t spread rumors. We don’t talk behind someone’s back. We don’t blame problems on others.
+  * **Beziehungen und Konflikte:** Es ist unmöglich, andere Menschen zu ändern. Wir können nur uns selbst ändern. Wir übernehmen Verantwortung für unsere Gedanken, Überzeugungen, Worte und Handlungen. Wir verbreiten keine Gerüchte. Wir reden nicht hinter dem Rücken von jemandem. Wir schieben Probleme nicht anderen zu.
 
 
   #### Evolutionary purpose
