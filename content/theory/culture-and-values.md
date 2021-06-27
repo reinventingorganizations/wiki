@@ -200,7 +200,7 @@ inPractice: >-
   * **Beziehungen und Konflikte:** Es ist unmöglich, andere Menschen zu ändern. Wir können nur uns selbst ändern. Wir übernehmen Verantwortung für unsere Gedanken, Überzeugungen, Worte und Handlungen. Wir verbreiten keine Gerüchte. Wir reden nicht hinter dem Rücken von jemandem. Wir schieben Probleme nicht anderen zu.
 
 
-  #### Evolutionary purpose
+  #### Evolutionärer Sinn
 
 
   Listening deeply to both the organization and to ourselves is essential in finding[ evolutionary purpose.](../evolutionary-purpose/) The following  are examples of the types of values/principles that support evolutionary purpose:
