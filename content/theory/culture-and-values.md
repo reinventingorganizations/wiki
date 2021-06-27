@@ -142,7 +142,7 @@ inPractice: >-
   Einige Beispiele sind: [RHD](http://www.rhd.org/)'s Bill of Rights and Responsibilities, [Morning Star](http://www.morningstarco.com/)'s Colleague Principles, [FAVI ](http://www.favi.com/)'s Fiches oder [Holacracy](http://www.holacracy.org/)'s Constitution. Diese Dokumente bieten eine Vision für einen sicheren und produktiven Arbeitsplatz. Sie geben Kollegen ein Vokabular, um gesunde Beziehungen zu besprechen, und sie ziehen Grenzen, die empfohlenes von inakzeptablem Verhalten trennen.
 
 
-  Some startups find it important to draft a full version of such a document early on. Others will develop one as they grow. Organizations make sure they are written collectively so that they are full owned by all the people.
+  Einige Startups finden es wichtig, frühzeitig eine Vollversion eines solchen Dokuments zu erstellen. Andere werden eine entwickeln, während sie wachsen. Organisationen stellen sicher, dass sie kollektiv geschrieben werden, damit sie im vollen Besitz aller Personen sind
 
 
   #### Bringing values to life
