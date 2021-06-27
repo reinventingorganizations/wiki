@@ -160,10 +160,10 @@ inPractice: >-
   * Werteumfrage: Die Pflege der Wertediskussion kann durch eine jährliche Umfrage unterstützt werden.
 
 
-  #### Culture and value-based recruitment
+  #### Kultur- und wertebasierte Rekrutierung
 
 
-  [Teal organizations](../teal-paradigm-and-organizations/) understand that a person's attitude and behaviors are as important as their skills. Therefore significant energy is devoted to finding people that fit with the organization's culture and values. New recruits are carefully interviewed to ensure they can thrive in the environment. It is a two way discovery processes aiming at finding out if the organization and individual are meant to “journey together”. 
+  [Teal-Organisationen](../teal-paradigm-and-organizations/) verstehen, dass die Einstellung und das Verhalten einer Person genauso wichtig sind wie ihre Fähigkeiten. Daher wird viel Energie darauf verwendet, Menschen zu finden, die zur Kultur und den Werten der Organisation passen. Neue Mitarbeiter werden sorgfältig interviewt, um sicherzustellen, dass sie in der Umgebung erfolgreich sein können. Es ist ein Zwei-Wege-Entdeckungsprozess, der darauf abzielt herauszufinden, ob die Organisation und die Person „gemeinsam reisen“ sollen.
 
 
   #### Values for the three Teal breakthroughs
