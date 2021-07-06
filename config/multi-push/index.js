@@ -17,7 +17,7 @@ app
 
 app.parse(process.argv);
 
-//show help if no arg is passed
+// show help if no arg is passed
 if (!app.args.length) {
     app.help(); 
 }
