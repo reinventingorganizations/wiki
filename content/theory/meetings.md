@@ -86,7 +86,7 @@ perspective: >-
 
   Les réunions intègrent généralement des pratiques spécifiques pour s'assurer que les membres s'engagent les uns envers les autres et envers l'objectif de la réunion d'une manière respectueuse et productive. Les nouveaux membres sont généralement formés à ces processus afin qu'ils puissent participer pleinement.
 inPractice: >-
-  #### *Les* réunions sont limitées et découlent du "besoin de se réunir "
+  #### Les réunions sont limitées et découlent du "besoin de se réunir "
 
 
   Les réunions peuvent naître spontanément lorsqu'un membre de l'organisation ressent un besoin et prend l'initiative.  Les structures et l'animation des réunions soutiennent cet esprit [d'auto-gouvernance](https://fr--reinventingorganizations-wiki.netlify.app/theory/self-management/). La transparence accrue des organisations Opale réduit le nombre et la durée de certaines réunions. Lorsque des réunions sont organisées, on veille à utiliser des pratiques spécifiques qui favorisent le sentiment de [plénitude](https://fr--reinventingorganizations-wiki.netlify.app/theory/wholeness/).
@@ -95,7 +95,7 @@ inPractice: >-
   #### *L'auto-gouvernance nécessite beaucoup moins de réunion*
 
 
-  Dans l'ensemble, les réunions ont tendance à être moins nombreuses dans les [organisations Opale](../paradigme-sarcelle-et-organisations/). Dans une structure pyramidale traditionnelle, des réunions sont nécessaires pour rassembler, conditionner, filtrer et transmettre les informations qui circulent de haut en bas de la chaîne de commandement.  Dans les structures auto-gérées la plupart de ces réunions ne sont plus nécessaires. Alors que dans les [organisations Verte](https://fr--reinventingorganizations-wiki.netlify.app/theory/green-paradigm-and-organizations/), les réunions peuvent être un moyen de renforcer la participation "ascendante", celle-ci est déjà "intégrée" dans une structure auto-gérées.
+  Dans l'ensemble, les réunions ont tendance à être moins nombreuses dans les organisations Opale. Dans une structure pyramidale traditionnelle, des réunions sont nécessaires pour rassembler, conditionner, filtrer et transmettre les informations qui circulent de haut en bas de la chaîne de commandement.  Dans les structures auto-gérées la plupart de ces réunions ne sont plus nécessaires. Alors que dans les [organisations Verte](https://fr--reinventingorganizations-wiki.netlify.app/theory/green-paradigm-and-organizations/), les réunions peuvent être un moyen de renforcer la participation "ascendante", celle-ci est déjà "intégrée" dans une structure auto-gérées.
 
 
   #### Réunions régulières au niveau des équipes/cercles opérationnels
