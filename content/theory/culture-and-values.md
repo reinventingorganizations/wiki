@@ -14,7 +14,7 @@ intro: >-
 
   ![](/media/tree.jpg)
 perspective: >-
-  Les organisations Opaleportent les valeurs partagées à un niveau supérieur,
+  Les organisations Opale portent les valeurs partagées à un niveau supérieur,
   soit par des règles de base claires, soit par le partage de convictions sur ce
   qui est acceptable ou inacceptable. La plupart des organisations Opale
   consacrent beaucoup de temps au cours du processus de recrutement pour
@@ -23,7 +23,7 @@ perspective: >-
   Opale mettent également en place des pratiques permettant de revoir et de
   remettre en question fréquemment la culture et les valeurs afin de s'assurer
   qu'elles sont réellement vécues par les membres de l'organisation. Les valeurs
-  suivantes sont souvent présentes: la confiance, la transparence,
+  suivantes sont souvent présentes : la confiance, la transparence,
   l'intelligence collective, la globalité et l'authenticité.
 
 
@@ -60,10 +60,10 @@ perspective: >-
   ##### Organisations Opale
 
 
-  Les [organisations Opale](../teal-paradigm-and-organizations/) s'efforcent de créer des organisations hautement efficaces qui permettent aux gens d'être pleinement humains au travail.... La culture des organisations Opale est façonnée par le contexte spécifique et [la raison d'être évolutive](https://reinventingorganizations-wiki.netlify.app/theory/evolutionary-purpose/) de l'organisation, et non par les hypothèses, normes et préoccupations personnelles des fondateurs et des dirigeants. La métaphore de l'organisation est un "système vivant". En tant que tel, elle devrait être autorisée à avoir sa propre identité et sa propre culture autonomes qui peuvent évoluer avec le temps. La culture et les valeurs sont bien intégrées à la structure et aux processus.
+  Les [organisations Opale](../teal-paradigm-and-organizations/) s'efforcent de créer des organisations hautement efficaces qui permettent aux gens d'être pleinement humains au travail... La culture des organisations Opale est façonnée par le contexte spécifique et [la raison d'être évolutive](https://reinventingorganizations-wiki.netlify.app/theory/evolutionary-purpose/) de l'organisation, et non par les hypothèses, normes et préoccupations personnelles des fondateurs et des dirigeants. La métaphore de l'organisation est un "système vivant". En tant que tel, elle devrait être autorisée à avoir sa propre identité et sa propre culture autonomes qui peuvent évoluer avec le temps. La culture et les valeurs sont bien intégrées à la structure et aux processus.
 
 
-  Les organisations Opale portent les valeurs partagées à un niveau supérieur, soit par des règles de base claires, soit par le partage de convictions sur ce qui est acceptable ou inacceptable. La plupart des organisations Opale passent beaucoup de temps pendant le processus de recrutement à informer les candidats sur les valeurs de l'organisation afin de déterminer s'il y a une bonne adéquation au niveau de la culture. Les organisations Opale mettent également en place des pratiques permettant de revoir et de remettre en question fréquemment la culture et les valeurs afin de s'assurer qu'elles sont réellement vécues par les membres de l'organisation. Les valeurs suivantes sont souvent présentes:  la confiance, la transparence, l'intelligence collective, la globalité et l'authenticité.
+  Les organisations Opale portent les valeurs partagées à un niveau supérieur, soit par des règles de base claires, soit par le partage de convictions sur ce qui est acceptable ou inacceptable. La plupart des organisations Opale passent beaucoup de temps pendant le processus de recrutement à informer les candidats sur les valeurs de l'organisation afin de déterminer s'il y a une bonne adéquation au niveau de la culture. Les organisations Opale mettent également en place des pratiques permettant de revoir et de remettre en question fréquemment la culture et les valeurs afin de s'assurer qu'elles sont réellement vécues par les membres de l'organisation. Les valeurs suivantes sont souvent présentes :  la confiance, la transparence, l'intelligence collective, la globalité et l'authenticité.
 inPractice: >-
   #### Établir les valeurs et les règles de base
 
@@ -107,8 +107,6 @@ inPractice: >-
   Les [organisations Opale](../teal-paradigm-and-organizations/) comprennent que l'attitude et les comportements d'une personne sont aussi importants que ses compétences. C'est pourquoi une énergie considérable est consacrée à trouver des personnes qui correspondent à la culture et aux valeurs de l'organisation. Les nouvelles recrues sont soigneusement interviewées pour s'assurer qu'elles peuvent s'épanouir dans l'environnement. Il s'agit d'un processus de découverte à double sens qui vise à déterminer si l'organisation et l'individu sont faits pour "voyager ensemble".
 
 
-
-
   ### Valeurs pour les trois avancées de l'Opale
 
 
@@ -124,7 +122,7 @@ inPractice: >-
   Self-managing structures transcend the issue of culture **versus** systems. Inner and outer dimensions, culture and systems, work hand in hand, not in opposite directions. The following are some examples of the types of values/principles that support self-management:
 
 
-  * **Confiance:** les pratiques Opale sont basées sur la confianceTeal practices are based on trust. Abordez les gens avec confiance et ils feront de même. La confiance permet aux gens d'être pleinement responsables. Elle réduit également le besoin de hiérarchie et de contrôle, et permet [l'autogouvernance](../self-management/). 
+  * **Confiance:** les pratiques Opale sont basées sur la confiance. Abordez les gens avec confiance et ils feront de même. La confiance permet aux gens d'être pleinement responsables. Elle réduit également le besoin de hiérarchie et de contrôle, et permet [l'autogouvernance](../self-management/). 
 
     Teal practices are based on trust. **Meet people with trust and they will respond with trust.** Trust enables people to be fully responsible. It also lowers the need for hierarchy and control and enables \[self-management]
   * **Transparence:** Lorsque les personnes ont accès aux informations commerciales, souvent détenues par la direction, elles peuvent agir et prendre des décisions qui sont bonnes pour l'ensemble. Lorsqu'il y a transparence et ouverture, l'intelligence collective est disponible pour tous. Les informations sensibles peuvent être partagées parce que chacun est digne de confiance et capable de gérer les nouvelles difficiles. 
@@ -157,7 +155,7 @@ inPractice: >-
 
   * **Raison d'être individuelle:** Nous avons le devoir envers nous-mêmes et envers l'organisation d'examiner notre vocation personnelle pour voir si et comment elle résonne avec la raison d'être de l'organisation. Nous essayons d'imprégner nos rôles de nos âmes, et non de nos égos.
 
-  * **Planinifier l'avenir:** Essayer de prédire et de contrôler l'avenir est futile. Nous ne faisons des prévisions que lorsqu'une décision spécifique nous oblige à le faire. Tout se déroulera avec plus de grâce si nous cessons d'essayer de contrôler et choisissons plutôt de simplement sentir et répondre. 
+  * **Planifier l'avenir:** Essayer de prédire et de contrôler l'avenir est futile. Nous ne faisons des prévisions que lorsqu'une décision spécifique nous oblige à le faire. Tout se déroulera avec plus de grâce si nous cessons d'essayer de contrôler et choisissons plutôt de simplement sentir et répondre. 
 
   * **Raison d'être et profit:** À long terme, il n'y a pas de compromis entre la raison d'être et les profits. Si nous nous concentrons sur la raison d'être, les profits suivront.
 faq:
