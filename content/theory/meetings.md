@@ -107,131 +107,135 @@ inPractice: >-
   Voir FAVI, ci-dessous.niveau. 
 
 
-  #### *Agendas*
+  #### *Ordre du jour*
 
 
-  Traditionally, agendas are thought of as the minimum discipline for a productive meeting. But not necessarily in a Teal workplace. Many of their scheduled meetings have no pre-determined agenda. Rather, one is determined at the beginning, and is based on the topics that hold energy for the participants, at that time. This ensures meetings stay energized, purposeful, and engaging.  The interest is a real and present interest; it's not manufactured via a ritualistic approach.   
+  Traditionnellement, l'ordre du jour est un élément minimum à avoir pour une réunion productive. Mais pas nécessairement sur le lieu de travail des organisations Opale. Nombre de leurs réunions n'ont pas d'ordre du jour préétabli. Au contraire, l'ordre du jour est déterminé au début de la réunion et se fonde sur les sujets qui mobilisent l'énergie des participants à ce moment-là. Ainsi, les réunions restent énergiques, utiles et intéressantes.  L'intérêt est réel et présent ; il n'est pas lié au fait que la réunion soit rituelle.
 
 
-  #### *All-hands meetings*
+  #### *Réunions plénières*
 
 
-  All-hands meetings may be scheduled when there is a new and important information to share: quarterly results, the annual values survey, a strategic inflection point, and so forth. The information is not simply 'presented' top-down – it is discussed and debated. Questions can take the meeting in any direction; frustrations can be vented; accomplishments spontaneously celebrated. More is at play than simply information exchange. Trust in the organization, and its values, is being tested and reaffirmed. Will the senior people be candid, humble, and vulnerable? Will they face the difficult questions? Will they involve the whole group?
+  Les réunions pour l'ensemble du personnel peuvent être programmées lorsqu'il y a une nouvelle information importante à partager : les résultats trimestriels, l'enquête annuelle sur les valeurs, un point d'inflexion stratégique, etc. L'information n'est pas simplement "présentée" de haut en bas - elle est discutée et débattue. Les questions peuvent orienter la réunion dans n'importe quelle direction ; les frustrations peuvent être évacuées ; les réalisations sont spontanément célébrées. L'enjeu dépasse le simple échange d'informations. La confiance dans l'organisation et ses valeurs est testée et réaffirmée. Les cadres supérieurs seront-ils francs, humbles et vulnérables ? Vont-ils affronter les questions difficiles ? Impliqueront-ils l'ensemble du groupe ?
 
 
-  In contrast, all-hands meetings in traditional companies tend to be presentation-driven--or otherwise avoided because of their unpredictability, and risk. 
+  En revanche, les réunions de l'ensemble du personnel dans les entreprises traditionnelles ont tendance à être axées sur des présentations, ou à être évitées en raison de leur imprévisibilité et des risques qu'elles comportent.
 
 
-  #### *Form follows function: meetings emerge on an ad hoc basis*
+  #### La forme suit la fonction : les réunions se tiennent sur une base ad hoc
 
 
-  Meetings needed to coordinate tasks across teams, or launch special projects, arise spontaneously. It’s an organic way of organizing. 
+  Les réunions nécessaires à la coordination des tâches entre les équipes ou au lancement de projets spéciaux sont spontanées. C'est un mode d'organisation organique. 
 
 
-  #### *A variety of meeting formats for different purposes*
+  #### *Une variété de formats de réunion pour des objectifs différen*ts
 
 
-  Examples include:
+  En voici quelques exemples :
 
 
-  * Team [decision-making ](../decision-making/)meetings at [Buurtzorg ](http://www.buurtzorgnederland.com/)
+  * Réunions de[ prise de décision](https://fr--reinventingorganizations-wiki.netlify.app/theory/decision-making/) en équipe chez [Buurtzorg ](https://fr--reinventingorganizations-wiki.netlify.app/cases/buurtzorg/)
 
-  * Holocratic Governance vs. Tactical meetings at [HolocracyOne ](http://www.holacracy.org/)
+  * Gouvernance holocratique vs. réunions tactiques chez [HolocracyOne ](https://fr--reinventingorganizations-wiki.netlify.app/cases/holacracyone/)
 
-  * [On-boarding ](../onboarding/)meetings / Departure meetings as at [CC&R ](http://www.couragerenewal.org/)
+  * Réunions d'intégration/réunions de départ chez [CC&R ](https://fr--reinventingorganizations-wiki.netlify.app/cases/cc-r-center-for-courage-renewal/)
 
-  * Appraisal meetings
+  * Réunions d'évaluation
 
-  * [Conflict resolution](../conflict-resolution/) meetings
+  * Réunions sur la [résolution des conflits](https://fr--reinventingorganizations-wiki.netlify.app/theory/conflict-resolution/)
 
-  * [Listening to purpose ](../listening-to-purpose/)meetings
+  * Réunions de [suivi de l'objectif / la raison d'etre](https://fr--reinventingorganizations-wiki.netlify.app/theory/listening-to-purpose/)
 
-  * Large group reflections at [Heiligenfeld](http://www.heiligenfeld.de/)
+  * Réflexions en grand groupe à [Heiligenfeld](https://fr--reinventingorganizations-wiki.netlify.app/cases/heiligenfeld/)
 
-  * [Culture/Values](../culture-and-values/) meetings
+  * Réunions " [Culture/Valeurs ](https://fr--reinventingorganizations-wiki.netlify.app/theory/culture-and-values/)" 
 
-  * Praise meetings at [ESBZ ](http://www.ev-schule-zentrum.de/aktuell/)
+  * Réunions de louange à [ESBZ](https://fr--reinventingorganizations-wiki.netlify.app/cases/esbz/)
 
 
-  #### Highlighting sense of wholeness and purpose
 
 
-  Meetings bring out the best and the worst of human nature.
+  #### Mise en évidence du sentiment de plénitude et d'utilité 
 
 
-  In the best, they are places where others help us listen in to what we really care about. But meetings can also be playfields for egos. To feel safe, some seek to dominate proceedings. Others withdraw. In self-managingorganizations the absence of a boss takes some of these fears out of the room. But in a group of peers egos can dominate just as well. A variety of approaches support productive interactions consistent with [wholeness ](/wholeness/)and [purpose](../listening-to-purpose/).
+  Les réunions font ressortir le meilleur et le pire de la nature humaine.
 
 
-  #### Training in meeting practices
+  Dans le meilleur des cas, ce sont des lieux où les autres nous aident à écouter ce qui nous tient vraiment à cœur. Mais les réunions peuvent aussi être des terrains de jeu pour les egos. Pour se sentir en sécurité, certains cherchent à dominer les débats. D'autres se retirent. Dans les organisations autogouvernées, l'absence de patron fait disparaître certaines de ces craintes. Mais dans un groupe de pairs, les egos peuvent tout aussi bien dominer. Diverses approches favorisent des interactions productives compatibles avec [l'intégralité](https://fr--reinventingorganizations-wiki.netlify.app/theory/wholeness/) et [la raison d'etre.](https://fr--reinventingorganizations-wiki.netlify.app/theory/evolutionary-purpose/)
 
 
-  Some train new members in effective meeting formats. New members need to be comfortable to participate in decision-making procedures.
+  #### Formation aux pratiques de réunion
 
 
-  Training in facilitation, communication skills and mindsets support collegiality, trust building, and the resolution of tensions.
+  Certains forment les nouveaux membres à des formats de réunion efficaces. Les nouveaux membres doivent être à l'aise pour participer aux procédures de prise de décision.
 
 
-  #### Starting at the right place
+  La formation à la facilitation, aux techniques de communication et à l'état d'esprit favorise la collégialité, l'instauration de la confiance et la résolution des tensions.
 
 
-  The beginning of a meeting sets the mood. [Teal Organizations ](../teal-paradigm-and-organizations/)may use the following practices:
+  #### Commencer au bon endroit
 
 
-  * One widespread practice is to start with a 'check-in' round. Participants share how they feel in the moment, as they enter. The helps all to listen within, to their bodies and sensations, and to build awareness. Naming an emotion is often all it takes to deal with it.  Thus, this practice helps participants let go of distractions while supporting everyone to be present for the current meeting. 
+  Le début d'une réunion crée l'ambiance. Les [organisations Opale ](https://fr--reinventingorganizations-wiki.netlify.app/theory/teal-paradigm-and-organizations/)peuvent utiliser les pratiques suivantes :
 
-  * Or every meeting starts with a minute of silence to ground people in the moment. 
 
-  * Meetings may start with at short reading that one person has prepared. After a few moments of silence, participants share the thoughts this has sparked.  
+  * Une pratique très répandue consiste à commencer par un tour de table. Les participants partagent ce qu'ils ressentent sur le moment, dès leur arrivée. Cela permet à chacun d'être à l'écoute de son corps et de ses sensations, et de développer sa conscience. Nommer une émotion est souvent tout ce qu'il faut pour la gérer.  Ainsi, cette pratique aide les participants à se débarrasser des distractions tout en aidant chacun à être présent à la réunion en cours. 
 
-  * Another practice is to start every meeting with all sharing a brief story of someone they had recently thanked. This highlights possibility, gratitude, celebration, and trust.  
+  * Les réunions peuvent aussi commencer par une minute de silence pour ancrer les participants dans le moment présent. 
 
-  * Yet another variant is a minute of silence and/or a joke.
+  * Les réunions peuvent commencer par une courte lecture qu'une personne a préparée. Après quelques instants de silence, les participants partagent les réflexions que cela a suscitées.  
 
+  * Une autre pratique consiste à commencer chaque réunion par le partage par tous d'une brève histoire d'une personne qu'ils ont récemment remerciée. Cela met en évidence la possibilité, la gratitude, la célébration et la confiance.  
 
-  #### Keeping on track
+  * Une autre variante encore est une minute de silence et/ou une blague.
 
 
-  Additional practices to keep intention and attention in the meeting:
+  #### Garder le cap
 
 
-  * A volunteer holds of a pair of tingsha bells (two small hand cymbals that can make a crystal-like sound). If the holder feels ground rules are not being respected, she can make the cymbals sing. No one may speak until the cymbal sound has died out. During the silence, all can reflect on the question: "Am I in the service to the topic we are discussing?”  
+  Pratiques supplémentaires pour maintenir l'intention et l'attention dans la réunion :
 
-  * Some use a 'talking stick' or other artifact to regulate turn-taking, slow down the speed of conversation, and increase the quality of listening. 
 
-  * A facilitator may be used when there are specific requirements to fulfil. This may be an external facilitator in some circumstances.  
+  * Un volontaire tient une paire de cloches tingsha (deux petites cymbales à main qui peuvent produire un son semblable à celui du cristal). Si la titulaire a l'impression que les règles de base ne sont pas respectées, elle peut faire chanter les cymbales. Personne ne peut parler tant que le son des cymbales ne s'est pas éteint. Pendant le silence, tous peuvent réfléchir à la question suivante : "Suis-je au service du sujet dont nous discutons ?"  
 
+  * Certains utilisent un "bâton de parole" ou un autre artefact pour réguler le tour de parole, ralentir la vitesse de la conversation et augmenter la qualité de l'écoute. 
 
-  #### Ending meetings
+  * Un facilitateur peut être utilisé lorsqu'il y a des exigences spécifiques à remplir. Il peut s'agir d'un animateur externe dans certaines circonstances.
 
+    
 
-  Check-out rounds at the end of the meeting are a natural complement to the initial check-in round. They leave everyone with a sense of the impact of the meeting. A moment of silence is another way to reflect and conclude.  
+  #### Cloture des réunions
 
 
-  #### Meeting transparency / open participation
+  Les tours de table à la fin de la réunion sont un complément naturel du tour de table initial. Ils permettent à chacun de se rendre compte de l'impact de la réunion. Un moment de silence est une autre façon de réfléchir et de conclure...
 
 
-  Upcoming meetings may be listed on the intranet. This allows anyone who wants to share concerns or ideas to attend.  This transparency may extend to outsiders via streaming on the internet. Some claim this transparency results in closer relations with their external partners.
+  #### Transparence des réunions / participation ouverte 
 
 
-  Meeting cultures in [Teal Organizations ](../teal-paradigm-and-organizations/)have adopted some of the ‘alternative meeting formats’ like Open Space, Art of Hosting, World Café etc.
+  Les réunions à venir peuvent être indiquées sur l'intranet. Cela permet à tous ceux qui souhaitent partager leurs préoccupations ou leurs idées d'y assister.  Cette transparence peut s'étendre aux personnes extérieures via la diffusion en continu sur Internet. Certains affirment que cette transparence se traduit par des relations plus étroites avec leurs partenaires extérieurs.
+
+
+  Les cultures de réunion dans les [organisations Opale ](https://fr--reinventingorganizations-wiki.netlify.app/theory/teal-paradigm-and-organizations/)ont adopté certains des "formats de réunion alternatifs" comme le forum ouvert, l'art de l'accueil, le World Café, etc.
 faq:
-  - question: Doesn’t the advice process lead to more meetings rather than less?
+  - question: Le processus de collecte d'avis ne conduit-il pas à plus de réunions
+      plutôt qu'à moins ?
     answer: >-
-      Consulting with others, rather than making unilateral decisions, may mean
-      more meetings. However, this is often more than made up for by savings
-      elsewhere.
+      Consulter les autres, plutôt que de prendre des décisions unilatérales,
+      peut impliquer davantage de réunions. Mais cela est souvent plus que
+      compensé par des économies réalisées ailleurs.
 
 
-      Frédéric Laloux, tells this story as an illustration:
+      Frédéric Laloux, raconte cette histoire à titre d'illustration :
 
 
-      “Jos de Blok, CEO of [Buurtzorg](https://www.buurtzorgnederland.com/), often applies the advice process by posting a blog note to the Buurtzorg web in the evening, proposing suggestions for new initiatives and decisions and asking for advice from all the members of the organization. 24 hours later, 50-80% of the employees will have read and perhaps commented. Maybe the overwhelming response is "yes, this is fine", in which case the decision can just be effectuated at this point. Alternatively, he will have received feedback on how he might be overlooking important negative consequences, or how this issue may be more complicated than he is aware off. In this case, he might revise his proposal accordingly and repost it, or sense the need to gather a voluntary group to deal with it. In any case this provides a swift [decision making process](../decision-making/) with very few meetings."
+      "Jos de Blok, CEO de [Buurtzorg](https://fr--reinventingorganizations-wiki.netlify.app/cases/buurtzorg/), applique souvent le processus de collecte d'avis en publiant le soir une note de blog sur le web de Buurtzorg, proposant des suggestions de nouvelles initiatives et décisions et demandant l'avis de tous les membres de l'organisation. 24 heures plus tard, 50 à 80% des employés auront lu et peut-être commenté. Peut-être que la réponse massive est "oui, c'est bien", auquel cas la décision peut être appliquée à ce stade. Ou bien, il aura reçu des commentaires sur le fait qu'il a peut-être négligé d'importantes conséquences négatives, ou que la question est peut-être plus compliquée qu'il ne le pense. Dans ce cas, il pourrait réviser sa proposition en conséquence et la reposter, ou sentir le besoin de rassembler un groupe de volontaires pour s'en occuper. Dans tous les cas, cela donne un processus de [prise de décision ](https://fr--reinventingorganizations-wiki.netlify.app/theory/decision-making/)rapide avec très peu de réunions".
 
 
-      Compare this to the process that typically takes place in a traditional 9000 employee hierarchy. Say the CEO wants to change overtime conditions:
+      Comparez cela au processus qui se déroule généralement dans une hiérarchie traditionnelle de 9000 employés. Supposons que le PDG souhaite modifier les conditions relatives aux heures supplémentaires :
 
 
-      First he/she asks the Head of HR to prepare a proposal, who then asks someone more junior to do 'the staff work'. The junior drafts a proposal, maybe shows to a colleague and revises accordingly. Then the Head of HR goes over the draft, and suggests further refinements, before booking a meeting with the CEO who can make further changes. Then it goes to the executive committee...and so on...They want more revisions, and it goes down the line again, and back up again... It may now become political, bringing another layer of complications. If it is now approved, someone in internal communication works on it, and shows the CEO, again. Finally, it is cascaded to the managers who prepare presentations to make a team meetings. The total number meetings that may go into such a decision is huge.
+      Il demande d'abord au chef des RH de préparer une proposition, qui demande ensuite à quelqu'un de moins expérimenté de faire "le travail du personnel". Ce dernier rédige une proposition, la montre éventuellement à un collègue et la révise en conséquence. Ensuite, le responsable des ressources humaines examine le projet et suggère d'autres améliorations, avant de fixer un rendez-vous avec le PDG qui peut apporter d'autres modifications. Le projet est ensuite soumis au comité exécutif... et ainsi de suite... Ils veulent d'autres révisions, et le projet suit son cours, puis remonte à nouveau... Il peut maintenant devenir politique, ce qui entraîne une autre couche de complications. S'il est maintenant approuvé, quelqu'un de la communication interne y travaille et le montre à nouveau au PDG. Enfin, il est transmis en cascade aux managers qui préparent les présentations pour les réunions d'équipe. Le nombre total de réunions qui peuvent intervenir dans une telle décision est énorme.
 relatedTheory:
   - Culture and Values
   - Feedback and Performance Management
