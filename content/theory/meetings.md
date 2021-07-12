@@ -144,7 +144,7 @@ inPractice: >-
 
   * Réunions sur la [résolution des conflits](https://fr--reinventingorganizations-wiki.netlify.app/theory/conflict-resolution/)
 
-  * Réunions de [suivi de l'objectif / la raison d'etre](https://fr--reinventingorganizations-wiki.netlify.app/theory/listening-to-purpose/)
+  * Réunions de [suivi du projet évolutif ](https://fr--reinventingorganizations-wiki.netlify.app/theory/listening-to-purpose/)(raison d'etre)
 
   * Réflexions en grand groupe à [Heiligenfeld](https://fr--reinventingorganizations-wiki.netlify.app/cases/heiligenfeld/)
 
