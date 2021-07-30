@@ -4,38 +4,38 @@ tags: cases
 name: Jaipur Rugs
 date: 2021-04-06T06:24:29.395Z
 introduction: >-
-  Jaipur Rugs has 700 employees and a network of >40,000 artisans in 600 rural
-  villages spread across five Indian states. Its business model is end-to-end,
-  from sourcing wool to exporting handmade rugs.
+  Jaipur Rugs tiene 700 empleados y una red mayor de 40.000 artesanos en 600
+  aldeas rurales repartidas en cinco estados de la India. Su modelo de negocio
+  es de principio a fin, desde el abastecimiento de lana hasta la exportación de
+  alfombras hechas a mano.
 
-  More can be found about Jaipur rugs, for example:
+  Se puede encontrar más sobre las alfombras de Jaipur, por ejemplo:
 
 
-  * Article from Doug Kirkpatrick in 2019^[Self-Managed Art That You Can Walk On Doug Kirkpatrick April 11, 2019 <https://medium.com/redshift-3/jaipur-rugs-self-managed-art-that-you-can-walk-on-5756479726e0>]
+  * Artículo de Doug Kirkpatrick en 2019 ^ \[Arte autogestionado en el que puedes caminar Doug Kirkpatrick 11 de abril de 2019 <https://medium.com/redshift-3/jaipur-rugs-self-managed-art-that-you-can-walk-on-5756479726e0>]
 
-  * Leadermorphosis Podcast Interview of M. Nand Kishore Chaudary on love, collective consciousness and self-management^[Leadermorphosis Podcast Interview of M. Nand Kishore Chaudary on love, collective consciousness and self-management <https://leadermorphosis.co/ep-57-nand-kishore-chaudhary-from-jaipur-rugs-on-love-consciousness-and-self-management>]
+  * Entrevista en podcast de Leadermorphosis de M. Nand Kishore Chaudary sobre el amor, la conciencia colectiva y la autogestión ^ \[Entrevista en podcast de Leadermorphosis de M. Nand Kishore Chaudary sobre el amor, la conciencia colectiva y la autogestión <https://leadermorphosis.co/ep-57-nand-kishore-chaudhary-from-jaipur-rugs-on-love-consciousness-and-self-management>]
 
-  * Blog article from Adam Yukelson (Theory U workshop)^[<https://adamyukelson.com/blog/2016/07/25/jaipur-rugs>]
+  * Artículo de blog de Adam Yukelson (taller de Teoría U)^\[<https://adamyukelson.com/blog/2016/07/25/jaipur-rugs>]
 industry: C. Manufacturing
 geography: India
 companySize: "> 500"
 profit: Profit
 theory:
   - topic: Recruitment
-    title: Look for purpose and passion
+    title: Busque propósito y pasión
     content: >-
-      A few years ago, the HR department in Jaipur Rugs was renamed “*The Search
-      for Divine Soul*”.
+      Hace unos años, el departamento de recursos humanos de Jaipur Rugs pasó a
+      llamarse " *La búsqueda del alma divina* ".
 
-      The company believes that all people are unique in their own way and their sense of purpose can add to the company’s higher purpose.
+      La empresa cree que todas las personas son únicas a su manera y su sentido de propósito puede contribuir al propósito superior de la empresa.
 
-      Recruitment is based on how candidate can add to company values. Interview questions are designed to learn about candidates’ purpose and principles—rather than focusing on experience and academic background. 
+      El reclutamiento se basa en cómo el candidato puede contribuir a los valores de la empresa. Las preguntas de la entrevista están diseñadas para conocer el propósito y los principios de los candidatos, en lugar de centrarse en la experiencia y los antecedentes académicos.
 
-      The founder is directly involved in this process, and often takes the final interview.  Managers at Head Office do the initial interviews. Final decisions are made by consensus of all stakeholders. 
+      El fundador está directamente involucrado en este proceso y, a menudo, realiza la entrevista final. Los gerentes de la oficina central hacen las entrevistas iniciales. Las decisiones finales se toman por consenso de todas las partes interesadas.
 
 
-
-      *For more insight, please look at the following blog articles from the founder:*
+      *Para obtener más información, consulte los siguientes artículos del blog del fundador: **
 
 
       * [Look for purpose and passion when hiring](https://www.nkchaudhary.com/business/look-for-purpose-and-passion-when-hiring/)
@@ -44,99 +44,98 @@ theory:
 
       * [Nurture Creative Leadership](https://www.nkchaudhary.com/founders-mentality/the-need-for-creative-leadership/)
   - topic: Onboarding
-    title: An Artisan Engagement Program
-    content: "Onboarding programs are immersive and extensive. They offer induction
-      for joiners and run up to 5 days.  There they learn about every vertical
-      from the grassroots (villages) to the head office. This includes even the
-      artisans. HR department arranges for representatives from each department
-      to present about their work, so each new joiner gets a common
-      understanding. A lot of resources, including videos, and business process
-      are shown and explained. The Artisan Engagement Program ensures they have
-      a holistic understanding of the company and its business model. \r\n"
+    title: Un programa de participación artesanal
+    content: Los programas de incorporación son inmersivos y extensos. Ofrecen
+      inducción para carpinteros y tienen una duración de hasta 5 días. Allí
+      aprenden sobre cada vertical desde las bases (aldeas) hasta la oficina
+      central esto incluye incluso a los artesanos. El departamento de Recursos
+      Humanos organiza la presentación de representantes de cada departamento
+      sobre su trabajo, de modo que cada nuevo miembro obtenga un entendimiento
+      común. Se muestran y explican muchos recursos, incluidos videos y procesos
+      comerciales. El Programa de participación de artesanos garantiza que
+      tengan una comprensión holística de la empresa y su modelo de negocio.
   - topic: Training and Coaching
-    title: Learning together
+    title: Aprendiendo juntos
     content: >-
-      Training is an essential part of the development programs both for
-      grassroots (villages) and head office people. 
+      La capacitación es una parte esencial de los programas de desarrollo tanto
+      para las bases (pueblos) como para la gente de la oficina central.
 
-      In 2020, Jaipur Rugs completed a leadership training session based on the founder’s ‘mentality model’. This training helped everyone to share best practices (including self-management) from around the world. The leadership department takes care of this training, which is offered regularly to ensure good participation. 
+      En 2020, Jaipur Rugs completó una sesión de capacitación en liderazgo basada en el "modelo de mentalidad" del fundador. Esta capacitación ayudó a todos a compartir las mejores prácticas (incluida la autogestión) de todo el mundo. El departamento de liderazgo se encarga de esta formación, que se ofrece periódicamente para asegurar una buena participación.
 
-      The company has formed teams to learn self-management in various ways, including participation in webinars & forums, and small experiments in the teams. 
-
-
-      *For more insight, see the following blog articles from the founder:* 
+      La empresa ha formado equipos para aprender la autogestión de diversas formas, incluida la participación en webinars y foros, y pequeños experimentos en los equipos.
 
 
-      * [Benefits of Transforming an Organization into a Learning Institution](https://www.nkchaudhary.com/founders-mentality/benefits-of-transforming-an-organization-into-a-learning-institution/)
+      *Para obtener más información, consulte los siguientes artículos de blog del fundador: **
 
-      * [Unlearning is Important to Business](https://www.nkchaudhary.com/founders-mentality/unlearning-is-important-to-business/)
+
+      [nlearning is Important to Business](https://www.nkchaudhary.com/founders-mentality/unlearning-is-important-to-business/)
   - topic: Environmental and Social Management
-    title: Connecting rural craftsmanship to global markets
+    title: Conectando la artesanía rural a los mercados globales
     content: >-
-      Jaipur Rugs brings rural craftsmanship to global markets via handmade
-      carpets. It is a family business based in Jaipur, and offers hand-knotted
-      and woven rugs made using traditional art forms. 
+      Jaipur Rugs lleva la artesanía rural a los mercados globales a través de
+      alfombras hechas a mano. Es una empresa familiar con sede en Jaipur y
+      ofrece alfombras tejidas y anudadas a mano con formas de arte
+      tradicionales.
 
-      The founder, Mr. Nand Kishore Chaudhary, created a business model which provides a livelihood for the artisans at their doorstep. This changed the standard practice of involving middlemen to work with artisan communities. 
+      El fundador, el Sr. Nand Kishore Chaudhary, creó un modelo de negocio que proporciona un medio de vida a los artesanos en la puerta de su casa. Esto cambió la práctica estándar de involucrar a intermediarios para trabajar con comunidades de artesanos.
 
 
-      *For more insight, please see the following articles from the founder:*
+      *Para obtener más información, consulte los siguientes artículos del fundador: **
 
 
       * [What is Social Responsibility in Business?](https://www.nkchaudhary.com/healing/what-is-social-responsibility-in-business/)
 
       * [Social Entrepreneurship in Post-COVID-19 Era](https://www.nkchaudhary.com/founders-mentality/social-entrepreneurship-in-post-covid-19-era/)
   - topic: Job Titles and Job Descriptions
-    title: Thinking creatively
+    title: Pensando creativamente
     content: >-
-      Most people don’t have a single “job” that fits a generic description.
-      Rather, they fill a combination of roles. They have the space to grow and
-      co-create with other departments and explore their interests. When a
-      candidate joins, they have a period of probation (3-6 months) during which
-      they explore their interests, and eventually decide on their work role.
-      This depends on requirements from specific teams. But the idea is that
-      each individual gets the chance to choose their tasks according to
-      interest and passion (always given these align with company’s vision).
-      This period also allows the company to assess and understand the
-      candidate. So, it’s win-win. 
+      La mayoría de la gente no tiene un solo "trabajo" que se ajuste a una
+      descripción genérica. Más bien, cumplen una combinación de roles. Tienen
+      el espacio para crecer y co-crear con otros departamentos y explorar sus
+      intereses. Cuando un candidato se une, tiene un período de prueba (de 3 a
+      6 meses) durante el cual explora sus intereses y finalmente decide su
+      función laboral. Esto depende de los requisitos de equipos específicos.
+      Pero la idea es que cada individuo tenga la oportunidad de elegir sus
+      tareas de acuerdo con su interés y pasión (siempre que se alineen con la
+      visión de la empresa). Este período también permite a la empresa evaluar y
+      comprender al candidato. Entonces, es beneficioso para todos.
 
-      Plus, employees participate in sessions where they provide feedback for management. Each department has such sessions. Additionally, the founder has an open-door policy. This is a direct platform for anyone to go and talk to the founder, which can also help individuals to talk about their roles, if and when required.
+      Además, los empleados participan en sesiones en las que brindan comentarios para la gerencia. Cada departamento tiene este tipo de sesiones. Además, el fundador tiene una política de puertas abiertas. Esta es una plataforma directa para que cualquiera vaya y hable con el fundador, que también puede ayudar a las personas a hablar sobre sus roles, si es necesario.
 
 
-      *For more insight, please look at the following blog article from the founder:*
+      *Para obtener más información, consulte el siguiente artículo del blog del fundador: **
 
 
       * [Allow Employees to think creatively](https://www.nkchaudhary.com/business/give-employees-the-gift-of-creative-freedom/)
   - topic: Role Definition and Allocation
-    title: Space to grow and explore
+    title: Espacio para crecer y explorar
     content: >-
-      Members fill roles that are created, exchanged and discontinued in
-      response to current needs. They aren’t put in a box with a job title.
-      There is space to grow and explore. 
+      Los miembros cumplen roles que se crean, intercambian y descontinúan en
+      respuesta a las necesidades actuales. No se colocan en una casilla con el
+      título del trabajo. Hay espacio para crecer y explorar.
 
-      Some artisans become leaders, entrepreneurs or designers. 
+      Algunos artesanos se convierten en líderes, empresarios o diseñadores.
 
-      Leaders: A program called Bunkar Sakhi (meaning  Artisan Leader) allows artisans to receive leadership training. They then help fellow artisans to achieve best quality in their work. 
+      Líderes: un programa llamado Bunkar Sakhi (que significa Líder Artesano) permite a los artesanos recibir capacitación en liderazgo. Luego ayudan a otros artesanos a lograr la mejor calidad en su trabajo.
 
-      Entrepreneurs: Jaipur Rugs artisans have opened centers of weaving in their homes. They have become tour guides for customers and visitors.
+      Emprendedores: los artesanos de alfombras de Jaipur han abierto centros de tejido en sus hogares. Se han convertido en guías turísticos para clientes y visitantes.
 
-      Artist: Under the Manchaha Program (meaning Artisan Original), Jaipur Rug artisans create and design their own rugs. 
+      Artista: Bajo el Programa Manchaha (que significa Artisan Original), los artesanos de Jaipur Rug crean y diseñan sus propias alfombras.
 
 
-      *For more insight, please look at the following blog articles from the founder:* 
+      *Para obtener más información, consulte los siguientes artículos del blog del fundador: **
 
 
       * [Business is Art](https://www.nkchaudhary.com/business/business-is-art/)
   - topic: Evolutionary Purpose
-    title: Be flexible, free and flow like water
+    title: Sea flexible, libre y fluya como el agua
     content: >-
-      Reviving the dying art of carpet weaving and creating community are at the
-      core of the company’s business philosophy. Jaipur Rugs has worked to
-      bridge the gap between weavers and consumers. 
+      Revivir el arte moribundo de tejer alfombras y crear una comunidad son el
+      núcleo de la filosofía empresarial de la empresa. Jaipur Rugs ha trabajado
+      para cerrar la brecha entre los tejedores y los consumidores.
 
 
-
-      In the following blog article, the founder explains how running his company requires him “to be flexible and free flowing like water” :
+      En el siguiente artículo del blog, el fundador explica cómo el funcionamiento de su empresa le exige “ser flexible y fluir libremente como el agua”:
 
 
       * [Making Mistakes or Building a Pathway for Creativity?](https://www.nkchaudhary.com/innovation/making-mistakes-or-building-a-pathway-for-creativity/)
