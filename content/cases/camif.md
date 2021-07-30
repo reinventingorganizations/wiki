@@ -4,11 +4,11 @@ tags: cases
 name: Camif
 date: 2021-06-10T11:39:58.496Z
 introduction: |-
-  Camif was founded in 1947. After going bankrupt in 2008, it
-  was taken over and reinvented by its new main owner and
-  CEO Emery Jacquillat. It is now a company that sells
-  exclusively online and has focused on furniture, bedding, and
-  "made in France" products ( for over 70% of its revenue).
+  Camif se fundó en 1947 después de la quiebra en 2008,
+  fue asumido y reinventado por su nuevo propietario principal y
+  CEO Emery Jacquillat. Ahora es una empresa que vende
+  exclusivamente en línea y se ha centrado en muebles, ropa de cama y
+  productos "made in France" (más del 70% de sus ingresos).
 
   *This case was published in June 2021*
 industry: G. Wholesale and retail trade; repair of motor vehicles and motorcycles
@@ -17,118 +17,119 @@ companySize: 1-100
 profit: Profit
 theory:
   - topic: Fundamental Assumptions
-    title: The real richness of a company is its capacity to create links
+    title: La verdadera riqueza de una empresa es su capacidad para crear vínculos
     content: |-
-      One of the 3 AAA values displayed by the company is
-      **Attention** (Audacity and Agility are the other two).
-      The proposed personal attitude suggested for employees is to
-      take care of oneself, to create links with others and to be
-      open to the world.
-      Camif pays special attention to its ecosystem. It announces
-      its mission (co-created with its stakeholders) as *“to offer
-      products and services for the home, for the benefit of
-      humanity and the planet. Mobilizing its ecosystem,
-      collaborating and acting to invent new models of
-      consumption, production and organization.”*
+      Uno de los 3 valores AAA que muestra la empresa es
+       **Atención**  (Audacity y Agility son los otros dos).
+      La actitud personal propuesta que se sugiere a los empleados es
+      cuidarse, crear vínculos con los demás y ser
+      abierto al mundo.
+      Camif presta especial atención a su ecosistema: anuncia
+      su misión (co-creada con sus stakeholders) como  *“ofrecer
+      productos y servicios para el hogar, en beneficio de
+      la humanidad y el planeta. Movilizando su ecosistema,
+      colaborar y actuar para inventar nuevos modelos de
+      consumo, producción y organización ”.* 
 
-      The ecosystem consists of its consumers, employees,
-      suppliers, shareholders, local stakeholders.
-      Thereby, to imagine the interior space of the future, they
-      created a unique event, the « Camifathlon ». For 2 days, they
-      gathered a part of their ecosystem such as experts, suppliers,
-      designers or customers to co-create Camif’s collections for
-      the coming years.
+      El ecosistema está formado por sus consumidores, empleados,
+      proveedores, accionistas, stakeholders locales.
+      De ese modo, para imaginar el espacio interior del futuro,
+      creó un evento único, el «Camifatlón». Durante 2 días,
+      reunió una parte de su ecosistema, como expertos, proveedores,
+      diseñadores o clientes para co-crear las colecciones de Camif para
+      los próximos años.
 
-      Each year, the free online Camif Tour allows participants to
-      discover the backstage of French manufacturing, to promote
-      exchanges and to create links with the manufacturers in the
-      regions.
+      Cada año, el Camif Tour gratuito en línea permite a los participantes
+      descubrir el backstage de la fabricación francesa, para promover
+      intercambios y crear vínculos con los fabricantes en el
+      regiones.
+
+
       *<https://www.camif.fr/tour_camif.html>*
   - topic: Culture and Values
-    title: "\"It's up to me to invent the future\""
+    title: '"Depende de mí inventar el futuro"'
     content: >-
-      After the buyout and merger of Camif in 2009, the CEO knew
+      Después de la compra y fusión de Camif en 2009, el CEO sabía
 
-      that moving towards more collaboration among the teams
+      que avanzar hacia una mayor colaboración entre los equipos
 
-      would require a change in culture, and that this would be
+      requeriría un cambio de cultura, y que esto sería
 
-      something taking a lot of time.
-
-      To create links and encourage innovation, Camif has hosted
-
-      an artist in residence for three months. Struck by the fact that
-
-      the employees exchanged emails in the open space instead
-
-      of talking to each other, she started by marking the spots of
-
-      real exchanges with pink strips on the floor. The less talkative
-
-      ones quickly understood that they lacked interactivity.
-
-      Then she made use of the parking lot and renamed the
-
-      spaces with the names of her favorite artists. Every morning,
-
-      employees discovered new painters or sculptors while
-
-      parking and talked about them among themselves.
-
-      The teams were shaken up but were also quickly bonded by
-
-      the dialogue and the link created by these creations.
-
-      Moreover, it was no longer a question of rehashing the past
-
-      with things like “before, we did it like that". 
+      algo que lleva mucho tiempo. 
 
 
-      CAMIF became "C'est A Moi d'Inventer le Futur" ("It's up to me to invent the
+      Para crear vínculos y fomentar la innovación, Camif ha alojado
 
-      future“).
+      artistas en residencia durante tres meses y golpeada por el hecho de que
+
+      los empleados intercambiaron correos electrónicos en el espacio abierto en su lugar
+
+      de hablar entre ellos, ella comenzó marcando los puntos de
+
+      intercambios reales con franjas rosas en el suelo. Los menos habladores
+
+      comprendieron rápidamente que carecían de interactividad.
+
+      Luego hizo uso del estacionamiento y renombró el
+
+      espacios con los nombres de sus artistas favoritos. Cada mañana,
+
+      los empleados descubrieron nuevos pintores o escultores mientras
+
+      estacionamiento y hablamos de ellos entre ellos.
+
+      Los equipos se sacudieron, pero también se unieron rápidamente por
+
+      el diálogo y el vínculo creado por estas creaciones.
+
+      Además, ya no se trataba de revivir el pasado.
+
+      con cosas como “antes lo hacíamos así”.
 
 
-      <https://www.camif.fr/lesbelleshistoires/anne-laure-maison-une-artiste-en-residence-la-camif.html> *in french*
+      CAMIF se convirtió en "C'est A Moi d'Inventer le Futur" ("Depende de mí inventar el
+
+      futuro").<https://www.camif.fr/lesbelleshistoires/anne-laure-maison-une-artiste-en-residence-la-camif.html> *in french*
   - topic: Environmental and Social Management
-    title: A mission-driven enterprise
+    title: Una empresa impulsada por una misión
     content: >-
-      After being certified as a “B Corp” or Benefit Corporation in 2015, Camif
-      chose to open a new era and become a pioneer “mission-driven enterprise”
-      in France which means that by law:
+      Después de obtener la certificación como "B Corp" o Benefit Corporation en
+      2015, Camif decidió abrir una nueva era y convertirse en una "empresa
+      impulsada por una misión" pionera en Francia, lo que significa que por
+      ley:
 
 
-      * The purpose of the company, called its “mission,” is defined and inscribed in legal statutes.
+      * La finalidad de la empresa, denominada su “misión”, está definida e inscrita en los estatutos legales.
 
-      * A form of commitment: the statutes formally commit the shareholders, and are accompanied by conditions to be met in order to abolish or modify the mission (generally obtaining 2/3 votes of each class of shares).
+      * Una forma de compromiso: los estatutos comprometen formalmente a los accionistas, y van acompañados de condiciones que deben cumplirse para derogar o modificar la misión (obteniendo generalmente 2/3 votos de cada clase de acciones).
 
-      * Control mechanisms associated with the mission, through the implementation of a reporting system, the rights of shareholders and third parties (or stakeholders*), as well as adapted governance mechanisms, accompany this legal system and ensure its control.
-
-
-      A concrete consequence of this commitment to mission is the boycott of Black Friday. Camif.fr closed its site on Nov. 24, 2017 for the first time to raise awareness of responsible consumption. An invitation is made to each one this day to make a step aside, to take distance on the habits of overconsumption. And to take times to think about adopting new behaviors like recycling, reusing.
+      * Los mecanismos de control asociados a la misión, a través de la implementación de un sistema de reporte, los derechos de los accionistas y terceros (o grupos de interés *), así como los mecanismos de gobernanza adaptados, acompañan a este ordenamiento jurídico y aseguran su control.
 
 
-      With La Place <https://www.camif.fr/laplace/>, Camif proposes alternatives to overconsumption and aims to promote local products. La Place is a platform that brings together all the players in the responsible economy, repair, recycling or the social and solidarity economy.
+      Una consecuencia concreta de este compromiso con la misión es el boicot al Black Friday. Camif.fr cerró su sitio el 24 de noviembre de 2017 por primera vez para crear conciencia sobre el consumo responsable. A cada uno se le invita este día a dar un paso al costado, a tomar distancia de los hábitos de consumo excesivo. Y tomarse un tiempo para pensar en adoptar nuevos comportamientos como reciclar, reutilizar.
 
 
-      (*) consumers, employees, suppliers, shareholders, local stakeholders
+      Con La Place <https://www.camif.fr/laplace/>, Camif propone alternativas al consumo excesivo y tiene como objetivo promover los productos locales. La Place es una plataforma que reúne a todos los actores de la economía responsable, la reparación, el reciclaje o la economía social y solidaria.
+
+
+      (*) consumidores, empleados, proveedores, accionistas, stakeholders locales
   - topic: Information Flow
-    title: The musical chairs
-    content: >
-      The former Camif was very hierarchical and segregated before it went
-      bankrupt and was acquired in 2009.
+    title: Las sillas musicales
+    content: >-
+      El antiguo Camif era muy jerárquico y segregado antes de quebrar y fuera
+      adquirido en 2009.
 
-      The new management advocates now the free flow of information. 
+      La nueva dirección aboga ahora por el libre flujo de información.
 
-      It also actively preaches the movement of people! Every week, it's musical chairs: each employee changes neighbors, according to a very carefully orchestrated schedule. 
+      ¡También predica activamente el movimiento de personas! Cada semana, son sillas musicales: cada empleado cambia de vecino, de acuerdo con un horario cuidadosamente orquestado.
 
-      There is also the "Tuesday update": a group-viewed slide-show review of activity and projects in progress, and results. To facilitate the sharing, the animator is renewed each time. This is an opportunity to review Camif's core business: Marketing and Offer. Employees are free to insert their slide before Tuesday morning to present specific topics on their activities, make calls for volunteers, etc. (The slide deck is available on the network).
+      También está la "actualización del martes": una revisión de presentación de diapositivas vista en grupo de la actividad y los proyectos en progreso, y los resultados. Para facilitar el compartir, el animador se renueva cada vez. Esta es una oportunidad para revisar el negocio principal de Camif: marketing y oferta. Los empleados son libres de insertar su diapositiva antes del martes por la mañana para presentar temas específicos sobre sus actividades, hacer llamadas para voluntarios, etc. (La plataforma de diapositivas está disponible en la red).
 
-      Tuesday's meeting is also an opportunity to talk about decisions that will be taken in a collaborative way: the telework charter, ...
+      La reunión del martes también es una oportunidad para hablar sobre las decisiones que se tomarán de manera colaborativa: la carta del teletrabajo, ...
 
-      For newcomers, it is required for them to present themselves to all the employees (what is your background, your job, your favorite food, your gesture for the planet.)
+      Para los recién llegados, es necesario que se presenten a todos los empleados (cuál es su origen, su trabajo, su comida favorita, su gesto por el planeta).
 
-      The participation rate is usually 100%, excluding absences due to illness, vacations, time off, etc.
+      La tasa de participación suele ser del 100%, excluyendo ausencias por enfermedad, vacaciones, tiempo libre, etc.
 
-      Each week, an employee is drawn at random and will introduce the following Tuesday's update. He or she will be the facilitator and will also have to introduce himself or herself and the roles he or she plays in the organization. The objective here is to encourage all employees who do not necessarily have the opportunity to speak in public to do so.
+      Cada semana, se selecciona un empleado al azar y presentará la actualización del martes siguiente. Él o ella será el facilitador y también tendrá que presentarse y los roles que desempeña en la organización. El objetivo aquí es animar a todos los empleados que no necesariamente tienen la oportunidad de hablar en público a hacerlo.
 ---
