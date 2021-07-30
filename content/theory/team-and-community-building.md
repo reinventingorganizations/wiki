@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Team and Community Building
-name: Construcción del Equipo / la Comunidad
+name: Construcción del Equipo / La Comunidad
 sortOrder: 8
 category: Daily practices
 intro: >-
