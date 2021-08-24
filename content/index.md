@@ -7,6 +7,12 @@ intro: >-
   ![](/media/flagRussia.jpg)   
 
 
+  Русскоязычная версия Wiki основана на книге Фредерика Лалу «Открывая организации будущего». 
+
+
+  Ключевая цель — вдохновлять руководителей, которые переосмысливают подход в моделях управления организации, и служить практическим руководством для создания бирюзовых команд!
+
+
   This **Russian** wiki is based on the book Reinventing Organizations by Frederic Laloux. Its primary purpose is to serve as a practical guide for leaders who are reinventing their organization and are looking for inspiration as they upgrade specific management practices in their organization.
 
 
