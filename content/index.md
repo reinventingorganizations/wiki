@@ -2,7 +2,7 @@
 layout: home
 name: Home
 tagline: Добро пожаловать в русскоязычную версию
-title: Главная — Reinventing Organizations Wiki
+title: Wiki бирюзовых организаций
 intro: >-
   ![](/media/flagRussia.jpg)   
 
