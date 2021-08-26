@@ -18,13 +18,13 @@ intro: >-
 
   ![](/media/flagGreatBritainXXS.png)Для участия в переводе этой Wiki     [нажмите сюда](/pages/translations) (на венгерском и испанском языках контент готов. На русском, китайском и французском в процессе).
 topics:
-  - title: Teal Concepts
+  - title: Бирюзовая концепция
     image: /media/home_reinvention-etienne-small.png
     link: /pages/tealconcepts
-  - title: Key structures and practices
+  - title: Структуры и практики
     image: /media/home_difference-etrienne-small.png
     link: /pages/tealpractices
-  - title: Concrete cases for inspiration
+  - title: Вдохновляющие кейсы
     image: /media/home_cases-etienne-small.png
     link: /cases
 ---
