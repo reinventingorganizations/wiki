@@ -1,13 +1,13 @@
 ---
 layout: content
-name: How can you contribute?
+name: Участие в развитии
 ---
-#### You can of course [donate](https://opencollective.com/tealwiki), so that we can continue maintaining and growing this website which is dedicated to inspire organizations on their transformation journey.
+#### Вы можете сделать [пожертвование](https://opencollective.com/tealwiki) для поддержки этого ресурса, который вдохновляет организации развиваться и меняться.
 
-#### And if you are ready to give some time to this initiative, there are 3  ways in which you can contribute.
+#### А также, если у вас есть инициатива и желание, то есть еще 3 способа для участия в развитие сайта:
 
-1. **Share teal practices from your own organization!** Please fill out this [short form](https://surveyheart.com/form/5fb632d8c99c116adc299908) so that we can contact you (please note, that as we are volunteers, it might take a week or longer for us to respond).
-2. **Join our group of enthusiastic volunteers!** We are looking for people happy to enrich and maintain the wiki, and there are different tasks to do and roles to fulfill. For example to review the current articles (for example language editing), or to write new articles. Or maybe to translate the wiki to other languages? We also need web developers familiar with github and \[the platform infrastructure]. The wiki has been developed in open source and we have a number of enhancement requests waiting for your talents! Please [fill out this form](https://surveyheart.com/form/5f12c56c042b2b3696da7a2e) so that we can contact you.
-3. **Give feedback!** You can also react to what you have read in the current version of the wiki and [give feedback](https://surveyheart.com/form/5fb7b793ef396770afbeb29e).
+1. **Поделитесь с нами бирюзовым опытом!**  Для этого заполните [форму](https://surveyheart.com/form/5fb632d8c99c116adc299908), чтобы мы с вами связались и разместили контент на сайте (мы волонтеры и для нам может потребоваться на ответ неделя или более).
+2. **Присоединяйтесь к нам** У нас много ролей и задач, поэтом мы всегда в поиске волотнеров для развития Wiki. Например, для необходимо переводить статьи и создавать новый контент. А также, у нас есть ряд задач для улучшения сайта и мы всегда в поиске разработчиком со знанием Github. Пожалуйста, [отправьте форму](https://surveyheart.com/form/5f12c56c042b2b3696da7a2e) для связи с нами.
+3. **Оставьте отзыв!** Нам важно ваше мнение. Каждый может дать фидбек по структуре сайта или самого контента. Для этого есть [специальная  страница](https://surveyheart.com/form/5fb7b793ef396770afbeb29e).
 
    ![](/media/contribute.jpg)
