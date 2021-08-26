@@ -1,6 +1,6 @@
 ---
 layout: content
-name: About
+name: Об этом Wiki — Reinventing Organizations
 ---
 ![](/media/evolutionary-purpose.jpg)
 
@@ -18,6 +18,6 @@ name: About
 
 #### Самоорганизованное волонтерами Wiki
 
-This body of knowledge is brought to the world by a group of enthusiastic volunteers inspired by the ideas presented in the book, “[Reinventing Organizations](https://www.reinventingorganizations.com/)” and the video series “[Insights for the Journey](https://thejourney.reinventingorganizations.com/index.html)” (both by Frederic Laloux). The community of wiki contributors operates itself—how could it be otherwise?—using next-generation practices that the wiki discusses.
+Сайт — совокупность знаний от энтузиастов-добровольцев, вдохновленных идеями, представленными в книге “[Открывая организаци будущего](https://www.reinventingorganizations.com/)” и серии видеороликов “[Понимание путешествия](https://thejourney.reinventingorganizations.com/index.html)” Фредерика Лалу. Команда самоорганизована с помощью этих методов нового поколения, которые мы и обсуждаем на сайте. 
 
-In case you would also like to contribute yourself, please [visit this page](../how-can-you-contribute/)
+Для принятия участия посетите страницу ["Поучаствовать в развитии"](../how-can-you-contribute/).
