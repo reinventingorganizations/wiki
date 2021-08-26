@@ -1,6 +1,6 @@
 ---
 layout: content
-name: Об этом Wiki — Reinventing Organizations
+name: Об этом Wiki
 ---
 ![](/media/evolutionary-purpose.jpg)
 
@@ -20,4 +20,4 @@ name: Об этом Wiki — Reinventing Organizations
 
 Сайт — совокупность знаний от энтузиастов-добровольцев, вдохновленных идеями, представленными в книге “[Открывая организаци будущего](https://www.reinventingorganizations.com/)” и серии видеороликов “[Понимание путешествия](https://thejourney.reinventingorganizations.com/index.html)” Фредерика Лалу. Команда самоорганизована с помощью этих методов нового поколения, которые мы и обсуждаем на сайте. 
 
-Для принятия участия посетите страницу ["Поучаствовать в развитии"](../how-can-you-contribute/).
+Для принятия участия посетите страницу ["Участие в развитии"](../how-can-you-contribute/).
