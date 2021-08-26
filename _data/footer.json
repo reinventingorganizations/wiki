@@ -1,32 +1,32 @@
 {
   "footerLinks": [
     {
-      "title": "Donate",
+      "title": "Донат",
       "link": "https://opencollective.com/tealwiki"
     },
     {
-      "title": "Give feedback",
+      "title": "Фидбек",
       "link": "https://surveyheart.com/form/5fb7b793ef396770afbeb29e"
     },
     {
-      "title": "Contribute",
+      "title": "Участие в развитии",
       "link": "/pages/how-can-you-contribute/"
     },
     {
       "link": "https://discourse.reinventingorganizations.com/",
-      "title": "Discourse forum"
+      "title": "Форум"
     },
     {
-      "title": "Get the book",
+      "title": "Приобрести книгу",
       "link": "https://www.reinventingorganizations.com/"
     },
     {
-      "title": "Watch videos (Insights for the Journey)",
+      "title": "Видео ",
       "link": "https://thejourney.reinventingorganizations.com/videos.html"
     },
     {
       "link": "/pages/about/",
-      "title": "About"
+      "title": "О нас"
     },
     {
       "title": "Карта сайта",
