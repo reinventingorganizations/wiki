@@ -27,6 +27,8 @@ Please [let us know](https://reinventingorganizationswiki.com/pages/how-can-you-
 
 ![](/media/flagitalysmall.jpg)      Italian Wiki <https://it.reinventingorganizationswiki.com/>
 
-![](/media/flagturkey.jpg)         Turkish Wiki <https://tr.reinventingorganizationswiki.com/>
+![](/media/flagturkey.jpg)      Turkish Wiki <https://tr.reinventingorganizationswiki.com/>
 
-![](/media/flaggermany.jpg)       German Wiki <https://de.reinventingorganizationswiki.com/>
+![](/media/flaggermany.jpg)      German Wiki <https://de.reinventingorganizationswiki.com/>
+
+![](/media/flagbrazil.jpg) Portuguese Wiki <https://pt.reinventingorganizationswiki.com/>
