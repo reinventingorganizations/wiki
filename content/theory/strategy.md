@@ -1,13 +1,13 @@
 ---
 layout: article
 tags: theory
-key: Strategy
-name: Strategy
+key: Strategie
+name: Strategie
 sortOrder: 1
 category: Important Processes
 intro: >-
-  The topic of Strategy covers how the traditional process of strategic planning
-  plays out in Teal organizations.
+  Ce thème couvre la manière dont le processus de planification stratégique se
+  déroule dans les organisations Opale.
 
 
   ![](/media/evolutionary-purpose.jpg)
@@ -16,7 +16,7 @@ perspective: >-
   and to very different practices:
 
 
-  #### **Red Organizations**
+  #### **Organisations Rouge**
 
 
   [Red organizations](../red-organizations/) don't typically develop long-term goals or strategies beyond survival. The chief(s) seek short-term gains to maintain power, and to respond to threats and opportunities as they arise.
