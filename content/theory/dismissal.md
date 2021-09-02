@@ -109,16 +109,19 @@ inPractice: >-
 
   Le maintien artificiel des emplois n'a aucun sens du point de vue du paradigme Opale. Le souci de la sécurité de l'emploi est en partie inspiré par la peur. Il ne tient pas compte du fait que tout évolue. Il néglige la possibilité qu'une personne dont les talents sont gaspillés dans une organisation en sureffectif puisse trouver une meilleure façon d'exprimer ses talents là où ils sont utiles. La vie se renouvelle sans cesse ; les licenciements et même les mises à pied peuvent en faire partie, bien qu'ils soient rares dans les structures autogouvernées.
 faq:
-  - question: How do these practices link with the three Teal breakthroughs?
+  - question: Comment ces pratiques s'articulent-elles avec les trois avancées Opales ?
     answer: >-
-      In [Teal organizations](../teal-paradigm-and-organizations/) the decision
-      about whether a person will stay with the organization belongs with that
-      individual and/or their team. Forced dismissals are infrequent because
-      people are given clear indications if they are not a fit so that they can
-      choose to leave voluntarily. In many cases a parting of the ways happens
-      by mutual consent in the process of self-managed conflict resolution. Only
-      when everything else fails do organization founders fire people, but this
-      is also initiated by the team or a conflict mediation panel.
+      Dans les [organisations Opales](../teal-paradigm-and-organizations/) la
+      décision de savoir si une personne va rester dans l'organisation
+      appartient à cette personne et/ou à son équipe. Les licenciements
+      contraints sont peu fréquents car les personnes reçoivent des indications
+      claires si elles ne conviennent pas, de sorte qu'elles peuvent choisir de
+      partir volontairement. Dans de nombreux cas, la séparation se fait par
+      consentement mutuel dans le cadre d'un processus de résolution des
+      conflits autogouverné. Ce n'est que lorsque tout le reste échoue que les
+      fondateurs de l'organisation licencient les gens, mais cette mesure est
+      également prise à l'initiative de l'équipe ou d'un groupe de médiation des
+      conflits.
 
 
       #### Wholeness
