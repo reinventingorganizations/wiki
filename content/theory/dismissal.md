@@ -80,10 +80,10 @@ inPractice: >-
   Quasiment systématiquement, les gens choisissent de partir avant d'être licenciés. Et presque toujours, le départ se fait par consentement mutuel, et sur une base cordiale. Cela ne change rien au fait que, sur le plan personnel, le processus peut être douloureux. Le contexte d'autogouvernance aide les gens à réaliser que personne n'est à blâmer, qu'ils ne sont peut-être pas faits pour ce genre de travail.
 
 
-  #### Dismissal still happens occasionally
+  #### Des licenciements peuvent encore se produire de temps en temps
 
 
-  But occasionally, self-managing organizations do face situations where they need to part ways with people who don’t fit. Perhaps someone breaches company values, or systematically fails to follow the advice process (in many Teal organizations, failing to follow the advice process is the only “fireable” offense). In both of these cases, the fundamental fabric of self-management may be threatened. These situations don’t rely on a hierarchy for action, but on peer-based mechanisms.
+  Il arrive que des organisations autogouvernées soient confrontées à des situations où elles doivent se séparer de personnes qui ne leur conviennent pas. Peut-être quelqu'un enfreint-il les valeurs de l'entreprise ou ne respecte-t-il jamais le processus de sollicitation d'avis (dans de nombreuses organisations Opales, le non-respect de la sollicitation d'avis est la seule infraction "passible de licenciement"). Dans ces deux cas, le tissu fondamental de l'autogouvernance peut être menacé. Dans ces situations, l'action ne repose pas sur la hiérarchie, mais sur des mécanismes basés sur les pairs.
 
 
   It usually starts with a conflict resolution effort, initiated by a team or an individual. They talk with the person in question and try to find a mutually agreeable solution. If this fails, they can call a mediator, or a panel, to facilitate resolution. In most cases, this brings resolution. In some cases, the person and the team decide on some mutual commitments and give it another go. In others, the person comes to see that trust is irrevocably broken and understands it is time to leave.
