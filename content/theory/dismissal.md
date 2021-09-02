@@ -92,10 +92,10 @@ inPractice: >-
   Si aucun accord ne peut être trouvé, et en guise de dernière tentative pour régler le problème, l'équipe peut demander à un actionnaire majoritaire ou fondateur de jouer le rôle de médiateur. Dans les rares cas où cette démarche échoue, l'équipe peut demander au fondateur de mettre fin à l'emploi de la personne concernée. Ce processus, avec quelques variantes, est suivi chez [Buurtzorg ](http://www.buurtzorgnederland.com/)et [Morning Star](http://www.morningstarco.com/).
 
 
-  #### Economic troughs are handled differently
+  #### Les crises économiques sont traitées différemment
 
 
-  Few Teal organizations have laid people off during downturns. Self-managing organizations are exceedingly flexible and accumulate little overhead. They weather downturns better than traditional organizations. [FAVI ](http://www.favi.com/)and [Sun Hydraulics](http://www.sunhydraulics.com/), for example, have both withstood severe recessions (with revenue decreases of 30 to 50 percent) without layoffs.
+  Peu d'organisations Opales ont licencié du personnel en période de récession. Les organisations autogouvernées sont extrêmement flexibles et génèrent peu de frais généraux. Elles résistent mieux aux périodes de récession que les organisations traditionnelles. [FAVI ](http://www.favi.com/)et [Sun Hydraulics](http://www.sunhydraulics.com/), par exemple, ont toutes deux résisté à de graves récessions (avec des baisses de revenus de 30 à 50 %) sans licencier.
 
 
   In some cases, colleagues agree to share the pain and opt for temporary pay reductions. From a Teal perspective, it would be improper to lay off colleagues just to boost profits for a few months if the overstaffing is deemed to be only temporary.
