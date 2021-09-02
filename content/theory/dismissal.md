@@ -141,4 +141,6 @@ relatedTheory:
   - Résolution de conflit
   - Gestion de crise
   - Prise de décision
+  - Management du changement
+  - Feedback et management de la performance
 ---
