@@ -124,19 +124,19 @@ faq:
       conflits.
 
 
-      #### Wholeness
+      #### Plénitude
 
 
-      When you don’t have a fear that your boss may fire you at will, it’s easier to show up fully at work. If you’re not being judged and do not depend on adhering to a set of rules to stay in the job, you tend to bring your whole self to the workplace.
+      Lorsque vous n'avez pas peur que votre patron puisse vous licencier à sa guise, il est plus facile de se montrer en plénitude au travail. Si vous n'êtes pas jugé et que vous n'avez pas besoin d'adhérer à un ensemble de règles pour conserver votre emploi, vous avez tendance à vous exposer sans masque dans votre travail.
 
 
-      [Teal organizations ](../teal-paradigm-and-organizations/)don’t reduce dismissals to cold, contractual transactions that avoid dealing with the emotions and pain. Instead, they accept and work with those human issues to turn departures into a learning experiences that can meaningfully enhance the person’s and the organization’s future path. 
+      Les [organisations Opales ](../teal-paradigm-and-organizations/)ne résument pas les licenciements à des transactions purement contractuelles qui évitent de gérer les émotions et la souffrance. Au contraire, elles acceptent et travaillent avec ces problèmes humains pour transformer les départs en expériences d'apprentissage qui peuvent améliorer de manière significative le parcours futur de la personne et de l'organisation. 
 
 
-      #### Evolutionary purpose
+      #### Raison d'etre évolutive
 
 
-      Giving people the opportunity and encouraging them to actively find a new role in the company when they are not performing well or when their current role is no longer needed contributes to the organization’s ability to listen and understand what it is trying to become, to fulfill its [evolutionary purpose](../evolutionary-purpose/).
+      Donner aux gens la possibilité et les encourager à trouver activement un nouveau rôle dans l'entreprise lorsqu'ils ne sont pas performants ou lorsque leur rôle actuel n'est plus nécessaire contribue à la capacité de l'organisation à écouter et à comprendre ce qu'elle essaie de devenir, à remplir sa mission et à s'adapter à sa [raison d'être](../evolutionary-purpose/).
 relatedTheory:
   - Feedback and Performance Management
   - Compensation and incentives
