@@ -143,4 +143,6 @@ relatedTheory:
   - Prise de décision
   - Management du changement
   - Feedback et management de la performance
+  - Engagement, horaires de travail et flexibilité
+  - Rémunération et primes
 ---
