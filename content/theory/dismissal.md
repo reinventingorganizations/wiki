@@ -138,8 +138,7 @@ faq:
 
       Donner aux gens la possibilité et les encourager à trouver activement un nouveau rôle dans l'entreprise lorsqu'ils ne sont pas performants ou lorsque leur rôle actuel n'est plus nécessaire contribue à la capacité de l'organisation à écouter et à comprendre ce qu'elle essaie de devenir, à remplir sa mission et à s'adapter à sa [raison d'être](../evolutionary-purpose/).
 relatedTheory:
-  - Feedback and Performance Management
-  - Compensation and incentives
-  - Conflict resolution
-  - Commitment, Working Hours and Flexibility
+  - Résolution de conflit
+  - Gestion de crise
+  - Prise de décision
 ---
