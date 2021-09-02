@@ -104,10 +104,10 @@ inPractice: >-
   Lorsqu'une organisation passe à l'autogouvernance, les personnes occupant des fonctions de management ne sont plus indispensables. Zappos a fait face à cette situation et a offert aux anciens managers du temps et une aide substantielle pour trouver de nouveaux rôles où ils pourraient apporter une réelle valeur ajoutée. Ils ont également offert à tous les employés une généreuse indemnité de départ s'ils ne se sentaient pas pleinement motivés par la nouvelle organisation. ^\[Voir l'article de Quartz "Internal Memo: Zappos is offering severance to employees who aren’t all in with Holacracy"].
 
 
-  This is different to structural overstaffing. [AES ](http://www.aes.com/)faced this many times with power plants it bought in Eastern Europe, Asia, Latin America, and Africa. In some cases, the previous government owners had used the plants to create artificial jobs. After acquisition, AES swiftly reduced the number of employees, mainly via a generous voluntary severance program. Only rarely were people asked to leave. In Panama, AES created a loan fund for employees who took the package. This helped many to start new businesses.
+  Cela diffère du sureffectif structurel. [AES ](http://www.aes.com/)a été confronté à ce problème à plusieurs reprises avec les centrales électriques qu'il a achetées en Europe de l'Est, en Asie, en Amérique latine et en Afrique. Dans certains cas, d'anciens gouvernements actionnaires avaient utilisé ces centrales pour créer des emplois artificiels. Après l'acquisition, AES a rapidement réduit le nombre d'employés, principalement par le biais d'un généreux programme de départ volontaire. On ne demandait que rarement aux gens de partir. Au Panama, AES a créé un fonds de crédits pour les employés qui acceptaient ce programme. Cela a aidé beaucoup d'entre eux à créer de nouvelles entreprises.
 
 
-  Maintaining jobs artificially makes no sense from a Teal perspective. A concern about job security is partly inspired by fear. It neglects the truth that everything changes. It dismisses the possibility that a person whose talents are wasted in an overstaffed organization might find a better way to express his gifts where they are needed. Life is continuously unfolding; dismissals and even layoffs can be part of that unfolding, although they are rare in self-managed structures.
+  Le maintien artificiel des emplois n'a aucun sens du point de vue du paradigme Opale. Le souci de la sécurité de l'emploi est en partie inspiré par la peur. Il ne tient pas compte du fait que tout évolue. Il néglige la possibilité qu'une personne dont les talents sont gaspillés dans une organisation en sureffectif puisse trouver une meilleure façon d'exprimer ses talents là où ils sont utiles. La vie se renouvelle sans cesse ; les licenciements et même les mises à pied peuvent en faire partie, bien qu'ils soient rares dans les structures autogouvernées.
 faq:
   - question: How do these practices link with the three Teal breakthroughs?
     answer: >-
@@ -140,4 +140,3 @@ relatedTheory:
   - Conflict resolution
   - Commitment, Working Hours and Flexibility
 ---
-To be removed
