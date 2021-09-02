@@ -65,10 +65,10 @@ perspective: >-
 
   Les [organisations Vertes ](../green-paradigm-and-organizations/)ont une grande tolérance à l'égard des différences individuelles et sont plus susceptibles de chercher une alternative au départ des gens. Les personnes qui ne se conforment pas aux règles et aux valeurs de la communauté peuvent se sentir marginalisées et, par conséquent, partir. En dehors de cela, les pratiques de licenciement sont similaires à celles du paradigme Orange.
 inPractice: >-
-  #### People choose to leave before dismissal
+  #### Les personnes choisissent de partir avant d'être licenciées
 
 
-  In Teal organizations, dismissals prove to be surprisingly rare—because of the in-built flexibility. Self-management means people can customize a job at which they excel. A person with “performance issues” might shed one or more roles in which she is not strong and take up others that better match her skills, interests, and talents. In traditional workplaces, where a job is well defined, there is usually less flexibility.
+  Dans les organisations Opales, les licenciements s'avèrent étonnamment rares, en raison de leur flexibilité intrinsèque. L'autogouvernance implique que les personnes peuvent personnaliser un travail dans lequel elles excellent. Une personne ayant des "problèmes de performance" peut se débarrasser d'un ou de plusieurs rôles pour lesquels elle n'est pas très douée et en accepter d'autres qui correspondent mieux à ses compétences, ses intérêts et ses talents. Dans les lieux de travail traditionnels, où le poste est bien circonscrit, la flexibilité est généralement moindre.
 
 
   Moreover, feedback on performance in Teal does not come from another, remote level (like a boss or HR). It comes from colleagues. There is much less reason to find fault with their feelings about your performance. These are the people you need to work with everyday. If this feels awkward, you can take an adult decision to move on.
