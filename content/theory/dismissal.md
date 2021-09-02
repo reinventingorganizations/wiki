@@ -30,13 +30,13 @@ perspective: >-
   **En revanche, le licenciement dans les organisations à un stade antérieur peut être résumé comme suit:**.
 
 
-  #### Organisations Rouge
+  #### Organisations Rouges
 
 
   Dans le [ paradigme Rouge](../red-organizations/), c'est au patron/chef de décider qui licencier ou garder. Les processus formels ne sont pas de mise. Les départs volontaires peuvent être considérés comme une véritable trahison.
 
 
-  #### Organisations Ambre
+  #### Organisations Ambres
 
 
   Dans [les organisations Ambre,](../amber-paradigm-and-organizations/) les licenciements font souvent suite à un manque de discipline, ou à une violation des règles. Les conséquences sont généralement bien établies. Par exemple, une première infraction (comme arriver en retard) peut entraîner une suspension d'une journée. Une récidive peut entraîner le renvoi.
@@ -45,7 +45,7 @@ perspective: >-
   Dans les déclinaisons actuelles du stade Ambre - certaines agences gouvernementales, organisations religieuses, écoles publiques, armée, etc. - l'emploi prolongé (voire à vie) est la norme. Ces relations à long terme peuvent s'étendre aux cercles sociaux. La menace d'un licenciement peut entraîner non seulement la perte d'un emploi, mais aussi celle du tissu social qui y est associé. Les personnes qui ne se sentent pas épanouies dans une organisation Ambre sont confrontées à un choix douloureux.
 
 
-  #### Organisations Orange
+  #### Organisations Oranges
 
 
   Les [organisations Orange ](../orange-paradigm-and-organizations/)ont un large éventail de pratiques en matière de licenciement. L'autorité appartient généralement au patron (éventuellement après approbation ou conseil des RH).
@@ -60,10 +60,10 @@ perspective: >-
   D'un autre côté, la nécessité d'un licenciement peut également être considérée comme une faille dans le processus d'embauche. Cela s'explique en partie par le fait que le coût de l'embauche d'une personne qui s'avère ensuite peu satisfaisante est élevé . Les indemnités de licenciement sont relativement courantes. Parfois, une aide à la recherche d'un nouvel emploi est proposée. Les organisations Orange peuvent avoir des pratiques de licenciement assez évoluées.
 
 
-  #### Green organizations
+  #### Organisations Vertes
 
 
-  [Green organizations ](../green-paradigm-and-organizations/)have a high tolerance for individual differences and are likelier to look for an alternative to letting people go. People who do not conform to the community rules and values may feel marginalized, and leave as a result. Otherwise, dismissal practices are similar to the Orange paradigm.
+  Les [organisations Vertes ](../green-paradigm-and-organizations/)ont une grande tolérance à l'égard des différences individuelles et sont plus susceptibles de chercher une alternative au départ des gens. Les personnes qui ne se conforment pas aux règles et aux valeurs de la communauté peuvent se sentir marginalisées et, par conséquent, partir. En dehors de cela, les pratiques de licenciement sont similaires à celles du paradigme Orange.
 inPractice: >-
   #### People choose to leave before dismissal
 
