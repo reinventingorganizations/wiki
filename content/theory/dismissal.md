@@ -6,14 +6,14 @@ name: Licenciement
 sortOrder: 10
 category: People practices
 intro: >-
-  Même dans les organisations Opale, les gens ne s'intègrent pas toujours bien
-  ou ne fonctionnent pas toujours de manière adaptée. Lorsque cela se produit,
-  les réponses au stade Opale sont différentes de celles des stades antérieurs.
+  Même dans les organisations au stade Opale, les gens ne s'intègrent pas
+  toujours très bien. Lorsque cela se produit, les réponses à ce stade sont
+  différentes de celles des stades antérieurs.
 
 
   ![](/media/dismissal.jpg)
 perspective: >-
-  Dans les organisations Teal, les licenciements sont rares. Les rôles ont
+  Dans les organisations Opale, les licenciements sont rares. Les rôles ont
   tendance à évoluer pour s'adapter aux points forts de chacun, et les personnes
   sont généralement très motivées par un sentiment d'autonomie et le désir de ne
   pas décevoir leurs collègues. Les licenciements sont peu fréquents car les
@@ -27,13 +27,13 @@ perspective: >-
   Cependant un licenciement peut intervenir en dernier recours (et seulement si un processus de résolution de conflit par médiation n'aboutit pas). Dans ce cas, les émotions associées sont accueillies, les personnes et les choix sont respectés et un soutien est apporté. Ce départ est traité comme une opportunité d'apprentissage pour les deux parties.
 
 
-  **In contrast, dismissal in earlier stage organizations can be summarized as follows:**
+  **En revanche, le licenciement dans les organisations à un stade antérieur peut être résumé comme suit:**.
 
 
-  #### Red organizations
+  #### Organisations Rouge
 
 
-  In the[ Red paradigm](../red-organizations/), it’s up to the boss/leader to decide who to fire or keep. Formal processes are not necessary. Voluntary departures may be seen as betrayal.
+  Dans le [ Red paradigm](../red-organizations/), c'est au patron/chef de décider qui licencier ou garder. Les processus formels ne sont pas de mise. Les départs volontaires peuvent être considérés comme une véritable trahison.
 
 
   #### Amber organizations
