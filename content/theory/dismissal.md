@@ -45,19 +45,19 @@ perspective: >-
   Dans les déclinaisons actuelles du stade Ambre - certaines agences gouvernementales, organisations religieuses, écoles publiques, armée, etc. - l'emploi prolongé (voire à vie) est la norme. Ces relations à long terme peuvent s'étendre aux cercles sociaux. La menace d'un licenciement peut entraîner non seulement la perte d'un emploi, mais aussi celle du tissu social qui y est associé. Les personnes qui ne se sentent pas épanouies dans une organisation Ambre sont confrontées à un choix douloureux.
 
 
-  #### Orange organizations
+  #### Organisations Orange
 
 
-  [Orange organizations ](../orange-paradigm-and-organizations/)have a wide range of practices for dismissals. Authority commonly lies with the boss (maybe after HR approval or counseling).
+  Les [organisations Orange ](../orange-paradigm-and-organizations/)ont un large éventail de pratiques en matière de licenciement. L'autorité appartient généralement au patron (éventuellement après approbation ou conseil des RH).
 
 
-  The causes are typically either performance or organizational cost-cutting/strategic redirection. Rarely is there implicit or contractual understanding that employment is guaranteed.
+  Les causes sont généralement liées aux performances, à la réduction des coûts ou à la réorientation stratégique de l'organisation. Il est rare que l'emploi soit garanti de manière implicite ou contractuelle.
 
 
-  It is common to have elaborate systems of performance management. Then, dismissal can follow when attempts to lift below-par performance have failed.
+  Il est fréquent de disposer de systèmes élaborés de gestion des performances. Le licenciement peut alors intervenir lorsque les tentatives pour améliorer des performances insuffisantes ont échoué.
 
 
-  On the other hand, the need for a dismissal may also be seen as a flaw in the hiring process. In part, this is because the cost of hiring someone who later proves to be unsatisfactory is high. . Severance packages are not uncommon. Sometimes, assistance in finding a new job is offered. Orange organizations may have quite progressive dismissal practices.
+  D'un autre côté, la nécessité d'un licenciement peut également être considérée comme une faille dans le processus d'embauche. Cela s'explique en partie par le fait que le coût de l'embauche d'une personne qui s'avère ensuite peu satisfaisante est élevé . Les indemnités de licenciement sont relativement courantes. Parfois, une aide à la recherche d'un nouvel emploi est proposée. Les organisations Orange peuvent avoir des pratiques de licenciement assez évoluées.
 
 
   #### Green organizations
