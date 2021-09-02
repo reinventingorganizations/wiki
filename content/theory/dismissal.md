@@ -89,7 +89,7 @@ inPractice: >-
   Ce processus commence généralement par un effort de résolution de conflit, initié par une équipe ou un individu. Ils parlent avec la personne en question et essaient de trouver une solution qui convienne aux deux parties. En cas d'échec, ils peuvent faire appel à un médiateur, ou à un panel, pour faciliter la résolution. Dans la plupart des cas, cela permet de trouver une solution. Dans certains cas, la personne et l'équipe décident de prendre des engagements mutuels et de se donner une nouvelle chance. Dans d'autres cas, la personne se rend compte que la confiance est irrévocablement rompue et comprend qu'il est temps de partir.
 
 
-  If no agreement can be found, and as a last chance to settle the matter, the team may ask an owner/founder to mediate. In the rare cases where even that fails, the team can ask the founder to put an end to the person’s employment. This process, with some variations, is followed at [Buurtzorg ](http://www.buurtzorgnederland.com/)and [Morning Star](http://www.morningstarco.com/).
+  Si aucun accord ne peut être trouvé, et en guise de dernière tentative pour régler le problème, l'équipe peut demander à un actionnaire majoritaire ou fondateur de jouer le rôle de médiateur. Dans les rares cas où cette démarche échoue, l'équipe peut demander au fondateur de mettre fin à l'emploi de la personne concernée. Ce processus, avec quelques variantes, est suivi chez [Buurtzorg ](http://www.buurtzorgnederland.com/)et [Morning Star](http://www.morningstarco.com/).
 
 
   #### Economic troughs are handled differently
