@@ -77,7 +77,7 @@ inPractice: >-
   Par exemple, chez Sun Hydraulics, un ingénieur pourrait remarquer que peu de travail lui est confié - peu de collègues l'invitent à participer à leurs projets ou sollicitent son avis. Chez Buurtzorg, une infirmière sentira dans ses interactions avec ses collègues qu'elle ne s'intègre pas à l'équipe, ou que l'autogouvernance ne lui convient finalement pas. Environ 25 infirmières choisissent de partir chaque mois pour cette raison ( tandis que 250 infirmières arrivent chaque mois).
 
 
-  Almost universally, people choose to leave before they are dismissed. And almost always the departure happens by mutual consent, and on a friendly basis. This does not change the fact that on a personal level the process can be painful. The self-managing context helps people realize that no one is to blame; that they are perhaps not meant for this kind of work.
+  Quasiment systématiquement, les gens choisissent de partir avant d'être licenciés. Et presque toujours, le départ se fait par consentement mutuel, et sur une base cordiale. Cela ne change rien au fait que, sur le plan personnel, le processus peut être douloureux. Le contexte d'autogouvernance aide les gens à réaliser que personne n'est à blâmer, qu'ils ne sont peut-être pas faits pour ce genre de travail.
 
 
   #### Dismissal still happens occasionally
