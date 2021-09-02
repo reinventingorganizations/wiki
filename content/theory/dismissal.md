@@ -33,16 +33,16 @@ perspective: >-
   #### Organisations Rouge
 
 
-  Dans le [ Red paradigm](../red-organizations/), c'est au patron/chef de décider qui licencier ou garder. Les processus formels ne sont pas de mise. Les départs volontaires peuvent être considérés comme une véritable trahison.
+  Dans le [ paradigme Rouge](../red-organizations/), c'est au patron/chef de décider qui licencier ou garder. Les processus formels ne sont pas de mise. Les départs volontaires peuvent être considérés comme une véritable trahison.
 
 
-  #### Amber organizations
+  #### Organisations Ambre
 
 
-  In [Amber organizations,](../amber-paradigm-and-organizations/) dismissals often follow a lapse of discipline, or a violation of the rules. The consequences may be well defined. For example, a first offense (perhaps arriving late) might mean suspension for a day. Repeated offense might result in dismissal.
+  Dans [les organisations Ambre,](../amber-paradigm-and-organizations/) les licenciements font souvent suite à un manque de discipline, ou à une violation des règles. Les conséquences sont généralement bien établies. Par exemple, une première infraction (comme arriver en retard) peut entraîner une suspension d'une journée. Une récidive peut entraîner le renvoi.
 
 
-  In today’s versions of Amber — some government agencies, religious organizations, public schools, the military, etc. — extended (even lifetime) employment is the norm. These long relationships may extend to social circles. The possibility of dismissal carries the threat, not only of the loss of a job, but also of the associated social fabric. Those feeling unfulfilled in an Amber organizations face a painful choice.
+  Dans les déclinaisons actuelles du stade Ambre - certaines agences gouvernementales, organisations religieuses, écoles publiques, armée, etc. - l'emploi prolongé (voire à vie) est la norme. Ces relations à long terme peuvent s'étendre aux cercles sociaux. La menace d'un licenciement peut entraîner non seulement la perte d'un emploi, mais aussi celle du tissu social qui y est associé. Les personnes qui ne se sentent pas épanouies dans une organisation Ambre sont confrontées à un choix douloureux.
 
 
   #### Orange organizations
