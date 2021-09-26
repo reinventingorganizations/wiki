@@ -40,27 +40,29 @@ perspective: >-
   #### **Teal-Organisationen**
 
 
-  Die Rekrutierung wird in [Teal-Organisationen](../teal-paradigm-and-organizations/) von dem Team geleitet, das ein neues Mitglied braucht; nicht von der Personalabteilung (häufig gibt es keine Personalabteilung). Die Gespräche mit den Bewerbern drehen sich in der Regel um drei Themen: Eignung für die Aufgabe, Passung zur Organisation und zum Sinn. Die letzten beiden Punkte werden oft als wichtiger angesehen, da in selbstverwalteten Organisationen die Rollen häufig wechseln. Häufig wird eine Testphase vereinbart, damit beide Parteien ehrlich einschätzen können, ob sie zueinander passen.
+  Die Rekrutierung wird in [Teal-Organisationen](../teal-paradigm-and-organizations/) von dem Team geleitet, das ein neues Mitglied braucht; nicht von der Personalabteilung (häufig gibt es keine Personalabteilung). Die Gespräche mit den Bewerbern drehen sich in der Regel um drei Themen: Eignung für die Aufgabe, Passung zur Organisation und ihrem Zweck. Die letzten beiden Punkte werden oft als wichtiger angesehen, da in selbstverwalteten Organisationen die Rollen häufig wechseln. Häufig wird eine Testphase vereinbart, damit beide Parteien ehrlich einschätzen können, ob sie zueinander passen.
 
 
   Während des Rekrutierungsprozesses versuchen Teal-Organisationen der Versuchung zu widerstehen, vor Bewerbern "gut auszusehen". Die Prämisse ist, dass beide Parteien versuchen, eine einfache, grundlegende Frage zu beantworten: Haben wir das Gefühl, dass wir für eine gemeinsame Reise bestimmt sind? Diese Frage kann nur dann sinnvoll beantwortet werden, wenn die Gespräche auf Ehrlichkeit und Integrität beruhen und die Bereitschaft besteht, tief und offen nachzufragen.
 inPractice: >-
-  #### **Team recruitment**
+  #### **Rekrutierung im Team**
 
 
-  In traditional organizations, recruitment processes are regularly handled by Human Resources personnel. Their interest is to quickly fill an open position with a suitable candidate  as their performance is sometimes measured by the number of job openings that they fill. It is in their best interest to present a positive view of the company and the role in order to encourage the candidate to accept the offer. In the same way, candidates try to present themselves and their job experience in the most positive light to increase the chances that they will receive an offer of employment.
+  In traditionellen Organisationen werden Einstellungsverfahren regelmäßig von Mitarbeitern der Personalabteilung durchgeführt. Ihr Interesse ist es, eine offene Stelle schnell mit einem geeigneten Kandidaten zu besetzen, da ihre Leistung manchmal an der Anzahl der von ihnen besetzten Stellen gemessen wird. Es liegt in ihrem besten Interesse, ein positives Bild des Unternehmens und der Stelle zu vermitteln, um den Bewerber zu ermutigen, das Angebot anzunehmen. In gleicher Weise versuchen die Bewerber, sich selbst und ihre Berufserfahrung in einem möglichst positiven Licht darzustellen, um die Chancen zu erhöhen, ein Stellenangebot zu erhalten.
 
 
-  Teal organizations try to encourage both parties to be as truthful as possible with each other. The interviews are handled by future teammates who simply want to decide if they want to work with the candidate on a daily basis. The team can take advice and counsel from HR if such a function exists, but they are in charge of the process and decision. Having 10 to 12 conversations is not unusual to provide time for both parties to feel each other out and establish if the fit will work well for the team and the candidate.
+  Teal-Organisationen versuchen beide Parteien zu ermutigen, so wahrheitsgemäß wie möglich miteinander umzugehen. Die Vorstellungsgespräche werden von den künftigen Teammitgliedern geführt, die lediglich entscheiden wollen, ob sie mit dem Bewerber täglich zusammenarbeiten möchten. Das Team kann sich von der Personalabteilung beraten lassen, wenn es eine solche Funktion gibt, aber für den Prozess und die Entscheidung sind sie selbst zuständig. 10 bis 12 Gespräche sind nicht ungewöhnlich, damit beide Parteien Zeit haben, sich gegenseitig kennenzulernen und herauszufinden, ob das Team und der Bewerber gut zusammenpassen.
 
 
-  Teammates have no recruitment targets to make and tend to be honest about their workplace. If they oversell the company to their potential new teammate, they would have to live with the consequences of that on a daily basis. Because team members tend to be honest about the workplace, candidates feel invited to be honest too. Candidates often meet all their future colleagues, tour the premises, are invited to genuinely ask all sorts of questions to determine if it really is a place they feel called to work for. Many Teal Organizations report that their recruitment process and decisions can take significantly longer than usual. They sometimes accept slower growth, keeping a posting open until they find a person that fits not only the job opening but also the organization and its purpose.
+  Die Teammitglieder haben keine Einstellungsziele zu erfüllen und neigen dazu, ehrlich über ihren Arbeitsplatz zu berichten. Wenn sie ihrem potenziellen neuen Teamkollegen gegenüber das Unternehmen zu positiv darstellen, müssen sie täglich mit den Konsequenzen leben. Da die Teammitglieder dazu neigen, ehrlich über ihren Arbeitsplatz zu sprechen, fühlen sich die Bewerber dazu eingeladen, ebenfalls ehrlich zu sein. Die Bewerber lernen oft alle ihre künftigen Kollegen kennen, besichtigen die Räumlichkeiten und werden eingeladen, wirklich alle möglichen Fragen zu stellen, um festzustellen, ob sie sich wirklich berufen fühlen, dort zu arbeiten. Viele Teal-Organisationen berichten, dass ihre Rekrutierungsprozesse und -entscheidungen deutlich länger dauern können als üblich. Manchmal nehmen sie ein langsameres Wachstum in Kauf und halten eine Stelle so lange offen, bis sie eine Person gefunden haben, die nicht nur zu der offenen Stelle, sondern auch zur Organisation und ihrem Zweck passt. 
 
 
-  #### **What makes for a good fit**
+  #### **Was eine gute Passung ausmacht**
 
 
-  Most traditional organizations focus on a person's fit with the job description. Teal organizations tend to take a broader perspective, designing recruitment as a two-way discovery process to answer one fundamental question: Are we meant to journey together?
+  Die meisten traditionellen Organisationen konzentrieren sich darauf, ob eine Person zur Stellenbeschreibung passt. Teal-Organisationen neigen dazu, eine breitere Perspektive einzunehmen und die Personalbeschaffung als einen wechselseitigen Entdeckungsprozess zu gestalten, um eine grundlegende Frage zu beantworten: Sind wir für eine gemeinsame Reise bestimmt?
+
+
 
 
   ##### ***Fit for role***
