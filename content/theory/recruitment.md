@@ -75,7 +75,7 @@ inPractice: >-
   Ein zweiter Bereich, den es im Gespräch zu erkunden gilt, ist: Wird sich diese Person in der Organisation entfalten? Wird sie oder er in einem selbstorganisierten Umfeld aufblühen? Fühlt sich die Person von den Werten des Unternehmens angesprochen? Macht es bei ihr oder ihm "klick" mit den Kollegen? Viele Teal-Organisationen, wie z. B. [Morning Star](http://www.morningstarco.com/), bieten den Bewerbern eine Schulung in Selbstmanagement an, damit sie herausfinden können, ob dies ihren Vorstellungen entspricht. Andere Organisationen schaffen Momente im Einstellungsprozess, in denen ausführliche Gespräche über die Werte des Unternehmens und des Bewerbers geführt werden.
 
 
-  ##### ***Passung zum Ziel der Organisation*** 
+  ##### ***Passung zum Ziel der Organisation***
 
 
   Und schließlich: Fühlt sich die Person durch den \[Ziel] der Organisation angesprochen. Gibt es etwas in der Geschichte der Person, das sie in Einklang mit dem Ziel bringt und sie dazu veranlasst, dem Ziel in diesem Moment ihres Lebens zu dienen? Die durch diese Fragen ausgelöste Diskussion kann sehr tiefgreifend sein und sowohl dem Bewerber als auch der Organisation helfen, mehr über sich selbst zu erfahren. Die Rekrutierung wird zu einem Prozess der Selbsterkundung sowie zu einem Prozess der gegenseitigen Erkundung.
@@ -84,7 +84,7 @@ inPractice: >-
   ##### ***Die Passung testen***
 
 
-  Testphasen sind in Teal-Organisationen üblich. Einige Organisationen, zum Beispiel [FAVI](http://www.favi.com/en/), nutzen diese Zeit für beide Seiten ausgiebig, um zu testen, ob die Zusammenarbeit langfristig gut funktioniert. [Zappos](https://en.wikipedia.org/wiki/Zappos) bietet seinen neuen Mitarbeitern einen Scheck über 3.000 Dollar, wenn sie es sich anders überlegen und während der vierwöchigen Orientierungsphase kündigen. Die Idee dahinter ist, dass es für alle Beteiligten besser ist, wenn sie nicht in einem Arbeitsverhältnis bleiben, das unglücklich zu sein verspricht.
+  Testphasen sind in Teal-Organisationen üblich. Einige Organisationen, zum Beispiel [FAVI](http://www.favi.com/en/), nutzen diese Zeit für beide Seiten ausgiebig, um zu testen, ob die Zusammenarbeit langfristig gut funktioniert. [Zappos](https://en.wikipedia.org/wiki/Zappos) bietet seinen neuen Mitarbeitern einen Scheck über 3.000 Dollar, wenn sie es sich anders überlegen und während der vierwöchigen Orientierungsphase kündigen. Die Idee dahinter ist, dass es für alle Beteiligten besser ist, wenn sie nicht in einem Verhältnis bleiben, das unglücklich zu sein verspricht.
 faq:
   - question: Is everybody a good fit for a Teal organization? Are there people who
       can't adapt to such a workplace?
