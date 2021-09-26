@@ -5,40 +5,39 @@ key: Rekrutierung
 name: Rekrutierung
 sortOrder: 1
 category: People practices
-intro: Dieses Thema befasst sich mit der Rekrutierung und beschreibt die
-  Prozesse, mittels derer externe Kandidaten für die Organisation rekrutiert
-  werden, einschließlich der Frage, wer einstellt und wie der Interviewprozess
-  durchgeführt wird.
+intro: Das Thema der Rekrutierung beschreibt die Prozesse, mittels derer externe
+  Kandidaten für die Organisation rekrutiert werden, einschließlich der Frage,
+  wer einstellt und wie der Interviewprozess durchgeführt wird.
 perspective: >-
-  Every historical stage has given birth to a distinct perspective on
-  recruitment and to very different practices.
+  Jede geschichtliche Etappe hat eine andere Sichtweise auf die Einstellung von
+  Personal und sehr unterschiedliche Praktiken hervorgebracht.
 
 
-  #### **Red organizations**
+  #### **Rote Organisationen**
 
 
   In [Red organizations](../red-organizations/), loyalty is key. The chief surrounds himself with family members or other people he feels he can trust or keep in line through both fear and a promise to take care of them. Recruitment boils down to co-option, and there are often ritualized joining practices where the newcomer chooses allegiance to the boss, who offers protection in return. 
 
 
-  #### **Amber Organizations**
+  #### **Bernstein-Organisationen**
 
 
   In [Amber organizations](../amber-paradigm-and-organizations/), social stratification is the basis for recruitment. To apply for a job, candidates need to have a specific background. Historically, this hierarchical stratification in organizations paralleled social stratification: priests were recruited from peasantry; bishops and cardinals, from aristocracy. A man (and certainly a woman) born into the working class would not aspire to a management position, and once entering the organization, would not climb high. Today’s Amber organizations still tend to abide by social stratification, albeit in subtler ways. In government agencies, schools, and the military, positions higher than a certain level often still require a specific diploma or a certain number of years of experience. The person recruited might not be the most qualified, but the one that meets all the criteria.
 
 
-  #### **Orange organizations**
+  #### **Orange Organisationen**
 
 
   [Orange organizations](../orange-paradigm-and-organizations/)' pursuit of performance, efficiency and innovation makes them focus their recruitment efforts on selecting the candidates with the best skills, the most relevant experience and expertise for a specific role, as well as the best future potential for development. In some large corporations, interviews are conducted by specialized Human Resources personnel (for top leadership roles by external "head hunter" search firms,) in most cases in conjunction with the person's future manager. Significant effort and resources have been deployed to develop interview techniques and training, as well as assessments tools to help organizations optimize their success rate in recruitment.
 
 
-  #### **Green organizations**
+  #### **Grüne Organisationen**
 
 
   In[ Green organizations](../green-paradigm-and-organizations/), recruitment revolves around shared culture as much as on the specific skills of the candidate. Candidates for management positions are rigorously screened on their mindset, behavior and values: are they ready to empower their subordinates, to be a coach rather than a top-down decision maker? Will they lead with humility? The focus on culture elevates human resources to a central role. 
 
 
-  #### **Teal Organizations**
+  #### **Teal-Organisationen**
 
 
   In [Teal Organizations,](../teal-paradigm-and-organizations/) recruitment is led by the team in need of a new member, not by Human Resources (often, an HR function doesn’t exist.) Conversations with candidates tend to center around three topics: Fit with the role, fit with the organization, and fit with the purpose. The last two are often considered more important, as in self-managing organizations, there is much fluidity around roles. A period of testing is often arranged so that both parties can honestly assess if the match is meant to be.
