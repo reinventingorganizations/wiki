@@ -1,13 +1,14 @@
 ---
 layout: article
 tags: theory
-key: Recruitment
-name: Recruitment
+key: Rekrutierung
+name: Rekrutierung
 sortOrder: 1
 category: People practices
-intro: This topic addresses recruitment and describes the processes for how
-  external candidates are recruited into the organization, including  who
-  recruits and how the interview process is conducted.
+intro: Dieses Thema befasst sich mit der Rekrutierung und beschreibt die
+  Prozesse, mittels derer externe Kandidaten für die Organisation rekrutiert
+  werden, einschließlich der Frage, wer einstellt und wie der Interviewprozess
+  durchgeführt wird.
 perspective: >-
   Every historical stage has given birth to a distinct perspective on
   recruitment and to very different practices.
