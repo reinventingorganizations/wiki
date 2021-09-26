@@ -40,7 +40,7 @@ perspective: >-
   #### **Teal-Organisationen**
 
 
-  Die Rekrutierung wird in [Teal-Organisationen](../teal-paradigm-and-organizations/) von dem Team geleitet, das ein neues Mitglied braucht; nicht von der Personalabteilung (häufig gibt es keine Personalabteilung). Die Gespräche mit den Bewerbern drehen sich in der Regel um drei Themen: Eignung für die Aufgabe, Passung zur Organisation und ihrem Zweck. Die letzten beiden Punkte werden oft als wichtiger angesehen, da in selbstverwalteten Organisationen die Rollen häufig wechseln. Häufig wird eine Testphase vereinbart, damit beide Parteien ehrlich einschätzen können, ob sie zueinander passen.
+  Die Rekrutierung wird in [Teal-Organisationen](../teal-paradigm-and-organizations/) von dem Team geleitet, das ein neues Mitglied braucht; nicht von der Personalabteilung (häufig gibt es keine Personalabteilung). Die Gespräche mit den Bewerbern drehen sich in der Regel um drei Themen: Eignung für die Aufgabe, Passung zur Organisation und ihrem Ziel. Die letzten beiden Punkte werden oft als wichtiger angesehen, da in selbstverwalteten Organisationen die Rollen häufig wechseln. Häufig wird eine Testphase vereinbart, damit beide Parteien ehrlich einschätzen können, ob sie zueinander passen.
 
 
   Während des Rekrutierungsprozesses versuchen Teal-Organisationen der Versuchung zu widerstehen, vor Bewerbern "gut auszusehen". Die Prämisse ist, dass beide Parteien versuchen, eine einfache, grundlegende Frage zu beantworten: Haben wir das Gefühl, dass wir für eine gemeinsame Reise bestimmt sind? Diese Frage kann nur dann sinnvoll beantwortet werden, wenn die Gespräche auf Ehrlichkeit und Integrität beruhen und die Bereitschaft besteht, tief und offen nachzufragen.
@@ -54,7 +54,7 @@ inPractice: >-
   Teal-Organisationen versuchen beide Parteien zu ermutigen, so wahrheitsgemäß wie möglich miteinander umzugehen. Die Vorstellungsgespräche werden von den künftigen Teammitgliedern geführt, die lediglich entscheiden wollen, ob sie mit dem Bewerber täglich zusammenarbeiten möchten. Das Team kann sich von der Personalabteilung beraten lassen, wenn es eine solche Funktion gibt, aber für den Prozess und die Entscheidung sind sie selbst zuständig. 10 bis 12 Gespräche sind nicht ungewöhnlich, damit beide Parteien Zeit haben, sich gegenseitig kennenzulernen und herauszufinden, ob das Team und der Bewerber gut zusammenpassen.
 
 
-  Die Teammitglieder haben keine Einstellungsziele zu erfüllen und neigen dazu, ehrlich über ihren Arbeitsplatz zu berichten. Wenn sie ihrem potenziellen neuen Teamkollegen gegenüber das Unternehmen zu positiv darstellen, müssen sie täglich mit den Konsequenzen leben. Da die Teammitglieder dazu neigen, ehrlich über ihren Arbeitsplatz zu sprechen, fühlen sich die Bewerber dazu eingeladen, ebenfalls ehrlich zu sein. Die Bewerber lernen oft alle ihre künftigen Kollegen kennen, besichtigen die Räumlichkeiten und werden eingeladen, wirklich alle möglichen Fragen zu stellen, um festzustellen, ob sie sich wirklich berufen fühlen, dort zu arbeiten. Viele Teal-Organisationen berichten, dass ihre Rekrutierungsprozesse und -entscheidungen deutlich länger dauern können als üblich. Manchmal nehmen sie ein langsameres Wachstum in Kauf und halten eine Stelle so lange offen, bis sie eine Person gefunden haben, die nicht nur zu der offenen Stelle, sondern auch zur Organisation und ihrem Zweck passt. 
+  Die Teammitglieder haben keine Einstellungsziele zu erfüllen und neigen dazu, ehrlich über ihren Arbeitsplatz zu berichten. Wenn sie ihrem potenziellen neuen Teamkollegen gegenüber das Unternehmen zu positiv darstellen, müssen sie täglich mit den Konsequenzen leben. Da die Teammitglieder dazu neigen, ehrlich über ihren Arbeitsplatz zu sprechen, fühlen sich die Bewerber dazu eingeladen, ebenfalls ehrlich zu sein. Die Bewerber lernen oft alle ihre künftigen Kollegen kennen, besichtigen die Räumlichkeiten und werden eingeladen, wirklich alle möglichen Fragen zu stellen, um festzustellen, ob sie sich wirklich berufen fühlen, dort zu arbeiten. Viele Teal-Organisationen berichten, dass ihre Rekrutierungsprozesse und -entscheidungen deutlich länger dauern können als üblich. Manchmal nehmen sie ein langsameres Wachstum in Kauf und halten eine Stelle so lange offen, bis sie eine Person gefunden haben, die nicht nur zu der offenen Stelle, sondern auch zur Organisation und ihrem Ziel passt. 
 
 
   #### **Was eine gute Passung ausmacht**
@@ -63,30 +63,28 @@ inPractice: >-
   Die meisten traditionellen Organisationen konzentrieren sich darauf, ob eine Person zur Stellenbeschreibung passt. Teal-Organisationen neigen dazu, eine breitere Perspektive einzunehmen und die Personalbeschaffung als einen wechselseitigen Entdeckungsprozess zu gestalten, um eine grundlegende Frage zu beantworten: Sind wir für eine gemeinsame Reise bestimmt?
 
 
+  ##### ***Passung zur Rolle***
 
 
-  ##### ***Fit for role***
+  Die Beurteilung der Eignung in Bezug auf Fähigkeiten, Erfahrung und Fachwissen ist nach wie vor ein wichtiger Bestandteil des Rekrutierungsprozesses, vor allem bei spezifischen Aufgaben, die Fachwissen erfordern. Die Rollen in selbstverwalteten Organisationen werden jedoch sehr fließend ausgetauscht. Aus diesem Grund wird die "Passung zur Stelle" oft nicht als vorrangig angesehen, da sich die Rollen einer Person schnell ändern können. Selbstverwaltungsorganisationen machen die Erfahrung, dass Mitarbeiter, die motiviert sind, eine neue und herausfordernde Rolle zu übernehmen, in überraschend kurzer Zeit neue Fähigkeiten und Erfahrungen erwerben.
 
 
-  Assessing the fit in terms of skills, experience and expertise remains an important component of the recruitment process, especially for specific roles requiring expertise. Roles in self-managing organizations are exchanged very fluidly, though. For that reason, the "fit for role" is often not considered to be paramount, as it is likely that a person's roles might change quickly. Self-managing organizations experience that when employees are motivated to take on a new and challenging role, they  pick up new skills and experience in surprisingly little time.
+  ##### ***Passung zur Organisation***
 
 
-  ##### ***Fit with the organization***
+  Ein zweiter Bereich, den es im Gespräch zu erkunden gilt, ist: Wird sich diese Person in der Organisation entfalten? Wird sie oder er in einem selbstorganisierten Umfeld aufblühen? Fühlt sich die Person von den Werten des Unternehmens angesprochen? Macht es bei ihr oder ihm "klick" mit den Kollegen? Viele Teal-Organisationen, wie z. B. [Morning Star](http://www.morningstarco.com/), bieten den Bewerbern eine Schulung in Selbstmanagement an, damit sie herausfinden können, ob dies ihren Vorstellungen entspricht. Andere Organisationen schaffen Momente im Einstellungsprozess, in denen ausführliche Gespräche über die Werte des Unternehmens und des Bewerbers geführt werden.
 
 
-  A second area to explore in conversation is: will this person blossom in the organization? Will he or she thrive in a self-organizing environment? Does the person feel aligned by the organization's values? Does he or she "click" with the colleagues? Many Teal organizations, like [Morning Star](http://www.morningstarco.com/), give candidates a training in self-management, so candidates can determine if that is what they want. Other organizations create moments in the recruitment process to have in-depth discussions about the company's and the candidate's values.
+  ##### ***Passung zum Ziel der Organisation*** 
 
 
-  ##### ***Fit with purpose***
+  Und schließlich: Fühlt sich die Person durch den \[Ziel] der Organisation angesprochen. Gibt es etwas in der Geschichte der Person, das sie in Einklang mit dem Ziel bringt und sie dazu veranlasst, dem Ziel in diesem Moment ihres Lebens zu dienen? Die durch diese Fragen ausgelöste Diskussion kann sehr tiefgreifend sein und sowohl dem Bewerber als auch der Organisation helfen, mehr über sich selbst zu erfahren. Die Rekrutierung wird zu einem Prozess der Selbsterkundung sowie zu einem Prozess der gegenseitigen Erkundung.
 
 
-  Finally, is the person energized by the organizations’ [purpose](../listening-to-purpose/)? Is there something in the person's history that makes them resonate, makes them want to serve this purpose at this moment in their life? The discussion triggered by these questions can reach substantial depth and help both the candidate and the organization learn more about themselves. Recruitment becomes a process of self-inquiry as much as a process of mutual assessment.
+  ##### ***Die Passung testen***
 
 
-  ##### ***Testing the match***
-
-
-  Trial periods are common in Teal organizations. Some organizations such as [FAVI ](http://www.favi.com/en/)make extended use of this period for both parties to test whether the match works well in the long run. [Zappos ](https://en.wikipedia.org/wiki/Zappos)offers its new hires a $3,000 check if they have second thoughts and choose to quit during the four-week orientation. The idea is that everyone will be better off if they don’t stay in what promises to be an unhappy marriage.
+  Testphasen sind in Teal-Organisationen üblich. Einige Organisationen, zum Beispiel [FAVI](http://www.favi.com/en/), nutzen diese Zeit für beide Seiten ausgiebig, um zu testen, ob die Zusammenarbeit langfristig gut funktioniert. [Zappos](https://en.wikipedia.org/wiki/Zappos) bietet seinen neuen Mitarbeitern einen Scheck über 3.000 Dollar, wenn sie es sich anders überlegen und während der vierwöchigen Orientierungsphase kündigen. Die Idee dahinter ist, dass es für alle Beteiligten besser ist, wenn sie nicht in einem Arbeitsverhältnis bleiben, das unglücklich zu sein verspricht.
 faq:
   - question: Is everybody a good fit for a Teal organization? Are there people who
       can't adapt to such a workplace?
