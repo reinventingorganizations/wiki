@@ -16,34 +16,34 @@ perspective: >-
   #### **Rote Organisationen**
 
 
-  In [roten Organisationen](../red-organizations/) ist Loyalität grundlegend. Der Chef umgibt sich mit Familienmitgliedern oder anderen Personen, denen er vertrauen kann oder die er durch Furcht und das Versprechen, sich um sie zu kümmern, unter Kontrolle halten kann. Die Rekrutierung läuft auf Kooptation hinaus und es gibt oft ritualisierte Beitrittspraktiken, bei denen der Neuankömmling dem Chef die Treue verspricht, der im Gegenzug Schutz bietet.
+  In [roten Organisationen](../red-organizations/) ist Loyalität wesentlich. Der Chef umgibt sich mit Familienmitgliedern oder anderen Personen, denen er vertrauen kann oder die er durch Furcht und das Versprechen, sich um sie zu kümmern, unter Kontrolle halten kann. Die Rekrutierung läuft auf Kooptation hinaus und es gibt oft ritualisierte Beitrittspraktiken, bei denen der Neuankömmling dem Chef die Treue verspricht, der im Gegenzug Schutz bietet.
 
 
   #### **Bernstein-Organisationen**
 
 
-  In [Bernstein-Organisationen](../amber-paradigm-and-organizations/) social stratification is the basis for recruitment. To apply for a job, candidates need to have a specific background. Historically, this hierarchical stratification in organizations paralleled social stratification: priests were recruited from peasantry; bishops and cardinals, from aristocracy. A man (and certainly a woman) born into the working class would not aspire to a management position, and once entering the organization, would not climb high. Today’s Amber organizations still tend to abide by social stratification, albeit in subtler ways. In government agencies, schools, and the military, positions higher than a certain level often still require a specific diploma or a certain number of years of experience. The person recruited might not be the most qualified, but the one that meets all the criteria.
+  Die Grundlage für die Rekrutierung in [Bernstein-Organisationen](../amber-paradigm-and-organizations/) bildet die soziale Schichtung. Um sich auf eine Stelle zu bewerben, müssen die Bewerber einen bestimmten Hintergrund aufweisen. Historisch gesehen entsprach diese hierarchische Schichtung in Organisationen der sozialen Schichtung: Priester wurden aus der Bauernschaft rekrutiert, Bischöfe und Kardinäle aus der Aristokratie. Ein Mann (und erst recht eine Frau), der aus der Arbeiterklasse stammt, würde keine Führungsposition anstreben und wenn er einmal in der Organisation ist, würde er nicht hoch aufsteigen. Heutige Bernstein-Organisationen neigen immer noch dazu, sich an die soziale Schichtung zu halten, wenn auch auf subtilere Weise. In Regierungsbehörden, Schulen und beim Militär wird für Positionen ab einer bestimmten Ebene oft immer noch ein bestimmter Abschluss oder eine bestimmte Anzahl von Jahren an Erfahrung verlangt. Die Person, die eingestellt wird, ist vielleicht nicht die am besten qualifizierte, aber diejenige, die alle Kriterien erfüllt.
 
 
   #### **Orange Organisationen**
 
 
-  [Orange organizations](../orange-paradigm-and-organizations/)' pursuit of performance, efficiency and innovation makes them focus their recruitment efforts on selecting the candidates with the best skills, the most relevant experience and expertise for a specific role, as well as the best future potential for development. In some large corporations, interviews are conducted by specialized Human Resources personnel (for top leadership roles by external "head hunter" search firms,) in most cases in conjunction with the person's future manager. Significant effort and resources have been deployed to develop interview techniques and training, as well as assessments tools to help organizations optimize their success rate in recruitment.
+  Das Streben der [orangen Organisationen](../orange-paradigm-and-organizations/) nach Leistung, Effizienz und Innovation veranlasst sie, ihre Einstellungsbemühungen auf die Auswahl der Kandidaten mit den besten Fähigkeiten, der relevantesten Erfahrung und dem besten Fachwissen für eine bestimmte Rolle sowie dem besten zukünftigen Entwicklungspotenzial zu konzentrieren. In einigen großen Unternehmen werden die Vorstellungsgespräche von spezialisierten Mitarbeitern der Personalabteilung geführt (für Spitzenpositionen von externen Headhunter-Firmen); in den meisten Fällen in Zusammenarbeit mit dem künftigen Vorgesetzten der betreffenden Person. Es wurden beträchtliche Anstrengungen und Ressourcen für die Entwicklung von Interviewtechniken und Schulungen sowie von Beurteilungsinstrumenten aufgewendet, um den Organisationen zu helfen, ihre Erfolgsquote bei der Personalbeschaffung zu optimieren.
 
 
   #### **Grüne Organisationen**
 
 
-  In[ Green organizations](../green-paradigm-and-organizations/), recruitment revolves around shared culture as much as on the specific skills of the candidate. Candidates for management positions are rigorously screened on their mindset, behavior and values: are they ready to empower their subordinates, to be a coach rather than a top-down decision maker? Will they lead with humility? The focus on culture elevates human resources to a central role. 
+  In [grünen Organisationen](../green-paradigm-and-organizations/) geht es bei der Einstellung um die gemeinsame Kultur ebenso wie um die spezifischen Fähigkeiten der Kandidatin. Kandidaten für Führungspositionen werden streng auf ihre Denkweise, ihr Verhalten und ihre Werte geprüft: Sind sie bereit, ihre Untergebenen zu stärken und ein Coach anstelle eines Entscheidungsträgers von oben herab zu sein? Werden sie mit Bescheidenheit führen? Durch die Konzentration auf die Kultur kommt den Personalressourcen eine zentrale Rolle zuteil.
 
 
   #### **Teal-Organisationen**
 
 
-  In [Teal Organizations,](../teal-paradigm-and-organizations/) recruitment is led by the team in need of a new member, not by Human Resources (often, an HR function doesn’t exist.) Conversations with candidates tend to center around three topics: Fit with the role, fit with the organization, and fit with the purpose. The last two are often considered more important, as in self-managing organizations, there is much fluidity around roles. A period of testing is often arranged so that both parties can honestly assess if the match is meant to be.
+  Die Rekrutierung wird in [Teal-Organisationen](../teal-paradigm-and-organizations/) von dem Team geleitet, das ein neues Mitglied braucht; nicht von der Personalabteilung (häufig gibt es keine Personalabteilung). Die Gespräche mit den Bewerbern drehen sich in der Regel um drei Themen: Eignung für die Aufgabe, Passung zur Organisation und zum Sinn. Die letzten beiden Punkte werden oft als wichtiger angesehen, da in selbstverwalteten Organisationen die Rollen häufig wechseln. Häufig wird eine Testphase vereinbart, damit beide Parteien ehrlich einschätzen können, ob sie zueinander passen.
 
 
-  Teal organizations try to be mindful of the temptation to ‘look good’ to candidates during recruitment. The premise is that both parties are trying to answer one simple, fundamental question: Do we sense that we are meant to journey together? This question can only be meaningfully answered when conversations are rooted in honesty and integrity, with a willingness to inquire deeply and openly.
+  Während des Rekrutierungsprozesses versuchen Teal-Organisationen, der Versuchung zu widerstehen, vor Bewerbern "gut auszusehen". Die Prämisse ist, dass beide Parteien versuchen, eine einfache, grundlegende Frage zu beantworten: Haben wir das Gefühl, dass wir für eine gemeinsame Reise bestimmt sind? Diese Frage kann nur dann sinnvoll beantwortet werden, wenn die Gespräche auf Ehrlichkeit und Integrität beruhen und die Bereitschaft besteht, tief und offen nachzufragen.
 inPractice: >-
   #### **Team recruitment**
 
