@@ -291,9 +291,7 @@ theory:
       Cathy.
 
 
-      In 2017 a key change happened. Learning from David Marquet, Henry and Cathy decided to stop making decisions, and instead to push them down to front-line staff. The results were remarkable, with people stepping up and taking responsibility. The effect on sales were dramatic:
-
-      [https://happycomputers-my.sharepoint.com/:p:/g/personal/henry_happy_co_uk/EQkv5z8oJY5Mkjo1ysOEbO8BoxbtcRWwj7URzlCnMtAMPA?e=usTlbU ](https://happycomputers-my.sharepoint.com/:p:/g/personal/henry_happy_co_uk/EQkv5z8oJY5Mkjo1ysOEbO8BoxbtcRWwj7URzlCnMtAMPA?e=usTlbU)
+      In 2017 a key change happened. Learning from David Marquet, Henry and Cathy decided to stop making decisions, and instead to push them down to front-line staff. The results were remarkable, with people stepping up and taking responsibility. The effect on sales were dramatic, see [here](<[https://happycomputers-my.sharepoint.com/:p:/g/personal/henry_happy_co_uk/EQkv5z8oJY5Mkjo1ysOEbO8BoxbtcRWwj7URzlCnMtAMPA?e=usTlbU ](https://happycomputers-my.sharepoint.com/:p:/g/personal/henry_happy_co_uk/EQkv5z8oJY5Mkjo1ysOEbO8BoxbtcRWwj7URzlCnMtAMPA?e=usTlbU)>).
 
 
       Even before 2017 Happy had been practising the concept of pre-approval, the idea that you approve a solution - within clear guidelines - in advance.
