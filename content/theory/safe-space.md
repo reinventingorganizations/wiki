@@ -42,16 +42,16 @@ perspective: >-
   In [orangenen Organisationen](../orange-paradigm-and-organizations/) entsteht die Sicherheit durch das Erreichen der erwarteten Ergebnisse. Die eigene Identität ist nicht mehr an ein bestimmtes Unternehmen gebunden, sondern im weiteren Sinne an die eigene berufliche Entwicklung. Scheitern und Entlassung sind ein Schlag für das Selbstwertgefühl, aber nicht mehr der Ausschluss aus dem sozialen Gefüge, in das man eingebettet ist. Man zieht einfach weiter und sucht sich eine Arbeit in einem anderen Unternehmen. (Kurzum: Sicherheit vor sozialer Ausgrenzung).
 
 
-  ### Green organizations
+  ### Grüne Organisationen
 
 
-  In [Green organizations](../green-paradigm-and-organizations/), safety comes from a set of shared values and the knowing that one is considered as a person, not just a "human resource". When an individual or the organization hits a rough patch, employees trust that colleagues will rally to offer support. (In short: emotional safety).
+  In [grünen Organisationen](../green-paradigm-and-organizations/) entsteht Sicherheit durch eine Reihe gemeinsamer Werte und das Wissen, dass man als Person und nicht nur als "menschliche Ressource" betrachtet wird. Wenn ein Einzelner oder die Organisation in eine schwierige Lage gerät, vertrauen die Mitarbeiter darauf, dass ihre Kollegen sie unterstützen werden. (Kurz gesagt: emotionale Sicherheit).
 
 
-  ### Teal organizations
+  ### Teal-Organisationen 
 
 
-  [Teal organizations ](../teal-paradigm-and-organizations/)aim to establish a safe space where the ego can relax its defenses, allowing people to show up fully; their masculine & feminine selves, their rational, emotional, intuitive and spiritual selves and their strengths and vulnerability. (In short: safety of the soul)
+  [Teal-Organisationen ](../teal-paradigm-and-organizations/) zielen darauf ab, einen sicheren Raum zu schaffen, in dem das Ego seine Abwehrkräfte lockern kann, so dass die Menschen sich voll und ganz zeigen können: ihr männliches und weibliches Selbst, ihr rationales, emotionales, intuitives und spirituelles Selbst sowie ihre Stärken und ihre Verletzlichkeit. (Kurz gesagt: Sicherheit für die Seele)
 inPractice: >-
   ### The importance of safe space
 
