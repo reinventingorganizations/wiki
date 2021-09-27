@@ -1,5 +1,5 @@
 ---
 key: teal-concepts
-name: Teal Concepts
+name: Бирюзовые концепции
 tags: theoryCategories
 ---
