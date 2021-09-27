@@ -36,10 +36,10 @@ perspective: >-
   Übersetzt mit www.DeepL.com/Translator (kostenlose Version)
 
 
-  ### Orange organizations
+  ### Orange Organisationen
 
 
-  In [Orange organizations](../orange-paradigm-and-organizations/), safety comes from achieving the results that are expected. One's identity is no longer tied to a specific organization, but more broadly to one's career progression. Failure and dismissal are a blow to one's self-worth, but no longer the expulsion from the social fabric one is embedded in. One simply moves on and seeks work in another organization. (In short: safety from social exclusion).
+  In [orangenen Organisationen](../orange-paradigm-and-organizations/) entsteht die Sicherheit durch das Erreichen der erwarteten Ergebnisse. Die eigene Identität ist nicht mehr an ein bestimmtes Unternehmen gebunden, sondern im weiteren Sinne an die eigene berufliche Entwicklung. Scheitern und Entlassung sind ein Schlag für das Selbstwertgefühl, aber nicht mehr der Ausschluss aus dem sozialen Gefüge, in das man eingebettet ist. Man zieht einfach weiter und sucht sich eine Arbeit in einem anderen Unternehmen. (Kurzum: Sicherheit vor sozialer Ausgrenzung).
 
 
   ### Green organizations
