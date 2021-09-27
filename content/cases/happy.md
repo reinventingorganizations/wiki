@@ -115,4 +115,19 @@ theory:
 
 
       Decisions to be made on when people are in, and what meetings are for, are now all made within the team.
+  - topic: Objectives and Target Setting
+    title: Radical disruption rather than targets
+    content: >-
+      In 2018 Happy held a vote on whether to continue with annual performance
+      appraisals. The vote was 82% against. 
+
+
+      The company has tried different sorts of targets, including OKRs. The problem was that many of the staff members, especially the facilitators, would have similar targets for years. So at a six-monthly Happy Day (the Happy Day is basically a full company away day), one of the staff members came up with the idea of a radical disruption: one thing to do radically different in the next 4 months. 
+
+      <https://www.linkedin.com/posts/henrystewart_instead-of-targets-how-about-a-radical-activity-6760863420976766976-6jRc>
+
+
+      This is now included in a four-monthly snapshot session with their M&M/coach, described here : 
+
+      <https://www.linkedin.com/pulse/lets-get-rid-annual-appraisals-replace-them-snapshots-henry-stewart/>
 ---
