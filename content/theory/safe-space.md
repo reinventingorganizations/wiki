@@ -21,16 +21,19 @@ perspective: >-
   Sehnsüchten.  
 
 
-  ### Red organizations
+  ### Rote Organisationen
 
 
-  In [Red organizations](../red-organizations/), some safety is found in the order imposed by the boss. Show allegiance and follow the boss's wishes and commands, whatever they may be, and you know you are safe. Severe punishment, on the other hand, awaits the person who defies the boss.   
+  In [roten Organisationen](../red-organizations/), findet man eine gewisse Sicherheit in der vom Chef auferlegten Ordnung. Wenn man sich loyal verhält und die Wünsche und Befehle des Chefs befolgt, was auch immer sie sein mögen, ist man sicher. Wer sich dagegen dem Chef widersetzt, den erwartet eine harte Strafe.   
 
 
-  ### Amber organizations
+  ### Bernstein-Organisationen
 
 
-  In [Amber organizations](../amber-paradigm-and-organizations/), safety comes from following established rules and processes (which are much more stable than the changing whims of Red bosses). In Amber organizations, employment is thought to be life-long, and much of people's social life revolves around the organization. Punishment no longer entails physical violence, but can entail salary deductions, a reduction in rank and privileges, and dismissal. Dismissal therefore comes with a double threat: that of losing one's identity and that of being expelled from the social fabric one is embedded in. Leaving an Amber organization is often a painful and scary process, similar to shedding an old life, known and safe, and having to reinvent a new one. (In short: safety from violence).
+  In [bernsteinfarbenen Organisationen](../amber-paradigm-and-organizations/) entsteht Sicherheit durch das Befolgen etablierter Regeln und Prozesse (die viel stabiler sind als die wechselnden Launen der roten Chefs). In bernsteinfarbenen Organisationen geht man davon aus, dass die Beschäftigung lebenslang ist, und ein Großteil des sozialen Lebens der Menschen dreht sich um die Organisation. Bestrafung bedeutet nicht mehr physische Gewalt, sondern kann Gehaltskürzungen, eine Verringerung des Ranges und der Privilegien sowie Entlassung zur Folge haben. Die Entlassung ist daher mit einer doppelten Bedrohung verbunden: dem Verlust der eigenen Identität und dem Ausschluss aus dem sozialen Gefüge, in das man eingebettet ist. Der Austritt aus einer bernsteinfarbenen Organisation ist oft ein schmerzhafter und beängstigender Prozess, ähnlich wie wenn man ein altes, bekanntes und sicheres Leben ablegt und ein neues Leben beginnen muss. (Kurz gesagt: Sicherheit vor Gewalt).
+
+
+  Übersetzt mit www.DeepL.com/Translator (kostenlose Version)
 
 
   ### Orange organizations
