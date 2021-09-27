@@ -190,13 +190,14 @@ inPractice: "### Die Bedeutung eines sicheren Raums
 
   * Jedes Schulungsprogramm oder jeder Workshop."
 faq:
-  - question: How can ground rules for a safe space be established? What is the role
-      of the founder or "CEO" in the process?
-    answer: "As a founder or leader of the organization, you might be the main (or
-      perhaps even only) person to sense that creating safe space is critical.
-      Can you \"impose\" the creating of safe space? How could you involve
-      others in writing down a set of ground rules, if you are the only one that
-      sees the need? \r
+  - question: Wie können Grundregeln für einen sicheren Raum aufgestellt werden? Was
+      ist die Rolle des Gründers oder "CEO" in diesem Prozess?
+    answer: "Als Gründer oder Leiterin der Organisation sind Sie vielleicht die
+      wichtigste (oder vielleicht sogar die einzige) Person, die spürt, dass die
+      Schaffung eines sicheren Raums wichtig ist. Können Sie die Schaffung eines
+      sicheren Raums \"durchsetzen\"? Wie könnten Sie andere in die Aufstellung
+      von Grundregeln einbeziehen, wenn Sie der Einzige sind, der die
+      Notwendigkeit sieht?\r
 
       \r
 
