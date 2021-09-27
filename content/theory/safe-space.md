@@ -59,10 +59,11 @@ inPractice: >-
   In den meisten Organisationen - genau wie in den meisten Gruppen außerhalb der Arbeit - kann es sich riskant anfühlen, sich ganz zu zeigen. Fast jeder hat in seiner Kindheit gelernt, dass wir uns verletzlich fühlen, wenn wir unser wahres Gesicht zeigen, die Teile von uns, die wir am meisten schätzen: Wir öffnen uns für möglichen Spott und Hohn oder dafür, dass das, was wir teilen, gegen uns verwendet wird. Viel besser ist es also, auf Nummer sicher zu gehen, sich hinter einer professionellen Maske zu verstecken und sich so zu zeigen, wie wir wissen, dass es am Arbeitsplatz akzeptiert und erwartet wird.
 
 
-  That safety comes at a cost: We cut ourselves from the richness of our humanity. In the workplace, the mask we feel we need to wear is often mental, rational, masculine, self-centered. We cut ourselves off from our emotions, our intuitions, our body, our feminine side. We don’t heed our inner voice, our longings, our calling, our soul. We neglect our capacity for connection and compassion, for love for ourselves, for others, and for all life that surrounds us. We might feel safe. But the cost is a life that often feels empty and strangely lifeless..
+  Diese Sicherheit hat ihren Preis: Wir schneiden uns vom Reichtum unserer Menschlichkeit ab. Am Arbeitsplatz ist die Maske, die wir meinen tragen zu müssen, oft mental, rational, männlich und egozentrisch. Wir schotten uns ab von unseren Gefühlen, unserer Intuition, unserem Körper, unserer weiblichen Seite. Wir hören nicht auf unsere innere Stimme, unsere Sehnsüchte, unsere Berufung, unsere Seele. Wir vernachlässigen unsere Fähigkeit zu Verbundenheit und Mitgefühl, zur Liebe für uns selbst, für andere und für alles Leben, das uns umgibt. Wir mögen uns sicher fühlen. Aber der Preis dafür ist ein Leben, das sich oft leer und seltsam leblos anfühlt.
 
 
-  [Teal organizations ](../teal-paradigm-and-organizations/)have come to the realization that when employees leave so much of who they are behind, they also leave a great amount of their passion, creativity and energy behind. They are mindful to create a setting of safety—a safe space—where employees feel they can safely show up in [wholeness](../wholeness/). 
+  Die [Teal-Organisationen](../teal-paradigm-and-organizations/) sind zu der Erkenntnis gelangt, dass die Mitarbeiter, wenn sie so viel von sich selbst zurücklassen, auch einen großen Teil ihrer Leidenschaft, Kreativität und Energie zurücklassen. Sie sind darauf bedacht, ein sicheres Umfeld zu schaffen - einen sicheren Raum -, in dem die Mitarbeiterinnen das Gefühl haben, dass sie sich sicher in [Ganzheit](../wholeness/) zeigen können. 
+
 
 
   ### Establishing ground rules
