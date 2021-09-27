@@ -53,10 +53,10 @@ perspective: >-
 
   [Teal-Organisationen ](../teal-paradigm-and-organizations/) zielen darauf ab, einen sicheren Raum zu schaffen, in dem das Ego seine Abwehrkräfte lockern kann, so dass die Menschen sich voll und ganz zeigen können: ihr männliches und weibliches Selbst, ihr rationales, emotionales, intuitives und spirituelles Selbst sowie ihre Stärken und ihre Verletzlichkeit. (Kurz gesagt: Sicherheit für die Seele)
 inPractice: >-
-  ### The importance of safe space
+  ### Die Bedeutung eines sicheren Raums
 
 
-  In most organizations—just like in most group settings outside of work—it can feel risky to show up whole. Almost everyone has learned in childhood that when we expose who we really are, the parts of ourselves we cherish most, we feel vulnerable with: we open ourselves to possible mockery and ridicule, or to have what we shared used against us. Much better, then, is to play it safe, to hide behind a professional mask, to show up in ways we know are accepted and expected in the work place.
+  In den meisten Organisationen - genau wie in den meisten Gruppen außerhalb der Arbeit - kann es sich riskant anfühlen, sich ganz zu zeigen. Fast jeder hat in seiner Kindheit gelernt, dass wir uns verletzlich fühlen, wenn wir unser wahres Gesicht zeigen, die Teile von uns, die wir am meisten schätzen: Wir öffnen uns für möglichen Spott und Hohn oder dafür, dass das, was wir teilen, gegen uns verwendet wird. Viel besser ist es also, auf Nummer sicher zu gehen, sich hinter einer professionellen Maske zu verstecken und sich so zu zeigen, wie wir wissen, dass es am Arbeitsplatz akzeptiert und erwartet wird.
 
 
   That safety comes at a cost: We cut ourselves from the richness of our humanity. In the workplace, the mask we feel we need to wear is often mental, rational, masculine, self-centered. We cut ourselves off from our emotions, our intuitions, our body, our feminine side. We don’t heed our inner voice, our longings, our calling, our soul. We neglect our capacity for connection and compassion, for love for ourselves, for others, and for all life that surrounds us. We might feel safe. But the cost is a life that often feels empty and strangely lifeless..
