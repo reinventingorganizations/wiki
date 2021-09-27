@@ -241,13 +241,14 @@ faq:
       von einem Moderator bekräftigt und vorgelebt werden. \r
 
 
-      The role you can play as founder or CEO is to be the initiator and
-      convener, possibly the one choosing an external facilitator that might
-      hold the space for the process of Appreciative Inquiry or the methodology
-      you'll have chosen. In the invitation to the group, you can speak
-      powerfully to why you believe this is important. Once in the group
-      process, you can relax and become one voice among the many contributing to
-      establish the ground rules. "
+      Die Rolle, die Sie als Gründerin oder CEO spielen können, ist die
+      der Initiatorin und des Einberufers, möglicherweise derjenige, der einen
+      externen Moderator auswählt, die den Raum für den Prozess der Appreciative
+      Inquiry oder die von Ihnen gewählte Methodik hält. In der Einladung an die
+      Gruppe können Sie eindringlich darlegen, warum Sie dies für wichtig
+      halten. Sobald Sie im Gruppenprozess sind, können Sie sich entspannen und
+      eine Stimme unter vielen sein, die dazu beitragen, die Grundregeln
+      festzulegen. "
 relatedTheory:
   - wholeness
   - Team and Community Building
