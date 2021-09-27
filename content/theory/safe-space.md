@@ -13,7 +13,7 @@ intro: >-
 
   ![](/media/safe-space-medium-small.png)
 perspective: >-
-  [Teal-Organisationen (../teal-paradigm-and-organizations/) zielen darauf ab,
+  [Teal-Organisationen] (../teal-paradigm-and-organizations/) zielen darauf ab,
   einen sicheren Raum zu schaffen, der es den Kolleginnen und Kollegen erlaubt,
   sich mit all dem zu zeigen, was sie sind, mit ihrem männlichen und ihrem
   weiblichen Selbst, ihrem rationalen, emotionalen, intuitiven und spirituellen
