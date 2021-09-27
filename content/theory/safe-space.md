@@ -95,7 +95,7 @@ inPractice: "### Die Bedeutung eines sicheren Raums
   Mitarbeiter für die Denkweisen, Worte und Handlungen, die ein sicheres
   Arbeitsumfeld schaffen oder fördern. Einige Unternehmen halten es für wichtig,
   ein Dokument zu verfassen, in dem detaillierte Grundregeln für den Umgang der
-  Mitarbeiter innerhalb des Unternehmens festgelegt sind. In einem solchen
+  Mitarbeiterinnen innerhalb des Unternehmens festgelegt sind. In einem solchen
   Dokument wird festgehalten, welche Art von Worten und Handlungen erwünscht
   sind und welche als inakzeptabel gelten, sowie die zugrunde liegenden Annahmen
   und Denkweisen. Man kann solche detaillierten Grundregeln als Weiterführung
@@ -104,16 +104,16 @@ inPractice: "### Die Bedeutung eines sicheren Raums
   welche für inakzeptabel erklären?\ 
 
 
-  Historically, many spiritual and wisdom traditions have elaborated rich
-  traditions to create safe space—places that overcome fear and separation and
-  invite into non-judgment and wholeness. Many contemporary thinkers have
-  adapted or reinvented  similar principles and practices to create safe space
-  within organizational realms, for instance in the space of organizational
-  facilitation. Teal organizations often spend significant time training
-  everyone in their ground rules, for example as part of a new colleague's
-  [onboarding](../onboarding/), so that the ground holds are, as much as
-  possible, upheld by everyone, without the need of a facilitator to enforce
-  them.
+  Historisch gesehen haben viele spirituelle und Weisheitstraditionen
+  reichhaltige Traditionen entwickelt, um sichere Räume zu schaffen - Orte, die
+  Angst und Trennung überwinden und zu Nichtbeurteilung und Ganzheit einladen.
+  Viele zeitgenössische Denker haben ähnliche Prinzipien und Praktiken adaptiert
+  oder neu erfunden, um einen sicheren Raum im organisatorischen Bereich zu
+  schaffen, z.B. im Bereich der Organisationsmoderation. Teal-Organisationen
+  verwenden oft viel Zeit darauf, alle Mitarbeiter in ihren Grundregeln zu
+  schulen, z. B. als Teil des [Onboarding](../onboarding/) eines neuen Kollegen,
+  damit die Grundregeln so weit wie möglich von allen eingehalten werden, ohne
+  dass eine Moderatorin sie durchsetzen muss.
 
 
   Typical ground rules include
