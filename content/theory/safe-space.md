@@ -160,69 +160,35 @@ inPractice: "### Die Bedeutung eines sicheren Raums
   zu hinterfragen und anzunehmen.  \r
 
 
+  ### Wiederkehrende Momente, um Grundregeln zu bekräftigen
 
 
-
-  * *No fixing, advising, saving or correcting others:* when others feel we
-  have an intention to change them, they are likely to feel intruded upon and to
-  feel the space is no longer safe for them to show up as they are. \ 
-
-  * *Accepting emotions*: many cultures especially in most organizations today
-  are generally ill at ease with \"negative\" emotions such as anger, sadness or
-  frustration (and sometimes even of \"positive\" emotions such as joy or
-  empathy). When someone shares such an emotion, we are often quick to try and
-  get the person to \"get over\" their emotion, thereby giving the message that
-  someone's emotion is not welcome.\ 
-
-  * *Accepting conflict*: these cultures are also generally ill at ease with
-  conflicts, that get quickly passed over. And yet, conflict is a natural
-  consequence of the fact that as human beings, we all have different needs and
-  perspectives. Having a well defined [conflict resolution
-  process](../conflict-resolution/) in place is helpful, as well as clear
-  guidelines to help deal with conflict gracefully.\ 
-
-  * *Avoiding demeaning speech and behaviors*: To feel safe, we need to feel
-  that we are accepted as equals in value. Any form of -ism (sexism, racism,
-  etc.) as well as any form, however subtle, that establishes that one person is
-  superior to another (snide remark, rolling of the eyes, and so forth) will
-  make us feel unsafe and trigger our ego defenses.\ 
-
-  * *Questioning one's perspective:* A safe space is one where we can explore
-  our feelings and thoughts without fear of judgment. That exploration is made
-  difficult, if someone else believes they are right, and that by contrast,
-  everyone with a different question must be wrong. We must enter every
-  discussion with a willingness to see things from different perspectives, to
-  question our own perspective and assumption.. \ 
+  Leider lernen wir in der Schule nicht, wie man einen sicheren Raum schafft.
+  Das gemeinsame Verfassen eines Dokuments mit den Grundregeln für einen
+  sicheren Raum könnte ein hilfreicher Weg für die Kollegen in der Organisation
+  sein, sich in dieses Denken hineinzuversetzen. Sie können als wirkungsvolles
+  Schulungsprogramm während des [Onboarding-Prozesses](../onboarding/) für neue
+  Kollegen eingesetzt werden. Viele Unternehmen stellen jedoch fest, dass dies
+  nicht ausreicht, damit alle Mitarbeiter diese Grundregeln tief in ihre Denk-
+  und Verhaltensweisen integrieren. Es ist sinnvoll, wiederkehrende Momente
+  vorzusehen, in denen die Grundregeln von einem Kollegen, der die Rolle der
+  Moderatorin übernimmt, bekräftigt, vorgelebt und ausdrücklich durchgesetzt
+  werden. Diese wiederkehrenden Momente können sein:
 
 
-  ### Recurring moments to reaffirm ground rules
+  * Wichtige, wiederkehrende Treffen (z. B. vierteljährliche Besprechungen
+  aller Mitarbeiter) \r
 
+  * Großgruppenprozesse zum [Hören auf den Sinn einer Organisation]
+  (../listening-to-purpose/) (z. B. mit Methoden wie Theory U, Appreciative
+  Inquiry oder Open Space) \r
 
-  Unfortunately, we don't learn about how to create a safe space in school.
-  Commonly writing a document with the ground rules for a safe space might be a
-  helpful way for colleagues in the organization to steep themselves in this
-  thinking. They can be used as a powerful training program during new
-  colleagues' [onboarding process](../onboarding/). Many organizations find that
-  this is not enough, though, for everyone to deeply integrate these ground
-  rules in their mindsets and behaviors. It is useful to foresee recurring
-  moments where the ground rules are reaffirmed, role modeled and explicitly
-  enforced by a colleague taking on a facilitator's role. These recurring
-  moments can include:
+  * Alle Sitzungen, die schwierig oder heikel zu werden drohen und bei denen
+  die Anwesenheit eines Moderators hilfreich sein könnte \r
 
+  * Ein jährlicher \"Wertetag\" \r
 
-  * Important, recurring meetings (for instance quarterly all-hands
-  meetings)\ 
-
-  * Large group processes to [listen to an organizations'
-  purpose](../listening-to-purpose/) (for instance using methodologies such as
-  Theory U, Appreciative Inquiry, or Open Space)\ 
-
-  * Any meetings that promises to be difficult or touchy, where the presence
-  of a facilitator might be helpful\ 
-
-  * An annual \"values day\"\ 
-
-  * Any training program or workshop."
+  * Jedes Schulungsprogramm oder jeder Workshop."
 faq:
   - question: How can ground rules for a safe space be established? What is the role
       of the founder or "CEO" in the process?
