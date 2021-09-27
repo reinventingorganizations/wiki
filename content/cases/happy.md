@@ -25,4 +25,63 @@ industry: P. Education
 geography: United Kingdom
 companySize: 1-100
 profit: Profit
+theory:
+  - topic: Organizational Structure
+    title: A lattice organization
+    content: >-
+      You can’t say there is no hierarchy at Happy, as there are two clear
+      leaders: Henry Stewart, founder and Chief Happiness Officer, and Cathy
+      Busani, Managing Director. However there isn’t a rigid structure.
+
+
+      There are three departments: Happy Computers (IT Training), Happy People (leadership and personal development) and apprenticeships (funded in the UK by an Apprenticeship levy that every organisation has to pay).
+
+
+      Each department does have a Head but it is not necessarily a relationship between them and the people in those departments. Each person chooses who they would like to be their “M&M”. The title M&M was chosen by the staff and means Multiplier and Mentor - although the role is more of a coach.
+
+
+      Where staff work in a team, there is a team job description, rather than individual ones. That means that people can choose which roles in the team they want to play and these often shift.
+
+
+      There is a regular staff meeting (fortnightly before the pandemic, weekly during it). This will decide anything that affects everybody.
+
+
+      There is also a monthly Joyful meeting. This includes Henry, the heads of department and people elected by the staff as “potential leaders”. Anybody can attend this meeting.
+
+      Wherever possible the teams make their own decisions, without referring to the head of that department.
+
+
+      [Happy’s organisation chart](https://happycomputers-my.sharepoint.com/:p:/g/personal/henry_happy_co_uk/ETTTuvaVZXJDpRhWRah6GpwBTNJr5kaEibA8LAcUfR5WPA?e=dm91fe) is a series of circles with the picture of the person inside. It includes:
+
+
+      * Job title
+
+      * When they work
+
+      * Whether they are an activist, pragmatist, reflector or theorist  ([Honey and Mumford](https://www2.le.ac.uk/departments/doctoralcollege/training/eresources/teaching/theories/honey-mumford))
+
+      * Their 5 key strengths based on Strengthfinder (R)
+
+
+      The colours show their communication style, 
+
+
+      * when at ease (external circle) and 
+
+      * when under pressure (internal circle). 
+
+
+
+      * Red = Driver, 
+
+      * Yellow = Expressive, 
+
+      * Green = Amiable, 
+
+      * Blue = Analytical
+
+
+      The arrows indicate who coaches who.
+
+      The chart is the work of two front-line staff who were pre-approved to come up with it.
 ---
