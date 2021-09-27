@@ -6,18 +6,19 @@ name: Safe Space
 sortOrder: 7
 category: Daily practices
 intro: >-
-  This article covers the topic of how organizations can create a space that
-  enables the safety necessary for colleagues to feel they can show up whole at
-  work.
+  Dieser Artikel befasst sich mit der Frage, wie Organisationen einen Raum
+  schaffen können, der die nötige Sicherheit bietet, damit die Mitarbeiter das
+  Gefühl haben, dass sie sich bei der Arbeit voll entfalten können.
 
 
   ![](/media/safe-space-medium-small.png)
 perspective: >-
-  [Teal organizations](../teal-paradigm-and-organizations/) aim to establish a
-  safe space that allows colleagues to show up with all of who they are, their
-  masculine as well as their feminine selves, their rational, emotional,
-  intuitive and spiritual selves, their strengths and vulnerability, their
-  deeper hopes and longings. 
+  [Teal-Organisationen (../teal-paradigm-and-organizations/) zielen darauf ab,
+  einen sicheren Raum zu schaffen, der es den Kolleginnen und Kollegen erlaubt,
+  sich mit all dem zu zeigen, was sie sind, mit ihrem männlichen und ihrem
+  weiblichen Selbst, ihrem rationalen, emotionalen, intuitiven und spirituellen
+  Selbst, ihren Stärken und ihrer Verletzlichkeit, ihren tieferen Hoffnungen und
+  Sehnsüchten.  
 
 
   ### Red organizations
