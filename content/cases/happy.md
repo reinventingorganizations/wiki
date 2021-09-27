@@ -154,4 +154,25 @@ theory:
 
 
       More Happy recruitment principles can be found [here](https://happycomputers-my.sharepoint.com/:w:/g/personal/henry_happy_co_uk/ETBO383Or3hFsICB15Mvd2sB1_1FXt0yN4cH35OBlY0qtw?e=qcBFUj); the vision (purpose) and core values of the organization to be shared with candidates are very clear in this document.
+  - topic: Feedback and Performance Management
+    title: Got rid of performance appraisals
+    content: >
+      In 2018 Happy held a vote on whether to continue with annual performance
+      appraisals. The vote was 82% against. Instead people have a four monthly
+      snapshot session with their coach: 
+
+      Of course it still makes sense to carry out a regular review, so they replaced it with a four-monthly happy@happy snapshot. The form used can be accessed [here](https://happycomputers-my.sharepoint.com/:p:/g/personal/henry_happy_co_uk/ETTTuvaVZXJDpRhWRah6GpwBTNJr5kaEibA8LAcUfR5WPA?e=dm91fe). It is inspired by something they saw at the food company Cook. It highlights disruptions, successes, aspirations, contribution to unity and joy.
+
+
+      1. **Radical Disruption -** choose one thing that you will do completely differently in the next period.
+
+      2. **Strengths, Responsibilities and Values as pillars of Successes and Aspirations** 
+         Happy uses Strengthfinder to discover each person’s five key **strengths**, as well as working with them on what motivates them and what makes them “feel magnificent”. They want people to do what they are good at, for their sake and for Happy’s. So they explore which strengths they have used and which they will use going ahead.
+         At Happy people aren’t generally given **responsibilities** or promotions. Instead they encourage people to seek opportunities, to decide what responsibility they are able to take on. One example was two of their front-line staff who decided their prices needed updating. As is the Happy way, they consulted with colleagues and clients and checked the market. And then they took responsibility and made the decision, without needing upward approval on what to change to.
+         Happy doesn’t want **[core values]**(https://www.happy.co.uk/about-us/) to be just a laminated poster stuck on the wall. So the snapshot is a good opportunity to explore where they have “believed the best”, “helped people feel good about themselves”, “celebrated mistakes”, “delighted the customer” or “made the world a better place”.
+      3. **Contribution to unity and joy**  
+          **Unity/Inclusiveness**
+         At Happy, it is not enough to be good at your core job. They believe their values are clear and they expect everybody to be positive and supportive of others and – even in a difficult conversation – to leave them feeling good about themselves. So a crucial element of the form is to ask what they have done to achieve more unity and inclusiveness. That can be anything from little things like taking lunch with different colleagues or checking in with people in other departments..
+         **Joy at Work**
+         The aim is that everybody at Happy finds joy in their work at least 80% of the time. They ask their people to measure it for themselves and to think about what would bring them joy. It leads to a very different conversation to ask “What would give you more joy?”, instead of “How can we improve your performance?”.
 ---
