@@ -156,7 +156,7 @@ theory:
       More Happy recruitment principles can be found [here](https://happycomputers-my.sharepoint.com/:w:/g/personal/henry_happy_co_uk/ETBO383Or3hFsICB15Mvd2sB1_1FXt0yN4cH35OBlY0qtw?e=qcBFUj); the vision (purpose) and core values of the organization to be shared with candidates are very clear in this document.
   - topic: Feedback and Performance Management
     title: Got rid of performance appraisals
-    content: >
+    content: >-
       In 2018 Happy held a vote on whether to continue with annual performance
       appraisals. The vote was 82% against. Instead people have a four monthly
       snapshot session with their coach: 
@@ -164,17 +164,40 @@ theory:
       Of course it still makes sense to carry out a regular review, so they replaced it with a four-monthly happy@happy snapshot. The form used can be accessed [here](https://happycomputers-my.sharepoint.com/:p:/g/personal/henry_happy_co_uk/ETTTuvaVZXJDpRhWRah6GpwBTNJr5kaEibA8LAcUfR5WPA?e=dm91fe). It is inspired by something they saw at the food company Cook. It highlights disruptions, successes, aspirations, contribution to unity and joy.
 
 
-      1. **Radical Disruption -** choose one thing that you will do completely differently in the next period.
+      #### Radical Disruption
 
-      2. **Strengths, Responsibilities and Values as pillars of Successes and Aspirations** 
-         Happy uses Strengthfinder to discover each person’s five key **strengths**, as well as working with them on what motivates them and what makes them “feel magnificent”. They want people to do what they are good at, for their sake and for Happy’s. So they explore which strengths they have used and which they will use going ahead.
-         At Happy people aren’t generally given **responsibilities** or promotions. Instead they encourage people to seek opportunities, to decide what responsibility they are able to take on. One example was two of their front-line staff who decided their prices needed updating. As is the Happy way, they consulted with colleagues and clients and checked the market. And then they took responsibility and made the decision, without needing upward approval on what to change to.
-         Happy doesn’t want **[core values]**(https://www.happy.co.uk/about-us/) to be just a laminated poster stuck on the wall. So the snapshot is a good opportunity to explore where they have “believed the best”, “helped people feel good about themselves”, “celebrated mistakes”, “delighted the customer” or “made the world a better place”.
-      3. **Contribution to unity and joy**  
-          **Unity/Inclusiveness**
-         At Happy, it is not enough to be good at your core job. They believe their values are clear and they expect everybody to be positive and supportive of others and – even in a difficult conversation – to leave them feeling good about themselves. So a crucial element of the form is to ask what they have done to achieve more unity and inclusiveness. That can be anything from little things like taking lunch with different colleagues or checking in with people in other departments..
-         **Joy at Work**
-         The aim is that everybody at Happy finds joy in their work at least 80% of the time. They ask their people to measure it for themselves and to think about what would bring them joy. It leads to a very different conversation to ask “What would give you more joy?”, instead of “How can we improve your performance?”.
+
+      choose one thing that you will do completely differently in the next period.
+
+
+      #### Strengths, Responsibilities and Values
+
+
+      as pillars of Successes and Aspirations
+
+
+      Happy uses Strengthfinder to discover each person’s five key **strengths**, as well as working with them on what motivates them and what makes them “feel magnificent”. They want people to do what they are good at, for their sake and for Happy’s. So they explore which strengths they have used and which they will use going ahead.
+
+
+      At Happy people aren’t generally given **responsibilities** or promotions. Instead they encourage people to seek opportunities, to decide what responsibility they are able to take on. One example was two of their front-line staff who decided their prices needed updating. As is the Happy way, they consulted with colleagues and clients and checked the market. And then they took responsibility and made the decision, without needing upward approval on what to change to.
+
+
+      Happy doesn’t want [core values](https://www.happy.co.uk/about-us/) to be just a laminated poster stuck on the wall. So the snapshot is a good opportunity to explore where they have “believed the best”, “helped people feel good about themselves”, “celebrated mistakes”, “delighted the customer” or “made the world a better place”.
+
+
+      #### Contribution to unity and joy
+
+
+      ##### Unity/Inclusiveness
+
+
+      At Happy, it is not enough to be good at your core job. They believe their values are clear and they expect everybody to be positive and supportive of others and – even in a difficult conversation – to leave them feeling good about themselves. So a crucial element of the form is to ask what they have done to achieve more unity and inclusiveness. That can be anything from little things like taking lunch with different colleagues or checking in with people in other departments..
+
+
+      ##### Joy at Work
+
+
+      The aim is that everybody at Happy finds joy in their work at least 80% of the time. They ask their people to measure it for themselves and to think about what would bring them joy. It leads to a very different conversation to ask “What would give you more joy?”, instead of “How can we improve your performance?”.
   - topic: Compensation and incentives
     title: At salary panel - elected by staff
     content: >
@@ -193,7 +216,7 @@ theory:
       Inevitably the total submitted normally comes to more than the total that has been allocated to salaries. So figures are often scaled back. However sometimes the salary panel decides that somebody’s salary should be more than what they asked for.
   - topic: Meetings
     title: Few meetings, seek to use liberating structures
-    content: >+
+    content: >-
       Happy seeks to keep internal meetings to a minimum. For ones involving the
       whole company (a weekly staff meeting and six-monthly Happy Day), Happy
       seeks to use Liberating Structures - to give everybody an equal voice. 
@@ -205,7 +228,7 @@ theory:
       Here are a quick sum-up of some techniques used at Happy
 
 
-      ### Spiral Journal: A mindful start
+      #### Spiral Journal: A mindful start
 
 
       Take a piece of A4 paper and fold it into 4. Spend two minutes drawing a spiral, as slowly and as tightly wound as possible, out from the centre. In response to four prompts, give your answers in each of the four quadrants. Then discuss in (breakout room) pairs.
@@ -222,7 +245,7 @@ theory:
       * "Lately it's been important for me to….."
 
 
-      ### Mad Tea: an icebreaker
+      #### Mad Tea: an icebreaker
 
 
       Live, you form two circles so everybody is facing another person. Prompts are presented and each person responds in turn in just 30 seconds. (eg, "The current crisis is making me feel …." and "Things that are more important for me now are… ") Then one circle moves round and you face another person.
@@ -230,7 +253,7 @@ theory:
       It is a high energy activity, giving a chance to meet people quickly. In Zoom, you display the prompt in Chat (and on Broadcast) and split the room into pairs for 90 seconds, sending out a broadcast at the halfway point. It still produces a buzz.
 
 
-      ### W3: What? So What? Now What?
+      #### W3: What? So What? Now What?
 
 
       W3 is a great way to reflect on a discussion or a process and step away from self-generating beliefs. It simply consist of asking three questions, each to be considered first alone and then in pairs, to base decisions on what has been answered:
@@ -243,7 +266,7 @@ theory:
       * Now What? What to do next?
 
 
-      ### Triz: What's the worst that could happen?
+      #### Triz: What's the worst that could happen?
 
 
       In Triz you look at the worst possible outcome (e.g, what would make this project fail?). Working first alone and then in groups, you examine what could lead to that result. Then, again working first alone and then in groups, you explore which of those things your organisation is doing.
@@ -252,14 +275,13 @@ theory:
       Happy’s prompt was *"How can you ensure you respond to this crisis in a way that is reliably disastrous for yourself and others?"*. There was a lot of talk of Trump and injecting Dettol, but also of issues like "failing to adapt".
 
 
-      ### Troika: Consultation in threes
+      #### Troika: Consultation in threes
 
 
       What challenge or issue would you like help on? Troika groups three people together. Each in turn raises their issue and explains it to the others. In real life, they then turn their back (so the others can't see their response and facial expression) and hear the other two discuss their issue for 5 minutes.
 
 
       Online, you can turn your back. But it is actually more effective than normal to turn off your video and be able to not just hear the other two colleagues but not see them too. It is remarkable how often real insights result from this process.
-
   - topic: Decision Making
     title: Decisions made by front line, CEO makes no decisions
     content: >-
