@@ -308,7 +308,7 @@ theory:
 
       “All our facilitators are focused on the feedback they will get. But they aren’t so focused on utilisation. So I asked them to, each month, measure their utilisation. We didn’t set targets or anything, we just asked folk to measure it. That step alone resulted in a £95k increase in profits.”
 
-      “I get to do what I love to do and feel what I am best at, which is coming up with new products,” explains Henry. In April 2021 this has meant creating a “[Happy MBA](https://www.happy.co.uk/apprenticeships/level-7-senior-leaders-programme/)”.
+      “I get to do what I love to do and feel what I am best at, which is coming up with new products,” explains Henry. In April 2021 this has meant creating a “Happy MBA”.
 
 
       Here an example of frontline decision-making : in 2018 Ben and John felt that the prices of their courses needed increasing. They used the Advice Process, asking others for their views but making the final decision themselves.
