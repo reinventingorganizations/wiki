@@ -219,19 +219,26 @@ faq:
       Großgruppenprozesse sind denkbar) könnten Sie die gesamte Organisation (ob
       klein oder groß, oder Teilbereiche der Organisation) einladen:
 
-
       \r
 
-      * participants then share some of the stories and insights into a
-      broader circle (which itself is one that role models safe space), and
-      commonly establish some of the necessary conditions that were present.\r
+      * In einer tiefen Reflexion in Paargesprächen nach Momenten zu
+      fragen (z. B. in einem Gespräch mit einem Freund oder einem
+      Familienmitglied), in denen sie sich sicher genug gefühlt haben, um sich
+      ganz zu zeigen. Wie hat sich das angefühlt? Was waren die notwendigen
+      Bedingungen?\r
 
-      * from those necessary conditions, participants to self-organize
-      into groups that craft a document which establishes the ground rules\r
+      * Die Teilnehmer tauschen dann einige der Geschichten und Einsichten
+      in einem größeren Kreis aus (der selbst ein Vorbild für einen sicheren
+      Raum ist) und stellen gemeinsam einige der notwendigen Bedingungen fest,
+      die gegeben waren.\r
 
-      * as a last step, participants to jointly define the recurring
-      moments during the year where the ground rules will be affirmed and
-      role-modeled by a facilitator. \r
+      * Ausgehend von diesen notwendigen Bedingungen organisieren sich die
+      Teilnehmer selbst in Gruppen, die ein Dokument erstellen, in dem die
+      Grundregeln festgelegt werden.\r
+
+      * In einem letzten Schritt legen die Teilnehmer gemeinsam die
+      wiederkehrenden Momente im Laufe des Jahres fest, in denen die Grundregeln
+      von einem Moderator bekräftigt und vorgelebt werden. \r
 
 
       The role you can play as founder or CEO is to be the initiator and
