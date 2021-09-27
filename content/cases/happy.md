@@ -175,4 +175,20 @@ theory:
          At Happy, it is not enough to be good at your core job. They believe their values are clear and they expect everybody to be positive and supportive of others and – even in a difficult conversation – to leave them feeling good about themselves. So a crucial element of the form is to ask what they have done to achieve more unity and inclusiveness. That can be anything from little things like taking lunch with different colleagues or checking in with people in other departments..
          **Joy at Work**
          The aim is that everybody at Happy finds joy in their work at least 80% of the time. They ask their people to measure it for themselves and to think about what would bring them joy. It leads to a very different conversation to ask “What would give you more joy?”, instead of “How can we improve your performance?”.
+  - topic: Compensation and incentives
+    title: At salary panel - elected by staff
+    content: >
+      Salaries are decided annually. Each person submits what they think they
+      should earn.
+
+
+      The salaries are decided by a salary panel, which consists of four people elected by the staff (before 2021,only half the panel was elected by staff.)
+       
+      This approach started in around 2015.
+
+
+      It is based on a total figure that the staff decide, after examining the profit-and-loss for the previous year - and expectations ahead.
+
+
+      Inevitably the total submitted normally comes to more than the total that has been allocated to salaries. So figures are often scaled back. However sometimes the salary panel decides that somebody’s salary should be more than what they asked for.
 ---
