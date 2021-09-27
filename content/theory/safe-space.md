@@ -201,29 +201,26 @@ faq:
 
       \r
 
-      The best way to establish a set of ground rules is to involve as
-      many people as possible in the organization. How can that be done? Being
-      in a space where we feel truly safe is a liberating feeling, but that
-      unfortunately, many people (and therefore many of your colleagues) might
-      never have experienced in the workplace. And yet, it is something we all
-      long for, and that in some small way we have all experienced at some
-      point. Large group processes, such as Appreciative Inquiry, for instance,
-      can be great catalysts to bring people to reflect on and acknowledge the
-      importance of feeling safe, and to collectively develop a set of ground
-      rules. \r
+      Der beste Weg zur Festlegung von Grundregeln besteht darin, so viele
+      Menschen wie möglich in die Organisation einzubeziehen. Wie lässt sich das
+      bewerkstelligen? Sich in einem Raum zu befinden, in dem man sich wirklich
+      sicher fühlt, ist ein befreiendes Gefühl, das aber leider viele Menschen
+      (und damit auch viele Ihrer Kollegen) am Arbeitsplatz noch nie erlebt
+      haben dürften. Und doch ist es etwas, wonach wir uns alle sehnen, und das
+      wir alle auf irgendeine Art und Weise schon einmal erlebt haben.
+      Großgruppenprozesse, wie z. B. Appreciative Inquiry, können großartige
+      Katalysatoren sein, um Menschen dazu zu bringen, über die Bedeutung des
+      Gefühls der Sicherheit nachzudenken und diese anzuerkennen und gemeinsam
+      eine Reihe von Grundregeln zu entwickeln. \r
 
       \r
 
-      Using the Appreciative Inquiry framework as an example (but other
-      large group processes could be used too), you could invite the entire
-      organization (small or large, or subsections of the organization):\r
+      Am Beispiel der Appreciative Inquiry (aber auch andere
+      Großgruppenprozesse sind denkbar) könnten Sie die gesamte Organisation (ob
+      klein oder groß, oder Teilbereiche der Organisation) einladen:
+
 
       \r
-
-      * to inquire, in a deep reflection in paired interviews, into
-      moments (for instance in a conversation with a friend of family member)
-      where they have felt safe enough to show up whole. What did it feel like?
-      What were the necessary conditions?\r
 
       * participants then share some of the stories and insights into a
       broader circle (which itself is one that role models safe space), and
