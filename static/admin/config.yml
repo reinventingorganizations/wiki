@@ -154,7 +154,7 @@ collections:
           label: "Géographie",
           name: "geography",
           widget: "select",
-          options: ["Allemagne", "Brésil", "Canada", "Chine", "Egypte", "France", "Global", "Inde", "Japon", "Maroc", "Nouvelle Zélande", "Pays-Bas", "Philippines", "Royaume Uni", "Suisse", "USA"],
+          options: ["Allemagne", "Brésil", "Canada", "Chine", "Egypte", "France", "Global", "Inde", "Japon", "Maroc", "Nouvelle Zélande", "Pays-Bas", "Philippines", "Royaume Uni", "Suisse", "Turquie", "USA"],
         }
       - {
           label: "Taille de l'organisation",
