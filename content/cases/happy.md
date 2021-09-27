@@ -259,4 +259,40 @@ theory:
 
 
       Online, you can turn your back. But it is actually more effective than normal to turn off your video and be able to not just hear the other two colleagues but not see them too. It is remarkable how often real insights result from this process.
+
+  - topic: Decision Making
+    title: Decisions made by front line, CEO makes no decisions
+    content: >-
+      From 1992, when Henry read Maverick, to 2017, Happy sought to give people
+      trust and freedom and job ownership. However it could not be described as
+      a self-managing organisation as many decisions were made by Henry and
+      Cathy.
+
+
+      In 2017 a key change happened. Learning from David Marquet, Henry and Cathy decided to stop making decisions, and instead to push them down to front-line staff. The results were remarkable, with people stepping up and taking responsibility. The effect on sales were dramatic:
+
+      [https://happycomputers-my.sharepoint.com/:p:/g/personal/henry_happy_co_uk/EQkv5z8oJY5Mkjo1ysOEbO8BoxbtcRWwj7URzlCnMtAMPA?e=usTlbU ](https://happycomputers-my.sharepoint.com/:p:/g/personal/henry_happy_co_uk/EQkv5z8oJY5Mkjo1ysOEbO8BoxbtcRWwj7URzlCnMtAMPA?e=usTlbU)
+
+
+      Even before 2017 Happy had been practising the concept of pre-approval, the idea that you approve a solution - within clear guidelines - in advance.
+
+      [https://www.happy.co.uk/blogs/pre-approve-it/ ](https://www.happy.co.uk/blogs/pre-approve-it/)
+
+
+      The CEO role is not to make decisions but to set the framework and be sure the right metrics are being measured.
+
+
+      *Example*: 
+
+      There are two key metrics in training delivery: customer satisfaction and training utilization. Customer satisfaction delivers delighted customers, but for the company to be profitable trainer utilisation is key.
+
+      “All our facilitators are focused on the feedback they will get. But they aren’t so focused on utilisation. So I asked them to, each month, measure their utilisation. We didn’t set targets or anything, we just asked folk to measure it. That step alone resulted in a £95k increase in profits.”
+
+      “I get to do what I love to do and feel what I am best at, which is coming up with new products,” explains Henry. In April 2021 this has meant creating a “[Happy MBA](https://www.happy.co.uk/apprenticeships/level-7-senior-leaders-programme/)”.
+
+
+      Here an example of frontline decision-making : in 2018 Ben and John felt that the prices of their courses needed increasing. They used the Advice Process, asking others for their views but making the final decision themselves.
+
+
+      “I was consulted”, explained Henry. “But actually they chose to go much higher than I would have gone. But that's fine, that is the effect of taking real responsibility.”
 ---
