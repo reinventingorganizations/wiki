@@ -116,12 +116,52 @@ inPractice: "### Die Bedeutung eines sicheren Raums
   dass eine Moderatorin sie durchsetzen muss.
 
 
-  Typical ground rules include
+  Typische Grundregeln sind
 
 
-  * *Speaking from \"I\":* rather than making interpretations and judging
-  another person's actions or motivation, we try and put into words our own
-  reactions, emotions, needs and requests. \ 
+  * * Aus dem \"Ich\" heraus sprechen:* Anstatt Interpretationen vorzunehmen
+  und die Handlungen oder die Motivation einer anderen Person zu beurteilen,
+  versuchen wir, unsere eigenen Reaktionen, Gefühle, Bedürfnisse und Wünsche in
+  Worte zu fassen.
+
+  * Kein Reparieren, Raten, Retten oder Korrigieren anderer: * Wenn andere das
+  Gefühl haben, dass wir die Absicht haben, sie zu ändern, fühlen sie sich
+  wahrscheinlich überrumpelt und haben das Gefühl, dass der Raum für sie nicht
+  mehr sicher ist, um sich so zu zeigen, wie sie sind.  \r
+
+  * Emotionen akzeptieren*: In vielen Kulturen, insbesondere in den meisten
+  Organisationen, sind \"negative\" Emotionen wie Wut, Traurigkeit oder
+  Frustration (und manchmal sogar \"positive\" Emotionen wie Freude oder
+  Empathie) nicht gern gesehen. Wenn jemand eine solche Emotion mitteilt,
+  versuchen wir oft schnell, die Person dazu zu bringen, ihre Emotion zu
+  \"überwinden\", und vermitteln damit die Botschaft, dass die Emotion der
+  Person nicht willkommen ist. \r
+
+  * Akzeptanz von Konflikten*: In diesen Kulturen werden Konflikte im
+  Allgemeinen auch nicht gerne gesehen und schnell übergangen. Dabei sind
+  Konflikte eine natürliche Folge der Tatsache, dass wir als Menschen alle
+  unterschiedliche Bedürfnisse und Sichtweisen haben. Ein gut definierter
+  [Konfliktlösungsprozess] (../conflict-resolution/) ist hilfreich, ebenso wie
+  klare Richtlinien, die helfen, mit Konflikten anständig umzugehen. \r
+
+  * Vermeiden von erniedrigenden Äußerungen und Verhaltensweisen*: Um sich
+  sicher zu fühlen, müssen wir das Gefühl haben, dass wir als gleichwertig
+  akzeptiert werden. Jede Form von -ismus (Sexismus, Rassismus usw.) sowie jede
+  noch so subtile Form, die eine Person einer anderen überlegen erscheinen lässt
+  (abfällige Bemerkung, Augenrollen usw.), führt dazu, dass wir uns unsicher
+  fühlen und unsere Ego-Abwehr auslösen. \r
+
+  * Die eigene Perspektive hinterfragen:* Ein sicherer Raum ist ein Raum, in
+  dem wir unsere Gefühle und Gedanken ohne Angst vor Verurteilung erforschen
+  können. Diese Erkundung wird erschwert, wenn jemand anderes glaubt, dass er
+  Recht hat und dass im Gegensatz dazu jeder, der eine andere Frage hat, falsch
+  liegen muss. Wir müssen jede Diskussion mit der Bereitschaft beginnen, die
+  Dinge aus verschiedenen Blickwinkeln zu betrachten, unsere eigene Perspektive
+  zu hinterfragen und anzunehmen.  \r
+
+
+
+
 
   * *No fixing, advising, saving or correcting others:* when others feel we
   have an intention to change them, they are likely to feel intruded upon and to
