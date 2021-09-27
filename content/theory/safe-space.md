@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Creating Safe Space
-name: "Sicherer Raum "
+name: Sicherer Raum
 sortOrder: 7
 category: Daily practices
 intro: >-
