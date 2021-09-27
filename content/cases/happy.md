@@ -58,7 +58,7 @@ theory:
 
       * When they work
 
-      * Whether they are an activist, pragmatist, reflector or theorist  ([Honey and Mumford](https://www2.le.ac.uk/departments/doctoralcollege/training/eresources/teaching/theories/honey-mumford))
+      * Whether they are an activist, pragmatist, reflector or theorist  (Honey and Mumford)
 
       * Their 5 key strengths based on Strengthfinder (R)
 
