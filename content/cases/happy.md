@@ -63,13 +63,7 @@ theory:
       * Their 5 key strengths based on Strengthfinder (R)
 
 
-      The colours show their communication style, 
-
-
-      * when at ease (external circle) and 
-
-      * when under pressure (internal circle). 
-
+      The colours show their communication style, when at ease (*external circle*) and when under pressure (*internal circle*)
 
 
       * Red = Driver, 
