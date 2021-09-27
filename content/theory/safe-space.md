@@ -52,60 +52,137 @@ perspective: >-
 
 
   [Teal-Organisationen ](../teal-paradigm-and-organizations/) zielen darauf ab, einen sicheren Raum zu schaffen, in dem das Ego seine Abwehrkräfte lockern kann, so dass die Menschen sich voll und ganz zeigen können: ihr männliches und weibliches Selbst, ihr rationales, emotionales, intuitives und spirituelles Selbst sowie ihre Stärken und ihre Verletzlichkeit. (Kurz gesagt: Sicherheit für die Seele)
-inPractice: >-
-  ### Die Bedeutung eines sicheren Raums
+inPractice: "### Die Bedeutung eines sicheren Raums
 
 
-  In den meisten Organisationen - genau wie in den meisten Gruppen außerhalb der Arbeit - kann es sich riskant anfühlen, sich ganz zu zeigen. Fast jeder hat in seiner Kindheit gelernt, dass wir uns verletzlich fühlen, wenn wir unser wahres Gesicht zeigen, die Teile von uns, die wir am meisten schätzen: Wir öffnen uns für möglichen Spott und Hohn oder dafür, dass das, was wir teilen, gegen uns verwendet wird. Viel besser ist es also, auf Nummer sicher zu gehen, sich hinter einer professionellen Maske zu verstecken und sich so zu zeigen, wie wir wissen, dass es am Arbeitsplatz akzeptiert und erwartet wird.
+  In den meisten Organisationen - genau wie in den meisten Gruppen außerhalb
+  der Arbeit - kann es sich riskant anfühlen, sich ganz zu zeigen. Fast jeder
+  hat in seiner Kindheit gelernt, dass wir uns verletzlich fühlen, wenn wir
+  unser wahres Gesicht zeigen, die Teile von uns, die wir am meisten schätzen:
+  Wir öffnen uns für möglichen Spott und Hohn oder dafür, dass das, was wir
+  teilen, gegen uns verwendet wird. Viel besser ist es also, auf Nummer sicher
+  zu gehen, sich hinter einer professionellen Maske zu verstecken und sich so zu
+  zeigen, wie wir wissen, dass es am Arbeitsplatz akzeptiert und erwartet wird.
 
 
-  Diese Sicherheit hat ihren Preis: Wir schneiden uns vom Reichtum unserer Menschlichkeit ab. Am Arbeitsplatz ist die Maske, die wir meinen tragen zu müssen, oft mental, rational, männlich und egozentrisch. Wir schotten uns ab von unseren Gefühlen, unserer Intuition, unserem Körper, unserer weiblichen Seite. Wir hören nicht auf unsere innere Stimme, unsere Sehnsüchte, unsere Berufung, unsere Seele. Wir vernachlässigen unsere Fähigkeit zu Verbundenheit und Mitgefühl, zur Liebe für uns selbst, für andere und für alles Leben, das uns umgibt. Wir mögen uns sicher fühlen. Aber der Preis dafür ist ein Leben, das sich oft leer und seltsam leblos anfühlt.
+  Diese Sicherheit hat ihren Preis: Wir schneiden uns vom Reichtum unserer
+  Menschlichkeit ab. Am Arbeitsplatz ist die Maske, die wir meinen tragen zu
+  müssen, oft mental, rational, männlich und egozentrisch. Wir schotten uns ab
+  von unseren Gefühlen, unserer Intuition, unserem Körper, unserer weiblichen
+  Seite. Wir hören nicht auf unsere innere Stimme, unsere Sehnsüchte, unsere
+  Berufung, unsere Seele. Wir vernachlässigen unsere Fähigkeit zu Verbundenheit
+  und Mitgefühl, zur Liebe für uns selbst, für andere und für alles Leben, das
+  uns umgibt. Wir mögen uns sicher fühlen. Aber der Preis dafür ist ein Leben,
+  das sich oft leer und seltsam leblos anfühlt.
 
 
-  Die [Teal-Organisationen](../teal-paradigm-and-organizations/) sind zu der Erkenntnis gelangt, dass die Mitarbeiter, wenn sie so viel von sich selbst zurücklassen, auch einen großen Teil ihrer Leidenschaft, Kreativität und Energie zurücklassen. Sie sind darauf bedacht, ein sicheres Umfeld zu schaffen - einen sicheren Raum -, in dem die Mitarbeiterinnen das Gefühl haben, dass sie sich sicher in [Ganzheit](../wholeness/) zeigen können. 
+  Die [Teal-Organisationen](../teal-paradigm-and-organizations/) sind zu der
+  Erkenntnis gelangt, dass die Mitarbeiter, wenn sie so viel von sich selbst
+  zurücklassen, auch einen großen Teil ihrer Leidenschaft, Kreativität und
+  Energie zurücklassen. Sie sind darauf bedacht, ein sicheres Umfeld zu schaffen
+  - einen sicheren Raum -, in dem die Mitarbeiterinnen das Gefühl haben, dass
+  sie sich sicher in [Ganzheit](../wholeness/) zeigen können.\ 
 
 
-
-  ### Establishing ground rules
-
-
-  Creating safe workplaces starts with raising everybody’s awareness of the mindsets, words and actions that create or encourage a safe working environment. Some organizations find it is important to write a document that spells out detailed ground rules for how people interact within the organization. Such a document speaks of the kind of words and actions that are encouraged, and the kind of words and actions that are considered unacceptable, as well as the underlying assumptions and mindsets. One can view such detailed ground rules as taking the shared values that many organizations define, to the next level: if these are our values, what kind of behaviors do we want to encourage and which declare unacceptable?
+  ### Aufstellung von Grundregeln
 
 
-  Historically, many spiritual and wisdom traditions have elaborated rich traditions to create safe space—places that overcome fear and separation and invite into non-judgment and wholeness. Many contemporary thinkers have adapted or reinvented  similar principles and practices to create safe space within organizational realms, for instance in the space of organizational facilitation. Teal organizations often spend significant time training everyone in their ground rules, for example as part of a new colleague's [onboarding](../onboarding/), so that the ground holds are, as much as possible, upheld by everyone, without the need of a facilitator to enforce them.
+  \r
+
+  \r
+
+  Die Schaffung sicherer Arbeitsplätze beginnt mit der Sensibilisierung aller
+  Mitarbeiter für die Denkweisen, Worte und Handlungen, die ein sicheres
+  Arbeitsumfeld schaffen oder fördern. Einige Unternehmen halten es für wichtig,
+  ein Dokument zu verfassen, in dem detaillierte Grundregeln für den Umgang der
+  Mitarbeiter innerhalb des Unternehmens festgelegt sind. In einem solchen
+  Dokument wird festgehalten, welche Art von Worten und Handlungen erwünscht
+  sind und welche als inakzeptabel gelten, sowie die zugrunde liegenden Annahmen
+  und Denkweisen. Man kann solche detaillierten Grundregeln als Weiterführung
+  der gemeinsamen Werte betrachten, die viele Organisationen definieren: Wenn
+  dies unsere Werte sind, welche Verhaltensweisen wollen wir dann fördern und
+  welche für inakzeptabel erklären?\ 
+
+
+  Historically, many spiritual and wisdom traditions have elaborated rich
+  traditions to create safe space—places that overcome fear and separation and
+  invite into non-judgment and wholeness. Many contemporary thinkers have
+  adapted or reinvented  similar principles and practices to create safe space
+  within organizational realms, for instance in the space of organizational
+  facilitation. Teal organizations often spend significant time training
+  everyone in their ground rules, for example as part of a new colleague's
+  [onboarding](../onboarding/), so that the ground holds are, as much as
+  possible, upheld by everyone, without the need of a facilitator to enforce
+  them.
 
 
   Typical ground rules include
 
 
-  * *Speaking from "I":* rather than making interpretations and judging another person's actions or motivation, we try and put into words our own reactions, emotions, needs and requests.  
+  * *Speaking from \"I\":* rather than making interpretations and judging
+  another person's actions or motivation, we try and put into words our own
+  reactions, emotions, needs and requests. \ 
 
-  * *No fixing, advising, saving or correcting others:* when others feel we have an intention to change them, they are likely to feel intruded upon and to feel the space is no longer safe for them to show up as they are.  
+  * *No fixing, advising, saving or correcting others:* when others feel we
+  have an intention to change them, they are likely to feel intruded upon and to
+  feel the space is no longer safe for them to show up as they are. \ 
 
-  * *Accepting emotions*: many cultures especially in most organizations today are generally ill at ease with "negative" emotions such as anger, sadness or frustration (and sometimes even of "positive" emotions such as joy or empathy). When someone shares such an emotion, we are often quick to try and get the person to "get over" their emotion, thereby giving the message that someone's emotion is not welcome. 
+  * *Accepting emotions*: many cultures especially in most organizations today
+  are generally ill at ease with \"negative\" emotions such as anger, sadness or
+  frustration (and sometimes even of \"positive\" emotions such as joy or
+  empathy). When someone shares such an emotion, we are often quick to try and
+  get the person to \"get over\" their emotion, thereby giving the message that
+  someone's emotion is not welcome.\ 
 
-  * *Accepting conflict*: these cultures are also generally ill at ease with conflicts, that get quickly passed over. And yet, conflict is a natural consequence of the fact that as human beings, we all have different needs and perspectives. Having a well defined [conflict resolution process](../conflict-resolution/) in place is helpful, as well as clear guidelines to help deal with conflict gracefully. 
+  * *Accepting conflict*: these cultures are also generally ill at ease with
+  conflicts, that get quickly passed over. And yet, conflict is a natural
+  consequence of the fact that as human beings, we all have different needs and
+  perspectives. Having a well defined [conflict resolution
+  process](../conflict-resolution/) in place is helpful, as well as clear
+  guidelines to help deal with conflict gracefully.\ 
 
-  * *Avoiding demeaning speech and behaviors*: To feel safe, we need to feel that we are accepted as equals in value. Any form of -ism (sexism, racism, etc.) as well as any form, however subtle, that establishes that one person is superior to another (snide remark, rolling of the eyes, and so forth) will make us feel unsafe and trigger our ego defenses. 
+  * *Avoiding demeaning speech and behaviors*: To feel safe, we need to feel
+  that we are accepted as equals in value. Any form of -ism (sexism, racism,
+  etc.) as well as any form, however subtle, that establishes that one person is
+  superior to another (snide remark, rolling of the eyes, and so forth) will
+  make us feel unsafe and trigger our ego defenses.\ 
 
-  * *Questioning one's perspective:* A safe space is one where we can explore our feelings and thoughts without fear of judgment. That exploration is made difficult, if someone else believes they are right, and that by contrast, everyone with a different question must be wrong. We must enter every discussion with a willingness to see things from different perspectives, to question our own perspective and assumption..  
+  * *Questioning one's perspective:* A safe space is one where we can explore
+  our feelings and thoughts without fear of judgment. That exploration is made
+  difficult, if someone else believes they are right, and that by contrast,
+  everyone with a different question must be wrong. We must enter every
+  discussion with a willingness to see things from different perspectives, to
+  question our own perspective and assumption.. \ 
 
 
   ### Recurring moments to reaffirm ground rules
 
 
-  Unfortunately, we don't learn about how to create a safe space in school. Commonly writing a document with the ground rules for a safe space might be a helpful way for colleagues in the organization to steep themselves in this thinking. They can be used as a powerful training program during new colleagues' [onboarding process](../onboarding/). Many organizations find that this is not enough, though, for everyone to deeply integrate these ground rules in their mindsets and behaviors. It is useful to foresee recurring moments where the ground rules are reaffirmed, role modeled and explicitly enforced by a colleague taking on a facilitator's role. These recurring moments can include:
+  Unfortunately, we don't learn about how to create a safe space in school.
+  Commonly writing a document with the ground rules for a safe space might be a
+  helpful way for colleagues in the organization to steep themselves in this
+  thinking. They can be used as a powerful training program during new
+  colleagues' [onboarding process](../onboarding/). Many organizations find that
+  this is not enough, though, for everyone to deeply integrate these ground
+  rules in their mindsets and behaviors. It is useful to foresee recurring
+  moments where the ground rules are reaffirmed, role modeled and explicitly
+  enforced by a colleague taking on a facilitator's role. These recurring
+  moments can include:
 
 
-  * Important, recurring meetings (for instance quarterly all-hands meetings) 
+  * Important, recurring meetings (for instance quarterly all-hands
+  meetings)\ 
 
-  * Large group processes to [listen to an organizations' purpose](../listening-to-purpose/) (for instance using methodologies such as Theory U, Appreciative Inquiry, or Open Space) 
+  * Large group processes to [listen to an organizations'
+  purpose](../listening-to-purpose/) (for instance using methodologies such as
+  Theory U, Appreciative Inquiry, or Open Space)\ 
 
-  * Any meetings that promises to be difficult or touchy, where the presence of a facilitator might be helpful 
+  * Any meetings that promises to be difficult or touchy, where the presence
+  of a facilitator might be helpful\ 
 
-  * An annual "values day" 
+  * An annual \"values day\"\ 
 
-  * Any training program or workshop.
+  * Any training program or workshop."
 faq:
   - question: How can ground rules for a safe space be established? What is the role
       of the founder or "CEO" in the process?
