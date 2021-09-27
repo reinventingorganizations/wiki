@@ -94,4 +94,25 @@ theory:
 
 
       While the company does work to a P&L based on its financial year, there is very little time (at most one short meeting) spent on deciding the budget, as most of it is based on these metrics.
+  - topic: Commitment, Working Hours and Flexibility
+    title: People have complete control over hours
+    content: >-
+      “*People know what their responsibilities are*”, explains Henry Stewart,
+      the co-founder. “*They don’t need anybody else to tell them whether they
+      need to be in the office or not*.”
+
+
+      “I remember before the pandemic I was showing somebody around the office; he commented that only 5 out of our 25 staff members were in the office and asked where the others were. ‘I have no idea,’ I commented. People are judged by the results they deliver, not the amount of time they spend in the office.”
+
+
+      There are a range of flexible hours. Some work part-time. Some work compressed hours (eg, the full week in 4 days). There are no set hours, people work when they want around their responsibilities.
+
+
+      Around 2000 the leadership became aware that our admin team of 9 people wanted to work more flexibly. So they set out the terms, that there was a need for two more people in the office from 9 to 5.30 each day to answer the phone. People then decided between themselves when they would work, with some coming in at 6am (to avoid the London commute) and not many people working on Friday afternoons!
+
+
+      Nowadays it wouldn’t be the leadership who would set out the requirement; the team would do it by itself.
+
+
+      Decisions to be made on when people are in, and what meetings are for, are now all made within the team.
 ---
