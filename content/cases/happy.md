@@ -130,4 +130,28 @@ theory:
       This is now included in a four-monthly snapshot session with their M&M/coach, described here : 
 
       <https://www.linkedin.com/pulse/lets-get-rid-annual-appraisals-replace-them-snapshots-henry-stewart/>
+  - topic: Recruitment
+    title: Don't ask questions, get people to do the job
+    content: >-
+      One of Happy’s core principles is that recruitment should be based on
+      people’s ability to do the job, not how they talk about doing the job.
+
+
+      *Example of a Facilitator interview:* Happy interviews are organized in groups, with typically 6 people at once. They ask the people to do the job immediately, for instance facilitating a 20 min session. 
+
+      The group interviews allow Happy to see how people interact and whether they are positive and supportive of each other. The session shows whether they have the potential to train in the Happy style.
+
+      In the second interview they will take the person aside and give them some coaching on how to improve. They then go back and they see if they have responded to the feedback. Ability to learn is a key criterion.
+
+
+      Same for other roles : Happy puts people in the situation, and observes **competencies** (ability to do the job, or the potential to), **attitude** (not qualifications) and also **how they interact in teams** (recruitment is  made with 6 people to be sure that they will be able to regulate and self-manage themselves within their teams). 
+
+      Happy also aims for collaborative interviews, with as many as possible of the people who will work with the new recruits and then they provide a very detailed feedback to the people.
+
+
+      One of Happy’s core recruitment principles to have this working is : don't leave candidates to guess what is needed. Make it absolutely clear. 
+
+
+
+      More Happy recruitment principles can be found [here](https://happycomputers-my.sharepoint.com/:w:/g/personal/henry_happy_co_uk/ETBO383Or3hFsICB15Mvd2sB1_1FXt0yN4cH35OBlY0qtw?e=qcBFUj); the vision (purpose) and core values of the organization to be shared with candidates are very clear in this document.
 ---
