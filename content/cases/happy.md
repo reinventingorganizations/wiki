@@ -78,4 +78,16 @@ theory:
       The arrows indicate who coaches who.
 
       The chart is the work of two front-line staff who were pre-approved to come up with it.
+  - topic: Budgeting and Controlling
+    title: Metrics to align spending with income
+    content: >-
+      Some areas of the budget are fixed, such as rent, rates, service charge.
+
+      For flexible areas, we seek to use metrics that align with income such as trainer costs, manuals, food, ice cream. The trainer cost is expected to be at most 35% of income generated and the other costs at most 15% - giving a net profit of 50%.
+
+      In marketing it is expected that each pound spent generates 5x that in revenue.
+
+      These metrics enable each individual in the company to work to these ratios without needing any approval from above.
+
+      While the company does work to a P&L based on its financial year, there is very little time (at most one short meeting) spent on deciding the budget, as most of it is based on these metrics.
 ---
