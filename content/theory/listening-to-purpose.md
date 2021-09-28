@@ -88,4 +88,3 @@ relatedTheory:
   - Self-Management
   - Strategy
 ---
-TO BE REMOVED
