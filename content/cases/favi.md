@@ -378,7 +378,7 @@ theory:
       (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations
       Inspired by the Next Stage of Human Consciousness (Kindle Locations
       1704-1708). Nelson Parker. Kindle Edition.]"
-  - topic: Listening to Purpose
+  - topic: "A l'écoute de la raison d'être "
     title: soul searching prompted by a proposed order that came out of the blue
     content: "Early on in his tenure as CEO, Jean-François Zobrist invited all the
       factory employees to a meeting to figure out the organization’s raison
