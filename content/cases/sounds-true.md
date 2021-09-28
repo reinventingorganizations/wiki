@@ -11,7 +11,7 @@ geography: USA
 companySize: 1-100
 profit: Profit
 theory:
-  - topic: Listening to Purpose
+  - topic: "A l'écoute de la raison d'être "
     content: "Tami Simon, the founder of Sounds True, has found that spiritual
       practices have helped her develop her intuitive capacities, which she
       believes serves her well in her business:\r
