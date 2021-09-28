@@ -26,7 +26,7 @@ geography: Netherlands
 companySize: "> 500"
 profit: non-profit
 theory:
-  - topic: Listening to Purpose
+  - topic: "A l'écoute de la raison d'être "
     title: Buurtzorg + approach
     content: "Two nurses on a Buurtzorg team found themselves pondering the fact
       that elderly people, when they fall, often break their hips. Hip
