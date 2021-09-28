@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: "A l'écoute de la raison d'être "
-name: "A l'écoute de la raison d'être "
+name: Listening to purpose
 sortOrder: 10
 category: Daily practices
 intro: >-
