@@ -153,45 +153,62 @@ inPractice: "### Unser ganzes Selbst zur Arbeit bringen
   auf ihre Präsenz, ihre Gefühle und ihre Absichten.
 
 
-  ### Team supervision / Conflict resolution
+  ### Teamleitung/ Konfliktlösung
 
 
-  Working in teams, which is what most people do in [self-managing
-  ](../self-management/)organizations, invariably brings up tensions. Employees
-  run into colleagues with different styles, preferences, and belief systems.
-  They can choose, as most organizations do, to sweep the tensions under the
-  rug. Or they can choose to confront and address them. Doing so invariably
-  allows those involved to grow. When tensions and feelings are shared in a
-  productive and respectful way, issues can be identified and resolved for the
-  good of the organization. [Conflict resolution](../conflict-resolution/)
-  skills are thus often necessary to improve team work.
+  \r
+
+  \r
+
+  Die Arbeit in Teams, die die meisten Menschen in
+  [selbstverwalteten](../self-management/) Organisationen leisten, führt
+  unweigerlich zu Spannungen. Die Mitarbeiter treffen auf Kollegen mit
+  unterschiedlichen Stilen, Vorlieben und Glaubenssystemen. Sie können sich
+  dafür entscheiden, wie es die meisten Organisationen tun, die Spannungen unter
+  den Teppich zu kehren. Sie können sich aber auch dafür entscheiden, sie zu
+  konfrontieren und anzusprechen. Dies ermöglicht den Beteiligten, sich
+  weiterzuentwickeln. Wenn Spannungen und Gefühle in einer produktiven und
+  respektvollen Weise ausgetauscht werden, können Probleme erkannt und zum Wohle
+  der Organisation gelöst werden. [Fähigkeiten zur
+  Konfliktlösung](../conflict-resolution/) sind daher oft notwendig, um die
+  Teamarbeit zu verbessern.
 
 
   ### Storytelling
 
 
-  When we reveal more of who we are, we have an opportunity to create deep,
-  rich, and meaningful relationships. Many Teal organizations have found that
-  story telling, is an effective way of doing this.  Storytelling is woven into
-  many of the recurring practices of the organization.
+  Wenn wir mehr von uns preisgeben, haben wir die Möglichkeit, tiefe, reiche
+  und bedeutungsvolle Beziehungen zu schaffen. Viele Teal-Organisationen haben
+  festgestellt, dass das Erzählen von Geschichten ein wirksames Mittel ist, um
+  dies zu erreichen.  Das Erzählen von Geschichten ist in viele der
+  wiederkehrenden Praktiken der Organisation eingeflochten.
 
 
-  For example, at a staff retreat, a question might find its way into the
-  program:
+  Bei einer Mitarbeiterklausur könnte zum Beispiel eine Frage in das Programm
+  aufgenommen werden:
 
 
-  “Tell us about an elder who has been important in your life?”
+  \r
+
+  \r
+
+  \"Erzählen Sie uns von einem älteren Menschen, der in Ihrem Leben eine
+  wichtige Rolle gespielt hat?\"
 
 
-  “Tell us about the first dollar you ever earned?”
+  \r
+
+  \r
+
+  \"Erzählen Sie uns von dem ersten Geld, das Sie je verdient haben?\"
 
 
-  People are invited to share their stories if they want to. The practice is
-  simple and yet it allows people to share a defining moment with their
-  colleagues. Such questions can be built into recruitment, on boarding
-  processes, training workshops, annual evaluations, staff retreats, and large
-  group processes (such as Appreciative Inquiry, Theory U, Open Space, World
-  Cafe)."
+  Die Menschen sind eingeladen, ihre Geschichten zu erzählen, wenn sie das
+  möchten. Das Verfahren ist einfach und ermöglicht es den Mitarbeiterinnen,
+  einen entscheidenden Moment mit ihren Kollegen zu teilen. Solche Fragen können
+  in Einstellungs- und Einstellungsprozesse, Schulungsworkshops, jährliche
+  Beurteilungen, Mitarbeiterbesprechungen und Großgruppenprozesse (wie
+  Appreciative Inquiry, Theory U, Open Space, World Cafe) eingebaut werden."
 faq:
   - question: Aren't these practices time consuming?
     answer: "It’s a time-consuming practice for sure but generally when done
