@@ -125,28 +125,35 @@ inPractice: "#### Die Funktionsweise des Stimmungsmanagements
   ihren Platz finden, offen angenommen und wertgeschätzt werden.
 
 
-  ##### *Storytelling*
+  ##### *Storrytelling*
 
 
-  The stories people tell themselves and others reflect and reinforce mood.
-  They convey memorable instances of shared values at work. What mood do we wish
-  to share, and celebrate? Playfulness? Concentration? Prudence? Joy? Pride?
-  Care? Gratitude? Curiosity? Determination? If we are self-managed, this
-  selection is likely to be different for different people.
+  \r
+
+  \r
+
+  Die Geschichten, die Menschen sich selbst und anderen erzählen, spiegeln und
+  verstärken die Stimmung. Sie vermitteln einprägsame Beispiele für gemeinsame
+  Werte bei der Arbeit. Welche Stimmung wollen wir teilen und feiern?
+  Verspieltheit? Konzentriertheit? Besonnenheit? Freude? Stolz? Fürsorge?
+  Dankbarkeit? Neugierde? Entschlossenheit? Wenn wir uns selbst verwalten, wird
+  diese Auswahl wahrscheinlich für verschiedene Menschen unterschiedlich
+  ausfallen.
 
 
-  Gratitude is one of the most powerful moods. We are satisfied. We drop our
-  search for more. In this moment, we feel fulfilled. From that fullness, other
-  emotions naturally emerge. We experience joy and generosity; we treat others
-  with care. To nurture this consciously we need to discover and/or design
-  practices that evoke gratitude, or related moods.
+  Dankbarkeit ist eine der stärksten Stimmungen. Wir sind zufrieden. Wir geben
+  unsere Suche nach mehr auf. In diesem Moment fühlen wir uns erfüllt. Aus
+  dieser Fülle erwachsen ganz natürlich andere Gefühle. Wir erleben Freude und
+  Großzügigkeit; wir gehen achtsam mit anderen um. Um dies bewusst zu fördern,
+  müssen wir Praktiken entdecken und/oder entwickeln, die Dankbarkeit oder
+  ähnliche Stimmungen hervorrufen.
 
 
-  We can ask: What stories can we share that evoke the mood that serves us
-  best? In this fashion, [Teal
-  organizations](../teal-paradigm-and-organizations/) may create storytelling
-  practices that support and expand the mood of appreciation while strengthening
-  trust among the members.
+  Wir können fragen: Welche Geschichten können wir teilen, die die Stimmung
+  hervorrufen, die uns am besten dient? Auf diese Weise können
+  [Teal-Organisationen](../teal-paradigm-and-organizations/) Erzählpraktiken
+  entwickeln, die die Stimmung der Wertschätzung unterstützen und erweitern und
+  gleichzeitig das Vertrauen unter den Mitgliedern stärken.
 
 
   Storytelling practices take many forms:
