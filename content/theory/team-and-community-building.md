@@ -73,34 +73,51 @@ inPractice: "### Unser ganzes Selbst zur Arbeit bringen
   Aktivität für \"Teamtage\".
 
 
-  ### Reflective Practices
+  ### Reflektierende Praktiken
 
 
-  Large and small group reflective practices are used to help people grow
-  their ability to explore and develop an idea.
+  \r
+
+  \r
+
+  Reflexionsübungen in Groß- und Kleingruppen werden eingesetzt, um die
+  Fähigkeit der Teilnehmer zu fördern, eine Idee zu erforschen und zu
+  entwickeln.
 
 
-  When everyone can freely express their feelings, thoughts, emotions and
-  needs, space is created for everybody to be themselves and better understand
-  others. People learn to see each other in the light of their humanity and in
-  the beauty of their strengths and vulnerability.
+  \r
+
+  \r
+
+  Wenn jeder seine Gefühle, Gedanken, Emotionen und Bedürfnisse frei äußern
+  kann, entsteht ein Raum, in dem jeder er selbst sein und andere besser
+  verstehen kann. Die Menschen lernen, sich gegenseitig im Licht ihrer
+  Menschlichkeit und in der Schönheit ihrer Stärken und Verletzlichkeit zu
+  sehen.
 
 
-  An example practice is:
+  \r
+
+  \r
+
+  Ein Praxisbeispiel ist:
 
 
-  * A topic is selected and presented by someone. Then small groups of people
-  (between 6-10) share their reflections and feelings.\ 
+  * Ein Thema wird ausgewählt und von jemandem vorgestellt. Dann tauschen
+  kleine Gruppen (zwischen 6 und 10 Personen) ihre Überlegungen und Gefühle aus.
+  \r
 
-  * The facilitator establishes a few ground rules to create a safe space that
-  allows people to be authentic and vulnerable in their exploration.
+  * Der Moderator stellt einige Grundregeln auf, um einen sicheren Raum zu
+  schaffen, der es den Teilnehmern erlaubt, authentisch und verletzlich zu sein,
+  wenn sie das Thema erkunden.\r
 
-  * There is no scripted outcome to these meetings, no expected end product;
-  everyone comes out of the meeting with his or her own personal learning.
+  * Bei diesen Treffen gibt es kein vorgegebenes Ergebnis, kein erwartetes
+  Endprodukt; jeder verlässt das Treffen mit seinen eigenen persönlichen
+  Erkenntnissen.
 
 
-  Often, collective insights emerge, as well as decisions and initiatives that
-  are then carried out when people go back to work.
+  Oft ergeben sich daraus kollektive Erkenntnisse sowie Entscheidungen und
+  Initiativen, die dann bei der Rückkehr an den Arbeitsplatz umgesetzt werden.
 
 
   ### Peer coaching
