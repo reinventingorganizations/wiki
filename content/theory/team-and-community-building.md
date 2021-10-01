@@ -28,16 +28,16 @@ perspective: >-
   ### Rote Organisationen
 
 
-  In [Red organizations](../red-organizations/), teams are held by the leader’s charisma and his ability to transmit his energy and goals to his employees. The leader’s strength and power protects the community from its fears and worries about the outside world.
+  In [roten Organisationen](../red-organizations/) werden Teams durch das Charisma des Leiters und seine Fähigkeit, seine Energie und Ziele auf seine Mitarbeiter zu übertragen, zusammengehalten. Die Stärke und Macht der Führungskraft schützt die Gemeinschaft vor ihren Ängsten und Sorgen gegenüber der Außenwelt.
 
 
-  ### Amber organizations
+  ### Bernstein-Organisationen
 
 
-  In [Amber organizations](../amber-paradigm-and-organizations/), managers are responsible for the results of their teams. Instructions are given and clear parameters, processes and policies guide decision making. Team efficiency generally depends on the ability of its’ managers to communicate objectives in a clear and realistic way. Two way communication is often considered unnecessary. Employees often feel a strong sense of belonging to their organization and form close bonds within their peer group. People usually socialize with others at the same level in the organization.
+  In [bernsteinfarbenen Organisationen](../amber-paradigm-and-organizations/) sind die Führungskräfte für die Ergebnisse ihrer Teams verantwortlich. Es werden Anweisungen gegeben und klare Parameter, Prozesse und Richtlinien leiten die Entscheidungsfindung. Die Effizienz von Teams hängt im Allgemeinen von der Fähigkeit ihrer Führungskräfte ab, Ziele klar und realistisch zu kommunizieren. Eine wechselseitige Kommunikation wird oft als unnötig erachtet. Die Mitarbeiterinnen fühlen sich oft stark mit ihrem Unternehmen verbunden und knüpfen enge Bande innerhalb ihrer Peer-Group. In der Regel knüpft man Kontakte zu anderen Mitarbeitern der gleichen Ebene.
 
 
-  ### Orange organizations
+  ### Orange Organisation
 
 
   In [Orange organizations](../orange-paradigm-and-organizations/) teamwork skills are seen as a way to help improve employee performance and productivity. Orange organizations often promote team building activities and incorporate them into the fabric of the company. Team building is considered as a competitive activity. Events are sometimes designed to provide strong emotional experiences (facing challenges, extreme sports, parties, etc.) to bond people together. Learning about different personality types is often included so that people learn to adapt their behavior for the benefit of the team.
