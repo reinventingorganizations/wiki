@@ -71,25 +71,31 @@ perspective: "Jede historische Phase hat eine andere Sichtweise auf das
   Beteiligten zu befriedigen.
 
 
-  #### Teal organizations
+  #### Teal Organisationen
 
 
-  * Mood Management is seen as integral and crucial to the creation of a space
-  in which the intended outcomes can be achieved and the purpose of the
-  organization served.
+  \r
 
-  * In [Teal organizations ](../teal-paradigm-and-organizations/)the
-  combination of worthwhile purpose, self-direction and collaboration
-  contributes to elevated mood.
+  \r
 
-  * There is no HR function charged with 'mood management'. It is up to
-  individuals and groups to develop practices that enable them to work
-  harmoniously.
+  * Stimmungsmanagement wird als integraler Bestandteil und entscheidend für
+  die Schaffung eines Raums angesehen, in dem die beabsichtigten Ergebnisse
+  erreicht werden können und der Zweck der Organisation erfüllt wird.\r
 
-  * These practices may depart - sometimes radically - from traditional
-  organizations. New recruits may find this difficult at first.
+  * In [Teal-Organisationen] (../teal-paradigm-and-organizations/) trägt die
+  Kombination aus lohnenswertem Ziel, Selbststeuerung und Zusammenarbeit zu
+  einer besseren Stimmung bei.\r
 
-  * The best practices tend to be adopted across the organization."
+  * Es gibt keine Personalabteilung, die mit dem \"Stimmungsmanagement\"
+  beauftragt ist. Es ist Sache des Einzelnen und der Gruppe, Praktiken zu
+  entwickeln, die es ihnen ermöglichen, harmonisch zu arbeiten.\r
+
+  * Diese Praktiken können sich - manchmal radikal - von traditionellen
+  Organisationen unterscheiden. Für neue Mitarbeiter kann dies anfangs schwierig
+  sein.\r
+
+  * Die besten Praktiken werden in der Regel von der gesamten Organisation
+  übernommen."
 inPractice: >-
   #### The way mood management works
 
