@@ -227,18 +227,35 @@ inPractice: "#### Die Funktionsweise des Stimmungsmanagements
   Kollegen auf eine ganz andere Art. ([Sounds
   True](http://www.soundstrue.com/))"
 faq:
-  - question: In a company we need to make money to thrive! So why should we bother
-      with moods?
-    answer: >-
-      We certainly need money to thrive in a business. Should the questions be:
-      What else do we need? Does this get in the way of, or support, financial
-      health? 
+  - question: In einem Unternehmen müssen wir Geld verdienen, um zu überleben! Warum
+      sollten wir uns also mit Stimmungen befassen?
+    answer: "Wir brauchen sicherlich Geld, um in einem Unternehmen erfolgreich zu
+      sein. Sollten die Fragen lauten: Was brauchen wir sonst noch? Steht dies
+      der finanziellen Gesundheit im Wege oder unterstützt es sie?\ 
 
 
-      Many (especially younger employees) are disillusioned with what they perceive as an excessive focus on money; especially when it manifests as greed. The result is a widespread disengagement evident in surveys by [Gallup ](http://www.gallup.com/services/169328/q12-employee-engagement.aspx)and others. 
+      \r
+
+      \r
+
+      Viele (vor allem jüngere) Arbeitnehmer sind desillusioniert von dem,
+      was sie als übermäßige Konzentration auf Geld empfinden, vor allem, wenn
+      es sich als Gier manifestiert. Das Ergebnis ist ein weit verbreitetes
+      Desengagement, das in Umfragen von [Gallup
+      ](http://www.gallup.com/services/169328/q12-employee-engagement.aspx) und
+      anderen deutlich wird.\ 
 
 
-      A motivating work environment fosters financial success. [Teal organizations](../teal-paradigm-and-organizations/) offer this via more autonomy and more community in pursuit of worthwhile purpose. These are clear motivators. They elevate 'mood'; they foster engagement; which in turn can correlate with financial health.
+      \r
+
+      \r
+
+      Ein motivierendes Arbeitsumfeld begünstigt den finanziellen Erfolg.
+      [Teal-Organisationen](../teal-paradigm-and-organizations/) bieten dies
+      durch mehr Autonomie und mehr Gemeinschaft bei der Verfolgung eines
+      lohnenden Ziels. Dies sind klare Motivatoren. Sie heben die \"Stimmung\",
+      sie fördern das Engagement, was wiederum mit finanzieller Gesundheit
+      korrelieren kann."
   - question: Isn't it too personal to deal with staff's moods?
     answer: >-
       'To deal with' infers 'to manage by others'. In some styles of
