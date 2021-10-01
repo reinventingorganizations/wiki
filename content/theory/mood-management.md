@@ -2,54 +2,77 @@
 layout: article
 tags: theory
 key: Mood Management
-name: Mood Management
+name: Stimmungsmanagement
 sortOrder: 9
 category: Daily practices
-intro: Moods influence possibilities. The topic of mood management summarizes
-  how moods are dealt with in different types of organizations, and how
-  important it is to find ways in which moods that are supportive of the
-  intended outcomes are encouraged
-perspective: >-
-  Every historical stage has a distinct perspective on mood management, and
-  different practices:
+intro: Stimmungen beeinflussen Möglichkeiten. Das Thema Stimmungsmanagement
+  fasst zusammen, wie mit Stimmungen in verschiedenen Arten von Organisationen
+  umgegangen wird und wie wichtig es ist, Wege zu finden, wie Stimmungen, die
+  die angestrebten Ergebnisse unterstützen, gefördert werden.
+perspective: "Jede historische Phase hat eine andere Sichtweise auf das
+  Stimmungsmanagement und andere Praktiken:
 
 
-  #### Red organizations
+  #### Rote Organisationen\r
 
+  \r
 
-  In [Red Organizations ](../red-organizations/)mood management boils down to submission to the mood of the (tribal) chief and his “family”. They oversee the foot soldiers. Fear and submission keep the organization from disintegrating. 
+  In [roten Organisationen ](../red-organizations/)läuft das
+  Stimmungsmanagement darauf hinaus, sich der Stimmung des (Stammes-)Häuptlings
+  und seiner \"Familie\" zu unterwerfen. Sie beaufsichtigen die Fußsoldaten.
+  Furcht und Unterwerfung bewahren die Organisation vor dem Zerfall.\ 
 
 
   #### Amber organizations
 
 
-  In [Amber organizations](../amber-paradigm-and-organizations/) the most senior 'knows' what is best for those lower in the hierarchy. These expectations are managed via roles and rules. Rewards are for those who follow the rules, and punishments for those who don’t. People may value this order and predictability.
+  In [Amber organizations](../amber-paradigm-and-organizations/) the most
+  senior 'knows' what is best for those lower in the hierarchy. These
+  expectations are managed via roles and rules. Rewards are for those who follow
+  the rules, and punishments for those who don’t. People may value this order
+  and predictability.
 
 
   #### Orange organizations
 
 
-  In [Orange organizations](../orange-paradigm-and-organizations/) it's about planned and efficient outcomes. Incentives are commonly used to achieve these organizational outcomes. They are designed to motivate/reward certain kinds of action, but not necessarily the feelings, or moods, that go with them. 
+  In [Orange organizations](../orange-paradigm-and-organizations/) it's about
+  planned and efficient outcomes. Incentives are commonly used to achieve these
+  organizational outcomes. They are designed to motivate/reward certain kinds of
+  action, but not necessarily the feelings, or moods, that go with them.\ 
 
 
   #### Green organizations
 
 
-  In [Green organizations](../green-paradigm-and-organizations/) harmony, tolerance and equality are valued. Teams and their health are important. The purpose is to boost motivation. HR may operate via processes like culture initiatives, [360-degree feedback](https://en.wikipedia.org/wiki/360-degree_feedback) and employee satisfaction surveys. Now there is a conscious focus on mood appearing. There is often an effort to satisfy all stakeholder needs (or moods).
+  In [Green organizations](../green-paradigm-and-organizations/) harmony,
+  tolerance and equality are valued. Teams and their health are important. The
+  purpose is to boost motivation. HR may operate via processes like culture
+  initiatives, [360-degree
+  feedback](https://en.wikipedia.org/wiki/360-degree_feedback) and employee
+  satisfaction surveys. Now there is a conscious focus on mood appearing. There
+  is often an effort to satisfy all stakeholder needs (or moods).
 
 
   #### Teal organizations
 
 
-  * Mood Management is seen as integral and crucial to the creation of a space in which the intended outcomes can be achieved and the purpose of the organization served.
+  * Mood Management is seen as integral and crucial to the creation of a space
+  in which the intended outcomes can be achieved and the purpose of the
+  organization served.
 
-  * In [Teal organizations ](../teal-paradigm-and-organizations/)the combination of worthwhile purpose, self-direction and collaboration contributes to elevated mood.
+  * In [Teal organizations ](../teal-paradigm-and-organizations/)the
+  combination of worthwhile purpose, self-direction and collaboration
+  contributes to elevated mood.
 
-  * There is no HR function charged with 'mood management'. It is up to individuals and groups to develop practices that enable them to work harmoniously.
+  * There is no HR function charged with 'mood management'. It is up to
+  individuals and groups to develop practices that enable them to work
+  harmoniously.
 
-  * These practices may depart - sometimes radically - from traditional organizations. New recruits may find this difficult at first.
+  * These practices may depart - sometimes radically - from traditional
+  organizations. New recruits may find this difficult at first.
 
-  * The best practices tend to be adopted across the organization.
+  * The best practices tend to be adopted across the organization."
 inPractice: >-
   #### The way mood management works
 
