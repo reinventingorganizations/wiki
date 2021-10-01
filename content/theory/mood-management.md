@@ -256,17 +256,34 @@ faq:
       lohnenden Ziels. Dies sind klare Motivatoren. Sie heben die \"Stimmung\",
       sie fördern das Engagement, was wiederum mit finanzieller Gesundheit
       korrelieren kann."
-  - question: Isn't it too personal to deal with staff's moods?
-    answer: >-
-      'To deal with' infers 'to manage by others'. In some styles of
-      organization this has been via programs initiated by senior management or
-      HR.
+  - question: Ist es nicht zu persönlich, sich mit den Launen des Personals zu befassen?
+    answer: "Umgang mit\" bedeutet \"von anderen verwalten\". In einigen
+      Organisationsformen geschieht dies durch Programme, die von der
+      Geschäftsleitung oder der Personalabteilung initiiert werden.
 
 
-      In [Teal organizations](../teal-paradigm-and-organizations/) the practices that support elevated mood are often initiated by members and have optional participation. If staff can 'manage' their own practices, then the risk of being 'too personal' diminishes. It is fair to say, however, that new staff--especially senior ones--can find the move to a mood-sensitive organization difficult. This is a choice to be explored carefully during joining discussions.
+      \r
+
+      \r
+
+      In [Teal-Organisationen](../teal-paradigm-and-organizations/) werden
+      die Praktiken, die eine bessere Stimmung fördern, oft von den Mitgliedern
+      initiiert und können freiwillig mitgestaltet werden. Wenn die Mitarbeiter
+      ihre eigenen Praktiken \"managen\" können, sinkt das Risiko, dass sie \"zu
+      persönlich\" werden. Man kann jedoch behaupten, dass neuen
+      Mitarbeiterinnen - vor allem den älteren - der Wechsel zu einer
+      stimmungsbewussten Organisation schwer fallen kann. Dies ist eine
+      Entscheidung, die in den Einstellungsgesprächen sorgfältig erörtert werden
+      sollte.
 
 
-      If 'mood' determines the choices open to individuals, groups and organizations, it still ranks as an important consideration.
+      \r
+
+      \r
+
+      Wenn die \"Stimmung\" die Wahlmöglichkeiten für Einzelpersonen,
+      Gruppen und Organisationen bestimmt, ist sie immer noch eine wichtige
+      Überlegung."
 relatedTheory:
   - Culture and Values
   - Team and Community Building
