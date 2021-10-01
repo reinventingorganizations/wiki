@@ -46,7 +46,7 @@ perspective: >-
   ### Grüne Organisationen
 
 
-  In [Green organizations](../green-paradigm-and-organizations/), there is room for sharing feelings and emotions with colleagues. Fun and social activities are often organized so that people can get to know each other better. This increases understanding and confidence between peers. Team building is also designed to support the development of shared values and vision through bottom up processes. Team or community building activities are usually driven by HR initiatives. Green organizations also frequently invest in external community engagement and community building as part of their social responsibility strategy.
+  In [grünen Organisationen](../green-paradigm-and-organizations/) gibt es Raum für den Austausch von Gefühlen und Emotionen mit Kollegen. Oft werden lustige und soziale Aktivitäten organisiert, damit sich die Menschen besser kennenlernen können. Dies erhöht das Verständnis und das Vertrauen zwischen den Kolleginnen. Die Teambildung soll auch die Entwicklung gemeinsamer Werte und Visionen durch Bottom-up-Prozesse unterstützen. Team- oder Community-Building-Aktivitäten werden in der Regel durch Personalinitiativen vorangetrieben. Grüne Organisationen investieren auch häufig in externes Engagement und Gemeinschaftsbildung als Teil ihrer Strategie der sozialen Verantwortung.
 
 
   ### Teal organizations
