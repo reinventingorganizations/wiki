@@ -210,18 +210,20 @@ inPractice: "### Unser ganzes Selbst zur Arbeit bringen
   Beurteilungen, Mitarbeiterbesprechungen und Großgruppenprozesse (wie
   Appreciative Inquiry, Theory U, Open Space, World Cafe) eingebaut werden."
 faq:
-  - question: Aren't these practices time consuming?
-    answer: "It’s a time-consuming practice for sure but generally when done
-      continuously the benefits far outweigh the costs. The trust, empathy, and
-      compassion that build up the kind of practices expand well beyond the
-      confines of the meeting room. These feelings start to permeate the whole
-      organization.\r
+  - question: Sind diese Praktiken nicht zeitaufwendig?
+    answer: "Es ist sicherlich eine zeitaufwändige Praxis, aber wenn sie
+      kontinuierlich durchgeführt wird, überwiegen die Vorteile bei weitem die
+      Kosten. Das Vertrauen, das Einfühlungsvermögen und das Mitgefühl, die
+      durch solche Praktiken entstehen, gehen weit über die Grenzen des
+      Sitzungssaals hinaus. Diese Gefühle beginnen die gesamte Organisation zu
+      durchdringen.\r
 
       \r
 
-      Self-management requires people that have the courage and feeling
-      safe to speak up. Ensuring that employees are capable to express
-      themselves in genuine ways are very important, also for that reason."
+      Selbstmanagement erfordert Menschen, die den Mut haben und sich
+      sicher fühlen, ihre Meinung zu sagen. Auch aus diesem Grund ist es sehr
+      wichtig, dafür zu sorgen, dass die Mitarbeiter in der Lage sind, sich auf
+      authentische Weise auszudrücken."
 relatedTheory:
   - Culture and Values
   - Conflict resolution
