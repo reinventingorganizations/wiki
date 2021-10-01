@@ -19,18 +19,22 @@ perspective: "Jede historische Phase hat eine andere Sichtweise auf das
 
   In [roten Organisationen ](../red-organizations/)läuft das
   Stimmungsmanagement darauf hinaus, sich der Stimmung des (Stammes-)Häuptlings
-  und seiner \"Familie\" zu unterwerfen. Sie beaufsichtigen die Fußsoldaten.
+  und seiner \"Familie\" zu unterwerfen. Sie beaufsichtigen die Untergebenen.
   Furcht und Unterwerfung bewahren die Organisation vor dem Zerfall.\ 
 
 
-  #### Amber organizations
+  #### Bernstein-Organisationen
 
 
-  In [Amber organizations](../amber-paradigm-and-organizations/) the most
-  senior 'knows' what is best for those lower in the hierarchy. These
-  expectations are managed via roles and rules. Rewards are for those who follow
-  the rules, and punishments for those who don’t. People may value this order
-  and predictability.
+  \r
+
+  \r
+
+  In [bernsteinfarbene Organisationen](../amber-paradigm-and-organizations/)
+  \"weiß\" der Ranghöchste, was das Beste für die in der Hierarchie tiefer
+  Stehenden ist. Diese Erwartungen werden über Rollen und Regeln gesteuert. Wer
+  die Regeln befolgt, wird belohnt, wer sie nicht befolgt, wird bestraft. Die
+  Menschen mögen diese Ordnung und Vorhersehbarkeit schätzen.
 
 
   #### Orange organizations
