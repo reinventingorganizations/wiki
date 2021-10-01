@@ -156,25 +156,27 @@ inPractice: "#### Die Funktionsweise des Stimmungsmanagements
   gleichzeitig das Vertrauen unter den Mitgliedern stärken.
 
 
-  Storytelling practices take many forms:
+  Die Praxis des Storrytellings hat viele Formen:
 
 
-  * Starting meetings with each participant in turn sharing a brief story of
-  someone they had recently thanked or congratulated.
-  ([FAVI](http://www.favi.com/))\ 
+  * Zu Beginn der Sitzungen erzählt jeder Teilnehmer eine kurze Geschichte von
+  jemandem, dem er kürzlich gedankt oder gratuliert hat.
+  ([FAVI](http://www.favi.com/)) \r
 
-  * Coming back to work from a day off (which included the task of expressing
-  gratitude to somebody important in one's life), and sharing the experience
-  with colleagues. ([Ozvision](http://ozvision.com/))
+  * Wenn man von einem freien Tag zur Arbeit zurückkehrt (mit der Aufgabe,
+  jemandem, der einem wichtig ist, zu danken), und diese Erfahrung mit den
+  Kollegen teilt. ([Ozvision](http://ozvision.com/))\r
 
-  * The Friday afternoon “praise meeting” in a school: sharing stories of
-  kindness, courage, care, or professionalism as key to the school’s exceptional
-  learning culture. ([ESBZ](http://www.ev-schule-zentrum.de/aktuell/))
+  * Das \"Lobtreffen\" am Freitagnachmittag in einer Schule: Austausch von
+  Geschichten über Freundlichkeit, Mut, Fürsorge oder Professionalität als
+  Schlüssel zur außergewöhnlichen Lernkultur der Schule.
+  ([ESBZ](http://www.ev-schule-zentrum.de/aktuell/))\r
 
-  * The “Good Stuff Friday” e-mail: Started by one of the colleagues and sent
-  to the entire workforce thanking a colleague or department for something that
-  happened that week, or simply to share some good news. It invariably triggers
-  an avalanche of recognition. ([BerylHealth](http://www.berylhealth.com/))
+  * Die \"Good Stuff Friday\"-E-Mail: Sie wird von einem Kollegen initiiert
+  und an die gesamte Belegschaft geschickt, um einem Kollegen oder einer
+  Abteilung für etwas zu danken, das in dieser Woche passiert ist, oder einfach,
+  um gute Neuigkeiten mitzuteilen. Dies löst immer eine Lawine der Anerkennung
+  aus. ([BerylHealth](http://www.berylhealth.com/))
 
 
   ##### *Wholeness Events*
