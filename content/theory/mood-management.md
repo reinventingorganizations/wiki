@@ -179,37 +179,52 @@ inPractice: "#### Die Funktionsweise des Stimmungsmanagements
   aus. ([BerylHealth](http://www.berylhealth.com/))
 
 
-  ##### *Wholeness Events*
+  ##### *Wholeness-Events*
 
 
-  Moods are also created by shared experiences: especially if they are filled
-  with laughter, joy, fun, creativity, a feeling of trust, authenticity,
-  belonging, acceptance and recognition.
+  \r
+
+  \r
+
+  Stimmungen werden auch durch gemeinsame Erlebnisse erzeugt: vor allem, wenn
+  sie mit Lachen, Freude, Spaß, Kreativität, einem Gefühl von Vertrauen,
+  Authentizität, Zugehörigkeit, Akzeptanz und Anerkennung gefüllt sind.
 
 
-  Traditional organizations may sponsor events, too - typically by HR or the
-  CEO, for team building or similar. However, in a [Teal
-  organization](../teal-paradigm-and-organizations/) they usually emerge out of
-  the organization itself. When people feel safe enough to take the initiative,
-  it seems that these self-created and organized events emerge spontaneously. We
-  long, deep inside, to be in all of our humanity: the funny and the quirky, as
-  well as the serious and responsible.  Human connections emerge from these
-  places.
+  \r
+
+  \r
+
+  Auch in traditionellen Organisationen können Veranstaltungen gesponsert
+  werden - typischerweise von der Personalabteilung oder dem CEO, zur
+  Teambildung oder ähnlichem. In einer
+  [Teal-Organisation](../teal-paradigm-and-organizations/) entstehen sie jedoch
+  in der Regel aus der Organisation selbst heraus. Wenn die Menschen sich sicher
+  genug fühlen, um die Initiative zu ergreifen, scheinen diese selbst
+  geschaffenen und organisierten Veranstaltungen spontan zu entstehen. Tief in
+  unserem Inneren sehnen wir uns danach, unsere ganze Menschlichkeit auszuleben:
+  das Lustige und Skurrile ebenso wie das Ernste und Verantwortliche. An diesen
+  Orten entstehen menschliche Verbindungen.
 
 
-  Wholeness Events can be all kinds of things, like:
+  Ganzheitliche Veranstaltungen können alles Mögliche sein, z. B.:
 
 
-  * The self-organized “Art Salon” where everyone is invited to share an
-  artistic passion. Some display photographs and paintings. Others perform
-  (songs, dances, juggling ...), and so on. If people really enjoy themselves,
-  these can become regular institutions. ([Sounds
-  True](http://www.soundstrue.com/))\ 
+  \r
 
-  * Fun at breakfast by showing up in pajamas to celebrate spring: so much fun
-  was had at the premiere of this that now 90% of staff join in the annual
-  self-organized “Pajama Day”. It is a celebration of community, fun, and
-  getting to know colleagues in a completely different way. ([Sounds
+  \r
+
+  * Der selbst organisierte \"Kunstsalon\", bei dem jeder eingeladen ist,
+  seine künstlerische Leidenschaft zu teilen. Einige stellen Fotos und Gemälde
+  aus. Andere treten auf (Lieder, Tänze, Jonglage ...), und so weiter. Wenn die
+  Leute wirklich Spaß daran haben, können diese Veranstaltungen zu regelmäßigen
+  Institutionen werden. ([Sounds True](http://www.soundstrue.com/)) \r
+
+  * Spaß beim Frühstück, indem man in Pyjamas erscheint, um den Frühling zu
+  feiern: Bei der Premiere dieser Aktion gab es so viel Spaß, dass jetzt 90 %
+  der Mitarbeiter am jährlichen selbst organisierten \"Pyjama-Tag\" teilnehmen.
+  Es ist ein Fest der Gemeinschaft, des Spaßes und des Kennenlernens von
+  Kollegen auf eine ganz andere Art. ([Sounds
   True](http://www.soundstrue.com/))"
 faq:
   - question: In a company we need to make money to thrive! So why should we bother
