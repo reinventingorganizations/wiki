@@ -11,20 +11,21 @@ intro: Team- und Gemeinschaftsbildung ist ein Schlüsselfaktor für den Erfolg
   Gruppe ab. Dieser Abschnitt befasst sich mit verschiedenen Ansätzen und
   Möglichkeiten zur Stärkung der Bindungen innerhalb eines Teams.
 perspective: >-
-  In [Teal organizations](../teal-paradigm-and-organizations/), teams are guided
-  by a common [purpose ](../listening-to-purpose/)and a high level of awareness
-  and connectedness between employees. People share for the common good.
-  Weaknesses are seen as sensitivities (rather than flaws) that can help the
-  group learn and grow without the need for supervisors or managers. Tensions
-  freely rise up from within and are resolved at the heart of the team. As
-  organizations move towards Teal, the bonds between people become deeper,
-  stronger and more open.
+  In [Teal-Organisationen](../teal-paradigm-and-organizations/) werden die Teams
+  von einem gemeinsamen [Sinn](../listening-to-purpose/)und einem hohen Maß an
+  Bewusstsein und Verbundenheit zwischen den Mitarbeitern geleitet. Menschen
+  teilen für das Gemeinwohl. Schwächen werden als Empfindlichkeiten (und nicht
+  als Fehler) angesehen, die der Gruppe helfen können, zu lernen und zu wachsen,
+  ohne dass Vorgesetzte oder Managerinnen benötigt werden. Spannungen können von
+  innen heraus entstehen und werden im Herzen des Teams gelöst. Wenn sich
+  Organisationen in Richtung Teal bewegen, werden die Bindungen zwischen den
+  Menschen tiefer, stärker und offener.
 
 
-  Every historical stage has given birth to a distinct perspective on Team / Community building, and to very different practices:
+  Jede historische Etappe hat eine andere Sichtweise auf die Team- und Gemeinschaftsbildung und sehr unterschiedliche Praktiken hervorgebracht:
 
 
-  ### Red organizations
+  ### Rote Organisationen
 
 
   In [Red organizations](../red-organizations/), teams are held by the leader’s charisma and his ability to transmit his energy and goals to his employees. The leader’s strength and power protects the community from its fears and worries about the outside world.
