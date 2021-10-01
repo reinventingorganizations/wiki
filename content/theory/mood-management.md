@@ -13,7 +13,10 @@ perspective: "Jede historische Phase hat eine andere Sichtweise auf das
   Stimmungsmanagement und andere Praktiken:
 
 
-  #### Rote Organisationen\r
+  #### Rote Organisationen
+
+
+  \r
 
   \r
 
@@ -37,13 +40,18 @@ perspective: "Jede historische Phase hat eine andere Sichtweise auf das
   Menschen mögen diese Ordnung und Vorhersehbarkeit schätzen.
 
 
-  #### Orange organizations
+  #### Orange Organisationen
 
 
-  In [Orange organizations](../orange-paradigm-and-organizations/) it's about
-  planned and efficient outcomes. Incentives are commonly used to achieve these
-  organizational outcomes. They are designed to motivate/reward certain kinds of
-  action, but not necessarily the feelings, or moods, that go with them.\ 
+  \r
+
+  \r
+
+  In [orangenen Organisationen](../orange-paradigm-and-organizations/) geht es
+  um geplante und effiziente Ergebnisse. Anreize werden in der Regel eingesetzt,
+  um diese organisatorischen Ergebnisse zu erreichen. Sie sind so konzipiert,
+  dass sie bestimmte Arten von Handlungen motivieren/belohnen, aber nicht
+  unbedingt die damit verbundenen Gefühle oder Stimmungen.\ 
 
 
   #### Green organizations
