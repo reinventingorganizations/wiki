@@ -2,14 +2,14 @@
 layout: article
 tags: theory
 key: Listening to Purpose
-name: Listening to Purpose
+name: Auf den Sinn hören
 sortOrder: 10
 category: Daily practices
 intro: >-
   ![](/media/listening-to-purpose.jpg)
 
 
-  As described more fully in the Background article, “Evolutionary Purpose”, one of the defining characteristics of Teal organizations is how decision-making and actions are driven by a desire to fulfill the organization’s purpose, a purpose which evolves over time and which is distinct from maximizing profits or beating the competition. If we accept that an organization has its own energy, its own sense of direction, and that its members’ roles are to align with rather than dictate that direction, the question becomes, “How do we find out where it wants to go?” As a result, a critical organizational process in Teal organizations is what is often referred to as “Listening to Purpose.”
+  Wie im Hintergrundartikel "Evolutionärer Sinn" ausführlicher beschrieben, ist eines der bestimmenden Merkmale von Teal-Organisationen, dass Entscheidungen und Handlungen von dem Wunsch angetrieben werden, den Sinn der Organisation zu erfüllen, einen Sinn, der sich im Laufe der Zeit entwickelt und der sich von der Gewinnmaximierung oder dem Schlagen der Konkurrenz unterscheidet. Wenn wir davon ausgehen, dass eine Organisation ihre eigene Energie und ihre eigene Richtung hat und dass die Rolle ihrer Mitglieder darin besteht, sich an dieser Richtung auszurichten, anstatt sie zu diktieren, stellt sich die Frage: "Wie finden wir heraus, wohin sie gehen will?" Ein wichtiger organisatorischer Prozess in Teal-Organisationen ist daher das, was oft als "Listening to Purpose" bezeichnet wird.
 perspective: ""
 inPractice: >-
   #### Sensing Approaches
