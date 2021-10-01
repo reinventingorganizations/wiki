@@ -51,20 +51,21 @@ inPractice: "#### Sensing-Ansätze
   Kindle Edition:]
 
 
-  For an example of how this might work in practice, see “Concrete Examples
-  for Inspiration - Buurtzorg” below.
+  Ein Beispiel dafür, wie dies in der Praxis funktionieren könnte, finden Sie
+  weiter unten unter \"Konkrete Beispiele zur Inspiration - Buurtzorg\".
 
 
-  Brian goes on to say, “… getting clear on purpose is more like detective
-  work than like creative work. What you are looking for is already there,
-  waiting to be found— it is no more a decision than your child’s purpose is.
-  Simply ask yourself: “On the basis of our current context and the resources,
-  talents, and capacities at our disposal, the products or services we offer,
-  the history of the company and its market space, and so on, what’s the deepest
-  potential it can help create or manifest in the world? Why does the world need
-  it?”^\\[Robertson, Brian J. (2015-06-02). Holacracy: The New Management System
-  for a Rapidly Changing World (Kindle Locations 482-485). Henry Holt and Co..
-  Kindle Edition.]
+  Brian fährt fort: \"... sich über seine Bestimmung klar zu werden, ist eher
+  wie Detektivarbeit als wie kreative Arbeit. Was Sie suchen, ist bereits da und
+  wartet darauf, gefunden zu werden - es ist genauso wenig eine Entscheidung wie
+  die Bestimmung Ihres Kindes. Fragen Sie sich einfach: \"Welches ist das größte
+  Potenzial, das das Unternehmen auf der Grundlage unseres derzeitigen Kontextes
+  und der uns zur Verfügung stehenden Ressourcen, Talente und Kapazitäten, der
+  von uns angebotenen Produkte oder Dienstleistungen, der Geschichte des
+  Unternehmens und seines Markts usw. in der Welt schaffen oder manifestieren
+  kann? Warum braucht die Welt es?\"^\\[Übersetzung: Robertson, Brian J.
+  (2015-06-02). Holacracy: The New Management System for a Rapidly Changing
+  World (Kindle Locations 482-485). Henry Holt and Co.. Kindle Edition.]
 
 
   While people are naturally gifted sensors, we can increase our capacity to
