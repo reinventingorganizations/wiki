@@ -54,16 +54,21 @@ perspective: "Jede historische Phase hat eine andere Sichtweise auf das
   unbedingt die damit verbundenen Gefühle oder Stimmungen.\ 
 
 
-  #### Green organizations
+  #### Grüne Organisationen
 
 
-  In [Green organizations](../green-paradigm-and-organizations/) harmony,
-  tolerance and equality are valued. Teams and their health are important. The
-  purpose is to boost motivation. HR may operate via processes like culture
-  initiatives, [360-degree
-  feedback](https://en.wikipedia.org/wiki/360-degree_feedback) and employee
-  satisfaction surveys. Now there is a conscious focus on mood appearing. There
-  is often an effort to satisfy all stakeholder needs (or moods).
+  \r
+
+  \r
+
+  In [grünen Organisationen](../green-paradigm-and-organizations/) werden
+  Harmonie, Toleranz und Gleichheit geschätzt. Teams und ihre Gesundheit sind
+  wichtig. Das Ziel ist es, die Motivation zu steigern. Die Personalabteilung
+  kann mit Prozessen wie Kulturinitiativen, [360-Grad-Feedback]
+  (https://de.wikipedia.org/wiki/360%C2%B0-Feedback) und Umfragen zur
+  Mitarbeiterzufriedenheit arbeiten. Es wird nun bewusst auf die Stimmung
+  geachtet. Es wird oft versucht, alle Bedürfnisse (oder Stimmungen) der
+  Beteiligten zu befriedigen.
 
 
   #### Teal organizations
