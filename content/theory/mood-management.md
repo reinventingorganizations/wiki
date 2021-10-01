@@ -96,55 +96,112 @@ perspective: "Jede historische Phase hat eine andere Sichtweise auf das
 
   * Die besten Praktiken werden in der Regel von der gesamten Organisation
   übernommen."
-inPractice: >-
-  #### The way mood management works
+inPractice: "#### Die Funktionsweise des Stimmungsmanagements
 
 
-  [Teal organizations](../teal-paradigm-and-organizations/) recognize that mood mediates what is possible; that it predisposes certain courses of action, and closes off others. In [self-managed](../self-management/) organizations people value both autonomy and collaboration in pursuit of purpose. The practice of shared processes supports this. Purpose and practice conspire to produce a sense of shared belonging, alignment and potency. This sense of potency supports [innovation](../innovation-and-product-development/). People have ideas, seek support from colleagues and, when they work, share the enjoyment of their wider acceptance. These successes give rise to stories and practices. These, combined with 'wholeness events' are two contributors to the mood in the organization.
+  \r
+
+  \r
+
+  In [Teal-Organisationen](../teal-paradigm-and-organizations/) wird erkannt,
+  dass die Stimmung vermittelt, was möglich ist; dass sie bestimmte
+  Handlungsmöglichkeiten prädisponiert und andere ausschließt. In
+  [selbstverwalteten](../self-management/) Organisationen schätzen die Menschen
+  sowohl Autonomie als auch Zusammenarbeit bei der Verfolgung von Zielen. Die
+  Praxis der gemeinsamen Prozesse unterstützt dies. Sinn und Praxis führen zu
+  einem Gefühl der gemeinsamen Zugehörigkeit, Ausrichtung und Stärke. Dieses
+  Gefühl der Stärke unterstützt
+  [Innovation](../innovation-and-product-development/). Die Menschen haben
+  Ideen, suchen die Unterstützung von Kollegen und freuen sich, wenn sie
+  erfolgreich sind, über ihre breite Akzeptanz. Diese Erfolge führen zu
+  Geschichten und Praktiken. Zusammen mit \"Ganzheitsereignissen\" tragen diese
+  zur Stimmung in der Organisation bei.
 
 
-  Both may be used within hierarchical systems, too: they don’t depend on self-managing structures. But in Teal organizations they are more likely to arise from the inspiration of its members and their [shared values](../culture-and-values/). They may arise naturally, find their place, become openly adopted, and treasured.
+  Beide können auch in hierarchischen Systemen eingesetzt werden: Sie hängen
+  nicht von selbstverwaltenden Strukturen ab. Aber in Teal-Organisationen
+  entstehen sie eher aus der Inspiration der Mitglieder und ihren [gemeinsamen
+  Werten](../culture-and-values/). Sie können auf natürliche Weise entstehen,
+  ihren Platz finden, offen angenommen und wertgeschätzt werden.
 
 
   ##### *Storytelling*
 
 
-  The stories people tell themselves and others reflect and reinforce mood. They convey memorable instances of shared values at work. What mood do we wish to share, and celebrate? Playfulness? Concentration? Prudence? Joy? Pride? Care? Gratitude? Curiosity? Determination? If we are self-managed, this selection is likely to be different for different people.
+  The stories people tell themselves and others reflect and reinforce mood.
+  They convey memorable instances of shared values at work. What mood do we wish
+  to share, and celebrate? Playfulness? Concentration? Prudence? Joy? Pride?
+  Care? Gratitude? Curiosity? Determination? If we are self-managed, this
+  selection is likely to be different for different people.
 
 
-  Gratitude is one of the most powerful moods. We are satisfied. We drop our search for more. In this moment, we feel fulfilled. From that fullness, other emotions naturally emerge. We experience joy and generosity; we treat others with care. To nurture this consciously we need to discover and/or design practices that evoke gratitude, or related moods.
+  Gratitude is one of the most powerful moods. We are satisfied. We drop our
+  search for more. In this moment, we feel fulfilled. From that fullness, other
+  emotions naturally emerge. We experience joy and generosity; we treat others
+  with care. To nurture this consciously we need to discover and/or design
+  practices that evoke gratitude, or related moods.
 
 
-  We can ask: What stories can we share that evoke the mood that serves us best? In this fashion, [Teal organizations](../teal-paradigm-and-organizations/) may create storytelling practices that support and expand the mood of appreciation while strengthening trust among the members.
+  We can ask: What stories can we share that evoke the mood that serves us
+  best? In this fashion, [Teal
+  organizations](../teal-paradigm-and-organizations/) may create storytelling
+  practices that support and expand the mood of appreciation while strengthening
+  trust among the members.
 
 
   Storytelling practices take many forms:
 
 
-  * Starting meetings with each participant in turn sharing a brief story of someone they had recently thanked or congratulated. ([FAVI](http://www.favi.com/)) 
+  * Starting meetings with each participant in turn sharing a brief story of
+  someone they had recently thanked or congratulated.
+  ([FAVI](http://www.favi.com/))\ 
 
-  * Coming back to work from a day off (which included the task of expressing gratitude to somebody important in one's life), and sharing the experience with colleagues. ([Ozvision](http://ozvision.com/))
+  * Coming back to work from a day off (which included the task of expressing
+  gratitude to somebody important in one's life), and sharing the experience
+  with colleagues. ([Ozvision](http://ozvision.com/))
 
-  * The Friday afternoon “praise meeting” in a school: sharing stories of kindness, courage, care, or professionalism as key to the school’s exceptional learning culture. ([ESBZ](http://www.ev-schule-zentrum.de/aktuell/))
+  * The Friday afternoon “praise meeting” in a school: sharing stories of
+  kindness, courage, care, or professionalism as key to the school’s exceptional
+  learning culture. ([ESBZ](http://www.ev-schule-zentrum.de/aktuell/))
 
-  * The “Good Stuff Friday” e-mail: Started by one of the colleagues and sent to the entire workforce thanking a colleague or department for something that happened that week, or simply to share some good news. It invariably triggers an avalanche of recognition. ([BerylHealth](http://www.berylhealth.com/))
+  * The “Good Stuff Friday” e-mail: Started by one of the colleagues and sent
+  to the entire workforce thanking a colleague or department for something that
+  happened that week, or simply to share some good news. It invariably triggers
+  an avalanche of recognition. ([BerylHealth](http://www.berylhealth.com/))
 
 
   ##### *Wholeness Events*
 
 
-  Moods are also created by shared experiences: especially if they are filled with laughter, joy, fun, creativity, a feeling of trust, authenticity, belonging, acceptance and recognition.
+  Moods are also created by shared experiences: especially if they are filled
+  with laughter, joy, fun, creativity, a feeling of trust, authenticity,
+  belonging, acceptance and recognition.
 
 
-  Traditional organizations may sponsor events, too - typically by HR or the CEO, for team building or similar. However, in a [Teal organization](../teal-paradigm-and-organizations/) they usually emerge out of the organization itself. When people feel safe enough to take the initiative, it seems that these self-created and organized events emerge spontaneously. We long, deep inside, to be in all of our humanity: the funny and the quirky, as well as the serious and responsible.  Human connections emerge from these places.
+  Traditional organizations may sponsor events, too - typically by HR or the
+  CEO, for team building or similar. However, in a [Teal
+  organization](../teal-paradigm-and-organizations/) they usually emerge out of
+  the organization itself. When people feel safe enough to take the initiative,
+  it seems that these self-created and organized events emerge spontaneously. We
+  long, deep inside, to be in all of our humanity: the funny and the quirky, as
+  well as the serious and responsible.  Human connections emerge from these
+  places.
 
 
   Wholeness Events can be all kinds of things, like:
 
 
-  * The self-organized “Art Salon” where everyone is invited to share an artistic passion. Some display photographs and paintings. Others perform (songs, dances, juggling ...), and so on. If people really enjoy themselves, these can become regular institutions. ([Sounds True](http://www.soundstrue.com/)) 
+  * The self-organized “Art Salon” where everyone is invited to share an
+  artistic passion. Some display photographs and paintings. Others perform
+  (songs, dances, juggling ...), and so on. If people really enjoy themselves,
+  these can become regular institutions. ([Sounds
+  True](http://www.soundstrue.com/))\ 
 
-  * Fun at breakfast by showing up in pajamas to celebrate spring: so much fun was had at the premiere of this that now 90% of staff join in the annual self-organized “Pajama Day”. It is a celebration of community, fun, and getting to know colleagues in a completely different way. ([Sounds True](http://www.soundstrue.com/))
+  * Fun at breakfast by showing up in pajamas to celebrate spring: so much fun
+  was had at the premiere of this that now 90% of staff join in the annual
+  self-organized “Pajama Day”. It is a celebration of community, fun, and
+  getting to know colleagues in a completely different way. ([Sounds
+  True](http://www.soundstrue.com/))"
 faq:
   - question: In a company we need to make money to thrive! So why should we bother
       with moods?
