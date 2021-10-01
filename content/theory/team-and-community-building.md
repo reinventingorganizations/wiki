@@ -53,60 +53,104 @@ perspective: >-
 
 
   In [Teal-Organisationen](../teal-paradigm-and-organizations/) führt die Stärke der Verbindung zwischen den Menschen zu einem Umfeld, in dem die kollektive Intelligenz gefördert und beachtet wird. Jeder trägt auf seine Weise bei und erkennt, dass die Gruppe nur dann erfolgreich ist, wenn auch er selbst erfolgreich ist. Die Menschen werden dazu ermutigt, sich ganz in die Arbeit einzubringen und ihre Verletzlichkeit, Ideen und Stärken in einem vertrauensvollen Umfeld zu teilen. Sie wenden Praktiken an, die eine offene und vertrauensvolle Kommunikation unterstützen und die Kreativität am Arbeitsplatz fördern. Sie ermutigen auch oft dazu, sich Zeit zu nehmen, um durch Meditation oder stille Praktiken zur Ruhe zu kommen und nachzudenken.
-inPractice: >-
-  ### Bringing our whole selves to work
+inPractice: "### Unser ganzes Selbst zur Arbeit bringen
 
 
-  [Teal organizations](../teal-paradigm-and-organizations/) encourage practices and ways of working that honor the whole person. Feelings, thoughts, physical attributes and in some cases spiritual aspects of life are celebrated. Connection is supported by the development of a common language for people to express their feelings and thoughts. Teal organizations support community and team building by creating and attending to a [safe and open workplace](../safe-space/). Practices of group reflection are encouraged to develop collective intelligence. Team building becomes part of the day to day work of these organizations and is no longer a separate activity for "team away days".
+  \r
+
+  \r
+
+  Die [Teal-Organisationen](../teal-paradigm-and-organizations/) fördern
+  Praktiken und Arbeitsweisen, die den ganzen Menschen ehren. Gefühle, Gedanken,
+  körperliche Eigenschaften und in manchen Fällen auch spirituelle Aspekte des
+  Lebens werden gewürdigt. Durch die Entwicklung einer gemeinsamen Sprache, in
+  der die Menschen ihre Gefühle und Gedanken ausdrücken können, wird die
+  Verbindung gefördert. Teal-Organisationen unterstützen Gemeinschaft und
+  Teambildung durch die Schaffung und Pflege eines [sicheren und offenen
+  Arbeitsplatzes](../safe-space/). Praktiken der Gruppenreflexion werden
+  gefördert, um kollektive Intelligenz zu entwickeln. Teambildung wird Teil der
+  täglichen Arbeit dieser Organisationen und ist nicht länger eine gesonderte
+  Aktivität für \"Teamtage\".
 
 
   ### Reflective Practices
 
 
-  Large and small group reflective practices are used to help people grow their ability to explore and develop an idea.
+  Large and small group reflective practices are used to help people grow
+  their ability to explore and develop an idea.
 
 
-  When everyone can freely express their feelings, thoughts, emotions and needs, space is created for everybody to be themselves and better understand others. People learn to see each other in the light of their humanity and in the beauty of their strengths and vulnerability.
+  When everyone can freely express their feelings, thoughts, emotions and
+  needs, space is created for everybody to be themselves and better understand
+  others. People learn to see each other in the light of their humanity and in
+  the beauty of their strengths and vulnerability.
 
 
   An example practice is:
 
 
-  * A topic is selected and presented by someone. Then small groups of people (between 6-10) share their reflections and feelings. 
+  * A topic is selected and presented by someone. Then small groups of people
+  (between 6-10) share their reflections and feelings.\ 
 
-  * The facilitator establishes a few ground rules to create a safe space that allows people to be authentic and vulnerable in their exploration.
+  * The facilitator establishes a few ground rules to create a safe space that
+  allows people to be authentic and vulnerable in their exploration.
 
-  * There is no scripted outcome to these meetings, no expected end product; everyone comes out of the meeting with his or her own personal learning.
+  * There is no scripted outcome to these meetings, no expected end product;
+  everyone comes out of the meeting with his or her own personal learning.
 
 
-  Often, collective insights emerge, as well as decisions and initiatives that are then carried out when people go back to work.
+  Often, collective insights emerge, as well as decisions and initiatives that
+  are then carried out when people go back to work.
 
 
   ### Peer coaching
 
 
-  Peer coaching is a process that allows an individual to draw on the power of the team to address a specific issue. It is often a deeply nourishing process for the individual and valuable bonding experience for the team as they share their wisdom and knowledge.
+  Peer coaching is a process that allows an individual to draw on the power of
+  the team to address a specific issue. It is often a deeply nourishing process
+  for the individual and valuable bonding experience for the team as they share
+  their wisdom and knowledge.
 
 
   ### Silence
 
 
-  To listen to our inner wisdom , we need to find time to slow down and be still amidst the noise and buzz of the work place. Teal organizations typically support practices of mindfulness and silence in the workplace. Organizations like [Sounds True](http://www.soundstrue.com/) or [Heiligenfeld ](http://www.heiligenfeld.de/)offer space and time for silence or meditation, sometimes when the day starts, or at points during the working day. Collaborating in silence brings a special quality to relationships between colleagues. It requires a new level of mindfulness, listening less to what colleagues say, and more to their presence, feelings, and intentions.
+  To listen to our inner wisdom , we need to find time to slow down and be
+  still amidst the noise and buzz of the work place. Teal organizations
+  typically support practices of mindfulness and silence in the workplace.
+  Organizations like [Sounds True](http://www.soundstrue.com/) or [Heiligenfeld
+  ](http://www.heiligenfeld.de/)offer space and time for silence or meditation,
+  sometimes when the day starts, or at points during the working day.
+  Collaborating in silence brings a special quality to relationships between
+  colleagues. It requires a new level of mindfulness, listening less to what
+  colleagues say, and more to their presence, feelings, and intentions.
 
 
   ### Team supervision / Conflict resolution
 
 
-  Working in teams, which is what most people do in [self-managing ](../self-management/)organizations, invariably brings up tensions. Employees run into colleagues with different styles, preferences, and belief systems. They can choose, as most organizations do, to sweep the tensions under the rug. Or they can choose to confront and address them. Doing so invariably allows those involved to grow. When tensions and feelings are shared in a productive and respectful way, issues can be identified and resolved for the good of the organization. [Conflict resolution](../conflict-resolution/) skills are thus often necessary to improve team work.
+  Working in teams, which is what most people do in [self-managing
+  ](../self-management/)organizations, invariably brings up tensions. Employees
+  run into colleagues with different styles, preferences, and belief systems.
+  They can choose, as most organizations do, to sweep the tensions under the
+  rug. Or they can choose to confront and address them. Doing so invariably
+  allows those involved to grow. When tensions and feelings are shared in a
+  productive and respectful way, issues can be identified and resolved for the
+  good of the organization. [Conflict resolution](../conflict-resolution/)
+  skills are thus often necessary to improve team work.
 
 
   ### Storytelling
 
 
-  When we reveal more of who we are, we have an opportunity to create deep, rich, and meaningful relationships. Many Teal organizations have found that story telling, is an effective way of doing this.  Storytelling is woven into many of the recurring practices of the organization.
+  When we reveal more of who we are, we have an opportunity to create deep,
+  rich, and meaningful relationships. Many Teal organizations have found that
+  story telling, is an effective way of doing this.  Storytelling is woven into
+  many of the recurring practices of the organization.
 
 
-  For example, at a staff retreat, a question might find its way into the program:
+  For example, at a staff retreat, a question might find its way into the
+  program:
 
 
   “Tell us about an elder who has been important in your life?”
@@ -115,7 +159,12 @@ inPractice: >-
   “Tell us about the first dollar you ever earned?”
 
 
-  People are invited to share their stories if they want to. The practice is simple and yet it allows people to share a defining moment with their colleagues. Such questions can be built into recruitment, on boarding processes, training workshops, annual evaluations, staff retreats, and large group processes (such as Appreciative Inquiry, Theory U, Open Space, World Cafe).
+  People are invited to share their stories if they want to. The practice is
+  simple and yet it allows people to share a defining moment with their
+  colleagues. Such questions can be built into recruitment, on boarding
+  processes, training workshops, annual evaluations, staff retreats, and large
+  group processes (such as Appreciative Inquiry, Theory U, Open Space, World
+  Cafe)."
 faq:
   - question: Aren't these practices time consuming?
     answer: "It’s a time-consuming practice for sure but generally when done
