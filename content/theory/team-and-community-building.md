@@ -2,13 +2,14 @@
 layout: article
 tags: theory
 key: Team and Community Building
-name: Team and Community Building
+name: Team- und Gemeinschaftsbildung
 sortOrder: 8
 category: Daily practices
-intro: Team / Community Building is a key factor in group achievements. The
-  effectiveness of a team depends on the relationships between team members and
-  their appreciation of the collective consciousness of the group. This section
-  looks at different approaches and ways to strengthen the bonds within a team.
+intro: Team- und Gemeinschaftsbildung ist ein Schlüsselfaktor für den Erfolg
+  einer Gruppe. Die Effektivität eines Teams hängt von den Beziehungen zwischen
+  den Teammitgliedern und ihrer Wertschätzung für das kollektive Bewusstsein der
+  Gruppe ab. Dieser Abschnitt befasst sich mit verschiedenen Ansätzen und
+  Möglichkeiten zur Stärkung der Bindungen innerhalb eines Teams.
 perspective: >-
   In [Teal organizations](../teal-paradigm-and-organizations/), teams are guided
   by a common [purpose ](../listening-to-purpose/)and a high level of awareness
