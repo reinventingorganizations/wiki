@@ -91,8 +91,8 @@ perspective: "Jede historische Phase hat eine andere Sichtweise auf das
   entwickeln, die es ihnen ermöglichen, harmonisch zu arbeiten.\r
 
   * Diese Praktiken können sich - manchmal radikal - von traditionellen
-  Organisationen unterscheiden. Für neue Mitarbeiter kann dies anfangs schwierig
-  sein.\r
+  Organisationen unterscheiden. Für neue Mitarbeiterinnen kann dies anfangs
+  schwierig sein.\r
 
   * Die besten Praktiken werden in der Regel von der gesamten Organisation
   übernommen."
