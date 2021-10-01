@@ -37,10 +37,13 @@ perspective: >-
   In [bernsteinfarbenen Organisationen](../amber-paradigm-and-organizations/) sind die Führungskräfte für die Ergebnisse ihrer Teams verantwortlich. Es werden Anweisungen gegeben und klare Parameter, Prozesse und Richtlinien leiten die Entscheidungsfindung. Die Effizienz von Teams hängt im Allgemeinen von der Fähigkeit ihrer Führungskräfte ab, Ziele klar und realistisch zu kommunizieren. Eine wechselseitige Kommunikation wird oft als unnötig erachtet. Die Mitarbeiterinnen fühlen sich oft stark mit ihrem Unternehmen verbunden und knüpfen enge Bande innerhalb ihrer Peer-Group. In der Regel knüpft man Kontakte zu anderen Mitarbeitern der gleichen Ebene.
 
 
-  ### Orange Organisation
+  ### Orangene Organisationen
 
 
-  In [Orange organizations](../orange-paradigm-and-organizations/) teamwork skills are seen as a way to help improve employee performance and productivity. Orange organizations often promote team building activities and incorporate them into the fabric of the company. Team building is considered as a competitive activity. Events are sometimes designed to provide strong emotional experiences (facing challenges, extreme sports, parties, etc.) to bond people together. Learning about different personality types is often included so that people learn to adapt their behavior for the benefit of the team.
+  In [orangefarbenen Organisationen](../orange-paradigm-and-organizations/) wird die Fähigkeit zur Teamarbeit als ein Mittel zur Verbesserung der Leistung und Produktivität der Mitarbeiter angesehen. Orangefarbene Organisationen fördern häufig Teambuilding-Aktivitäten und integrieren sie in die Struktur des Unternehmens. Teambuilding wird als eine wettbewerbsorientierte Aktivität betrachtet. Die Veranstaltungen sind manchmal so konzipiert, dass sie starke emotionale Erlebnisse bieten (Herausforderungen, Extremsportarten, Partys usw.), um Menschen zusammenzuschweißen. Oft werden auch verschiedene Persönlichkeitstypen kennengelernt, damit die Mitarbeiter lernen, ihr Verhalten zum Nutzen des Teams anzupassen.
+
+
+  Übersetzt mit www.DeepL.com/Translator (kostenlose Version)
 
 
   ### Green organizations
