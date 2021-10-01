@@ -133,18 +133,24 @@ inPractice: "### Unser ganzes Selbst zur Arbeit bringen
   Erfahrung, da sie ihre Weisheit und ihr Wissen miteinander teilen.
 
 
-  ### Silence
+  ### Stille
 
 
-  To listen to our inner wisdom , we need to find time to slow down and be
-  still amidst the noise and buzz of the work place. Teal organizations
-  typically support practices of mindfulness and silence in the workplace.
-  Organizations like [Sounds True](http://www.soundstrue.com/) or [Heiligenfeld
-  ](http://www.heiligenfeld.de/)offer space and time for silence or meditation,
-  sometimes when the day starts, or at points during the working day.
-  Collaborating in silence brings a special quality to relationships between
-  colleagues. It requires a new level of mindfulness, listening less to what
-  colleagues say, and more to their presence, feelings, and intentions.
+  \r
+
+  \r
+
+  Um auf unsere innere Weisheit zu hören, müssen wir inmitten des Lärms und
+  der Hektik am Arbeitsplatz Zeit finden, um zu entschleunigen und still zu
+  werden. Grüne Organisationen unterstützen in der Regel Praktiken der
+  Achtsamkeit und Stille am Arbeitsplatz. Organisationen wie [Sounds
+  True](http://www.soundstrue.com/) oder [Heiligenfeld
+  ](http://www.heiligenfeld.de/) bieten Raum und Zeit für Stille oder
+  Meditation, manchmal zu Beginn des Tages oder zu bestimmten Zeiten während des
+  Arbeitstages. Die Zusammenarbeit in der Stille bringt eine besondere Qualität
+  in die Beziehungen zwischen Kollegen. Es erfordert eine neue Ebene der
+  Achtsamkeit, weniger auf das zu hören, was die Kollegen sagen, sondern mehr
+  auf ihre Präsenz, ihre Gefühle und ihre Absichten.
 
 
   ### Team supervision / Conflict resolution
