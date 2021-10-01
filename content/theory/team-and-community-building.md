@@ -149,7 +149,7 @@ inPractice: "### Unser ganzes Selbst zur Arbeit bringen
   Meditation, manchmal zu Beginn des Tages oder zu bestimmten Zeiten während des
   Arbeitstages. Die Zusammenarbeit in der Stille bringt eine besondere Qualität
   in die Beziehungen zwischen Kollegen. Es erfordert eine neue Ebene der
-  Achtsamkeit, weniger auf das zu hören, was die Kollegen sagen, sondern mehr
+  Achtsamkeit, weniger auf das zu hören, was die Kolleginnen sagen, sondern mehr
   auf ihre Präsenz, ihre Gefühle und ihre Absichten.
 
 
