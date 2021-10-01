@@ -49,10 +49,10 @@ perspective: >-
   In [grünen Organisationen](../green-paradigm-and-organizations/) gibt es Raum für den Austausch von Gefühlen und Emotionen mit Kollegen. Oft werden lustige und soziale Aktivitäten organisiert, damit sich die Menschen besser kennenlernen können. Dies erhöht das Verständnis und das Vertrauen zwischen den Kolleginnen. Die Teambildung soll auch die Entwicklung gemeinsamer Werte und Visionen durch Bottom-up-Prozesse unterstützen. Team- oder Community-Building-Aktivitäten werden in der Regel durch Personalinitiativen vorangetrieben. Grüne Organisationen investieren auch häufig in externes Engagement und Gemeinschaftsbildung als Teil ihrer Strategie der sozialen Verantwortung.
 
 
-  ### Teal organizations
+  ### Teal-Organisationen
 
 
-  In [Teal organizations](../teal-paradigm-and-organizations/), the strength of connection between people tends to produce an environment where collective intelligence is encouraged and listened to. Everyone contributes in their own way, recognizing that when the group thrives – they thrive. People are encouraged to bring all of themselves to work , sharing vulnerability, ideas and strengths in a trustful environment. They use practices that support open and trusting communication, encouraging creativity in the workplace. They also often encourage taking time to be still and reflective through meditation or silent practices.
+  In [Teal-Organisationen](../teal-paradigm-and-organizations/) führt die Stärke der Verbindung zwischen den Menschen zu einem Umfeld, in dem die kollektive Intelligenz gefördert und beachtet wird. Jeder trägt auf seine Weise bei und erkennt, dass die Gruppe nur dann erfolgreich ist, wenn auch er selbst erfolgreich ist. Die Menschen werden dazu ermutigt, sich ganz in die Arbeit einzubringen und ihre Verletzlichkeit, Ideen und Stärken in einem vertrauensvollen Umfeld zu teilen. Sie wenden Praktiken an, die eine offene und vertrauensvolle Kommunikation unterstützen und die Kreativität am Arbeitsplatz fördern. Sie ermutigen auch oft dazu, sich Zeit zu nehmen, um durch Meditation oder stille Praktiken zur Ruhe zu kommen und nachzudenken.
 inPractice: >-
   ### Bringing our whole selves to work
 
