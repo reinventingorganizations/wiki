@@ -40,13 +40,10 @@ perspective: >-
   ### Orangene Organisationen
 
 
-  In [orangefarbenen Organisationen](../orange-paradigm-and-organizations/) wird die Fähigkeit zur Teamarbeit als ein Mittel zur Verbesserung der Leistung und Produktivität der Mitarbeiter angesehen. Orangefarbene Organisationen fördern häufig Teambuilding-Aktivitäten und integrieren sie in die Struktur des Unternehmens. Teambuilding wird als eine wettbewerbsorientierte Aktivität betrachtet. Die Veranstaltungen sind manchmal so konzipiert, dass sie starke emotionale Erlebnisse bieten (Herausforderungen, Extremsportarten, Partys usw.), um Menschen zusammenzuschweißen. Oft werden auch verschiedene Persönlichkeitstypen kennengelernt, damit die Mitarbeiter lernen, ihr Verhalten zum Nutzen des Teams anzupassen.
+  In [orangefarbenen Organisationen](../orange-paradigm-and-organizations/) wird die Fähigkeit zur Teamarbeit als ein Mittel zur Verbesserung der Leistung und Produktivität der Mitarbeiter angesehen. Orangefarbene Organisationen fördern häufig Teambuilding-Aktivitäten und integrieren sie in die Struktur des Unternehmens. Teambuilding wird als eine wettbewerbsorientierte Aktivität betrachtet. Die Veranstaltungen sind manchmal so konzipiert, dass sie starke emotionale Erlebnisse bieten (Herausforderungen, Extremsportarten, Partys usw.), um Menschen zusammenzuschweißen. Oft werden auch verschiedene Persönlichkeitstypen kennengelernt, damit die Mitarbeiterinnen lernen, ihr Verhalten zum Nutzen des Teams anzupassen.
 
 
-  Übersetzt mit www.DeepL.com/Translator (kostenlose Version)
-
-
-  ### Green organizations
+  ### Grüne Organisationen
 
 
   In [Green organizations](../green-paradigm-and-organizations/), there is room for sharing feelings and emotions with colleagues. Fun and social activities are often organized so that people can get to know each other better. This increases understanding and confidence between peers. Team building is also designed to support the development of shared values and vision through bottom up processes. Team or community building activities are usually driven by HR initiatives. Green organizations also frequently invest in external community engagement and community building as part of their social responsibility strategy.
