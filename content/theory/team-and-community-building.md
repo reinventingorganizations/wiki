@@ -120,13 +120,17 @@ inPractice: "### Unser ganzes Selbst zur Arbeit bringen
   Initiativen, die dann bei der Rückkehr an den Arbeitsplatz umgesetzt werden.
 
 
-  ### Peer coaching
+  ### Peer-Coaching
 
 
-  Peer coaching is a process that allows an individual to draw on the power of
-  the team to address a specific issue. It is often a deeply nourishing process
-  for the individual and valuable bonding experience for the team as they share
-  their wisdom and knowledge.
+  \r
+
+  \r
+
+  Peer-Coaching ist ein Prozess, bei dem eine Einzelperson die Kraft des Teams
+  nutzen kann, um ein bestimmtes Problem anzugehen. Für den Einzelnen ist es oft
+  ein sehr bereichernder Prozess, und für das Team ist es eine wertvolle
+  Erfahrung, da sie ihre Weisheit und ihr Wissen miteinander teilen.
 
 
   ### Silence
