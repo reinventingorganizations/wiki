@@ -198,17 +198,18 @@ inPractice: "#### Sensing-Ansätze
   Human Consciousness (Kindle Locations 4470-4478). Nelson Parker. Kindle
   Edition.]"
 faq:
-  - question: How can we be sure the purpose is well known in the organization and
-      that the decision-making process is based on it?
-    answer: "One suggestion is to use tools like surveys or periodic group
-      discussions to address this issue. At Buurtzorg, Jos de Blok and others
-      talk about purpose all the time, but have never written down the
-      organization’s purpose in the form of a mission statement. They find that
-      keeping it oral keeps it alive and evolving and prevents it from becoming
-      constraining.^[Laloux, Frederic (2014-02-09). Reinventing Organizations: A
-      Guide to Creating Organizations Inspired by the Next Stage of Human
-      Consciousness (Kindle Locations 4352-4354). Nelson Parker. Kindle
-      Edition.]"
+  - question: Wie können wir sicher sein, dass der Sinn in der Organisation bekannt
+      ist und dass der Entscheidungsprozess darauf basiert?
+    answer: "Ein Vorschlag ist der Einsatz von Instrumenten wie Umfragen oder
+      regelmäßigen Gruppendiskussionen, um dieses Thema zu behandeln. Bei
+      Buurtzorg sprechen Jos de Blok und andere ständig über den Sinn, haben
+      aber den Sinn der Organisation nie in Form eines Leitbildes
+      niedergeschrieben. Sie sind der Meinung, dass ein mündliches Leitbild den
+      Zweck lebendig hält und weiterentwickelt und verhindert, dass er zu einem
+      Hindernis wird.^[Übersetzt aus Laloux, Frederic (2014-02-09). Reinventing
+      Organizations: A Guide to Creating Organizations Inspired by the Next
+      Stage of Human Consciousness (Kindle Locations 4352-4354). Nelson Parker.
+      Kindle Edition.]"
   - question: Do Teal organizations then abandon the traditional process of
       strategic planning?
     answer: See related article "[Strategy](../strategy/)" under "Major
