@@ -176,36 +176,54 @@ faq:
 
 
       *Morning Star ist eine Sammlung von natürlich dynamischen Hierarchien. Es gibt nicht nur eine formelle Hierarchie, sondern viele informelle Hierarchien. Bei jedem Thema haben einige Kollegen ein größeres Mitspracherecht als andere, je nach ihrem Fachwissen und ihrer Bereitschaft zu helfen. Es sind Hierarchien des Einflusses, nicht der Position, und sie werden von unten nach oben aufgebaut. Bei Morning Star erwirbt man Autorität, indem man sein Fachwissen unter Beweis stellt, seinen Kollegen hilft und einen Mehrwert schafft. Wenn man diese Dinge nicht mehr tut, schwindet der Einfluss - und damit auch das Gehalt.*^\[Übersetzt aus Gary Hamel, “First, Let’s Fire All the Managers,” Harvard Business Review, December 2011, http:// hbr.org/ 2011/ 12/ first-lets-fire-all-the-managers, accessed April 11, 2012.]
-  - question: Where can I find more articles about self-management ?
-    answer: >-
-      This particle article from targetteal.com, republished by Enlivening Edge
-      Magazine is going thru the following topics in 2 parts:
+  - question: Wo kann ich weitere Artikel über Selbstmanagement finden?
+    answer: "Dieser Artikel von targetteal.com, der vom Enlivening Edge Magazine neu
+      veröffentlicht wurde, behandelt die folgenden Themen in 2 Teilen:
 
 
-      **Part 1**
+      \r
+
+      \r
+
+      **Teil 1**
 
 
-      * Definition
+      \r
 
-      * Advantages and disadvantages
+      \r
 
-      * Examples
+      * Definition\r
 
-      * Myths about self-management
+      * Vorteile und Nachteile\r
+
+      * Beispiele\r
+
+      * Mythen über Selbstmanagement
 
 
-      **Part 2**
+      \r
+
+      **Teil 2**
 
 
-      * How you can self manage in the workplace
+      \r
 
-      * Self organized structures
+      \r
 
-      * Doubts and frequently asked questions
+      * Wie Sie sich am Arbeitsplatz selbst verwalten können\r
 
-      * Invitation
+      * Selbstorganisierte Strukturen\r
 
-        [https://www.enliveningedge.org/organizations/what-self-management-definition-advantages-examples-part-1/](<* https://www.enliveningedge.org/organizations/what-self-management-definition-advantages-examples-part-1/>)
+      * Zweifel und häufig gestellte Fragen\r
+
+      * Einladung
+
+
+      \ 
+      [https://www.enliveningedge.org/organizations/what-self-management-defini\
+      tion-advantages-examples-part-1/](<*
+      https://www.enliveningedge.org/organizations/what-self-management-definit\
+      ion-advantages-examples-part-1/>)"
   - question: Are there videos that can explain more about self-management?
     answer: "https://thejourney.reinventingorganizations.com/videos.html#4 contains
       a rich set of 10-20 minutes videos that cover the following kind of
