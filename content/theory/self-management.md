@@ -34,46 +34,73 @@ perspective: >-
 
 
   Organisationen in früheren Stadien scheinen auf der Annahme zu beruhen, dass man den Mitarbeitern nicht zutrauen kann, ohne Aufsicht im besten Interesse der Organisation zu handeln. Teal-Organisationen sind auf einem Fundament gegenseitigen Vertrauens aufgebaut. Arbeiter und Angestellte werden als vernünftige Menschen angesehen, die gute Arbeit leisten wollen und denen man vertrauen kann, dass sie das Richtige tun. Unter dieser Prämisse sind nur sehr wenige Regeln und Kontrollmechanismen erforderlich. Und die Mitarbeiter sind motiviert, außergewöhnliche Dinge zu leisten.
-inPractice: >-
-  Self-management in Teal comes about through a combination of innovative
-  structures and processes. These are described in detail throughout the wiki,
-  but a few are highlighted below:
+inPractice: "Die Selbstverwaltung in Teal wird durch eine Kombination von
+  innovativen Strukturen und Prozessen erreicht. Diese werden im Wiki
+  detailliert beschrieben, aber einige davon werden im Folgenden hervorgehoben:
 
 
-  #### Autonomous teams
+  #### Autonome Teams
 
 
-  The most common structure of Teal organizations are interdependent networks of small, autonomous teams. The nature of these networks will take a variety of forms, depending on the characteristics of their industry and environment, but all consist primarily of teams, usually 10-20 people, that self-organize and are not under the authority of anyone outside the team.
+  \r
+
+  \r
+
+  Die häufigste Struktur von Teal-Organisationen sind interdependente
+  Netzwerke kleiner, autonomer Teams. Diese Netze können je nach den Merkmalen
+  der Branche und des Umfelds unterschiedliche Formen annehmen, bestehen jedoch
+  in erster Linie aus Teams (in der Regel 10-20 Personen), die sich selbst
+  organisieren und niemandem außerhalb des Teams unterstellt sind.
 
 
   #### No bosses or organization chart
 
 
-  There are no fixed hierarchies of authority in Teal organizations. There are no bosses within or outside of the teams. The primacy of the boss-subordinate relationship is replaced with peer-based mutual commitments. Decision rights and power flow to any individual who has the expertise, interest, or willingness to step in and contribute to a situation. Fluid, natural hierarchies replace the fixed power hierarchies of the traditional pyramid - leaving the organization without an organizational chart. See also [Organizational Structure](../organizational-structure/).
+  There are no fixed hierarchies of authority in Teal organizations. There are
+  no bosses within or outside of the teams. The primacy of the boss-subordinate
+  relationship is replaced with peer-based mutual commitments. Decision rights
+  and power flow to any individual who has the expertise, interest, or
+  willingness to step in and contribute to a situation. Fluid, natural
+  hierarchies replace the fixed power hierarchies of the traditional pyramid -
+  leaving the organization without an organizational chart. See also
+  [Organizational Structure](../organizational-structure/).
 
 
   #### No job descriptions or job titles
 
 
-  There are typically no job descriptions or job titles in Teal organizations. Rather each individual has a number of roles that he/she has agreed to and committed to fulfill. When someone senses an issue or an opportunity that calls for a new role, someone simply steps forward and offers to take on that role. See also [Job Titles and Job Descriptions](../job-titles-and-job-descriptions/) and [Role Definition and Allocation](../role-definition-and-allocation/).
+  There are typically no job descriptions or job titles in Teal organizations.
+  Rather each individual has a number of roles that he/she has agreed to and
+  committed to fulfill. When someone senses an issue or an opportunity that
+  calls for a new role, someone simply steps forward and offers to take on that
+  role. See also [Job Titles and Job
+  Descriptions](../job-titles-and-job-descriptions/) and [Role Definition and
+  Allocation](../role-definition-and-allocation/).
 
 
   #### Distributed decision-making
 
 
-  Decision-making is highly distributed. Decisions do not need to be validated by the hierarchy nor by consensus of the community. Any person can make any decision after seeking advice from 1) everyone who will be meaningfully affected, and 2) people with expertise in the matter. See also [Decision Making](../decision-making/).
+  Decision-making is highly distributed. Decisions do not need to be validated
+  by the hierarchy nor by consensus of the community. Any person can make any
+  decision after seeking advice from 1) everyone who will be meaningfully
+  affected, and 2) people with expertise in the matter. See also [Decision
+  Making](../decision-making/).
 
 
   #### Open Information flow
 
 
-  Everybody is given access to all information at the same time. See also [Information Flow](../information-flow/).
+  Everybody is given access to all information at the same time. See also
+  [Information Flow](../information-flow/).
 
 
   #### Conflict resolution
 
 
-  Disagreements are resolved among peers using a well defined conflict resolution process. Peers hold each other accountable for their mutual commitments. See also [Conflict Resolution](../conflict-resolution/).
+  Disagreements are resolved among peers using a well defined conflict
+  resolution process. Peers hold each other accountable for their mutual
+  commitments. See also [Conflict Resolution](../conflict-resolution/)."
 faq:
   - question: Is there any evidence this actually works?
     answer: >-
