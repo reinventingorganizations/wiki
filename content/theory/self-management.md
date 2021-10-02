@@ -2,12 +2,12 @@
 layout: article
 tags: theory
 key: Self-Management
-name: Self-Management
+name: Selbstmanagement
 sortOrder: 1
 category: teal-concepts
 intro: >-
-  This article discusses one of the three fundamental innovations or
-  “breakthroughs” brought about by Teal organizations.
+  Dieser Artikel befasst sich mit einer der drei grundlegenden Innovationen oder
+  "Durchbrüche", die von Teal-Organisationen hervorgebracht wurden.
 
 
   ![](/media/2_058f-self-management-medium-small.png)
