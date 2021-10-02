@@ -79,35 +79,53 @@ inPractice: "#### Sensing-Ansätze
   für Inspiration - Sounds True\" weiter unten.
 
 
-  #### The Empty Chair
+  #### Der leere Stuhl
 
 
-  A simple, less esoteric practice to listen in to an organization’s purpose
-  consists of allocating an empty chair at any meeting to represent the
-  organization and its evolutionary purpose. Anybody participating in the
-  meeting can, at any time, change seats, to listen to and become the voice of
-  the organization. The empty chair can be used explicitly or as a guiding voice
-  in our heads. Here are some questions one might tune into while sitting in
-  that chair:
+  \r
+
+  \r
+
+  Eine einfache, weniger esoterische Praxis, um in den Zweck einer
+  Organisation hineinzuhören, besteht darin, bei jeder Sitzung einen leeren
+  Stuhl zu bestimmen, der die Organisation und ihren evolutionären Zweck
+  repräsentiert. Jeder, der an der Sitzung teilnimmt, kann jederzeit den Platz
+  wechseln, um die Stimme der Organisation zu hören und zu werden. Der leere
+  Stuhl kann explizit oder als eine leitende Stimme in unseren Köpfen verwendet
+  werden. Hier sind einige Fragen, auf die man sich einstimmen kann, während man
+  auf diesem Stuhl sitzt:
 
 
-  • Have the decisions and the discussion served you (the organization) well?
+  • Haben die Entscheidungen und die Diskussion Ihnen (der Organisation) gut
+  getan?
 
 
-  • How are you at the end of this meeting?
+  \r
+
+  \r
+
+  • Wie geht es Ihnen am Ende dieses Treffens?\r
 
 
-  • What stands out to you from today’s meeting?
+  \r
+
+  \r
+
+  • Was fällt Ihnen bei der heutigen Sitzung auf?
 
 
-  • In what direction do you want to go? At what speed? Are we being bold
-  enough? Too bold?
+  \r
+
+  \r
+
+  • In welche Richtung wollen Sie gehen? Mit welchem Tempo? Sind wir mutig
+  genug? Zu mutig?
 
 
-  • Is there something else that needs to be said or discussed?^\\[Laloux,
-  Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating
-  Organizations Inspired by the Next Stage of Human Consciousness (Kindle
-  Locations 4432-4437). Nelson Parker. Kindle Edition.]
+  • Gibt es noch etwas, das gesagt oder diskutiert werden muss?^\\[Übersetzt
+  aus Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to
+  Creating Organizations Inspired by the Next Stage of Human Consciousness
+  (Kindle Locations 4432-4437). Nelson Parker. Kindle Edition.]
 
 
   Heiligenfeld, an operator of mental health facilities in Germany, uses a
