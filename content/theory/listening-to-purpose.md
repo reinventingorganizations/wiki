@@ -163,18 +163,18 @@ inPractice: "#### Sensing-Ansätze
   Space\".
 
 
-  These processes are non-hierarchical and self-organizing. They often bring
-  the “whole system” into the room: all colleagues of an organization, whether a
-  few dozen, hundreds, or thousands, come together for a working session of one
-  or several days. Clients, partners, and suppliers can be invited to join, to
-  add their perspective to the inquiry. Each of these processes comes with its
-  particular format, but they have one thing in common: they achieve the
-  unlikely feat of giving everybody a voice (even when thousands of people are
-  involved), while at the same time channeling these voices toward a valuable
-  collective outcome.^\\[Laloux, Frederic (2014-02-09). Reinventing
-  Organizations: A Guide to Creating Organizations Inspired by the Next Stage of
-  Human Consciousness (Kindle Locations 4445-4454). Nelson Parker. Kindle
-  Edition.]
+  Diese Prozesse sind nicht-hierarchisch und selbstorganisierend. Sie bringen
+  oft das \"ganze System\" in den Raum: alle Kollegen einer Organisation, ob ein
+  paar Dutzend, Hunderte oder Tausende, kommen zu einer ein- oder mehrtägigen
+  Arbeitssitzung zusammen. Auch Kunden, Partner und Zulieferer können eingeladen
+  werden, um ihre Sichtweise in die Untersuchung einzubringen. Jeder dieser
+  Prozesse hat sein eigenes Format, aber sie haben eines gemeinsam: Sie schaffen
+  das unwahrscheinliche Kunststück, jedem eine Stimme zu geben (selbst wenn
+  Tausende von Menschen beteiligt sind) und gleichzeitig diese Stimmen auf ein
+  wertvolles kollektives Ergebnis zu lenken.^\\[Übersetzt aus Laloux, Frederic
+  (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations
+  Inspired by the Next Stage of Human Consciousness (Kindle Locations
+  4445-4454). Nelson Parker. Kindle Edition.]
 
 
   #### Outside Prompting
