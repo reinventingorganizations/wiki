@@ -146,16 +146,21 @@ inPractice: "#### Sensing-Ansätze
   Kindle Edition.]
 
 
-  #### Large Group Processes
+  #### Großgruppenprozesse
 
 
-  While the empty chair is typically used on a day-to-day basis, when an
-  organization faces a major inflection point, there are a number of more
-  elaborate processes that can help large groups of people to listen in jointly
-  to their organization’s purpose and sense of direction. These processes
-  include Otto Scharmer’s “Theory U,” David Cooperrider’s “Appreciative
-  Inquiry,” Marvin Weisbord and Sandra Janoff’s “Future Search,” “World Café,”
-  \"Liberating Structures\" and Harrison Owen’s “Open Space.”
+  \r
+
+  \r
+
+  Während der leere Stuhl in der Regel im Alltag eingesetzt wird, gibt es für
+  Organisationen, die vor einem wichtigen Wendepunkt stehen, eine Reihe von
+  ausgefeilteren Prozessen, die großen Gruppen von Menschen helfen können,
+  gemeinsam auf den Sinn und die Richtung ihrer Organisation zu hören. Zu diesen
+  Verfahren gehören Otto Scharmers \"Theory U\", David Cooperriders
+  \"Appreciative Inquiry\", Marvin Weisbord und Sandra Janoffs \"Future
+  Search\", \"World Café\", \"Liberating Structures\" und Harrison Owens \"Open
+  Space\".
 
 
   These processes are non-hierarchical and self-organizing. They often bring
