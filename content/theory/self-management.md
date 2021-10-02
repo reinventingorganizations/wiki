@@ -12,25 +12,28 @@ intro: >-
 
   ![](/media/2_058f-self-management-medium-small.png)
 perspective: >-
-  Leading scientists believe that the principal science of the next century will
-  be the study of complex, autocatalytic, self-organizing, non-linear, and
-  adaptive systems. This is usually referred to as “complexity” or “chaos
-  theory” (the Teal equivalent to Orange’s Newtonian science). But even though
-  we are only now starting to get our heads around it, self-management is not a
-  startling new invention by any means. It is the way life has operated in the
-  world for billions of years, bringing forth creatures and ecosystems so
-  magnificent and complex we can hardly comprehend them. Self-organization is
-  the life force of the world, thriving on the edge of chaos with just enough
-  order to funnel its energy, but not so much as to slow down adaptation and
-  learning.^[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide
-  to Creating Organizations Inspired by the Next Stage of Human Consciousness
-  (Kindle Locations 2997-3003). Nelson Parker. Kindle Edition.]
+  Führende Wissenschaftler sind der Ansicht, dass die wichtigste Wissenschaft
+  des nächsten Jahrhunderts das Studium komplexer, autokatalytischer,
+  selbstorganisierender, nichtlinearer und adaptiver Systeme sein wird. Dies
+  wird gewöhnlich als "Komplexität" oder "Chaostheorie" bezeichnet (das
+  Teal-Äquivalent zur Newtonschen Wissenschaft von Orange). Aber auch wenn wir
+  erst jetzt beginnen, es zu begreifen, ist das Selbstmanagement keineswegs eine
+  verblüffend neue Erfindung. Es ist die Art und Weise, wie das Leben in der
+  Welt seit Milliarden von Jahren funktioniert und Lebewesen und Ökosysteme
+  hervorgebracht hat, die so großartig und komplex sind, dass wir sie kaum
+  begreifen können. Selbstorganisation ist die Lebenskraft der Welt, die am
+  Rande des Chaos gedeiht, mit gerade genug Ordnung, um ihre Energie zu bündeln,
+  aber nicht so viel, dass sie die Anpassung und das Lernen
+  verlangsamt.^[Übersetzt aus Laloux, Frederic (2014-02-09). Reinventing
+  Organizations: A Guide to Creating Organizations Inspired by the Next Stage of
+  Human Consciousness (Kindle Locations 2997-3003). Nelson Parker. Kindle
+  Edition.]
 
 
-  All stages of organizations prior to Teal have relied on a hierarchical power structure, with certain people exerting authority over others. The concentration of power and decision-making at the top, separating colleagues into the powerful and the powerless, brings with it problems that have plagued organizations for as long as we can remember. Power in organizations is seen as a scarce commodity worth fighting for. This situation invariably brings out the shadowy side of human nature: personal ambition, politics, mistrust, fear, and greed. At the bottom of organizations, it often evokes the twin brothers of powerlessness: resignation and resentment. The widespread lack of motivation we witness in many organizations is a devastating side effect of the unequal distribution of power. For a few lucky people, work is a place of joyful self-expression, a place of camaraderie with colleagues in pursuit of a meaningful purpose. For far too many, it is simply drudgery, a few hours of life “rented out” every day in exchange for a paycheck. The story of the global workforce is a sad tale of wasted talent and energy.^[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 1416-1423). Nelson Parker. Kindle Edition.] ^[A 2012 survey conducted by Tower Watson, a human resources consulting firm polled 32,000 workers in the corporate sector in 29 countries to measure employee engagement (as well as the key factors contributing to engagement, such as confidence in senior management and the perceived interest by senior management in employee well-being). The overarching conclusion: just around a third of people are engaged in their work (35 percent). Many more people are “detached” or actively “disengaged” (43 percent). The remaining 22 percent feel “unsupported.”] ^[For a deep discussion of what motivates the modern worker, see Drive: The Surprising Truth About What Motivates Us by Daniel Pink, Riverhead Hardcover, 2009.]
+  Alle vor Teal entstandenen Organisationen basierten auf einer hierarchischen Machtstruktur, in der bestimmte Personen Autorität über andere ausübten. Die Konzentration von Macht und Entscheidungsfindung an der Spitze, die die Kollegen in Mächtige und Ohnmächtige trennt, bringt Probleme mit sich, die Organisationen schon seit Menschengedenken plagen. Macht wird in Organisationen als ein knappes Gut angesehen, um das es sich zu kämpfen lohnt. Diese Situation bringt unweigerlich die Schattenseiten der menschlichen Natur zum Vorschein: persönlicher Ehrgeiz, Politik, Misstrauen, Angst und Gier. An der Basis von Organisationen ruft sie oft die Zwillingsbrüder der Machtlosigkeit hervor: Resignation und Verbitterung. Der weit verbreitete Mangel an Motivation, den wir in vielen Unternehmen beobachten, ist eine verheerende Nebenwirkung der ungleichen Machtverteilung. Für einige wenige glückliche Menschen ist die Arbeit ein Ort der freudigen Selbstverwirklichung, ein Ort der Kameradschaft mit Kolleginnen in Verfolgung eines sinnvollen Ziels. Für viel zu viele ist es einfach nur Plackerei, ein paar Stunden des Lebens, die sie jeden Tag im Austausch für einen Gehaltsscheck "vermieten". Die Geschichte der globalen Arbeitnehmerschaft ist eine traurige Geschichte von verschwendetem Talent und Energie.^[Übersetzt aus Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 1416-1423). Nelson Parker. Kindle Edition.] ^[In einer 2012 von Tower Watson, einem Personalberatungsunternehmen, durchgeführten Umfrage wurden 32.000 Beschäftigte in Unternehmen in 29 Ländern befragt, um das Engagement der Mitarbeiter zu messen (sowie die Schlüsselfaktoren, die zum Engagement beitragen, wie das Vertrauen in die Unternehmensleitung und das wahrgenommene Interesse der Unternehmensleitung am Wohlergehen der Mitarbeiter). Die übergreifende Schlussfolgerung: Nur etwa ein Drittel der Menschen ist bei ihrer Arbeit engagiert (35 Prozent). Viel mehr Menschen sind "distanziert" oder aktiv "unengagiert" (43 Prozent). Die restlichen 22 Prozent fühlen sich "nicht unterstützt".] ^[Eine ausführliche Diskussion darüber, was den modernen Arbeitnehmer motiviert, finden Sie unter Drive: The Surprising Truth About What Motivates Us by Daniel Pink, Riverhead Hardcover, 2009.]
 
 
-  Earlier stage organizations are seemingly built on the assumption that people cannot be trusted to act in the organization’s best interest without supervision. Teal Organizations are built on a foundation of mutual trust. Workers and employees are seen as reasonable people that want to do good work and can be trusted to do the right thing. With that premise, very few rules and control mechanisms are needed. And employees are energized to make extraordinary things happen.
+  Organisationen in früheren Stadien scheinen auf der Annahme zu beruhen, dass man den Mitarbeitern nicht zutrauen kann, ohne Aufsicht im besten Interesse der Organisation zu handeln. Teal-Organisationen sind auf einem Fundament gegenseitigen Vertrauens aufgebaut. Arbeiter und Angestellte werden als vernünftige Menschen angesehen, die gute Arbeit leisten wollen und denen man vertrauen kann, dass sie das Richtige tun. Unter dieser Prämisse sind nur sehr wenige Regeln und Kontrollmechanismen erforderlich. Und die Mitarbeiter sind motiviert, außergewöhnliche Dinge zu leisten.
 inPractice: >-
   Self-management in Teal comes about through a combination of innovative
   structures and processes. These are described in detail throughout the wiki,
