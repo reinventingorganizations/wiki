@@ -159,22 +159,23 @@ faq:
       (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations
       Inspired by the Next Stage of Human Consciousness (Kindle Locations
       1431-1433). Nelson Parker. Kindle Edition.]"
-  - question: Does this mean that everyone is equal?
+  - question: Heißt das, dass alle gleich sind?
     answer: >-
-      In Teal Organizations: the point is not to make everyone equal; it is to
-      allow all employees to grow into the strongest, healthiest version of
-      themselves. Gone is the dominator hierarchy (the structure where bosses
-      hold power over their subordinates). And precisely for that reason, lots
-      of natural, evolving, overlapping hierarchies can emerge— hierarchies of
-      development, skill, talent, expertise, and recognition, for example. This
-      is a point that management author Gary Hamel noted about Morning
-      Star:^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide
-      to Creating Organizations Inspired by the Next Stage of Human
-      Consciousness (Kindle Locations 3050-3058). Nelson Parker. Kindle
-      Edition.]
+      In Teal-Organizationen geht es nicht darum, alle gleich zu machen, sondern
+      allen Mitarbeitern die Möglichkeit zu geben, sich zu der stärksten und
+      gesündesten Version ihrer selbst zu entwickeln. Die Herrscherhierarchie
+      (die Struktur, in der Chefs Macht über ihre Untergebenen haben) ist
+      verschwunden. Und genau aus diesem Grund können viele natürliche, sich
+      entwickelnde, sich überschneidende Hierarchien entstehen - Hierarchien der
+      Entwicklung, der Fähigkeiten, des Talents, des Fachwissens und der
+      Anerkennung (Dies ist ein Punkt, den der Management-Autor Gary Hamel über
+      Morning Star bemerkte.)^\[Übersetzt aus Laloux, Frederic (2014-02-09).
+      Reinventing Organizations: A Guide to Creating Organizations Inspired by
+      the Next Stage of Human Consciousness (Kindle Locations 3050-3058). Nelson
+      Parker. Kindle Edition.]
 
 
-      *Morning Star is a collection of naturally dynamic hierarchies. There isn’t one formal hierarchy; there are many informal ones. On any issue some colleagues will have a bigger say than others will, depending on their expertise and willingness to help. These are hierarchies of influence, not position, and they’re built from the bottom up. At Morning Star one accumulates authority by demonstrating expertise, helping peers, and adding value. Stop doing those things, and your influence wanes— as will your pay.*^\[Gary Hamel, “First, Let’s Fire All the Managers,” Harvard Business Review, December 2011, http:// hbr.org/ 2011/ 12/ first-lets-fire-all-the-managers, accessed April 11, 2012.]
+      *Morning Star ist eine Sammlung von natürlich dynamischen Hierarchien. Es gibt nicht nur eine formelle Hierarchie, sondern viele informelle Hierarchien. Bei jedem Thema haben einige Kollegen ein größeres Mitspracherecht als andere, je nach ihrem Fachwissen und ihrer Bereitschaft zu helfen. Es sind Hierarchien des Einflusses, nicht der Position, und sie werden von unten nach oben aufgebaut. Bei Morning Star erwirbt man Autorität, indem man sein Fachwissen unter Beweis stellt, seinen Kollegen hilft und einen Mehrwert schafft. Wenn man diese Dinge nicht mehr tut, schwindet der Einfluss - und damit auch das Gehalt.*^\[Übersetzt aus Gary Hamel, “First, Let’s Fire All the Managers,” Harvard Business Review, December 2011, http:// hbr.org/ 2011/ 12/ first-lets-fire-all-the-managers, accessed April 11, 2012.]
   - question: Where can I find more articles about self-management ?
     answer: >-
       This particle article from targetteal.com, republished by Enlivening Edge
