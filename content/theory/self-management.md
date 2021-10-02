@@ -124,25 +124,27 @@ inPractice: "Die Selbstverwaltung in Teal wird durch eine Kombination von
   gegenseitigen Verpflichtungen zur Rechenschaft. Siehe auch
   [Konfliktlösung](../conflict-resolution/)."
 faq:
-  - question: Is there any evidence this actually works?
+  - question: Gibt es irgendwelche Beweise dafür, dass dies tatsächlich funktioniert?
     answer: >-
-      A 2009 Ernst & Young study found that Buurtzorg (see “Concrete examples
-      for inspiration” below) requires, on average, close to 40 percent fewer
-      hours of care per client than other nursing organizations— which is ironic
-      when you consider that nurses in Buurtzorg take time for coffee and talk
-      with the patients, their families, and neighbors, while other nursing
-      organizations have come to time “products” in minutes. Patients stay in
-      care only half as long,heal faster, and become more autonomous. A third of
-      emergency hospital admissions are avoided, and when a patient does need to
-      be admitted to the hospital, the average stay is shorter. The savings for
-      the Dutch social security system are considerable— Ernst & Young estimates
-      that close to € 2 billion would be saved in the Netherlands every year if
-      all home care organizations achieved Buurtzorg’s results. Scaled to the US
-      population, this savings would be equivalent to roughly $ 49
-      billion^[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide
-      to Creating Organizations Inspired by the Next Stage of Human
-      Consciousness (Kindle Locations 1521-1527). Nelson Parker. Kindle
-      Edition.]
+      Eine Studie von Ernst & Young aus dem Jahr 2009 ergab, dass Buurtzorg
+      (siehe "Konkrete Beispiele zur Inspiration" weiter unten) im Durchschnitt
+      fast 40 Prozent weniger Pflegestunden pro Klient benötigt als andere
+      Pflegeorganisationen - eine Ironie des Schicksals, wenn man bedenkt, dass
+      sich die Krankenschwestern in Buurtzorg Zeit für einen Kaffee nehmen und
+      mit den Patienten, ihren Familien und Nachbarn sprechen, während andere
+      Pflegeorganisationen "Produkte" in Minuten abrechnen. Die Patienten
+      bleiben nur halb so lange in der Pflege, heilen schneller und werden
+      selbständiger. Ein Drittel der Notfalleinweisungen ins Krankenhaus wird
+      vermieden, und wenn ein Patient doch ins Krankenhaus eingeliefert werden
+      muss, ist der durchschnittliche Aufenthalt kürzer. Die Einsparungen für
+      das niederländische Sozialversicherungssystem sind beträchtlich - Ernst &
+      Young schätzt, dass in den Niederlanden jedes Jahr fast 2 Milliarden Euro
+      eingespart werden könnten, wenn alle häuslichen Pflegeeinrichtungen die
+      Ergebnisse von Buurtzorg erreichen würden. Umgerechnet auf die
+      US-Bevölkerung entsprächen diese Einsparungen etwa 49 Mrd. $.^[Übersetzt
+      aus Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to
+      Creating Organizations Inspired by the Next Stage of Human Consciousness
+      (Kindle Locations 1521-1527). Nelson Parker. Kindle Edition.]
 
 
       In the case of FAVI (see “Concrete examples for inspiration” below), a foundry based in France, all its competitors have moved to China to enjoy cheaper labor costs. And yet FAVI is not only the one producer left standing in Europe; it also commands a 50 percent market share for its gearbox forks. Its product quality is legendary, and its on-time delivery close to mythical: workers are proud of their record of not a single order delivered late in over 25 years. FAVI delivers high profit margins, year in and year out, despite Chinese competition, salaries well above average, and highly cyclical demand patterns.^[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 1690-1694). Nelson Parker. Kindle Edition.]
