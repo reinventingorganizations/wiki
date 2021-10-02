@@ -112,12 +112,17 @@ inPractice: "Die Selbstverwaltung in Teal wird durch eine Kombination von
   [Informationsfluss](../information-flow/).
 
 
-  #### Conflict resolution
+  #### Konfliktlösung
 
 
-  Disagreements are resolved among peers using a well defined conflict
-  resolution process. Peers hold each other accountable for their mutual
-  commitments. See also [Conflict Resolution](../conflict-resolution/)."
+  \r
+
+  \r
+
+  Unstimmigkeiten werden unter Peers mithilfe eines klar definierten
+  Konfliktlösungsprozesses gelöst. Peers ziehen sich gegenseitig für ihre
+  gegenseitigen Verpflichtungen zur Rechenschaft. Siehe auch
+  [Konfliktlösung](../conflict-resolution/)."
 faq:
   - question: Is there any evidence this actually works?
     answer: >-
