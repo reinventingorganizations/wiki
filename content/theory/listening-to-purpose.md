@@ -128,20 +128,22 @@ inPractice: "#### Sensing-Ansätze
   (Kindle Locations 4432-4437). Nelson Parker. Kindle Edition.]
 
 
-  Heiligenfeld, an operator of mental health facilities in Germany, uses a
-  practice with a similar effect. As part of every meeting, someone is asked to
-  volunteer to take possession of a pair of tingsha bells, two small hand
-  cymbals that can make a beautiful, crystal-like sound. Whenever the person
-  feels that ground rules are not being respected, or that the meeting is
-  serving egos more than purpose, she can make the cymbals sing. The rule is
-  that no one can speak until the last sound of the cymbal has died out— which
-  takes a surprisingly long time. During the silence, participants are to
-  reflect on the question: “Am I in service to the topic we are discussing and
-  to the organization?” Colleagues are now so used to this practice that simply
-  reaching out to the cymbals is all it takes to get a meeting back on
-  track.^\\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to
-  Creating Organizations Inspired by the Next Stage of Human Consciousness
-  (Kindle Locations 3595-3602). Nelson Parker. Kindle Edition.]
+  Heiligenfeld, ein Betreiber von psychiatrischen Einrichtungen in
+  Deutschland, wendet eine Praxis mit ähnlicher Wirkung an. Bei jeder Sitzung
+  wird jemand gebeten, freiwillig ein Paar Tingsha-Glocken in die Hand zu
+  nehmen, zwei kleine Handzimbeln, die einen wunderschönen, kristallartigen
+  Klang erzeugen können. Wann immer die Person das Gefühl hat, dass die
+  Grundregeln nicht eingehalten werden oder dass die Sitzung mehr dem Ego als
+  dem Zweck dient, kann sie die Zimbeln zum Klingen bringen. Die Regel lautet,
+  dass niemand sprechen darf, bis der letzte Ton der Zimbel verklungen ist - was
+  erstaunlich lange dauern kann. Während der Stille sollen die Teilnehmer über
+  die Frage nachdenken: \"Diene ich dem Thema, das wir gerade besprechen, und
+  der Organisation?\" Die Kollegen haben sich inzwischen so sehr an diese Praxis
+  gewöhnt, dass ein einfacher Griff zu den Zimbeln genügt, um eine Sitzung
+  wieder in Gang zu bringen.^\\[Übersetzt aus Laloux, Frederic (2014-02-09).
+  Reinventing Organizations: A Guide to Creating Organizations Inspired by the
+  Next Stage of Human Consciousness (Kindle Locations 3595-3602). Nelson Parker.
+  Kindle Edition.]
 
 
   #### Large Group Processes
