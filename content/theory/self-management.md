@@ -87,21 +87,29 @@ inPractice: "Die Selbstverwaltung in Teal wird durch eine Kombination von
   [Rollendefinition and -zuteilung](../role-definition-and-allocation/).
 
 
-  #### Distributed decision-making
+  #### Verteilte Entscheidungsfindung
 
 
-  Decision-making is highly distributed. Decisions do not need to be validated
-  by the hierarchy nor by consensus of the community. Any person can make any
-  decision after seeking advice from 1) everyone who will be meaningfully
-  affected, and 2) people with expertise in the matter. See also [Decision
-  Making](../decision-making/).
+  \r
+
+  \r
+
+  Die Entscheidungsfindung ist stark verteilt. Entscheidungen müssen weder von
+  der Hierarchie noch vom Konsens der Gemeinschaft bestätigt werden. Jede Person
+  kann jede Entscheidung treffen, nachdem sie 1) alle Personen, die davon
+  betroffen sind, und 2) Personen mit Fachwissen in dieser Angelegenheit um Rat
+  gefragt hat. Siehe auch [Entscheidungsfindung](../decision-making/).
 
 
-  #### Open Information flow
+  #### Offener Informationsfluss
 
 
-  Everybody is given access to all information at the same time. See also
-  [Information Flow](../information-flow/).
+  \r
+
+  \r
+
+  Jeder erhält gleichzeitig Zugang zu allen Informationen. Siehe auch
+  [Informationsfluss](../information-flow/).
 
 
   #### Conflict resolution
