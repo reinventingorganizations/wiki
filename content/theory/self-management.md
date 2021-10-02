@@ -71,16 +71,20 @@ inPractice: "Die Selbstverwaltung in Teal wird durch eine Kombination von
   [Organisationsstruktur](../organizational-structure/).
 
 
-  #### No job descriptions or job titles
+  #### Keine Stellenbeschreibungen oder Berufsbezeichnungen
 
 
-  There are typically no job descriptions or job titles in Teal organizations.
-  Rather each individual has a number of roles that he/she has agreed to and
-  committed to fulfill. When someone senses an issue or an opportunity that
-  calls for a new role, someone simply steps forward and offers to take on that
-  role. See also [Job Titles and Job
-  Descriptions](../job-titles-and-job-descriptions/) and [Role Definition and
-  Allocation](../role-definition-and-allocation/).
+  \r
+
+  \r
+
+  In Teal-Organisationen gibt es in der Regel keine Stellenbeschreibungen oder
+  Berufsbezeichnungen. Vielmehr hat jeder Einzelne eine Reihe von Rollen, denen
+  er zugestimmt hat und zu deren Erfüllung er sich verpflichtet hat. Wenn jemand
+  ein Problem oder eine Gelegenheit sieht, die eine neue Rolle erfordert, tritt
+  jemand einfach vor und bietet an, diese Rolle zu übernehmen. Siehe auch
+  [Jobtitel und Jobbeschreibungen](../job-titles-and-job-descriptions/) und
+  [Rollendefinition and -zuteilung](../role-definition-and-allocation/).
 
 
   #### Distributed decision-making
