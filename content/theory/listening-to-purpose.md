@@ -45,7 +45,7 @@ inPractice: "#### Sensing-Ansätze
   Entscheidung und half mir bei der Suche nach organisatorischen Ansätzen, die
   nicht unter derselben Blindheit leiden - wie kann eine Organisation jeden von
   uns als menschliches Instrument voll nutzen, ohne das \"Niederspannungslicht
-  zu überstimmen\"?*^\\[Laloux, Frederic (2014-02-09) Übersetzung aus
+  zu überstimmen\"?*^\\[Übersetzung aus: Laloux, Frederic (2014-02-09)
   Reinventing Organizations: A Guide to Creating Organizations Inspired by the
   Next Stage of Human Consciousness (Kindle Locations 4383-4394). Nelson Parker.
   Kindle Edition:]
@@ -63,19 +63,20 @@ inPractice: "#### Sensing-Ansätze
   und der uns zur Verfügung stehenden Ressourcen, Talente und Kapazitäten, der
   von uns angebotenen Produkte oder Dienstleistungen, der Geschichte des
   Unternehmens und seines Markts usw. in der Welt schaffen oder manifestieren
-  kann? Warum braucht die Welt es?\"^\\[Übersetzung: Robertson, Brian J.
+  kann? Warum braucht die Welt es?\"^\\[Übersetzung aus : Robertson, Brian J.
   (2015-06-02). Holacracy: The New Management System for a Rapidly Changing
   World (Kindle Locations 482-485). Henry Holt and Co.. Kindle Edition.]
 
 
-  While people are naturally gifted sensors, we can increase our capacity to
-  sense with practice. Meditative or spiritual practices, in particular, can
-  help us distance ourselves from self-centered needs and tap into broader
-  sources of wisdom.^\\[Laloux, Frederic (2014-02-09). Reinventing
-  Organizations: A Guide to Creating Organizations Inspired by the Next Stage of
-  Human Consciousness (Kindle Locations 4411-4413). Nelson Parker. Kindle
-  Edition.] For an example of how this might work in practice, see “Concrete
-  Examples for Inspiration - Sounds True” below.
+  Menschen sind zwar von Natur aus begabte Sensoren, aber wir können unsere
+  Wahrnehmungsfähigkeit durch Übung steigern. Insbesondere meditative oder
+  spirituelle Praktiken können uns helfen, uns von egozentrischen Bedürfnissen
+  zu distanzieren und umfassendere Weisheitsquellen anzuzapfen.^\\[Übersetzt aus
+  Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating
+  Organizations Inspired by the Next Stage of Human Consciousness (Kindle
+  Locations 4411-4413). Nelson Parker. Kindle Edition.]. Ein Beispiel dafür, wie
+  dies in der Praxis funktionieren könnte, finden Sie unter \"Konkrete Beispiele
+  für Inspiration - Sounds True\" weiter unten.
 
 
   #### The Empty Chair
