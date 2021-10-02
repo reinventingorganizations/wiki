@@ -180,20 +180,23 @@ inPractice: "#### Sensing-Ansätze
   #### Outside Prompting
 
 
-  Teal organizations seem to have found that when a company is clear about its
-  purpose, the outside world comes knocking at its door with opportunities.
-  Sometimes it feels as if it isn’t only people inside the organization sensing
-  where it wants to go, but people from the outside, too. At Buurtzorg for
-  example, by now, people from all sorts of backgrounds get in touch with Jos de
-  Blok and others in the organization to explore ideas that could shape where
-  Buurtzorg might go next. De Blok and his colleagues accept these meetings and
-  listen with open minds. When the discussion seems promising, they set up
-  experiments and see what happens. There are no committees, no stage-gate
-  processes, no set budgets. It really is that simple: discussions take place
-  and things evolve from there. The feeling is that what is meant to happen will
-  happen.^\\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide
-  to Creating Organizations Inspired by the Next Stage of Human Consciousness
-  (Kindle Locations 4470-4478). Nelson Parker. Kindle Edition.]"
+  Die Teal-Organisationen scheinen herausgefunden zu haben, dass, wenn ein
+  Unternehmen sich über seine Ziele im Klaren ist, die Außenwelt mit
+  Möglichkeiten an seine Tür klopft. Manchmal hat man das Gefühl, dass nicht nur
+  die Menschen innerhalb des Unternehmens spüren, wohin es gehen soll, sondern
+  auch Menschen von außerhalb. Bei Buurtzorg zum Beispiel setzen sich inzwischen
+  Menschen mit den unterschiedlichsten Hintergründen mit Jos de Blok und anderen
+  in der Organisation in Verbindung, um Ideen zu erkunden, die den weiteren Weg
+  von Buurtzorg bestimmen könnten. De Blok und seine Kollegen nehmen diese
+  Gespräche an und hören unvoreingenommen zu. Wenn die Diskussion
+  vielversprechend erscheint, starten sie Experimente und sehen, was passiert.
+  Es gibt keine Ausschüsse, keine Stufenprozesse, keine festen Budgets. Es ist
+  wirklich so einfach: Es wird diskutiert und die Dinge entwickeln sich von
+  selbst. Man hat das Gefühl, dass das, was geschehen soll, auch geschehen
+  wird.^\\[Übersetzt aus Laloux, Frederic (2014-02-09). Reinventing
+  Organizations: A Guide to Creating Organizations Inspired by the Next Stage of
+  Human Consciousness (Kindle Locations 4470-4478). Nelson Parker. Kindle
+  Edition.]"
 faq:
   - question: How can we be sure the purpose is well known in the organization and
       that the decision-making process is based on it?
