@@ -224,20 +224,22 @@ faq:
       tion-advantages-examples-part-1/](<*
       https://www.enliveningedge.org/organizations/what-self-management-definit\
       ion-advantages-examples-part-1/>)"
-  - question: Are there videos that can explain more about self-management?
-    answer: "https://thejourney.reinventingorganizations.com/videos.html#4 contains
-      a rich set of 10-20 minutes videos that cover the following kind of
-      topics:
+  - question: Gibt es Videos, die mehr über Selbstmanagement erklären können?
+    answer: "https://thejourney.reinventingorganizations.com/videos.html#4 enthält
+      eine Reihe von 10-20-minütigen Videos, die folgende Themen behandeln:
 
 
-      * (Mis)understanding self-management\r
+      \r
 
-      * Getting started
+      \r
 
-      * Teams, colleagues and former managers
+      * (Miss-)Verständnis von Selbstmanagement\r
 
-      * Typical issues
+      * Erste Schritte\r
 
+      * Teams, Kollegen und ehemalige Manager\r
+
+      * Typische Probleme
 
       \n"
 ---
