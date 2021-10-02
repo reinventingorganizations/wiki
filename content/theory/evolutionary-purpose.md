@@ -72,16 +72,18 @@ inPractice: >-
 
   The purpose of a Teal organization is rarely static – thus the term “Evolutionary Purpose”. It will evolve over time, as the organization itself grows and adapts. For example, Buurtzorg, the Dutch homecare organization, was set up to "help sick and elderly patients live a more autonomous and meaningful life."^[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4215-4216). Nelson Parker. Kindle Edition.] Its activities have grown beyond looking after the elderly, and it now focuses on helping "patients become healthy and autonomous".
 faq:
-  - question: Can there be a conflict between individual and organizational purpose?
-    answer: Individual and organizational purpose go hand in hand. One needs the
-      other to flourish. When the individual and organizational purpose enter
-      into resonance and reinforce each other, extraordinary things can happen.
-      When work meets vocation — an encounter that theologian Frederick Buechner
-      described as “the place where your deep gladness meets the world’s deep
-      hunger”— then members of an organization can pour their heart and soul
-      into their work. They are fulfilled as human beings, not as productive
-      units. At the same time, the organization's evolutionary purpose is
-      furthered and allowed to grow.
+  - question: Kann es einen Konflikt zwischen individuellen und organisatorischen
+      Zielen geben?
+    answer: Individuelle und organisatorische Ziele gehen Hand in Hand. Das eine
+      braucht das andere, um zu gedeihen. Wenn der individuelle und der
+      organisatorische Zweck in Resonanz treten und sich gegenseitig verstärken,
+      können außergewöhnliche Dinge geschehen. Wenn Arbeit und Berufung
+      zusammentreffen - eine Begegnung, die der Theologe Frederick Büchner als
+      "der Ort, an dem deine tiefe Freude den tiefen Hunger der Welt trifft"
+      beschrieben hat - dann können die Mitglieder einer Organisation ihr Herz
+      und ihre Seele in ihre Arbeit stecken. Sie sind als Menschen erfüllt,
+      nicht als produktive Einheiten. Gleichzeitig wird der evolutionäre Sinn
+      der Organisation gefördert und kann wachsen.
 relatedTheory:
   - Listening to Purpose
   - Strategy
