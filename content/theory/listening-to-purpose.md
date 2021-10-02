@@ -210,10 +210,10 @@ faq:
       Organizations: A Guide to Creating Organizations Inspired by the Next
       Stage of Human Consciousness (Kindle Locations 4352-4354). Nelson Parker.
       Kindle Edition.]"
-  - question: Do Teal organizations then abandon the traditional process of
-      strategic planning?
-    answer: See related article "[Strategy](../strategy/)" under "Major
-      Organizational Processes".
+  - question: Geben Teal-Organisationen dann den traditionellen Prozess der
+      strategischen Planung auf?
+    answer: Siehe dazu den Artikel "[Strategie](../strategy/)" unter "Wichtige
+      organisatorische Prozesse".
 relatedTheory:
   - Evolutionary Purpose
   - Self-Management
