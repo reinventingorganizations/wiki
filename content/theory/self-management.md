@@ -148,16 +148,17 @@ faq:
 
 
       Im Falle von FAVI (siehe "Konkrete Beispiele zur Inspiration" unten), einer Gießerei mit Sitz in Frankreich, sind alle Konkurrenten nach China abgewandert, um von den niedrigeren Lohnkosten zu profitieren. Dennoch ist FAVI nicht nur der einzige verbliebene Hersteller in Europa, sondern hält auch einen Marktanteil von 50 Prozent bei seinen Getriebegabeln. Die Qualität der Produkte ist legendär, die Termintreue fast schon ein Mythos: Die Mitarbeiter sind stolz darauf, dass in über 25 Jahren kein einziger Auftrag zu spät geliefert wurde. FAVI erzielt Jahr für Jahr hohe Gewinnspannen, trotz der chinesischen Konkurrenz, weit überdurchschnittlicher Löhne und einer stark zyklischen Nachfrage.^[Übersetzt aus Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 1690-1694). Nelson Parker. Kindle Edition.]
-  - question: Isn’t this the same as “empowerment”?
-    answer: "Pluralistic-Green organizations seek to deal with the problem of power
-      inequality through empowerment, pushing decisions down the pyramid, and
-      they often achieve much higher employee engagement. But empowerment within
-      the traditional hierarchy means that someone at the top must be wise or
-      noble enough to give away some of his power, and those below are subject
-      to that power being reclaimed.^[Laloux, Frederic (2014-02-09). Reinventing
-      Organizations: A Guide to Creating Organizations Inspired by the Next
-      Stage of Human Consciousness (Kindle Locations 1431-1433). Nelson Parker.
-      Kindle Edition.]"
+  - question: Ist das nicht dasselbe wie "Empowerment"?
+    answer: "Pluralistisch-grüne Organisationen versuchen, das Problem der
+      Machtungleichheit durch Empowerment zu lösen, indem sie Entscheidungen
+      nach unten verlagern, und sie erreichen oft ein viel höheres Engagement
+      der Mitarbeiter. Aber Befähigung innerhalb der traditionellen Hierarchie
+      bedeutet, dass jemand an der Spitze weise oder edel genug sein muss, um
+      einen Teil seiner Macht abzugeben, und dass diejenigen, die weiter unten
+      stehen, diese Macht zurückerhalten müssen.^[Übersetzt aus Laloux, Frederic
+      (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations
+      Inspired by the Next Stage of Human Consciousness (Kindle Locations
+      1431-1433). Nelson Parker. Kindle Edition.]"
   - question: Does this mean that everyone is equal?
     answer: >-
       In Teal Organizations: the point is not to make everyone equal; it is to
