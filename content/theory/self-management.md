@@ -53,17 +53,22 @@ inPractice: "Die Selbstverwaltung in Teal wird durch eine Kombination von
   organisieren und niemandem außerhalb des Teams unterstellt sind.
 
 
-  #### No bosses or organization chart
+  #### Keine Chefs und kein Organigramm
 
 
-  There are no fixed hierarchies of authority in Teal organizations. There are
-  no bosses within or outside of the teams. The primacy of the boss-subordinate
-  relationship is replaced with peer-based mutual commitments. Decision rights
-  and power flow to any individual who has the expertise, interest, or
-  willingness to step in and contribute to a situation. Fluid, natural
-  hierarchies replace the fixed power hierarchies of the traditional pyramid -
-  leaving the organization without an organizational chart. See also
-  [Organizational Structure](../organizational-structure/).
+  \r
+
+  \r
+
+  In Teal-Organisationen gibt es keine festen Hierarchien der Autorität. Es
+  gibt keine Vorgesetzten innerhalb oder außerhalb der Teams. Das Primat der
+  Chef-Untergebenen-Beziehung wird durch gegenseitige Verpflichtungen auf
+  Augenhöhe ersetzt. Entscheidungsrechte und Macht gehen an jede Person, die
+  über das Fachwissen, das Interesse oder die Bereitschaft verfügt, einen
+  Beitrag zu einer Situation zu leisten. Fließende, natürliche Hierarchien
+  treten an die Stelle der starren Machthierarchien der traditionellen Pyramide
+  - und lassen die Organisation ohne Organigramm zurück. Siehe auch
+  [Organisationsstruktur](../organizational-structure/).
 
 
   #### No job descriptions or job titles
