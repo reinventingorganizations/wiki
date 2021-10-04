@@ -93,10 +93,10 @@ inPractice: >-
   Durch diese Praktiken wird ein sicherer Raum geschaffen. Dann ist jede Person dafür verantwortlich, ihren eigenen Prozess der Selbsterkenntnis und persönlichen Entwicklung zu verfolgen. Die täglichen Praktiken, die die Teal-Organisation anbietet, wie z.B. Reflexionsraum, Storytelling, Treffen ohne Ego und Konfliktlösungsmethoden, sind die Werkzeuge, die jedem Einzelnen zur Verfügung stehen, um seinen Weg zu definieren und zu gehen. Und nur in diesem Prozess der Abstimmung eines solchen organisatorischen Ansatzes mit der Verantwortung des Einzelnen für sein eigenes Wachstum können das Selbstmanagement und das Hören auf den Sinn gedeihen.
 
 
-  ### Reimagined HR processes
+  ### Neu gestaltete HR-Prozesse
 
 
-  In addition to the practices described above, Teal organizations have reframed all of the key human resources processes— recruitment, onboarding, training, evaluation, compensation, dismissal— in ways to eliminate fear and feelings of separation and reclaim wholeness. See *Human Resource practices*.
+  Zusätzlich zu den oben beschriebenen Praktiken haben Teal-Organisationen alle wichtigen Personalprozesse - Einstellung, Einarbeitung, Schulung, Bewertung, Vergütung, Entlassung - so umgestaltet, dass Ängste und Trennungsgefühle abgebaut und Ganzheitlichkeit wiederhergestellt werden. See *Human Resource practices*.
 faq: []
 relatedTheory:
   - wholness
