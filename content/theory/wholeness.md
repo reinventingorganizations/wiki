@@ -12,14 +12,16 @@ intro: >-
 
   ![](/media/wholeness.jpg)
 perspective: >-
-  Workplaces have traditionally encouraged people to show up with their
-  “professional” self and to check all other parts of themselves at the door.
-  They often require us to show a masculine resolve, to display determination
-  and strength, and to hide doubts and vulnerability. Rationality rules: the
-  emotional, intuitive, and spiritual selves are typically unwelcome, or out of
-  place.^[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to
-  Creating Organizations Inspired by the Next Stage of Human Consciousness
-  (Kindle Locations 1310-1313). Nelson Parker. Kindle Edition.]
+  Am Arbeitsplatz wird man traditionell dazu angehalten, mit seinem
+  "professionellen" Ich aufzutreten und alle anderen Teile seiner selbst an der
+  Tür zu lassen. Oft wird von uns verlangt, eine männliche Entschlossenheit zu
+  zeigen, Entschlossenheit und Stärke zu demonstrieren und Zweifel und
+  Verletzlichkeit zu verbergen. Die Rationalität regiert: Das emotionale,
+  intuitive und spirituelle Selbst ist in der Regel unerwünscht oder fehl am
+  Platz.^[Übersetzt aus Laloux, Frederic (2014-02-09). Reinventing
+  Organizations: A Guide to Creating Organizations Inspired by the Next Stage of
+  Human Consciousness (Kindle Locations 1310-1313). Nelson Parker. Kindle
+  Edition.]
 
 
   What makes us leave so much of our selfhood behind when we go to work? There is a conspiracy of fears at play that involves employees as much as their organizations. Organizations fear that if people were to bring all of themselves to work— their moods, quirks, and weekend clothes— things would quickly dissolve into a mess. Armies have long known that people made to feel interchangeable are much easier to control. Employees, for their part, fear that if they were to show up with all of who they are, they might expose their selfhood to criticism and ridicule and come across as odd and out of place. It is deemed much better to play it safe and to hide the selfhood behind a professional mask.
