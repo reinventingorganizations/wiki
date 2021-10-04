@@ -2,12 +2,12 @@
 layout: article
 tags: theory
 key: wholeness
-name: Wholeness
+name: Ganzheitlichkeit
 sortOrder: 3
 category: teal-concepts
 intro: >-
-  This article discusses one of the three foundational “breakthroughs” common to
-  Teal organizations.
+  Dieser Artikel befasst sich mit einem der drei grundlegenden "Durchbrüchen",
+  die Teal-Organisationen gemeinsam haben.
 
 
   ![](/media/wholeness.jpg)
