@@ -115,4 +115,3 @@ relatedTheory:
   - Change Management
   - Fundamental Assumptions
 ---
-removed
