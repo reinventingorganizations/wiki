@@ -72,7 +72,7 @@ inPractice: >-
   ### Meetings
 
 
-  Teal organizations typically have instituted specific meeting practices to help participants keep their egos in check and interact with each other from a place of wholeness. Some are very simple, while others much more elaborate. At Sounds True, every meeting starts with a minute of silence to help people ground themselves in the moment. Many Teal companies start meetings with a round of check-in and finish with a round of check-out.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3573-3577). Nelson Parker. Kindle Edition.] See [Meetings](../meetings/)
+  Teal-Organisationen haben in der Regel bestimmte Sitzungspraktiken eingeführt, um den Teilnehmern zu helfen, ihr Ego in Schach zu halten und aus einer Position der Ganzheitlichkeit heraus miteinander zu interagieren. Einige sind sehr einfach, während andere sehr viel aufwendiger sind. Bei Sounds True beginnt jedes Meeting mit einer Schweigeminute, um den Teilnehmern zu helfen, sich auf den Moment zu konzentrieren. Viele Teal-Unternehmen beginnen Meetings mit einer Runde Check-in und beenden sie mit einer Runde Check-out.^\[Übersetzt aus Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3573-3577). Nelson Parker. Kindle Edition.] See [Meetings](../meetings/)
 
 
   ### Managing Conflict
