@@ -57,7 +57,7 @@ inPractice: >-
 
   Weisheitstraditionen betonen die Notwendigkeit regelmäßiger Stille und Reflexion, um den Geist zur Ruhe zu bringen und die Wahrheit aus einem tieferen Teil unseres Selbst hervortreten zu lassen. Immer mehr Menschen nehmen kontemplative Praktiken auf - Meditation, Gebet, Yoga, Spaziergänge in der Natur - und integrieren sie in ihren Alltag. Viele Teal-Organisationen haben irgendwo im Büro einen Raum der Stille eingerichtet, und andere haben Meditations- und Yogakurse eingerichtet. Diese Praxis eröffnet Raum für individuelle Reflexion und Achtsamkeit inmitten eines geschäftigen Tages. Einige von ihnen gehen noch einen Schritt weiter: Sie schaffen auch kollektive Momente der Selbstreflexion durch Praktiken wie Gruppencoaching, Teamsupervision, Reflexionen in großen Gruppen und Tage der Stille.^\[Übersetzt aus Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3378-3384). Nelson Parker. Kindle Edition.]
 
-  see [Training and Coaching](../training-and-coaching/)
+  see [Training und Coaching](../training-and-coaching/)
 
 
   ### Storytelling
@@ -78,7 +78,7 @@ inPractice: >-
   ### Konfliktmanagement
 
 
-  In unseren Beziehungen zu Kollegen fallen wir leicht unserem Wunsch zum Opfer, zu gefallen oder zu beeindrucken, gemocht zu werden oder zu dominieren. Wir dringen leicht in andere ein oder lassen sie in uns eindringen. Unsere Seele kennt die richtigen Grenzen, und manchmal sagt sie uns, dass wir einen Konflikt brauchen, um sie an der richtigen Stelle zu setzen. Ohne Konflikte können wir übermäßig nachgiebig oder übermäßig beschützend sein, und in beiden Fällen hören wir auf, uns selbst treu zu bleiben, wenn wir mit Kollegen interagieren. Teal-Organisationen haben spezielle Verfahren entwickelt, um Konflikte zu erkennen und zu lösen.^\[Übersetzt aus Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3630-3634). Nelson Parker. Kindle Edition.] See [Conflict resolution](../conflict-resolution/).
+  In unseren Beziehungen zu Kollegen fallen wir leicht unserem Wunsch zum Opfer, zu gefallen oder zu beeindrucken, gemocht zu werden oder zu dominieren. Wir dringen leicht in andere ein oder lassen sie in uns eindringen. Unsere Seele kennt die richtigen Grenzen, und manchmal sagt sie uns, dass wir einen Konflikt brauchen, um sie an der richtigen Stelle zu setzen. Ohne Konflikte können wir übermäßig nachgiebig oder übermäßig beschützend sein, und in beiden Fällen hören wir auf, uns selbst treu zu bleiben, wenn wir mit Kollegen interagieren. Teal-Organisationen haben spezielle Verfahren entwickelt, um Konflikte zu erkennen und zu lösen.^\[Übersetzt aus Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3630-3634). Nelson Parker. Kindle Edition.] See [Konfliktlösung](../conflict-resolution/).
 
 
   ### Räumliche Gegebenheiten
@@ -96,7 +96,7 @@ inPractice: >-
   ### Neu gestaltete HR-Prozesse
 
 
-  Zusätzlich zu den oben beschriebenen Praktiken haben Teal-Organisationen alle wichtigen Personalprozesse - Einstellung, Einarbeitung, Schulung, Bewertung, Vergütung, Entlassung - so umgestaltet, dass Ängste und Trennungsgefühle abgebaut und Ganzheitlichkeit wiederhergestellt werden. See *Human Resource practices*.
+  Zusätzlich zu den oben beschriebenen Praktiken haben Teal-Organisationen alle wichtigen Personalprozesse - Einstellung, Einarbeitung, Schulung, Bewertung, Vergütung, Entlassung - so umgestaltet, dass Ängste und Trennungsgefühle abgebaut und Ganzheitlichkeit wiederhergestellt werden. See *Praktiken des Personalwesens*.
 faq: []
 relatedTheory:
   - wholness
