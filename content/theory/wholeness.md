@@ -29,14 +29,15 @@ perspective: >-
 
   Weisheitstraditionen aus der ganzen Welt sprechen dies auf einer tieferen Ebene an: Im Grunde sind wir alle zutiefst miteinander verbunden und Teil eines Ganzen, aber diese Wahrheit haben wir vergessen. Wir werden in die Trennung hineingeboren und so erzogen, dass wir uns von unserer tieferen Natur, aber auch von den Menschen und dem Leben um uns herum getrennt fühlen. Unsere tiefste Berufung im Leben, so sagen uns diese Traditionen, besteht darin, die Ganzheit zurückzugewinnen, in uns selbst und in unserer Verbindung mit der Außenwelt. Diese spirituelle Erkenntnis inspiriert den zweiten Durchbruch von Teal-Organisationen: einen Raum zu schaffen, der uns auf unserer Reise zur Ganzheit unterstützt. Außergewöhnliche Dinge beginnen zu geschehen, wenn wir es wagen, alles, was wir sind, in die Arbeit einzubringen. Jedes Mal, wenn wir einen Teil von uns zurücklassen, schneiden wir uns von einem Teil unseres Potenzials, unserer Kreativität und Energie ab. Kein Wunder, dass sich viele Arbeitsplätze irgendwie leblos anfühlen. In der Ganzheit sind wir voller Leben. Wir entdecken mit Erstaunen, wie viel mehr Leben in uns steckt, als wir uns je vorstellen konnten. In unseren Beziehungen zu den Kollegen verschwindet vieles von dem, was den Arbeitsplatz unangenehm und ineffizient machte; die Arbeit wird zu einem Vehikel, in dem wir uns gegenseitig helfen, unsere innere Größe zu offenbaren und unsere Berufung zu verwirklichen.^[Übersetzt aus Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3128-3143). Nelson Parker. Kindle Edition.]
 inPractice: >-
-  Teal Organizations have developed a consistent set of practices that invite us
-  to reclaim our inner wholeness and bring all of who we are to work.
+  Die Teal-Organisationen haben eine Reihe konsequenter Praktiken entwickelt,
+  die uns dazu einladen, unsere innere Ganzheit zurückzufordern und alles, was
+  wir sind, in die Arbeit einzubringen.
 
 
-  ### Self-management
+  ### Selbstmanagement
 
 
-  Self-management goes a long way toward helping us show up more fully. With no scarce promotions to fight for, no bosses to please, and no adversaries to elbow aside, much of the political poison is drained out of organizations. Without a boss looking over our shoulder, without employees to keep in line and peers that could turn into competitors, we can finally let our guard down and simply focus on the work we want to do.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3144-3147). Nelson Parker. Kindle Edition.]
+  Selbstmanagement trägt wesentlich dazu bei, dass wir uns besser entfalten können. Ohne knappe Beförderungen, um die man kämpfen muss, ohne Chefs, die man zufrieden stellen muss, und ohne Gegnerinnen, die man zur Seite drängen muss, wird ein Großteil des politischen Gifts aus den Organisationen herausgezogen. Ohne eine Chefin, die uns über die Schulter schaut, ohne Mitarbeiter, die wir in Schach halten müssen, und ohne Kolleginnen, die zu Konkurrentinnen werden könnten, können wir uns endlich entspannt zurücklehnen und uns einfach auf die Arbeit konzentrieren, die wir tun wollen.^\[Übersetzt aus Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3144-3147). Nelson Parker. Kindle Edition.]
 
 
   ### Safe and supportive environment
