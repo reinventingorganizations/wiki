@@ -16,21 +16,22 @@ perspective: >-
   #### **Rote Organisationen**
 
 
-  In [roten Organisationen](../red-organizations/) ist Loyalität grundlegend. Der Chef umgibt sich mit Familienmitgliedern oder anderen Personen, denen er vertrauen kann oder die er durch Furcht und das Versprechen, sich um sie zu kümmern, auf Linie hält. Die Rekrutierung läuft auf Kooptation hinaus und oft gibt es ritualisierte Beitrittspraktiken, bei denen sich der Neuankömmling für die Treue zum Chef entscheidet, der im Gegenzug Schutz bietet.
-
-
+  In [roten Organisationen](../red-organizations/) ist Loyalität wesentlich. Der Chef umgibt sich mit Familienmitgliedern oder anderen Personen, denen er vertrauen kann oder die er durch Furcht und das Versprechen, sich um sie zu kümmern, unter Kontrolle halten kann. Die Rekrutierung läuft auf Kooptation hinaus und es gibt oft ritualisierte Beitrittspraktiken, bei denen der Neuankömmling dem Chef die Treue verspricht, der im Gegenzug Schutz bietet.
 
 
   #### **Bernstein-Organisationen**
 
 
-  In [bernsteinfarbene Organisationen](../amber-paradigm-and-organizations/), social stratification is the basis for recruitment. To apply for a job, candidates need to have a specific background. Historically, this hierarchical stratification in organizations paralleled social stratification: priests were recruited from peasantry; bishops and cardinals, from aristocracy. A man (and certainly a woman) born into the working class would not aspire to a management position, and once entering the organization, would not climb high. Today’s Amber organizations still tend to abide by social stratification, albeit in subtler ways. In government agencies, schools, and the military, positions higher than a certain level often still require a specific diploma or a certain number of years of experience. The person recruited might not be the most qualified, but the one that meets all the criteria.
+  Die Grundlage für die Rekrutierung in [bernsteinfarbenen Organisationen](../amber-paradigm-and-organizations/) bildet die soziale Schichtung. Um sich auf eine Stelle zu bewerben, müssen die Bewerber einen bestimmten Hintergrund aufweisen. Historisch gesehen entsprach diese hierarchische Schichtung in Organisationen der sozialen Schichtung: Priester wurden aus der Bauernschaft rekrutiert, Bischöfe und Kardinäle aus der Aristokratie. Ein Mann (und erst recht eine Frau), der aus der Arbeiterklasse stammt, würde keine Führungsposition anstreben und wenn er einmal in der Organisation ist, würde er nicht hoch aufsteigen. Heutige Bernstein-Organisationen neigen immer noch dazu, sich an die soziale Schichtung zu halten, wenn auch auf subtilere Weise. In Regierungsbehörden, Schulen und beim Militär wird für Positionen ab einer bestimmten Ebene oft immer noch ein bestimmter Abschluss oder eine bestimmte Anzahl von Jahren an Erfahrung verlangt. Die Person, die eingestellt wird, ist vielleicht nicht die am besten qualifizierte, aber diejenige, die alle Kriterien erfüllt.
 
 
   #### **Orange Organisationen**
 
 
-  [Orange organizations](../orange-paradigm-and-organizations/)' pursuit of performance, efficiency and innovation makes them focus their recruitment efforts on selecting the candidates with the best skills, the most relevant experience and expertise for a specific role, as well as the best future potential for development. In some large corporations, interviews are conducted by specialized Human Resources personnel (for top leadership roles by external "head hunter" search firms,) in most cases in conjunction with the person's future manager. Significant effort and resources have been deployed to develop interview techniques and training, as well as assessments tools to help organizations optimize their success rate in recruitment.
+  Das Streben der [orangenen Organisationen](../orange-paradigm-and-organizations/) nach Leistung, Effizienz und Innovation veranlasst sie, ihre Einstellungsbemühungen auf die Auswahl der Kandidaten mit den besten Fähigkeiten, der relevantesten Erfahrung und dem besten Fachwissen für eine bestimmte Rolle sowie dem besten zukünftigen Entwicklungspotenzial zu konzentrieren. In einigen großen Unternehmen werden die Vorstellungsgespräche von spezialisierten Mitarbeitern der Personalabteilung geführt (für Spitzenpositionen von externen Headhunter-Firmen); in den meisten Fällen in Zusammenarbeit mit dem künftigen Vorgesetzten der betreffenden Person. Es wurden beträchtliche Anstrengungen und Ressourcen für die Entwicklung von Interviewtechniken und Schulungen sowie von Beurteilungsinstrumenten aufgewendet, um den Organisationen zu helfen, ihre Erfolgsquote bei der Personalbeschaffung zu optimieren.
+
+
+  <!--EndFragment-->pursuit of performance, efficiency and innovation makes them focus their recruitment efforts on selecting the candidates with the best skills, the most relevant experience and expertise for a specific role, as well as the best future potential for development. In some large corporations, interviews are conducted by specialized Human Resources personnel (for top leadership roles by external "head hunter" search firms,) in most cases in conjunction with the person's future manager. Significant effort and resources have been deployed to develop interview techniques and training, as well as assessments tools to help organizations optimize their success rate in recruitment.
 
 
   #### **Grüne Organisationen**
