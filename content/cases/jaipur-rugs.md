@@ -50,4 +50,21 @@ theory:
       understanding. A lot of resources, including videos, and business process
       are shown and explained. The Artisan Engagement Program ensures they have
       a holistic understanding of the company and its business model.
+  - topic: Training and Coaching
+    title: Learning together
+    content: >-
+      Training is an essential part of the development programs both for
+      grassroots (villages) and head office people. 
+
+      In 2020, Jaipur Rugs completed a leadership training session based on the founder’s ‘mentality model’. This training helped everyone to share best practices (including self-management) from around the world. The leadership department takes care of this training, which is offered regularly to ensure good participation. 
+
+      The company has formed teams to learn self-management in various ways, including participation in webinars & forums, and small experiments in the teams. 
+
+
+      *For more insight, see the following blog articles from the founder:* 
+
+
+      * [Benefits of Transforming an Organization into a Learning Institution](https://www.nkchaudhary.com/founders-mentality/benefits-of-transforming-an-organization-into-a-learning-institution/)
+
+      * [Unlearning is Important to Business](https://www.nkchaudhary.com/founders-mentality/unlearning-is-important-to-business/)
 ---
