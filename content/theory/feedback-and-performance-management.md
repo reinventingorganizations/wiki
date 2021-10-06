@@ -46,7 +46,7 @@ perspective: >-
   ![](/media/performance.jpg)
 
 
-  In [orangen Organisationen](../orange-paradigm-and-organizations/) konzentriert sich das Leistungsmanagement auf das Erreichen von Zielen und Vorgaben. Der Einzelne wird zur Rechenschaft gezogen, indem er seine Leistung anhand der vom Management festgelegten (zu) ambitionierten Ziele ("Stretch-Goals") misst (und bewertet). Innovation und Leistung werden hoch geschätzt, und die Ergebnisse werden (soweit möglich) anhand von Kennzahlen gemessen. Das Feedback ist ein Top-Down-Prozess, der sich auf die Arbeitsleistung konzentriert und darauf ausgerichtet ist, bessere Ergebnisse zu erzielen.
+  In [orangen Organisationen](../orange-paradigm-and-organizations/) konzentriert sich das Leistungsmanagement auf das Erreichen von Zielen und Vorgaben. Der Einzelne wird zur Rechenschaft gezogen, indem er seine Leistung anhand der vom Management festgelegten (zu) ambitionierten Ziele misst (und bewertet). Innovation und Leistung werden hoch geschätzt, und die Ergebnisse werden (soweit möglich) anhand von Kennzahlen gemessen. Das Feedback ist ein Top-Down-Prozess, der sich auf die Arbeitsleistung konzentriert und darauf ausgerichtet ist, bessere Ergebnisse zu erzielen.
 
 
   #### **Grüne Organisationen**
