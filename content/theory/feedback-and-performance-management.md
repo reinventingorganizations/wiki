@@ -53,7 +53,7 @@ perspective: >-
 
 
   In [grünen Organisationen](../green-paradigm-and-organizations/) geht es beim Leistungsmanagement sowohl um die Art und Weise, wie die Arbeit ausgeführt wird, als auch um das, was erreicht wird. Starke Werte, die mit einem inspirierenden Ziel verbunden sind, bieten den Mitarbeitern eine Anleitung zur Steuerung ihrer eigenen Leistung. Manager werden zu dienenden Führern und versuchen, diejenigen, die an vorderster Front arbeiten, zu befähigen und zu ermächtigen. Das Feedback erfolgt häufig im Rahmen eines [360-Grad-Feedback]-Prozesses (https://en.wikipedia.org/wiki/360-degree_feedback) und soll sowohl den Einzelnen in seiner Entwicklung als auch die Kultur des Unternehmens fördern und unterstützen.
-inPractice: >-
+inPractice: >
   #### **Leistungsmanagement**
 
 
@@ -78,7 +78,7 @@ inPractice: >-
   #### **Team-Leistungsmanagement**
 
 
-  Selbstverwaltete Teams sind die lebenswichtigen Organe einer [Teal-Organisation](../teal-paradigm-and-organizations/). Wenn die Mitarbeiter ein klares Verständnis vom Zweck ihrer Arbeit haben und wissen, was von ihnen erwartet wird, sind Teams mehr als fähig, Ziele zu setzen und sich zu organisieren, um sie zu erreichen. Um diese Arbeitsweise zu unterstützen, werden Informationen über die Leistung der einzelnen Teams offen ausgetauscht. Dies wäre in einer traditionelleren Organisation bedrohlich, ist aber in einer Teal-Organisation befreiend, weil die Mitarbeiter wissen, dass die Informationen nicht gegen sie verwendet werden. Niemand muss vor den Fakten, ob gut oder schlecht, geschützt werden.
+  Selbstorganisierte Teams sind die lebenswichtigen Organe einer [Teal-Organisation](../teal-paradigm-and-organizations/). Wenn die Mitarbeiter ein klares Verständnis vom Zweck ihrer Arbeit haben und wissen, was von ihnen erwartet wird, sind Teams mehr als fähig, Ziele zu setzen und sich zu organisieren, um sie zu erreichen. Um diese Arbeitsweise zu unterstützen, werden Informationen über die Leistung der einzelnen Teams offen ausgetauscht. Dies wäre in einer traditionelleren Organisation bedrohlich, ist aber in einer Teal-Organisation befreiend, weil die Mitarbeiter wissen, dass die Informationen nicht gegen sie verwendet werden. Niemand muss vor den Fakten, ob gut oder schlecht, geschützt werden.
 
 
   Wenn Teams ähnliche Arbeit leisten, wie es beispielsweise bei [Buurtzorg] (https://www.buurtzorgnederland.com/) der Fall ist, kann ein Team seine Produktivität im Vergleich zu den anderen Teams leicht einschätzen. Diejenigen, die ganz unten auf der Liste stehen, sind eher durch Stolz als durch Angst motiviert, sich zu verbessern. Noch wichtiger ist, dass die anderen Teams bereit sind, ihre Arbeit mit anderen zu teilen und jede erforderliche Hilfe zu leisten. Die Arbeit der Organisation ist wichtiger als jeder vom Ego getriebene Wettbewerb zwischen den Teams.
@@ -93,53 +93,54 @@ inPractice: >-
   Menschen sind Beziehungswesen, die sich über ehrliches Feedback freuen. Obwohl das Hauptaugenmerk auf der Teamleistung liegt, erkennen [Teal-Organisationen ](../teal-paradigm-and-organizations/)an, dass die Fähigkeit, offenes, nicht wertendes individuelles Feedback an Gleichgestellte zu geben, von entscheidender Bedeutung ist. Einige Organisationen wie [FAVI](http://www.favi.com/) haben auf formelle Beurteilungsgespräche verzichtet, weil das Feedback so offen ausgetauscht wird. Die meisten anderen halten es nach wie vor für sinnvoll, einmal im Jahr ein formelles Gespräch zu führen, um über die eigene Arbeit nachzudenken. Diese Beurteilungen sind natürlich auf kollegiale Prozesse ausgerichtet.
 
 
-  Ein kollegiales Feedback hat den Vorteil, dass jeder Einzelne eine umfassendere, aussagekräftigere Perspektive auf seinen Beitrag erhält. Das Feedback geht be
-
-
-  Übersetzt mit www.DeepL.com/Translator (kostenlose Version)
+  Ein kollegiales Feedback hat den Vorteil, dass jeder Einzelne eine umfassendere, aussagekräftigere Perspektive auf seinen Beitrag erhält. Das Feedback geht über die Grenzen einer engen Diskussion über die Arbeit hinaus und bringt eine umfassendere Erforschung der Hoffnungen, Ängste und des Sinns der Person im Leben mit sich.
 faq:
-  - question: What happens if someone is performing poorly?
-    answer: This would normally be addressed using the feedback process, or if there
-      are major disagreements, the [conflict resolution
-      process](../conflict-resolution/). It is important to note that, while
-      feedback is most effective when delivered from a perspective of love and
-      support, all peers have the obligation to not shy away from difficult
-      conversations and to hold each other accountable. Frequently, poor
-      performance is effectively addressed by finding a better fit between an
-      individual's role(s) and his/her strengths. Understanding what has led to
-      poor performance from a whole person perspective is essential if a
-      workable solution is to be found.
-  - question: How does this link with the three Teal breakthroughs?
+  - question: Was geschieht, wenn jemand eine schlechte Leistung erbringt?
+    answer: Dies würde normalerweise mit Hilfe des Feedback-Prozesses oder bei
+      größeren Meinungsverschiedenheiten mit dem
+      [Konfliktlösungsprozess](../conflict-resolution/) angegangen werden. Es
+      ist wichtig anzumerken, dass Feedback zwar am effektivsten ist, wenn es
+      aus einer Perspektive der Liebe und Unterstützung heraus gegeben wird,
+      dass aber alle Peers die Pflicht haben, sich nicht vor schwierigen
+      Gesprächen zu scheuen und sich gegenseitig zur Verantwortung zu ziehen.
+      Häufig können schlechte Leistungen wirksam angegangen werden, indem die
+      Rolle(n) einer Person und ihre Stärken besser aufeinander abgestimmt
+      werden. Um eine praktikable Lösung zu finden, ist es wichtig zu verstehen,
+      was aus der Perspektive der gesamten Person zu schlechten Leistungen
+      geführt hat.
+  - question: Wie hängt dies mit den drei Teal-Durchbrüchen zusammen?
     answer: >-
-      The three Teal breakthroughs are all directly connected with the way
-      feedback is given and performance is managed. Individuals and teams are
-      guided and motivated by the [evolutionary purpose
-      ](../evolutionary-purpose/)of the organization. This allows
-      [self-management](../self-management/) rather than top-down management.
-      Feedback given from a place of compassion and care recognizing the
-      [wholeness ](../wholeness/)of people, facilitates open inquiry and
-      discussion, which in turn stimulates higher levels of performance.
+      Die drei Teal-Durchbrüche stehen alle in direktem Zusammenhang mit der Art
+      und Weise, wie Feedback gegeben und Leistung gesteuert wird.
+      Einzelpersonen und Teams werden durch den [evolutionären
+      Zweck](../evolutionären Zweck/)der Organisation geleitet und motiviert.
+      Dies ermöglicht [Selbstmanagement](../Selbstmanagement/) anstelle von
+      Top-down-Management. Feedback, das aus einer Haltung des Mitgefühls und
+      der Fürsorge heraus gegeben wird, die die
+      [Ganzheitlichkeit](../Ganzheitlichkeit/)der Menschen anerkennt,
+      erleichtert eine offene Untersuchung und Diskussion, die wiederum ein
+      höheres Leistungsniveau anregt.
 
 
-      #### **Self-management**
+      #### **Selbstmanagement**
 
 
-      In Teal Organizations, performance management is largely a self-directed process. Individuals and teams take responsibility for their own performance and growth, while soliciting feedback from others when relevant.
+      In Teal-Organisationen ist das Leistungsmanagement weitgehend ein selbstgesteuerter Prozess. Einzelpersonen und Teams übernehmen die Verantwortung für ihre eigene Leistung und ihr Wachstum und holen sich gegebenenfalls Feedback von anderen ein.
 
 
-      #### **Wholeness**
+      #### **Ganzheit**
 
 
-      The goal of traditional performance management is an objective assessment of how well someone does their job. This assessment is subject to rating errors and biases. This subjective element often generates fear and/or frustration. Under these conditions people tend to disengage.
+      Das Ziel des traditionellen Leistungsmanagements ist eine objektive Beurteilung, wie gut jemand seine Arbeit macht. Diese Beurteilung ist mit Bewertungsfehlern und Verzerrungen behaftet. Dieses subjektive Element erzeugt oft Angst und/oder Frustration. Unter diesen Bedingungen neigen die Menschen dazu, sich nicht zu engagieren.
 
 
-      Giving feedback in a [Teal organization](../teal-paradigm-and-organizations/)  is an opportunity to recognize the whole person (including their hopes, fears and aspirations). Feedback has the sole aim of helping each other, peer-to-peer. Giving feedback from a position of love, acceptance and connection allows people to lower their defenses and engage with each other openly and honestly. Not surprisingly, when people feel valued for who they are, they are more receptive to constructive feedback and contribute far more to their work. In a Teal organization performance management changes from managing someone’s performance to creating the conditions where someone can perform.
+      Feedback in einer [Teal-Organisation](../teal-paradigm-and-organizations/) ist eine Gelegenheit, die ganze Person zu erkennen (einschließlich ihrer Hoffnungen, Ängste und Bestrebungen). Feedback hat das alleinige Ziel, sich gegenseitig zu helfen, auf Augenhöhe. Feedback aus einer Position der Liebe, der Akzeptanz und der Verbundenheit heraus zu geben, erlaubt es den Menschen, ihre Abwehrkräfte zu senken und offen und ehrlich miteinander umzugehen. Es überrascht nicht, dass Menschen, die sich für das, was sie sind, wertgeschätzt fühlen, für konstruktives Feedback empfänglicher sind und viel mehr zu ihrer Arbeit beitragen. In einer Teal-Organisation ändert sich das Leistungsmanagement von der Verwaltung der Leistung eines Menschen hin zur Schaffung von Bedingungen, unter denen jemand Leistung erbringen kann.
 
 
-      #### **Evolutionary purpose**
+      #### **Evolutionäres Ziel**
 
 
-      Having a strong sense of evolutionary purpose allows people to align their efforts with the purpose of the organization and thus to manage their own performance. They contribute because they **want** to, not because they **have** to. When the [purpose ](../listening-to-purpose/)is clear and meaningful, feedback can easily be given about how well a contribution or a decision aligns with the direction of the organization. Performance management becomes "How can we respond to what is happening?" rather than "How well am I performing against the plan?". Having a meaningful evolutionary purpose guides what action is taken next.
+      Ein ausgeprägtes Gefühl für den evolutionären Zweck ermöglicht es den Mitarbeitern, ihre Bemühungen auf den Zweck der Organisation auszurichten und so ihre eigene Leistung zu steuern. Sie leisten ihren Beitrag, weil sie es **wollen**, nicht weil sie es **müssen**. Wenn der [Zweck ](../Zweck hören/)klar und sinnvoll ist, kann leicht Feedback darüber gegeben werden, wie gut ein Beitrag oder eine Entscheidung mit der Richtung der Organisation übereinstimmt. Leistungsmanagement wird zu "Wie können wir auf das reagieren, was passiert?" und nicht zu "Wie gut bin ich im Vergleich zum Plan?". Ein sinnvoller evolutionärer Zweck leitet die nächsten Maßnahmen.
 relatedTheory:
   - Objectives and Target Setting
   - Conflict resolution
