@@ -78,7 +78,7 @@ inPractice: >-
   ##### ***Passung zum Sinn der Organisation***
 
 
-  Und schließlich: Fühlt sich die Person durch den \[Sinn] der Organisation angesprochen. Gibt es etwas in der Geschichte der Person, was sie in Einklang mit dem Sinn bringt und sie dazu veranlasst, diesem Sinn in diesem Moment ihres Lebens zu dienen? Die durch diese Fragen ausgelöste Diskussion kann sehr tiefgreifend sein und sowohl dem Bewerber als auch der Organisation helfen, mehr über sich selbst zu erfahren. Die Rekrutierung wird zu einem Prozess der Selbsterkundung sowie zu einem Prozess der gegenseitigen Erkundung.
+  Und schließlich: Fühlt sich die Person durch den [Sinn](https://reinventingorganizationswiki.com/theory/listening-to-purpose/) der Organisation angesprochen. Gibt es etwas in der Geschichte der Person, was sie in Einklang mit dem Sinn bringt und sie dazu veranlasst, diesem Sinn in diesem Moment ihres Lebens zu dienen? Die durch diese Fragen ausgelöste Diskussion kann sehr tiefgreifend sein und sowohl dem Bewerber als auch der Organisation helfen, mehr über sich selbst zu erfahren. Die Rekrutierung wird zu einem Prozess der Selbsterkundung sowie zu einem Prozess der gegenseitigen Erkundung.
 
 
   ##### ***Die Passung testen***
