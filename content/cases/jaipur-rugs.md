@@ -104,4 +104,24 @@ theory:
 
 
       * [Allow Employees to think creatively](https://www.nkchaudhary.com/business/give-employees-the-gift-of-creative-freedom/)
+  - topic: Role Definition and Allocation
+    title: Space to grow and explore
+    content: >-
+      Members fill roles that are created, exchanged and discontinued in
+      response to current needs. They aren’t put in a box with a job title.
+      There is space to grow and explore. 
+
+      Some artisans become leaders, entrepreneurs or designers. 
+
+      Leaders: A program called Bunkar Sakhi (meaning  Artisan Leader) allows artisans to receive leadership training. They then help fellow artisans to achieve best quality in their work. 
+
+      Entrepreneurs: Jaipur Rugs artisans have opened centers of weaving in their homes. They have become tour guides for customers and visitors.
+
+      Artist: Under the Manchaha Program (meaning Artisan Original), Jaipur Rug artisans create and design their own rugs. 
+
+
+      *For more insight, please look at the following blog articles from the founder:* 
+
+
+      * [Business is Art](https://www.nkchaudhary.com/business/business-is-art/)
 ---
