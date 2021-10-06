@@ -124,4 +124,17 @@ theory:
 
 
       * [Business is Art](https://www.nkchaudhary.com/business/business-is-art/)
+  - topic: Evolutionary Purpose
+    title: Be flexible, free and flow like water
+    content: >-
+      Reviving the dying art of carpet weaving and creating community are at the
+      core of the company’s business philosophy. Jaipur Rugs has worked to
+      bridge the gap between weavers and consumers. 
+
+
+
+      In the following blog article, the founder explains how running his company requires him “to be flexible and free flowing like water” :
+
+
+      * [Making Mistakes or Building a Pathway for Creativity?](https://www.nkchaudhary.com/innovation/making-mistakes-or-building-a-pathway-for-creativity/)
 ---
