@@ -83,4 +83,25 @@ theory:
       * [What is Social Responsibility in Business?](https://www.nkchaudhary.com/healing/what-is-social-responsibility-in-business/)
 
       * [Social Entrepreneurship in Post-COVID-19 Era](https://www.nkchaudhary.com/founders-mentality/social-entrepreneurship-in-post-covid-19-era/)
+  - topic: Job Titles and Job Descriptions
+    title: Thinking creatively
+    content: >-
+      Most people don’t have a single “job” that fits a generic description.
+      Rather, they fill a combination of roles. They have the space to grow and
+      co-create with other departments and explore their interests. When a
+      candidate joins, they have a period of probation (3-6 months) during which
+      they explore their interests, and eventually decide on their work role.
+      This depends on requirements from specific teams. But the idea is that
+      each individual gets the chance to choose their tasks according to
+      interest and passion (always given these align with company’s vision).
+      This period also allows the company to assess and understand the
+      candidate. So, it’s win-win. 
+
+      Plus, employees participate in sessions where they provide feedback for management. Each department has such sessions. Additionally, the founder has an open-door policy. This is a direct platform for anyone to go and talk to the founder, which can also help individuals to talk about their roles, if and when required.
+
+
+      *For more insight, please look at the following blog article from the founder:*
+
+
+      * [Allow Employees to think creatively](https://www.nkchaudhary.com/business/give-employees-the-gift-of-creative-freedom/)
 ---
