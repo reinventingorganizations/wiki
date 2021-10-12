@@ -2,7 +2,7 @@
 layout: article
 tags: theory
 key: Evolutionary Purpose
-name: Evolutionary Purpose
+name: Evolutionärer Sinn
 sortOrder: 2
 category: teal-concepts
 intro: >-
