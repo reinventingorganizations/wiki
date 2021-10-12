@@ -49,7 +49,7 @@ inPractice: >-
   Das evolutionäre Ziel ist nicht dasselbe wie eine Visionserklärung. Eine Visionserklärung spiegelt in der Regel den ego-gesteuerten Bewusstseinszustand des Managementteams wider, das entscheidet, was die Organisation sein soll.
 
 
-  The evolutionary purpose of a Teal organization reflects the deeper reason the organization exists. It relates to the difference it wants to make in the community it operates in, as well as in the marketplace it serves. It is not concerned with competition or outperforming others; it is serving the ‘greater good’ that matters. Some examples are:
+  Der evolutionäre Sinn einer Teal-Organisation spiegelt den tieferen Grund für die Existenz der Organisation wider. Er bezieht sich auf den Unterschied, den sie in der Gemeinschaft, in der sie tätig ist, sowie auf dem Markt, den sie bedient, bewirken will. Es geht nicht darum, zu konkurrieren oder andere auszustechen, sondern es geht darum, dem "größeren Guten" zu dienen. Einige Beispiele hierfür sind:
 
 
   * "Helping home-based patients become healthy and autonomous" - Buurtzorg, healthcare organization^[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4239-4240). Nelson Parker. Kindle Edition]
