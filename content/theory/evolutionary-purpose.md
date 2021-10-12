@@ -31,15 +31,16 @@ perspective: >-
 
   Was ist der "Sinn" einer Organisation? Viele moderne Organisationen haben zwar "Leitbilder", aber diese Erklärungen klingen oft hohl, dienen nicht der Entscheidungsfindung und sind den Mitarbeitern sogar oft völlig unbekannt. Anstelle eines kollektiven Ziels wird das Verhalten in den meisten Organisationen durch den Wunsch nach Selbsterhaltung bestimmt. Die angstbasierte Natur des Egos in Rot, Gelb und Orange veranlasst Führungskräfte und Mitarbeiter dazu, die Welt als einen gefährlichen Ort zu betrachten, an dem überall Konkurrenten versuchen, ihnen das Mittagessen zu stehlen. Die einzige Möglichkeit, das Überleben zu sichern, besteht darin, jede Gelegenheit zu ergreifen, um mehr Gewinn zu machen und Marktanteile auf Kosten der Konkurrenten zu gewinnen. Wer hat in der Hitze des Gefechts schon Zeit, über den Sinn nachzudenken? Leider spielt diese angstbasierte Fixierung auf den Wettbewerb auch dann eine Rolle, wenn die Selbsterhaltung der Organisation nicht in Frage gestellt ist. In Organisationen, die einigermaßen vor Wettbewerb geschützt sind (z. B. das Militär, öffentliche Schulen und Regierungsbehörden), sucht das ängstliche Ego immer noch nach Sicherheit, diesmal im internen Wettbewerb; Manager kämpfen um die Selbsterhaltung ihrer Einheiten in Revierkämpfen mit anderen Einheiten, um mehr Mittel, Talente oder Anerkennung zu sichern. Mit dem Übergang zum Evolutionären Ego lernen die Menschen, die Ängste ihres Egos zu zähmen. Dieser Prozess schafft Raum für die Erkundung tieferer Fragen nach Sinn und Zweck, sowohl individuell als auch kollektiv: Was ist meine Berufung? Was ist es wirklich wert, erreicht zu werden? Das Überleben ist für Teal-Organisationen nicht mehr von entscheidender Bedeutung. Stattdessen ist der Gründungszweck wirklich wichtig.^\[Übersetzt aus Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4197-4205). Nelson Parker. Kindle Edition.]
 inPractice: >-
-  In a Teal organization, the ego driven desire for self-preservation is
-  replaced by a powerful drive to do work that has meaning and purpose. The
-  concept of ‘being the best’ becomes a hollow aim unless the organization is
-  doing something worthy of the energy, talents and creativity of the people who
-  work there. The Teal paradigm accepts that each organization has its own
-  identity, life force and calling. Brian Robertson, the founder of Holacracy,
-  uses the term evolutionary purpose to indicate that organizations, just like
-  individuals, have a calling and an evolutionary energy to move toward that
-  calling:
+  In einer Teal-Organisation wird der vom Ego getriebene Wunsch nach
+  Selbsterhaltung durch den starken Drang ersetzt, eine Arbeit zu leisten, die
+  Sinn und Zweck hat. Das Konzept, "die Beste zu sein", wird zu einem hohlen
+  Ziel, wenn die Organisation nicht etwas tut, das der Energie, den Talenten und
+  der Kreativität der Menschen, die dort arbeiten, würdig ist. Das
+  Teal-Paradigma akzeptiert, dass jede Organisation ihre eigene Identität,
+  Lebenskraft und Berufung hat. Brian Robertson, der Begründer von Holacracy,
+  verwendet den Begriff "evolutionärer Sinn", um darauf hinzuweisen, dass
+  Organisationen, genau wie Einzelpersonen, eine Berufung und eine evolutionäre
+  Energie haben, um sich auf diese Berufung hin zu bewegen:
 
 
   > *What is the organization’s identity? And what does it want? … The metaphor is like the parent-child journey: … we recognize our child has its own identity and its own path and its own purpose. And just because I might be really excited at the idea of my child being a doctor, that doesn’t mean I get to project that on my child. There is a harmful, co-dependent process when I do that. We’ve learned as parents that the healthy parent’s journey is a differentiation process, and ironically that differentiation of parent and child allows each to have their own autonomy and identity more fully, which then allows a more conscious integration where we are in relationship and interconnect, but it’s a relation of peers, of equals. … It’s us humans that can tune into the organization’s evolutionary purpose; but the key is about separating identity and figuring out “What is this organization’s calling?” Not “What do we want to use this organization to do, as property?” but rather “What is this life, this living system’s creative potential?” That’s what we mean by evolutionary purpose: the deepest creative potential to bring something new to life, to contribute something energetically, valuably to the world. … It’s that creative impulse or potential that we want to tune into, independent from what we want ourselves.*^\[Laloux, Frederic (2014-02-09) Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4322). Nelson Parker. Kindle Edition.] 
