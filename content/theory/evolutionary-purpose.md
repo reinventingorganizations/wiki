@@ -13,17 +13,20 @@ intro: >-
 
   ![](/media/evolutionary-purpose-2.jpg)
 perspective: >-
-  > *"Like any living system, every organization co-evolves. Its character
-  and  capabilities emerge as it plays with possibilities. It messes about with
-  others until a workable system appears. This system has abilities and beliefs
-  no one planned. It accomplishes work in ways no one designed.  It has
-  relationships no one mandated. While we worry about designs and structures,
-  tweak procedures and rules, insist on compliance and control, we never succeed
-  in creating an organization by these activities. Organization wants to happen.
-  Human organizations emerge from processes that can be comprehended but never
-  controlled."* **A Simpler Way, Margaret J. Wheatley and Myron
-  Kellner-Rogers^\[Wheatley, Margaret J and Kellner-Rodgers, Myron. A Simpler
-  Way. Berrett-Koehler Publishers, San Francisco, CA, USA (1999), p.109.]**
+  > *"Wie jedes lebende System entwickelt sich auch jede Organisation weiter.
+  Ihr Charakter und ihre Fähigkeiten entwickeln sich im Spiel mit den
+  Möglichkeiten. Sie spielt mit anderen herum, bis ein funktionierendes System
+  entsteht. Dieses System hat Fähigkeiten und Überzeugungen, die niemand geplant
+  hat. Es erledigt die Arbeit auf eine Weise, die niemand geplant hat.  Es hat
+  Beziehungen, die niemand angeordnet hat. Wir machen uns zwar Gedanken über
+  Entwürfe und Strukturen, feilen an Verfahren und Regeln, bestehen auf
+  Einhaltung und Kontrolle, doch gelingt es uns nie, durch diese Aktivitäten
+  eine Organisation zu schaffen. Organisation will geschehen. Menschliche
+  Organisationen entstehen aus Prozessen, die zwar verstanden, aber niemals
+  kontrolliert werden können."* **A Simpler Way, Margaret J. Wheatley and Myron
+  Kellner-Rogers^\[Übersetzt aus Wheatley, Margaret J and Kellner-Rodgers,
+  Myron. A Simpler Way. Berrett-Koehler Publishers, San Francisco, CA, USA
+  (1999), p.109.]**
 
 
   What is the “purpose” of an organization? While many modern organizations have “mission statements”, these statements often ring hollow, do not actually guide decision-making and in fact are often altogether unknown to employees. Rather than collective purpose, behavior in most organizations is driven by a desire for self-preservation. The fear-based nature of the ego in Red, Amber, and Orange predisposes leaders and employees to see the world as a dangerous place with competitors everywhere trying to steal their lunch. The only way to ensure survival is to seize every opportunity to make more profit and to gain market share at the expense of competitors. In the heat of the battle, who has time to think about purpose? Sadly, this fear-based fixation on competition plays out even when the self-preservation of the organization is not in doubt. In organizations that are somewhat shielded from competition (for example the military, public schools, and government agencies), the fearful ego still seeks safety, this time in internal competition; managers fight for the self-preservation of their units in turf wars with other units, to secure more funding, talent, or recognition. With the transition to Evolutionary-Teal, people learn to tame the fears of their egos. This process makes room for exploring deeper questions of meaning and purpose, both individually and collectively: What is my calling? What is truly worth achieving? Survival is no longer a fixation for Teal Organizations. Instead, the founding purpose truly matters.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4197-4205). Nelson Parker. Kindle Edition.]
