@@ -6,13 +6,10 @@ name: Evolutionärer Sinn
 sortOrder: 2
 category: teal-concepts
 intro: >-
-  *"Nothing endures except change"'* 
+  *"Nichts hat Bestand außer dem Wandel"'* 
+   Heraklit^\[Heraklit, zitiert von Diogenes Laërtius in Leben und Ansichten bedeutender Philosophen]
 
-  Heraclitus^\[Heraclitus, quoted by Diogenes Laërtius in Lives and Opinions of Eminent Philosophers]
-
-
-  Nature, humankind, relationships: everything evolves, driven by a life force, to adapt, transform and grow. From a Teal perspective, organizations are viewed as an independent energy field with a purpose that transcends its stakeholders. In this paradigm, we don’t own or run the organization; instead we are stewards, listening to where it needs to go and helping it to do its work in the world..
-
+  Die Natur, die Menschen, die Beziehungen: Alles entwickelt sich, angetrieben von einer Lebenskraft, um sich anzupassen, zu transformieren und zu wachsen. Aus der Teal-Perspektive werden Organisationen als ein unabhängiges Energiefeld mit einem Sinn betrachtet, der über die Interessengruppen hinausgeht. In diesem Paradigma besitzen oder leiten wir die Organisation nicht; stattdessen sind wir Verwalter, die zuhören, wohin sie gehen muss, und ihr helfen, ihre Arbeit in der Welt zu tun.
 
   ![](/media/evolutionary-purpose-2.jpg)
 perspective: >-
