@@ -42,15 +42,15 @@ perspective: >-
   Meetings werden aus vielen Gründen abgehalten:
 
 
-  * Berichterstattung über den Fortschritt und Treffen von Entscheidungen. 
+  * Berichterstattung über den Fortschritt und Treffen von Entscheidungen 
 
   * Planen
 
-  * Um durch Brainstorming und andere kreative Prozesse innovativ zu sein.
+  * Um durch Brainstorming und andere kreative Prozesse innovativ zu sein
 
   * Einholen von Genehmigungen für Investitionen und andere wichtige Entscheidungen
 
-  * Festlegen von Prioritäten und so weiter.
+  * Festlegen von Prioritäten und so weiter
 
 
   Da diese Meetings immer mehr zunehmen, werden sie zum "Terminkalenderfüller" für vielbeschäftigte leitende Angestellte. Bis vor relativ kurzer Zeit bedeutete dies für einige der bei internationalen Organisationen Beschäftigten oft eine erhebliche Reisetätigkeit.
@@ -62,7 +62,7 @@ perspective: >-
   ### Grüne Organisationen
 
 
-  In [grünen Organisationen](../green-paradigm-and-organizations/) zielen Sie darauf ab, mehreren Interessengruppen mit Gleichheit, Respekt und Einbeziehung zu dienen. Dies erfordert, sich mit ihnen zu treffen. Konsens wird geschätzt, es kann aber zermürbend sein, um ihn zu erreichen.
+  In [grünen Organisationen](../green-paradigm-and-organizations/) zielen Sie darauf ab, mehreren Interessengruppen mit Gleichheit, Respekt und Einbeziehung zu dienen. Dies erfordert, sich mit ihnen zu treffen. Konsens wird geschätzt, es kann aber zermürbend sein, ihn zu erreichen.
 
 
   Bei Meetings geht es nicht nur um Planung und Berichterstattung (wie in orangen Organisationen), sondern auch um die Aufrechterhaltung eines Gefühls von Eigenverantwortung, Einbeziehung und Befähigung: mit anderen Worten, um die Schaffung einer wertebasierten Kultur. Infolgedessen sind die Meeting-Praktiken tendenziell aufmerksamer gegenüber den zugrunde liegenden Prozessen innerhalb der Gruppe.
@@ -87,19 +87,19 @@ perspective: >-
   Besprechungen beinhalten in der Regel bestimmte Praktiken, um sicherzustellen, dass sich die Mitglieder auf eine respektvolle und produktive Weise miteinander und mit dem Zweck der Besprechung auseinandersetzen. Neue Mitglieder werden in der Regel in diesen Prozessen geschult, damit sie vollständig teilnehmen können.
 inPractice: >-
   #### *Die Aktivität von Meetings ist begrenzt und entsteht aus dem "Bedürfnis,
-  sich zu treffen".*
+  sich zu treffen"*
 
 
-  Meetings können spontan entstehen, wenn ein Mitglied der Organisation ein Bedürfnis verspürt und die Initiative ergreift.  Meeting-Strukturen und Moderation unterstützen diesen [selbstorganisierenden](../self-management/) Geist. Die erhöhte Transparenz in Teal-Organisationen reduziert die Anzahl und Länge einiger Meetings. Wenn Meetings abgehalten werden, wird darauf geachtet, bestimmte Praktiken zu verwenden, die ein Gefühl der [Ganzheitlichkeit](../wholeness/) fördern.
+  Meetings können spontan entstehen, wenn ein Mitglied der Organisation ein Bedürfnis verspürt und die Initiative ergreift. Meeting-Strukturen und Moderation unterstützen diesen [selbstorganisierenden](../self-management/) Geist. Die erhöhte Transparenz in Teal-Organisationen reduziert die Anzahl und Länge einiger Meetings. Wenn Meetings abgehalten werden, wird darauf geachtet, bestimmte Praktiken zu verwenden, die ein Gefühl der [Ganzheitlichkeit](../wholeness/) fördern.
 
 
   #### *Selbstmanagement erfordert deutlich weniger Meetings*
 
 
-  Insgesamt gibt es tendenziell weniger Meetings in [Teal-Organisationen](../teal-paradigm-and-organizations/). In einer traditionellen Pyramidenstruktur werden Meetings benötigt, um Informationen zu sammeln, zu verpacken, zu filtern und weiterzuleiten, während sie die Befehlskette auf und ab fließen.  In selbstverwaltenden Strukturen fällt die Notwendigkeit für viele dieser Meetings weg. Während in [grünen Organisationen](../green-paradigm-and-organizations/) Meetings ein Weg sein können, eine "Bottom-up"-Beteiligung aufzubauen, ist diese in einer selbstverwalteten Struktur bereits "eingebaut".
+  Insgesamt gibt es tendenziell weniger Meetings in [Teal-Organisationen](../teal-paradigm-and-organizations/). In einer traditionellen Pyramidenstruktur werden Meetings benötigt, um Informationen zu sammeln, zu verpacken, zu filtern und weiterzuleiten, während sie die Befehlskette auf und ab fließen. In selbstverwaltenden Strukturen fällt die Notwendigkeit für viele dieser Meetings weg. Während in [grünen Organisationen](../green-paradigm-and-organizations/) Meetings ein Weg sein können, eine "Bottom-up"-Beteiligung aufzubauen, ist diese in einer selbstverwalteten Struktur bereits "eingebaut".
 
 
-  #### *Regelmäßige Besprechungen auf der Ebene des operativen Teams/Zirkels*
+  #### *Regelmäßige Besprechungen auf der Ebene des operativen Teams/Kreises*
 
 
   Die Häufigkeit der Team-/Kreissitzungen wird durch die Art der Arbeit bestimmt.
@@ -108,7 +108,7 @@ inPractice: >-
   Siehe FAVI, unten. 
 
 
-  #### *Agendas*
+  #### *Agenden*
 
 
   Traditionell gelten Tagesordnungen als die Mindestdisziplin für ein produktives Meeting. Aber nicht unbedingt an einem Teal-Arbeitsplatz. Viele ihrer geplanten Meetings haben keine vorher festgelegte Tagesordnung. Vielmehr wird diese zu Beginn festgelegt und basiert auf den Themen, die zu diesem Zeitpunkt Energie für die Teilnehmer bereithalten. Dies stellt sicher, dass die Meetings angeregt, zielgerichtet und fesselnd bleiben. Das Interesse ist ein echtes und gegenwärtiges Interesse; es wird nicht durch einen ritualisierten Ansatz hergestellt. 
@@ -123,7 +123,7 @@ inPractice: >-
   Im Gegensatz dazu sind All-Hands-Meetings in traditionellen Unternehmen eher präsentationsorientiert - oder werden aufgrund ihrer Unvorhersehbarkeit und ihres Risikos vermieden.
 
 
-  #### *Die Form folgt der Funktion: Meetings entstehen ad hoc*.
+  #### *Die Form folgt der Funktion: Meetings entstehen ad hoc*
 
 
   Meetings, die benötigt werden, um teamübergreifende Aufgaben zu koordinieren oder spezielle Projekte zu starten, entstehen spontan. Das ist eine organische Art der Organisation.
@@ -135,9 +135,9 @@ inPractice: >-
   Beispiele sind:
 
 
-  * Team [Entscheidungsfindung](../decision-making/) (Meetings bei [Buurtzorg](http://www.buurtzorgnederland.com/))
+  * Team-[Entscheidungsfindungs](../decision-making/)-Meetings bei [Buurtzorg](http://www.buurtzorgnederland.com/)
 
-  * Holokratische Führung vs. taktische (Meetings bei [HolocracyOne ](http://www.holacracy.org/))
+  * Holokratische Führung vs. taktische Meetings bei [HolocracyOne ](http://www.holacracy.org/)
 
   * [On-Boarding](../onboarding/)-Besprechungen/Abschiedsbesprechungen wie bei [CC&R ](http://www.couragerenewal.org/)
 
@@ -145,7 +145,7 @@ inPractice: >-
 
   * [Konfliktlösungs](../conflict-resolution/)-Meetings
 
-  * [Zuhören zum Zweck](../listening-to-purpose/)-Meetings
+  * [Zuhören-zum-Zweck](../listening-to-purpose/)-Meetings
 
   * Großgruppenreflexionen auf [Heiligenfeld](http://www.heiligenfeld.de/)
 
@@ -166,10 +166,10 @@ inPractice: >-
   #### Schulung in Meeting-Praktiken
 
 
-  Einige schulen neue Mitglieder in effektiven Besprechungsformaten. Neue Mitglieder müssen sich wohlfühlen, um an Entscheidungsprozessen teilnehmen zu können.
+  Einige Organisationen schulen neue Mitglieder in effektiven Besprechungsformaten. Neue Mitglieder müssen sich wohlfühlen, um an Entscheidungsprozessen teilnehmen zu können.
 
 
-  Schulungen in Moderation, Kommunikationsfähigkeiten und Denkweisen unterstützen Kollegialität, Vertrauensbildung und die Lösung von Spannungen.
+  Schulungen in Moderation, Kommunikationsfähigkeit und Denkweisen unterstützen Kollegialität, Vertrauensbildung und die Lösung von Spannungen.
 
 
   #### Am richtigen Ort beginnen
@@ -237,12 +237,11 @@ faq:
       haben 50-80 % der Mitarbeiter den Beitrag gelesen und vielleicht
       kommentiert. Vielleicht ist die überwältigende Antwort \"ja, das ist
       gut\", in diesem Fall kann die Entscheidung einfach zu diesem Zeitpunkt
-      getroffen werden. In diesem Fall kann die Entscheidung an dieser Stelle
-      einfach umgesetzt werden. Oder er hat Rückmeldungen erhalten, dass er
-      vielleicht wichtige negative Konsequenzen übersehen hat oder dass das
-      Thema komplizierter ist, als ihm bewusst ist. In diesem Fall könnte er
-      seinen Vorschlag entsprechend überarbeiten und neu posten, oder er sieht
-      die Notwendigkeit, eine freiwillige Gruppe zu versammeln, die sich damit
+      getroffen werden. Oder er hat Rückmeldungen erhalten, dass er vielleicht
+      wichtige negative Konsequenzen übersehen hat oder dass das Thema
+      komplizierter ist, als ihm bewusst ist. In diesem Fall könnte er seinen
+      Vorschlag entsprechend überarbeiten und neu posten, oder er sieht die
+      Notwendigkeit, eine freiwillige Gruppe zu versammeln, die sich damit
       befasst. In jedem Fall ermöglicht dies einen schnellen
       [Entscheidungsfindungsprozess] (../decision-making/) mit sehr wenigen
       Treffen.\"
@@ -267,7 +266,7 @@ faq:
       Überarbeitungen, und es geht wieder die Linie hinunter, und wieder
       hinauf... Es kann nun politisch werden, was eine weitere Ebene von
       Komplikationen mit sich bringt. Wenn es nun genehmigt ist, arbeitet jemand
-      in der internen Kommunikation daran und zeigt es der Chefin, wieder.
+      in der internen Kommunikation daran und zeigt es wieder der Chefin.
       Schließlich wird es zu den Managern kaskadiert, die Präsentationen
       vorbereiten, um ein Team-Meeting zu machen. Die Gesamtzahl der Meetings,
       die in eine solche Entscheidung einfließen können, ist enorm."
