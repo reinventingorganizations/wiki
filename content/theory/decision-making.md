@@ -226,34 +226,23 @@ faq:
       zu ignorieren?
     answer: >-
       Die Kollegen wissen, dass die Nutzung des Beratungsprozesses nicht
-      optional ist. Eine Möglichkeit, abgewiesen zu werden, besteht darin, die
-      gegenseitigen Verpflichtungen des Beratungsprozesses zu ignorieren. Mit
-      einem [Konfliktlösungsprozess](../Konfliktlösung/) (wie in einigen
+      optional ist. Eine Möglichkeit, sich zu disqualifizieren, besteht darin,
+      die gegenseitigen Verpflichtungen des Beratungsprozesses zu ignorieren.
+      Mit einem [Konfliktlösungsprozess](../Konfliktlösung/) (wie in einigen
       Teal-Einheiten) kann jemand, der das Gefühl hat, dass der Beratungsprozess
       nicht respektiert wird, einen Kollegen zur Verantwortung ziehen. 
 
 
       Aber wenn sich die Menschen daran gewöhnen, wächst der Respekt für diese Praxis. Besonders weil Menschen auf beiden Seiten der Gleichung stehen. Wenn Sie mich heute Morgen um meinen Rat bitten, hoffe ich, dass Sie ihn ernst nehmen. Wenn unsere Rollen heute Nachmittag vertauscht sind, muss ich Sie ebenfalls ernst nehmen. Da die Macht verteilt ist, wissen Sie, dass andere auch Entscheidungen über Dinge treffen können, die Ihnen wichtig sind, also sind Sie geneigt, deren Bedürfnisse und Ansichten zu berücksichtigen.
   - question: Wer entscheidet, wer der Entscheidungsträger sein darf?
-    answer: "Mit anderen Worten: Wer kann entscheiden, wer welche Entscheidungen
-      trifft, und dabei noch den Beratungsprozess nutzen? \r
+    answer: >-
+      Mit anderen Worten: Wer kann entscheiden, wer welche Entscheidungen
+      trifft, und dabei noch den Beratungsprozess nutzen? 
 
-      \r
 
-      In der Praxis fällt die Initiierung von Beratung und
-      Entscheidungsfindung in der Regel in den Bereich einer bestimmten Rolle.
-      Jemand, der ein Problem oder eine Gelegenheit wahrnimmt, könnte vortreten
-      und sagen: \"Hey, ich sehe diese Gelegenheit. Was denkst du? Sollten Sie
-      das in Ihrer Rolle initiieren?\". Wenn diese Person jedoch nicht das
-      Interesse oder die Bandbreite hat, den Prozess zu leiten, kann es jede
-      andere Person tun. Wenn es niemand tut, bedeutet es normalerweise, dass
-      die Entscheidung im Moment nicht so wichtig ist.\ 
+      In der Praxis fällt die Initiierung von Beratung und Entscheidungsfindung in der Regel in den Bereich einer bestimmten Rolle. Jemand, der ein Problem oder eine Gelegenheit wahrnimmt, könnte vortreten und sagen: "Hey, ich sehe diese Gelegenheit. Was denkst du? Sollten Sie das in Ihrer Rolle initiieren?". Wenn diese Person jedoch nicht das Interesse oder die Bandbreite hat, den Prozess zu leiten, kann es jede andere Person tun. Wenn es niemand tut, bedeutet es normalerweise, dass die Entscheidung im Moment nicht so wichtig ist. 
 
-      Holacracy fügt eine Wendung hinzu: für besonders sensible Bereiche,
-      kann eine \"Domäne\" deklariert werden. Eine Domäne bedeutet im Grunde
-      \"Hände weg\". Entscheidungen, die sich auf diese Domäne beziehen, können
-      nur von einer ernannten Person(en) getroffen werden. Die Idee ist, dass
-      Domänen eine Ausnahme bleiben und nicht häufig benutzt werden sollten."
+      Holacracy fügt eine Wendung hinzu: für besonders sensible Bereiche, kann eine "Domäne" deklariert werden. Eine Domäne bedeutet im Grunde "Hände weg". Entscheidungen, die sich auf diese Domäne beziehen, können nur von (einer) ernannten Person(en) getroffen werden. Die Idee ist, dass Domänen eine Ausnahme bleiben und nicht häufig benutzt werden sollten.
   - question: Wenn wir akzeptieren, dass eine Organisation ihren eigenen Sinn hat,
       wie finden wir dann heraus, wohin sie gehen will?
     answer: "#### Sensing als natürliches Ergebnis des Selbstmanagements
@@ -277,9 +266,9 @@ faq:
 
       \r
 
-      Eine Praxis, um den Zweck im Vordergrund zu halten, besteht darin,
+      Eine Praxis, um den Sinn im Vordergrund zu halten, besteht darin,
       bei Versammlungen einen leeren Stuhl zu bestimmen, der unseren
-      [evolutionären Zweck](../evolutionary-purpose/) repräsentiert. Jeder kann
+      [evolutionären Sinn](../evolutionary-purpose/) repräsentiert. Jeder kann
       den Stuhl besetzen und die Stimme der Organisation vertreten. Aus dieser
       Perspektive können sich verschiedene Fragen ergeben: Haben die heutigen
       Diskussionen und Entscheidungen Ihnen (der Organisation) gut gedient? Was
