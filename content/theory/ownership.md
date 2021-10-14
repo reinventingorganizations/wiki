@@ -62,21 +62,23 @@ perspective: >-
 
   Im Allgemeinen haben gewinnorientierte grüne Organisationen jedoch keine andere Eigentümerschaft als orange Organisationen. Wenn die Eigentümer einer grünen Organisation alle die grüne Perspektive teilen, stellt dies in der Regel kein Problem dar. Sollten jedoch einige Eigentümer die Bedeutung finanzieller Erträge unterschiedlich einschätzen, kann es zu Konflikten kommen.
 inPractice: >-
-  Ownership in Teal organizations can take a number of forms. It may be
-  concentrated or dispersed, private or public, and this diversity has been in
-  evidence at least to some extent in those Teal organizations that have so far
-  come into being. Having said that, there is at least strong evidence that in
-  whatever form, the owners of Teal organizations must understand and embrace a
-  Teal worldview. While it is not clear that a Teal perspective is necessarily
-  incompatible with profit and wealth maximization (one might argue that Teal
-  can maximize these even as a by product of its evolutionary purpose), it is
-  certainly true that many might believe this to be so. Thus, a Teal
-  organization with owners who do not necessarily subscribe to a Teal worldview
-  is at risk that such owners (as a result of the legal rights typically
-  conferred upon them) can force the abandonment of Teal practices when they
-  seem to conflict with, or be less effective in terms of pursuing the more
-  traditional objective of profit (see BSO/Origin and AES under “Concrete
-  examples for inspiration” below).
+  Die Eigentümerschaft in Teal-Organisationen kann verschiedene Formen annehmen.
+  Es kann konzentriert oder verstreut, privat oder öffentlich sein, und diese
+  Vielfalt ist zumindest bis zu einem gewissen Grad in den bisher entstandenen
+  Teal-Organisationen zu beobachten. Davon abgesehen gibt es zumindest deutliche
+  Hinweise darauf, dass die Eigentümer von Teal-Organisationen, in welcher Form
+  auch immer, eine Teal-Weltanschauung verstehen und übernehmen müssen. Es ist
+  zwar nicht klar, dass eine Teal-Perspektive notwendigerweise mit Gewinn- und
+  Wohlstandsmaximierung unvereinbar ist (man könnte argumentieren, dass Teal
+  diese sogar als Nebenprodukt seines evolutionären Sinns maximieren kann), aber
+  es ist sicherlich wahr, dass viele dies so sehen könnten. Eine
+  Teal-Organisation mit Eigentümern, die nicht notwendigerweise eine
+  Teal-Weltanschauung vertreten, läuft daher Gefahr, dass diese Eigentümer
+  (aufgrund der ihnen typischerweise verliehenen gesetzlichen Rechte) die
+  Abschaffung von Teal-Praktiken erzwingen können, wenn diese mit dem
+  traditionelleren Ziel der Gewinnmaximierung in Konflikt zu geraten scheinen
+  oder weniger effektiv sind (siehe BSO/Origin und AES unter "Konkrete Beispiele
+  zur Inspiration" unten).
 
 
   Certain legal developments have emerged to address this potential conflict, but they are not yet widespread. In the United States, some states recognize a “benefit corporation” as a type of for-profit entity that includes positive impact on society, workers, the community and the environment in addition to profit in its legally defined goals. In for-profit companies as we currently know them (the so-called C-Corporations), the organizations’ directors have a fiduciary duty to the shareholders, and to the shareholders only. They face the prospect of civil claims if they stray from their fiduciary duties by taking environmental or social concerns into account at the expense of shareholders. The duty of directors of benefit corporations is extended to include non-financial interests, such as social benefit, concerns of employees and suppliers, and environmental impact.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 5464-5467). Nelson Parker. Kindle Edition.]
