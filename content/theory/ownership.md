@@ -36,31 +36,31 @@ perspective: >-
   Für eine ausführlichere Diskussion der historischen Perspektive auf Eigentümerschaft siehe unten:
 
 
-  #### Red Organizations
+  #### Rote Organisationen
 
 
-  In the [Red organization](https://reinventingorganizations-wiki.netlify.app/theory/red-organizations/), ownership is frequently a meaningless concept, as the legitimacy of its leadership stems from power more than some construct of ownership. Purpose is more closely tied to further aggregation of power than to financial return. To the extent Red organizations recognize ownership, ownership and leadership are typically fused. The leader is also the owner, or the key representative of the ownership family.
+  In der [roten Organisation] (https://reinventingorganizations-wiki.netlify.app/theory/red-organizations/) ist die Eigentümerschaft häufig ein bedeutungsloses Konzept, da die Legitimität ihrer Führung eher auf Macht als auf irgendeinem Konstrukt von Eigentümerschaft beruht. Der Zweck ist enger mit der weiteren Anhäufung von Macht verbunden als mit finanzieller Rendite. So wie rote Organisationen Eigentümerschaft berücksichtigen, sind Eigentümerschaft und Führung in der Regel miteinander verschmolzen. Der Anführer ist auch der Eigentümer bzw. der wichtigste Vertreter der Eigentümerfamilie.
 
 
-  #### Amber Organizations
+  #### Bernstein-Organisationen
 
 
-  Again, in the the [Amber paradigm](http://reinventingorganizationswiki.com/Amber_Organizations), ownership is often an incongruous idea. Amber organizations frequently have a purpose other than financial return. There is no “owner” of the military, the church or government agencies. To the extent for-profit entities operate in the Amber paradigm, they typically balance the pursuit of financial return with some other objective such as self-preservation. Often family-owned, the owners can limit the strict pursuit of profit maximization in favor of interests like maintaining a legacy.
+  Auch im [Bernstein-Paradigma] (http://reinventingorganizationswiki.com/Amber_Organizations) ist die Eigentümerschaft oft eine widersprüchliche Idee. Bernsteinfarbene Organisationen haben häufig einen anderen Zweck als finanzielle Rendite. Es gibt keinen "Eigentümer" des Militärs, der Kirche oder von Regierungsbehörden. In den Fällen, in denen gewinnorientierte Unternehmen in dem Bernstein-Paradigma tätig sind, halten sie in der Regel das Streben nach finanzieller Rendite mit einem anderen Ziel wie der Selbsterhaltung in Einklang. Da sie sich oft in Familienbesitz befinden, können die Eigentümer das strikte Streben nach Gewinnmaximierung zugunsten von Interessen wie der Wahrung eines Vermächtnisses einschränken.
 
 
-  #### Orange Organizations
+  #### Orange Organisationen
 
 
-  It is under the [Orange paradigm](http://reinventingorganizationswiki.com/Orange_Organizations), that the concept of ownership becomes paramount. A primary purpose of the classic Orange organization is to provide a financial return to its owners. This is reflected in the modern legal construct of a corporation, where shareholders have ultimate authority over management in proportion to their ownership. Management is legally obliged to seek a financial return for shareholders. This has resulted in widely dispersed ownership of organizations as well as ownership that can change through mechanisms like tradable shares. Each owner may have a tiny, and variable stake, but all are united in the pursuit of financial gain.
+  Im Rahmen des [orangen Paradigmas] (http://reinventingorganizationswiki.com/Orange_Organizations) steht das Konzept der Eigentümerschaft im Vordergrund. Ein Hauptzweck der klassischen orangen Organisation besteht darin, ihren Eigentümern eine finanzielle Rendite zu verschaffen. Dies spiegelt sich in dem modernen rechtlichen Konstrukt einer Aktiengesellschaft wider, in der die Aktionäre entsprechend ihrer Anteilsbeteiligung die oberste Entscheidungsgewalt über das Management haben. Das Management ist gesetzlich verpflichtet, eine finanzielle Rendite für die Aktionäre zu erzielen. Dies hat dazu geführt, dass die Eigentümerschaft von Organisationen weit gestreut ist und sich durch Mechanismen wie handelbare Aktien ändern kann. Jeder Anteilseigner mag einen winzigen und variablen Anteil haben, aber alle sind in dem Streben nach finanziellem Gewinn vereint.
 
 
-  #### Green Organizations
+  #### Grüne Organisationen
 
 
-  The [Green paradigm](http://reinventingorganizationswiki.com/Green_Organizations) reacts to the Orange focus on shareholders and financial concerns by insisting on the importance of all stakeholders - employees, customers, communities, suppliers as well as shareholders. Thus, even “for profit” organizations are not solely for the benefit of owners: they ought also to take into account the plurality of interests included in its activities. The Corporate Social Responsibility (“CSR”) movement was born out of this perspective.
+  Das [grüne Paradigma] (http://reinventingorganizationswiki.com/Green_Organizations) reagiert auf die orange Fokussierung auf Aktionäre und finanzielle Belange, indem es die Bedeutung aller Interessensgruppen - Mitarbeiter, Kunden, Gemeinschaften, Lieferanten sowie Aktionäre - hervorhebt. Somit dienen auch "gewinnorientierte" Organisationen nicht nur dem Nutzen der Eigentümer: Sie sollten auch die Vielfalt der Interessen berücksichtigen, die in ihre Aktivitäten einbezogen sind. Die Bewegung der sozialen Verantwortung der Unternehmen ("Corporate Social Responsibility") ist aus dieser Perspektive entstanden.
 
 
-  Generally however, for-profit Green organizations do not have a different ownership structure than Orange organizations. When the owners of a Green organization all share the Green perspective, this tends not to create a problem. However, should some owners differ in their view of the importance of financial returns, conflict can ensue.
+  Im Allgemeinen haben gewinnorientierte grüne Organisationen jedoch keine andere Eigentümerschaft als orange Organisationen. Wenn die Eigentümer einer grünen Organisation alle die grüne Perspektive teilen, stellt dies in der Regel kein Problem dar. Sollten jedoch einige Eigentümer die Bedeutung finanzieller Erträge unterschiedlich einschätzen, kann es zu Konflikten kommen.
 inPractice: >-
   Ownership in Teal organizations can take a number of forms. It may be
   concentrated or dispersed, private or public, and this diversity has been in
