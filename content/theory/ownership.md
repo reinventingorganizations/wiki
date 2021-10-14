@@ -2,35 +2,38 @@
 layout: article
 tags: theory
 key: Ownership
-name: Ownership
+name: Eigentümerschaft
 sortOrder: 6
 category: Structure of an organization
-intro: "This article discusses the structure of ownership under Teal and the
-  implications for the types of owners of Teal organizations.\r
+intro: "In diesem Artikel werden die Eigentumsstruktur im Rahmen von Teal und
+  die Auswirkungen auf die Arten von Eigentümern von Teal-Organisationen
+  erörtert.
 
   \r\n"
 perspective: >-
-  Ownership and Teal have an uneasy relationship. Traditionally, ownership is a
-  concept that applies to “for profit” entities. From a strictly legal
-  perspective, the modern “for profit” organization, whether it be a sole
-  proprietorship, a partnership or a corporation, exists primarily to provide a
-  financial return to its owners. Indeed, the entire legal framework established
-  around “for profit” organizations in developed countries reflects the
-  assumption that such is their purpose. As this wiki discusses at length
-  elsewhere, the purpose of a Teal organization extends well beyond providing a
-  financial return to its owners.
+  Eigentum und Teal haben keine einfache Beziehung. Traditionell ist
+  Eigentümerschaft ein Konzept das für "gewinnorientierte" Unternehmen gilt. Aus
+  rein rechtlicher Sicht dient die moderne "gewinnorientierte" Organisation, ob
+  es sich nun um ein Einzelunternehmen, eine Personengesellschaft oder eine
+  Kapitalgesellschaft handelt, in erster Linie dazu, ihren Eigentümern einen
+  finanziellen Gewinn zu verschaffen. In der Tat spiegelt der gesamte rechtliche
+  Rahmen, der in den Industrieländern um "gewinnorientierte" Organisationen
+  herum geschaffen wurde, die Annahme wider, dass dies ihr Zweck ist. Wie in
+  diesem Wiki an anderer Stelle ausführlich erörtert wird, geht der Zweck einer
+  Teal-Organisation weit über die Erzielung einer finanziellen Rendite für ihre
+  Eigentümer hinaus.
 
 
-  In the Teal paradigm, purpose transcends profit. This requires expanding beyond the primacy of ownership in Orange and even the Green multi-stakeholder perspective. In Teal, while fulfilling the organization’s purpose might require financial investment, which in turn might give investors a legitimate voice in the organization and the right to a fair return on their investment, the organization does not exist solely to serve its owners.
+  Im Teal-Paradigma geht der Zweck über den Profit hinaus. Dies erfordert eine Ausweitung des Eigentumsprimats in Orange und sogar der grünen Multi-Stakeholder-Perspektive. Im Teal-Paradigma kann die Erfüllung des Zwecks der Organisation zwar finanzielle Investitionen erfordern, was wiederum den Investoren ein legitimes Mitspracherecht in der Organisation und das Recht auf eine angemessene Rendite für ihre Investitionen verschafft, aber die Organisation existiert nicht nur, um ihren Eigentümern zu dienen.
 
 
-  Taking a broader perspective, the concept of ownership might be replaced by a concept such as [stewardship](https://en.wikipedia.org/wiki/Stewardship). Can you own a living entity, like an organization, or part of it? Can you own energy that wants to manifest itself? Can you even own the assets - such as the metal that makes up a machine? We barely have begun asking these questions, and have no real answers yet. Ownership is today deeply enshrined in our legal frameworks that organizations must comply with. We have yet to invent what "stewardship" of an organization could mean (see “In practice” below).
+  Aus einer breiteren Perspektive könnte das Konzept der Eigentümerschaft durch ein Konzept wie [Stewardship] (https://en.wikipedia.org/wiki/Stewardship) ersetzt werden. Kann man eine lebende Entität, wie eine Organisation, oder einen Teil von ihr besitzen? Kann man Energie besitzen, die sich selbst manifestieren will? Kann man sogar Vermögenswerte besitzen - wie etwa das Metall, aus dem eine Maschine besteht? Wir haben gerade erst begonnen, diese Fragen zu stellen, und haben noch keine wirklichen Antworten. Die Eigentümerschaft ist heute fest in unseren rechtlichen Rahmenbedingungen verankert, die Organisationen einhalten müssen. Wir müssen erst noch herausfinden, was "Stewardship" für eine Organisation bedeuten könnte (siehe unten "In der Praxis").
 
 
-  Today, we draw a distinction between “for profit” and “not for profit” organizations. Perhaps the implementation of something like “stewardship” would blur this distinction and lead to a new more broadly applicable legal form of organization.
+  Heute unterscheiden wir zwischen "gewinnorientierten" und "nicht gewinnorientierten" Organisationen. Vielleicht würde die Einführung von etwas wie "Stewardship" diese Unterscheidung verwischen und zu einer neuen, breiter anwendbaren Rechtsform von Organisationen führen.
 
 
-  For a fuller discussion of a historical perspective on ownership, see below:
+  Für eine ausführlichere Diskussion der historischen Perspektive auf Eigentümerschaft siehe unten:
 
 
   #### Red Organizations
