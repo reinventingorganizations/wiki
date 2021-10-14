@@ -104,7 +104,7 @@ faq:
       2. Die Mitarbeiter-Eigentümerschaft wird oft als ein Mittel zur "Motivation" der Arbeitnehmer angesehen. In der Teal-Anschauung wird jedoch die intrinsische Motivation (wie der Sinn) als viel stärker angesehen als extrinsische Faktoren wie die finanzielle Vergütung.
 
 
-      3. Die Mitarbeiter-Eigentümerschaft is sometimes thought of as a way to give employees power and a voice. If employees have voting rights, they cannot simply be ignored. A self-managing structure distributes power anyway, and removes the need to do so via voting rights.
+      3. Die Mitarbeiter-Eigentümerschaft wird manchmal als eine Möglichkeit angesehen, den Arbeitnehmern Macht und Mitspracherechte zu geben. Wenn Arbeitnehmer ein Stimmrecht haben, können sie nicht einfach ignoriert werden. In einer selbstverwalteten Struktur wird die Macht ohnehin verteilt und es besteht keine Notwendigkeit mehr dies über Stimmrechte zu tun.
 
 
       4. Die Mitarbeiter-Eigentümerschaft is sometimes seen as a way to reduce income inequality by allowing employees to share in the value creation of the organization. This is valid when it comes to young organizations that might rapidly increase in value and have limited cash resources. In more established companies, income inequality can often more easily be reduced through salary setting and profit sharing.
