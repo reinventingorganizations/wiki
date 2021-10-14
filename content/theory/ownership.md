@@ -89,7 +89,8 @@ inPractice: >-
 
   Holacracy hat eine Satzung entworfen, die ein Vorstand annehmen und für verbindlich erklären kann, auch für zukünftige Aktionäre. Sie gibt den Aktionären ein legitimes Mitspracherecht in Finanzfragen, hindert sie aber daran, einseitig eine Strategie aufzuzwingen oder zu traditionellen Managementpraktiken zurückzukehren. Holacracy hat die juristische Vorarbeit geleistet, um seine Satzung in das US-Gesellschaftsrecht einzupassen, und ist derzeit dabei, die Satzung an die Rechtssysteme anderer Länder anzupassen.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 5453-5457). Nelson Parker. Kindle Edition.]
 faq:
-  - question: Teal organizations don't seem to encourage employee ownership. How come?
+  - question: Teal-Organisationen scheinen Mitarbeiter-Eigentümerschaft nicht zu
+      fördern. Wie kommt das?
     answer: >-
       Wouldn't employees be more motivated, feel more part of the organization
       if they were to also own parts of it? Couldn't this help diminish income
