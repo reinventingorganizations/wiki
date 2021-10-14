@@ -101,11 +101,13 @@ faq:
       1. Die Mitarbeiter-Eigentümerschaft wird oft als eine Möglichkeit angesehen, die Mitarbeiter, insbesondere die talentiertesten und qualifiziertesten, an das Unternehmen zu binden. Aus der Teal-Perspektive ergibt das wenig Sinn. Die Menschen sollten frei sein, ihrer Berufung zu folgen. Wenn sich diese Berufung mit dem Sinn der Organisation überschneidet, dann sollen die Menschen Teil davon sein. Und es sollte ihnen freistehen, das Unternehmen zu verlassen, wenn dies nicht mehr der Fall ist. Die Gewinnbeteiligung ist eine einfache Möglichkeit für Mitarbeiter zu profitieren, ohne dass sie zu einem guten oder schlechten Zeitpunkt Aktien kaufen oder verkaufen müssen.
 
 
-      2. Employee ownership is often thought of as a way to "motivate" employees. Under Teal, intrinsic motivation (such as purpose) is considered much more powerful than extrinsic factors like financial compensation.
+      2. Die Mitarbeiter-Eigentümerschaft wird oft als ein Mittel zur "Motivation" der Arbeitnehmer angesehen. In der Teal-Anschauung wird jedoch die intrinsische Motivation (wie der Sinn) als viel stärker angesehen als extrinsische Faktoren wie die finanzielle Vergütung.
 
-      3. Employee ownership is sometimes thought of as a way to give employees power and a voice. If employees have voting rights, they cannot simply be ignored. A self-managing structure distributes power anyway, and removes the need to do so via voting rights.
 
-      4. Employee ownership is sometimes seen as a way to reduce income inequality by allowing employees to share in the value creation of the organization. This is valid when it comes to young organizations that might rapidly increase in value and have limited cash resources. In more established companies, income inequality can often more easily be reduced through salary setting and profit sharing.
+      3. Die Mitarbeiter-Eigentümerschaft is sometimes thought of as a way to give employees power and a voice. If employees have voting rights, they cannot simply be ignored. A self-managing structure distributes power anyway, and removes the need to do so via voting rights.
+
+
+      4. Die Mitarbeiter-Eigentümerschaft is sometimes seen as a way to reduce income inequality by allowing employees to share in the value creation of the organization. This is valid when it comes to young organizations that might rapidly increase in value and have limited cash resources. In more established companies, income inequality can often more easily be reduced through salary setting and profit sharing.
 relatedTheory:
   - board
   - Organizational Structure
