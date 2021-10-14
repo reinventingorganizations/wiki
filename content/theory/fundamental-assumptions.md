@@ -2,53 +2,52 @@
 layout: article
 tags: theory
 key: Fundamental Assumptions
-name: Fundamental Assumptions
+name: Hypothèses fondamentales
 sortOrder: 1
 category: Daily practices
 intro: >-
-  The topic of fundamental assumptions explains how deeply held, often
-  unconscious assumptions (about people, their motivations, role in the world
-  and workplace, the meaning of life etc.) lie at the root of organizational
-  models and practices
+  On voit ici comment des hypothèses profondément ancrées, souvent inconscientes
+  (sur les personnes, leurs motivations, leur rôle dans le monde et sur le lieu
+  de travail, le sens de la vie, etc.) sont à la base des modèles et pratiques
+  organisationnels.
 
 
   ![](/media/fundamental-assumptions.jpg)
 perspective: >-
-  Every historical stage has given birth to fundamental assumptions, a distinct
-  perspective on people and their motivations, and to very different approaches
-  to engaging with the world.
+  Chaque stade de développement a donné naissance à des croyances fondatrices, à
+  une perspective particulière sur les personnes et leurs motivations, ainsi
+  qu'à des approches très différentes de la perception et de la manière
+  d'aborder le monde.
 
 
-  #### Red Organizations
+  #### Organisations Rouge
 
 
-  Fundamental assumptions from a [Red perspective](../red-organizations/) are:
+  Les hypothèses fondamentales de la [perspective Rouge](../red-organizations/) sont :
 
 
-  * The world has endless resources that can be exploited. People outside the organization/tribe can be exploited too.
+  * Le monde a des ressources infinies qui peuvent être exploitées. Les gens en dehors de l'organisation/tribu peuvent être exploités aussi.
 
-  * The world is a hostile place. "It is me or you". Conquered territory has to be defended through (constant) struggle and vigilance. If one does not react swiftly to the environment, everything will be taken away.
+  * Le monde est un endroit hostile. "C'est moi ou toi". Le territoire conquis doit être défendu en luttant et en restant constamment vigilant. Si l'on ne réagit pas assez vite à l'environnement, tout nous sera repris.
 
-  * Structure in society is all about ***power and respect.*** There is a natural pecking order which ensures that only "the best" survive and thrive. To survive, one either has to be dominant to take advantage, or submissive for protection.
+  * La structure de la société est une histoire de ***pouvoir et de respect. ***Il existe une hiérarchie naturelle qui garantit que seuls les "meilleurs" survivent et prospèrent. Pour survivre, il faut être soit dominant pour prendre le dessus, soit soumis pour être protégé.
 
-  * One can only trust oneself – and, to some extent, the people who have “sworn allegiance”.. Vigilance is imperative, because people’s allegiances can change overnight.
+  * On ne peut faire confiance qu'à soi-même - et, dans une certaine mesure, aux personnes qui ont "juré fidélité" . La vigilance est impérative, car les allégeances des gens peuvent changer du jour au lendemain.
 
-  * There are no stable rules except the rule of power exercised by the chief. What is right and what is wrong is decided by the boss. No need to think for oneself if one is not the boss
+  * Il n'y a pas de règles stables sauf celle du pouvoir exercé par le chef. Ce qui est bien et ce qui est mal est décidé par le chef. Pas besoin de penser par soi-même si on n'est pas le chef.
 
-  * It is acceptable (and even desirable) to only care about oneself. Taking what one can get – as long as one is not caught or beaten by someone more powerful is OK. There is no guilt, only power or submission. What other people think and how they feel is not a concern.
+  * Il est acceptable (et même souhaitable) de ne se soucier que de soi-même. Prendre ce que l'on peut obtenir - tant que l'on n'est pas attrapé ou battu par quelqu'un de plus puissant - est une bonne chose. Il n'y a pas de culpabilité, seulement du pouvoir ou de la soumission. Ce que les autres pensent et ce qu'ils ressentent est sans importance.
 
-  * People who are not part of the "inner circle" are there to be used. Better to be feared than to be loved.
-
-  *
+  * Les personnes qui ne font pas partie du "cercle intérieur" sont là pour être utilisées. Il vaut mieux être craint qu'être aimé.
 
 
   (Leadership style: predatory, Metaphor: Wolf Pack)
 
 
-  #### Amber Organizations
+  #### Organisations Ambre
 
 
-  Fundamental assumptions from an [Amber perspective](../amber-paradigm-and-organizations/) are:
+  Les hypothèses fondamentales de la [perspective Ambre](../amber-paradigm-and-organizations/) sont :
 
 
   * The world is (or should be) immutable, comprehensible and controllable. What worked in the past will work in the future. ***Stability (safety) and loyalty*** are essential. Change is to be viewed with suspicion. Leaving the organization is the last option.
