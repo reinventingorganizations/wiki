@@ -107,7 +107,7 @@ faq:
       3. Die Mitarbeiter-Eigentümerschaft wird manchmal als eine Möglichkeit angesehen, den Arbeitnehmern Macht und Mitspracherechte zu geben. Wenn Arbeitnehmer ein Stimmrecht haben, können sie nicht einfach ignoriert werden. In einer selbstverwalteten Struktur wird die Macht ohnehin verteilt und es besteht keine Notwendigkeit mehr dies über Stimmrechte zu tun.
 
 
-      4. Die Mitarbeiter-Eigentümerschaft is sometimes seen as a way to reduce income inequality by allowing employees to share in the value creation of the organization. This is valid when it comes to young organizations that might rapidly increase in value and have limited cash resources. In more established companies, income inequality can often more easily be reduced through salary setting and profit sharing.
+      4. Die Mitarbeiter-Eigentümerschaft wird zuweilen als Mittel zur Verringerung der Einkommensungleichheit angesehen, da sie die Arbeitnehmer an der Wertschöpfung des Unternehmens teilhaben lässt. Dies gilt für junge Unternehmen, die schnell an Wert gewinnen können und nur über eine begrenzte Liquidität verfügen. In etablierteren Unternehmen kann die Einkommensungleichheit oft leichter durch die Festsetzung von Gehältern und eine Gewinnbeteiligung reduziert werden.
 relatedTheory:
   - board
   - Organizational Structure
