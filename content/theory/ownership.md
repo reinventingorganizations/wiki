@@ -92,12 +92,14 @@ faq:
   - question: Teal-Organisationen scheinen Mitarbeiter-Eigentümerschaft nicht zu
       fördern. Wie kommt das?
     answer: >-
-      Wouldn't employees be more motivated, feel more part of the organization
-      if they were to also own parts of it? Couldn't this help diminish income
-      inequality?
+      Wären die Mitarbeiter nicht motivierter, würden sie sich nicht mehr als
+      Teil der Organisation fühlen, wenn sie auch Teile davon besitzen würden?
+      Könnte dies nicht dazu beitragen, die Einkommensungleichheit zu
+      verringern?
 
 
-      1. Employee ownership is often thought of as a way to bind employees, especially the most talented and skilled, to the organization. From a Teal perspective that makes little sense. People should be free to pursue their calling. While that calling intersects with the purpose of the organization, then let people be part of it. And let them be free to leave when it is no longer the case. Profit sharing is an easy way for employees to benefit, but without having to buy stock, or be bought out, at a good or bad time.
+      1. Die Mitarbeiter-Eigentümerschaft wird oft als eine Möglichkeit angesehen, die Mitarbeiter, insbesondere die talentiertesten und qualifiziertesten, an das Unternehmen zu binden. Aus der Teal-Perspektive ergibt das wenig Sinn. Die Menschen sollten frei sein, ihrer Berufung zu folgen. Wenn sich diese Berufung mit dem Sinn der Organisation überschneidet, dann sollen die Menschen Teil davon sein. Und es sollte ihnen freistehen, das Unternehmen zu verlassen, wenn dies nicht mehr der Fall ist. Die Gewinnbeteiligung ist eine einfache Möglichkeit für Mitarbeiter zu profitieren, ohne dass sie zu einem guten oder schlechten Zeitpunkt Aktien kaufen oder verkaufen müssen.
+
 
       2. Employee ownership is often thought of as a way to "motivate" employees. Under Teal, intrinsic motivation (such as purpose) is considered much more powerful than extrinsic factors like financial compensation.
 
