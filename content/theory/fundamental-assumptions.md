@@ -50,19 +50,19 @@ perspective: >-
   Les hypothèses fondamentales de la [perspective Ambre](../amber-paradigm-and-organizations/) sont :
 
 
-  * The world is (or should be) immutable, comprehensible and controllable. What worked in the past will work in the future. ***Stability (safety) and loyalty*** are essential. Change is to be viewed with suspicion. Leaving the organization is the last option.
+  * Le monde est (ou devrait être) immuable, compréhensible et contrôlable. Ce qui a fonctionné dans le passé continuera à fonctionner dans le futur. ***La stabilité (sécurité) et la loyauté*** sont essentielles. Le changement doit être considéré avec méfiance. Quitter l'organisation est la dernière option.
 
-  * Things are either right or wrong. There is always an institutional authority to be obeyed: rules, procedures, etc. Personal opinions are not relevant. Guilt is inescapable, when being in the wrong.
+  * Les choses sont soit bonnes, soit mauvaises. Il y a toujours une autorité institutionnelle à laquelle il faut obéir : règles, procédures, etc. Les opinions personnelles ne sont pas pertinentes. La culpabilité est inéluctable, lorsqu'on est dans l'erreur.
 
-  * You follow the rules and the expectations that society has on you, even if it means wearing a social mask of virtue. Self-control is highly valued.
+  * Vous devez suivre les règles et les attentes de la société à votre égard, même si cela implique de porter un masque social de vertu. La maîtrise de soi est hautement appréciée.
 
-  * People are mostly lazy, dishonest, unintelligent and in need of direction. They must be supervised and told what is expected from them. Thus there must be a clear chain of command, formal processes, and clear cut rules that stipulate who can do what.
+  * Les gens sont généralement paresseux, malhonnêtes, inintelligents et ont besoin d'être dirigés. Ils doivent être supervisés et on doit leur dire ce qu'on attend d'eux. Il doit donc y avoir une chaîne de commandement claire, des processus formels et des règles précises qui stipulent qui peut faire quoi.
 
-  * Everyone is replaceable by someone who can take over the same role in the process. Innovation, critical thinking and self-expression are not needed. Information is to be shared on a need-to-know basis.
+  * Tout le monde est remplaçable par quelqu'un qui peut assumer le même rôle dans le processus. L'innovation, la pensée critique et l'expression personnelle ne sont pas nécessaires. L'information doit être partagée uniquement en cas de besoin.
 
-  * Success means performing your role in the organization in a perfect way ("You *are* your job and your place in society is more or less clear from birth.")
+  * Le succès signifie remplir parfaitement son rôle dans l'organisation ("Vous *êtes* votre travail et votre place dans la société est plus ou moins claire dès la naissance").
 
-  * (Leadership style: authoritarian - paternalistic. Metaphor: Army.)
+  * (Style de leadership : autoritaire - paternaliste. Métaphore : armée.)
 
 
   #### Orange Organizations
