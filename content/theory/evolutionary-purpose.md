@@ -79,10 +79,10 @@ faq:
       Zielen geben?
     answer: Individuelle und organisatorische Ziele gehen Hand in Hand. Das eine
       braucht das andere, um zu gedeihen. Wenn der individuelle und der
-      organisatorische Zweck in Resonanz treten und sich gegenseitig verstärken,
+      organisatorische Sinn in Resonanz treten und sich gegenseitig verstärken,
       können außergewöhnliche Dinge geschehen. Wenn Arbeit und Berufung
-      zusammentreffen - eine Begegnung, die der Theologe Frederick Büchner als
-      "der Ort, an dem deine tiefe Freude den tiefen Hunger der Welt trifft"
+      zusammentreffen - eine Begegnung, die der Theologe Frederick Buechner als
+      "den Ort, an dem deine tiefe Freude den tiefen Hunger der Welt trifft"
       beschrieben hat - dann können die Mitglieder einer Organisation ihr Herz
       und ihre Seele in ihre Arbeit stecken. Sie sind als Menschen erfüllt,
       nicht als produktive Einheiten. Gleichzeitig wird der evolutionäre Sinn
