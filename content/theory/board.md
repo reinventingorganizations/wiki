@@ -96,19 +96,20 @@ faq:
 
 
       Chris Rufer, Gründer und 100-prozentiger Eigentümer von Morningstar, sieht im Übrigen keine Notwendigkeit für einen Vorstand. Die Mitarbeiter von Morningstar betrachten den Auftrag/Sinn des Unternehmens als ihren obersten Chef.
-  - question: Who will decide whether the CEO needs to go?
+  - question: Wer wird entscheiden, ob der CEO gehen muss?
     answer: >-
-      The [conflict resolution ](../conflict-resolution/)process deals with this
-      and can be started by anyone who feels that a role-holder (including that
-      of CEO) should be changed. Note that In a Teal company, the "CEO" role may
-      be different. The "CEO" is an employee with the same rights and duties as
-      anybody else.
+      Der [Konfliktlösung](../conflict-resolution/)sprozess befasst sich mit
+      diesem Thema und kann von jedem eingeleitet werden, der der Meinung ist,
+      dass ein Rolleninhaber (einschließlich des Geschäftsführers) geändert
+      werden sollte. Beachten Sie, dass in einem Teal-Unternehmen die Rolle des
+      "CEO" anders aussehen kann. Der "CEO" ist ein Angestellter mit den
+      gleichen Rechten und Pflichten wie jeder andere auch.
 
 
-      At Favi, when Zobrist became CEO, he promised his position would be submitted to a vote every 5 years.
+      Als Zobrist bei Favi CEO wurde, versprach er, dass seine Position alle 5 Jahre zur Abstimmung gestellt wird.
 
 
-      At Buurtzorg, the board does not appoint the CEO. This comes from within the organization itself.
+      Bei Buurtzorg wird der CEO nicht vom Vorstand ernannt. Dieser kommt aus dem Unternehmen selbst.
   - question: Who should be part of the board?
     answer: >-
       Suitable people who:
