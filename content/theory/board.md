@@ -110,7 +110,7 @@ faq:
 
 
       Bei Buurtzorg wird der CEO nicht vom Vorstand ernannt. Dieser kommt aus dem Unternehmen selbst.
-  - question: Who should be part of the board?
+  - question: Wer sollte dem Vorstand angehören?
     answer: >-
       Suitable people who:
 
