@@ -112,19 +112,19 @@ faq:
       Bei Buurtzorg wird der CEO nicht vom Vorstand ernannt. Dieser kommt aus dem Unternehmen selbst.
   - question: Wer sollte dem Vorstand angehören?
     answer: >-
-      Suitable people who:
+      Geeignete Personen, die:
 
 
-      * Understand the core purpose of the organization; 
+      * den zentralen Sinn der Organisation verstehen; 
 
 
-      * Are committed to its endeavours;
+      * sich den Bestrebungen der Organisation verpflichtet fühlen;
 
 
-      * Share its guiding beliefs;
+      * die Leitgedanken der Organisation teilen;
 
 
-      * Can help connect the organization and develop relationships with its external environment.
+      * dazu beitragen können, die Organisation zu vernetzen und Beziehungen zu ihrem externen Umfeld aufzubauen.
 relatedTheory:
   - Strategy
   - Organizational Structure
