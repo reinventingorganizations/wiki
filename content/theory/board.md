@@ -55,11 +55,11 @@ inPractice: >-
 
   * Verzicht auf die Befehls- und Kontrollprivilegien früherer Perspektiven
 
-  * Mit den Mitarbeitern gemeinsam nach dem evolutionären Sinn der Organisation "lauschen" und bereit sein, ihm zu folgen
+  * mit den Mitarbeitern gemeinsam nach dem evolutionären Sinn der Organisation "lauschen" und bereit sein, ihm zu folgen
 
-  * Sich den Sinn und die Werte der Organisation zu eigen machen
+  * sich den Sinn und die Werte der Organisation zu eigen machen
 
-  * "Den Raum halten" oder alles tun, was möglich ist, um die Ausübung des Teal-Ansatzes in der Organisation zu unterstützen
+  * "den Raum halten" oder alles tun, was möglich ist, um die Ausübung des Teal-Ansatzes in der Organisation zu unterstützen
 
 
   #### Der Vorstand sollte auch die Teal-Praktiken übernehmen
