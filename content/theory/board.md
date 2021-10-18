@@ -47,39 +47,40 @@ perspective: >-
 
   In [grünen Organisationen](../green-paradigm-and-organizations/) sind die Aufgaben des Vorstands ähnlich wie in Orange, umfassen aber eher die Rolle als Hüter des Zwecks/der Werte der Organisation und der Interessen der verschiedenen Interessengruppen. In grünen, gewinnorientierten Organisationen werden die Aktionäre oft nur als eine der Interessengruppen betrachtet, und einzelne Vorstandsmitglieder können speziell für die Vertretung der Interessen anderer Interessengruppen, z. B. der Mitarbeiter, bestimmt werden.
 inPractice: >-
-  ### The board needs to adopt Teal thinking
+  ### Der Vorstand muss das Teal-Denken übernehmen
 
 
-  This means: 
+  Dies bedeutet: 
 
 
-  * Forgoing the command and control privileges of earlier perspectives
+  * Verzicht auf die Befehls- und Kontrollprivilegien früherer Perspektiven
 
-  * Joining staff members in ‘listening’ for the organization's evolutionary purpose, and being willing to follow its direction.
+  * Mit den Mitarbeitern gemeinsam nach dem evolutionären Sinn der Organisation "lauschen" und bereit sein, ihm zu folgen
 
-  * Embracing the purpose and values of the organization.
+  * Sich den Sinn und die Werte der Organisation zu eigen machen
 
-  * “Holding the space” or doing whatever possible to support the organization’s practice of a Teal approach. 
-
-    ![]()
-
-  #### The board should also adopt Teal practices
-
-    In self-managing organizations, the board is part of the "advice process". For example, if a board member believes a decision is needed, she should seek advice from appropriate people throughout the organization. In so doing, she not only shows support for the practice, but also invites others to seek advice from the board. This means the division between the board and the rest of the company becomes more ‘porous’, reducing the need for "go-betweens".
-
-  #### The potential for conflict
+  * "Den Raum halten" oder alles tun, was möglich ist, um die Ausübung des Teal-Ansatzes in der Organisation zu unterstützen
 
 
-  As mentioned earlier, there is potential for conflict when board members do not have a deeply held Teal worldview, since a board generally has ultimate legal authority. Even for board members with a Teal worldview, there is potential for problems in for-profit organizations. This is because board members there have a fiduciary duty to shareholders, and there is at least the potential that Teal practices may not always be viewed as serving those fiduciary duties.
+  #### Der Vorstand sollte auch die Teal-Praktiken übernehmen
 
 
-  For–profit Teal organizations can pursue a couple of avenues to limit this potential for conflict. First, they can work to transition (with appropriate shareholder consent) the company to a “Benefit Corporation” structure. This structure, adopted in many states in the U.S., extends the duty of directors to include non-financial interests such as social benefit, concerns of employees and suppliers and environmental impact.
+  In selbstverwalteten Organisationen ist der Vorstand Teil des "Beratungsprozesses". Wenn beispielsweise ein Vorstandsmitglied der Meinung ist, dass eine Entscheidung getroffen werden muss, sollte es die entsprechenden Personen in der Organisation um Rat fragen. Damit zeigt es nicht nur seine Unterstützung für die Vorgehensweise, sondern lädt auch andere dazu ein, den Vorstand um Rat zu fragen. Dies bedeutet, dass die Trennung zwischen dem Vorstand und dem Rest des Unternehmens "durchlässiger" wird, was den Bedarf an "Vermittlern" verringert.
 
 
-  Second, Holacracy has drafted a constitution that a board can adopt and make binding, even to future shareholders. It gives shareholders a legitimate say in matters related to finance, but prevents them from unilaterally imposing a strategy, or from reverting the organization to traditional management practices.
+  #### Konfliktpotential
 
 
-  Ultimately, the board is a construct of prior organizational stages, and it is as yet unclear exactly what its role should be under Teal or even if in its current form it is fully compatible with Teal.
+  Wie bereits erwähnt, besteht Konfliktpotenzial, wenn Vorstandsmitglieder keine tief verwurzelte Teal-Weltanschauung haben, da ein Vorstand im Allgemeinen die oberste rechtliche Autorität hat. Selbst bei Vorständen mit einer Teal-Weltanschauung kann es in gewinnorientierten Organisationen zu Problemen kommen. Dies liegt daran, dass die Mitglieder des Vorstands dort eine treuhänderische Pflicht gegenüber den Aktionären haben, und es besteht zumindest die Möglichkeit, dass Teal-Praktiken nicht immer als Erfüllung dieser treuhänderischen Pflichten angesehen werden.
+
+
+  Gewinnorientierte Teal-Organisationen können mehrere Wege beschreiten, um dieses Konfliktpotenzial zu begrenzen. Erstens können sie darauf hinarbeiten, das Unternehmen (mit der entsprechenden Zustimmung der Aktionäre) in eine "Benefit Corporation"-Struktur umzuwandeln. Diese Struktur, die in vielen US-Bundesstaaten eingeführt wurde, erweitert die Pflichten der Direktoren auf nicht-finanzielle Interessen wie sozialen Nutzen, Belange von Angestellten und Zulieferern und Auswirkungen auf die Umwelt.
+
+
+  Zweitens hat Holacracy eine Satzung entworfen, die ein Vorstand annehmen und für verbindlich erklären kann, auch für künftige Aktionäre. Sie gibt den Aktionären ein legitimes Mitspracherecht in Finanzfragen, hindert sie aber daran, einseitig eine Strategie aufzuzwingen oder die Organisation zu traditionellen Managementpraktiken zurückzuführen.
+
+
+  Letztlich ist der Vorstand ein Konstrukt aus früheren Organisationsstufen, und es ist noch nicht klar, welche Rolle er im Rahmen von Teal spielen soll oder ob er in seiner derzeitigen Form überhaupt mit Teal vereinbar ist.
 faq:
   - question: If the organization is self-managing, why have a board?
     answer: >-
