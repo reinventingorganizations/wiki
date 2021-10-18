@@ -2,14 +2,14 @@
 layout: article
 tags: theory
 key: board
-name: Board
+name: Vorstand
 sortOrder: 5
 category: Structure of an organization
 intro: >-
   ![](/media/board.jpg)
 
 
-  This section reviews the role of the board as well as some of the practices and ways of working as a board under Teal.
+  In diesem Abschnitt werden die Rolle des Vorstands sowie einige der Praktiken und Arbeitsweisen des Vorstands im Rahmen von Teal erläutert.
 perspective: >-
   The composition of the board in a Teal organization is crucial, says Frederic
   Laloux. He warns that, when adopting a Teal approach, “The only make-or-break
