@@ -82,20 +82,20 @@ inPractice: >-
 
   Letztlich ist der Vorstand ein Konstrukt aus früheren Organisationsstufen, und es ist noch nicht klar, welche Rolle er im Rahmen von Teal spielen soll oder ob er in seiner derzeitigen Form überhaupt mit Teal vereinbar ist.
 faq:
-  - question: If the organization is self-managing, why have a board?
+  - question: Wenn die Organisation sich selbst verwaltet, wozu dann noch ein Vorstand?
     answer: >-
-      1. A board might be a legal requirement, but more importantly it can act
-      as a "spaceholder" and protector of Teal practices. This obviously
-      necessitates that board members share the [fundamental
-      assumptions](../fundamental-assumptions/) and the [values
-      ](../culture-and-values/)underpinning Teal.
+      1. Ein Vorstand kann eine rechtliche Voraussetzung sein, aber noch
+      wichtiger ist, dass er als "Raumhalter" und Beschützer der Teal-Praktiken
+      fungieren kann. Dies setzt natürlich voraus, dass die Mitglieder des
+      Vorstands die [Grundannahmen](../fundamental-assumptions/) und die
+      [Werte](../culture-and-values/) teilen, die Teal zugrunde liegen.
 
-      2. It can add perspective, diversity and expertise on important decisions via the advice process.
+      2. Er kann durch den Beratungsprozess bei wichtigen Entscheidungen eine neue Perspektive, Vielfalt und Sachkenntnis einbringen.
 
-      3. It can facilitate the process of appointing a new "CEO", should the organization have a continuing need for such a role, when a transition is due.
+      3. Er kann den Prozess der Ernennung eines neuen "CEO" erleichtern, falls die Organisation weiterhin Bedarf für eine solche Rolle hat, wenn ein Führungswechsel ansteht.
 
 
-      Having said this, at Morningstar, Chris Rufer, founder and 100% owner, sees no need for a board. People at Morningstar regard the company’s mission/purpose as their ultimate boss.
+      Chris Rufer, Gründer und 100-prozentiger Eigentümer von Morningstar, sieht im Übrigen keine Notwendigkeit für einen Vorstand. Die Mitarbeiter von Morningstar betrachten den Auftrag/Sinn des Unternehmens als ihren obersten Chef.
   - question: Who will decide whether the CEO needs to go?
     answer: >-
       The [conflict resolution ](../conflict-resolution/)process deals with this
