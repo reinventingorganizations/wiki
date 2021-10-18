@@ -11,41 +11,41 @@ intro: >-
 
   In diesem Abschnitt werden die Rolle des Vorstands sowie einige der Praktiken und Arbeitsweisen des Vorstands im Rahmen von Teal erläutert.
 perspective: >-
-  The composition of the board in a Teal organization is crucial, says Frederic
-  Laloux. He warns that, when adopting a Teal approach, “The only make-or-break
-  factors are the worldview held by the top leadership and by the owners/board
-  of the organization.”^\[Laloux, Frederic. Reinventing Organizations. Nelson
+  Die Zusammensetzung des Vorstands in einer Teal-Organisation ist entscheidend,
+  sagt Frederic Laloux. Er warnt, dass bei der Einführung eines Teal-Ansatzes
+  "die einzigen Faktoren, die über Erfolg oder Misserfolg entscheiden, die
+  Weltanschauung des leitenden Managements und der Eigentümer/ des Vorstands der
+  Organisation sind".^\[Laloux, Frederic. Reinventing Organizations. Nelson
   Parker (2014), page 238]
 
 
-  Why is this so? Because history shows that boards may well support Teal practices when things are going well. But, under pressure, the support of outsiders—who typically make up the board and may not have worked in a similar environment before—can evaporate quickly, and under our current legal structure, boards continue to have ultimate authority.
+  Warum ist das so? Weil die Geschichte zeigt, dass Vorstände durchaus Teal-Praktiken unterstützen können, wenn die Dinge gut laufen. Aber unter Druck kann die Unterstützung von Außenstehenden - die in der Regel den Vorstand bilden und vielleicht noch nie in einem ähnlichen Umfeld gearbeitet haben - schnell schwinden, und nach unserer derzeitigen Rechtsstruktur haben die Vorstände weiterhin die oberste Autorität.
 
 
-  **The board’s role in earlier stage organizations can be characterized as follows:**
+  **Die Rolle des Vorstands in Organisationen, die sich in einem früheren Stadium befinden, kann wie folgt charakterisiert werden:**
 
 
-  #### Red Organizations
+  #### Rote Organisationen
 
 
-  In the [Red organization](../red-organizations/), while the Chief/Boss might confide in trusted colleagues or family, the real power is exercised by one person. A ‘board of oversight’ is not welcomed, nor appropriate, in these circumstances.
+  In der [roten Organisation](../red-organizations/) kann sich der Chef zwar vertrauenswürdigen Kollegen oder der Familie anvertrauen, doch die eigentliche Macht wird von einer Person ausgeübt. Ein "Vorstand der Beaufsichtigung" ist unter diesen Umständen weder willkommen noch passend.
 
 
-  #### Amber Organizations
+  #### Bernstein-Organisationen
 
 
-  In the [Amber organization](../amber-paradigm-and-organizations/), the typical board is a small social class at the top of a rigid hierarchy. There may be formal criteria for inclusion, or a qualification process. The board plays the role of "guardian": it ensures that traditions, rules and processes are respected.
+  In der [bernsteinfarbenen Organisation](../amber-paradigm-and-organizations/) ist der typische Vorstand eine kleine soziale Schicht an der Spitze einer starren Hierarchie. Es kann formale Kriterien für die Aufnahme oder ein Qualifikationsverfahren geben. Der Vorstand spielt die Rolle eines "Wächters": Er sorgt dafür, dass Traditionen, Regeln und Verfahren eingehalten werden.
+                        
+  #### Orange Organisationen
 
 
-  #### Orange Organizations
+  Im [orangen Paradigma](../orange-paradigm-and-organizations/) ist der Vorstand dazu da, das Management im Namen der Aktionäre/Eigentümer oder im Falle einer gemeinnützigen Organisation im Namen ihrer Förderer zur Rechenschaft zu ziehen. Sein Schwerpunkt liegt auf Zielen, Ergebnissen, Strategien, Kontrollen und Nachfolge. Er ist für die Ernennung und gegebenenfalls die Abberufung des Geschäftsführers zuständig.
 
 
-  In the [Orange paradigm](../orange-paradigm-and-organizations/), the board exists to hold management accountable on behalf of the shareholders/owners or in the case of a non-profit on behalf of its funders, . Its focus is on targets, results, strategies, controls and succession. It is responsible for appointing and, if necessary, dismissing the CEO.
+  #### Grüne Organisationen
 
 
-  #### Green Organizations
-
-
-  In [Green organizations](../green-paradigm-and-organizations/), board responsibilities are similar to those in Orange but more likely to include acting as guardians of the organization’s purpose/values and of the interests of multiple stakeholders. In Green for-profit organizations, shareholders are often viewed as just one of the stakeholder groups, and individual board members can be designated to specifically represent the interest of other stakeholders, such as employees.
+  In [grünen Organisationen](../green-paradigm-and-organizations/) sind die Aufgaben des Vorstands ähnlich wie in Orange, umfassen aber eher die Rolle als Hüter des Zwecks/der Werte der Organisation und der Interessen der verschiedenen Interessengruppen. In grünen, gewinnorientierten Organisationen werden die Aktionäre oft nur als eine der Interessengruppen betrachtet, und einzelne Vorstandsmitglieder können speziell für die Vertretung der Interessen anderer Interessengruppen, z. B. der Mitarbeiter, bestimmt werden.
 inPractice: >-
   ### The board needs to adopt Teal thinking
 
