@@ -45,7 +45,7 @@ perspective: >-
   #### Bernstein-Organisationen
 
 
-  Auch im [Bernstein-Paradigma](http://reinventingorganizationswiki.com/Amber_Organizations) ist die Eigentümerschaft oft eine widersprüchliche Idee. Bernsteinfarbene Organisationen haben häufig einen anderen Zweck als finanzielle Rendite. Es gibt keinen "Eigentümer" des Militärs, der Kirche oder von Regierungsbehörden. In den Fällen, in denen gewinnorientierte Unternehmen in dem Bernstein-Paradigma tätig sind, halten sie in der Regel das Streben nach finanzieller Rendite mit einem anderen Ziel wie der Selbsterhaltung in Einklang. Da sie sich oft in Familienbesitz befinden, können die Eigentümer das strikte Streben nach Gewinnmaximierung zugunsten von Interessen wie der Wahrung eines Vermächtnisses einschränken.
+  Auch im [Bernstein-Paradigma](http://reinventingorganizationswiki.com/Amber_Organizations) ist die Eigentümerschaft oft eine widersprüchliche Idee. Bernsteinfarbene Organisationen haben häufig einen anderen Sinn als finanzielle Rendite. Es gibt keinen "Eigentümer" des Militärs, der Kirche oder von Regierungsbehörden. In den Fällen, in denen gewinnorientierte Unternehmen in dem Bernstein-Paradigma tätig sind, halten sie in der Regel das Streben nach finanzieller Rendite mit einem anderen Ziel wie der Selbsterhaltung in Einklang. Da sie sich oft in Familienbesitz befinden, können die Eigentümer das strikte Streben nach Gewinnmaximierung zugunsten von Interessen wie der Wahrung eines Vermächtnisses einschränken.
 
 
   #### Orange Organisationen
