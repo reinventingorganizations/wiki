@@ -66,7 +66,7 @@ inPractice: >-
   ##### ***Passung zur Rolle***
 
 
-  Die Beurteilung der Eignung in Bezug auf Fähigkeiten, Erfahrung und Fachwissen ist nach wie vor ein wichtiger Bestandteil des Rekrutierungsprozesses, vor allem bei spezifischen Aufgaben, die Fachwissen erfordern. Die Rollen in selbstverwalteten Organisationen werden jedoch sehr fließend ausgetauscht. Aus diesem Grund wird die "Passung zur Stelle" oft nicht als vorrangig angesehen, da sich die Rollen einer Person schnell ändern können. Selbstverwaltungsorganisationen machen die Erfahrung, dass Mitarbeiter, die motiviert sind, eine neue und herausfordernde Rolle zu übernehmen, in überraschend kurzer Zeit neue Fähigkeiten und Erfahrungen erwerben.
+  Die Beurteilung der Eignung in Bezug auf Fähigkeiten, Erfahrung und Fachwissen ist nach wie vor ein wichtiger Bestandteil des Rekrutierungsprozesses, vor allem bei spezifischen Aufgaben, die Fachwissen erfordern. Die Rollen in selbstverwalteten Organisationen werden jedoch sehr fließend ausgetauscht. Aus diesem Grund wird die "Passung zur Stelle" oft nicht als vorrangig angesehen, da sich die Rollen einer Person schnell ändern können. Selbstverwaltete Organisationen machen die Erfahrung, dass Mitarbeiter, die motiviert sind, eine neue und herausfordernde Rolle zu übernehmen, in überraschend kurzer Zeit neue Fähigkeiten und Erfahrungen erwerben.
 
 
   ##### ***Passung zur Organisation***
