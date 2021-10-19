@@ -18,13 +18,13 @@ perspective: >-
   Kapitalgesellschaft handelt, in erster Linie dazu, ihren Eigentümern einen
   finanziellen Gewinn zu verschaffen. In der Tat spiegelt der gesamte rechtliche
   Rahmen, der in den Industrieländern um "gewinnorientierte" Organisationen
-  herum geschaffen wurde, die Annahme wider, dass dies ihr Zweck ist. Wie in
+  herum geschaffen wurde, die Annahme wider, dass dies ihr Sinn ist. Wie in
   diesem Wiki an anderer Stelle ausführlich erörtert wird, geht der Sinn einer
   Teal-Organisation weit über die Erzielung einer finanziellen Rendite für ihre
   Eigentümer hinaus.
 
 
-  Im Teal-Paradigma geht der Zweck über den Profit hinaus. Dies erfordert eine Ausweitung des Eigentumsprimats in Orange und sogar der grünen Multi-Stakeholder-Perspektive. Im Teal-Paradigma kann die Erfüllung des Zwecks der Organisation zwar finanzielle Investitionen erfordern, was wiederum den Investoren ein legitimes Mitspracherecht in der Organisation und das Recht auf eine angemessene Rendite für ihre Investitionen verschafft, aber die Organisation existiert nicht nur, um ihren Eigentümern zu dienen.
+  Im Teal-Paradigma geht der Sinn über den Profit hinaus. Dies erfordert eine Ausweitung des Eigentumsprimats in Orange und sogar der grünen Multi-Stakeholder-Perspektive. Im Teal-Paradigma kann die Erfüllung des Sinns der Organisation zwar finanzielle Investitionen erfordern, was wiederum den Investoren ein legitimes Mitspracherecht in der Organisation und das Recht auf eine angemessene Rendite für ihre Investitionen verschafft, aber die Organisation existiert nicht nur, um ihren Eigentümern zu dienen.
 
 
   Aus einer breiteren Perspektive könnte das Konzept der Eigentümerschaft durch ein Konzept wie [Stewardship](https://en.wikipedia.org/wiki/Stewardship) ersetzt werden. Kann man eine lebende Entität, wie eine Organisation, oder einen Teil von ihr besitzen? Kann man Energie besitzen, die sich selbst manifestieren will? Kann man sogar Vermögenswerte besitzen - wie etwa das Metall, aus dem eine Maschine besteht? Wir haben gerade erst begonnen, diese Fragen zu stellen, und haben noch keine wirklichen Antworten. Die Eigentümerschaft ist heute fest in unseren rechtlichen Rahmenbedingungen verankert, die Organisationen einhalten müssen. Wir müssen erst noch herausfinden, was "Stewardship" für eine Organisation bedeuten könnte (siehe unten "In der Praxis").
