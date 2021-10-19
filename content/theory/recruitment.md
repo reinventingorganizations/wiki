@@ -99,14 +99,16 @@ faq:
       ideal ist.
 
 
-      * When it comes to [self-management](../self-management/), the challenge tends to be different, depending on a person's background. If the candidate is used to being a manager or to work in a staff position with power over operating units, it can be a challenging transition. Candidates who have previously worked in the lower levels of the organization may find it hard at first to deal with the higher levels of commitment and personal responsibility that self-management requires.
-
-      * When it comes to [wholeness](../wholeness/): is the person comfortable with an environment where colleagues are expecting each other to be open and vulnerable, to show up from a place of wholeness?
-
-      * When it comes to [evolutionary purpose:](/evolutionary-purpose/) does the person resonate with the organization's purpose, and do they feel ok with an environment in which there is little predict & control, and more sense and respond?
+      * Hinsichtlich des [Selbstmanagements](../self-management/) ist die Herausforderung je nach Hintergrund der Person unterschiedlich. Wenn der Kandidat daran gewöhnt ist, eine Führungskraft zu sein oder in einer Stabsstelle zu arbeiten, die Macht über operative Einheiten hat, kann dies ein schwieriger Übergang sein. Kandidaten, die zuvor auf einer niedrigeren Ebene der Organisation gearbeitet haben, können sich anfangs schwer tun, mit dem höheren Maß an Commitment und persönlicher Verantwortung umzugehen, die das Selbstmanagement erfordert.
 
 
-      Traditional organizations that move to Teal find that it is often hard to predict who will thrive in the new environment or not. Some people suddenly blossom, whereas others where everyone predicted they would love it find it hard. So taking time in the recruitment process and building in, when possible, a test period might be helpful to increases chances of a good fit.
+      * Hinsichtlich der [Ganzheitlichkeit] (.../Ganzheitlichkeit/): Fühlt sich die Person in einem Umfeld wohl, in dem die Kollegen voneinander erwarten, dass sie offen und verletzlich sind, dass sie sich aus einer Position der Ganzheit heraus zeigen?
+
+
+      * Hinsichtlich des [evolutionären Sinns:](/evolutionärer-Zweck/) Stimmt die Person mit dem Sinn der Organisation überein und fühlt sie sich in einem Umfeld wohl, in dem es wenig Vorhersage und Kontrolle gibt und mehr Wahrnehmung und Reaktion?
+
+
+      Traditionelle Organisationen, die zu Teal wechseln, stellen fest, dass es oft schwer vorherzusagen ist, wer in der neuen Umgebung aufgehen wird und wer nicht. Manche Menschen blühen plötzlich auf, während andere, von denen alle vorausgesagt haben, dass sie es lieben würden, sich schwer tun. Es kann also hilfreich sein, sich bei der Einstellung Zeit zu lassen und, wenn möglich, eine Testphase einzuplanen, um die Chancen auf eine gute Passung zu erhöhen.
   - question: Aren’t teammates tempted to recruit candidates without strong
       personalities, who won't disturb them? Is there not a risk for lack of
       diversity to creep in?
