@@ -92,7 +92,7 @@ faq:
       Manche Menschen fühlen sich mehr zu einem selbstverwalteten Umfeld
       hingezogen als andere, oder zu einem Ort, der Menschen dazu einlädt, sich
       ganz zu entfalten oder sich intensiv mit einem bestimmten Sinn zu
-      beschäftigen. Je mehr das Einstellungsverfahren den Bewerbern die
+      beschäftigen. Je mehr das Einstellungsverfahren den Bewerberinnen die
       Möglichkeit gibt, die Art des Arbeitsplatzes, für den sie sich bewerben,
       genau zu verstehen, desto größer ist die Chance, dass sowohl das
       Unternehmen als auch das Individuum ein klares Verständnis dafür haben und
