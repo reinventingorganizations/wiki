@@ -19,7 +19,7 @@ perspective: >-
   finanziellen Gewinn zu verschaffen. In der Tat spiegelt der gesamte rechtliche
   Rahmen, der in den Industrieländern um "gewinnorientierte" Organisationen
   herum geschaffen wurde, die Annahme wider, dass dies ihr Zweck ist. Wie in
-  diesem Wiki an anderer Stelle ausführlich erörtert wird, geht der Zweck einer
+  diesem Wiki an anderer Stelle ausführlich erörtert wird, geht der Sinn einer
   Teal-Organisation weit über die Erzielung einer finanziellen Rendite für ihre
   Eigentümer hinaus.
 
@@ -27,7 +27,7 @@ perspective: >-
   Im Teal-Paradigma geht der Zweck über den Profit hinaus. Dies erfordert eine Ausweitung des Eigentumsprimats in Orange und sogar der grünen Multi-Stakeholder-Perspektive. Im Teal-Paradigma kann die Erfüllung des Zwecks der Organisation zwar finanzielle Investitionen erfordern, was wiederum den Investoren ein legitimes Mitspracherecht in der Organisation und das Recht auf eine angemessene Rendite für ihre Investitionen verschafft, aber die Organisation existiert nicht nur, um ihren Eigentümern zu dienen.
 
 
-  Aus einer breiteren Perspektive könnte das Konzept der Eigentümerschaft durch ein Konzept wie [Stewardship] (https://en.wikipedia.org/wiki/Stewardship) ersetzt werden. Kann man eine lebende Entität, wie eine Organisation, oder einen Teil von ihr besitzen? Kann man Energie besitzen, die sich selbst manifestieren will? Kann man sogar Vermögenswerte besitzen - wie etwa das Metall, aus dem eine Maschine besteht? Wir haben gerade erst begonnen, diese Fragen zu stellen, und haben noch keine wirklichen Antworten. Die Eigentümerschaft ist heute fest in unseren rechtlichen Rahmenbedingungen verankert, die Organisationen einhalten müssen. Wir müssen erst noch herausfinden, was "Stewardship" für eine Organisation bedeuten könnte (siehe unten "In der Praxis").
+  Aus einer breiteren Perspektive könnte das Konzept der Eigentümerschaft durch ein Konzept wie [Stewardship](https://en.wikipedia.org/wiki/Stewardship) ersetzt werden. Kann man eine lebende Entität, wie eine Organisation, oder einen Teil von ihr besitzen? Kann man Energie besitzen, die sich selbst manifestieren will? Kann man sogar Vermögenswerte besitzen - wie etwa das Metall, aus dem eine Maschine besteht? Wir haben gerade erst begonnen, diese Fragen zu stellen, und haben noch keine wirklichen Antworten. Die Eigentümerschaft ist heute fest in unseren rechtlichen Rahmenbedingungen verankert, die Organisationen einhalten müssen. Wir müssen erst noch herausfinden, was "Stewardship" für eine Organisation bedeuten könnte (siehe unten "In der Praxis").
 
 
   Heute unterscheiden wir zwischen "gewinnorientierten" und "nicht gewinnorientierten" Organisationen. Vielleicht würde die Einführung von etwas wie "Stewardship" diese Unterscheidung verwischen und zu einer neuen, breiter anwendbaren Rechtsform von Organisationen führen.
@@ -39,25 +39,25 @@ perspective: >-
   #### Rote Organisationen
 
 
-  In der [roten Organisation] (https://reinventingorganizations-wiki.netlify.app/theory/red-organizations/) ist die Eigentümerschaft häufig ein bedeutungsloses Konzept, da die Legitimität ihrer Führung eher auf Macht als auf irgendeinem Konstrukt von Eigentümerschaft beruht. Der Zweck ist enger mit der weiteren Anhäufung von Macht verbunden als mit finanzieller Rendite. So wie rote Organisationen Eigentümerschaft berücksichtigen, sind Eigentümerschaft und Führung in der Regel miteinander verschmolzen. Der Anführer ist auch der Eigentümer bzw. der wichtigste Vertreter der Eigentümerfamilie.
+  In der [roten Organisation](https://reinventingorganizations-wiki.netlify.app/theory/red-organizations/) ist die Eigentümerschaft häufig ein bedeutungsloses Konzept, da die Legitimität ihrer Führung eher auf Macht als auf irgendeinem Konstrukt von Eigentümerschaft beruht. Der Zweck ist enger mit der weiteren Anhäufung von Macht verbunden als mit finanzieller Rendite. So wie rote Organisationen Eigentümerschaft berücksichtigen, sind Eigentümerschaft und Führung in der Regel miteinander verschmolzen. Der Anführer ist auch der Eigentümer bzw. der wichtigste Vertreter der Eigentümerfamilie.
 
 
   #### Bernstein-Organisationen
 
 
-  Auch im [Bernstein-Paradigma] (http://reinventingorganizationswiki.com/Amber_Organizations) ist die Eigentümerschaft oft eine widersprüchliche Idee. Bernsteinfarbene Organisationen haben häufig einen anderen Zweck als finanzielle Rendite. Es gibt keinen "Eigentümer" des Militärs, der Kirche oder von Regierungsbehörden. In den Fällen, in denen gewinnorientierte Unternehmen in dem Bernstein-Paradigma tätig sind, halten sie in der Regel das Streben nach finanzieller Rendite mit einem anderen Ziel wie der Selbsterhaltung in Einklang. Da sie sich oft in Familienbesitz befinden, können die Eigentümer das strikte Streben nach Gewinnmaximierung zugunsten von Interessen wie der Wahrung eines Vermächtnisses einschränken.
+  Auch im [Bernstein-Paradigma](http://reinventingorganizationswiki.com/Amber_Organizations) ist die Eigentümerschaft oft eine widersprüchliche Idee. Bernsteinfarbene Organisationen haben häufig einen anderen Zweck als finanzielle Rendite. Es gibt keinen "Eigentümer" des Militärs, der Kirche oder von Regierungsbehörden. In den Fällen, in denen gewinnorientierte Unternehmen in dem Bernstein-Paradigma tätig sind, halten sie in der Regel das Streben nach finanzieller Rendite mit einem anderen Ziel wie der Selbsterhaltung in Einklang. Da sie sich oft in Familienbesitz befinden, können die Eigentümer das strikte Streben nach Gewinnmaximierung zugunsten von Interessen wie der Wahrung eines Vermächtnisses einschränken.
 
 
   #### Orange Organisationen
 
 
-  Im Rahmen des [orangen Paradigmas] (http://reinventingorganizationswiki.com/Orange_Organizations) steht das Konzept der Eigentümerschaft im Vordergrund. Ein Hauptzweck der klassischen orangen Organisation besteht darin, ihren Eigentümern eine finanzielle Rendite zu verschaffen. Dies spiegelt sich in dem modernen rechtlichen Konstrukt einer Aktiengesellschaft wider, in der die Aktionäre entsprechend ihrer Anteilsbeteiligung die oberste Entscheidungsgewalt über das Management haben. Das Management ist gesetzlich verpflichtet, eine finanzielle Rendite für die Aktionäre zu erzielen. Dies hat dazu geführt, dass die Eigentümerschaft von Organisationen weit gestreut ist und sich durch Mechanismen wie handelbare Aktien ändern kann. Jeder Anteilseigner mag einen winzigen und variablen Anteil haben, aber alle sind in dem Streben nach finanziellem Gewinn vereint.
+  Im Rahmen des [orangen Paradigmas](http://reinventingorganizationswiki.com/Orange_Organizations) steht das Konzept der Eigentümerschaft im Vordergrund. Ein Hauptzweck der klassischen orangen Organisation besteht darin, ihren Eigentümern eine finanzielle Rendite zu verschaffen. Dies spiegelt sich in dem modernen rechtlichen Konstrukt einer Aktiengesellschaft wider, in der die Aktionäre entsprechend ihrer Anteilsbeteiligung die oberste Entscheidungsgewalt über das Management haben. Das Management ist gesetzlich verpflichtet, eine finanzielle Rendite für die Aktionäre zu erzielen. Dies hat dazu geführt, dass die Eigentümerschaft von Organisationen weit gestreut ist und sich durch Mechanismen wie handelbare Aktien ändern kann. Jeder Anteilseigner mag einen winzigen und variablen Anteil haben, aber alle sind in dem Streben nach finanziellem Gewinn vereint.
 
 
   #### Grüne Organisationen
 
 
-  Das [grüne Paradigma] (http://reinventingorganizationswiki.com/Green_Organizations) reagiert auf die orange Fokussierung auf Aktionäre und finanzielle Belange, indem es die Bedeutung aller Interessensgruppen - Mitarbeiter, Kunden, Gemeinschaften, Lieferanten sowie Aktionäre - hervorhebt. Somit dienen auch "gewinnorientierte" Organisationen nicht nur dem Nutzen der Eigentümer: Sie sollten auch die Vielfalt der Interessen berücksichtigen, die in ihre Aktivitäten einbezogen sind. Die Bewegung der sozialen Verantwortung der Unternehmen ("Corporate Social Responsibility") ist aus dieser Perspektive entstanden.
+  Das [grüne Paradigma](http://reinventingorganizationswiki.com/Green_Organizations) reagiert auf die orange Fokussierung auf Aktionäre und finanzielle Belange, indem es die Bedeutung aller Interessensgruppen - Mitarbeiter, Kunden, Gemeinschaften, Lieferanten sowie Aktionäre - hervorhebt. Somit dienen auch "gewinnorientierte" Organisationen nicht nur dem Nutzen der Eigentümer: Sie sollten auch die Vielfalt der Interessen berücksichtigen, die in ihre Aktivitäten einbezogen sind. Die Bewegung der sozialen Verantwortung der Unternehmen ("Corporate Social Responsibility") ist aus dieser Perspektive entstanden.
 
 
   Im Allgemeinen haben gewinnorientierte grüne Organisationen jedoch keine andere Eigentümerschaft als orange Organisationen. Wenn die Eigentümer einer grünen Organisation alle die grüne Perspektive teilen, stellt dies in der Regel kein Problem dar. Sollten jedoch einige Eigentümer die Bedeutung finanzieller Erträge unterschiedlich einschätzen, kann es zu Konflikten kommen.
