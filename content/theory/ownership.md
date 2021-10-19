@@ -98,14 +98,11 @@ faq:
       verringern?
 
 
-      1. Die Mitarbeiter-Eigentümerschaft wird oft als eine Möglichkeit angesehen, die Mitarbeiter, insbesondere die talentiertesten und qualifiziertesten, an das Unternehmen zu binden. Aus der Teal-Perspektive ergibt das wenig Sinn. Die Menschen sollten frei sein, ihrer Berufung zu folgen. Wenn sich diese Berufung mit dem Sinn der Organisation überschneidet, dann sollen die Menschen Teil davon sein. Und es sollte ihnen freistehen, das Unternehmen zu verlassen, wenn dies nicht mehr der Fall ist. Die Gewinnbeteiligung ist eine einfache Möglichkeit für Mitarbeiter zu profitieren, ohne dass sie zu einem guten oder schlechten Zeitpunkt Aktien kaufen oder verkaufen müssen.
-
+      1. Die Mitarbeiter-Eigentümerschaft wird oft als eine Möglichkeit angesehen, die Mitarbeiter, insbesondere die talentiertesten und qualifiziertesten, an das Unternehmen zu binden. Aus der Teal-Perspektive ergibt das wenig Sinn. Die Menschen sollten frei sein, ihrer Berufung zu folgen. Wenn sich diese Berufung mit dem Sinn der Organisation überschneidet, dann sollen die Menschen Teil davon sein. Und es sollte ihnen freistehen, das Unternehmen zu verlassen, wenn dies nicht mehr der Fall ist. Die Gewinnbeteiligung ist eine einfache Möglichkeit für Mitarbeiterinnen zu profitieren, ohne dass sie zu einem guten oder schlechten Zeitpunkt Aktien kaufen oder verkaufen müssen.
 
       2. Die Mitarbeiter-Eigentümerschaft wird oft als ein Mittel zur "Motivation" der Arbeitnehmer angesehen. In der Teal-Anschauung wird jedoch die intrinsische Motivation (wie der Sinn) als viel stärker angesehen als extrinsische Faktoren wie die finanzielle Vergütung.
 
-
-      3. Die Mitarbeiter-Eigentümerschaft wird manchmal als eine Möglichkeit angesehen, den Arbeitnehmern Macht und Mitspracherechte zu geben. Wenn Arbeitnehmer ein Stimmrecht haben, können sie nicht einfach ignoriert werden. In einer selbstverwalteten Struktur wird die Macht ohnehin verteilt und es besteht keine Notwendigkeit mehr dies über Stimmrechte zu tun.
-
+      3. Die Mitarbeiter-Eigentümerschaft wird manchmal als eine Möglichkeit angesehen, den Arbeitnehmerinnen Macht und Mitspracherechte zu geben. Wenn Arbeitnehmer ein Stimmrecht haben, können sie nicht einfach ignoriert werden. In einer selbstverwalteten Struktur wird die Macht ohnehin verteilt und es besteht keine Notwendigkeit mehr dies über Stimmrechte zu tun.
 
       4. Die Mitarbeiter-Eigentümerschaft wird zuweilen als Mittel zur Verringerung der Einkommensungleichheit angesehen, da sie die Arbeitnehmer an der Wertschöpfung des Unternehmens teilhaben lässt. Dies gilt für junge Unternehmen, die schnell an Wert gewinnen können und nur über eine begrenzte Liquidität verfügen. In etablierteren Unternehmen kann die Einkommensungleichheit oft leichter durch die Festsetzung von Gehältern und eine Gewinnbeteiligung reduziert werden.
 relatedTheory:
