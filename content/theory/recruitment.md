@@ -16,7 +16,7 @@ perspective: >-
   #### **Rote Organisationen**
 
 
-  In [roten Organisationen](../red-organizations/) ist Loyalität wesentlich. Der Chef umgibt sich mit Familienmitgliedern oder anderen Personen, denen er vertrauen kann oder die er durch Furcht und das Versprechen, sich um sie zu kümmern, unter Kontrolle halten kann. Die Rekrutierung läuft auf Kooptation hinaus und es gibt oft ritualisierte Beitrittspraktiken, bei denen der Neuankömmling dem Chef die Treue verspricht, der im Gegenzug Schutz bietet.
+  In [roten Organisationen](../red-organizations/) ist Loyalität wesentlich. Der Chef umgibt sich mit Familienmitgliedern oder anderen Personen, denen er vertrauen kann oder die er durch Furcht und das Versprechen, sich um sie zu kümmern, unter Kontrolle halten kann. Die Rekrutierung läuft auf Kooptation hinaus und es gibt oft ritualisierte Beitrittspraktiken, bei denen der neue Mitarbeiter dem Chef die Treue verspricht, der im Gegenzug Schutz bietet.
 
 
   #### **Bernstein-Organisationen**
@@ -84,26 +84,24 @@ inPractice: >-
   ##### ***Die Passung testen***
 
 
-  Testphasen sind in Teal-Organisationen üblich. Einige Organisationen, zum Beispiel [FAVI](http://www.favi.com/en/), nutzen diese Zeit für beide Seiten ausgiebig, um zu testen, ob die Zusammenarbeit langfristig gut funktioniert. [Zappos](https://en.wikipedia.org/wiki/Zappos) bietet seinen neuen Mitarbeitern einen Scheck über 3.000 US-Dollar, wenn sie es sich anders überlegen und während der vierwöchigen Orientierungsphase kündigen. Die Idee dahinter ist, dass es für alle Beteiligten besser ist, wenn sie nicht in einem Verhältnis bleiben, das unglücklich zu sein verspricht.
+  Testphasen sind in Teal-Organisationen üblich. Einige Organisationen, zum Beispiel [FAVI](http://www.favi.com/en/), nutzen diese Zeit für beide Seiten ausgiebig, um zu testen, ob die Zusammenarbeit langfristig gut funktioniert. [Zappos](https://en.wikipedia.org/wiki/Zappos) bietet seinen neuen Mitarbeitern einen Scheck über 3.000 Dollar, wenn sie es sich anders überlegen und während der vierwöchigen Orientierungsphase kündigen. Die Idee dahinter ist, dass es für alle Beteiligten besser ist, wenn sie nicht in einem Verhältnis bleiben, das unglücklich zu sein verspricht.
 faq:
   - question: Ist jeder ein geeigneter Kandidat für eine Teal-Organisation? Gibt es
       Menschen, die sich nicht an einen solchen Arbeitsplatz anpassen können?
     answer: >-
-      Manche Menschen fühlen sich mehr zu einem self-managed Umfeld hingezogen
-      als andere, oder zu einem Ort, der Menschen dazu einlädt, sich ganz zu
-      entfalten oder sich intensiv mit einem bestimmten Sinn zu beschäftigen. Je
-      mehr das Einstellungsverfahren den Bewerbern die Möglichkeit gibt, die Art
-      des Arbeitsplatzes, für den sie sich bewerben, genau zu verstehen, desto
-      größer ist die Chance, dass sowohl das Unternehmen als auch das Individuum
-      ein klares Verständnis dafür haben und erkennen, wenn die Passung nicht
-      ideal ist.
+      Manche Menschen fühlen sich mehr zu einem selbstverwalteten Umfeld
+      hingezogen als andere, oder zu einem Ort, der Menschen dazu einlädt, sich
+      ganz zu entfalten oder sich intensiv mit einem bestimmten Sinn zu
+      beschäftigen. Je mehr das Einstellungsverfahren den Bewerbern die
+      Möglichkeit gibt, die Art des Arbeitsplatzes, für den sie sich bewerben,
+      genau zu verstehen, desto größer ist die Chance, dass sowohl das
+      Unternehmen als auch das Individuum ein klares Verständnis dafür haben und
+      erkennen, wenn die Passung nicht ideal ist.
 
 
       * Hinsichtlich des [Selbstmanagements](../self-management/) ist die Herausforderung je nach Hintergrund der Person unterschiedlich. Wenn der Kandidat daran gewöhnt ist, eine Führungskraft zu sein oder in einer Stabsstelle zu arbeiten, die Macht über operative Einheiten hat, kann dies ein schwieriger Übergang sein. Kandidaten, die zuvor auf einer niedrigeren Ebene der Organisation gearbeitet haben, können sich anfangs schwer tun, mit dem höheren Maß an Commitment und persönlicher Verantwortung umzugehen, die das Selbstmanagement erfordert.
 
-
-      * Hinsichtlich der [Ganzheitlichkeit] (.../Ganzheitlichkeit/): Fühlt sich die Person in einem Umfeld wohl, in dem die Kollegen voneinander erwarten, dass sie offen und verletzlich sind, dass sie sich aus einer Position der Ganzheit heraus zeigen?
-
+      * Hinsichtlich der [Ganzheitlichkeit](.../Ganzheitlichkeit/): Fühlt sich die Person in einem Umfeld wohl, in dem die Kollegen voneinander erwarten, dass sie offen und verletzlich sind, dass sie sich aus einer Position der Ganzheit heraus zeigen?
 
       * Hinsichtlich des [evolutionären Sinns:](/evolutionärer-Zweck/) Stimmt die Person mit dem Sinn der Organisation überein und fühlt sie sich in einem Umfeld wohl, in dem es wenig Vorhersage und Kontrolle gibt und mehr Wahrnehmung und Reaktion?
 
