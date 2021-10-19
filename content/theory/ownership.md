@@ -39,7 +39,7 @@ perspective: >-
   #### Rote Organisationen
 
 
-  In der [roten Organisation](https://reinventingorganizations-wiki.netlify.app/theory/red-organizations/) ist die Eigentümerschaft häufig ein bedeutungsloses Konzept, da die Legitimität ihrer Führung eher auf Macht als auf irgendeinem Konstrukt von Eigentümerschaft beruht. Der Zweck ist enger mit der weiteren Anhäufung von Macht verbunden als mit finanzieller Rendite. So wie rote Organisationen Eigentümerschaft berücksichtigen, sind Eigentümerschaft und Führung in der Regel miteinander verschmolzen. Der Anführer ist auch der Eigentümer bzw. der wichtigste Vertreter der Eigentümerfamilie.
+  In der [roten Organisation](https://reinventingorganizations-wiki.netlify.app/theory/red-organizations/) ist die Eigentümerschaft häufig ein bedeutungsloses Konzept, da die Legitimität ihrer Führung eher auf Macht als auf irgendeinem Konstrukt von Eigentümerschaft beruht. Der Sinn ist enger mit der weiteren Anhäufung von Macht verbunden als mit finanzieller Rendite. So wie rote Organisationen Eigentümerschaft berücksichtigen, sind Eigentümerschaft und Führung in der Regel miteinander verschmolzen. Der Anführer ist auch der Eigentümer bzw. der wichtigste Vertreter der Eigentümerfamilie.
 
 
   #### Bernstein-Organisationen
