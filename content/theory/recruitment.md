@@ -86,16 +86,17 @@ inPractice: >-
 
   Testphasen sind in Teal-Organisationen üblich. Einige Organisationen, zum Beispiel [FAVI](http://www.favi.com/en/), nutzen diese Zeit für beide Seiten ausgiebig, um zu testen, ob die Zusammenarbeit langfristig gut funktioniert. [Zappos](https://en.wikipedia.org/wiki/Zappos) bietet seinen neuen Mitarbeitern einen Scheck über 3.000 US-Dollar, wenn sie es sich anders überlegen und während der vierwöchigen Orientierungsphase kündigen. Die Idee dahinter ist, dass es für alle Beteiligten besser ist, wenn sie nicht in einem Verhältnis bleiben, das unglücklich zu sein verspricht.
 faq:
-  - question: Is everybody a good fit for a Teal organization? Are there people who
-      can't adapt to such a workplace?
+  - question: Ist jeder ein geeigneter Kandidat für eine Teal-Organisation? Gibt es
+      Menschen, die sich nicht an einen solchen Arbeitsplatz anpassen können?
     answer: >-
-      Some people will be more attracted than others to work in self-managing
-      environments, or in places that invite people into wholeness or to engage
-      deeply with a specific purpose. The more the recruitment process allows
-      candidates to have a deep understanding of the kind of workplace they are
-      applying for the higher the chance both the organization and the
-      individual may have a clear understanding and might realize the fit is not
-      ideal.
+      Manche Menschen fühlen sich mehr zu einem self-managed Umfeld hingezogen
+      als andere, oder zu einem Ort, der Menschen dazu einlädt, sich ganz zu
+      entfalten oder sich intensiv mit einem bestimmten Sinn zu beschäftigen. Je
+      mehr das Einstellungsverfahren den Bewerbern die Möglichkeit gibt, die Art
+      des Arbeitsplatzes, für den sie sich bewerben, genau zu verstehen, desto
+      größer ist die Chance, dass sowohl das Unternehmen als auch das Individuum
+      ein klares Verständnis dafür haben und erkennen, wenn die Passung nicht
+      ideal ist.
 
 
       * When it comes to [self-management](../self-management/), the challenge tends to be different, depending on a person's background. If the candidate is used to being a manager or to work in a staff position with power over operating units, it can be a challenging transition. Candidates who have previously worked in the lower levels of the organization may find it hard at first to deal with the higher levels of commitment and personal responsibility that self-management requires.
@@ -124,4 +125,3 @@ relatedTheory:
   - Job Titles and Job Descriptions
   - Culture and Values
 ---
-to be removed
