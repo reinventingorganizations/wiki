@@ -40,7 +40,7 @@ perspective: >-
   #### **Teal-Organisationen**
 
 
-  Die Rekrutierung wird in [Teal-Organisationen](../teal-paradigm-and-organizations/) von dem Team geleitet, das ein neues Mitglied braucht; nicht von der Personalabteilung (häufig gibt es keine Personalabteilung). Die Gespräche mit den Bewerbern drehen sich in der Regel um drei Themen: Eignung für die Aufgabe, Passung zur Organisation und ihrem Sinn. Die letzten beiden Punkte werden oft als wichtiger angesehen, da in selbstverwalteten Organisationen die Rollen häufig wechseln. Häufig wird eine Testphase vereinbart, damit beide Parteien ehrlich einschätzen können, ob sie zueinander passen.
+  Die Rekrutierung wird in [Teal-Organisationen](../teal-paradigm-and-organizations/) von dem Team geleitet, das ein neues Mitglied braucht; nicht von der Personalabteilung (häufig gibt es keine Personalabteilung). Die Gespräche mit den Bewerberinnen drehen sich in der Regel um drei Themen: Eignung für die Aufgabe, Passung zur Organisation und ihrem Sinn. Die letzten beiden Punkte werden oft als wichtiger angesehen, da in selbstverwalteten Organisationen die Rollen häufig wechseln. Häufig wird eine Testphase vereinbart, damit beide Parteien ehrlich einschätzen können, ob sie zueinander passen.
 
 
   Während des Rekrutierungsprozesses versuchen Teal-Organisationen der Versuchung zu widerstehen, vor Bewerbern "gut auszusehen". Die Prämisse ist, dass beide Parteien versuchen, eine einfache, grundlegende Frage zu beantworten: Haben wir das Gefühl, dass wir für eine gemeinsame Reise bestimmt sind? Diese Frage kann nur dann sinnvoll beantwortet werden, wenn die Gespräche auf Ehrlichkeit und Integrität beruhen und die Bereitschaft besteht, tief und offen nachzufragen.
