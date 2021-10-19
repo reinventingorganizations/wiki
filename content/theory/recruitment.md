@@ -109,17 +109,18 @@ faq:
 
 
       Traditionelle Organisationen, die zu Teal wechseln, stellen fest, dass es oft schwer vorherzusagen ist, wer in der neuen Umgebung aufgehen wird und wer nicht. Manche Menschen blühen plötzlich auf, während andere, von denen alle vorausgesagt haben, dass sie es lieben würden, sich schwer tun. Es kann also hilfreich sein, sich bei der Einstellung Zeit zu lassen und, wenn möglich, eine Testphase einzuplanen, um die Chancen auf eine gute Passung zu erhöhen.
-  - question: Aren’t teammates tempted to recruit candidates without strong
-      personalities, who won't disturb them? Is there not a risk for lack of
-      diversity to creep in?
+  - question: Sind die Teammitglieder nicht versucht, Kandidaten ohne starke
+      Persönlichkeiten einzustellen, die sie nicht stören werden? Besteht nicht
+      die Gefahr, dass sich ein Mangel an Vielfalt einschleicht?
     answer: >-
-      The risk exists, just as in any kind of organization, where people prefer
-      recruit someone  who looks like them : same age, same experience, same
-      initial training. Mitigating that risk is that recruitment is often a team
-      affair and not just a single or small groups decision. 
+      Wie in jeder Organisation besteht auch hier das Risiko, dass Menschen
+      lieber jemanden einstellen, der ihnen ähnlich ist: gleiches Alter, gleiche
+      Erfahrung, gleiche Grundausbildung. Dieses Risiko wird dadurch gemindert,
+      dass die Einstellung oft eine Teamangelegenheit ist und nicht nur eine
+      Entscheidung eines Einzelnen oder einer kleinen Gruppe. 
 
 
-      Some[ Teal organizations](../teal-paradigm-and-organizations/) have invented processes to preserve diversity (see below RHD  bi-monthly “isms in the workplace meeting”).
+      Einige [Teal-Organisationen] (../teal-paradigm-and-organizations/) haben Verfahren erfunden, um die Vielfalt zu bewahren (siehe das zweimonatliche RHD-Treffen "Ismen am Arbeitsplatz").
 relatedTheory:
   - Onboarding
   - Training and Coaching
