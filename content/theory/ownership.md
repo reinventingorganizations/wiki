@@ -60,7 +60,7 @@ perspective: >-
   Das [grüne Paradigma](http://reinventingorganizationswiki.com/Green_Organizations) reagiert auf die orange Fokussierung auf Aktionäre und finanzielle Belange, indem es die Bedeutung aller Interessensgruppen - Mitarbeiterinnen, Kunden, Gemeinschaften, Lieferanten sowie Aktionäre - hervorhebt. Somit dienen auch "gewinnorientierte" Organisationen nicht nur dem Nutzen der Eigentümerin: Sie sollten auch die Vielfalt der Interessen berücksichtigen, die in ihre Aktivitäten einbezogen sind. Die Bewegung der sozialen Verantwortung der Unternehmen ("Corporate Social Responsibility") ist aus dieser Perspektive entstanden.
 
 
-  Im Allgemeinen haben gewinnorientierte grüne Organisationen jedoch keine andere Eigentümerschaft als orange Organisationen. Wenn die Eigentümer einer grünen Organisation alle die grüne Perspektive teilen, stellt dies in der Regel kein Problem dar. Sollten jedoch einige Eigentümer die Bedeutung finanzieller Erträge unterschiedlich einschätzen, kann es zu Konflikten kommen.
+  Im Allgemeinen haben gewinnorientierte grüne Organisationen jedoch keine andere Eigentümerschaft als orange Organisationen. Wenn die Eigentümer einer grünen Organisation alle die grüne Perspektive teilen, stellt dies in der Regel kein Problem dar. Sollten jedoch einige Eigentümerinnen die Bedeutung finanzieller Erträge unterschiedlich einschätzen, kann es zu Konflikten kommen.
 inPractice: >-
   Die Eigentümerschaft in Teal-Organisationen kann verschiedene Formen annehmen.
   Es kann konzentriert oder verstreut, privat oder öffentlich sein, und diese
