@@ -101,7 +101,7 @@ faq:
 
       * Hinsichtlich des [Selbstmanagements](../self-management/) ist die Herausforderung je nach Hintergrund der Person unterschiedlich. Wenn der Kandidat daran gewöhnt ist, eine Führungskraft zu sein oder in einer Stabsstelle zu arbeiten, die Macht über operative Einheiten hat, kann dies ein schwieriger Übergang sein. Kandidatinnen, die zuvor auf einer niedrigeren Ebene der Organisation gearbeitet haben, können sich anfangs schwer tun, mit dem höheren Maß an Commitment und persönlicher Verantwortung umzugehen, die das Selbstmanagement erfordert.
 
-      * Hinsichtlich der [Ganzheitlichkeit](.../Ganzheitlichkeit/): Fühlt sich die Person in einem Umfeld wohl, in dem die Kollegen voneinander erwarten, dass sie offen und verletzlich sind, dass sie sich aus einer Position der Ganzheit heraus zeigen?
+      * Hinsichtlich der [Ganzheitlichkeit](.../Ganzheitlichkeit/): Fühlt sich die Person in einem Umfeld wohl, in dem die Kolleginnen voneinander erwarten, dass sie offen und verletzlich sind, dass sie sich aus einer Position der Ganzheit heraus zeigen?
 
       * Hinsichtlich des [evolutionären Sinns:](/evolutionärer-Zweck/) Stimmt die Person mit dem Sinn der Organisation überein und fühlt sie sich in einem Umfeld wohl, in dem es wenig Vorhersage und Kontrolle gibt und mehr Wahrnehmung und Reaktion?
 
