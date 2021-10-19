@@ -1,7 +1,7 @@
 ---
 layout: article
 tags: theory
-key: Rekrutierung
+key: Recruiting
 name: Rekrutierung
 sortOrder: 1
 category: People practices
