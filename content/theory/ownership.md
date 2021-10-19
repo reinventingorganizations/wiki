@@ -72,13 +72,13 @@ inPractice: >-
   Wohlstandsmaximierung unvereinbar ist (man könnte argumentieren, dass Teal
   diese sogar als Nebenprodukt seines evolutionären Sinns maximieren kann), aber
   es ist sicherlich wahr, dass viele dies so sehen könnten. Eine
-  Teal-Organisation mit Eigentümern, die nicht notwendigerweise eine
-  Teal-Weltanschauung vertreten, läuft daher Gefahr, dass diese Eigentümer
-  (aufgrund der ihnen typischerweise verliehenen gesetzlichen Rechte) die
-  Abschaffung von Teal-Praktiken erzwingen können, wenn diese mit dem
-  traditionelleren Ziel der Gewinnmaximierung in Konflikt zu geraten scheinen
-  oder weniger effektiv sind (siehe BSO/Origin und AES unter "Konkrete Beispiele
-  zur Inspiration" unten).
+  Teal-Organisation mit Eigentümerinnen, die nicht notwendigerweise eine
+  Teal-Weltanschauung vertreten, läuft daher Gefahr, dass diese
+  Eigentümerinnen(aufgrund der ihnen typischerweise verliehenen gesetzlichen
+  Rechte) die Abschaffung von Teal-Praktiken erzwingen können, wenn diese mit
+  dem traditionelleren Ziel der Gewinnmaximierung in Konflikt zu geraten
+  scheinen oder weniger effektiv sind (siehe BSO/Origin und AES unter "Konkrete
+  Beispiele zur Inspiration" unten).
 
 
   Es gibt einige rechtliche Entwicklungen, die sich mit diesem potenziellen Konflikt befassen, aber sie sind noch nicht weit verbreitet. In den Vereinigten Staaten erkennen einige Bundesstaaten eine "Benefit Corporation" als eine Art gewinnorientiertes Unternehmen an, dessen gesetzlich festgelegte Ziele neben dem Gewinn auch positive Auswirkungen auf die Gesellschaft, die Arbeitnehmer, das Gemeinwesen und die Umwelt umfassen. In gewinnorientierten Unternehmen, wie wir sie derzeit kennen (bezogen auf die US-amerikanischen so genannten "C-Corporations"), haben die Geschäftsführer der Organisationen eine treuhänderische Pflicht gegenüber den Aktionären, und zwar ausschließlich gegenüber den Aktionären. Sie müssen mit zivilrechtlichen Klagen rechnen, wenn sie ihre treuhänderischen Pflichten verletzen, indem sie ökologische oder soziale Belange auf Kosten der Aktionäre berücksichtigen. Die Pflicht der Geschäftsführer von "Benefit Corporations" wird auf nicht-finanzielle Interessen ausgedehnt, wie z. B. den sozialen Nutzen, die Belange von Mitarbeitern und Zulieferern und die Auswirkungen auf die Umwelt.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 5464-5467). Nelson Parker. Kindle Edition.]
