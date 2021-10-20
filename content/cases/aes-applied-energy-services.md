@@ -33,23 +33,24 @@ theory:
       Einstellung wäre jemand, der nicht flexibel ist und sagt: "Das ist nicht
       meine Aufgabe."'
   - topic: Environmental and Social Management
-    title: "Via the advice process, AES employees initiate environmental and social
-      initiatives. "
+    title: Im Rahmen des Beratungsprozesses initiieren die Mitarbeiter von AES
+      ökologische und soziale Initiativen.
     content: >-
-      For [AES](http://www.aes.com/), environmental and social initiatives start
-      with inner rightness. Here is how AES expressed it in a public filing with
-      the U.S. Securities and Exchange Commission when it offered stock to the
-      public: "An important element of AES is its commitment to four major
-      'shared' values ^\[one of which is Social Responsibility, which triggered
-      AES’s decision to plant trees]. If the company perceives a conflict
-      between these values and profits, it will try to adhere to its values ―
-      even if doing so might result in diminished profits or foregone
-      opportunities. Moreover, the Company seeks to adhere to these values not
-      as a means to achieve economic success, but because adherence is a
-      worthwhile goal in and of itself."
+      Für [AES] (http://www.aes.com/) beginnen Umwelt- und Sozialinitiativen mit
+      innerer Rechtschaffenheit. So drückte es AES in einer öffentlichen
+      Einreichung bei der US-Börsenaufsichtsbehörde aus, als das Unternehmen der
+      Öffentlichkeit Aktien anbot: "Ein wichtiges Element von AES ist die
+      Verpflichtung auf vier große 'gemeinsame' Werte ^\[einer davon ist die
+      soziale Verantwortung, die der Auslöser für die Entscheidung von AES war,
+      Bäume zu pflanzen]. Wenn das Unternehmen einen Konflikt zwischen diesen
+      Werten und den Gewinnen sieht, wird es versuchen, an seinen Werten
+      festzuhalten - auch wenn dies zu geringeren Gewinnen oder entgangenen
+      Chancen führen könnte. Darüber hinaus versucht das Unternehmen, an diesen
+      Werten festzuhalten, nicht um wirtschaftlichen Erfolg zu erzielen, sondern
+      weil das Festhalten an diesen Werten ein lohnendes Ziel an sich ist."
 
 
-      AES planted millions of trees to offset carbon emissions. This idea came from an employee in in Los Angeles, not the senior team. Initially there was no budget for this. Using the advice process, she built support for the money AES should put into tree planting. ^\[Source: Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), pages 160-172]
+      AES pflanzte Millionen von Bäumen, um die Kohlenstoffemissionen auszugleichen. Diese Idee kam von einem Mitarbeiter in Los Angeles, nicht von der Geschäftsleitung. Ursprünglich gab es dafür kein Budget. Mit Hilfe des Beratungsprozesses gewann sie die Unterstützung für das Geld, das AES in die Baumpflanzung stecken sollte. ^\[Übersetzt aus Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), S. 160-172]
   - topic: Strategy
     title: Strategic decisions can be made by anyone, often through an advice process.
     content: "A recently hired financial analyst at AES informed the CEO, Dennis
