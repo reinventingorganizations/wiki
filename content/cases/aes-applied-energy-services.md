@@ -75,11 +75,12 @@ theory:
       the Next Stage of Human Consciousness (Kindle Locations 2245-2254). Nelson
       Parker. Kindle Edition:]"
   - topic: Purchasing and Investments
-    title: AES provides its workers a high level of autonomy in their area of
-      expertise which enables them to negotiate multi-million dollar plant
-      investments. Interdisciplinary volunteer task forces supported by a few
-      people from headquarters with relevant expertise collectively do budget
-      planning and auditing.
+    title: Die AES bietet ihren Mitarbeitern ein hohes Maß an Autonomie in ihrem
+      Fachgebiet, was sie in die Lage versetzt, über Investitionen in Höhe von
+      mehreren Millionen Dollar zu verhandeln. Interdisziplinäre freiwillige
+      Arbeitsgruppen, die von einigen wenigen Mitarbeitern der Zentrale mit
+      einschlägigem Fachwissen unterstützt werden, führen gemeinsam die
+      Haushaltsplanung und -prüfung durch.
     content: "Like their counterparts at [FAVI](http://www.favi.com/) and [Sun
       Hydraulics](http://www.sunhydraulics/), teams at
       [AES](http://www.ase.com/) were responsible for decisions relating to all
