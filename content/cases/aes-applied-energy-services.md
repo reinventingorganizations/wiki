@@ -22,14 +22,16 @@ theory:
       war eine der Grundregeln -, die Ergebnisse der Umfrage in einem Format zu
       diskutieren, das sie für nützlich hielt."
   - topic: Recruitment
-    title: At AES, candidates are invited to discussions about the organization’s
-      values and practices during the recruitment process.
-    content: 'An employee of [AES](https://www.ase.com/Home.aspx) explained: "bad
-      hire" is someone who is a chronic complainer, who is not happy, who blames
-      others, who doesn’t take responsibility, who’s not honest, who doesn’t
-      trust other people. A bad hire would be someone who needs specific
-      direction and waits to be told what to do. A poor hire would be someone
-      who wasn’t flexible and who says, “It’s not my job.”'
+    title: Bei der AES werden die Bewerber während des Einstellungsverfahrens zu
+      Diskussionen über die Werte und Praktiken des Unternehmens eingeladen.
+    content: 'Ein Mitarbeiter der [AES] (https://www.ase.com/Home.aspx) erklärte:
+      Eine "schlechte Einstellung" ist jemand, der sich ständig beschwert, der
+      nicht zufrieden ist, der anderen die Schuld gibt, der keine Verantwortung
+      übernimmt, der nicht ehrlich ist, der anderen Menschen nicht vertraut.
+      Eine schlechte Einstellung wäre jemand, der genaue Anweisungen braucht und
+      darauf wartet, dass man ihm sagt, was er tun soll. Eine schlechte
+      Einstellung wäre jemand, der nicht flexibel ist und sagt: "Das ist nicht
+      meine Aufgabe."'
   - topic: Environmental and Social Management
     title: "Via the advice process, AES employees initiate environmental and social
       initiatives. "
