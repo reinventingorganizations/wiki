@@ -56,7 +56,7 @@ inPractice: >-
 
   * Verzicht auf die Befehls- und Kontrollprivilegien früherer Perspektiven
 
-  * mit den Mitarbeitern gemeinsam nach dem evolutionären Sinn der Organisation "lauschen" und bereit sein, ihm zu folgen
+  * mit den Mitarbeiterinnen gemeinsam nach dem evolutionären Sinn der Organisation "lauschen" und bereit sein, ihm zu folgen
 
   * sich den Sinn und die Werte der Organisation zu eigen machen
 
