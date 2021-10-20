@@ -35,17 +35,18 @@ perspective: >-
 
 
   In der [bernsteinfarbenen Organisation](../amber-paradigm-and-organizations/) ist der typische Vorstand eine kleine soziale Schicht an der Spitze einer starren Hierarchie. Es kann formale Kriterien für die Aufnahme oder ein Qualifikationsverfahren geben. Der Vorstand spielt die Rolle eines "Wächters": Er sorgt dafür, dass Traditionen, Regeln und Verfahren eingehalten werden.
-                        
+
+
   #### Orange Organisationen
 
 
-  Im [orangen Paradigma](../orange-paradigm-and-organizations/) ist der Vorstand dazu da, das Management im Namen der Aktionäre/Eigentümer oder im Falle einer gemeinnützigen Organisation im Namen ihrer Förderer zur Rechenschaft zu ziehen. Sein Schwerpunkt liegt auf Zielen, Ergebnissen, Strategien, Kontrollen und Nachfolge. Er ist für die Ernennung und gegebenenfalls die Abberufung des Geschäftsführers zuständig.
+  Im [orangen Paradigma](../orange-paradigm-and-organizations/) ist der Vorstand dazu da, das Management im Namen der Aktionäre/Eigentümerinnen oder im Falle einer gemeinnützigen Organisation im Namen ihrer Förderer zur Rechenschaft zu ziehen. Sein Schwerpunkt liegt auf Zielen, Ergebnissen, Strategien, Kontrollen und Nachfolge. Er ist für die Ernennung und gegebenenfalls die Abberufung des Geschäftsführers zuständig.
 
 
   #### Grüne Organisationen
 
 
-  In [grünen Organisationen](../green-paradigm-and-organizations/) sind die Aufgaben des Vorstands ähnlich wie in Orange, umfassen aber eher die Rolle als Hüter des Zwecks/der Werte der Organisation und der Interessen der verschiedenen Interessengruppen. In grünen, gewinnorientierten Organisationen werden die Aktionäre oft nur als eine der Interessengruppen betrachtet, und einzelne Vorstandsmitglieder können speziell für die Vertretung der Interessen anderer Interessengruppen, z. B. der Mitarbeiter, bestimmt werden.
+  In [grünen Organisationen](../green-paradigm-and-organizations/) sind die Aufgaben des Vorstands ähnlich wie in Orange, umfassen aber eher die Rolle als Hüterin des Zwecks/der Werte der Organisation und der Interessen der verschiedenen Interessengruppen. In grünen, gewinnorientierten Organisationen werden die Aktionäre oft nur als eine der Interessengruppen betrachtet, und einzelne Vorstandsmitglieder können speziell für die Vertretung der Interessen anderer Interessengruppen, z. B. der Mitarbeiterinnen, bestimmt werden.
 inPractice: >-
   ### Der Vorstand muss das Teal-Denken übernehmen
 
