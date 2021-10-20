@@ -52,25 +52,28 @@ theory:
 
       AES pflanzte Millionen von Bäumen, um die Kohlenstoffemissionen auszugleichen. Diese Idee kam von einem Mitarbeiter in Los Angeles, nicht von der Geschäftsleitung. Ursprünglich gab es dafür kein Budget. Mit Hilfe des Beratungsprozesses gewann sie die Unterstützung für das Geld, das AES in die Baumpflanzung stecken sollte. ^\[Übersetzt aus Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), S. 160-172]
   - topic: Strategy
-    title: Strategic decisions can be made by anyone, often through an advice process.
-    content: "A recently hired financial analyst at AES informed the CEO, Dennis
-      Bakke, that he was intending to leave his role to go back to his native
-      Pakistan and research the opportunity for electricity-generating capacity
-      there on behalf of AES. Bakke expressed skepticism, telling him that
-      despite encouragement from the U.S. Department of State to expand into
-      Pakistan several years earlier, they declined due to concern over high
-      levels of corruption there.\r
+    title: Strategische Entscheidungen können von jedem getroffen werden, oft im
+      Rahmen eines Beratungsprozesses.
+    content: "Ein kürzlich bei AES eingestellter Finanzanalyst teilte dem
+      Geschäftsführer Dennis Bakke mit, dass er beabsichtige, seine Stelle
+      aufzugeben, um in seine Heimat Pakistan zurückzukehren und dort im Auftrag
+      von AES die Möglichkeiten für Stromerzeugungskapazitäten zu erkunden.
+      Bakke äußerte sich skeptisch und erzählte ihm, dass man trotz der
+      Ermutigung durch das US-Außenministerium, einige Jahre zuvor nach Pakistan
+      zu expandieren, aufgrund der Besorgnis über das hohe Maß an Korruption
+      dort abgelehnt hatte.\r
 
       \r
 
-      Despite the CEO’s recommendation, the analyst decided to go to
-      Pakistan, effectively creating a new position for himself as business
-      developer, retaining his previous salary. Six months later, he invited
-      Bakke to Pakistan to meet the prime minister. Two and a half years later,
-      a $ 700 million power plant was running.^[ Laloux, Frederic (2014-02-09).
+      Trotz der Empfehlung des Geschäftsführers beschloss der Analyst,
+      nach Pakistan zu gehen, und schuf damit für sich selbst eine neue Stelle
+      als Geschäftsentwickler, wobei er sein bisheriges Gehalt beibehielt. Sechs
+      Monate später lud er Bakke zu einem Treffen mit dem Premierminister nach
+      Pakistan ein. Zweieinhalb Jahre später war ein 700 Millionen Dollar teures
+      Kraftwerk in Betrieb.^[Übersetzt aus Laloux, Frederic (2014-02-09).
       Reinventing Organizations: A Guide to Creating Organizations Inspired by
       the Next Stage of Human Consciousness (Kindle Locations 2245-2254). Nelson
-      Parker. Kindle Edition.]"
+      Parker. Kindle Edition:]"
   - topic: Purchasing and Investments
     title: AES provides its workers a high level of autonomy in their area of
       expertise which enables them to negotiate multi-million dollar plant
