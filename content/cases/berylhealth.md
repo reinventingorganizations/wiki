@@ -1,28 +1,29 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
 name: BerylHealth
-introduction: Call center services for hospitals - USA - For profit
+date: 2020-11-09
+introduction: Callcenter-Dienstleistungen für Krankenhäuser - USA - Gewinnorientiert
 industry: J. Information and communication
 geography: USA
 companySize: 201-500
 profit: Profit
 theory:
   - topic: Mood Management
-    title: At BerylHealth an e-mail sent to the whole workforce recognizing and
-      thanking someone encourages others to follow and creates the so-called
-      “Good Stuff Friday” for everyone.
+    title: Bei BerylHealth ermutigt eine an die gesamte Belegschaft gesendete
+      E-Mail, in der jemandem Anerkennung und Dank ausgesprochen wird, andere
+      dazu, es ihm gleichzutun, und schafft den so genannten "Good Stuff Friday"
+      für alle.
     content: >-
-      [BerylHealth](http://www.berylhealth.com/) has come up with a variation of
-      the [ESBZ's ](http://www.ev-schule-zentrum.de/aktuell/)practice. But
-      instead of gathering together, a mass email chain always erupts at some
-      point on Friday afternoon. (Hence the name the practice has taken: “Good
-      Stuff Friday”.).
+      [BerylHealth](http://www.berylhealth.com/) hat eine Variante der [ESBZ's
+      ](http://www.ev-schule-zentrum.de/aktuell/)-Praxis entwickelt. Aber
+      anstatt sich zu versammeln, wird am Freitagnachmittag eine
+      Massen-E-Mail-Kette ausgelöst. (Daher der Name, den die Praxis angenommen
+      hat: "Good Stuff Friday".).
 
 
-      One colleague sends an email to the entire workforce recognizing and thanking another colleague or department for something that happened that week, or simply to share some good news.
+      Ein Kollege schickt eine E-Mail an die gesamte Belegschaft, in der er einem anderen Kollegen oder einer anderen Abteilung für etwas dankt, das in dieser Woche geschehen ist, oder einfach nur, um gute Neuigkeiten mitzuteilen.
 
 
-      The first email invariably triggers a whole avalanche of thanking and recognition. This practice builds community and closes the week in a spirit of appreciation and gratitude.
+      Die erste E-Mail löst unweigerlich eine ganze Lawine von Danksagungen und Anerkennungen aus. Diese Praxis fördert die Gemeinschaft und beendet die Woche in einem Geist der Wertschätzung und Dankbarkeit.
 ---
