@@ -12,14 +12,15 @@ companySize: "> 500"
 profit: Profit
 theory:
   - topic: Culture and Values
-    title: AES used the practice of a survey to stimulate discussions about values
-      and ground rules.
-    content: "Annual survey: Many organizations cultivate discussion about values
-      and ground rules through an annual survey. At [AES](http://www.aes.com/),
-      for instance, a task force of volunteers devised a new set of questions
-      every year and sent them out to the entire organization. Each unit had the
-      obligation— it was one of the ground rules— to discuss the outcome of the
-      survey, in whatever format it thought would be useful."
+    title: Die AES nutzte die Praxis einer Umfrage, um Diskussionen über Werte und
+      Grundregeln anzuregen.
+    content: "Jährliche Umfrage: Viele Organisationen pflegen die Diskussion über
+      Werte und Grundregeln durch eine jährliche Umfrage. Bei der
+      [AES](http://www.aes.com/) zum Beispiel hat eine Arbeitsgruppe von
+      Freiwilligen jedes Jahr einen neuen Satz von Fragen ausgearbeitet und an
+      die gesamte Organisation verschickt. Jede Einheit war verpflichtet - dies
+      war eine der Grundregeln -, die Ergebnisse der Umfrage in einem Format zu
+      diskutieren, das sie für nützlich hielt."
   - topic: Recruitment
     title: At AES, candidates are invited to discussions about the organization’s
       values and practices during the recruitment process.
