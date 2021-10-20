@@ -3,9 +3,9 @@ layout: case
 tags: cases
 name: AES (Applied Energy Services)
 date: 2020-11-09
-introduction: The AES Corporation is a Fcompany that generates and distributes
-  electrical power. AES is headquartered in Arlington, Virginia see
-  https://en.wikipedia.org/wiki/AES_Corporation
+introduction: Die AES Corporation ist ein Unternehmen, das elektrische Energie
+  erzeugt und vertreibt. Der Hauptsitz von AES befindet sich in Arlington,
+  Virginia, siehe https://de.wikipedia.org/wiki/AES_Corporation
 industry: D. Electricity, gas, steam and air conditioning supply
 geography: Global
 companySize: "> 500"
