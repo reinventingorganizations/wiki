@@ -96,7 +96,7 @@ faq:
       3. Er kann den Prozess der Ernennung eines neuen "CEO" erleichtern, falls die Organisation weiterhin Bedarf für eine solche Rolle hat, wenn ein Führungswechsel ansteht.
 
 
-      Chris Rufer, Gründer und 100-prozentiger Eigentümer von Morningstar, sieht im Übrigen keine Notwendigkeit für einen Vorstand. Die Mitarbeiterinnen von Morningstar betrachten den Auftrag/Sinn des Unternehmens als ihren obersten Chef.
+      Chris Rufer, Gründer und 100-prozentiger Eigentümer von Morningstar, sieht im Übrigen keine Notwendigkeit für einen Vorstand. Die Mitarbeiter von Morningstar betrachten den Auftrag/Sinn des Unternehmens als ihre oberste Chefin.
   - question: Wer wird entscheiden, ob der CEO gehen muss?
     answer: >-
       Der [Konfliktlösung](../conflict-resolution/)sprozess befasst sich mit
