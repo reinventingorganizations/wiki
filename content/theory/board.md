@@ -99,7 +99,7 @@ faq:
       Chris Rufer, Gründer und 100-prozentiger Eigentümer von Morningstar, sieht im Übrigen keine Notwendigkeit für einen Vorstand. Die Mitarbeiter von Morningstar betrachten den Auftrag/Sinn des Unternehmens als ihre oberste Chefin.
   - question: Wer wird entscheiden, ob der CEO gehen muss?
     answer: >-
-      Der [Konfliktlösung](../conflict-resolution/)sprozess befasst sich mit
+      Der [Konfliktlösungsprozess](../conflict-resolution/) befasst sich mit
       diesem Thema und kann von jedem eingeleitet werden, der der Meinung ist,
       dass ein Rolleninhaber (einschließlich des Geschäftsführers) geändert
       werden sollte. Beachten Sie, dass in einem Teal-Unternehmen die Rolle des
