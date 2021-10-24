@@ -21,7 +21,7 @@ perspective: >-
   Organisation nur sehr schwer, wenn nicht gar nicht, funktionieren.
 
 
-  Die meisten Teal-Organisationen arbeiten auf der Grundlage bestimmter Annahmen über die menschliche Natur: dass Mitarbeiterinnen nachdenkliche, vertrauenswürdige Erwachsene sind, die in der Lage sind, Rechenschaft abzulegen und für ihre Entscheidungen und Handlungen verantwortlich sind. In einem Arbeitsplatz, die auf Teal-Annahmen basiert, gibt ein klarer Konfliktlösungsprozess zusammen mit einer entsprechenden Schulung den Menschen den Weg und die Fähigkeiten, Meinungsverschiedenheiten mit Reife und Anmut zu bearbeiten
+  Die meisten Teal-Organisationen arbeiten auf der Grundlage bestimmter Annahmen über die menschliche Natur: dass Mitarbeiterinnen nachdenkliche, vertrauenswürdige Erwachsene sind, die in der Lage sind, Rechenschaft abzulegen und für ihre Entscheidungen und Handlungen verantwortlich sind. In einem Arbeitsplatz, der auf Teal-Annahmen basiert, gibt ein klarer Konfliktlösungsprozess zusammen mit einer entsprechenden Schulung den Menschen den Weg und die Fähigkeiten, Meinungsverschiedenheiten mit Reife und Anmut zu bearbeiten.
 
 
   Jede historische Etappe hat eine andere Perspektive auf Konfliktlösung und sehr unterschiedliche Praktiken hervorgebracht:
@@ -30,28 +30,28 @@ perspective: >-
   #### **Rote Organisationen**
 
 
-  Im [roten Paradigma](../red-organizations/) gibt es eine dominante Machtausübung durch den Chef oder die Führungskraft, um andere auf Linie zu halten. Angst ist der Klebstoff der Organisation. Im Allgemeinen werden Konflikte durch Unterdrückung, Macht oder Dominanz gehandhabt, und strenge Regeln werden durch Angst vor Konsequenzen durchgesetzt.
+  Im [roten Paradigma](../red-organizations/) gibt es eine dominante Machtausübung durch den Chef oder die Führungskraft, um andere auf Linie zu halten. Angst ist der Klebstoff der Organisation. Im Allgemeinen werden Konflikte durch Unterdrückung, Macht oder Dominanz gehandhabt, und strenge Regeln werden aufgrund der Angst vor Konsequenzen durchgesetzt.
 
 
-  #### **Bernstein Organisationen**
+  #### **Bernstein-Organisationen**
 
 
-  Das [ bernsteinfarbene Paradigma](../amber-paradigm-and-organizations/) hat formalisierte Rollen innerhalb einer hierarchischen Pyramidenstruktur und Top-Down-Befehl und Kontrolle (was und wie). Stabilität wird über alles geschätzt und wird durch klar definierte Rollen und Prozesse aufrechterhalten.
+  Das [bernsteinfarbene Paradigma](../amber-paradigm-and-organizations/) hat formalisierte Rollen innerhalb einer hierarchischen Pyramidenstruktur und Top-Down-Befehl und Kontrolle (was und wie). Stabilität wird über alles geschätzt und wird durch klar definierte Rollen und Prozesse aufrechterhalten.
 
 
-  Zu den Methoden zur Konfliktbewältigung gehören Vermeidung oder Unterdrückung. Regeln werden von denjenigen mit Autorität auferlegt und können durch rechtliche Schritte durchgesetzt werden. Diese Arten von Organisationen haben starke HR-Prozesse für den Umgang mit Konflikten und Beschwerden zwischen Arbeitnehmer und Arbeitgeber.
+  Zu den Methoden der Konfliktbewältigung gehören Vermeidung oder Unterdrückung. Regeln werden von denjenigen mit Autorität auferlegt und können durch rechtliche Schritte durchgesetzt werden. Diese Arten von Organisationen haben starke HR-Prozesse für den Umgang mit Konflikten und Beschwerden zwischen Arbeitnehmer und Arbeitgeber.
 
 
-  #### **Orangene Organisationen**
+  #### **Orange Organisationen**
 
 
-  Im [Orange-Paradigma](../orange-paradigm-and-organizations/) gibt es auch eine hierarchische Struktur, aber das Management erfolgt durch Zielsetzung (Definition des "Was"; mit mehr Freiheit beim "Wie"). In vielen Orange-Organisationen gibt es zwar formale Verfahren zur Konfliktlösung, aber Konflikte werden oft nicht gut behandelt. Obwohl Einzelpersonen oft dazu ermutigt werden, Meinungsverschiedenheiten selbst zu lösen, muss ein Konflikt oft durch das Eingreifen einer dritten Partei gelöst werden. Dies geschieht meist, indem die Angelegenheit an die Chefin verwiesen wird oder indem man sich auf die Personalpolitik und -verfahren beruft. Diese Verfahren schaffen eine Ebene der objektiven Unabhängigkeit von "denen", die im Konflikt stehen.
+  Im [orangen Paradigma](../orange-paradigm-and-organizations/) gibt es auch eine hierarchische Struktur, aber das Management erfolgt durch Zielsetzung (Definition des "Was"; mit mehr Freiheit beim "Wie"). In vielen Orange-Organisationen gibt es zwar formale Verfahren zur Konfliktlösung, aber Konflikte werden oft nicht gut behandelt. Obwohl Einzelpersonen oft dazu ermutigt werden, Meinungsverschiedenheiten selbst zu lösen, muss ein Konflikt oft durch das Eingreifen einer dritten Partei gelöst werden. Dies geschieht meist, indem die Angelegenheit an die Chefin verwiesen wird oder indem man sich auf die Personalpolitik und -verfahren beruft. Diese Verfahren schaffen eine Ebene der objektiven Unabhängigkeit von "denen", die im Konflikt stehen.
 
 
   #### **Grüne Organisationen**
 
 
-  Das [Grüne-Paradigma ](../green-paradigm-and-organizations/)verwendet wiederum eine klassische Pyramidenstruktur, jedoch mit einem stärkeren Fokus auf Befähigung. Grüne Organisationen haben eine wertebasierte Kultur, die Prinzipien wie Integrität, Respekt und Offenheit beinhaltet. Es wird viel in die Förderung von Zusammenarbeit, Kommunikation, Problemlösung und die Ausarbeitung von Vereinbarungen investiert, die den zugrunde liegenden Bedürfnissen entsprechen. Diese Prozesse können manchmal die Quelle von Konflikten beseitigen. Wenn sie auftreten, kann es lange dauern, bis Konflikte gelöst sind, da die Gruppen versuchen, eine harmonische Lösung zu finden. Der Chef ist jedoch normalerweise der letzte Schiedsrichter in Konfliktsituationen.
+  Das [grüne Paradigma ](../green-paradigm-and-organizations/)verwendet wiederum eine klassische Pyramidenstruktur, jedoch mit einem stärkeren Fokus auf Befähigung. Grüne Organisationen haben eine wertebasierte Kultur, die Prinzipien wie Integrität, Respekt und Offenheit beinhaltet. Es wird viel in die Förderung von Zusammenarbeit, Kommunikation, Problemlösung und die Ausarbeitung von Vereinbarungen investiert, die den zugrunde liegenden Bedürfnissen entsprechen. Diese Prozesse können manchmal die Quelle von Konflikten beseitigen. Wenn sie auftreten, kann es lange dauern, bis Konflikte gelöst sind, da die Gruppen versuchen, eine harmonische Lösung zu finden. Der Chef ist jedoch normalerweise der letzte Schiedsrichter in Konfliktsituationen.
 
 
   #### **Teal-Organisationen**
@@ -178,10 +178,7 @@ inPractice: "**Eine Organisationskultur, die eine effektive Konfliktlösung
   Einzelcoaching, um einen Ärger durchzuarbeiten.
 
 
-  Zum Beispiel:
-
-
-  \r
+  Zum Beispiel:\r
 
   \r
 
@@ -190,7 +187,7 @@ inPractice: "**Eine Organisationskultur, die eine effektive Konfliktlösung
 
   * Wenn sie keine Lösung finden, die für beide akzeptabel ist, ernennen sie
   eine Kollegin, dem sie beide vertrauen, zur Mediatorin. Die Mediatorin drängt
-  keine Entscheidung auf. Vielmehr unterstützt er die Beteiligten dabei, eine
+  keine Entscheidung auf. Vielmehr unterstützt sie die Beteiligten dabei, eine
   eigene Lösung zu finden. \r
 
   * Scheitert die Mediation, wird ein Gremium aus themenrelevanten Kollegen
@@ -211,9 +208,9 @@ inPractice: "**Eine Organisationskultur, die eine effektive Konfliktlösung
   in den ersten Wochen ihrer Tätigkeit ein Grundlagentraining, das u.a. folgende
   Themen umfasst: Selbstmanagement, tiefes Zuhören, konstruktiver Umgang mit
   Konflikten und Schaffung einer sicheren Umgebung. Unternehmen wie ESBZ und
-  Buurtzorg schulen ihre Mitarbeiter beispielsweise in der von Marshal Rosenberg
-  entwickelten [Gewaltfreien Kommunikation
-  ](https://de.wikipedia.org/wiki/Gewaltfreie_Kommunikation)."
+  Buurtzorg schulen ihre Mitarbeiter beispielsweise in der von Marshall
+  Rosenberg entwickelten [Gewaltfreien
+  Kommunikation](https://de.wikipedia.org/wiki/Gewaltfreie_Kommunikation)."
 faq:
   - question: Wenn so viel Zeit damit verbracht wird, jeden Konflikt
       durchzusprechen, wann wird dann die Arbeit erledigt?
