@@ -87,22 +87,22 @@ inPractice: >-
   Einige Gründer und CEOs - wie Jos de Blok bei [Buurtzorg](http://www.buurtzorgusa.org/) und Yvon Chouinard bei [Patagonia](http://eu.patagonia.com/enGB/home) - halten dieses Modul für so wichtig, dass sie sich dazu entscheiden, an jeder Onboarding-Sitzung teilnehmen.
 
 
-  #### **Meeting practices**
+  #### **Meetingpraktiken**
 
 
-  Meetings, more often than not, turn into playing fields for the egos, pushing souls into hiding. For that reason, almost all researched [Teal organizations](../teal-paradigm-and-organizations/) have instituted specific meeting practices to help participants keep their egos in check and interact with each other from a place of wholeness. For new hires, it is important to know about practices such as moments of silence, and structured decisions making. This enables them to contribute to productive meetings.
+  Meetings werden nicht selten zu Spielwiesen für das Ego, die die Seelen in den Hintergrund drängen. Aus diesem Grund haben fast alle untersuchten [Teal-Organisationen](../teal-paradigm-and-organizations/) spezielle Meeting-Praktiken eingeführt, die den Teilnehmern helfen, ihre Egos im Zaum zu halten und miteinander von der Ganzheit aus zu interagieren. Für neue Mitarbeiter ist es wichtig, über Praktiken wie Momente der Stille und strukturierte Entscheidungsfindung Bescheid zu wissen. So können sie zu produktiven Meetings beitragen.
 
 
-  #### **Rotational programs**
+  #### **Rotationsverfahren**
 
 
-  Some organizations choose to train every new colleague in frontline skills. The goal is to build relationships with other employees across the company and to build understanding of how the company operates. This understanding enables people to develop new ideas and suggestions more effectively.
+  Manche Organisationen entscheiden sich dafür, jeden neuen Mitarbeiter in Frontline-Fähigkeiten zu schulen. Ziel ist es, Beziehungen zu anderen Mitarbeitern im gesamten Unternehmen aufzubauen und zu verstehen, wie das Unternehmen funktioniert. Dieses Verständnis ermöglicht es den Mitarbeitern, neue Ideen und Vorschläge effektiver zu entwickeln.
 
 
-  At [FAVI](http://www.favi.com/), the French automotive supplier, all engineers and administrative workers have been trained to operate at least one machine on the shop floor. This builds community and allows everyone to help on the shop floor when demand is high.
+  Bei [FAVI](http://www.favi.com/), einem französischen Automobilzulieferer, wurden alle Ingenieure und Verwaltungsmitarbeiter darin geschult, mindestens eine Maschine in der Werkstatt zu bedienen. Dies fördert die Gemeinschaft und ermöglicht es jedem, in der Werkstatt zu helfen, wenn die Nachfrage hoch ist.
 
 
-  At [Sun Hydraulics](http://www.sunhydraulics.com/), all new hires start with a “manufacturing tour”, no matter what their future role will be. This approach builds understanding and a sense of community across the organization. It is not uncommon for people to take on a different role to the one they were hired for after this process.
+  Bei [Sun Hydraulics](http://www.sunhydraulics.com/) beginnen alle neu eingestellten Mitarbeiter mit einer "Fertigungstour", unabhängig von ihrer zukünftigen Rolle. Dieser Ansatz fördert das Verständnis und das Gemeinschaftsgefühl innerhalb des Unternehmens. Es ist nicht ungewöhnlich, dass Mitarbeiter nach diesem Prozess eine andere Rolle übernehmen als die, für die sie eingestellt wurden.
 faq:
   - question: How to reduce the risk of new colleagues leaving the organization
       during onboarding because of a Teal practices mismatch?
