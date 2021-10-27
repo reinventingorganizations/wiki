@@ -45,7 +45,7 @@ perspective: >-
   #### **Teal-Organisationen**
 
 
-  [Teal-Organisationen](../teal-paradigm-and-organizations/) investieren viel Zeit in die Aufnahme und Schulung neuer Kollegen. Dazu gehört oft das Erlernen neuer Beziehungsfähigkeiten, das Verständnis dafür, was Selbstmanagement in der Praxis bedeutet, und das Durchlaufen eines Rotationsprogramms. Diese Programme vermitteln allgemeine Fähigkeiten und bieten den neuen Kollegen die Möglichkeit, ein breites Spektrum an Menschen kennenzulernen. Neuankömmlinge werden auch in die Praktiken des [Selbstmanagements](../Selbstmanagement/), der [Ganzheitlichkeit](../Ganzheitlichkeit/) und des [evolutionären Sinns](../evolutionärer-Sinn/) eingeführt. Sie werden eingeladen, ihre Berufung und ihre Talente in Bezug auf den Sinn und die Tätigkeiten der Organisation zu betrachten.
+  [Teal-Organisationen](../teal-paradigm-and-organizations/) investieren viel Zeit in die Aufnahme und Schulung neuer Kollegen. Dazu gehört oft das Erlernen neuer zwischenmenschlicher Fähigkeiten, das Verständnis dafür, was Selbstmanagement in der Praxis bedeutet, und das Durchlaufen eines Rotationsprogramms. Diese Programme vermitteln allgemeine Fähigkeiten und bieten den neuen Kollegen die Möglichkeit, ein breites Spektrum an Menschen kennenzulernen. Neuankömmlinge werden auch in die Praktiken des [Selbstmanagements](../Selbstmanagement/), der [Ganzheitlichkeit](../Ganzheitlichkeit/) und des [evolutionären Sinns](../evolutionärer-Sinn/) eingeführt. Sie werden eingeladen, ihre Berufung und ihre Talente in Bezug auf den Sinn und die Tätigkeiten der Organisation zu betrachten.
 inPractice: >-
   #### **Schulung in zwischenmenschlichen Fähigkeiten und in der
   Unternehmenskultur**
@@ -54,7 +54,7 @@ inPractice: >-
   [Teal-Organisationen](../teal-paradigm-and-organizations/) investieren viel Zeit und Energie in die Einführung neuer Kollegen. Die ersten Tage und Wochen sind entscheidend, um ihnen zu helfen, einen neuen und oft sehr unterschiedlichen Arbeitsplatz zu verstehen. Im Mittelpunkt des Onboarding-Prozesses steht eine Form der Schulung, die den Kollegen hilft, die neue Umgebung, in die sie eingetreten sind, zu verstehen und sich darin zurechtzufinden.
 
 
-  Bei Buurtzorg werden zum Beispiel alle neuen Teammitglieder in Problemlösungs- und Besprechungspraktiken geschult, damit sie in einem Team ohne eine Chefin arbeiten können. Alle neuen Mitarbeiter bei [Heiligenfeld](http://www.heiligenfeld.com/) durchlaufen sechs Schulungsmodule, die Themen wie " Selbststeuerung" und "Umgang mit Misserfolgen" beinhalten. Alle neuen Mitarbeiter bei [Morning Star](http://www.morningstarco.com/) nehmen an einem Seminar über die Grundlagen des [Selbstmanagements](../Selbstmanagement/) teil.
+  Bei [Buurtzorg](http://www.buurtzorgusa.org/) werden zum Beispiel alle neuen Teammitglieder in Problemlösungs- und Besprechungspraktiken geschult, damit sie in einem Team ohne eine Chefin arbeiten können. Alle neuen Mitarbeiter bei [Heiligenfeld](http://www.heiligenfeld.com/) durchlaufen sechs Schulungsmodule, die Themen wie " Selbststeuerung" und "Umgang mit Misserfolgen" beinhalten. Alle neuen Mitarbeiter bei [Morning Star](http://www.morningstarco.com/) nehmen an einem Seminar über die Grundlagen des [Selbstmanagements](../Selbstmanagement/) teil.
 
 
   Für Personen, die zuvor eine Führungsposition innehatten, kann der Übergang besonders schwierig sein. Sie müssen lernen, wie man Dinge erledigt, ohne auf Anweisung und Kontrolle zurückzugreifen.
@@ -81,10 +81,10 @@ inPractice: >-
   #### **Sinn**
 
 
-  A dialogue on how the organization's purpose resonates with new colleagues personal calling can be a great mutual introduction. [Teal organizations](../teal-paradigm-and-organizations/) are seen as having a life and a sense of direction of their own. Instead of trying to predict and control the future, members of the organization are invited to listen in and understand what the organization wants to become. By understanding the Evolutionary purpose, they can see how they can contribute to it whilst also fulfilling their own personal calling.
+  Ein Dialog darüber, wie der Sinn der Organisation mit der persönlichen Berufung der neuen Kollegen übereinstimmt, kann eine großartige gegenseitige Einführung sein. [Teal-Organisationen](../teal-paradigm-and-organizations/) werden als etwas angesehen, das ein eigenes Leben und einen eigenen Sinn für die Richtung hat. Anstatt zu versuchen, die Zukunft vorherzusagen und zu kontrollieren, werden die Mitglieder der Organisation eingeladen, zuzuhören und zu verstehen, was die Organisation werden will. Indem sie den evolutionären Sinn verstehen, können sie erkennen, wie sie dazu beitragen und gleichzeitig ihre eigene persönliche Berufung erfüllen können.
 
 
-  Some founders and CEOs—such as Jos de Blok at [Buurtzorg](http://www.buurtzorgusa.org/) and Yvon Chouinard at [Patagonia](http://eu.patagonia.com/enGB/home)—find this module so significant that they choose to participate in every onboarding session.
+  Einige Gründer und CEOs - wie Jos de Blok bei [Buurtzorg](http://www.buurtzorgusa.org/) und Yvon Chouinard bei [Patagonia](http://eu.patagonia.com/enGB/home) - halten dieses Modul für so wichtig, dass sie sich dazu entscheiden, an jeder Onboarding-Sitzung teilnehmen.
 
 
   #### **Meeting practices**
