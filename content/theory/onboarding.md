@@ -6,43 +6,43 @@ name: Onboarding
 sortOrder: 2
 category: People practices
 intro: >-
-  The topic of onboarding describes how new colleagues are welcomed and
-  supported when they join an organization. It covers training activities and
-  rotation programs to help new joiners integrate successfully into the
-  organizational and its culture.
+  Das Thema Onboarding beschreibt, wie neue Kollegen bei ihrem Eintritt in eine
+  Organisation empfangen und unterstützt werden. Es umfasst Schulungsaktivitäten
+  und Rotationsprogramme, die neuen Mitarbeitern helfen, sich erfolgreich in die
+  Organisation und ihre Kultur zu integrieren.
 
 
   ![](/media/all-stages.jpg)
 perspective: >-
-  Every historical stage has given birth to a distinct perspective on
-  onboarding, and to very different practices:
+  Jede historische Phase hat eine andere Perspektive auf das Onboarding und sehr
+  unterschiedliche Praktiken hervorgebracht:
 
 
-  #### **Red Organizations**
+  #### **Rote Organisationen**
 
 
-  In [Red organizations](../red-organizations/) leaders continually exercise their power in order to maintain control. They often surround themselves with family members and trusted advisers, buying their allegiance by sharing the spoils. The onboarding process typically involves a ritual of allegiance to the leader. Mythical stories of the leaders power make the rounds and are part of the onboarding process.
+  In [roten Organisationen](../rote-organisationen/) üben die Führungspersonen ständig ihre Macht aus, um die Kontrolle zu behalten. Sie umgeben sich oft mit Familienmitgliedern und vertrauenswürdigen Beratern und erkaufen sich deren Loyalität, indem sie die Einnahmen teilen. Der Onboarding-Prozess beinhaltet in der Regel ein Ritual der Loyalität gegenüber der Führungsperson. Mythische Geschichten über die Macht der Führungskraft machen die Runde und sind Teil des Onboarding-Prozesses.
 
 
-  #### **Amber Organizations**
+  #### **Bernstein-Organisationen**
 
 
   [Amber organizations](../amber-paradigm-and-organizations/) value order and predictability. Everybody has their place in a hierarchy which has clearly defined roles and responsibilities. Onboarding is about learning the requirements of the role and the expectations that come with it. This often means putting personal needs and feelings aside in favor of the organization. People are expected to follow the rules and stay in their ‘box’.
 
 
-  #### **Orange Organizations**
+  #### **Orange Organisationen**
 
 
   [Orange organizations](../orange-paradigm-and-organizations/) are characterized by competition and achievement drive. Innovation is the key to staying ahead. The onboarding process is often functional.. People might receive a few brochures about the company’s history, mission statement and values, or there might be a two-hour session where a senior leader talks about these topics. But mostly, the first steps are often mundane: there are papers to sign, a desk and computer to find, and a password to be assigned in order to access the firm’s network. Once ready to go, the new employee must try to create some time in his supervisor’s agenda to get some guidance on what to do.
 
 
-  #### **Green Organizations**
+  #### **Grüne Organisationen**
 
 
   [Green Organizations](../green-paradigm-and-organizations/) focus on culture and empowerment to encourage employee motivation. Teaching the approach and skills of servant leadership is a significant aspect of onboarding for managers. Managers, in turn, play an important role in welcoming newcomers into the organization and helping them understand the culture. Onboarding is often about community building and meeting the new family in an open way.
 
 
-  #### **Teal Organizations**
+  #### **Teal-Organisationen**
 
 
   [Teal organizations](../teal-paradigm-and-organizations/) invest significant time in welcoming and training new colleagues. This often includes learning new relational skills, understanding what self-management means in practice and going through a rotation program. These programs teach common skills and provide an opportunity for new colleagues to meet a wide range of people. Newcomers are also  introduced to the practices of [self-management](../self-management/), [wholeness](../wholeness/) and  [evolutionary purpose](../evolutionary-purpose/) They are invited to consider their calling and talents in relation to the organization's purpose and its activities.
