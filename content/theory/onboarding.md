@@ -127,13 +127,13 @@ faq:
       Spannungen führen. Der beste Weg, um störende Spannungen zu vermeiden, ist
       es, stetig neue Kollegen aufzunehmen und die Aufnahme sehr großer Gruppen
       von neuen Mitarbeitern auf einen Schlag zu vermeiden.
-  - question: How to onboard new colleagues by formal training and at the same time
-      give them time and space to be able to find their way by intuitive
-      exploration?
-    answer: "Make sure you select a mix of practices that not only appeal to the
-      rational, but also touch the heart and the soul of new colleagues.
-      Further, you may consider inviting them to co create their onboarding
-      program. "
+  - question: Wie kann man neue Kollegen durch formale Schulungen einbinden und
+      ihnen gleichzeitig Zeit und Raum geben, damit sie sich mittels intuitiver
+      Erkundung zurechtfinden?
+    answer: Achten Sie darauf, dass Sie eine Mischung aus Praktiken auswählen, die
+      nicht nur den Verstand ansprechen, sondern auch das Herz und die Seele der
+      neuen Kollegen berühren. Außerdem können Sie sie einladen, ihr
+      Onboarding-Programm mitzugestalten.
 relatedTheory:
   - Recruitment
   - Training and Coaching
