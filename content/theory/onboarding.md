@@ -27,7 +27,7 @@ perspective: >-
   #### **Bernstein-Organisationen**
 
 
-  [Bernstein-Organisationen](../Bernstein-Paradigma-und-Organisationen/) legen Wert auf Ordnung und Vorhersehbarkeit. Jeder hat seinen Platz in einer Hierarchie, die klar definierte Rollen und Verantwortlichkeiten hat. Beim Onboarding geht es darum, die Anforderungen der Rolle und die damit verbundenen Erwartungen zu erlernen. Das bedeutet oft, dass persönliche Bedürfnisse und Gefühle zugunsten der Organisation zurückgestellt werden müssen. Von den Mitarbeitern wird erwartet, dass sie die Regeln befolgen und in ihrer "Box" bleiben.
+  [Bernsteinfarbene Organisationen](../Bernstein-Paradigma-und-Organisationen/) legen Wert auf Ordnung und Vorhersehbarkeit. Jeder hat seinen Platz in einer Hierarchie, die klar definierte Rollen und Verantwortlichkeiten hat. Beim Onboarding geht es darum, die Anforderungen der Rolle und die damit verbundenen Erwartungen zu erlernen. Das bedeutet oft, dass persönliche Bedürfnisse und Gefühle zugunsten der Organisation zurückgestellt werden müssen. Von den Mitarbeitern wird erwartet, dass sie die Regeln befolgen und in ihrer "Box" bleiben.
 
 
   #### **Orange Organisationen**
@@ -39,13 +39,13 @@ perspective: >-
   #### **Grüne Organisationen**
 
 
-  [Green Organizations](../green-paradigm-and-organizations/) focus on culture and empowerment to encourage employee motivation. Teaching the approach and skills of servant leadership is a significant aspect of onboarding for managers. Managers, in turn, play an important role in welcoming newcomers into the organization and helping them understand the culture. Onboarding is often about community building and meeting the new family in an open way.
+  [Grüne Organisationen](../green-paradigm-and-organizations/) konzentrieren sich auf Kultur und Stärkung der Handlungskompetenz, um die Motivation der Mitarbeiter zu fördern. Die Vermittlung des Ansatzes und der Fähigkeiten der dienenden Mitarbeiterführung ist ein wichtiger Aspekt des Onboardings von Führungspersonen. Die Führungskräfte spielen ihrerseits eine wichtige Rolle bei der Aufnahme neuer Mitarbeiter in die Organisation und helfen ihnen, die Kultur zu verstehen. Beim Onboarding geht es oft darum, eine Gemeinschaft aufzubauen und der neuen Familie offen zu begegnen.
 
 
   #### **Teal-Organisationen**
 
 
-  [Teal organizations](../teal-paradigm-and-organizations/) invest significant time in welcoming and training new colleagues. This often includes learning new relational skills, understanding what self-management means in practice and going through a rotation program. These programs teach common skills and provide an opportunity for new colleagues to meet a wide range of people. Newcomers are also  introduced to the practices of [self-management](../self-management/), [wholeness](../wholeness/) and  [evolutionary purpose](../evolutionary-purpose/) They are invited to consider their calling and talents in relation to the organization's purpose and its activities.
+  [Teal-Organisationen](../teal-paradigm-and-organizations/) investieren viel Zeit in die Aufnahme und Schulung neuer Kollegen. Dazu gehört oft das Erlernen neuer Beziehungsfähigkeiten, das Verständnis dafür, was Selbstmanagement in der Praxis bedeutet, und das Durchlaufen eines Rotationsprogramms. Diese Programme vermitteln allgemeine Fähigkeiten und bieten den neuen Kollegen die Möglichkeit, ein breites Spektrum an Menschen kennenzulernen. Neuankömmlinge werden auch in die Praktiken des [Selbstmanagements](../Selbstmanagement/), der [Ganzheitlichkeit](../Ganzheitlichkeit/) und des [evolutionären Sinns](../evolutionärer-Sinn/) eingeführt. Sie werden eingeladen, ihre Berufung und ihre Talente in Bezug auf den Sinn und die Tätigkeiten der Organisation zu betrachten.
 inPractice: >-
   #### **Training in relational skills and in company culture**
 
