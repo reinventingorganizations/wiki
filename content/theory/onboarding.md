@@ -128,13 +128,13 @@ faq:
 
 
       Paul Green Jr., der das Selbstmanagement-Institut von [Morning Star](http://www.morningstarco.com/) leitet, schätzt, dass fast 50 Prozent der Personen, die früher in anderen Organisationen leitende Positionen innehatten (VP-Ebene oder höher), die Organisation nach ein oder zwei Jahren verlassen, "weil es ihnen schwerfällt, sich an ein System anzupassen, in dem sie nicht Gott spielen können".
-  - question: How to maintain Teal practices when many new colleagues from non teal
-      organizations are joining?
-    answer: The onboarding of large groups of new colleagues from non [Teal
-      organizations](../teal-paradigm-and-organizations/) can result in
-      tensions. Best way to avoid disruptive tensions is to have a steady intake
-      of new colleagues and avoiding very large groups of new people starting at
-      once.
+  - question: Wie können Teal-Praktiken beibehalten werden, wenn viele neue Kollegen
+      aus Nicht-Teal-Organisationen hinzukommen?
+    answer: Das Onboarding großer Gruppen von neuen Kollegen aus
+      Nicht-[Teal-Organisationen](../teal-paradigm-and-organizations/) kann zu
+      Spannungen führen. Der beste Weg, um störende Spannungen zu vermeiden, ist
+      es, stetig neue Kollegen aufzunehmen und die Aufnahme sehr großer Gruppen
+      von neuen Mitarbeitern auf einen Schlag zu vermeiden.
   - question: How to onboard new colleagues by formal training and at the same time
       give them time and space to be able to find their way by intuitive
       exploration?
