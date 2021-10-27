@@ -27,13 +27,13 @@ perspective: >-
   #### **Bernstein-Organisationen**
 
 
-  [Amber organizations](../amber-paradigm-and-organizations/) value order and predictability. Everybody has their place in a hierarchy which has clearly defined roles and responsibilities. Onboarding is about learning the requirements of the role and the expectations that come with it. This often means putting personal needs and feelings aside in favor of the organization. People are expected to follow the rules and stay in their ‘box’.
+  [Bernstein-Organisationen](../Bernstein-Paradigma-und-Organisationen/) legen Wert auf Ordnung und Vorhersehbarkeit. Jeder hat seinen Platz in einer Hierarchie, die klar definierte Rollen und Verantwortlichkeiten hat. Beim Onboarding geht es darum, die Anforderungen der Rolle und die damit verbundenen Erwartungen zu erlernen. Das bedeutet oft, dass persönliche Bedürfnisse und Gefühle zugunsten der Organisation zurückgestellt werden müssen. Von den Mitarbeitern wird erwartet, dass sie die Regeln befolgen und in ihrer "Box" bleiben.
 
 
   #### **Orange Organisationen**
 
 
-  [Orange organizations](../orange-paradigm-and-organizations/) are characterized by competition and achievement drive. Innovation is the key to staying ahead. The onboarding process is often functional.. People might receive a few brochures about the company’s history, mission statement and values, or there might be a two-hour session where a senior leader talks about these topics. But mostly, the first steps are often mundane: there are papers to sign, a desk and computer to find, and a password to be assigned in order to access the firm’s network. Once ready to go, the new employee must try to create some time in his supervisor’s agenda to get some guidance on what to do.
+  [Orange Organisationen](../orange-paradigm-and-organizations/) sind durch Wettbewerb und Leistungsstreben gekennzeichnet. Innovation ist der Schlüssel, um an der Spitze zu bleiben. Der Onboarding-Prozess ist oft funktional. Die Mitarbeiter erhalten vielleicht ein paar Broschüren über die Geschichte, das Leitbild und die Werte des Unternehmens, oder es findet eine zweistündige Sitzung statt, in der ein leitender Angestellter über diese Themen spricht. Aber meistens sind die ersten Schritte ganz alltäglich: Papiere müssen unterschrieben, ein Schreibtisch und ein Computer gefunden und es muss ein Passwort vergeben werden für den Zugang zum Firmennetzwerk. Sobald die neue Mitarbeiterin bereit ist, muss sie versuchen, etwas Zeit im Terminkalender ihrer Vorgesetzten zu gewinnen, um eine Einweisung in ihre Aufgaben zu erhalten.
 
 
   #### **Grüne Organisationen**
