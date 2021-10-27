@@ -47,13 +47,14 @@ perspective: >-
 
   [Teal-Organisationen](../teal-paradigm-and-organizations/) investieren viel Zeit in die Aufnahme und Schulung neuer Kollegen. Dazu gehört oft das Erlernen neuer Beziehungsfähigkeiten, das Verständnis dafür, was Selbstmanagement in der Praxis bedeutet, und das Durchlaufen eines Rotationsprogramms. Diese Programme vermitteln allgemeine Fähigkeiten und bieten den neuen Kollegen die Möglichkeit, ein breites Spektrum an Menschen kennenzulernen. Neuankömmlinge werden auch in die Praktiken des [Selbstmanagements](../Selbstmanagement/), der [Ganzheitlichkeit](../Ganzheitlichkeit/) und des [evolutionären Sinns](../evolutionärer-Sinn/) eingeführt. Sie werden eingeladen, ihre Berufung und ihre Talente in Bezug auf den Sinn und die Tätigkeiten der Organisation zu betrachten.
 inPractice: >-
-  #### **Training in relational skills and in company culture**
+  #### **Schulung in zwischenmenschlichen Fähigkeiten und in der
+  Unternehmenskultur**
 
 
-  [Teal Organizations Teal organizations](../teal-paradigm-and-organizations/) invest significant time and energy welcoming new colleagues. The first days and weeks are critical to helping them understand a new and often very different workplace. At the heart of the onboarding process is some form of training that helps colleagues understand and navigate the new environment they joined.
+  [Teal-Organisationen](../teal-paradigm-and-organizations/) investieren viel Zeit und Energie in die Einführung neuer Kollegen. Die ersten Tage und Wochen sind entscheidend, um ihnen zu helfen, einen neuen und oft sehr unterschiedlichen Arbeitsplatz zu verstehen. Im Mittelpunkt des Onboarding-Prozesses steht eine Form der Schulung, die den Kollegen hilft, die neue Umgebung, in die sie eingetreten sind, zu verstehen und sich darin zurechtzufinden.
 
 
-  At Buurtzorg, for example, all new team members are trained in problem solving and meeting practices, so they can operate in a team without a boss in charge. All new hires at [Heiligenfeld](http://www.heiligenfeld.com/) go through six training modules that include topics like "self-mastery" and "dealing with failure". All new recruits at [Morning Star](http://www.morningstarco.com/) attend a seminar on the basics of [self-management](../self-management/).
+  Bei Buurtzorg werden zum Beispiel alle neuen Teammitglieder in Problemlösungs- und Besprechungspraktiken geschult, damit sie in einem Team ohne eine Chefin arbeiten können. Alle neuen Mitarbeiter bei [Heiligenfeld](http://www.heiligenfeld.com/) durchlaufen sechs Schulungsmodule, die Themen wie " Selbststeuerung" und "Umgang mit Misserfolgen" beinhalten. Alle neuen Mitarbeiter bei [Morning Star](http://www.morningstarco.com/) nehmen an einem Seminar über die Grundlagen des [Selbstmanagements](../Selbstmanagement/) teil.
 
 
   For people who were previously in leadership positions, the transition can be particularly difficult. They have to learn how to get things done without recourse to command and control.
