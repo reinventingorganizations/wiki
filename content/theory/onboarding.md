@@ -57,19 +57,19 @@ inPractice: >-
   Bei Buurtzorg werden zum Beispiel alle neuen Teammitglieder in Problemlösungs- und Besprechungspraktiken geschult, damit sie in einem Team ohne eine Chefin arbeiten können. Alle neuen Mitarbeiter bei [Heiligenfeld](http://www.heiligenfeld.com/) durchlaufen sechs Schulungsmodule, die Themen wie " Selbststeuerung" und "Umgang mit Misserfolgen" beinhalten. Alle neuen Mitarbeiter bei [Morning Star](http://www.morningstarco.com/) nehmen an einem Seminar über die Grundlagen des [Selbstmanagements](../Selbstmanagement/) teil.
 
 
-  For people who were previously in leadership positions, the transition can be particularly difficult. They have to learn how to get things done without recourse to command and control.
+  Für Personen, die zuvor eine Führungsposition innehatten, kann der Übergang besonders schwierig sein. Sie müssen lernen, wie man Dinge erledigt, ohne auf Anweisung und Kontrolle zurückzugreifen.
 
 
-  A significant part of the onboarding process is often dedicated to understanding the concept of [Evolutionary purpose](../evolutionary-purpose/). New employees are encouraged to express their personal calling to see how it resonates with the organization' s purpose and to learn how they might support and nurture each other.
+  Ein wesentlicher Teil des Onboarding-Prozesses ist häufig dem Verständnis des Konzepts des [evolutionären Sinns](../evolutionärer-sinn/) gewidmet. Neue Mitarbeiter werden ermutigt, ihre persönliche Berufung zum Ausdruck zu bringen, um herauszufinden, inwieweit diese mit dem Zweck der Organisation übereinstimmt, und um zu lernen, wie sie sich gegenseitig unterstützen und fördern können.
 
 
-  There is no perfect recipe for a Teal onboarding process. Each organization chooses a range of activities that aim to teach new skills and, in the process, touch the heart and soul of those joining. A good way to develop an onboarding process is to ask employees, especially new ones, to co-create their own onboarding program and activities.
+  Es gibt kein perfektes Rezept für einen Teal-Onboarding-Prozess. Jede Organisation wählt eine Reihe von Tätigkeiten aus, die darauf abzielen, neue Fähigkeiten zu vermitteln und dabei das Herz und die Seele der neuen Mitarbeiter zu berühren. Eine gute Möglichkeit, einen Onboarding-Prozess zu entwickeln, besteht darin, die Mitarbeiter, insbesondere die neuen, zu bitten, ihr eigenes Onboarding-Programm und ihre eigenen Aktivitäten mitzugestalten.
 
 
-  Foundational training in some of the following practices helps new colleagues starting in a Teal organization.
+  Ein Grundlagentraining in einigen der folgenden Praktiken hilft neuen Kollegen, die in einer Teal-Organisation anfangen.
 
 
-  #### **Ground rules or agreements**
+  #### **Grundregeln oder Vereinbarungen**
 
 
   Creating a safe workplace starts with raising everybody’s awareness of the words and actions that create or undermine a safe working environment. Teal organizations spend significant time and energy training everybody in a number of ground rules or agreements that support healthy and productive collaboration. These ground rules are a tangible application of the [culture and values](../culture-and-values/) of the organization. Several of the organizations end up writing down these in a document.
