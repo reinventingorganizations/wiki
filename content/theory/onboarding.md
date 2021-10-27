@@ -104,19 +104,30 @@ inPractice: >-
 
   Bei [Sun Hydraulics](http://www.sunhydraulics.com/) beginnen alle neu eingestellten Mitarbeiter mit einer "Fertigungstour", unabhängig von ihrer zukünftigen Rolle. Dieser Ansatz fördert das Verständnis und das Gemeinschaftsgefühl innerhalb des Unternehmens. Es ist nicht ungewöhnlich, dass Mitarbeiter nach diesem Prozess eine andere Rolle übernehmen als die, für die sie eingestellt wurden.
 faq:
-  - question: How to reduce the risk of new colleagues leaving the organization
-      during onboarding because of a Teal practices mismatch?
+  - question: Wie lässt sich das Risiko verringern, dass neue Kollegen das
+      Unternehmen während der Einarbeitung verlassen, weil die Teal-Praktiken
+      nicht zu ihnen passen?Wie lässt sich das Risiko verringern, dass neue
+      Kollegen das Unternehmen während der Einarbeitung verlassen, weil die
+      Teal-Praktiken nicht zu ihnen passen?Wie lässt sich das Risiko verringern,
+      dass neue Kollegen das Unternehmen während der Einarbeitung verlassen,
+      weil die Teal-Praktiken nicht zu ihnen passen?Wie lässt sich das Risiko
+      verringern, dass neue Kollegen das Unternehmen während der Einarbeitung
+      verlassen, weil die Teal-Praktiken nicht zu ihnen passen?Wie lässt sich
+      das Risiko verringern, dass neue Kollegen das Unternehmen während der
+      Einarbeitung verlassen, weil die Teal-Praktiken nicht zu ihnen passen?
     answer: >-
-      Have in depth interviews with candidates performed by future colleagues
-      and focus on fit with organizational purpose and practices of
-      [self-management](../self-management/), [wholeness](../wholeness/) and
-      [evolutionary purpose](../evolutionary-purpose/). Pay particular attention
-      to candidates that formerly held senior positions in other organizations.
-      Turnover rates are high within this group, which is illustrated by the
-      following example:
+      Lassen Sie ausführliche Interviews mit den Kandidaten durch zukünftigen
+      Kollegen führen und konzentrieren Sie sich auf die Übereinstimmung mit dem
+      Zweck der Organisation und den Praktiken von
+      [Selbstmanagement](../Selbstmanagement/),
+      [Ganzheitlichkeit](../Ganzheitlichkeit/) und [evolutionärem
+      Sinn](../evolutionärer-sinn/). Achten Sie besonders auf Kandidaten, die
+      früher in anderen Organisationen leitende Positionen innehatten. Die
+      Fluktuationsrate in dieser Gruppe ist hoch, wie das folgende Beispiel
+      zeigt:
 
 
-      Paul Green Jr., who heads [Morning Star](http://www.morningstarco.com/)’s Self-Management Institute, estimates that close to 50 percent of people who formerly had senior positions in other organizations (VP levels or above) end up leaving the organization after a year or two “because they have a hard time adapting to a system where they can’t play God".
+      Paul Green Jr., der das Selbstmanagement-Institut von [Morning Star](http://www.morningstarco.com/) leitet, schätzt, dass fast 50 Prozent der Personen, die früher in anderen Organisationen leitende Positionen innehatten (VP-Ebene oder höher), die Organisation nach ein oder zwei Jahren verlassen, "weil es ihnen schwerfällt, sich an ein System anzupassen, in dem sie nicht Gott spielen können".
   - question: How to maintain Teal practices when many new colleagues from non teal
       organizations are joining?
     answer: The onboarding of large groups of new colleagues from non [Teal
@@ -137,4 +148,3 @@ relatedTheory:
   - Job Titles and Job Descriptions
   - Culture and Values
 ---
-to be removed
