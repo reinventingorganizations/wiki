@@ -72,13 +72,13 @@ inPractice: >-
   #### **Grundregeln oder Vereinbarungen**
 
 
-  Creating a safe workplace starts with raising everybody’s awareness of the words and actions that create or undermine a safe working environment. Teal organizations spend significant time and energy training everybody in a number of ground rules or agreements that support healthy and productive collaboration. These ground rules are a tangible application of the [culture and values](../culture-and-values/) of the organization. Several of the organizations end up writing down these in a document.
+  Die Schaffung eines sicheren Arbeitsplatzes beginnt mit der Sensibilisierung aller Mitarbeiter für die Worte und Handlungen, die ein sicheres Arbeitsumfeld schaffen oder untergraben. Teal-Organisationen verwenden viel Zeit und Energie auf die Schulung aller Mitarbeiter in einer Reihe von Grundregeln oder Vereinbarungen, die eine gesunde und produktive Zusammenarbeit fördern. Diese Grundregeln sind eine greifbare Anwendung der [Kultur und Werte](../Kultur-und-Werte/) der Organisation. In einigen Organisationen werden sie schließlich in einem Dokument festgehalten.
 
 
-  Of course, it takes more than a document to bring values to life. Many researched Teal organizations have chosen to start right at the beginning: all new recruits are invited, as part of the onboarding, to a training session about the company values and ground rules, which helps to create common references and a common language across the organization. Those ground rules and values are regularly revisited to ensure they best reflect and serve the Evolutionary purpose of the organization.
+  Natürlich braucht es mehr als ein Dokument, um Werte mit Leben zu füllen. Viele untersuchte Teal-Organisationen haben sich dafür entschieden, gleich am Anfang zu beginnen: Alle neu eingestellten Mitarbeiter werden im Rahmen der Einarbeitung zu einer Schulung über die Unternehmenswerte und Grundregeln eingeladen, was dazu beiträgt, gemeinsame Bezugspunkte und eine gemeinsame Sprache in der gesamten Organisation zu schaffen. Diese Grundregeln und Werte werden regelmäßig überprüft, um sicherzustellen, dass sie den evolutionären Zweck der Organisation bestmöglich widerspiegeln und ihm dienen.
 
 
-  #### **Purpose**
+  #### **Sinn**
 
 
   A dialogue on how the organization's purpose resonates with new colleagues personal calling can be a great mutual introduction. [Teal organizations](../teal-paradigm-and-organizations/) are seen as having a life and a sense of direction of their own. Instead of trying to predict and control the future, members of the organization are invited to listen in and understand what the organization wants to become. By understanding the Evolutionary purpose, they can see how they can contribute to it whilst also fulfilling their own personal calling.
