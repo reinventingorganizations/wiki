@@ -106,15 +106,7 @@ inPractice: >-
 faq:
   - question: Wie lässt sich das Risiko verringern, dass neue Kollegen das
       Unternehmen während der Einarbeitung verlassen, weil die Teal-Praktiken
-      nicht zu ihnen passen?Wie lässt sich das Risiko verringern, dass neue
-      Kollegen das Unternehmen während der Einarbeitung verlassen, weil die
-      Teal-Praktiken nicht zu ihnen passen?Wie lässt sich das Risiko verringern,
-      dass neue Kollegen das Unternehmen während der Einarbeitung verlassen,
-      weil die Teal-Praktiken nicht zu ihnen passen?Wie lässt sich das Risiko
-      verringern, dass neue Kollegen das Unternehmen während der Einarbeitung
-      verlassen, weil die Teal-Praktiken nicht zu ihnen passen?Wie lässt sich
-      das Risiko verringern, dass neue Kollegen das Unternehmen während der
-      Einarbeitung verlassen, weil die Teal-Praktiken nicht zu ihnen passen?
+      nicht zu ihnen passen?
     answer: >-
       Lassen Sie ausführliche Interviews mit den Kandidaten durch zukünftigen
       Kollegen führen und konzentrieren Sie sich auf die Übereinstimmung mit dem
