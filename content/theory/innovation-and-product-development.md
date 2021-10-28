@@ -1,142 +1,149 @@
 ---
 layout: article
 tags: theory
-key: Innovation and Product Development
-name: Innovation and Product Development
+key: Innovation and développement de produits
+name: Innovation and développement de produits
 sortOrder: 2
 category: Important Processes
 intro: >-
-  This topic, Innovation and Product Development, describes how advances and
-  improvements occur in Teal organizations.
+  Cette rubrique, Innovation et développement de produits, décrit comment
+  l'innovation et les améliorations s'organisent dans les organisations Opales.
 
 
   ![](/media/complicated.jpg)
 perspective: >-
-  *One of Orange’s shadows is “innovation gone mad.” With most of our basic
-  needs taken care of, businesses increasingly try to create needs, feeding the
-  illusion that more stuff we don’t really need— more possessions, the latest
-  fashion, a more youthful body— will make us happy and whole. We increasingly
-  come to see that much of this economy based on fabricated needs is
-  unsustainable from a financial and ecological perspective. We have reached a
-  stage where we often pursue growth for growth’s sake, a condition that in
-  medical terminology would simply be called cancer.* ^\[Laloux, Frederic
-  (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations
-  Inspired by the Next Stage of Human Consciousness (Kindle Locations 837-841).
-  Nelson Parker. Kindle Edition.]
+  *"L'un des cotés sombres des organisations Orange est "la folie de
+  l'Innovation". Alors que la plupart de nos besoins fondamentaux sont
+  satisfaits, les entreprises tentent de plus en plus de créer des besoins,
+  alimentant l'illusion que plus de choses dont nous n'avons pas vraiment besoin
+  - plus de possessions, la dernière mode, un corps plus jeune - nous rendront
+  heureux et entiers. Nous nous rendons de plus en plus compte qu'une grande
+  partie de cette économie basée sur des besoins fabriqués n'est pas viable d'un
+  point de vue financier et écologique. Nous avons atteint un stade où nous
+  poursuivons souvent la croissance pour le plaisir de la croissance, une
+  condition qui, dans la terminologie médicale, serait simplement appelée
+  cancer."*^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide
+  to Creating Organizations Inspired by the Next Stage of Human Consciousness
+  (Kindle Locations 837-841). Nelson Parker. Kindle Edition.]
 
 
-  For [Teal organizations](../teal-paradigm-and-organizations/), the impetus for innovation stems from an organization’s [evolutionary purpose](../evolutionary-purpose/). The concept of innovation expands beyond benefit to the organization and is not approached through the traditional lenses of profit and competition. To evaluate if an innovation is worthwhile, Teal uses a wide range of evidence of beauty, creativity and ultimately service to the organization's purpose and therefore to society.
+  Pour les [organisations Opale,](https://fr--reinventingorganizations-wiki.netlify.app/theory/teal-paradigm-and-organizations/) l'élan de l'innovation découle de la [raison d'etre évolutive](https://fr--reinventingorganizations-wiki.netlify.app/theory/evolutionary-purpose/) de l'organisation. Le concept d'innovation va au-delà des avantages pour l'organisation et n'est pas abordé sous l'angle traditionnel du profit et de la concurrence. Pour évaluer si une innovation en vaut la peine, Opale utilise un large éventail de preuves de beauté, de créativité et, en fin de compte, de service à l'objectif de l'organisation et donc à la société.
 
 
-  For more on innovation and product development in earlier stage organizations:
+  Pour en savoir plus sur l'innovation et le développement de produits dans les organisations en phase de démarrage :
 
 
-  #### **Red organizations**
+  #### **Organisations Rouge**
 
 
-  [Red organizations](../red-organizations/) are opportunistic and adaptive in response to their circumstances, but without organizing specifically for innovation.
+  [Les organisations Rouge](https://fr--reinventingorganizations-wiki.netlify.app/theory/red-organizations/) sont opportunistes et adaptatives en réponse à leurs circonstances, mais sans s'organiser spécifiquement pour l'innovation.
 
 
-  #### Amber organizations
+  #### Organisations Ambre
 
 
-  [Amber organizations](../amber-paradigm-and-organizations/) value predictable processes. Their sustained existence is tied to the maintenance of proven tools and roles. Innovations are adopted, cautiously, after top-down endorsement.
+  [Les organisations Ambre](https://fr--reinventingorganizations-wiki.netlify.app/theory/amber-paradigm-and-organizations/) valorisent les processus prévisibles. Leur existence durable est liée au maintien d'outils et de rôles éprouvés. Les innovations sont adoptées, avec précaution, après avoir été approuvées par le haut.
 
 
-  #### Orange organizations
+  #### Organisations Orange
 
 
-  With [Orange](../orange-paradigm-and-organizations/), innovation becomes a core practice. It is necessary to stay competitive. At the organization level, there is investment in R&D. Research centers might be established. At the operating level, units are encouraged to be creative in how they achieve their targets. All these activities are subject to review in the regular operating and strategic planning cycles.
+  Avec [Orange](https://fr--reinventingorganizations-wiki.netlify.app/theory/orange-paradigm-and-organizations/), l'innovation devient une pratique essentielle. Elle est nécessaire pour rester compétitif. Au niveau de l'organisation, on investit dans la R&D. Des centres de recherche peuvent être créés. Au niveau opérationnel, les unités sont encouragées à faire preuve de créativité dans la réalisation de leurs objectifs. Toutes ces activités font l'objet d'un examen dans le cadre des cycles réguliers de fonctionnement et de planification stratégique.
 
 
-  #### Green organizations
+  #### Organisations Verte
 
 
-  [Green organizations](../green-paradigm-and-organizations/) are values-based. This colors their approach to innovation. It’s not only about making money, but about also serving their greater purpose. This is reflected in product development/selection at, say, a place like Whole Foods. And it encourages service level initiative—as at Southwestern Airlines. Their multi-stakeholder view encourages them to find novel approaches to labor relations, employee empowerment, customer service, shareholder interests, and the communities of which they are a part.
+  [Les organisations Verte](https://fr--reinventingorganizations-wiki.netlify.app/theory/green-paradigm-and-organizations/) sont fondées sur des valeurs. Cela influence leur approche de l'innovation. Il ne s'agit pas seulement de faire de l'argent, mais aussi de servir un objectif plus large. Cela se reflète dans le développement et la sélection des produits, par exemple dans une entreprise comme Whole Foods. Et cela encourage l'initiative du niveau de service - comme chez Southwestern Airlines. Leur vision multipartite les encourage à trouver de nouvelles approches en matière de relations de travail, de responsabilisation des employés, de service à la clientèle, d'intérêts des actionnaires et des communautés dont elles font partie.
 inPractice: >-
-  In Teal, the focus is to find better ways to serve the organization's unique
-  sense of evolutionary purpose, rather than out-think the competition. Members
-  are encouraged to “listen” for opportunities, and test these via the advice
-  process. This means ideas must be discussed with knowledgeable colleagues. In
-  this environment, anyone, and everyone, can be an innovator.
+  Dans Opale, l'objectif est de trouver de meilleures façons de servir le sens
+  de la raison d'etre de l'organisation, plutôt que de penser plus vite que la
+  concurrence. Les membres sont encouragés à "écouter" les opportunités et à les
+  tester par le biais de la collecte d'avis. Cela signifie que les idées doivent
+  être discutées avec des collègues compétents. Dans cet environnement, tout le
+  monde peut être un innovateur.
 
 
-  #### Design for Life, Beauty, Benefit
+  #### Design pour la vie (DESIGN FOR LIFE ?), Beauté, Bénéfice
 
 
-  Product innovation in traditional companies is commonly the result of exhaustive analyses of customer segments, buyer behavior and the competition—a very ‘left-brain’ approach.
+  Dans les entreprises traditionnelles, l'innovation produit est généralement le résultat d'analyses exhaustives des segments de clientèle, du comportement des acheteurs et de la concurrence - une approche très "cerveau gauche".
 
 
-  In Teal, the source of innovation is more ‘right brain’. It is spurred by purpose, and arises from ‘listening’ for what seem to be the right offerings. It attempts to answer these questions:
+  Chez Opale, la source de l'innovation est plus "cerveau droit". Elle est stimulée par un objectif et résulte de l'"écoute" de ce qui semble être les bonnes offres. Elle tente de répondre aux questions suivantes :
 
 
-  *\- “What product would we be really proud of?”*
+  \- "De quel produit serions-nous vraiment fiers ?"
 
 
-  *\- “What product would fill a genuine need in the world?”'*
+  *\- "Quel produit comblerait un véritable besoin dans le monde ? "*
 
 
-  *\- “What product or service are we uniquely capable of providing?”'*
+  *\- "Quel produit ou service sommes-nous capables de fournir de manière unique ?"'*
 
 
-  These reflections are guided by intuition and perceptions of beauty. They can also be supported by structured design practices that are intended to catalyze empathetic thinking. An example is the concept of "design ideation"^\[Ideation for product design from IDEO - <http://www.ideo.com/>]This is a process where frontline workers spend long periods out in the field, observing how their customers are using their products and services.
+  Ces réflexions sont guidées par l'intuition et les perceptions de la beauté. Elles peuvent également être soutenues par des pratiques de conception structurées qui visent à catalyser la pensée empathique. Un exemple est le concept d'"idéation de conception".^[Ideation for product design from IDEO - <http://www.ideo.com/>]. Il s'agit d'un processus dans lequel les collaborateurs passent de longues périodes sur le terrain, à observer comment leurs clients utilisent leurs produits et services.
 
 
-  #### Innovation at the frontlines
+  #### L'innovation en première ligne
 
 
-  Any frontline person can act on insights gained from working closely with the customer and therefore having a deep understanding of his or her needs. With Teal self-management, there is nothing to hold back a good idea from being pursued if it has use for customers and if its pursuit adheres to the advice process.
+  Toute personne de première ligne peut agir sur la base des idées acquises en travaillant étroitement avec le client et en ayant donc une compréhension approfondie de ses besoins. Avec l'autogouvernance d'Opale, rien n'empêche de poursuivre une bonne idée si elle est utile aux clients et si sa poursuite respecte le processus de collecte d'avis.
 
 
-  #### Practice sharing
+  #### Partager de pratiques
 
 
-  New insights and practices are systematically shared through Teal Organizations, often through an intranet or wiki. Through sense and respond and various practices supporting evolutionary purpose, these successful innovations can potentially be adopted quickly throughout the organization.
+  Les nouvelles idées et pratiques sont systématiquement partagées par les organisations Opale, souvent par le biais d'un intranet ou d'un wiki. Grâce au principe "sentir et répondre" et à diverses pratiques soutenant la raison d'etre, ces innovations réussies peuvent potentiellement être adoptées rapidement dans toute l'organisation.
 
 
-  #### Innovation impacts whole organization
+  #### L'innovation a un impact sur l'ensemble de l'organisationn
 
 
-  Emergent innovation does not just follow organizational purpose but may impact the evolutionary purpose of a Teal organization, shifting its impulse into a new direction and potential.
+  L'innovation émergente ne se contente pas de suivre l'objectif de l'organisation, mais peut avoir un impact sur la raison d'etre d'une organisation Opale, en déplaçant son impulsion vers une nouvelle direction et un nouveau potentiel.
 faq:
-  - question: How would a strong visionary and innovative personality fit into a
-      Teal organization, such as for example Steve Jobs?
-    answer: In Teal organizations decision-making is bounded by the advice process.
-      Anybody with strong skills in a particular area can contribute,
-      irrespective of position, and this is certainly true with respect to
-      innovation. However, the Teal paradigm also confers on all decision-makers
-      the obligation to respect the advice process and consult with appropriate
-      individuals within the organization. This does not mean that everyone
-      consulted has to agree with a proposed innovation, only that his or her
-      advice is considered. To the extent that Steve Jobs’ success as an
-      innovator was facilitated by his working in a conventional hierarchical
-      structure and his consequential ability to make decisions unilaterally,
-      this might lessen his effectiveness in a Teal organization. However, at
-      the same time, the collective innovative intelligence of the entire
-      organization is unleashed under Teal, making it not nearly so dependent on
-      the contributions of a single individual.
-  - question: How do these practices link with the three Teal breakthroughs?
+  - question: Comment une forte personnalité visionnaire et innovante
+      s'intégrerait-elle dans une organisation Opale, comme par exemple Steve
+      Jobs ?
+    answer: Dans les organisations Opale, la prise de décision est limitée par le
+      processus de collecte d'avis. Toute personne possédant de solides
+      compétences dans un domaine particulier peut apporter sa contribution,
+      quelle que soit sa position, et cela est certainement vrai en ce qui
+      concerne l'innovation. Toutefois, le paradigme Opale confère également à
+      tous les décideurs l'obligation de respecter le processus de collecte
+      d'avis et de consulter les personnes appropriées au sein de
+      l'organisation. Cela ne signifie pas que toutes les personnes consultées
+      doivent être d'accord avec une innovation proposée, mais seulement que
+      leur avis est pris en compte. Dans la mesure où le succès de Steve Jobs en
+      tant qu'innovateur a été facilité par son travail dans une structure
+      hiérarchique conventionnelle et par sa capacité conséquente à prendre des
+      décisions unilatéralement, cela pourrait diminuer son efficacité dans une
+      organisation Opale. Cependant, dans le même temps, l'intelligence
+      collective innovante de l'ensemble de l'organisation est libérée sous
+      Opale, ce qui la rend moins dépendante des contributions d'un seul
+      individu.
+  - question: Comment ces pratiques s'articulent-elles avec les trois avancées de Opale ?
     answer: >-
-      All three Teal breakthroughs are supported by the practices and principles
-      for Teal innovation and product development.
+      Les trois avancées de Opale sont soutenues par les pratiques et les
+      principes de l'innovation et du développement de produits.
 
 
-      #### Self-management
+      #### Auto-gouvernance
 
 
-      [Self management](../self-management/) allows anybody to innovate and develop improvements in products and services with minimal delay. The empathetic understanding that frontline staff have for their customers can be used to act on observed needs.
+      [L'auto-gouvernance](https://fr--reinventingorganizations-wiki.netlify.app/theory/self-management/) permet à quiconque d'innover et d'améliorer ses produits et services dans un délai minimal. La compréhension empathique que chaque collaborateur a pour ses clients peut être utilisée pour agir sur les besoins observés.
 
 
-      #### Wholeness
+      #### Plénitude
 
 
-      [Wholeness](../wholeness/) is integrated into the design and product development process through a "whole brain" approach. Teal innovation designs for aspects such as beauty and through intuition as well as more traditional market or customer analysis.
+      [La plénitude ](https://fr--reinventingorganizations-wiki.netlify.app/theory/wholeness/)est intégrée dans le processus de conception et de développement des produits par le biais d'une approche "cerveau entier". L'Innovation Opale conçoit des produits en tenant compte d'aspects tels que la beauté et en faisant appel à l'intuition plus qu'à des analyses de marché ou de clientèle plus traditionnelles.
 
 
-      #### Evolutionary purpose
+      #### Raison d'etre évolutive
 
 
-      In Teal, innovations are selected first and foremost based on fit with the organization's [purpose](../evolutionary-purpose/). Furthermore, innovation plays a key role in the evolution of that purpose.
+      Dans Opale, les innovations sont sélectionnées avant tout sur la base de leur adéquation avec la [raison d'etre](https://fr--reinventingorganizations-wiki.netlify.app/theory/evolutionary-purpose/) de l'organisation. En outre, l'innovation joue un rôle clé dans l'évolution de celle-ci.
 relatedTheory:
   - sales-marketing
   - Strategy
