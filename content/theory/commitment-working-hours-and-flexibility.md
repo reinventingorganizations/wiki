@@ -82,46 +82,49 @@ perspective: >-
 
   * Es besteht ein gemeinsames Verständnis dafür, dass der Einzelne zuweilen sein Maß an Engagement anpassen muss. Diese Situationen werden gemeinsam und offen besprochen, damit die anstehenden Aufgaben mit der Unterstützung aller erledigt werden können.
 inPractice: >-
-  [Teal organizations ](../teal-paradigm-and-organizations/)start from the
-  premise that even for routine work, people have a sense of pride and want to
-  do a good job. People are systematically considered to be reliable,
-  self-motivated, trustworthy and intelligent.
+  [Teal-Organisationen](../teal-paradigm-and-organizations/) gehen davon aus,
+  dass Menschen selbst bei Routinearbeiten Stolz empfinden und gute Arbeit
+  leisten wollen. Der Mensch wird konsequent als zuverlässig, selbstmotiviert,
+  vertrauenswürdig und intelligent angesehen.
 
 
-  ##### **Commitment**
+  ##### **Engagement**
 
 
-  In most traditional organizations, there is an unspoken assumption that people in managerial positions should put their commitment to work above any other commitment in their lives. Few colleagues would cancel an important meeting for their child’s school play or because a good friend needs help. In self-managing organizations, speaking up about other important commitments in one's life is considered necessary to be authentic and whole at work. There is no need for the pretence that work will always come first. Teal organizations hold meetings at regular intervals in which colleagues can discuss how much time and energy, at that moment in their lives, they want to commit to the organization.  Because colleagues discuss their other commitments openly, solutions can be found to provide support and get the task done.
+  In den meisten traditionellen Unternehmen besteht die unausgesprochene Annahme, dass Menschen in Führungspositionen ihr Engagement für die Arbeit über jede andere Verpflichtung in ihrem Leben stellen sollten. Nur wenige Kollegen würden eine wichtige Sitzung für die Schulaufführung ihres Kindes absagen, oder weil eine gute Freundin Hilfe braucht. In selbstführenden Organisationen wird es als notwendig erachtet, über andere wichtige Verpflichtungen im eigenen Leben zu sprechen, um authentisch und ganzheitlich bei der Arbeit zu sein. Es ist nicht notwendig, vorzugeben, dass die Arbeit immer an erster Stelle stünde. Teal-Organisationen halten in regelmäßigen Abständen Meetings ab, bei denen die Kolleginnen besprechen können, wie viel Zeit und Energie sie zu diesem Zeitpunkt in ihrem Leben für die Organisation aufwenden wollen. Da die Kolleginnen offen über ihre anderen Verpflichtungen sprechen, können Lösungen gefunden werden, um sie zu unterstützen und die Arbeit erledigt zu bekommen.
 
 
-  ##### **Working hours/flex-time**
+  ##### **Flexible Arbeitszeiten**
 
 
-  In Teal organizations people are trusted to work the hours they need to achieve their own goals. There is no requirement for monitoring of working hours, or clocking in and out, or flex-time. In some Teal organizations such as [FAVI](http://www.favi.com/) and [Sun Hydraulics](http://www.sunhydraulics.com/), the working day is still divided into shifts, which is roughly the time colleagues are expected to spend on the shop floor, but it is not uncommon to see an operator stay on during the following shift to finish a job because he/she knows it needs to be done.
+  In Teal-Organisationen wird den Mitarbeitern zugetraut, so viel zu arbeiten, wie sie brauchen, um ihre jeweiligen Ziele zu erreichen. Es gibt keine Verpflichtung zur Überwachung der Arbeitszeiten, zur Stechuhr oder zur Gleitzeit. In einigen Teal-Organisationen wie [FAVI] (http://www.favi.com/) und [Sun Hydraulics] (http://www.sunhydraulics.com/) ist der Arbeitstag immer noch in Schichten eingeteilt, was in etwa der Zeit entspricht, die die Kollegen in der Fertigung verbringen sollen, aber nicht selten kommt es vor, dass eine Maschinenbedienerin die folgende Schicht weiterarbeitet, weil sie weiß, dass die Arbeit noch erledigt werden muss.
 
 
-  ##### **In times of need**
+  ##### **In schwierigen Zeiten**
 
 
-  Balancing the needs of the individual with those of the organization is not always easy. For example, [Morning Star](http://www.morningstarco.com/) has a high season for tomato processing when all hands need to be on deck. If someone wants to reduce their working hours during very busy times, they are expected to find a solution to uphold the commitments they have made. This expectation is the flip side of having no HR or planning function. An individual cannot simply file a request and let someone else worry about solving this issue. He/she has full liberty to find a solution, but until they have found one, they are bound to their previous commitments.
+  Es ist nicht immer einfach, die Bedürfnisse des Einzelnen mit denen der Organisation in Einklang zu bringen. Zum Beispiel gibt es bei [Morning Star](http://www.morningstarco.com/) eine Hochsaison für die Tomatenverarbeitung, in der alle Kräfte gebraucht werden. Wenn jemand seine Arbeitszeit während der Hochsaison reduzieren möchte, wird von ihm erwartet, dass er eine Lösung findet, um die eingegangenen Verpflichtungen einzuhalten. Diese Erwartung ist die Kehrseite davon, dass es keine Personal- oder Planungsabteilung gibt. Ein Mitarbeiter kann nicht einfach einen Antrag stellen und es jemand anderem überlassen, sich um die Lösung des Problems zu kümmern. Es steht ihm völlig frei, eine Lösung zu finden, aber bis er eine gefunden hat, ist er an seine früheren Verpflichtungen gebunden.
 
 
-  ##### **Working hours and Teal in the future**
+  ##### **Arbeitszeiten und Teal in der Zukunft**
 
+  ﻿
 
-  In the future, it is likely that the more people commit to ‘personal purpose’ in their lives, the more flexible their arrangements with the organization will be. Accommodating personal commitments to self-employment, part time work, or volunteering work will be normal. There will be no need for approval. A person will simply find a way to meet or transfer his/her commitments to another colleague and/or explore with colleagues what new roles and commitments he/she could take on that would add value to the organization.
+  In Zukunft wird es wahrscheinlich so sein, dass je mehr Menschen sich in ihrem Leben für ihren "persönlichen Sinn" engagieren, desto flexibler werden ihre Vereinbarungen mit der Organisation sein. Es wird normal sein, persönliche Verpflichtungen wie Selbstständigkeit, Teilzeitarbeit oder ehrenamtliche Tätigkeiten zu berücksichtigen. Dafür wird keine Genehmigung erforderlich sein. Die Person wird einfach einen Weg finden, ihre Verpflichtungen zu erfüllen, sie auf einen anderen Kollegen zu übertragen und/oder mit Kollegen zu erkunden, welche neuen Aufgaben und Verpflichtungen sie übernehmen könnte, die einen Mehrwert für die Organisation darstellen.
 faq:
-  - question: What happens if a person can’t keep up their commitment to the
-      organization due to other personal commitments?
-    answer: The regular meeting held to share personal commitments provides the
-      forum for this to be aired with colleagues. If someone wants to reduce
-      their working hours they are expected to find a solution to uphold the
-      commitments they have made. He/she has full liberty to find a solution,
-      but until they have found one, they are bound to their previous
-      commitments. If a colleague continually needs to work fewer hours over a
-      longer period of time, then this may well be raised by that person or
-      other colleagues as part of a regular peer-based compensation and self-set
-      salary process.
+  - question: Was passiert, wenn eine Mitarbeiterin wegen persönlicher
+      Verpflichtungen ihre Verpflichtung gegenüber der Organisation nicht
+      einhalten kann?
+    answer: Das regelmäßige Meeting zum Austausch persönlicher Verpflichtungen
+      bietet ein Forum, um dies mit den Kolleginnen zu besprechen. Wenn eine
+      Kollegin ihre Arbeitszeit reduzieren möchte, wird von ihr erwartet, dass
+      sie eine Lösung findet, um die eingegangenen Verpflichtungen einzuhalten.
+      Es steht ihr völlig frei, eine Lösung zu finden, aber bis sie eine
+      gefunden hat, ist sie an ihre früheren Verpflichtungen gebunden. Wenn ein
+      Kollege längerfristig seine Wochenarbeitszeit reduzieren muss, kann dies
+      von der betreffenden Person oder anderen Kollegen im Rahmen eines
+      regelmäßigen Prozesses zur kollegialen Vergütung und zur Festlegung des
+      eigenen Gehalts angesprochen werden.
 relatedTheory:
   - Meetings
   - Listening to Purpose
