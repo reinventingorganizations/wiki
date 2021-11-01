@@ -6,40 +6,44 @@ name: Commitment, Working Hours and Flexibility
 sortOrder: 4
 category: People practices
 intro: >-
-  The topic of commitment, working hours and flexibility includes the process of
-  how working hours are set, what commitment a person is expected to provide and
-  how organizations respond to changing demands.
+  Beim Thema Einsatz, Arbeitszeiten und Flexibilität geht es um den Prozess,
+  Arbeitszeiten festzulegen, wie viel Engagement von einer Person erwartet wird,
+  und wie Organisationen auf wechselnde Anforderungen reagieren.
 
 
   ![](/media/agenda.jpg)
 perspective: >-
-  #### Working Hours
+  #### Arbeitszeiten
 
 
-  In traditional hierarchies, working hours are specified in an employment contract. There is often an underlying fear that people will not work the hours they are paid for without monitoring, especially at the lower levels in an organization.
+  In traditionellen Hierarchien sind Arbeitszeiten im Arbeitsvertrag festgelegt.
+
+  Häufig herrscht eine tieferliegende Angst, dass Menschen, gerade in den unteren Ebenen einer Organisation, ohne Überwachung nicht die Stunden ableisten, für die sie bezahlt werden.
 
 
-  When people have the freedom to choose and agree their own working hours, an environment of trust is created that motivates people to be fully responsible for their work.
+  Wenn die Mitarbeiter die Freiheit haben, ihre Arbeitszeiten selbst zu bestimmen und zu vereinbaren, entsteht ein vertrauensvolles Umfeld, das die Mitarbeiter motiviert, die volle Verantwortung für ihre Arbeit zu übernehmen.
+
+  ﻿
+
+  Wenn ein Unternehmen noch nicht bereit für Selbstmanagement ist, kann die selbstbestimmte Arbeitszeit ein guter erster Schritt sein. Wenn dieser Ansatz gut funktioniert, führt er zu mehr Vertrauen und Zusammenarbeit zwischen Vorgesetzten und Untergebenen.
 
 
-  When an organization isn’t ready for self-management, self-set working hours can be a good first step. This approach starts to build greater trust and collaboration between boss and subordinate when it works well.
+  #### Verpflichtungen
 
 
-  #### Commitments
+  Wenn Kolleginnen in einer Kultur arbeiten, in der es normal und notwendig ist, andere Verpflichtungen in ihrem Leben anzusprechen, stärkt dies die Authentizität und Ganzheitlichkeit am Arbeitsplatz. Offenheit in Bezug auf persönliche Verpflichtungen kann engere Beziehungen zwischen den Kolleginnen aufbauen und zu einer Kultur führen, in der sich die Kolleginnen gegenseitig unterstützen.
+
+  ﻿
+
+  In Not- oder Krisenzeiten, z.B. in der Hochsaison, ist es in [Teal-Organisationen](../teal-paradigm-and-organizations/) üblich, dass die Mitarbeiter freiwillig länger arbeiten, um eine Aufgabe mit Motivation und Stolz zu erfüllen, ihre Kollegen zu unterstützen und dem Sinn der Organisation gute Dienste zu leisten.
+
+  Jede historische Phase hat eine andere Sichtweise auf Einsatz, Arbeitszeiten und Flexibilität sowie sehr unterschiedliche Praktiken hervorgebracht:
 
 
-  When colleagues work in a culture where it is normal and necessary to share other commitments in their lives, authenticity and being whole at work are embraced. Openness about personal commitments can develop stronger relationships amongst colleagues and result in a culture where colleagues support each other.
+  #### **Rote Organisationen**
 
 
-  In times of need or crisis, for example in high season,  it is common in [Teal organizations](../teal-paradigm-and-organizations/) for workers, to voluntarily work longer hours to complete a task with motivation and pride, supporting their colleagues and working towards the purpose of the organization.
-
-  Every historical stage has given birth to a distinct perspective on commitment, working hours and flexibility, and to very different practices:
-
-
-  #### **Red organizations**
-
-
-  In [Red organizations](../red-organizations/), the boss determines working hours for each person. There is no formal process of setting and/or monitoring working hours. People belong to the organization and are expected to be available when needed.
+  In [Roten Organisationen](../red-organizations/) bestimmt die Chefin die Arbeitszeiten jeder Mitarbeiterin. Es gibt keinen formalen Prozess, um Arbeitszeiten festzulegen oder zu überwachen. Die Mitarbeiter gelten als Eigentum der Organisation, es wird vorausgesetzt, dass sie bei Bedarf verfügbar sind.
 
 
   #### **Amber organizations**
