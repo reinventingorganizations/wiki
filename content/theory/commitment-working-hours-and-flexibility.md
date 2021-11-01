@@ -2,13 +2,13 @@
 layout: article
 tags: theory
 key: Commitment, Working Hours and Flexibility
-name: Commitment, Working Hours and Flexibility
+name: Engagement, Arbeitszeiten und Flexibilität
 sortOrder: 4
 category: People practices
 intro: >-
-  Beim Thema Einsatz, Arbeitszeiten und Flexibilität geht es um den Prozess,
-  Arbeitszeiten festzulegen, wie viel Engagement von einer Person erwartet wird,
-  und wie Organisationen auf wechselnde Anforderungen reagieren.
+  Beim Thema Engagement, Arbeitszeiten und Flexibilität geht es um den Prozess,
+  Arbeitszeiten festzulegen, darum, wie viel Engagement von einer Person
+  erwartet wird, und wie Organisationen auf wechselnde Anforderungen reagieren.
 
 
   ![](/media/agenda.jpg)
@@ -18,7 +18,7 @@ perspective: >-
 
   In traditionellen Hierarchien sind Arbeitszeiten im Arbeitsvertrag festgelegt.
 
-  Häufig herrscht eine tieferliegende Angst, dass Menschen, gerade in den unteren Ebenen einer Organisation, ohne Überwachung nicht die Stunden ableisten, für die sie bezahlt werden.
+  Häufig herrscht die grundlegende Angst, dass Menschen, gerade in den unteren Ebenen einer Organisation, ohne Überwachung nicht die Stunden ableisten, für die sie bezahlt werden.
 
 
   Wenn die Mitarbeiter die Freiheit haben, ihre Arbeitszeiten selbst zu bestimmen und zu vereinbaren, entsteht ein vertrauensvolles Umfeld, das die Mitarbeiter motiviert, die volle Verantwortung für ihre Arbeit zu übernehmen.
@@ -46,38 +46,41 @@ perspective: >-
   In [Roten Organisationen](../red-organizations/) bestimmt die Chefin die Arbeitszeiten jeder Mitarbeiterin. Es gibt keinen formalen Prozess, um Arbeitszeiten festzulegen oder zu überwachen. Die Mitarbeiter gelten als Eigentum der Organisation, es wird vorausgesetzt, dass sie bei Bedarf verfügbar sind.
 
 
-  #### **Amber organizations**
+  #### **Bernstein-Organisationen**
 
 
-  In [Amber Organizations](../amber-paradigm-and-organizations/), working hours are determined by senior leaders and specified in an employment contract. They decide what work is to be carried out and how working hours will be monitored.
+  In [Bernstein-Organisationen](../amber-paradigm-and-organizations/) werden die Arbeitszeiten von den leitenden Angestellten bestimmt und in einem Arbeitsvertrag festgelegt. Sie entscheiden, welche Arbeit zu verrichten ist und wie die Arbeitszeiten überwacht werden.
 
 
-  #### **Orange organizations**
+  #### **Orange Organisationen**
+
+  ﻿
+
+  In [Orangen Organisationen](../orange-paradigm-and-organizations/) fallen die Menschen im Allgemeinen in eines von zwei Lagern. Es gibt diejenigen (oft in handwerklichen Berufen), die eine feste Anzahl von Stunden arbeiten, die sich nach der Stechuhr richten, und diejenigen (oft in Führungspositionen), von denen erwartet wird, dass sie ihre Arbeit unabhängig von den in ihrem Vertrag festgelegten Stunden erledigen.
 
 
-  In [Orange organizations](../orange-paradigm-and-organizations/), people generally fall into one of two camps. There are those (often in manual roles) who work a fixed set of hours clocking in and clocking out, and those (often in management positions), who are expected to get their work done regardless of the hours stated in their contract.
+  #### **Grüne Organsationen**
 
 
-  #### **Green organizations**
+  In [grünen Organisationen](../green-paradigm-and-organizations/) herrscht in der Regel eine Kultur der Zusammenarbeit, in der die Mitarbeiterinnen das Recht haben, ihre Arbeitszeiten innerhalb einer festgelegten Struktur selbst zu bestimmen. Flexible Arbeitszeiten werden häufig für Beschäftigte auf niedrigeren Ebenen eingesetzt, um den Menschen die Möglichkeit zu geben, ihre Arbeit mit ihrem restlichen Leben zu vereinbaren. Für diejenigen, deren Rolle es zulässt, ist es eine realistische Option, von zu Hause aus zu arbeiten.
 
 
-  In [Green organizations](../green-paradigm-and-organizations/), there is typically a culture of co-operation where people are empowered to work the hours they choose albeit within a defined structure. Flex-time is often used for lower-level workers in order to allow people to fit work in with the rest of their life. Working from home is a realistic option for those whose role allows it.
+  #### **Teal-Organisationen**
 
 
-  #### **Teal organizations**
+  Oberflächlich betrachtet unterscheiden sich [Teal-Organisationen ](../teal-paradigm-and-organizations/)in Bezug auf Engagement, Arbeitszeiten und Flexibilität nicht so sehr von grünen Organisationen. Der Unterschied liegt in der Reife und Kohärenz. Während eine grüne Organisation die oben skizzierten Praktiken vielleicht nur bestimmten Gruppen von Mitarbeitern zur Verfügung stellt, wären diese Praktiken in einer Teal-Organisation auf allen Ebenen ein selbstverständlicher Teil des Arbeitsalltags.
 
+  ﻿
 
-  On the surface, [Teal organizations ](../teal-paradigm-and-organizations/)may not look so different from Green ones relative to commitment, working hours and flexibility. The difference is in maturity and coherence. Whereas a Green organization might make the practices outlines above available to specific populations, a Teal organization would make these practices widely available as a normal part of the way they operate.
+  Teal-Organisationen setzen häufig die folgenden allgemeinen Maßnahmen um:
 
+  ﻿
 
-  Teal organizations often exhibit the following general measures:
+  * Die Arbeitszeiten werden von niemandem kontrolliert oder bestimmt.
 
+  * Den Mitarbeitern wird zugetraut, sich ihre eigenen Ziele zu setzen und so lange zu arbeiten, bis sie diese erreicht haben.
 
-  * Working hours are not controlled or decided by anyone
-
-  * People are trusted to set their own goals and work until they reach them.
-
-  * There is a shared understanding that at times, individuals may need to vary their commitment to work. These situations are shared and openly discussed so that the task in hand can be completed with everyone’s support.
+  * Es besteht ein gemeinsames Verständnis dafür, dass der Einzelne zuweilen sein Maß an Engagement anpassen muss. Diese Situationen werden gemeinsam und offen besprochen, damit die anstehenden Aufgaben mit der Unterstützung aller erledigt werden können.
 inPractice: >-
   [Teal organizations ](../teal-paradigm-and-organizations/)start from the
   premise that even for routine work, people have a sense of pride and want to
