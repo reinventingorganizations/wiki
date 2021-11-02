@@ -17,29 +17,29 @@ intro: >-
 
   ![](/media/objectives.jpg)
 perspective: >-
-  Rather than depending on management to set direction, in Teal organizations,
-  teams and individuals are intrinsically driven to fulfill the purpose of the
-  organization. They do not need extrinsic motivators in the form of objectives
-  and budgets to get them to do their work. They set their own objectives and
-  targets, when they feel it is necessary.
+  In Teal-Organisationen sind Teams und Individuen nicht davon abhängig, dass
+  die Leitung eine Richtung vorgibt, sondern sie sind intrinsisch angetrieben
+  den Sinn der Organisation zu erfüllen. Sie brauchen keine extrinsischen
+  Motivatoren in Form von Zielen und Budgets, um ihre Arbeit zu erledigen. Sie
+  setzen sich ihre eigenen Ziele und Vorgaben, wenn sie es für notwendig halten.
 
 
-  Teal organizations evolve through sensing and responding to the environment. The process of listening to [evolutionary purpose](../evolutionary-purpose/) is used to decide on the next steps for a team or for the whole organization.
+  Teal-Organisationen entwickeln sich, indem sie ihre Umwelt wahrnehmen und auf sie reagieren. Der Prozess des Eingehens auf den [evolutionären Sinn](../evolutionärer-Sinn/) wird genutzt, um über die nächsten Schritte für ein Team oder die gesamte Organisation zu entscheiden.
 
 
-  Every historical stage has given birth to a distinct perspective on objectives and target setting, and to very different practices:
+  Jede historische Etappe hat eine andere Sichtweise auf Ziele und Zielsetzungen sowie sehr unterschiedliche Praktiken hervorgebracht:
 
 
-  #### **Red Organizations**
+  #### **Rote Organisationen**
 
 
-  [Red organizations](../red-organizations/) are characterized by opportunistic and often reactive behaviors. Rather than being a formal process, objectives and target setting is an inherent aspect of protecting and/or expanding one's power base.
+  [Rote Organisationen](../rote-Organisationen/) sind durch opportunistisches und oft reaktives Verhalten gekennzeichnet. Die Festlegung von Zielen ist kein formeller Prozess, sondern ein inhärenter Aspekt des Schutzes und/oder der Erweiterung der eigenen Machtposition.
 
 
-  #### **Amber Organizations**
+  #### **Bernstein-Organisationen**
 
 
-  In [Amber organizations](../amber-paradigm-and-organizations/) objectives are set by senior management. The only input from lower levels is technical or operational information, either as part of their jobs or by special request from above. The roll-out of the plans to achieve these objectives are in the form of directives to lower levels, with targets as part of the directives. Employees have little direct contact with top management, and are expected to follow orders, even if their experience / knowledge of local conditions suggest different actions.
+  In [bernsteinfarbenen Organisationen](../amber-paradigm-and-organizations/) werden die Ziele von der obersten Führungsebene festgelegt. Der einzige Beitrag der unteren Ebenen sind technische oder betriebliche Informationen, entweder im Rahmen ihrer Aufgaben oder auf besondere Anfrage von oben. Die Umsetzung der Pläne zur Erreichung dieser Ziele erfolgt in Form von Anweisungen an die unteren Ebenen, wobei die Zielvorgaben Teil der Anweisungen sind. Die Mitarbeiter haben nur wenig direkten Kontakt mit der obersten Führungsebene und es wird von ihnen erwartet, dass sie Befehle befolgen, auch wenn ihre Erfahrung bzw. ihr Wissen über die örtlichen Gegebenheiten andere Handlungen nahelegen.
 
 
   #### **Orange Organizations**
