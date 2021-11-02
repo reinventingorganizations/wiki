@@ -42,10 +42,10 @@ perspective: >-
   In [bernsteinfarbenen Organisationen](../amber-paradigm-and-organizations/) werden die Ziele von der obersten Führungsebene festgelegt. Der einzige Beitrag der unteren Ebenen sind technische oder betriebliche Informationen, entweder im Rahmen ihrer Aufgaben oder auf besondere Anfrage von oben. Die Umsetzung der Pläne zur Erreichung dieser Ziele erfolgt in Form von Anweisungen an die unteren Ebenen, wobei die Zielvorgaben Teil der Anweisungen sind. Die Mitarbeiter haben nur wenig direkten Kontakt mit der obersten Führungsebene und es wird von ihnen erwartet, dass sie Befehle befolgen, auch wenn ihre Erfahrung bzw. ihr Wissen über die örtlichen Gegebenheiten andere Handlungen nahelegen.
 
 
-  #### **Orange Organizations**
+  #### **Orange Organisationen**
 
 
-  [Orange organizations](../Orange_Organizations) formalize the process of strategic planning, setting vision, mission, values and objectives as part of a formal planning process and through the lens of the organization as a machine. This starts at the Board and Executive level followed up with business units, teams or departments. These lower levels are expected to develop their own strategic plans aligned with the corporate vision, mission and objectives.
+  [Orange Organisationen](../Orange_Organizations) formalisieren den Prozess der strategischen Planung, indem sie Vision, Mission, Werte und Ziele als Teil eines formalen Planungsprozesses und durch die Brille der Organisation als Maschine festlegen. Dies beginnt auf der Ebene des Vorstands und der Geschäftsleitung, gefolgt von den Geschäftseinheiten, Teams oder Abteilungen. Von diesen unteren Ebenen wird erwartet, dass sie ihre eigenen strategischen Pläne entwickeln, die auf die Vision, Mission und Ziele des Unternehmens abgestimmt sind.
 
 
   Targets are hence set at the various levels to achieve the objectives as part of a move from the ‘command and control’ of [Amber ](../amber-paradigm-and-organizations/)to one of ‘predict and control’. Top management formulates the overall direction and strategy and this is cascaded through the organization as targets, goals and objectives. Managers and staff are given freedom to use their creativity to achieve these objectives and may be offered incentives to do so. When aligned well, middle management, and to some extent lower levels, have the freedom to determine how they will achieve their objectives. When not thoughtfully aligned this approach can lead to gaming of targets, with teams sometimes working against each other to achieve their own goals.
