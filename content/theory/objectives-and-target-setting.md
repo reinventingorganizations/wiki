@@ -1,14 +1,18 @@
 ---
 layout: article
 tags: theory
-key: Objectives and Target Setting
-name: Objectives and Target Setting
+key: Ziele und Zielsetzung
+name: Ziele und Zielsetzung
 sortOrder: 6
 category: People practices
 intro: >-
-  This section outlines the role of objectives and target setting, in particular
-  we discuss the processes for enabling goals and ambition to be achieved in the
-  absence of formalized target setting processes.
+  In diesem Abschnitt wird die Rolle von Zielen und Zielsetzung umrissen. Im
+  Speziellen werden die Prozesse erörtert, die es ermöglichen, Ziele und
+  Ambitionen zu erreichen, wenn es keine formalisierten Zielsetzungsprozesse
+  gibt.
+
+
+  ![](/media/objectives.jpg)
 
 
   ![](/media/objectives.jpg)
