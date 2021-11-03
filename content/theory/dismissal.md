@@ -1,67 +1,136 @@
 ---
 layout: article
 tags: theory
-key: Dismissal
-name: Dismissal
+key: Entlassung
+name: Entlassung
 sortOrder: 10
 category: People practices
 intro: >-
-  Even in Teal organizations, people do not always fit in or perform adequately.
-  But when this occurs, the responses in Teal are different from earlier stage
-  organizations.
-
+  Sogar in Teal-Organisationen fügen sich die Mitarbeiter nicht immer ein oder
+  erbringen keine ausreichenden Leistungen. Aber wenn dies der Fall ist, sind
+  die Reaktionen in Teal-Organisationen anders als in Organisationen in früheren
+  Stadien.
 
   ![](/media/dismissal.jpg)
-perspective: >-
-  In Teal organizations, dismissals are rare. Roles tend to evolve to fit an
-  individual’s strengths, and people are generally highly motivated by both a
-  sense of autonomy and a desire not to let their colleagues down. Layoffs are
-  infrequent since Teal organizations tend to adjust more flexibly and rapidly
-  to downturns. More likely, departures are voluntary. Some people are not
-  comfortable with this new approach to worklife and they overwhelmingly return
-  to other environments of their own volition.
+perspective: "In Teal-Organisationen sind Entlassungen selten. Die Rollen
+  entwickeln sich in der Regel so, dass sie zu den Stärken des Einzelnen passen.
+  Die Mitarbeiter sind in der Regel hoch motiviert, weil sie ein Gefühl der
+  Autonomie haben und ihre Kollegen nicht im Stich lassen wollen. Entlassungen
+  sind selten, da Teal-Organisationen dazu neigen, sich flexibler und schneller
+  an Krisen anzupassen. Wahrscheinlicher ist, dass die Mitarbeiter freiwillig
+  gehen. Einige Mitarbeiter fühlen sich mit diesem neuen Ansatz des
+  Arbeitslebens nicht wohl und kehren in der Regel aus eigenem Antrieb in andere
+  Umgebungen zurück.
 
 
-  But, as a last resort (and only if a mediated conflict resolution process is unsuccessful), dismissal can occur. When it does, the associated emotions are embraced. People and choices are respected. Support is provided. And departure is treated as a learning opportunity, for both parties.
+  Aber als letzter Ausweg (und nur, wenn ein mediiertes
+  Konfliktlösungsverfahren erfolglos ist) kann eine Kündigung erfolgen. Wenn
+  dies geschieht, werden die damit verbundenen Emotionen zugelassen. Die
+  Menschen und ihre Entscheidungen werden respektiert. Unterstützung wird
+  angeboten. Und der Abschied wird als Lernchance für beide Parteien betrachtet.
 
 
-  **In contrast, dismissal in earlier stage organizations can be summarized as follows:**
+  **Im Gegensatz dazu lässt sich die Entlassung in Organisationen in einem
+  früheren Stadium wie folgt zusammenfassen:**
 
 
-  #### Red organizations
+  \r
+
+  \r
+
+  #### Rote Organisationen
 
 
-  In the[ Red paradigm](../red-organizations/), it’s up to the boss/leader to decide who to fire or keep. Formal processes are not necessary. Voluntary departures may be seen as betrayal.
+  \r
+
+  \r
+
+  Im [roten Paradigma] (../rote-organisationen/) ist es Sache der Chefin/der
+  Führungskraft zu entscheiden, wer entlassen oder gehalten wird. Formelle
+  Prozesse sind nicht erforderlich. Freiwilliges Ausscheiden kann als Verrat
+  angesehen werden.
 
 
-  #### Amber organizations
+  #### Bernstein-Organisationen
 
 
-  In [Amber organizations,](../amber-paradigm-and-organizations/) dismissals often follow a lapse of discipline, or a violation of the rules. The consequences may be well defined. For example, a first offense (perhaps arriving late) might mean suspension for a day. Repeated offense might result in dismissal.
+  \r
+
+  \r
+
+  In [bernsteinfarbenen Organisationen](../amber-paradigm-and-organizations/)
+  folgen Entlassungen oft auf eine Disziplinlosigkeit oder einen Verstoß gegen
+  die Regeln. Die Konsequenzen können klar definiert sein. Ein erster Verstoß
+  (z. B. zu spätes Erscheinen) kann beispielsweise eine Suspendierung für einen
+  Tag bedeuten. Wiederholte Verstöße können zu einer Entlassung führen.
 
 
-  In today’s versions of Amber — some government agencies, religious organizations, public schools, the military, etc. — extended (even lifetime) employment is the norm. These long relationships may extend to social circles. The possibility of dismissal carries the threat, not only of the loss of a job, but also of the associated social fabric. Those feeling unfulfilled in an Amber organizations face a painful choice.
+  \r
+
+  \r
+
+  In den heutigen Versionen von Bernstein - einige Regierungsbehörden,
+  religiöse Organisationen, öffentliche Schulen, das Militär usw. - ist eine
+  lange (sogar lebenslange) Beschäftigung die Norm. Diese langen Beziehungen
+  können sich auch auf soziale Kreise erstrecken. Die Möglichkeit einer
+  Entlassung birgt die Gefahr, nicht nur den Arbeitsplatz zu verlieren, sondern
+  auch das damit verbundene soziale Gefüge. Wer sich in einer bernsteinfarbenen
+  Organisation nicht erfüllt glaubt, steht vor einer harten Entscheidung.
 
 
-  #### Orange organizations
+  #### Orange Organisationen
 
 
-  [Orange organizations ](../orange-paradigm-and-organizations/)have a wide range of practices for dismissals. Authority commonly lies with the boss (maybe after HR approval or counseling).
+  \r
+
+  \r
+
+  [In orangen Organisationen](../orange-paradigm-and-organizations/) gibt es
+  eine Vielzahl von Entlassungspraktiken. Die Befugnis liegt in der Regel bei
+  der Chefin (eventuell nach Genehmigung oder Beratung durch die
+  Personalabteilung).
 
 
-  The causes are typically either performance or organizational cost-cutting/strategic redirection. Rarely is there implicit or contractual understanding that employment is guaranteed.
+  \r
+
+  \r
+
+  Die Gründe sind in der Regel entweder die Leistung oder organisatorische
+  Kostensenkungen/strategische Neuausrichtungen. Selten gibt es eine implizite
+  oder vertragliche Vereinbarung, dass die Beschäftigung garantiert ist.
 
 
-  It is common to have elaborate systems of performance management. Then, dismissal can follow when attempts to lift below-par performance have failed.
+  \r
+
+  \r
+
+  Üblich sind ausgeklügelte Systeme für das Leistungsmanagement. Dann kann
+  eine Entlassung folgen, wenn die Versuche, unterdurchschnittliche Leistungen
+  zu verbessern, fehlgeschlagen sind.\r
 
 
-  On the other hand, the need for a dismissal may also be seen as a flaw in the hiring process. In part, this is because the cost of hiring someone who later proves to be unsatisfactory is high. . Severance packages are not uncommon. Sometimes, assistance in finding a new job is offered. Orange organizations may have quite progressive dismissal practices.
+  Andererseits kann die Notwendigkeit einer Entlassung auch als Fehler im
+  Einstellungsprozess angesehen werden. Dies liegt zum Teil daran, dass die
+  Kosten für die Einstellung einer Person, die sich später als ungeeignet
+  erweist, hoch sind. Abfindungspakete sind nicht unüblich. Manchmal wird auch
+  Unterstützung bei der Suche nach einem neuen Arbeitsplatz angeboten. Orange
+  Organisationen können recht progressive Entlassungspraktiken haben.\r
 
 
-  #### Green organizations
+
+  #### Grüne Organisationen
 
 
-  [Green organizations ](../green-paradigm-and-organizations/)have a high tolerance for individual differences and are likelier to look for an alternative to letting people go. People who do not conform to the community rules and values may feel marginalized, and leave as a result. Otherwise, dismissal practices are similar to the Orange paradigm.
+  \r
+
+  \r
+
+  [Grüne Organisationen ](../green-paradigm-and-organizations/) haben eine
+  hohe Toleranz gegenüber individuellen Unterschieden und suchen eher nach einer
+  Alternative zur Entlassung von Mitarbeitern. Mitarbeiter, die sich nicht an
+  die Regeln und Werte der Gemeinschaft halten, können sich ausgegrenzt fühlen
+  und deshalb die Organisation verlassen. Ansonsten ähneln die
+  Entlassungspraktiken dem Orange-Paradigma."
 inPractice: >-
   #### People choose to leave before dismissal
 
