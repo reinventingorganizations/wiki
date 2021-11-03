@@ -18,7 +18,7 @@ intro: >-
   ![](/media/objectives.jpg)
 perspective: >-
   In Teal-Organisationen sind Teams und Individuen nicht davon abhängig, dass
-  die Leitung eine Richtung vorgibt, sondern sie sind intrinsisch angetrieben
+  die Leitung eine Richtung vorgibt, sondern sie sind intrinsisch angetrieben,
   den Sinn der Organisation zu erfüllen. Sie brauchen keine extrinsischen
   Motivatoren in Form von Zielen und Budgets, um ihre Arbeit zu erledigen. Sie
   setzen sich ihre eigenen Ziele und Vorgaben, wenn sie es für notwendig halten.
@@ -48,7 +48,7 @@ perspective: >-
   [Orange Organisationen](../Orange_Organizations) formalisieren den Prozess der strategischen Planung, indem sie Vision, Mission, Werte und Ziele als Teil eines formalen Planungsprozesses und durch die Brille der Organisation als Maschine festlegen. Dies beginnt auf der Ebene des Vorstands und der Geschäftsleitung, gefolgt von den Geschäftseinheiten, Teams oder Abteilungen. Von diesen unteren Ebenen wird erwartet, dass sie ihre eigenen strategischen Pläne entwickeln, die auf die Vision, Mission und Ziele des Unternehmens abgestimmt sind.
 
 
-  Targets are hence set at the various levels to achieve the objectives as part of a move from the ‘command and control’ of [Amber ](../amber-paradigm-and-organizations/)to one of ‘predict and control’. Top management formulates the overall direction and strategy and this is cascaded through the organization as targets, goals and objectives. Managers and staff are given freedom to use their creativity to achieve these objectives and may be offered incentives to do so. When aligned well, middle management, and to some extent lower levels, have the freedom to determine how they will achieve their objectives. When not thoughtfully aligned this approach can lead to gaming of targets, with teams sometimes working against each other to achieve their own goals.
+  Daher werden auf den verschiedenen Ebenen Zielvorgaben festgelegt, um die Ziele zu erreichen. Dies ist Teil des Übergangs von der "Befehl- und Kontrollmethode" von [Bernstein](../amber-paradigm-and-organizations/) zu einer "Vorhersage- und Kontrollmethode". Die oberste Führungsebene formuliert die Gesamtrichtung und -strategie, die in Form von Zielvorgaben, Zielen und Zielsetzungen an die gesamte Organisation weitergegeben werden. Die Führungskräfte und Mitarbeiter haben die Freiheit, ihre Kreativität einzusetzen, um diese Ziele zu erreichen, und können Anreize dafür erhalten, dies zu tun. Bei einer guten Ausrichtung haben das mittlere Management und bis zu einem gewissen Grad auch die unteren Ebenen die Freiheit zu bestimmen, wie sie ihre Ziele erreichen wollen. Wenn dieser Ansatz nicht gut durchdacht ist, kann er dazu führen, dass Zielvorgaben aus dem Auge verloren werden und Teams manchmal gegeneinander arbeiten, um ihre eigenen Ziele zu erreichen.
 
 
   #### **Green Organizations**
