@@ -102,71 +102,95 @@ inPractice: "#### **Das Problem mit den Zielen**
   nicht immer ein inhärentes Element des Sinns der Teal-Organisationen ist.
 
 
-  #### **Sense and respond – a new way to determine objectives, goals and
-  strategy**
+  #### **Wahrnehmen und Reagieren - Ein neuer Weg, Ziele und Strategien
+  festzulegen**
 
 
-  Instead of trying to predict and control (the implicit goal behind
-  objectives and targets), Teal organizations sense and respond. You could say
-  that all target setting is instead initiated locally where it is \"sensed and
-  responded\" to, then cascades or emerges through the organization as a living
-  system as needed.
+  \r
+
+  \r
+
+  Anstatt zu versuchen, etwas vorherzusagen und zu kontrollieren (das
+  implizite Ziel hinter Zielen und Vorgaben), erkennen und reagieren
+  Teal-Organisationen. Das heißt, dass alle Zielsetzungen auf lokaler Ebene
+  initiiert werden, wo sie \"wahrgenommen und beantwortet\" werden und sich dann
+  kaskadenförmig durch die Organisation als lebendiges System nach Bedarf
+  entwickeln.\r
 
 
-  One example is the Buurtzorg Boardinghouse. Nurses noticed or sensed that
-  primary care-givers of their patients needed a break from the ongoing demands
-  of providing care. In response, they instituted a bed and breakfast-type
-  solution where patients could receive care, providing care-givers a respite.
-  There were no goals or objectives for Buurtzorg to become a bed and breakfast,
-  but nurses sensed a need and their response of respite care took them down
-  this path benefiting patients and care-givers in the process.
+  Ein Beispiel ist das Buurtzorg Boardinghouse. Das Pflegepersonal bemerkte
+  oder spürte, dass die primären Betreuer ihrer Patienten eine Pause von den
+  ständigen Anforderungen der Pflege brauchten. Als Reaktion darauf richteten
+  sie eine Unterkunft mit Frühstück ein, in der die Patienten betreut werden
+  konnten und die den Betreuern eine Atempause verschaffte. Buurtzorg hatte
+  nicht das Ziel, eine Frühstückspension zu werden, aber die Krankenschwestern
+  spürten den Bedarf, und ihre Reaktion auf die Entlastungspflege führte sie auf
+  diesen Weg, von dem sowohl die Patienten als auch die Betreuer profitieren.
 
 
-  We cannot plan for a world that is continuously changing, and where we have
-  no control over the changes. So Teal-Evolutionary organizations work on the
-  basis of sense and respond, rather than predict and control.
+  Wir können nicht für eine Welt planen, die sich ständig verändert, und in
+  der wir keine Kontrolle über die Veränderungen haben. Teal-Evolutionäre
+  Organisationen arbeiten daher auf der Grundlage von Sinn und Reaktion,
+  anstelle von Vorhersage und Kontrolle.\r
 
 
-  #### **Investment process**
+  #### **Investitionsprozess**
 
 
-  The closest that Teal-Evolutionary organizations come to setting objectives
-  is the investment process. Most organizations have an annual investment
-  process, where each team prepares its investment plans for the next year.
-  These plans are added up, and, if they exceed available/accessible resources,
-  the teams have to review and adjust their plans. Whether the investments are
-  part of the annual plan, or ad-hoc, situational investments, teams are
-  responsible for raising the external funding themselves, or negotiate
-  internally with other teams for funding or resources.
+  \r
+
+  \r
+
+  Am nächsten kommen Teal-Evolutionäre-Organisationen der Festlegung von
+  Zielen, wenn es um den Investitionsprozess geht. Die meisten Organisationen
+  haben einen jährlichen Investitionsprozess, bei dem jedes Team seine
+  Investitionspläne für das nächste Jahr aufstellt. Diese Pläne werden addiert,
+  und wenn sie die verfügbaren/zugänglichen Ressourcen übersteigen, müssen die
+  Teams ihre Pläne überprüfen und anpassen. Unabhängig davon, ob die
+  Investitionen Teil des Jahresplans sind oder ob es sich um situationsbedingte
+  Ad-hoc-Investitionen handelt, sind die Teams dafür verantwortlich, die
+  externen Mittel selbst zu beschaffen oder intern mit anderen Teams über Mittel
+  oder Ressourcen zu verhandeln.
 
 
-  Some Teal-Evolutionary organizations do have organization-wide objectives,
-  or perhaps guidelines. For example,
-  [Buurtzorg](http://www.buurtzorgnederland.com/), the Netherlands-based health
-  care organization, has a target for billable hours of 60 - 65% for their
-  mature teams.
+  Einige Teal-Evolutionäre-Organisationen haben organisationsweite Ziele oder
+  vielleicht Richtlinien. Die niederländische Gesundheitsorganisation
+  [Buurtzorg] (http://www.buurtzorgnederland.com/) hat beispielsweise ein Ziel
+  für die abrechenbaren Stunden in Höhe von 60 bis 65 % für ihre reifen Teams.\r
 
 
-  #### **Team determined targets**
+  \r
+
+  #### **Im Team festgelegte Ziele**
 
 
-  People and teams can choose to set objectives or targets for themselves as
-  measures that tell them how well they are doing at meeting the organization's
-  purpose. Machine operators may set quality or performance targets for
-  themselves. Teams may set objectives in order to get a new project up and
-  running, or they may have set themselves targets for turnaround times. This is
-  simply part of self-management, as opposed to objectives and targets imposed
-  from above (outside the team or individual). Measurements are chosen that help
-  the team better sense key changes and respond to them.
+  \r
+
+  \r
+
+  Mitarbeiter und Teams können sich selbst Ziele oder Vorgaben setzen, die
+  ihnen Aufschluss darüber geben, wie gut sie den Sinn der Organisation
+  erfüllen. Maschinenführer können sich selbst Qualitäts- oder Leistungsziele
+  setzen. Teams können sich Ziele setzen, um ein neues Projekt zum Laufen zu
+  bringen, oder sie können sich Ziele für die Durchlaufzeiten setzen. Dies ist
+  einfach Teil der Selbstführung, im Gegensatz zu Zielen und Vorgaben, die von
+  oben (außerhalb des Teams oder des Einzelnen) vorgegeben werden. Es werden
+  Maßstäbe gewählt, die dem Team helfen, wichtige Veränderungen besser zu
+  erkennen und auf sie zu reagieren.
 
 
-  #### **Distributed responsibility and shared accountability**
+  #### **Verteilte Verantwortung und gemeinsame Verantwortlichkeit**.
 
 
-  Teal-Evolutionary organizations do not set sales targets. However, everyone,
-  including the sales people, are fully aware and informed of what it takes to
-  keep the organization going. Since sales people are part of the operational
-  teams, they know how much work is required to keep the team going."
+  \r
+
+  \r
+
+  Teal-Evolutionäre-Organisationen setzen keine Verkaufsziele. Allerdings sind
+  alle, auch die Vertriebsmitarbeiter, voll und ganz darüber informiert, was
+  nötig ist, um das Unternehmen am Laufen zu halten. Da die Vertriebsmitarbeiter
+  Teil der operativen Teams sind, wissen sie, wie viel Arbeit erforderlich ist,
+  um das Team am Laufen zu halten."
 faq:
   - question: Wenn keine Verkaufsziele festgelegt werden, woher soll das Unternehmen
       dann wissen, wie viel es verkaufen muss, um sowohl den Break-even als auch
