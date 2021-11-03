@@ -54,7 +54,7 @@ perspective: >-
   #### **Grüne Organisationen**
 
 
-  Eine Metapher, die manchmal verwendet wird, um die auf Konsens ausgerichtete [grüne Organisation] (../green-paradigm-and-organizations/) zu beschreiben, ist die der "Familie". Grünen Organisationen haben ein Unbehagen gegenüber Macht und Hierarchie und verlagern Autorität und Entscheidungsfindung von Managern auf Mitarbeiter. In der Praxis haben erfolgreiche grüne Organisationen durchaus hierarchische Strukturen. Manager agieren oft als dienende Führungskräfte, die ihre Mitarbeiter unterstützen und fördern. Ziele und Vorgaben werden oft im Konsens auf Teamebene festgelegt, um eine vordefinierte Vision und Mission zu unterstützen.
+  Eine Metapher, die manchmal verwendet wird, um die auf Konsens ausgerichtete [grüne Organisation] (../green-paradigm-and-organizations/) zu beschreiben, ist die der "Familie". Grüne Organisationen haben ein Unbehagen gegenüber Macht und Hierarchie und verlagern Autorität und Entscheidungsfindung von Managern auf Mitarbeiter. In der Praxis haben erfolgreiche grüne Organisationen durchaus hierarchische Strukturen. Manager agieren oft als dienende Führungskräfte, die ihre Mitarbeiter unterstützen und fördern. Ziele und Vorgaben werden oft im Konsens auf Teamebene festgelegt, um eine vordefinierte Vision und Mission zu unterstützen.
 
 
   #### **Teal-Organisationen**
@@ -179,7 +179,7 @@ inPractice: "#### **Das Problem mit den Zielen**
   erkennen und auf sie zu reagieren.
 
 
-  #### **Verteilte Verantwortung und gemeinsame Verantwortlichkeit**.
+  #### **Verteilte Verantwortung und gemeinsame Verantwortlichkeit**
 
 
   \r
