@@ -45,7 +45,7 @@ perspective: >-
   #### **Teal-Organisationen**
 
 
-  [Teal-Organisationen](../teal-paradigm-and-organizations/) investieren viel Zeit in die Aufnahme und Schulung neuer Kollegen. Dazu gehört oft das Erlernen neuer zwischenmenschlicher Fähigkeiten, das Verständnis dafür, was Selbstmanagement in der Praxis bedeutet, und das Durchlaufen eines Rotationsprogramms. Diese Programme vermitteln allgemeine Fähigkeiten und bieten den neuen Kollegen die Möglichkeit, ein breites Spektrum an Menschen kennenzulernen. Neuankömmlinge werden auch in die Praktiken des [Selbstmanagements](../Selbstmanagement/), der [Ganzheitlichkeit](../Ganzheitlichkeit/) und des [evolutionären Sinns](../evolutionärer-Sinn/) eingeführt. Sie werden eingeladen, ihre Berufung und ihre Talente in Bezug auf den Sinn und die Tätigkeiten der Organisation zu betrachten.
+  [Teal-Organisationen](../teal-paradigm-and-organizations/) investieren viel Zeit in die Aufnahme und Schulung neuer Kollegen. Dazu gehört oft das Erlernen neuer zwischenmenschlicher Fähigkeiten, das Verständnis dafür, was Selbstführung in der Praxis bedeutet, und das Durchlaufen eines Rotationsprogramms. Diese Programme vermitteln allgemeine Fähigkeiten und bieten den neuen Kollegen die Möglichkeit, ein breites Spektrum an Menschen kennenzulernen. Neuankömmlinge werden auch in die Praktiken der [Selbstführung](../Selbstführung/), der [Ganzheit](../Ganzheit/) und des [evolutionären Sinns](../evolutionärer-Sinn/) eingeführt. Sie werden eingeladen, ihre Berufung und ihre Talente in Bezug auf den Sinn und die Tätigkeiten der Organisation zu betrachten.
 inPractice: >-
   #### **Schulung in zwischenmenschlichen Fähigkeiten und in der
   Unternehmenskultur**
@@ -54,7 +54,7 @@ inPractice: >-
   [Teal-Organisationen](../teal-paradigm-and-organizations/) investieren viel Zeit und Energie in die Einführung neuer Kollegen. Die ersten Tage und Wochen sind entscheidend, um ihnen zu helfen, einen neuen und oft sehr unterschiedlichen Arbeitsplatz zu verstehen. Im Mittelpunkt des Onboarding-Prozesses steht eine Form der Schulung, die den Kollegen hilft, die neue Umgebung, in die sie eingetreten sind, zu verstehen und sich darin zurechtzufinden.
 
 
-  Bei [Buurtzorg](http://www.buurtzorgusa.org/) werden zum Beispiel alle neuen Teammitglieder in Problemlösungs- und Besprechungspraktiken geschult, damit sie in einem Team ohne eine Chefin arbeiten können. Alle neuen Mitarbeiter bei [Heiligenfeld](http://www.heiligenfeld.com/) durchlaufen sechs Schulungsmodule, die Themen wie " Selbststeuerung" und "Umgang mit Misserfolgen" beinhalten. Alle neuen Mitarbeiter bei [Morning Star](http://www.morningstarco.com/) nehmen an einem Seminar über die Grundlagen des [Selbstmanagements](../Selbstmanagement/) teil.
+  Bei [Buurtzorg](http://www.buurtzorgusa.org/) werden zum Beispiel alle neuen Teammitglieder in Problemlösungs- und Besprechungspraktiken geschult, damit sie in einem Team ohne eine Chefin arbeiten können. Alle neuen Mitarbeiter bei [Heiligenfeld](http://www.heiligenfeld.com/) durchlaufen sechs Schulungsmodule, die Themen wie "Selbstführung" und "Umgang mit Misserfolgen" beinhalten. Alle neuen Mitarbeiter bei [Morning Star](http://www.morningstarco.com/) nehmen an einem Seminar über die Grundlagen der [Selbstführung](../Selbstführung/) teil.
 
 
   Für Personen, die zuvor eine Führungsposition innehatten, kann der Übergang besonders schwierig sein. Sie müssen lernen, wie man Dinge erledigt, ohne auf Anweisung und Kontrolle zurückzugreifen.
