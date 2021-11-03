@@ -28,22 +28,19 @@ perspective: >-
   #### Organisations Rouges
 
 
-  In the[ Red paradigm](../red-organizations/), **decisions of any consequence** are made by the boss/chief. Employees must seek his or her approval, or risk severe consequences. Red organizations can be efficient, but control, exercised through fear, limits the willingness of members to make independent decisions.
-
-
-  Dans le [paradigme Rouge](../red-organizations/), **toutes les décisions, peu importe leur importance**, sont prises par le patron/chef. Les employés doivent chercher son approbation, ou risquer de graves conséquences. Les organisations rouges peuvent être efficaces, mais le contrôle, exercé par la peur, limite la volonté des membres de prendre des décisions indépendantes.
+  Dans le [paradigme Rouge](../red-organizations/), toutes les décisions, peu importe leur degré d'importance, sont prises par le.la chef.fe. Les employé.e.s doivent demander son approbation, ou risquent de graves conséquences. Les organisations rouges peuvent être efficaces, mais le contrôle exercé par la peur limite la motivation de chacun.e à prendre des décisions autonomes.
 
 
   #### Organisations Ambre
 
 
-  Dans le [paradigme Ambre](../amber-paradigm-and-organizations/)[](../amber-paradigm-and-organisations/), le pouvoir de décision est déterminé par le statut de l'individu dans la hiérarchie. L'innovation n'est pas particulièrement valorisée, contrairement au respect des procédures opérationnelles standard. Une chaîne de commandement claire, soutenue par des processus formels, définit qui peut faire quoi. On attend des individus qu'ils adhèrent à ces processus et traditions.
+  Dans le [paradigme Ambre](../amber-paradigm-and-organizations/)[](../amber-paradigm-and-organisations/), le pouvoir de décision est déterminé par le statut de chacun dans la hiérarchie. L'innovation n'est pas particulièrement valorisée, contrairement au respect des procédures opérationnelles standard. Une chaîne de commandement claire, soutenue par des processus formels, définit qui peut faire quoi. On attend des individus qu'ils adhèrent à ces processus et traditions.
 
 
   #### Organisations Orange
 
 
-  Dans le [paradigme Orange](../orange-paradigm-and-organizations/), les organisations sont considérées comme des machines qui doivent être "réglées" pour être efficaces. La direction générale annonce l'orientation ou la stratégie générale, puis les objectifs descendent en cascade. Les managers élaborent des plans pour approbation sur la base de leurs objectifs. Ces plans guident la prise de décision vers la réalisation des objectifs - par exemple, le profit et la part de marché. Les membres de l'équipe sont invités à suggérer des initiatives et à participer au processus de décision. Cela encourage l'innovation et le débat. Les objectifs primordiaux sont la prévisibilité et le contrôle.
+  Dans le [paradigme Orange](../orange-paradigm-and-organizations/), les organisations sont considérées comme des machines qui doivent être "calibrées" pour être efficaces. La direction générale annonce l'orientation ou la stratégie générale, puis les objectifs descendent en cascade. Les managers élaborent des plans d'action, soumis à validation, sur la base de ces objectifs. Ces plans d'action guident la prise de décision pour réaliser les objectifs - par exemple, des objectifs de profit et de part de marché. Les membres de l'équipe sont invités à suggérer des initiatives et à participer au processus de décision. Cela encourage l'innovation et le débat. Le principes premiers sont la prévision et le contrôle.
 
 
   #### Organisations Vertes
