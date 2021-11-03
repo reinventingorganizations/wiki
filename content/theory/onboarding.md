@@ -111,15 +111,14 @@ faq:
       Lassen Sie ausführliche Interviews mit den Kandidaten durch zukünftigen
       Kollegen führen und konzentrieren Sie sich auf die Übereinstimmung mit dem
       Zweck der Organisation und den Praktiken von
-      [Selbstmanagement](../Selbstmanagement/),
-      [Ganzheitlichkeit](../Ganzheitlichkeit/) und [evolutionärem
-      Sinn](../evolutionärer-sinn/). Achten Sie besonders auf Kandidaten, die
-      früher in anderen Organisationen leitende Positionen innehatten. Die
-      Fluktuationsrate in dieser Gruppe ist hoch, wie das folgende Beispiel
-      zeigt:
+      [Selbstführung](../Selbstführung/), [Ganzheit](../Ganzheit/) und
+      [evolutionärem Sinn](../evolutionärer-sinn/). Achten Sie besonders auf
+      Kandidaten, die früher in anderen Organisationen leitende Positionen
+      innehatten. Die Fluktuationsrate in dieser Gruppe ist hoch, wie das
+      folgende Beispiel zeigt:
 
 
-      Paul Green Jr., der das Selbstmanagement-Institut von [Morning Star](http://www.morningstarco.com/) leitet, schätzt, dass fast 50 Prozent der Personen, die früher in anderen Organisationen leitende Positionen innehatten (VP-Ebene oder höher), die Organisation nach ein oder zwei Jahren verlassen, "weil es ihnen schwerfällt, sich an ein System anzupassen, in dem sie nicht Gott spielen können".
+      Paul Green Jr., der das Selbstführung-Institut von [Morning Star](http://www.morningstarco.com/) leitet, schätzt, dass fast 50 Prozent der Personen, die früher in anderen Organisationen leitende Positionen innehatten (VP-Ebene oder höher), die Organisation nach ein oder zwei Jahren verlassen, "weil es ihnen schwerfällt, sich an ein System anzupassen, in dem sie nicht Gott spielen können".
   - question: Wie können Teal-Praktiken beibehalten werden, wenn viele neue Kollegen
       aus Nicht-Teal-Organisationen hinzukommen?
     answer: Das Onboarding großer Gruppen von neuen Kollegen aus
