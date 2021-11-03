@@ -64,73 +64,126 @@ perspective: >-
 
 
   Ausgerichtet auf den Sinn der Organisation basiert die Planung auf dem Prinzip "Erkennen und Reagieren", wobei der Schwerpunkt auf einem agilen Ansatz liegt, um praktikable Lösungen zu finden. Dieser anpassungsfähige Prozess ähnelt den Prinzipien von Lean Start-up und [Softwareentwicklung](https://en.wikipedia.org/wiki/Agile_software_development%7Cagile). Die Entscheidungsfindung erfolgt innerhalb eines Rahmens von organisationsweiten Werten und wird durch einen [Beratungsprozess](../Entscheidungsfindung/) abgestimmt. Die Strategie ergibt sich organisch aus der Interaktion der Mitarbeiter mit dem organisatorischen Umfeld von Teal. Mitarbeiter, die sich selbst führen, können sich selbst Ziele setzen, oder ein Team kann sich auf ein Ziel einigen, z. B. eine schnellere Durchlaufzeit, aber es gibt keine Umsatz-, Effizienz- oder andere Ziele. Durch die Einholung von Ratschlägen von Kollegen und Fachleuten, bevor ein Projekt oder eine Veränderung in Angriff genommen wird, wird sichergestellt, dass alle Aspekte, einschließlich der finanziellen Aspekte, in Betracht gezogen werden. Teil des Wertesystems ist, dass kein einzelnes Mitglied oder eine Gruppe von Mitgliedern die Organisation durch unüberlegte oder eigennützige Aktionen oder Projekte gefährden darf.
-inPractice: >-
-  #### **The problem with objectives**
+inPractice: "#### **Das Problem mit den Zielen**
 
 
-  In the Orange-Achievement paradigm, objectives and targets are the key drivers for success. They are the glue that holds the organization together, and give meaning to its existence. In the Teal-Evolutionary paradigm, [purpose  ](../listening-to-purpose/)and [values ](../culture-and-values/)drive the organization. The objective is to bring to life the purpose of the organization. There are no formal systems or top-down processes in place for setting objectives and targets. All the functions of management (planning, organizing, direction-setting, investments, budgeting, etc) are done by the people doing the work. In general, Teal-Evolutionary organizations tend not to set objectives or targets.
+  \r
+
+  \r
+
+  Im Orange-Erzielungsparadigma sind Ziele und Zielvorgaben die wichtigsten
+  Erfolgsfaktoren. Sie sind der Klebstoff, der die Organisation zusammenhält und
+  ihrer Existenz einen Sinn verleiht. Im Paradigma der Teal-Evolution treiben
+  [Sinn ](../listening-to-purpose/) und [Werte ](..culture-and-values/) die
+  Organisation an. Das Ziel besteht darin, den Sinn der Organisation zum Leben
+  zu erwecken. Es gibt keine formalen Systeme oder Top-down-Prozesse für die
+  Festlegung von Zielen und Vorgaben. Alle Managementfunktionen (Planung,
+  Organisation, Richtungsvorgabe, Investitionen, Budgetierung usw.) werden von
+  den Menschen ausgeführt, die die Arbeit machen. Im Allgemeinen neigen
+  Organisationen der Teal-Evolution dazu, keine Zielsetzungen oder Vorgaben zu
+  machen.
 
 
-  From a Teal-Evolutionary perspective, objectives and targets are problematic:
+  Aus der Sicht von Teal-Evolution sind Ziele und Vorgaben problematisch:\r
+
+  \r
+
+  * Sie beruhen auf der Annahme, dass wir die Zukunft vorhersagen können,\r
+
+  * Sie verlagern das Verhalten von intrinsischer zu extrinsischer
+  Motivation,\r
+
+  * Sie schränken die Fähigkeit ein, neue Möglichkeiten wahrzunehmen,\r
+
+  * Sie lenken die Aufmerksamkeit darauf die Ziele statt den Sinn der
+  Organisation zu erfüllen,\r
+
+  * In der orangen Welt der Zielerreichung implizieren sie immer Wachstum, was
+  nicht immer ein inhärentes Element des Sinns der Teal-Organisationen ist.
 
 
-  * They rest on the assumption that we can predict the future,
-
-  * They skew behavior from intrinsic to extrinsic motivation,
-
-  * They tend to narrow the ability to sense new possibilities,
-
-  * They focus attention on the targets, rather than fulfilling the organization’s purpose,
-
-  * In the Orange-achievement world they always imply growth, something which is not always an inherent element of Teal organizations' purpose.
+  #### **Sense and respond – a new way to determine objectives, goals and
+  strategy**
 
 
-  #### **Sense and respond – a new way to determine objectives, goals and strategy**
+  Instead of trying to predict and control (the implicit goal behind
+  objectives and targets), Teal organizations sense and respond. You could say
+  that all target setting is instead initiated locally where it is \"sensed and
+  responded\" to, then cascades or emerges through the organization as a living
+  system as needed.
 
 
-  Instead of trying to predict and control (the implicit goal behind objectives and targets), Teal organizations sense and respond. You could say that all target setting is instead initiated locally where it is "sensed and responded" to, then cascades or emerges through the organization as a living system as needed.
+  One example is the Buurtzorg Boardinghouse. Nurses noticed or sensed that
+  primary care-givers of their patients needed a break from the ongoing demands
+  of providing care. In response, they instituted a bed and breakfast-type
+  solution where patients could receive care, providing care-givers a respite.
+  There were no goals or objectives for Buurtzorg to become a bed and breakfast,
+  but nurses sensed a need and their response of respite care took them down
+  this path benefiting patients and care-givers in the process.
 
 
-  One example is the Buurtzorg Boardinghouse. Nurses noticed or sensed that primary care-givers of their patients needed a break from the ongoing demands of providing care. In response, they instituted a bed and breakfast-type solution where patients could receive care, providing care-givers a respite. There were no goals or objectives for Buurtzorg to become a bed and breakfast, but nurses sensed a need and their response of respite care took them down this path benefiting patients and care-givers in the process.
-
-
-  We cannot plan for a world that is continuously changing, and where we have no control over the changes. So Teal-Evolutionary organizations work on the basis of sense and respond, rather than predict and control.
+  We cannot plan for a world that is continuously changing, and where we have
+  no control over the changes. So Teal-Evolutionary organizations work on the
+  basis of sense and respond, rather than predict and control.
 
 
   #### **Investment process**
 
 
-  The closest that Teal-Evolutionary organizations come to setting objectives is the investment process. Most organizations have an annual investment process, where each team prepares its investment plans for the next year. These plans are added up, and, if they exceed available/accessible resources, the teams have to review and adjust their plans. Whether the investments are part of the annual plan, or ad-hoc, situational investments, teams are responsible for raising the external funding themselves, or negotiate internally with other teams for funding or resources.
+  The closest that Teal-Evolutionary organizations come to setting objectives
+  is the investment process. Most organizations have an annual investment
+  process, where each team prepares its investment plans for the next year.
+  These plans are added up, and, if they exceed available/accessible resources,
+  the teams have to review and adjust their plans. Whether the investments are
+  part of the annual plan, or ad-hoc, situational investments, teams are
+  responsible for raising the external funding themselves, or negotiate
+  internally with other teams for funding or resources.
 
 
-  Some Teal-Evolutionary organizations do have organization-wide objectives, or perhaps guidelines. For example, [Buurtzorg](http://www.buurtzorgnederland.com/), the Netherlands-based health care organization, has a target for billable hours of 60 - 65% for their mature teams.
+  Some Teal-Evolutionary organizations do have organization-wide objectives,
+  or perhaps guidelines. For example,
+  [Buurtzorg](http://www.buurtzorgnederland.com/), the Netherlands-based health
+  care organization, has a target for billable hours of 60 - 65% for their
+  mature teams.
 
 
   #### **Team determined targets**
 
 
-  People and teams can choose to set objectives or targets for themselves as measures that tell them how well they are doing at meeting the organization's purpose. Machine operators may set quality or performance targets for themselves. Teams may set objectives in order to get a new project up and running, or they may have set themselves targets for turnaround times. This is simply part of self-management, as opposed to objectives and targets imposed from above (outside the team or individual). Measurements are chosen that help the team better sense key changes and respond to them.
+  People and teams can choose to set objectives or targets for themselves as
+  measures that tell them how well they are doing at meeting the organization's
+  purpose. Machine operators may set quality or performance targets for
+  themselves. Teams may set objectives in order to get a new project up and
+  running, or they may have set themselves targets for turnaround times. This is
+  simply part of self-management, as opposed to objectives and targets imposed
+  from above (outside the team or individual). Measurements are chosen that help
+  the team better sense key changes and respond to them.
 
 
   #### **Distributed responsibility and shared accountability**
 
 
-  Teal-Evolutionary organizations do not set sales targets. However, everyone, including the sales people, are fully aware and informed of what it takes to keep the organization going. Since sales people are part of the operational teams, they know how much work is required to keep the team going.
+  Teal-Evolutionary organizations do not set sales targets. However, everyone,
+  including the sales people, are fully aware and informed of what it takes to
+  keep the organization going. Since sales people are part of the operational
+  teams, they know how much work is required to keep the team going."
 faq:
-  - question: If no sales targets are set, how will the company know how much to
-      sell to achieve both break even and profitability?
+  - question: Wenn keine Verkaufsziele festgelegt werden, woher soll das Unternehmen
+      dann wissen, wie viel es verkaufen muss, um sowohl den Break-even als auch
+      die Profitabilität zu erreichen?
     answer: >-
-      Financial information is available to all, and everybody is trained to
-      read and understand financial information. They are also trained how to
-      relate the information to their activities. Since every member is
-      responsible for the health of the whole organization, they know exactly
-      what outputs are required to keep the organization financially healthy.
+      Finanzinformationen sind für alle zugänglich und alle werden darin
+      geschult, Finanzinformationen zu lesen und zu verstehen. Sie werden auch
+      darin geschult, wie sie die Informationen auf ihre Tätigkeiten beziehen
+      können. Da jedes Mitglied für die Gesundheit der gesamten Organisation
+      verantwortlich ist, weiß jedes Mitglied genau, welche Leistungen
+      erforderlich sind, damit die Organisation finanziell gesund bleibt.
 
 
-      Whether the teams have specific persons in sales roles, or are responsible for sales as part of their ongoing duties, everybody has a clear idea of what is happening in the marketplace, what customers' needs are and what other offerings there are.
+      Unabhängig davon, ob in den Teams bestimmte Personen mit Vertriebsaufgaben betraut sind oder ob sie im Rahmen ihrer laufenden Aufgaben für den Vertrieb zuständig sind, hat jeder eine klare Vorstellung davon, was auf dem Markt passiert, welche Bedürfnisse die Kunden haben und welche anderen Angebote es gibt.
 
 
-      The beauty of the [self-organizing ](../self-management/)nature of [Teal organizations](../teal-paradigm-and-organizations/) is that they can sense and adapt to market changes in real-time. Orange-Achievement organizations have to wait for feedback from sales teams and market research, then go through a laborious target setting and decision making process and then implement changes.
+      Das Schöne am [selbstführenden](../Selbstmanagement/) Charakter von [Teal-Organisationen](../Teal-Paradigma-und-Organisationen/) ist, dass sie in Echtzeit Marktveränderungen wahrnehmen und sich an sie anpassen können. Orange Zielerreichungs-Organisationen müssen auf Rückmeldungen von Vertriebsteams und Marktforschung warten, dann einen mühsamen Zielsetzungs- und Entscheidungsfindungsprozess durchlaufen und dann Änderungen umsetzen.
 relatedTheory:
   - Coordination
   - Evolutionary Purpose
@@ -140,4 +193,3 @@ relatedTheory:
   - Feedback and Performance Management
   - Strategy
 ---
-to be removed
