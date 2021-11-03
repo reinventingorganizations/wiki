@@ -8,22 +8,21 @@ category: Daily practices
 intro: >-
   Le thème de la prise de décision traite de la manière dont les décisions sont
   prises au sein des organisations, et par qui. Dans les organisations Opale, le
-  pouvoir de décision est véritablement réparti dans l'ensemble de
-  l'organisation.
+  pouvoir de décision est vraiment réparti dans l'ensemble de l'organisation.
 
 
   ![](/media/decision.jpg)
 perspective: >-
   Dans les [](../paradigme-sarcelles-et-organisations/)[organisations
   Opale](../teal-paradigm-and-organizations/), la prise de décision est
-  fortement distribuée. Les individus ou les équipes en première ligne ont la
+  distribuée à un haut degré. Les individus ou les équipes sur le terrain ont la
   possibilité de prendre des décisions qui affectent leur travail. Même si ces
   décisions n'ont pas besoin d'être validées par une hiérarchie ou un consensus,
-  on s'attend à ce que des experts, et les personnes concernées, soient
-  impliqués.
+  il est attendu  d'eux qu'ils impliquent des experts et les personnes
+  concernées.
 
 
-  Chaque étape historique a donné naissance à une perspective distincte sur la prise de décision et à des pratiques très différentes. Dans les périodes antérieures, les décisions pouvaient être prises au sommet. Aujourd'hui, certaines organisations tentent consciemment de "responsabiliser" les personnes à la base.
+  Au cours de l'histoire chaque stade d'évolution humaine a donné naissance à une nouvelle vision sur la prise de décision et à des pratiques très différentes. Dans les périodes antérieures, les décisions étaient prises au sommet de la hiérarchie. Aujourd'hui, certaines organisations tentent consciemment de "donner du pouvoir" aux personnes de la base.
 
 
   #### Organisations Rouges
@@ -41,7 +40,7 @@ perspective: >-
   Dans le [paradigme Ambre](../amber-paradigm-and-organizations/)[](../amber-paradigm-and-organisations/), le pouvoir de décision est déterminé par le statut de l'individu dans la hiérarchie. L'innovation n'est pas particulièrement valorisée, contrairement au respect des procédures opérationnelles standard. Une chaîne de commandement claire, soutenue par des processus formels, définit qui peut faire quoi. On attend des individus qu'ils adhèrent à ces processus et traditions.
 
 
-  #### Organisations Orange 
+  #### Organisations Orange
 
 
   Dans le [paradigme Orange](../orange-paradigm-and-organizations/), les organisations sont considérées comme des machines qui doivent être "réglées" pour être efficaces. La direction générale annonce l'orientation ou la stratégie générale, puis les objectifs descendent en cascade. Les managers élaborent des plans pour approbation sur la base de leurs objectifs. Ces plans guident la prise de décision vers la réalisation des objectifs - par exemple, le profit et la part de marché. Les membres de l'équipe sont invités à suggérer des initiatives et à participer au processus de décision. Cela encourage l'innovation et le débat. Les objectifs primordiaux sont la prévisibilité et le contrôle.
