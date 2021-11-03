@@ -40,7 +40,7 @@ perspective: >-
   #### **Teal-Organisationen**
 
 
-  Die Rekrutierung wird in [Teal-Organisationen](../teal-paradigm-and-organizations/) von dem Team geleitet, das ein neues Mitglied braucht; nicht von der Personalabteilung (häufig gibt es keine Personalabteilung). Die Gespräche mit den Bewerberinnen drehen sich in der Regel um drei Themen: Eignung für die Aufgabe, Passung zur Organisation und ihrem Sinn. Die letzten beiden Punkte werden oft als wichtiger angesehen, da in selbstverwalteten Organisationen die Rollen häufig wechseln. Häufig wird eine Testphase vereinbart, damit beide Parteien ehrlich einschätzen können, ob sie zueinander passen.
+  Die Rekrutierung wird in [Teal-Organisationen](../teal-paradigm-and-organizations/) von dem Team geleitet, das ein neues Mitglied braucht; nicht von der Personalabteilung (häufig gibt es keine Personalabteilung). Die Gespräche mit den Bewerberinnen drehen sich in der Regel um drei Themen: Eignung für die Aufgabe, Passung zur Organisation und ihrem Sinn. Die letzten beiden Punkte werden oft als wichtiger angesehen, da in selbstführenden Organisationen die Rollen häufig wechseln. Häufig wird eine Testphase vereinbart, damit beide Parteien ehrlich einschätzen können, ob sie zueinander passen.
 
 
   Während des Rekrutierungsprozesses versuchen Teal-Organisationen der Versuchung zu widerstehen, vor Bewerbern "gut auszusehen". Die Prämisse ist, dass beide Parteien versuchen, eine einfache, grundlegende Frage zu beantworten: Haben wir das Gefühl, dass wir für eine gemeinsame Reise bestimmt sind? Diese Frage kann nur dann sinnvoll beantwortet werden, wenn die Gespräche auf Ehrlichkeit und Integrität beruhen und die Bereitschaft besteht, tief und offen nachzufragen.
@@ -66,13 +66,13 @@ inPractice: >-
   ##### ***Passung zur Rolle***
 
 
-  Die Beurteilung der Eignung in Bezug auf Fähigkeiten, Erfahrung und Fachwissen ist nach wie vor ein wichtiger Bestandteil des Rekrutierungsprozesses, vor allem bei spezifischen Aufgaben, die Fachwissen erfordern. Die Rollen in selbstverwalteten Organisationen werden jedoch sehr fließend ausgetauscht. Aus diesem Grund wird die "Passung zur Stelle" oft nicht als vorrangig angesehen, da sich die Rollen einer Person schnell ändern können. Selbstverwaltete Organisationen machen die Erfahrung, dass Mitarbeiterinnen, die motiviert sind, eine neue und herausfordernde Rolle zu übernehmen, in überraschend kurzer Zeit neue Fähigkeiten und Erfahrungen erwerben.
+  Die Beurteilung der Eignung in Bezug auf Fähigkeiten, Erfahrung und Fachwissen ist nach wie vor ein wichtiger Bestandteil des Rekrutierungsprozesses, vor allem bei spezifischen Aufgaben, die Fachwissen erfordern. Die Rollen in selbstführenden Organisationen werden jedoch sehr fließend ausgetauscht. Aus diesem Grund wird die "Passung zur Stelle" oft nicht als vorrangig angesehen, da sich die Rollen einer Person schnell ändern können. Selbstführende Organisationen machen die Erfahrung, dass Mitarbeiterinnen, die motiviert sind, eine neue und herausfordernde Rolle zu übernehmen, in überraschend kurzer Zeit neue Fähigkeiten und Erfahrungen erwerben.
 
 
   ##### ***Passung zur Organisation***
 
 
-  Ein zweiter Bereich, den es im Gespräch zu erkunden gilt, ist: Wird sich diese Person in der Organisation entfalten? Wird sie oder er in einem selbstorganisierten Umfeld aufblühen? Fühlt sich die Person von den Werten des Unternehmens angesprochen? Macht es bei ihr oder ihm "klick" mit den Kollegen? Viele Teal-Organisationen, wie z. B. [Morning Star](http://www.morningstarco.com/), bieten den Bewerbern eine Schulung in Selbstmanagement an, damit sie herausfinden können, ob dies ihren Vorstellungen entspricht. Andere Organisationen schaffen Momente im Einstellungsprozess, in denen ausführliche Gespräche über die Werte des Unternehmens und des Bewerbers geführt werden.
+  Ein zweiter Bereich, den es im Gespräch zu erkunden gilt, ist: Wird sich diese Person in der Organisation entfalten? Wird sie oder er in einem selbstorganisierten Umfeld aufblühen? Fühlt sich die Person von den Werten des Unternehmens angesprochen? Macht es bei ihr oder ihm "klick" mit den Kollegen? Viele Teal-Organisationen, wie z. B. [Morning Star](http://www.morningstarco.com/), bieten den Bewerbern eine Schulung in Selbstführung an, damit sie herausfinden können, ob dies ihren Vorstellungen entspricht. Andere Organisationen schaffen Momente im Einstellungsprozess, in denen ausführliche Gespräche über die Werte des Unternehmens und des Bewerbers geführt werden.
 
 
   ##### ***Passung zum Sinn der Organisation***
@@ -89,7 +89,7 @@ faq:
   - question: Ist jeder ein geeigneter Kandidat für eine Teal-Organisation? Gibt es
       Menschen, die sich nicht an einen solchen Arbeitsplatz anpassen können?
     answer: >-
-      Manche Menschen fühlen sich mehr zu einem selbstverwalteten Umfeld
+      Manche Menschen fühlen sich mehr zu einem selbstführenden Umfeld
       hingezogen als andere, oder zu einem Ort, der Menschen dazu einlädt, sich
       ganz zu entfalten oder sich intensiv mit einem bestimmten Sinn zu
       beschäftigen. Je mehr das Einstellungsverfahren den Bewerberinnen die
@@ -99,9 +99,9 @@ faq:
       erkennen, wenn die Passung nicht ideal ist.
 
 
-      * Hinsichtlich des [Selbstmanagements](../self-management/) ist die Herausforderung je nach Hintergrund der Person unterschiedlich. Wenn der Kandidat daran gewöhnt ist, eine Führungskraft zu sein oder in einer Stabsstelle zu arbeiten, die Macht über operative Einheiten hat, kann dies ein schwieriger Übergang sein. Kandidatinnen, die zuvor auf einer niedrigeren Ebene der Organisation gearbeitet haben, können sich anfangs schwer tun, mit dem höheren Maß an Commitment und persönlicher Verantwortung umzugehen, die das Selbstmanagement erfordert.
+      * Hinsichtlich der [Selbstführung](../Selbstführung/) ist die Herausforderung je nach Hintergrund der Person unterschiedlich. Wenn der Kandidat daran gewöhnt ist, eine Führungskraft zu sein oder in einer Stabsstelle zu arbeiten, die Macht über operative Einheiten hat, kann dies ein schwieriger Übergang sein. Kandidatinnen, die zuvor auf einer niedrigeren Ebene der Organisation gearbeitet haben, können sich anfangs schwer tun, mit dem höheren Maß an Commitment und persönlicher Verantwortung umzugehen, die die Selbstführung erfordert.
 
-      * Hinsichtlich der [Ganzheitlichkeit](.../Ganzheitlichkeit/): Fühlt sich die Person in einem Umfeld wohl, in dem die Kolleginnen voneinander erwarten, dass sie offen und verletzlich sind, dass sie sich aus einer Position der Ganzheit heraus zeigen?
+      * Hinsichtlich der [Ganzheit](.../Ganzheit/): Fühlt sich die Person in einem Umfeld wohl, in dem die Kolleginnen voneinander erwarten, dass sie offen und verletzlich sind, dass sie sich aus einer Position der Ganzheit heraus zeigen?
 
       * Hinsichtlich des [evolutionären Sinns:](/evolutionärer-Zweck/) Stimmt die Person mit dem Sinn der Organisation überein und fühlt sie sich in einem Umfeld wohl, in dem es wenig Vorhersage und Kontrolle gibt und mehr Wahrnehmung und Reaktion?
 
