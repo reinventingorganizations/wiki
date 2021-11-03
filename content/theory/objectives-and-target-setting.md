@@ -71,17 +71,17 @@ inPractice: "#### **Das Problem mit den Zielen**
 
   \r
 
-  Im Orange-Erzielungsparadigma sind Ziele und Zielvorgaben die wichtigsten
-  Erfolgsfaktoren. Sie sind der Klebstoff, der die Organisation zusammenhält und
-  ihrer Existenz einen Sinn verleiht. Im Paradigma der Teal-Evolution treiben
-  [Sinn ](../listening-to-purpose/) und [Werte ](..culture-and-values/) die
-  Organisation an. Das Ziel besteht darin, den Sinn der Organisation zum Leben
-  zu erwecken. Es gibt keine formalen Systeme oder Top-down-Prozesse für die
-  Festlegung von Zielen und Vorgaben. Alle Managementfunktionen (Planung,
-  Organisation, Richtungsvorgabe, Investitionen, Budgetierung usw.) werden von
-  den Menschen ausgeführt, die die Arbeit machen. Im Allgemeinen neigen
-  Organisationen der Teal-Evolution dazu, keine Zielsetzungen oder Vorgaben zu
-  machen.
+  Im orangen Zielerreichungsparadigma sind Ziele und Zielvorgaben die
+  wichtigsten Erfolgsfaktoren. Sie sind der Klebstoff, der die Organisation
+  zusammenhält und ihrer Existenz einen Sinn verleiht. Im Paradigma der
+  Teal-Evolution treiben [Sinn ](../listening-to-purpose/) und [Werte
+  ](..culture-and-values/) die Organisation an. Das Ziel besteht darin, den Sinn
+  der Organisation zum Leben zu erwecken. Es gibt keine formalen Systeme oder
+  Top-down-Prozesse für die Festlegung von Zielen und Vorgaben. Alle
+  Managementfunktionen (Planung, Organisation, Richtungsvorgabe, Investitionen,
+  Budgetierung usw.) werden von den Menschen ausgeführt, die die Arbeit machen.
+  Im Allgemeinen neigen Organisationen der Teal-Evolution dazu, keine
+  Zielsetzungen oder Vorgaben zu machen.
 
 
   Aus der Sicht von Teal-Evolution sind Ziele und Vorgaben problematisch:\r
@@ -193,7 +193,7 @@ inPractice: "#### **Das Problem mit den Zielen**
   um das Team am Laufen zu halten."
 faq:
   - question: Wenn keine Verkaufsziele festgelegt werden, woher soll das Unternehmen
-      dann wissen, wie viel es verkaufen muss, um sowohl den Break-even als auch
+      dann wissen, wie viel es verkaufen muss, um sowohl den Break-Even als auch
       die Profitabilität zu erreichen?
     answer: >-
       Finanzinformationen sind für alle zugänglich und alle werden darin
