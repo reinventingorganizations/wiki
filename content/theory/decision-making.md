@@ -46,7 +46,7 @@ perspective: >-
   #### Organisations Vertes
 
 
-  Les [](../paradigme-et-organisations-vertes/)[organisations Vertes](../green-paradigm-and-organizations/), axées sur les valeurs et la raison d'être, s'efforcent de servir de multiples parties prenantes. Les employés en première ligne, par exemple, sont souvent encouragés à prendre des décisions importantes sans l'approbation des échelons supérieurs, dans l'intérêt des clients et de l'ensemble des parties prenantes. Ils sont en contact avec les problèmes quotidiens et on leur fait confiance pour trouver de meilleures solutions que les "experts" qui peuvent être éloignés. L'accent est mis sur le maintien d'une culture forte, souvent "familiale". Le consensus est très apprécié.
+  Les [](../paradigme-et-organisations-vertes/)[organisations Vertes](../green-paradigm-and-organizations/), axées sur les valeurs et la raison d'être, s'efforcent d'tre au service de multiples parties prenantes. Par exemple, les employés en première ligne sont souvent encouragés à prendre des décisions importantes sans l'approbation des échelons supérieurs, dans l'intérêt des clients et de l'ensemble des parties prenantes. Ils sont en contact avec les problèmes quotidiens et on leur fait confiance pour trouver de meilleures solutions que les "experts" qui peuvent en être éloignés. L'accent est mis sur le maintien d'une culture forte, souvent "familiale". On accorde beaucoup de valeur au consensus.
 
 
   #### Organisations Opale
