@@ -57,19 +57,19 @@ inPractice: >-
   ### La sollicitation d'avis
 
 
-  Presque toutes les [](../paradigme-sarcelle-et-organisations/)[organisations Opale](../teal-paradigm-and-organizations/) utilisent, sous une forme ou une autre, ce qu'un praticien précoce ([AES](http://www.aes.com/)) a appelé la "sollicitation d'avis". 
+  Presque toutes les [](../paradigme-sarcelle-et-organisations/)[organisations Opale](../teal-paradigm-and-organizations/) utilisent, sous une forme ou une autre, ce qu'un précurseur ([AES](http://www.aes.com/)) a appelé la "sollicitation d'avis". 
 
 
-  Ce processus se présente sous de nombreuses formes, mais son essence est cohérente : toute personne peut prendre une décision après avoir demandé conseil 1) à toutes les personnes qui seront touchées de manière significative, et 2) aux personnes compétentes en la matière.
+  Ce processus se présente sous de nombreuses formes, mais ce qui en fait l'essentiel est constant : toute personne peut prendre une décision après avoir demandé conseil 1) à toutes les personnes qui seront impactées de manière significative, et 2) aux personnes compétentes en la matière.
 
 
-  Les conseils reçus doivent être pris en considération. Il ne s'agit pas de créer un compromis édulcoré qui répond aux souhaits de chacun. Il s'agit d'accéder à la sagesse collective en vue d'une décision judicieuse. Compte tenu de tous les conseils et de toutes les perspectives qu'il a reçus, le décideur choisit ce qu'il estime être la meilleure ligne de conduite.
+  Les conseils reçus doivent être pris en considération. Il ne s'agit pas de créer un compromis édulcoré qui répond aux souhaits de chacun. Il s'agit d'accéder à la sagesse collective en vue d'une décision pertinente. Compte tenu de tous les conseils et de tous les points de vue qu'il a reçus, la personne qui décide choisit ce qu'elle estime être la meilleure ligne de conduite.
 
 
-  Un conseil est simplement un conseil. Aucun collègue, quelle que soit son importance, ne peut dire au décideur ce qu'il doit décider. En général, le décideur est la personne qui a remarqué le problème en premier, ou la personne la plus touchée par celui-ci. 
+  Un conseil est simplement un conseil. Aucun collègue, quelle que soit son importance, ne peut dire à la personne qui décide ce qu'elle doit décider. En général, la personne qui décide est celle qui a remarqué le problème en premier, ou la personne la plus impactée par celui-ci. 
 
 
-  Dans la pratique, ce processus s'avère remarquablement efficace. Il permet à quiconque de prendre l'initiative. Le pouvoir n'est plus un jeu à somme nulle. Tout le monde a du pouvoir grâce à la sollicitation d'avis.
+  Dans la pratique, ce processus s'avère remarquablement efficace. Il permet à quiconque de prendre l'initiative. Le pouvoir n'est plus un jeu à somme nulle. Tout le monde détient du pouvoir grâce à la sollicitation d'avis.
 
 
   #### Ce n'est pas du consensus
