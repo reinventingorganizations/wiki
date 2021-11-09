@@ -93,12 +93,12 @@ inPractice: >-
   #### Les avantages de la sollicitation d'avis
 
 
-  La sollicitation d'avis permet à l'auto-organisation de prospérer. Dennis Bakke, qui a introduit cette pratique à l'AES (et qui a écrit deux livres à ce sujet), souligne certains avantages importants : création d'une communauté, humilité, apprentissage, meilleures décisions et plaisir.
+  La sollicitation d'avis permet à l'autogouvernance de prospérer. Dennis Bakke, qui a introduit cette pratique chez AES (et qui a écrit deux livres à ce sujet), souligne certains avantages importants : création d'une communauté, humilité, apprentissage, meilleures décisions et plaisir.
 
 
-  * **Communauté** : elle attire les personnes dont l'avis est sollicité sur la question à traiter. Ils apprennent à connaître le problème. Le partage d'informations renforce le sentiment de communauté. La personne dont l'avis est demandé se sent honorée et utile.
+  * **Communauté** : la sollicitation d'avis attire l'attention des personnes sollicitée sur la question à traiter. Ils prennent connaissance de la problématique. Le partage d'informations renforce le sentiment de communauté. La personne dont l'avis est demandé se sent gratifiée et utile.
 
-  * **Humilité** : demander conseil est un acte d'humilité, qui est l'une des caractéristiques les plus importantes d'un lieu de travail agréable. Cet acte dit à lui seul : "J'ai besoin de toi". Le décideur et le conseiller sont amenés à entretenir une relation plus étroite. Cela rend presque impossible pour le décideur d'ignorer le conseil.
+  * **Humilité** : demander conseil est un acte d'humilité, qui est l'une des caractéristiques les plus importantes d'un lieu de travail agréable. Cet acte dit à lui seul : "J'ai besoin de toi".  La personne qui décide et la personne qui est cons sont amenés à entretenir une relation plus étroite. Cela rend presque impossible pour le décideur d'ignorer le conseil.
 
   * **Apprentissage** : la prise de décision est une formation sur le tas. Les conseils proviennent de personnes qui comprennent la situation et se soucient du résultat. Aucune autre forme d'éducation ou de formation ne peut égaler cette expérience en temps réel.
 
