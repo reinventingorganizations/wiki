@@ -98,13 +98,13 @@ inPractice: >-
 
   * **Communauté** : la sollicitation d'avis attire l'attention des personnes sollicitée sur la question à traiter. Ils prennent connaissance de la problématique. Le partage d'informations renforce le sentiment de communauté. La personne dont l'avis est demandé se sent gratifiée et utile.
 
-  * **Humilité** : demander conseil est un acte d'humilité, qui est l'une des caractéristiques les plus importantes d'un lieu de travail agréable. Cet acte dit à lui seul : "J'ai besoin de toi".  La personne qui décide et la personne qui est cons sont amenés à entretenir une relation plus étroite. Cela rend presque impossible pour le décideur d'ignorer le conseil.
+  * **Humilité** : demander conseil est un acte d'humilité, qui est l'une des caractéristiques les plus importantes d'un lieu de travail agréable. Cet acte dit à lui seul : "J'ai besoin de toi".  La personne qui décide et la personne qui est consultée sont amenées à entretenir une relation plus étroite. Cela rend presque impossible pour le décideur d'ignorer le conseil.
 
-  * **Apprentissage** : la prise de décision est une formation sur le tas. Les conseils proviennent de personnes qui comprennent la situation et se soucient du résultat. Aucune autre forme d'éducation ou de formation ne peut égaler cette expérience en temps réel.
+  * **Apprentissage** : la prise de décision par sollicitation d'avis est une formation sur le tas. Les conseils proviennent de personnes qui comprennent la situation et se soucient du résultat. Aucune autre forme d'éducation ou de formation ne peut égaler cette expérience en temps réel.
 
-  * **Meilleures décisions** : les chances de parvenir à la meilleure décision sont plus grandes que dans les approches hiérarchiques classiques. Le décideur a l'avantage d'être plus proche du problème et doit assumer la responsabilité des conséquences de sa décision. Les conseils apportent une contribution diversifiée, permettant de découvrir des questions importantes et de nouvelles perspectives.
+  * **Meilleures décisions** : les chances de parvenir à la meilleure décision sont meilleures que dans les approches hiérarchiques classiques. La personne qui décide a l'avantage d'être plus proche du problème et doit assumer la responsabilité des conséquences de sa décision. Les conseils reçus apportent une contribution diversifiée et soulèvent ainsi des questions importantes et des perspectives nouvelles.
 
-  * **Fun** : le processus est tout simplement amusant pour le décideur, car il reflète la joie que l'on trouve dans la pratique de sports d'équipe. Le processus de conseil stimule l'initiative et la créativité, qui sont renforcées par la sagesse de personnes bien informées ailleurs dans l'organisation.
+  * **Fun** : le processus est tout simplement amusant pour le décideur, car il reflète la joie que l'on trouve dans la pratique de sports d'équipe. La sollicitation d'avis stimule l'initiative et la créativité; cette dynamique est renforcée par les apports experts d'autres personnes dans l'organisation.
 
 
   #### Les étapes de la sollicitation d'avis
