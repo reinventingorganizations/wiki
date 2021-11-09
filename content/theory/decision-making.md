@@ -75,22 +75,19 @@ inPractice: >-
   #### Ce n'est pas du consensus
 
 
-  Nous imaginons souvent que les décisions ne peuvent être prises que de deux façons : soit par la personne ayant l'autorité (quelqu'un prend les décisions ; certaines personnes peuvent être frustrées ; mais au moins les choses se font), soit par accord unanime (tout le monde a son mot à dire, mais cela peut être frustrant et lent).
+  Nous imaginons souvent que les décisions peuvent être prises de deux façons : soit par la personne ayant l'autorité (quelqu'un fait la loi ; certaines personnes peuvent être frustrées ; mais au moins les choses avancent), soit par accord unanime (tout le monde a son mot à dire, mais cela peut être lent et donc frustrant).
 
 
-  C'est un malentendu de croire que les décisions d'autogestion sont prises en mettant tout le monde d'accord, ou même en impliquant tout le monde dans la décision. Le solliciteur d'avis doit prendre en considération tous les avis pertinents, mais il peut quand même prendre la décision. 
+  C'est un malentendu de croire qu'en autogouvernance, les décision sont prises en mettant tout le monde d'accord, ou même en impliquant tout le monde dans la décision. La personne qui lance une sollicitation d'avis doit prendre en considération tous les avis pertinents, mais c'est lui qui reste compétent pour prendre la décision. 
 
 
-  Le consensus peut sembler séduisant, mais il n'est pas toujours plus efficace de donner à chacun un droit de veto. Dans la sollicitation d'avis, le pouvoir et la responsabilité incombent au décideur. Par conséquent, **il n'y a pas de pouvoir de blocage**.
+  Le consensus peut sembler séduisant, mais donner à chacun un droit de veto ne rend pas forcément les choses plus efficaces. Avec la sollicitation d'avis, le pouvoir et la responsabilité incombent à la personne qui décide. Par conséquent, personne ne détient le pouvoir de bloquer des décisions.
 
 
-  Consensus may sound appealing, but it's not always most effective to give everybody veto power. In the advice process, power and responsibility rest with the decision-maker. Ergo, **there is no power to block**.
+  La résolution du problème reste clairement entre les mains d'une seule personne : la personne qui décide. Convaincue d'avoir pris la meilleure décision possible, elle est en capacité de la mener à bien avec enthousiasme et d'assumer sa responsabilité en cas d'erreur.
 
 
-  La question reste clairement entre les mains d'une seule personne : le décideur. Convaincue d'avoir pris la meilleure décision possible, elle peut aller jusqu'au bout avec enthousiasme et accepter la responsabilité de toute erreur.
-
-
-  La sollicitation d'avis transcende donc à la fois la prise de décision hiérarchisée *et* celle basée sur le consensus.
+  La sollicitation d'avis transcende donc à la fois la prise de décision hiérarchique *et* celle basée sur le consensus.
 
 
   #### Les avantages de la sollicitation d'avis
