@@ -113,33 +113,33 @@ inPractice: >-
   La sollicitation d'avis comporte un certain nombre d'étapes :
 
 
-  * Quelqu'un remarque un problème ou une opportunité et prend l'initiative, ou alerte quelqu'un de mieux placé pour le faire.
+  * Quelqu'un remarque un problème ou une opportunité, et prend une initiative ou alerte quelqu'un de mieux placé pour le faire.
 
-  * Avant de faire une proposition, le décideur peut demander des informations pour sonder les points de vue avant de proposer une action. 
+  * Avant de faire une proposition, la personne qui décide peut demander des informations et sonder les points de vue avant de proposer une action. 
 
-  * L'initiateur fait une proposition et demande l'avis des personnes concernées ou de celles qui ont une expertise. 
+  * Elle fait une proposition et demande l'avis des personnes impactées ou de celles qui ont une expertise. 
 
-  * En tenant compte de ces conseils, le décideur décide d'une action et informe ceux qui ont donné des conseils.
+  * En tenant compte de ces conseils, elle décide de mener une action et informe ceux qui ont donné des conseils.
 
 
   #### Les formes que la sollicitation d'avis peut prendre
 
 
-  Étant donné que la sollicitation d'avis implique de prendre l'avis des personnes concernées par une décision, il s'ensuit naturellement que plus la décision est importante, plus il faut ratisser large - y compris, si ces rôles existent, le PDG ou le conseil d'administration.
+  Étant donné que la sollicitation d'avis implique de demander l'avis des personnes impactées par une décision, il s'ensuit naturellement que, plus la décision est importante, plus il faut ratisser large - y compris, si ces rôles existent, le PDG ou le conseil d'administration.
 
 
-  Pour les décisions mineures, il n'est peut-être pas nécessaire de demander conseil. Pour les décisions plus importantes, les conseils peuvent provenir de divers canaux, notamment de conversations individuelles, de réunions ou de communications en ligne. 
+  Pour les décisions mineures, il n'est peut-être pas nécessaire de demander conseil. Pour les décisions plus importantes, les conseils peuvent tre sollicités à travers divers canaux, comme des conversations individuelles, des réunions ou des communications en ligne. 
 
 
-  Certaines organisations ont des types de réunions spécifiques pour soutenir la sollicitation d'avis, ou suivent des méthodes formelles. (Voir Buurtzorg et Holacracy ci-dessous). Certaines organisations choisissent d'avoir des cercles composés de collègues représentatifs qui appliquent la sollicitation d'avis au nom de l'ensemble de l'organisation.
+  Certaines organisations ont des types de réunions spécifiques pour soutenir la sollicitation d'avis, ou suivent des méthodes formelles. (Voir Buurtzorg et Holacracy ci-dessous). D'autres choisissent d'avoir des cercles composés de collègues représentatifs qui appliquent la sollicitation d'avis au nom de l'ensemble de l'organisation.
 
 
   Lorsque les décisions concernent un grand nombre de personnes, ou des personnes qui ne peuvent pas se rencontrer physiquement, le processus peut se dérouler via Internet.
 
 
-  * Le décideur peut publier une proposition sur le blog de l'entreprise et demander des commentaires ou inviter des réponses par courrier électronique, puis traiter les avis reçus.
+  * La personne qui émet la sollicitation d'avis peut publier une proposition sur le blog de l'entreprise et inviter à des commentaires, ou demander des réponses par courriel, et ensuite traiter les avis reçus.
 
-  * L'organisation peut utiliser un logiciel de prise de décision comme [Loomio](https://www.loomio.org/), un outil gratuit et open-source. La procédure d'utilisation du processus d'avis sur [Loomio](https://www.loomio.org/) : lancer une discussion pour cadrer le sujet et recueillir des contributions, accueillir une proposition afin que toutes les personnes concernées par la question puissent exprimer leur position, puis le décideur final précise le résultat (en informant automatiquement l'ensemble du groupe).
+  * L'organisation peut utiliser un logiciel de prise de décision comme [Loomio](https://www.loomio.org/), un outil gratuit et open-source. Voici comment on utilise la sollicitation d'avis sur [Loomio](https://www.loomio.org/) : lancer une discussion pour cadrer le sujet et recueillir des contributions, poster une proposition afin que toutes les personnes concernées par la question puissent exprimer leur position, puis le décideur final précise le résultat retenu (en informant automatiquement l'ensemble du groupe).
 
 
   #### État d'esprit nécessaire et formation
