@@ -142,10 +142,13 @@ inPractice: >-
   * L'organisation peut utiliser un logiciel de prise de décision comme [Loomio](https://www.loomio.org/), un outil gratuit et open-source. Voici comment on utilise la sollicitation d'avis sur [Loomio](https://www.loomio.org/) : lancer une discussion pour cadrer le sujet et recueillir des contributions, poster une proposition afin que toutes les personnes concernées par la question puissent exprimer leur position, puis le décideur final précise le résultat retenu (en informant automatiquement l'ensemble du groupe).
 
 
+  [Equal Experts](https://www.equalexperts.com), un réseau de consultants informatiques basé au Royaume-Uni et spécialisé dans **la distribution agile**, a écrit un livre blanc en opensource sur son expérience de la mise en place de l'advice process IRL (cette organisation compte environ 1100 membres en 2021). Ce document est disponible ici : <https://advice-process.playbook.ee>
+
+
   #### État d'esprit nécessaire et formation
 
 
-  La sollicitation d'avis est un outil d'aide à la décision par l'intelligence collective. Beaucoup dépend de l'esprit dans lequel les gens l'abordent. Lorsque la sollicitation d'avis est introduite, il peut être utile de former les collègues non seulement aux mécanismes, mais aussi à l'état d'esprit qui en sous-tend une utilisation efficace.
+  La sollicitation d'avis est un outil d'aide à la décision par l'intelligence collective. Son bon fonctionnement dépend beaucoup de l'esprit dans lequel les gens l'abordent. Lorsque la sollicitation d'avis est mise en place, il peut être utile de former les collègues, non seulement aux mécanismes, mais aussi à l'état d'esprit qui en sous-tend une utilisation efficace.
 
 
   La sollicitation d'avis peut se dérouler de plusieurs manières, en fonction de l'état d'esprit dans lequel les personnes l'abordent :
@@ -161,20 +164,17 @@ inPractice: >-
   #### Donner l'exemple
 
 
-  Lorsque la sollicitation d'avis est introduite pour la première fois, le fondateur et/ou le PDG doivent servir de modèle. Le pouvoir est initialement détenu par les dirigeants de l'organisation, et il n'est pas distribué par magie - [la distribution réussie du leadership exige un effort attentif et proactif](https://medium.com/enspiral-tales/how-to-grow-distributed-leadership-7f6b25f0361c). En servant de modèle, les autres s'inspireront de leur comportement.  
+  Lorsque la sollicitation d'avis est mise en place au tout début, le fondateur et/ou le PDG doivent donner l'exemple. Le pouvoir est initialement détenu par les dirigeants de l'organisation, et il n'est pas distribué par magie - [la distribution réussie du leadership exige un effort attentif et proactif](https://medium.com/enspiral-tales/how-to-grow-distributed-leadership-7f6b25f0361c). En servant de modèle, les autres s'inspireront de leur comportement.  
 
 
   **Donner l'exemple** peut prendre plusieurs formes : 
 
 
-  **Role modeling can take several forms:** 
-
-
   * Lorsque vous voulez prendre une décision, faites une pause et demandez-vous : suis-je la meilleure personne pour prendre cette décision ? (C'est-à-dire, la personne la plus étroitement liée à la décision, ou la personne ayant le plus d'énergie, de compétences et d'expérience pour la prendre). Si ce n'est pas le cas, demandez à la personne que vous pensez être la mieux placée de prendre l'initiative. Si elle ne veut pas le faire, vous êtes peut-être la mieux placée après tout.
 
-  * Si vous êtes la personne la mieux placée pour prendre une décision, identifiez les personnes auprès desquelles vous devriez demander conseil. Approchez-les et expliquez-leur ce que vous faites. ("Je suis en train d'appliquer la sollicitation d'avis. Voici une opportunité que je vois. Voici la décision que je me propose de prendre. Pouvez-vous me donner votre avis ?"). Vous pouvez également indiquer à qui d'autre vous demandez conseil. Une fois que vous avez reçu des conseils et pris votre décision, informez les personnes que vous avez consultées (et toute autre personne qui devrait être au courant).
+  * Si vous êtes la personne la mieux placée pour prendre une décision, identifiez les personnes auprès desquelles vous devriez demander conseil. Approchez-les et expliquez-leur ce que vous faites. ("Je suis en train d'appliquer la sollicitation d'avis. Voici une opportunité que je vois. Voici la décision que je me propose de prendre. Pouvez-vous me donner votre avis ?"). Vous pouvez également leur indiquer à qui d'autre vous demandez conseil. Une fois que vous avez reçu des conseils et pris votre décision, informez les personnes que vous avez consultées (et toute autre personne qui devrait être au courant).
 
-  * Lorsque des collègues vous demandent de prendre une décision ("Que dois-je faire ?"), demandez-leur plutôt "Quelle est la décision que vous proposez ?". Dans le même ordre d'idées, indiquez clairement que vous ne donnez plus votre approbation pour les décisions. Au lieu de cela, donnez votre avis et suggérez des personnes à qui demander. Rappelez-leur que la décision leur appartient.
+  * Lorsque des collègues vous demandent de prendre une décision ("Que dois-je faire ?"), demandez-leur plutôt "Quelle serait la décision que vous proposeriez ?". Dans le même ordre d'idées, indiquez leur clairement que vous ne donnez plus de validation pour les décisions. Au lieu de cela, partagez votre avis et suggérez leur d'autres personnes à qui s'adresser. Rappelez-leur que la décision leur appartient.
 
 
   Pour de nombreux dirigeants, il est difficile de désapprendre l'habitude de prendre toutes les décisions. Cela demande de l'engagement et de la vigilance. Si vous vous retrouvez dans l'ancien schéma, saisissez l'occasion de reconnaître votre erreur et de réaffirmer l'importance du processus. Cela peut transformer une erreur en un puissant moment d'apprentissage. Les meilleures habitudes se forment par la pratique répétée.
