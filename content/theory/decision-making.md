@@ -8,21 +8,22 @@ category: Daily practices
 intro: >-
   Le thème de la prise de décision traite de la manière dont les décisions sont
   prises au sein des organisations, et par qui. Dans les organisations Opale, le
-  pouvoir de décision est vraiment réparti dans l'ensemble de l'organisation.
+  pouvoir de décision est factuellement réparti dans l'ensemble de
+  l'organisation.
 
 
   ![](/media/decision.jpg)
 perspective: >-
   Dans les [](../paradigme-sarcelles-et-organisations/)[organisations
   Opale](../teal-paradigm-and-organizations/), la prise de décision est
-  distribuée à un haut degré. Les individus ou les équipes sur le terrain ont la
-  possibilité de prendre des décisions qui affectent leur travail. Même si ces
-  décisions n'ont pas besoin d'être validées par une hiérarchie ou un consensus,
-  il est attendu  d'eux qu'ils impliquent des experts et les personnes
+  distribuée à un haut niveau. Les individus ou les équipes sur le terrain ont
+  la possibilité de prendre les décisions qui impactent leur travail. Même si
+  ces décisions n'ont pas besoin d'être validées par une hiérarchie ou un
+  consensus, il est attendu d'eux qu'ils impliquent des experts et les personnes
   concernées.
 
 
-  Au cours de l'histoire chaque stade d'évolution humaine a donné naissance à une nouvelle vision sur la prise de décision et à des pratiques très différentes. Dans les périodes antérieures, les décisions étaient prises au sommet de la hiérarchie. Aujourd'hui, certaines organisations tentent consciemment de "donner du pouvoir" aux personnes de la base.
+  Au cours de l'histoire chaque stade d'évolution humaine a donné naissance à une nouvelle vision sur la prise de décision et à des pratiques très différentes. Dans les périodes antérieures, les décisions étaient prises au sommet de la hiérarchie. Aujourd'hui, certaines organisations tentent consciemment de "redonner du pouvoir" aux personnes de la base.
 
 
   #### Organisations Rouges
