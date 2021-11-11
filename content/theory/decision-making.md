@@ -132,10 +132,10 @@ inPractice: >-
   Pour les décisions mineures, il n'est peut-être pas nécessaire de demander conseil. Pour les décisions plus importantes, les conseils peuvent tre sollicités à travers divers canaux, comme des conversations individuelles, des réunions ou des communications en ligne. 
 
 
-  Certaines organisations ont des types de réunions spécifiques pour soutenir la sollicitation d'avis, ou suivent des méthodes formelles. (Voir Buurtzorg et Holacracy ci-dessous). D'autres choisissent d'avoir des cercles composés de collègues représentatifs qui appliquent la sollicitation d'avis au nom de l'ensemble de l'organisation.
+  Certaines organisations ont mis en place des réunions spécifiques pour soutenir la sollicitation d'avis, ou suivent des méthodes formelles. (Voir Buurtzorg et Holacracy ci-dessous). D'autres choisissent d'avoir des cercles composés de collègues représentatifs qui appliquent la sollicitation d'avis au nom de l'ensemble de l'organisation.
 
 
-  Lorsque les décisions concernent un grand nombre de personnes, ou des personnes qui ne peuvent pas se rencontrer physiquement, le processus peut se dérouler via Internet.
+  Lorsque les décisions concernent un grand nombre de personnes, ou des personnes qui ne peuvent pas se rencontrer physiquement, le processus peut se dérouler via Internet :
 
 
   * La personne qui émet la sollicitation d'avis peut publier une proposition sur le blog de l'entreprise et inviter à des commentaires, ou demander des réponses par courriel, et ensuite traiter les avis reçus.
@@ -143,7 +143,7 @@ inPractice: >-
   * L'organisation peut utiliser un logiciel de prise de décision comme [Loomio](https://www.loomio.org/), un outil gratuit et open-source. Voici comment on utilise la sollicitation d'avis sur [Loomio](https://www.loomio.org/) : lancer une discussion pour cadrer le sujet et recueillir des contributions, poster une proposition afin que toutes les personnes concernées par la question puissent exprimer leur position, puis le décideur final précise le résultat retenu (en informant automatiquement l'ensemble du groupe).
 
 
-  [Equal Experts](https://www.equalexperts.com), un réseau de consultants informatiques basé au Royaume-Uni et spécialisé dans **la distribution agile**, a écrit un livre blanc en opensource sur son expérience de la mise en place de l'advice process IRL (cette organisation compte environ 1100 membres en 2021). Ce document est disponible ici : <https://advice-process.playbook.ee>
+  [Equal Experts](https://www.equalexperts.com), un réseau de consultants informatiques basé au Royaume-Uni et spécialisé dans **la distribution agile**, a écrit un livre blanc en opensource sur son expérience de la mise en place de la sollicitation d'avis (cette organisation compte environ 1100 membres en 2021). Ce document est disponible ici : <https://advice-process.playbook.ee>
 
 
   #### État d'esprit nécessaire et formation
@@ -220,7 +220,7 @@ inPractice: >-
 
   * **Intuition** : La sagesse peut également être trouvée dans l'intuition. L'intuition rend hommage à la nature ambiguë, paradoxale et non linéaire de la réalité. Nous faisons des connexions inconscientes que notre esprit rationnel ne peut pas faire. De nombreux grands esprits, comme Einstein, vouent un profond respect à l'intuition. Ils affirment que c'est un muscle qui peut être entraîné. Apprendre à prêter attention aux intuitions, à les interroger pour obtenir des conseils, permet aux réponses intuitives de faire surface.
 
-  * **Pensée paradoxale** : Une des percées du paradigme Opale est la capacité de vivre avec le paradoxe; de passer de la pensée "soit l'un, soit l'autre", à  "l'un et l'autre". Le mouvement "inspirer et expirer" illustre cette différence : la pensée "ou bien" les voit comme des opposés. La pensée "l'un et l'autre" considère qu'ils ont besoin l'un de l'autre. Plus nous pouvons inspirer, plus nous pouvons expirer. L'un de ces paradoxes est la sollicitation d'avis : il s'agit d'un processus décisionnel qui encourage à la fois l'initiative individuelle et la voix du collectif. C'est l'un et l'autre.
+  * **Pensée paradoxale** : Une des percées du paradigme Opale est la capacité de vivre avec le paradoxe; de passer de la pensée "soit l'un, soit l'autre", à  "l'un et l'autre". Le mouvement "inspirer et expirer" illustre cette différence : la pensée "ou bien" les voit comme des opposés. La pensée "l'un et l'autre" considère qu'ils ont besoin l'un de l'autre. Plus nous pouvons inspirer, plus nous pouvons expirer. La sollicitation d'avis fait partie de ce paradoxe : il s'agit d'un processus décisionnel qui encourage à la fois l'initiative individuelle et la voix du collectif. C'est l'un *et* l'autre.
 
 
   #### Pour aller plus loin
