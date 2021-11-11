@@ -25,28 +25,32 @@ theory:
       ökologischen Zweck. Der Vorstand ist verpflichtet, diese nichtfinanziellen
       Interessen zu schützen."
   - topic: sales-marketing
-    title: Marketing as “Don’t Buy Our Product”?!
-    content: "Where most brands use marketing to convert prospects into customers,
-      [Patagonia ](https://eu.patagonia.com/fr/fr/home/)wants to turn customers
-      into activists. Patagonia is famous for having run full-page ads reading,
-      “Don’t buy this jacket.” The ads were part of its “Common Threads
-      Partnership.” Patagonia reckons that many of us in the developed world
-      have enough clothes in our closets to keep us warm for a lifetime. And yet
-      we keep buying new clothes, which are environmentally harmful to produce
-      and will end up in a landfill. The Common Threads Partnership takes a
-      serious stab at reducing (making clothes that last longer), repairing
-      (Patagonia repairs clothes for its customers), reusing (the company
-      resells your used clothes on eBay or in their stores’ Worn Wear section),
-      and recycling (you can return your old clothes to Patagonia and they
-      recycle them). Will this initiative harm Patagonia’s growth in the short
-      term? Yes. Every repaired and every reused jacket is one less jacket
-      bought. Will it increase its growth in the long term, through higher
-      customer loyalty? Perhaps. But Patagonia’s decision wasn’t driven by
-      forecasts and financials. The company chose the path its purpose called
-      for. For more on Patagonia’s marketing approach see, [The Purpose-Driven
-      Marketer: How Patagonia Uses Storytelling To Turn Consumers Into
-      Activists.](https://www.fastcompany.com/3038557/the-purpose-driven-market\
-      er-how-patagonia-uses-storytelling-to-turn-consume)"
+    title: Marketing als "Kaufen Sie unser Produkt nicht"?
+    content: 'Während die meisten Marken Marketing einsetzen, um Interessenten in
+      Kunden zu verwandeln, will [Patagonia
+      ](https://eu.patagonia.com/fr/fr/home/) Kunden in Aktivisten verwandeln.
+      Patagonia ist dafür bekannt, dass es ganzseitige Anzeigen mit der
+      Aufschrift "Kaufen Sie diese Jacke nicht" geschaltet hat. Die Anzeigen
+      waren Teil der "Common Threads Partnership". Patagonia geht davon aus,
+      dass viele von uns in den Industrieländern genug Kleidung in ihren
+      Schränken haben, um uns ein Leben lang warm zu halten. Und doch kaufen wir
+      immer wieder neue Kleidung, deren Herstellung umweltschädlich ist und die
+      auf einer Mülldeponie landet. Die Common Threads Partnership setzt sich
+      ernsthaft für die Reduzierung (Herstellung von Kleidung, die länger hält),
+      die Reparatur (Patagonia repariert Kleidung für seine Kunden), die
+      Wiederverwendung (das Unternehmen verkauft Ihre gebrauchte Kleidung auf
+      eBay oder in der Abteilung für getragene Kleidung in seinen Geschäften
+      weiter) und das Recycling (Sie können Ihre alte Kleidung an Patagonia
+      zurückgeben und sie wird recycelt) ein. Wird diese Initiative dem Wachstum
+      von Patagonia auf kurze Sicht schaden? Ja. Jede reparierte und jede
+      wiederverwendete Jacke ist eine weniger gekaufte Jacke. Wird sie
+      langfristig das Wachstum des Unternehmens durch eine höhere Kundentreue
+      steigern? Vielleicht. Aber die Entscheidung von Patagonia wurde nicht von
+      Prognosen und Finanzdaten bestimmt. Das Unternehmen wählte den Weg, den
+      seine Ziele erforderten. Weitere Informationen über den Marketingansatz
+      von Patagonia finden Sie in [The Purpose-Driven Marketer: How Patagonia
+      Uses Storytelling To Turn Consumers Into Activists]
+      (https://www.fastcompany.com/3038557/the-purpose-driven-marketer-how-patagonia-uses-storytelling-to-turn-consume)'
   - topic: Information Flow
     title: Extend information flow throughout the market, incorporating suppliers
       and customers
