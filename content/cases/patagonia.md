@@ -117,21 +117,23 @@ theory:
       Verantwortlichkeit"
       erfüllen^[<https://www.bcorporation.net/what-are-b-corps/about-b-lab>].
   - topic: wholeness
-    title: Children in Meetings
-    content: "At its headquarters in Ventura, California, Patagonia hosts a Child
-      Development Center for employees’ children, from a few months up to
-      kindergarten age. Children’s laughter and chatter are among the regular
-      sounds at the office, coming from the playground outside, from children
-      visiting their parents’ desks, or from kids joining parents and colleagues
-      for lunch at the cafeteria. It is not uncommon to see a mother nursing her
-      child during a meeting. Relationships change subtly but profoundly when
-      people see each other not only as colleagues, but also as people capable
-      of the profound love and care young children inspire. When colleagues have
-      just played with a baby over lunch, it’s that much harder to fly at each
-      other’s throats when they sit in a meeting.^[Laloux, Frederic
-      (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations
-      Inspired by the Next Stage of Human Consciousness (Kindle Locations
-      3191-3196). Nelson Parker. Kindle Edition.]"
+    title: Kinder in Meetings
+    content: "Am Hauptsitz von Patagonia in Ventura, Kalifornien, gibt es ein Child
+      Development Center für die Kinder der Mitarbeiter im Alter von wenigen
+      Monaten bis zum Kindergartenalter. Kinderlachen und -geplapper gehören zu
+      den regelmäßigen Geräuschen im Büro. Sie kommen vom Spielplatz draußen,
+      von Kindern, die die Schreibtische ihrer Eltern besuchen, oder von
+      Kindern, die mit Eltern und Kollegen in der Cafeteria zu Mittag essen. Es
+      ist nicht ungewöhnlich, eine Mutter zu sehen, die ihr Kind während einer
+      Sitzung stillt. Beziehungen verändern sich subtil, aber tiefgreifend, wenn
+      Menschen einander nicht nur als Kollegen sehen, sondern auch als Menschen,
+      die zu der tiefen Liebe und Fürsorge fähig sind, zu der kleine Kinder
+      inspirieren. Wenn Kollegen in der Mittagspause gerade mit einem Baby
+      gespielt haben, ist es viel schwieriger, sich gegenseitig an die Gurgel zu
+      gehen, wenn sie in einer Besprechung sitzen.^[Übersetzt aus Laloux,
+      Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating
+      Organizations Inspired by the Next Stage of Human Consciousness (Kindle
+      Locations 3191-3196). Nelson Parker. Kindle Edition:]"
   - topic: Evolutionary Purpose
     content: >-
       Yvon Chouinard, the founder and owner of Patagonia, didn’t set out to
