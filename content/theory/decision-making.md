@@ -47,7 +47,7 @@ perspective: >-
   #### Organisations Vertes
 
 
-  Les [](../paradigme-et-organisations-vertes/)[organisations Vertes](../green-paradigm-and-organizations/), axées sur les valeurs et la raison d'être, s'efforcent d'tre au service de multiples parties prenantes. Par exemple, les employés en première ligne sont souvent encouragés à prendre des décisions importantes sans l'approbation des échelons supérieurs, dans l'intérêt des clients et de l'ensemble des parties prenantes. Ils sont en contact avec les problèmes quotidiens et on leur fait confiance pour trouver de meilleures solutions que les "experts" qui peuvent en être éloignés. L'accent est mis sur le maintien d'une culture forte, souvent "familiale". On accorde beaucoup de valeur au consensus.
+  Les [](../paradigme-et-organisations-vertes/)[organisations Vertes](../green-paradigm-and-organizations/), axées sur les valeurs et la raison d'être, s'efforcent d'tre au service des multiples parties prenantes. Par exemple, les employé.e.s en première ligne sont souvent encouragé.e.s à prendre des décisions importantes sans l'approbation des échelons supérieurs, dans l'intérêt des clients et de l'ensemble des parties prenantes. Ils sont en contact avec les problèmes quotidiens et on leur fait confiance pour trouver de meilleures solutions que les "experts" qui peuvent en être éloignés. L'accent est mis sur le maintien d'une culture forte, souvent "familiale". On accorde beaucoup de valeur au consensus.
 
 
   #### Organisations Opale
@@ -64,7 +64,7 @@ inPractice: >-
   Ce processus se présente sous de nombreuses formes, mais ce qui en fait l'essentiel est constant : toute personne peut prendre une décision après avoir demandé conseil 1) à toutes les personnes qui seront impactées de manière significative, et 2) aux personnes compétentes en la matière.
 
 
-  Les conseils reçus doivent être pris en considération. Il ne s'agit pas de créer un compromis édulcoré qui répond aux souhaits de chacun. Il s'agit d'accéder à la sagesse collective en vue d'une décision pertinente. Compte tenu de tous les conseils et de tous les points de vue qu'il a reçus, la personne qui décide choisit ce qu'elle estime être la meilleure ligne de conduite.
+  Les conseils reçus doivent être pris en considération. Il ne s'agit pas de créer un compromis édulcoré qui répond aux souhaits de chacun. Il s'agit d'accéder à la sagesse collective en vue d'une décision pertinente. Compte tenu de tous les conseils et de tous les points de vue qu'elle a reçus, la personne qui décide choisit ce qu'elle estime être la meilleure ligne de conduite.
 
 
   Un conseil est simplement un conseil. Aucun collègue, quelle que soit son importance, ne peut dire à la personne qui décide ce qu'elle doit décider. En général, la personne qui décide est celle qui a remarqué le problème en premier, ou la personne la plus impactée par celui-ci. 
@@ -76,7 +76,7 @@ inPractice: >-
   #### Ce n'est pas du consensus
 
 
-  Nous imaginons souvent que les décisions peuvent être prises de deux façons : soit par la personne ayant l'autorité (quelqu'un fait la loi ; certaines personnes peuvent être frustrées ; mais au moins les choses avancent), soit par accord unanime (tout le monde a son mot à dire, mais cela peut être lent et donc frustrant).
+  Nous imaginons souvent que les décisions peuvent être prises de deux façons : soit par la personne ayant l'autorité (quelqu'un qui fait la loi ; certaines personnes peuvent être frustrées ; mais au moins les choses avancent), soit par accord unanime (tout le monde a son mot à dire, mais cela peut être lent et donc frustrant).
 
 
   C'est un malentendu de croire qu'en autogouvernance, les décision sont prises en mettant tout le monde d'accord, ou même en impliquant tout le monde dans la décision. La personne qui lance une sollicitation d'avis doit prendre en considération tous les avis pertinents, mais c'est lui qui reste compétent pour prendre la décision. 
@@ -99,13 +99,13 @@ inPractice: >-
 
   * **Communauté** : la sollicitation d'avis attire l'attention des personnes sollicitée sur la question à traiter. Ils prennent connaissance de la problématique. Le partage d'informations renforce le sentiment de communauté. La personne dont l'avis est demandé se sent gratifiée et utile.
 
-  * **Humilité** : demander conseil est un acte d'humilité, qui est l'une des caractéristiques les plus importantes d'un lieu de travail agréable. Cet acte dit à lui seul : "J'ai besoin de toi".  La personne qui décide et la personne qui est consultée sont amenées à entretenir une relation plus étroite. Cela rend presque impossible pour le décideur d'ignorer le conseil.
+  * **Humilité** : demander conseil est un acte d'humilité, qui est l'une des caractéristiques les plus importantes d'un lieu de travail agréable. Cet acte dit à lui seul : "J'ai besoin de toi". La personne qui décide et la personne qui est consultée sont amenées à entretenir une relation plus étroite. Cela rend presque impossible pour le décideur d'ignorer le conseil.
 
-  * **Apprentissage** : la prise de décision par sollicitation d'avis est une formation sur le tas. Les conseils proviennent de personnes qui comprennent la situation et se soucient du résultat. Aucune autre forme d'éducation ou de formation ne peut égaler cette expérience en temps réel.
+  * **Apprentissage** : la prise de décision par sollicitation d'avis sert de formation sur le tas. Les conseils proviennent de personnes qui comprennent la situation et se soucient du résultat. Aucune autre forme d'éducation ou de formation ne peut égaler cette expérience en temps réel.
 
   * **Meilleures décisions** : les chances de parvenir à la meilleure décision sont meilleures que dans les approches hiérarchiques classiques. La personne qui décide a l'avantage d'être plus proche du problème et doit assumer la responsabilité des conséquences de sa décision. Les conseils reçus apportent une contribution diversifiée et soulèvent ainsi des questions importantes et des perspectives nouvelles.
 
-  * **Fun** : le processus est tout simplement amusant pour le décideur, car il reflète la joie que l'on trouve dans la pratique de sports d'équipe. La sollicitation d'avis stimule l'initiative et la créativité; cette dynamique est renforcée par les apports experts d'autres personnes dans l'organisation.
+  * **Fun** : le processus est tout simplement amusant pour le décideur, car il reflète la joie que l'on trouve dans la pratique des sports d'équipe. La sollicitation d'avis stimule l'initiative et la créativité; cette dynamique est renforcée par les apports experts d'autres personnes dans l'organisation.
 
 
   #### Les étapes de la sollicitation d'avis
@@ -120,7 +120,7 @@ inPractice: >-
 
   * Elle fait une proposition et demande l'avis des personnes impactées ou de celles qui ont une expertise. 
 
-  * En tenant compte de ces conseils, elle décide de mener une action et informe ceux qui ont donné des conseils.
+  * En tenant compte de ces conseils, elle décide de mener une action et en informe ceux qui ont donné des conseils.
 
 
   #### Les formes que la sollicitation d'avis peut prendre
