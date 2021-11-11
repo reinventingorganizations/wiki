@@ -4,13 +4,14 @@ tags: cases
 name: Patagonia
 date: 2020-11-17T14:59:20.385Z
 introduction: >-
-  **Patagonia, Inc.** is an American clothing company that markets and sells
-  outdoor clothing. The company was founded by Yvon Chouinard in 1973 and is
-  based in Ventura, California.Its logo is the outline of Mount Fitz Roy, the
-  border between Chile and Argentina, in the region of Patagonia.
+  **Patagonia, Inc.** ist ein amerikanisches Bekleidungsunternehmen, das
+  Outdoor-Bekleidung vermarktet und verkauft. Das Unternehmen wurde 1973 von
+  Yvon Chouinard gegründet und hat seinen Sitz in Ventura, Kalifornien. Sein
+  Logo ist der Umriss des Mount Fitz Roy, der Grenze zwischen Chile und
+  Argentinien, in der Region Patagonien.
 
 
-  *This is how Patagonia speaks out about its purpose: "We at **Patagonia** know that all life on earth is threatened with extinction. We make it our goal to use all our resources to do something about it: our company, our investments, our voice and our imagination." ^\[test]*
+  *So äußert sich Patagonia über seine Ziele: "Wir bei **Patagonia** wissen, dass alles Leben auf der Erde vom Aussterben bedroht ist. Wir haben es uns zum Ziel gesetzt, alle unsere Ressourcen zu nutzen, um etwas dagegen zu tun: unser Unternehmen, unsere Investitionen, unsere Stimme und unsere Vorstellungskraft." 
 industry: C. Manufacturing
 geography: USA
 companySize: "> 500"
