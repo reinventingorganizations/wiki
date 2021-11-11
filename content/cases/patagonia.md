@@ -52,18 +52,18 @@ theory:
       Uses Storytelling To Turn Consumers Into Activists]
       (https://www.fastcompany.com/3038557/the-purpose-driven-marketer-how-patagonia-uses-storytelling-to-turn-consume)'
   - topic: Information Flow
-    title: Extend information flow throughout the market, incorporating suppliers
-      and customers
-    content: "[Patagonia](https://eu.patagonia.com/fr/fr/home/) has gone beyond the
-      boundaries of the organization with its \"Footprint Chronicles\".
-      Information transparency has been extended to suppliers and customers.
-      Customers can see where everthing is made, how it is made, what the
-      conditions are like, what the impact of transportation and water usage is
-      on the overall carbon footprint. A major part of the organization's
-      purpose is served by employing this radical degree of honesty with regard
-      to information and information flow when dealing with outside parties.
-      Information exchange with suppliers and customers via email and internet
-      is used to fuel continous improvement."
+    title: Ausweitung des Informationsflusses auf den gesamten Markt unter
+      Einbeziehung von Lieferanten und Kunden
+    content: '[Patagonia](https://eu.patagonia.com/fr/fr/home/) ist mit seinen
+      "Footprint Chronicles" über die Grenzen des Unternehmens hinausgegangen.
+      Die Informationstransparenz wurde auf Lieferanten und Kunden ausgeweitet.
+      Die Kunden können sehen, wo alles hergestellt wird, wie es hergestellt
+      wird, wie die Bedingungen sind, wie sich der Transport und der
+      Wasserverbrauch auf den gesamten CO2-Fußabdruck auswirken. Mit dieser
+      radikalen Ehrlichkeit in Bezug auf Informationen und Informationsfluss im
+      Umgang mit Außenstehenden wird ein großer Teil des Zwecks des Unternehmens
+      erfüllt. Der Informationsaustausch mit Lieferanten und Kunden über E-Mail
+      und Internet dient der kontinuierlichen Verbesserung.'
   - topic: Recruitment
     title: Hiring is a relatively slow process, performed by peers over multiple
       interviews.
