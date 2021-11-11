@@ -18,11 +18,12 @@ companySize: "> 500"
 profit: Profit
 theory:
   - topic: board
-    title: Adoption of the B Corp certification
-    content: "[Patagonia ](http://www.patagonia.com/)became the first certified B
-      Corp in California in January 2012. A B Corporation is a for-profit
-      company with a specific social or environmental purpose. The board is
-      obliged to protect these non-financial interests."
+    title: Verabschiedung der B Corp-Zertifizierung
+    content: "[Patagonia ](http://www.patagonia.com/) wurde im Januar 2012 die erste
+      zertifizierte B Corporation in Kalifornien. Eine B Corporation ist ein
+      gewinnorientiertes Unternehmen mit einem bestimmten sozialen oder
+      ökologischen Zweck. Der Vorstand ist verpflichtet, diese nichtfinanziellen
+      Interessen zu schützen."
   - topic: sales-marketing
     title: Marketing as “Don’t Buy Our Product”?!
     content: "Where most brands use marketing to convert prospects into customers,
