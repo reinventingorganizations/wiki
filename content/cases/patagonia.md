@@ -65,16 +65,17 @@ theory:
       erfüllt. Der Informationsaustausch mit Lieferanten und Kunden über E-Mail
       und Internet dient der kontinuierlichen Verbesserung.'
   - topic: Recruitment
-    title: Hiring is a relatively slow process, performed by peers over multiple
-      interviews.
+    title: Die Einstellung ist ein relativ langsamer Prozess, der von Kollegen in
+      mehreren Gesprächen durchgeführt wird.
     content: >-
-      Yvon Chouinard founded what would later be called
-      [Patagonia](http://www.patagonia.com/) in 1957 to produce climbing pitons.
-      The California-based company has grown into a leading outdoor apparel
-      maker, committed to being a positive influence on the environment.
+      Yvon Chouinard gründete 1957 das Unternehmen, das später
+      [Patagonia](http://www.patagonia.com/) heißen sollte, um Kletterhaken
+      herzustellen. Das in Kalifornien ansässige Unternehmen hat sich zu einem
+      führenden Hersteller von Outdoor-Bekleidung entwickelt, der sich
+      verpflichtet hat, einen positiven Einfluss auf die Umwelt zu haben.
 
 
-      In Patagonia hire is made slowly with interview from peers, as much as possible from withiɳ.
+      Bei Patagonia wird die Einstellung neuer Mitarbeiterinnen langsam und in Absprache mit Gleichgesinnten gemacht, so viel wie möglich von Innen heraus.
   - topic: Environmental and Social Management
     content: >-
       [Patagonia ](http://www.patagonia.com/)embraced reduction of their
