@@ -336,17 +336,19 @@ theory:
       das Gehalt einer Person höher sein sollte als das, was sie beantragt
       hat.\n"
   - topic: Meetings
-    title: Few meetings, seek to use liberating structures
+    title: Wenige Treffen, Suche nach befreienden Strukturen
     content: >-
-      Happy seeks to keep internal meetings to a minimum. For ones involving the
-      whole company (a weekly staff meeting and six-monthly Happy Day), Happy
-      seeks to use Liberating Structures - to give everybody an equal voice. 
+      Happy ist bestrebt, interne Besprechungen auf ein Minimum zu beschränken.
+      Bei Besprechungen, an denen das gesamte Unternehmen beteiligt ist
+      (wöchentliche Mitarbeiterbesprechung und halbjährlicher Happy Day), setzt
+      Happy auf "befreiende Strukturen", um allen eine gleichberechtigte Stimme
+      zu geben. 
 
 
-      Whether on real life events or on Zoom, meetings at Happy use liberating structures. They are a set of formalised techniques that, instead of having meetings dominated by one or two people, involve everybody. For an overview of all 33 techniques see <https://www.liberatingstructures.com/>
+      Ob bei realen Ereignissen oder bei Zoom, die Treffen bei Happy haben befreiende Strukturen. Dabei handelt es sich um eine Reihe von formalisierten Techniken, die dafür sorgen, dass Meetings nicht von einer oder zwei Personen dominiert werden, sondern alle einbeziehen. Einen Überblick über alle 33 Techniken finden Sie unter <https://www.liberatingstructures.com/>
 
 
-      Here are a quick sum-up of some techniques used at Happy
+      Hier eine kurze Zusammenfassung einiger Techniken, die bei Happy verwendet werden
 
 
       #### Spiral Journal: A mindful start
