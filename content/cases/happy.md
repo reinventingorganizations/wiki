@@ -104,21 +104,22 @@ theory:
       Das Schaubild ist das Werk von zwei Mitarbeitern an vorderster
       Front, die im Voraus für die Erstellung des Schaubilds ausgesucht wurden."
   - topic: Budgeting and Controlling
-    title: Metrics to align spending with income
+    title: Metriken zur Anpassung der Ausgaben an die Einnahmen
     content: >-
-      Some areas of the budget are fixed, such as rent, rates, service charge.
+      Einige Bereiche des Haushalts sind festgelegt, z. B. Miete, Grundsteuer
+      und Nebenkosten.
 
 
-      For flexible areas, we seek to use metrics that align with income such as trainer costs, manuals, food, ice cream. The trainer cost is expected to be at most 35% of income generated and the other costs at most 15% - giving a net profit of 50%.
+      Für flexible Bereiche versuchen wir, Kennzahlen zu verwenden, die sich an den Einnahmen orientieren, wie z. B. Trainerkosten, Handbücher, Lebensmittel, Eiscreme. Die Trainerkosten dürften höchstens 35 % der erzielten Einnahmen ausmachen, die anderen Kosten höchstens 15 %, so dass sich ein Nettogewinn von 50 % ergibt.
 
 
-      In marketing it is expected that each pound spent generates 5x that in revenue.
+      Im Marketing wird davon ausgegangen, dass jedes ausgegebene Pfund das Fünffache an Einnahmen bringt.
 
 
-      These metrics enable each individual in the company to work to these ratios without needing any approval from above.
+      Diese Kennziffern ermöglichen es jedem Einzelnen im Unternehmen, nach diesen Kennzahlen zu arbeiten, ohne dass er eine Genehmigung von oben benötigt.
 
 
-      While the company does work to a P&L based on its financial year, there is very little time (at most one short meeting) spent on deciding the budget, as most of it is based on these metrics.
+      Das Unternehmen arbeitet zwar mit einer GuV auf der Grundlage des Geschäftsjahres, aber es wird nur sehr wenig Zeit (höchstens eine kurze Sitzung) für die Festlegung des Budgets aufgewendet, da dieses größtenteils auf diesen Kennzahlen basiert.
   - topic: Commitment, Working Hours and Flexibility
     title: People have complete control over hours
     content: >-
