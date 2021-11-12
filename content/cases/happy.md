@@ -4,23 +4,24 @@ tags: cases
 name: Happy
 date: 2021-09-27T10:13:29.581Z
 introduction: >
-  Happy was founded in the UK by Henry Stewart as Happy Computers in Dec 1987.
-  The aim was to make learning about software an enjoyable experience.
+  Happy wurde im Dezember 1987 in Großbritannien von Henry Stewart als Happy
+  Computers gegründet. Das Ziel war es, das Lernen über Software zu einer
+  angenehmen Erfahrung zu machen.
 
 
-  A key turning point was in 1992 when Henry read Maverick by Ricardo Semler and realised that organisations could be based on trust and freedom.
+  Ein entscheidender Wendepunkt war 1992, als Henry Maverick von Ricardo Semler las und erkannte, dass Organisationen auf Vertrauen und Freiheit beruhen können.
 
 
-  In the 2000s the company expanded into leadership and personal development and changed its name to Happy.
+  In den 2000er Jahren expandierte das Unternehmen in die Bereiche Führung und persönliche Entwicklung und änderte seinen Namen in Happy.
 
 
-  Another key turning point came in 2017 when the company adopted the ideas of David Marquet and the two key leaders decided to make no decisions. The company expanded by 20% annually in the years following.
+  Ein weiterer wichtiger Wendepunkt kam 2017, als das Unternehmen die Ideen von David Marquet übernahm und die beiden Hauptverantwortlichen beschlossen, keine Entscheidungen zu treffen. In den folgenden Jahren wuchs das Unternehmen jährlich um 20 %.
 
 
-  As of 2021 Happy provides IT training, leadership and personal development and apprenticeships and seeks to create happy, productive workplaces.
+  Seit 2021 bietet Happy IT-Schulungen, Führungs- und Persönlichkeitsentwicklung sowie Ausbildungsplätze an und bemüht sich um die Schaffung glücklicher, produktiver Arbeitsplätze.
 
 
-  In 2021 Happy employs 25 permanent staff and around 50 associates. Its turnover is around £2.2 million
+  Im Jahr 2021 beschäftigt Happy 25 Festangestellte und rund 50 Mitarbeiter. Der Umsatz beträgt rund 2,2 Millionen Pfund.
 industry: P. Education
 geography: United Kingdom
 companySize: 1-100
