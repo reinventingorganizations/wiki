@@ -142,20 +142,29 @@ theory:
 
       Die Entscheidungen darüber, wann die Mitarbeiter anwesend sind und worum es bei den Sitzungen geht, werden nun innerhalb des Teams getroffen.
   - topic: Objectives and Target Setting
-    title: Radical disruption rather than targets
-    content: >-
-      In 2018 Happy held a vote on whether to continue with annual performance
-      appraisals. The vote was 82% against. 
+    title: Radikale Disruption anstelle von Zielen
+    content: "Im Jahr 2018 stimmte Happy darüber ab, ob die jährlichen
+      Leistungsbeurteilungen beibehalten werden sollten. Das Votum fiel mit 82 %
+      dagegen aus.\ 
 
 
-      The company has tried different sorts of targets, including OKRs. The problem was that many of the staff members, especially the facilitators, would have similar targets for years. So at a six-monthly Happy Day (the Happy Day is basically a full company away day), one of the staff members came up with the idea of a radical disruption: one thing to do radically different in the next 4 months. 
+      Das Unternehmen hat verschiedene Arten von Zielen ausprobiert,
+      darunter auch OKRs. Das Problem war, dass viele der Mitarbeiter,
+      insbesondere die Moderatoren, seit Jahren ähnliche Ziele hatten. Bei einem
+      halbjährlichen Happy Day (der Happy Day ist im Grunde ein kompletter
+      Betriebsausflug) kam einer der Mitarbeiter auf die Idee einer radikalen
+      Disruption: eine Sache, die man in den nächsten vier Monaten radikal
+      anders machen sollte.\ 
 
-      <https://www.linkedin.com/posts/henrystewart_instead-of-targets-how-about-a-radical-activity-6760863420976766976-6jRc>
+      <https://www.linkedin.com/posts/henrystewart_instead-of-targets-how\
+      -about-a-radical-activity-6760863420976766976-6jRc>
 
 
-      This is now included in a four-monthly snapshot session with their M&M/coach, described here : 
+      Dies ist nun Bestandteil einer viermonatigen Snapshot-Sitzung mit
+      ihrem M&M/Coach, die hier beschrieben wird: \r
 
-      <https://www.linkedin.com/pulse/lets-get-rid-annual-appraisals-replace-them-snapshots-henry-stewart/>
+      <https://www.linkedin.com/pulse/lets-get-rid-annual-appraisals-repl\
+      ace-them-snapshots-henry-stewart/>"
   - topic: Recruitment
     title: Don't ask questions, get people to do the job
     content: >-
