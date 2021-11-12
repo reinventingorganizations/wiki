@@ -28,57 +28,81 @@ companySize: 1-100
 profit: Profit
 theory:
   - topic: Organizational Structure
-    title: A lattice organization
-    content: >-
-      You can’t say there is no hierarchy at Happy, as there are two clear
-      leaders: Henry Stewart, founder and Chief Happiness Officer, and Cathy
-      Busani, Managing Director. However there isn’t a rigid structure.
+    title: Eine gitterförmige Struktur
+    content: "Man kann nicht sagen, dass es bei Happy keine Hierarchie gibt, denn es
+      gibt zwei klare Führungskräfte: Henry Stewart, Gründer und Chief Happiness
+      Officer, und Cathy Busani, Managing Director. Allerdings gibt es keine
+      starre Struktur.
 
 
-      There are three departments: Happy Computers (IT Training), Happy People (leadership and personal development) and apprenticeships (funded in the UK by an Apprenticeship levy that every organisation has to pay).
+      Es gibt drei Abteilungen: Happy Computers (IT-Schulungen), Happy
+      People (Führungs- und Persönlichkeitsentwicklung) und Lehrlingsausbildung
+      (im Vereinigten Königreich durch eine Lehrlingsabgabe finanziert, die
+      jedes Unternehmen entrichten muss).
 
 
-      Each department does have a Head but it is not necessarily a relationship between them and the people in those departments. Each person chooses who they would like to be their “M&M”. The title M&M was chosen by the staff and means Multiplier and Mentor - although the role is more of a coach.
+      Jede Abteilung hat zwar einen Leiter, aber es besteht nicht
+      unbedingt eine Beziehung zwischen ihm und den Mitarbeitern dieser
+      Abteilungen. Jede Person wählt aus, wen sie als \"M&M\" haben möchte. Der
+      Titel M&M wurde von den Mitarbeitern gewählt und bedeutet Multiplikator
+      und Mentor - obwohl die Rolle eher die eines Coaches ist.
 
 
-      Where staff work in a team, there is a team job description, rather than individual ones. That means that people can choose which roles in the team they want to play and these often shift.
+      Wenn die Mitarbeiter in einem Team arbeiten, gibt es keine
+      individuelle, sondern eine Team-Jobbeschreibung. Das bedeutet, dass die
+      Mitarbeiter sich aussuchen können, welche Rolle sie im Team spielen
+      wollen, und diese Rollen wechseln oft.
 
 
-      There is a regular staff meeting (fortnightly before the pandemic, weekly during it). This will decide anything that affects everybody.
+      Es gibt eine regelmäßige Personalversammlung (vierzehntägig vor der
+      Pandemie, wöchentlich während der Pandemie). Dort wird über alles
+      entschieden, was alle betrifft.
 
 
-      There is also a monthly Joyful meeting. This includes Henry, the heads of department and people elected by the staff as “potential leaders”. Anybody can attend this meeting.
+      Außerdem gibt es ein monatliches Joyful-Treffen. Daran nehmen Henry,
+      die Abteilungsleiter und Personen teil, die von den Mitarbeitern als
+      \"potenzielle Führungskräfte\" gewählt wurden. Jeder kann an dieser
+      Sitzung teilnehmen.\r
 
-      Wherever possible the teams make their own decisions, without referring to the head of that department.
-
-
-      [Happy’s organisation chart](https://happycomputers-my.sharepoint.com/:p:/g/personal/henry_happy_co_uk/ETTTuvaVZXJDpRhWRah6GpwBTNJr5kaEibA8LAcUfR5WPA?e=dm91fe) is a series of circles with the picture of the person inside. It includes:
-
-
-      * Job title
-
-      * When they work
-
-      * Whether they are an activist, pragmatist, reflector or theorist  (Honey and Mumford)
-
-      * Their 5 key strengths based on Strengthfinder (R)
+      Wo immer es möglich ist, treffen die Teams ihre eigenen
+      Entscheidungen, ohne sich an den Leiter der jeweiligen Abteilung zu
+      wenden.
 
 
-      The colours show their communication style, when at ease (*external circle*) and when under pressure (*internal circle*)
+      Das [Organigramm von Happy]
+      (https://happycomputers-my.sharepoint.com/:p:/g/personal/henry_happy_co_u\
+      k/ETTTuvaVZXJDpRhWRah6GpwBTNJr5kaEibA8LAcUfR5WPA?e=dm91fe) ist eine Reihe
+      von Kreisen mit dem Bild der Person darin. Es umfasst:
 
 
-      * Red = Driver, 
+      * Berufsbezeichnung\r
 
-      * Yellow = Expressive, 
+      * Wann sie arbeiten\r
 
-      * Green = Amiable, 
+      * Ob sie Aktivisten, Pragmatiker, Reflektoren oder Theoretiker sind
+      (Honey und Mumford)\r
 
-      * Blue = Analytical
+      * Ihre 5 wichtigsten Stärken auf der Grundlage des Strengthfinder
+      (R)
 
 
-      The arrows indicate who coaches who.
+      Die Farben zeigen ihren Kommunikationsstil, wenn sie entspannt sind
+      (*externer Kreis*) und wenn sie unter Druck stehen (*interner Kreis*)
 
-      The chart is the work of two front-line staff who were pre-approved to come up with it.
+
+      * Rot = Fahrer, \r
+
+      * Gelb = Ausdrucksstark, \r
+
+      * Grün = Freundlich, \r
+
+      * Blau = analytisch
+
+
+      Die Pfeile zeigen an, wer wen betreut.\r
+
+      Das Schaubild ist das Werk von zwei Mitarbeitern an vorderster
+      Front, die im Voraus für die Erstellung des Schaubilds ausgesucht wurden."
   - topic: Budgeting and Controlling
     title: Metrics to align spending with income
     content: >-
