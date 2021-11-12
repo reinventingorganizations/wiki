@@ -211,49 +211,101 @@ theory:
       (Zweck) und die Grundwerte der Organisation, die den Bewerbern vermittelt
       werden sollen, sind in diesem Dokument sehr deutlich."
   - topic: Feedback and Performance Management
-    title: Got rid of performance appraisals
-    content: >-
-      In 2018 Happy held a vote on whether to continue with annual performance
-      appraisals. The vote was 82% against. Instead people have a four monthly
-      snapshot session with their coach: 
+    title: Abschaffung der Leistungsbeurteilung
+    content: "Im Jahr 2018 stimmte Happy darüber ab, ob die jährlichen
+      Leistungsbeurteilungen beibehalten werden sollten. Das Votum fiel mit 82 %
+      negativ aus. Stattdessen haben die Mitarbeiter alle vier Monate ein
+      Gespräch mit ihrem Coach: \r
 
-      Of course it still makes sense to carry out a regular review, so they replaced it with a four-monthly happy@happy snapshot. The form used can be accessed [here](https://happycomputers-my.sharepoint.com/:p:/g/personal/henry_happy_co_uk/ETTTuvaVZXJDpRhWRah6GpwBTNJr5kaEibA8LAcUfR5WPA?e=dm91fe). It is inspired by something they saw at the food company Cook. It highlights disruptions, successes, aspirations, contribution to unity and joy.
-
-
-      #### Radical Disruption
-
-
-      choose one thing that you will do completely differently in the next period.
-
-
-      #### Strengths, Responsibilities and Values
+      Natürlich ist es nach wie vor sinnvoll, ein regelmäßiges Gespräch zu
+      führen, deshalb wurde es durch eine viermonatige happy@happy
+      Momentaufnahme ersetzt. Das verwendete Formular kann [hier]
+      (https://happycomputers-my.sharepoint.com/:p:/g/personal/henry_happy_co_u\
+      k/ETTTuvaVZXJDpRhWRah6GpwBTNJr5kaEibA8LAcUfR5WPA?e=dm91fe) eingesehen
+      werden. Es ist inspiriert von etwas, das sie bei dem
+      Lebensmittelunternehmen Cook gesehen haben. Es hebt Disruptionen, Erfolge,
+      Bestrebungen, Beiträge zur Einheit und Freude hervor.
 
 
-      as pillars of Successes and Aspirations
+      #### Radikale Disruptionen\r
+
+      \r
+
+      Wählen Sie eine Sache, die Sie in der nächsten Zeit völlig anders
+      machen werden.
 
 
-      Happy uses Strengthfinder to discover each person’s five key **strengths**, as well as working with them on what motivates them and what makes them “feel magnificent”. They want people to do what they are good at, for their sake and for Happy’s. So they explore which strengths they have used and which they will use going ahead.
+      #### Stärken, Verantwortlichkeiten und Werte als Pfeiler für Erfolge
+      und Bestrebungen
+
+      \r
+
+      \r
 
 
-      At Happy people aren’t generally given **responsibilities** or promotions. Instead they encourage people to seek opportunities, to decide what responsibility they are able to take on. One example was two of their front-line staff who decided their prices needed updating. As is the Happy way, they consulted with colleagues and clients and checked the market. And then they took responsibility and made the decision, without needing upward approval on what to change to.
+      Happy setzt den Strengthfinder ein, um die fünf wichtigsten
+      **Stärken** eines jeden Menschen zu ermitteln und gemeinsam mit ihm
+      herauszufinden, was ihn motiviert und was ihn \"großartig\" fühlen lässt.
+      Sie wollen, dass die Menschen das tun, was sie gut können, um ihrer selbst
+      willen und um Happys willen. Deshalb erkunden sie, welche Stärken sie
+      genutzt haben und welche sie in Zukunft nutzen werden.
 
 
-      Happy doesn’t want [core values](https://www.happy.co.uk/about-us/) to be just a laminated poster stuck on the wall. So the snapshot is a good opportunity to explore where they have “believed the best”, “helped people feel good about themselves”, “celebrated mistakes”, “delighted the customer” or “made the world a better place”.
+      Bei Happy werden den Menschen im Allgemeinen keine
+      **Zuständigkeiten** oder Beförderungen übertragen. Stattdessen werden die
+      Mitarbeiter ermutigt, nach Möglichkeiten zu suchen und zu entscheiden,
+      welche Verantwortung sie übernehmen können. Ein Beispiel dafür waren zwei
+      Mitarbeiter, die beschlossen, dass ihre Preise aktualisiert werden
+      müssten. Wie es bei Happy üblich ist, haben sie sich mit Kollegen und
+      Kunden beraten und den Markt geprüft. Dann übernahmen sie die
+      Verantwortung und trafen die Entscheidung, ohne die Zustimmung von oben zu
+      benötigen.
 
 
-      #### Contribution to unity and joy
+      Happy möchte nicht, dass [Kernwerte]
+      (https://www.happy.co.uk/about-us/) nur ein laminiertes Poster an der Wand
+      ist. Der Schnapshot ist also eine gute Gelegenheit, um herauszufinden, wo
+      sie \"an das Beste geglaubt\", \"den Menschen geholfen haben, sich gut zu
+      fühlen\", \"Fehler gefeiert\", \"den Kunden erfreut\" oder \"die Welt zu
+      einem besseren Ort gemacht\" haben.
 
 
-      ##### Unity/Inclusiveness
+      #### Beitrag zu Einigkeit und Freude
 
 
-      At Happy, it is not enough to be good at your core job. They believe their values are clear and they expect everybody to be positive and supportive of others and – even in a difficult conversation – to leave them feeling good about themselves. So a crucial element of the form is to ask what they have done to achieve more unity and inclusiveness. That can be anything from little things like taking lunch with different colleagues or checking in with people in other departments..
+      \r
+
+      \r
+
+      ##### Einigkeit/Inklusion
 
 
-      ##### Joy at Work
+      \r
+
+      \r
+
+      Bei Happy reicht es nicht aus, gut in seiner Hauptaufgabe zu sein.
+      Sie sind der Meinung, dass ihre Werte klar sind, und sie erwarten von
+      jedem, dass er sich positiv verhält, andere unterstützt und ihnen - selbst
+      in einem schwierigen Gespräch - ein gutes Gefühl vermittelt. Ein
+      wesentliches Element des Formulars besteht also darin, zu fragen, was sie
+      getan haben, um mehr Einigkeit und Integration zu erreichen. Dabei kann es
+      sich um Kleinigkeiten handeln, wie z. B. mit anderen Kollegen zu Mittag zu
+      essen oder sich mit Leuten aus anderen Abteilungen auszutauschen.\r
 
 
-      The aim is that everybody at Happy finds joy in their work at least 80% of the time. They ask their people to measure it for themselves and to think about what would bring them joy. It leads to a very different conversation to ask “What would give you more joy?”, instead of “How can we improve your performance?”.
+      ##### Freude an der Arbeit
+
+
+      \r
+
+      \r
+
+      Das Ziel ist, dass jeder bei Happy mindestens 80 % der Zeit Freude
+      an seiner Arbeit hat. Sie bitten ihre Mitarbeiter, dies selbst zu messen
+      und darüber nachzudenken, was ihnen Freude bereiten würde. Es führt zu
+      einem ganz anderen Gespräch, wenn man fragt: \"Was würde Ihnen mehr Freude
+      bereiten?\", anstatt: \"Wie können wir Ihre Leistung verbessern?\"."
   - topic: Compensation and incentives
     title: At salary panel - elected by staff
     content: >
