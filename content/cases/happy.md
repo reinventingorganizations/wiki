@@ -307,21 +307,34 @@ theory:
       einem ganz anderen Gespräch, wenn man fragt: \"Was würde Ihnen mehr Freude
       bereiten?\", anstatt: \"Wie können wir Ihre Leistung verbessern?\"."
   - topic: Compensation and incentives
-    title: At salary panel - elected by staff
-    content: >
-      Salaries are decided annually. Each person submits what they think they
-      should earn.
+    title: Im Gehaltsausschuss - vom Personal gewählt
+    content: "Die Gehälter werden jährlich festgelegt. Jede Person gibt an, was sie
+      ihrer Meinung nach verdienen sollte.
 
 
-      The salaries are decided by a salary panel, which consists of four people elected by the staff (before 2021,only half the panel was elected by staff.)
-       
-      This approach started in around 2015.
+      Die Gehälter werden von einem Gehaltsausschuss festgelegt, der aus
+      vier vom Personal gewählten Personen besteht (vor 2021 wurde nur die
+      Hälfte des Ausschusses vom Personal gewählt).
+
+      \\ 
+
+      Dieser Ansatz wurde etwa 2015 eingeführt.
 
 
-      It is based on a total figure that the staff decide, after examining the profit-and-loss for the previous year - and expectations ahead.
+      \r
+
+      \r
+
+      Er basiert auf einer Gesamtzahl, die die Mitarbeiter nach Prüfung
+      der Gewinn- und Verlustrechnung des Vorjahres - und der Erwartungen für
+      die Zukunft - festlegen.
 
 
-      Inevitably the total submitted normally comes to more than the total that has been allocated to salaries. So figures are often scaled back. However sometimes the salary panel decides that somebody’s salary should be more than what they asked for.
+      Es ist unvermeidlich, dass die eingereichte Summe in der Regel höher
+      ist als die Summe, die für die Gehälter vorgesehen ist. Daher werden die
+      Zahlen oft gekürzt. Manchmal beschließt das Gehaltsgremium jedoch, dass
+      das Gehalt einer Person höher sein sollte als das, was sie beantragt
+      hat.\n"
   - topic: Meetings
     title: Few meetings, seek to use liberating structures
     content: >-
