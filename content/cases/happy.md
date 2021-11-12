@@ -121,26 +121,26 @@ theory:
 
       Das Unternehmen arbeitet zwar mit einer GuV auf der Grundlage des Geschäftsjahres, aber es wird nur sehr wenig Zeit (höchstens eine kurze Sitzung) für die Festlegung des Budgets aufgewendet, da dieses größtenteils auf diesen Kennzahlen basiert.
   - topic: Commitment, Working Hours and Flexibility
-    title: People have complete control over hours
+    title: Die Menschen haben die volle Kontrolle über ihre Arbeitszeit
     content: >-
-      “*People know what their responsibilities are*”, explains Henry Stewart,
-      the co-founder. “*They don’t need anybody else to tell them whether they
-      need to be in the office or not*.”
+      "*Die Leute wissen, was ihre Aufgaben sind*", erklärt Henry Stewart, der
+      Mitbegründer. "*Sie brauchen niemanden, der ihnen sagt, ob sie im Büro
+      sein müssen oder nicht*.
 
 
-      “I remember before the pandemic I was showing somebody around the office; he commented that only 5 out of our 25 staff members were in the office and asked where the others were. ‘I have no idea,’ I commented. People are judged by the results they deliver, not the amount of time they spend in the office.”
+      "Ich erinnere mich, dass ich vor der Pandemie jemandem das Büro zeigte; er bemerkte, dass nur fünf unserer 25 Mitarbeiter im Büro waren, und fragte, wo die anderen seien. Ich habe keine Ahnung", antwortete ich. Menschen werden nach den Ergebnissen beurteilt, die sie liefern, und nicht danach, wie viel Zeit sie im Büro verbringen."
 
 
-      There are a range of flexible hours. Some work part-time. Some work compressed hours (eg, the full week in 4 days). There are no set hours, people work when they want around their responsibilities.
+      Es gibt eine Reihe von flexiblen Arbeitszeiten. Einige arbeiten in Teilzeit. Einige arbeiten komprimiert (z. B. die ganze Woche in 4 Tagen). Es gibt keine festen Arbeitszeiten, die Menschen arbeiten, wann sie wollen, um ihre Verpflichtungen zu erfüllen.
 
 
-      Around 2000 the leadership became aware that our admin team of 9 people wanted to work more flexibly. So they set out the terms, that there was a need for two more people in the office from 9 to 5.30 each day to answer the phone. People then decided between themselves when they would work, with some coming in at 6am (to avoid the London commute) and not many people working on Friday afternoons!
+      Um das Jahr 2000 wurde der Leitung bewusst, dass unser Verwaltungsteam von 9 Personen flexibler arbeiten wollte. Also legten sie die Bedingungen fest, dass zwei weitere Mitarbeiter täglich von 9 bis 5.30 Uhr im Büro sein sollten, um das Telefon zu beantworten. Die Mitarbeiter entschieden dann selbst, wann sie arbeiten wollten, wobei einige bereits um 6 Uhr morgens kamen (um den Pendelverkehr nach London zu vermeiden) und nicht viele am Freitagnachmittag arbeiteten!
 
 
-      Nowadays it wouldn’t be the leadership who would set out the requirement; the team would do it by itself.
+      Heutzutage legt nicht mehr die Leitung die Anforderungen fest, sondern das Team tut dies selbst.
 
 
-      Decisions to be made on when people are in, and what meetings are for, are now all made within the team.
+      Die Entscheidungen darüber, wann die Mitarbeiter anwesend sind und worum es bei den Sitzungen geht, werden nun innerhalb des Teams getroffen.
   - topic: Objectives and Target Setting
     title: Radical disruption rather than targets
     content: >-
