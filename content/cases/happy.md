@@ -166,29 +166,50 @@ theory:
       <https://www.linkedin.com/pulse/lets-get-rid-annual-appraisals-repl\
       ace-them-snapshots-henry-stewart/>"
   - topic: Recruitment
-    title: Don't ask questions, get people to do the job
-    content: >-
-      One of Happy’s core principles is that recruitment should be based on
-      people’s ability to do the job, not how they talk about doing the job.
+    title: Stellen Sie keine Fragen, lassen Sie die Leute ihre Arbeit machen
+    content: "Eines der Grundprinzipien von Happy ist, dass die Einstellung auf den
+      Fähigkeiten der Mitarbeiter beruhen sollte und nicht darauf, wie sie über
+      ihre Arbeit reden.
 
 
-      *Example of a Facilitator interview:* Happy interviews are organized in groups, with typically 6 people at once. They ask the people to do the job immediately, for instance facilitating a 20 min session. 
+      *Beispiel für ein Interview mit einem Moderator:* Happy-Interviews
+      werden in Gruppen organisiert, in der Regel mit 6 Personen auf einmal. Sie
+      bitten die Personen, die Aufgabe sofort zu übernehmen, zum Beispiel eine
+      20-minütige Sitzung zu moderieren.\ 
 
-      The group interviews allow Happy to see how people interact and whether they are positive and supportive of each other. The session shows whether they have the potential to train in the Happy style.
+      Die Gruppeninterviews ermöglichen es Happy zu sehen, wie die Leute
+      interagieren und ob sie positiv sind und sich gegenseitig unterstützen.
+      Die Sitzung zeigt, ob sie das Potenzial haben, im Happy-Stil zu
+      trainieren.
 
-      In the second interview they will take the person aside and give them some coaching on how to improve. They then go back and they see if they have responded to the feedback. Ability to learn is a key criterion.
-
-
-      Same for other roles : Happy puts people in the situation, and observes **competencies** (ability to do the job, or the potential to), **attitude** (not qualifications) and also **how they interact in teams** (recruitment is  made with 6 people to be sure that they will be able to regulate and self-manage themselves within their teams). 
-
-      Happy also aims for collaborative interviews, with as many as possible of the people who will work with the new recruits and then they provide a very detailed feedback to the people.
-
-
-      One of Happy’s core recruitment principles to have this working is : don't leave candidates to guess what is needed. Make it absolutely clear. 
+      Im zweiten Gespräch nehmen sie die Person zur Seite und geben ihr
+      ein Coaching, wie sie sich verbessern kann. Anschließend wird überprüft,
+      ob die Person auf das Feedback reagiert hat. Die Fähigkeit zu lernen ist
+      ein Schlüsselkriterium.
 
 
+      Dasselbe gilt für andere Rollen: Happy versetzt Menschen in die
+      Situation und beobachtet **Kompetenzen** (die Fähigkeit, die Arbeit zu
+      erledigen, oder das Potenzial dazu), **Einstellung** (nicht die
+      Qualifikationen) und auch **wie sie in Teams interagieren** (die
+      Einstellung erfolgt mit 6 Personen, um sicher zu sein, dass sie in der
+      Lage sind, sich in ihren Teams zu regulieren und selbst zu managen). \r
 
-      More Happy recruitment principles can be found [here](https://happycomputers-my.sharepoint.com/:w:/g/personal/henry_happy_co_uk/ETBO383Or3hFsICB15Mvd2sB1_1FXt0yN4cH35OBlY0qtw?e=qcBFUj); the vision (purpose) and core values of the organization to be shared with candidates are very clear in this document.
+      Happy bemüht sich auch um gemeinsame Gespräche mit möglichst vielen
+      der Personen, die mit den neuen Mitarbeitern zusammenarbeiten werden, und
+      gibt ihnen dann ein sehr detailliertes Feedback.
+
+
+      Einer der wichtigsten Einstellungsgrundsätze von Happy, damit dies
+      funktioniert, lautet: Lassen Sie die Bewerber nicht raten, was benötigt
+      wird. Machen Sie es absolut klar.\ 
+
+
+      Weitere Einstellungsgrundsätze von Happy finden Sie [hier]
+      (https://happycomputers-my.sharepoint.com/:w:/g/personal/henry_happy_co_u\
+      k/ETBO383Or3hFsICB15Mvd2sB1_1FXt0yN4cH35OBlY0qtw?e=qcBFUj); die Vision
+      (Zweck) und die Grundwerte der Organisation, die den Bewerbern vermittelt
+      werden sollen, sind in diesem Dokument sehr deutlich."
   - topic: Feedback and Performance Management
     title: Got rid of performance appraisals
     content: >-
