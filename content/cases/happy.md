@@ -445,38 +445,40 @@ theory:
       nur zu hören, sondern auch nicht zu sehen. Es ist bemerkenswert, wie oft
       sich aus diesem Prozess echte Erkenntnisse ergeben."
   - topic: Decision Making
-    title: Decisions made by front line, CEO makes no decisions
+    title: Entscheidungen werden an der Front getroffen, der CEO trifft keine
+      Entscheidungen
     content: >-
-      From 1992, when Henry read Maverick, to 2017, Happy sought to give people
-      trust and freedom and job ownership. However it could not be described as
-      a self-managing organisation as many decisions were made by Henry and
-      Cathy.
+      Von 1992, als Henry Maverick las, bis 2017 bemühte sich Happy, den
+      Menschen Vertrauen, Freiheit und Eigenverantwortung zu geben. Allerdings
+      konnte man es nicht als selbstverwaltetes Unternehmen bezeichnen, da viele
+      Entscheidungen von Henry und Cathy getroffen wurden.
 
 
-      In 2017 a key change happened. Learning from David Marquet, Henry and Cathy decided to stop making decisions, and instead to push them down to front-line staff. The results were remarkable, with people stepping up and taking responsibility. The effect on sales were dramatic, see [here](https://happycomputers-my.sharepoint.com/:p:/g/personal/henry_happy_co_uk/EQkv5z8oJY5Mkjo1ysOEbO8BoxbtcRWwj7URzlCnMtAMPA?rtime=h80ELLiB2Ug).
+      Im Jahr 2017 gab es eine wichtige Veränderung. Nach dem Vorbild von David Marquet beschlossen Henry und Cathy, keine Entscheidungen mehr zu treffen, sondern sie an die Mitarbeiter an der Basis weiterzugeben. Die Ergebnisse waren bemerkenswert: Die Mitarbeiter übernahmen Verantwortung. Die Auswirkungen auf den Umsatz waren dramatisch, siehe [hier](https://happycomputers-my.sharepoint.com/:p:/g/personal/henry_happy_co_uk/EQkv5z8oJY5Mkjo1ysOEbO8BoxbtcRWwj7URzlCnMtAMPA?rtime=h80ELLiB2Ug).
 
 
-      Even before 2017 Happy had been practising the concept of pre-approval, the idea that you approve a solution - within clear guidelines - in advance.
+      Schon vor 2017 hat Happy das Konzept der Vorabgenehmigung praktiziert, d. h. die Idee, dass Sie eine Lösung - innerhalb klarer Richtlinien - im Voraus genehmigen.
 
       [https://www.happy.co.uk/blogs/pre-approve-it/ ](https://www.happy.co.uk/blogs/pre-approve-it/)
 
 
-      The CEO role is not to make decisions but to set the framework and be sure the right metrics are being measured.
+      Die Rolle des CEO besteht nicht darin, Entscheidungen zu treffen, sondern den Rahmen zu setzen und dafür zu sorgen, dass die richtigen Messgrößen gemessen werden.
 
 
-      *Example*: 
+      *Beispiel*: 
 
-      There are two key metrics in training delivery: customer satisfaction and training utilization. Customer satisfaction delivers delighted customers, but for the company to be profitable trainer utilisation is key.
+      Bei der Durchführung von Schulungen gibt es zwei Schlüsselkennzahlen: Kundenzufriedenheit und Auslastung der Ausbilder. Die Kundenzufriedenheit sorgt für zufriedene Kunden, aber für die Rentabilität des Unternehmens ist die Auslastung der Ausbilder entscheidend.
 
-      “All our facilitators are focused on the feedback they will get. But they aren’t so focused on utilisation. So I asked them to, each month, measure their utilisation. We didn’t set targets or anything, we just asked folk to measure it. That step alone resulted in a £95k increase in profits.”
-
-      “I get to do what I love to do and feel what I am best at, which is coming up with new products,” explains Henry. In April 2021 this has meant creating a “Happy MBA”.
+      "Alle unsere Schulungsleiter konzentrieren sich auf das Feedback, das sie erhalten werden. Aber sie sind nicht so sehr auf die Auslastung konzentriert. Also habe ich sie gebeten, jeden Monat ihre Auslastung zu messen. Wir haben keine Zielvorgaben oder ähnliches gemacht, wir haben die Leute einfach gebeten, das zu messen. Allein dieser Schritt führte zu einem Gewinnanstieg von 95 000 Pfund."
 
 
-      Here an example of frontline decision-making : in 2018 Ben and John felt that the prices of their courses needed increasing. They used the Advice Process, asking others for their views but making the final decision themselves.
+      "Ich kann das tun, was ich am liebsten tue und spüre, was ich am besten kann, nämlich neue Produkte entwickeln", erklärt Henry. Im April 2021 bedeutete dies die Schaffung eines "Happy MBA".
 
 
-      “I was consulted”, explained Henry. “But actually they chose to go much higher than I would have gone. But that's fine, that is the effect of taking real responsibility.”
+      Hier ein Beispiel für die Entscheidungsfindung an vorderster Front: 2018 waren Ben und John der Meinung, dass die Preise für ihre Kurse erhöht werden müssten. Sie nutzten den Beratungsprozess, indem sie andere um ihre Meinung baten, aber die endgültige Entscheidung selbst trafen.
+
+
+      "Ich wurde konsultiert", erklärte Henry. "Aber sie haben sich entschieden, viel höher zu gehen, als ich es getan hätte. Aber das ist in Ordnung, das ist der Effekt, wenn man wirklich Verantwortung übernimmt."
   - topic: Culture and Values
     title: Values are core and enable people to make decisions
     content: >-
