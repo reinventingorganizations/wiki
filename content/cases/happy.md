@@ -480,37 +480,65 @@ theory:
 
       "Ich wurde konsultiert", erklärte Henry. "Aber sie haben sich entschieden, viel höher zu gehen, als ich es getan hätte. Aber das ist in Ordnung, das ist der Effekt, wenn man wirklich Verantwortung übernimmt."
   - topic: Culture and Values
-    title: Values are core and enable people to make decisions
-    content: >-
-      Happy core values:
+    title: Werte sind zentral und ermöglichen es den Menschen, Entscheidungen zu
+      treffen
+    content: "Glückliche Grundwerte:
 
 
-      #### Help people feel good about themselves
+      \r
+
+      \r
+
+      #### Menschen helfen, sich selbst gut zu fühlen
 
 
-      People who feel happy and confident are more likely to try new things. They are more likely to form effective teams. They are better equipped to face challenges. The key to being a great manager is to help people feel good about themselves.
+      \r
+
+      \r
+
+      Menschen, die sich glücklich und selbstbewusst fühlen, sind eher
+      bereit, neue Dinge auszuprobieren. Sie sind eher bereit, effektive Teams
+      zu bilden. Sie sind besser gerüstet, um Herausforderungen zu meistern. Der
+      Schlüssel zu einer guten Führungskraft ist es, den Menschen zu helfen,
+      sich selbst gut zu fühlen.
 
 
-      #### Believe the best and trust others
+      #### Glaube an das Beste und vertraue anderen
 
 
-      When we get annoyed with people for being ‘stupid’ or ‘slow’, we are in fact getting annoyed with our own inability to pass on information easily. Recognising our own shortcomings, we should trust that people always do the best they can. ‘Mental blocks’ offer us the opportunity to find new ways to overcome them.
+      Wenn wir uns über Menschen ärgern, weil sie \"dumm\" oder
+      \"langsam\" sind, ärgern wir uns in Wirklichkeit über unsere eigene
+      Unfähigkeit, Informationen leicht weiterzugeben. Wenn wir unsere eigenen
+      Unzulänglichkeiten anerkennen, sollten wir darauf vertrauen, dass die
+      Menschen immer ihr Bestes geben. Mentale Blockaden\" bieten uns die
+      Möglichkeit, neue Wege zu finden, um sie zu überwinden.
 
 
-      #### Create customer delight
+      #### Kundenbegeisterung schaffen
 
 
-      We aim not just to give ‘customer satisfaction’, but to delight customers and exceed expectations with every interaction.
+      Unser Ziel ist es nicht nur, den Kunden zufrieden zu stellen,
+      sondern ihn zu begeistern und seine Erwartungen bei jeder Interaktion zu
+      übertreffen.
 
 
-      #### Celebrate mistakes
+      #### Fehler zelebrieren
 
 
-      We’re conditioned from an early age to scold or punish mistakes. However, mistakes are the greatest way of learning! Training and managing should encourage people to try something new. The best way to be bold is to minimise fear of failure and to celebrate mistakes.
+      Wir sind von klein auf darauf konditioniert, Fehler zu schelten oder
+      zu bestrafen. Fehler sind jedoch der beste Weg, um zu lernen! Ausbildung
+      und Management sollten die Menschen dazu ermutigen, etwas Neues
+      auszuprobieren. Der beste Weg, mutig zu sein, ist, die Angst vor dem
+      Scheitern zu minimieren und Fehler zu feiern.
 
 
-      #### Make the world a better place
+      #### Die Welt zu einem besseren Ort machen
 
 
-      We are committed to supporting the local community, offering free training, support and consultancy sessions to charities through our Timebank scheme. We also offer discounted rates for charities and non-profits, During the pandemic Happy provided over 800 free seats at trainings to NHS staff.
+      Wir sind bestrebt, die lokale Gemeinschaft zu unterstützen, und
+      bieten Wohltätigkeitsorganisationen im Rahmen unseres Timebank-Programms
+      kostenlose Schulungen, Unterstützung und Beratung an. Wir bieten auch
+      ermäßigte Tarife für Wohltätigkeitsorganisationen und gemeinnützige
+      Einrichtungen an. Während der Pandemie stellte Happy über 800 kostenlose
+      Plätze bei Schulungen für NHS-Mitarbeiter zur Verfügung."
 ---
