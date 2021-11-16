@@ -73,40 +73,42 @@ intro: >-
 
   Дуалистическое мышление, зародившееся на  Красной стадии, все еще активно, но индивидуалистическое «как я хочу / как ты хочешь» заменяется коллективным «мы/ они». Красный эгоцентризм уступает место Янтарному этноцентризму. Кен Уилбер говорит об этом так: *«Забота и участие распространяются от меня к группе — но не далее! Если ты член группы, разделяешь мою, скажем так, мифологию, идеологию, тогда ты тоже, можно сказать, спасен. Но если ты принадлежишь к другой культуре, другой группе, другой
 
-  мифологии, другому богу, тогда ты проклят*^\[Кен Уилбер, A Brief History of Everything (Boston: Shambhala Publications, 1996), 273.]
+  мифологии, другому богу, тогда ты проклят* [Кен Уилбер, A Brief History of Everything (Boston: Shambhala Publications, 1996), 273.]
 
 
-  ##### Self discipline and authority
+  ##### Дисциплина и авторитет
 
 
-  In Amber, the formerly impulsive Red self is now able to exercise self-discipline and self-control, not only in public but also in private. Amber societies have simple morals based on one accepted, right way of doing things. The Amber worldview is static: there are immutable laws that make for a just world, where things are either right or wrong. Do what’s right and you will be rewarded, in this life or the next. Do or say the wrong things, and you will be punished or even rejected from the group―and possibly suffer in the hereafter. People internalize the rules and morality and feel guilt and shame when they go astray. Authority to define what is right and wrong is now linked to a role, rather than to a powerful personality (as was the case in Red); it’s the priest’s robe, whoever wears it, that defines authority.
+  На Янтарной стадии сознания импульсивное Красное «я» способно к самодисциплине и самоконтролю, причем не только публично, но и на- едине с самим собой. В Янтарных обществах распространены простые моральные цен- ности, основанные на общепринятом способе что-то делать, о котором говорят, что он правильный. Конформистское Янтарное мировоззрение статично, там все прозрачно и застыло, как в янтаре. Есть незыблемые законы для вот этого мира, и в нем есть вещи правильные и неправильные. Если ты поступаешь правильно, то будешь вознагражден в этой жизни или в следующей. Если ты поступаешь или говоришь неправильно, ты будешь наказан или даже отвергнут группой — и, вероятно, в дальнейшем пострадаешь. Люди усваивают правила и мораль, чувствуют вину и стыд, уклоняясь от них. Авторитет, устанавливающий, что правильно, а что нет, теперь связан с социальной ролью, а не с сильной личностью (как в Красной парадигме). Этот авторитет — священник в облачении, и не важно, что он за человек: форма определяет авторитет.
 
 
-  Amber societies tend to be highly stratified, with social classes or caste systems and rigid gender differences as defining features. A lottery at birth defines what caste you are born into. From there, everything is mapped out for you―how you are to behave, think, dress, eat, and marry is in accordance with your caste.
+  Янтарные общества склонны к большому расслоению, классовым или кастовым социальным системам, жестким гендерным различиям. Лотерея рождения определяет, в какой касте ты появишься на свет, но все остальное для тебя предопределено: как ты будешь вести себя, думать, одеваться, есть, с кем вступишь в брак — и все в строгом соответствии с кастовой принадлежностью.
 
 
-  With so much in flux in the world today, some find Amber certainties an appealing refuge and call for a return to a fixed set of moral values. To take that perspective is to ignore the massive inequality of traditional societies that set strict social and sexual norms. It can be unpleasant, to say the least, to be a woman, a homosexual, an untouchable, or a free thinker in an Amber society.
+  В сегодняшнем меняющемся мире надежная определенность Янтарной стадии многим представляется истинным спасением, призывом вернуться к твердо установленным моральным ценностям. Но принять эту точку зрения — значит одобрить чудовищное социальное неравенство, существующее в традиционных обществах, а также набор жестких социальных и сексуальных норм. Говоря проще, в  Конформистском Янтарном обществе может оказаться очень неприятно быть женщиной, гомосексуалистом, членом касты неприкасаемых или свободомыслящим человеком.
 
 
-  #### Breakthroughs and characteristics of Amber organizations
+  #### Характеристики янтарных организаций
 
 
-  The advent of Amber organizations brought about two major breakthroughs: organizations can now plan for the medium and long term, and they can create organizational structures that are stable and can scale. Combine these two breakthroughs, and you get organizations able to achieve unprecedented outcomes, beyond anything Red organizations could have even contemplated. Historically, Amber organizations are the ones that have built irrigation systems, pyramids, and the Great Wall of China. Amber organizations ran the ships, the trading posts, and the plantations of the Colonial world. The Catholic Church is built on this paradigm―arguably it has been the defining Amber organization for the Western world. The first large corporations of the Industrial Revolution were run on this template. Amber organizations are still very present today: most government agencies, public schools, religious institutions, and the military are run based on Amber principles and practices.
+  Появление Янтарных организаций привело к двум существенным новаторским достижениям: отныне организации могли заниматься среднесрочным и долгосрочным планированием, а также создавать стабильные организационные структуры, устойчивые и  способные к масштабному развитию. Соединив оба достижения, получим организации, способные достигать невиданных доселе целей, превосходящих самые смелые мечты Красных организаций. Исторически именно Янтарные организации построили грандиозные системы орошения, пирамиды и Великую Китайскую стену. Конформистские Янтарные организации завели регулярное морское сообщение, фактории и плантации в колониях. В соответствии с этой парадигмой создана католическая церковь возможно, именно она стала моделью Янтарной организации для западного мира. По тому же образцу создавались первые крупные корпорации времен промышленной революции. Янтарные организации широко представлены и сегодня: большинство государственных учреждений, школ, религиозных учреждений, а также армия придерживаются Конформистских Янтарных принципов.
 
 
-  ##### Amber breakthrough 1: Long-term perspective (stable processes)
+  ##### Янтарное открытие № 1: долгосрочная перспектива (стабильные процессы)
 
 
-  Red organizations tend to be opportunistic; they don’t generally think more than a few weeks ahead. Amber organizations can take on long-term projects―constructing cathedrals that might take two centuries to complete or creating networks of colonial trading posts thousands of miles away to facilitate commerce.
+  Красные организации ищут немедленной выгоды любой ценой и не видят далее ближайших нескольких дней или нескольких недель. Янтарным организациям по силам долговременные проекты, например строительство собора, которое могло вестись на протяжении двух веков, или создание сети торговых представительств в колониях, отдаленных на тысячи километров.
 
 
-  This breakthrough is very much linked to the invention of processes. With processes, we can replicate past experience into the future. Last year’s harvest will be our template for this year’s; next year’s classroom will be run with the same lesson plan as this year’s. With processes, critical knowledge no longer depends on a particular person; it is embedded in the organization and can be transmitted across generations. Any person can be replaced by another that takes over the same role in the process. Even the chief is replaceable, in an orderly succession, and Amber organizations can therefore survive for centuries.
+  Это новаторское достижение в  значительной мере связано с  открытием самого понятия процесса как возможности воспроизводить прошлый опыт в будущем. Урожай прошлого года будет взят за  основу для оценки урожая будущего. В  следующем году в этой классной комнате уроки пойдут по тому же расписанию, что и в прошлом. Если есть процессы, то важнейшие знания более не зависят от конкретной личности, их носителем становится организация, и так их можно передавать от поколения к поколению. Любая личность может быть заменена другой, берущей на себя ту же роль в процессе. Даже лидера можно заменить по порядку преемственности, и Янтарная организация способна существовать веками.
 
 
-  At an individual level, people operating from a Amber paradigm strive for order and predictability; change is viewed with suspicion. The same holds true for Amber organizations, which are exceptionally well-suited for a stable world where the future can be planned based on past experience. They operate on the hidden assumption that there is one right way of doing things and that the world is (or should be) absolute. What has worked in the past will work in the future. Amber organizations find it hard to accept the need for change. The idea that there is one right way makes them uncomfortable with competition. Historically, they have striven for dominance and monopoly.
+  На индивидуальном уровне люди, действующие на основании Янтарной парадигмы, стремятся к порядку и предсказуемости, а к переменам относятся с подозрением. То же самое справедливо для Янтарных организаций, исключительно хорошо приспособленных к стабильной окружающей среде, где будущее можно планировать на основании прошлого опыта. Они исходят из неявного предположения, что существует только один правильный способ все делать, а мир неизменен или должен быть таковым. То, что работало в прошлом, должно работать и в будущем. Если обстоятельства меняются и метод «мы всегда так делаем» больше не действует, Янтарным организациям трудно принять необходимость перемен. Убеждение, будто существует только один правильный путь, затрудняет успешную конкуренцию для Янтарных организаций. Исторически они стремятся к доминированию и монополии, а не к соревнованию, поэтому Янтарные организации до сих пор склонны воспринимать конкуренцию с подозрением.
 
 
-  ##### Amber breakthrough 2: Size and stability (formal hierarchies)
+  ##### Янтарное открытие № 2: численность и стабильность
+
+  (формальные иерархии)
 
 
   In Red organizations, power structures are in constant flux as personalities jockey for influence. Amber organizations bring stability to power, with formal titles, fixed hierarchies, and organization charts. The overall structure settles into a well defined hierarchy. The plant manager is in charge of the department heads, who in turn oversee unit managers, line managers, foremen, and operators. Personal allegiance to the chief is no longer needed because everyone knows where they fit in the hierarchy. Much larger organizations become possible, spanning not hundreds but thousands of workers, and they can operate across vast distances. Mankind’s first global organizations―from the Catholic Church to the East India Company―were built on a Amber template.
@@ -121,7 +123,7 @@ intro: >-
   From the vantage point of later stages, this might sound severely limiting. But as a step up from Red, it is major progress. Even people at the bottom of the organization feel that the predictability of routine work is liberating compared to the constant vigilance required in Red organization.. We no longer need to watch out for threats and danger that might come unexpectedly from any direction. We just need to follow the rules.
 
 
-  ##### Amber shadow: the social mask
+  ##### Социальная маска
 
 
   Size and stability become possible because people in Amber are content to stay in their place in return for safety and predictability. People operating from this stage closely identify with their role and position. Amber organizations have invented and generalized the use of titles, ranks, and uniforms to bolster role identification. A bishop’s robe signals that inside is no mere priest. A general’s uniform can hardly be confused with a lieutenant’s or a private’s, even from far away. In factories, the owner, the engineer, the accountant, the foreman, and the machine operator tend to dress differently, even to this day. When we put on our ‘uniform’, we also put on a distinct identity, a social mask. We internalize behaviors that are expected of people with our rank and in our line of work. As a worker, it’s not only that I wear a different clothes to the engineer. I eat in the workers’ mess; he eats in the factory restaurant. And in these places, the subjects of conversation, the jokes, and the type of self-disclosure are vastly different. Social stability comes at the price of wearing a mask, of learning to distance ourselves from our unique nature, from our personal desires, needs, and feelings; instead, we embrace a socially acceptable self.
@@ -130,7 +132,7 @@ intro: >-
   Historically, this hierarchical stratification in organizations paralleled social stratification: The roles you could aspire to depended on your families position in society. It was often very difficult to ‘break the mold’. Fortunately, that rigid social stratification has disappeared in modern societies. Today’s Amber organizations still tend to reinforce hierarchy, albeit in more subtle ways. Promotion is often based on experience and service and sometimes the most qualified do not get the job because they haven’t ticked all the right boxes.
 
 
-  ##### Amber shadow: Us versus them
+  ##### Мы против них
 
 
   Social belonging is paramount in the Amber paradigm. You are part of the group, or you are not―it is “us” versus “them.” This dividing line can be found throughout Amber organizations―nurses versus doctors versus administrators, line versus staff, frontline versus headquarters etc. Amber organizations have definitive silos, and groups eye each other with suspicion across them. Co-operation and trust is enabled through procedures and rules that people have to abide by.
