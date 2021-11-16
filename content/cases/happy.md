@@ -316,7 +316,7 @@ theory:
       vier vom Personal gewählten Personen besteht (vor 2021 wurde nur die
       Hälfte des Ausschusses vom Personal gewählt).
 
-      \\ 
+      \\
 
       Dieser Ansatz wurde etwa 2015 eingeführt.
 
@@ -337,74 +337,113 @@ theory:
       hat.\n"
   - topic: Meetings
     title: Wenige Treffen, Suche nach befreienden Strukturen
-    content: >-
-      Happy ist bestrebt, interne Besprechungen auf ein Minimum zu beschränken.
-      Bei Besprechungen, an denen das gesamte Unternehmen beteiligt ist
-      (wöchentliche Mitarbeiterbesprechung und halbjährlicher Happy Day), setzt
-      Happy auf "befreiende Strukturen", um allen eine gleichberechtigte Stimme
-      zu geben. 
+    content: "Happy ist bestrebt, interne Besprechungen auf ein Minimum zu
+      beschränken. Bei Besprechungen, an denen das gesamte Unternehmen beteiligt
+      ist (wöchentliche Mitarbeiterbesprechung und halbjährlicher Happy Day),
+      setzt Happy auf \"befreiende Strukturen\", um allen eine gleichberechtigte
+      Stimme zu geben.\ 
 
 
-      Ob bei realen Ereignissen oder bei Zoom, die Treffen bei Happy haben befreiende Strukturen. Dabei handelt es sich um eine Reihe von formalisierten Techniken, die dafür sorgen, dass Meetings nicht von einer oder zwei Personen dominiert werden, sondern alle einbeziehen. Einen Überblick über alle 33 Techniken finden Sie unter <https://www.liberatingstructures.com/>
+      Ob bei realen Ereignissen oder bei Zoom, die Treffen bei Happy haben
+      befreiende Strukturen. Dabei handelt es sich um eine Reihe von
+      formalisierten Techniken, die dafür sorgen, dass Meetings nicht von einer
+      oder zwei Personen dominiert werden, sondern alle einbeziehen. Einen
+      Überblick über alle 33 Techniken finden Sie unter
+      <https://www.liberatingstructures.com/>
 
 
-      Hier eine kurze Zusammenfassung einiger Techniken, die bei Happy verwendet werden
+      Hier eine kurze Zusammenfassung einiger Techniken, die bei Happy
+      verwendet werden
 
 
-      #### Spiral Journal: A mindful start
+      #### Spiral Journal: Ein achtsamer Start
 
 
-      Take a piece of A4 paper and fold it into 4. Spend two minutes drawing a spiral, as slowly and as tightly wound as possible, out from the centre. In response to four prompts, give your answers in each of the four quadrants. Then discuss in (breakout room) pairs.
+      Nehmen Sie ein Stück A4-Papier und falten Sie es in 4. Nehmen Sie
+      sich zwei Minuten Zeit, um von der Mitte aus eine Spirale zu zeichnen, die
+      so langsam und eng wie möglich gewickelt ist. Beantworten Sie vier Fragen
+      und geben Sie Ihre Antworten in jedem der vier Quadranten. Diskutieren Sie
+      dann in Zweiergruppen (Breakout Room).
 
-      This is a chance to reflect, and ground yourself. The prompts that are used are:
-
-
-      * "Right now my body is feeling……", 
-
-      * "The challenges I’m bringing with me to this workshop are……", 
-
-      * "Something I have been paying close attention to is………",
-
-      * "Lately it's been important for me to….."
+      Dies ist eine Gelegenheit, zu reflektieren und sich zu erden. Die
+      Aufforderungen, die verwendet werden, sind:
 
 
-      #### Mad Tea: an icebreaker
+      * \"Im Moment fühlt sich mein Körper......\", \r
+
+      * \"Die Herausforderungen, die ich zu diesem Workshop mitbringe,
+      sind......\", \r
+
+      * \"Etwas, auf das ich sehr geachtet habe, ist.........\",\r
+
+      * \"In letzter Zeit war es für mich wichtig,.....\"
 
 
-      Live, you form two circles so everybody is facing another person. Prompts are presented and each person responds in turn in just 30 seconds. (eg, "The current crisis is making me feel …." and "Things that are more important for me now are… ") Then one circle moves round and you face another person.
-
-      It is a high energy activity, giving a chance to meet people quickly. In Zoom, you display the prompt in Chat (and on Broadcast) and split the room into pairs for 90 seconds, sending out a broadcast at the halfway point. It still produces a buzz.
+      #### Mad Tea: ein Eisbrecher
 
 
-      #### W3: What? So What? Now What?
+      Bilden Sie zwei Kreise, so dass jeder einer anderen Person
+      gegenübersitzt. Es werden Fragen gestellt, und jede Person antwortet in
+      nur 30 Sekunden. (z. B. \"Die aktuelle Krise gibt mir das Gefühl, ....\"
+      und \"Die Dinge, die für mich jetzt wichtiger sind, sind...\") Dann dreht
+      sich ein Kreis und man steht einer anderen Person gegenüber.
+
+      Es handelt sich um eine energiegeladene Aktivität, die die
+      Möglichkeit bietet, schnell Leute kennenzulernen. In Zoom zeigen Sie die
+      Aufforderung im Chat (und in der Übertragung) an und teilen den Raum für
+      90 Sekunden in Paare auf, wobei nach der Hälfte der Zeit eine Übertragung
+      gesendet wird. Das erzeugt immer noch einen Buzz.
 
 
-      W3 is a great way to reflect on a discussion or a process and step away from self-generating beliefs. It simply consist of asking three questions, each to be considered first alone and then in pairs, to base decisions on what has been answered:
+      #### W3: Was? Was nun? Was jetzt?
 
 
-      * What? What did you see, feel, hear, think?
-
-      * So What? What are the implications?
-
-      * Now What? What to do next?
-
-
-      #### Triz: What's the worst that could happen?
+      W3 ist eine großartige Methode, um über eine Diskussion oder einen
+      Prozess nachzudenken und sich von selbst erzeugten Überzeugungen zu lösen.
+      Es besteht einfach darin, drei Fragen zu stellen, die jeweils zuerst
+      alleine und dann paarweise betrachtet werden, um Entscheidungen auf der
+      Grundlage der Antworten zu treffen:
 
 
-      In Triz you look at the worst possible outcome (e.g, what would make this project fail?). Working first alone and then in groups, you examine what could lead to that result. Then, again working first alone and then in groups, you explore which of those things your organisation is doing.
+      * Was? Was haben Sie gesehen, gefühlt, gehört, gedacht?\r
+
+      * Was also? Was sind die Auswirkungen?\r
+
+      * Was jetzt? Was ist als nächstes zu tun?
 
 
-      Happy’s prompt was *"How can you ensure you respond to this crisis in a way that is reliably disastrous for yourself and others?"*. There was a lot of talk of Trump and injecting Dettol, but also of issues like "failing to adapt".
+      #### Triz: Was ist das Schlimmste, was passieren kann?
 
 
-      #### Troika: Consultation in threes
+      In Triz befasst man sich mit dem schlimmstmöglichen Ergebnis (z. B.:
+      Woran würde das Projekt scheitern?). Sie arbeiten zunächst allein und dann
+      in Gruppen und untersuchen, was zu diesem Ergebnis führen könnte. Dann
+      untersuchen Sie, wiederum zunächst allein und dann in Gruppen, welche
+      dieser Dinge Ihre Organisation tut.
 
 
-      What challenge or issue would you like help on? Troika groups three people together. Each in turn raises their issue and explains it to the others. In real life, they then turn their back (so the others can't see their response and facial expression) and hear the other two discuss their issue for 5 minutes.
+      Die Aufforderung von Happy lautete *\"Wie können Sie sicherstellen,
+      dass Sie auf diese Krise so reagieren, dass sie für Sie selbst und andere
+      zuverlässig katastrophal ist \"*. Es wurde viel über Trump und die
+      Injektion von Dettol gesprochen, aber auch über Themen wie \"mangelnde
+      Anpassung\".
 
 
-      Online, you can turn your back. But it is actually more effective than normal to turn off your video and be able to not just hear the other two colleagues but not see them too. It is remarkable how often real insights result from this process.
+      #### Troika: Konsultation zu dritt
+
+
+      Bei welcher Herausforderung oder welchem Problem wünschen Sie Hilfe?
+      Die Troika setzt sich aus drei Personen zusammen. Jeder bringt der Reihe
+      nach sein Problem vor und erklärt es den anderen. Im wirklichen Leben
+      drehen sie sich dann um (damit die anderen ihre Antwort und ihren
+      Gesichtsausdruck nicht sehen können) und hören 5 Minuten lang zu, wie die
+      anderen beiden ihr Problem diskutieren.
+
+
+      Online können Sie sich abwenden. Aber es ist tatsächlich effektiver
+      als normal, das Video abzuschalten und die beiden anderen Kollegen nicht
+      nur zu hören, sondern auch nicht zu sehen. Es ist bemerkenswert, wie oft
+      sich aus diesem Prozess echte Erkenntnisse ergeben."
   - topic: Decision Making
     title: Decisions made by front line, CEO makes no decisions
     content: >-
