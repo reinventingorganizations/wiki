@@ -103,7 +103,7 @@ inPractice: >-
 
   * **Apprentissage** : la prise de décision par sollicitation d'avis sert de formation sur le tas. Les conseils proviennent de personnes qui comprennent la situation et se soucient du résultat. Aucune autre forme d'éducation ou de formation ne peut égaler cette expérience en temps réel.
 
-  * **Meilleures décisions** : les chances de parvenir à la meilleure décision sont meilleures que dans les approches hiérarchiques classiques. La personne qui décide a l'avantage d'être plus proche du problème et doit assumer la responsabilité des conséquences de sa décision. Les conseils reçus apportent une contribution diversifiée et soulèvent ainsi des questions importantes et des perspectives nouvelles.
+  * **Meilleures décisions** : les chances de parvenir à la meilleure décision sont meilleures que dans les approches hiérarchiques classiques. La décideuse a l'avantage d'être plus proche du problème et doit assumer la responsabilité des conséquences de sa décision. Les conseils reçus apportent une contribution diversifiée et soulèvent ainsi des questions importantes et des perspectives nouvelles.
 
   * **Fun** : le processus est tout simplement amusant pour le décideur, car il reflète la joie que l'on trouve dans la pratique des sports d'équipe. La sollicitation d'avis stimule l'initiative et la créativité; cette dynamique est renforcée par les apports experts d'autres personnes dans l'organisation.
 
@@ -165,7 +165,7 @@ inPractice: >-
   #### Donner l'exemple
 
 
-  Lorsque la sollicitation d'avis est mise en place au tout début, le fondateur et/ou le PDG doivent donner l'exemple. Le pouvoir est initialement détenu par les dirigeants de l'organisation, et il n'est pas distribué par magie - [la distribution réussie du leadership exige un effort attentif et proactif](https://medium.com/enspiral-tales/how-to-grow-distributed-leadership-7f6b25f0361c). En servant de modèle, les autres s'inspireront de leur comportement.  
+  Lorsque la sollicitation d'avis est mise en place au tout début, le fondateur et/ou la PDG doivent donner l'exemple. Le pouvoir est initialement détenu par les dirigeants de l'organisation, et il n'est pas distribué par magie - [la distribution réussie du leadership exige un effort attentif et proactif](https://medium.com/enspiral-tales/how-to-grow-distributed-leadership-7f6b25f0361c). En servant de modèle, les autres s'inspireront de leur comportement.  
 
 
   **Donner l'exemple** peut prendre plusieurs formes : 
@@ -196,7 +196,7 @@ inPractice: >-
   Certaines méthodes, comme Holacracy, considèrent qu'une objection n'est valable que si l'argument passe des tests stricts, **si elle rend un problème plus grave par exemple.** Un collègue ne peut pas bloquer une proposition simplement parce qu'il pense avoir une meilleure proposition, ou parce qu'il n'aime pas une idée.
 
 
-  (pour une description de la décision fondée sur le consentement, voir <https://thedecider.app/consent-decision-making>)
+  (Pour une description de la décision fondée sur le consentement, voir <https://thedecider.app/consent-decision-making>)
 
 
   #### La sollicitation d'avis au sein d'une hiérarchie
