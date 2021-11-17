@@ -6,47 +6,47 @@ name: Résolution de conflit
 sortOrder: 4
 category: Daily practices
 intro: >-
-  Le thème de la résolution des conflits comprend la manière dont les conflits
-  sont traités et par qui. En particulier, les types de processus utilisés, les
-  facteurs qui réduisent l'évitement des conflits et les structures qui
-  empêchent les conflits.
+  Le thème de la résolution de conflit traite de la manière dont les conflits
+  sont traités et par qui. Plus particulièrement, nous allons parler des types
+  de processus utilisés, des facteurs qui réduisent l'évitement des conflits et
+  d'une organisation qui prévient les conflits.
 
 
   ![](/media/conflict.jpg)
 perspective: >-
-  La résolution des conflits est un élément vital du système dans une
-  organisation Opale. S'il n'y a pas de patron pour agir en tant que médiateur
-  en cas de conflits, alors un nouveau processus pour gérer les conflits est
-  nécessaire. Dans une organisation Opale, la résolution des conflits est basée
-  sur les relations entre pairs. Sans cette approche, l'organisation trouverait
-  très difficile, voire impossible, de fonctionner.
+  La résolution de conflit est un élément vital du système dans une organisation
+  Opale. S'il n'y a pas de patron pour agir en tant que médiateur en cas de
+  conflit, alors un nouveau processus pour gérer les conflits est nécessaire.
+  Dans une organisation Opale, la résolution de conflit repose sur les relations
+  entre pairs. Sans cette approche, l'organisation aurait beaucoup de
+  difficultés pour fonctionner; voire ce serait impossible.
 
 
-  La plupart des organisations Opale reposent sur certaines hypothèses concernant la nature humaine: que les travailleurs sont des adultes réfléchis et dignes de confiance, capables de rendre des comptes et d'être responsables de leurs décisions et de leurs actions. Dans un lieu de travail basé sur les hypothèses de l'Opale, un processus clair de résolution des conflits, associé à une formation appropriée, donne aux gens le chemin et les compétences nécessaires pour surmonter les désaccords avec maturité et grâce
+  La plupart des organisations Opale fonctionnent en partant de certaines hypothèses sur la nature humaine: que les travailleurs sont des adultes réfléchis et dignes de confiance, capables de rendre des comptes et d'être responsables de leurs décisions et de leurs actions. Dans un environnement de travail basé sur ces hypothèses Opale, un processus clair de résolution de conflit, associé à une formation appropriée, donne aux gens la direction et les compétences nécessaires pour surmonter les désaccords avec maturité et grâce.
 
 
-  Chaque étape historique a donné naissance à une perspective distincte sur la résolution des conflits et à des pratiques très différentes: 
+  Chaque stade d'évolution humaine a donné naissance à une vision différente et à des pratiques très différente sur la résolution de conflit.
 
 
   #### **Organisations Rouge**
 
 
-  Dans le [paradigme rouge](https://fr--reinventingorganizations-wiki.netlify.app/theory/red-organizations/), il y a un exercice dominant du pouvoir par le patron ou le chef pour garder les autres en ligne. La peur est le ciment de l'organisation. En général, les conflits sont gérés par la répression, le pouvoir ou la domination, et des règles strictes sont appliquées par peur des conséquences.
+  Dans le [paradigme Rouge](https://fr--reinventingorganizations-wiki.netlify.app/theory/red-organizations/), le patron ou le chef détient l'exercice dominateur du pouvoir pour mettre les autres au pas. La peur est le ciment de l'organisation. En général, les conflits sont gérés par la répression, le pouvoir ou la domination, et le respect des règles, strictes, est garanti par la peur des conséquences.
 
 
   #### **Organisations Ambre**
 
 
-  Le [paradigme ambre](https://fr--reinventingorganizations-wiki.netlify.app/theory/amber-paradigm-and-organizations/) a formalisé des rôles au sein d'une structure pyramidale hiérarchique, d'un commandement et d'un contrôle descendant (quoi et comment). La stabilité est valorisée avant tout et est maintenue à travers des rôles et des processus clairement définis.
+  Le [paradigme Ambre](https://fr--reinventingorganizations-wiki.netlify.app/theory/amber-paradigm-and-organizations/) formalise des rôles au sein d'une structure pyramidale hiérarchique, d'un commandement et d'un contrôle descendant (décide quoi et comment). La stabilité est valorisée avant tout et est maintenue à travers des rôles et des processus clairement définis.
 
 
-  Les méthodes de gestion des conflits incluent l'évitement ou la suppression. Les règles sont imposées par ceux qui ont autorité et peuvent être appliquées par voie de poursuites judiciaires. Ces types d'organisations disposent de processus RH solides pour gérer les conflits et les griefs entre les employés et l'employeur.
+  Les méthodes de gestion de conflit comprennent l'évitement ou la suppression du conflit. Les règles sont imposées par ceux qui ont autorité et meur respect est appliqué par les voies légales et judiciaires. Ces types d'organisations disposent de processus RH solides pour gérer les conflits et les griefs entre les employés et l'employeur.
 
 
   #### **Organisations Orange**
 
 
-  Dans le [paradigme orange](https://fr--reinventingorganizations-wiki.netlify.app/theory/orange-paradigm-and-organizations/), il y a aussi une structure hiérarchique, mais la gestion est par objectif (définition du quoi; avec plus de liberté sur le comment). Dans de nombreuses organisations Orange, bien qu'il existe des procédures formelles de résolution des conflits, les conflits sont souvent mal traités. Bien que les individus soient souvent encouragés à résoudre eux-mêmes les désaccords, les conflits doivent souvent être réglés par l'intervention d'un tiers. Cela se fait le plus souvent en renvoyant le problème au patron ou en s'en remettant aux politiques et procédures RH. Ces procédures créent un niveau d'indépendance objective par rapport aux personnes en conflit.
+  Dans le [paradigme Orange](https://fr--reinventingorganizations-wiki.netlify.app/theory/orange-paradigm-and-organizations/), il y a aussi une structure hiérarchique, mais la gestion est par objectif (définition du quoi; avec plus de liberté sur le comment). Dans de nombreuses organisations Orange, bien qu'il existe des procédures formelles de résolution des conflits, les conflits sont souvent mal traités. Bien que les individus soient souvent encouragés à résoudre eux-mêmes les désaccords, les conflits doivent souvent être réglés par l'intervention d'un tiers. Cela se fait le plus souvent en renvoyant le problème au patron ou en s'en remettant aux politiques et procédures RH. Ces procédures créent un niveau d'indépendance objective par rapport aux personnes en conflit.
 
 
   #### **Organisations verte**
