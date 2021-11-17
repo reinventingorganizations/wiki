@@ -67,7 +67,7 @@ inPractice: >-
   Les conseils reçus doivent être pris en considération. Il ne s'agit pas de créer un compromis édulcoré qui répond aux souhaits de chacun. Il s'agit d'accéder à la sagesse collective en vue d'une décision pertinente. Compte tenu de tous les conseils et de tous les points de vue qu'elle a reçus, la personne qui décide choisit ce qu'elle estime être la meilleure ligne de conduite.
 
 
-  Un conseil est simplement un conseil. Aucun collègue, quelle que soit son importance, ne peut dire à la personne qui décide ce qu'elle doit décider. En général, la personne qui décide est celle qui a remarqué le problème en premier, ou la personne la plus impactée par celui-ci. 
+  Un conseil est simplement un conseil. Aucun collègue, quelle que soit son importance, ne peut dire à la personne qui décide ce qu'elle doit décider. En général, la décideuse est celle qui a remarqué le problème en premier, ou la personne la plus impactée par celui-ci. 
 
 
   Dans la pratique, ce processus s'avère remarquablement efficace. Il permet à quiconque de prendre l'initiative. Le pouvoir n'est plus un jeu à somme nulle. Tout le monde détient du pouvoir grâce à la sollicitation d'avis.
@@ -79,13 +79,13 @@ inPractice: >-
   Nous imaginons souvent que les décisions peuvent être prises de deux façons : soit par la personne ayant l'autorité (quelqu'un qui fait la loi ; certaines personnes peuvent être frustrées ; mais au moins les choses avancent), soit par accord unanime (tout le monde a son mot à dire, mais cela peut être lent et donc frustrant).
 
 
-  C'est un malentendu de croire qu'en autogouvernance, les décision sont prises en mettant tout le monde d'accord, ou même en impliquant tout le monde dans la décision. La personne qui lance une sollicitation d'avis doit prendre en considération tous les avis pertinents, mais c'est lui qui reste compétent pour prendre la décision. 
+  C'est un malentendu de croire qu'en autogouvernance, les décisions sont prises en mettant tout le monde d'accord, ou même en impliquant tout le monde dans la décision. La personne qui lance une sollicitation d'avis doit prendre en considération tous les avis pertinents, mais c'est elle qui reste compétente pour prendre la décision. 
 
 
   Le consensus peut sembler séduisant, mais donner à chacun un droit de veto ne rend pas forcément les choses plus efficaces. Avec la sollicitation d'avis, le pouvoir et la responsabilité incombent à la personne qui décide. Par conséquent, personne ne détient le pouvoir de bloquer des décisions.
 
 
-  La résolution du problème reste clairement entre les mains d'une seule personne : la personne qui décide. Convaincue d'avoir pris la meilleure décision possible, elle est en capacité de la mener à bien avec enthousiasme et d'assumer sa responsabilité en cas d'erreur.
+  La résolution du problème reste clairement entre les mains d'une seule personne : le décideur. Convaincu d'avoir pris la meilleure décision possible, il est en capacité de la mener à bien avec enthousiasme et d'assumer sa responsabilité en cas d'erreur.
 
 
   La sollicitation d'avis transcende donc à la fois la prise de décision hiérarchique *et* celle basée sur le consensus.
