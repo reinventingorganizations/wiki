@@ -16,10 +16,10 @@ intro: >-
 perspective: >-
   Dans les [](../paradigme-sarcelles-et-organisations/)[organisations
   Opale](../teal-paradigm-and-organizations/), la prise de décision est
-  distribuée à un haut niveau. Les individus ou les équipes sur le terrain ont
-  la possibilité de prendre les décisions qui impactent leur travail. Même si
-  ces décisions n'ont pas besoin d'être validées par une hiérarchie ou un
-  consensus, il est attendu d'eux qu'ils impliquent des experts et les personnes
+  distribuée à un haut degré. Les individus ou les équipes sur le terrain ont la
+  possibilité de prendre les décisions qui impactent leur travail. Même si ces
+  décisions n'ont pas besoin d'être validées par une hiérarchie ou un consensus,
+  il est attendu d'eux qu'ils impliquent des experts et les personnes
   concernées.
 
 
@@ -29,7 +29,7 @@ perspective: >-
   #### Organisations Rouges
 
 
-  Dans le [paradigme Rouge](../red-organizations/), toutes les décisions, peu importe leur degré d'importance, sont prises par le.la chef.fe. Les employé.e.s doivent demander son approbation, ou risquent de graves conséquences. Les organisations rouges peuvent être efficaces, mais le contrôle exercé par la peur limite la motivation de chacun.e à prendre des décisions autonomes.
+  Dans le [paradigme Rouge](../red-organizations/), toutes les décisions, peu importe leur degré d'importance, sont prises par le chef. Les employés doivent demander son approbation, ou risquent de graves conséquences. Les organisations rouges peuvent être efficaces, mais le contrôle exercé par la peur limite la motivation de chacune à prendre des décisions autonomes.
 
 
   #### Organisations Ambre
@@ -47,7 +47,7 @@ perspective: >-
   #### Organisations Vertes
 
 
-  Les [](../paradigme-et-organisations-vertes/)[organisations Vertes](../green-paradigm-and-organizations/), axées sur les valeurs et la raison d'être, s'efforcent d'tre au service des multiples parties prenantes. Par exemple, les employé.e.s en première ligne sont souvent encouragé.e.s à prendre des décisions importantes sans l'approbation des échelons supérieurs, dans l'intérêt des clients et de l'ensemble des parties prenantes. Ils sont en contact avec les problèmes quotidiens et on leur fait confiance pour trouver de meilleures solutions que les "experts" qui peuvent en être éloignés. L'accent est mis sur le maintien d'une culture forte, souvent "familiale". On accorde beaucoup de valeur au consensus.
+  Les [](../paradigme-et-organisations-vertes/)[organisations Vertes](../green-paradigm-and-organizations/), axées sur les valeurs et la raison d'être, s'efforcent d'tre au service des multiples parties prenantes. Par exemple, les employés en première ligne sont souvent encouragés à prendre des décisions importantes sans l'approbation des échelons supérieurs, dans l'intérêt des clients et de l'ensemble des parties prenantes. Ils sont en contact avec les problèmes quotidiens et on leur fait confiance pour trouver de meilleures solutions que les "experts" qui peuvent en être éloignés. L'accent est mis sur le maintien d'une culture forte, souvent "familiale". On accorde beaucoup de valeur au consensus.
 
 
   #### Organisations Opale
