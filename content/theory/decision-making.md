@@ -143,7 +143,7 @@ inPractice: >-
   * L'organisation peut utiliser un logiciel de prise de décision comme [Loomio](https://www.loomio.org/), un outil gratuit et open-source. Voici comment on utilise la sollicitation d'avis sur [Loomio](https://www.loomio.org/) : lancer une discussion pour cadrer le sujet et recueillir des contributions, poster une proposition afin que toutes les personnes concernées par la question puissent exprimer leur position, puis le décideur final précise le résultat retenu (en informant automatiquement l'ensemble du groupe).
 
 
-  [Equal Experts](https://www.equalexperts.com), un réseau de consultants informatiques basé au Royaume-Uni et spécialisé dans **la distribution agile**, a écrit un livre blanc en opensource sur son expérience de la mise en place de la sollicitation d'avis (cette organisation compte environ 1100 membres en 2021). Ce document est disponible ici : <https://advice-process.playbook.ee>
+  [Equal Experts](https://www.equalexperts.com), un réseau de consultants informatiques basé au Royaume-Uni et spécialisé dans distribution agile de logiciels, a écrit un livre blanc en opensource sur son expérience de la mise en place de la sollicitation d'avis (cette organisation compte environ 1100 membres en 2021). Ce document est disponible ici : <https://advice-process.playbook.ee>
 
 
   #### État d'esprit nécessaire et formation
