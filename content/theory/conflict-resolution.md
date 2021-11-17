@@ -58,34 +58,34 @@ perspective: >-
   #### **Organisations Opale**
 
 
-  Dans les organisations Opale, le conflit est considéré comme faisant naturellement partie des interactions humaines; et, lorsqu'il est accompagné dans un cadre sécurisé, il est souvent considéré comme sain et créatif. Un conflit géré avec grâce et tendresse peut créer des ouvertures et un apprentissage pour toutes les personnes impliquées. Dans les organisations Opale, du temps est régulièrement consacré à faire remonter les conflits à la surface et à les traiter dans des formats en face à face ou en groupe. Souvent, des pratiques formelles de résolution de conflit en plusieurs étapes sont utilisées et chacune est formée à la gestion de conflit. La résolution d'un conflit est limitée aux parties impliquées, aux médiateurs ou aux pairs qui peuvent être invités à faire partie d'un groupe de médiation.  Ce type de comité a rarement la responsabilité d'imposer une solution. Son but est plutôt d'aider les parties concernées à trouver une solution par elles-mmes.
+  Dans les organisations Opale, le conflit est considéré comme faisant naturellement partie des interactions humaines; et lorsqu'il est accompagné dans un cadre sécurisé, il est souvent considéré comme sain et créatif. Un conflit géré avec grâce et tendresse peut créer des ouvertures et un apprentissage pour toutes les personnes impliquées. Dans les organisations Opale, du temps est régulièrement consacré à faire remonter les conflits à la surface et à les traiter dans des formats en face à face ou en groupe. Souvent, des pratiques formelles de résolution de conflit en plusieurs étapes sont utilisées et chacune est formée à la gestion de conflit. La résolution d'un conflit est limitée aux parties impliquées, aux médiateurs ou aux pairs qui peuvent être invités à faire partie d'un groupe de médiation.  Ce type de comité a rarement la responsabilité d'imposer une solution. Son but est plutôt d'aider les parties concernées à trouver une solution par elles-mmes.
 inPractice: >-
-  **Une culture organisationnelle qui soutient une résolution efficace des
-  conflits**
+  **Une culture organisationnelle qui accompagne efficacement la résolution de
+  conflit**
 
 
-  Les mécanismes de résolution des conflits peuvent être difficiles à mettre en place et à maintenir. Le processus est efficace dans la mesure où il existe une culture sur le lieu de travail où les gens se sentent en sécurité et encouragés à se tenir mutuellement responsables, même lorsque cela ne leur convient pas.
+  Les mécanismes de résolution de conflit peuvent être difficiles à mettre en place et à maintenir. Le processus est efficace dans la mesure où la culture du lieu de travail fait que les gens se sentent en sécurité et sont encouragés à se demander mutuellement des comptes, même lorsque cela est difficile à faire.
 
 
-  Voici quelques principes de base qui sous-tendent de nombreuses approches du conflit de l'organisation Opale dans une culture de soutien:
+  Voici quelques principes de base qui sous-tendent de nombreuses approches du conflit dans les organisations Opale et qui garantissent une culture d'accompagnement du conflit:
 
 
-  * Il est impossible de changer les autres. Nous ne pouvons que nous changer.
+  * Il est impossible de changer les autres. Nous ne pouvons que nous changer nous-mmes.
 
-  * Nous prenons possession de nos pensées, croyances, paroles et actions.
+  * Nous prenons la responsabilité de nos pensées, croyances, paroles et actions.
 
   * Nous ne répandons pas de rumeurs.
 
   * Nous ne parlons pas dans le dos de quelqu'un.
 
-  * Nous résolvons les désaccords individuellement et n'entraînons pas d'autres personnes dans le problème.
+  * Nous résolvons les désaccords en face à face et n'entraînons pas les autres personnes dans le problème.
 
-  * Nous ne blâmons pas les problèmes sur les autres. Lorsque nous avons envie de blâmer, nous le prenons comme une invitation à réfléchir à la manière dont nous pourrions faire partie du problème (et de la solution).
+  * Nous ne blâmons les autres pour les problèmes que nous rencontrons. Lorsque cela nous arrive, nous le prenons comme une invitation à réfléchir en quoi nous faisons partie du problème (et de la solution).
 
   * Nous nous concentrons sur les forces plus que sur les faiblesses, sur les opportunités plus que sur les problèmes.
 
 
-  Par conséquent, en plus des processus spécifiques de résolution des conflits, d'autres structures sont nécessaires pour créer et maintenir ce type de culture de soutien. Par exemple, de nombreuses organisations trouvent utile d'établir un ensemble de valeurs et de traduire ces valeurs en comportements concrets qui sont soit encouragés, soit déclarés inacceptables par les collègues. De nombreuses organisations Opale instituent également des pratiques de réunion spécifiques pour aider les participants à interagir les uns avec les autres à partir d'**un lieu d'intégrité**, pour garder leur ego sous contrôle et pour s'assurer que la voix de chacun est entendue. Cela peut être fait, par exemple, en commençant une réunion par une minute de silence, en terminant une réunion par une ronde d'appréciation ou un processus de prise de décision structuré. ***Un autre élément clé d'une culture de soutien est l'espace de bureau, qui doit se sentir en sécurité, offrir un lieu de réflexion tranquille et encourager l'intégrité individuelle et collective.***
+  Par conséquent, en plus des processus spécifiques de résolution de conflit, d'autres structures d'organisation sont nécessaires pour créer et maintenir ce type de culture d'accompagnement du conflit. Par exemple, de nombreuses organisations trouvent utile d'établir une charte de valeurs et de traduire ces valeurs en comportements concrets qui sont soit encouragés, soit déclarés inacceptables par les collègues. De nombreuses organisations Opale mettent également en place des pratiques d'animation réunions spécifiques pour aider les participants à interagir les uns avec les autres en garantissant un environnement où l'on peut tre soi, garder son ego sous contrôle et pour s'assurer que la voix de chacun est entendue. Cela peut être fait, par exemple, en commençant une réunion par une minute de silence, en terminant une réunion par une ronde d'appréciation ou un processus de prise de décision structuré. ***Un autre élément clé d'une culture de soutien est l'espace de bureau, qui doit se sentir en sécurité, offrir un lieu de réflexion tranquille et encourager l'intégrité individuelle et collective.***
 
 
   #### **Comment les conflits sont résolus**
