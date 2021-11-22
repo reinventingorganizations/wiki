@@ -46,7 +46,7 @@ perspective: >-
   #### **Organisations Orange**
 
 
-  Dans le [paradigme Orange](https://fr--reinventingorganizations-wiki.netlify.app/theory/orange-paradigm-and-organizations/), il y a aussi une structure hiérarchique, mais le management repose sur des objectifs (définition du quoi; avec plus de liberté sur le comment). Dans de nombreuses organisations Orange, bien qu'il existe des procédures formelles de résolution de conflit, les conflits sont souvent mal traités. Bien que les individus soient encouragés à résoudre eux-mêmes leurs désaccords, les conflits doivent souvent être réglés par l'intervention d'un tiers. Cela se fait le plus souvent en renvoyant le problème à la cheffe ou en s'en remettant aux politiques et procédures RH. **Ces procédures créent un degré d'autonomie objective par rapport aux personnes en conflit**.
+  Dans le [paradigme Orange](https://fr--reinventingorganizations-wiki.netlify.app/theory/orange-paradigm-and-organizations/), il y a aussi une structure hiérarchique, mais le management repose sur des objectifs (définition du quoi; avec plus de liberté sur le comment). Dans de nombreuses organisations Orange, bien qu'il existe des procédures formelles de résolution de conflit, les conflits sont souvent mal traités. Bien que les individus soient encouragés à résoudre eux-mêmes leurs désaccords, les conflits doivent souvent être réglés par l'intervention d'un tiers. Cela se fait le plus souvent en renvoyant le problème à la cheffe ou en s'en remettant aux politiques et procédures RH. Ces procédures créent un degré d'autonomie objective par rapport aux personnes en conflit.
 
 
   #### **Organisations Verte**
