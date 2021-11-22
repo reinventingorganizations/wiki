@@ -120,7 +120,7 @@ inPractice: >-
   ##### ***Process de résolution de conflit***
 
 
-  Dans les organisations autogérées, avoir un processus de résolution de conflit clair et bien compris aide les gens à soulever des problèmes. Les mécanismes typiques de résolution des conflits comprennent: une discussion individuelle, une médiation par un pair et une médiation par un panel. Certaines organisations utilisent également le coaching d'équipe ou individuel pour surmonter un bouleversement.
+  Dans les organisations autogérées, avoir un processus de résolution de conflit clair et bien compris aide les gens à soulever les problèmes. Les mécanismes typiques de résolution de conflit comprennent: une discussion en face à face, une médiation par un pair et une médiation par un comité. Certaines organisations utilisent également le coaching d'équipe ou individuel pour surmonter un bouleversement.
 
 
   Par exemple, :
@@ -130,9 +130,9 @@ inPractice: >-
 
   * S'ils ne parviennent pas à trouver une solution acceptable pour les deux, ils nomment un collègue en qui ils ont tous les deux confiance pour agir en tant que médiateur. Le médiateur n’impose pas de décision. Il ou elle aide plutôt les participants à trouver leur propre solution.
 
-  * Si la médiation échoue, un panel de collègues concernés par le sujet est convoqué. Là encore, le panel n'impose pas de solution.
+  * Si la médiation échoue, un comité de collègues concernés par le sujet est convoqué. Là encore, le comité n'impose pas de solution.
 
-  * Si aucune résolution n’est trouvée, le fondateur ou le président pourrait être appelé dans le panel pour ajouter au poids moral du panel (mais encore une fois, ne pas imposer une solution).
+  * Si aucune résolution n’est trouvée, le fondateur ou le président pourrait être appelé dans le comité pour ajouter au poids moral du comité (mais encore une fois, ne pas imposer une solution).
 
 
   ##### ***Formation aux compétences interpersonnelles***
