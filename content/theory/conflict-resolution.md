@@ -91,7 +91,7 @@ inPractice: >-
   #### **Comment les conflits sont résolus**
 
 
-  Dans un lieu de travail conventionnel, les gens soulèvent souvent un différend avec un patron pour régler le problème. Dans les organisations autogérées, les désaccords sont résolus entre pairs, souvent à l'aide d'un processus de résolution de conflits. Les pairs se tiennent mutuellement responsables de leurs engagements et responsabilités mutuels. Tenir des collègues responsables de cette manière peut généré du malaise et les organisations Opale offrent parfois un soutien et des pratiques qui encouragent l'ouverture et invite l'intelligence émotionnelle à émerger. Globalement, les organisations Opale mettent en place trois types de pratiques pour aider à résoudre les conflits.
+  Dans un lieu de travail conventionnel, souvent les gens signalent un différend à leur patron pour qu'il régle le problème. Dans les organisations autogérées, les désaccords sont résolus entre pairs, souvent à l'aide d'un processus de résolution de conflits. Les pairs se tiennent mutuellement responsables de leurs engagements et responsabilités. Tenir des collègues responsables de cette manière peut mettre mal à l'aise et les organisations Opale offrent parfois un accompagnement et des pratiques qui encouragent l'ouverture et favorisent l'intelligence émotionnelle. Globalement, les organisations Opale mettent en place trois types de pratiques pour aider à résoudre les conflits.
 
 
   * Premièrement, des méthodes sont développées pour aider les gens à faire remonter les tensions à la surface.
@@ -104,17 +104,17 @@ inPractice: >-
   ##### ***Faire remonter les tensions à la surface***
 
 
-  Il peut être difficile pour quelqu'un de tenir tête à un collègue et de dire: «Nous devons parler.». Les processus utilisés par certaines organisations comprennent des réunions de groupe régulières, des retraites d'entreprise, des cercles d'objectifs et des journées autour des valeurs. Le *"surfaçage"* devient un moyen d'aider les autres à considérer le conflit comme normal, créatif et un moyen d'apprendre  de la diversité et de la différence. Ces pratiques permettent à d'autres de partager leurs vulnérabilités, voir [création d'espaces sûrs](https://fr--reinventingorganizations-wiki.netlify.app/theory/safe-space/).
+  Il peut être difficile pour quelqu'un de tenir tête à un collègue et de dire: «Il faut qu'on  parle.». Les processus utilisés par certaines organisations comprennent des réunions de groupe régulières, des retraites d'entreprise, des cercles dédiés et des journées autour des valeurs. Ce processus de mise à jour des conflits devient un moyen d'aider les autres à considérer le conflit comme normal, créatif et comme une façon d'apprendre de la diversité et de la différence. Ces pratiques permettent à d'autres de partager leurs vulnérabilités, voir [création d'espaces de confiance](https://fr--reinventingorganizations-wiki.netlify.app/theory/safe-space/).
 
 
   Voici quelques exemples:
 
 
-  * Chez ESBZ, une école de Berlin, chaque classe se réunit à une heure fixe chaque semaine pour discuter et gérer les tensions dans le groupe. La réunion est animée par un étudiant, qui prend en charge un certain nombre de règles de base qui assurent la sécurité de la discussion.
+  * Chez ESBZ, une école berlinoise, chaque classe se réunit à une heure fixe chaque semaine pour discuter et gérer les tensions dans le groupe. La réunion est animée par un étudiant, qui garantit un certain nombre de règles de base qui assurent la sécurité de la discussion.
 
-  * Chez Heiligenfeld, une fois par an, les collègues de chaque équipe évaluent la qualité de leur interaction avec les autres équipes. Le résultat est une «carte de chaleur» à l'échelle de l'entreprise qui révèle quelles équipes devraient avoir une conversation pour améliorer leur collaboration.
+  * Chez Heiligenfeld, une fois par an, les collègues de chaque équipe évaluent la qualité de leur interaction avec les autres équipes. Le résultat est une «carte de chaleur» à l'échelle de l'entreprise qui révèle quelles équipes devraient se parler pour améliorer leur collaboration.
 
-  * RHD organise une réunion bimensuelle sur les «-ismes sur le lieu de travail» Toute personne estimant que l'organisation devrait prêter attention à une forme ou à une occurrence spécifique de racisme, de sexisme ou de tout autre «-isme» peut participer à la réunion.
+  * RHD organise une réunion bimensuelle sur les «-ismes sur le lieu de travail». Toute personne estimant que l'organisation devrait prêter attention à une forme ou à une occurrence spécifique de racisme, de sexisme ou de tout autre «-isme» peut participer à la réunion.
 
 
   ##### ***Process de résolution de conflit***
