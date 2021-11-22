@@ -2,72 +2,78 @@
 layout: article
 tags: theory
 key: Role Definition and Allocation
-name: Role Definition and Allocation
+name: Rollendefinition und -zuweisung
 sortOrder: 9
 category: People practices
-intro: "This article describes how roles are defined and allocated in Teal
-  organizations.\r
-
-  \n"
+intro: Dieser Artikel beschreibt, wie in Teal-Organisationen Rollen definiert
+  und zugewiesen werden.
 perspective: >-
-  In Teal organizations, members fill roles that are created, exchanged and
-  discontinued in reponse to current needs. Documentation of these varies from
-  the precise to the informal, based on the nature of the organization.
+  Die Mitglieder von Teal-Organisationen füllen Rollen aus, die je nach den
+  aktuellen Erfordernissen geschaffen, ausgetauscht und wieder abgeschafft
+  werden. Die Dokumentation dieser Rollen variiert je nach Art der Organisation
+  von präzise bis informell.
+
+  ﻿
+
+  Die Folgen dieses Ansatzes sind in der Regel:
+
+  ﻿
+
+  * Kein Organigramm, keine Hierarchie
+
+  * Kein formeller Beförderungsprozess
+
+  * Individuelle Verbindlichkeit in einer Reihe von Rollen
+
+  * Fehlen von Stellenbezeichnungen und Stellenbeschreibungen
+
+  * Geteilte Ausübung der traditionellen Managementaufgaben wie Planung, Monitoring, Personalgewinnung, Onboarding, Coaching usw.
+
+  * Weiterentwicklung der Rollen mit zunehmenden Fähigkeiten und Ansehen der Mitarbeiter
+
+  * Entwicklungsmöglichkeiten für neue Kolleginnen
+
+  ﻿
+
+  Rollendefinition und -zuweisung in Organisationen der früheren Stadien hingegen lassen sich folgendermaßen zusammenfassen:
 
 
-  Consequences of this approach are, commonly:
+  #### Rote Organisationen
 
 
-  * No organization chart No hierarchy
-
-  * No formal promotion process
-
-  * Individual commitment to a number of roles
-
-  * Lack of job titles and job descriptions
-
-  * Sharing of the traditional management tasks of planning, monitoring, recruiting, on-boarding, coaching, etc.
-
-  * Evolution of roles as people gain skills and respect
-
-  * Creation of opportunities for new colleagues
+  In [Roten Organisationen](../red-organizations/) kennzeichnet die Nähe zum Anführer den Status Gruppenmitglieder. Die Rollenzuweisung liegt in seinem Ermessen (oder dem seiner engen Verbündeten). Wenn man sich nicht an die Wünsche des Anführers hält, verliert man wahrscheinlich seinen Status. Loyalität und Erfolg werden wahrscheinlich zu mehr Macht führen. Auch familiäre Bindungen zum Anführer können den Status bestimmen.
 
 
-  In contrast, role definition and allocation in earlier stage organizations can be summarized as follows:
+  #### Bernstein-Organisationen
 
 
-  #### Red Organizations
+  ﻿
+
+  Formale Diagramme, Hierarchien und Titel sind typisch für [Amber-Organisationen](../amber-paradigm-and-organizations/). Rollen und Beförderungen beruhen auf formalen Prozessen. Macht kann abhängen von:
+
+  ﻿
+
+  * der persönlichen Meinung eines ranghöheren Mitglieds
+
+  * spezifischen Kriterien (wie Dienstjahre, Titel oder Qualifikationen)
+
+  * Zugehörigkeit zu einer bestimmten sozialen Gruppe oder Kaste, ethnischen Gruppe oder Geschlecht
 
 
-  In [Red Organizations](../red-organizations/) the status of group members is denoted by their proximity to the leader. Role allocation is at his discretion (or that of his close allies). A failure to align with the leader’s wishes will likely result in a loss of status. Loyalty and success are likely to earn more power. Family ties to the leader may also determine status.
+  #### Orange Organisationen
 
 
-  #### Amber Organizations
+  Die Rollen in [Orange ](../orange-paradigm-and-organizations/)sind statisch, an ein Feld in einem Organigramm gebunden und in einer "Stellenbeschreibung" dokumentiert. Viele Rollen konzentrieren sich teilweise oder ganz auf das "Management" derjenigen, die in der Hierarchie weiter unten stehen. So sind Rollen unweigerlich mit Dienstalter, Titeln und Beförderungen verbunden.
+
+  ﻿
+
+  Damit werden Rollen mit anderen Aktivitäten wie Nachfolgeplanung, Jobrotation und Talentmanagement verwoben. Diese sind darauf ausgerichtet, "High Potentials" für künftige Führungsaufgaben vorzubereiten.
 
 
-  Formal charts, hierarchies and titles are typical in [Amber organizations](../amber-paradigm-and-organizations/). Roles and promotions are based on formal processes. Power can be a function of:
+  #### Grüne Organisationen
 
 
-  * The personal opinion of a higher ranking member
-
-  * Specific criteria (like years of service, title or qualifications)
-
-  * Membership in a particular social group or caste, ethnic group or gender
-
-
-  #### Orange Organizations
-
-
-  Roles in [Orange ](../orange-paradigm-and-organizations/)are fixed, tied to a box in an organization chart, and documented in a “job description”. Many roles focus in part or whole on “managing” those below in the hierarchy. Thus roles are inevitably linked to seniority, title and promotion.
-
-
-  Thus roles become interwoven with other activities like succession planning, job rotation and talent management. These are designed to groom "high potentials" for future management roles
-
-
-  #### Green Organizations
-
-
-  [Green organizations](../green-paradigm-and-organizations/) are similar to Orange in respect of roles. But the emphasis on ‘managing’ others is tempered by encouragement to act as servant leaders. In some companies, subordinates can select the person to fill the role of their manager.
+  ﻿[Grüne Organisationen](../green-paradigm-and-organizations/) sind in Bezug auf die Rollen ähnlich wie Orange. Die Betonung des "Managements" anderer wird jedoch durch die Ermutigung zu einer dienenden Führungsrolle abgemildert. In einigen Unternehmen können die Untergebenen die Person auswählen, die die Rolle ihrer Führungskraft übernimmt.
 inPractice: >-
   #### Roles instead of jobs
 
