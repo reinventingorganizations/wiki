@@ -138,7 +138,7 @@ inPractice: >-
   ##### ***Formation aux compétences interpersonnelles***
 
 
-  Parce que les compétences efficaces de résolution de conflits sont si centrales dans les organisations autogérées, de nombreuses organisations forment tous leurs collègues aux compétences interpersonnelles pour leur permettre de gérer les conflits avec élégance. Généralement dans leurs premières semaines de travail, les nouvelles recrues reçoivent une formation de base comprenant: l'autogestion, l'écoute approfondie, la gestion constructive des conflits et la création d'un environnement sûr. Par exemple, des entreprises comme ESBZ et Buurtzorg forment leurs collègues à la [communication non violente](https://en.wikipedia.org/wiki/Nonviolent_Communication) développée par Marshal Rosenberg.
+  Parce que les compétences efficaces de résolution de conflit sont si centrales dans les organisations autogérées, de nombreuses organisations forment tous leurs collègues aux compétences interpersonnelles pour leur permettre de gérer les conflits avec élégance. Généralement dans leurs premières semaines de travail, les nouvelles recrues reçoivent une formation de base comprenant: l'autogestion, l'écoute approfondie, la gestion constructive des conflits et la création d'un environnement sûr. Par exemple, des entreprises comme ESBZ et Buurtzorg forment leurs collègues à la [communication non violente](https://en.wikipedia.org/wiki/Nonviolent_Communication) développée par Marshal Rosenberg.
 faq:
   - question: If so much time is spent talking through every conflict, when does the
       work get done?
