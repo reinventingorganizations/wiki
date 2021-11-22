@@ -41,7 +41,7 @@ perspective: >-
   #### Rote Organisationen
 
 
-  In [Roten Organisationen](../red-organizations/) kennzeichnet die Nähe zum Anführer den Status Gruppenmitglieder. Die Rollenzuweisung liegt in seinem Ermessen (oder dem seiner engen Verbündeten). Wenn man sich nicht an die Wünsche des Anführers hält, verliert man wahrscheinlich seinen Status. Loyalität und Erfolg werden wahrscheinlich zu mehr Macht führen. Auch familiäre Bindungen zum Anführer können den Status bestimmen.
+  In [Roten Organisationen](../red-organizations/) kennzeichnet die Nähe zum Anführer den Status der Gruppenmitglieder. Die Rollenzuweisung liegt in seinem Ermessen (oder dem seiner engen Verbündeten). Wenn man sich nicht an die Wünsche des Anführers hält, verliert man wahrscheinlich seinen Status. Loyalität und Erfolg werden wahrscheinlich zu mehr Macht führen. Auch familiäre Bindungen zum Anführer können den Status bestimmen.
 
 
   #### Bernstein-Organisationen
