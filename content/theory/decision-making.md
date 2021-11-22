@@ -193,7 +193,7 @@ inPractice: >-
   Donner un tel pouvoir à une objection de principe peut être à la fois précieux et dangereux. Précieux parce que parfois une seule personne perçoit quelque chose d'important que personne d'autre ne voit. D'un autre côté, un tel pouvoir peut devenir un abus si des personnes bloquent les décisions pour des raisons autres que la raison d'être. C'est la raison pour laquelle les groupes qui utilisent la prise de décision basée sur le consentement sont très tatillons sur la notion de blocage et sur la compréhension partagée des règles et des postures de blocage. (Pour un exemple concret, voir le **[Enspiral Decision Agreement](https://handbook.enspiral.com/decisions_agreement.html)).**
 
 
-  Certaines méthodes, comme Holacracy, considèrent qu'une objection n'est valable que si l'argument passe des tests stricts, **si elle rend un problème plus grave par exemple.** Un collègue ne peut pas bloquer une proposition simplement parce qu'il pense avoir une meilleure proposition, ou parce qu'il n'aime pas une idée.
+  Certaines méthodes, comme Holacracy, considèrent qu'une objection n'est valable que si l'argument passe des tests stricts, par exemple, est-ce que l'objection apporte de la valeur ? Un collègue ne peut pas bloquer une proposition simplement parce qu'il pense avoir une meilleure proposition, ou parce qu'il n'aime pas une idée.
 
 
   (Pour une description de la décision fondée sur le consentement, voir <https://thedecider.app/consent-decision-making>)
