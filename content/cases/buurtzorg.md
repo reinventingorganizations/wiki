@@ -328,23 +328,24 @@ theory:
       the Next Stage of Human Consciousness (Kindle Locations 4396-4401). Nelson
       Parker. Kindle Edition:]"
   - topic: Innovation and Product Development
-    title: Buurtzorg develops a new boarding house to support overwhelmed relatives
-      of their patients.
+    title: Buurtzorg entwickelt ein neues Internat zur Unterstützung überforderter
+      Angehöriger ihrer Patienten.
     content: >-
-      One team in the countryside had an idea: A boarding house for patients, to
-      offer the patient's primary caregiver a break. With most patients,
-      [Buurtzorg](http://www.buurtzorgnederland.com/) provides medical care, but
-      someone else - often the patient's husband or wife, sometimes a patient's
-      child - is really the primary caretaker. It is not unusual for the husband
-      or wife, often elderly as well, to be exhausted by the constant care of
-      the patient, sometimes 24 hours a day. If the strain becomes too much, the
-      caregiver can fall sick too.
+      Ein Team auf dem Lande hatte eine Idee: Eine Pension für Patienten, um der
+      Hauptpflegeperson des Patienten eine Pause zu ermöglichen. Bei den meisten
+      Patienten übernimmt [Buurtzorg] (http://www.buurtzorgnederland.com/) die
+      medizinische Versorgung, aber jemand anderes - oft der Ehemann oder die
+      Ehefrau des Patienten, manchmal auch das Kind des Patienten - ist die
+      eigentliche Hauptpflegeperson. Es ist nicht ungewöhnlich, dass der Ehemann
+      oder die Ehefrau, die oft auch älter sind, durch die ständige Pflege des
+      Patienten, manchmal 24 Stunden am Tag, erschöpft sind. Wenn die Belastung
+      zu groß wird, kann auch der Pflegende krank werden.
 
 
-      *Wouldn't it be wonderful*, one team of nurses thought, *if we could have a place where we could take in our patients for a day or two, or even a week - a sort of bed and breakfast and lunch and dinner and care - so that their primary caretaker could take a break and rest?* One of the nurses had inherited a small farmhouse in the countryside. Together, the team transformed it into a Buurtzorg boarding house.
+      *Wäre es nicht wunderbar*, dachte ein Team von Krankenschwestern, *wenn wir einen Ort hätten, an dem wir unsere Patienten für einen oder zwei Tage oder sogar eine Woche aufnehmen könnten - eine Art Bett und Frühstück und Mittagessen und Abendessen und Betreuung -, so dass ihre Hauptpflegeperson eine Pause machen und sich ausruhen könnte?* Eine der Krankenschwestern hatte ein kleines Bauernhaus auf dem Land geerbt. Gemeinsam verwandelte das Team es in eine Buurtzorg-Pension.
 
 
-      The idea of boarding houses will run its own course. If it is meant to be, if it has enough life force, it will attract nurses from other teams to make it happen and carry Buurtzorg into a new dimension of care. Otherwise, it will remain a small scale experiment^[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 200]
+      Die Idee der Internate wird ihren eigenen Lauf nehmen. Wenn sie gewollt ist, wenn sie genügend Lebenskraft hat, wird sie Pflegekräfte aus anderen Teams anziehen, um sie zu verwirklichen und Buurtzorg in eine neue Dimension der Pflege zu führen. Andernfalls wird es ein Experiment im kleinen Rahmen bleiben^[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), Seite 200]
   - topic: Innovation and Product Development
     title: Buurtzorg develops a new service concept, Buurtzorg+, to improve injury
       prevention.
