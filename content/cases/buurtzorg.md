@@ -347,26 +347,30 @@ theory:
 
       Die Idee der Internate wird ihren eigenen Lauf nehmen. Wenn sie gewollt ist, wenn sie genügend Lebenskraft hat, wird sie Pflegekräfte aus anderen Teams anziehen, um sie zu verwirklichen und Buurtzorg in eine neue Dimension der Pflege zu führen. Andernfalls wird es ein Experiment im kleinen Rahmen bleiben^[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), Seite 200]
   - topic: Innovation and Product Development
-    title: Buurtzorg develops a new service concept, Buurtzorg+, to improve injury
-      prevention.
-    content: Two nurses on a [Buurtzorg](https://www.buurtzorgnederland.com/) team
-      found themselves pondering the fact that elderly people, when they fall,
-      often break their hips. Hip replacements are routine surgery, but patients
-      don’t always recover the same autonomy. Could Buurtzorg play a role in
-      preventing its older patients from falling down? The two nurses
-      experimented and created a partnership with a physiotherapist and an
-      occupational therapist from their neighborhood. They advised patients on
-      small changes they could bring to their home interiors, and changes of
-      habits that would minimize risks of falling down. Other teams showed
-      interest, and the approach, now called Buurtzorg+, has spread throughout
-      the country. The two nurses sensed a need, and with the power of
-      self-management acted upon it. Self-management helped the idea to spread.
-      Any team interested in Buurtzorg+ can sign up for a training event that
-      teaches them the basics of how the concept works and how to create such a
-      partnership in their neighborhood^\[Laloux, Frederic. Reinventing
-      Organizations. Nelson Parker (2014), page 203]
+    title: Buurtzorg entwickelt ein neues Dienstleistungskonzept, Buurtzorg+, zur
+      Verbesserung der Verletzungsprävention.
+    content: Zwei Krankenschwestern eines
+      [Buurtzorg](https://www.buurtzorgnederland.com/)-Teams machten sich
+      Gedanken über die Tatsache, dass sich ältere Menschen bei Stürzen häufig
+      die Hüfte brechen. Hüftoperationen sind Routineeingriffe, aber die
+      Patienten erlangen nicht immer die gleiche Selbstständigkeit zurück.
+      Könnte Buurtzorg einen Beitrag dazu leisten, dass seine älteren Patienten
+      nicht stürzen? Die beiden Krankenschwestern experimentierten und schlossen
+      eine Partnerschaft mit einem Physiotherapeuten und einem Ergotherapeuten
+      aus ihrer Nachbarschaft. Sie berieten die Patienten über kleine
+      Veränderungen, die sie in ihrer Wohnung vornehmen konnten, und über die
+      Änderung von Gewohnheiten, die das Risiko eines Sturzes minimieren würden.
+      Andere Teams zeigten Interesse, und der Ansatz, der nun Buurtzorg+ genannt
+      wird, hat sich im ganzen Land verbreitet. Die beiden Krankenschwestern
+      erkannten einen Bedarf und setzten ihn mit der Kraft des Selbstmanagements
+      um. Das Selbstmanagement trug dazu bei, die Idee zu verbreiten. Jedes
+      Team, das sich für Buurtzorg+ interessiert, kann sich für eine
+      Schulungsveranstaltung anmelden, in der es die Grundlagen des Konzepts und
+      den Aufbau einer solchen Partnerschaft in seiner Nachbarschaft
+      lernt^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014),
+      Seite 203]
   - topic: Change Management
-    title: At Buurtzorg, change happens organically.
+    title: Bei Buurtzorg geschieht der Wandel organisch.
     content: "Buurtzorg was created not only out of frustration with the way
       neighborhood nursing companies in the Netherlands had fragmented a noble
       profession into a series of senseless tasks. It also grew out of a new,
