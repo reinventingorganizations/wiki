@@ -30,27 +30,22 @@ profit: non-profit
 theory:
   - topic: Listening to Purpose
     title: Buurtzorg + approach
-    content: "Two nurses on a Buurtzorg team found themselves pondering the fact
-      that elderly people, when they fall, often break their hips. Hip
-      replacements are routine surgery, but patients don’t always recover the
-      same autonomy. Could Buurtzorg play a role in preventing its older
-      patients from falling down? The two nurses experimented and created a
-      partnership with a physiotherapist and an occupational therapist from
-      their neighborhood. They advised patients on small changes they could
-      bring to their home interiors, and changes of habits that would minimize
-      risks of falling down. Other teams showed interest, and the approach, now
-      called Buurtzorg +, has spread throughout the country.\r
+    content: >-
+      Zwei Krankenschwestern eines Buurtzorg-Teams machten sich Gedanken über
+      die Tatsache, dass sich ältere Menschen bei Stürzen häufig die Hüfte
+      brechen. Hüftoperationen sind Routineeingriffe, aber die Patienten
+      erlangen nicht immer die gleiche Selbstständigkeit zurück. Könnte
+      Buurtzorg einen Beitrag dazu leisten, dass seine älteren Patienten nicht
+      stürzen? Die beiden Krankenschwestern experimentierten und schlossen eine
+      Partnerschaft mit einem Physiotherapeuten und einem Ergotherapeuten aus
+      ihrer Nachbarschaft. Sie berieten die Patienten über kleine Veränderungen,
+      die sie in ihrer Wohnung vornehmen konnten, und über die Änderung von
+      Gewohnheiten, die das Risiko eines Sturzes minimieren würden. Andere Teams
+      zeigten Interesse, und der Ansatz, der nun Buurtzorg + genannt wird, hat
+      sich im ganzen Land verbreitet.
 
-      \r
 
-      The two nurses sensed a need, and with the power of self-management
-      acted upon it. Self-management helped the idea to spread. Any team
-      interested in Buurtzorg + can sign up for a training event that teaches
-      them the basics of how the concept works and how to create such a
-      partnership in their neighborhood.^[Laloux, Frederic (2014-02-09).
-      Reinventing Organizations: A Guide to Creating Organizations Inspired by
-      the Next Stage of Human Consciousness (Kindle Locations 4396-4406). Nelson
-      Parker. Kindle Edition.]"
+      Die beiden Krankenschwestern erkannten einen Bedarf und setzten ihn mit der Kraft des Selbstmanagements um. Das Selbstmanagement trug dazu bei, die Idee zu verbreiten. Jedes Team, das sich für Buurtzorg + interessiert, kann sich für eine Schulungsveranstaltung anmelden, in der die Grundlagen des Konzepts vermittelt werden und erklärt wird, wie eine solche Partnerschaft in der eigenen Nachbarschaft aufgebaut werden kann.^[Übersetzt aus Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4396-4406). Nelson Parker. Kindle Edition:]
   - topic: sales-marketing
     title: Has grown from 4 people in 2007 to 10,000 employees in 2016 without using
       any marketing.
