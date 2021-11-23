@@ -246,20 +246,20 @@ theory:
     title: At Buurtzorg the principle emerged that teams can spend a certain amount
       on training without needing to consult.
     content: >-
-      **Personal responsibility for training**
+      **Eigenverantwortung für die Ausbildung**
 
 
-      The nurses that work in self-managing teams decide on their own training needs, and look for the best provider - a medical supplier, a hospital department, or sometimes simply a pharmacist or another Buurtzorg team. It's accepted practice that a team can spend up to 3% of its revenues in training without needing to use the advice process.\
+      Die Krankenschwestern, die in selbstverwalteten Teams arbeiten, entscheiden selbst über ihren Fortbildungsbedarf und suchen sich den besten Anbieter - einen medizinischen Anbieter, eine Krankenhausabteilung oder manchmal einfach einen Apotheker oder ein anderes Buurtzorg-Team. Es ist gängige Praxis, dass ein Team bis zu 3 % seiner Einnahmen für Fortbildung ausgeben kann, ohne den Beratungsprozess in Anspruch nehmen zu müssen.\
 
       \
 
-      Jos de Blok, Buurtzorg’s founder, comments on how this freedom allows nurses to react quickly:
+      Jos de Blok, der Gründer von Buurtzorg, erläutert, wie diese Freiheit es den Krankenschwestern ermöglicht, schnell zu reagieren:
 
 
-      *"A remarkably high number of colleagues get themselves trained in specific medical conditions and technical equipment so that they can assist new clients in the best possible way. From drug pumps to dialysis and breathing devices, they learn how the equipment works and must be operated so that the number of professionals that deals with any client stays low. Because colleagues don’t need to ask if they can learn about something, their motivation to do so increases immediately. “It is as if I just woke up, because I start again to think of all sorts of possibilities,” is what you often hear at Buurtzorg."*
+      *Auffallend viele Kolleginnen und Kollegen lassen sich in bestimmten Krankheitsbildern und technischen Geräten ausbilden, damit sie neuen Kunden bestmöglich helfen können. Von Medikamentenpumpen bis hin zu Dialyse- und Beatmungsgeräten lernen sie, wie die Geräte funktionieren und bedient werden müssen, damit die Zahl der Fachkräfte, die sich um einen Kunden kümmern, gering bleibt. Da die Kollegen nicht fragen müssen, ob sie etwas lernen können, steigt ihre Motivation sofort. "Es ist, als wäre ich gerade aufgewacht, denn ich fange wieder an, an alle möglichen Möglichkeiten zu denken", hört man bei Buurtzorg oft.
 
 
-      As the word spreads that the nurses can handle all sort of devices and techniques, doctors start prescribing treatment methods that improve patients’ lives - say, a drug pump for a person with chronic pain - that fall outside the limited standards handled by a traditional nursing organization.
+      In dem Maße, wie sich herumspricht, dass die Krankenschwestern mit allen möglichen Geräten und Techniken umgehen können, beginnen Ärzte, Behandlungsmethoden zu verschreiben, die das Leben der Patienten verbessern - z. B. eine Medikamentenpumpe für eine Person mit chronischen Schmerzen - und die nicht unter die begrenzten Standards einer traditionellen Pflegeorganisation fallen.
   - topic: Commitment, Working Hours and Flexibility
     title: At Buurtzorg, the structure of small, self-managing teams helps in
       providing flexibility.
