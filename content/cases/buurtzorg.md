@@ -235,13 +235,13 @@ theory:
       **Peer Coaching**
 
 
-      A nurse wrestling with a question can ask her colleagues for help in a group coaching session. *How should she deal with a client who refuses to take life-* saving medication? *How can she help an elderly patient accept help from his children? How to say "No" to clients, to protect herself from burnout?*
+      Eine Krankenschwester, die mit einer Frage ringt, kann ihre Kollegen in einer Gruppen-Coaching-Sitzung um Hilfe bitten. *Wie soll sie mit einem Patienten umgehen, der sich weigert, lebensrettende Medikamente zu nehmen? *Wie kann sie einem älteren Patienten helfen, die Hilfe seiner Kinder anzunehmen? Wie kann sie "Nein" zu Klienten sagen, um sich vor Burnout zu schützen?
 
 
-      Some Buurtzorg teams allocate an hour for peer coaching every month; others convene whenever a team member requests it.
+      Einige Buurtzorg-Teams nehmen sich jeden Monat eine Stunde Zeit für das Peer-Coaching, andere treffen sich, wann immer ein Teammitglied dies wünscht.
 
 
-      “Intervisie,” the process used at Buurtzorg, follows a strict format with ground rules to prevent the group from administering simplistic advice, admonitions, or reassurances to each other. During the core process, members must ask only open-ended questions. This way they become fellow travelers into the mystery of the issue the person is dealing with. A safe space emerges that invites deep listening, authenticity, and vulnerability - the necessary ingredients for inner truth to emerge. The goal is for the nurse to see the problem in a new light and discover her own solutions. It is at once a simple and beautiful process.
+      "Intervisie", der bei Buurtzorg angewandte Prozess, folgt einem strengen Format mit Grundregeln, um zu verhindern, dass die Gruppe sich gegenseitig mit simplen Ratschlägen, Ermahnungen oder Beschwichtigungen versorgt. Während des Kernprozesses dürfen die Mitglieder nur offene Fragen stellen. Auf diese Weise werden sie zu Mitreisenden in das Geheimnis des Problems, mit dem die Person zu tun hat. Es entsteht ein sicherer Raum, der zu tiefem Zuhören, Authentizität und Verletzlichkeit einlädt - die notwendigen Zutaten, damit die innere Wahrheit zum Vorschein kommt. Ziel ist es, dass die Pflegekraft das Problem in einem neuen Licht sieht und ihre eigenen Lösungen entdeckt. Es ist ein einfacher und zugleich schöner Prozess.
   - topic: Training and Coaching
     title: At Buurtzorg the principle emerged that teams can spend a certain amount
       on training without needing to consult.
