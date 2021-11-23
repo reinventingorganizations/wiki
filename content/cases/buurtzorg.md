@@ -131,31 +131,31 @@ theory:
   - topic: Meetings
     title: Small, self-managing teams provide flexibility.
     content: >-
-      #### Team decision making procedure
+      #### Verfahren zur Entscheidungsfindung im Team
 
 
-      [Buurtzorg](https://www.buurtzorgnederland.com/) teams use a very efficient method for problem solving and [decision-making](../decision-making/). They first choose a facilitator. The facilitator is not allowed to make any statements, suggestions, or decisions; she can only ask questions: “What is your proposal?” Or “What is the rationale for your proposal?”. All responses are listed on a flipchart.
+      [Buurtzorg](https://www.buurtzorgnederland.com/) Teams verwenden eine sehr effiziente Methode zur Problemlösung und [Entscheidungsfindung](../decision-making/). Sie wählen zunächst einen Moderator. Die Moderatorin darf keine Aussagen, Vorschläge oder Entscheidungen treffen, sondern nur Fragen stellen: "Was ist Ihr Vorschlag?" Oder "Was ist die Begründung für euren Vorschlag?". Alle Antworten werden auf einem Flipchart notiert.
 
 
-      Then all are reviewed, improved and refined.
+      Dann werden sie überprüft, verbessert und verfeinert.
 
 
-      In a third round, proposals are put up for decision. The basis for decision-making is not consensus. For a solution to be adopted it is enough that nobody has a principled objection. A person cannot veto a decision because she feels another solution (for example, hers!) would have been preferable. The perfect solution that all would embrace wholeheartedly might not exist, and its pursuit could prove exhausting. As long as there is no principled objection, a solution will be adopted, with the understanding that it can be revisited at any time when new information is available.  
+      In einer dritten Runde werden die Vorschläge zur Entscheidung vorgelegt. Die Grundlage für die Entscheidungsfindung ist nicht der Konsens. Damit eine Lösung angenommen wird, genügt es, dass niemand einen prinzipiellen Einwand hat. Eine Person kann kein Veto gegen eine Entscheidung einlegen, weil sie der Meinung ist, dass eine andere Lösung (z. B. ihre!) besser gewesen wäre. Die perfekte Lösung, die alle von ganzem Herzen annehmen würden, gibt es vielleicht nicht, und ihre Suche könnte sich als anstrengend erweisen. Solange es keine prinzipiellen Einwände gibt, wird eine Lösung angenommen, mit dem Wissen, dass sie jederzeit überarbeitet werden kann, wenn neue Informationen vorliegen.  
 
 
-      If, despite their training and meeting techniques, teams get stuck, they can ask for external facilitation at any time.
+      Wenn die Teams trotz ihrer Ausbildung und ihrer Sitzungstechniken nicht weiterkommen, können sie jederzeit eine externe Moderation anfordern.
 
 
-      #### Limiting ‘higher level’ regional coach meetings:
+      #### Begrenzung der Treffen von Regionaltrainern auf "höherer Ebene"
 
 
-      In many ways it would make good sense for Jos de Blok, CEO of Buurtzorg to meet regularly with the regional coaches: they have great insight into what’s happening in the field. Collectively, they could spot issues and opportunities and determine actions to take.
+      In vielerlei Hinsicht wäre es sinnvoll, wenn Jos de Blok, CEO von Buurtzorg, sich regelmäßig mit den Regionalcoaches treffen würde: Sie haben einen guten Einblick in das Geschehen vor Ort. Gemeinsam könnten sie Probleme und Chancen erkennen und entsprechende Maßnahmen festlegen.
 
 
-      But this process would now be like an executive management committee--the opposite of what they want.
+      Aber dieser Prozess wäre nun wie ein Verwaltungsausschuss - das Gegenteil von dem, was sie wollen
 
 
-      To avoid this, Jos de Block limits his meetings with the coaches to quarterly.
+      Um dies zu vermeiden, beschränkt Jos de Block seine Treffen mit den Trainern auf vierteljährlich.
   - topic: Team and Community Building
     title: At Buurtzorg, all nurses are trained in “Intervisie,” a peer-coaching
       technique that originated in the Netherlands.
