@@ -3,22 +3,24 @@ layout: case
 tags: cases
 name: Buurtzorg
 date: 2020-11-17T14:48:06.315Z
-introduction: "**Buurtzorg Nederland** is a Dutch home-care organization which
-  has attracted international attention for its innovative use of independent
-  nurse teams in delivering relatively low-cost care. Buurtzorg is Dutch for
-  “neighborhood care”.
+introduction: "**Buurtzorg Nederland** ist eine niederländische Organisation für
+  häusliche Pflege, die international für ihren innovativen Einsatz unabhängiger
+  Pflegeteams bei der Erbringung relativ kostengünstiger Pflegeleistungen
+  Aufmerksamkeit erregt hat. Buurtzorg ist das niederländische Wort für
+  \"Nachbarschaftspflege\".
 
 
-  **History**
+  **Geschichte**
 
 
-  It was founded in 2006 in the small city of Almelo by Jos de Blok and a
-  small team of professional nurses who were dissatisfied with the delivery of
-  health care by traditional home care organizations in the Netherlands.
-  According to Sharda S. Nandram, the company has created a new management
-  approach: “integrating simplification,” characterized by a simple, flat
-  organizational structure through which a wide range of services, facilitated
-  by information technology, can be provided.\r
+  Buurtzorg wurde 2006 in der kleinen Stadt Almelo von Jos de Blok und einem
+  kleinen Team professioneller Krankenschwestern gegründet, die mit der
+  Gesundheitsversorgung durch traditionelle häusliche Pflegeorganisationen in
+  den Niederlanden unzufrieden waren. Nach Angaben von Sharda S. Nandram hat das
+  Unternehmen einen neuen Managementansatz entwickelt: \"Integrating
+  simplification\", die sich durch eine einfache, flache Organisationsstruktur
+  auszeichnet, durch die eine breite Palette von Dienstleistungen angeboten
+  werden kann, die durch Informationstechnologie erleichtert wird.
 
   \r\n"
 industry: Q. Human health and social work activities
