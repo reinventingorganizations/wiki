@@ -286,10 +286,11 @@ theory:
       delegiert werden.
   - topic: Objectives and Target Setting
     title: Teams set their own objectives.
-    content: In [Buurtzorg](http://www.buurtzorgnederland.com/), teams are required
-      to make yearly plans for initiatives they want to take in the areas of
-      client care and quality, training, organization, and other issues. All
-      mature teams have a target for billable hours of 60 -65 percent.
+    content: Bei [Buurtzorg] (http://www.buurtzorgnederland.com/) müssen die Teams
+      jährliche Pläne für Initiativen erstellen, die sie in den Bereichen
+      Kundenbetreuung und Qualität, Schulung, Organisation und anderen Bereichen
+      ergreifen wollen. Alle reifen Teams haben eine Zielvorgabe für die
+      abrechenbaren Stunden von 60-65 Prozent.
   - topic: Feedback and Performance Management
     title: Buurtzorg openly compares team results across the organization and has
       developed a process for giving individual feedback within a team.
