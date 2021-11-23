@@ -62,57 +62,58 @@ theory:
   - topic: Organizational Structure
     title: Buurtzorg uses a geographically-based parallel team structure and team
       coaches.
-    content: "At Buurtzorg, a Dutch neighbourhood nursing organization, nurses work
-      in teams of 10 to 12, with each team serving around 50 patients in a
-      small, well-defined neighbourhood. The team is in charge of all tasks that
-      were previously fragmented across different departments.\r
+    content: "ei Buurtzorg, einer niederländischen Organisation für
+      Nachbarschaftspflege, arbeiten die Krankenschwestern und -pfleger in Teams
+      von 10 bis 12 Personen, wobei jedes Team etwa 50 Patienten in einem
+      kleinen, genau abgegrenzten Viertel betreut. Das Team ist für alle
+      Aufgaben zuständig, die zuvor auf verschiedene Abteilungen aufgeteilt
+      waren.\r
 
       \r
 
-      Each team has a coach. The coach has no decision-making power and
-      works with 40 to 50 teams at a time, making sure that no one team becomes
-      overly dependent on the coach. The coach's role is to ask insightful
-      questions that help teams find their own solutions.\r
+      Jedes Team hat einen Coach. Der Coach hat keine
+      Entscheidungsbefugnis und arbeitet mit 40 bis 50 Teams gleichzeitig, um
+      sicherzustellen, dass kein Team zu sehr vom Coach abhängig wird. Die Rolle
+      des Coaches besteht darin, aufschlussreiche Fragen zu stellen, die den
+      Teams helfen, ihre eigenen Lösungen zu finden.\r
 
       \r
 
-      The team is responsible for doing the intake, planning, vacation
-      scheduling as well as administration. They even decide where to rent an
-      office and how to decorate it. There is no leader within the team;
-      important decisions are made collectively.\r
+      Das Team ist für die Aufnahme, die Planung, die Urlaubsplanung und
+      die Verwaltung zuständig. Sie entscheiden sogar, wo sie ein Büro mieten
+      und wie sie es einrichten. Innerhalb des Teams gibt es keinen Leiter;
+      wichtige Entscheidungen werden gemeinsam getroffen.\r
 
       \r
 
-      Because of this, a problem-solving culture thrives. Nurses can't
-      offload difficult decisions to a boss and when things get tense,
-      stressful, or unpleasant, there is no boss and no structure to blame The
-      team knows they have all the power and latitude to solve their own
-      problems.\r
+      Aus diesem Grund gedeiht eine Kultur der Problemlösung. Das
+      Pflegepersonal kann schwierige Entscheidungen nicht auf einen Chef
+      abwälzen, und wenn es zu Spannungen, Stress oder Unannehmlichkeiten kommt,
+      gibt es keinen Chef und keine Struktur, dem man die Schuld zuschieben
+      könnte. Das Team weiß, dass es die ganze Macht und den Spielraum hat,
+      seine eigenen Probleme zu lösen.\r
 
       \r
 
-      The teams of nurses aren't simply empowered by their hierarchy. They
-      are truly powerful because there is no hierarchy that has decision-making
-      power over them. Each team is also responsible for their own recruitment.
-      Because the team members make hiring decisions themselves, they are
-      emotionally invested in making the recruit successful.\r
+      Die Teams von Krankenschwestern und Krankenpflegern werden nicht
+      einfach durch ihre Hierarchie gestärkt. Sie sind wirklich mächtig, weil es
+      keine Hierarchie gibt, die die Entscheidungsgewalt über sie hat. Jedes
+      Team ist auch für seine eigene Einstellung verantwortlich. Da die
+      Teammitglieder die Einstellungsentscheidungen selbst treffen, sind sie
+      emotional daran beteiligt, dass die eingestellte Person erfolgreich ist.\r
 
       \r
 
-      The absence of rules and procedures imposed by headquarters staff
-      functions creates a huge sense of freedom and responsibility throughout
-      the organization.\r
-
-      \r
-
-      The results achieved by Buurtzorg speak for themselves. A 2009 Ernst
-      & Young study found that Buurtzorg requires, on average, close to 40
-      percent fewer hours of care per client than other nursing organizations.
-      This is despite the fact that nurses in Buurtzorg take time for coffee and
-      talk with patients, their families, and neighbors, while other nursing
-      organizations have come to tightly allocate the time allowed for almost
-      every service. . At Buurtzorg, patients stay in care only half as long,
-      heal faster, and become more autonomous."
+      Die von Buurtzorg erzielten Ergebnisse sprechen für sich. Eine
+      Studie von Ernst & Young aus dem Jahr 2009 ergab, dass Buurtzorg im
+      Durchschnitt fast 40 Prozent weniger Pflegestunden pro Klient benötigt als
+      andere Pflegeorganisationen. Und das, obwohl sich das Pflegepersonal bei
+      Buurtzorg Zeit für einen Kaffee und Gespräche mit den Patienten, ihren
+      Familien und Nachbarn nimmt, während andere Pflegeorganisationen die Zeit
+      für fast jede Dienstleistung eng eingrenzen. Bei Buurtzorg bleiben die
+      Patienten nur halb so lange in der Pflege, heilen schneller und werden
+      selbständiger. Bei Buurtzorg bleiben die Patienten nur halb so lange in
+      der Pflege, heilen schneller und werden selbständiger."
   - topic: Information Flow
     title: Uses information structure and transparency to provide the best service
       to the customers
