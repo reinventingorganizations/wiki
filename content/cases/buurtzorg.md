@@ -185,25 +185,28 @@ theory:
   - topic: Conflict resolution
     title: Conflict is handled collaboratively within the team structure, sometimes
       with the help of a regional coach or mediator.
-    content: At Buurtzorg , nurses work in teams of 10 to 12, with each team serving
-      around 50 patients in a small, well-defined neighborhood. The team is in
-      charge of all the tasks that, in similar organisations, are fragmented
-      across different departments. The initial Buurtzorg training includes
-      techniques for conflict resolution and [Nonviolent
-      Communication](https://en.wikipedia.org/wiki/Nonviolent_Communication)
-      developed by Marshal Rosenberg. Conflicts are worked out collaboratively
-      within the team. For instance, when one person has lost the trust of the
-      team, the team tries to find a mutually agreeable solution. If that
-      doesn’t work out, the group calls in its regional coach or an external
-      facilitator to mediate. In almost all cases, the presence of a mediator
-      brings resolution. In some cases, the person and the team decide on some
-      mutual commitments and give it another go. In others, after some
-      deliberation, the person comes to see that trust is irrevocably broken and
-      understands it is time to leave. If no agreement can be found, as a last
-      chance to try to settle the matter, the team members can ask Jos de Blok,
-      the founder, to mediate. In the rare cases, where even this fails, they
-      can ask him to put an end to the person’s contract (legally, he is the
-      only one who can do so).
+    content: Bei Buurtzorg arbeiten die Krankenschwestern und -pfleger in Teams von
+      10 bis 12 Personen, wobei jedes Team etwa 50 Patienten in einem kleinen,
+      klar abgegrenzten Viertel betreut. Das Team ist für alle Aufgaben
+      zuständig, die in ähnlichen Organisationen auf verschiedene Abteilungen
+      aufgeteilt sind. Die Buurtzorg-Einführungsschulung umfasst Techniken zur
+      Konfliktlösung und [Gewaltfreie
+      Kommunikation].(https://de.wikipedia.org/wiki/Gewaltfreie_Kommunikation),
+      die von Marshal Rosenberg entwickelt wurde. Konflikte werden
+      gemeinschaftlich im Team gelöst. Wenn zum Beispiel eine Person das
+      Vertrauen des Teams verloren hat, versucht das Team, eine einvernehmliche
+      Lösung zu finden. Gelingt das nicht, schaltet die Gruppe ihren
+      Regionalcoach oder einen externen Moderator ein, um zu vermitteln. In fast
+      allen Fällen führt die Anwesenheit eines Vermittlers zu einer Lösung. In
+      einigen Fällen einigen sich die Person und das Team auf einige gemeinsame
+      Verpflichtungen und versuchen es noch einmal. In anderen Fällen kommt die
+      Person nach einigen Überlegungen zu der Einsicht, dass das Vertrauen
+      unwiderruflich gebrochen ist und es an der Zeit ist zu gehen. Wenn keine
+      Einigung erzielt werden kann, können die Teammitglieder als letzte Chance,
+      die Angelegenheit zu regeln, Jos de Blok, den Gründer, bitten, zu
+      vermitteln. In den seltenen Fällen, in denen auch dies nicht gelingt,
+      können sie ihn bitten, den Vertrag der betreffenden Person zu beenden
+      (rechtlich ist er der Einzige, der dies tun kann).
   - topic: Environmental and Social Management
     title: At Buurtzorg, social initiatives emerge from the interaction with the
       communities they serve.
