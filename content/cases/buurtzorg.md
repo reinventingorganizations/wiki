@@ -169,17 +169,19 @@ theory:
       internal social network ‘BuurtzorgWeb’ plays a critical role in knowledge
       sharing
     content: >-
-      At [Buurtzorg](http://www.buurtzorgnederland.com/), the company’s internal
-      social network, “BuurtzorgWeb” plays a key role in the sharing of
-      knowledge. When there is vast knowledge spread throughout the organization
-      - the trick can be finding it. With BuurtzorgWeb, nurses can easily locate
-      and contact a colleague with a specific expertise. Questions can be posted
-      online in a continuous stream, similar to Facebook. Due to the high
-      engagement level on the platform, each question is seen by thousands of
-      colleagues in a few hours and attracts one or several responses.
+      Bei [Buurtzorg](http://www.buurtzorgnederland.com/) spielt das
+      unternehmensinterne soziale Netzwerk "BuurtzorgWeb" eine Schlüsselrolle
+      bei der gemeinsamen Nutzung von Wissen. Wenn im gesamten Unternehmen viel
+      Wissen vorhanden ist, besteht die Schwierigkeit darin, es zu finden. Mit
+      BuurtzorgWeb können Krankenschwestern und Krankenpfleger leicht einen
+      Kollegen mit einem bestimmten Fachwissen ausfindig machen und
+      kontaktieren. Fragen können in einem kontinuierlichen Strom online
+      gestellt werden, ähnlich wie bei Facebook. Aufgrund des hohen Engagements
+      auf der Plattform wird jede Frage innerhalb weniger Stunden von Tausenden
+      von Kollegen gesehen und zieht eine oder mehrere Antworten nach sich.
 
 
-      In an example of how an initiative might scale in a Teal organization, a Buurtzorg team in the countryside recently developed a new concept - a boarding house for patients, to offer the patient’s primary caregiver a break. This concept was presented to all colleagues at a company retreat. Nobody at Buurtzorg made the call that this fit or did not fit Buurtzorg’s purpose or that resources should be allocated to scale the initiative. The concept will have to run its own course. If it is meant to scale, it will attract nurses in other teams to make it happen organically.
+      Ein Beispiel dafür, wie sich eine Initiative in einer Teal-Organisation ausbreiten kann, ist das kürzlich von einem Buurtzorg-Team auf dem Lande entwickelte neue Konzept einer Patientenpension, die der Hauptpflegeperson des Patienten eine Pause bieten soll. Dieses Konzept wurde allen Kollegen auf einer Betriebsausflug vorgestellt. Niemand bei Buurtzorg traf die Entscheidung, dass dies zum Zweck von Buurtzorg passt oder nicht passt oder dass Ressourcen für die Ausweitung der Initiative bereitgestellt werden sollten. Das Konzept wird seinen eigenen Lauf nehmen müssen. Wenn es skalierbar sein soll, wird es Krankenschwestern und -pfleger in anderen Teams anziehen, um es organisch zu verwirklichen.
   - topic: Conflict resolution
     title: Conflict is handled collaboratively within the team structure, sometimes
       with the help of a regional coach or mediator.
