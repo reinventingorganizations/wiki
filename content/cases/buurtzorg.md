@@ -117,15 +117,17 @@ theory:
   - topic: Information Flow
     title: Uses information structure and transparency to provide the best service
       to the customers
-    content: At[ Buurtzorg](https://www.buurtzorgnederland.com/), all data
-      concerning performance of all the teams is put on the company's intranet.
-      A team that struggles in one area can identifiy a team in the neighborhood
-      with outstanding results (which is not a threat, but an offer) and can ask
-      for advice and best practices. If there is an need for a decision, the
-      request is posted on the intranet. Teams can see every month how their
-      productivity compares to that of other teams. The data of other teams is
-      not anonymized or averaged out. Employees are trusted to handle the
-      positive and negative impacts of information with integrity.
+    content: Bei[ Buurtzorg](https://www.buurtzorgnederland.com/) werden alle Daten
+      über die Leistung aller Teams in das Intranet des Unternehmens gestellt.
+      Ein Team, das in einem Bereich Schwierigkeiten hat, kann ein Team in der
+      Nachbarschaft mit hervorragenden Ergebnissen ausfindig machen (was keine
+      Bedrohung, sondern ein Angebot ist) und um Ratschläge und bewährte
+      Verfahren bitten. Wenn eine Entscheidung erforderlich ist, wird die
+      Anfrage im Intranet veröffentlicht. Die Teams können jeden Monat sehen,
+      wie ihre Produktivität im Vergleich zu der anderer Teams ist. Die Daten
+      der anderen Teams werden nicht anonymisiert oder gemittelt. Den
+      Mitarbeitern wird vertraut, dass sie mit den positiven und negativen
+      Auswirkungen von Informationen integer umgehen.
   - topic: Meetings
     title: Small, self-managing teams provide flexibility.
     content: >-
