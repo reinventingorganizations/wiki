@@ -29,7 +29,7 @@ companySize: "> 500"
 profit: non-profit
 theory:
   - topic: Listening to Purpose
-    title: Buurtzorg + approach
+    title: Buurtzorg + Ansatz
     content: >-
       Zwei Krankenschwestern eines Buurtzorg-Teams machten sich Gedanken über
       die Tatsache, dass sich ältere Menschen bei Stürzen häufig die Hüfte
@@ -47,8 +47,8 @@ theory:
 
       Die beiden Krankenschwestern erkannten einen Bedarf und setzten ihn mit der Kraft des Selbstmanagements um. Das Selbstmanagement trug dazu bei, die Idee zu verbreiten. Jedes Team, das sich für Buurtzorg + interessiert, kann sich für eine Schulungsveranstaltung anmelden, in der die Grundlagen des Konzepts vermittelt werden und erklärt wird, wie eine solche Partnerschaft in der eigenen Nachbarschaft aufgebaut werden kann.^[Übersetzt aus Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4396-4406). Nelson Parker. Kindle Edition:]
   - topic: sales-marketing
-    title: Has grown from 4 people in 2007 to 10,000 employees in 2016 without using
-      any marketing.
+    title: Ist von 4 Mitarbeitern im Jahr 2007 auf 10.000 Mitarbeiter im Jahr 2016
+      angewachsen, ohne Marketing zu betreiben.
     content: >-
       Bei [Buurtzorg] (https://www.buurtzorgnederland.com/), einer Organisation
       mit 10.000 Mitarbeitern, arbeiten nur 45 Personen in der Zentrale und es
@@ -60,8 +60,8 @@ theory:
 
       "Wir glaubten, dass dies ein besseres Ergebnis bringen würde. Wir wollten kein Marketing betreiben und stattdessen kostenlose Werbung machen, wenn die Menschen mit unseren Dienstleistungen zufrieden waren", sagt Jos de Blok. Heute arbeitet Buurtzorg viel daran, enge und echte Beziehungen zu Patienten, verschiedenen Interessengruppen und anderen Menschen aufzubauen, die ein natürliches Interesse an ihren Dienstleistungen haben. Aufgrund des Erfolgs der Organisation gehört dazu auch die Kommunikation mit Medien und Zeitungen, um das Interesse zu wecken, das durch jahrelange gute Mundpropaganda entstanden ist. "Buurtzorg wird inzwischen mit etwas "Gutem" assoziiert, so dass es für uns heute einfacher ist", sagt Jos de Blok.
   - topic: Organizational Structure
-    title: Buurtzorg uses a geographically-based parallel team structure and team
-      coaches.
+    title: Buurtzorg verwendet eine geografisch parallele Teamstruktur und
+      Teamcoaches.
     content: "ei Buurtzorg, einer niederländischen Organisation für
       Nachbarschaftspflege, arbeiten die Krankenschwestern und -pfleger in Teams
       von 10 bis 12 Personen, wobei jedes Team etwa 50 Patienten in einem
@@ -115,8 +115,8 @@ theory:
       selbständiger. Bei Buurtzorg bleiben die Patienten nur halb so lange in
       der Pflege, heilen schneller und werden selbständiger."
   - topic: Information Flow
-    title: Uses information structure and transparency to provide the best service
-      to the customers
+    title: Nutzt die Informationsstruktur und Transparenz, um den Kunden den besten
+      Service zu bieten
     content: Bei[ Buurtzorg](https://www.buurtzorgnederland.com/) werden alle Daten
       über die Leistung aller Teams in das Intranet des Unternehmens gestellt.
       Ein Team, das in einem Bereich Schwierigkeiten hat, kann ein Team in der
@@ -129,7 +129,7 @@ theory:
       Mitarbeitern wird vertraut, dass sie mit den positiven und negativen
       Auswirkungen von Informationen integer umgehen.
   - topic: Meetings
-    title: Small, self-managing teams provide flexibility.
+    title: Kleine, selbstverwaltete Teams bieten Flexibilität.
     content: >-
       #### Verfahren zur Entscheidungsfindung im Team
 
@@ -157,17 +157,18 @@ theory:
 
       Um dies zu vermeiden, beschränkt Jos de Block seine Treffen mit den Trainern auf vierteljährlich.
   - topic: Team and Community Building
-    title: At Buurtzorg, all nurses are trained in “Intervisie,” a peer-coaching
-      technique that originated in the Netherlands.
+    title: Bei Buurtzorg sind alle Krankenschwestern und Krankenpfleger in
+      "Intervisie" geschult, einer Peer-Coaching-Technik, die ihren Ursprung in
+      den Niederlanden hat.
     content: >-
       **Beispiel für Peer-Coaching**
 
 
       Eine Krankenschwester, die mit einer bestimmten Frage ringt, kann ihre Teamkollegen bitten, ihr in einem Gruppencoaching dabei zu helfen, sie zu klären. Wie soll sie mit einem Patienten umgehen, der sich weigert, lebensrettende Medikamente zu nehmen? Wie kann sie einem älteren Patienten helfen, die Hilfe seiner Kinder anzunehmen? Wie kann sie Nein zu Klienten sagen, um sich vor Burnout zu schützen? Wenn sich eine Krankenschwester mit einer dieser Fragen schwer tut, liegt das oft daran, dass die Frage ein größeres persönliches Problem aufwirft, das sie noch nicht verarbeitet hat. In diesen Fällen kann eine Peer-Coaching-Sitzung helfen. Einige [Buurtzorg](http://www.buurtzorgnederland.com/)-Teams nehmen sich jeden Monat eine Stunde Zeit für Peer-Coaching; andere Teams kommen zusammen, wenn ein Teammitglied dies wünscht. "Intervisie", der Prozess, der bei Buurtzorg angewandt wird, folgt einem strengen Format und Grundregeln, um zu verhindern, dass die Gruppe die nur allzu übliche Medizin der Ratschläge, Ermahnungen oder Beruhigungen verabreicht. Während des größten Teils des Prozesses können die Teammitglieder nur offene Fragen stellen; sie werden zu Mitreisenden in das Geheimnis des Problems, mit dem die Person zu tun hat. Es wird ein sicherer Raum geschaffen, der zu tiefem Zuhören, Authentizität und Verletzlichkeit einlädt - die notwendigen Zutaten, damit die innere Wahrheit zum Vorschein kommt. Ziel ist es, dass die Pflegekraft das Problem in einem neuen Licht sieht und ihre eigenen Lösungen entdeckt. Es ist ein einfacher und zugleich schöner Prozess. Von einer Gruppe respektvoll und mitfühlend "gehalten" zu werden, ist für viele Menschen eine neue und unvergessliche Erfahrung.
   - topic: Coordination
-    title: At Buurtzorg where 9000 nurses are scattered over the country, the
-      internal social network ‘BuurtzorgWeb’ plays a critical role in knowledge
-      sharing
+    title: Bei Buurtzorg, wo 9000 Krankenschwestern und -pfleger über das ganze Land
+      verstreut sind, spielt das interne soziale Netzwerk 'BuurtzorgWeb' eine
+      entscheidende Rolle beim Wissensaustausch
     content: >-
       Bei [Buurtzorg](http://www.buurtzorgnederland.com/) spielt das
       unternehmensinterne soziale Netzwerk "BuurtzorgWeb" eine Schlüsselrolle
@@ -183,8 +184,8 @@ theory:
 
       Ein Beispiel dafür, wie sich eine Initiative in einer Teal-Organisation ausbreiten kann, ist das kürzlich von einem Buurtzorg-Team auf dem Lande entwickelte neue Konzept einer Patientenpension, die der Hauptpflegeperson des Patienten eine Pause bieten soll. Dieses Konzept wurde allen Kollegen auf einer Betriebsausflug vorgestellt. Niemand bei Buurtzorg traf die Entscheidung, dass dies zum Zweck von Buurtzorg passt oder nicht passt oder dass Ressourcen für die Ausweitung der Initiative bereitgestellt werden sollten. Das Konzept wird seinen eigenen Lauf nehmen müssen. Wenn es skalierbar sein soll, wird es Krankenschwestern und -pfleger in anderen Teams anziehen, um es organisch zu verwirklichen.
   - topic: Conflict resolution
-    title: Conflict is handled collaboratively within the team structure, sometimes
-      with the help of a regional coach or mediator.
+    title: Konflikte werden innerhalb der Teamstruktur gemeinsam bearbeitet,
+      manchmal mit Hilfe eines regionalen Coaches oder Mediators.
     content: Bei Buurtzorg arbeiten die Krankenschwestern und -pfleger in Teams von
       10 bis 12 Personen, wobei jedes Team etwa 50 Patienten in einem kleinen,
       klar abgegrenzten Viertel betreut. Das Team ist für alle Aufgaben
@@ -208,8 +209,8 @@ theory:
       können sie ihn bitten, den Vertrag der betreffenden Person zu beenden
       (rechtlich ist er der Einzige, der dies tun kann).
   - topic: Environmental and Social Management
-    title: At Buurtzorg, social initiatives emerge from the interaction with the
-      communities they serve.
+    title: Bei Buurtzorg entstehen die sozialen Initiativen aus der Interaktion mit
+      den Gemeinschaften, denen sie dienen.
     content: "Ein Beispiel dafür ist die Schaffung einer Einheit namens
       \"Buurtdienst\" (\"Nachbarschaftsdienste\"), die Menschen wie
       Alzheimer-Patienten bei der Bewältigung häuslicher Aufgaben hilft. Dieses
@@ -229,8 +230,9 @@ theory:
       Sozialdienste traditionell erbracht werden ^[Quelle: Laloux, Frederic.
       Reinventing Organizations. Nelson Parker (2014), Seite 207]"
   - topic: Training and Coaching
-    title: At Buurtzorg, all nurses are trained in “Intervisie,” a peer-coaching
-      technique that originated in the Netherlands.
+    title: Bei Buurtzorg sind alle Krankenschwestern und Krankenpfleger in
+      "Intervisie" geschult, einer Peer-Coaching-Technik, die ihren Ursprung in
+      den Niederlanden hat.
     content: >-
       **Peer Coaching**
 
@@ -243,8 +245,9 @@ theory:
 
       "Intervisie", der bei Buurtzorg angewandte Prozess, folgt einem strengen Format mit Grundregeln, um zu verhindern, dass die Gruppe sich gegenseitig mit simplen Ratschlägen, Ermahnungen oder Beschwichtigungen versorgt. Während des Kernprozesses dürfen die Mitglieder nur offene Fragen stellen. Auf diese Weise werden sie zu Mitreisenden in das Geheimnis des Problems, mit dem die Person zu tun hat. Es entsteht ein sicherer Raum, der zu tiefem Zuhören, Authentizität und Verletzlichkeit einlädt - die notwendigen Zutaten, damit die innere Wahrheit zum Vorschein kommt. Ziel ist es, dass die Pflegekraft das Problem in einem neuen Licht sieht und ihre eigenen Lösungen entdeckt. Es ist ein einfacher und zugleich schöner Prozess.
   - topic: Training and Coaching
-    title: At Buurtzorg the principle emerged that teams can spend a certain amount
-      on training without needing to consult.
+    title: Bei Buurtzorg hat sich der Grundsatz herauskristallisiert, dass die Teams
+      einen bestimmten Betrag für die Ausbildung ausgeben können, ohne dass sie
+      sich beraten müssen.
     content: >-
       **Eigenverantwortung für die Ausbildung**
 
@@ -261,8 +264,8 @@ theory:
 
       In dem Maße, wie sich herumspricht, dass die Krankenschwestern mit allen möglichen Geräten und Techniken umgehen können, beginnen Ärzte, Behandlungsmethoden zu verschreiben, die das Leben der Patienten verbessern - z. B. eine Medikamentenpumpe für eine Person mit chronischen Schmerzen - und die nicht unter die begrenzten Standards einer traditionellen Pflegeorganisation fallen.
   - topic: Commitment, Working Hours and Flexibility
-    title: At Buurtzorg, the structure of small, self-managing teams helps in
-      providing flexibility.
+    title: Bei Buurtzorg trägt die Struktur der kleinen, selbstverwalteten Teams zur
+      Flexibilität bei.
     content: "Wenn eine Krankenschwester ihre Arbeitszeit reduzieren möchte, etwa
       weil sie sich um einen kranken Elternteil kümmern muss, kann das Team zum
       Beispiel die bestehenden Kunden umschichten.\r
@@ -274,9 +277,9 @@ theory:
       erforderlich^[Laloux, Frederic. Reinventing Organizations. Nelson Parker
       (2014), Seite 183].\r"
   - topic: Job Titles and Job Descriptions
-    title: Buurtzorg  is a not for profit provider of community healthcare in
-      Holland, they create fluidity in roles through their 10 - 12 member self
-      managing teams.
+    title: Buurtzorg ist ein gemeinnütziger Anbieter von Gesundheitsdiensten in den
+      Niederlanden, der durch seine 10- bis 12-köpfigen, selbstverwalteten Teams
+      eine fließende Rollenverteilung ermöglicht.
     content: Eine Krankenschwester bei Buurtzorg, deren Patienten plötzlich mehr
       Pflege benötigen, könnte zum Beispiel eine Kollegin bitten, ihre Rolle als
       Teamplanerin zu übernehmen. Die Teams achten darauf, dass die
@@ -285,7 +288,7 @@ theory:
       einschleichen, wenn zu viele Führungsaufgaben an ein einziges Teammitglied
       delegiert werden.
   - topic: Objectives and Target Setting
-    title: Teams set their own objectives.
+    title: Die Teams legen ihre Ziele selbst fest.
     content: Bei [Buurtzorg] (http://www.buurtzorgnederland.com/) müssen die Teams
       jährliche Pläne für Initiativen erstellen, die sie in den Bereichen
       Kundenbetreuung und Qualität, Schulung, Organisation und anderen Bereichen
