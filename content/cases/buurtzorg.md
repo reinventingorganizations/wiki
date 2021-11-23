@@ -292,18 +292,20 @@ theory:
       ergreifen wollen. Alle reifen Teams haben eine Zielvorgabe für die
       abrechenbaren Stunden von 60-65 Prozent.
   - topic: Feedback and Performance Management
-    title: Buurtzorg openly compares team results across the organization and has
-      developed a process for giving individual feedback within a team.
+    title: Buurtzorg vergleicht offen die Teamergebnisse innerhalb des Unternehmens
+      und hat ein Verfahren entwickelt, um individuelles Feedback innerhalb
+      eines Teams zu geben.
     content: >-
-      Each community nursing team at [Buurtzorg
-      ](http://www.buurtzorgnederland.com/)manages its own processes and service
-      delivery. These are shared so that others can adopt developments and good
-      practice if they choose. Team performance is shared openly, making very
-      apparent which teams are at the bottom of the list. Teams are motivated to
-      improve their performance out of pride, not shame.
+      Jedes kommunale Pflegeteam bei [Buurtzorg
+      ](http://www.buurtzorgnederland.com/) verwaltet seine eigenen Prozesse und
+      Dienstleistungen. Diese werden gemeinsam genutzt, so dass andere Teams
+      Entwicklungen und bewährte Verfahren übernehmen können, wenn sie dies
+      wünschen. Die Leistung der Teams wird offen mitgeteilt, so dass deutlich
+      wird, welche Teams am Ende der Liste stehen. Die Teams sind motiviert,
+      ihre Leistung aus Stolz und nicht aus Scham zu verbessern.
 
 
-      All the organization stipulates is that each team must hold annual appraisals based on a competency model that the team has developed. Each team chooses its own format to give feedback. One team decided, for example, to give feedback in groups of three. Everyone prepares their self-evaluation and feedback for the other two. The process allows people to gauge their self-perception against the views of their colleagues\[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 126].
+      Die Organisation schreibt lediglich vor, dass jedes Team jährliche Beurteilungen auf der Grundlage eines Kompetenzmodells durchführen muss, das das Team selbst entwickelt hat. Jedes Team wählt sein eigenes Format, um Feedback zu geben. Ein Team entschied sich zum Beispiel dafür, das Feedback in Dreiergruppen zu geben. Jeder bereitet seine Selbsteinschätzung und das Feedback für die anderen beiden vor. Das Verfahren ermöglicht es den Teilnehmern, ihre Selbsteinschätzung mit den Ansichten ihrer Kollegen zu vergleichen [Laloux, Frederic, Reinventing Organizations, Nelson Parker (2014), Seite 126].
   - topic: Strategy
     title: Employees are empowered to self-manage and make changes when needed.
     content: "Two nurses on a Buurtzorg team found themselves pondering the fact
