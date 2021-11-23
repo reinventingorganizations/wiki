@@ -263,26 +263,27 @@ theory:
   - topic: Commitment, Working Hours and Flexibility
     title: At Buurtzorg, the structure of small, self-managing teams helps in
       providing flexibility.
-    content: "If a nurse wants to reduce her working hours, perhaps because she has
-      a sick parent to take care of for instance, the team can for example
-      re-shuffle existing clients.
+    content: "Wenn eine Krankenschwester ihre Arbeitszeit reduzieren möchte, etwa
+      weil sie sich um einen kranken Elternteil kümmern muss, kann das Team zum
+      Beispiel die bestehenden Kunden umschichten.\r
 
-      The nurse will discuss her other commitments with her team and
-      together they will find a solution such as temporarily taking on fewer new
-      clients or moving the care of a patient to another nurse or team if
-      needed^[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014),
-      page 183].\r"
+      Die Krankenschwester bespricht ihre anderen Verpflichtungen mit
+      ihrem Team, und gemeinsam finden sie eine Lösung, z. B. die vorübergehende
+      Aufnahme weniger neuer Kunden oder die Übertragung der Pflege eines
+      Patienten an eine andere Krankenschwester oder ein anderes Team, falls
+      erforderlich^[Laloux, Frederic. Reinventing Organizations. Nelson Parker
+      (2014), Seite 183].\r"
   - topic: Job Titles and Job Descriptions
     title: Buurtzorg  is a not for profit provider of community healthcare in
       Holland, they create fluidity in roles through their 10 - 12 member self
       managing teams.
-    content: A nurse at Buurtzorg whose patients suddenly require more care might
-      ask a colleague to take over her role of team planner for instance. For a
-      while some nurses might carry more than their fair share of management
-      tasks for the team and less at other times.The Teams are careful to keep
-      management tasks somewhat spread out at all times. There is a risk, as
-      some teams have experienced that hierarchical structures creep back in
-      when too many management roles are delegated to a single team member.
+    content: Eine Krankenschwester bei Buurtzorg, deren Patienten plötzlich mehr
+      Pflege benötigen, könnte zum Beispiel eine Kollegin bitten, ihre Rolle als
+      Teamplanerin zu übernehmen. Die Teams achten darauf, dass die
+      Managementaufgaben immer etwas verteilt bleiben. Wie einige Teams erfahren
+      haben, besteht die Gefahr, dass sich hierarchische Strukturen wieder
+      einschleichen, wenn zu viele Führungsaufgaben an ein einziges Teammitglied
+      delegiert werden.
   - topic: Objectives and Target Setting
     title: Teams set their own objectives.
     content: In [Buurtzorg](http://www.buurtzorgnederland.com/), teams are required
