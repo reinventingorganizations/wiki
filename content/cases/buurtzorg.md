@@ -210,22 +210,24 @@ theory:
   - topic: Environmental and Social Management
     title: At Buurtzorg, social initiatives emerge from the interaction with the
       communities they serve.
-    content: "One example is the creation of a unit called “Buurtdienst”
-      (“neighborhood services”), which helps people like Alzheimer’s patients to
-      handle domestic chores. Working with the same structure of small,
-      self-organizing teams as in the nursing division, this project has grown
-      to 750 employees in two years.\r
+    content: "Ein Beispiel dafür ist die Schaffung einer Einheit namens
+      \"Buurtdienst\" (\"Nachbarschaftsdienste\"), die Menschen wie
+      Alzheimer-Patienten bei der Bewältigung häuslicher Aufgaben hilft. Dieses
+      Projekt, das mit der gleichen Struktur kleiner, sich selbst
+      organisierender Teams arbeitet wie die Pflegeabteilung, ist innerhalb von
+      zwei Jahren auf 750 Mitarbeiter angewachsen.\r
 
       \r
 
-      The organization was also approached by youth workers. In 2012, the
-      first two teams of “Buurtzorg Jong” (“Buurtzorg Young”) started working
-      with neglected or delinquent children. Social workers, educators and
-      nurses work together with children and their families in their homes, and
-      in collaboration with police, schools, and family doctors. They hope to
-      overcome the fragmented and costly way that social services are
-      traditionally delivered ^[Source: Laloux, Frederic. Reinventing
-      Organizations. Nelson Parker (2014), page 207]"
+      Die Organisation wurde auch von Jugendarbeitern angesprochen. Im
+      Jahr 2012 begannen die ersten beiden Teams von \"Buurtzorg Jong\"
+      (\"Buurtzorg Young\") mit der Arbeit mit vernachlässigten oder
+      straffälligen Kindern. Sozialarbeiter, Erzieher und Krankenschwestern
+      arbeiten mit den Kindern und ihren Familien zu Hause und in Zusammenarbeit
+      mit der Polizei, den Schulen und den Hausärzten zusammen. Sie hoffen, die
+      zersplitterte und kostspielige Art und Weise zu überwinden, in der
+      Sozialdienste traditionell erbracht werden ^[Quelle: Laloux, Frederic.
+      Reinventing Organizations. Nelson Parker (2014), Seite 207]"
   - topic: Training and Coaching
     title: At Buurtzorg, all nurses are trained in “Intervisie,” a peer-coaching
       technique that originated in the Netherlands.
