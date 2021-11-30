@@ -229,6 +229,11 @@ inPractice: >-
   Une introduction au processus de sollicitation d'avis, avec une vidéo de Frédéric Laloux sur ce sujet (en anglais).
 
   <http://dev.alchemi.co.uk/adviceprocess/#/page/5cf823717fb0de42f3aeddfc>
+
+
+  Une vidéo explicative de la sollicitation d'avis par Open Opale : \
+
+  <https://www.youtube.com/watch?v=AkpWLCAu6Cc>
 faq:
   - question: What prevents people from simply not requesting or ignoring advice?
     answer: >-
