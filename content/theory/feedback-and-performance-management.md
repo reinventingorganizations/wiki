@@ -38,7 +38,7 @@ perspective: >-
   #### **Organisations Ambre**
 
 
-  Dans [les organisations Ambre,](https://fr--reinventingorganizations-wiki.netlify.app/theory/amber-paradigm-and-organizations/) le management de la performance consiste à maintenir la stabilité et le contrôle. Les dirigeants partent souvent du principe que les travailleurs sont paresseux et malhonnêtes et surveillent étroitement les performances pour s'assurer que les ordres sont correctement exécutés. Ceux qui se conforment sont récompensés. Les échecs sont traités rapidement. Les récidivistes risquent d'être rejetés par le groupe ou l'organisation et de perdre leur statut.
+  Dans [les organisations Ambre,](https://fr--reinventingorganizations-wiki.netlify.app/theory/amber-paradigm-and-organizations/) le management de la performance consiste à maintenir la stabilité et le contrôle. Les dirigeantes partent souvent du principe que les travailleurs sont paresseux et malhonnêtes et surveillent étroitement les performances pour s'assurer que les ordres sont correctement exécutés. Ceux qui se conforment sont récompensés. Les échecs sont traités rapidement. Les récidivistes risquent d'être rejetés par le groupe ou l'organisation et de perdre leur statut.
 
 
   #### **Organisations Orange**
@@ -70,10 +70,10 @@ inPractice: >-
   #### **Feedback**
 
 
-  Dans de nombreuses organisations, le processus de feedback échoue souvent parce qu'il porte encore en lui la peur du jugement et du rejet. Un feedback donné à partir du coeur, de l'acceptation et de la relation est une expérience nourrissante qui permet aux gens d'évaluer où ils en sont et de déterminer leurs prochaines étapes en collaboration avec les autres. Un feedback efficace facilite la croissance et permet aux personnes d'aligner ce dont l'organisation a besoin avec ce qui les stimule.
+  Dans de nombreuses organisations, le processus de feedback échoue souvent parce qu'il porte encore en lui la peur du jugement et du rejet. Un feedback donné à partir du cœur, de l'acceptation et de la relation est une expérience nourrissante qui permet aux gens d'évaluer où ils en sont et de déterminer leurs prochaines étapes en collaboration avec les autres. Un feedback efficace facilite la croissance et permet aux personnes d'aligner ce dont l'organisation a besoin avec ce qui les stimule.
 
 
-  Même dans le cadre de relations ouvertes et saines, il peut être difficile pour certains de donner un feedback lorsque les choses ne se passent pas comme prévu. Fournir un feedback en temps utile sur les attentes non satisfaites ou les tensions est une pratique clé du modèle Opale à laquelle il faut adhérer quel que soit l'inconfort. Les [organisations Opale](https://fr--reinventingorganizations-wiki.netlify.app/theory/teal-paradigm-and-organizations/) sont caractérisées par une confiance élevée et une peur faible. Être capable de donner un feedback efficace dans cet environnement est une compétence essentielle. Les employés sont souvent formés à l'utilisation d'approches telles que la [communication non violente](https://fr.wikipedia.org/wiki/Communication_non_violente) afin qu'ils puissent être en pleine conscience de leurs intentions et de leur pratique lorsqu'ils donnent un feedback. 
+  Même dans le cadre de relations ouvertes et saines, il peut être difficile pour certaines de donner un feedback lorsque les choses ne se passent pas comme prévu. Fournir un feedback, en temps utile, sur les attentes non satisfaites ou les tensions est une pratique clé du modèle Opale à laquelle il faut adhérer quel que soit l'inconfort. Les [organisations Opale](https://fr--reinventingorganizations-wiki.netlify.app/theory/teal-paradigm-and-organizations/) sont caractérisées par une confiance élevée et une peur faible. Être capable de donner un feedback efficace dans cet environnement est une compétence essentielle. Les employés sont souvent formés à l'utilisation d'approches telles que la [communication non violente](https://fr.wikipedia.org/wiki/Communication_non_violente) afin qu'ils puissent être en pleine conscience de leurs intentions et de leur pratique lorsqu'ils donnent un feedback. 
 
 
   #### **Management de la performance des équipes**
@@ -94,7 +94,7 @@ inPractice: >-
   Les gens sont des êtres relationnels qui s'épanouissent grâce à un feedback honnête. Bien que l'accent soit principalement mis sur les performances de l'équipe, [les organisations Opale ](https://fr--reinventingorganizations-wiki.netlify.app/theory/teal-paradigm-and-organizations/)reconnaissent qu'il est vital de pouvoir donner un feedback individuel, ouvert et sans jugement, à ses pairs. Certaines organisations, comme [FAVI](https://fr--reinventingorganizations-wiki.netlify.app/cases/favi/), ont cessé d'organiser des entretiens d'évaluation formels parce que le feedback est librement échangé. La plupart des autres organisations considèrent qu'il est toujours utile d'avoir un temps dédié, une fois par an, pour réfléchir à son travail. Ces évaluations sont naturellement construites autour de processus basés sur l'échange entre pairs.
 
 
-  Le feedback par les pairs a l'avantage de fournir à chaque individu une perspective plus large et plus significative de sa contribution. Le feedback dépasse les limites d'une discussion étroite sur le travail et permet une exploration plus large des espoirs, des craintes, des intuitions et de la raison d'etre de chacune.
+  Le feedback par les pairs a l'avantage de fournir à chaque individu une perspective plus large et plus significative de sa contribution. Le feedback dépasse les limites d'une discussion étroite sur le travail et permet une exploration plus large des espoirs, des craintes, des intuitions et de la raison d’être de chacune.
 faq:
   - question: Que se passe-t-il si quelqu'un a de mauvaises performances ?
     answer: Ces questions sont normalement abordées dans le cadre du processus de
