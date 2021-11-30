@@ -1,12 +1,12 @@
 ---
 layout: article
 tags: theory
-key: Feedback et management de la performance
-name: Feedback et management de la performance
+key: Feedback et gestion de la performance
+name: Feedback et gestion de la performance
 sortOrder: 7
 category: People practices
 intro: >-
-  Cette rubrique évoque la manière dont le feedback et le management de la
+  Cette rubrique évoque la manière dont le feedback et la gestion de la
   performance sont traités dans les organisations Opale.
 
 
@@ -26,19 +26,19 @@ perspective: >-
   Dans les organisations Opale, les gens sont intrinsèquement motivés à donner le meilleur en s'engageant au service de la [raison d'être évolutive](https://fr--reinventingorganizations-wiki.netlify.app/theory/evolutionary-purpose/) de l'organisation. La performance est essentiellement managée au niveau des équipes par le biais du feedback et de l'émulation entre pairs. Les informations et les résultats sont partagés ouvertement et on fait confiance aux gens pour connaître le degré de performance de l'organisation et des autres équipes. Donner un feedback est une responsabilité partagée par tous et se fait régulièrement, tant au niveau de l'équipe, qu'au niveau individuel. Le feedback est particulièrement puissant dans une organisation Opale parce qu'il est intentionnellement dépourvu de jugement et qu'il est donné dans un esprit d'exploration et d'acceptation ouvertes. L'Opale valorise la personne dans son ensemble, et pas seulement le travail qu'elle accomplit.
 
 
-  En revanche, le feedback et le management de la performance dans les organisations des stades évolutifs antérieurs peuvent être résumés comme suit :
+  En revanche, le feedback et la gestion de la performance dans les organisations des stades évolutifs antérieurs peuvent être résumés comme suit :
 
 
   #### **Organisations Rouge**
 
 
-  Dans les [organisations Rouge](https://fr--reinventingorganizations-wiki.netlify.app/theory/red-organizations/), le management de la performance consiste à exercer un pouvoir personnel. Le patron exige que l'on obéisse aux ordres sans poser de questions afin de préserver une image de dureté et de force. Les subordonnés se conforment dans l'espoir d'être protégés et en sécurité. Le feedback est donné sous forme de récompenses et de punitions qui contribuent à renforcer le pouvoir du patron.
+  Dans les [organisations Rouge](https://fr--reinventingorganizations-wiki.netlify.app/theory/red-organizations/), la gestion de la performance consiste à exercer un pouvoir personnel. Le patron exige que l'on obéisse aux ordres sans poser de questions afin de préserver une image de dureté et de force. Les subordonnés se conforment dans l'espoir d'être protégés et en sécurité. Le feedback est donné sous forme de récompenses et de punitions qui contribuent à renforcer le pouvoir du patron.
 
 
   #### **Organisations Ambre**
 
 
-  Dans [les organisations Ambre,](https://fr--reinventingorganizations-wiki.netlify.app/theory/amber-paradigm-and-organizations/) le management de la performance consiste à maintenir la stabilité et le contrôle. Les dirigeantes partent souvent du principe que les travailleurs sont paresseux et malhonnêtes et surveillent étroitement les performances pour s'assurer que les ordres sont correctement exécutés. Ceux qui se conforment sont récompensés. Les échecs sont traités rapidement. Les récidivistes risquent d'être rejetés par le groupe ou l'organisation et de perdre leur statut.
+  Dans [les organisations Ambre,](https://fr--reinventingorganizations-wiki.netlify.app/theory/amber-paradigm-and-organizations/) la gestion de la performance consiste à maintenir la stabilité et le contrôle. Les dirigeantes partent souvent du principe que les travailleurs sont paresseux et malhonnêtes et surveillent étroitement les performances pour s'assurer que les ordres sont correctement exécutés. Ceux qui se conforment sont récompensés. Les échecs sont traités rapidement. Les récidivistes risquent d'être rejetés par le groupe ou l'organisation et de perdre leur statut.
 
 
   #### **Organisations Orange**
@@ -47,18 +47,18 @@ perspective: >-
   ![](/media/performance.jpg)
 
 
-  Dans les [organisations Orange](https://fr--reinventingorganizations-wiki.netlify.app/theory/orange-paradigm-and-organizations/), le management de la performance est axé sur la réalisation des objectifs et des buts. Les individus sont tenus de rendre des comptes en mesurant (et en évaluant) leurs performances par rapport à des objectifs "ambitieux" fixés par la direction. L'innovation et la réussite sont fortement valorisées et les résultats sont mesurés à l'aide d'indicateurs (si possible). Le feedback est un processus descendant, axé sur les performances professionnelles et conçu pour encourager de meilleurs résultats.
+  Dans les [organisations Orange](https://fr--reinventingorganizations-wiki.netlify.app/theory/orange-paradigm-and-organizations/), la gestion de la performance est axé sur la réalisation des objectifs et des buts. Les individus sont tenus de rendre des comptes en mesurant (et en évaluant) leurs performances par rapport à des objectifs "ambitieux" fixés par la direction. L'innovation et la réussite sont fortement valorisées et les résultats sont mesurés à l'aide d'indicateurs (si possible). Le feedback est un processus descendant, axé sur les performances professionnelles et conçu pour encourager de meilleurs résultats.
 
 
   #### **Organisations verte**
 
 
-  Dans les [organisations Verte](https://fr--reinventingorganizations-wiki.netlify.app/theory/green-paradigm-and-organizations/), le management de la performance concerne autant la manière dont le travail est effectué que ce qui est réalisé. Des valeurs fortes liées à un objectif inspirant fournissent des orientations pour aider les employés à gérer leurs propres performances. Les managers deviennent des leaders au service des autres et cherchent à permettre la capacité d'agir à ceux qui font le travail de première ligne. Le feedback se fait souvent par le biais d'un processus de [feedback à 360 degrés](https://fr.wikipedia.org/wiki/360_degrés) et est conçu pour nourrir et soutenir à la fois les individus dans leur développement et la culture de l'organisation.
+  Dans les [organisations Verte](https://fr--reinventingorganizations-wiki.netlify.app/theory/green-paradigm-and-organizations/), la gestion de la performance concerne autant la manière dont le travail est effectué que ce qui est réalisé. Des valeurs fortes liées à un objectif inspirant fournissent des orientations pour aider les employés à gérer leurs propres performances. Les managers deviennent des leaders au service des autres et cherchent à permettre la capacité d'agir à ceux qui font le travail de première ligne. Le feedback se fait souvent par le biais d'un processus de [feedback à 360 degrés](https://fr.wikipedia.org/wiki/360_degrés) et est conçu pour nourrir et soutenir à la fois les individus dans leur développement et la culture de l'organisation.
 inPractice: >-
-  #### **Management de la performance**
+  #### **Gestion de la performance**
 
 
-  Dans une [organisation Orange](https://fr--reinventingorganizations-wiki.netlify.app/theory/orange-paradigm-and-organizations/) traditionnelle, la performance est contrôlée par le déploiement d'un système de management de la performance descendant qui assure l'alignement des objectifs individuels déterminés en fonction des objectifs stratégiques de l'entreprise. Dans ce processus très documenté, les managers et les employés s'accordent sur les objectifs à atteindre. La hiérarchie est entièrement responsable de la réalisation des objectifs commerciaux définis pour chacun. Une pression est donc exercée sur les employés pour qu'ils s'assurent que les objectifs soient atteints et, idéalement, dépassés grâce à leur contribution individuelle.
+  Dans une [organisation Orange](https://fr--reinventingorganizations-wiki.netlify.app/theory/orange-paradigm-and-organizations/) traditionnelle, la performance est contrôlée par le déploiement d'un système de gestion de la performance descendant qui assure l'alignement des objectifs individuels déterminés en fonction des objectifs stratégiques de l'entreprise. Dans ce processus très documenté, les managers et les employés s'accordent sur les objectifs à atteindre. La hiérarchie est entièrement responsable de la réalisation des objectifs commerciaux définis pour chacun. Une pression est donc exercée sur les employés pour qu'ils s'assurent que les objectifs soient atteints et, idéalement, dépassés grâce à leur contribution individuelle.
 
 
   Un système de suivi des performances aussi hiérarchique et protocolaire n'existe pas dans les [organisations Opale](https://fr--reinventingorganizations-wiki.netlify.app/theory/teal-paradigm-and-organizations/). Dans une organisation Opale autogérée où il n'y a pas de patron, la volonté de produire des résultats provient de la motivation intrinsèque. Les organisations Opale considèrent que les gens sont motivés lorsque leur travail a un [but significatif](https://fr--reinventingorganizations-wiki.netlify.app/theory/listening-to-purpose/), lorsqu'ils sont soumis à une pression saine de la part de leurs pairs et lorsqu'ils ont accès à un feedback précis du monde extérieur. Elles estiment que les gens ont tendance à s'engager plus profondément et à réaliser bien plus que ce qui leur est demandé lorsqu'ils font un travail utile en étant pleinement responsables et en ayant facilement accès aux ressources nécessaires.
@@ -76,7 +76,7 @@ inPractice: >-
   Même dans le cadre de relations ouvertes et saines, il peut être difficile pour certaines de donner un feedback lorsque les choses ne se passent pas comme prévu. Fournir un feedback, en temps utile, sur les attentes non satisfaites ou les tensions est une pratique clé du modèle Opale à laquelle il faut adhérer quel que soit l'inconfort. Les [organisations Opale](https://fr--reinventingorganizations-wiki.netlify.app/theory/teal-paradigm-and-organizations/) sont caractérisées par une confiance élevée et une peur faible. Être capable de donner un feedback efficace dans cet environnement est une compétence essentielle. Les employés sont souvent formés à l'utilisation d'approches telles que la [communication non violente](https://fr.wikipedia.org/wiki/Communication_non_violente) afin qu'ils puissent être en pleine conscience de leurs intentions et de leur pratique lorsqu'ils donnent un feedback. 
 
 
-  #### **Management de la performance des équipes**
+  #### **Gestion de la performance des équipes**
 
 
   Les équipes autogérées sont les organes vitaux d'une [organisation Opale](https://fr--reinventingorganizations-wiki.netlify.app/theory/teal-paradigm-and-organizations/). Lorsque les personnes comprennent clairement l'objectif de leur travail et savent ce que l'on attend d'elles, les équipes sont plus que capables de fixer des objectifs et de s'organiser pour les atteindre. Pour soutenir cette façon de travailler, les informations sur les performances de chaque équipe sont ouvertement partagées. Cela pourrait être menaçant dans une organisation plus traditionnelle, mais c'est libérateur dans une organisation Opale car les gens savent que les informations ne seront pas utilisées contre eux. Personne n'a besoin d'être protégé des faits, bons ou mauvais.
@@ -88,7 +88,7 @@ inPractice: >-
   Lorsque les équipes ne font pas un travail comparable, certaines organisations ont développé un processus différent. Chez [Morning Star](https://fr--reinventingorganizations-wiki.netlify.app/cases/morning-star/), par exemple, les équipes préparent chaque année une présentation pour leurs collègues, au cours de laquelle elles partagent franchement ce qui a bien fonctionné, ce qui n'a pas fonctionné, leur efficacité et ce qu'elles prévoient de faire l'année suivante. Les équipes qui n'ont pas obtenu de bons résultats sont autant mises au défi et que soutenues. Dans le cadre de ce processus, elles reçoivent un feedback et des données utiles qui les aident à apporter les améliorations nécessaires.
 
 
-  #### **Management de la performance individuelle**
+  #### **Gestion de la performance individuelle**
 
 
   Les gens sont des êtres relationnels qui s'épanouissent grâce à un feedback honnête. Bien que l'accent soit principalement mis sur les performances de l'équipe, [les organisations Opale ](https://fr--reinventingorganizations-wiki.netlify.app/theory/teal-paradigm-and-organizations/)reconnaissent qu'il est vital de pouvoir donner un feedback individuel, ouvert et sans jugement, à ses pairs. Certaines organisations, comme [FAVI](https://fr--reinventingorganizations-wiki.netlify.app/cases/favi/), ont cessé d'organiser des entretiens d'évaluation formels parce que le feedback est librement échangé. La plupart des autres organisations considèrent qu'il est toujours utile d'avoir un temps dédié, une fois par an, pour réfléchir à son travail. Ces évaluations sont naturellement construites autour de processus basés sur l'échange entre pairs.
