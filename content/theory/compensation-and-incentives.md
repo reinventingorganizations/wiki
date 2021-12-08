@@ -6,53 +6,53 @@ name: Rémunération et primes
 sortOrder: 8
 category: People practices
 intro: >-
-  Le thème de la rémunération et des primes comprend le processus de fixation
-  des salaires et par qui, les types de primes/ incentives utilisées et la
-  question de l'inégalité de rémunération.
+  Le sujet de la rémunération et des primes comprend le processus qui définit
+  comment on fixe les salaires et qui les fixe, les types d'avantages proposés
+  et la question de l'inégalité salariale.
 
 
   ![](/media/compensation-and-incentives-2-small.jpg)
 perspective: >-
   Dans les [organisations
   Opale](https://fr--reinventingorganizations-wiki.netlify.app/theory/teal-paradigm-and-organizations/),
-  la rémunération est déterminée non seulement d'une manière différente, mais
-  prend une nature et un niveau d'importance fondamentalement différents. En
-  règle générale, ces organisations présentent les caractéristiques générales
-  suivantes en matière de rémunération:
+  la façon de déterminer la rémunération est différente, mais surtout, ce sujet
+  est d'une toute autre nature et d'un niveau d'importance fondamentalement
+  différent. En règle générale, ces organisations présentent les
+  caractéristiques générales suivantes en matière de rémunération:
 
 
-  * Les gens fixent leurs propres salaires, avec les conseils de leurs pairs.
+  * Les gens fixent leurs propres salaires avec les conseils de leurs pairs.
 
   * Il n'y a pas de primes individuelles ou d'équipe, car les primes sont perçues comme distrayant les gens de leur motivation intérieure et faussent les comportements.
 
-  * Sans nécessairement tenter explicitement de créer une structure de rémunération égalitaire, il semble que dans ces organisations, les gens s'efforcent de réduire les disparités salariales parfois extrêmes observées dans de nombreux secteurs aujourd'hui. Une attention particulière est de s'assurer que les moins bien payés gagnent suffisamment pour satisfaire les besoins de base.
+  * Sans nécessairement tenter explicitement de créer une structure de rémunération égalitaire, il semble que dans ces organisations, les gens s'efforcent de réduire les disparités salariales, parfois extrêmes, observées dans de nombreux secteurs aujourd'hui. Une attention particulière est de s'assurer que les moins bien payés gagnent suffisamment pour satisfaire leurs besoins de base.
 
 
-  En revanche, la rémunération et les primes dans les organisations à un stade précoce peuvent être résumées comme suit:
+  En revanche, la rémunération et les primes dans les organisations des stades d'évolution antérieurs peuvent être résumées comme suit:
 
 
-  #### **Organizations Rouge**
+  #### **Organisations Rouge**
 
 
   Dans le [paradigme rouge](https://fr--reinventingorganizations-wiki.netlify.app/theory/red-organizations/), la prérogative du patron est de décider librement, sur un coup de tête, d'augmenter ou de réduire les salaires. Il n'y a pas de processus formel de négociation sur la rémunération, ni de processus incitatif formel et documenté.
 
 
-  #### **Organizations Ambre**
+  #### **Organisations Ambre**
 
 
   Dans le [paradigme ambre](https://fr--reinventingorganizations-wiki.netlify.app/theory/amber-paradigm-and-organizations/), la rémunération est généralement fixée et déterminée par le niveau d’une personne dans la hiérarchie (ou par un autre marqueur de statut fixe, tel que le type de diplôme universitaire de la personne). Il n'y a pas de négociations salariales individuelles, pas de primes. C’est «même travail, même salaire».
 
 
-  #### **Organizations Orange**
+  #### **Organisations Orange**
 
 
-  Dans le [paradigme orange](https://fr--reinventingorganizations-wiki.netlify.app/theory/orange-paradigm-and-organizations/), il y a une certaine négociation individuelle du salaire de base, et les gens tombent généralement dans des échelles salariales. Un patron a la liberté d’augmenter le salaire d’une personne dans cette fourchette salariale. Orange croit fermement aux objectifs individuels et aux primes. Si les gens atteignent des objectifs prédéterminés (qui appartiennent idéalement à un système en cascade d'objectifs ou de budget qui s'accumule jusqu'à une forte création de valeur pour les actionnaires), ils recevront un bonus robuste. Les fortes différences de rémunération entre les salariés les plus riches et les plus modestes sont considérées comme parfaitement acceptables, car elles reflètent les mérites et les contributions des individus.
+  Dans le [paradigme orange](https://fr--reinventingorganizations-wiki.netlify.app/theory/orange-paradigm-and-organizations/), il y a une certaine négociation individuelle du salaire de base, et les gens sont généralement classés selon des échelles salariales. Un patron a la liberté d’augmenter le salaire d’une personne dans cette fourchette salariale. La mentalité orange croit fermement aux objectifs individuels et aux primes. Si les gens atteignent des objectifs prédéterminés (qui appartiennent idéalement à un système d'objectifs en cascade ou de budgets qui s'accumulent jusqu'à créer beaucoup de valeur pour les actionnaires), ils recevront un bonus conséquent. Les fortes différences de rémunération entre les salariés les plus riches et les plus modestes sont considérées comme parfaitement acceptables, car elles reflètent les mérites et les contributions des individus.
 
 
-  #### **Organizatio**ns Verte
+  #### **Organisatio**ns Verte
 
 
-  Le [paradigme vert ](https://fr--reinventingorganizations-wiki.netlify.app/theory/green-paradigm-and-organizations/)croit en la coopération autant qu'en la concurrence; les primes individuelles commencent à faire place aux primes d'équipe. Des tentatives sont faites pour réduire la différence entre les revenus les plus élevés et les plus bas sur le lieu de travail, par exemple par un multiple maximum entre le salaire du PDG et le salaire médian (ou le plus bas) de l'organisation.
+  Le [paradigme vert ](https://fr--reinventingorganizations-wiki.netlify.app/theory/green-paradigm-and-organizations/)croit en la coopération autant qu'en la concurrence; les primes individuelles commencent à faire place aux primes d'équipe. Des tentatives sont faites pour réduire la différence entre les revenus les plus élevés et les plus bas sur le lieu de travail, par exemple par un coefficient multiplicateur maximum entre le salaire du PDG et le salaire médian (ou le plus bas) de l'organisation.
 inPractice: >-
   #### **Comment les salaires sont fixés et par qui ?**
 
