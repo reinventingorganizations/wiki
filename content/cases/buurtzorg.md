@@ -371,48 +371,20 @@ theory:
       Seite 203]
   - topic: Change Management
     title: Bei Buurtzorg geschieht der Wandel organisch.
-    content: "Buurtzorg was created not only out of frustration with the way
-      neighborhood nursing companies in the Netherlands had fragmented a noble
-      profession into a series of senseless tasks. It also grew out of a new,
-      and broader perspective of neighborhood care. The purpose of care is not
-      to inject medication or change a bandage; it is to help people have rich,
-      meaningful, and autonomous lives, to whatever degree that is possible.
-      Within this broad definition, Buurtzorg keeps evolving, keeps moving to
-      where it feels called.\r
+    content: >-
+      Buurtzorg entstand nicht nur aus Frustration über die Art und Weise, wie
+      Krankenpflegeunternehmen in den Niederlanden einen edlen Beruf in eine
+      Reihe sinnloser Aufgaben aufgesplittert hatten. Es entstand auch aus einer
+      neuen, umfassenderen Sichtweise der Nachbarschaftspflege. Der Zweck der
+      Pflege besteht nicht darin, Medikamente zu verabreichen oder einen Verband
+      zu wechseln, sondern Menschen dabei zu helfen, ein reiches, sinnvolles und
+      autonomes Leben zu führen, soweit dies möglich ist. Im Rahmen dieser weit
+      gefassten Definition entwickelt sich Buurtzorg ständig weiter und bewegt
+      sich dorthin, wo es sich berufen fühlt.
 
-      \r
+      Vor nicht allzu langer Zeit hat ein Team auf dem Lande ein neues Konzept entwickelt: eine Pension für Patienten, um der Hauptpflegeperson eine Pause zu ermöglichen. Bei den meisten Patienten übernimmt Buurtzorg die medizinische Versorgung, aber die eigentliche Hauptpflegeperson ist jemand anderes - oft der Ehemann oder die Ehefrau des Patienten, manchmal auch das Kind des Patienten. Es ist nicht ungewöhnlich, dass der Ehemann oder die Ehefrau, die oft auch älter sind, durch die ständigen Bedürfnisse der Patienten, manchmal 24 Stunden am Tag, erschöpft sind. Wenn die Belastung zu groß wird, kann auch der Pflegende krank werden. Wäre es nicht wunderbar, so dachte ein Team von Krankenschwestern, wenn wir einen Ort hätten, an dem wir unsere Patienten für einen oder zwei Tage oder sogar eine Woche aufnehmen könnten - eine Art Bett und Frühstück und Mittagessen und Abendessen und Betreuung -, damit die Hauptpflegeperson eine Pause einlegen und sich ausruhen kann? Eine der Krankenschwestern hatte ein kleines Bauernhaus auf dem Lande geerbt. Gemeinsam verwandelte das Team es in eine Buurtzorg-Pension.
 
-      Not too long ago, for instance, one team in the countryside
-      developed a new concept: a boarding house for patients, to offer the
-      patient’s primary caregiver a break. With most patients, Buurtzorg
-      provides medical care, but someone else — often the patient’s husband or
-      wife, sometimes a patient’s child — is really the primary caregiver. It is
-      not unusual for the husband or wife, often elderly as well, to be
-      exhausted by the constant patient needs, sometimes 24 hours a day. If the
-      strain becomes too much, the caregiver can fall sick too. Wouldn’t it be
-      wonderful, one team of nurses thought, if we could have a place where we
-      could take in our patients for a day or two, or even a week— a sort of bed
-      and breakfast and lunch and dinner and care — so that their primary
-      caretaker could take a break and rest? One of the nurses had inherited a
-      small farmhouse in the countryside. Together, the team transformed it into
-      a Buurtzorg boarding house.\r
-
-      \r
-
-      At a subsequent company retreat, the team presented its concept to
-      all of its colleagues. However it was left up to them to decide if they
-      felt called to create their own boarding houses. No one at Buurtzorg, not
-      even Jos de Blok, the founder, made the call in the name of the company to
-      say, “Yes, this fits Buurtzorg’s purpose, so we will create dozens of
-      boarding houses and here is the budget we will allocate,” or “No, this is
-      not within the scope of Buurtzorg. Let’s not pursue this.” The idea of
-      boarding houses was left to run its own course. If it was meant to be, it
-      would attract nurses to make it happen and carry Buurtzorg into a new
-      dimension of care. Otherwise, it would remain a small-scale
-      experiment.^[Laloux, Frederic (2014-02-09). Reinventing Organizations: A
-      Guide to Creating Organizations Inspired by the Next Stage of Human
-      Consciousness (Kindle Locations 4334-4351). Nelson Parker. Kindle
-      Edition.]"
+      Auf einer anschließenden Betriebsversammlung stellte das Team sein Konzept allen Kollegen vor. Es wurde ihnen jedoch überlassen zu entscheiden, ob sie sich berufen fühlten, ihre eigenen Pensionen zu gründen. Niemand bei Buurtzorg, nicht einmal Jos de Blok, der Gründer, hat im Namen des Unternehmens gesagt: "Ja, das passt zum Zweck von Buurtzorg, also werden wir Dutzende von Pensionen einrichten, und hier ist das Budget, das wir dafür bereitstellen werden", oder "Nein, das passt nicht in den Rahmen von Buurtzorg. Wir sollten das nicht weiterverfolgen." Die Idee der Pensionen wurde ihrem eigenen Lauf überlassen. Wenn es so sein sollte, würde es Krankenschwestern anziehen, um es zu verwirklichen und Buurtzorg in eine neue Dimension der Pflege zu führen. Andernfalls würde es ein Experiment im kleinen Rahmen bleiben.^[Übersetzt aus Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4334-4351). Nelson Parker. Kindle Edition:]
   - topic: Crisis Management
     title: Joe de Blok averted a cash crunch by asking his nurses to work harder
     content: "Buurtzorg faced a crisis in 2010 and mastered it using the advice
