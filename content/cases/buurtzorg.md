@@ -436,27 +436,28 @@ theory:
       Stage of Human Consciousness (Kindle Locations 1498-1505). Nelson Parker.
       Kindle Edition:]'
   - topic: Decision Making
-    title: Buurtzorg has found an effective way for making decisions that affect
-      large numbers of people.
+    title: Buurtzorg hat einen effektiven Weg gefunden, um Entscheidungen zu
+      treffen, die eine große Anzahl von Menschen betreffen.
     content: >-
-      [Buurtzorg ](http://www.buurtzorgnederland.com/)uses social media (as
-      mentioned above) in a powerful and way to support the advice process.  For
-      example, if all 9,000 employees must be consulted, Jos de Blok, the
-      founder, posts his suggestions on-line. He posts regularly, from the
-      heart, without PR polish (there is no communications department at
-      Buurtzorg), often at 10pm at night from his home.
+      [Buurtzorg ](http://www.buurtzorgnederland.com/) nutzt die sozialen Medien
+      (wie oben erwähnt) auf wirkungsvolle Weise, um den Beratungsprozess zu
+      unterstützen.  Wenn zum Beispiel alle 9.000 Mitarbeiter konsultiert werden
+      müssen, stellt Jos de Blok, der Gründer, seine Vorschläge online. Er
+      postet regelmäßig, aus dem Herzen heraus, ohne PR-Schliff (es gibt keine
+      Kommunikationsabteilung bei Buurtzorg), oft um 22 Uhr abends von zu Hause
+      aus.
 
 
-      Given the respect he enjoys, his posts are widely read. Typically, 24 hours later, a majority of nurses will have read the post. Within hours, these posts evoke dozens, sometimes hundreds, of comments. 
+      Angesichts des Ansehens, das er genießt, werden seine Beiträge häufig gelesen. In der Regel hat 24 Stunden später eine Mehrheit der Krankenschwestern und -pfleger den Beitrag gelesen. Innerhalb weniger Stunden lösen diese Beiträge Dutzende, manchmal Hunderte von Kommentaren aus. 
 
 
-      This can make for fast decision-making. If the comments signal agreement, it is made within hours. If debate ensues, the proposal is amended and floated again. Or a workgroup is set up to refine it.
+      Dies kann zu einer schnellen Entscheidungsfindung führen. Wenn die Kommentare Zustimmung signalisieren, wird sie innerhalb von Stunden getroffen. Kommt es zu einer Debatte, wird der Vorschlag geändert und erneut vorgelegt. Oder es wird eine Arbeitsgruppe eingesetzt, um ihn zu verfeinern.
 
 
-      This kind of leadership by blog post requires a degree of trust, candor and vulnerability that few CEOs in would feel comfortable with. Once a post is published, there is no going back. Critical comments and rebukes are for all to see; they cannot be erased and cannot be ignored. And what the organization does with the post is beyond the CEO’s control.
+      Diese Art der Führung durch Blogposts erfordert ein Maß an Vertrauen, Offenheit und Verletzlichkeit, das nur wenige CEOs auf sich nehmen würden. Sobald ein Beitrag veröffentlicht ist, gibt es kein Zurück mehr. Kritische Kommentare und Vorwürfe sind für alle sichtbar; sie können nicht gelöscht und nicht ignoriert werden. Und was die Organisation mit dem Beitrag macht, entzieht sich der Kontrolle des CEOs.
 
 
-      What seems risky when looked at through a traditional lens is wonderfully efficient from a Teal perspective. A post made from the comfort of a sofa at home can be a decision by next afternoon, endorsed by thousands of people in the organization. An idea or concern about where the industry is going? Write a short post, and you get to know how the organization reacts. If people disagree with your thought, you have lost 15 minutes of your time … but gained a new insight into what the organization thinks. When we think of how decision-making happens in large organizations today (the PowerPoint decks that need to be written, the lengthy steering committee and executive meetings where decisions get debated, followed by top-down communications where every word is weighted), we can only marvel at the efficiency of leadership and decision making within Buurtzorg.
+      Was aus traditioneller Sicht riskant erscheint, ist aus der Perspektive von Teal wunderbar effizient. Ein Beitrag, der bequem vom heimischen Sofa aus verfasst wird, kann am nächsten Nachmittag eine Entscheidung sein, die von Tausenden von Menschen in der Organisation unterstützt wird. Sie haben eine Idee oder Bedenken, wohin sich die Branche entwickelt? Schreiben Sie einen kurzen Beitrag, und Sie erfahren, wie die Organisation reagiert. Wenn die Leute mit Ihrer Idee nicht einverstanden sind, haben Sie 15 Minuten Ihrer Zeit verloren ... aber einen neuen Einblick in die Denkweise des Unternehmens gewonnen. Wenn wir daran denken, wie die Entscheidungsfindung in großen Organisationen heutzutage abläuft (die PowerPoint-Decks, die geschrieben werden müssen, die langwierigen Sitzungen des Lenkungsausschusses und der Geschäftsführung, in denen Entscheidungen diskutiert werden, gefolgt von Top-Down-Kommunikation, bei der jedes Wort gewichtet wird), können wir nur über die Effizienz der Führung und Entscheidungsfindung bei Buurtzorg staunen.
   - topic: Decision Making
     title: Buurtzorg uses a formal when decisions are made within a team
     content: >-
