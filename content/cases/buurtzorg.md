@@ -490,27 +490,30 @@ theory:
       mit der Maßgabe, dass sie jederzeit überarbeitet werden kann, wenn neue
       Informationen vorliegen."
   - topic: Evolutionary Purpose
-    title: help sick and elderly patients live a more autonomous and meaningful life
-    content: "For Buurtzorg, its purpose— to help sick and elderly patients live a
-      more autonomous and meaningful life— is paramount, so much so that Jos de
-      Blok, its founder, has documented and published Buurtzorg’s revolutionary
-      ways of operating in great detail, to invite competition to imitate him.
-      He accepts all invitations from competitors to explain his methods. He and
-      a colleague are deeply involved as advisors to ZorgAccent, a direct
-      competitor, and don’t ask to be compensated for it. From an Orange
-      perspective, this attitude makes no sense. Buurtzorg’s breakthrough
-      organizational innovations are its equivalent to Coca-Cola’s secret
-      formula: a competitive advantage that should be locked up in a vault. But
-      from an Evolutionary-Teal perspective, the defining purpose is not
-      Buurtzorg’s market share or Jos de Blok’s personal success. What matters
-      is patients living a healthy, autonomous and meaningful life. De Blok
-      says, “In my perspective, the whole notion of competition is idiotic. It
-      really makes no sense. You try to figure out how you can best organize
-      things to provide the best care. If you then share the knowledge and the
-      information, things will change more quickly”.^[Laloux, Frederic
-      (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations
-      Inspired by the Next Stage of Human Consciousness (Kindle Locations
-      4215-4224). Nelson Parker. Kindle Edition.]"
+    title: Unterstützung kranker und älterer Patienten bei der Gestaltung eines
+      selbstbestimmten und sinnvollen Lebens
+    content: 'Für Buurtzorg ist sein Ziel - kranken und älteren Patienten zu einem
+      selbstbestimmteren und sinnvolleren Leben zu verhelfen - so wichtig, dass
+      Jos de Blok, der Gründer, Buurtzorgs revolutionäre Arbeitsweise
+      ausführlich dokumentiert und veröffentlicht hat, um die Konkurrenz zur
+      Nachahmung einzuladen. Er nimmt alle Einladungen von Wettbewerbern an,
+      seine Methoden zu erläutern. Er und ein Kollege sind als Berater von
+      ZorgAccent, einem direkten Konkurrenten, stark engagiert und verlangen
+      dafür keine Entschädigung. Aus Sicht von Orange macht diese Haltung keinen
+      Sinn. Die bahnbrechenden organisatorischen Innovationen von Buurtzorg sind
+      das Äquivalent zur Geheimformel von Coca-Cola: ein Wettbewerbsvorteil, der
+      in einem Tresor eingeschlossen werden sollte. Aber aus der Perspektive der
+      Evolutionär-Teal-Perspektive ist das entscheidende Ziel nicht der
+      Marktanteil von Buurtzorg oder der persönliche Erfolg von Jos de Blok. Was
+      zählt, ist, dass die Patienten ein gesundes, autonomes und sinnvolles
+      Leben führen. De Blok sagt: "Aus meiner Sicht ist der ganze
+      Wettbewerbsgedanke idiotisch. Er macht wirklich keinen Sinn. Man versucht
+      herauszufinden, wie man die Dinge am besten organisieren kann, um die
+      beste Versorgung zu gewährleisten. Wenn man dann das Wissen und die
+      Informationen teilt, werden sich die Dinge schneller ändern".^[ÜPbersetzt
+      aus Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to
+      Creating Organizations Inspired by the Next Stage of Human Consciousness
+      (Kindle Locations 4215-4224). Nelson Parker. Kindle Edition:]'
   - topic: board
     title: Buurtzorg needed to replace some board members.
     content: "At Buurtzorg's founding, Jos de Blok chose members of the board based
