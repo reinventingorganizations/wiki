@@ -459,25 +459,36 @@ theory:
 
       Was aus traditioneller Sicht riskant erscheint, ist aus der Perspektive von Teal wunderbar effizient. Ein Beitrag, der bequem vom heimischen Sofa aus verfasst wird, kann am nächsten Nachmittag eine Entscheidung sein, die von Tausenden von Menschen in der Organisation unterstützt wird. Sie haben eine Idee oder Bedenken, wohin sich die Branche entwickelt? Schreiben Sie einen kurzen Beitrag, und Sie erfahren, wie die Organisation reagiert. Wenn die Leute mit Ihrer Idee nicht einverstanden sind, haben Sie 15 Minuten Ihrer Zeit verloren ... aber einen neuen Einblick in die Denkweise des Unternehmens gewonnen. Wenn wir daran denken, wie die Entscheidungsfindung in großen Organisationen heutzutage abläuft (die PowerPoint-Decks, die geschrieben werden müssen, die langwierigen Sitzungen des Lenkungsausschusses und der Geschäftsführung, in denen Entscheidungen diskutiert werden, gefolgt von Top-Down-Kommunikation, bei der jedes Wort gewichtet wird), können wir nur über die Effizienz der Führung und Entscheidungsfindung bei Buurtzorg staunen.
   - topic: Decision Making
-    title: Buurtzorg uses a formal when decisions are made within a team
-    content: >-
-      [Buurtzorg's ](http://www.buurtzorgnederland.com/)employees work in 750+
-      teams of 10-12 people. These teams are largely autonomous. Many decisions
-      (say how the night shifts are handled, if there is room to accept more
-      clients, etc.) affect the whole team, but no one else. Then, it makes
-      sense for the advice process to take place within a team meeting.
-      Buurtzorg uses a specific method for decisions called “Solution-Driven
-      Methods of Interaction" developed by Ben Wenting and Astrid Vermeer of the
-      Instituut voor Samenwerkingsvraagstukken in the Netherlands.
+    title: Buurtzorg verwendet ein formelles Verfahren, wenn Entscheidungen
+      innerhalb eines Teams getroffen werden
+    content: "Die Mitarbeiter von [Buurtzorg ](http://www.buurtzorgnederland.com/)
+      arbeiten in über 750 Teams von 10-12 Personen. Diese Teams sind weitgehend
+      autonom. Viele Entscheidungen (z. B. wie die Nachtschichten gehandhabt
+      werden, ob es Raum für die Aufnahme weiterer Kunden gibt usw.) betreffen
+      das gesamte Team, aber niemanden sonst. Dann ist es sinnvoll, dass der
+      Beratungsprozess im Rahmen einer Teambesprechung stattfindet. Buurtzorg
+      verwendet für Entscheidungen eine spezielle Methode namens
+      \"Lösungsorientierte Interaktionsmethoden (Solution-Driven Methods of
+      Interaction)\", die von Ben Wenting und Astrid Vermeer vom Instituut voor
+      Samenwerkingsvraagstukken in den Niederlanden entwickelt wurde.
 
 
-      * The group chooses a facilitator for the meeting.
+      * Die Gruppe wählt einen Moderator für die Sitzung.\r
 
-      * The agenda of topics is put together on the spot. The facilitator can only ask questions: “What is your proposal?” or “What is the rationale for your proposal?” All proposals are listed on a flipchart.
+      * Die Tagesordnung wird an Ort und Stelle erstellt. Der Moderator
+      kann nur Fragen stellen: \"Was ist Ihr Vorschlag?\" oder \"Was ist die
+      Begründung für Ihren Vorschlag?\" Alle Vorschläge werden auf einem
+      Flipchart aufgelistet.\r
 
-      * Topics are then addressed one by one. In the first round, proposals are reviewed, and refined.
+      * Die Themen werden dann nacheinander behandelt. In der ersten Runde
+      werden die Vorschläge geprüft und verfeinert.\r
 
-      * In a second, proposals are put to group decision based on a consent (not consensus). For a solution to be adopted, it is enough that nobody has a principled objection. If there are none, the solution will be adopted, with the understanding that it can be revisited at any time when new information is available.
+      * In einer zweiten Runde werden die Vorschläge der Gruppe zur
+      Entscheidung vorgelegt, die auf einem Konsent (nicht auf einer Zustimmung)
+      beruht. Damit eine Lösung angenommen wird, genügt es, dass niemand einen
+      prinzipiellen Einwand hat. Wenn es keine gibt, wird die Lösung angenommen,
+      mit der Maßgabe, dass sie jederzeit überarbeitet werden kann, wenn neue
+      Informationen vorliegen."
   - topic: Evolutionary Purpose
     title: help sick and elderly patients live a more autonomous and meaningful life
     content: "For Buurtzorg, its purpose— to help sick and elderly patients live a
