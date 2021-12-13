@@ -515,21 +515,23 @@ theory:
       Creating Organizations Inspired by the Next Stage of Human Consciousness
       (Kindle Locations 4215-4224). Nelson Parker. Kindle Edition:]'
   - topic: board
-    title: Buurtzorg needed to replace some board members.
-    content: "At Buurtzorg's founding, Jos de Blok chose members of the board based
-      on their expertise—for example, a family doctor, a banker, a lawyer, etc.
-      Some were not comfortable with self-managing practices. Others wanted
-      financial projections and budgets, and similar, traditional ‘tools’. Over
-      time, de Blok persuaded several to resign and replaced them with others
-      more comfortable with Buurtzorg's novel principles and practices. In
-      practice, the Buurtzorg board serves as a sounding board for Jos de Blok
-      and his colleagues.\r
+    title: Buurtzorg musste einige Vorstandsmitglieder ersetzen.
+    content: "Bei der Gründung von Buurtzorg wählte Jos de Blok die
+      Vorstandsmitglieder aufgrund ihrer Fachkenntnisse aus, z.B. einen
+      Hausarzt, einen Bankier, einen Rechtsanwalt usw. Einige waren mit
+      selbstverwalteten Praxen nicht einverstanden. Andere wollten
+      Finanzprognosen und Budgets und ähnliche, traditionelle \"Werkzeuge\". Im
+      Laufe der Zeit überredete de Blok einige von ihnen zum Rücktritt und
+      ersetzte sie durch andere, die mit den neuartigen Prinzipien und Praktiken
+      von Buurtzorg besser vertraut waren. In der Praxis dient der
+      Buurtzorg-Vorstand als Resonanzboden für Jos de Blok und seine Kollegen.\r
 
       \r
 
-      The Buurtzorg by-laws state that the board is not responsible for
-      CEO appointment. This comes from within the organization itself.
-      ^[Interview Jos de Blok with Frederic Laloux in 2013]"
+      Die Buurtzorg-Satzung besagt, dass der Vorstand nicht für die
+      Ernennung des CEO zuständig ist. Diese Aufgabe wird von der Organisation
+      selbst wahrgenommen. ^[Interview Jos de Blok mit Frederic Laloux im Jahr
+      2013]"
   - topic: Dismissal
     title: Dismissals are self-managed, using a mediated conflict resolution process.
     content: >-
