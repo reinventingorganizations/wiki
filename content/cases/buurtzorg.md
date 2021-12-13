@@ -386,23 +386,27 @@ theory:
 
       Auf einer anschließenden Betriebsversammlung stellte das Team sein Konzept allen Kollegen vor. Es wurde ihnen jedoch überlassen zu entscheiden, ob sie sich berufen fühlten, ihre eigenen Pensionen zu gründen. Niemand bei Buurtzorg, nicht einmal Jos de Blok, der Gründer, hat im Namen des Unternehmens gesagt: "Ja, das passt zum Zweck von Buurtzorg, also werden wir Dutzende von Pensionen einrichten, und hier ist das Budget, das wir dafür bereitstellen werden", oder "Nein, das passt nicht in den Rahmen von Buurtzorg. Wir sollten das nicht weiterverfolgen." Die Idee der Pensionen wurde ihrem eigenen Lauf überlassen. Wenn es so sein sollte, würde es Krankenschwestern anziehen, um es zu verwirklichen und Buurtzorg in eine neue Dimension der Pflege zu führen. Andernfalls würde es ein Experiment im kleinen Rahmen bleiben.^[Übersetzt aus Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4334-4351). Nelson Parker. Kindle Edition:]
   - topic: Crisis Management
-    title: Joe de Blok averted a cash crunch by asking his nurses to work harder
-    content: "Buurtzorg faced a crisis in 2010 and mastered it using the advice
-      process. The young company was growing at breakneck speed when Jos de Blok
-      heard that health insurance companies had threatened to withhold €4
-      million in payments to Buurtzorg, citing technical reasons (the more
-      likely reason: the insurance companies wanted to signal to Buurtzorg that
-      it was growing too fast at the expense of established providers). A cash
-      crunch loomed. Jos de Blok wrote an internal blog post to the nurses
-      exposing the problem. He put forward two solutions: either Buurtzorg could
-      temporarily stop growing (new teams cost money at first) or nurses could
-      commit to increasing productivity (increasing client work within the
-      contract hours). In the blog comments, nurses overwhelmingly chose to work
-      harder because they didn’t like the alternative: slower growth would have
-      meant saying no to clients and nurses wanting to join Buurtzorg. In a
-      matter of a day or two, a solution to the cash problem was found (and
-      after some time, the insurance companies eventually disbursed the withheld
-      funds).\r
+    title: Joe de Blok wendete eine Liquiditätskrise ab, indem er seine
+      Krankenschwestern aufforderte, härter zu arbeiten
+    content: "Buurtzorg geriet 2010 in eine Krise und meisterte sie mit Hilfe des
+      Beratungsprozesses. Das junge Unternehmen wuchs rasant, als Jos de Blok
+      erfuhr, dass Krankenkassen drohten, Zahlungen in Höhe von 4 Millionen Euro
+      an Buurtzorg zurückzuhalten, und dies mit technischen Gründen begründeten
+      (der wahrscheinlichere Grund: Die Versicherungen wollten Buurtzorg
+      signalisieren, dass es auf Kosten etablierter Anbieter zu schnell wächst).
+      Ein Liquiditätsengpass zeichnete sich ab. Jos de Blok schrieb einen
+      internen Blogbeitrag an die Krankenschwestern, in dem er das Problem
+      darlegte. Er schlug zwei Lösungen vor: Entweder könnte Buurtzorg sein
+      Wachstum vorübergehend stoppen (neue Teams kosten zunächst Geld) oder die
+      Krankenschwestern könnten sich verpflichten, die Produktivität zu steigern
+      (mehr Kundenarbeit innerhalb der Vertragszeiten). In den Blog-Kommentaren
+      entschieden sich die Krankenschwestern mit überwältigender Mehrheit dafür,
+      härter zu arbeiten, weil ihnen die Alternative nicht gefiel: Ein
+      langsameres Wachstum hätte bedeutet, Kunden und Krankenschwestern, die
+      sich Buurtzorg anschließen wollten, abzulehnen. Innerhalb von ein oder
+      zwei Tagen wurde eine Lösung für das Geldproblem gefunden (und nach
+      einiger Zeit zahlten die Versicherungsgesellschaften schließlich die
+      einbehaltenen Gelder aus).
 
       \r\n"
   - title: A vast organization run almost entirely with small, independent teams
