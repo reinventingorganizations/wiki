@@ -533,16 +533,38 @@ theory:
       selbst wahrgenommen. ^[Interview Jos de Blok mit Frederic Laloux im Jahr
       2013]"
   - topic: Dismissal
-    title: Dismissals are self-managed, using a mediated conflict resolution process.
-    content: >-
-      Dismissals are self-managed, using a mediated [conflict
-      resolution](../conflict-resolution/) process.
+    title: Entlassungen werden selbst verwaltet, und zwar im Rahmen eines
+      Mediationsverfahrens zur Konfliktlösung.
+    content: "Entlassungen werden selbst verwaltet, wobei ein vermitteltes
+      [Konfliktlösungs-](../Konfliktlösungs-) Verfahren zum Einsatz kommt.
 
 
-      At [Buurtzorg](http://www.buurtzorgnederland.com/), if someone has lost the trust of the team, they try to find a mutually agreeable solution. If that doesn’t work out, the group calls in the regional coach or external facilitator to mediate. In almost all cases, the presence of a mediator brings resolution. In some cases, the person and the team decide on some mutual commitments and give it another go.
+      \r
+
+      \r
+
+      Bei [Buurtzorg](http://www.buurtzorgnederland.com/) wird, wenn
+      jemand das Vertrauen des Teams verloren hat, versucht, eine
+      einvernehmliche Lösung zu finden. Wenn das nicht klappt, schaltet die
+      Gruppe den Regionalcoach oder einen externen Moderator ein, um zu
+      vermitteln. In fast allen Fällen führt die Anwesenheit eines Vermittlers
+      zu einer Lösung. In einigen Fällen einigen sich die Person und das Team
+      auf einige gemeinsame Verpflichtungen und versuchen es noch einmal.
 
 
-      In others, after some deliberation, the person comes to see that trust is irrevocably broken and understands it is time to leave. If no agreement can be found, and as a last attempt to settle the matter, team members can ask Jos de Blok, the founder, to mediate. In the rare case where even that fails, they can ask him to put an end to the person’s contract (legally, he is the only one who can do so)^[Source: Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 128].
+      \r
+
+      \r
+
+      In anderen Fällen kommt die Person nach einigen Überlegungen zu der
+      Einsicht, dass das Vertrauen unwiderruflich gebrochen ist und es an der
+      Zeit ist zu gehen. Wenn keine Einigung erzielt werden kann, können die
+      Teammitglieder als letzten Versuch, die Angelegenheit zu klären, Jos de
+      Blok, den Gründer, bitten, zu vermitteln. In dem seltenen Fall, dass auch
+      das nicht gelingt, können sie ihn bitten, den Vertrag der betreffenden
+      Person zu beenden (rechtlich ist er der Einzige, der dies tun
+      kann)^[Übersetzt aus Laloux, Frederic. Reinventing Organizations. Nelson
+      Parker (2014), Seite 128]"
   - topic: Staff Functions
     title: Buurtzorg has a bare minimum central staff and has put in place
       mechanisms to leverage its decentralized expertise.
