@@ -409,27 +409,32 @@ theory:
       einbehaltenen Gelder aus).
 
       \r\n"
-  - title: A vast organization run almost entirely with small, independent teams
+  - title: Eine große Organisation, die fast ausschließlich von kleinen,
+      unabhängigen Teams geleitet wird
     topic: Self-Management
-    content: "Within Buurtzorg (which means “neighborhood care” in Dutch), nurses
-      work in teams of 10 to 12, with each team serving around 50 patients in a
-      small, well-defined neighborhood. The team is in charge of all the tasks
-      that were previously fragmented across different departments. They are
-      responsible not only for providing care, but for deciding how many and
-      which patients to serve. They do the intake, the planning, the vacation
-      and holiday scheduling, and the administration. They decide where to rent
-      an office and how to decorate it. They determine how best to integrate
-      with the local community, which doctors and pharmacies to reach out to,
-      and how to best work with local hospitals. They decide when they meet and
-      how they will distribute tasks among themselves, and they make up their
-      individual and team training plans. They decide if they need to expand the
-      team or split it in two if there are more patients than they can keep up
-      with, and they monitor their own performance and decide on corrective
-      action if productivity drops. There is no leader within the team;
-      important decisions are made collectively.^[Laloux, Frederic (2014-02-09).
-      Reinventing Organizations: A Guide to Creating Organizations Inspired by
-      the Next Stage of Human Consciousness (Kindle Locations 1498-1505). Nelson
-      Parker. Kindle Edition.]"
+    content: 'Bei Buurtzorg (was auf Niederländisch "Nachbarschaftspflege" bedeutet)
+      arbeiten die Krankenschwestern und -pfleger in Teams von 10 bis 12
+      Personen, wobei jedes Team etwa 50 Patienten in einem kleinen, genau
+      definierten Viertel betreut. Das Team ist für alle Aufgaben zuständig, die
+      zuvor auf verschiedene Abteilungen verteilt waren. Sie sind nicht nur für
+      die Pflege verantwortlich, sondern auch für die Entscheidung, wie viele
+      und welche Patienten sie betreuen sollen. Sie kümmern sich um die
+      Aufnahme, die Planung, die Urlaubs- und Feiertagsplanung und die
+      Verwaltung. Sie entscheiden, wo sie ein Büro anmieten und wie es
+      eingerichtet werden soll. Sie entscheiden, wie sie sich am besten in die
+      örtliche Gemeinschaft integrieren, welche Ärzte und Apotheken sie
+      ansprechen und wie sie am besten mit den örtlichen Krankenhäusern
+      zusammenarbeiten. Sie entscheiden, wann sie sich treffen und wie sie die
+      Aufgaben untereinander verteilen, und sie stellen ihre individuellen und
+      Team-Schulungspläne auf. Sie entscheiden, ob sie das Team erweitern oder
+      aufteilen müssen, wenn die Zahl der Patienten ihre Kapazitäten übersteigt,
+      und sie überwachen ihre eigene Leistung und beschließen
+      Korrekturmaßnahmen, wenn die Produktivität sinkt. Innerhalb des Teams gibt
+      es keinen Anführer; wichtige Entscheidungen werden gemeinsam
+      getroffen.^[Übersetzt aus Laloux, Frederic (2014-02-09). Reinventing
+      Organizations: A Guide to Creating Organizations Inspired by the Next
+      Stage of Human Consciousness (Kindle Locations 1498-1505). Nelson Parker.
+      Kindle Edition:]'
   - topic: Decision Making
     title: Buurtzorg has found an effective way for making decisions that affect
       large numbers of people.
