@@ -566,29 +566,62 @@ theory:
       kann)^[Übersetzt aus Laloux, Frederic. Reinventing Organizations. Nelson
       Parker (2014), Seite 128]"
   - topic: Staff Functions
-    title: Buurtzorg has a bare minimum central staff and has put in place
-      mechanisms to leverage its decentralized expertise.
-    content: >-
-      Buurtzorg has 9,000 employees, with a headquarters of only 40. There are
-      no typical staff roles (no CFO, head of HR, etc.). Most headquarters
-      employees are involved in administrative tasks (social security
-      administration, for instance).
+    title: Buurtzorg verfügt nur über ein Minimum an zentralem Personal und hat
+      Mechanismen eingerichtet, um sein dezentrales Fachwissen zu nutzen.
+    content: "Buurtzorg hat 9.000 Beschäftigte, mit einer Zentrale von nur 40. Es
+      gibt keine typischen Mitarbeiterrollen (kein CFO, Personalleiter usw.).
+      Die meisten Mitarbeiter der Zentrale sind mit administrativen Aufgaben
+      betraut (z. B. Verwaltung der Sozialversicherung).
 
 
-      How is it possible to manage a 9,000-person-strong organization with such a bare bones headquarters? Many of the typical staff tasks are simply devolved back to the teams. Take recruitment for example: when a team feels the need to expand, it does its own recruiting (the regional coach might give advice when asked, but is not involved in the decision). Chances are that the team will co-opt somebody who fits in well. Because the team members make the decision themselves, they are emotionally invested in making the recruit successful.
+      Wie ist es möglich, eine Organisation mit 9.000 Mitarbeitern mit
+      einer so spärlichen Zentrale zu führen? Viele der typischen
+      Personalaufgaben werden einfach an die Teams zurückverlagert. Ein Beispiel
+      ist die Rekrutierung: Wenn ein Team das Bedürfnis verspürt, sich zu
+      vergrößern, stellt es sich selbst ein (der Regionalcoach kann auf Anfrage
+      Ratschläge geben, ist aber nicht an der Entscheidung beteiligt). Die
+      Chancen stehen gut, dass das Team jemanden kooptiert, der gut zu ihm
+      passt. Da die Teammitglieder die Entscheidung selbst treffen, sind sie
+      emotional daran interessiert, dass die neue Person erfolgreich ist.
 
 
-      How about expertise? At Buurtzorg, it doesn’t make sense for every one of the roughly 600 Buurtzorg teams to develop expertise in every arcane medical condition they might encounter. But rather than create staff roles, Buurtzorg has developed a number of effective alternatives to deal with a need for expertise, both medical and non-medical:
+      Wie sieht es mit Fachwissen aus? Bei Buurtzorg ist es nicht
+      sinnvoll, dass jedes der rund 600 Buurtzorg-Teams Fachwissen über jede
+      obskure medizinische Erkrankung entwickelt, die ihnen begegnen könnte.
+      Anstatt jedoch neue Mitarbeiterrollen zu schaffen, hat Buurtzorg eine
+      Reihe von effektiven Alternativen entwickelt, um den Bedarf an
+      medizinischem und nicht-medizinischem Fachwissen zu decken:
 
 
-      * Nurses on the teams are encouraged to build up expertise and become contact points beyond their team. Through Buurtzorg’s intranet, nurses can easily identify and access colleagues with relevant expertise in a specific subject area.
+      * Die Krankenschwestern und Krankenpfleger in den Teams werden
+      ermutigt, ihr Fachwissen zu erweitern und zu Ansprechpartnern außerhalb
+      ihres Teams zu werden. Über das Intranet von Buurtzorg können die
+      Krankenschwestern und -pfleger leicht Kollegen mit einschlägigem
+      Fachwissen in einem bestimmten Themenbereich ermitteln und erreichen.\r
 
-      * Occasionally, volunteer task forces of nurses are set up to, in addition to their work with patients, investigate a new topic and build up expertise (for instance, how Buurtzorg should adapt in response to new legislation).
+      * Gelegentlich werden freiwillige Arbeitsgruppen von
+      Krankenschwestern und -pflegern gebildet, die zusätzlich zu ihrer Arbeit
+      mit den Patienten ein neues Thema untersuchen und Fachwissen aufbauen (z.
+      B. wie Buurtzorg sich an neue Gesetze anpassen sollte).\r
 
-      * When needed, an expert can be hired as a consultant , rather than brought into a staff role.
+      * Bei Bedarf kann ein Experte als Berater eingestellt werden,
+      anstatt ihn in die Rolle eines Mitarbeiters zu versetzen.\r
 
-      * If a staff person is hired, they have no decision-making authority over teams.
+      * Wenn ein Mitarbeiter eingestellt wird, hat er keine
+      Entscheidungsbefugnis gegenüber den Teams.
 
 
-      As an illustration, in a meeting of Buurtzorg’s regional coaches, a suggestion was made to hire a specialist in labor law, a topic many teams occasionally need assistance with. The suggestion made sense. And yet, other avenues were explored After closer examination, it appeared that most questions were recurring, and so the group decided to create a self-help section of “frequently asked questions on labor law” on Buurtzorg’s intranet. This took care of most questions, but a year later, the group realized that some questions still popped up for which the FAQ provided no answers. It was decided to contract a freelance expert for a few days per month who would answer questions from teams on request.^[Source: Laloux, Frederic. Reinventing Organizations. Nelson Parker, Brussels, Belgium (2014)]
+      In einer Sitzung der Regionaltrainer von Buurtzorg wurde
+      beispielsweise vorgeschlagen, einen Spezialisten für Arbeitsrecht
+      einzustellen, ein Thema, bei dem viele Teams gelegentlich Unterstützung
+      benötigen. Die Anregung war sinnvoll. Nach näherer Betrachtung stellte
+      sich heraus, dass die meisten Fragen wiederkehrend waren, und so beschloss
+      die Gruppe, im Intranet von Buurtzorg einen Selbsthilfebereich mit
+      \"häufig gestellten Fragen zum Arbeitsrecht\" einzurichten. Damit waren
+      die meisten Fragen geklärt, aber ein Jahr später stellte die Gruppe fest,
+      dass immer noch einige Fragen auftauchten, auf die die FAQ keine Antwort
+      boten. Es wurde beschlossen, für einige Tage im Monat einen
+      freiberuflichen Experten zu beauftragen, der auf Anfrage Fragen der Teams
+      beantworten sollte.^[Übersetzt aus Laloux, Frederic. Reinventing
+      Organizations. Nelson Parker, Brüssel, Belgien (2014)]"
 ---
