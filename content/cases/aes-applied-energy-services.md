@@ -154,52 +154,75 @@ theory:
       einer Person, die diese Entscheidungen trifft und die nicht im Verdacht
       steht, nach Beendigung der Krise weiterhin solche Befugnisse auszuüben. "
   - topic: Fundamental Assumptions
-    title: "During transition, two sets of belief systems were opposed to each
-      other: the traditional Amber/Orange belief system and the new set,
-      regarding self-management the logical way to operate. The traditional
-      belief set was made explicit together with the colleagues, which made it
-      very powerful and confrontational."
-    content: >-
-      Here is how Dennis Bakke (CEO of AES at that time) summarizes the
+    title: "Während des Übergangs standen sich zwei Glaubenssätze gegenüber: der
+      traditionelle Bernstein/Orange-Glaubenssatz und der neue Glaubenssatz, der
+      die Selbstverwaltung als logische Vorgehensweise ansieht. Das
+      traditionelle Glaubenssystem wurde zusammen mit den Kollegen explizit
+      gemacht, was es sehr mächtig und konfrontativ machte."
+    content: "Here is how Dennis Bakke (CEO of AES at that time) summarizes the
       assumptions workers feel bosses have about them:
 
 
-      * Workers are lazy. If they are not watched, they will not work diligently.
-
-      * Workers work primarily for money. They will do what it takes to make as much money as possible.
-
-      * Workers put their own interest ahead of what is best for the organization. They are selfish.
-
-      * Workers perform best and are most effective if they have one simple repeatable task to accomplish.
-
-      * Workers are not capable of making good decisions about important matters that affect the economic performance of the company. Bosses are good at making decisions.
-
-      * Workers do not want to be responsible for their actions or for decisions that affect the performance of the organization.
-
-      * Workers need care and protection, just as children need the care of their parents.
-
-      * Workers should be compensated by the hour or by the number of "pieces" produced. Bosses should be paid a salary and possibly receive bonuses and stock.
-
-      * Workers are like interchangeable parts of machines. One "good" worker is pretty much the same as another "good" worker.
-
-      * Workers need to be told what to do, when to do it, and how to do it. Bosses need to hold them accountable.
+      Im Folgenden fasst Dennis Bakke (damaliger CEO von AES) die Annahmen
+      zusammen, von denen die Arbeitnehmer glauben, dass ihre Chefs sie über sie
+      haben:
 
 
-      And here are the new assumptions :
+      * Arbeiter sind faul. Wenn sie nicht beobachtet werden, werden sie
+      nicht fleißig arbeiten.\r
+
+      * Arbeiter arbeiten in erster Linie für Geld. Sie werden alles tun,
+      um so viel Geld wie möglich zu verdienen.\r
+
+      * Arbeitnehmer stellen ihre eigenen Interessen über das, was für das
+      Unternehmen am besten ist. Sie sind egoistisch.\r
+
+      * Arbeitnehmer erbringen die besten Leistungen und sind am
+      effektivsten, wenn sie eine einfache, wiederholbare Aufgabe zu erledigen
+      haben.\r
+
+      * Arbeiter sind nicht in der Lage, gute Entscheidungen über wichtige
+      Angelegenheiten zu treffen, die die wirtschaftliche Leistung des
+      Unternehmens beeinflussen. Chefs sind gut im Treffen von Entscheidungen.\r
+
+      * Die Arbeitnehmer wollen nicht für ihre Handlungen oder für
+      Entscheidungen, die sich auf die Leistung des Unternehmens auswirken,
+      verantwortlich sein.\r
+
+      * Arbeitnehmer brauchen Fürsorge und Schutz, so wie Kinder die
+      Fürsorge ihrer Eltern brauchen.\r
+
+      * Die Arbeitnehmer sollten nach Stunden oder nach der Anzahl der
+      produzierten \"Stücke\" entlohnt werden. Die Chefs sollten ein Gehalt und
+      eventuell Prämien und Aktien erhalten.\r
+
+      * Arbeiter sind wie austauschbare Teile von Maschinen. Ein \"guter\"
+      Arbeiter ist so ziemlich das Gleiche wie ein anderer \"guter\" Arbeiter.\r
+
+      * Den Arbeitnehmern muss gesagt werden, was sie zu tun haben, wann
+      sie es tun sollen und wie sie es tun sollen. Die Vorgesetzten müssen sie
+      zur Verantwortung ziehen.
 
 
-      AES people :
+      Und hier sind die neuen Annahmen:\r
+
+      \r
+
+      AES-Leute:
 
 
-      * Are creative, thoughtful, trustworthy adults, capable of making important decisions;
+      * Sie sind kreative, nachdenkliche, vertrauenswürdige Erwachsene,
+      die in der Lage sind, wichtige Entscheidungen zu treffen;\r
 
-      * Are accountable and responsible for their decisions and actions;
+      * Sie sind rechenschaftspflichtig und verantwortlich für ihre
+      Entscheidungen und Handlungen;\r
 
-      * Are fallible. We make mistakes, sometimes on purpose;
+      * sind fehlbar. Wir machen Fehler, manchmal absichtlich;\r
 
-      * Are unique and
+      * sind einzigartig und\r
 
-      * Want to use their talents and skills to make a positive contribution to the organization and the world.
+      * wollen ihre Talente und Fähigkeiten einsetzen, um einen positiven
+      Beitrag für die Organisation und die Welt zu leisten."
   - topic: Ownership
     title: A publicly held company reverses its ways during difficult times.
     content: "AES, an energy generation and distribution powerhouse was co-founded
