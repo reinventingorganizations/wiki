@@ -266,21 +266,27 @@ theory:
       steuern.^[Übersetzt aus: Laloux, Frederic. Reinventing Organizations.
       Nelson Parker (2014), Seiten 253-254]"
   - topic: Project teams and task forces
-    title: AES replaced staff with task forces and mandated time allocated to them.
-    content: >-
-      With 40,000 people scattered around the globe but only around 100 staff in
-      its headquarters in Arlington, Virginia,
-      [AES](https://www.aes.com/home/default.aspx) had no central maintenance or
-      safety departments, no purchasing, no HR, and no internal audit
-      departments. The company came up with the "80-20 rule": every person
-      working at AES, from cleaning staff to engineer, was expected to spend on
-      average 80 percent of their time on their primary role and make themselves
-      available for the other 20 percent in one or more of the many tasks forces
-      that existed around the company.^[Laloux, Frederic. Reinventing
-      Organizations. Nelson Parker (2014), page 89].
+    title: Die AES ersetzte das Personal durch Task Forces und wies ihnen Zeit zu.
+    content: "Mit 40.000 Mitarbeitern weltweit, aber nur etwa 100 Mitarbeitern in
+      der Zentrale in Arlington, Virginia, hatte
+      [AES](https://www.aes.com/home/default.aspx) keine zentralen Wartungs-
+      oder Sicherheitsabteilungen, keinen Einkauf, keine Personalabteilung und
+      keine interne Revision. Das Unternehmen entwickelte die \"80-20-Regel\":
+      Von jeder Person, die bei AES arbeitete, vom Reinigungspersonal bis zum
+      Ingenieur, wurde erwartet, dass sie durchschnittlich 80 Prozent ihrer Zeit
+      mit ihrer Hauptaufgabe verbrachte und sich für die anderen 20 Prozent in
+      einer oder mehreren der vielen Aufgabengruppen zur Verfügung stellte, die
+      es im Unternehmen gab.^[Übersetzt aus: Laloux, Frederic. Reinventing
+      Organizations. Nelson Parker (2014), Seite 89].
 
 
-      Note that AES was handed over to new management in 2001, who decided to revert to more conventional management approaches.
+      \r
+
+      \r
+
+      Man beachte, dass AES im Jahr 2001 an ein neues Management übergeben
+      wurde, das beschloss, zu konventionelleren Managementansätzen
+      zurückzukehren."
   - topic: Dismissal
     title: AES introduced a generous severance program and a loan fund to make
       post-acquisition layoffs mostly voluntary and less traumatic.
