@@ -224,40 +224,47 @@ theory:
       * wollen ihre Talente und Fähigkeiten einsetzen, um einen positiven
       Beitrag für die Organisation und die Welt zu leisten."
   - topic: Ownership
-    title: A publicly held company reverses its ways during difficult times.
-    content: "AES, an energy generation and distribution powerhouse was co-founded
-      in 1982 by Roger Sant and Dennis Bakke. Under Sant’s leadership as CEO
-      until 1994, and then with Bakke at the helm, it grew from a two-person
-      firm into a global energy producer employing 40,000 people in plants
-      located in more than 30 countries around the world.\r
+    title: Ein börsennotiertes Unternehmen kehrt in schwierigen Zeiten seinen Weg um.
+    content: "AES, ein führendes Unternehmen in der Energieerzeugung und
+      -verteilung, wurde 1982 von Roger Sant und Dennis Bakke gegründet. Unter
+      Sants Führung als CEO bis 1994 und dann mit Bakke an der Spitze wuchs das
+      Unternehmen von einem Zwei-Personen-Unternehmen zu einem globalen
+      Energieerzeuger mit 40.000 Mitarbeitern in Anlagen in mehr als 30 Ländern
+      auf der ganzen Welt.\r
 
       \r
 
-      AES became a Wall Street darling after it was publicly listed in
-      1991. For years, while the company was going from success to success, the
-      board members were supportive of AES’s radically decentralized and
-      trust-based decision-making. And yet as Bakke commented, “Most board
-      members loved the AES approach primarily because they believed it pushed
-      the stock price up, not because it was the ‘right’ way to operate an
-      organization.”\r
+      Nach seinem Börsengang im Jahr 1991 wurde AES zum Liebling der Wall
+      Street. Jahrelang, während das Unternehmen von Erfolg zu Erfolg eilte,
+      unterstützten die Vorstandsmitglieder die radikal dezentralisierte und
+      vertrauensbasierte Entscheidungsfindung von AES. Und doch, so Bakke,
+      \"liebten die meisten Vorstandsmitglieder den Ansatz von AES vor allem
+      deshalb, weil sie glaubten, dass er den Aktienkurs in die Höhe trieb, und
+      nicht, weil es der 'richtige' Weg war, ein Unternehmen zu führen.\"
 
       \r
 
-      AES’s fortunes turned in the early 2000’s. Following the dotcom
-      bubble burst, the 9/11 terrorist attacks and the Enron bankruptcy, which
-      caused near panic among energy investors, AES’s stock price, which had
-      peaked at $70, declined to as low as $5. AES’s earlier decisions to invest
-      in “merchant plants” that sold electricity in the spot market as opposed
-      to under long-term contracts and to finance much of its growth with debt
-      no doubt contributed to its troubles. However, these decisions could not
-      be attributed solely to its decentralized structure as they had been
-      discussed and agreed to all the way up to the board level. Nevertheless,
-      fear took over among board members, and they imposed greatly increased
-      oversight including the hiring of lawyers and consultants as well as a
-      co-CEO whose directives Bakke was asked to carry out. After nine
-      frustrating months, Bakke left, which freed the board to direct the
-      conversion of AES to traditional management practices.^[Laloux, Frederic.
-      Reinventing Organizations. Nelson Parker (2014), pages 253-254]"
+      \r
+
+      Anfang der 2000er Jahre wendete sich das Blatt für AES. Nach dem
+      Platzen der Dotcom-Blase, den Terroranschlägen vom 11. September 2001 und
+      dem Konkurs von Enron, der unter den Anlegern im Energiesektor fast eine
+      Panik auslöste, sank der Aktienkurs von AES, der seinen Höchststand bei 70
+      $ erreicht hatte, auf bis zu 5 $. Die früheren Entscheidungen von AES, in
+      \"Handelskraftwerke\" zu investieren, die Strom auf dem Spotmarkt und
+      nicht im Rahmen langfristiger Verträge verkauften, und einen Großteil des
+      Wachstums mit Schulden zu finanzieren, trugen zweifellos zu den
+      Schwierigkeiten des Unternehmens bei. Diese Entscheidungen konnten jedoch
+      nicht allein auf die dezentrale Struktur des Unternehmens zurückgeführt
+      werden, da sie bis hinauf zur Vorstandsebene diskutiert und beschlossen
+      worden waren. Nichtsdestotrotz machte sich unter den Vorstandsmitgliedern
+      Angst breit, und sie verhängten eine stark erhöhte Aufsicht,
+      einschließlich der Einstellung von Anwälten und Beratern sowie eines
+      Co-CEO, dessen Weisungen Bakke ausführen sollte. Nach neun frustrierenden
+      Monaten verließ Bakke das Unternehmen, was dem Vorstand die Möglichkeit
+      gab, die Umstellung von AES auf traditionelle Managementpraktiken zu
+      steuern.^[Übersetzt aus: Laloux, Frederic. Reinventing Organizations.
+      Nelson Parker (2014), Seiten 253-254]"
   - topic: Project teams and task forces
     title: AES replaced staff with task forces and mandated time allocated to them.
     content: >-
