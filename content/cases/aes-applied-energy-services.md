@@ -81,77 +81,31 @@ theory:
       Arbeitsgruppen, die von einigen wenigen Mitarbeitern der Zentrale mit
       einschlägigem Fachwissen unterstützt werden, führen gemeinsam die
       Haushaltsplanung und -prüfung durch.
-    content: "Like their counterparts at [FAVI](http://www.favi.com/) and [Sun
-      Hydraulics](http://www.sunhydraulics/), teams at
-      [AES](http://www.ase.com/) were responsible for decisions relating to all
-      aspects of day-to-day operations including investment related budgeting,
-      hiring, training, evaluations, compensation, capital expenditures, and
-      purchasing, as well as long-term strategy and charitable giving.
-      [AES](http://www.ase.com/) is an energy provider, operating thermal and
-      hydroelectric power plants as well as electrical grids. This equipment is
-      absolutely central to the lives of many people and businesses. A
-      front-page article in the Wall Street Journal by reporter Alex Markels
-      illustrates with a story how far teams at [AES](http://www.ase.com/) went
-      with taking on responsibilities typically handled by headquarters:
+    content: >-
+      Wie ihre Kollegen bei [FAVI](http://www.favi.com/) und [Sun
+      Hydraulics](http://www.sunhydraulics/) waren auch die Teams bei
+      [AES](http://www.ase.com/) für Entscheidungen im Zusammenhang mit allen
+      Aspekten des Tagesgeschäfts verantwortlich, einschließlich
+      investitionsbezogener Budgetierung, Einstellung, Schulung, Evaluierung,
+      Vergütung, Investitionsausgaben und Einkauf sowie langfristiger Strategie
+      und Wohltätigkeitsveranstaltungen. [AES](http://www.ase.com/) ist ein
+      Energieversorger, der Wärme- und Wasserkraftwerke sowie Stromnetze
+      betreibt. Diese Anlagen sind für das Leben vieler Menschen und Unternehmen
+      absolut zentral. Ein Artikel des Reporters Alex Markels auf der Titelseite
+      des Wall Street Journal veranschaulicht anhand einer Geschichte, wie weit
+      die Teams von [AES](http://www.ase.com/) bei der Übernahme von Aufgaben
+      gegangen sind, die normalerweise von der Zentrale erledigt werden:
 
 
-      \\
+      \
 
-      *MONTVILLE, Conn. –– His hands still blackened from coal he has just
-      unloaded from a barge, Jeff Hatch picks up the phone and calls his
-      favorite broker. “What kind of rate can you give me for $10 million at 30
-      days?” he asks the agent, who handles Treasury bills. “Only 6.09? But I
-      just got a 6.13 quote from Chase.” In another room, Joe Oddo is working on
-      J.P. Morgan & Co. “6.15 at 30 days?” confirms Mr. Oddo, a maintenance
-      technician at AES Corp.’s power plant here. “I’ll get right back to you.”
-      Members of an ad-hoc team that manages a $33 million plant investment
-      fund, Messrs. Oddo and Hatch quickly confer with their associates, then
-      close the deal. … It sounds like “empowerment” gone mad. Give workers more
-      autonomy in their area of expertise? Sure. Open the books to employee
-      purview? Perhaps. But what good could possibly come from handing corporate
-      finance duties to workers whose collective borrowing experience totals a
-      mortgage, two car loans, and some paid-off credit-card debt? Plenty of
-      good, says AES. … “The more you increase individual responsibility, the
-      better the chances for incremental improvements in operations,” argues
-      Dennis W. Bakke, the company’s chief executive and one of its founders. …
-      “And more importantly” he says “it makes work a lot more fun.” Is giving
-      coal handlers investment responsibility risky? Mr. Bakke thinks not. He
-      notes that the volunteer team in Montville does have a financial adviser,
-      and they work within a narrow range of investment choices. They aren’t
-      exactly buying derivatives. What the CEO likes about the arrangement is
-      that “they’re changed people by this experience. They’ve learned so much
-      about the total aspect of the business, they’ll never be the same.”*
-      ^[Alex Markels, \"Blank Check,\" The Wall Street Journal, April 9, 1998)]
+      *MONTVILLE, Connor - Jeff Hatch, dessen Hände noch immer von der Kohle geschwärzt sind, die er gerade von einem Lastkahn abgeladen hat, nimmt den Hörer ab und ruft seinen Lieblingsmakler an. "Welchen Zinssatz können Sie mir für 10 Millionen Dollar mit einer Laufzeit von 30 Tagen geben?", fragt er den Makler, der mit Schatzwechseln handelt. "Nur 6,09? Aber ich habe gerade ein Angebot von Chase zu 6,13 bekommen." In einem anderen Raum arbeitet Joe Oddo an J.P. Morgan & Co. "6,15 in 30 Tagen?" bestätigt Herr Oddo, ein Wartungstechniker im Kraftwerk der AES Corp. hier. "Ich melde mich gleich wieder bei Ihnen." Als Mitglieder eines Ad-hoc-Teams, das einen 33-Millionen-Dollar-Investitionsfonds für Kraftwerke verwaltet, beraten sich die Herren Oddo und Hatch schnell mit ihren Mitarbeitern und schließen dann das Geschäft ab. ... Das klingt nach "Empowerment" auf Teufel komm raus. Den Mitarbeitern mehr Autonomie in ihrem Fachgebiet geben? Sicher. Die Bücher für die Einsicht der Mitarbeiter öffnen? Vielleicht. Aber was kann schon Gutes dabei herauskommen, wenn man die Aufgaben der Unternehmensfinanzierung Arbeitnehmern überträgt, deren kollektive Erfahrung mit der Kreditaufnahme sich auf eine Hypothek, zwei Autokredite und einige abbezahlte Kreditkartenschulden beläuft? Sehr viel Gutes, meint die AES. ... "Je mehr man die Verantwortung des Einzelnen stärkt, desto größer sind die Chancen für schrittweise Verbesserungen im Betrieb", argumentiert Dennis W. Bakke, der Geschäftsführer und einer der Gründer des Unternehmens. ... "Und was noch wichtiger ist", sagt er, "die Arbeit macht dadurch viel mehr Spaß." Ist es riskant, den Kohlehändlern die Verantwortung für Investitionen zu übertragen? Herr Bakke glaubt nicht. Er weist darauf hin, dass das Freiwilligenteam in Montville einen Finanzberater hat, und sie arbeiten innerhalb einer engen Bandbreite von Anlagemöglichkeiten. Sie kaufen nicht gerade Derivate. Was dem Vorstandsvorsitzenden an diesem Arrangement gefällt, ist, dass "sie durch diese Erfahrung zu anderen Menschen geworden sind. Sie haben so viel über den Gesamtaspekt des Geschäfts gelernt, dass sie nie wieder dieselben sein werden. "* ^[Übersetzt aus: Alex Markels, "Blank Check", The Wall Street Journal, 9. April 1998)]
 
 
-      At AES, every team established its investment budget once a year.
-      Budgets would be added up at the plant level, sometimes running as high as
-      $300 million in a year. When teams were satisfied with the consolidated
-      budget for the plant, it was reviewed, together with those from all other
-      plants, by a budget task force that would suggest possible changes and
-      improvements (but didn’t have power to enforce changes). That task force
-      was staffed with a few people from headquarters with relevant expertise,
-      but predominantly with people from local units with all sorts of
-      backgrounds - a security guard could sit next to a technician and an
-      engineer. Internal audits were performed in the same way, by volunteer
-      task forces: each plant would be audited by colleagues from other
-      plants.\r
+      Bei AES legte jedes Team einmal im Jahr sein Investitionsbudget fest. Die Budgets wurden auf Werksebene addiert und beliefen sich manchmal auf bis zu 300 Mio. USD pro Jahr. Wenn die Teams mit dem konsolidierten Budget für das Werk zufrieden waren, wurde es zusammen mit den Budgets aller anderen Werke von einer Budget-Taskforce überprüft, die mögliche Änderungen und Verbesserungen vorschlug (aber nicht befugt war, Änderungen durchzusetzen). Diese Task Force bestand aus einigen wenigen Mitarbeitern der Zentrale mit einschlägigem Fachwissen, überwiegend jedoch aus Mitarbeitern der lokalen Einheiten mit den unterschiedlichsten Hintergründen - ein Wachmann konnte neben einem Techniker und einem Ingenieur sitzen. Interne Audits wurden auf die gleiche Weise durchgeführt, nämlich von freiwilligen Task Forces: Jede Anlage wurde von Kollegen aus anderen Anlagen geprüft.
 
-      \r
 
-      AES found out that using voluntary task forces instead of fixed
-      staff functions has multiple benefits. Employees find avenues to express
-      talents and gifts that their primary role might not call for. They develop
-      a true sense of ownership and responsibility when they see they have real
-      power to shape their company. Founder Dennis Bakke insists on another
-      point: these task forces are formidable learning institutions. At any
-      point in time, thousands of people would be involved in task forces,
-      picking up technical and leadership skills from more experienced
-      colleagues. It’s a modern-day form of apprenticeship, scaled to a massive
-      level. No classroom training could ever provide the amount of learning
-      that was taking place day in and day out in the voluntary task
-      forces.^[Laloux, Frederic. Reinventing Organizations. Nelson Parker
-      (2014), page 88 and following]"
+      AES fand heraus, dass der Einsatz von freiwilligen Arbeitsgruppen anstelle von festen Personalfunktionen mehrere Vorteile hat. Die Mitarbeiter finden Möglichkeiten, ihre Talente und Begabungen zum Ausdruck zu bringen, die sie in ihrer primären Funktion vielleicht nicht brauchen. Sie entwickeln ein echtes Gefühl der Eigenverantwortung, wenn sie sehen, dass sie wirklich die Macht haben, ihr Unternehmen zu gestalten. Der Gründer Dennis Bakke betont noch einen weiteren Punkt: Diese Task Forces sind beeindruckende Lerneinrichtungen. Zu jedem beliebigen Zeitpunkt würden Tausende von Menschen in den Task Forces mitarbeiten und von erfahreneren Kollegen technische Fähigkeiten und Führungsqualitäten erlernen. Es handelt sich um eine moderne Form der Berufsausbildung, die ein riesiges Ausmaß annimmt. Keine Ausbildung im Klassenzimmer könnte jemals das Ausmaß des Lernens bieten, das tagtäglich in den freiwilligen Task Forces stattfand.^[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), Seite 88 und folgende]
   - topic: Crisis Management
     title: AES suspends the advice process as gracefully as possible
     content: "In fall of 2001, after the terrorist attacks and the collapse of
