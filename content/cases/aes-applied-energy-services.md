@@ -288,18 +288,20 @@ theory:
       wurde, das beschloss, zu konventionelleren Managementansätzen
       zurückzukehren."
   - topic: Dismissal
-    title: AES introduced a generous severance program and a loan fund to make
-      post-acquisition layoffs mostly voluntary and less traumatic.
+    title: AES führte ein großzügiges Abfindungsprogramm und einen Darlehensfonds
+      ein, um Entlassungen nach einer Übernahme weitgehend freiwillig und
+      weniger traumatisch zu gestalten.
     content: >-
-      [AES ](http://www.aes.com/)has demonstrated a distinctively Teal approach
-      to layoffs due to structural overstaffing after buying power plants
-      previously owned by governments. After the acquisition, AES had to lay off
-      hundreds of people and managed to do that relatively painlessly through a
-      special voluntary severance program. Here is Dennis Bakke‘s, CEO,
-      perspective on the matter:
+      [AES ](http://www.aes.com/) hat bei Entlassungen aufgrund von
+      strukturellem Personalüberhang nach dem Kauf von Kraftwerken, die zuvor im
+      Besitz von Regierungen waren, einen ausgeprägten Teal-Ansatz gezeigt. Nach
+      der Übernahme musste AES Hunderte von Mitarbeitern entlassen und schaffte
+      dies relativ schmerzlos durch ein spezielles Programm für freiwillige
+      Abfindungen. Hier ist die Sichtweise von Dennis Bakke, CEO, zu diesem
+      Thema:
 
 
-      *"The right size of a workforce is equal to the number of people needed to make the workplace fun. Having too many employees demoralizes colleagues and causes turf battles. A very astute AES plant manager in Northern Ireland told me that arguments over turf are good indicators that the facility has too many people. No one worries about who does what when there is enough work to go around. My belief that business should not carry unneeded employees does not mean that they should be given pink slips and hustled out the door. Departing employees need time to make the transitions to new work. Organizations should be generous with severance arrangements. We encountered overstaffing almost every time we made an acquisition. One of the first things we did after acquiring a business was to set up a generous and voluntary severance program. Only rarely were individuals asked to leave. In Panama, AES created a loan fund for employees who took the severance package. A year later, I traveled to a celebration lunch with former employees who had left the company. Seventy-one new businesses had been started by these former employees, most of whom tapped the AES loan fund. Even with generous voluntary severance arrangements, the changeover from a company you know to one you don’t can be traumatic. I strongly believe that these difficult transitions are a necessary evil that forces employees and organizations to adjust to a dynamic world. Part of the joy of work is learning new roles and taking on new responsibilities. Job security is attractive gift wrapping, but seldom is there anything of lasting value inside.*"^\[Source: Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), pages 187-188]
+      *Die richtige Größe einer Belegschaft entspricht der Anzahl der Personen, die erforderlich sind, damit der Arbeitsplatz Spaß macht. Zu viele Mitarbeiter demoralisieren die Kollegen und führen zu Revierkämpfen. Ein sehr kluger AES-Werksleiter in Nordirland sagte mir, dass Auseinandersetzungen um Revierkämpfe ein guter Indikator dafür sind, dass der Betrieb zu viele Mitarbeiter hat. Niemand kümmert sich darum, wer was macht, wenn es genug Arbeit für alle gibt. Wenn ich der Meinung bin, dass ein Unternehmen keine überflüssigen Mitarbeiter beschäftigen sollte, heißt das nicht, dass man sie entlassen und vor die Tür setzen sollte. Ausscheidende Mitarbeiter brauchen Zeit, um sich auf eine neue Aufgabe einzustellen. Die Unternehmen sollten bei Abfindungsregelungen großzügig sein. Wir sind fast bei jeder Akquisition auf Personalüberhang gestoßen. Eines der ersten Dinge, die wir nach der Übernahme eines Unternehmens taten, war, ein großzügiges und freiwilliges Abfindungsprogramm einzurichten. Nur selten wurden einzelne Mitarbeiter aufgefordert zu gehen. In Panama richtete AES einen Darlehensfonds für Mitarbeiter ein, die das Abfindungspaket annahmen. Ein Jahr später reiste ich zu einem Festessen mit ehemaligen Mitarbeitern, die das Unternehmen verlassen hatten. Einundsiebzig neue Unternehmen waren von diesen ehemaligen Mitarbeitern gegründet worden, von denen die meisten den AES-Kreditfonds in Anspruch genommen hatten. Selbst bei großzügigen freiwilligen Abfindungsregelungen kann der Wechsel von einem Unternehmen, das man kennt, zu einem Unternehmen, das man nicht kennt, traumatisch sein. Ich bin der festen Überzeugung, dass diese schwierigen Übergänge ein notwendiges Übel sind, das Arbeitnehmer und Unternehmen zwingt, sich an eine dynamische Welt anzupassen. Ein Teil der Freude an der Arbeit besteht darin, neue Rollen zu lernen und neue Aufgaben zu übernehmen. Arbeitsplatzsicherheit ist eine attraktive Geschenkverpackung, aber selten ist etwas von bleibendem Wert darin enthalten [Übersetzt aus: Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), Seiten 187-188]
   - topic: Staff Functions
     title: AES, in a heavily regulated industry, pioneered the use of 80/20
       voluntary task forces to deal with typical staff functions.
