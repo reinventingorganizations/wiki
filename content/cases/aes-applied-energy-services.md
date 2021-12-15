@@ -107,41 +107,52 @@ theory:
 
       AES fand heraus, dass der Einsatz von freiwilligen Arbeitsgruppen anstelle von festen Personalfunktionen mehrere Vorteile hat. Die Mitarbeiter finden Möglichkeiten, ihre Talente und Begabungen zum Ausdruck zu bringen, die sie in ihrer primären Funktion vielleicht nicht brauchen. Sie entwickeln ein echtes Gefühl der Eigenverantwortung, wenn sie sehen, dass sie wirklich die Macht haben, ihr Unternehmen zu gestalten. Der Gründer Dennis Bakke betont noch einen weiteren Punkt: Diese Task Forces sind beeindruckende Lerneinrichtungen. Zu jedem beliebigen Zeitpunkt würden Tausende von Menschen in den Task Forces mitarbeiten und von erfahreneren Kollegen technische Fähigkeiten und Führungsqualitäten erlernen. Es handelt sich um eine moderne Form der Berufsausbildung, die ein riesiges Ausmaß annimmt. Keine Ausbildung im Klassenzimmer könnte jemals das Ausmaß des Lernens bieten, das tagtäglich in den freiwilligen Task Forces stattfand.^[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), Seite 88 und folgende]
   - topic: Crisis Management
-    title: AES suspends the advice process as gracefully as possible
-    content: "In fall of 2001, after the terrorist attacks and the collapse of
-      Enron, AES’s stock price plummeted. The company needed access to capital
-      markets to serve its high debt levels but found them suddenly closed.
-      Swift and drastic action was needed to prevent bankruptcy. A critical
-      question was: how many and which power plants would need to be sold off to
-      raise the necessary cash? With 40,000 people spread around the world,
-      Dennis Bakke, the CEO, could hardly convene everybody and stand on a
-      soapbox like Zobrist at FAVI. And the problem was so complex that he
-      couldn’t simply send out a blog post with two alternatives, like Jos de
-      Blok did at Buurtzorg.\r
+    title: AES unterbricht den Beratungsprozess so behutsam wie möglich
+    content: "Im Herbst 2001, nach den Terroranschlägen und dem Zusammenbruch von
+      Enron, stürzte der Aktienkurs von AES ab. Das Unternehmen benötigte Zugang
+      zu den Kapitalmärkten, um seine hohe Verschuldung zu bedienen, fand diese
+      aber plötzlich geschlossen. Rasches und drastisches Handeln war
+      erforderlich, um den Konkurs zu verhindern. Die entscheidende Frage
+      lautete: Wie viele und welche Kraftwerke müssten verkauft werden, um das
+      nötige Geld zu beschaffen? Bei 40.000 Mitarbeitern, die über die ganze
+      Welt verteilt sind, konnte Dennis Bakke, der Vorstandsvorsitzende, kaum
+      alle zusammenrufen und sich wie Zobrist bei FAVI auf eine Seifenkiste
+      stellen. Und das Problem war so komplex, dass er nicht einfach einen
+      Blogpost mit zwei Alternativen veröffentlichen konnte, wie es Jos de Blok
+      bei Buurtzorg tat.
+
+      Bakke entschied sich für eine Vorgehensweise, die den
+      Beratungsprozess vorübergehend aussetzte, und zwar auf eine Weise, die das
+      Risiko, das Vertrauen in die Selbstverwaltung zu untergraben, dennoch
+      minimierte. Er arbeitete nicht hinter verschlossenen Türen mit seinem
+      Führungsteam einen Plan aus, sondern kündigte öffentlich an, dass für eine
+      begrenzte Anzahl von - allerdings kritischen - Entscheidungen während
+      eines begrenzten Zeitraums Entscheidungen von oben nach unten getroffen
+      werden würden. Für alle anderen Entscheidungen würde das
+      Beratungsverfahren in Kraft bleiben. Um die beste Vorgehensweise zu
+      ermitteln und die schwierigen Entscheidungen zu treffen, ernannte Bakke
+      Bill Luraschi, einen jungen und brillanten Chefsyndikus. Luraschi galt
+      weder als einer der ranghöchsten Führungskräfte noch als jemand, der in
+      Zukunft eine führende Rolle anstreben würde. Das Signal war eindeutig: Die
+      obersten Führungskräfte der Organisation wollten nicht mehr Macht ausüben.
+      Die Entscheidungsfindung von oben nach unten würde von jemandem übernommen
+      werden, der nicht nach Macht strebte, und sie würde wirklich nur
+      vorübergehend sein.
 
       \r
 
-      Bakke chose a course of action that temporarily suspended the advice
-      process in a way that nevertheless minimized the risk of under-mining
-      trust in self-management. He didn’t work out a plan behind closed doors
-      with his management team; instead, he publicly announced that top-down
-      decision-making would be made during a limited time for a limited number
-      of decisions, albeit critical ones. The advice process would remain in
-      force for all other decisions. To investigate the best course of action
-      and make the tough calls, Bakke appointed Bill Luraschi, a young and
-      brilliant general counsel. Luraschi wasn’t regarded as one of the most
-      senior leaders nor as someone who would seek a leading role in the future.
-      The signal was clear: the senior leaders of the organization were not
-      looking to exert more power. Top-down decision-making would be handled by
-      someone with no thirst for power, and it really would be temporary.\r
+      \r
 
       \r
 
-      If the advice process needs to be suspended in times of crisis,
-      these two guidelines can serve to maintain trust in self-management: give
-      full transparency about the scope and timeframe of top-down
-      decision-making, and appoint someone to make those decisions who will not
-      be suspected of continuing to exert such powers when the crisis is over. "
+      \r
+
+      Wenn der Beratungsprozess in Krisenzeiten unterbrochen werden muss,
+      können diese beiden Leitlinien dazu dienen, das Vertrauen in die
+      Selbstverwaltung aufrechtzuerhalten: volle Transparenz über den Umfang und
+      den Zeitrahmen der Entscheidungsfindung von oben nach unten und Ernennung
+      einer Person, die diese Entscheidungen trifft und die nicht im Verdacht
+      steht, nach Beendigung der Krise weiterhin solche Befugnisse auszuüben. "
   - topic: Fundamental Assumptions
     title: "During transition, two sets of belief systems were opposed to each
       other: the traditional Amber/Orange belief system and the new set,
