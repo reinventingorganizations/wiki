@@ -1,12 +1,14 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
 name: Sociocracy
-introduction: Sociocracy, also called dynamic governance, is a system of
-  governance which seeks to create harmonious social environments and productive
-  organizations. It is distinguished by the use of consent, rather than majority
-  voting, in decision-making, and of discussion by people who know each other.
+date: 2020-11-09
+introduction: Die "Sociocracy", auch dynamische Governance genannt, ist ein
+  System der Governance, das darauf abzielt, ein harmonisches soziales Umfeld
+  und produktive Organisationen zu schaffen. Sie zeichnet sich dadurch aus, dass
+  bei der Entscheidungsfindung eher auf Konsent als auf Mehrheitsentscheidungen
+  gesetzt wird und dass die Diskussion von Menschen geführt wird, die sich
+  kennen.
 industry: V. Others
 geography: Global
 companySize: "> 500"
