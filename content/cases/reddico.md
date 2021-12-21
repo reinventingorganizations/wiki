@@ -150,4 +150,19 @@ theory:
 
       **Step 3: Designated arbitrator**
        In the majority of situations, a direct conversation or mediation session will resolve any issues of conflict. However, if the conversation remains deadlocked, a designated arbitrator is required to join the discussion and hear from all parties. If a resolution is unable to be made, the arbitrator will (as a last resort) make a final decision. Ultimately, all disputes must come to an end. The designated arbitrator would likely be Reddico’s Managing Director.
+  - topic: Information Flow
+    title: Delivering full transparency across the team
+    content: >-
+      Information flows throughout the team, creating a high level of
+      transparency across the business. We work on a policy of being open by
+      default. Some of the practices include:
+
+
+      * **Weekly all-agency:** Every Friday morning, the whole company meets virtually to share information across the business (top level insights/main discussion & outcomes). Reddico’s Managing Director will also share any news or information with the wider team. 
+
+      * **Meeting notes:** All areas of the business take notes in their weekly, biweekly, or monthly meetings, and distribute these to the whole team by email. It provides greater transparency on what is happening throughout the organisation. 
+
+      * **Financial reports:** Monthly and quarterly financial reports are created and sent to the whole team, outlining revenue, profit, overheads, cost of sales, and more. 
+
+      * **Quarterly Reddicons:** Reddico’s quarterly reviews are an all-team event to summarise the last three months and share plans for the next quarter. There will also be brainstorms and questions posed to the wider team to get thoughts and opinions on company initiatives and strategy.
 ---
