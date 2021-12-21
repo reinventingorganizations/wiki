@@ -78,4 +78,49 @@ theory:
       Coaching is on the individual to decide when and if they need to book a session – as with everything else, it’s completely self-managed. The only two requirements are that an individual choose someone from OUTSIDE their department, and there’s the minimum of a quarterly coaching session (inspired by Happy’s process). 
 
       Link to coaching form: [https://docs.google.com/document/d/1vJDeT9yKed3ZhMjbsT0NYOyrPbzNMekveD07jM8e6uc/edit?usp=sharing ](https://docs.google.com/document/d/1vJDeT9yKed3ZhMjbsT0NYOyrPbzNMekveD07jM8e6uc/edit?usp=sharing)
+  - topic: Commitment, Working Hours and Flexibility
+    title: Freedom & trust – just make a positive impact
+    content: >-
+      Reddico operates as a completely self-managed company, where individuals
+      are accountable for how, when, and where they work best. The following
+      applies:
+
+
+      * **No set number of days holiday each year**. Everyone has to take a MINIMUM of 28 days (including Bank Holidays), but outside of that it’s up to the individual.
+
+      * **Choose where you work**. This could be 100% remote, 100% in the office, or a hybrid of the two. Reddico also supports individuals who want to move abroad permanently or temporarily. 
+
+      * **Choose the hours you work.** There are no core hours, and team members are able to decide the best times for them. It could be 6am or 11pm – whatever works for you. 
+
+      * **Pay all sick days**. Reddico trusts the team to be open and honest. If you’re sick, take time off to get back to 100%. 
+
+
+      The only caveat to all of this is ‘*you must make a positive impact’*.
+  - topic: Feedback and Performance Management
+    title: No managers. Just choose your own coach.
+    content: >-
+      With the removal of managers from the company, Reddico also scrapped
+      traditional management responsibilities such as annual appraisals and
+      performance reviews. 
+
+
+      This type of performance review has been replaced with quarterly check-ins with your own coach – each individually picked by the team member. The check-ins are designed to create a positive, reflective experience, discussing areas such as success, aspirations, values, and job role happiness.
+
+
+      Link to Reddico coaching form: <https://docs.google.com/document/d/1vJDeT9yKed3ZhMjbsT0NYOyrPbzNMekveD07jM8e6uc/edit?usp=sharing>
+  - topic: Decision Making
+    title: Clear roles and responsibilities with the advice process
+    content: >-
+      Each team has built out the roles and responsibilities of everyone in the
+      group, so it’s clear who would be able to make decisions within the
+      company on different subjects. 
+
+
+      If a responsibility falls into an individual’s area, they’re able to direct change and improvement using the advice process. 
+
+
+      This video provides more information on Reddico’s advice process, and how it works: <https://www.loom.com/share/07ffe72b66d542c9bcbc08fea83556cf>
+
+
+      Please note that even though it’s stated in the video “Strictly private and confidential”, it’s OK to share it :-)
 ---
