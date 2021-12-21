@@ -123,4 +123,31 @@ theory:
 
 
       Please note that even though it’s stated in the video “Strictly private and confidential”, it’s OK to share it :-)
+  - topic: Conflict resolution
+    title: A simple process to resolve conflict in an adult way
+    content: >-
+      <https://reddico.co.uk/uploads/2021/04/conflict-resolution-04.jpg>
+
+
+      **[](https://reddico.co.uk/uploads/2021/04/conflict-resolution-04.jpg)Step 1: Direct conversation**
+       Once you know what you want to talk about, and how you’re going to approach the situation, it’s important to talk directly to the other person. This conversation is crucial in helping to give an overview of where you’re coming from, but it’s also an opportunity to listen to the other person as well. 
+      If you need any support in addressing the issue, or how to raise it, you can speak to your coach or team conflict mediator, who may be able to help you identify opportunities for this.
+
+      In many cases, having this clear, honest and upfront conversation can help to resolve the issue, and leave you with an action plan going forward. 
+
+
+      It’s important this first step is taken in resolving the issue – talking directly to the other person helps both parties feel heard and appreciated, paving the way for a resolution. 
+
+
+
+      **Step 2: Mediation**
+       Following a direct conversation in Step 1, the initial issue has been communicated and both parties should have had the opportunity to talk and listen. If, following this, next steps and a resolution haven’t been agreed (or the issue has resurfaced in the future), you may want to escalate to Step 2. 
+      The key to this step is identifying a mediator both parties trust, who can review the situation, hear from both parties and give any thoughts about the issue. It’s important to remember, the mediator can’t resolve the issue. They’re simply there to provide a different perspective on the situation. However, the mediator can help keep discussions on track and ensure conversations are kept to the facts.
+
+      If the two parties are unable to find a mutual mediator, they may each choose a mediator they trust (this could be a coach or team mediator, for example). For clarification, the mediator isn’t on someone’s ‘side’ – they’re chosen to review the issue and provide unbiased thoughts. 
+
+
+
+      **Step 3: Designated arbitrator**
+       In the majority of situations, a direct conversation or mediation session will resolve any issues of conflict. However, if the conversation remains deadlocked, a designated arbitrator is required to join the discussion and hear from all parties. If a resolution is unable to be made, the arbitrator will (as a last resort) make a final decision. Ultimately, all disputes must come to an end. The designated arbitrator would likely be Reddico’s Managing Director.
 ---
