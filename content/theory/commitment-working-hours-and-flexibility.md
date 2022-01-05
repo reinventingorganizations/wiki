@@ -6,10 +6,10 @@ name: Engagement, horaires de travail et flexibilité
 sortOrder: 4
 category: People practices
 intro: >-
-  Le thème de l'engagement, des heures de travail et de la flexibilité comprend
-  le processus de définition des heures de travail, l'engagement qu'une personne
-  est censée fournir et la manière dont les organisations répondent aux demandes
-  changeantes.
+  Le thème de l'engagement, des horaires de travail et de la flexibilité
+  comprend le processus de définition des horaires de travail, l'engagement que
+  l'on attend des personnes et la manière dont les organisations s'adaptent aux
+  évolutions de la demande.
 
 
   ![](/media/agenda.jpg)
@@ -17,64 +17,64 @@ perspective: >-
   #### Horaires de travail
 
 
-  Dans les hiérarchies traditionnelles, les heures de travail sont précisées dans un contrat de travail. Il existe souvent une crainte sous-jacente que les gens ne travailleront pas les heures pour lesquelles ils sont payés sans surveillance, en particulier aux échelons inférieurs d'une organisation.
+  Dans les hiérarchies traditionnelles, les horaires de travail sont précisées dans un contrat de travail. Il existe souvent une crainte sous-jacente que les gens ne travailleront pas le nombre d'heures pour lequelle ils sont payés si on ne les surveille pas, en particulier aux échelons inférieurs d'une organisation.
 
 
-  Lorsque les gens ont la liberté de choisir et de convenir de leurs propres heures de travail, un environnement de confiance est créé qui motive les gens à être pleinement responsables de leur travail.
+  Lorsque les gens ont la liberté de choisir et de convenir de leurs propres horaires de travail, un environnement de confiance est créé qui les motive à être pleinement responsables de leur travail.
 
 
-  Lorsqu'une organisation n'est pas prête pour l'autogestion, les horaires de travail auto-définis peuvent être une bonne première étape. Cette approche commence à renforcer la confiance et la collaboration entre le patron et le subordonné lorsqu'elle fonctionne bien.
+  Lorsqu'une organisation n'est pas prête pour l'autogestion, les horaires de travail auto-définis peuvent être une bonne première étape. Cette approche commence à construire la confiance et la collaboration entre le patron et le subordonné lorsqu'elle fonctionne bien.
 
 
   #### Engagement
 
 
-  Lorsque les collègues travaillent dans une culture où il est normal et nécessaire de partager d'autres engagements dans leur vie, l'authenticité et la solidarité au travail sont adoptées. L'ouverture sur les engagements personnels peut développer des relations plus solides entre collègues et aboutir à une culture où les collègues se soutiennent mutuellement.
+  Lorsque les collègues travaillent dans une culture où il est normal et nécessaire de partager des engagements au-delà du travail, l'authenticité et la solidarité au travail sont des valeurs qui sont fortement intégrées. L'ouverture sur les engagements personnels peut développer des relations plus solides entre collègues et aboutir à une culture où ils se soutiennent mutuellement.
 
 
-  En période de besoins plus importants ou de crise, par exemple en haute saison, il est courant dans les [organisations Opale](https://fr--reinventingorganizations-wiki.netlify.app/theory/teal-paradigm-and-organizations/), pour les travailleurs, de travailler volontairement de plus longues heures pour accomplir une tâche avec motivation et fierté , en soutenant leurs collègues et en travaillant au service de l'organisation.
+  En période de besoins plus importants ou de crise, par exemple en haute saison, il est courant dans les [organisations Opale](https://fr--reinventingorganizations-wiki.netlify.app/theory/teal-paradigm-and-organizations/), pour les travailleurs, de travailler volontairement de plus longues heures pour accomplir une tâche avec motivation et fierté, en soutenant leurs collègues et en travaillant au service de l'organisation.
 
-  Chaque étape historique a donné naissance à une perspective distincte sur l'engagement, les horaires de travail et la flexibilité, et à des pratiques très différentes:
+  Chaque stade d'évolution historique a donné naissance à une perspective distincte sur l'engagement, les horaires de travail et la flexibilité, et à des pratiques très différentes:
 
 
   #### **Organisations Rouge**
 
 
-  Dans les [organisations Rouge](https://fr--reinventingorganizations-wiki.netlify.app/theory/red-organizations/), le patron détermine les heures de travail de chaque personne. Il n'y a pas de processus formel de fixation et / ou de contrôle des heures de travail. Les gens appartiennent à l'organisation et doivent être disponibles en cas de besoin.
+  Dans les [organisations Rouge](https://fr--reinventingorganizations-wiki.netlify.app/theory/red-organizations/), le patron détermine les horaires de travail de chaque personne. Il n'y a pas de processus formel de fixation et / ou de contrôle des horaires de travail. Les gens appartiennent à l'organisation et doivent être disponibles en cas de besoin.
 
 
   #### **Organisations Ambre**
 
 
-  Dans les [organisations Ambre](https://fr--reinventingorganizations-wiki.netlify.app/theory/amber-paradigm-and-organizations/), les heures de travail sont déterminées par les hauts dirigeants et précisées dans un contrat de travail. Ils décident du travail à effectuer et de la manière dont les heures de travail seront contrôlées.
+  Dans les [organisations Ambre](https://fr--reinventingorganizations-wiki.netlify.app/theory/amber-paradigm-and-organizations/), les heures de travail sont déterminées par les hauts dirigeants et précisées dans un contrat de travail. Ils décident du travail à effectuer et de la manière dont les horaires seront contrôlées.
 
 
   #### **Organisations Orange**
 
 
-  Dans les [organisations Orange](https://fr--reinventingorganizations-wiki.netlify.app/theory/orange-paradigm-and-organizations/), les gens tombent généralement dans l'un des deux camps. Il y a ceux (souvent dans des rôles manuels) qui travaillent un ensemble fixe d'heures de pointage d'entrée et de sortie, et ceux (souvent dans des postes de direction), qui sont censés faire leur travail indépendamment des heures indiquées dans leur contrat.
+  Dans les [organisations Orange](https://fr--reinventingorganizations-wiki.netlify.app/theory/orange-paradigm-and-organizations/), les gens tombent généralement dans l'un des deux camps. Il y a ceux (souvent dans des rôles manuels) qui travaillent selon un temps de travail fixe en pointant les entrées et les sorties, et ceux (souvent dans des postes de direction), qui sont censés faire leur travail indépendamment des heures indiquées dans leur contrat.
 
 
   #### **Organisations Verte**
 
 
-  Dans les [organisations vertes](https://fr--reinventingorganizations-wiki.netlify.app/theory/green-paradigm-and-organizations/), il existe généralement une culture de coopération où les gens sont habilités à travailler les heures de leur choix, mais dans une structure définie. Le temps flexible est souvent utilisé pour les travailleurs de niveau inférieur afin de permettre aux gens de s'adapter au travail avec le reste de leur vie. Le travail à domicile est une option réaliste pour ceux dont le rôle le permet.
+  Dans les [organisations vertes](https://fr--reinventingorganizations-wiki.netlify.app/theory/green-paradigm-and-organizations/), il existe généralement une culture de coopération où les gens sont habilités à travailler sur les horaires de leur choix, mais dans un cadre prédéfini. Le temps de travail flexible est souvent utilisé pour les travailleurs de niveau inférieur afin de leur permettre d'adapter leur emploi du temps avec leur vie personnelle . Le travail à domicile est une option réaliste pour ceux dont le rôle le permet.
 
 
   #### **Organisations Opale**
 
 
-  En apparence, les [organisations Opal](https://fr--reinventingorganizations-wiki.netlify.app/theory/teal-paradigm-and-organizations/)e peuvent ne pas sembler si différentes des organisations vertes en termes d'engagement, d'heures de travail et de flexibilité. La différence réside dans la maturité et la cohérence. Alors qu'une organisation verte pourrait rendre les pratiques décrites ci-dessus disponibles à des populations spécifiques, une organisation Opale rendrait ces pratiques largement disponibles dans le cadre normal de leur fonctionnement.
+  En apparence, les [organisations Opal](https://fr--reinventingorganizations-wiki.netlify.app/theory/teal-paradigm-and-organizations/)e peuvent ne pas sembler si différentes des organisations vertes en termes d'engagement, d'horaire de travail et de flexibilité. La différence réside dans la maturité et la cohérence. Alors qu'une organisation verte pourrait autoriser les pratiques décrites ci-dessus à des profils spécifiques, une organisation Opale rendrait ces pratiques accessibles à tous, considérées comme un cadre normal de fonctionnement.
 
 
   Les organisations Opale présentent souvent les mesures générales suivantes:
 
 
-  * Les heures de travail ne sont ni contrôlées ni décidées par quiconque
+  * Les horaires de travail ne sont ni contrôlées ni décidées par quiconque.
 
   * On fait confiance aux gens pour fixer leurs propres objectifs et travailler jusqu'à ce qu'ils les atteignent.
 
-  * Il y a une compréhension commune que parfois, les individus peuvent avoir besoin de varier leur engagement à travailler. Ces situations sont partagées et discutées ouvertement afin que la tâche en cours puisse être accomplie avec le soutien de tous.
+  * Il y a une compréhension commune que parfois, les individus peuvent avoir besoin de moduler leur engagement dans le travail. Ces situations sont partagées et discutées ouvertement afin que la tâche en cours puisse être accomplie avec le soutien de tous.
 inPractice: >-
   Les [organisations
   Opale](https://fr--reinventingorganizations-wiki.netlify.app/theory/teal-paradigm-and-organizations/)
