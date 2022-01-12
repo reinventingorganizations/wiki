@@ -12,38 +12,38 @@ intro: >-
 
   ![](/media/evolutionary-purpose.jpg)
 perspective: >-
-  Every historical stage has given birth to a distinct perspective on strategy,
-  and to very different practices:
+  Chaque étape historique a donné naissance à une perspective distincte sur la
+  stratégie, et à des pratiques très différentes :
 
 
   #### **Organisations Rouge**
 
 
-  [Red organizations](../red-organizations/) don't typically develop long-term goals or strategies beyond survival. The chief(s) seek short-term gains to maintain power, and to respond to threats and opportunities as they arise.
+  Les [organisations rouges](https://fr--reinventingorganizations-wiki.netlify.app/theory/red-organizations/) ne développent généralement pas d'objectifs ou de stratégies à long terme au-delà de la survie. Le(s) chef(s) cherche(nt) à obtenir des gains à court terme pour maintenir le pouvoir, et à répondre aux menaces et aux opportunités lorsqu'elles se présentent.
 
 
-  #### **Amber Organizations**
+  #### **Organisations Ambre**
 
 
-  [Amber organizations](../amber-paradigm-and-organizations/) can develop strategies but do not emphasize them, as the world is viewed as relatively unchanging and predictable. The emphasis is rather on processes. To the extent strategies are developed, this is done very much at the top of the hierarchy only. Decisions are handed down to workers at the bottom, with information shared only as needed.
+  Les [organisations Ambre](https://fr--reinventingorganizations-wiki.netlify.app/theory/amber-paradigm-and-organizations/) peuvent développer des stratégies mais ne les mettent pas en avant, car le monde est considéré comme relativement immuable et prévisible. L'accent est plutôt mis sur les processus. Dans la mesure où des stratégies sont développées, elles le sont uniquement au sommet de la hiérarchie. Les décisions sont transmises aux travailleurs au bas de l'échelle, l'information n'étant partagée qu'en cas de besoin.
 
 
-  #### **Orange Organizations**
+  #### **Organisations Orange**
 
 
-  In an [Orange organization](../orange-paradigm-and-organizations/), strategy becomes much more important, as the world is viewed as increasingly dynamic. However, while the world is considered increasingly complicated, it is still viewed as predictable. Strategy is still generally a very top-down process but transitions from command and control to predict and control. In order to maintain competitive advantage, the Orange paradigm concludes that large parts of the organization must be empowered and given some room to think and execute on their own. This gave rise to management by objectives – top management formulates an overall direction and cascades down objectives and milestones to reach the desired outcome. This has resulted in familiar processes such as regular strategic planning, yearly budgeting, balanced scorecards and key performance indicators.
+  Dans une [organisation Orange](https://fr--reinventingorganizations-wiki.netlify.app/theory/orange-paradigm-and-organizations/), la stratégie devient beaucoup plus importante, car le monde est considéré comme de plus en plus dynamique. Cependant, si le monde est considéré comme de plus en plus compliqué, il est toujours considéré comme prévisible. La stratégie reste généralement un processus très descendant, mais elle passe du "commande et contrôle" à "prévoit et contrôle". Afin de maintenir un avantage concurrentiel, le paradigme orange conclut que de larges pans de l'organisation doivent être responsabilisés et bénéficier d'une certaine marge de manœuvre pour penser et exécuter par eux-mêmes. C'est ainsi qu'est née la gestion par objectifs - la direction générale formule une orientation générale et décline en cascade les objectifs et les jalons pour atteindre le résultat souhaité. Cela a donné lieu à des processus familiers tels que la planification stratégique, le budget annuel, les tableaux de bord et les indicateurs clés de performance.
 
 
-  #### **Green Organizations**
+  #### **Organisations Verte**
 
 
-  In [Green organizations](../green-paradigm-and-organizations/), the organizational structure is further decentralized: lower ranks are increasingly empowered and a key responsibility of leaders is to facilitate this empowerment. However, Green organizations typically maintain some sort of hierarchical structure with strategic direction principally coming from the top. Strategy is also now enlisted in the service of purpose, which goes beyond Orange objectives of winning and profit.
+  Dans les [organisations Verte](https://fr--reinventingorganizations-wiki.netlify.app/theory/green-paradigm-and-organizations/), la structure organisationnelle est davantage décentralisée : les échelons inférieurs sont de plus en plus responsabilisés et l'une des principales responsabilités des dirigeants est de faciliter cette responsabilisation. Toutefois, les organisations Verte conservent généralement une certaine forme de structure hiérarchique, la direction stratégique venant principalement du sommet. La stratégie est aussi désormais mise au service d'une finalité, qui va au-delà des objectifs orange que sont le gain et le profit.
 
 
-  #### **Teal Organizations**
+  #### **Organisations Opale**
 
 
-  In [Teal organizations](../teal-paradigm-and-organizations/), power is diffused. Self-management replaces the hierarchy. Strategic thinking can come from anywhere, not just the top. Team members can offer advice, suggest initiatives, recommend change--as long as they consult with interested parties along the way. The use of the 'advice process' is the crucial enabling ingredient. Strategy is also inextricably linked to purpose, and conventional strategic planning is replaced by “listening to purpose”.
+  Dans les [organisations Opale](https://fr--reinventingorganizations-wiki.netlify.app/theory/teal-paradigm-and-organizations/), le pouvoir est diffus. L'auto-gouvernance remplace la hiérarchie. La réflexion stratégique peut venir de n'importe où, pas seulement du sommet. Les membres de l'équipe peuvent offrir des conseils, suggérer des initiatives, recommander des changements - à condition de consulter les parties intéressées en cours de route. L'utilisation du "processus de collecte d'avis" est l'ingrédient essentiel. La stratégie est également inextricablement liée à la finalité, et la planification stratégique conventionnelle est remplacée par une "écoute de la finalité".
 inPractice: >-
   #### **Strategy as an organic process**
 
