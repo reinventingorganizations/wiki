@@ -66,51 +66,51 @@ inPractice: >-
   Jean-François Zobrist, de FAVI, utilise la métaphore suivante pour expliquer la différence. Un avion comme un Boeing 747 est un système *compliqué*. Il y a des millions de pièces qui doivent fonctionner ensemble de manière transparente. Mais tout peut être cartographié ; si vous modifiez une seule pièce, vous devriez être en mesure de prévoir toutes les conséquences. Un bol de spaghetti est un système *complexe*. Même s'il ne comporte que quelques dizaines de "pièces", il est pratiquement impossible de prévoir ce qui se passera lorsque vous tirerez sur l'extrémité d'un brin de spaghetti qui dépasse du bol. \[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4577-4581). Nelson Parker. Kindle Edition.]
 
 
-  ##### *Dynamic Steering*
+  ##### *Une direction dynamique*
 
 
-  Brian Robertson at Holacracy uses a metaphor from the world of agile software development to describe how the planning process differs in Teal organizations:
+  Brian Robertson, de Holacracy, utilise une métaphore tirée du monde du développement logiciel agile pour décrire comment le processus de planification diffère dans les organisations Opale :
 
 
-  *Imagine riding a bicycle the way we manage most modern organizations. You would hold a big meeting to decide the angle at which you should hold the handlebars; you’d map your journey in as much detail as possible, factoring in all known obstacles and the exact timing and degree to which you would need to adjust your course to avoid these. Then you would get on the bicycle, hold the handlebars rigidly at the angle calculated, close your eyes, and steer according to plan. Odds are you would not reach your target, even if you did manage to keep the bicycle upright for the entire trip. When the bicycle falls over, you might ask: “Why didn’t we get this right the first time?” And maybe: “Who screwed up?”*
+  *Imaginez que vous faites du vélo comme nous gérons la plupart des organisations modernes. Vous tiendriez une grande réunion pour décider de l'angle auquel vous devez tenir le guidon ; vous dresseriez un plan de votre voyage aussi détaillé que possible, en tenant compte de tous les obstacles connus, du moment exact et du degré auquel vous devriez ajuster votre parcours pour les éviter. Ensuite, vous montez sur le vélo, vous tenez le guidon de manière rigide selon l'angle calculé, vous fermez les yeux et vous vous dirigez comme prévu. Il y a de fortes chances que vous n'atteigniez pas votre objectif, même si vous parveniez à maintenir la bicyclette en position verticale pendant tout le trajet. Lorsque la bicyclette se renverse, vous pouvez vous demander : "Pourquoi n'avons-nous pas réussi du premier coup ?". Et peut-être : "Qui s'est planté ?"*
 
 
-  *That ridiculous approach isn’t so far from the approach many organizations take to strategic planning. By contrast, Holacracy helps an organization operate more like the way we actually ride a bicycle, using a dynamic steering paradigm. Dynamic steering means constant adjustment in light of real feedback, which makes for a more organic and emergent path. If you watch even the most skilled cyclist, you’ll see a slight but constant weaving, as the rider constantly takes in sensory feedback about his present state and environment, and makes minor corrections to direction, speed, balance, and aerodynamics. Weaving arises because the rider maintains a dynamic equilibrium while moving forward, using rapid feedback to stay within the many constraints of the environment and equipment. Instead of wasting a lot of time and energy predicting exactly the “right” path in advance, he instead holds his purpose in mind, stays present in the moment, and finds the most natural way forward as he goes. That’s not to say the rider doesn’t have a plan or at least some sense of his likely route, just that he gains more control, not less, by surrendering to present reality continuously and trusting his capacity to sense and respond in the moment. Similarly, we have the opportunity to get more control in our organizations by more relentlessly facing reality and adapting continuously. When we become attached to a specific predicted outcome, there’s a risk we will get stuck fighting reality when it doesn’t conform to our prediction.*^\[Robertson, Brian J. (2015-06-02). Holacracy: The New Management System for a Rapidly Changing World (Kindle Locations 1765-1781). Henry Holt and Co.. Kindle Edition.]
+  *Cette approche ridicule n'est pas si éloignée de l'approche adoptée par de nombreuses organisations en matière de planification stratégique. En revanche, Holacracy aide une organisation à fonctionner davantage comme nous le faisons sur un vélo, en utilisant un paradigme de direction dynamique. Le pilotage dynamique implique un ajustement constant à la lumière d'un réel retour d'informations, ce qui rend la trajectoire plus organique et émergente. Si vous observez un cycliste, même le plus habile, vous verrez un léger mais constant louvoiement, car le cycliste prend constamment en compte le feedback sensoriel sur son état actuel et son environnement, et apporte des corrections mineures à la direction, la vitesse, l'équilibre et l'aérodynamisme. Le louvoiement est dû au fait que le cycliste maintient un équilibre dynamique tout en avançant, en utilisant un retour d'informations rapide pour rester dans les limites des nombreuses contraintes de l'environnement et de l'équipement. Au lieu de perdre beaucoup de temps et d'énergie à prédire à l'avance la "bonne" trajectoire, il garde à l'esprit son objectif, reste présent dans l'instant et trouve la voie la plus naturelle au fur et à mesure qu'il avance. Cela ne veut pas dire que le cavalier n'a pas de plan ou au moins une idée de son itinéraire probable, mais qu'il acquiert plus de contrôle, et non moins, en s'abandonnant continuellement à la réalité présente et en faisant confiance à sa capacité de sentir et de réagir dans l'instant. De la même manière, nous avons la possibilité d'obtenir plus de contrôle dans nos organisations en faisant face à la réalité de manière plus implacable et en nous adaptant continuellement. Lorsque nous nous attachons à un résultat spécifique prédit, nous risquons de rester coincés à combattre la réalité lorsqu'elle n'est pas conforme à notre prédiction.*^\[Robertson, Brian J. (2015-06-02). Holacracy: The New Management System for a Rapidly Changing World (Kindle Locations 1765-1781). Henry Holt and Co.. Kindle Edition.]
 
 
-  ##### ***Internal communication***
+  ##### ***Communication interne***
 
 
-  In Teal, strategy emerges organically from the collective intelligence of everyone in the organization. This collective intelligence is encouraged by sharing company data and information. As everyone is 'in the know', information is available to all to offer strategic suggestions.
+  Dans Opale, la stratégie émerge organiquement de l'intelligence collective de chacun dans l'organisation. Cette intelligence collective est encouragée par le partage des données et des informations de l'entreprise. Comme tout le monde est "au courant", les informations sont disponibles pour tous et permettent de faire des suggestions stratégiques.
 
 
-  Teal organizations may use 'all-hands meetings' to share important information, and to discuss the organization's response. This reflects trust in the organization's collective intelligence. It also rejects the notion that a only small group of people at the top could master all the complex information necessary to make sound strategic choices.^\[Frederic. Reinventing Organizations (pp110-112). Nelson Parker, 2014.]
+  Les organisations Opale peuvent organiser des "réunions de l'ensemble du personnel" pour partager des informations importantes et discuter de la réponse que doit apporter l'organisation. Cela reflète la confiance dans l'intelligence collective de l'organisation. Elle rejette également l'idée qu'un petit groupe de personnes au sommet pourrait maîtriser toutes les informations complexes nécessaires pour faire des choix stratégiques judicieux.^\[Frederic. Reinventing Organizations (pp110-112). Nelson Parker, 2014.]
 faq:
-  - question: How does Strategy link with the three Teal breakthroughs?
+  - question: Quel est le lien entre la stratégie et les trois avancées de Opale ?
     answer: >-
-      #### **Self-management**
+      #### **Auto-gouvernance**
 
 
-      In Teal organizations, thousands of decisions are made by individuals and teams who are trusted to do the right thing. Plans are not handed down from the top with little room to maneuver. People are trusted to plan, make improvements, and execute.
+      Dans les organisations Opale, des milliers de décisions sont prises par des individus et des équipes à qui l'on fait confiance pour faire ce qu'il faut. Les plans ne sont pas imposés par le sommet avec une faible marge de manœuvre. On fait confiance aux gens pour planifier, apporter des améliorations et exécuter.
 
 
-      #### **Wholeness**
+      #### **Plénitude**
 
 
-      In Teal, employees are encouraged to bring their 'whole self' to work: the emotional, the intuitive, and the spiritual are all welcome. The workplace becomes more holistic as a result. This allows for, and encourages, reflection and mindfulness. Reflection on the company's purpose and direction is encouraged.
+      Chez Opale, les employés sont encouragés à apporter leur "moi tout entier" au travail : l'émotionnel, l'intuitif et le spirituel sont tous les bienvenus. Le lieu de travail devient ainsi plus holistique. Cela permet et encourage la réflexion et la pleine conscience. La réflexion sur la raison d'etre et la direction de l'entreprise est encouragée.
 
 
-      #### **Evolutionary purpose**
+      #### **Raison d'etre évolutive**
 
 
-      Because Teal organizations are driven by evolutionary purpose, traditional strategic planning is replaced by the process of listening to purpose. The purpose of an organization is a manifestation of its collective intelligence, and so its direction cannot be mandated from the top down.
-  - question: Does that mean that in Teal organizations, anticipatory thinking is
-      viewed as a waste of time??
+      Les organisations Opale étant guidées par une raison d'etre évolutive, la planification stratégique traditionnelle est remplacée par un processus d'écoute de la raison d'etre. La raison d'etre d'une organisation est une manifestation de son intelligence collective, et sa direction ne peut donc pas être imposée du haut vers le bas.
+  - question: Cela signifie-t-il que dans les organisations Opale, la réflexion
+      anticipative est considérée comme une perte de temps ?
     answer: >-
-      Brian Robertson offers the following on this topic:
+      Brian Robertson propose ce qui suit à ce sujet :
 
 
-      *While Holacracy’s approach to strategy resists relying on predictions, that’s not to say all forward-looking projections and anticipatory thinking are useless. In this regard, it’s helpful to understand the difference between a prediction and a projection. “Predict” comes from the Latin præ-, “before,” and dicere, “to say”— thus it literally means “to say before,” or “to foretell, prophesize.” “Project,” on the other hand, is from the Latin pro-, “forward,” and jacere, “to throw”— thus, “to throw forth.” In order to throw forth, you must be firmly grounded in the place you are starting from: the present reality. Getting real data and “throwing it forth” to get a sense of where events are headed is often useful to better understand your context, and it is different than “foretelling and prophesizing” where reality will be in the future.*^[Robertson, Brian J. (2015-06-02). Holacracy: The New Management System for a Rapidly Changing World (Kindle Locations 1834-1842). Henry Holt and Co.. Kindle Edition.]
+      *Si l'approche stratégique d'Holacracy ne s'appuie pas sur les prédictions, cela ne veut pas dire que toutes les projections prospectives et les réflexions anticipées sont inutiles. À cet égard, il est utile de comprendre la différence entre une prédiction et une projection. "Prédire" vient du latin præ-, "avant", et dicere, "dire" - il signifie donc littéralement "dire avant", ou "prédire, prophétiser". "Projet", d'autre part, vient du latin pro-, "en avant", et jacere, "jeter" - donc, "jeter en avant". Pour pouvoir lancer, vous devez être fermement ancré dans le lieu d'où vous partez : la réalité actuelle. Obtenir des données réelles et les "projeter" pour avoir une idée de la direction que prennent les événements est souvent utile pour mieux comprendre votre contexte, et c'est différent de "prédire et prophétiser" ce que sera la réalité dans le futur.*^\[Robertson, Brian J. (2015-06-02). Holacracy: The New Management System for a Rapidly Changing World (Kindle Locations 1834-1842). Henry Holt and Co.. Kindle Edition.]
 relatedTheory:
   - Listening to Purpose
   - Innovation and Product Development
