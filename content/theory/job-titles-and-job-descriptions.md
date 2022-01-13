@@ -1,106 +1,108 @@
 ---
 layout: article
 tags: theory
-key: Job Titles and Job Descriptions
-name: Job Titles and Job Descriptions
+key: Titres et descriptions de postes
+name: Titres et descriptions de postes
 sortOrder: 5
 category: People practices
-intro: The topic of job titles and job descriptions includes the process of how
-  roles and responsibilities are defined and by whom, how they evolve and how
-  they are formalized within the organization.
+intro: Le sujet autour des titres et des descriptions de postes comprend le
+  processus de définition des rôles et des responsabilités, la manière dont ils
+  évoluent et la manière dont ils sont formalisés au sein de l'organisation.
 perspective: >-
-  In [Teal organizations](../teal-paradigm-and-organizations/) jobs are defined
-  by people rather than the organization.: They emerge from a multitude of roles
-  and responsibilities that reflect the interests, talents, and the needs of the
-  organization. By focusing on what needs to happen rather than jobs, Teal
-  organizations are often more adaptable and responsive increasing their
-  capacity to operate as a living system.
+  Dans les [organisations
+  Opale](https://fr--reinventingorganizations-wiki.netlify.app/theory/teal-paradigm-and-organizations/),
+  les emplois sont définis par les personnes plutôt que par l'organisation : Ils
+  émergent d'une multitude de rôles et de responsabilités qui reflètent les
+  intérêts, les talents et les besoins de l'organisation. En se concentrant sur
+  ce qui doit se passer plutôt que sur les emplois, les organisations Opale sont
+  souvent plus adaptables et réactives, ce qui accroît leur capacité à
+  fonctionner comme un système vivant.
 
-  Every historical stage has given birth to a distinct perspective on job titles and job descriptions, and to very different practices:
-
-
-  #### **Red organizations**
-
-
-  The defining characteristic of [Red Organizations ](../red-organizations/)is the continuous exercise of power in interpersonal relationships. Overall, there is no formal structured hierarchy and there are no job titles or formalized job descriptions, although maybe clearly delineated roles. The chief must demonstrate overwhelming power and bend others to his will to stay in position. To provide some stability, the chief surrounds himself with family members (who tend to be more loyal) and buys their allegiance by sharing the spoils. Each member of his close guard in turn looks after his own people and keeps them in line.
+  Chaque étape historique a donné naissance à une perspective distincte sur les titres et les descriptions de postes, ainsi qu'à des pratiques très différentes :
 
 
-  #### **Amber organizations**
+  #### **Organisations Rouge**
 
 
-  [Amber Organizations](../amber-paradigm-and-organizations/) bring stability to power with formal titles, well -defined hierarchies and organization charts. The overall structure is a ‘pyramid’, with a cascade of formal reporting lines from top managers or leaders to subordinates. Clear rules stipulate who can do what. Job descriptions and titles are set by the senior leaders to create homogeneity across the organisation. . Many schools, churches, and the Civil Service operate this way today with standardized job descriptions and pay bands. The advantage of this approach is that it enables organisations to achieve on a significant scale. In the process it provides stability and certainty for those employed.
+  La caractéristique déterminante des [Organisations Rouge](https://fr--reinventingorganizations-wiki.netlify.app/theory/red-organizations/) est l'exercice continu du pouvoir dans les relations interpersonnelles. Dans l'ensemble, il n'y a pas de hiérarchie structurée formelle et il n'y a pas de titres ou de descriptions de postes formalisés, mais peut-être des rôles clairement délimités. Le chef doit faire preuve d'un pouvoir écrasant et plier les autres à sa volonté pour rester en poste. Pour assurer une certaine stabilité, le chef s'entoure de membres de sa famille (qui ont tendance à être plus loyaux) et achète leur allégeance en partageant le butin. Chaque membre de sa garde rapprochée s'occupe à son tour de son propre peuple et le maintient dans le rang.
 
 
-  #### **Orange organizations**
+  #### **Organizations Ambre**
 
 
-  [Orange Organizations ](../orange-paradigm-and-organizations/)also have organization charts, well-defined job titles and job descriptions. Meritocracy is valued allowing anybody to move up the ladder if they are able. People are not expected to ‘know their place’ and remain in a pre-destined role. Each position will have a job description and title to reflect their place in the organization. The process for defining a job description is more fluid, with the emphasis likely to be on end results rather than duties. Titles matter in these organisations because they describe both the area of responsibility of the jobholder and their status.
+  Les [organisations Ambre ](https://fr--reinventingorganizations-wiki.netlify.app/theory/amber-paradigm-and-organizations/)apportent de la stabilité au pouvoir grâce à des titres officiels, des hiérarchies bien définies et des organigrammes. La structure globale est une "pyramide", avec une cascade de lignes hiérarchiques formelles allant des cadres supérieurs ou des dirigeants aux subordonnés. Des règles claires stipulent qui peut faire quoi. Les descriptions de poste et les titres sont fixés par les hauts dirigeants afin de créer une homogénéité dans l'ensemble de l'organisation. De nombreuses écoles, églises et la fonction publique fonctionnent aujourd'hui de cette manière, avec des descriptions de poste et des échelles de rémunération standardisées. L'avantage de cette approche est qu'elle permet aux organisations d'atteindre des objectifs à grande échelle. Ce faisant, elle apporte stabilité et certitude aux personnes employées.
 
 
-  #### **Green organizations**
+  **Organisations Orange**
 
 
-  [Green Organizations ](../green-paradigm-and-organizations/)also have a hierarchical approach, but are more likely to talk about roles than jobs. Areas of responsibility are defined through the organization charts. Decision making is pushed down to front-line workers who can often make significant  decisions without management approval. Jobs and roles are likely to be more generic and fluid, leaving a degree of freedom in how they are carried out. Titles are less important and employees are often referred to as citizens or family members. Job descriptions refer to external and internal stakeholders and stress the importance of relationship management. The HR team play a key role in describing jobs so that they fit the values and purpose of the organization. 
+  Les [organisations Orange](https://fr--reinventingorganizations-wiki.netlify.app/theory/orange-paradigm-and-organizations/) ont également des organigrammes, des titres de postes bien définis et des descriptions de postes. La méritocratie est valorisée, permettant à quiconque de gravir les échelons s'il en est capable. Les gens ne sont pas censés "connaître leur place" et rester dans un rôle prédestiné. Chaque poste aura une description de fonction et un titre reflétant sa place dans l'organisation. Le processus de définition d'une description de poste est plus fluide, l'accent étant probablement mis sur les résultats finaux plutôt que sur les fonctions. Les titres sont importants dans ces organisations car ils décrivent à la fois le domaine de responsabilité du titulaire du poste et son statut.
 
 
-  #### **Teal organizations**
+  #### **Organisations Verte**
 
 
-  in [Teal organizations](../teal-paradigm-and-organizations/) jobs are defined by people rather than the organization.: Jobs emerge from a multitude of roles and responsibilities that reflect the interests, talents, and the needs of the organization. There are often no job titles or job descriptions. If job descriptions they do exist, they tend to be short, describing a set of accountabilities to the team and/or each other. In some Teal organizations titles are used to denote role and function, in others there are no titles at all. People typically have the option to switch and trade roles according to workload and preferences.  By focusing on what needs to happen rather than jobs, Teal organizations are often more adaptable and responsive increasing their capacity to operate as a living system.
+  Les [organisations Verte](https://fr--reinventingorganizations-wiki.netlify.app/theory/green-paradigm-and-organizations/) ont également une approche hiérarchique, mais sont plus susceptibles de parler de rôles que de postes. Les domaines de responsabilité sont définis par les organigrammes. La prise de décision est confiée aux travailleurs de première ligne qui peuvent souvent prendre des décisions importantes sans l'approbation de la direction. Les emplois et les rôles sont susceptibles d'être plus génériques et plus fluides, laissant un certain degré de liberté dans la façon dont ils sont exercés. Les titres sont moins importants et les employés sont souvent désignés comme des citoyens ou des membres de la famille. Les descriptions de poste font référence aux parties prenantes externes et internes et soulignent l'importance de la gestion des relations. L'équipe RH joue un rôle clé dans la description des emplois afin qu'ils correspondent aux valeurs et à la raison d'etre de l'organisation.
+
+
+  #### **Organisations Opale**
+
+
+  Sans les [organisations Opale](https://fr--reinventingorganizations-wiki.netlify.app/theory/teal-paradigm-and-organizations/), les emplois sont définis par les personnes plutôt que par l'organisation : Les emplois émergent d'une multitude de rôles et de responsabilités qui reflètent les intérêts, les talents et les besoins de l'organisation. Souvent, il n'y a pas de titres ou de descriptions de postes. Si des descriptions de poste existent, elles sont généralement courtes et décrivent un ensemble de responsabilités envers l'équipe et/ou les autres. Dans certaines organisations Opale, des titres sont utilisés pour désigner le rôle et la fonction, dans d'autres, il n'y a pas de titres du tout. Les gens ont généralement la possibilité de changer de rôle en fonction de la charge de travail et de leurs préférences.  En se concentrant sur ce qui doit se passer plutôt que sur les emplois, les organisations Opale sont souvent plus adaptables et réactives, ce qui accroît leur capacité à fonctionner comme un système vivant.
 inPractice: >-
-  #### **Granular roles vs. defined jobs**
+  #### **Roles granulaires vs. emplois définis**
 
 
-  In Teal organizations most people no longer have a single “job” that fits a generic description; instead, they fill a unique combination of roles.
+  Dans les organisations Opale, la plupart des gens n'ont plus un seul "emploi" correspondant à une description générique ; ils occupent plutôt une combinaison unique de rôles.
 
 
-  Job titles and descriptions rarely do justice to unique combinations of roles, and they are also too static to account for the fluid nature of work in Teal organizations. Colleagues frequently switch and trade roles according to workload and preferences.
+  Les titres et les descriptions de postes rendent rarement justice aux combinaisons uniques de rôles, et ils sont également trop statiques pour rendre compte de la nature fluide du travail dans les organisations Opale. Les collègues changent fréquemment de rôle en fonction de la charge de travail et de leurs préférences.
 
 
-  Thinking in terms of granular roles instead of predefined jobs creates great fluidity and adaptability. People can give up one role and take up another without needing to go through the cumbersome and often political processes of appointment, promotion, and salary negotiation.
+  Penser en termes de rôles granulaires plutôt qu'en termes d'emplois prédéfinis crée une grande fluidité et adaptabilité. Les gens peuvent abandonner un rôle et en prendre un autre sans avoir à passer par les processus lourds et souvent politiques de nomination, de promotion et de négociation salariale.
 
 
-  #### **Identity & Fit**
+  #### **Identité et adaptation**
 
 
-  Without a job title, it becomes that much harder for people to merge their identity with the position they hold. This fusion is commonplace today. When we believe our job is who we really are, we start thinking and behaving accordingly. Without job titles and job descriptions, we are more likely to see ourselves and others as human beings who simply put their energy into specific work for a period of time.
+  Sans titre de poste, il devient d'autant plus difficile pour les gens de fusionner leur identité avec le poste qu'ils occupent. Cette fusion est monnaie courante aujourd'hui. Lorsque nous croyons que notre travail correspond à ce que nous sommes vraiment, nous commençons à penser et à nous comporter en conséquence. Sans titres et descriptions de postes, nous sommes plus susceptibles de nous considérer et de considérer les autres comme des êtres humains qui mettent simplement leur énergie dans un travail spécifique pendant un certain temps.
 
 
-  Anotherkey benefit of this approach is that people tend to choose (and be appointed to) roles that have a much better fit with their interests and talents. When people can’t turn to a job description to tell them what to do, they have to find their own unique way to fill a role with life and meaning.
+  Un autre avantage clé de cette approche est que les gens ont tendance à choisir (et à être nommés à) des rôles qui correspondent beaucoup mieux à leurs intérêts et à leurs talents. Lorsque les gens ne peuvent pas se tourner vers une description de poste pour savoir ce qu'ils doivent faire, ils doivent trouver leur propre façon de remplir un rôle avec vie et sens.
 
 
-  #### **Scope and naming of roles**
+  #### **Etendue et dénimination des roles**
 
 
-  Not everyone is equal and all the jobs are not the same. Some roles have a rather narrow scope (say, the role of operating a certain machine or cleaning the office), while other roles take a broader perspective (for instance, the role of designing a new product line). The fluid arrangement of roles (instead of defined job descriptions) also allows for a better matching of talent with roles.
+  Tout le monde n'est pas égal et tous les emplois ne sont pas les mêmes. Certains rôles ont une portée plutôt étroite (par exemple, le rôle consistant à faire fonctionner une certaine machine ou à nettoyer le bureau), tandis que d'autres rôles ont une perspective plus large (par exemple, le rôle consistant à concevoir une nouvelle ligne de produits). L'agencement fluide des rôles (au lieu de descriptions de poste définies) permet également une meilleure adéquation entre les talents et les rôles.
 
 
-  In [Teal organizations](../teal-paradigm-and-organizations/) there is usually one person recognized for taking the broadest perspective, and usually they are called the CEO, at least by the outside world (even though they don't hold the same responsibilities and power as a traditional CEO). Some well-defined roles can be named,. but for the vast majority of employees, people don’t bother trying to find a label to capture the different roles they hold at any one point in time. In many  The language of employee or staff is often dropped entirely and in some cases replaced with the word, "colleague".
+  Dans les [organisations Opale](https://fr--reinventingorganizations-wiki.netlify.app/theory/teal-paradigm-and-organizations/), il y a généralement une personne reconnue comme ayant la perspective la plus large, et elle est généralement appelée le PDG, du moins par le monde extérieur (même si elle n'a pas les mêmes responsabilités et le même pouvoir qu'un PDG traditionnel). Certains rôles bien définis peuvent être nommés, mais pour la grande majorité des employés, les gens ne se donnent pas la peine d'essayer de trouver une étiquette pour capturer les différents rôles qu'ils occupent à un moment donné. Dans de nombreuses entreprises, le terme "employé" ou "personnel" est souvent complètement abandonné et, dans certains cas, remplacé par le mot "collègue".
 
 
-  #### **Management tasks within roles**
+  #### **Le role de manager**
 
 
-  The traditional tasks of a manager - direction-setting, budgeting, analyzing, planning, organizing, measuring, controlling, recruiting, evaluating, and communicating - are distributed amongst various members of a team. People are not accountable to one manager but to their peers, every one of whom is a boss in some respect. Anybody can put on the hat of “the boss” to make important decisions, launch new initiatives, hold underperforming colleagues to account, help resolve conflicts, or take over leadership if results are bad and action is needed. Many Teal organizations have noticed that “management’ creeps back in if too many leadership tasks are taken on by any one individual. For this reason people typically have the freedom to change teams and attention is paid to how work is distributed. The flip side is that people are no longer forced to take on management roles that might not fit their talents in order to advance their careers.
+  Les tâches traditionnelles d'un manager - définition des orientations, établissement du budget, analyse, planification, organisation, mesure, contrôle, recrutement, évaluation et communication - sont réparties entre les différents membres d'une équipe. Les gens n'ont pas de comptes à rendre à un seul manager mais à leurs pairs, chacun d'entre eux étant un patron à un certain niveau. N'importe qui peut endosser la casquette de "patron" pour prendre des décisions importantes, lancer de nouvelles initiatives, demander des comptes à des collègues moins performants, aider à résoudre des conflits ou prendre la tête de l'équipe si les résultats sont mauvais et qu'il faut agir. De nombreuses organisations Opale ont remarqué que le "management" se réinstalle si un trop grand nombre de tâches de direction sont assumées par une seule personne. C'est pourquoi les gens ont généralement la liberté de changer d'équipe et que l'on prête attention à la manière dont le travail est réparti. Le revers de la médaille est que les gens ne sont plus obligés d'assumer des rôles de management qui ne correspondent pas à leurs talents afin de faire avancer leur carrière.
 
 
-  One of the difficulties, for those used to an Orange or Green organization, is that it is much harder to know where you fit. The absence of grades and job titles makes career development and salary progression much less certain. People in Teal organizations are generally much more comfortable managing their own progression.
+  L'une des difficultés, pour les personnes habituées à une organisation orange ou verte, est qu'il est beaucoup plus difficile de savoir où se situe sa place. L'absence de grades et de titres de poste rend le développement de carrière et la progression salariale beaucoup moins sûrs. Dans les organisations Opale, les personnes sont généralement beaucoup plus à l'aise pour gérer leur propre progression.
 
 
-  #### **Knowing who is responsible for what**
+  #### **Savoir qui est responsable de quoi**
 
 
-  Outsiders, and sometimes even insiders, can find the absence of job descriptions and job titles confusing because it is less clear who is responsible for what.. For this reason some organizations keep a log on their intranet allowing people to  record the roles they are currently filling. This aids clarity and helps others understand their expertise.
+  Les personnes extérieures, et parfois même les membres de l'organisation, peuvent trouver l'absence de descriptions et de titres de postes déroutante, car il est moins évident de savoir qui est responsable de quoi. C'est pourquoi certaines organisations tiennent un journal sur leur intranet permettant aux personnes d'enregistrer les rôles qu'elles occupent actuellement. Cela contribue à la clarté et aide les autres à comprendre leur expertise.
 faq:
-  - question: Is there less management within an organization without job titles and
-      job descriptions?
-    answer: The tasks of management - setting direction and objectives, planning,
-      directing, controlling, and evaluating - haven’t disappeared. They are
-      simply no longer concentrated in dedicated management roles. Because they
-      are spread widely, not narrowly, it can be argued that there is more
-      management and leadership happening at any time in self-managing
-      organizations despite, or rather precisely because of, the absence of
-      fulltime managers.
+  - question: Y a-t-il moins de management dans une organisation sans titres et
+      descriptions de postes ?
+    answer: Les missions de management - définition des orientations et des
+      objectifs, planification, direction, contrôle et évaluation - n'ont pas
+      disparu. Elles ne sont simplement plus concentrées sur des managers
+      spécifiques. Parce qu'elles sont réparties largement, et non plus
+      étroitement, on peut affirmer qu'il y a plus de management et de
+      leadership que jamais dans les organisations auto-gouvernées malgré, ou
+      plutôt précisément à cause, de l'absence de managers à temps plein.
 relatedTheory:
   - Organizational Structure
   - Recruitment
