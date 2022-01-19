@@ -73,10 +73,10 @@ inPractice: >-
   en grande partie.
 
 
-  #### Le changement est permanent 
+  #### Le changement est permanent
 
 
-  Penser les organisations Opale comme des systèmes vivants aide à expliquer comment le changement se déroule en leur sein. Les systèmes vivants ont la capacité de ressentir le changement de l'environnement et de s'adapter. Ils réagissent de manière créative, sur le moment. Les organisations Opale gèrent le changement de la même manière. Les gens sont libres d'agir en fonction de ce qu'ils jugent nécessaire. Ils ne sont pas limités par des descriptions de poste statiques, des liens hiérarchiques et des unités fonctionnelles. Ils peuvent réagir aux événements émergents. Des méthodes spécifiques intégrées dans l'organisation permettent aux personnes d'écouter l'objectif de l'organisation et les changements qu'elle peut nécessiter. Lorsque chacun est libre de ressentir le besoin de changement et d’agir en conséquence, le changement est acquis; cela se produit naturellement, partout, tout le temps, le plus souvent sans grande douleur ni effort. Les grands efforts de changement perturbateur (tels que nous les connaissons des organisations plus traditionnelles) disparaissent en grande partie.
+  Penser les organisations Opale comme des systèmes vivants aide à expliquer comment le changement se déroule en leur sein. Les systèmes vivants ont la capacité de ressentir le changement de l'environnement et de s'adapter. Ils réagissent de manière créative, sur le moment. Les organisations Opale gèrent le changement de la même manière. Les gens sont libres d'agir en fonction de ce qu'ils jugent nécessaire. Ils ne sont pas limités par des descriptions de poste statiques, des liens hiérarchiques et des unités fonctionnelles. Ils peuvent réagir aux événements émergents. Des méthodes spécifiques intégrées dans l'organisation permettent aux personnes d'écouter l'objectif de l'organisation et les changements qu'elle peut nécessiter. Lorsque chacun est libre de ressentir le besoin de changement et d’agir en conséquence, le changement est acquis; cela se produit naturellement, partout, tout le temps, le plus souvent sans grande douleur ni effort. Les grands efforts de changement perturbateur (tels que nous les connaissons dans les organisations plus traditionnelles) disparaissent en grande partie.
 
 
   #### Lorsqu'un changement à grande échelle est nécessaire
