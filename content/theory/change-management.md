@@ -6,26 +6,26 @@ name: Management du changement
 sortOrder: 7
 category: Important Processes
 intro: >-
-  Cet article traite de la différence entre la «gestion du changement»
-  traditionnelle et le processus évolutif de changement sous Opale.
+  Cet article traite de la différence entre ce que l'on appelle
+  traditionnellement «gestion du changement» et le processus évolutif de
+  changement en Opale.
 
 
   ![](/media/change.jpg)
 perspective: >-
-  Dans le paradigme de l'Orange, les organisations sont considérées comme des
-  systèmes fixes. Ces systèmes n’ont pas de capacité interne de changement. La
-  force doit être appliquée de l'extérieur. C'est le rôle de la haute direction.
-  Ce sont eux qui doivent identifier le besoin de changement, déterminer comment
-  ce changement sera apporté et veiller à ce qu'il se produise.
+  ## **Une nouvelle perspective**
 
 
-  De plus, l'impulsion pour le changement dans les organisations pré-Opale ne vient pas facilement. Ces paradigmes considèrent le changement comme une nécessité malheureuse ou comme le résultat d'un échec de gestion. C'est le travail de la direction de prédire et / ou de contrôler l'avenir, éliminant ainsi les surprises. La réalité doit être conforme à un budget et un plan stratégique bien exécutés. Quand ce n’est pas le cas, la direction tarde souvent à reconnaître l’échec présumé. Et quand ils acceptent enfin que le monde qui les entoure a changé pendant qu'ils poursuivent leur plan, ils sont mal à l'aise avec ce qu'ils voient. Ils doivent désormais agir de manière décisive pour rattraper le temps perdu. Ils doivent s'imposer avec urgence.
+  Dans le paradigme Orange, les organisations sont considérées comme des systèmes fixes. Ces systèmes n’ont pas de capacité interne de changement. La force doit être appliquée de l'extérieur. C'est le rôle de la haute direction. C'est elle qui doit identifier le besoin de changement, déterminer comment ce changement sera apporté et veiller à ce qu'il se produise.
 
 
-  Le changement sera douloureux (imaginent-ils), mais une fois accompli, tout ira bien à nouveau. Et ainsi, ils s'empressent de repenser les rouages ​​de l'organisation. Sans surprise, les gens résistent au changement qui leur est imposé. Pour surmonter cela, la direction peut se sentir obligée de jouer sur les peurs et choisir de blâmer les forces compétitives hostiles ou les facteurs environnementaux titanesques qui menacent la survie de l'organisation si elle ne réagit pas.
+  De plus, l'impulsion pour le changement, dans les organisations précédant l'Opale, ne vient pas facilement. Ces paradigmes considèrent le changement comme une nécessité fatale ou comme le résultat d'un échec de gestion. C'est le travail de la direction de prédire et / ou de contrôler l'avenir, éliminant ainsi les surprises. La réalité doit être conforme à un budget et un plan stratégique bien exécutés. Quand ce n’est pas le cas, la direction tarde souvent à reconnaître l’échec présumé. Et quand les dirigeants acceptent enfin que le monde qui les entoure a changé pendant qu'ils poursuivaient leur plan, ils sont mal à l'aise avec ce qu'ils constatent. Ils doivent désormais agir de manière décisive pour rattraper le temps perdu. Ils doivent s'imposer avec urgence.
 
 
-  Ainsi, le changement a tendance à se produire dans une série de «sauts». Ce n'est pas un processus fluide et émergent. C’est une série de mouvements discrets et généralement perturbateurs, d’un état relativement statique à un autre.
+  Le changement sera douloureux (imaginent-ils), mais une fois accompli, tout ira bien à nouveau. Et ainsi, ils s'empressent de repenser les rouages ​​de l'organisation. Sans surprise, les gens résistent au changement qui leur est imposé. Pour surmonter cela, la direction peut se sentir obligée de jouer sur les peurs et choisir de faire porter le chapeau aux forces compétitives hostiles ou aux facteurs environnementaux titanesques qui menacent la survie de l'organisation si elle ne réagit pas.
+
+
+  Ainsi, le changement a tendance à se produire dans une série de «sauts». Ce n'est pas un processus fluide et émergent. C’est une série de mouvements entrecoupés et généralement perturbateurs, d’un état relativement statique à un autre.
 
 
   ![]()
