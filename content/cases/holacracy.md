@@ -170,59 +170,118 @@ theory:
     title: 'Holacracy verwendet zwei Arten der Entscheidungsfindung: "autokratisch"
       und "integrativ", die beide bei näherer Betrachtung als Varianten des
       Beratungsprozesses angesehen werden können.'
-    content: >-
-      Governance decisions (decisions about people's roles and accountabilities)
-      are made using "Integrative decision making". All others are made
-      "autocratically".
+    content: "Governance-Entscheidungen (Entscheidungen über die Rollen und
+      Verantwortlichkeiten von Personen) werden mittels \"integrativer
+      Entscheidungsfindung\" getroffen. Alle anderen werden \"autokratisch\"
+      getroffen.
 
 
-      #### Integrative decisions making
+      #### Integrative Entscheidungsfindung
 
 
-      When someone senses a role must be created, amended or discarded, he brings it up in a governance meeting. These are meetings where only questions about roles and collaboration are to be discussed. That is, separate from the details of getting work done. The latter are discussed in “tactical meetings”, with their own specific meeting practices.
+      Wenn jemand der Meinung ist, dass eine Rolle geschaffen, geändert
+      oder verworfen werden muss, bringt er sie in einer Governance-Sitzung zur
+      Sprache. In diesen Besprechungen werden ausschließlich Fragen zu Rollen
+      und zur Zusammenarbeit erörtert. Das heißt, getrennt von den Details, wie
+      die Arbeit erledigt wird. Letztere werden in \"taktischen Besprechungen\"
+      erörtert, für die eigene spezifische Besprechungspraktiken gelten.
 
 
-      A facilitator guides the proceedings.
+      Ein Moderator leitet das Verfahren.
 
 
-      Anybody who feels a role change is needed (the proposer) can add it to the agenda. Each governance item is resolved with to the following process:
+      \r
+
+      \r
+
+      Jeder, der der Meinung ist, dass eine Rollenänderung erforderlich
+      ist (der Vorschlagende), kann diese auf die Tagesordnung setzen. Jeder
+      Governance-Punkt wird nach folgendem Verfahren beschlossen
 
 
-      1. Present proposal: The proposer states his proposal and the issue this proposal is attempting to resolve.
+      1. Vorlage des Vorschlags: Der Antragsteller erläutert seinen
+      Vorschlag und das Problem, das mit diesem Vorschlag gelöst werden soll.\r
 
-      1. Clarifying questions: Anybody can seek information or more understanding. It is not yet time for reactions. The facilitator will interrupt any question that cloaks a reaction.
+      2. Klärende Fragen: Jeder kann um Informationen oder mehr
+      Verständnis bitten. Es ist noch nicht Zeit für Reaktionen. Der Moderator
+      unterbricht jede Frage, die eine Reaktion verschleiert.\r
 
-      1. Reaction round: Each person reacts to the proposal. Discussions are not allowed.
+      3. Reaktionsrunde: Jede Person reagiert auf den Vorschlag.
+      Diskussionen sind nicht erlaubt.\r
 
-      1. Amend and clarify: The proposer can clarify his proposal further, or amend it, based on these reactions.
+      4. Ändern und präzisieren: Der Vorschlagende kann seinen Vorschlag
+      auf der Grundlage dieser Reaktionen weiter präzisieren oder abändern.\r
 
-      1. Objection round: The facilitator asks, ”Do you see any reasons why adopting this proposal would cause harm or move us backwards?” Objections are captured without discussion; the proposal is adopted if none surface.
+      5. Einspruchsrunde: Der Moderator fragt: \"Sehen Sie irgendwelche
+      Gründe, warum die Annahme dieses Vorschlags uns schaden oder uns
+      zurückwerfen würde? Einwände werden ohne Diskussion erfasst; wenn keine
+      auftauchen, wird der Vorschlag angenommen.\r
 
-      1. Integration: If an objection is raised, the facilitator tests the objection for validity. If it is found to be valid, he leads a discussion to craft an amendment that would avoid the objection. If several objections are raised, they get addressed one at a time, until all are removed.
-
-
-      There are strict criteria for an objection to be considered valid. The process might sound formal, but people who use it often report they find it deeply liberating. It addresses issues without the need for corridor talk, politics, and coalition building. Anybody who senses the need for something to change has a forum.
-
-
-      Others are surprised at how efficient this process is. 
-
-
-      Holacracy’s governance process is a variation of the advice process. Anyone can bring forward an issue or opportunity (a "tension" in holacratic language) and make a decision happen, after listening to relevant advice. The particularity of the process here is that the advice happens in the setting of a meeting, with a structured number of rounds, and that the decision maker must integrate valid objections, if there are any. The goal, again, is to not to aim for a perfect answer, but a workable solution, and then iterate quickly if needed.
-
-
-      Roles evolve organically, adapting to change in the environment.
-
-
-      #### Autocratic decision making
+      6. Integration: Wenn ein Einwand erhoben wird, prüft der Moderator,
+      ob der Einwand berechtigt ist. Wird er für gültig befunden, leitet er eine
+      Diskussion, um einen Änderungsvorschlag zu erarbeiten, der den Einwand
+      vermeidet. Wenn mehrere Einwände erhoben werden, werden sie nacheinander
+      behandelt, bis alle beseitigt sind.
 
 
-      In Holacracy, any decision other than governance decisions can be made "autocratically". Only when a "domain" is declared, which should be in exceptional circumstances only, are decisions off-limits to others. In all other cases, anyone can step up and make any decision.
+      Es gibt strenge Kriterien, damit ein Einspruch als gültig angesehen
+      wird. Das Verfahren mag formell klingen, aber Menschen, die es anwenden,
+      berichten oft, dass sie es als sehr befreiend empfinden. Es werden
+      Probleme angesprochen, ohne dass Korridorgespräche, Politik und
+      Koalitionsbildung erforderlich sind. Jeder, der das Gefühl hat, dass sich
+      etwas ändern muss, hat ein Forum.
 
 
-      Decisions can be made "autocratically", meaning no one needs to be consulted, and there is no formal process such as in the integrative decision making process. Yet in practice, people are well advised to seek advice when relevant.
+      Andere sind überrascht, wie effizient dieses Verfahren ist.
 
 
-      If person A makes an autocratic decision that frustrates person B who has an obvious stake in that decision, person B is likely to bring up the topic in the next governance meeting. For example, if person (A), whose role it is to book meeting venues, chooses a new venue without discussing it with the main trainer (B) who has ideas as to what kind of venue is necessary for that specific training. The trainer (B) will suggest to amend the role of person A so that person A must consult the trainer before making decisions on venues in the future. Ultimately it boils down to the same: either person A spontaneously and informally seeks advice from person B, or it is likely that the role person A is currently energizing will be changed so that this role must formally seek advice from the trainer role (person B) before deciding on a venue.
+      Der Holacracy-Governance-Prozess ist eine Variation des
+      Beratungsprozesses. Jeder kann ein Thema oder eine Gelegenheit (eine
+      \"Spannung\" in der holakratischen Sprache) vorbringen und eine
+      Entscheidung treffen, nachdem er den entsprechenden Ratschlag gehört hat.
+      Die Besonderheit des Prozesses besteht darin, dass die Beratung im Rahmen
+      eines Treffens stattfindet, mit einer strukturierten Anzahl von Runden,
+      und dass der Entscheidungsträger gültige Einwände integrieren muss, falls
+      es welche gibt. Auch hier besteht das Ziel nicht darin, eine perfekte
+      Antwort zu finden, sondern eine praktikable Lösung, die bei Bedarf schnell
+      überarbeitet werden kann.
+
+
+      Die Rollen entwickeln sich organisch und passen sich dem Wandel des
+      Umfelds an.
+
+
+      #### Autokratische Entscheidungsfindung
+
+
+      In der Holakratie kann jede Entscheidung, die nicht von der
+      Regierung getroffen wird, \"autokratisch\" getroffen werden. Nur wenn eine
+      \"Domäne\" erklärt wird, was nur in Ausnahmefällen der Fall sein sollte,
+      sind Entscheidungen für andere tabu. In allen anderen Fällen kann jeder
+      vortreten und jede Entscheidung treffen.
+
+
+      Entscheidungen können \"autokratisch\" getroffen werden, d. h. es
+      muss niemand konsultiert werden, und es gibt kein formelles Verfahren wie
+      bei der integrativen Entscheidungsfindung. In der Praxis sind die Menschen
+      jedoch gut beraten, sich gegebenenfalls beraten zu lassen.
+
+
+      Wenn Person A eine autokratische Entscheidung trifft, die Person B
+      frustriert, die ein offensichtliches Interesse an dieser Entscheidung hat,
+      wird Person B das Thema wahrscheinlich in der nächsten Governance-Sitzung
+      zur Sprache bringen. Zum Beispiel, wenn Person (A), deren Aufgabe es ist,
+      Veranstaltungsorte zu buchen, einen neuen Veranstaltungsort auswählt, ohne
+      dies mit dem Hauptausbilder (B) zu besprechen, der Ideen hat, welche Art
+      von Veranstaltungsort für diese spezielle Schulung erforderlich ist. Der
+      Ausbilder (B) wird vorschlagen, die Rolle von Person A dahingehend zu
+      ändern, dass Person A den Ausbilder konsultieren muss, bevor sie in
+      Zukunft Entscheidungen über Veranstaltungsorte trifft. Letztlich läuft es
+      auf dasselbe hinaus: Entweder sucht Person A spontan und informell Rat bei
+      Person B, oder es ist wahrscheinlich, dass die Rolle, die Person A derzeit
+      innehat, dahingehend geändert wird, dass diese Rolle formell den Rat der
+      Trainerrolle (Person B) einholen muss, bevor sie sich für einen
+      Veranstaltungsort entscheidet."
   - topic: board
     title: A constitution that a board can adopt.
     content: "[Holacracy ](http://holocracyone.com/)has drafted a constitution which
