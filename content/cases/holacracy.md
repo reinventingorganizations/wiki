@@ -1,16 +1,16 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
 name: Holacracy
+date: 2020-11-09
 introduction: >-
-  Organizational operating model 
+  Organisatorisches Betriebsmodell
 
 
-  [Holacracy ](https://en.wikipedia.org/wiki/Holacracy)is a method of decentralized management and organizational governance, in which authority and decision-making are distributed throughout a holarchy of self-organizing teams rather than being vested in a management hierarchy
+  [Holacracy](https://de.wikipedia.org/wiki/Holokratie) ist eine Methode des dezentralisierten Managements und der Organisationsführung, bei der Autorität und Entscheidungsfindung über eine Holarchie von selbstorganisierenden Teams verteilt sind, anstatt in einer Managementhierarchie zu verankern.
 
 
-  The Holacracy system was developed at Ternary Software, a company in Pennsylvania company.
+  Das Holacracy-System wurde bei Ternary Software, einer Firma in Pennsylvania, entwickelt.
 industry: V. Others
 geography: Global
 companySize: "> 500"
