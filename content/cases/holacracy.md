@@ -34,8 +34,9 @@ theory:
       einer größeren Einheit hat. Eine ausführlichere Beschreibung finden Sie
       auf [Holacracy's website] (http://www.holacracy.org/).
   - topic: Coordination
-    title: Holacracy creates specific non-staff roles for coordination
-    content: In Holacracy's structure of nested circles, there are specific
+    title: Holacracy schafft spezifische Rollen für die Koordination
+    content: >-
+      In Holacracy's structure of nested circles, there are specific
       coordinating roles called “links". Sub-circles elect a representative, the
       “Rep Link”, for its overarching circle who sits on all that circle’s
       meetings. The overarching circle sends a representative of its own, the
@@ -45,6 +46,9 @@ theory:
       Allocation](../role-definition-and-allocation/)”/”Concrete examples for
       inspiration”/”Holacracy” and [Holacracy's
       constitution](http://www.holacracy.org/constitution).
+
+
+      In Holacracy's Struktur der verschachtelten Kreise gibt es spezifische koordinierende Rollen, die "Links" genannt werden. Unterkreise wählen einen Repräsentanten, den "Rep Link", für ihren übergreifenden Kreis, der an allen Treffen dieses Kreises teilnimmt. Der übergeordnete Kreis entsendet einen eigenen Vertreter, den "Lead Link", der an den Diskussionen in den Unterkreisen teilnimmt. Beide Rollen sind mit spezifischen Verantwortlichkeiten verbunden, um eine ordnungsgemäße Koordinierung zwischen Kreis und Unterkreis zu gewährleisten. Siehe auch "[Role Definition and Allocation](../role-definition-and-allocation/)"/"Concrete examples for inspiration"/"Holacracy" und [Holacracy's constitution](http://www.holacracy.org/constitution).
   - topic: Role Definition and Allocation
     title: A well defined process to create, modify and assign roles
     content: >-
