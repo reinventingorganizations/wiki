@@ -110,16 +110,62 @@ theory:
 
       Wie man eine Rolle verlässt, ist von Organisation zu Organisation unterschiedlich. Laut Verfassung ist es die Aufgabe des Lead Link, eine Person aus einer Rolle zu entfernen, wenn dies notwendig ist. Einige Organisationen, wie das [Whidbey Institute] (http://whidbeyinstitute.org/), richten einen Rollenmarktplatz ein, auf dem diejenigen, die eine bestimmte Rolle aufgeben möchten, anderen mitteilen können, dass sie verfügbar ist; jeder, der daran interessiert ist, diese Rolle zu übernehmen, kann dies über die Autorität des Lead Link tun.
   - topic: Strategy
-    title: Strategic plans are replaced with "rules of thumb"
-    content: >-
-      Holacracy has a practice of developing “rules of thumb” in lieu of
-      strategic plans. Brian Robertson explains:
+    title: Strategische Pläne werden durch "Faustregeln" ersetzt
+    content: "Bei Holacracy ist es üblich, anstelle von strategischen Plänen
+      \"Faustregeln\" zu entwickeln. Brian Robertson erklärt:
 
 
-      *We may not be able to map the perfect route to the ideal future, but we can often ascertain some orienting principles for navigation. Without trying to predict exactly what forks in that road we will encounter, we can ask ourselves what will help us to make the best decisions when we do come to a fork. When we step back to look at the broader context and the general terrain and options in front of us, we can often come up with guidelines, such as “Generally head east,” or “Choose the easy roads even over the most direct roads.” A rule of thumb like this really helps when we’re confronted with a choice and want to benefit from wisdom generated when we had the luxury of pulling back and analyzing the bigger-picture context. When we distill that wisdom into memorable guidelines, we can apply them more easily and more regularly amidst the hustle and bustle of day-to-day execution. This, then, is the form that strategy takes in Holacracy— an easy-to-remember rule of thumb that aids moment-to-moment decision-making and prioritization (the technical term for such a rule is “heuristic”). I’ve found it useful to express these decision-support rules in the form of a simple phrase such as “Emphasize X, even over Y,” in which X is one potentially valuable activity, emphasis, focus, or goal, and Y is another potentially valuable activity, emphasis, focus, or goal.*
+      *Wir sind vielleicht nicht in der Lage, den perfekten Weg in die
+      ideale Zukunft zu kartieren, aber wir können oft einige
+      Orientierungsprinzipien für die Navigation feststellen. Ohne genau
+      vorhersagen zu wollen, auf welche Weggabelungen wir stoßen werden, können
+      wir uns fragen, was uns helfen wird, die besten Entscheidungen zu treffen,
+      wenn wir an eine Weggabelung kommen. Wenn wir einen Schritt zurücktreten
+      und den größeren Kontext, das allgemeine Terrain und die vor uns liegenden
+      Optionen betrachten, können wir oft Richtlinien aufstellen, wie z. B.
+      \"Gehe generell nach Osten\" oder \"Wähle die einfachen Wege, auch wenn
+      sie nicht direkt sind\". Eine Faustregel wie diese ist sehr hilfreich,
+      wenn wir vor einer Entscheidung stehen und von der Weisheit profitieren
+      wollen, die wir gewonnen haben, als wir den Luxus hatten, uns
+      zurückzuziehen und den größeren Zusammenhang zu analysieren. Wenn wir
+      diese Weisheit zu einprägsamen Leitlinien destillieren, können wir sie
+      inmitten der Hektik der täglichen Ausführung leichter und regelmäßiger
+      anwenden. Dies ist also die Form, die die Strategie in Holacracy annimmt -
+      eine leicht zu merkende Faustregel, die die Entscheidungsfindung und
+      Prioritätensetzung von Augenblick zu Augenblick unterstützt (der
+      Fachbegriff für eine solche Regel ist \"Heuristik\"). Ich habe es als
+      nützlich empfunden, diese Regeln zur Entscheidungsunterstützung in Form
+      eines einfachen Satzes auszudrücken, wie z.B. \"Betone X, sogar gegenüber
+      Y\", wobei X eine potentiell wertvolle Aktivität, Schwerpunkt, Fokus oder
+      Ziel ist und Y eine andere potentiell wertvolle Aktivität, Schwerpunkt,
+      Fokus oder Ziel ist.*
 
 
-      *Now, to make that useful, you can’t just have X be good and Y be bad. “Emphasize customer service, even over pissing off customers” is not helpful advice. Both X and Y need to be positives, so that the strategy gives you some sense of which one to privilege, for now, given your current context. For example, one of HolacracyOne’s strategies earlier in our company’s development was “Emphasize documenting and aligning to standards, even over developing and co-creating novelty.” Notice that both of those activities are positive things for an organization to be engaging in, but they are also polarities, in tension with each other. Our strategy is not a general, universal statement of value— in fact, if we tried to apply it forever it would undoubtedly cause serious harm eventually. There are times when it is essential to emphasize developing and co-creating novelty over documenting and aligning to standards. But for HolacracyOne, given our context at the time, and the recent history before that, and the purpose we’re serving, that was our best sense of what to privilege, at least for a while: standardization, even at the expense of pursuing new and exciting opportunities.*^[Robertson, Brian J. (2015-06-02). Holacracy: The New Management System for a Rapidly Changing World (Kindle Locations 1800-1818). Henry Holt and Co.. Kindle Edition.]
+      \r
+
+      *Um das nützlich zu machen, kann man nicht einfach X gut und Y
+      schlecht sein lassen. \"Legen Sie den Schwerpunkt auf den Kundenservice,
+      auch wenn Sie die Kunden verärgern\" ist kein hilfreicher Ratschlag.
+      Sowohl X als auch Y müssen positiv sein, so dass die Strategie Ihnen ein
+      Gefühl dafür vermittelt, welches von beiden Sie in Ihrem aktuellen Kontext
+      bevorzugen sollten. Zum Beispiel war eine der Strategien von HolacracyOne
+      zu Beginn der Entwicklung unseres Unternehmens \"Betone die Dokumentation
+      und die Anpassung an Standards, sogar gegenüber der Entwicklung und
+      Miterschaffung von Neuem\". Beachten Sie, dass beide dieser Aktivitäten
+      positive Dinge sind, die eine Organisation unternehmen sollte, aber sie
+      sind auch Polaritäten, die in Spannung zueinander stehen. Unsere Strategie
+      ist keine allgemeine, allgemeingültige Wertaussage - wenn wir versuchen
+      würden, sie für immer anzuwenden, würde sie zweifellos irgendwann
+      ernsthaften Schaden anrichten. Es gibt Zeiten, in denen es unerlässlich
+      ist, das Entwickeln und Miterschaffen von Neuem über das Dokumentieren und
+      Anpassen an Standards zu stellen. Aber für HolacracyOne, in Anbetracht
+      unseres Kontextes zu der Zeit und der jüngsten Geschichte davor und dem
+      Zweck, dem wir dienen, war das unser bestes Gefühl dafür, was zu
+      bevorzugen ist, zumindest für eine Weile: Standardisierung, sogar auf
+      Kosten der Verfolgung neuer und aufregender Möglichkeiten.*^\\[Übersetzt
+      aus Robertson, Brian J. (2015-06-02). Holacracy: Das neue Managementsystem
+      für eine sich rasant verändernde Welt (Kindle Locations 1800-1818). Henry
+      Holt and Co.. Kindle Edition]."
   - topic: Decision Making
     title: 'Holacracy uses two types of decision making: "autocratic" and
       "integrative", both of which, on close scrutiny, can be seen as variations
