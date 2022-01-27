@@ -84,27 +84,31 @@ theory:
 
       Holacracy's Verfassung legt fest, dass bestimmte spezifische Rollen (der Moderator, der Sekretär, der Lead Link und der "Rep Link") durch eine auf Zustimmung basierende Wahl ernannt werden. Alle anderen Rollen werden von der Person ernannt, die die Rolle des "Lead Link" des Teams innehat. (Siehe [Holacracy's constitution ](http://www.holacracy.org/constitution) für eine detaillierte Beschreibung des Prozesses).
   - topic: Job Titles and Job Descriptions
-    title: 'A worker in a Holacracy might "energize" any number of roles in any
-      number of Circles. Each role has a purpose expressed within the larger
-      purpose of the Circle, and a set of accountabilities to enact.
-      Additionally, some roles have Domains: sensitive areas where they hold
-      absolute authority.'
+    title: 'Ein Arbeiter in einer Holacracy könnte eine beliebige Anzahl von Rollen
+      in einer beliebigen Anzahl von Kreisen "energetisieren". Jede Rolle hat
+      einen Zweck, der innerhalb des größeren Zwecks des Kreises ausgedrückt
+      wird, und eine Reihe von Verantwortlichkeiten, die es zu erfüllen gilt.
+      Zusätzlich haben einige Rollen Domänen: sensible Bereiche, in denen sie
+      absolute Autorität besitzen.'
     content: >-
-      How accountabilities are fulfilled is up to the role-holder. The
-      role-holder is also responsible for tracking and making visible the "next
-      actions" they deem necessary for each accountability, as well as the
-      timeline for completion. Projects are also tracked in this way. This
-      ensures that others who are energizing roles with dependency on another
-      are kept aware of how key accountabilities are progressing; additionally,
-      one role can ask another to prioritize a request specific to a dependency;
-      the role-holder is then required to prioritize the request over those
-      accountabilities where a request has not been made.
+      Wie die Verantwortlichkeiten erfüllt werden, ist Sache des Rolleninhabers.
+      Der Rolleninhaber ist auch für die Verfolgung und Sichtbarmachung der
+      "nächsten Aktionen" verantwortlich, die er für jede Verantwortlichkeit als
+      notwendig erachtet, sowie für den Zeitplan für die Fertigstellung. Auch
+      Projekte werden auf diese Weise nachverfolgt. Auf diese Weise wird
+      sichergestellt, dass andere Rollen, die in Abhängigkeit von einer anderen
+      Rolle tätig sind, über den Fortschritt bei wichtigen Verantwortlichkeiten
+      informiert sind; außerdem kann eine Rolle eine andere bitten, einer
+      Anforderung in Bezug auf eine Abhängigkeit Vorrang einzuräumen; der
+      Rolleninhaber ist dann verpflichtet, der Anforderung Vorrang vor jenen
+      Verantwortlichkeiten einzuräumen, für die noch keine Anforderung gestellt
+      wurde.
 
 
-      Roles are created and amended in a governance process. The question of who fills what role is typically an obvious choice, with whomever proposed the creation of a new role typically being the one who fills it; however, it is the purview of the Circle's Lead Link to assign anyone within the organization to a role in those instances where the choice is less obvious.
+      Rollen werden im Rahmen eines Governance-Prozesses geschaffen und geändert. Die Frage, wer welche Rolle ausfüllt, ist in der Regel eine offensichtliche Wahl, wobei derjenige, der die Schaffung einer neuen Rolle vorgeschlagen hat, diese in der Regel auch ausfüllt; es liegt jedoch im Zuständigkeitsbereich des Lead Link des Kreises, jemanden innerhalb der Organisation einer Rolle zuzuweisen, wenn die Wahl weniger offensichtlich ist.
 
 
-      How one leaves a role varies from organization to organization. Constitutionally, it is the responsibility of the Lead Link to remove a person from a role when necessary. Some organizations, like the [Whidbey Institute](http://whidbeyinstitute.org/), create a roles marketplace where those who wish to move on from a particular role can let others know that it is available; anyone interested in taking on that role may do so through the authority of the Lead Link.
+      Wie man eine Rolle verlässt, ist von Organisation zu Organisation unterschiedlich. Laut Verfassung ist es die Aufgabe des Lead Link, eine Person aus einer Rolle zu entfernen, wenn dies notwendig ist. Einige Organisationen, wie das [Whidbey Institute] (http://whidbeyinstitute.org/), richten einen Rollenmarktplatz ein, auf dem diejenigen, die eine bestimmte Rolle aufgeben möchten, anderen mitteilen können, dass sie verfügbar ist; jeder, der daran interessiert ist, diese Rolle zu übernehmen, kann dies über die Autorität des Lead Link tun.
   - topic: Strategy
     title: Strategic plans are replaced with "rules of thumb"
     content: >-
