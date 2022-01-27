@@ -43,9 +43,9 @@ theory:
       Diskussionen in den Unterkreisen teilnimmt. Beide Rollen sind mit
       spezifischen Verantwortlichkeiten verbunden, um eine ordnungsgemäße
       Koordinierung zwischen Kreis und Unterkreis zu gewährleisten. Siehe auch
-      "[Role Definition and
-      Allocation](../role-definition-and-allocation/)"/"Concrete examples for
-      inspiration"/"Holacracy" und [Holacracy's
+      "[Rollendefinition und
+      -zuweisung](../role-definition-and-allocation/)"/"Konkrete Beispiele zur
+      Inspiration"/"Holacracy" und [Holacracy's
       constitution](http://www.holacracy.org/constitution).
   - topic: Role Definition and Allocation
     title: A well defined process to create, modify and assign roles
