@@ -283,11 +283,11 @@ theory:
       Trainerrolle (Person B) einholen muss, bevor sie sich für einen
       Veranstaltungsort entscheidet."
   - topic: board
-    title: A constitution that a board can adopt.
-    content: "[Holacracy ](http://holocracyone.com/)has drafted a constitution which
-      complies with U.S. corporate law. It gives shareholders a say in matters
-      related to finance, but prevents them from unilaterally imposing a
-      strategy."
+    title: Eine Satzung, die ein Vorstand annehmen kann.
+    content: "[Holacracy ](http://holocracyone.com/)hat eine Satzung entworfen, die
+      dem amerikanischen Gesellschaftsrecht entspricht. Sie gibt den Aktionären
+      ein Mitspracherecht in Finanzangelegenheiten, verhindert aber, dass sie
+      einseitig eine Strategie vorgeben können."
   - topic: Dismissal
     title: In the Holacracy model, a person can be removed from their roles but
       still stay in the member pool and take time to hunt for new roles. If this
