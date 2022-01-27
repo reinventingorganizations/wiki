@@ -167,9 +167,9 @@ theory:
       für eine sich rasant verändernde Welt (Kindle Locations 1800-1818). Henry
       Holt and Co.. Kindle Edition]."
   - topic: Decision Making
-    title: 'Holacracy uses two types of decision making: "autocratic" and
-      "integrative", both of which, on close scrutiny, can be seen as variations
-      of the advice process.'
+    title: 'Holacracy verwendet zwei Arten der Entscheidungsfindung: "autokratisch"
+      und "integrativ", die beide bei näherer Betrachtung als Varianten des
+      Beratungsprozesses angesehen werden können.'
     content: >-
       Governance decisions (decisions about people's roles and accountabilities)
       are made using "Integrative decision making". All others are made
