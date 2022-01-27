@@ -79,10 +79,10 @@ theory:
       Die Verfassung von Holacracy fordert die Organisation von Rollen in "Kreisen". Die Rollen, die ein Kreis enthält, sind eine Aufschlüsselung dessen, was benötigt wird, um seinen Gesamtzweck auszudrücken, seine Verantwortlichkeiten auszuführen und seine Bereiche zu kontrollieren. Kreise ("Unterkreise") werden wiederum innerhalb breiterer Kreise ("Superkreise") verschachtelt, bis der größte Kreis die gesamte Organisation enthält (der "Ankerkreis").^\[Übersetzt aus Robertson, Brian J.. Holacracy: The New Management System for a Rapidly Changing World (Kindle Locations 676-677). Henry Holt and Co. Kindle Edition].
 
 
-      In Holacracy, each sub-circle contains a special governance role called the “Lead Link” which is appointed by the super-circle to represent its interests in the sub-circle. The Lead Link does not manage the circle but does have the authority to assign people to roles and to set priorities within that circle.
+      In Holacracy enthält jeder Unterkreis eine besondere Führungsrolle, die "Lead Link" genannt wird, die vom Superkreis ernannt wird, um seine Interessen im Unterkreis zu vertreten. Der Lead Link verwaltet den Kreis nicht, hat aber die Autorität, Menschen Rollen zuzuweisen und Prioritäten innerhalb dieses Kreises zu setzen.
 
 
-      Holacracy's constitution stipulates that certain specific roles (the facilitator, the secretary, the Lead Link and the "Rep Link") are appointed using a consent-based election. All other roles are appointed by the person holding the team's Lead Link role. (See [Holacracy's constitution ](http://www.holacracy.org/constitution)for a detailed description of the process).
+      Holacracy's Verfassung legt fest, dass bestimmte spezifische Rollen (der Moderator, der Sekretär, der Lead Link und der "Rep Link") durch eine auf Zustimmung basierende Wahl ernannt werden. Alle anderen Rollen werden von der Person ernannt, die die Rolle des "Lead Link" des Teams innehat. (Siehe [Holacracy's constitution ](http://www.holacracy.org/constitution) für eine detaillierte Beschreibung des Prozesses).
   - topic: Job Titles and Job Descriptions
     title: 'A worker in a Holacracy might "energize" any number of roles in any
       number of Circles. Each role has a purpose expressed within the larger
