@@ -17,20 +17,22 @@ companySize: "> 500"
 profit: non-profit
 theory:
   - topic: Organizational Structure
-    title: A nested team structure
-    content: Holacracy is an organizational operating system adopted by hundreds of
-      organizations around the world using a nested team structure. It refers to
-      teams as “circles” and to the structure as a whole as a “holarchy” (as
-      distinct from a hierarchy). In a holarchy, each circle is not subjugated
-      to those above it, but retains autonomy, individual authority, and
-      wholeness. Circles are grouped within broader circles, all the way up
-      until the biggest circle contains the entire organization. This circle is
-      called the “Anchor Circle”. Teams near the "top" work on wider purposes;
-      teams near the "bottom" work on more specialized purposes. Every circle
-      and role within the holarchy retains real autonomy and authority as a
-      cohesive, whole entity itself, while also having real responsibilities as
-      a part of a larger entity. For a fuller description, see [Holacracy's
-      website](http://www.holacracy.org/).
+    title: Eine verschachtelte Teamstruktur
+    content: Holacracy ist ein organisatorisches Betriebssystem, das von Hunderten
+      von Organisationen auf der ganzen Welt übernommen wurde und eine
+      verschachtelte Teamstruktur verwendet. Es bezieht sich auf Teams als
+      "Kreise" und auf die Struktur als Ganzes als "Holarchie" (im Gegensatz zu
+      einer Hierarchie). In einer Holarchie ist jeder Kreis nicht denen
+      untergeordnet, die über ihm stehen, sondern behält seine Autonomie,
+      individuelle Autorität und Ganzheitlichkeit. Die Kreise sind in größeren
+      Kreisen gruppiert, bis der größte Kreis die gesamte Organisation umfasst.
+      Dieser Kreis wird "Ankerkreis" genannt. Teams in der Nähe der "Spitze"
+      arbeiten an weiter gefassten Zielen, Teams in der Nähe der "Basis"
+      arbeiten an spezielleren Zielen. Jeder Kreis und jede Rolle innerhalb der
+      Holarchie behält echte Autonomie und Autorität als eine zusammenhängende,
+      ganze Einheit, während er gleichzeitig echte Verantwortlichkeiten als Teil
+      einer größeren Einheit hat. Eine ausführlichere Beschreibung finden Sie
+      auf [Holacracy's website] (http://www.holacracy.org/).
   - topic: Coordination
     title: Holacracy creates specific non-staff roles for coordination
     content: In Holacracy's structure of nested circles, there are specific
