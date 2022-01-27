@@ -289,16 +289,35 @@ theory:
       ein Mitspracherecht in Finanzangelegenheiten, verhindert aber, dass sie
       einseitig eine Strategie vorgeben können."
   - topic: Dismissal
-    title: In the Holacracy model, a person can be removed from their roles but
-      still stay in the member pool and take time to hunt for new roles. If this
-      fails, a custom dismissal process, such as a peer removal, can be
-      initiated.
-    content: >-
-      See ^[Interview Frederic Laloux with Brian J. Robertson, 2013]
+    title: Im Holacracy-Modell kann eine Person aus ihren Rollen entfernt werden,
+      aber immer noch im Mitglieder-Pool bleiben und sich Zeit für die Suche
+      nach neuen Rollen nehmen. Wenn dies fehlschlägt, kann ein
+      benutzerdefinierter Entlassungsprozess, wie z.B. die Entfernung durch
+      Kollegen, eingeleitet werden.
+    content: "Siehe ^[Interview Frederic Laloux mit Brian J. Robertson, 2013]
 
 
-      [Holacracy ](http://www.holacracy.org/)does not prescribe a specific process for dismissals. Starting and terminating people’s contracts originally lands in the scope of the top circle, who can then assign that authority as they see fit. For example, there can be an HR role that has authority to hire and fire. Or in the partnership model (as in [HolacracyOne](http://www.holacracy.org/)) there is a partnership removal process with partner peer review (similar to [Morning Star](http://www.morningstarco.com/)).
+      \r
 
+      \r
 
-      Because there is no fusion of person and title, the lead link in any circle is free to make a decision and remove somebody from a specific role. The person is not fired in this case, but remains in a member pool and must pitch for other roles. If no new role can be found, the person either leaves voluntarily, or a custom dismissal process is triggered.
+      [Holacracy ](http://www.holacracy.org/)schreibt keinen spezifischen
+      Prozess für Entlassungen vor. Der Beginn und die Beendigung von Verträgen
+      von Menschen fällt ursprünglich in den Bereich des obersten Kreises, der
+      dann diese Autorität zuweisen kann, wie er es für richtig hält. So kann es
+      beispielsweise eine Personalabteilung geben, die die Befugnis zur
+      Einstellung und Entlassung hat. Oder im Partnerschaftsmodell (wie in
+      [HolacracyOne](http://www.holacracy.org/)) gibt es einen
+      partnerschaftlichen Entlassungsprozess mit Partner-Peer-Review (ähnlich
+      wie bei [Morning Star](http://www.morningstarco.com/)).\r
+
+      \r
+
+      Da es keine Verschmelzung von Person und Titel gibt, steht es dem
+      führenden Link in jedem Kreis frei, eine Entscheidung zu treffen und
+      jemanden von einer bestimmten Rolle zu entfernen. Die Person wird in
+      diesem Fall nicht entlassen, sondern verbleibt in einem Mitgliederpool und
+      muss sich um andere Rollen bewerben. Wenn keine neue Rolle gefunden werden
+      kann, verlässt die Person entweder freiwillig den Kreis oder es wird ein
+      benutzerdefinierter Entlassungsprozess ausgelöst."
 ---
