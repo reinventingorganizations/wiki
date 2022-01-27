@@ -35,20 +35,18 @@ theory:
       auf [Holacracy's website] (http://www.holacracy.org/).
   - topic: Coordination
     title: Holacracy schafft spezifische Rollen für die Koordination
-    content: >-
-      In Holacracy's structure of nested circles, there are specific
-      coordinating roles called “links". Sub-circles elect a representative, the
-      “Rep Link”, for its overarching circle who sits on all that circle’s
-      meetings. The overarching circle sends a representative of its own, the
-      “Lead Link” to be part of the discussion in the sub-circle. Both roles
-      come with specific accountabilities to ensure proper coordination across
-      circle and sub-circle. See also “[Role Definition and
-      Allocation](../role-definition-and-allocation/)”/”Concrete examples for
-      inspiration”/”Holacracy” and [Holacracy's
+    content: In Holacracy's Struktur der verschachtelten Kreise gibt es spezifische
+      koordinierende Rollen, die "Links" genannt werden. Unterkreise wählen
+      einen Repräsentanten, den "Rep Link", für ihren übergreifenden Kreis, der
+      an allen Treffen dieses Kreises teilnimmt. Der übergeordnete Kreis
+      entsendet einen eigenen Vertreter, den "Lead Link", der an den
+      Diskussionen in den Unterkreisen teilnimmt. Beide Rollen sind mit
+      spezifischen Verantwortlichkeiten verbunden, um eine ordnungsgemäße
+      Koordinierung zwischen Kreis und Unterkreis zu gewährleisten. Siehe auch
+      "[Role Definition and
+      Allocation](../role-definition-and-allocation/)"/"Concrete examples for
+      inspiration"/"Holacracy" und [Holacracy's
       constitution](http://www.holacracy.org/constitution).
-
-
-      In Holacracy's Struktur der verschachtelten Kreise gibt es spezifische koordinierende Rollen, die "Links" genannt werden. Unterkreise wählen einen Repräsentanten, den "Rep Link", für ihren übergreifenden Kreis, der an allen Treffen dieses Kreises teilnimmt. Der übergeordnete Kreis entsendet einen eigenen Vertreter, den "Lead Link", der an den Diskussionen in den Unterkreisen teilnimmt. Beide Rollen sind mit spezifischen Verantwortlichkeiten verbunden, um eine ordnungsgemäße Koordinierung zwischen Kreis und Unterkreis zu gewährleisten. Siehe auch "[Role Definition and Allocation](../role-definition-and-allocation/)"/"Concrete examples for inspiration"/"Holacracy" und [Holacracy's constitution](http://www.holacracy.org/constitution).
   - topic: Role Definition and Allocation
     title: A well defined process to create, modify and assign roles
     content: >-
