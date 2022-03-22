@@ -62,10 +62,11 @@ perspective: >-
 
   * Le succès signifie remplir parfaitement son rôle dans l'organisation ("Vous *êtes* votre travail et votre place dans la société est plus ou moins claire dès la naissance").
 
-  * (Style de leadership : autoritaire - paternaliste. Métaphore : armée.)
+
+  (Style de leadership : autoritaire - paternaliste. Métaphore : armée.)
 
 
-  #### Orange Organizations
+  #### Organisations Orange
 
 
   Fundamental assumptions from an [Orange perspective](../orange-paradigm-and-organizations/) are:
