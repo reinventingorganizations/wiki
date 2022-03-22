@@ -74,11 +74,11 @@ perspective: >-
 
   * Le monde est fait de possibilités et de défis qui ne demandent qu'à être découverts et relevés. Si l'on est intelligent et que l'on travaille suffisamment dur, on peut bénéficier de tous les avantages d'un statut élevé. Si l'on ne réussit pas, c'est pour chacun de sa seule et unique responsabilité.
 
-  * ***Material results and status*** are essential. What counts is the financial bottom line: the (only) real measure for success is money and material wealth. This is what ultimately motivates people.
+  * ***Les résultats matériels et le statut*** sont fondamentaux. Ce qui compte, c'est le résultat financier : la (seule) véritable mesure de la réussite est l'argent et la richesse matérielle. C'est finalement ce qui permet de motiver les gens.
 
-  * Truth is what works. Pragmatism is more valuable than authority. Rationality is valued above all else. Emotions, doubts, dreams, questions of meaning and purpose do not belong in the workplace. They are a distraction to achieving our goals. Being professional means keeping private life private.
+  * La vérité repose sur ce qui fonctionne. Le pragmatisme a plus de valeur que l'autorité. La rationalité est plus importante que tout le reste. Les émotions, les doutes, les rêves, les questions de sens et de finalité n'ont pas leur place au travail. Ils nous empêchent d'atteindre nos objectifs. Être professionnel signifie garder sa vie privée pour soi.
 
-  * Social acceptance is important, because one needs others to reach the own goals and acknowledge the own success. One has to wear a professional mask of success and control.
+  * La reconnaissance sociale est importante, car on a besoin des autres pour atteindre ses propres objectifs et pour valoriser sa propre réussite. Il est important de porter un masque professionnel de réussite et de contrôle.
 
   * Only the best in their field can and should make it to the top. Competition is everywhere and should be encouraged. To survive and thrive, one has to outsmart others and beat competition.
 
