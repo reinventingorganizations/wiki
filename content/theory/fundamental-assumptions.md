@@ -89,7 +89,7 @@ perspective: >-
   * Lorsque les gens sont livrés à eux-mêmes, rien de bon ne peut en sortir. Bien qu'ils sachent réfléchir jusqu'à un certain niveau et décider de la "manière" de faire leur travail, ils ont besoin d'être dirigés. Les gens ont besoin d'être motivés par des récompenses et de la compétition pour donner le meilleur d'eux-mêmes. La direction doit fixer des objectifs clairs, des dispositifs de primes et assurer un contrôle. La hiérarchie doit avoir le contrôle.
 
 
-  (Style de leadership : expert/performant, "résolution de problèmes, stratégique, orienté résultats". Métaphore : la Machine)
+  (Style de leadership : expert/performant, "résolution de problèmes, stratégique, orienté résultats". Métaphore : la Machine).
 
 
   #### Organisations vertes
@@ -98,17 +98,21 @@ perspective: >-
   Les hypothèses fondamentales d'une [perspective verte ](../green-paradigm-and-organizations/) sont les suivantes :
 
 
-  * Materialistic obsession, social inequality and loss of community are bad. Relationships are more important than outcomes. What is essential is ***belonging and harmony***.
+  * L'obsession matérialiste, l'inégalité sociale et la perte de la communauté sont néfastes. Les relations sont plus importantes que les résultats. Ce qui est primordial, c'est le sentiment d'**appartenance et de cohésion**.
 
-  * People are essentially good. Everyone’s point of view and opinion is valuable. Conflict or competition are not the only laws of nature, co-operation is also in our genes. Shared values work better than strict rules and policies.
+  * Les personnes sont fondamentalement bonnes. Le point de vue et les idées de chacun ont tous une grande importance. Le conflit ou la compétition ne sont pas les uniques lois de la nature, la coopération elle aussi est ancrée dans nos gènes. Les valeurs partagées sont préférables aux règlements et aux directives rigides.
 
-  * Everyone has talents. Diversity leads to better results. Avoid conflict at all cost. Use bottom up processes for input and aim for consensus for decisions.
+  * Chacun a des talents. La diversité conduit à de meilleurs résultats. Il faut éviter les conflits à tout prix, utiliser des processus de bas en haut pour recueillir des suggestions et viser le consensus pour les décisions.
 
-  * At work, people must be able to grow and reach their full potential. Management (HR) should create the necessary conditions. This means leaving a lot of room for discussion, for learning and mistakes. It means stimulating people to work in teams. Leadership should be in service to those being led.
+  * Au travail, les gens doivent pouvoir se développer et atteindre leur plein potentiel. La hiérarchie (RH) est censée créer les conditions favorables pour cela. Cela signifie qu'il faut prévoir beaucoup de place pour la discussion, l'apprentissage et les erreurs. Cela signifie qu'il faut stimuler les gens à travailler en équipe. Le leadership doit être au service de ceux qui sont encadrés.
 
-  * All people are of equal value. We are separate and many forces in society pull us apart or into inequality, so achieving deep communion between people is something we have to work for. There are multiple stakeholders - not only shareholders. They deserve equal attention. Nature, the local community and society as a whole are to be considered as stakeholders.
+  * Les personnes ont toutes la même valeur. Nous sommes tous différents et de nombreuses forces dans la société nous séparent ou nous poussent à l'inégalité, c'est pourquoi nous devons œuvrer à une communion profonde entre les personnes. Les parties prenantes sont multiples - il n'y a pas que les actionnaires. Elles méritent une attention identique. La nature, la collectivité locale et la société dans son ensemble doivent être considérées comme des parties prenantes.
 
-  * (Leadership style: catalytic/co-creative, "team oriented, collaborative, servant leadership". Metaphor: Family.)
+
+  (Style de leadership : catalytique/co-créatif, "orienté équipe, collaboratif, leadership serviteur". Métaphore : La famille).
+
+
+  Traduit avec www.DeepL.com/Translator (version gratuite)
 
 
   #### Teal Organizations
