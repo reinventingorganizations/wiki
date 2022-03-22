@@ -112,9 +112,6 @@ perspective: >-
   (Style de leadership : catalytique/co-créatif, "orienté équipe, collaboratif, leadership serviteur". Métaphore : La famille).
 
 
-  Traduit avec www.DeepL.com/Translator (version gratuite)
-
-
   #### Teal Organizations
 
 
