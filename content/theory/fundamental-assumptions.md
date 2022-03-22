@@ -95,7 +95,7 @@ perspective: >-
   #### Organisations vertes
 
 
-  Fundamental assumptions from a [Green perspective ](../green-paradigm-and-organizations/)are:
+  Les hypothèses fondamentales d'une [perspective verte ](../green-paradigm-and-organizations/) sont les suivantes :
 
 
   * Materialistic obsession, social inequality and loss of community are bad. Relationships are more important than outcomes. What is essential is ***belonging and harmony***.
