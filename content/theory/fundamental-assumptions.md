@@ -69,10 +69,10 @@ perspective: >-
   #### Organisations Orange
 
 
-  Fundamental assumptions from an [Orange perspective](../orange-paradigm-and-organizations/) are:
+  Les hypothèses fondamentales de la [perspective Orange](../orange-paradigm-and-organizations/) sont les suivantes :
 
 
-  * The world is full of possibilities and challenges waiting to be discovered and taken up. If one is smart and works hard enough, all the benefits of high status can be had. If one does not make it, it is one's own fault.
+  * Le monde est fait de possibilités et de défis qui ne demandent qu'à être découverts et relevés. Si l'on est intelligent et que l'on travaille suffisamment dur, on peut bénéficier de tous les avantages d'un statut élevé. Si l'on ne réussit pas, c'est pour chacun de sa seule et unique responsabilité.
 
   * ***Material results and status*** are essential. What counts is the financial bottom line: the (only) real measure for success is money and material wealth. This is what ultimately motivates people.
 
