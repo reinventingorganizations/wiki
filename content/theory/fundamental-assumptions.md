@@ -80,11 +80,11 @@ perspective: >-
 
   * La reconnaissance sociale est importante, car on a besoin des autres pour atteindre ses propres objectifs et pour valoriser sa propre réussite. Il est important de porter un masque professionnel de réussite et de contrôle.
 
-  * Only the best in their field can and should make it to the top. Competition is everywhere and should be encouraged. To survive and thrive, one has to outsmart others and beat competition.
+  * Seuls les meilleurs dans leur domaine peuvent et devraient se hisser au premier rang.  La concurrence est une réalité omniprésente et doit être encouragée. Pour survivre et prospérer, il faut être plus malin que les autres et dépasser la concurrence.
 
-  * Innovation is a necessity for growth. Change is the only constant thing. There is no room or time to tolerate mistakes and weaknesses.
+  * L'innovation est une condition nécessaire à la croissance. Le changement est la seule constante. Il n'y a ni place ni temps pour tolérer les erreurs et les faiblesses.
 
-  * It is important to have clear goals. Achieving the next external goal (getting the next promotion, finding a life partner, buying a new car,…) will make one happy.
+  * Il est important d'avoir des objectifs clairs. Atteindre le nouvel objectif aux yeux de la société (obtenir la prochaine promotion, trouver un conjoint, acheter une nouvelle voiture,...) vous rendra heureux.
 
   * When people are all by themselves, nothing good will come out of it. Although they can think up to a certain point and decide on *how* they do their job, they are in need of direction. People need to be motivated by external rewards and competition to perform at their peak. Management needs to set clear goals, incentive schemes, and control. Management has to be in control.
 
