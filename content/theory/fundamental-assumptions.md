@@ -41,7 +41,7 @@ perspective: >-
   * Les personnes qui ne font pas partie du "cercle intérieur" sont là pour être utilisées. Il vaut mieux être craint qu'être aimé.
 
 
-  (Leadership style: predatory, Metaphor: Wolf Pack)
+  (Style de leadership : prédateur, Métaphore : meute de loups)
 
 
   #### Organisations Ambre
