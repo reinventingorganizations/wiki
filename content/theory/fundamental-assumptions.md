@@ -86,9 +86,10 @@ perspective: >-
 
   * Il est important d'avoir des objectifs clairs. Atteindre le nouvel objectif aux yeux de la société (obtenir la prochaine promotion, trouver un conjoint, acheter une nouvelle voiture,...) vous rendra heureux.
 
-  * When people are all by themselves, nothing good will come out of it. Although they can think up to a certain point and decide on *how* they do their job, they are in need of direction. People need to be motivated by external rewards and competition to perform at their peak. Management needs to set clear goals, incentive schemes, and control. Management has to be in control.
+  * Lorsque les gens sont livrés à eux-mêmes, rien de bon ne peut en sortir. Bien qu'ils sachent réfléchir jusqu'à un certain niveau et décider de la "manière" de faire leur travail, ils ont besoin d'être dirigés. Les gens ont besoin d'être motivés par des récompenses et de la compétition pour donner le meilleur d'eux-mêmes. La direction doit fixer des objectifs clairs, des dispositifs de primes et assurer un contrôle. La hiérarchie doit avoir le contrôle.
 
-  * (Leadership style: expert/achiever, "problem solving, strategic, outcome oriented". Metaphor: Machine.)
+
+  (Style de leadership : expert/performant, "résolution de problèmes, stratégique, orienté résultats". Métaphore : la Machine)
 
 
   #### Green Organizations
