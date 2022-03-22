@@ -20,7 +20,7 @@ perspective: >-
   d'aborder le monde.
 
 
-  #### Organisations Rouge
+  #### Organisations Rouges
 
 
   Les hypothèses fondamentales de la [perspective Rouge](../red-organizations/) sont :
@@ -44,7 +44,7 @@ perspective: >-
   (Style de leadership : prédateur, Métaphore : meute de loups)
 
 
-  #### Organisations Ambre
+  #### Organisations Ambres
 
 
   Les hypothèses fondamentales de la [perspective Ambre](../amber-paradigm-and-organizations/) sont :
@@ -66,7 +66,7 @@ perspective: >-
   (Style de leadership : autoritaire - paternaliste. Métaphore : armée.)
 
 
-  #### Organisations Orange
+  #### Organisations Oranges
 
 
   Les hypothèses fondamentales de la [perspective Orange](../orange-paradigm-and-organizations/) sont les suivantes :
@@ -92,7 +92,7 @@ perspective: >-
   (Style de leadership : expert/performant, "résolution de problèmes, stratégique, orienté résultats". Métaphore : la Machine)
 
 
-  #### Green Organizations
+  #### Organisations vertes
 
 
   Fundamental assumptions from a [Green perspective ](../green-paradigm-and-organizations/)are:
