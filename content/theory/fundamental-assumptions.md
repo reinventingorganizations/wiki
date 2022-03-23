@@ -202,12 +202,12 @@ inPractice: >-
   * Nous croyons au pouvoir de l'intelligence collective. Personne n'est plus intelligent que tout le monde. Par conséquent, toutes les décisions seront prises selon les processus collectifs de "[prise de décision](../decision-making/)".
 
 
-  ##### *Responsibility and accountability*
+  ##### *Responsabilité et redevabilité*
 
 
-  * We each have full responsibility for the organization. If we sense that something needs to happen, we have a duty to address it. it's not acceptable to limit our concern to the remit of roles.
+  * Nous sommes tous pleinement responsables de l'organisation. Si nous sentons que quelque chose doit se produire, nous avons le devoir de nous en occuper. il n'est pas acceptable de limiter nos préoccupations aux attributions des rôles.
 
-  * Everyone must be comfortable with holding others accountable to their commitments through feedback and respectful confrontation.
+  * Chacun doit se sentir à l'aise pour demander aux autres de rendre compte de leurs engagements par un retour d'information et une confrontation respectueuse.
 
 
   #### Wholeness
