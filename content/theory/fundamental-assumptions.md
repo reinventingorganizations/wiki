@@ -176,10 +176,10 @@ inPractice: >-
   Lors de la création d'une organisation Opale, le choix des cofondateurs est une décision cruciale. Si l'organisation est amenée à opérer selon les principes d'évolution opales, il est essentiel que les fondateurs soient prêts à adopter les modes de fonctionnement opales. Attendez-vous à passer beaucoup de temps à parler de ces sujets, notamment des hypothèses fondamentales posées sur les individus et le travail. Ainsi vous façonnez la culture de votre organisation avant même qu'elle n'ait été mise en place.   
 
 
-  #### Self-management
+  #### Autogouvernance
 
 
-  To operate effectively – even at a large scale – with a system based on peer relationships, without the need for either hierarchy nor consensus, one relies on the following Teal principles. They in turn are based on the fundamental assumptions of Teal:
+  Afin de fonctionner efficacement - même à grande échelle - avec un système basé sur les relations entre pairs, sans hiérarchie ni consensus, on s'appuie sur les principes opales suivants qui sont eux-mêmes basés sur les hypothèses opales fondamentales  :
 
 
   ##### *Trust*
