@@ -153,10 +153,10 @@ inPractice: >-
   Les collaborateurs dans les organisations Teal ont pour habitude d'être attentif à la manière dont les pratiques quotidiennes ([réunions](../meetings/), [résolution de conflit](../conflict-resolution/), [team building](../team-and-community-building/), [prise de décision](../decision-making/)) sont menées – et d'évaluer les résultats qu'ils engendrent au regard des [valeurs](../culture-and-values/) et les hypothèses fondamentales qui les sous-tendent.  
 
 
-  #### Articulating both sets of assumptions when transforming an existing organization
+  #### Exposer les deux types d'hypothèses lors de la transformation d'une organisation existante
 
 
-  Most of the organizational practices chosen will be deeply counter-cultural to more conventional organizations. It is possible that people will question choices and call new assumptions foolish. Debates can be more fruitful when they don't stay at the level of arguing for or against a certain management practice, but when they take place at a deeper level, discussing the often hidden assumptions underneath the practice.
+  La plupart des pratiques organisationnelles adoptées seront profondément contre-culturelles pour les organisations plus conventionnelles. Il est possible que les gens remettent en question les choix et qualifient d'insensées les nouvelles hypothèses. Les débats peuvent être plus fructueux lorsqu'ils ne restent pas bloqués au niveau de l'argumentation pour ou contre une certaine pratique de management, mais lorsqu'ils se poursuivent à un niveau plus profond, en abordant les hypothèses souvent cachées qui sous-tendent la pratique.
 
 
   For example, each time when [AES](http://www.aes.com/) acquired a new power plant, the CEO would introduce AES's management practices to the new group of colleagues by asking them what assumptions owners and managers of a typical factory hold of their workers (see further: In Practice).
