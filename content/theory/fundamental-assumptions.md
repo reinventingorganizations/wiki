@@ -159,7 +159,7 @@ inPractice: >-
   La plupart des pratiques organisationnelles adoptées seront profondément contre-culturelles pour les organisations plus conventionnelles. Il est possible que les gens remettent en question les choix et qualifient d'insensées les nouvelles hypothèses. Les débats peuvent être plus fructueux lorsqu'ils ne restent pas bloqués au niveau de l'argumentation pour ou contre une certaine pratique de management, mais lorsqu'ils se poursuivent à un niveau plus profond, en abordant les hypothèses souvent cachées qui sous-tendent la pratique.
 
 
-  For example, each time when [AES](http://www.aes.com/) acquired a new power plant, the CEO would introduce AES's management practices to the new group of colleagues by asking them what assumptions owners and managers of a typical factory hold of their workers (see further: In Practice).
+  Par exemple, chaque fois que [AES] (http://www.aes.com/) acquiert une nouvelle centrale électrique, le PDG présente les pratiques de management d'AES au nouveau groupe de collaborateurs en leur demandant quelles hypothèses les actionnaires et les dirigeants d'une usine type posent sur leurs employés (voir plus loin : En pratique).
 
 
   #### Practical tips:
