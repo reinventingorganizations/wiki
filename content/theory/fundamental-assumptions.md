@@ -135,7 +135,7 @@ perspective: >-
   * Une bonne décision est une décision qui est en accord avec sa boussole intérieure - elle n'est pas seulement basée sur des faits et des chiffres, mais aussi sur les émotions et l'intuition.
 
 
-  (Style de leadership : co-créatif/synergique, "profondément empathique, systémique, maintenant l'espace pour le but". Métaphore : Système vivant / Organisme vivant).
+  (Style de leadership : co-créatif/synergique, "profondément empathique, systémique, garant de l'espace pour la finalité". Métaphore : Système vivant / Organisme vivant).
 inPractice: >-
   Many of us hold deeply ingrained assumptions about people and work that are
   based on fear, assumptions that call for hierarchy and control. Teal
