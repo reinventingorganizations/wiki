@@ -118,11 +118,11 @@ perspective: >-
   Les hypothèses fondamentales de la [perspective Opale](../teal-paradigm-and-organizations/) sont les suivantes :
 
 
-  * Human beings and organizations as living systems are full of potential waiting to unfold. Building on strengths is more important than focusing on weaknesses.
+  * Les êtres humains et les organisations, en tant que systèmes vivants, sont remplis de potentiel qui ne demande qu'à se déployer. Il est plus important de s'appuyer sur les forces que de se concentrer sur les faiblesses.
 
-  * One can ***trust*** ***the abundance of life.*** People and organizations who share the same life serving goals are allies rather than competitors.
+  * On peut ***faire confiance*** à ***l'abondance de la vie***. Les personnes et les organisations qui partagent les mêmes aspirations au service de la vie sont des alliés et non des concurrents.
 
-  * All of life is intrinsically interconnected. As humans and individuals, we share a place in the grand scheme of life. Having equal human value is self-evident, and does not require struggle or sameness in form or expression.
+  * Toute vie est intrinsèquement interconnectée. En tant qu'humains et individus, nous occupons chacun une place dans le grand schéma de la vie. Avoir la même valeur humaine est une évidence, et ne nécessite pas de se battre ou de s'uniformiser dans la forme ou son expression.
 
   * The goal of life is ***becoming the truest expression of oneself***, to honor one's birthright and callings, and to be of service to humanity and the world. Your contribution is developing your own unique strengths and expressions, and then leading life's joy through that into this world, thereby playing your tune in the symphony of life.
 
