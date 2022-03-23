@@ -162,12 +162,12 @@ inPractice: >-
   Par exemple, chaque fois que [AES] (http://www.aes.com/) acquiert une nouvelle centrale électrique, le PDG présente les pratiques de management d'AES au nouveau groupe de collaborateurs en leur demandant quelles hypothèses les actionnaires et les dirigeants d'une usine type posent sur leurs employés (voir plus loin : En pratique).
 
 
-  #### Practical tips:
+  #### Conseils pratiques :
 
 
-  1. Start by uncovering the unspoken assumptions behind the traditional hierarchical organizational (Amber/Orange) model.
+  1. Commencez par déceler les hypothèses tacites qui sous-tendent le modèle organisationnel hiérarchique traditionnel (ambre/orange).
 
-  2. Don't do it alone - explore it together with your team.
+  2. Ne le faites pas seul - explorez cela avec votre équipe.
 
 
   #### Discussing the fundamental assumptions when starting up a teal organization
