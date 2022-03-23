@@ -199,7 +199,7 @@ inPractice: >-
 
   * Chacun d'entre nous est capable de gérer des informations difficiles et sensibles.
 
-  * Nous croyons au pouvoir de l'intelligence collective. Personne n'est plus intelligent que tout le monde. Par conséquent, toutes les décisions seront prises selon la "[sollicitation d'avis](../decision-making/)".
+  * Nous croyons au pouvoir de l'intelligence collective. Personne n'est plus intelligent que tout le monde. Par conséquent, toutes les décisions seront prises selon les processus collectifs de "[prise de décision](../decision-making/)".
 
 
   ##### *Responsibility and accountability*
