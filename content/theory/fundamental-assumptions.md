@@ -120,7 +120,7 @@ perspective: >-
 
   * Les êtres humains et les organisations, en tant que systèmes vivants, sont remplis de potentiel qui ne demande qu'à se déployer. Il est plus important de s'appuyer sur les forces que de se concentrer sur les faiblesses.
 
-  * On peut ***faire confiance*** à ***l'abondance de la vie***. Les personnes et les organisations qui partagent les mêmes aspirations au service de la vie sont des alliés et non des concurrents.
+  * On peut ***faire confianceà l'abond ance de la vie***. Les personnes et les organisations qui partagent les mêmes aspirations au service de la vie sont des alliés et non des concurrents.
 
   * Toute vie est intrinsèquement interconnectée. En tant qu'humains et individus, nous occupons chacun une place dans le grand schéma de la vie. Avoir la même valeur humaine est une évidence, et ne nécessite pas de se battre ou de s'uniformiser dans la forme ou son expression.
 
@@ -130,11 +130,12 @@ perspective: >-
 
   * En gardant le canal ouvert, on peut être à l'écoute de la vie qui demande à être vécue à travers soi - ou de la finalité qui demande à être servie par l'organisation. La vie n'a pas besoin d'être contrainte. Il suffit de se mettre à l'écoute de ce que la vie veut exprimer ou créer et la vie fournira d'elle-même ce dont elle a besoin. Sentir et répondre, plutôt que planifier et contrôler.
 
-  * Even if something unexpected or mistakes happen, things will turn out all right. If they don’t, life is offering an opportunity to learn and grow. Let go of fear.
+  * Même si des imprévus ou des erreurs se produisent, les choses finiront par s'arranger. Si ce n'est pas le cas, la vie vous offre une occasion d'apprendre et de grandir. Libérez-vous de la peur.
 
-  * A good decision is a decision that is in line with one's inner compass – it is not only based on facts and figures, but includes emotions and intuition.
+  * Une bonne décision est une décision qui est en accord avec sa boussole intérieure - elle n'est pas seulement basée sur des faits et des chiffres, mais aussi sur les émotions et l'intuition.
 
-  * (Leadership style: co-creative/synergistic, "deeply empathetic, systemic, holding space for the purpose". Metaphor: Living System / Living Organism).
+
+  (Style de leadership : co-créatif/synergique, "profondément empathique, systémique, maintenant l'espace pour le but". Métaphore : Système vivant / Organisme vivant).
 inPractice: >-
   Many of us hold deeply ingrained assumptions about people and work that are
   based on fear, assumptions that call for hierarchy and control. Teal
