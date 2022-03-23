@@ -112,10 +112,10 @@ perspective: >-
   (Style de leadership : catalytique/co-créatif, "orienté équipe, collaboratif, leadership serviteur". Métaphore : La famille).
 
 
-  #### Teal Organizations
+  #### Organisations Opales
 
 
-  Fundamental assumptions from a Teal perspective are:
+  Les hypothèses fondamentales de la [perspective Opale](../teal-paradigm-and-organizations/) sont les suivantes :
 
 
   * Human beings and organizations as living systems are full of potential waiting to unfold. Building on strengths is more important than focusing on weaknesses.
