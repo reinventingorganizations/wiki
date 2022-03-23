@@ -170,10 +170,10 @@ inPractice: >-
   2. Ne le faites pas seul - explorez cela avec votre équipe.
 
 
-  #### Discussing the fundamental assumptions when starting up a teal organization
+  #### Aborder les hypothèses fondamentales lors du lancement d'une organisation Opale
 
 
-  When starting up a Teal organization, choosing the right co-founders is a critical decision. If the organization is to run on Evolutionary-Teal principles, the founders' readiness to embrace Teal ways of operating are crucial. Be ready to spend a significant amount of time discussing these topics - including the fundamental assumptions on people and work. You are shaping the culture of your organization before it has even started.  
+  Lors de la création d'une organisation Opale, le choix des cofondateurs est une décision cruciale. Si l'organisation est amenée à opérer selon les principes d'évolution opales, il est essentiel que les fondateurs soient prêts à adopter les modes de fonctionnement opales. Attendez-vous à passer beaucoup de temps à parler de ces sujets, notamment des hypothèses fondamentales posées sur les individus et le travail. Ainsi vous façonnez la culture de votre organisation avant même qu'elle n'ait été mise en place.   
 
 
   #### Self-management
