@@ -124,11 +124,11 @@ perspective: >-
 
   * Toute vie est intrinsèquement interconnectée. En tant qu'humains et individus, nous occupons chacun une place dans le grand schéma de la vie. Avoir la même valeur humaine est une évidence, et ne nécessite pas de se battre ou de s'uniformiser dans la forme ou son expression.
 
-  * The goal of life is ***becoming the truest expression of oneself***, to honor one's birthright and callings, and to be of service to humanity and the world. Your contribution is developing your own unique strengths and expressions, and then leading life's joy through that into this world, thereby playing your tune in the symphony of life.
+  * Le but de la vie est de ***devenir l'expression la plus vraie de soi-même***, d'honorer ses origines et ses aspirations, et d'être au service de l'humanité et du monde. Notre contribution est de développer nos propres forces et notre expression unique, puis de transmettre la joie de la vie dans ce monde, faisant ainsi notre part dans la symphonie de la vie.
 
-  * One is not one's Ego. "Don’t let the need to look good, to be successful, to fit in,… run your life."
+  * Nous ne sommes pas notre ego. "Ne laissez pas le besoin de bien paraître, de réussir, de s'intégrer,... gouverner votre vie."
 
-  * If one keeps the channel open, one can listen into the life that wants to be lived through oneself – or the purpose that wants to be served by the organization. Life does not need to be coerced. All we have to do is tune into what life wants to express or create and life will provide for itself what is needed. Sense and respond, rather than plan and control.
+  * En gardant le canal ouvert, on peut être à l'écoute de la vie qui demande à être vécue à travers soi - ou de la finalité qui demande à être servie par l'organisation. La vie n'a pas besoin d'être contrainte. Il suffit de se mettre à l'écoute de ce que la vie veut exprimer ou créer et la vie fournira d'elle-même ce dont elle a besoin. Sentir et répondre, plutôt que planifier et contrôler.
 
   * Even if something unexpected or mistakes happen, things will turn out all right. If they don’t, life is offering an opportunity to learn and grow. Let go of fear.
 
