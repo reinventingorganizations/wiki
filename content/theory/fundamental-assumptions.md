@@ -210,10 +210,10 @@ inPractice: >-
   * Chacun doit se sentir à l'aise pour demander aux autres de rendre compte de leurs engagements par un retour d'information et une confrontation respectueuse.
 
 
-  #### Wholeness
+  #### Plénitude
 
 
-  To bring your whole self to work, to be able to be whole in your relationship with others and with life and nature, you build on the following assumptions:
+  Pour apporter la totalité de votre personne au travail, pour être capable d'être entier dans votre relation avec les autres, avec la vie et la nature, vous vous basez sur les hypothèses suivantes :
 
 
   ##### *Equal worth*
