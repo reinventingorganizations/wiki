@@ -182,24 +182,24 @@ inPractice: >-
   Afin de fonctionner efficacement - même à grande échelle - avec un système basé sur les relations entre pairs, sans hiérarchie ni consensus, on s'appuie sur les principes opales suivants qui sont eux-mêmes basés sur les hypothèses opales fondamentales  :
 
 
-  ##### *Trust*
+  ##### *La confiance*
 
 
-  * We relate to one another with an assumption of positive intent.
+  * Les relations que nous entretenons avec nos collègues sont fondées sur l'hypothèse d'une intention positive.
 
-  * Until we are proven wrong, trusting co-workers is our default means of engagement.
+  * Jusqu'à preuve du contraire, faire confiance à ses collègues est notre façon de nous impliquer par défaut.
 
-  * Freedom and accountability are two sides of the same coin.
-
-
-  ##### *Information and decision making*
+  * La liberté et la responsabilité sont les deux faces d'une même pièce.
 
 
-  * All business information is open to all.
+  ##### *Information et prise de décision*
 
-  * Every one of us is able to handle difficult and sensitive news.
 
-  * We believe in the power of collective intelligence. Nobody is as smart as everybody. Therefore all decisions will be made with the "[advice process](../decision-making/)".
+  * Les informations économiques sont accessibles à tous.
+
+  * Chacun d'entre nous est capable de gérer des informations difficiles et sensibles.
+
+  * Nous croyons au pouvoir de l'intelligence collective. Personne n'est plus intelligent que tout le monde. Par conséquent, toutes les décisions seront prises selon la "[sollicitation d'avis](../decision-making/)".
 
 
   ##### *Responsibility and accountability*
