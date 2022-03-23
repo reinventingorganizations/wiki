@@ -137,19 +137,20 @@ perspective: >-
 
   (Style de leadership : co-créatif/synergique, "profondément empathique, systémique, garant de l'espace pour la finalité". Métaphore : Système vivant / Organisme vivant).
 inPractice: >-
-  Many of us hold deeply ingrained assumptions about people and work that are
-  based on fear, assumptions that call for hierarchy and control. Teal
-  organizations articulate the assumptions they hold about people and about
-  work. Only by shining light on these fear-based beliefs can we decide to
-  choose a different set of assumptions. When colleagues talk about the two sets
-  of assumptions and are reminded of them frequently, they start to shift their
-  belief system.
+  Nombre d'entre nous ont des idées reçues profondément ancrées sur les
+  personnes et le travail qui sont fondées sur la peur, des idées qui font appel
+  à la hiérarchie et au contrôle. Les organisations Opales expriment clairement
+  les hypothèses qu'elles ont sur les personnes et le travail. Ce n'est qu'en
+  mettant en lumière ces croyances fondées sur la peur que nous pouvons décider
+  de choisir d'autres hypothèses fondamentales. Lorsque des collaborateurs
+  évoquent entre eux ouvertement ces deux types d'hypothèses et qu'on les leur
+  rappelle régulièrement, ils commencent à modifier leur système de croyances.
 
 
-  #### Checking with the fundamental assumptions in daily processes
+  #### Confronter les hypothèses fondamentales dans les processus quotidiens
 
 
-  Colleagues in Teal organizations routinely check the way daily practices ([meetings](../meetings/), [conflict resolution](../conflict-resolution/), [team / community building](../team-and-community-building/), [decision making](../decision-making/)) are conducted – and the outcomes they generate with the [values ](../culture-and-values/)and underlying fundamental assumptions.  
+  Les collaborateurs dans les organisations Teal ont pour habitude d'être attentif à la manière dont les pratiques quotidiennes ([réunions](../meetings/), [résolution de conflit](../conflict-resolution/), [team building](../team-and-community-building/), [prise de décision](../decision-making/)) sont menées – et d'évaluer les résultats qu'ils engendrent au regard des [valeurs](../culture-and-values/) et les hypothèses fondamentales qui les sous-tendent.  
 
 
   #### Articulating both sets of assumptions when transforming an existing organization
