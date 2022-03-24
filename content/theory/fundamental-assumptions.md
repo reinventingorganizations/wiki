@@ -307,30 +307,31 @@ inPractice: >-
 
   * À long terme, il n'y a pas de compromis à faire entre la raison d'être et les performances. Si nous nous concentrons sur la raison d'être (cause), le profit (effet) suivra.
 faq:
-  - question: What's the difference between making explicit the fundamental
-      assumptions and formulating new ones – and the traditional exercise on
-      values?
-    answer: "The traditional values document is often a rather disappointing
-      instrument for cultural change. If there is a perceivable difference
-      between theory and practice, between the official policy and experienced
-      reality. A value document will most likely be irrelevant as a change
-      driver. This is because the traditional exercise that produces it does not
-      question the underlying fundamental assumptions which shape the structure
-      and culture of the organization, and the behavior that goes with it. (It
-      is like the fish not knowing the water because it is all around it.)\r
+  - question: Quelle est la différence entre rendre explicites les hypothèses
+      fondamentales, en formuler de nouvelles - et l'exercice classique sur les
+      valeurs ?
+    answer: "Le document classique sur les valeurs est souvent un outil plutôt
+      décevant en matière de transformation culturelle. Il y a souvent une
+      différence manifeste entre la théorie et la pratique, entre la politique
+      officielle et la réalité vécue. Un document de référence sur les valeurs
+      ne sera très probablement pas approprié en tant que moteur du changement.
+      En effet, l'exercice classique qui le produit souvent ne remet pas en
+      question les hypothèses fondamentales sous-jacentes qui façonnent la
+      structure et la culture de l'organisation, et le comportement qui en
+      découle. (C'est comme le poisson qui ne sait pas ce qu'est l'eau parce
+      qu'elle est tout autour de lui).
 
       \r\n"
-  - question: Why should I bother to make these assumptions explicit?
+  - question: Pourquoi devrais-je me préoccuper de rendre ces hypothèses explicites ?
     answer: >-
-      Consider these three reasons to do so:
+      Réfléchissez à ces trois raisons pour le faire :
 
 
-      1. It makes it easier to explain why you've chosen to use operating practices that defy conventional management.
+      1. Il est plus aisé d'expliquer pourquoi vous avez choisi d'utiliser des pratiques opérationnelles qui remettent en question les méthodes classiques.
 
-      2. The assumptions can serve as touchstones for every new practice or process you consider introducing.
+      2. Les hypothèses peuvent servir de repères pour chaque nouvelle pratique ou processus que vous envisagez d'introduire.
 
-      3. Explicit assumptions make it easier for anybody in the organization, even the most junior colleague, to speak up and say: "I wonder if what we are doing is in line with our basic assumptions".
+      3. Grâce à des hypothèses explicites, il est plus facile pour n'importe qui dans l'organisation, même le collègue le plus junior, de prendre la parole et de dire : "Je me demande si ce que nous faisons est en accord avec nos hypothèses de fond".
 relatedTheory:
   - Culture and Values
 ---
-to be removed
