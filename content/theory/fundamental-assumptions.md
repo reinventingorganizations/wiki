@@ -236,12 +236,12 @@ inPractice: >-
   * Nous sommes à l'aise avec un vocabulaire tel que le soin, l'amour, le service, le but, l'âme,... au travail.
 
 
-  ##### *Overcoming separation*
+  ##### *Surmonter la division*
 
 
-  * We aim to have a workplace where we can honor all parts of us: the cognitive, the physical, emotional and spiritual; the rational and the intuitive, the feminine and the masculine.
+  * Nous recherchons un lieu de travail où nous pouvons honorer toutes les parties de nous-mêmes : les parties cognitive, physique, émotionnelle et spirituelle ; le rationnel et l'intuitif, le féminin et le masculin.
 
-  * We recognize that we are all deeply interconnected, part of something bigger and that includes nature and all forms of life.
+  * Nous reconnaissons que nous sommes tous profondément interconnectés, que nous faisons partie de quelque chose de plus grand et que cela inclut la nature et toutes les formes de vie.
 
 
   ##### *Learning*
