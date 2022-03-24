@@ -275,10 +275,10 @@ inPractice: >-
   #### Raison d'être évolutive
 
 
-  To see the organization as having a life of its own, with a purpose of its own, is based on trust in the abundance of life and the ability to distance yourself from your ego:
+  Concevoir l'organisation comme ayant une vie qui lui est propre, avec un dessein qui lui est propre, est basé sur la confiance dans l'abondance de la vie et la capacité de se distancier de son ego :
 
 
-  ##### *Collective purpose*
+  ##### *Finalité collective*
 
 
   * We view the organization as having a soul, a creative impulse and purpose of its own.
@@ -286,26 +286,26 @@ inPractice: >-
   * We try to listen in to where the organization wants to go and beware of forcing direction onto it.
 
 
-  ##### *Individual purpose*
+  ##### *La vocation individuelle*
 
 
-  * We have a duty to ourselves and to the organization to inquire into our personal sense of calling to see if and how it resonates with the organization's purpose.
+  * Nous avons le devoir envers nous-mêmes et envers l'organisation de nous interroger sur notre vocation personnelle afin de vérifier si et comment elle entre en résonance avec la raison d'être de l'organisation.
 
-  * We try to imbue our roles with our souls, not our egos.
-
-
-  ##### *Planning the future*
+  * Nous essayons d'imprégner nos rôles de notre âme et non de notre ego.
 
 
-  * Trying to predict the future is futile. We make forecasts only when a specific decision requires us to do so.
-
-  * Everything will unfold with more grace if we stop trying to control and instead choose to simply sense and respond.
+  ##### *Préparer l'avenir*
 
 
-  ##### *Profit*
+  * Essayer de prédire l'avenir est inutile. Nous effectuons des prévisions uniquement lorsqu'une décision spécifique nous oblige à le faire.
+
+  * Tout se déroulera avec plus de "grâce", de légèreté et de facilité si nous cessons d'essayer de contrôler et choisissons plutôt de simplement sentir et répondre.
 
 
-  * In the long run, there are no trade-offs between purpose and profits. If we focus on purpose (cause), the profit (effect) will follow.
+  ##### *Le profit*
+
+
+  * À long terme, il n'y a pas de compromis à faire entre la raison d'être et les performances. Si nous nous concentrons sur la raison d'être (cause), le profit (effet) suivra.
 faq:
   - question: What's the difference between making explicit the fundamental
       assumptions and formulating new ones – and the traditional exercise on
