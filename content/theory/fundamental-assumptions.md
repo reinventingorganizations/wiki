@@ -216,12 +216,12 @@ inPractice: >-
   Pour apporter la totalité de votre personne au travail, pour être capable d'être entier dans votre relation avec les autres, avec la vie et la nature, vous vous basez sur les hypothèses suivantes :
 
 
-  ##### *Equal worth*
+  ##### *L'égalité de la valeur*
 
 
-  * We are all of fundamental equal worth.
+  * Nous avons tous une valeur fondamentalement égale.
 
-  * At the same time, our community will be richest if we let all members contribute in their distinctive way. We appreciate the differences in roles, education, backgrounds, interests, skills, characters and points of view.
+  * Par ailleurs, notre communauté sera plus riche si nous permettons à tous les membres de contribuer à leur manière propre. Nous valorisons les différences de rôles, d'éducation, de parcours, d'intérêts, de compétences, de personnalités et de points de vue.
 
 
   ##### *Safe and caring workplace*
