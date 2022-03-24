@@ -333,5 +333,5 @@ faq:
 
       3. Grâce à des hypothèses explicites, il est plus facile pour n'importe qui dans l'organisation, même le collègue le plus junior, de prendre la parole et de dire : "Je me demande si ce que nous faisons est en accord avec nos hypothèses de fond".
 relatedTheory:
-  - Culture and Values
+  - Culture et valeurs
 ---
