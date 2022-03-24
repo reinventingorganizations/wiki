@@ -6,14 +6,16 @@ name: Paradigme et organisations Vertes
 sortOrder: 5
 category: history
 intro: >-
-  Green organizations reflect the Green stage of consciousness^\[This stage
-  corresponds to Loevinger’s and Cook-Greuter’s “Individualistic,” Torbert’s
-  “Individualist,” Wade’s “Affiliative,” Graves’ “FS,” Spiral Dynamics’ “Green,”
-  and others; it is often simply referred to as postmodernity.], which strives
-  for harmony, tolerance and equality. While retaining a pyramidal structure,
-  Green organizations focus on empowerment to lift motivation and to create
-  great workplaces. They go beyond the shareholder focus of Orange to embrace
-  all stakeholders. Family is the dominant metaphor.
+  Les organisations vertes reflètent le stade de conscience vert^\[Ce stade
+  correspond aux stades "individualiste" de Loevinger et Cook-Greuter,
+  "individualiste" de Torbert, "affiliatif" de Wade, "FS" de Graves, "vert" de
+  Spiral Dynamics, et d'autres ; il est souvent appelé simplement
+  postmodernité.], qui vise l'harmonie, la tolérance et l'égalité. Tout en
+  conservant une structure pyramidale, les organisations vertes se concentrent
+  sur l'autonomisation afin d'accroître la motivation et de créer des lieux de
+  travail de qualité. Elles vont au-delà de l'orientation actionnariale de
+  l'orange pour englober l'ensemble des parties prenantes. La famille est la
+  métaphore dominante.
 
 
   ![](/media/green.jpg)
