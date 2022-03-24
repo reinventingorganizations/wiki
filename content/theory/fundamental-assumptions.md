@@ -244,35 +244,35 @@ inPractice: >-
   * Nous reconnaissons que nous sommes tous profondément interconnectés, que nous faisons partie de quelque chose de plus grand et que cela inclut la nature et toutes les formes de vie.
 
 
-  ##### *Learning*
+  ##### *Apprendre*
 
 
-  * Every problem is an invitation to learn and grow. We will always be learners. We have never arrived.
+  * Chaque problème est une invitation à apprendre et à grandir. Nous serons toujours des apprenants. Nous ne sommes jamais arrivés au bout de l'apprentissage.
 
-  * Failure is always a possibility, if we strive boldly for our purpose. We discuss failures openly and learn from them. Hiding or neglecting to learn from failure is not acceptable.
+  * L'échec est toujours possible, si nous nous efforçons avec audace d'atteindre un objectif. Nous discutons ouvertement des échecs et en tirons des leçons. Il n'est pas acceptable de cacher ou de négliger de tirer des leçons des échecs.
 
-  * Feedback and respectful confrontation are gifts we share to help one another grow.
+  * Le feedback et la confrontation respectueuse sont des cadeaux que nous partageons pour nous aider à grandir.
 
-  * We focus on strengths more than weaknesses, on opportunities more than problems.
-
-
-  ##### *Relationships and conflict*
+  * Nous nous concentrons sur les forces plutôt que sur les faiblesses, sur les opportunités plutôt que sur les problèmes.
 
 
-  * It's impossible to change other people. We can only change ourselves.
-
-  * Every person has life lessons they are meant to learn by themselves. What we can do is be there to support each other in that process of personal change.
-
-  * We take ownership for our thoughts, beliefs, words and actions.
-
-  * We don't spread rumors. We don't talk behind someone's back.
-
-  * We resolve disagreements one-on-one and don't drag other people into the problem.
-
-  * We don't blame problems on others. When we feel like blaming, we take it as an invitation to reflect on how we might be part of the problem (and the solution).
+  ##### *Relations et conflits*
 
 
-  #### Evolutionary purpose
+  * Il est impossible de changer les autres. On ne peut que se changer soi-même.
+
+  * Chaque personne a des leçons de vie qu'elle est censée apprendre par elle-même. Ce que nous pouvons faire, c'est être là pour nous soutenir mutuellement dans ce processus de transformation personnelle.
+
+  * Nous assumons la responsabilité de nos pensées, croyances, paroles et actions.
+
+  * Nous ne répandons pas de rumeurs. Nous ne parlons pas dans le dos de quelqu'un.
+
+  * Nous résolvons les désaccords en tête-à-tête et n'entraînons pas d'autres personnes dans le problème.
+
+  * Nous ne rejetons pas les problèmes sur les autres. Lorsque nous avons envie de blâmer, nous le prenons comme une invitation à réfléchir à la façon dont nous pouvons faire partie du problème (et de la solution).
+
+
+  #### Raison d'être évolutive
 
 
   To see the organization as having a life of its own, with a purpose of its own, is based on trust in the abundance of life and the ability to distance yourself from your ego:
