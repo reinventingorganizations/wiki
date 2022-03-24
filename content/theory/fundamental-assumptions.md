@@ -224,16 +224,16 @@ inPractice: >-
   * Par ailleurs, notre communauté sera plus riche si nous permettons à tous les membres de contribuer à leur manière propre. Nous valorisons les différences de rôles, d'éducation, de parcours, d'intérêts, de compétences, de personnalités et de points de vue.
 
 
-  ##### *Safe and caring workplace*
+  ##### *Un lieu de travail sécurisant et bienveillant*
 
 
-  * Any situation can be approached from fear and separation or from love and connection. We choose love and connection.
+  * Toute circonstance peut être appréhendée sous l'angle de la peur et de la division ou bien sous celui de l'amour et de la connexion. Nous choisissons l'amour et la connexion.
 
-  * We strive to create emotionally and spiritually safe environments, where each of us can behave authentically.
+  * Nous nous efforçons de créer des environnements émotionnellement et spirituellement sécurisants, où chacun de nous peut se comporter de manière authentique.
 
-  * We honor the moods of love, care, appreciation, recognition, gratitude, curiosity, fun, playfulness…
+  * Nous honorons les sentiments d'amour, d'attention, d'appréciation, de reconnaissance, de gratitude, de curiosité, de plaisir, de jeu...
 
-  * We are comfortable with vocabulary like care, love, service, purpose, soul,... in the workplace.
+  * Nous sommes à l'aise avec un vocabulaire tel que le soin, l'amour, le service, le but, l'âme,... au travail.
 
 
   ##### *Overcoming separation*
