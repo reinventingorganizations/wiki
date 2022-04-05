@@ -42,7 +42,10 @@ intro: >-
   Ainsi, à la fin du 18e et au 19e siècle, une petite élite a profondément façonné la pensée occidentale. Au 20e siècle, leur nombre a augmenté. Si le Orange prédomine aujourd'hui dans les affaires et la politique, le Vert est très présent dans la pensée académique, les organisations à but non lucratif, le travail social et les activités associatives.
 
 
-  From this perspective, relationships are valued above outcomes. Rather than make decisions from top-down, Green favours collaborative, bottom-up processes, and trying to bring opposing points of view to consensus. Orange glorifies decisiveness. Green requires leaders to be in service of those they lead. This stance is noble, generous, and empathic. In light of continuing inequality and discrimination, there must be more to life than the self-centered pursuit of career and success.
+  Dans cette perspective, les liens sont plus importants que les résultats. Plutôt que de prendre des décisions du haut vers le bas, le Vert privilégie les processus collaboratifs, du bas vers le haut, et tente d'amener des points de vue opposés à un consensus. L'Orange glorifie l'esprit de décision. Le Vert exige des leaders qu'ils soient au service de ceux qu'ils dirigent. Cette position est noble, généreuse et empreinte d'empathie. À la lumière des inégalités et des discriminations persistantes, la vie ne doit pas se limiter à une quête égocentrée de carrière et de succès.
+
+
+  Traduit avec www.DeepL.com/Translator (version gratuite)
 
 
   Yet this stage has its contradictions. It tries to treat all perspectives equally and gets stuck when others abuse its tolerance to intolerant ideas. Red egocentricity, Amber certainty, and Orange see this as Green idealism. Green’s relationship to rules is ambiguous: on the one hand, rules are arbitrary and unfair, but doing away with them proves impractical. Green is powerful as a paradigm for breaking down old structures, but often less effective at formulating practical alternatives.
