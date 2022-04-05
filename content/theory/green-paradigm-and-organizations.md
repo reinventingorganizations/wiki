@@ -45,10 +45,7 @@ intro: >-
   Dans cette perspective, les liens sont plus importants que les résultats. Plutôt que de prendre des décisions du haut vers le bas, le Vert privilégie les processus collaboratifs, du bas vers le haut, et tente d'amener des points de vue opposés à un consensus. L'Orange glorifie l'esprit de décision. Le Vert exige des leaders qu'ils soient au service de ceux qu'ils dirigent. Cette position est noble, généreuse et empreinte d'empathie. À la lumière des inégalités et des discriminations persistantes, la vie ne doit pas se limiter à une quête égocentrée de carrière et de succès.
 
 
-  Traduit avec www.DeepL.com/Translator (version gratuite)
-
-
-  Yet this stage has its contradictions. It tries to treat all perspectives equally and gets stuck when others abuse its tolerance to intolerant ideas. Red egocentricity, Amber certainty, and Orange see this as Green idealism. Green’s relationship to rules is ambiguous: on the one hand, rules are arbitrary and unfair, but doing away with them proves impractical. Green is powerful as a paradigm for breaking down old structures, but often less effective at formulating practical alternatives.
+  Pourtant, cette étape a ses contradictions. Elle tente de traiter toutes les perspectives de manière égale et se bloque lorsque d'autres abusent de sa capacité à accepter des idées intolérantes. L'égocentrisme du Rouge, la certitude de l'Ambre et l'idéalisme du Vert sont perçus par l'Orange. La relation du Vert aux règles est ambiguë : d'un côté, les règles sont arbitraires et injustes, mais les supprimer est impossible. Le Vert est puissant en tant que paradigme pour briser les anciennes structures, mais souvent moins efficace pour formuler des alternatives pragmatiques.
 
 
   #### Breakthroughs and characteristics of Green organizations
