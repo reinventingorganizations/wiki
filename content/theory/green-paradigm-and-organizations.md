@@ -81,7 +81,7 @@ intro: >-
   * Dans certaines entreprises, les managers ne sont pas nommés d'en haut, mais d'en bas : les subordonnés choisissent leur patron, après avoir interrogé les candidats potentiels.
 
 
-  ##### Green breakthrough 2: Values-driven culture and inspirational purpose
+  ##### Avancée Verte 2 : une culture fondée sur des valeurs et une vision inspirantes.
 
 
   A strong, shared culture is the glue that keeps empowered organizations from falling apart. Frontline employees are trusted to make decisions, guided by shared values rather than by a thick book of policies.
