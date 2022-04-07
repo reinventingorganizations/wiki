@@ -60,16 +60,16 @@ intro: >-
   Pourtant, le Vert a trouvé son propre mode d'organisation, à la faveur de trois avancées. Certaines des entreprises les plus célèbres et les plus prospères de ces derniers temps - Starbucks, Southwest Airlines, Ben & Jerry's, The Container Store, pour n'en citer que quelques-unes - s'appuient sur des pratiques et une culture Vertes.
 
 
-  ##### Green breakthrough 1: Empowerment
+  ##### Avancée Verte 1 : l'autonomisation
 
 
-  Green Organizations retain the meritocratic hierarchical structure of Orange, but push as many decisions as possible down to frontline workers. They can make far-reaching decisions without management approval.
+  Les organisations Vertes conservent la structure hiérarchique méritocratique de l'Orange, mais font descendre autant de décisions que possible vers les collaborateurs de terrain. Ces derniers peuvent prendre des décisions de grande envergure sans l'approbation de la direction.
 
 
-  They are directly in touch with the many, smaller, day-to-day problems. They are trusted to devise better solutions than experts from far away. Ground teams at Southwest Airlines, for example, are empowered to seek creative solutions to passenger problems: their colleagues at most other airlines must follow the rule book.
+  Ils sont directement en contact avec les nombreux problèmes quotidiens, de moindre importance. On leur fait confiance pour trouver de meilleures solutions que des experts qui viennent de loin. Les équipes au sol de Southwest Airlines, par exemple, sont habilitées à chercher des solutions créatives aux problèmes des passagers : leurs collègues de la plupart des autres compagnies aériennes doivent se contenter de suivre le règlement.
 
 
-  Making decentralization and empowerment work on a large scale is not easy. Managers are effectively asked to share power and control. To make it work, companies must clearly spell out the kind of leadership that they expect from senior and middle managers. Green leaders should not merely be dispassionate problem solvers (like in Orange); they should be servant leaders. They should listen to subordinates, empower them, motivate them, and develop them. Time and effort is invested in developing servant leaders:
+  Il n'est pas aisé de mettre en œuvre la décentralisation et l'autonomisation à grande échelle. On demande en effet aux managers de partager le pouvoir et le contrôle. Pour que cela fonctionne, les entreprises doivent clairement définir le type de leadership qu'elles attendent des cadres supérieurs et intermédiaires. Les leaders Verts ne doivent pas se contenter de résoudre les problèmes de manière neutre (comme dans le cas de l'Orange), ils doivent être des leaders serviteurs. Ils doivent écouter leurs subordonnés, les responsabiliser, les motiver et les faire évoluer. Du temps et des efforts sont investis dans le développement de leaders serviteurs :
 
 
   * Candidates for management are screened on their mindset and behavior: Are they ready to share power? Will they lead with humility? 
