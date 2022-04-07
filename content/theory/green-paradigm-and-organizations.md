@@ -72,13 +72,13 @@ intro: >-
   Il n'est pas aisé de mettre en œuvre la décentralisation et l'autonomisation à grande échelle. On demande en effet aux managers de partager le pouvoir et le contrôle. Pour que cela fonctionne, les entreprises doivent clairement définir le type de leadership qu'elles attendent des cadres supérieurs et intermédiaires. Les leaders Verts ne doivent pas se contenter de résoudre les problèmes de manière neutre (comme dans le cas de l'Orange), ils doivent être des leaders serviteurs. Ils doivent écouter leurs subordonnés, les responsabiliser, les motiver et les faire évoluer. Du temps et des efforts sont investis dans le développement de leaders serviteurs :
 
 
-  * Candidates for management are screened on their mindset and behavior: Are they ready to share power? Will they lead with humility? 
+  * Les candidats à la direction sont sélectionnés en fonction de leur état d'esprit et de leur comportement : Sont-ils prêts à partager le pouvoir ? Dirigeront-ils avec humilité ? 
 
-  * Green Organizations often invest large amounts in courses for newly promoted managers, to teach them the mindset and skills of servant leaders.
+  * Les organisations Vertes investissent souvent des sommes importantes dans des formations pour les managers nouvellement promus, afin de leur enseigner l'état d'esprit et les compétences des leaders serviteurs.
 
-  * Managers are evaluated based on 360-degree feedback, to make bosses accountable to their subordinates.
+  * Les managers sont évalués sur la base d'un feedback à 360 degrés, afin que les supérieurs soient responsables devant leurs subordonnés.
 
-  * In some companies, managers are not appointed from above, but from below: subordinates choose their boss, after interviewing prospective candidates.
+  * Dans certaines entreprises, les managers ne sont pas nommés d'en haut, mais d'en bas : les subordonnés choisissent leur patron, après avoir interrogé les candidats potentiels.
 
 
   ##### Green breakthrough 2: Values-driven culture and inspirational purpose
