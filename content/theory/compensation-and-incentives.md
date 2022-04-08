@@ -157,12 +157,11 @@ inPractice: "#### **Wie und von wem Gehälter festgelegt werden**
   setzen.\r
 
 
-  Dieses Verfahren verhindert weitestgehend das Feilschen, Strategieren,
-  Jammern und \"Einschleimen\", das oft bei der Gehaltsfestsetzung durch
-  Vorgesetzte folgt. Wenn Menschen mit ihrem Gehalt unzufrieden sind, können sie
-  es einfach erhöhen. Sie werden jedoch die Konsequenzen ihrer Entscheidungen
-  tragen müssen, wenn sie sich zu weit von den Empfehlungen ihrer Kollegen
-  entfernen.\r
+  Dieses Verfahren verhindert weitestgehend das Feilschen, Taktieren, Jammern
+  und \"Einschleimen\", das oft bei der Gehaltsfestsetzung durch Vorgesetzte
+  folgt. Wenn Menschen mit ihrem Gehalt unzufrieden sind, können sie es einfach
+  erhöhen. Sie werden jedoch die Konsequenzen ihrer Entscheidungen tragen
+  müssen, wenn sie sich zu weit von den Empfehlungen ihrer Kollegen entfernen.\r
 
 
 
@@ -211,81 +210,171 @@ inPractice: "#### **Wie und von wem Gehälter festgelegt werden**
   Unterscheidung zwischen Arbeitern und Angestellten beseitigt. Alle werden nach
   den gleichen Grundsätzen entlohnt.\r\n"
 faq:
-  - question: When salaries are self-set, how can salary inflation be prevented?
-    answer: >-
-      The advice process (and if needed the conflict resolution mechanism)
-      generally prevents a situation where one individual gets a raise that
-      would be disproportionately high. But one might then ask "what prevents a
-      sort of (even unconscious) collusion whereby everyone grants themselves
-      big raises, thereby inflating the entire payroll of the organization to a
-      degree where it might hurt shareholders or even the organizations
-      purpose?" This doesn't seem to be a problem with the pioneering
-      organizations that use self-set pay. Here is how they seem to go about it.
+  - question: Wie lässt sich eine Gehaltsinflation vermeiden, wenn die Gehälter
+      selbst festgelegt werden?
+    answer: "Der Beratungsprozess (und der eventuell benötigte
+      Konfliktlösungsprozess) verhindert im Allgemeinen, dass eine Person eine
+      unangemessene Gehaltserhöhung bekommt. Man könnte jedoch fragen: \"Was
+      verhindert eine (sogar unbewusste) Form von Absprache, bei der sich jeder
+      eine kräftige Gehaltserhöhung gewährt, so dass sich das gesamte
+      Gehaltssystem in einem Maße aufbläht, dass es den Aktionärinnen oder sogar
+      dem Zweck der Organisation schaden könnte?\" Für die
+      Pionierorganisationen, in denen Mitarbeitende ihre Gehälter selbst
+      festlegen, scheint dies kein Problem zu sein. Sie gehen folgendermaßen
+      vor:
 
 
-      * In some organizations (such as Morning Star in California), everyone needs to benchmark their salaries to a market rate. They institute a rule of thumb, for example, that salaries shouldn't be higher than 110% of the industry average. They might support this with the arguments that if salaries are too high, this allows for less investment and future development, makes the organization less able to achieve its purpose or is unfair to the shareholders.
+      \r
 
-      * Many of the organizations researched are very profitable, and pay out a lot in profit sharing (workers at FAVI typically make the equivalent of 17 or 18 months of salary this way). The idea, therefore, is to keep compensation in line with the industry, and when profits allow, top up the salary with profit sharing. This reduces the incentive to try and increase one's base salary, knowing also that in bad times, jobs are more secure if the base salaries aren't inflated.
+      * In einigen Organisationen (z. B. Morning Star in Kalifornien)
+      müssen alle Mitarbeitenden ihre Gehälter der marktüblichen Vergütung
+      gegenüberstellen. Dort legt man beispielsweise eine Faustregel fest,
+      wonach die Gehälter nicht höher als 110% des Branchendurchschnitts sein
+      sollten. Man könnte dies mit dem Argument begründen, dass zu hohe Gehälter
+      weniger Investitionen und Entwicklungen erlauben, die Organisation
+      schlechter in der Lage ist, ihren Zweck zu erfüllen, oder dass sie sich
+      den Aktionären gegenüber unfair verhält.\r
 
-      * Some organizations (like FAVI in the north of France) find it useful to have a simple rule of thumb for the organization overall: Revenues should break down into X% for salaries, Y% for material costs, Z% for investments so that a healthy P% of profit remains. Everyone seems to accept this rule as good common sense. This is the basis for what can be shared in profit sharing. If needed, the salary advice group could share these parameters with everyone upfront, for instance in years with low profitability.
-  - question: Should we make all salary information transparent?
-    answer: >-
-      When some information is secret, it tends to generate rumors. For what
-      reason would salary information be made a secret? Probably because of the
-      idea that some people would be shocked by some of the information and
-      claim the salary distribution is not fair.
+      * Viele der untersuchten Unternehmen sind sehr profitabel und zahlen
+      hohe Gewinnbeteiligungen. Die Mitarbeitenden von FAVI erhalten auf diese
+      Weise in der Regel den Gegenwert von 17 oder 18 Monatsgehältern. Die Idee
+      ist also, die Vergütung an den Branchengepflogenheiten zu orientieren und,
+      wenn die Gewinne es zulassen, das Gehalt durch Beteiligungen aufzustocken.
+      Dies verringert den Anreiz eigener Grundgehaltserhöhungen, da man weiß,
+      dass in schlechten Zeiten die Arbeitsplätze sicherer sind, wenn das
+      Gehaltsniveau insgesamt nicht zu hoch liegt.\r
 
-
-      From a Teal perspective, such discussions shouldn't be feared and avoided, but can be steered in productive ways. They can help bring to light unspoken issues and hidden grievances. They can help people grow as part of the process, in dealing with their relations to one another and to money. And perhaps, indeed, to correct some obviously unfair situations that might have slipped in over time.
-
-
-      For this reason, many organizations choose to make information totally public. (The social media app maker Buffer even publishes everyone's salary online). Some organizations, like the tomato-processing company Morning Star, have chosen to make the *salary increase percentages* public within the organization, but not the base salary. That might be an intermediary step towards full transparency for an organization to take.
-  - question: What happens in times of crisis?
-    answer: >-
-      There are several documented examples of self-managing organizations where
-      colleagues have voluntarily decided to temporarily reduce their salaries
-      to weather a downturn so as to avoid having to lay-off staff. In
-      self-managing organizations, all [information tends to be
-      public](../information-flow/) and there is generally a high level of
-      maturity and literacy when it comes to financial matters. In a traditional
-      organization, when revenues are down and the organization faces heavy
-      losses, plans are often made secretly within HR for redundancies. In
-      self-managing organizations, everyone sees the storm coming. Someone, at
-      some point, calls in everyone (or in a large organization, might invite a
-      cross-section of the organization) to a meeting to say: what do we do?
-      From the group, solutions emerge, which in many cases simply come down to
-      everyone agreeing to a temporary salary reduction (with often the highest
-      salaries taking a higher percentage cut). 
-
-
-      Semco, the Brazilian firm that Ricardo Semler's bestseller Maverick made famous, has put in place a "voluntary risk program" to institutionalize such salary reductions to protect the organization in times of crisis (to which Brazil has been prone over the last several decades). Employees are offered the option of a risk salary program. They take a pay cut of 25 percent and then receive a supplement raising their compensation to 125 percent if the company has a good year. If the company does poorly, they only receive 75 percent of their salary. As the good years outweigh the bad, the deal is favorable to employees willing to take a risk.
-  - question: How do these practices link with the three Teal breakthroughs?
-    answer: >-
-      #### **Self-management**
+      * Einige Organisationen (wie FAVI in Nordfrankreich) halten eine
+      einfache, unternehmensübergreifende Faustregel für sinnvoll: Die Einnahmen
+      werden in X% für Gehälter, Y% für Materialkosten und Z% für Investitionen
+      aufgeteilt, so dass ein gesunder Satz von P% an Gewinn übrigbleibt. Jeder
+      scheint diese Regel als vernünftig zu akzeptieren. Dies ist die Grundlage
+      für die Gewinnbeteiligung. Falls erforderlich, könnte der Arbeitskreis
+      Vergütung diese Parameter allen im Voraus mitteilen, z.B. in Jahren mit
+      geringer Rentabilität.\r\n"
+  - question: Sollten wir alle Gehaltsinformationen transparent machen?
+    answer: "Wenn eine Information geheim ist, erzeugt sie Gerüchte. Aus welchem
+      Grund sollten Gehaltsinformationen geheim gehalten werden? Wahrscheinlich
+      aus der Überlegung heraus, dass manche Leute angesichts gewisser
+      Informationen schockiert wären und behaupten würden, die Gehaltsverteilung
+      sei nicht gerecht.\r
 
 
-      Self-set or ranking-based salaries are a key enabler to self-management: in traditional hierarchical structures, bosses decide on the salary raises and bonuses of their subordinates; in self-managing systems, it is necessary to upgrade to peer-based compensation mechanisms.
+      Aus der Teal-Perspektive sollten solche Diskussionen weder
+      gefürchtet noch gemieden, sondern in produktive Bahnen gelenkt werden. Sie
+      können dazu beitragen, unausgesprochene Probleme und versteckte Missstände
+      ans Licht zu bringen. Sie können den Menschen helfen, im Rahmen des
+      Prozesses ihren Beziehungen zueinander und zum Geld zu verbessern. Und
+      vielleicht sogar, um Ungerechtigkeiten zu korrigieren, die sich im Laufe
+      der Zeit tatsächlich eingeschlichen haben.\r
 
 
-      \[And yet, self-set or ranking-based systems can also be implemented within traditional hierarchical structures. It can be a step towards ultimately replacing hierarchy with self-management. Within an organization where complete self-management isn't in the cards (for instance if the board of directors wouldn't accept that the organization let go of a pyramid structure), it can also be an important step to take some power out of the boss-subordinate relationship and create more of a team-based collaborative spirit.]
+      Aus diesem Grunde entscheiden sich viele Organisationen dafür,
+      Informationen vollständig transparent zu machen. Der Hersteller von
+      Social-Media-Apps, Buffer, veröffentlicht sogar die Gehälter aller
+      Mitarbeitenden online. Einige Firmen, wie das tomatenverarbeitende
+      Unternehmen Morning Star, haben sich dafür entschieden, die Prozentsätze
+      der Gehaltserhöhungen intern zu kommunizieren, jedoch nicht die
+      Grundgehälter. Das könnte ein Zwischenschritt auf dem Weg zur
+      vollständigen Transparenz sein.\r\n"
+  - question: Was passiert in Krisenzeiten?
+    answer: "Es gibt Beispiele von selbstorganisierten Unternehmen, in denen die
+      Mitarbeitenden freiwillig beschlossen haben, ihre Gehälter vorübergehend
+      kürzen zu lassen, um einen Abschwung zu überstehen und so Entlassungen zu
+      vermeiden. In selbstorganisierten Unternehmen sind in der Regel alle
+      [Informationen öffentlich](../information-flow/); es besteht im
+      Allgemeinen ein hohes Maß an Reife und Kompetenz der Belegschaft in
+      finanziellen Angelegenheiten. Wenn in einer traditionellen Organisation
+      die Einnahmen zurückgehen und das Unternehmen mit hohen Verlusten
+      konfrontiert wird, werden in der Personalabteilung oft insgeheim Pläne für
+      Entlassungen geschmiedet. In selbstorganisierten Unternehmen sieht jeder
+      den Sturm kommen. Irgendwann ruft jemand alle zusammen (oder lädt in einer
+      großen Organisation vielleicht Repräsentanten aller Bereiche ein) und
+      fragt: „Was sollen wir tun?“ Aus der Gruppe heraus entstehen Lösungen, die
+      in vielen Fällen darauf hinauslaufen, dass alle einer vorübergehenden
+      Gehaltskürzung zustimmen (wobei die höchsten Gehälter oft am stärksten
+      betroffen sind).\r
 
 
-      #### **Wholeness**
+      Semco, das brasilianische Unternehmen, das durch Ricardo Semlers
+      Bestseller Maverick bekannt wurde, hat ein \"freiwilliges Risikoprogramm\"
+      eingeführt, um solche Gehaltskürzungen zu institutionalisieren und das
+      Unternehmen in Krisenzeiten zu schützen (wovon Brasilien in den letzten
+      Jahrzehnten häufig betroffen war). Den Mitarbeitenden wird die Option
+      eines Risikolohnprogramms angeboten. Sie nehmen eine Gehaltskürzung von
+      25% hin und erhalten dann einen Zuschlag, der ihre Vergütung in einem
+      guten Wirtschaftsjahr auf 125% erhöht. Läuft es im Unternehmen schlecht,
+      erhalten sie nur 75% ihres Gehalts. Da die guten Jahre die schlechten
+      überwiegen, ist das Angebot für risikobereite Mitarbeiter
+      vorteilhaft.\r\n"
+  - question: Wie hängen diese Methoden mit den drei bahnbrechenden Teal-Elementen
+      zusammen?
+    answer: "#### **Selbstorganisation**
 
 
-      When there is one boss that decides over a person's salary, it's tempting to want to please that person, to conform to their expectations, to not speak one's truth. When it's not one person, but a great number of colleagues one works with who calibrate one's salary increase, most people naturally relax into showing up more truthfully. In this way, self-set or ranking based compensation mechanisms help colleagues show up more easily from a place of wholeness.
+      \r
+
+      Selbstbestimmte oder rangbasierte Gehälter sind ein wichtiger Faktor
+      für das Selbstmanagement: In traditionellen hierarchischen Strukturen
+      entscheiden die Vorgesetzten über die Gehaltserhöhungen und Boni ihrer
+      Mitarbeitenden. In selbstorganisierten Systemen ist es notwendig, auf
+      kollegiale Vergütungsmechanismen umzustellen.\r
 
 
-      They also help us take an adult stance towards compensation. Traditional boss-subordinate relationship tend to push employees to behave like children and bosses like parents. Self-set or ranking based compensation systems also do away, almost instantly, with much of the strategizing, haggling and complaining around compensation, with everyone forced to take an adult-to-adult stance. 
+      Dennoch können selbstbestimmte oder rangbasierte Systeme auch
+      innerhalb traditioneller hierarchischer Strukturen eingeführt werden. Sie
+      können ein Schritt in Richtung Selbstorganisation sein. Wo ein
+      vollständiges Selbstmanagement nicht möglich ist (z. B. wenn der Vorstand
+      nicht akzeptiert, dass die Organisation ihre Pyramidenstruktur aufgibt),
+      kann es ein wichtiger Schritt sein, das Machtgefälle zwischen Vorgesetzten
+      und Mitarbeitenden abzuschwächen und einen teambasierten, kooperativen
+      Geist zu schaffen.\r
 
 
-      #### **Evolutionary purpose**
+
+      #### **Ganzheitlichkeit**
 
 
-      \[The link between evolutionary purpose and compensation practices can show up in times of crisis. There are several documented cases of self-managing where workers, in a severe downturn, choose voluntarily to reduce their compensations on a temporary basis to avoid lay-offs. In self-managing organizations, colleagues often often have a high level of financial knowledge and maturity, and choose to contribute to save their colleagues jobs and to maintain the organizations ability to pursue its purpose with all its skills and resources.]
+      Wenn es eine Chefin gibt, die über das Gehalt einer Person
+      entscheidet, ist die Versuchung groß, ihr alles recht machen zu wollen,
+      sich ihren Erwartungen anzupassen und nicht authentisch zu sein. Wenn
+      nicht eine Person, sondern eine große Anzahl von Kollegen, mit denen man
+      zusammenarbeitet, über die Gehaltserhöhung entscheidet, entspannen sich
+      die meisten Menschen automatisch und werden offener. Auf diese Weise
+      erleichtern selbstbestimmte oder rangbasierte Vergütungsmechanismen den
+      Kolleginnen, sich ganzheitlich zu zeigen.\r
 
 
-      \[Teal organizations are built on the premise that individuals are primarily motivated, after attaining basic needs, by intrinsic factors such as the pursuit of purpose. Thus, they tend not to exhibit the primacy of compensation, including added incentives, typical in Orange or even Green.]
+      Sie helfen uns auch, eine erwachsene Haltung zur Vergütung
+      einzunehmen. Traditionelle Chef-Untergebenen-Beziehungen führen dazu, dass
+      sich die Mitarbeitenden wie Kinder und die Vorgesetzen wie Eltern
+      verhalten. Selbstbestimmte oder rangbasierte Vergütungssysteme machen
+      einen Großteil des Taktierens, Feilschens und Jammerns um die Vergütung
+      überflüssig und zwingen alle dazu, sich auf Augenhöhe zu begegnen.\r
+
+
+
+      #### **Evolutioärer Zweck**
+
+
+      Die Verbindung zwischen evolutionärem Zweck und Vergütungspraktiken
+      zeigt sich in Krisenzeiten. Es gibt mehrere dokumentierte Fälle von
+      Selbstorganisationen, in denen sich Mitarbeitende bei einem starken
+      Abschwung freiwillig dazu entschließen, ihre Bezüge vorübergehend zu
+      kürzen, um Entlassungen zu vermeiden. In selbstorganisierten Unternehmen
+      verfügen die Mitarbeitenden häufig über ein hohes Maß an Finanzwissen und
+      Reife und entscheiden sich dafür, dazu beizutragen, die Arbeitsplätze
+      ihrer Kolleginnen zu sichern und die Fähigkeit der Organisation zu
+      erhalten, ihren Zweck mit all ihren Fähigkeiten und Ressourcen zu
+      verfolgen.\r
+
+
+      Teal-Organisationen gehen davon aus, dass der Einzelne nach der
+      Befriedigung seiner Grundbedürfnisse in erster Linie durch intrinsische
+      Faktoren wie das Streben nach einem Ziel motiviert ist. Daher haben sie in
+      der Regel nicht das Primat der Entlohnung, einschließlich zusätzlicher
+      Anreize, wie es für orange oder sogar grüne Organisationen typisch
+      ist.\r\n"
 relatedTheory:
   - Feedback and Performance Management
   - Dismissal
