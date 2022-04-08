@@ -5,133 +5,303 @@ key: Training and Coaching
 name: Training and Coaching
 sortOrder: 3
 category: People practices
-intro: Training and coaching is about how organizations develop knowledge,
-  skills and a help people understand the culture. so they can contribute fully.
-perspective: >-
-  #### A new perspective
+intro: Bei Training und Coaching geht es darum, wie Organisationen Wissen und
+  Fähigkeiten entwickeln und den Mitarbeitenden helfen, die Kultur zu verstehen,
+  damit diese mit ihrem Beitrag umfassend wirksam sein können.
+perspective: "#### Eine neue Sichtweise
 
 
-  Teal organizations are self-managed, and can provide exceptional learning opportunities. Everyone is encouraged to develop their roles and, the more they embrace opportunities, the more they learn. The key difference is that people take responsibility for their own development. There is no HR department running training courses to fill roles in the organization. It is common though for [Teal organizations](../teal-paradigm-and-organizations/) to offer significant [on-boarding](../onboarding/)
+  \r
+
+  Teal-Organisationen sind selbstgesteuert und können außergewöhnliche
+  Lernmöglichkeiten bieten. Jeder wird ermutigt, seine Rolle weiterzuentwickeln.
+  Je intensiver man die Möglichkeiten wahrnimmt, desto mehr lernt man. Der
+  wesentliche Unterschied besteht darin, dass die Mitarbeitenden die
+  Verantwortung für ihre eigene Entwicklung übernehmen. Es gibt keine
+  Personalabteilung, die Schulungen durchführt, um Positionen im Unternehmen zu
+  besetzen. Es ist jedoch üblich, dass [Teal-Organisationen]
+  (../teal-paradigm-and-organizations/) eine umfassende [Einarbeitung]
+  (../onboarding/) anbieten.\r
 
 
-  Every historical stage has brought a distinctive approach to training and coaching.
+  Jede historische Phase hat einen anderen Ansatz für Training und Coaching
+  hervorgebracht.\r
 
 
-  #### **Red organizations**
+
+  #### **Rote Organisationen**
 
 
-  In [Red organizations](../red-organizations/) it is important to learn about power: how it is acquired, and how it is used. This learning comes by watching and listening. There may be 'initiation' rites. There may be training in the tools of the trade. Beyond that, most knowledge is acquired by watching and listening as one obtains more and more seniority - like an informal apprenticeship.
+  \r
+
+  In [Roten Organisationen] (../red-organizations/) ist es wichtig, etwas über
+  Macht zu lernen, d.h. wie sie erworben und eingesetzt wird. Dieses Lernen
+  geschieht durch Beobachten und Zuhören. Es mag „Initiationsrituale“ oder
+  Trainings im Umgang mit den Instrumenten der Branche geben. Ein Großteil des
+  Wissens wird durch Beobachten und Zuhören erworben, während man mehr und mehr
+  an Seniorität gewinnt - wie bei einer informellen Ausbildung.\r
 
 
-  #### **Amber organizations**
+
+  #### **Bernsteinfarbene Organisationen**
 
 
-  In [Amber organizations](../amber-paradigm-and-organizations/) roles are clearly divided and specific. Training is provided to enable those at each level in the organization to carry out their duties and responsibilities effectively (for example officer training in the military). For some, vocational training is offered by independent institutions (vocational schools or universities). The qualification can be  specific to a particular profession. On-going training often takes place on-the-job, enabling the best at each level to be considered for promotion.
+  \r
+
+  In [Bernsteinfarbenen Organisationen] (../amber-paradigm-and-organizations/)
+  sind die Rollen klar verteilt und spezifisch. Es werden Schulungen angeboten,
+  um die Mitarbeitenden auf jeder Ebene der Organisation in die Lage zu
+  versetzen, ihre Aufgaben und Zuständigkeiten wirksam wahrzunehmen (z. B.
+  Offiziersausbildung beim Militär). In einigen Fällen wird die Berufsausbildung
+  von unabhängigen Einrichtungen angeboten (Berufsschulen oder Universitäten).
+  Die Qualifikation kann auf einen bestimmten Beruf ausgerichtet sein. Die
+  Fortbildung findet häufig am Arbeitsplatz statt, so dass die Besten jeder
+  Ebene für eine Beförderung in Frage kommen.\r
 
 
-  #### **Orange organizations**
+
+  #### **Orange Organisationen**
 
 
-  [Orange organizations](../orange-paradigm-and-organizations/) have adopted the revolutionary premise of meritocracy. In principle, anybody can move up the ladder. The mail room boy can become the CEO - even if that boy happens to be a girl or have a minority back-ground. This progress is supported by a Training Department, often a sub-section of HR. It is not unusual to have lists of competencies required for each role in the organization (sales people, technicians, new managers, emerging managers, senior managers, and so on). The pervasive thinking is that talent should be developed to fill the present and future boxes on the organization chart. This breakthrough in social fairness gives people options, at least in principle, to pursue the path that best suits their talents.
+  \r
+
+  [Orange Organisationen] (../orange-paradigm-and-organizations/) haben die
+  revolutionäre Prämisse der Meritokratie (Leistungsgesellschaft) übernommen. Im
+  Prinzip kann jeder auf der Karriereleiter aufsteigen. Der Junge aus der
+  Poststelle kann CEO werden - auch wenn er weiblich ist oder einer Minderheit
+  angehört. Dieser Fortschritt wird von einer Aus- und Weiterbildungsabteilung
+  unterstützt, die oft eine Unterabteilung des Personalbereichs ist. Es ist
+  nicht ungewöhnlich, dass es Listen mit Kompetenzen gibt, die für die
+  verschiedenen Rollen im Unternehmen erforderlich sind
+  (Vertriebsmitarbeiterinnen, Techniker, neue, angehende und leitende
+  Managerinnen usw.). Prinzipiell sollten Talente so entwickelt werden, dass sie
+  die gegenwärtigen und zukünftigen Felder des Organigramms ausfüllen. Dieser
+  Durchbruch in Sachen sozialer Fairness gibt den Menschen grundsätzlich die
+  Möglichkeit, den Weg einzuschlagen, der ihren Talenten am besten entspricht.\ 
 
 
-  Coaching is often available to senior managers and leaders to help them settle into new roles and perform better. Coaching is usually not available to those lower down in the organization.
+  Erfahrenen Managern und Führungskräften wird häufig ein Coaching angeboten,
+  um ihnen zu helfen, sich in neue Rollen einzufinden und bessere Leistungen zu
+  erbringen. Denjenigen, die in der Organisation weiter unten angesiedelt sind,
+  erhalten in der Regel kein Coaching.\r
 
 
-  #### **Green organizations**
+
+  #### **Grüne Organisationen**
 
 
-  [Green organizations](../green-paradigm-and-organizations/) build on the practices of Orange organizations by adding a twist to management development. Managers are expected to be in service to those they lead, support and serve. Candidates for management positions are often screened for mindset and behavior to assess:
+  \r
+
+  [Grüne Organisationen] (../green-paradigm-and-organizations/) bauen auf den
+  Praktiken der orangenen Organisationen auf, indem sie der
+  Managemententwicklung einen neuen Aspekt hinzufügen. Von Führungskräften wird
+  erwartet, dass sie im Dienste derer stehen, die sie führen, unterstützen und
+  betreuen. Kandidaten für Führungspositionen werden häufig auf ihre Einstellung
+  und ihr Verhalten hin überprüft, um Folgendes festzustellen:
 
 
-  * whether they are ready to share power?
+  \r
 
-  * If they will they lead with humility?
+  * Sind sie bereit, Macht zu teilen?\r
 
-  * how well they will model the culture and values of the organization?
+  * Werden sie mit Demut führen?\r
 
-
-  Training and coaching will often be offered to those who are successful to help them put their leadership into practice more effectively.
-
-
-  This elevates the importance of human resources within the organization. A large staff might necessitate processes like culture initiatives, 360-degree feedback, succession planning and morale surveys.
+  * Wie gut werden sie ihrer Vorbildfunktion in Bezug auf Kultur und Werte der
+  Organisation gerecht?\r
 
 
-  #### **Teal organizations**
+  Erfolgreichen Bewerbern werden häufig Schulungen und Coachings angeboten,
+  damit sie ihre Führungsqualitäten besser in die Praxis umsetzen können.
+  Dadurch wird die Bedeutung der Menschen in der Organisation erhöht. Eine große
+  Belegschaft kann Prozesse wie Kulturinitiativen, 360-Grad-Feedback,
+  Nachfolgeplanung und Moralumfragen erforderlich machen.\r
 
 
-  [Teal organizations](../teal-paradigm-and-organizations/) do not have an HR function. However, because they are self-managed, they can provide exceptional learning opportunities. Everyone is encouraged to develop their roles and try out new things. The more they embrace opportunities, the more they learn--either from their colleagues or from the training taken to develop new skills. The key difference is that people take responsibility for their own development. There is no HR department running training courses to fill roles in the organization. Teal organizations still invest in skills training. But this is often delivered by colleagues. It is common for Teal organizations to offer significant on-boarding training. It is difficult to transfer from a traditional organization without learning the new rules, and unlearning the old ones.
-inPractice: >-
-  #### **Training**
+
+  #### **Teal-Organisationen**
 
 
-  In a Teal organization there is no need for career development programs. Instead training tends to focus on personal growth and building a common culture. Skill training programs are still needed and are open to all those who require them. They are often led by colleagues rather than external trainers because the training then becomes deeply infused with the company’s [values and culture](../culture-and-values/).
+  \r
+
+  [Teal-Organisationen] (../teal-paradigm-and-organizations/) haben keine
+  Personalabteilung. Da sie jedoch selbstorganisiert sind, können sie
+  außergewöhnliche Lernmöglichkeiten bieten. Jeder wird ermutigt, seine Rolle
+  auszubauen und neue Dinge auszuprobieren. Je intensiver man die Möglichkeiten
+  wahrnimmt, desto mehr lernt man - entweder im Kollegenkreis oder durch
+  Schulungen für die Entwicklung neuer Fähigkeiten. Der wesentliche Unterschied
+  besteht darin, dass die Mitarbeitenden die Verantwortung für ihre eigene
+  Entwicklung übernehmen. Es gibt keine Personalabteilung, die Schulungen
+  durchführt, um dann Rollen im Unternehmen zu besetzen. Teal-Unternehmen
+  investieren nach wie vor in die Ausbildung ihrer Mitarbeitenden. Dies wird
+  jedoch häufig von Kollegen durchgeführt. In Teal-Organisationen ist es üblich,
+  umfangreiche Einführungsschulungen anzubieten. Es ist schwierig, von einer
+  traditionellen in eine Teal-Organisation zu wechseln, die neuen Regeln zu
+  lernen und zugleich die alten zu verlernen.\r
+
+  \n"
+inPractice: "##### ***Aus- und Weiterbildung***
 
 
-  ##### ***Personal responsibility and freedom for training***
+  \r
+
+  In einer Teal-Organisation gibt es keine Karriereentwicklungsprogramme.
+  Stattdessen konzentriert sich die Fortbildung auf die persönliche Entwicklung
+  und den Aufbau einer gemeinsamen Kultur. Weiterbildungsprogramme werden jedoch
+  nach wie vor benötigt und stehen allen bei Bedarf zur Verfügung. Sie werden
+  oft von Kolleginnen und nicht von externen Trainern geleitet, weil die
+  Weiterbildung dann [die Werte und die Kultur] (../culture-and-values/) des
+  Unternehmens tief durchdringt.\r
 
 
-  The biggest change is that employees are in charge of their own learning. They choose training to serve their own growth rather than training for career development. Provided members use the advice process, they can usually arrange any training they need. Some organizations have simplified matters by allowing colleagues to spend up to a specific amount on training without using the advice process. 
+
+  ##### ***Eigenverantwortung und Freiheit***
 
 
-  ##### ***Different categories of training***
+  \r
+
+  Der größte Unterschied besteht darin, dass die Mitarbeitenden für ihr
+  eigenes Lernen verantwortlich sind. Sie entscheiden sich für eine
+  Weiterbildung, die ihrem persönlichen Wachstum dient und nicht der
+  Karriereentwicklung. Unter der Voraussetzung, dass die Mitarbeitenden sich
+  beraten lassen, können sie in der Regel jede benötigte Schulung selbst
+  organisieren. Einige Unternehmen haben dies vereinfacht, indem sie ihren
+  Mitarbeitenden gestatten, einen bestimmten Maximal-Betrag für Fortbildung
+  auszugeben, ohne den Beratungsprozess zu durchlaufen.\r
 
 
-  In self-managing organizations there are no training programs for climbing the ladder. But they offer training rarely found in traditional organizations: training in the common culture and its processes (attended by all), and personal development training. Skill training programs still exist as required.  These are often led by colleagues rather than external trainers, people who really understand the company’s values and culture.
+
+  ##### ***Unterschiedliche Kategorien der Fortbildung***
 
 
-  ##### ***Onboarding***
+  \r
+
+  In selbstgesteuerten Organisationen gibt es keine Schulungsprogramme für den
+  Aufstieg auf der Karriereleiter. Sie bieten jedoch Schulungen an, die in
+  traditionellen Organisationen selten zu finden sind: Schulungen zur Kultur und
+  kulturellen Prozessen (an denen alle teilnehmen) und Schulungen zur
+  persönlichen Entwicklung. Weiterbildungsprogramme gibt es nach wie vor bei
+  Bedarf. Diese werden oft von Kollegen und nicht von externen Trainern
+  geleitet, d.h. von Menschen, die die Werte und Kultur des Unternehmens
+  wirklich verstehen.\r
 
 
-  When someone joins a Teal organization it can take a while to understand the culture and processes that support it. As a consequence, Teal organzations tend to invest heavily in induction training. New hires are introduced to the various processes and given time to meet and work with a range of people across the organization. They may also be given training in subjects such as active listening, conflict resolution and problem solving.
+
+  ##### ***Einarbeitung und Integration***
 
 
-  ##### ***Ongoing training for all***
+  \r
+
+  Wenn jemand in eine Teal-Organisation eintritt, kann es eine Weile dauern,
+  bis er die spezifische Kultur und die unterstützenden Prozesse versteht. Aus
+  diesem Grunde investieren Teal-Organisationen in der Regel viel Zeit und
+  Energie in Einführungsveranstaltungen. Neue Mitarbeitende lernen die
+  verschiedenen Prozesse kennen und erhalten ausreichend Zeit, um mit
+  unterschiedlichen Menschen innerhalb des Unternehmens zu sprechen und zu
+  arbeiten. Sie werden möglicherweise auch in Themen wie aktives Zuhören,
+  Konfliktmanagement und Problemlösung geschult.\r
 
 
-  Training tends to be a continuous process for all in the organization. This typically happens through the advice process and through dedicating time to support the organizational culture.
+
+  ##### ***Fortgesetzte Schulungen für alle***
 
 
-  The advice process enables people to talk to and seek the advice of a range of people they would probably not have to deal with in a more conventional organization. As a consequence much is learnt about wide range of issues. The variety of roles that people take on also encourages this process.
+  \r
+
+  Weiterbildung ist ein kontinuierlicher Prozess für alle Mitarbeitenden der
+  Organisation. Dies geschieht in der Regel durch einen Beratungsprozess und
+  Zeitinvestment in die Unterstützung der Unternehmenskultur.\r
 
 
-  Teal organizations also end to run regular sessions to help build and develop the culture. These can include sessions where people can work on their own development with group support through to workshops designed to tune into the purpose of the organization. At [FAVI](http://www.favi.com/) Jean-François Zobrist hosted a session every Friday morning to address a specific cultural issue; these were open to anyone.
+  Der Beratungsprozess ermöglicht es den Mitarbeitenden, mit verschiedenen
+  Personen zu sprechen und deren Rat einzuholen. Mit diesen wären sie in einer
+  konventionellen Organisation wahrscheinlich nie in Kontakt gekommen. Folglich
+  erfährt man vieles mehr aus einem breiten Spektrum an Themen. Die
+  Rollenvielfalt der Mitarbeitenden unterstützt diesen Prozess.\r
 
 
-  ##### ***Employees become trainers***
+  Teal-Organisationen organisieren auch regelmäßig Veranstaltungen, um den
+  Aufbau und die Entwicklung der Kultur zu fördern. Dazu gehören solche, in
+  denen die Mitarbeitenden mit Unterstützung der Gruppe an ihrer eigenen
+  Entwicklung arbeiten können, oder auch Workshops, die sich mit dem Sinn und
+  Zweck der Organisation befassen. Bei [FAVI] (http://www.favi.com/) hielt
+  Jean-François Zobrist jeden Freitagmorgen eine Sitzung für alle ab, in der man
+  sich mit einem bestimmten kulturellen Thema befasste.\r
 
 
-  It is common practice to stop (or reduce) the use of external trainers. Classes are presented by colleagues who are passionate about the subject, and who tailor material to the language and culture of the organization. It is not uncommon for courses to go from the inside out. They might start by helping people to connect with who they are, and invite them to find authentic ways to express this as they discuss the subject matter. It could be difficult for an outsider to lead this discussion. Using members as trainers saves money and boosts morale--because it offers the trainer an opportunity to give and be recognized for their expertise.
+
+  ##### ***Mitarbeitende als Ausbildende***
+
+
+  \r
+
+  Es ist gängige Praxis, den Einsatz externer Trainer zu vermeiden (oder zu
+  reduzieren). Schulungen werden von Kolleginnen durchgeführt, die sich für ein
+  Thema begeistern und das Material auf die Sprache und Kultur des Unternehmens
+  abstimmen. Es ist nicht ungewöhnlich, dass Schulungen „von innen nach außen“
+  funktionieren. Sie starten beispielsweise damit, den Teilnehmenden dabei zu
+  helfen zu erkennen, wer sie selbst sind und dies auf authentische Weise
+  auszudrücken, während sie das Thema diskutieren. Es könnte für einen
+  Außenstehenden schwierig sein, eine solche Diskussion zu leiten. Der Einsatz
+  von Mitarbeitenden als Ausbildende spart Geld und stärkt die Moral, denn er
+  bietet diesen die Möglichkeit, Fachwissen weiterzugeben und Anerkennung zu
+  erlangen.\r
+
 
 
   #### **Coaching**
 
 
-  Coaching practices tend to be embedded in the organization and available to all. Coaching can take a number of different formats:
+  Coaching-Methoden sind in der Regel in der Organisation verankert und für
+  alle zugänglich. Coaching findet in verschiedenen Formaten statt:
 
 
-  ##### ***Team supervision***
+  ##### ***Team-Supervision***
 
 
-  Working in teams invariably brings up tensions that can either be ignored or worked through. Dealing with the personal and underlying issues effectively is invariable a source of significant growth. It is not surprising that coaching support is available to facilitate this growth.
+  \r
+
+  Die Arbeit in Teams bringt immer wieder Spannungen mit sich, die entweder
+  ignoriert oder aufgearbeitet werden können. Ein effektiver Umgang mit den
+  persönlichen und zugrundeliegenden Problemen ist immer eine Quelle für
+  signifikantes Wachstum, das durch Coaching unterstützt werden kann.\r
 
 
-  [Heiligenfeld](http://www.heiligenfeld.com/) has a simple practice of coaching in team supervision. The company works with four external coaches who each have their domain of expertise (relationships, organization development, systems thinking and leadership). There are time slots with these coaches every month that teams can sign-up for. It's recommended that each team has at least one session a year; the average is two to four. With the help of the outsider, colleagues explore what a tension reveals about themselves and how they can resolve it.
+  [Heiligenfeld] (http://www.heiligenfeld.com/) hat eine einfache
+  Coaching-Praxis in der Teambetreuung. Das Unternehmen arbeitet mit vier
+  externen Coaches zusammen, die jeweils ein spezifisches Fachgebiet haben
+  (Beziehungen, Organisationsentwicklung, systemisches Denken und Führung).
+  Jeden Monat gibt es Termine mit diesen Coaches, zu denen sich die Teams
+  anmelden können. Für jedes Team wird mindestens eine Sitzung pro Jahr
+  empfohlen. Der Durchschnitt liegt bei zwei bis vier Veranstaltungen. Mit Hilfe
+  des Blicks von außen erkunden die Kolleginnen, was eine Spannung über sie
+  selbst verrät und wie sie sie lösen können.\r
 
 
-  ##### ***Peer coaching***
+  ##### ***Peer-Coaching***
 
 
-  Peer coaching is a way of using the power of the team to help on an individual basis. Buutzorg for example, has a peer coaching process called ‘Intervesie”. It is structured process for helping an individual address and resolve an issue or problem with team support. Rather than falling into the common practices of offering advice or reassurance, the process allows the individual to work out a way forward on their own. There is often significant growth in the process as personal issues are recognized and worked through in a safe space.
+  \r
+
+  Peer-Coaching ist eine Möglichkeit, die Teamstärke auf individueller Basis
+  zu nutzen. Buutzorg zum Beispiel hat einen Peer-Coaching-Prozess namens
+  \"Intervesie\". Dabei handelt es sich um einen strukturierten Prozess, der
+  einer Person dabei hilft, eine Frage oder ein Problem mit Unterstützung des
+  Teams anzugehen und zu lösen. Statt automatisch Ratschläge zu erteilen oder zu
+  beruhigen, ermöglicht der Prozess dem Individuum, selbst eine Lösung zu
+  finden. Der Prozess führt oft zu signifikantem Wachstum, da persönliche
+  Probleme erkannt und in einem geschützten Raum bearbeitet werden können.\r
 
 
-  ##### ***Individual coaching***
+  ##### ***Individuelles Coaching***
 
 
-  Some organizations offer individual coaching or counselling to all their members on a free and confidential basis, to both employees and their families for non-work matters. This reinforces the principle of wholeness by supporting the member in all aspects of their life.
+  \r
 
-
-  Some companies offer individual coaching to all their members. Others extend this, on a free and confidential basis, to employees and their families for non-work matters.
+  Einige Organisationen bieten allen ihren Mitgliedern ein kostenloses und
+  vertrauliches Einzelcoaching oder eine Einzelberatung an, und zwar sowohl für
+  die Mitarbeitenden selbst als auch für deren Familien bei Problemen außerhalb
+  des beruflichen Kontextes. Durch die Unterstützung bei allen Aspekten des
+  Lebens wird das Prinzip der Ganzheitlichkeit gestärkt.\r\n"
 faq:
   - question: How can a member make sensible choices about her own training when she
       doesn't know what she doesn't know?
