@@ -2,93 +2,214 @@
 layout: article
 tags: theory
 key: Compensation and incentives
-name: Compensation and incentives
+name: Vergütung und Anreize
 sortOrder: 8
 category: People practices
 intro: >-
-  The topic of compensation and incentives includes the process of how salaries
-  are set and by whom, the types of incentives being used, and the issue of
-  compensation inequality.
+  Das Thema Vergütung und Anreize umfasst den Prozess der Gehaltsfestlegung, die
+  eingesetzten Anreiztypen und die Frage der Gehalts(un)gleichheit.
 
 
   ![](/media/compensation-and-incentives-2-small.jpg)
-perspective: >-
-  In [Teal Organizations,](../teal-paradigm-and-organizations/) compensation is
-  determined not only in a different way, but takes on a fundamentally different
-  nature and level of importance. Typically these organizations exhibit the
-  following general characteristics with regard to compensation:
+perspective: "In [Teal-Organisationen](../teal-paradigm-and-organizations/) wird
+  die Vergütung nicht nur auf andere Weise festgelegt, sondern hat auch einen
+  grundlegend anderen Charakter und Stellenwert. In der Regel weisen diese
+  Organisationen folgende Merkmale in Sachen Vergütung auf:
 
 
-  * People set their own salaries, with guidance from their peers.
+  \r
 
-  * There are no individual or team incentives, as incentives are seen to distract people from their inner motivation, and to skew behaviors.
+  \r
 
-  * While not necessarily explicitly attempting to create an egalitarian pay structure, it seems that in these organizations, people strive to reduce the sometimes extreme pay disparities witnessed in many sectors today. A special focus is to ensure that the lowest paid make enough to satisfy basic needs.
+  * Die Mitarbeitenden legen ihre Gehälter unter Anleitung des Kollegenkreises
+  selbst fest.\r
 
+  \r
 
-  In contrast, compensation and incentives in earlier stage organizations can be summarized as follows:
+  * Es gibt keine personen- oder teambezogenen Anreize, da man davon ausgeht,
+  dass Anreize die Menschen von ihrer intrinsischen Motivation entfernen und ihr
+  Verhalten entsprechend verändern.\r
 
+  \r
 
-  #### **Red Organizations**
+  * Auch wenn nicht explizit versucht wird, eine egalitäre Gehaltsstruktur zu
+  schaffen, so scheint man in diesen Organisationen doch bestrebt zu sein, die
+  mitunter extremen Gehaltsunterschiede zu verringern, die heute in vielen
+  Branchen zu beobachten sind. Ein besonderes Augenmerk liegt darauf
+  sicherzustellen, dass die Geringverdienenden mit ihrem Einkommen ihren
+  Grundbedarf decken können.\r
 
-
-  In the [Red paradigm](../red-organizations/), the prerogative of the boss is to freely, on a whim, decide to increase or reduce pay. There are no formal processes for negotiating on pay, nor any formal, documented incentive processes.
-
-
-  #### **Amber Organizations**
-
-
-  In the [Amber paradigm](../amber-paradigm-and-organizations/), compensation is generally fixed and determined by a person’s level in the hierarchy (or other fixed status marker, such as the person’s type of university degree). There are no individual salary negotiations, no incentives. It’s “same work, same pay”.
-
-
-  #### **Orange Organizations**
-
-
-  In the [Orange paradigm](../orange-paradigm-and-organizations/), there is some individual negotiation of base salary, and people generally fall into salary bands. A boss has some freedom to increase someone’s pay within that salary band. Orange believes strongly in individual targets and incentives. If people reach predetermined targets (that ideally belong to a cascaded system of targets or budget that builds up to strong creation of shareholder value), they will receive a hardy bonus. Strong differences in pay between top and bottom earners are seen as perfectly acceptable, as they reflect people’s merits and contributions.
+  \r
 
 
-  #### **Green Organizatio**ns
+  Im Gegensatz dazu lassen sich Vergütungen und Anreize in Organisationen der
+  Vorstufen wie folgt darstellen:\r
 
 
-  The [Green paradigm](../green-paradigm-and-organizations/) believes in cooperation as much as in competition; individual incentives begin to make way for team bonuses. Attempts are made to reduce the difference between the highest and lowest earners in the workplace, for instance through a maximum multiple between the CEO pay and the median (or lowest) salary in the organization.
-inPractice: >-
-  #### **How salaries are set and by whom**
+
+  #### **Rote Organisationen**
 
 
-  In traditional organizations, compensation is typically determined according to the organizational hierarchy. Generally, a boss can decide on a pay raise for his subordinates, often subject to HR (or institutional) guidelines or approval. In self-managing organizations, in the absence of bosses, the process to determine salaries and other types of compensation must be reinvented using the power of peer input. It seems that there are two broad categories of systems: ranking-based systems and self-set (advice-based) systems. \[Both of these can be used within hierarchical systems too. They don't depend on self-managing structures.]
+  Nach dem [roten Paradigma](../red-organizations/) ist es das Vorrecht des
+  Chefs, nach Lust und Laune über Gehaltserhöhungen oder -kürzungen zu
+  entscheiden. Es gibt keine formellen Prozesse für Gehaltsverhandlungen oder
+  die Dokumentation von Anreizen.
 
 
-  ##### ***Ranking-based systems***
+  #### **Bernsteinfarbene Organisationen**
 
 
-  In certain companies, such as W. L. Gore or HolacracyOne, employees rank or evaluate the contributions of the peers they work with most closely. Based on this input, people are allocated to different salary bands - usually by an algorithm or an elected committee. People who are seen as contributing more will find themselves in the higher bands that earn bigger salaries; the more junior, less experienced colleagues naturally gravitate toward bands with lower salaries. The process is simple and easy to understand and it is generally seen as fair. When it’s not just one person (the boss), but many of an individual's colleagues informing the process, the resulting salary is likely to be a fairer reflection of that person's contribution.
+  Nach dem [bernsteinfarbenen Paradigma](../amber-paradigm-and-organizations/)
+  ist die Vergütung in der Regel festgeschrieben und wird durch die
+  Hierarchiestufe einer Person oder durch ein anderes festes Statusmerkmal (z.
+  B. die Art des Hochschulabschlusses) bestimmt. Es gibt keine individuellen
+  Gehaltsverhandlungen oder Anreize. Es gilt \"gleicher Lohn für gleiche
+  Arbeit\".
 
 
-  Such systems can result in pay fluctuating (going up but also down) over the years, depending on people's contribution. In many countries, labor laws prevent salaries from going down, which requires adaptations to this method. For instance, the system could be used only to discern which colleagues should receive a pay raise. Alternatively, a system can be engineered using a low fixed salary, and allowing the fluctuations through individual bonuses that can go up or down.
+  #### **Orange Organisationen**
 
 
-  ##### ***Self-set (advice-based) systems***
+  Nach dem [orangefarbenen Paradigma](../orange-paradigm-and-organizations/)
+  wird das Grundgehalt individuell ausgehandelt, und die Mitarbeitenden werden
+  in der Regel in Gehaltsgruppen eingeteilt. Die Vorgesetzte hat einen gewissen
+  Spielraum, um das Gehalt eines Mitarbeitenden innerhalb dieser Gehaltsspanne
+  zu erhöhen. Man glaubt fest an individuelle Ziele und Anreize. Wenn die
+  Mitarbeitenden die vorgegebenen Ziele erreichen (die idealerweise zu einem
+  Kaskaden-System von Zielen oder Budgets gehören, das auf eine hohe
+  Wertschöpfung für die Aktionäre ausgerichtet ist), erhalten sie einen hohen
+  Bonus. Starke Gehaltsunterschiede zwischen Spitzen- und Geringverdienenden
+  werden akzeptiert, da sie die Verdienste und Beiträge der Mitarbeitenden
+  widerspiegeln.
 
 
-  A more empowering version is one where people set their own salaries, calibrated by the advice process from their peers. In this case, generally once a year, people propose what salary raise they believe to be appropriate for themselves, and the justifications for their proposal. This input is reviewed by a number of peers (e.g. in an elected salary advice group) who give individual advice on that proposal, based on a calibration across colleagues. Individuals can then choose to follow the advice they have received or not, and their choice is made public. If it so chooses, the salary advice group can choose to declare a conflict and invoke the [conflict resolution mechanism](../conflict-resolution/).
+  #### **Grüne Organisationen**
 
 
-  The process cuts through much of the haggling, strategizing, complaining, and "sucking up" that happens when salaries are set by one's boss. If people are unhappy with their salary, they can simply raise it. And they will face the consequences of their choices, if they decide to place themselves too far outside their peers' advice.
+  Nach dem [grünen Paradigma](../green-paradigm-and-organizations/) glaubt man
+  an Kooperation und Wettbewerb zugleich. Individuelle treten hinter
+  Team-Anreizen zurück. Es wird versucht, den Unterschied zwischen dem höchsten
+  und dem niedrigsten Einkommen im Arbeitsumfeld zu verringern, z. B. durch ein
+  maximales Vielfaches zwischen dem Gehalt des CEO und dem mittleren (oder
+  niedrigsten) Gehalt im Unternehmen."
+inPractice: "#### **Wie und von wem Gehälter festgelegt werden**
 
 
-  #### **Use of incentives**
+  \r
+
+  In traditionellen Unternehmen werden Gehälter üblicherweise nach der
+  Organisationshierarchie festgelegt. In der Regel kann eine Führungskraft über
+  Gehaltserhöhungen ihrer Teammitglieder entscheiden – oft entlang der
+  Richtlinien oder nach Genehmigung durch die Personalabteilung oder
+  Institution. In selbstorganisierten Unternehmen ohne Vorgesetzte muss das
+  Verfahren zur Festlegung von Gehältern und anderen Vergütungsarten unter
+  Mitwirkung des Kollegenkreises neu erfunden werden. Offenbar gibt es zwei
+  große Systemkategorien: Systeme, die auf einer Rangfolge beruhen, und Systeme,
+  die auf Selbstbestimmung (Beratung) basieren. [Beide können auch innerhalb
+  hierarchischer Strukturen eingesetzt werden. Sie erfordern keine
+  selbstorganisierten Systeme.]\r
 
 
-  In the Teal paradigm, people value intrinsic over extrinsic motivators. Once people make enough money to cover their basic needs, what matters most is that work is meaningful and that they can express their talents and callings at work. In the book *Drive*, Daniel Pink concludes from a great amount of research on the matter that in today’s complex work settings, incentives are mostly counterproductive, reducing rather than enhancing people’s performance.
+
+  ##### ***Ranglistensysteme***
 
 
-  The consequence is that Teal Organizations generally operate without explicit financial incentives at individual and team level. No one, not even sales people, has targets or incentives and there are rarely individual bonuses or stock options. Instead, at the end of very profitable years, some part of the profit will be shared with all employees (in some cases everyone receives the same fixed percent of base salary, in others everyone receives the same fixed amount). See also [Ownership](../ownership/).
+  \r
+
+  In einigen Unternehmen, wie z.B. bei W. L. Gore oder HolacracyOne, erstellen
+  die Mitarbeitenden Ranglisten oder bewerten die Beiträge im engsten
+  Kollegenkreis. Auf der Grundlage dieser Bewertung werden die Mitarbeitenden in
+  der Regel durch einen Algorithmus oder einen Ausschuss in verschiedene
+  Gehaltsgruppen eingeteilt. Personen, deren Beitrag als höherwertig
+  eingeschätzt wird, kommen in höhere Gehaltsgruppen. Die weniger erfahrenen
+  Kollegen werden in niedrigeren Gehaltsgruppen eingestuft. Dieser Prozess ist
+  leicht nachzuvollziehen und wird im Allgemeinen als gerecht empfunden. Wenn
+  nicht nur eine Person (die Chefin), sondern viele Kollegen einer Person
+  einbezogen werden, spiegelt das daraus resultierende Gehalt den Beitrag dieser
+  Person voraussichtlich fairer wider.\r
 
 
-  #### **Compensation inequality**
+  Solche Systeme können dazu führen, dass das Gehalt im Laufe der Jahre je
+  nach individuellem Beitrag schwankt (nach oben, aber auch nach unten). In
+  vielen Ländern verhindert das Arbeitsrecht, dass die Gehälter sinken, so dass
+  diese Methode angepasst werden muss. So könnte das System beispielsweise nur
+  dazu verwendet werden festzustellen, welche Kolleginnen eine Gehaltserhöhung
+  erhalten sollten. Ein anderes System sähe ein niedriges Festgehalt vor und
+  ließe nach oben oder unten schwankende individuelle Boni zu.\r
 
 
-  Without the use of bonuses and stock options, compensation inequality is automatically reduced, as a large share of the pay inequalities in today's Fortune 500 companies stem from the often extravagant CEO bonuses and stock options. Some organizations also strive consciously to limit inequality in the base salary. Some organizations, like AES and FAVI, have replaced hourly wages with monthly salaries for shop floor operators, erasing the distinction between blue- and white-collar workers. Everyone is compensated on the same principles.
+
+  ##### ***Selbstbestimmte (beratungsbasierte) Systeme***
+
+
+  \r
+
+  Bei einer leistungsfähigeren Version legen die Mitarbeitenden in Abstimmung
+  mit ihrem Kollegenkreis ihre Gehälter selbst fest. In diesem Fall schlagen die
+  Mitarbeitenden in der Regel einmal im Jahr vor, welche Gehaltserhöhung sie für
+  sich selbst für angemessen halten und warum. Diese Vorschläge werden im
+  Kollegenkreis geprüft (z. B. durch eine Beratungsgruppe für Gehälter), die auf
+  der Grundlage einer kollegialen Abstimmung eine individuelle Empfehlung zum
+  einzelnen Vorschlag abgeben. Das Individuum kann dann entscheiden, ob es diese
+  Empfehlung annimmt oder nicht. Diese Entscheidung wird für alle sichtbar
+  gemacht. Die Beratungsgruppe kann, sofern sie es wünscht, den Konflikt
+  erläutern und einen [Lösungsprozess](../conflict-resolution/) in Gang
+  setzen.\r
+
+
+  Dieses Verfahren verhindert weitestgehend das Feilschen, Strategieren,
+  Jammern und \"Einschleimen\", das oft bei der Gehaltsfestsetzung durch
+  Vorgesetzte folgt. Wenn Menschen mit ihrem Gehalt unzufrieden sind, können sie
+  es einfach erhöhen. Sie werden jedoch die Konsequenzen ihrer Entscheidungen
+  tragen müssen, wenn sie sich zu weit von den Empfehlungen ihrer Kollegen
+  entfernen.\r
+
+
+
+  #### **Einsatz von Anreizen**
+
+
+  \r
+
+  Im Teal-Paradigma haben intrinsische gegenüber extrinsischen Motivatoren
+  einen höheren Stellenwert. Sobald Menschen genug Geld verdienen, um ihren
+  Grundbedarf zu decken, wird sinnvolle Arbeit und die Möglichkeit, seine
+  Talente und Berufung am Arbeitsplatz zum Ausdruck zu bringen, wichtiger. In
+  seinem Buch „Drive“ kommt Daniel Pink auf der Basis umfangreicher
+  Forschungsarbeiten zu dem Schluss, dass Anreize in den komplexen
+  Arbeitsumgebungen von heute meistens kontraproduktiv sind und die Leistung der
+  Mitarbeitenden eher verringern als steigern.\r
+
+
+  Folglich arbeiten Teal-Organisationen im Allgemeinen ohne explizite
+  finanzielle Anreize auf individueller Teamebene. Niemand, nicht einmal
+  Vertriebsmitarbeitende, hat Zielvorgaben oder Anreize. Es gibt selten
+  individuelle Boni oder Aktienoptionen. Stattdessen wird am Ende
+  hochprofitabler Jahre ein Teil des Gewinns an die Mitarbeitenden
+  ausgeschüttet. In einigen Fällen erhält jeder den gleichen festen Prozentsatz
+  des Grundgehalts, in anderen den gleichen Fixbetrag.\r
+
+  \r
+
+
+  Siehe auch [Eigentumsverhältnisse](../ownership/).\r
+
+
+
+  #### **Ungleichheit bei der Vergütung**
+
+
+  \r
+
+  Ohne Boni und Aktienoptionen verringert sich die Ungleichheit bei der
+  Vergütung automatisch, da Gehaltsunterschiede in den heutigen
+  Fortune-500-Unternehmen größtenteils auf die oft exorbitant hohen CEO Boni und
+  Aktienoptionen zurückzuführen sind. Einige Unternehmen bemühen sich auch
+  bewusst um eine Begrenzung der Ungleichheit beim Grundgehalt. Manche
+  Organisationen wie AES und FAVI haben die Stundenlöhne durch Monatsgehälter
+  für die Mitarbeitenden im Fertigungsbereich ersetzt und damit die
+  Unterscheidung zwischen Arbeitern und Angestellten beseitigt. Alle werden nach
+  den gleichen Grundsätzen entlohnt.\r\n"
 faq:
   - question: When salaries are self-set, how can salary inflation be prevented?
     answer: >-
