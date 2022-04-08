@@ -303,16 +303,17 @@ inPractice: "##### ***Aus- und Weiterbildung***
   des beruflichen Kontextes. Durch die Unterstützung bei allen Aspekten des
   Lebens wird das Prinzip der Ganzheitlichkeit gestärkt.\r\n"
 faq:
-  - question: How can a member make sensible choices about her own training when she
-      doesn't know what she doesn't know?
-    answer: Even if we assume she doesn't know, she will almost certainly seek
-      advice from someone with more experience. This will help her confirm or
-      amend her choice. And by going through the self-development process, she
-      will learn more about what she needs, and the learning approaches that
-      suit her. In other words, she gets better at getting better! In a
-      traditional environment, HR tells her what she should learn, and how she
-      should learn it. If these choices are wise, fine. If not, money and time
-      are wasted.
+  - question: Wie kann eine Mitarbeiterin die richtigen Entscheidungen bezüglich
+      ihrer Weiterbildung treffen, wenn sie nicht weiß, was sie nicht weiß?
+    answer: "Selbst wenn wir davon ausgehen, dass sie es nicht weiß, wird sie mit
+      ziemlicher Sicherheit jemanden mit mehr Erfahrung um Rat fragen. Dies
+      hilft ihr, ihre Entscheidung zu bestätigen oder zu ändern. Und durch den
+      Selbstentwicklungsprozess wird sie mehr darüber erfahren, was sie braucht
+      und welche Lernansätze zu ihr passen. Mit anderen Worten: Sie wird besser
+      darin, besser zu werden! In einem traditionellen Umfeld sagt ihr die
+      Personalabteilung, was und wie sie lernen soll. Schön, wenn diese
+      Entscheidungen sinnvoll sind. Wenn nicht, dann sind Geld und Zeit
+      verschwendet."
 relatedTheory:
   - Onboarding
   - Culture and Values
