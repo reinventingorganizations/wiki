@@ -217,15 +217,14 @@ inPractice: "#### **Detaillierte Rollen versus definierte Jobs**
   ausgeübten Funktionen eintragen können. Dies trägt zur Klarheit bei und hilft
   anderen, deren Fachwissen zu verstehen.\r\n"
 faq:
-  - question: Is there less management within an organization without job titles and
-      job descriptions?
-    answer: The tasks of management - setting direction and objectives, planning,
-      directing, controlling, and evaluating - haven’t disappeared. They are
-      simply no longer concentrated in dedicated management roles. Because they
-      are spread widely, not narrowly, it can be argued that there is more
-      management and leadership happening at any time in self-managing
-      organizations despite, or rather precisely because of, the absence of
-      fulltime managers.
+  - question: Gibt es weniger Management in einer Organisation ohne Jobtitel und
+      Stellenbeschreibungen?
+    answer: Die Aufgaben des Managements - Festlegung von Richtung und Zielen,
+      Planung, Leitung, Kontrolle und Bewertung - sind nicht verschwunden. Sie
+      liegen nur nicht mehr in speziellen Managementfunktionen vor. Da diese
+      Aufgaben weit verteilt statt konzentriert sind, kann man behaupten, dass
+      in selbstorganisierten Unternehmen trotz oder gerade wegen des Fehlens von
+      Vollzeitmanagern zu jeder Zeit mehr Management und Führung stattfindet.
 relatedTheory:
   - Organizational Structure
   - Recruitment
