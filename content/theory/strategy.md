@@ -2,115 +2,244 @@
 layout: article
 tags: theory
 key: Strategy
-name: Strategy
+name: Strategie
 sortOrder: 1
 category: Important Processes
 intro: >-
-  The topic of Strategy covers how the traditional process of strategic planning
-  plays out in Teal organizations.
+  Beim Thema Strategie geht es darum, wie der traditionelle Prozess der
+  strategischen Planung in Teal-Organisationen abläuft.
 
 
   ![](/media/evolutionary-purpose.jpg)
 perspective: >-
-  Every historical stage has given birth to a distinct perspective on strategy,
-  and to very different practices:
+  Jede historische Phase hat eine andere Sichtweise auf die Strategie und
+  unterschiedliche Methoden hervorgebracht:
 
 
-  #### **Red Organizations**
+  #### **Rote Organisationen**
 
 
-  [Red organizations](../red-organizations/) don't typically develop long-term goals or strategies beyond survival. The chief(s) seek short-term gains to maintain power, and to respond to threats and opportunities as they arise.
+  [Rote Organisationen](../red-organizations/) entwickeln in der Regel keine langfristigen, über das Überleben hinausgehenden Ziele oder Strategien. Die Oberhäupter streben nach kurzfristigen Gewinnen, um ihre Macht zu erhalten und auf Chancen und Risiken in dem Moment zu reagieren, wenn sie entstehen.
 
 
-  #### **Amber Organizations**
+  #### **Bernsteinfarbene Organisationen**
 
 
-  [Amber organizations](../amber-paradigm-and-organizations/) can develop strategies but do not emphasize them, as the world is viewed as relatively unchanging and predictable. The emphasis is rather on processes. To the extent strategies are developed, this is done very much at the top of the hierarchy only. Decisions are handed down to workers at the bottom, with information shared only as needed.
+  [Bernsteinfarbene Organisationen](../amber-paradigm-and-organizations/) können Strategien entwickeln, legen aber keinen Wert darauf, da die Welt als relativ unveränderlich und vorhersehbar betrachtet wird. Der Schwerpunkt liegt vielmehr auf Prozessen. Wenn Strategien entwickelt werden, dann geschieht dies nur an der Spitze der Hierarchie. Entscheidungen werden den Mitarbeitenden am unteren Ende der Pyramide mitgeteilt und Informationen nur bei Bedarf weitergegeben.
 
 
-  #### **Orange Organizations**
+  #### **Orange Organisationen**
 
 
-  In an [Orange organization](../orange-paradigm-and-organizations/), strategy becomes much more important, as the world is viewed as increasingly dynamic. However, while the world is considered increasingly complicated, it is still viewed as predictable. Strategy is still generally a very top-down process but transitions from command and control to predict and control. In order to maintain competitive advantage, the Orange paradigm concludes that large parts of the organization must be empowered and given some room to think and execute on their own. This gave rise to management by objectives – top management formulates an overall direction and cascades down objectives and milestones to reach the desired outcome. This has resulted in familiar processes such as regular strategic planning, yearly budgeting, balanced scorecards and key performance indicators.
+  In [orangen Organisationen](../orange-paradigm-and-organizations/) gewinnt die Strategie an Bedeutung, da die Welt als immer dynamischer wahrgenommen wird. Sie scheint zwar zunehmend kompliziert, aber immer noch berechenbar zu sein. Die Strategie ist im Allgemeinen weiterhin ein von oben nach unten gerichteter Prozess, der jedoch von „Befehl und Kontrolle“ zu „Vorhersage und Kontrolle“ übergeht. Um einen Wettbewerbsvorteil zu erlangen, müssen nach dem Orange-Paradigma große Teile der Organisation befähigt werden und einen gewissen Spielraum für eigenständiges Denken und Handeln erhalten. Daraus entstand das "Management by Objectives": Die oberste Führungsebene gibt im Sinne des zu erreichenden Ergebnisses die Richtung sowie kaskadenartig Ziele und Meilensteine vor. Dies hat zu den bekannten Prozessen wie regelmäßige strategische Planung, jährliche Budgetierung, Balanced Scorecards und Leistungsindikatoren geführt.
 
 
-  #### **Green Organizations**
+  #### **Grüne Organisationen**
 
 
-  In [Green organizations](../green-paradigm-and-organizations/), the organizational structure is further decentralized: lower ranks are increasingly empowered and a key responsibility of leaders is to facilitate this empowerment. However, Green organizations typically maintain some sort of hierarchical structure with strategic direction principally coming from the top. Strategy is also now enlisted in the service of purpose, which goes beyond Orange objectives of winning and profit.
+  In [grünen Organisationen](../green-paradigm-and-organizations/) ist die Struktur weiter dezentralisiert: Die unteren Ränge erhalten zunehmend mehr Befugnisse, und eine der Hauptaufgaben der Führungskräfte besteht darin, dies zu fördern. Grüne Organisationen behalten jedoch in der Regel eine gewisse hierarchische Struktur bei, wobei die strategische Ausrichtung hauptsächlich von der Unternehmensspitze kommt. Die Strategie wird in den Dienst des Zwecks gestellt, der über die orangen Ziele von Gewinn und Profit hinausgeht.
 
 
-  #### **Teal Organizations**
+  #### **Teal-Organisationen**
 
 
-  In [Teal organizations](../teal-paradigm-and-organizations/), power is diffused. Self-management replaces the hierarchy. Strategic thinking can come from anywhere, not just the top. Team members can offer advice, suggest initiatives, recommend change--as long as they consult with interested parties along the way. The use of the 'advice process' is the crucial enabling ingredient. Strategy is also inextricably linked to purpose, and conventional strategic planning is replaced by “listening to purpose”.
-inPractice: >-
-  #### **Strategy as an organic process**
+  In [Teal-Organisationen](../teal-paradigm-and-organizations/) ist die Macht verteilt. Selbstmanagement ersetzt die Hierarchie. Strategisches Denken kann überall stattfinden – nicht nur in der Unternehmensspitze. Teammitglieder können Ratschläge erteilen, Initiativen vorschlagen und Veränderungen empfehlen, solange sie sich dabei mit Betroffenen und Beteiligten beraten. Die Nutzung dieses Beratungsprozesses ist die entscheidende Voraussetzung. Strategie ist untrennbar mit dem Zweck verbunden, und die herkömmliche strategische Planung wird durch "Hören auf den Zweck" ersetzt.
+inPractice: "#### **Strategie als organischer Prozess**
 
 
-  In traditional organizations, long-term strategy is decided by those at the top -- typically the CEO and senior management team. Strategies are developed through a process that begins with top management examining tightly held, sensitive information. This information may consist of long-term predictions and plans and solutions to capitalize on the opportunities they forecast. The plans become annual objectives, with divisional targets. Detailed documentation outlines the pre-chartered course. The new-direction/plan is communicated top-down.
+  In traditionellen Unternehmen wird die langfristige Strategie von der
+  Unternehmensspitze festgelegt - in der Regel vom CEO und dem Senior Management
+  Team. Strategien werden in einem Prozess entwickelt, der damit beginnt, dass
+  die oberste Führungsebene streng gehütete, sensible Informationen prüft. Diese
+  können aus langfristigen Prognosen, Plänen und Lösungen bestehen, um
+  prognostizierte Chancen zu nutzen. Die Pläne werden zu Jahres- und dann zu
+  Abteilungszielen. Der eingeschlagene Kurs wird detailliert dokumentiert. Die
+  neue Richtung bzw. der neue Plan wird von oben nach unten kommuniziert.\r
 
 
-  In Teal organizations, there is no strategy process in the conventional sense. Instead of a direction set from the top, people in these organizations “listen” for the organization’s purpose and thereby gain a broad sense of where the organization might be called to go. A more detailed map is not needed. It would limit possibilities to a narrow, pre-charted course.
+  In Teal-Organisationen gibt es keinen Strategieprozess im herkömmlichen
+  Sinne. Statt einer von oben vorgegebenen Richtung zu folgen, \"lauschen\" die
+  Mitarbeitenden in diesen Organisationen auf den Zweck der Organisation und
+  erhalten so ein Gespür dafür, wohin die Reise gehen soll. Eine detaillierte
+  Landkarte ist nicht erforderlich. Sie würde die Möglichkeiten auf einen engen,
+  vorgezeichneten Kurs beschränken.\r
 
 
-  With the purpose as a guiding light, everyone, individually and collectively, is empowered to sense what might be called for. Strategy happens organically, all the time, everywhere, as people toy with ideas and test them out in the field. The organization evolves, morphs, expands, or contracts, in response to a process of collective intelligence. Reality is the great referee, not the CEO, the board or a committee. What works gathers momentum and energy within the organization; other ideas fail to catch on and wither.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4506-4509). Nelson Parker. Kindle Edition.]
+  Mit dem Ziel als Leitfaden ist jeder Einzelne und jede Gruppe in der Lage zu
+  erkennen, wozu die Organisation berufen sein könnte. Strategie entsteht
+  organisch sowie immer und überall, wenn Menschen Ideen entwickeln und
+  ausprobieren. Die Organisation entwickelt und wandelt sich, expandiert oder
+  schrumpft als Reaktion auf einen Prozess der kollektiven Intelligenz. Die
+  Realität ist der große Schiedsrichter und nicht der CEO, der Vorstand oder ein
+  Ausschuss. Was funktioniert, gewinnt an Schwung und Energie innerhalb der
+  Organisation; andere Ideen setzen sich nicht durch und werden
+  verworfen.^\\[Übersetzt aus: Laloux, Frederic (2014-02-09). Reinventing
+  Organizations: A Guide to Creating Organizations. Inspired by the Next Stage
+  of Human Consciousness (Kindle Locations 4506-4509). Nelson Parker. Kindle
+  Edition.]\r
 
 
-  ##### *Workable solutions, fast iterations*
+
+  ##### *Praktikable Lösungen und schnelle Iterationen*
 
 
-  Teal organizations don't rely so heavily on the predict and control model. While predicting the future may be helpful in a *complicated* world, it is less relevant in an increasingly *complex* world. Out of this understanding, Teal organizations tend to move to implementing workable solutions, today, that can be improved at any point. Companies are not chained to strategic planning processes, or driven to achieve targets that might be quickly out of date. These companies are freer to progress quickly, via fast iterations, and revise strategies as necessary.
+  Teal-Organisationen verlassen sich nicht auf das Modell „Vorhersage und
+  Kontrolle“. Während die Vorhersage der Zukunft in einer *komplizierten* Welt
+  hilfreich sein kann, ist sie in einer zunehmend *komplexen* Welt weniger
+  relevant. Aus diesem Verständnis heraus neigen Teal-Organisationen dazu, heute
+  praktikable Lösungen zu implementieren, die jederzeit weiter verbessert werden
+  können. Die Unternehmen sind nicht an strategische Planungsprozesse gebunden
+  und müssen keine Ziele erreichen, die schnell veraltet sein könnten. Diese
+  Unternehmen sind freier, durch schnelle Iterationen rasch Fortschritte zu
+  erzielen und Strategien bei Bedarf zu überarbeiten.\r
 
 
-  Jean-François Zobrist at FAVI uses the following metaphor to explain the difference. An airplane like a Boeing 747 is a *complicated* system. There are millions of parts that need to work together seamlessly. But everything can be mapped out; if you change one part, you should be able to predict all the consequences. A bowl of spaghetti is a *complex* system. Even though it has just a few dozen “parts,” it is virtually impossible to predict what will happen when you pull at the end of a strand of spaghetti that sticks out of the bowl.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4577-4581). Nelson Parker. Kindle Edition.]
+  Jean-François Zobrist von FAVI nutzt die folgende Metapher, um den
+  Unterschied zu erklären: Ein Flugzeug wie eine Boeing 747 ist ein
+  *kompliziertes* System. Es besteht aus Millionen von Teilen, die nahtlos
+  zusammenarbeiten müssen. Wenn man ein einziges Teil verändert, sollte man in
+  der Lage sein, alle Konsequenzen vorherzusagen. Eine Schüssel mit Spaghetti
+  ist ein *komplexes* System. Auch wenn sie nur ein paar Dutzend \"Teile\" hat,
+  ist es praktisch unmöglich vorherzusagen, was passiert, wenn man am Ende eines
+  aus der Schüssel herausragenden Spaghettistrangs zieht.^\\[Übersetzt aus:
+  Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating
+  Organizations. Inspired by the Next Stage of Human Consciousness (Kindle
+  Locations 4577-4581). Nelson Parker. Kindle Edition.]\r
 
 
-  ##### *Dynamic Steering*
+
+  ##### *Dynamische Steuerung*
 
 
-  Brian Robertson at Holacracy uses a metaphor from the world of agile software development to describe how the planning process differs in Teal organizations:
+  Brian Robertson von Holacracy verwendet eine Metapher aus der Welt der
+  agilen Softwareentwicklung, um zu beschreiben, wie sich der Planungsprozess in
+  Teal-Organisationen unterscheidet:\r
 
 
-  *Imagine riding a bicycle the way we manage most modern organizations. You would hold a big meeting to decide the angle at which you should hold the handlebars; you’d map your journey in as much detail as possible, factoring in all known obstacles and the exact timing and degree to which you would need to adjust your course to avoid these. Then you would get on the bicycle, hold the handlebars rigidly at the angle calculated, close your eyes, and steer according to plan. Odds are you would not reach your target, even if you did manage to keep the bicycle upright for the entire trip. When the bicycle falls over, you might ask: “Why didn’t we get this right the first time?” And maybe: “Who screwed up?”*
+  *Stellen Sie sich vor, Sie fahren so mit einem Fahrrad wie wir die meisten
+  modernen Organisationen führen. Sie würden eine große Sitzung abhalten, um zu
+  entscheiden, in welchem Winkel Sie den Lenker halten sollten. Sie würden Ihre
+  Reise so detailliert wie möglich planen und dabei alle bekannten Hindernisse
+  sowie den genauen Zeitpunkt und das Ausmaß berücksichtigen, in dem Sie Ihren
+  Kurs anpassen müssten, um diese zu umgehen. Dann stiegen Sie auf das Fahrrad,
+  hielten den Lenker im errechneten Winkel, schlössen die Augen und lenkten wie
+  geplant. Die Chancen stehen gut, dass Sie Ihr Ziel nicht erreichen, selbst
+  wenn es Ihnen gelingt, das Fahrrad während der gesamten Fahrt aufrecht zu
+  halten. Wenn das Fahrrad umkippt, fragen Sie sich vielleicht: \"Warum haben
+  wir das nicht gleich richtig gemacht?\" und: \"Wer hat es vermasselt?\"*\r
 
 
-  *That ridiculous approach isn’t so far from the approach many organizations take to strategic planning. By contrast, Holacracy helps an organization operate more like the way we actually ride a bicycle, using a dynamic steering paradigm. Dynamic steering means constant adjustment in light of real feedback, which makes for a more organic and emergent path. If you watch even the most skilled cyclist, you’ll see a slight but constant weaving, as the rider constantly takes in sensory feedback about his present state and environment, and makes minor corrections to direction, speed, balance, and aerodynamics. Weaving arises because the rider maintains a dynamic equilibrium while moving forward, using rapid feedback to stay within the many constraints of the environment and equipment. Instead of wasting a lot of time and energy predicting exactly the “right” path in advance, he instead holds his purpose in mind, stays present in the moment, and finds the most natural way forward as he goes. That’s not to say the rider doesn’t have a plan or at least some sense of his likely route, just that he gains more control, not less, by surrendering to present reality continuously and trusting his capacity to sense and respond in the moment. Similarly, we have the opportunity to get more control in our organizations by more relentlessly facing reality and adapting continuously. When we become attached to a specific predicted outcome, there’s a risk we will get stuck fighting reality when it doesn’t conform to our prediction.*^\[Robertson, Brian J. (2015-06-02). Holacracy: The New Management System for a Rapidly Changing World (Kindle Locations 1765-1781). Henry Holt and Co.. Kindle Edition.]
+  *Diese absurde Herangehensweise ist gar nicht so weit weg von der Art der
+  strategischen Planung vieler Organisationen. Im Gegensatz dazu hilft Holacracy
+  einer Organisation, eher so zu arbeiten, wie wir wirklich Fahrrad fahren, und
+  zwar mit einem dynamischen Lenkungsparadigma. Dynamische Steuerung bedeutet
+  ständige Anpassung im Lichte echter Rückmeldungen, was einen organischeren und
+  sich entwickelnden Weg ebnet. Wenn Sie den geschicktesten Radfahrer
+  beobachten, werden Sie selbst bei ihm ein leichtes, aber konstantes Schwanken
+  sehen, da er ständig sensorisches Feedback über seinen aktuellen Zustand und
+  seine Umgebung aufnimmt und kleinere Korrekturen an Richtung, Geschwindigkeit,
+  Gleichgewicht und Aerodynamik vornimmt. Das Schwanken entsteht, weil der
+  Fahrer bei der Vorwärtsbewegung ein dynamisches Gleichgewicht aufrechterhält,
+  indem er schnelle Rückkopplungen nutzt, um innerhalb der durch die Umgebung
+  und die Ausrüstung gesetzten Grenzen zu bleiben. Statt viel Zeit und Energie
+  darauf zu verwenden, den \"richtigen\" Weg im Voraus zu bestimmen, behält er
+  sein Ziel im Auge, bleibt im Moment präsent und findet den natürlichsten Weg
+  vorwärts. Das heißt nicht, dass der Radfahrer keinen Plan oder nur eine
+  Vorstellung von seiner wahrscheinlichen Route hat, sondern lediglich, dass er
+  mehr Kontrolle gewinnt, wenn er sich kontinuierlich der Gegenwart und Realität
+  hingibt und seiner Fähigkeit vertraut, im jeweiligen Moment hinzuspüren und zu
+  reagieren. In ähnlicher Weise haben wir die Möglichkeit, mehr Kontrolle in
+  unseren Organisationen zu erlangen, indem wir uns unerbittlich der Realität
+  stellen und uns kontinuierlich anpassen. Wenn wir uns an ein bestimmtes
+  vorhergesagtes Ergebnis klammern, besteht die Gefahr, dass wir die Realität
+  bekämpfen, wenn sie nicht mit unserer Vorhersage übereinstimmt.*^\\[Übersetzt
+  aus: Robertson, Brian J. (2015-06-02). Holacracy: Das neue Managementsystem
+  für eine sich schnell verändernde Welt (Kindle Locations 1765-1781). Henry
+  Holt and Co.. Kindle Edition].\r
 
 
-  ##### ***Internal communication***
+
+  ##### ***Interne Kommunikation***
 
 
-  In Teal, strategy emerges organically from the collective intelligence of everyone in the organization. This collective intelligence is encouraged by sharing company data and information. As everyone is 'in the know', information is available to all to offer strategic suggestions.
+  In Teal-Organisationen entsteht die Strategie organisch aus der kollektiven
+  Intelligenz aller Mitarbeitenden. Diese wird durch den Austausch von
+  Unternehmensdaten und -informationen gefördert. Da jeder Bescheid weiß, stehen
+  die Informationen allen für strategische Vorschläge zur Verfügung.\r
 
 
-  Teal organizations may use 'all-hands meetings' to share important information, and to discuss the organization's response. This reflects trust in the organization's collective intelligence. It also rejects the notion that a only small group of people at the top could master all the complex information necessary to make sound strategic choices.^\[Frederic. Reinventing Organizations (pp110-112). Nelson Parker, 2014.]
+  Teal-Unternehmen können Vollversammlungen nutzen, um wichtige Informationen
+  auszutauschen und die Reaktion der Organisation zu diskutieren. Dies spiegelt
+  das Vertrauen in die kollektive Intelligenz des Unternehmens wider. Außerdem
+  wird damit die Vorstellung ausgehebelt, dass nur eine kleine Gruppe von
+  Personen an der Spitze alle komplexen, für solide strategische Entscheidungen
+  erforderlichen Informationen beherrschen könnte.^\\[Übersetzt aus: Laloux,
+  Frederic, Reinventing Organizations (S. 110-112), Nelson Parker, 2014].\r\n"
 faq:
-  - question: How does Strategy link with the three Teal breakthroughs?
-    answer: >-
-      #### **Self-management**
+  - question: Wie hängt die Strategie mit den drei bahnbrechenden Teal-Elementen
+      zusammen?
+    answer: "#### **Selbstorganisation**
 
 
-      In Teal organizations, thousands of decisions are made by individuals and teams who are trusted to do the right thing. Plans are not handed down from the top with little room to maneuver. People are trusted to plan, make improvements, and execute.
+      In Teal-Organisationen werden Tausende von Entscheidungen von
+      Einzelpersonen und Teams getroffen, denen man zutraut, das Richtige zu
+      tun. Pläne werden nicht mit wenig Spielraum von oben vorgegeben. Man
+      vertraut darauf, dass die Mitarbeitenden planen, Verbesserungen vornehmen
+      und Dinge umsetzen.
 
 
-      #### **Wholeness**
+      #### **Ganzheitlichkeit**
 
 
-      In Teal, employees are encouraged to bring their 'whole self' to work: the emotional, the intuitive, and the spiritual are all welcome. The workplace becomes more holistic as a result. This allows for, and encourages, reflection and mindfulness. Reflection on the company's purpose and direction is encouraged.
+      In Teal-Organisationen werden die Mitarbeitenden ermutigt, sich als
+      ganzer Mensch bei der Arbeit einzubringen: das Emotionale, das Intuitive
+      und das Spirituelle – alles ist willkommen. Der Arbeitsplatz wird dadurch
+      ganzheitlicher. Dies ermöglicht und fördert Reflexion und Achtsamkeit,
+      auch in Bezug auf den Zweck und die Ausrichtung des Unternehmens.
 
 
-      #### **Evolutionary purpose**
+      #### **Evolutionärer Zweck**
 
 
-      Because Teal organizations are driven by evolutionary purpose, traditional strategic planning is replaced by the process of listening to purpose. The purpose of an organization is a manifestation of its collective intelligence, and so its direction cannot be mandated from the top down.
-  - question: Does that mean that in Teal organizations, anticipatory thinking is
-      viewed as a waste of time??
-    answer: >-
-      Brian Robertson offers the following on this topic:
+      \r
+
+      \r
+
+      \r
+
+      \r
+
+      \r
+
+      Da Teal-Organisationen von ihrem evolutionären Zweck geleitet
+      werden, wird die traditionelle strategische Planung durch den Prozess des
+      Hörens auf diesen ersetzt. Der Zweck einer Organisation ist eine
+      Manifestation ihrer kollektiven Intelligenz. Somit kann die Richtung nicht
+      von oben verordnet werden.\r\n"
+  - question: Bedeutet das, dass in Teal-Organisationen vorausschauendes Denken als
+      Zeitverschwendung angesehen wird?
+    answer: "Brian Robertson meint dazu Folgendes:
+
+      \r
 
 
-      *While Holacracy’s approach to strategy resists relying on predictions, that’s not to say all forward-looking projections and anticipatory thinking are useless. In this regard, it’s helpful to understand the difference between a prediction and a projection. “Predict” comes from the Latin præ-, “before,” and dicere, “to say”— thus it literally means “to say before,” or “to foretell, prophesize.” “Project,” on the other hand, is from the Latin pro-, “forward,” and jacere, “to throw”— thus, “to throw forth.” In order to throw forth, you must be firmly grounded in the place you are starting from: the present reality. Getting real data and “throwing it forth” to get a sense of where events are headed is often useful to better understand your context, and it is different than “foretelling and prophesizing” where reality will be in the future.*^[Robertson, Brian J. (2015-06-02). Holacracy: The New Management System for a Rapidly Changing World (Kindle Locations 1834-1842). Henry Holt and Co.. Kindle Edition.]
+      *Auch wenn der Strategieansatz von Holacracy nicht auf Vorhersagen
+      basiert, bedeutet das nicht, dass jegliche Art von Projektion oder
+      vorausschauendes Denken nutzlos sind. Diesbezüglich ist es hilfreich, sich
+      den Unterschied zwischen einer Vorhersage und einer Projektion
+      klarzumachen. \"Vorhersage\" kommt vom lateinischen prae- (vorher) und
+      dicere (sagen) - es bedeutet also wörtlich „vorhersagen\" oder
+      „voraussagen, prophezeien\". „Projektion\" hingegen kommt vom lateinischen
+      pro- (vorwärts) und jacere (werfen), also „vorwärts werfen\". Um vorwärts
+      werfen zu können, muss man fest am Ausgangspunkt – sprich in der
+      gegenwärtigen Realität – verankert sein. Reale Daten zu erhalten und sie
+      „auszuwerfen\", um ein Gefühl dafür zu bekommen, wohin sich die Dinge
+      entwickeln, hilft, den eigenen Kontext besser zu verstehen. Es ist etwas
+      anderes, als „vorherzusagen“ und zu „prophezeien\", wie die Realität in
+      der Zukunft aussehen wird.*^\\[Übersetzt aus: Robertson, Brian J.
+      (2015-06-02). Holacracy: Das neue Managementsystem für eine sich rasant
+      verändernde Welt (Kindle Locations 1834-1842). Henry Holt and Co.. Kindle
+      Edition].\r\n"
 relatedTheory:
   - Listening to Purpose
   - Innovation and Product Development
