@@ -3,64 +3,53 @@ layout: case
 tags: cases
 name: Buurtzorg
 date: 2020-11-17T14:48:06.315Z
-introduction: "**Buurtzorg Nederland** is a Dutch home-care organization which
-  has attracted international attention for its innovative use of independent
-  nurse teams in delivering relatively low-cost care. Buurtzorg is Dutch for
-  “neighborhood care”.
+introduction: >-
+  **Buurtzorg Nederland** est une organisation néerlandaise de soins à domicile
+  qui a attiré l'attention internationale pour son utilisation innovante
+  d'équipes d'infirmières indépendantes dans la prestation de soins relativement
+  peu coûteux. Buurtzorg est le terme néerlandais pour "soins de proximité".
 
 
-  **History**
+  **Histoire**
 
 
-  It was founded in 2006 in the small city of Almelo by Jos de Blok and a
-  small team of professional nurses who were dissatisfied with the delivery of
-  health care by traditional home care organizations in the Netherlands.
-  According to Sharda S. Nandram, the company has created a new management
-  approach: “integrating simplification,” characterized by a simple, flat
-  organizational structure through which a wide range of services, facilitated
-  by information technology, can be provided.\r
-
-  \r\n"
+  Elle a été fondée en 2006 dans la petite ville d'Almelo par Jos de Blok et une petite équipe d'infirmiers professionnels qui n'étaient pas satisfaits de la prestation des soins de santé délivrée par les organisations traditionnelles de soins à domicile aux Pays-Bas. Selon Sharda S. Nandram, l'entreprise a créé une nouvelle approche de gestion : "la simplification intégratrice", caractérisée par une structure organisationnelle simple et plate permettant de fournir un large éventail de services, facilités par les technologies de l'information.
 industry: "Q : SANTÉ HUMAINE ET ACTION SOCIALE"
 geography: Pays-Bas
 companySize: "> 500"
 profit: à but non lucratif
 theory:
   - topic: Listening to Purpose
-    title: Buurtzorg + approach
-    content: "Two nurses on a Buurtzorg team found themselves pondering the fact
-      that elderly people, when they fall, often break their hips. Hip
-      replacements are routine surgery, but patients don’t always recover the
-      same autonomy. Could Buurtzorg play a role in preventing its older
-      patients from falling down? The two nurses experimented and created a
-      partnership with a physiotherapist and an occupational therapist from
-      their neighborhood. They advised patients on small changes they could
-      bring to their home interiors, and changes of habits that would minimize
-      risks of falling down. Other teams showed interest, and the approach, now
-      called Buurtzorg +, has spread throughout the country.\r
-
-      \r
-
-      The two nurses sensed a need, and with the power of self-management
-      acted upon it. Self-management helped the idea to spread. Any team
-      interested in Buurtzorg + can sign up for a training event that teaches
-      them the basics of how the concept works and how to create such a
-      partnership in their neighborhood.^[Laloux, Frederic (2014-02-09).
-      Reinventing Organizations: A Guide to Creating Organizations Inspired by
-      the Next Stage of Human Consciousness (Kindle Locations 4396-4406). Nelson
-      Parker. Kindle Edition.]"
-  - topic: sales-marketing
-    title: Has grown from 4 people in 2007 to 10,000 employees in 2016 without using
-      any marketing.
+    title: Buurtzorg + approche
     content: >-
-      At [Buurtzorg](https://www.buurtzorgnederland.com/), with a 10,000 people
-      organization only 45 people work at the head office and there is no
-      marketing department. In fact, since the organization was started in 2007
-      they have not used any conventional marketing at all. From the beginning
-      Buurtzorg focused on patients and on solving problems.
+      Deux infirmières d'une équipe de Buurtzorg se sont interrogées sur le fait
+      que les personnes âgées, lorsqu'elles tombent, se cassent souvent la
+      hanche. Les prothèses de hanche sont des opérations de routine, mais les
+      patients ne retrouvent pas toujours la même autonomie. Buurtzorg
+      pourrait-il jouer un rôle dans la prévention des chutes de ses patients
+      âgés ? Les deux infirmières ont expérimenté et créé un partenariat avec un
+      physiothérapeute et un ergothérapeute de leur quartier. Elles ont
+      conseillé les patients sur les petits changements qu'ils pouvaient
+      apporter à l'intérieur de leur maison, et les changements d'habitudes qui
+      minimiseraient les risques de chute. D'autres équipes se sont montrées
+      intéressées, et l'approche, désormais appelée Buurtzorg +, s'est répandue
+      dans tout le pays.
 
 
-      "We believed this would create a better result. We would not use any marketing, instead use free publicity when people were satisfied with our services.", says Jos de Blok. Today Buurtzorg work a lot on establishing close and genuine relationships with patients, different stakeholders and other people with a natural interest in their services. Because of the success of the organization, this also includes communication with media and newspapers in an effort to meet the interest that has been generated by many years of good word of mouth. "Buurtzorg has become associated with something “good” now, so it is easier for us nowadays.", says Jos de Blok.
+      Les deux infirmières ont perçu un besoin et, grâce au pouvoir de l'autogestion, ont agi. L'autogestion a contribué à la diffusion de l'idée. Toute équipe intéressée par Buurtzorg + peut s'inscrire à une formation qui lui apprend les bases du fonctionnement du concept et comment créer un tel partenariat dans son quartier.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4396-4406). Nelson Parker. Kindle Edition.]
+  - topic: sales-marketing
+    title: Est passé de 4 personnes en 2007 à 10 000 employés en 2016 sans utiliser
+      le moindre marketing.
+    content: >-
+      Chez [Buurtzorg](https://www.buurtzorgnederland.com), une organisation de
+      10 000 personnes, seules 45 personnes travaillent au siège et il n'y a pas
+      de département marketing. En fait, depuis la création de l'organisation en
+      2007, elle n'a jamais utilisé de marketing conventionnel. Dès le début,
+      Buurtzorg s'est concentré sur les patients et sur la résolution des
+      problèmes.
+
+
+      "Nous pensions que cela donnerait de meilleurs résultats. Nous n'utilisions pas de marketing, mais plutôt de la publicité gratuite lorsque les gens étaient satisfaits de nos services", explique Jos de Blok. Aujourd'hui, Buurtzorg s'efforce d'établir des relations étroites et authentiques avec les patients, les différentes parties prenantes et d'autres personnes ayant un intérêt naturel pour ses services. Le succès de l'organisation, cela inclut également la communication avec les médias et les journaux, ainsi que le bon bouche à oreille ont généré un fort intérêt depuis de nombreuses années. "Buurtzorg est désormais associé à quelque chose de "bon", c'est donc plus facile pour nous aujourd'hui", déclare Jos de Blok.
   - topic: Organizational Structure
     title: Buurtzorg uses a geographically-based parallel team structure and team
       coaches.
