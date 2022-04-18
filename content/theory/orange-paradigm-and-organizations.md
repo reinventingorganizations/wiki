@@ -1,21 +1,22 @@
 ---
 layout: article
 tags: theory
-key: Orange Paradigm and Organizations
-name: Orange Paradigm and Organizations
+key: Organisations et paradigme Orange
+name: Organisations et paradigme Orange
 sortOrder: 4
 category: history
 intro: >-
-  Orange organizations represent the advance of the scientific and industrial
-  revolutions. The world is seen as a complex machine whose inner workings and
-  natural laws can be investigated and understood. This view has profoundly
-  transformed humanity in the last two centuries bringing unprecedented levels
-  of prosperity and life expectancy. Current management thinking, which is
-  focused on competition, innovation and performance. shape how Orange
-  organizations operate. Leadership changes from command-and-control to
-  predict-and-control (management by objectives). The Organization as a machines
-  is the dominant metaphor for the Orange world view. Most large corporations
-  operate from this paradigm today. 
+  Les organisations Orange représentent l'avancée des révolutions scientifique
+  et industrielle. Le monde est considéré comme une machine complexe dont les
+  rouages internes et les lois naturelles peuvent être étudiés et compris. Cette
+  vision a profondément transformé l'humanité au cours des deux derniers siècles
+  en apportant des niveaux de prospérité et d'espérance de vie sans précédent.
+  La pensée actuelle en matière de gestion, qui est axée sur la concurrence,
+  l'innovation et la performance, façonne le fonctionnement des organisations
+  d'Orange. Le leadership passe du commandement et du contrôle à la prévision et
+  à la vérification (management par objectifs). L'organisation en tant que
+  machine est la métaphore dominante de la vision du monde d'Orange. La plupart
+  des grandes entreprises fonctionnent aujourd'hui selon ce paradigme.
 
 
   ![](/media/orange.jpg)
@@ -24,80 +25,80 @@ intro: >-
   #### Orange stage of consciousness
 
 
-  From an Orange perspective, the world is no longer seen as a fixed universe governed by immutable rules; instead it is seen as a complex machine, whose inner workings and natural laws can be investigated and understood.
+  Du point de vue d'Orange, le monde n'est plus considéré comme un univers fixe régi par des règles immuables, mais comme une machine complexe dont les rouages internes et les lois naturelles peuvent être étudiés et compris.
 
 
-  If I am faster, smarter and more innovative than others in understanding and manipulating the world, then I will achieve more success, wealth, market share or whatever else I desire. .
+  Si je suis plus rapide, plus intelligent et plus innovant que les autres dans la compréhension et la manipulation du monde, alors j'obtiendrai plus de succès, de richesse, de parts de marché ou tout ce que je désire. .
 
 
-  Piaget, the child psychologist, gave us a defining experiment for Orange cognitive thinking: 
+  Piaget, le psychologue pour enfants, nous a donné une expérience déterminante pour la pensée cognitive d'Orange : 
 
 
-  * *A person is given three glasses of clear liquid and told that they can be mixed in a way that will produce a yellow color.*
+  * *On donne à une personne trois verres de liquide clair et on lui dit qu'elle peut les mélanger de manière à obtenir une couleur jaune.*
 
-  * *People, whose thinking hasn’t reached the Orange stage will simply start mixing the liquids together haphazardly.*
+  * *Les personnes dont la pensée n'a pas atteint le stade orange commenceront simplement à mélanger les liquides au hasard.*
 
-  * *Those with an Orange level cognition will first form a general picture of the fact that you have to try glass A with glass B, then A with C, then B with C and so on. They will  try all the various combinations one at a time.*
-
-
-  It means people can begin to imagine different worlds. “What if” and “as if” can be grasped for the first time. All kinds of idealistic possibilities open up. With this cognitive capacity one can question authority, group norms, and the inherited status quo. Orange cognition has opened the floodgates of scientific investigation, innovation, and entrepreneurship.
+  * *\*Les personnes dont la cognition a atteint le niveau orange vont d'abord se faire une idée générale du fait qu'il faut essayer le verre A avec le verre B, puis A avec C, puis B avec C et ainsi de suite. Ils essaieront toutes les différentes combinaisons une par une.*
 
 
-  The worldview at this stage is solidly materialistic―only what can be seen and touched is real. The Orange worldview is suspicious of any form of spirituality and transcendence because of the difficulty in believing something that cannot empirically be proven or observed. In this material world, more is generally considered better.
+  Cela signifie que les gens peuvent commencer à imaginer des mondes différents. Les expressions "et si" et "comme si" peuvent être saisies pour la première fois. Toutes sortes de possibilités idéalistes s'ouvrent. Grâce à cette capacité cognitive, on peut remettre en question l'autorité, les normes de groupe et le statu quo hérité. La cognition orange a ouvert les vannes de la recherche scientifique, de l'innovation et de l'esprit d'entreprise.
 
 
-  #### Shadows of the Orange stage of development
+  À ce stade, la vision du monde est solidement matérialiste - seul ce qui peut être vu et touché est réel. La vision orange du monde se méfie de toute forme de spiritualité et de transcendance, car il est difficile de croire à quelque chose qui ne peut être prouvé ou observé de manière empirique. Dans ce monde matériel, le plus est généralement considéré comme le mieux.
 
 
-  Every paradigm, seen from a more advanced stage, has its shadows. The dark side of the Orange paradigm is hard to ignore: corporate greed, political short-termism, over leverage, over-consumption, and the reckless exploitation of the planet’s resources and ecosystems.
+  #### Les ombres du stade Orange
 
 
-  Another  shadow is “innovation gone mad.” With most of our basic needs taken care of, businesses increasingly try to create needs, feeding the illusion that more stuff will make us happy and whole.
+  Tout paradigme, vu d'un stade plus avancé, a ses ombres. La face cachée du paradigme Orange est difficile à ignorer : l'avidité des entreprises, le court-termisme politique, l'excès de levier, la surconsommation et l'exploitation irréfléchie des ressources et des écosystèmes de la planète.
 
 
-  A further shadow appears when success is measured solely in terms of money and recognition. When growth and the bottom line are all that count, and when the only successful life is one that reaches the top, people often experience a sense of emptiness in their lives.
+  Une autre ombre est "l'innovation devenue folle". Alors que la plupart de nos besoins fondamentaux sont satisfaits, les entreprises tentent de plus en plus de créer des besoins, alimentant l'illusion que plus de choses nous rendront heureux et entiers.
 
 
-  However, these shouldn’t eclipse the liberation this stage has brought. Making it OK to question authority has allowed us to engage, for the first time, in the pursuit of truth regardless of religious dogma or political authority. We have become capable of questioning and stepping out of the condition we were born into; we are capable of breaking free from the thoughts and behaviors that gender and our social class would have imposed upon us in earlier times.
+  Une autre ombre apparaît lorsque le succès est mesuré uniquement en termes d'argent et de reconnaissance. Lorsque la croissance et les résultats financiers sont tout ce qui compte, et que la seule vie réussie est celle qui atteint le sommet, les gens éprouvent souvent un sentiment de vide dans leur vie.
 
 
-  #### Breakthroughs and characteristics of Orange organizations
+  Cependant, cela ne doit pas éclipser la libération que cette étape a apportée. Le fait de pouvoir remettre en question l'autorité nous a permis de nous engager, pour la première fois, dans la recherche de la vérité, indépendamment du dogme religieux ou de l'autorité politique. Nous sommes devenus capables de remettre en question et de sortir de la condition dans laquelle nous sommes nés ; nous sommes capables de nous libérer des pensées et des comportements que le sexe et la classe sociale nous auraient imposés dans le passé.
 
 
-  Street gangs and mafias are contemporary examples of Red Organizations. The Catholic Church, the military, and the public school system are archetypes of Amber Organizations. Modern global corporations are the embodiment of Orange Organizations. In terms of outcome, Amber Organizations surpassed anything Red Organizations could even contemplate.
+  #### Percées et caractéristiques des organisations Oranges
 
 
-  Orange Organizations ratcheted this up another level, achieving results on entirely new orders of magnitude, thanks to three additional breakthroughs: innovation, accountability, and meritocracy.
+  Les gangs de rue et les mafias sont des exemples contemporains d'organisations Rouge. L'Église catholique, l'armée et le système scolaire public sont des archétypes d'organisations Ambre. Les entreprises mondiales modernes sont l'incarnation des organisations Orange. En termes de résultats, les organisations Ambre dépassent tout ce que les organisations rouges peuvent même envisager.
 
 
-  ##### Orange breakthrough 1: Innovation
+  Les organisations Orange sont passées à la vitesse supérieure, obtenant des résultats d'une ampleur entièrement nouvelle, grâce à trois autres percées : l'innovation, la responsabilité et la méritocratie.
 
 
-  People operating from the Orange paradigm can live in a world of possibilities; what is not yet, could be one day. They can question the status quo and formulate ways to improve it. Unsurprisingly, leaders of Orange Organizations don’t tire of saying that change and innovation are not threats, but opportunities. Orange Organizations retain a hierarchical pyramid, but create departments such as R&D , Marketing and Product Management to foster and enable innovation. Project and cross–functional teams come together to look at problems and issues in new ways.
+  ##### Stade Orange, révolution n°1 : L'innovation
 
 
-  ##### Orange breakthrough 2: Accountability
+  Les personnes opérant à partir du paradigme Orange peuvent vivre dans un monde de possibilités ; ce qui n'est pas encore, pourrait être un jour. Ils peuvent remettre en question le statu quo et formuler des moyens de l'améliorer. Il n'est pas surprenant que les dirigeants des organisations Orange ne se lassent pas de dire que le changement et l'innovation ne sont pas des menaces, mais des opportunités. Les organisations Orange conservent une pyramide hiérarchique, mais créent des départements tels que la R&D, le marketing et la gestion des produits pour encourager et permettre l'innovation. Des équipes de projet et des équipes interfonctionnelles se réunissent pour aborder les problèmes et les questions sous un angle nouveau.
 
 
-  A subtle but profound change takes place in leadership and management style. Amber command and control becomes Orange predict and control. In order to innovate more often and faster than others, it becomes a competitive advantage to tap into the intelligence of many brains in the organization. More people in the organization are given room to maneuver and are empowered and trusted to think and make decisions.
+  ##### Stade Orange, révolution n° 2: La responsabilité
 
 
-  Orange Organizations have invented a host of incentive processes to motivate employees to reach the targets that have been set, including performance appraisals, bonus schemes, quality awards, and stock options. To put it simply, where Amber relied on sticks, Orange came up with carrots.
+  Un changement subtil mais profond s'opère dans le style de leadership et de management. Le commandement et le contrôle ambiants deviennent la prédiction et la vérification Orange. Afin d'innover plus souvent et plus rapidement que les autres, il devient un avantage concurrentiel d'exploiter l'intelligence de nombreux cerveaux dans l'organisation. Un plus grand nombre de personnes au sein de l'organisation disposent d'une marge de manœuvre et sont habilitées à réfléchir et à prendre des décisions, en toute confiance.
 
 
-  The breakthrough in terms of freedom is real. Managers and employees are given room to exercise their creativity and talent and the latitude to figure out how they want to reach their objectives. In practice fear of failure often drives managers to keep control rather than delegating, thus losing the benefits of distributing responsibility.
+  Les organisations Orange ont inventé toute une série de processus d'incitation pour motiver les employés à atteindre les objectifs fixés, notamment l'évaluation des performances, les systèmes de primes, les prix de qualité et les options d'achat d'actions. Pour faire simple, là où Ambre s'appuyait sur des bâtons, Orange a inventé des carottes.
 
 
-  ##### Orange breakthrough 3: Meritocracy
+  L'avancée en termes de liberté est réelle. Les managers et les employés ont la possibilité d'exercer leur créativité et leur talent et ont la latitude de déterminer comment ils veulent atteindre leurs objectifs. Dans la pratique, la peur de l'échec pousse souvent les managers à garder le contrôle plutôt qu'à déléguer, perdant ainsi les avantages de la répartition des responsabilités.
 
 
-  Orange Organizations have adopted the radical idea of meritocracy. In principle, anybody can move up the ladder, and nobody has to be confined to their position. The mailroom boy can become the CEO―even if that boy happens to be a girl or has a minority background. Orange has given birth to modern human resources and a range of processes and practices, including performance appraisal, incentive systems, resource planning, talent management, leadership training, and succession planning.
+  ##### Stade Orange, révolution n° 3 : La Méritocratie
 
 
-  It is hard to overstate the historical significance of the idea of meritocracy. People now take responsibility for managing their careers and expect to change positions every few years, either inside the organization, or outside if needed.
+  Les organisations Orange ont adopté l'idée radicale de la méritocratie. En principe, tout le monde peut gravir les échelons, et personne ne doit être confiné à son poste. Le garçon du courrier peut devenir PDG, même s'il s'agit d'une fille ou d'un membre d'une minorité. Orange a donné naissance aux ressources humaines modernes et à une série de processus et de pratiques, notamment l'évaluation des performances, les systèmes d'incitation, la planification des ressources, la gestion des talents, la formation au leadership et la planification de la relève.
 
 
-  Identity is no longer fused with rank and title; instead it is synonymous  with our need to be seen as competent, successful and ready for the next promotion.
+  Il est difficile de surestimer l'importance historique de l'idée de méritocratie. Les gens assument désormais la responsabilité de la gestion de leur carrière et s'attendent à changer de poste tous les quelques années, soit au sein de l'organisation, soit en dehors si nécessaire.
+
+
+  L'identité ne se confond plus avec le rang et le titre ; elle est plutôt synonyme de notre besoin d'être considéré comme compétent, performant et prêt pour la prochaine promotion.
 
 
   ##### Orange metaphor: organizations as machines
