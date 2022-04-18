@@ -37,7 +37,7 @@ theory:
 
 
       Les deux infirmières ont perçu un besoin et, grâce au pouvoir de l'autogestion, ont agi. L'autogestion a contribué à la diffusion de l'idée. Toute équipe intéressée par Buurtzorg + peut s'inscrire à une formation qui lui apprend les bases du fonctionnement du concept et comment créer un tel partenariat dans son quartier.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4396-4406). Nelson Parker. Kindle Edition.]
-  - topic: sales-marketing
+  - topic: commercial-marketing
     title: Est passé de 4 personnes en 2007 à 10 000 employés en 2016 sans utiliser
       le moindre marketing.
     content: >-
