@@ -101,16 +101,16 @@ intro: >-
   L'identité ne se confond plus avec le rang et le titre ; elle est plutôt synonyme de notre besoin d'être considéré comme compétent, performant et prêt pour la prochaine promotion.
 
 
-  ##### Orange metaphor: organizations as machines
+  ##### Métaphore Orange : organization comme des machines
 
 
-  Orange thinking sees organizations as machines. The engineering jargon we use to talk about organizations reveals how deeply we hold this metaphor. We talk about units and layers, inputs and outputs, efficiency and effectiveness, pulling the lever and moving the needle, accelerating and hitting the brakes, scoping problems and scaling solutions, information flows and bottlenecks, re-engineering and downsizing.
+  La pensée Orange considère les organisations comme des machines. Le jargon d'ingénieur que nous utilisons pour parler des organisations révèle à quel point cette métaphore nous tient à cœur. Nous parlons d'unités et de couches, d'entrées et de sorties, d'efficience et d'efficacité, de tirer le levier et de faire bouger l'aiguille, d'accélérer et de freiner, d'évaluer les problèmes et d'adapter les solutions, de flux d'informations et de goulots d'étranglement, de réingénierie et de réduction des effectifs.
 
 
-  Leaders and consultants design organizations. Humans are resources that must be carefully aligned on the chart, rather like cogs in a machine. Changes must be planned and mapped out in blueprints, then carefully implemented according to plan. If some of the machinery functions below the expected rhythm, it’s probably time for a “soft” intervention―the occasional team-building―like injecting oil to grease the wheels.
+  Les dirigeants et les consultants conçoivent les organisations. Les êtres humains sont des ressources qui doivent être soigneusement alignées sur le graphique, un peu comme les rouages d'une machine. Les changements doivent être planifiés et tracés dans des plans, puis soigneusement mis en œuvre conformément au plan. Si une partie de la machinerie fonctionne en deçà du rythme prévu, il est probablement temps de procéder à une intervention "douce" - la constitution occasionnelle d'une équipe, comme l'injection d'huile pour graisser les roues.
 
 
-  The machine metaphor also reveals the dynamic nature of organizations in Orange (as compared to Amber, where we think of organizations as rigid, unchanging sets of rules and hierarchies). There is room for energy, creativity, and innovation. At the same time, the metaphor of the machine indicates that these organizations, however much they brim with activity, can still feel lifeless and soulless.
+  La métaphore de la machine révèle également la nature dynamique des organisations en Orange (par rapport à l'Ambre, où nous considérons les organisations comme des ensembles rigides et immuables de règles et de hiérarchies). Il y a de la place pour l'énergie, la créativité et l'innovation. En même temps, la métaphore de la machine indique que ces organisations, même si elles débordent d'activité, peuvent se sentir sans vie et sans âme.
 perspective: ""
 inPractice: ""
 ---
