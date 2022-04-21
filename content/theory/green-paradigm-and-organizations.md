@@ -140,7 +140,7 @@ intro: >-
   Mais si le paradigme Vert est un alternative salutaire à l'Orange et, dans une certaine mesure, aux étapes précédentes, c'est aussi une étape qui risque de se durcir de manière excessive dans son propre schéma et de révéler ses propres tendances négatives.
 
 
-  ##### Relativism without boundaries
+  ##### Un relativisme sans frontières
 
 
   Green is put in a dilemma when its benevolence and tolerance is abused by the same groups that Green wants to invite into equality on equal terms. Green shadow is forced to choose between accepting when non-tolerant Amber and Red abuses its tolerance or to acknowledge that not all worldviews have the same level of maturity and may need different levels of limitation.
