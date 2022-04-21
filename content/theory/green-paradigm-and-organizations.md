@@ -123,7 +123,7 @@ intro: >-
   Chez Southwest, l'une des huit injonctions est d'afficher "un cœur de serviteur". Dans le Southwest Way, il s'agit pour les employés d'"embrasser la famille SWA".
 
 
-  DaVita, un opérateur majeur de centres de dialyse aux États-Unis, a mis en œuvre les principes du paradigme Vert de manière très cohérente.^[Le Stanford Business Case 2006 sur DaVita est très lisible et constitue une bonne ressource pour les lecteurs souhaitant se plonger dans une description plus détaillée des principes et pratiques organisationnels Verts.] Il utilise une autre métaphore communautaire, le village, et appelle ses 41 000 employés des citoyens. Le siège de l'entreprise est connu sous le nom de Casa DaVita, tandis que Kent Thiry, le président-directeur général, est appelé maire du village. On lui attribue le mérite d'avoir sauvé l'entreprise de la quasi-faillite en 1999 et de son succès actuel grâce à la culture Verte qu'il a instaurée.
+  DaVita, un opérateur majeur de centres de dialyse aux États-Unis, a mis en œuvre les principes du paradigme Vert de manière très cohérente.^[Le Stanford Business Case 2006 sur DaVita est très lisible et constitue une bonne ressource pour les lecteurs souhaitant se plonger dans une description plus détaillée des principes et pratiques organisationnels du paradigme Vert.] Il utilise une autre métaphore communautaire, le village, et appelle ses 41 000 employés des citoyens. Le siège de l'entreprise est connu sous le nom de Casa DaVita, tandis que Kent Thiry, le président-directeur général, est appelé maire du village. On lui attribue le mérite d'avoir sauvé l'entreprise de la quasi-faillite en 1999 et de son succès actuel grâce à la culture Verte qu'il a instaurée.
 
 
   #### The Shadow of Green
