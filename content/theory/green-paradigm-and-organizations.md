@@ -96,10 +96,10 @@ intro: >-
   Dans les organisations Orange, la stratégie et son exécution sont primordiales. Dans les organisations vertes, la culture est primordiale. Les PDG des organisations Vertes affirment que la promotion de la culture et des valeurs partagées est leur tâche principale. Cette orientation confère aux ressources humaines (RH) un rôle central. Le directeur des RH est souvent un membre influent de l'équipe dirigeante et un conseiller direct du PDG. Il est à la tête d'une équipe conséquente qui orchestre des investissements importants dans des processus tels que la formation, les initiatives culturelles, le feedback à 360°, la planification de la continuité et les enquêtes sur le bien-être des collaborateurs.
 
 
-  ##### Green breakthrough 3: Multiple stakeholder perspective
+  ##### Avancée verte #3 : La perspective des différentes parties prenantes
 
 
-  Green Organizations insist that businesses have a responsibility not only to investors, but also to management, employees, customers, suppliers, local communities, society at large, and the environment. The role of leadership is to make the right trade-offs so that all stakeholders can thrive.
+  Les organisations Vertes insistent sur le fait que les entreprises ont une responsabilité non seulement envers les investisseurs, mais aussi envers la direction, les employés, les clients, les fournisseurs, les communautés locales, la société en général et l'environnement. Le rôle du leadership est de faire les bons compromis afin que toutes les parties prenantes puissent prospérer.
 
 
   This is in contrast with the Orange perspective that for-profit companies should operate with a shareholder perspective and that management’s primary obligation is to maximize profits for investors. Adam Smith’s “invisible hand” is often invoked to explain how this benefits all stakeholders in the long run.
