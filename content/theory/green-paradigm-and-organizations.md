@@ -143,7 +143,7 @@ intro: >-
   ##### Un relativisme sans frontières
 
 
-  Green is put in a dilemma when its benevolence and tolerance is abused by the same groups that Green wants to invite into equality on equal terms. Green shadow is forced to choose between accepting when non-tolerant Amber and Red abuses its tolerance or to acknowledge that not all worldviews have the same level of maturity and may need different levels of limitation.
+  Le paradigme Vert est confronté à un véritable dilemme lorsque sa bienveillance et sa tolérance sont malmenées par ces mêmes groupes qu'il souhaite inviter à le rejoindre  sur un pied d'égalité. L'ombre du paradigme Vert le contraint de choisir entre l'acceptation des groupes Ambres et Rouge eux-mêmes intolérants ou la reconnaissance du fait que toutes les visions du monde n'ont pas le même niveau de maturité et peuvent nécessiter différents niveaux de limitation.
 
 
   ##### Non-rational is better
