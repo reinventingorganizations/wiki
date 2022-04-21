@@ -146,10 +146,10 @@ intro: >-
   Le paradigme Vert est confronté à un véritable dilemme lorsque sa bienveillance et sa tolérance sont malmenées par ces mêmes groupes qu'il souhaite inviter à le rejoindre  sur un pied d'égalité. L'ombre du paradigme Vert le contraint de choisir entre l'acceptation des groupes Ambres et Rouge eux-mêmes intolérants ou la reconnaissance du fait que toutes les visions du monde n'ont pas le même niveau de maturité et peuvent nécessiter différents niveaux de limitation.
 
 
-  ##### Non-rational is better
+  ##### Le non-rationnel, c'est mieux
 
 
-  In an effort to distance itself from Orange (rational) views, Green shadow sees all non-rational value systems as preferable. Green has a romantic notion with ‘back to nature’. It often does not see how pre-rational worldviews are deeply limited and how different they are from post-rational Green worldviews.
+  Dans un effort pour se distancer des positions Oranges (rationnelles), l'ombre du paradigme Vert considère tous les systèmes de valeurs non rationnels comme préférables. Le Vert a une conception romantique du "retour à la nature". Souvent, il ne voit pas à quel point les visions du monde pré-rationnelles sont profondément limitées et à quel point elles sont différentes des visions du monde Vertes post-rationnelles.
 
 
   ##### Accidental sameness as an externality of pluralistic identity
