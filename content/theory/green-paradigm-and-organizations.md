@@ -102,28 +102,28 @@ intro: >-
   Les organisations Vertes insistent sur le fait que les entreprises ont une responsabilité non seulement envers les investisseurs, mais aussi envers la direction, les employés, les clients, les fournisseurs, les communautés locales, la société en général et l'environnement. Le rôle du leadership est de faire les bons compromis afin que toutes les parties prenantes puissent prospérer.
 
 
-  This is in contrast with the Orange perspective that for-profit companies should operate with a shareholder perspective and that management’s primary obligation is to maximize profits for investors. Adam Smith’s “invisible hand” is often invoked to explain how this benefits all stakeholders in the long run.
+  Cela contraste avec la perspective Orange selon laquelle les entreprises à but lucratif doivent fonctionner dans une logique d'actionnaire et que l'obligation première de la direction est de maximiser les profits pour les investisseurs. La "main invisible" d'Adam Smith est souvent invoquée pour expliquer comment cela profite à toutes les parties prenantes à long terme.
 
 
-  While many large organizations today are required to publish a social responsibility report, Green Organizations consider social responsibility integral to how they do business. It is not a distracting obligation.
+  Alors que de nombreuses grandes organisations sont aujourd'hui tenues de publier un rapport sur la responsabilité sociale, les organisations Vertes considèrent que la responsabilité sociale fait partie intégrante de leur mode de fonctionnement. Elle ne constitue pas une obligation gênante.
 
 
-  Social responsibility provides the motivation to innovate and to become better corporate citizens. They work with suppliers in developing countries to improve working conditions and prevent child labor; they reduce their carbon footprint and use of water; they may recycle products and reduce packaging.
+  La responsabilité sociale constitue une incitation à innover et à devenir des entreprises plus citoyennes. Elles travaillent avec des fournisseurs situés dans des pays en développement pour améliorer les conditions de travail et prévenir le travail des enfants ; elles réduisent leur empreinte carbone et leur consommation d'eau ; elles sont susceptibles de recycler les produits et de réduire les emballages.
 
 
-  Leaders in Green Organizations maintain that while the “stakeholder perspective” might mean higher costs in the short term, it will deliver benefits for all in the long run—including shareholders.
+  Les dirigeants d'organisations Vertes affirment que si la " prise en compte des parties prenantes " peut entraîner des coûts plus élevés à court terme, elle sera bénéfique pour tous à long terme, y compris pour les actionnaires.
 
 
-  ##### Family as the guiding metaphor
+  ##### La famille en guise de référence
 
 
-  The dominant metaphor in Green is the family. This contrasts with the ‘organization as a machine’ in Achievement Orange. When leaders of Green Organizations speak, you can’t fail to notice how frequently the metaphor comes up: employees are part of the same family, in it together, ready to help each other out, being there for one another.
+  La métaphore dominante du paradigme Vert est la famille. Elle contraste avec "l'organisation en tant que machine" de la réalisation orange. Lorsque les dirigeants des organisations vertes s'expriment, vous ne pouvez pas manquer de remarquer combien cette métaphore revient fréquemment : les employés font partie de la même famille, ils sont dans le même bateau, prêts à s'entraider, à être là les uns pour les autres.
 
 
-  At Southwest, one of eight injunctions is to display “a servant’s heart”. In the Southwest Way it is for employees to “Embrace the SWA family.”
+  Chez Southwest, l'une des huit injonctions est d'afficher "un cœur de serviteur". Dans le Southwest Way, il s'agit pour les employés d'"embrasser la famille SWA".
 
 
-  DaVita, a leading operator of dialysis centers, that has implemented Green principles with great consistency.^\[The 2006 Stanford Business Case on DaVita is highly readable and a good resource for readers wanting to immerse themselves in a more detailed description of Green organizational principles and practices.]It uses another community metaphor, the Village, and calls its 41,000 employees citizens. Corporate headquarters is known as Casa DaVita, while Kent Thiry, the chairman and CEO is called Mayor of the Village. He is credited with having rescued the company from virtual bankruptcy in 1999 to its current success by virtue of the Green culture he brought about.
+  DaVita, un opérateur majeur de centres de dialyse aux États-Unis, a mis en œuvre les principes du paradigme Vert de manière très cohérente.^[Le Stanford Business Case 2006 sur DaVita est très lisible et constitue une bonne ressource pour les lecteurs souhaitant se plonger dans une description plus détaillée des principes et pratiques organisationnels Verts.] Il utilise une autre métaphore communautaire, le village, et appelle ses 41 000 employés des citoyens. Le siège de l'entreprise est connu sous le nom de Casa DaVita, tandis que Kent Thiry, le président-directeur général, est appelé maire du village. On lui attribue le mérite d'avoir sauvé l'entreprise de la quasi-faillite en 1999 et de son succès actuel grâce à la culture Verte qu'il a instaurée.
 
 
   #### The Shadow of Green
