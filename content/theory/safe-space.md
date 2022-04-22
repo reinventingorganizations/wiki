@@ -13,11 +13,11 @@ intro: >-
 
   ![](/media/safe-space-medium-small.png)
 perspective: >-
-  [Teal organizations](../teal-paradigm-and-organizations/) aim to establish a
-  safe space that allows colleagues to show up with all of who they are, their
-  masculine as well as their feminine selves, their rational, emotional,
-  intuitive and spiritual selves, their strengths and vulnerability, their
-  deeper hopes and longings. 
+  [Les organisations Opales](../teal-paradigm-and-organizations/) visent à
+  établir un espace protégé qui permet aux collègues de se montrer avec tout ce
+  qu'ils sont, leur moi masculin et féminin, leur moi rationnel, émotionnel,
+  intuitif et spirituel, leurs forces et leur vulnérabilité, leurs espoirs et
+  leurs désirs les plus profonds. 
 
 
   ### Red organizations
