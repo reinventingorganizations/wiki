@@ -2,13 +2,13 @@
 layout: article
 tags: theory
 key: Creating Safe Space
-name: Safe Space
+name: "Espaces de recueillement "
 sortOrder: 7
 category: Daily practices
 intro: >-
-  This article covers the topic of how organizations can create a space that
-  enables the safety necessary for colleagues to feel they can show up whole at
-  work.
+  Cet article traite de la manière dont les organisations peuvent créer un
+  espace qui offre la sécurité nécessaire pour que les collègues sentent qu'ils
+  peuvent se sentir en plénitude au travail.
 
 
   ![](/media/safe-space-medium-small.png)
