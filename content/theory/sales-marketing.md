@@ -2,65 +2,94 @@
 layout: article
 tags: theory
 key: sales-marketing
-name: Sales and Marketing
+name: Vertrieb und Marketing
 sortOrder: 3
 category: Important Processes
-intro: This article discusses sales and marketing processes in Teal organizations.
+intro: Dieser Abschnitt befasst sich mit den Vertriebs- und Marketingprozessen
+  in Teal-Organisationen.
 perspective: >-
-  Starting with the Orange paradigm, businesses have become highly sophisticated
-  at segmenting customers based on their conscious and unconscious needs,
-  preferences and buying behaviors. Driven by the objective of outmaneuvering
-  the competition, they carefully position their products and services for each
-  segment. This has contributed importantly to the innovation brought about in
-  Orange and Green, but increasingly, in our mature markets, it seems companies
-  are bent on creating new needs over meeting existing ones. In this process,
-  they often play on our fears and vanities. “Buy this and you will feel good
-  about yourself.” “Buy this and others will like you.” “Buy this and you will
-  be successful.”
+  Ausgehend vom orangen Paradigma haben Unternehmen die Segmentierung der
+  Kundenkreise auf der Grundlage ihrer bewussten und unbewussten Bedürfnisse und
+  Präferenzen sowie ihres Kaufverhaltens sehr gut entwickelt. Mit dem Ziel, die
+  Konkurrenz auszustechen, positionieren sie ihre Produkte und Dienstleistungen
+  sorgfältig für jedes Segment. Dies hat wesentlich zur Innovation in orangen
+  und grünen Organisationen beigetragen. In unseren reifen Märkten jedoch
+  scheinen die Unternehmen zunehmend darauf aus zu sein, neue Bedürfnisse zu
+  wecken, anstatt bestehende zu erfüllen. In diesem Prozess spielen sie oft mit
+  unseren Ängsten und Eitelkeiten: "Kaufe dies, und du wirst dich gut fühlen.“
+  „Kaufe das, und andere werden dich mögen.“ „Kaufe jenes, und du wirst
+  erfolgreich sein".
 
 
-  In contrast, the Teal approach to marketing is rather simplistic and stems directly from the organization’s sense of purpose. Companies simply ‘listen in’ to what feels like the right offering. There is less emphasis on customer surveys and focus groups. Essentially, marketing boils down to: This is our offer. At this moment, we feel this is the best we can possibly do. We hope you will like it. In a strange paradox, Teal organizations go about filling a need not by tuning in to the noise of the world (the surveys, the focus groups, the customer segmentation), but by listening within. What product would we be really proud of? What product would fill a genuine need in the world? These are the kinds of questions people in Teal organizations ask to define new products. It’s a process guided by beauty and intuition more than analytics.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4511-4521). Nelson Parker. Kindle Edition.]
-inPractice: >-
-  As an organization’s guiding light switches from sales, profits and market
-  share to its purpose, sales and marketing practices change in fundamental
-  ways.
+  Im Gegensatz dazu ist der Teal-Ansatz für das Marketing recht simpel und ergibt sich unmittelbar aus der Zielsetzung der Organisation. Die Unternehmen "hören" einfach auf das, was ihnen als Angebot richtig erscheint. Kundenbefragungen und Fokusgruppen sind hier weniger wichtig. Im Grunde genommen läuft das Marketing auf Folgendes hinaus: Dies ist unser Angebot. Zum jetzigen Zeitpunkt haben wir das Gefühl, dass es das Beste ist, was wir tun können. Wir hoffen, dass es Ihnen gefallen wird. Paradoxerweise erfüllen Teal-Organisationen ein Bedürfnis nicht, indem sie sich auf den Lärm der Welt einstimmen (Umfragen, Fokusgruppen, Kundensegmentierung), sondern indem sie in sich hineinhören: Auf welches Produkt wären wir wirklich stolz? Welches Produkt würde ein echtes Bedürfnis in der Welt befriedigen? Diese Fragen stellen Mitarbeitende von Teal-Organisationen, um neue Produkte zu definieren. Der Prozess wird eher von Schönheit und Intuition als von Analysen geleitet. ^\[Übersetzt aus: Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4511-4521). Nelson Parker. Kindle Edition.]
+inPractice: "Wenn sich das Leitmotiv eines Unternehmens von Umsatz, Gewinn und
+  Marktanteil auf seinen Zweck verlagert, ändern sich die Vertriebs- und
+  Marketingmethoden grundlegend.
 
 
-  ### Inside-out offer defined by purpose
+  ### Vom Zweck definiertes Inside-out-Angebot
 
 
-  Earlier stage organizations will develop marketing strategies based heavily on an analysis of customers (using surveys, focus groups, etc.) with the objective of increasing sales, profit, market share, etc. often by creating artificial needs. This could be characterized as an “outside in” approach. Teal organizations take an “inside out” approach where product development and communication are driven by the desire to fulfill the organization’s purpose. See also[ Innovation and Product Development](../innovation-and-product-development/).  
+  In früheren Stadien entwickeln Unternehmen Marketingstrategien, die in hohem
+  Maße auf Kundenanalysen beruhen (Umfragen, Fokusgruppen usw.) – mit dem Ziel,
+  Umsatz, Gewinn, Marktanteil usw. zu steigern, wobei häufig künstliche
+  Bedürfnisse geschaffen werden. Man könnte dies als \"Outside-in\"-Ansatz
+  bezeichnen. Teal-Organisationen verfolgen einen \"Inside Out\"-Ansatz, bei dem
+  die Produktentwicklung und die Kommunikation von dem Wunsch geleitet werden,
+  den Zweck der Organisation zu erfüllen. \r
+
+  Siehe auch [Innovation und
+  Produktentwicklung](../innovation-and-product-development/).\r
 
 
-  ### Marketing driven more by purpose than product
+  ### Am Zweck orientiertes Marketing
 
 
-  Because purpose takes priority over sales and profits in Teal, these organizations are most interested in promoting the importance of their purpose and how they are working to achieve it than they are on selling their product or service. See the example of Patagonia below.
+  Da der Zweck bei Teal-Organisationen Vorrang vor Umsatz und Gewinn hat, sind
+  diese Unternehmen mehr daran interessiert, dessen Bedeutung und die Art und
+  Weise, wie sie daran arbeiten, zu vermitteln, als ihr Produkt oder ihre
+  Dienstleistung zu verkaufen. \r
+
+  Beispiel von Patagonia siehe unten.\r
 
 
-  ### The message is less directed at the “competition”
+  ### Weniger auf \"Konkurrenz\" gerichtete Botschaften
 
 
-  Communications about a Teal company’s offering are less frequently designed primarily to claim superiority over the competition. As noted elsewhere in this wiki, Teal organizations often view others that are pursuing a similar purpose as allies rather than competitors. Communication are more often focused on the importance of the organization’s purpose and how the offering fulfills that purpose.
+  Die Kommunikation über das Angebot eines Teal-Unternehmens ist weniger
+  darauf ausgerichtet, Überlegenheit gegenüber der Konkurrenz zu demonstrieren.
+  Wie bereits an anderer Stelle in diesem Wiki erwähnt, betrachten
+  Teal-Organisationen andere, die ein ähnliches Ziel verfolgen, oft als
+  Verbündete und nicht als Konkurrenten. Die Kommunikation konzentriert sich
+  somit eher auf die Bedeutung des Zwecks der Organisation und auf dessen
+  Erfüllung durch das Angebot.
 
 
-  ### Less investment in sales and marketing departments
+  ### Weniger Investition in Vertriebs- und Marketingabteilungen
 
 
-  In Teal, the massive resources allocated to marketing typical in earlier stage organizations are largely gone. Traditional sales and marketing departments often do not exist. Responsibility is distributed throughout the organisation through self-managing teams who have direct customer contact. Within project teams there is often a role which links directly to the customer and is responsible for communicating with him and feeding back issues or opportunities to the team.
+  In Teal-Organisationen sind die massiven Ressourcen, die in Unternehmen auf
+  früheren Entwicklungsstadien für das Marketing bereitgestellt wurden,
+  weitgehend verschwunden. Oft gibt es nicht einmal traditionelle Vertriebs- und
+  Marketingabteilungen. Die Verantwortung wird im gesamten Unternehmen auf
+  selbstorganisierte Teams mit direktem Kundenkontakt verteilt. Innerhalb von
+  Projektteams gibt es häufig eine Funktion, die direkt mit der Kundschaft in
+  Kontakt steht und für die Kommunikation und die Rückmeldung von Problemen oder
+  Chancen an das Team zuständig ist.
 
 
-  ### Fewer top-down sales targets
+  ### Weniger Verkaufsziele von oben nach unten
 
 
-  In Teal organizations, self-set targets may exist, but top-down targets usually don't. Targets are problematic for at least three reasons:
+  In Teal-Organisationen gibt es zwar selbst gesetzte, aber in der Regel keine
+  von oben vorgegebenen Ziele. Solche Vorgaben sind aus mindestens drei Gründen
+  problematisch:\r
 
+  1. Sie beruhen auf der Annahme, die Zukunft vorhersagen zu können.\r
 
-  1. They rest on the assumption that we can predict the future.
+  2. Sie können den Fokus vom Ziel ablenken.\r
 
-  2. They may skew our focus away from purpose.
-
-  3. They may narrow our ability to sense possibilities.
+  3. Sie können die Fähigkeit, Chancen zu erkennen, einschränken.\r\n"
 faq: []
 relatedTheory:
   - Listening to Purpose
