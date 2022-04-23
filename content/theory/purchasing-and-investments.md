@@ -2,133 +2,192 @@
 layout: article
 tags: theory
 key: Purchasing and Investments
-name: Purchasing and Investments
+name: Einkauf und Investitionen
 sortOrder: 4
 category: Important Processes
 intro: >-
-  This article describes how purchasing and investments are handled in Teal
-  organisations.
+  In diesem Abschnitt wird beschrieben, wie Einkauf und Investitionen in
+  Teal-Organisationen funktionieren.
 
 
   ![](/media/compensation-and-incentives.jpg)
-perspective: >-
-  With respect to purchasing and investments, [Teal
-  organizations](../teal-paradigm-and-organizations/) exhibit the following
-  general measures:
+perspective: "Bei Einkauf und Investitionen gilt in
+  [Teal-Organisationen](../teal-paradigm-and-organizations/) generell Folgendes:
 
 
-  * Anybody can spend any amount provided the [advice process](../decision-making/) is respected.
+  * Jeder kann jeden Betrag ausgeben, sofern der
+  [Beratungsprozess](../decision-making/) eingehalten wird.\r
 
-  * The one who suggested an investment takes the responsibility to conduct and monitor the purchasing process.
+  * Wer eine Investition vorschlägt, übernimmt die Verantwortung für die
+  Durchführung und Überwachung des Einkaufsprozesses.\r
 
-  * Team investment budgets and purchasing can be challenged by peers.
-
-
-  Employees’ power to make decisions using the [advice process](../decision-making/) is perhaps most evident when it comes to spending company money. In [self-managing](../self-management/) organizations there are no authorization limits and no procurement departments. Employees or teams do the analysis, create the necessary specifications, visit and negotiate with suppliers, and even secure financing from the bank if needed.
-
-
-  In contrast, purchasing and investments in earlier stage organizations can be characterized as follows:
+  * Investitionsbudgets und Einkäufe einzelner Teams können im Kollegenkreis
+  in Frage gestellt werden.\r
 
 
-  #### Red organizations
+  Die Entscheidungsbefugnis von Mitarbeitenden im Rahmen des
+  [Beratungsprozesses](../decision-making/) wird vielleicht am deutlichsten,
+  wenn es um die Ausgabe von Unternehmensgeldern geht. In
+  [selbstorganisierten](../self-management/) Unternehmen gibt es keine
+  Genehmigungsgrenzen und keine Beschaffungsabteilungen. Die Mitarbeitenden oder
+  Teams führen die Analysen durch, bestimmen die Anforderungen, besuchen die
+  Lieferanten, führen die Verhandlungen und sichern bei Bedarf sogar die
+  Finanzierung durch die Bank.
 
 
-  In the [Red paradigm](../red-organizations/), the boss or owner of an organisation decides generally on his own what to purchase or where to invest. There are typically no formal documented processes. Investments are made opportunistically, even impulsively, based on the boss's preferences. 
+  \r
+
+  \r
+
+  Im Gegensatz dazu lassen sich Beschaffung und Investitionen in
+  Organisationen in früheren Entwicklungsstadien wie folgt charakterisieren:\r
 
 
-  #### Amber organizations
+  #### Rote Organisationen
 
 
-  In the [Amber paradigm](../amber-paradigm-and-organizations/), purchases and investments are made by dedicated top level resources within the hierarchy following simple, but strict rules. Investments are now less impulsive following medium or long term planning. Purchasing itself could be done at lower levels of an organisation, as long as it follows defined rules. Control mechanisms typically exist ensuring compliance to these rules.
+  Im [roten Paradigma](../red-organizations/) entscheidet der Chef oder die
+  Eigentümerin eines Unternehmens in der Regel selbst, was eingekauft oder wo
+  investiert wird. Es gibt normalerweise keine formalen, dokumentierten
+  Prozesse. Investitionen werden opportunistisch, wenn nicht gar impulsiv gemäß
+  den Präferenzen des Chefs getätigt.
 
 
-  #### Orange organizations
+  #### Bernsteinfarbene Organisationen
 
 
-  In the [Orange paradigm](../orange-paradigm-and-organizations/), the strict general rules of the Amber paradigm become more open and fluid. Rules can be questioned or changed to support innovation. Parts of the organisation are empowered to decide on purchasing and investments within a given range on their own. The [breakthrough of Accountability](../orange-paradigm-and-organizations/) is an important step to distribute investment decisions within the organisation (e.g. into projects) to innovate more and faster. Distributed investment decisions are accepted as long as they follow the overall direction formulated by the top management and the teams reach the desired outcome. A frontline manager might be free to spend up to $1,000 but require authorization from his bosses beyond that amount; a unit manager might have spending power up to $10,000 and a plant manager up to $100,000. Whatever the amounts, the purchase order must generally proceed through a central procurement department that coordinates the relationships and negotiations with suppliers.
+  Im [bernsteinfarbenen Paradigma](../amber-paradigm-and-organizations/)
+  werden Anschaffungen und Investitionen von speziell Verantwortlichen auf
+  höchster Ebene innerhalb der Hierarchie nach einfachen, aber strengen Regeln
+  getätigt. Investitionen erfolgen weniger impulsiv, sondern vielmehr nach
+  mittel- oder langfristiger Planung. Der Einkauf selbst kann auf nachgeordneten
+  Stufen der Organisation durchgeführt werden, solange man festgelegten Regeln
+  folgt. Typischerweise gibt es Kontrollmechanismen, die die Einhaltung dieser
+  Regeln sicherstellen.
 
 
-  #### Green organizations
+  #### Orange Organisationen
 
 
-  The [Green paradigm](../green-paradigm-and-organizations/) decisions about purchasing and investments are pushed more to the frontline workers. The top down planning of [Orange organisations](../orange-paradigm-and-organizations/) is enriched by bottom up processes involving the operational experts. The [breakthough Empowerment](../green-paradigm-and-organizations/) activates creativity and responsibility of the teams giving enough space to purchase or invest within budget boundaries and within the values system of the organisation. Most organizations still have authorization limits in place. More decentralized or distributed procurement processes (often supported by software tools) should speed up decision processes and enhance the agility of operations teams.
+  Im [orangen Paradigma](../orange-paradigm-and-organizations/) sind die
+  strengen Regeln des bernsteinfarbenen Paradigmas offener und fließender.
+  Regeln können im Sinne der Förderung von Investitionen in Frage gestellt oder
+  geändert werden. Teile der Organisation werden ermächtigt, innerhalb eines
+  bestimmten Rahmens eigenständig über Beschaffung und Investition zu
+  entscheiden. Die [Durchsetzung der
+  Rechenschaftspflicht](../orange-paradigm-and-organizations/) ist ein wichtiger
+  Schritt zur Verteilung von Investitionsentscheidungen innerhalb der
+  Organisation (z.B. in Projekten), um mehr und schneller innovieren zu können.
+  Verteilte Investitionsentscheidungen werden akzeptiert, solange sie der von
+  oben vorgegebenen Richtung folgen und die Teams das gewünschte Ergebnis
+  erreichen. Ein Manager an der vordersten Front kann bis zu 1.000€ ausgeben,
+  benötigt aber die Genehmigung seiner Vorgesetzten, wenn er diesen Betrag
+  überschreitet. Eine Abteilungsleiterin kann bis zu 10.000€ ausgeben, ein
+  Betriebsleiter bis zu 100.000€. Unabhängig von der Höhe der Beträge muss die
+  Bestellung im Allgemeinen über eine zentrale Einkaufsabteilung laufen, die die
+  Beziehungen und Verhandlungen mit den Lieferanten koordiniert.
+
+
+  #### Grüne Organisationen
+
+
+  Im [grünen Paradigma](../green-paradigm-and-organizations/) werden
+  Entscheidungen über Einkäufe und Investitionen stärker an die Mitarbeitenden
+  an vorderster Front delegiert. Die Top-Down-Planung von orangen Organisationen
+  wird durch Bottom-Up-Prozesse unter Beteiligung der operativen Experten
+  ergänzt. Diese [Ermächtigung](../green-paradigm-and-organizations/) aktiviert
+  die Kreativität und die Verantwortlichkeit der Teams und gibt ihnen genügend
+  Spielraum, um innerhalb der Budgetgrenzen und des Wertesystems der
+  Organisation zu beschaffen oder zu investieren. In den meisten Organisationen
+  gibt es noch Genehmigungsgrenzen. Stärker dezentralisierte oder verteilte
+  Beschaffungsprozesse (oft unterstützt durch Software-Tools) sollten die
+  Entscheidungsprozesse beschleunigen und die Agilität der Betriebsteams
+  verbessern."
 inPractice: >-
-  #### Anybody can spend any amount provide the advice process is respected
+  #### Jeder kann unter Einhaltung des Beratungsprozesses jeden Betrag ausgeben.
 
 
-  An employee who needs a new $50 printer doesn’t have to call the IT department, hope for a green light from his boss, and wait the days or weeks it takes for the printer to arrive. He can simply head down to the specific shop or website and buy a printer. In principle, any person can spend any amount of money, provided he has sought the necessary advice before making the decision; the larger the purchase, the more people are typically involved in the [advice process](../decision-making/). In hierarchical organizations, when engineers do the analysis and choose a machine model, workers often complain about the new machine and drag their feet when it comes to learning how to operate it. When they have chosen the model, there is no such resistance to change. Organizations might vary in how to conduct the advice process, with some employing formal, written rules while others adopting a more informal, ad hoc process. Whatever specific process finally is chosen, it is based on transparency and trust.
+  Eine Angestellte, die einen neuen Drucker im Wert von 50€ benötigt, muss nicht die IT-Abteilung anrufen, auf grünes Licht vom Chef hoffen und Tage oder Wochen warten, bis der Drucker eintrifft. Sie kann den Drucker einfach im Laden oder Web-Shop kaufen. Im Prinzip kann jeder jede beliebige Summe ausgeben – vorausgesetzt, er hat sich vor der Entscheidung beraten lassen. Je größer die Anschaffung, desto mehr Personen sind in der Regel in den [Beratungsprozess](../decision-making/) involviert. Wenn in hierarchischen Unternehmen die Ingenieure die Analyse durchführen und ein Maschinenmodell auswählen, beschweren sich die Mitarbeitenden hinterher oft über die neue Maschine und lernen nur widerwillig, wie sie zu bedienen ist. Wenn sie das Modell selbst gewählt haben, gibt es keinen Widerstand gegen diese Veränderung. Unternehmen können den Beratungsprozess auf unterschiedliche Weise durchführen: Manche machen formale, schriftliche Vorgaben; andere folgen einem eher informellen Ad-hoc-Prozess. Egal welches Verfahren letztendlich gewählt wird: es basiert auf Transparenz und Vertrauen.
 
 
-  #### The one who suggested an investment takes the responsibility to conduct and monitor the purchasing process
+  #### Wer die Investition vorschlägt, übernimmt die Verantwortung für den Einkaufsprozess.
 
 
-  In self-managing organizations, workers are in charge of the full purchasing or investment process. They do the analysis, write up the necessary specifications, visit and negotiate with suppliers, and secure financing from the bank if needed. It does not necessarily mean that the initiator needs to conduct all steps on his own, but at least he takes the responsibility from start to end.
+  In selbstorganisierten Unternehmen sind die Mitarbeitenden für den gesamten Einkaufs- oder Investitionsprozess verantwortlich. Sie führen die Analysen durch, bestimmen die Anforderungen, besuchen die Lieferanten, führen die Verhandlungen und sichern bei Bedarf die Finanzierung durch die Bank. Das bedeutet nicht unbedingt, dass die Initiatorin alle Schritte selbst durchführen muss, aber sie übernimmt zumindest die Verantwortung von Anfang bis Ende.
 
 
-  #### Peer-based challenging of teams' investment budgets
+  #### Der Kollegenkreis hinterfragt Investitionsbudgets von Teams.
 
 
-  Especially in larger organisations, a transparent baseline budget is very helpful to let teams monitor whether a new investment can and should be funded or not. Different from non-Teal organisations, investment budgets aren't given or confirmed from higher levels of management. They are created based on realistic assumptions of the teams about what needs to be purchased during a planning period. If the collected numbers are in balance to expected revenues and seem reasonable, the investment budget is set. Any investments fitting into it don't need further investigation as long as the [advice process](../decision-making/) is conducted. Companies like [Morning Star](https://www.morningstarco.com/) do annual intensive budget planning sessions, in which each team presents its investment plans to a panel of peers for advice. Teams that are not performing well are likely to be challenged as to whether spending money is really the best way to fix their problems.
+  Vor allem in größeren Organisationen ist ein transparentes Basisbudget sehr hilfreich, damit die Teams überprüfen können, ob eine neue Investition finanziert werden kann und soll oder nicht. Anders als in Nicht-Teal-Organisationen werden die Investitionsbudgets nicht von höheren Managementebenen vorgegeben oder bestätigt. Sie werden auf der Grundlage realistischer Annahmen der Teams erstellt: Was muss während eines Planungszeitraums angeschafft werden? Wenn die Daten und Zahlen mit den erwarteten Einnahmen in Einklang stehen und vernünftig erscheinen, wird das Investitionsbudget festgelegt. Alle Investitionen, die in dieses Budget passen, müssen nicht weiter geprüft werden, solange der [Beratungsprozess](../decision-making/) eingehalten wird. Unternehmen wie [Morning Star](https://www.morningstarco.com/) führen jährlich intensive Budgetplanungen durch, bei denen jedes Team seine Investitionspläne einem Gremium aus dem Kollegenkreis zur Beratung vorstellt. Bei Teams, deren Leistung nicht so gut ist, wird vermutlich eher die Frage gestellt, ob Geldausgeben wirklich der beste Weg ist, ihre Probleme zu lösen.
 faq:
-  - question: What about volume discounts?
-    answer: "Surely money is left on the table if purchases are not pooled? As
-      often, the answer is: trust people to make the right decisions within the
-      framework of [self-management](../self-management/). For items where
-      volume discounts are too good to give up, colleagues who buy from the same
-      vendor will choose to coordinate to maximize their buying power. At
-      [Morning Star](https://www.morningstarco.com/), a tomato processing
-      company, colleagues noticed that lots of people were buying threadlocker,
-      an adhesive that prevents nuts and bolts from accidentally loosening, in
-      dozens of different formats and from different vendors. They were not only
-      losing out on volume discounts, but the uncoordinated purchasing generated
-      unnecessary bureaucracy because regulations in the food industry required
-      workers to painstakingly track every threadlocker format in a Material
-      Safety Data Sheet. At some point, a worker suggested that he could walk
-      around the plant once a quarter and ask colleagues if they wanted to order
-      threadlocker through him. A similar solution emerged for purchasing
-      packaging materials, an area where volume discounts can quickly add up.
-      When there is value in coordination, people simply start to coordinate."
-  - question: What about standardization?
-    answer: It often makes sense to buy computer or telephone equipment from the
-      same or compatible vendors, for instance. Again, one can simply trust the
-      [advice process](../decision-making/). A secretary buying herself a new
-      computer, unless she is very well versed in hardware and software
-      specifications, will likely seek advice from a knowledgeable party to
-      ensure the computer will easily fit in with the rest of the IT equipment.
-      In this case, there is no need for a central department to enforce
-      standards. In more complex cases, when standards need to be specified,
-      someone will step up and call together a group that will look into the
-      matter and define the standards.
-  - question: What about an investment that does not fit into the budget?
-    answer: From time to time an investment might not fit into the budget for some
-      reason. Possibly the investment is based on a sudden event or a valuable
-      opportunity. As with [Orange
-      organisations](../orange-paradigm-and-organizations/), spontaneous
-      investments should be accommodated under Teal. Again, the [advice
-      process](../decision-making/) is used to handle such situations. If a
-      particular department or group needs an increased budget allocation, they
-      can solicit support from other groups who might be willing to give a piece
-      from their budget. Challenging questions should be asked and answered, but
-      finally there will be a decision driven by the collective intelligence of
-      representatives of the teams.
-  - question: How do these practices link with the three Teal breakthroughs?
+  - question: Wie sieht es mit Mengenrabatten aus?
+    answer: "Bleibt da nicht Geld übrig, wenn der Einkauf nicht gebündelt wird? Wie
+      so oft lautet die Antwort: Vertrauen Sie darauf, dass die Mitarbeitenden
+      im Rahmen der [Selbstorganisation](../self-management/) die richtigen
+      Entscheidungen treffen. Bei Artikeln mit sehr guten, nicht zu
+      vernachlässigenden Mengenrabatten werden sich Kollegen, die beim gleichen
+      Lieferanten einkaufen, für eine Koordination im Sinne einer Maximierung
+      der Kaufkraft entscheiden. Bei [Morning
+      Star](https://www.morningstarco.com/), einem tomatenverarbeitenden
+      Unternehmen, stellten die Kollegen fest, dass viele Leute
+      Schraubensicherung (einen Klebstoff, der verhindert, dass sich Schrauben
+      und Muttern versehentlich lösen) in unterschiedlichen Ausführungen von
+      verschiedenen Anbietern kauften. Dadurch gingen nicht nur Mengenrabatte
+      verloren, sondern der unkoordinierte Einkauf verursachte auch unnötigen
+      bürokratischen Aufwand, da die Vorschriften in der Lebensmittelindustrie
+      von den Mitarbeitenden verlangten, jede Form von Schraubensicherung in
+      einem Sicherheitsdatenblatt akribisch zu erfassen. Irgendwann schlug ein
+      Mitarbeiter vor, dass er einmal im Quartal durch das Werk gehen und im
+      Kollegenkreis fragen könnte, ob man über ihn Schraubensicherungskleber
+      bestellen wollten. Eine ähnliche Lösung ergab sich für den Einkauf von
+      Verpackungsmaterial, also in einem Bereich, in dem sich Mengenrabatte
+      schnell summieren können. Wenn Koordination einen Wert hat, organisieren
+      sich die Leute von alleine."
+  - question: Wie steht es mit der Standardisierung?
+    answer: Oft ist es sinnvoll, beispielsweise Computer- oder Telefonanlagen vom
+      selben oder von kompatiblen Herstellern zu kaufen. Auch hier kann man sich
+      einfach auf den [Beratungsprozess](../decision-making/) verlassen. Eine
+      Sekretärin, die sich einen neuen Computer anschafft, wird – sofern sie
+      sich nicht sehr gut mit Hardware- und Softwarespezifikationen auskennt –
+      wahrscheinlich den Rat einer sachkundigen Person einholen, um
+      sicherzustellen, dass der Computer problemlos zur übrigen IT-Ausstattung
+      passt. In diesem Fall braucht es keine zentrale Abteilung zur Durchsetzung
+      von Normen. In komplexeren Fällen, in denen Standards festgelegt werden
+      müssen, wird jemand eine Gruppe einberufen, die sich mit der Angelegenheit
+      befasst und die Standards festlegt.
+  - question: Was ist mit einer Investition, die nicht ins Budget passt?
+    answer: Ab und an kann es vorkommen, dass eine Investition aus irgendeinem Grund
+      nicht in das Budget passt. Sie mag aus einem plötzlichen Ereignis oder
+      einer wertvollen Gelegenheit heraus entstehen. Wie bei [orangen
+      Organisationen](../orange-paradigm-and-organizations/) sollten spontane
+      Investitionen auch im Teal-Paradigma ihren Platz haben. Hier wird zur
+      Abwicklung ebenfalls der [Beratungsprozess](../decision-making/)
+      durchlaufen. Wenn eine bestimmte Abteilung oder Gruppe eine höhere
+      Mittelzuweisung benötigt, kann sie andere Gruppen um Unterstützung bitten,
+      die möglicherweise bereit sind, einen Teil ihres Budgets zur Verfügung zu
+      stellen. Anspruchsvolle Fragen sollten gestellt und beantwortet werden,
+      aber letztendlich wird eine Entscheidung getroffen, die von der
+      kollektiven Intelligenz der Teamvertretenden getragen wird.
+  - question: Wie hängen diese Verfahrensweisen mit den drei bahnbrechenden
+      Teal-Elementen zusammen?
     answer: >-
-      #### Self-management
+      #### Selbstorganisation
 
 
-      [Self-management](../self-management/) heavily impacts purchasing and investments. Every employee is enabled to take action and innovate in his working context. Investments are initiated from where they are needed. The [advice process](../decision-making/) creates a deeper understanding of the impacts of investments. The localized responsibility for purchasing leads to a greater satisfaction about what is bought because the user defines the specifications.
+      [Selbstorganisation](../self-management/) wirkt sich stark auf Beschaffung und Investitionen aus. Alle Mitarbeitenden werden in die Lage versetzt, in ihrem Arbeitsumfeld aktiv und innovativ zu sein. Investitionen werden dort initiiert, wo sie gebraucht werden. Der [Beratungsprozess](../decision-making/) schafft ein tieferes Verständnis für die Auswirkungen von Investitionen. Die lokale Verantwortung für den Einkauf führt zu einer größeren Zufriedenheit mit der Anschaffung, da die Nutzer die Anforderungen definieren.
 
 
-      #### Wholeness
+      #### Ganzheitlichkeit
 
 
-      To decide about investments a deep holistic understanding about the inter-dependencies and reach of a decision is necessary. The [advice process](../decision-making/) creates a wide transparency about the impacts of an investment. Especially when it is a bigger amount of money, it is essential to understand the company's financial situation and investment impacts on others as a whole.
+      Um über Investitionen zu entscheiden, ist ein tief gehendes, umfassendes Verständnis über die Zusammenhänge und die Tragweite einer Entscheidung notwendig. Der [Beratungsprozess](../decision-making/) schafft eine breite Transparenz über die Auswirkungen einer Investition. Besonders wenn es sich um einen größeren Geldbetrag handelt, ist es wichtig, die finanzielle Situation des Unternehmens und die Auswirkungen der Investition auf andere als Ganzes zu verstehen.
 
 
-      #### Evolutionary purpose
+      #### Evolutionärer Zweck
 
 
-      One important criterion about investments is whether it fulfills an [evolutionary purpose](../evolutionary-purpose/). Distributed investment decisions empower those sensing the organization's purpose to act in a way to serve that purpose.
+      Ein wichtiges Kriterium für Investitionen ist, ob sie den [evolutionären Zweck](../evolutionary-purpose/) unterstützen. Durch verteilte Investitionsentscheidungen werden diejenigen, die den Zweck der Organisation erkennen, in die Lage versetzt, so zu handeln, dass sie diesem Zweck dienen können.
 relatedTheory:
   - Decision Making
   - Budgeting and Controlling
