@@ -2,153 +2,221 @@
 layout: article
 tags: theory
 key: Budgeting and Controlling
-name: Budgeting and Controlling
+name: Budgetierung und Controlling
 sortOrder: 5
 category: Important Processes
 intro: >-
-  Organisations prepare financial budgets and monitor performance against them
-  to control their operations and to determine how well objectives and targets
-  are achieved This article deals with how budgets are established, monitored
-  and what control practices are used to achieve results.
+  Organisationen überwachen mit Hilfe von Finanzbudgets die
+  Unternehmensleistung, um die Abläufe zu steuern und festzustellen, wie gut
+  Ziele und Vorgaben erreicht werden. In diesem Abschnitt geht es darum, wie
+  Budgets erstellt und welche Kontrollverfahren eingesetzt werden, um Ergebnisse
+  zu erzielen.
 
 
   ![](/media/budgeting-and-controlling.jpg)
 perspective: >-
-  Budgeting can be one of the more challenging areas for companies making the
-  shift to Teal. The Teal practice of sensing and responding to current
-  conditions rather than seeking to control them through budgeting and other
-  means is a marked departure from Orange or even Green practices. From a Teal
-  perspective, the control that often ensues from setting a budget can hamper
-  the organization’s ability to sense and respond authentically.
-
-  Every historical stage has given birth to a distinct perspective on Budgeting and Controlling when already applicable, and to very different practices:
-
-
-  #### Red Organizations
+  Budgetierung kann für ein Unternehmen auf dem Weg zur Teal-Organisation eine
+  der größeren Herausforderungen darstellen. Die Teal-Praxis, aktuelle
+  Bedingungen im Umfeld wahrzunehmen und auf sie zu reagieren, anstatt zu
+  versuchen, sie durch Budgetierung und andere Maßnahmen zu kontrollieren, ist
+  eine deutliche Abweichung vom Vorgehen in orangen oder sogar grünen
+  Organisationen. Aus der Teal-Perspektive kann die Kontrolle, die sich oft aus
+  der Festlegung eines Budgets ergibt, die Fähigkeit der Organisation behindern,
+  Umfeldfaktoren wahrzunehmen und authentisch zu reagieren. 
 
 
-  Budgeting and Controlling in today's understanding would not be recognized in [Red Organizations](../red-organizations/).  Planning tends to be shorter term with limited ability for long term strategy.  The focus is typically on responding to new threats or opportunities that can be pursued for exploitation or gain.
+  Jede historische Phase hat eine andere Sichtweise auf Budgetierung und Controlling (sofern anwendbar) hervorgebracht und zu sehr unterschiedlichen Vorgehensweisen geführt:
 
 
-  #### Amber Organizations
+  #### Rote Organisationen
 
 
-  [Amber organizations](../amber-paradigm-and-organizations/) rely on stable and replicable processes. They also create clearly defined structures and hierarchies. Together these features allow projects and plans to be delivered on a much larger scale than those achievable by Red organzations. Planning and budgeting is used to determine the resources needed to achieve well understood and predictable goals. Planning is a top down process with budgets being handed down to those further down the organization.
+  Budgetierung und Controlling nach heutiger Auffassung wären in [roten Organisationen](../red-organizations/) nicht anerkannt. Die Planung ist in der Regel kurzfristiger Natur mit begrenzten Möglichkeiten für eine langfristige Strategie. Der Schwerpunkt liegt auf der Reaktion auf neue Risiken oder Chancen, die genutzt werden können.
 
 
-  #### Orange Organizations
+  #### Bernsteinfarbene Organisationen
 
 
-  In [Orange Organizations](../orange-paradigm-and-organizations/) top management are responsible for determining the strategy and direction of the organization. These plans are broken down into objectives and targets for those further down the hierarchy. Managers at each level create the plans and budgets necessary to reach the desired objectives, in what is typically a yearly budgeting process. Planning typically includes budgets for expenditures (cost center) or target revenues (profit center), as well as investment budgets.  Cascading down targets to every unit and team allows for management by objectives: each team is given some freedom in deciding how these budget objectives will be met, as long as they are met.
+  [Bernsteinfarbene Organisationen](../amber-paradigm-and-organizations/) stützen sich auf stabile und reproduzierbare Prozesse. Sie schaffen zudem klar definierte Strukturen und Hierarchien. Zusammengenommen ermöglichen diese Merkmale die Durchführung von Projekten und Plänen in einem weitaus größeren Maßstab als bei roten Organisationen. Durch Planung und Budgetierung werden die Ressourcen bestimmt, die zur Erreichung klar definierter und vorhersehbarer Ziele erforderlich sind. Planung erfolgt von oben nach unten, wobei die Budgets den unteren Ebenen der Organisation vorgegeben werden.
 
 
-  Budgeting and controlling goes hand in hand with the Orange management practice of ‘predict and control’. Yearly budgets are broken down into half-yearly, quarterly or monthly numbers. These numbers are then followed up by the accounting and finance department at the end of each period, to compare results with the plan.  When results fall short of the prediction, managers are often asked to explain the difference, and to come up with corrective actions.
+  #### Orange Organisationen
 
 
-  #### Green Organizations
+  In [orangen Organisationen](../orange-paradigm-and-organizations/) ist die oberste Führungsebene für die Festlegung der Strategie und die Ausrichtung des Unternehmens verantwortlich. Aus diesen Plänen werden Ziele und Vorgaben für die nachgeordneten Ebenen abgeleitet. Manager auf jeder Ebene erstellen die für die Zielerreichung erforderlichen Pläne und Budgets üblicherweise in einem jährlichen Budgetierungsprozess. Die Planung umfasst in der Regel Budgets für Ausgaben (Kostenstellen) und Einnahmen (Profit Center) sowie Investitionsbudgets. Die kaskadierende Weitergabe von Zielen an alle Einheiten und Teams ermöglicht ein Management nach Zielen: Jedes Team hat einen gewissen Spielraum bei der Entscheidung, wie diese Budgetziele erreicht werden sollen – solange sie eingehalten werden.
 
 
-  [Green organizations](../green-paradigm-and-organizations/) are often ill at ease with a finance dominated perspective on performance management.  Whilst ‘predict and control’ methods are still used, other non-financial measures (for example, employee engagement and customer satisfaction) are valued as equally important. Budgeting is similar to that found in Orange organizations, but the measures are likely to be broader and agreed via a ‘bottom up’ as well as a ‘top down’ approach.
+  Budgetierung und Controlling gehen Hand in Hand mit der orangen Managementpraxis "Vorhersage und Kontrolle". Die Jahresbudgets werden in halbjährliche, vierteljährliche oder monatliche Zahlen aufgeschlüsselt. Diese werden dann von der Buchhaltungs- und Finanzabteilung am Ende jeder Periode überprüft, um Ergebnisse und Plan zu vergleichen. Wenn die Ergebnisse hinter den Vorhersagen zurückbleiben, werden die Manager häufig aufgefordert, die Differenz zu erklären und Maßnahmen zur Korrektur zu ergreifen.
 
 
-  #### Teal Organizations
+  #### Grüne Organisationen
 
 
-  Teal organizations’ approach to planning and budgeting departs quite radically from what is considered best practice in traditional management thinking.  Instead of trying to predict and control, Teal organizations try as much as possible to sense and respond to their environment.  They typically work with simplified budgets, where variances are tracked for information rather than control reasons. The purpose of defining a budget is driven by practical considerations such as coordination of resources, making sure that cash flow is sound and ensuring that financial obligations and liabilities are covered.
-inPractice: >-
-  #### Simplified budgets, no tracking of variance
+  [Grüne Organisationen](../green-paradigm-and-organizations/) fremdeln mit einer von der Finanzabteilung dominierten Perspektive des Leistungsmanagements. Zwar werden nach wie vor Methoden der "Vorhersage und Kontrolle" angewendet, jedoch andere nicht-finanzielle Messgrößen als ebenso wichtig erachtet (z.B. Mitarbeiterengagement und Kundenzufriedenheit). Die Budgetierung ähnelt der von orangen Organisationen, aber die Maßnahmen sind vielfach breiter gefächert und werden sowohl nach dem Bottom-up- als auch dem Top-down-Ansatz vereinbart.
 
 
-  Many traditional organizations go through a painful budgeting cycle every year to establish a plan for controlling organizational performance.
+  #### Teal-Organisationen
 
 
-  In Teal organizations budgets are only established if a forecast is needed to inform an important decision, for example:
+  Die Herangehensweise von Teal-Organisationen an die Planung und Budgetierung weicht radikal von dem ab, was im traditionellen Managementdenken als beste Methodik gilt. Statt Vorhersagen zu treffen und zu kontrollieren, versuchen Teal-Organisationen so gut wie möglich, ihr Umfeld wahrzunehmen und entsprechend zu reagieren. Sie arbeiten in der Regel mit vereinfachten Budgets, bei denen Abweichungen eher zu Informations- als zu Kontrollzwecken betrachtet werden. Das Ziel der Budgetierung wird von praktischen Überlegungen bestimmt, wie z.B. der Koordinierung von Ressourcen, der Sicherstellung eines soliden Cashflows und der Gewährleistung, dass finanzielle Verpflichtungen und Verbindlichkeiten gedeckt sind.
+inPractice: "#### Vereinfachte Budgets ohne Nachverfolgung von Abweichungen
 
 
-  * Coordination or acquisition of resources: At [FAVI](http://www.favi.com/), for instance, once a year, teams make rough monthly predictions for the year to come, to secure contracts for raw materials.
+  Viele traditionelle Organisationen durchlaufen einen mühsamen jährlichen
+  Budgetierungszyklus, um einen Plan zur Steuerung der Unternehmensleistung zu
+  erstellen.
 
-  * Sound cash flow and fulfilment of financial obligations:
-
-
-  It makes sense at times to establish a realistic budget so that problems can be anticipated and obligations met. Individual teams in [Buurtzorg](http://www.buurtzorgnederland.com/) don’t make any significant purchasing or investments, so don’t require a team budget. However, at a Group level, Buurtzorg makes a simple projection of its expected cash flow (it fits on one sheet of paper) to get a sense of how many new teams it can allow to start up in the coming year; new teams can take up to a year to break even, and Buurtzorg wants to make sure they can be supported and sustained.
-
-
-  In the absence of these reasons, many organizations find they need not make any budget at all. [Sun Hydraulics](http://www.sunhydraulics.com/) makes no budget (unless the board demands one, in which case a rough one-page budget is put together).
+  \r
 
 
-  #### Peer challenge but no management control
+  In Teal-Organisationen werden Budgets nur dann erstellt, wenn eine Prognose
+  für eine wichtige Entscheidung benötigt wird. Zum Beispiel:
+
+  \r
 
 
-  If a budget is established, there is no tweaking from above. Whatever numbers the teams forecast become the budget. Some companies find it is useful for peers to challenge each other’s budgets. In keeping with the spirit of [Self Management](../self-management/) no one can force a team to change their numbers. For example at [Morning Star,](http://www.morningstarco.com/) units present their budget and investment plans to a budget task force, composed of volunteers from all parts of the business, that can challenge the numbers, and offer opinions and suggestions. [AES](http://www.aes.com/) used to have a similar process.
+  * Koordinierung oder Beschaffung von Ressourcen: Bei
+  [FAVI](http://www.favi.com/) beispielsweise erstellen die Teams einmal im Jahr
+  eine grobe monatliche Vorhersage für das kommende Jahr, um Verträge für
+  Rohstoffe zu sichern.\r
+
+  * Solider Cashflow und Erfüllung der finanziellen Verpflichtungen: Manchmal
+  ist es sinnvoll, ein realistisches Budget aufzustellen, um Probleme
+  vorhersehen und Verpflichtungen erfüllen zu können. Die einzelnen Teams von
+  [Buurtzorg](http://www.buurtzorgnederland.com/) tätigen keine nennenswerten
+  Einkäufe oder Investitionen und benötigen daher kein Teambudget. Auf
+  Gruppenebene erstellt Buurtzorg jedoch eine einfache Schätzung des erwarteten
+  Cashflows, die auf ein Blatt Papier passt. So bekommt man ein Gefühl dafür,
+  wie viele neue Teams im kommenden Jahr zusammengestellt werden sollten. Neue
+  Teams können bis zu ein Jahr brauchen, um Break-even zu erreichen. Buurtzorg
+  möchte sicherstellen, dass sie angemessen unterstützt werden und bestehen
+  bleiben können.\r
 
 
-  #### No 'Top Down' targets
+  In Ermangelung dieser Gründe stellen viele Organisationen fest, dass sie
+  überhaupt kein Budget aufstellen müssen. [Sun
+  Hydraulics](http://www.sunhydraulics.com/) budgetiert gar nicht, es sei denn,
+  der Vorstand verlangt es. Dann wird auf einer Papierseite ein grobes Budget
+  erstellt.\r
 
 
-  Teal organizations don’t set any top-down targets. Sales people at [FAVI](http://www.favi.com/) for example have no targets to reach. From an Evolutionary-Teal perspective, targets are problematic for at least three reasons;
+  #### Prüfung im Kollegenkreis ohne Kontrolle durch das Management
 
 
-  * they rest on the assumption that we can predict the future,
-
-  * they skew our behavior away from inner motivation, and
-
-  * they tend to narrow our capacity to sense new possibilities.
-
-
-  From a Teal perspective, life is complex and events and circumstances change so fast, that setting a target is mostly guesswork. A year after a target has been set, in most cases it is just an arbitrary number―either so easy to reach as to be meaningless or so challenging that people must take shortcuts. Both circumstances hurt the organization in the long run.
-
-
-  Targets and in particular budget and sales targets also skew our behavior. In many companies managers often spend any budget left at the end of the year, sometimes on meaningless items, for fear that their funding might be cut in the following year. Without targets, these games disappear. People are free to tap into their inner motivation to simply do the best job they can.
-
-
-  In [self-managing](../self-management/) organizations, people can choose to set themselves targets when they find it useful―rather like a hobby runner who spurs herself on by extending her goals. At [FAVI](http://www.favi.com/), operators set themselves target times to machine their pieces, and they monitor their performance against that target.
+  Wenn ein Budget festgelegt ist, gibt es keine Korrekturen von oben. Die von
+  den Teams prognostizierten Zahlen werden zum Budget. Einige Unternehmen halten
+  es für sinnvoll, wenn Teams gegenseitig ihre Budgets prüfen. Im Sinne des
+  [Selbstmanagements](../self-management/) kann niemand ein Team zwingen, seine
+  Zahlen zu ändern. Bei [Morning Star](http://www.morningstarco.com/) zum
+  Beispiel legen die Abteilungen ihr Budget und ihre Investitionspläne einer
+  Budget-Taskforce vor, die sich aus Freiwilligen aller Bereiche des
+  Unternehmens zusammensetzt. Sie kann die Zahlen prüfen, in Frage stellen sowie
+  Meinungen und Vorschläge dazu einbringen. [AES](http://www.aes.com/) hatte
+  früher ein ähnliches Verfahren.
 
 
-  Targets provide guidance when they are well understood. They become problematic when circumstances change and they do not change in response.
+  #### Keine Ziele von oben nach unten
 
 
-  #### Letting go of the desire to control
+  Teal-Organisationen setzen keine Ziele von oben nach unten. Die
+  Mitarbeitenden im Vertrieb bei [FAVI](http://www.favi.com/) beispielsweise
+  haben keine Zielvorgaben. Aus evolutionärer Perspektive sind Ziele aus
+  mindestens drei Gründen problematisch:\r
 
 
-  Predictions are valuable in world that can be controllled, but lose relevance in a complex world that is changing rapidly. Setting budgets and managing against them is a way of trying to predict the future.
+  * Sie beruhen auf der Annahme, dass wir die Zukunft vorhersagen können.\r
+
+  * Sie verändern Verhalten durch die Herabsetzung intrinsischer Motivation.\r
+
+  * Sie schränken tendenziell die Fähigkeit zur Wahrnehmung neuer
+  Möglichkeiten ein.\r
 
 
-  Teal organizations make peace with a complex world by understanding that a perfect solution is rarely possible. Determing a workable solution that can be implemented quickly is far more effective than waiting for detailed analysis before taking action. When new information emerges, the decision can be revisited and improved at any point. From this perspective, creating budgets for long periods ahead, and trying to exercise control makes little sense.
+  Im Teal-Paradigma ist das Leben komplex. Ereignisse und Umstände ändern sich
+  so schnell, dass eine Zielfestlegung oft nur noch eine Vermutung sein kann.
+  Ein Jahr nach der Zielsetzung bleibt in den meisten Fällen eine willkürliche
+  Zahl übrig – entweder zu leicht zu erreichen und damit bedeutungslos oder so
+  herausfordernd, dass die Mitarbeitenden Abkürzungen nehmen müssen. Beide
+  Umstände schaden dem Unternehmen langfristig.
 
 
-  Companies that work this way, make many fast iterations instead of a few mighty leaps, progressing much faster towards their purpose. In the end, paradoxically, people often feel safer when they give up the illusion of control and learn to work with reality as it unfolds.
+  Zielvorgaben und insbesondere Budget- und Umsatzziele beeinflussen auch
+  unser Verhalten. In vielen Unternehmen geben die Führungskräfte das am
+  Jahresende verbleibende Budget oft für sinnlose Dinge aus, weil sie
+  befürchten, dass ihnen im nächsten Jahr die Mittel gekürzt werden. Ohne
+  Zielvorgaben gibt es diese Spielchen nicht. Die Mitarbeitenden sind frei, auf
+  der Basis ihrer intrinsischen Motivation einfach die bestmögliche Arbeit zu
+  leisten.
+
+
+  In [selbstorganisierten](../self-management/) Unternehmen können sich die
+  Mitarbeitenden selbst Ziele setzen, wenn sie es für sinnvoll halten (wie z.B.
+  eine Hobbyläuferin, die sich mit Hilfe ehrgeiziger Ziele anspornt). Bei
+  [FAVI](http://www.favi.com/) setzen sich die Mitarbeitenden Zielzeiten für die
+  Bearbeitung ihrer Werkstücke und überwachen so ihre Leistung.\r
+
+
+  Zielvorgaben bieten Orientierung, wenn sie gut nachvollziehbar sind.
+  Problematisch werden sie, wenn sich die Umstände ändern und die Ziele nicht
+  entsprechend angepasst werden.\r
+
+
+  #### Aufgabe des Hangs zur Kontrolle
+
+
+  Vorhersagen sind nur wertvoll in einem kontrollierbaren Umfeld, verlieren
+  jedoch an Bedeutung in einer komplexen, sich schnell verändernden Welt.
+  Budgetierung samt entsprechender Führung ist ein Versuch, die Zukunft
+  vorherzusagen.\r
+
+
+  Teal-Organisationen finden sich mit der komplexen Welt ab; sie haben
+  verstanden, dass es kaum Patentrezepte geben kann. Eine praktikable, schnell
+  umsetzbare Lösung zu finden, ist weitaus effektiver als auf detaillierte
+  Analysen zu warten und erst dann Maßnahmen zu ergreifen. Wenn neue
+  Informationen hinzukommen, kann eine Entscheidung jederzeit überdacht und
+  nachgebessert werden. Aus dieser Perspektive ist es wenig sinnvoll, Budgets
+  für lange Zeiträume im Voraus zu erstellen und zu versuchen, damit Kontrolle
+  auszuüben.\r
+
+
+  Unternehmen, die auf diese Weise arbeiten, machen viele rasche Iterationen
+  statt weniger großer Sprünge und kommen so viel schneller ans Ziel.
+  Letztendlich fühlen sich die Menschen paradoxerweise oft sicherer, wenn sie
+  die Illusion der Kontrolle aufgeben und lernen, mit der sich ergebenden
+  Realität zu arbeiten.\n"
 faq:
-  - question: How do we manage spending and cash flow if there are no budgets that
-      set limits?
+  - question: Wie geht man mit Ausgaben und Cashflow um, wenn es keine begrenzenden
+      Budgets gibt?
     answer: >-
-      In most cases, the advice process takes care of keeping spending in line
-      with the needs of the organization.  An expenditure that would be fanciful
-      or that would be one person's pet project tends not to survive the advice
-      process (if it does, another person can initiate another advice process to
-      make a correction, or it too late, engage in a [conflict resolution
-      process](../conflict-resolution/)).  Another factor tends to tame
-      spending: in traditional organizations, managers often measure their
-      importance with the size of their budget, and therefore often fight to
-      increase their budget, and make sure to spend whatever budget was
-      allocated to them).  Self-managing organizations don't measure their
-      importance with the size of their budget, which reduced much unnecessary
-      spending. 
+      In den meisten Fällen sorgt der Beratungsprozess dafür, dass Ausgaben und
+      Bedarf der Organisation im Einklang stehen. Einer Ausgabe, die aus der
+      Luft gegriffen ist oder das Lieblingsprojekt einer Person finanziert, wird
+      im Beratungsprozess in der Regel nicht stattgegeben. Falls doch, kann eine
+      andere Person einen weiteren Beratungsprozess zwecks Korrektur oder – wenn
+      es bereits zu spät ist – einen
+      [Konfliktlösungsprozess](../conflict-resolution/) einleiten. Ein weiterer
+      Faktor zügelt die Ausgaben: In traditionellen Organisationen messen
+      Manager ihre Bedeutung oft an der Höhe ihres Budgets, kämpfen um dessen
+      Erhöhung und stellen sicher, dass sie das ihnen zugewiesene Budget auch
+      ausgeben. Selbstorganisierte Unternehmen messen ihre Bedeutung nicht an
+      der Höhe ihres Budgets, wodurch unnötige Ausgaben reduziert werden.
 
 
-      If, however, for some reason an organization feels it needs to keep its spending below what would naturally happen with the advice process (because the organization is cash-strapped, or because there are more opportunities to pursue than cash available), a budget process can be established as a means to have a conversation about spending priorities. In practice, such processes can be set up in ways that are similar to those used to determine [investment](../purchasing-and-investments/) budgets.
-  - question: Some type of budgeting might be necessary to ensure the operation of a
-      production line for example?
+      Wenn eine Organisation jedoch aus irgendeinem Grunde annimmt, die Ausgaben unter dem halten zu müssen, was im Rahmen des Beratungsprozesses vereinbart wurde (z.B., weil die Organisation knapp bei Kasse ist oder weil es mehr zu nutzende Möglichkeiten gibt als Geld zur Verfügung steht), können im Rahmen eines Budgetprozesses Prioritäten bezüglich der Ausgaben diskutiert und gesetzt werden. In der Praxis können solche Prozesse ähnlich aufgesetzt werden wie die im Rahmen der Budgetierung von [Investitionen](../purchasing-and-investments/).
+  - question: Was, wenn eine Form von Budgetierung nötig ist, um beispielsweise den
+      Betrieb einer Produktionslinie zu gewährleisten?
     answer: >-
-      In keeping with the general principle of "form follows function"; if
-      colleagues feel a need for a budget, then by any means, establish a
-      budget.  If a production line feels it needs a cost budget, colleagues can
-      convene and create it.
+      Dann gilt der Grundsatz "Form folgt Funktion": Wenn im Kollegenkreis ein
+      Budget für notwendig erachtet wird, sollte es aufgestellt werden. Wenn
+      eine Produktionslinie ein Kostenbudget für notwendig hält, können die
+      Kollegen es gemeinsam erstellen.
 
 
-      Before establishing such a budget, it's worthwhile wondering: why do we need a budget?  Often the answer is simply "to control our costs".  In many cases, in order to control your costs, you don't need to ***anticipate*** the future with a budget.  It's enough to measure and monitor your cost ***after the facts*** on a recurring basis - say every month.
+      Vor der Erstellung eines solchen Budgets, sollte man sich fragen: Warum brauchen wir es? Oft lautet die Antwort: zur Kostenkontrolle. In vielen Fällen müssen Sie jedoch nicht durch die Budget-Glaskugel ***in die Zukunft*** blicken, um Ihre Kosten zu kontrollieren. Es reicht aus, wenn Sie Ihre Kosten ***nachträglich*** regelmäßig - beispielsweise jeden Monat - erfassen und überwachen.
 
 
-      We are so used to budgets, and the illusion of control they provide, that we might simply establish a budget out of habit, because we feel naked in the absence of budgets.  The key question is: "what's the kind of decision we need to take for which we need a budget?".  A budget is needed only if it helps anticipate, if the presence of a budget would lead to a different decision on a specific decision.
+      Wir sind so sehr an Budgets und die damit verbundene Illusion von Kontrolle gewöhnt, dass wir sie vielfach aus Gewohnheit aufstellen, weil wir uns ohne Budgets „nackt“ fühlen. Die Schlüsselfrage lautet: "Für welche Art von Entscheidung, die wir treffen müssen, brauchen wir ein Budget?". Ein Budget wird nur dann benötigt, wenn es bei Vorhersagen hilft bzw. wenn seine Existenz zu andersartigen Entscheidungen führen würde.
 relatedTheory:
   - Purchasing and Investments
   - Decision Making
