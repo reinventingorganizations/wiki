@@ -1,9 +1,8 @@
 <!doctype html>
-<html lang="en">
-
+<html lang="{{ locale }}">
 <head>
   <meta charset="utf-8">
-  <title>{{ name }} - Reinventing Organizations Wiki</title>
+  <title>{{ name }} - {{ Reinventing_Organizations_Wiki }}</title>
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/png" href="/images/logo3.png">
@@ -14,6 +13,7 @@
 </head>
 
 <body>
+  {% set sup_locale = locale %}
     {% include './components/icons.njk' %}
     <div class="l-page">
       {% include './components/navigation.njk' %}
@@ -25,7 +25,7 @@
 
         <footer class="l-footer">
           <ul class="l-footer__links">
-              {% for link in footer.footerLinks %}
+              {% for link in footerLinks %}
                   <li class="l-footer__linkitem">
                       <a href="{{ link.link }}" class="l-footer__link">
                           {{ link.title }}
@@ -36,7 +36,7 @@
 
           <div class="l-sponsers">
           <div class="l-peerdom">
-              <div class="l-peerdom__label">Brought to you by</div>
+              <div class="l-peerdom__label">{{ Brought_to_you_by }}</div>
               <a href="https://about.peerdom.org/?pk_campaign=sponsoring&pk_source=ror">
                 <span class="visuallyhidden">Peerdom</span>
                 <svg width="108" height="24" viewBox="0 0 108 24" fill="none" xmlns="http://www.w3.org/2000/svg">
