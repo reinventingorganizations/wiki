@@ -26,10 +26,10 @@ module.exports = function (eleventyConfig) {
     return md.render(value);
   });
 
-  eleventyConfig.addFilter("translate", function (key) {
-    const translations = require("./translations.json");
-    return translations[key] || key;
-  });
+  // eleventyConfig.addFilter("translate", function (key) {
+  //    const translations = require("./translations.json");
+  //    return translations[key] || key;
+  // });
 
   const sortCategoryArticles = function(categories, collection) {
     return categories.map((_) => {

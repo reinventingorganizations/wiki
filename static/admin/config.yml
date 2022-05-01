@@ -4,11 +4,11 @@ media_folder: "media"
 local_backend: true
 collections:
   - name: "home"
-    label: "Home"
+    label: "[EN] Home"
     files:
       - label: "Home"
         name: "home"
-        file: "content/index.md"
+        file: "content/en/index.md"
         fields:
           - {
               label: "Layout",
@@ -27,8 +27,8 @@ collections:
             - { label: Image, name: image, widget: image }
             - { label: Link, name: link, widget: string }
   - name: "theory"
-    label: "All Articles"
-    folder: "content/theory"
+    label: "[EN] All Articles"
+    folder: "content/en/theory"
     create: true
     identifier_field: name
     slug: "{{key}}"
@@ -82,8 +82,8 @@ collections:
         optionsLength: 1000
   - name: "theoryCategories"
     hide: true
-    label: "Theory Categories"
-    folder: "content/theoryCategories"
+    label: "[EN] Theory Categories"
+    folder: "content/en/theoryCategories"
     create: false
     identifier_field: name
     fields:
@@ -100,8 +100,8 @@ collections:
         }
       - { label: "Name", name: "name", widget: "string" }
   - name: "cases"
-    label: "Case Studies"
-    folder: "content/cases"
+    label: "[EN] Case Studies"
+    folder: "content/en/cases"
     create: true
     identifier_field: name
     fields:
@@ -183,8 +183,8 @@ collections:
           - { label: Title, name: title, widget: string }
           - { label: Content, name: content, widget: markdown, minimal: true }
   - name: "pages"
-    label: "Pages"
-    folder: "content/pages"
+    label: "[EN] Pages"
+    folder: "content/en/pages"
     create: true
     identifier_field: name
     slug: "{{name}}"
@@ -197,12 +197,12 @@ collections:
         }
       - {label: Title, name: name, widget: string}
       - {label: Body, name: body, widget: markdown} 
-  - label: "Configuration"
+  - label: "[EN] Configuration"
     name: "configuration"
     files:
       - label: "Footer"
         name: "footer"
-        file: "_data/footer.json"
+        file: "content/en/en.json"
         fields:
           - label: "Footer Links"
             name: "footerLinks"
@@ -210,3 +210,28 @@ collections:
             fields:
             - { label: Title, name: title, widget: string }
             - { label: Link, name: link, widget: string }
+      - label: "Texts"
+        name: "texts"
+        file: "./content/en/en.json"
+        widget: list
+        fields:
+          - { label: Locale, name: locale}
+          - { label: Reinventing Organizations Wiki, name: Reinventing_Organizations_Wiki}
+          - { label: Main Navigation, name: mainNavigation}
+          - { label: Background articles, name: backgroundArticles}
+          - { label: Teal structures and practices, name: practicesArticles}
+          - { label: Cases, name: casesTitle}
+          - { label: Reinventing Organizations Wiki, name: siteTitle}
+          - { label: Discover Teal Practices, name: Discover_Teal_Practices}
+          - { label: A new paradigm in Practice, name: A_new_paradigm_in_Practice}
+          - { label: New and updated organizations, name: New_and_updated_organizations}
+          - { label: See all organizations, name: See_all_organizations }
+          - { label: Donate, name: Donate }
+          - { label: Teal Practices, name: Teal_Practices }
+          - { label: Notes and references, name: Notes_and_references }
+          - { label: Brought to you by, name: Brought_to_you_by }
+          - { label: A New Perspective, name: A_New_Perspective }
+          - { label: In Practice, name: In_Practice}
+          - { label: Concrete cases for inspiration, name: Concrete_cases_for_inspiration}
+          - { label: Get to know how this organisation manages other teal practices, name: Get_to_know_how_this_organisation_manages_other_teal_practices }
+          - { label: Related Topics, name: Related_Topics}
