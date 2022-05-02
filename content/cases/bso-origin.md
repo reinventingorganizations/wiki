@@ -30,8 +30,7 @@ theory:
       Wintzen erzählt ein Jahrzehnt später in einem Buch:
 
 
-      *Ich (wurde) Mitglied des Verwaltungsrats und hielt eindringliche Reden, um das System zu erhalten. Aber leider - wenn auch nicht überraschend angesichts der Perspektive, aus der sie kamen - sprachen meine Kollegen von Phillips im Vorstand das Wort "inakzeptabel" regelmäßig und mit Nachdruck aus. In den Augen von Phillips war es "eine Todsünde", Menschen die Befugnis zu geben, Personal einzustellen oder auch nur Karten für ein Musical zu vergeben. Ich glaube, dass wir einmal buchstäblich über das Thema geschrien haben, bis unsere Gesichter rot wurden. Zwei Welten prallten aufeinander: eine Welt der strengen Finanzverfahren in Verbindung mit "Kontrolle, Kontrolle, doppelte Kontrolle" und eine Welt von "habt Vertrauen, habt Vertrauen"* 
-
+      *Ich (wurde) Mitglied des Verwaltungsrats und hielt eindringliche Reden, um das System zu erhalten. Aber leider - wenn auch nicht überraschend angesichts der Perspektive, aus der sie kamen - sprachen meine Kollegen von Phillips im Vorstand das Wort "inakzeptabel" regelmäßig und mit Nachdruck aus. In den Augen von Phillips war es "eine Todsünde", Menschen die Befugnis zu geben, Personal einzustellen oder auch nur Karten für ein Musical zu vergeben. Ich glaube, dass wir einmal buchstäblich über das Thema geschrien haben, bis unsere Gesichter rot wurden. Zwei Welten prallten aufeinander: eine Welt der strengen Finanzverfahren in Verbindung mit "Kontrolle, Kontrolle, doppelte Kontrolle" und eine Welt von "habt Vertrauen, habt Vertrauen"*. 
 
       ^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), S. 252-253]
 ---
