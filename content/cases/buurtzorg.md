@@ -118,13 +118,7 @@ theory:
       #### Begrenzung der Treffen von Regionaltrainern auf "höherer Ebene"
 
 
-      In vielerlei Hinsicht wäre es sinnvoll, wenn Jos de Blok, CEO von Buurtzorg, sich regelmäßig mit den Regionalcoaches treffen würde: Sie haben einen guten Einblick in das Geschehen vor Ort. Gemeinsam könnten sie Probleme und Chancen erkennen und entsprechende Maßnahmen festlegen.
-
-
-      Aber dieser Prozess wäre nun wie ein Verwaltungsausschuss - das Gegenteil von dem, was sie wollen
-
-
-      Um dies zu vermeiden, beschränkt Jos de Block seine Treffen mit den Trainern auf vierteljährlich.
+      In vielerlei Hinsicht wäre es sinnvoll, wenn Jos de Blok, CEO von Buurtzorg, sich regelmäßig mit den Regionalcoaches treffen würde: Sie haben einen guten Einblick in das Geschehen vor Ort. Gemeinsam könnten sie Probleme und Chancen erkennen und entsprechende Maßnahmen festlegen. Aber dieser Prozess wäre nun wie ein Verwaltungsausschuss - das Gegenteil von dem, was sie wollen. Um dies zu vermeiden, beschränkt Jos de Block seine Treffen mit den Trainern auf vierteljährlich.
   - topic: Team and Community Building
     title: Bei Buurtzorg sind alle Krankenschwestern und Krankenpfleger in
       "Intervisie" geschult, einer Peer-Coaching-Technik, die ihren Ursprung in
@@ -137,7 +131,7 @@ theory:
   - topic: Coordination
     title: Bei Buurtzorg, wo 9000 Krankenschwestern und -pfleger über das ganze Land
       verstreut sind, spielt das interne soziale Netzwerk 'BuurtzorgWeb' eine
-      entscheidende Rolle beim Wissensaustausch
+      entscheidende Rolle beim Wissensaustausch.
     content: >-
       Bei [Buurtzorg](http://www.buurtzorgnederland.com/) spielt das
       unternehmensinterne soziale Netzwerk "BuurtzorgWeb" eine Schlüsselrolle
@@ -161,7 +155,7 @@ theory:
       zuständig, die in ähnlichen Organisationen auf verschiedene Abteilungen
       aufgeteilt sind. Die Buurtzorg-Einführungsschulung umfasst Techniken zur
       Konfliktlösung und [Gewaltfreie
-      Kommunikation].(https://de.wikipedia.org/wiki/Gewaltfreie_Kommunikation),
+      Kommunikation](https://de.wikipedia.org/wiki/Gewaltfreie_Kommunikation),
       die von Marshal Rosenberg entwickelt wurde. Konflikte werden
       gemeinschaftlich im Team gelöst. Wenn zum Beispiel eine Person das
       Vertrauen des Teams verloren hat, versucht das Team, eine einvernehmliche
