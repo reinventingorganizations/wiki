@@ -181,7 +181,7 @@ faq:
       #### Ganzheitlichkeit
 
 
-      Um über Investitionen zu entscheiden, ist ein tief gehendes, umfassendes Verständnis über die Zusammenhänge und die Tragweite einer Entscheidung notwendig. Der [Beratungsprozess](../decision-making/) schafft eine breite Transparenz über die Auswirkungen einer Investition. Besonders wenn es sich um einen größeren Geldbetrag handelt, ist es wichtig, die finanzielle Situation des Unternehmens und die Auswirkungen der Investition auf andere als Ganzes zu verstehen.
+      Um über Investitionen zu entscheiden, ist ein tiefgehendes, umfassendes Verständnis über die Zusammenhänge und die Tragweite einer Entscheidung notwendig. Der [Beratungsprozess](../decision-making/) schafft eine breite Transparenz über die Auswirkungen einer Investition. Besonders wenn es sich um einen größeren Geldbetrag handelt, ist es wichtig, die finanzielle Situation des Unternehmens und die Auswirkungen der Investition auf andere als Ganzes zu verstehen.
 
 
       #### Evolutionärer Zweck
