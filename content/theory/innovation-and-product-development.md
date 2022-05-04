@@ -200,7 +200,7 @@ faq:
       #### Evolutionärer Zweck
 
 
-      In Teal-Organisationen werden Innovationen in erster Linie danach ausgewählt, ob sie zum [Zweck](../evolutionary-purpose/) des Unternehmens passen. Darüber hinaus spielt die Innovation eine Schlüsselrolle bei der Weiterentwicklung dieses Zwecks.
+      In Teal-Organisationen werden Innovationen in erster Linie danach ausgewählt, ob sie zum [Sinn](../evolutionary-purpose/) des Unternehmens passen. Darüber hinaus spielt die Innovation eine Schlüsselrolle bei der Weiterentwicklung dieses Sinns.
 relatedTheory:
   - sales-marketing
   - Strategy
