@@ -164,7 +164,7 @@ inPractice: "#### **Strategie als organischer Prozess**
 
   In Teal-Organisationen entsteht die Strategie organisch aus der kollektiven
   Intelligenz aller Mitarbeitenden. Diese wird durch den Austausch von
-  Unternehmensdaten und -informationen gefördert. Da jeder Bescheid weiß, stehen
+  Unternehmensdaten und -Informationen gefördert. Da jeder Bescheid weiß, stehen
   die Informationen allen für strategische Vorschläge zur Verfügung.\r
 
 
