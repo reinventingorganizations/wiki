@@ -23,11 +23,11 @@ perspective: >-
 
   Im Gegensatz dazu ist der Teal-Ansatz für das Marketing recht simpel und ergibt sich unmittelbar aus der Zielsetzung der Organisation. Die Unternehmen "hören" einfach auf das, was ihnen als Angebot richtig erscheint. Kundenbefragungen und Fokusgruppen sind hier weniger wichtig. Im Grunde genommen läuft das Marketing auf Folgendes hinaus: Dies ist unser Angebot. Zum jetzigen Zeitpunkt haben wir das Gefühl, dass es das Beste ist, was wir tun können. Wir hoffen, dass es Ihnen gefallen wird. Paradoxerweise erfüllen Teal-Organisationen ein Bedürfnis nicht, indem sie sich auf den Lärm der Welt einstimmen (Umfragen, Fokusgruppen, Kundensegmentierung), sondern indem sie in sich hineinhören: Auf welches Produkt wären wir wirklich stolz? Welches Produkt würde ein echtes Bedürfnis in der Welt befriedigen? Diese Fragen stellen Mitarbeitende von Teal-Organisationen, um neue Produkte zu definieren. Der Prozess wird eher von Schönheit und Intuition als von Analysen geleitet. ^\[Übersetzt aus: Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4511-4521). Nelson Parker. Kindle Edition.]
 inPractice: "Wenn sich das Leitmotiv eines Unternehmens von Umsatz, Gewinn und
-  Marktanteil auf seinen Zweck verlagert, ändern sich die Vertriebs- und
+  Marktanteil auf seinen Sinn verlagert, ändern sich die Vertriebs- und
   Marketingmethoden grundlegend.
 
 
-  ### Vom Zweck definiertes Inside-out-Angebot
+  ### Vom Sinn definiertes Inside-out-Angebot
 
 
   In früheren Stadien entwickeln Unternehmen Marketingstrategien, die in hohem
@@ -42,10 +42,10 @@ inPractice: "Wenn sich das Leitmotiv eines Unternehmens von Umsatz, Gewinn und
   Produktentwicklung](../innovation-and-product-development/).\r
 
 
-  ### Am Zweck orientiertes Marketing
+  ### Am Sinn orientiertes Marketing
 
 
-  Da der Zweck bei Teal-Organisationen Vorrang vor Umsatz und Gewinn hat, sind
+  Da der Sinn bei Teal-Organisationen Vorrang vor Umsatz und Gewinn hat, sind
   diese Unternehmen mehr daran interessiert, dessen Bedeutung und die Art und
   Weise, wie sie daran arbeiten, zu vermitteln, als ihr Produkt oder ihre
   Dienstleistung zu verkaufen. \r
@@ -61,7 +61,7 @@ inPractice: "Wenn sich das Leitmotiv eines Unternehmens von Umsatz, Gewinn und
   Wie bereits an anderer Stelle in diesem Wiki erwähnt, betrachten
   Teal-Organisationen andere, die ein ähnliches Ziel verfolgen, oft als
   Verbündete und nicht als Konkurrenten. Die Kommunikation konzentriert sich
-  somit eher auf die Bedeutung des Zwecks der Organisation und auf dessen
+  somit eher auf die Bedeutung des Sinns der Organisation und auf dessen
   Erfüllung durch das Angebot.
 
 
