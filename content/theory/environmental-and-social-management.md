@@ -190,7 +190,7 @@ inPractice: "#### Entstehung ökologischer und sozialer Praktiken
 
 
   Die Metapher von der Teal-Organisation als lebendem Organismus mit eigenem
-  Zweck und eigener Absicht lässt sich auf die Umwelt übertragen. Sowohl die
+  Sinn und eigener Absicht lässt sich auf die Umwelt übertragen. Sowohl die
   Organisation als auch ihr Umfeld werden als Teil eines lebenden Systems
   betrachtet. Als solches ist die Organisation von ihrer Umwelt und den sozialen
   Strukturen, die sie beeinflussen, abhängig. Das heißt, die Organisation kann
@@ -199,7 +199,7 @@ inPractice: "#### Entstehung ökologischer und sozialer Praktiken
 
   Teal-Organisationen verfolgen daher häufig einen systemischen Ansatz, um das
   Umfeld oder die sozialen Strukturen, in denen die Organisation tätig ist, zu
-  verbessern – insbesondere, wenn dieses Umfeld für den Zweck der Organisation
+  verbessern – insbesondere, wenn dieses Umfeld für den Sinn der Organisation
   notwendig ist.\r
 
 
@@ -249,7 +249,7 @@ faq:
       vorzubringen. Schaffen Sie ein Umfeld, das neue Aktivitäten fördert.
       Soziale und ökologische Initiativen entstehen, wenn diese
       [Werte](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/culture-and-values)
-      mit dem Zweck der Organisation in Einklang gebracht werden.
+      mit dem Sinn der Organisation in Einklang gebracht werden.
   - question: Wie setzen wir Prioritäten bei ökologischen und sozialen Initiativen?
     answer: Im [Beratungsprozess](../decision-making/) sollten Initiativen zunächst
       auf ihre Übereinstimmung mit den Werten und dem [evolutionären
@@ -261,8 +261,8 @@ faq:
     answer: "[Selbstorganisation](https://reinventingorganizations-wiki.netlify.app\
       /admin/#/collections/theory/entries/self-management) sorgt dafür, dass
       Ausgaben im Einklang mit
-      [Zweck](https://reinventingorganizations-wiki.netlify.app/admin/#/collect\
-      ions/theory/entries/listening-to-purpose) und
+      [Sinn](https://reinventingorganizations-wiki.netlify.app/admin/#/collecti\
+      ons/theory/entries/listening-to-purpose) und
       [Werten](https://reinventingorganizations-wiki.netlify.app/admin/#/collec\
       tions/theory/entries/culture-and-values) stehen. Die Integrität und der
       Sinn für Selbstzensur der Mitarbeitenden sorgen mit dafür. So wie
