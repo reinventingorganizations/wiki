@@ -2,201 +2,322 @@
 layout: article
 tags: theory
 key: Organizational Structure
-name: Organizational Structure
+name: Organisationsstruktur
 sortOrder: 1
 category: Structure of an organization
 intro: >-
-  This article discusses the structures through which people coordinate work and
-  distribute power in Teal organizations.
+  In diesem Abschnitt werden die Strukturen beleuchtet, durch die in
+  Teal-Organisationen Arbeit koordiniert und Macht verteilt wird.
 
 
   ![](/media/2_058f-org-structure-medium-small.png)
-perspective: >-
-  All organizations prior to Teal were structured as pyramids for a simple
-  reason: it is a natural consequence of the boss-subordinate relationship. In
-  self-managed organizations, peer commitments replace the boss-subordinate
-  relationship, and the pyramid disappears. Authority is distributed, and work
-  is conducted by decentralized, self-managing teams or networks. The static
-  hierarchy of the pyramid gives way to fluid natural hierarchies, where
-  influence flows to people who have the most expertise, passion or interest.
-  Freed from the rigidity and sluggishness of a command and control structure,
-  Teal organizations can be more responsive and more energized. They are
-  “emergent”: the behavior of the organization ‘emerges’ from the actions of
-  teams and individuals.^\[Teal organizations can be thought of as an example of
-  a “complex adaptive system”: a "complex macroscopic collection" of relatively
-  "similar and partially connected micro-structures" formed in order to adapt to
-  the changing environment and increase its survivability as a macro-structure.
-  They are complex in that they are dynamic networks of interactions, and their
-  relationships are not aggregations of the individual static entities. They are
-  adaptive in that the individual and collective behaviors mutate and
-  self-organize corresponding to the change-initiating micro-event or collection
-  of events." Source: Complex Adaptive Systems, Wikipedia,
-  <http://en.wikipedia.org/wiki/Complex_adaptive_system>]
+perspective: "Alle Organisationen vor dem Teal-Paradigma waren aus einem
+  einfachen Grund pyramidenförmig aufgebaut: Diese Form ist eine logische Folge
+  der Vorgesetzten-Untergebenen-Beziehung. In selbstorganisierten Unternehmen
+  ersetzt die Verpflichtung unter Gleichrangigen die Beziehung zwischen
+  Vorgesetzten und Untergebenen, und die Pyramide löst sich auf. Autorität wird
+  verteilt, und die Arbeit wird von dezentralisierten, selbstorganisierten Teams
+  oder Netzwerken ausgeführt. Die statische Hierarchie der Pyramide weicht
+  fließenden, natürlichen Hierarchien, in denen diejenigen Personen Einfluss
+  ausüben, die über das größte Fachwissen, die größte Begeisterung oder das
+  größte Interesse verfügen. Befreit von der Starrheit und Trägheit einer
+  Befehls- und Kontrollstruktur, können Teal-Organisationen reaktionsschneller
+  sein und mehr Energie erzeugen. Sie sind \"im Entstehen\": Das Verhalten der
+  Organisation entsteht aus den Handlungen von Teams und Individuen.
+  ^[Teal-Organisationen können als Beispiel für ein \"komplexes adaptives
+  System\" betrachtet werden: eine \"komplexe makroskopische Ansammlung\" von
+  relativ \"ähnlichen und teilweise verbundenen Mikrostrukturen\", die gebildet
+  werden, um sich an eine sich verändernde Umwelt anzupassen und ihre
+  Überlebensfähigkeit als Makrostruktur zu steigern. Sie sind insofern komplex,
+  als es sich um dynamische Netze von Interaktionen handelt. Ihre Beziehungen
+  sind keine Aggregate einzelner statischer Einheiten. Sie sind insofern
+  anpassungsfähig, als sich die individuellen und kollektiven Verhaltensweisen
+  entsprechend dem veränderungsauslösenden Mikroereignis oder der Ansammlung von
+  Ereignissen verändern und selbst organisieren. Quelle: Komplexe adaptive
+  Systeme, Wikipedia, <http://en.wikipedia.org/wiki/Complex_adaptive_system>]\r
+
+  \r
 
 
-  The following describes organizational structure in earlier stages:
+  Im Folgenden wird die Organisationsstruktur in früheren Stadien
+  beschrieben:\r
 
 
-  #### Red organizations
+  #### Rote Organisationen
 
 
-  In the [Red paradigm](../red-organizations/), organizations are structured around a strong leader who, largely through fear, exercises power over others. There is little formal hierarchy, and Red organizations rely largely on the chief’s ability to keep all its members in line, rather like wolves in a pack around the alpha male.
+  Im [roten Paradigma](../red-organizations/) sind Organisationen um einen
+  starken Anführer herum strukturiert, der hauptsächlich durch Furcht Macht über
+  andere ausübt. Es gibt kaum eine formale Hierarchie. Rote Organisationen
+  verlassen sich weitgehend auf die Fähigkeit der Anführerin, alle Mitglieder
+  bei der Stange zu halten, ähnlich wie Wölfe in einem Rudel um das Alpha-Tier.
 
 
-  #### Amber organizations
+  #### Bernsteinfarbene Organisationen
 
 
-  In the [Amber paradigm](../amber-paradigm-and-organizations/),the organization chart with reporting lines appears, resulting in a hierarchical pyramid and a clear chain of command. People identify with job titles and their place in the hierarchy. Decisions are made at upper levels of the hierarchy while lower levels follow orders.
+  Im [bernsteinfarbenen Paradigma](../amber-paradigm-and-organizations/) gibt
+  es ein Organigramm mit Berichtslinien, was zu einer hierarchischen Pyramide
+  und klaren Befehlsketten führt. Die Menschen identifizieren sich mit ihren
+  Jobtiteln und ihrem Platz in der Hierarchie. Entscheidungen werden auf den
+  oberen Ebenen der Hierarchie getroffen, während die unteren Ebenen die
+  Anweisungen ausführen.
 
 
-  #### Orange organizations
+  #### Orange Organisationen
 
 
-  In [Orange organizations](../orange-paradigm-and-organizations/), the pyramid remains the fundamental structure, although some additional freedom is given. Project groups, virtual teams, cross-functional initiatives, expert staff functions, and internal consultants are created to drill holes into rigid functional and hierarchical boundaries in order to speed up communication and foster innovation.
+  In [orangen Organisationen](../orange-paradigm-and-organizations/) bleibt
+  die Pyramide die grundlegende Struktur, wobei einige zusätzliche Freiheiten
+  eingeräumt werden. Projektgruppen, virtuelle Teams, funktionsübergreifende
+  Initiativen, Expertenstäbe und interne Beraterinnen werden eingesetzt, um
+  starre funktionale und hierarchische Grenzen aufzubohren und so die
+  Kommunikation zu beschleunigen und Innovationen zu fördern.
 
 
-  #### Green organizations
+  #### Grüne Organisationen
 
 
-  [Green organizations](../green-paradigm-and-organizations/) typically still operate with the pyramid structure, but there is more empowerment of front-line employees. Higher managers are asked to share control: to move from being doers, problem solvers and fixers to being “servant leaders”. This is often symbolized by an "inverted pyramid", where the CEO at the bottom supports senior and middle managers who in turn support front-line employees.
-inPractice: >-
-  Although the pyramid disappears in Teal, it would be a mistake to think that
-  self-managing organizations are simply flat and structureless. Teal
-  organizations to date seem to fall into three broad types of structure to fit
-  the context in which they operate. These are described further below. However
-  all share the common attributes of distributed authority and natural
-  hierarchies.
+  [Grüne Organisationen](../green-paradigm-and-organizations/) arbeiten in der
+  Regel immer noch mit der Pyramidenstruktur, aber die Mitarbeitenden an der
+  Basis erhalten mehr Befugnisse. Führungskräfte sind aufgefordert, Kontrolle zu
+  teilen: Sie sollen nicht mehr als Macher, Problemlöserinnen und Reparateure
+  auftreten, sondern als \"dienende Führungskräfte\". Dies wird häufig durch
+  eine \"umgekehrte Pyramide\" symbolisiert, bei der der CEO am unteren Ende den
+  oberen und mittleren Führungsebenen dient, die ihrerseits die Mitarbeitenden
+  an der Front unterstützen."
+inPractice: "Obwohl die Pyramide in Teal-Organisationen verschwindet, sind
+  selbstorganisierte Unternehmen keinesfalls flach und strukturlos. Sie lassen
+  sich bislang drei Typen entsprechend dem jeweiligen Kontext zuordnen (siehe
+  unten). Allen gemeinsam sind jedoch die verteilte Autorität und natürliche
+  Hierarchien.
 
 
-  ##### *Distributed authority*
+  ##### *Verteilte Autorität*
 
 
-  In traditional organizations, when power is concentrated at the top, bosses can approve or invalidate a decision made by a subordinate. In Teal organizations, power is distributed There are no bosses, only coaches. Anyone who senses a problem or an opportunity can initiate a [decision making process](../decision-making/), using methods that leverage the collective intelligence of the organization.
+  In traditionellen Hierarchien wird Macht an der Spitze konzentriert und von
+  oben nach unten ausgeübt: Vorgesetzte können eine Entscheidung, die von einem
+  Untergebenen getroffen wurde, genehmigen oder aufheben. In Teal-Organisationen
+  ist die Macht verteilt. Statt Chefs gibt es Coaches. Jeder, der ein Problem
+  oder eine Chance erkennt, kann sich melden, den
+  [Entscheidungsprozess](../decision-making/) einleiten und dabei Methoden zur
+  Nutzung der kollektiven Intelligenz auf das Thema anwenden. Der
+  Beratungsprozess beinhaltet nicht die Entscheidungsfindung im Konsens. Dies
+  ist ein weit verbreiteter Irrtum über selbstorganisierte Strukturen.
 
 
-  In traditional hierarchies, power is concentrated at the top, and can be exercised in a top-down fashion: bosses can approve or invalidate a decision made by a subordinate. In Teal organizations, power is distributed: everyone who senses a problem or an opportunity can step up and initiate a [decision making process](../decision-making/), using methods that leverage the collective intelligence of the organization about the topic at hand. These methods —sometimes called "advice process"— don't involve, as a common misconception about self-managing structures, consensus decision making.
+  ##### *Natürliche Hierarchien*
 
 
-  ##### *Natural hierarchies*
+  Ein weiteres Missverständnis bezüglich Selbstorganisation ist, dass alle
+  \"gleich\" sind und bei Entscheidungen ein gleiches Mitspracherecht haben
+  sollten. Wenn traditionelle Hierarchien abgeschafft werden, entstehen in
+  Wirklichkeit viele natürlich fließende Hierarchien der Entwicklung, der
+  Fähigkeiten, des Talents, der Expertise und der Anerkennung. In jeder
+  Angelegenheit haben einige Kolleginnen mehr Fachwissen, Begeisterung oder
+  Hilfsbereitschaft als andere. Entscheidungsrechte und Einfluss strömen zu
+  denjenigen, die über das Wissen oder die Bereitschaft, einen Beitrag zu
+  leisten, verfügen. Fließende, natürliche Hierarchien ersetzen so die starren
+  Machtebenen der Pyramide. Der Einfluss einer Person hängt von ihrem Talent und
+  Interesse, ihren Fähigkeiten und dem Vertrauen im Kollegenkreis ab und wird
+  nicht mehr durch ihre Position im Organigramm bestimmt.
 
 
-  A common misconception about self-management is that everyone is "equal" and should have equal say in decisions. In reality, when traditional hierarchies are gone, lots of natural and fluid hierarchies blossom―hierarchies of development, skill, talent, expertise, and recognition. On every issue, some colleagues will have more expertise than others, more passion, or more willingness to help. Decision rights and influence flow to those who have the expertise or willingness to contribute. Fluid, natural hierarchies replace the fixed power layers of the pyramid. A person’s influence depends on her talent, interest, skills, and the confidence of her colleagues. It is no longer determined by her position in the organization chart.
+  #### Archetypen von Strukturen
 
 
-  #### Archetypes of structure
+  Selbstorganisierte Unternehmen haben mit Bezug auf ihren Aktionskontext
+  unterschiedliche Formen. Bislang haben sich drei wesentliche Typen
+  herauskristallisiert:
 
 
-  Self-managing organizations adopt different forms to fit the context in which they operate. There seem to be three broad types of self-managing structures that have emerged so far: 
+  1. parallele Teams\ 
+
+  2. vernetzte Auftragsvergabe
+
+  3. verschachtelte Teams (Kreise).\ 
 
 
-  1. Parallel teams 
-
-  2. Web of individual contracting
-
-  3. Nested circles 
+  Die Strukturen schließen einander nicht aus. In einigen Organisationen gibt
+  es eine Mischung dieser Typen.
 
 
-  These structures are not mutually exclusive, and some organizations exhibit a mixture of these types.
+  ##### *Parallele Teams*
 
 
   ![](/media/parallel_teams-medium.png)
 
 
-  This is the most common structure found to date in Teal organizations.^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 319.]Examples would include Buurtzorg (geographic teams) and FAVI (client teams) (see “Concrete examples for inspiration” below). This model is highly suitable when work can be broken down in ways that teams have a high degree of autonomy, without too much need for coordination across teams. They can then work side by side. In this model, it is within the team that colleagues define their roles and the mutual commitments they make to each other. Teams also typically handle their own recruitment, planning, establish their investment needs, devise a budget (if a budget is needed), track their financial and non-financial results, and so on.
+  Dies ist die bislang häufigste Struktur in Teal-Organisationen.^[Übersetzt
+  aus: Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), S.
+  319.] Beispiele sind Buurtzorg (geografische Teams) und FAVI (Kundenteams)
+  (siehe \"Beispiele zur Inspiration\"). Dieses Modell eignet sich sehr gut,
+  wenn die Arbeit so aufgeteilt werden kann, dass die Teams ein hohes Maß an
+  Autonomie haben, ohne dass ein zu großer Koordinierungsbedarf zwischen den
+  Teams besteht. Sie können dann Seite an Seite arbeiten. Bei diesem Modell
+  definieren die Teammitglieder ihre Rollen und gegenseitigen Verpflichtungen.
+  Die Teams kümmern sich in der Regel auch selbst um Neueinstellungen, Planung,
+  Ermittlung des Investitionsbedarfs, Budgeterstellung bei Bedarf, Prüfung der
+  finanziellen und nicht-monetären Ergebnisse und so weiter.
 
 
-  In an ideal situation, each team is fully autonomous and performing all tasks from start to finish. When that is the case, every single person in the organization has the satisfaction of seeing the entire organization’s purpose come to life, and not just a small slice of it as is often the case in large specialized organizations. In practice, there will often be a need for some people or teams who take on coordinating or supporting roles with a more narrow focus:
+  Im Idealfall ist jedes Team autonom und führt alle Aufgaben von Anfang bis
+  Ende aus. So sieht jedes Individuum, wie der Organisationszweck erfüllt wird –
+  und nicht nur einen kleinen Teil davon, wie es in großen spezialisierten
+  Organisationen häufig der Fall ist. In der Praxis werden oft einige Personen
+  oder Teams benötigt, die koordinierende oder unterstützende Aufgaben mit einem
+  engeren Fokus übernehmen:
 
 
-  * *Team coaches:* In Teal Organizations, there are no middle managers. But teams often feel a need to be supported by someone external that can help them work through problems. At Buurtzorg, they are called regional coaches; at RHD, hub leaders.
+  * *Team-Coaches:* In Teal-Organisationen gibt es keine mittleren
+  Führungskräfte. Aber Teams haben oft das Bedürfnis nach externer Unterstützung
+  bei der Lösung von Problemen. Bei Buurtzorg heißen diese Begleiter Regional
+  Coaches, bei RHD Hub Leader.
 
-  * *Supporting teams*: For some tasks, duplication in every team doesn’t make sense. At FAVI, for example, the great majority of teams are client facing―the Audi team, the Volkswagen team, etc. However, a few teams support other teams, such as the foundry team. It would not be practical for the teams to operate the foundry in turns, nor would it make sense to duplicate the equipment and have a foundry within each team. RHD has units responsible for areas such as training (its “miniversity”), real estate, and payroll, that support all the units in the field.
+  * *Unterstützungsteams*: Bei manchen Aufgaben ist es wenig sinnvoll, in
+  jedem Team das Rad neu zu erfinden. Bei FAVI beispielsweise arbeiten die
+  meisten Teams für einen Kunden (Audi-Team, Volkswagen-Team usw.). Einige
+  wenige Teams unterstützen die anderen (z.B. das Gießerei-Team). Es wäre
+  unlogisch, die Gießerei abwechselnd zu betreiben oder eine Gießerei in jedem
+  Team zu haben. RHD verfügt über Abteilungen, die für Bereiche wie Ausbildung
+  („Mini-Universität\"), Immobilien und Gehaltsabrechnung zuständig sind und
+  alle Einheiten vor Ort unterstützen.\ 
 
-  * *Supporting roles:* The self-management model pushes expertise down to the teams, rather than up into staff functions. But for certain specific expertise or for coordination purposes, creating a supporting role can make sense. At FAVI, for instance, there is an engineer who helps teams exchange innovations and best practices.
-
-
-  ##### *Web of individual contracting*
-
-
-  ![Michael K Sahota - 30 mai 2015 à 21:13](/media/individual_contracting.png "Individual Contracting")
-
-
-  Individual contracting, as has been pioneered by Morning Star, a California-based tomato processing company, is a natural fit for continuous and relatively stable processes, such as can be found in the chemical industry, in food processing, or in long assembly chains. Each major step in the process often involves only a few people, and so a nested structure is not needed. Through individual one-on-one contracting, colleagues can make clear agreements with their upstream and downstream counterparts and anyone else they work closely with. These commitments are often formalized in a written document.
-
-
-  Investment budgets and financial results, on the other hand, are set up and discussed in teams, just as in the model of parallel teams. (Morning Star calls them “Business Units,” and each Business Unit is linked to a particular step in the process―say, tomato preparation, dicing, canning, or packaging―or to a support service―for instance, steam generation or IT.)
-
-
-  ##### *Nested teams (Circles)*
-
-
-  ![Frederic Laloux - 29 juin 2015 à 12:22 - Update file of nested teams (presented as concentric circles rather than stacked in a pyramidal fashion ](/media/nested_teams_2-medium.png "Nested Teams")
+  * *Unterstützungsfunktionen:* Im Rahmen des Selbstorganisationsmodells wird
+  das Fachwissen an die Teams weitergegeben und nicht an Stabsstellen. Für
+  bestimmte spezifische Fachkenntnisse oder zu Koordinierungszwecken kann es
+  jedoch sinnvoll sein, eine unterstützende Funktion einzurichten. Bei FAVI gibt
+  es zum Beispiel einen Ingenieur, der den Teams beim Austausch von Innovationen
+  und bewährten Verfahrensweisen hilft.
 
 
-  Some industries have not only long, but also deep value chains, when certain steps in the value chain involve both a large number of people and complex tasks (for instance, research in a pharmaceutical company or marketing in a large retail bank). Consumer electronics firms, large media companies, banks, insurance companies, car manufacturers, aerospace companies, and airline companies are likely to have long and deep value chains. For these types of companies, nested teams (often called circles) might be particularly appropriate, as they allow an overall purpose to be broken down into successively less complex and more manageable pieces.
+  ##### *Vernetzte Auftragsvergabe*
 
 
-  This structure was formalized by Kees Boeke in the mid 20th century in a system called Sociocracy (first applied in a school in the Netherlands). Holacracy, an organizational system pioneered by Brian Robertson in his software company Ternary Software, is also structured in concentric circles (see “Concrete examples for inspiration” below).  
+  ![Michael K Sahota - 30 mai 2015 à 21:13](/media/individual_contracting.png
+  \"Individual Contracting\")
 
 
-  Through nesting, circles gradually integrate related activities, so there is a hierarchy of purpose, complexity, and scope, but not of people or power. Each circle has full authority to make decisions within the scope of its specific purpose. Decisions are not sent upwards, and cannot be overturned by members of overarching circles.
+  Individuelle Verträge, wie sie Morning Star, ein in Kalifornien ansässiges
+  Unternehmen der Tomatenverarbeitung, anwendet, eignen sich hervorragend für
+  kontinuierliche und relativ stabile Prozesse, wie sie in der chemischen oder
+  Lebensmittelindustrie oder in langen Montageketten zu finden sind. An jedem
+  wichtigen Prozessschritt sind oft nur wenige Personen beteiligt, so dass eine
+  verschachtelte Struktur nicht erforderlich ist. Durch individuelle Verträge
+  können diese Personen klare Vereinbarungen mit ihren vor- und nachgelagerten
+  Ansprech- und anderen Kooperationspartnern treffen. Diese Verpflichtungen
+  werden häufig schriftlich dokumentiert.\r
+
+
+  Investitionsbudgets und Finanzergebnisse hingegen werden in Teams erstellt
+  und besprochen, genau wie beim Modell der parallelen Teams. Morning Star nennt
+  sie Business Units. Jede Business Unit ist mit einem bestimmten Prozessschritt
+  (z.B. Zubereitung, Würfeln, Eindosen, Verpacken) oder mit einer
+  unterstützenden Dienstleistung (z.B. Dampferzeugung, IT) verbunden.\r
+
+
+
+  ##### *Verschachtelte Teams (Kreise)*
+
+
+  ![Frederic Laloux - 29 juin 2015 à 12:22 - Update file of nested teams
+  (presented as concentric circles rather than stacked in a pyramidal fashion
+  ](/media/nested_teams_2-medium.png \"Nested Teams\")
+
+
+  Einige Branchen haben lange und tiefe Wertschöpfungsketten, wobei bestimmte
+  Schritte sowohl eine große Anzahl an Menschen als auch komplexe Aufgaben
+  umfassen (z.B. Forschung in einem Pharmaunternehmen oder Marketing in einer
+  großen Privatkundenbank). Unternehmen der Unterhaltungselektronik und Medien,
+  Banken, Versicherungen, Automobilhersteller, Luft- und Raumfahrtunternehmen
+  und Fluggesellschaften haben vermutlich lange und tiefe Wertschöpfungsketten.
+  Für diese Arten von Unternehmen können verschachtelte Teams (Kreise) besonders
+  geeignet sein, da sie es ermöglichen, ein übergeordnetes Ziel in weniger
+  komplexe und besser handhabbare Teile zu zerlegen.\r
+
+
+  Diese Struktur wurde von Kees Boeke Mitte des 20. Jahrhunderts in einem
+  System namens Soziokratie formalisiert (und erstmals in einer niederländischen
+  Schule angewandt). Holacracy, ein Organisationssystem, das von Brian Robertson
+  in seinem Unternehmen Ternary Software entwickelt wurde, ist ebenfalls in
+  konzentrischen Kreisen aufgebaut (siehe \"Beispiele zur Inspiration\").\r
+
+
+  Durch Verschachtelung integrieren die Kreise nach und nach verwandte
+  Aktivitäten, so dass es eine Hierarchie des Zwecks, der Komplexität und des
+  Umfangs, aber nicht der Menschen oder der Macht gibt. Jeder Kreis hat die
+  volle Entscheidungsbefugnis im Rahmen seines spezifischen Zwecks.
+  Entscheidungen werden nicht nach oben delegiert und können nicht von
+  übergeordneten Kreisen ausgehebelt werden.\r\n"
 faq:
-  - question: How do these practices link with the three Teal breakthroughs?
+  - question: Wie hängen diese Verfahrensweisen mit den drei bahnbrechenden
+      Teal-Elementen zusammen?
     answer: >-
-      ###### Self-management
+      ###### Selbstorganisation
 
 
-      Teal organizational structures are driven by self-management. The traditional boss-subordinate relationship gives way to a decentralized team structure and peer to peer commitments.
+      Teal-Organisationsstrukturen basieren auf Selbstmanagement. Die traditionelle Vorgesetzte-Untergebenen-Beziehung weicht einer dezentralen Teamstruktur und der Verpflichtung unter Gleichgestellten.
 
 
-      ###### Wholeness
+      ###### Ganzheitlichkeit
 
 
-      Pyramidal structures are built on the (often unconscious) assumption that people cannot be trusted and must be controlled by their hierarchical superior. In Teal organizational structures, people are freed from the constraints of authority and can thus show up more fully.
+      Pyramidale Strukturen beruhen auf der (oft unbewussten) Annahme, dass man Menschen nicht trauen kann und dass sie von Vorgesetzten kontrolliert werden müssen. In Teal-Organisationsstrukturen sind die Menschen von den Zwängen der Autorität befreit und können sich daher besser entfalten.
 
 
-      ###### Evolutionary purpose
+      ###### Evolutionärer Zweck
 
 
-      In Teal organizations, people’s actions are guided by their sense of the organization’s evolutionary purpose, not by what they are being told to do by someone higher up the organizational chain. Self-managing systems, based on sense and respond as opposed to command and control, tend to evolve much faster and respond more quickly to changes in the environment. Pyramidal organizations tend to change through less frequent, less timely and more brutal re-organizations.
-  - question: What then, if any, is the role of a leader?
-    answer: "In today’s world, the predominant, default organizational model is that
-      of the pyramid, with an executive committee, middle managers, staff
-      functions, and policies and procedures to ensure control. Self-managing
-      systems are still the exception, and many people's default behaviors, even
-      in established self-managing organizations, can revert to those of more
-      traditional, hierarchical management. This might explain why in all
-      self-managing organizations to date, the founder or the most senior
-      “leader” has filled one particular role: that of \"holding the space\" of
-      distributed authority. Whenever people in the organization, consciously or
-      unconsciously, revert to traditional management control mechanisms, the
-      leader reminds everyone about the [fundamental assumptions
-      ](../fundamental-assumptions/)and encourages them to find solutions in
-      line with the self-managing nature of the organization."
-  - question: If the organization is structured in teams, should there be structure
-      within the teams? Should there be a team leader?
-    answer: >-
-      In self-managed teams, many management tasks disappear, since people are
-      no longer being “managed”. Other tasks (planning, setting objectives,
-      monitoring team performance, recruiting, etc.) remain, and it is up to the
-      team to make it clear among themselves what the various roles and task
-      responsibilities of the team members are. In some cases, such tasks can
-      simply be spread among team members (I do the planning, you lead the
-      recruiting, etc.). Such a model works well when the nature of the team’s
-      operational roles allows for flexibility (e.g., knowledge workers who can
-      interrupt their primary work or nurses who can take time between patient
-      visits for administrative tasks). Other types of work require fixed and
-      dedicated hours that cannot be easily interrupted. Teachers, for instance,
-      can't easily leave the classroom and machine operators can't easily leave
-      their workplace. In such cases, it might be necessary to have a team
-      coordinator that isn't tied to a classroom or a machine to take on a
-      number of the management tasks.
+      In Teal-Organisationen lassen sich die Menschen bei ihren Handlungen von ihrem Gespür für den evolutionären Zweck der Organisation leiten und nicht von dem, was ihnen von jemandem auf höherer Ebene vorgegeben wird. Systeme der Selbstorganisation, die auf "Spüren und Antworten" statt "Befehl und Kontrolle" beruhen, entwickeln sich in der Regel viel schneller und reagieren rascher auf Veränderungen in der Umwelt. Pyramidale Organisationen verändern sich tendenziell durch weniger häufige und zeitnahe, dafür jedoch umso heftigere Umstrukturierungen.
+  - question: Was ist dann, wenn überhaupt, die Rolle einer Führungskraft?
+    answer: >
+      In der heutigen Welt ist das vorherrschende Standard-Organisationsmodell
+      die Pyramide mit einem Vorstand, mittleren Managern, Stabsfunktionen sowie
+      Richtlinien und Verfahren zur Gewährleistung der Kontrolle.
+      Selbstorganisationssysteme sind nach wie vor die Ausnahme, und auch in
+      solchen Organisationen können die Verhaltensweisen zu denen des
+      traditionellen, hierarchischen Managements zurückkehren. Dies mag
+      erklären, warum in allen bisherigen selbstorganisierten Unternehmen der
+      Gründer oder die ranghöchste "Führungskraft" die Rolle des Bewahrers der
+      verteilten Autorität einnahm. Immer dann, wenn die Menschen in der
+      Organisation bewusst oder unbewusst auf traditionelle Kontrollmechanismen
+      des Managements zurückgreifen, erinnert die Leitung alle an die
+      [fundamentalen Annahmen](../fundamental-assumptions/) und ruft dazu auf,
+      Lösungen zu finden, die mit dem selbstorganisierenden Charakter des
+      Unternehmens im Einklang stehen.
+  - question: Wenn die Organisation in Teams strukturiert ist, sollte es dann eine
+      Struktur innerhalb der Teams und eine Teamleitung geben?
+    answer: "In selbstorganisierten Teams entfallen viele Managementaufgaben, da die
+      Menschen nicht mehr \"gemanagt\" werden müssen. Andere Aufgaben (Planung,
+      Zielsetzung, Leistungskontrolle, Rekrutierung usw.) bleiben bestehen. Es
+      ist Sache des Teams, die verschiedenen Rollen und Aufgabenbereiche der
+      Teammitglieder zu klären. In manchen Fällen können diese Aufgaben einfach
+      untereinander aufgeteilt werden (ich mache die Planung, du leitest die
+      Rekrutierung, usw.). Ein solches Modell funktioniert, wenn die Art der
+      operativen Teamaufgaben Flexibilität zulässt (z.B. bei Wissensarbeitern,
+      die ihre Haupttätigkeit unterbrechen, oder Krankenschwestern, die sich
+      zwischen Patientenbesuchen Zeit für Verwaltungsaufgaben nehmen können).
+      Manche Tätigkeiten erfordern feste und bestimmte Arbeitszeiten und
+      -abläufe, die nicht einfach unterbrochen werden können. Lehrer können
+      beispielsweise nicht ohne Weiteres das Klassenzimmer und
+      Maschinenführerinnen nicht so einfach ihren Arbeitsplatz verlassen. In
+      solchen Fällen mag es notwendig sein, eine Teamkoordinatorin mit einem
+      Teil der Managementaufgaben zu betrauen, der kein Klassenzimmer und keine
+      Maschine den Takt vorgibt.\r
 
 
-      Having a team coordinator nevertheless carries a risk. Our cultural baggage of hierarchy is so strong that over time, team coordinators could start behaving like bosses and become the primary decision makers on their teams. At FAVI, a simple but powerful relief valve exists. Should a team leader find the taste of power too sweet, workers can choose at any moment to join another team.
+      Der Einsatz einer Teamkoordination birgt jedoch ein Risiko. Unser
+      kulturelles Hierarchieverständnis ist so ausgeprägt, dass
+      Teamkoordinierende mit der Zeit anfangen könnten, sich wie Vorgesetzte zu
+      verhalten und zu den Hauptentscheidungsträgern in ihren Teams zu werden.
+      Bei FAVI gibt es ein einfaches, aber wirkungsvolles Ventil dafür. Sollte
+      einer Teamleitung der süße Duft der Macht zu sehr gefallen, können die
+      Mitarbeitenden sich jederzeit einem anderen Team anschließen.\r
 
 
-      See also, “*[Role Definition and Allocation](../role-definition-and-allocation/)*”.
+      Siehe auch: “*[Rollendefinition und
+      -zuweisung](../role-definition-and-allocation/)*”."
 relatedTheory:
   - Coordination
   - Role Definition and Allocation
