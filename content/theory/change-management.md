@@ -143,7 +143,7 @@ perspective: "Im Maschinenparadigma von Orange werden Organisationen als starre
   Veränderungsprozess gestalten, passt das nicht zum grünen Ideal der
   Befähigung. Es werden wahrscheinlich mehr Menschen einbezogen. Dies könnte in
   Form von Gruppen-Workshops unter Beteiligung eines Großteils der Belegschaft
-  und durch innovative Moderationstechniken geschehen (z. B. Appreciative
+  und durch innovative Moderationstechniken geschehen (z.B. Appreciative
   Inquiry, Theory U, Open Space usw.). Die hierarchische Struktur der
   Organisation wird vorübergehend aufgelöst, um Raum für einen organischen
   Prozess der kollektiven Intelligenz zu schaffen. Die Ergebnisse werden dann in
