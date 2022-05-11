@@ -87,7 +87,7 @@ inPractice: "#### Beibehaltung des Beratungsprozesses
 
 
 
-  Siehe unten: [FAVI](http://www.favi.com/) and
+  Siehe unten: [FAVI](http://www.favi.com/) und
   [Buurtzorg](http://www.buurtzorgnederland.com/)
 
 
