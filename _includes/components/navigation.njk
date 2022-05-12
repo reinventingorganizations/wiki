@@ -10,7 +10,7 @@
       <span class="visuallyhidden">{{ openMenu }}</span>
     </button>
 
-    <a href="/{{ locale }}" class="c-navigation__site_title">
+    <a href="https://reinventingorganizationswiki.com/{{ locale }}" class="c-navigation__site_title">
       <img class="c-navigation__logo" src="/images/logo3.png" alt=""/>
 
       <span class="c-navigation__site-title-text">
@@ -40,7 +40,7 @@
               <ul class="c-toggler__target">
                 {% for article in navigationCategory.articles %}
                   <li class="c-navigation__level3 {{ 'is-active' if article.url in page.url }}">
-                    <a href="{{ article.url }}" class="c-navigation__level3_link">{{ article.data.name }}</a>
+                    <a href="https://reinventingorganizationswiki.com{{ article.url }}" class="c-navigation__level3_link">{{ article.data.name }}</a>
                   </li>
                 {% endfor %}
               </ul>
@@ -68,7 +68,7 @@
               <ul class="c-toggler__target">
                 {% for article in navigationCategory.articles %}
                   <li class="c-navigation__level3 {{ 'is-active' if article.url in page.url }}">
-                    <a href="{{ locale }}/{{ article.url }}" class="c-navigation__level3_link">{{ article.data.name }}</a>
+                    <a href="https://reinventingorganizationswiki.com{{ article.url }}" class="c-navigation__level3_link">{{ article.data.name }}</a>
                   </li>
                 {% endfor %}
               </ul>
@@ -77,7 +77,7 @@
         </ul>
       </li>
       <li class="c-navigation__level1 {{ 'is-active' if '{{ locale }}/cases' in page.url }}">
-        <a href="{{ locale }}/cases" class="c-navigation__level1_link">{{ casesTitle }}</a>
+        <a href="https://reinventingorganizationswiki.com/{{ locale }}/cases" class="c-navigation__level1_link">{{ casesTitle }}</a>
       </li>
     </ul>
   </div>

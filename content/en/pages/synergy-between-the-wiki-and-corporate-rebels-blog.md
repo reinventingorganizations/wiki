@@ -17,7 +17,7 @@ We are convinced that the multiplicity of views makes the openness and strength 
 By linking the cases of organizations that are living these new practices today, we canfacilitate access to resources that speak differently about the reinvention of organizations. 
 
 A typical example can be Morning Star case for Conflict Resolution.
-Here is the Wiki article : https://reinventingorganizationswiki.com/cases/morning-star/
+Here is the Wiki article : https://reinventingorganizationswiki.com/en/cases/morning-star/
 Here is the Rebels article : https://corporate-rebels.com/accountability-process/
 
 Dear all in the wiki team, please go to the Trello xxx map for your feedback.
