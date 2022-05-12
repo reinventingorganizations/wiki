@@ -14,13 +14,13 @@ Veuillez [nous faire savoir](https://reinventingorganizationswiki.com/pages/how-
 
 ![](/media/flaghungary.jpg)      Hongrois <https://reinventingorganizationswiki.hu/>
 
-![](/media/flagspain.jpg)      Espagnol <http://www.reinventarlasorganizacioneswiki.com/>
+![](/media/flagspain.jpg)      Espagnol <https://reinventingorganizationswiki.com/es>
 
-![](/media/flagchina.jpg)       Chinois <https://cn.reinventingorganizationswiki.com/>
+![](/media/flagchina.jpg)       Chinois <https://reinventingorganizationswiki.com/cn>
 
 ### … ou bien en cours d'élaboration
 
-![](/media/flagfrance.png)      Français <https://fr.reinventingorganizationswiki.com/>
+![](/media/flagfrance.png)      Français <https://reinventingorganizationswiki.com/fr>
 
-![](/media/flagrussia.jpg)      Russe [https://ru.reinventingorganizationswiki.com/](<https://ru.reinventingorganizationswiki.com/>)
+![](/media/flagrussia.jpg)      Russe [https://reinventingorganizationswiki.com/ru](<https://reinventingorganizationswiki.com/ru>)
 
