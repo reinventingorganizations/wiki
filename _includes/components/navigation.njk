@@ -29,22 +29,26 @@
         </button>
         <ul class="c-toggler__target">
           {% for navigationCategory in collections.practicesNavigation %}
-            <li class="c-navigation__level2">
-              <button class="c-navigation__level2_toggler {{ 'is-open' if navigationCategory.data.key == category}}"
-                      data-component="toggler">
-                {{ navigationCategory.data.name }}
-                <svg class="c-toggler__icon c-navigation__toggle_icon c-navigation__toggle_icon_small"  focusable="false">
-                  <use xlink:href="#chevron-down-small"/>
-                </svg>
-              </button>
-              <ul class="c-toggler__target">
-                {% for article in navigationCategory.articles %}
-                  <li class="c-navigation__level3 {{ 'is-active' if article.url in page.url }}">
-                    <a href="https://reinventingorganizationswiki.com{{ article.url }}" class="c-navigation__level3_link">{{ article.data.name }}</a>
-                  </li>
-                {% endfor %}
-              </ul>
-            </li>
+            {% if navigationCategory.data.locale == locale %}
+              <li class="c-navigation__level2">
+                <button class="c-navigation__level2_toggler {{ 'is-open' if navigationCategory.data.key == category}}"
+                        data-component="toggler">
+                  {{ navigationCategory.data.name }}
+                  <svg class="c-toggler__icon c-navigation__toggle_icon c-navigation__toggle_icon_small"  focusable="false">
+                    <use xlink:href="#chevron-down-small"/>
+                  </svg>
+                </button>
+                <ul class="c-toggler__target">
+                  {% for article in navigationCategory.articles %}
+                    {% if article.data.locale == locale %}
+                      <li class="c-navigation__level3 {{ 'is-active' if article.url in page.url }}">
+                        <a href="https://reinventingorganizationswiki.com{{ article.url }}" class="c-navigation__level3_link">{{ article.data.name }}</a>
+                      </li>
+                    {% endif %}
+                  {% endfor %}
+                </ul>
+              </li>
+            {% endif %}
           {% endfor %}
         </ul>
       </li>
@@ -57,22 +61,26 @@
         </button>
         <ul class="c-toggler__target">
           {% for navigationCategory in collections.backgroundNavigation %}
-            <li class="c-navigation__level2">
-              <button class="c-navigation__level2_toggler {{ 'is-open' if navigationCategory.data.key == category}}"
-                      data-component="toggler">
-                {{ navigationCategory.data.name }}
-                <svg class="c-toggler__icon c-navigation__toggle_icon c-navigation__toggle_icon_small"  focusable="false">
-                  <use xlink:href="#chevron-down-small"/>
-                </svg>
-              </button>
-              <ul class="c-toggler__target">
-                {% for article in navigationCategory.articles %}
-                  <li class="c-navigation__level3 {{ 'is-active' if article.url in page.url }}">
-                    <a href="https://reinventingorganizationswiki.com{{ article.url }}" class="c-navigation__level3_link">{{ article.data.name }}</a>
-                  </li>
-                {% endfor %}
-              </ul>
-            </li>
+            {% if navigationCategory.data.locale == locale %}
+              <li class="c-navigation__level2">
+                <button class="c-navigation__level2_toggler {{ 'is-open' if navigationCategory.data.key == category}}"
+                        data-component="toggler">
+                  {{ navigationCategory.data.name }}
+                  <svg class="c-toggler__icon c-navigation__toggle_icon c-navigation__toggle_icon_small"  focusable="false">
+                    <use xlink:href="#chevron-down-small"/>
+                  </svg>
+                </button>
+                <ul class="c-toggler__target">
+                  {% for article in navigationCategory.articles %}
+                    {% if article.data.locale == locale %}
+                      <li class="c-navigation__level3 {{ 'is-active' if article.url in page.url }}">
+                        <a href="https://reinventingorganizationswiki.com{{ article.url }}" class="c-navigation__level3_link">{{ article.data.name }}</a>
+                      </li>
+                    {% endif %}
+                  {% endfor %}
+                </ul>
+              </li>
+            {% endif %}
           {% endfor %}
         </ul>
       </li>

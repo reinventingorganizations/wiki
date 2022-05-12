@@ -40,7 +40,7 @@ templateEngineOverride: njk,md
 
 {% if faq.length > 0 %}
 
-<h2 class="c-title c-title--section" id="faq">Frequently Asked Questions</h2>
+<h2 class="c-title c-title--section" id="faq">{{ Frequently_Asked_Questions }}</h2>
 
 {% for item in faq %}
 <div class="c-collapsible">
@@ -70,6 +70,7 @@ templateEngineOverride: njk,md
 <h2 class="c-title c-title--section">{{ Concrete_cases_for_inspiration }}</h2>
 
 {% for case in cases %}
+    {% if case.data.locale == locale %}
     <div class="c-collapsible">
         <h3 class="c-collapsible__title" data-component="toggler">
             <button class="c-collapsible__button">
@@ -119,6 +120,7 @@ templateEngineOverride: njk,md
             </div>
         </div>
     </div>
+    {% endif %}
 {% endfor %}
 
 {% endif %}
@@ -129,9 +131,11 @@ templateEngineOverride: njk,md
 
 <ul class="c-topiclist">
     {% for topic in topics %}
-        <li class="c-topiclist__item">
-            <a href="{{ topic.url }}" class="c-topiclist__link">{{ topic.data.name }}</a>
-        </li>
+        {% if topic.data.locale == locale %}
+            <li class="c-topiclist__item">
+                <a href="{{ topic.url }}" class="c-topiclist__link">{{ topic.data.name }}</a>
+            </li>
+        {% endif %}
     {% endfor %}
 </ul>
 
