@@ -19,6 +19,9 @@
     "Concrete_cases_for_inspiration": "Concrete cases for inspiration",
     "Get_to_know_how_this_organisation_manages_other_teal_practices": "Get to know how this organisation manages other teal practices",
     "Related_Topics": "Related Topics",
+    "Cases_for_inspiration":"Cases for inspiration",
+    "Frequently_Asked_Questions":"Frequently Asked Questions",
+    "Key_organizational_structures_and_practices":"Key organizational structures and practices",
     "footerLinks": [
         {
           "title": "Donate",
@@ -38,7 +41,7 @@
         },
         {
           "title": "The book & other resources",
-          "link": "https://www.reinventingorganizations.com/en"
+          "link": "https://www.reinventingorganizations.com/"
         },
         {
           "title": "Watch videos (Insights for the Journey)",
