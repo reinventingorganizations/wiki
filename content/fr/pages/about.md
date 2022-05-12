@@ -18,4 +18,4 @@ The wiki is founded on the idea that there are distinct evolutionary steps in th
 
 This body of knowledge is brought to the world by a group of enthusiastic volunteers inspired by the ideas presented in the book, “[Reinventing Organizations](https://www.reinventingorganizations.com/)” and the video series “[Insights for the Journey](https://thejourney.reinventingorganizations.com/index.html)” (both by Frederic Laloux). The community of wiki contributors operates itself—how could it be otherwise?—using next-generation practices that the wiki discusses.
 
-In case you would also like to contribute yourself, please [visit this page](../how-can-you-contribute/)
+In case you would also like to contribute yourself, please [visit this page](how-can-you-contribute)

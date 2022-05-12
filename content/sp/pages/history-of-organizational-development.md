@@ -1,19 +1,7 @@
 ---
 layout: content
-name: Teal Concepts
+name: History of Organizational Development
 ---
-![](/media/fundamental-assumptions.jpg)
-
-# Teal Concepts
-
-\[Short resume about the main teal concepts described in the book]
-
-* [Self-Management](../theory/self-management/)
-* [Wholeness](../theory/wholeness/)
-* [Evolutionary Purpose](../theory/evolutionary-purpose/)
-
-## ... and you can also check
-
 ![](/media/1_018-small.png)
 
 ## History of Organizational Development
