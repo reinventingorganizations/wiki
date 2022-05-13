@@ -10,11 +10,10 @@ intro: >-
   此中文版维基知识库是基于弗雷德里克·拉鲁的《重塑组织》一书。主要目的是为那些，正在重塑自己的组织，在提升组织管理水平的实践中寻找灵感的领导者，奉献一个实践指南。
 
 
-  此知识库项目是一种爱的奉献，是一个快乐社区的工作果实，敬献给那些正在世界各地萌芽成长的充满生命激情的蔚蓝组织。真心邀请您[点击此处加入我们](https://cn--reinventingorganizations-wiki.netlify.app/pages/how-can-you-contribute/)，为这个维基知识库添加案例和洞见。
+  此知识库项目是一种爱的奉献，是一个快乐社区的工作果实，敬献给那些正在世界各地萌芽成长的充满生命激情的蔚蓝组织。真心邀请您[点击此处加入我们](cn/pages/how-can-you-contribute/)，为这个维基知识库添加案例和洞见。
 
 
-  [资料目录](https://cn.reinventingorganizationswiki.com//pages/tealpractices/)
-
+  [资料目录](cn/pages/tealpractices/)
 
   点击下列图像，进入具体文档。
 

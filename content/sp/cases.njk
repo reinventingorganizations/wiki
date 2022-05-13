@@ -7,39 +7,41 @@ name: Cases
 
 <ul class="c-caselist">
     {% for case in collections.casesByName %}
-        <li class="c-caselist__item">
-            <a href="{{case.url}}" class="c-caselist__link">
-                {{case.data.name}}
+        {% if case.data.locale == locale %}
+            <li class="c-caselist__item">
+                <a href="{{case.url}}" class="c-caselist__link">
+                    {{case.data.name}}
 
-                <ul class="c-caseattributes c-caseattributes--inline u-font-label-small">
-                    <li class="c-caseattributes__item">
-                        <svg class="c-caseicon c-caseattributes_icon" focusable="false">
-                            <use xlink:href="#lightning"/>
-                        </svg>
-                        {{ case.data.industry }}
-                    </li>
-                    <li class="c-caseattributes__item">
-                        <svg class="c-caseicon c-caseattributes_icon" focusable="false">
-                            <use xlink:href="#globe"/>
-                        </svg>
-                        {{ case.data.geography }}
-                    </li>
-                    <li class="c-caseattributes__item">
+                    <ul class="c-caseattributes c-caseattributes--inline u-font-label-small">
+                        <li class="c-caseattributes__item">
+                            <svg class="c-caseicon c-caseattributes_icon" focusable="false">
+                                <use xlink:href="#lightning"/>
+                            </svg>
+                            {{ case.data.industry }}
+                        </li>
+                        <li class="c-caseattributes__item">
+                            <svg class="c-caseicon c-caseattributes_icon" focusable="false">
+                                <use xlink:href="#globe"/>
+                            </svg>
+                            {{ case.data.geography }}
+                        </li>
+                        <li class="c-caseattributes__item">
 
-                        <svg class="c-caseicon c-caseattributes_icon" focusable="false">
-                            <use xlink:href="#box"/>
-                        </svg>
-                        {{ case.data.companySize }}
-                    </li>
-                    <li class="c-caseattributes__item">
+                            <svg class="c-caseicon c-caseattributes_icon" focusable="false">
+                                <use xlink:href="#box"/>
+                            </svg>
+                            {{ case.data.companySize }}
+                        </li>
+                        <li class="c-caseattributes__item">
 
-                        <svg class="c-caseicon c-caseattributes_icon" focusable="false">
-                            <use xlink:href="#moneyBag"/>
-                        </svg>
-                        {{ case.data.profit }}
-                    </li>
-                </ul>
-            </a>
-        </li>
+                            <svg class="c-caseicon c-caseattributes_icon" focusable="false">
+                                <use xlink:href="#moneyBag"/>
+                            </svg>
+                            {{ case.data.profit }}
+                        </li>
+                    </ul>
+                </a>
+            </li>
+        {% endif %}
     {% endfor %}
 </ul>
