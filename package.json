@@ -22,7 +22,7 @@
     "wicked-elements": "^3.1.1"
   },
   "scripts": {
-    "start": "snowpack dev",
+    "start": "NODE_OPTIONS=--max-old-space-size=8192 snowpack dev",
     "build": "snowpack build",
     "test": "echo \"This template does not include a test runner by default.\" && exit 1",
     "format": "prettier --write \"src/**/*.js\"",
