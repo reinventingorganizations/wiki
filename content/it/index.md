@@ -14,6 +14,7 @@ intro: >-
 
 
   ![](/media/flagGreatBritainXXS.png)    [Click here ](it/pages/translations) for accessing translations of this Wiki (Hungarian, Chinese and Spanish are available today - Polish, Russian and French are in progress)
+  
 topics:
   - title: Teal Concepts
     image: /media/home_reinvention-etienne-small.png

@@ -2588,4 +2588,3 @@ collections:
             fields:
             - { label: Title, name: title, widget: string }
             - { label: Link, name: link, widget: string }
-
