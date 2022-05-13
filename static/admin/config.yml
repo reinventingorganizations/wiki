@@ -508,7 +508,7 @@ collections:
             - { label: Image, name: image, widget: image }
             - { label: Link, name: link, widget: string }
   - name: "theory_sp"
-    label: "[sp] All Articles"
+    label: "[SP] All Articles"
     folder: "content/sp/theory"
     create: true
     identifier_field: name
@@ -790,7 +790,7 @@ collections:
         name: "faq"
         widget: "list"
         fields:
-          - { label: "Locale", name: "locale", default: "sp"}
+          - { label: "Locale", name: "locale", default: "de"}
           - { label: Question, name: question, widget: string }
           - { label: Answer, name: answer, widget: markdown, minimal: true }
       - label: "Related Theory"
@@ -1030,7 +1030,7 @@ collections:
         name: "faq"
         widget: "list"
         fields:
-          - { label: "Locale", name: "locale", default: "sp"}
+          - { label: "Locale", name: "locale", default: "it"}
           - { label: Question, name: question, widget: string }
           - { label: Answer, name: answer, widget: markdown, minimal: true }
       - label: "Related Theory"
@@ -1270,7 +1270,7 @@ collections:
         name: "faq"
         widget: "list"
         fields:
-          - { label: "Locale", name: "locale", default: "sp"}
+          - { label: "Locale", name: "locale", default: "br"}
           - { label: Question, name: question, widget: string }
           - { label: Answer, name: answer, widget: markdown, minimal: true }
       - label: "Related Theory"
@@ -1510,7 +1510,7 @@ collections:
         name: "faq"
         widget: "list"
         fields:
-          - { label: "Locale", name: "locale", default: "sp"}
+          - { label: "Locale", name: "locale", default: "cn"}
           - { label: Question, name: question, widget: string }
           - { label: Answer, name: answer, widget: markdown, minimal: true }
       - label: "Related Theory"
@@ -1750,7 +1750,7 @@ collections:
         name: "faq"
         widget: "list"
         fields:
-          - { label: "Locale", name: "locale", default: "sp"}
+          - { label: "Locale", name: "locale", default: "pl"}
           - { label: Question, name: question, widget: string }
           - { label: Answer, name: answer, widget: markdown, minimal: true }
       - label: "Related Theory"
@@ -1899,6 +1899,246 @@ collections:
       - label: "Texts"
         name: "texts"
         file: "./content/pl/pl.json"
+        widget: list
+        fields:
+          - { label: Locale, name: locale}
+          - { label: Reinventing Organizations Wiki, name: Reinventing_Organizations_Wiki}
+          - { label: Main Navigation, name: mainNavigation}
+          - { label: Background articles, name: backgroundArticles}
+          - { label: Teal structures and practices, name: practicesArticles}
+          - { label: Cases, name: casesTitle}
+          - { label: Reinventing Organizations Wiki, name: siteTitle}
+          - { label: Discover Teal Practices, name: Discover_Teal_Practices}
+          - { label: A new paradigm in Practice, name: A_new_paradigm_in_Practice}
+          - { label: New and updated organizations, name: New_and_updated_organizations}
+          - { label: See all organizations, name: See_all_organizations }
+          - { label: Donate, name: Donate }
+          - { label: Teal Practices, name: Teal_Practices }
+          - { label: Notes and references, name: Notes_and_references }
+          - { label: Brought to you by, name: Brought_to_you_by }
+          - { label: A New Perspective, name: A_New_Perspective }
+          - { label: In Practice, name: In_Practice}
+          - { label: Concrete cases for inspiration, name: Concrete_cases_for_inspiration}
+          - { label: Get to know how this organisation manages other teal practices, name: Get_to_know_how_this_organisation_manages_other_teal_practices }
+          - { label: Related Topics, name: Related_Topics}
+          - { label: Cases for inspiration, name: Cases_for_inspiration}
+          - { label: Frequently Asked Questions, name: Frequently_Asked_Questions}
+# PT ===============================================================================================================================================
+  - name: "home_pt"
+    label: "[PT] Home"
+    files:
+      - label: "Home"
+        name: "home"
+        file: "content/pt/index.md"
+        fields:
+          - {
+              label: "Layout",
+              name: "layout",
+              widget: "hidden",
+              default: "home",
+            }
+          - {label: Tagline, name: tagline, widget: string}
+          - {label: Title, name: title, widget: string}
+          - {label: Intro, name: intro, widget: markdown} 
+          - label: "Topics"
+            name: "topics"
+            widget: "list"
+            fields:
+            - { label: Title, name: title, widget: string }
+            - { label: Image, name: image, widget: image }
+            - { label: Link, name: link, widget: string }
+  - name: "theory_pt"
+    label: "[PT] All Articles"
+    folder: "content/pt/theory"
+    create: true
+    identifier_field: name
+    slug: "{{key}}"
+    fields:
+      - { label: "Locale", name: "locale", default: "pt"}
+      - {
+          label: "Layout",
+          name: "layout",
+          widget: "hidden",
+          default: "article",
+        }
+      - {
+          label: "Tags",
+          name: "tags",
+          widget: "hidden",
+          default: "theory",
+        }
+      - {
+          label: "Key (Short name of the theory. Can't be changed after the theory is created.)",
+          name: "key",
+          widget: "string",
+        }
+      - { label: "Name", name: "name", widget: "string" }
+      - { label: "Sort order", name: "sortOrder", widget: "number" }
+      - label: "Category"
+        name: "category"
+        widget: "relation"
+        collection: "theoryCategories"
+        required: true
+        displayFields: ["name"]
+        valueField: "key"
+        searchFields: ["name"]
+      - { label: "Introduction", name: "intro", widget: "markdown", required: false }
+      - { label: "A new perspective", name: "perspective", widget: "markdown", required: false }
+      - { label: "In Practice", name: "inPractice", widget: "markdown", required: false }
+      - { label: "Body (not used anymore)", name: "body", widget: "markdown", required: false }
+      - label: "FAQ"
+        name: "faq"
+        widget: "list"
+        fields:
+          - { label: "Locale", name: "locale", default: "pt"}
+          - { label: Question, name: question, widget: string }
+          - { label: Answer, name: answer, widget: markdown, minimal: true }
+      - label: "Related Theory"
+        name: "relatedTheory"
+        widget: "relation"
+        collection: "theory"
+        required: false
+        displayFields: ["name"]
+        valueField: "key"
+        searchFields: ["name"]
+        multiple: true
+        optionsLength: 1000
+  - name: "theoryCategories_pt"
+    hide: true
+    label: "[PT] Theory Categories"
+    folder: "content/pl/theoryCategories"
+    create: false
+    identifier_field: name
+    fields:
+      - { label: "Locale", name: "locale", default: "pt"}
+      - {
+          label: "Tags",
+          name: "tags",
+          widget: "hidden",
+          default: "practicesTheoryCategories",
+        }
+      - {
+          label: "Key (Short name of the category. Can't be changed after the category is created.)",
+          name: "key",
+          widget: "string",
+        }
+      - { label: "Name", name: "name", widget: "string" }
+  - name: "cases_pt"
+    label: "[PT] Case Studies"
+    folder: "./content/pt/cases"
+    create: true
+    identifier_field: name
+    fields:
+      - { label: "Locale", name: "locale", default: "pt"}
+      - { label: "Layout", name: "layout", widget: "hidden", default: "case" }
+      - {
+          label: "Tags",
+          name: "tags",
+          widget: "hidden",
+          default: "cases",
+        }
+      - { label: "Name", name: "name", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime"}
+      - {
+          label: "Introduction",
+          name: "introduction",
+          widget: "markdown",
+          minimal: true,
+        }
+      - {
+          label: "Industry",
+          name: "industry",
+          widget: "select",
+          options: [
+            "A. Produkty rolne, leśne i rybołówstwo", 
+            "B. Górnictwo i wydobycie",
+            "C. Przemysł",
+            "D. Elektryczność, gaz, para i klimatyzacja",
+            "E. Zaopatrzenie w wodę; gospodarka komunalna, gospodarka odpadami i rekultywacja",
+            "F. Konstrukcje i roboty budowlane",
+            "G. Handel hurtowy i detaliczny; usługi serwisowe pojazdów samochodowych i motocyklów",
+            "H. Usługi transportowe i magazynowe",
+            "I. Zakwaterowanie i usługi gastronomiczne",
+            "J. Usługi informacyjne i komunikacyjne",
+            "K. Usługi finansowe i i ubezpieczeniowe",
+            "L. Obsługa nieruchomości",
+            "M. Usługi profesjonalne, naukowe i techniczne",
+            "N. Usługi administracji i wsparcia",
+            "O. Administracja publiczna i obronna; obowiązkowe usługi ubezpieczeń społecznych",
+            "P. Edukacja",
+            "Q. Ochrona zdrowia i pomoc społeczna",
+            "R. Usługi kulturalne, rozrywkowe i rekreacyjne",
+            "S. Inne usługi",
+            "T. Gospodarstwa domowe zatrudniające pracowników; gospodarstwa domowe produkujące wyroby i świadczące usługi na własne potrzeby",
+            "U. Usługi świadczone przez organizacje i zespoły eksterytorialne",
+            "V. Inne"
+            ],
+        }
+      - {
+          label: "Geography",
+          name: "geography",
+          widget: "select",
+          options: ["Brazylia", "Kanada", "Chiny", "Egipt", "Francja", "Niemcy", "Globalna", "Indie", "Japonia", "Maroko", "Niderlandy", "Nowa Zelandia", "Filipiny", "Szwajcaria", "Turcja", "Wielka Brytania", "USA"],
+        }
+      - {
+          label: "Company size",
+          name: "companySize",
+          widget: "select",
+          options: ["1-100", "101-200", "201-500", "> 500"],
+        }
+      - {
+          label: "Profit",
+          name: "profit",
+          widget: "select",
+          options: ["Profit", "non-profit"],
+        }
+      - label: "Theory"
+        name: "theory"
+        widget: "list"
+        fields:
+          - {
+              label: Topic,
+              name: topic,
+              widget: relation,
+              collection: "theory",
+              displayFields: ["name"],
+              valueField: "key",
+              searchFields: ["name"],
+            }
+          - { label: Title, name: title, widget: string }
+          - { label: Content, name: content, widget: markdown, minimal: true }
+  - name: "pages_pt"
+    label: "[PT] Pages"
+    folder: "content/pt/pages"
+    create: true
+    identifier_field: name
+    slug: "{{name}}"
+    fields:
+      - { label: "Locale", name: "locale", default: "pt"}
+      - {
+          label: "Layout",
+          name: "layout",
+          widget: "hidden",
+          default: "content",
+        }
+      - {label: Title, name: name, widget: string}
+      - {label: Body, name: body, widget: markdown} 
+  - label: "[PT] Configuration"
+    name: "configuration_pt"
+    files:
+      - label: "Footer"
+        name: "footer"
+        file: "content/pt/pt.json"
+        fields:
+          - label: "Footer Links"
+            name: "footerLinks"
+            widget: "list"
+            fields:
+            - { label: Title, name: title, widget: string }
+            - { label: Link, name: link, widget: string }
+      - label: "Texts"
+        name: "texts"
+        file: "./content/pt/pt.json"
         widget: list
         fields:
           - { label: Locale, name: locale}
