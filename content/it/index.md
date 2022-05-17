@@ -10,10 +10,10 @@ intro: >-
   This wiki is based on the book Reinventing Organizations by Frédéric Laloux. Its primary purpose is to serve as a practical guide for leaders who are reinventing their organization and are looking for inspiration as they upgrade specific management practices in their organization.
 
 
-  It is a labor of love, the work of a joyful community, dedicated to soulful organizations everywhere coming to life. We  invite you to[ join us and contribute](https://reinventingorganizationswiki.com/it/pages/how-can-you-contribute)  to add cases and insights to this wiki.
+  It is a labor of love, the work of a joyful community, dedicated to soulful organizations everywhere coming to life. We  invite you to[ join us and contribute](it/pages/how-can-you-contribute)  to add cases and insights to this wiki.
 
 
-  ![](/media/flagGreatBritainXXS.png)    [Click here ](https://reinventingorganizationswiki.com/it/pages/translations) for accessing translations of this Wiki (Hungarian, Chinese and Spanish are available today - Polish, Russian and French are in progress)
+  ![](/media/flagGreatBritainXXS.png)    [Click here ](it/pages/translations) for accessing translations of this Wiki (Hungarian, Chinese and Spanish are available today - Polish, Russian and French are in progress)
   
 topics:
   - title: Teal Concepts

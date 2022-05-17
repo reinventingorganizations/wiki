@@ -29,7 +29,7 @@ intro: >-
   Si vous souhaitez contribuer et participer au développement de ce wiki, contactez : guezouceline@gmail.com 
 
 
-  ![](/media/flagGreatBritainXXS.png)    [cliquez ici](https://reinventingorganizationswiki.com/fr/pages/translations) pour accéder aux traductions de ce Wiki (le hongrois et l'espagnol sont disponibles dès aujourd'hui - le russe, le chinois et le français sont en cours)
+  ![](/media/flagGreatBritainXXS.png)    [cliquez ici](fr/pages/translations) pour accéder aux traductions de ce Wiki (le hongrois et l'espagnol sont disponibles dès aujourd'hui - le russe, le chinois et le français sont en cours)
 
 topics:
   - title: Teal Concepts

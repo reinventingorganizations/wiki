@@ -23,7 +23,7 @@ pagination:
             {{ intro | md | safe }}
         </div>
 
-        <a href="https://reinventingorganizationswiki.com/{{ locale }}/pages/tealpractices" class="l-home__cta">
+        <a href="{{ locale }}/pages/tealpractices" class="l-home__cta">
             {{ Discover_Teal_Practices }}
         </a>
     </div>
@@ -46,7 +46,7 @@ pagination:
         <h2 class="c-title--section" style="margin-bottom: 0">
             {{ New_and_updated_organizations }}
         </h2>
-        <a href="https://reinventingorganizationswiki.com/{{ locale }}/cases">{{ See_all_organizations }}</a>
+        <a href="{{ locale }}/cases">{{ See_all_organizations }}</a>
         
         <ul class="l-home__cases">
             {% for case in cases %}
