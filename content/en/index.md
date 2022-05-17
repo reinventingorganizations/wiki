@@ -10,10 +10,10 @@ intro: >-
   specific management practices in their organization.
 
 
-  It is a labor of love, the work of a joyful community, dedicated to soulful organizations everywhere coming to life. We  invite you to[ join us and contribute](en/pages/how-can-you-contribute)  to add cases and insights to this wiki.
+  It is a labor of love, the work of a joyful community, dedicated to soulful organizations everywhere coming to life. We  invite you to[ join us and contribute](https://reinventingorganizationswiki.com/en/pages/how-can-you-contribute)  to add cases and insights to this wiki.
 
 
-  ![](/media/flagGreatBritainXXS.png)    [Click here ](en/pages/translations) for accessing translations of this Wiki (Hungarian, Chinese and Spanish are available today - Polish, Russian, French, Italian, Turkish, German and Portuguese are in progress)
+  ![](/media/flagGreatBritainXXS.png)    [Click here ](https://reinventingorganizationswiki.com/en/pages/translations) for accessing translations of this Wiki (Hungarian, Chinese and Spanish are available today - Polish, Russian, French, Italian, Turkish, German and Portuguese are in progress)
 
 topics:
   - title: Teal Concepts

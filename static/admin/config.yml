@@ -105,7 +105,7 @@ collections:
       - { label: "Name", name: "name", widget: "string" }
   - name: "cases"
     label: "[EN] Case Studies"
-    folder: "./content/en/cases"
+    folder: "content/en/cases"
     create: true
     identifier_field: name
     fields:
@@ -340,7 +340,7 @@ collections:
       - { label: "Name", name: "name", widget: "string" }
   - name: "cases_fr"
     label: "[FR] Case Studies"
-    folder: "./content/fr/cases"
+    folder: "content/fr/cases"
     create: true
     identifier_field: name
     fields:
@@ -575,7 +575,7 @@ collections:
       - { label: "Name", name: "name", widget: "string" }
   - name: "cases_sp"
     label: "[SP] Case Studies"
-    folder: "./content/sp/cases"
+    folder: "content/sp/cases"
     create: true
     identifier_field: name
     fields:
@@ -810,7 +810,7 @@ collections:
       - { label: "Name", name: "name", widget: "string" }
   - name: "cases_de"
     label: "[DE] Case Studies"
-    folder: "./content/de/cases"
+    folder: "content/de/cases"
     create: true
     identifier_field: name
     fields:
@@ -1045,7 +1045,7 @@ collections:
       - { label: "Name", name: "name", widget: "string" }
   - name: "cases_it"
     label: "[IT] Case Studies"
-    folder: "./content/it/cases"
+    folder: "content/it/cases"
     create: true
     identifier_field: name
     fields:
@@ -1280,7 +1280,7 @@ collections:
       - { label: "Name", name: "name", widget: "string" }
   - name: "cases_br"
     label: "[BR] Case Studies"
-    folder: "./content/br/cases"
+    folder: "content/br/cases"
     create: true
     identifier_field: name
     fields:
@@ -1515,7 +1515,7 @@ collections:
       - { label: "Name", name: "name", widget: "string" }
   - name: "cases_cn"
     label: "[CN] Case Studies"
-    folder: "./content/cn/cases"
+    folder: "content/cn/cases"
     create: true
     identifier_field: name
     fields:
@@ -1750,7 +1750,7 @@ collections:
       - { label: "Name", name: "name", widget: "string" }
   - name: "cases_pl"
     label: "[PL] Case Studies"
-    folder: "./content/pl/cases"
+    folder: "content/pl/cases"
     create: true
     identifier_field: name
     fields:
@@ -1985,7 +1985,7 @@ collections:
       - { label: "Name", name: "name", widget: "string" }
   - name: "cases_pt"
     label: "[PT] Case Studies"
-    folder: "./content/pt/cases"
+    folder: "content/pt/cases"
     create: true
     identifier_field: name
     fields:
@@ -2220,7 +2220,7 @@ collections:
       - { label: "Name", name: "name", widget: "string" }
   - name: "cases_rs"
     label: "[RS] Case Studies"
-    folder: "./content/rs/cases"
+    folder: "content/rs/cases"
     create: true
     identifier_field: name
     fields:
@@ -2455,7 +2455,7 @@ collections:
       - { label: "Name", name: "name", widget: "string" }
   - name: "cases_ru"
     label: "[RU] Case Studies"
-    folder: "./content/rs/cases"
+    folder: "content/rs/cases"
     create: true
     identifier_field: name
     fields:
