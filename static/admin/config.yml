@@ -84,7 +84,6 @@ collections:
         multiple: true
         optionsLength: 1000
   - name: "theoryCategories"
-    hide: true
     label: "[EN] Theory Categories"
     folder: "content/en/theoryCategories"
     create: false
@@ -319,7 +318,6 @@ collections:
         multiple: true
         optionsLength: 1000
   - name: "theoryCategories_fr"
-    hide: true
     label: "[FR] Theory Categories"
     folder: "content/fr/theoryCategories"
     create: false
@@ -554,7 +552,6 @@ collections:
         multiple: true
         optionsLength: 1000
   - name: "theoryCategories_sp"
-    hide: true
     label: "[SP] Theory Categories"
     folder: "content/sp/theoryCategories"
     create: false
@@ -789,7 +786,6 @@ collections:
         multiple: true
         optionsLength: 1000
   - name: "theoryCategories_de"
-    hide: true
     label: "[DE] Theory Categories"
     folder: "content/de/theoryCategories"
     create: false
@@ -1024,7 +1020,6 @@ collections:
         multiple: true
         optionsLength: 1000
   - name: "theoryCategories_it"
-    hide: true
     label: "[IT] Theory Categories"
     folder: "content/it/theoryCategories"
     create: false
@@ -1259,7 +1254,6 @@ collections:
         multiple: true
         optionsLength: 1000
   - name: "theoryCategories_br"
-    hide: true
     label: "[BR] Theory Categories"
     folder: "content/br/theoryCategories"
     create: false
@@ -1494,7 +1488,6 @@ collections:
         multiple: true
         optionsLength: 1000
   - name: "theoryCategories_cn"
-    hide: true
     label: "[CN] Theory Categories"
     folder: "content/cn/theoryCategories"
     create: false
@@ -1729,7 +1722,6 @@ collections:
         multiple: true
         optionsLength: 1000
   - name: "theoryCategories_pl"
-    hide: true
     label: "[PL] Theory Categories"
     folder: "content/pl/theoryCategories"
     create: false
@@ -1964,7 +1956,6 @@ collections:
         multiple: true
         optionsLength: 1000
   - name: "theoryCategories_pt"
-    hide: true
     label: "[PT] Theory Categories"
     folder: "content/pl/theoryCategories"
     create: false
@@ -2199,7 +2190,6 @@ collections:
         multiple: true
         optionsLength: 1000
   - name: "theoryCategories_rs"
-    hide: true
     label: "[RS] Theory Categories"
     folder: "content/rs/theoryCategories"
     create: false
@@ -2434,7 +2424,6 @@ collections:
         multiple: true
         optionsLength: 1000
   - name: "theoryCategories_ru"
-    hide: true
     label: "[RU] Theory Categories"
     folder: "content/ru/theoryCategories"
     create: false
@@ -2669,7 +2658,6 @@ collections:
         multiple: true
         optionsLength: 1000
   - name: "theoryCategories_tr"
-    hide: true
     label: "[TR] Theory Categories"
     folder: "content/tr/theoryCategories"
     create: false
