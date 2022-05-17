@@ -43,26 +43,24 @@ templateEngineOverride: njk,md
 <h2 class="c-title c-title--section">{{ Teal_Practices }}</h2>
 
 {% for item in theoryContent %}
-    {% if item.data.locale == locale %}
-        <div class="c-collapsible">
-            <h3 class="c-collapsible__title" data-component="toggler">
-                <button class="c-collapsible__button">
-                    <div>
-                        <div class="u-font-label" style="margin-bottom: 4px">{{  item.topic }}</div>
-                        <div>{{ item.title }}</div>
-                    </div>
-                    <svg class="c-toggler__icon c-collapsible__icon" focusable="false">
-                        <use xlink:href="#chevron-down"/>
-                    </svg>
-                </button>
-            </h3>
-            <div class="c-toggler__target c-collapsible__content c-richtext">
+    <div class="c-collapsible">
+        <h3 class="c-collapsible__title" data-component="toggler">
+            <button class="c-collapsible__button">
+                <div>
+                    <div class="u-font-label" style="margin-bottom: 4px">{{  item.topic }}</div>
+                    <div>{{ item.title }}</div>
+                </div>
+                <svg class="c-toggler__icon c-collapsible__icon" focusable="false">
+                    <use xlink:href="#chevron-down"/>
+                </svg>
+            </button>
+        </h3>
+        <div class="c-toggler__target c-collapsible__content c-richtext">
 
-                {{ item.content | safe }}
+            {{ item.content | safe }}
 
-            </div>
         </div>
-    {% endif %}
+    </div>
 {% endfor %}
 
 <h2 class="c-title c-title--section">{{ Notes_and_references }}</h2>
