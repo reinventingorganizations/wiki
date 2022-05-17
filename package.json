@@ -11,6 +11,7 @@
     "@babel/core": "^7.11.4",
     "@babel/preset-env": "^7.11.0",
     "@snowpack/plugin-run-script": "^2.0.4",
+    "caniuse-lite": "^1.0.30001341",
     "core-js": "^3.6.5",
     "cssnano": "^4.1.10",
     "markdown-it-container": "^3.0.0",
@@ -23,7 +24,7 @@
   },
   "scripts": {
     "start": "NODE_OPTIONS=--max-old-space-size=8192 snowpack dev",
-    "build": "NODE_OPTIONS=--max-old-space-size=8192 snowpack build",
+    "build": "NODE_OPTIONS=--max-old-space-size=8192 npm cache clean --force && NODE_OPTIONS=--max-old-space-size=8192 snowpack build",
     "test": "echo \"This template does not include a test runner by default.\" && exit 1",
     "format": "prettier --write \"src/**/*.js\"",
     "lint": "prettier --check \"src/**/*.js\""
@@ -35,6 +36,6 @@
     "not dead"
   ],
   "devDependencies": {
-    "@snowpack/plugin-webpack": "^2.0.5"
+    "@snowpack/plugin-webpack": "^3.0.0"
   }
 }

@@ -9,10 +9,10 @@ intro: >-
 
   Este **Wiki en español** está basado en el libro Reinventar las Organizaciones de Frederic Laloux. Su objetivo principal es servir de guía práctica para los líderes que están reinventando su organización y que buscan inspiración mientras actualizan prácticas de gestión específicas en su organización.
 
-  Es una labor de amor, el trabajo de una comunidad alegre, dedicada a que las organizaciones con alma cobren vida en todas partes. Le invitamos a[ unirse a nosotros y contribuir](sp/pages/how-can-you-contribute) para añadir casos y puntos de vista a esta wiki.
+  Es una labor de amor, el trabajo de una comunidad alegre, dedicada a que las organizaciones con alma cobren vida en todas partes. Le invitamos a[ unirse a nosotros y contribuir](https://reinventingorganizationswiki.com/sp/pages/how-can-you-contribute) para añadir casos y puntos de vista a esta wiki.
 
 
-  ![](/media/flagGreatBritainXXS.png)    [Haga click aquí](sp/pages/translations) Acceso a otras páginas de idiomas de la base de conocimiento (inglés, húngaro y español completado - construido en ruso, francés, italiano, polaco, turco, y alemán)
+  ![](/media/flagGreatBritainXXS.png)    [Haga click aquí](https://reinventingorganizationswiki.com/sp/pages/translations) Acceso a otras páginas de idiomas de la base de conocimiento (inglés, húngaro y español completado - construido en ruso, francés, italiano, polaco, turco, y alemán)
   
 topics:
   - title: Conceptos Teal
