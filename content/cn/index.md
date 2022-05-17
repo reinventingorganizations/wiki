@@ -10,15 +10,15 @@ intro: >-
   此中文版维基知识库是基于弗雷德里克·拉鲁的《重塑组织》一书。主要目的是为那些，正在重塑自己的组织，在提升组织管理水平的实践中寻找灵感的领导者，奉献一个实践指南。
 
 
-  此知识库项目是一种爱的奉献，是一个快乐社区的工作果实，敬献给那些正在世界各地萌芽成长的充满生命激情的蔚蓝组织。真心邀请您[点击此处加入我们](cn/pages/how-can-you-contribute/)，为这个维基知识库添加案例和洞见。
+  此知识库项目是一种爱的奉献，是一个快乐社区的工作果实，敬献给那些正在世界各地萌芽成长的充满生命激情的蔚蓝组织。真心邀请您[点击此处加入我们](https://reinventingorganizationswiki.com/cn/pages/how-can-you-contribute/)，为这个维基知识库添加案例和洞见。
 
 
-  [资料目录](cn/pages/tealpractices/)
+  [资料目录](https://reinventingorganizationswiki.com/cn/pages/tealpractices/)
 
   点击下列图像，进入具体文档。
 
 
-  ![](/media/flagGreatBritainXXS.png)    [点击这里查看其他语种 ](/pages/translations) 进入知识库的其他语言页面（英文，匈牙利和西班牙语已经完成--俄文和法文构建中）
+  ![](/media/flagGreatBritainXXS.png)    [点击这里查看其他语种 ](https://reinventingorganizationswiki.com/cn/pages/translations) 进入知识库的其他语言页面（英文，匈牙利和西班牙语已经完成--俄文和法文构建中）
 topics:
   - title: 蔚蓝概念
     image: /media/home_reinvention-etienne-small.png

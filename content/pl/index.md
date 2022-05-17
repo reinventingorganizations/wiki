@@ -10,10 +10,10 @@ intro: >-
   nowo i szukają inspiracji podczas ulepszania określonych praktyk zarządzania w
   swojej organizacji.
 
-  Jest to praca z miłością, praca radosnej wspólnoty, oddanej duchowym organizacjom na całym świecie. Zapraszamy do [dołączenia i współtworzenia](pl/pages/how-can-you-contribute)  w celu dodawania przykładów i spostrzeżeń do tego wiki.
+  Jest to praca z miłością, praca radosnej wspólnoty, oddanej duchowym organizacjom na całym świecie. Zapraszamy do [dołączenia i współtworzenia](https://reinventingorganizationswiki.com/pl/pages/how-can-you-contribute)  w celu dodawania przykładów i spostrzeżeń do tego wiki.
 
 
-  ![](/media/flagGreatBritainXXS.png)    [Click here ](pl/pages/translations) for accessing translations of this Wiki (Hungarian and Spanish are available today - Russian, Chinese and French in progress)
+  ![](/media/flagGreatBritainXXS.png)    [Click here ](https://reinventingorganizationswiki.com/pl/pages/translations) for accessing translations of this Wiki (Hungarian and Spanish are available today - Russian, Chinese and French in progress)
 
 topics:
   - title: Koncepcje Turkusu
