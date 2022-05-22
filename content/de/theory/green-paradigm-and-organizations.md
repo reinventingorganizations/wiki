@@ -1,163 +1,511 @@
 ---
+locale: x
 layout: article
 tags: theory
 key: Green Paradigm and Organizations
-name: Green Paradigm and Organizations
+name: Grünes Paradigma und Organisationen
 sortOrder: 5
 category: history
-intro: >-
-  Green organizations reflect the Green stage of consciousness^\[This stage
-  corresponds to Loevinger’s and Cook-Greuter’s “Individualistic,” Torbert’s
-  “Individualist,” Wade’s “Affiliative,” Graves’ “FS,” Spiral Dynamics’ “Green,”
-  and others; it is often simply referred to as postmodernity.], which strives
-  for harmony, tolerance and equality. While retaining a pyramidal structure,
-  Green organizations focus on empowerment to lift motivation and to create
-  great workplaces. They go beyond the shareholder focus of Orange to embrace
-  all stakeholders. Family is the dominant metaphor.
+intro: "Grüne Organisationen spiegeln die „grüne Bewusstseinsstufe“ wider mit
+  ihrem Streben nach Harmonie, Toleranz und Gleichheit.^\\[Diese Stufe
+  entspricht der „individualistischen\" von Loevinger und Cook-Greuter, dem
+  „Individualisten\" von Torbert, der „affiliativen\" von Wade, der „FS\" von
+  Graves, der „grünen\" von Spiral Dynamics und anderen. Sie wird oft schlicht
+  als Postmoderne bezeichnet.] Während sie eine pyramidale Struktur beibehalten,
+  konzentrieren sich grüne Organisationen auf Befähigung, um die Motivation zu
+  steigern und großartige Arbeitsplätze zu schaffen. Sie gehen über den
+  Shareholder-Fokus des orangen Paradigmas hinaus, indem sie alle
+  Anspruchsgruppen mit einbeziehen. Die Familie ist die vorherrschende Metapher.
 
 
   ![](/media/green.jpg)
 
 
-  #### Green stage of consciousness
+  #### Grüne Bewusstseinsstufe
 
 
-  Green is aware of Orange’s shadow: materialism, social inequality, and the loss of community. Green is sensitive to people’s feelings: all perspectives deserve respect. It seeks community, cooperation, and consensus. Individuals strive to belong—to foster harmonious bonds with everyone.
+  Das grüne Paradigma ist sich der Nachteile des orangen bewusst:
+  Materialismus, soziale Ungleichheit und Verlust der Gemeinschaft. Es ist
+  sensibel für die Gefühle der Menschen: Alle Perspektiven verdienen Respekt. Es
+  zielt auf Gemeinschaft, Zusammenarbeit und Konsens. Der Einzelne strebt nach
+  Zugehörigkeit, um harmonische Bindungen mit allen zu pflegen.\r
+
+
+  In den Industrieländern setzte sich im späten 18. und 19. Jahrhundert ein
+  kleiner, gemäß diesem Paradigma agierender Kreis für die Abschaffung der
+  Sklaverei, die Befreiung der Frauen und die Demokratie ein. \r
+
+
+  Ken Wilber drückt es so aus:\ 
+
+
+  *Mit der Hinwendung zur Vernunft und einer weltzentrischen Moral sehen wir
+  den Aufstieg der modernen Befreiungsbewegungen ... was fair und richtig und
+  gerecht für alle Menschen ist, unabhängig von Rasse, Geschlecht oder Glaube.
+  ...Innerhalb von nur hundert Jahren, von 1788 bis 1888, wurde die Sklaverei
+  ... in jeder rational-industriellen Gesellschaft geächtet. In (früheren
+  Paradigmen) ist Sklaverei durchaus akzeptabel, weil gleiche Würde und gleicher
+  Wert nicht allen Menschen zugestanden werden, sondern nur denen, die zum
+  eigenen Stamm gehören.\r
+
+  Aus fast den gleichen Gründen würden wir das Aufkommen des Feminismus und
+  der Frauenbewegung auf kultureller Ebene erleben... Auch die Demokratie war
+  eine radikale Neuerung... Erinnern wir uns daran, dass in den griechischen
+  ‚Demokratien‘ einer von drei Menschen Sklave war; Frauen und Kinder praktisch
+  auch.*
+
+
+  [Oft finden wir in der Geschichte Ideen, wie die Demokratie im alten
+  Griechenland, die ihrer Zeit bzw. dem Entwicklungsstand der Menschen zu diesem
+  Zeitpunkt voraus waren. Um zu gedeihen, müssen diese Ideen darauf warten, dass
+  die Evolution sie mit dem richtigen kulturellen Nährboden oder „Schoß“
+  einholt, wie es der amerikanische Philosoph Richard Tarnas nennt: Eine
+  wichtige Frage in diesem Zusammenhang ist, warum die kopernikanische
+  Revolution im sechzehnten Jahrhundert mit Kopernikus selbst und im frühen
+  siebzehnten Jahrhundert mit Kepler und Galilei stattfand. Warum dauerte es bis
+  dahin, obwohl eine Reihe von Menschen vor Kopernikus das heliozentrische
+  Universum und eine planetarische Erde vermutet hatten? Es gibt Belege dafür,
+  dass dies bereits bei den alten Griechen, in Indien und islamischen Kulturen
+  während des europäischen Mittelalters vorgeschlagen wurde. Ich denke, diese
+  Frage zeigt, wie sehr ein wichtiger Paradigmenwechsel von mehr als nur einigen
+  zusätzlichen empirischen Daten und mehr als nur einer brillanten neuen Theorie
+  mit einem neuen Konzept abhängt. Es kommt wirklich auf einen viel größeren
+  Kontext an, damit der Samen einer potenziell mächtigen Idee auf einen ganz
+  anderen Nährboden fällt, aus dem dieser Organismus, dieser neue konzeptionelle
+  Rahmen, wachsen kann - buchstäblich eine „Empfängnis\" in einer neuen
+  kulturellen und historischen ‚Gebärmutter‘ oder Matrix. Übersetzt aus: Richard
+  Tarnas und Dean Radin, Das Timing von Paradigmenwechseln, Noetic Now, Januar
+  2012.]
+
+
+  Im späten 18. und 19. Jahrhundert prägte also eine kleine Elite das
+  westliche Denken. Im 20. Jahrhundert wuchs ihre Zahl. Während das orange
+  Paradigma heute in Wirtschaft und Politik vorherrscht, ist das grüne im
+  akademischen Denken, in gemeinnützigen Organisationen, in der Sozial- und
+  Gemeindearbeit sehr präsent.\r
+
+  \r
+
+
+  Aus dieser Perspektive werden Beziehungen höher bewertet als Ergebnisse.
+  Anstatt Entscheidungen von oben nach unten zu treffen, werden kooperative
+  Prozesse von unten nach oben bevorzugt. Es wird versucht, gegensätzliche
+  Standpunkte zu einem Konsens zu bringen. Das orange Paradigma verherrlicht
+  Entschlussfreudigkeit; das grüne verlangt von Führungskräften, dass sie sich
+  in den Dienst der Geführten stellen. Diese Haltung ist edel, großzügig und
+  einfühlsam. Angesichts der anhaltenden Ungleichheit und Diskriminierung muss
+  es im Leben mehr geben als das egozentrische Streben nach Karriere und
+  Erfolg.\r
+
+  \r
+
+
+  Doch diese Phase hat ihre Widersprüche. Sie versucht, alle Perspektiven
+  gleich zu behandeln, und bleibt stecken, wenn die Toleranz gegenüber
+  intoleranten Ideen missbraucht wird. „Rote“ Egozentrik, „bernsteinfarbene“
+  Gewissheit und die „orange“ Haltung sehen dies als „grünen“ Idealismus. Das
+  Verhältnis zu Regeln ist zwiespältig: Einerseits werde Regeln als willkürlich
+  und ungerecht angesehen, andererseits erweist sich ihre Abschaffung als
+  unpraktisch. Grün ist ein starkes Paradigma, um alte Strukturen aufzubrechen,
+  aber oft weniger effektiv bei der Formulierung praktischer Alternativen.\r
+
+  \r
+
+
+  #### Errungenschaften und Merkmale grüner Organisationen
+
+
+  Das grüne Paradigma fremdelt mit Macht und Hierarchie. Wenn das bedeutet,
+  dass die an der Spitze über die da unten herrschen, dann sollten wir die
+  Hierarchie abschaffen. Geben wir allen die gleiche Macht. Lassen wir die
+  Mitarbeitenden das Unternehmen zu gleichen Teilen besitzen und Entscheidungen
+  im Konsens treffen.
+
+
+  Einige haben versucht, gemäß diesen Grundsätzen die Zukunft zu gestalten,
+  wie die Genossenschaftsbewegung im späten 19. und frühen 20. Jahrhundert oder
+  die Kommunen in den 1960er Jahren. Im Nachhinein hat sich gezeigt, dass diese
+  extremen Formen des Egalitarismus nicht erfolgreich waren - weder im großen
+  Maßstab noch auf lange Sicht.^[In Unternehmen haben sich die
+  Arbeitnehmergenossenschaften nicht wirklich durchsetzen können. Wo dies
+  gelang, wird oft nach einer Mischung aus orangen und grünen Praktiken geführt.
+  Eine oft zitierte Erfolgsgeschichte ist Mondragon, ein Konglomerat von
+  Genossenschaften mit Sitz in der gleichnamigen baskischen Stadt in Spanien
+  (rund 250 Unternehmen mit etwa 100.000 Beschäftigten und einem Umsatz von rund
+  15 Milliarden Euro). Alle Genossenschaften sind vollständig im Besitz der
+  Belegschaften. Die Chefs werden gewählt. Die Lohnunterschiede sind geringer
+  als anderswo (aber immer noch beträchtlich, d.h. bis zu 9:1 oder mehr).
+  Befristet Beschäftigte haben kein Wahlrecht, wodurch eine
+  Zweiklassengesellschaft entsteht, in der einige gleicher sind als andere. Im
+  Bildungsbereich gibt es mehrere Schulmodelle ohne Autoritätsstrukturen von
+  Erwachsenen gegenüber Kindern, vor allem die Summerhill School, ein britisches
+  Internat, das in den 1920er Jahren gegründet wurde. Es praktiziert eine
+  radikale Form der Demokratie, bei der u.a. Lernende und Erwachsene das gleiche
+  Stimmrecht haben und der Unterricht nicht verpflichtend ist. Im
+  institutionellen Bereich verfügen viele supranationale Gremien - die Vereinten
+  Nationen, die Europäische Union, die Welthandelsorganisation und andere - über
+  Entscheidungsmechanismen auf höchster Ebene, die sich zumindest teilweise an
+  grünen Grundsätzen orientieren, wie z.B. demokratische oder einstimmige Wahlen
+  der verschiedenen Mitgliedsländer und rotierender Vorsitz. Diese grünen
+  Entscheidungsprinzipien sind schwer einzuhalten, und reichere oder mächtigere
+  Länder fordern und erhalten oft mehr Stimmrechte (zumeist sogar implizite,
+  wenn nicht gar explizite Vetorechte). Die Stabsabteilungen dieser
+  Institutionen werden häufig als bernsteinfarbene Organisationen geführt]. Es
+  ist von Natur aus schwierig, in großen Gruppen einen Konsens zu erzielen.
+
+
+  Dennoch hat das grüne Paradigma mit drei Errungenschaften ein eigenes
+  Organisationsmodell entwickelt. Einige der bekanntesten und erfolgreichsten
+  Unternehmen der jüngeren Zeit arbeiten nach grünen Praktiken und
+  Kulturmerkmalen (z.B. Starbucks, Southwest Airlines, Ben & Jerry's, The
+  Container Store).
+
+
+  ##### Grüne Errungenschaft Nr. 1: Befähigung
+
+
+  Grüne Organisationen behalten die leistungsorientierte, hierarchische
+  Struktur des orangen Paradigmas bei, übertragen aber so viele Entscheidungen
+  wie möglich an die Mitarbeitenden an der Basis. Diese können weitreichende
+  Entscheidungen ohne die Zustimmung des Managements treffen.\r
+
+  \r
+
+
+  Sie kennen die vielen kleineren, alltäglichen Probleme. Man traut ihnen zu,
+  bessere Lösungen zu finden als Experten aus der Ferne. Das Bodenpersonal von
+  Southwest Airlines sind beispielsweise befugt, kreative Lösungen für
+  Passagierprobleme zu finden, während sich ihre Kollegen bei den meisten
+  anderen Fluggesellschaften an die Regeln halten müssen.\r
+
+  \r
+
+
+  Es ist nicht einfach, Dezentralisierung und Befähigung in großem Maßstab zu
+  realisieren. Von Führungskräften wird verlangt, dass sie Macht und Kontrolle
+  teilen. Damit dies funktioniert, müssen die Unternehmen die Art der Führung,
+  die sie im oberen und mittleren Management erwarten, klar definieren. „Grüne“
+  Führungskräfte sollten nicht nur leidenschaftslose Problemlöser (wie im
+  orangen Paradigma), sondern auch dienende Vorgesetzte sein. Sie sollten den
+  Untergebenen zuhören, sie befähigen, motivieren und entwickeln. In die
+  Entwicklung dienender Führungskräfte wird viel Zeit und Mühe investiert:\r
+
+
+  * Kandidaten für Führungspositionen werden auf ihre Denkweise und ihr
+  Verhalten hin überprüft: Sind sie bereit, Macht zu teilen? Werden sie mit
+  Demut führen?\r
+
+  * Grüne Organisationen investieren oft große Summen in Kurse für frisch
+  beförderte Führungskräfte, um ihnen die Denkweise und die Fähigkeiten
+  dienender Vorgesetzter zu vermitteln.\r
+
+  * Manager werden mittels 360-Grad-Feedback bewertet, um deren Verantwortung
+  gegenüber ihren Mitarbeitenden herauszustellen.\r
+
+  * In einigen Unternehmen werden Führungskräfte nicht von oben, sondern von
+  unten ernannt: Mitarbeitende wählen ihre Vorgesetzten im Zuge eines
+  Bewerbungsprozesses.\r
+
+
+  ##### Grüne Errungenschaft Nr. 2: Werteorientierte Kultur und inspirierende
+  Ziele
+
+
+  Eine starke, gemeinsame Kultur ist der „Klebstoff“ ermächtigter
+  Organisationen. Den Mitarbeitenden wird zugetraut, Entscheidungen aus
+  gemeinsamen Werten heraus zu fällen und nicht anhand eines Regelwerks.
+
+
+  Manche Menschen sind davon desillusioniert und verachten die Idee
+  gemeinsamer Werte. Das liegt daran, dass sich orangefarbene Organisationen
+  zunehmend genötigt fühlen, dem Modetrend zu folgen: Sie definieren eine Reihe
+  von Werten, hängen sie an Wände und posten sie im Internet, nur um sie zu
+  ignorieren, wenn es für das Endergebnis günstiger ist. Aber wo Führung
+  wirklich nach gemeinsamen Werten handelt, findet man unglaublich lebendige
+  Kulturen, in denen sich die Mitarbeitenden wertgeschätzt und ermächtigt
+  fühlen. Die Ergebnisse sind oft spektakulär. Forschungen haben ergeben, dass
+  werteorientierte Unternehmen ihre Konkurrenten weit hinter sich lassen
+  können.^\\[Die erste größere Studie stammt aus dem Jahr 1992, als die Harvard
+  Business School-Professoren John Kotter und James Heskett diesen Zusammenhang
+  in ihrem Buch „Unternehmenskultur und Leistung“ untersuchten. Sie stellten
+  fest, dass Unternehmen mit einer starken Unternehmenskultur und ermächtigten
+  Führungskräften/Mitarbeitenden in den elf untersuchten Jahren beim
+  Umsatzwachstum (um den Faktor vier), beim Anstieg des Aktienkurses (um den
+  Faktor acht) und des Nettogewinns (um den Faktor mehr als 700) besser
+  abschnitten als andere Unternehmen. Eine neuere Studie von Raj Sisodia, Jagh
+  Sheth und David B. Wolfe, die in einem für das grüne Organisationsmodell
+  wegweisenden Buch erschien - Firms of Endearment: How World-Class Companies
+  Profit from Passion and Purpose -, kam 2007 zu ähnlichen Schlussfolgerungen.
+  Die von den Autoren untersuchten „Firms of Endearment\" erzielten in den 10
+  Jahren, die der Untersuchung vorausgingen, eine kumulierte Rendite von 1.025
+  Prozent für die Aktionäre, verglichen mit 122 Prozent für S&P 500. Aus
+  methodischer Sicht sollten diese Ergebnisse jedoch mit Vorsicht genossen
+  werden. Es gibt offensichtlich eine Auswahlverzerrung, da nur außergewöhnliche
+  Unternehmen, von denen man erwarten würde, dass sie besser abschneiden als
+  ihre Konkurrenten, in die Stichprobe aufgenommen wurden. Die Benchmark S&P 500
+  wurde nicht nach Branche, Größe oder anderen Kriterien angepasst. Darüber
+  hinaus wurden andere Kriterien als das Organisationsmodell wie z.B. Patente,
+  innovative Geschäftsmodelle und die Nutzung von Vermögenswerten, die das
+  überlegene Ergebnis erklären könnten, nicht herausgefiltert. Raj Sisodias
+  neuestes Buch, das er gemeinsam mit John Mackey geschrieben hat, enthält ein
+  ganzes Kapitel mit Verweisen auf ähnliche Studien für die interessierte
+  Leserschaft. Jede Studie mit so allgemeinen Behauptungen über die
+  Überlegenheit eines Organisationsmodells gegenüber einem anderen wirft
+  zwangsläufig Fragen bezüglich der Methodik auf. (Grundsätzlich könnte man wie
+  die meisten dieser Studien Aktionärsrendite oder Wachstum als primären Maßstab
+  für den Erfolg in Frage stellen.) Vielleicht sind unmittelbare Erfahrungen
+  letztlich wichtiger als akademische Behauptungen. Jeder, der eine gewisse Zeit
+  in Unternehmen wie Southwest Airlines oder The Container Store verbringt, kann
+  sich davon überzeugen, dass ermächtigte Mitarbeitende in werteorientierten
+  Unternehmen im Durchschnitt besser arbeiten als ihre Kollegen in
+  traditionelleren Kontexten.]\ 
+
+
+  Grüne Organisationen können einen inspirierenden Zweck in den Mittelpunkt
+  ihres Handelns stellen. Southwest Airlines sieht sich nicht als reines
+  Transportunternehmen, sondern vielmehr als Anbieter der „Freiheit“, an Orte zu
+  gelangen, die die Reisenden ohne die günstigen Tarife von Southwest nicht
+  erreichen könnten. Bei Ben & Jerry's geht es nicht nur um Eiscreme, sondern
+  auch um die Erde und die Umwelt.\r
+
+  \r
+
+
+  In orangen Organisationen stehen die Strategie und ihre Umsetzung im
+  Vordergrund. In grünen Organisationen kommt die Kultur an erster Stelle. CEOs
+  grüner Organisationen erklären, dass die Förderung der Kultur und gemeinsamer
+  Werte ihre Hauptaufgabe ist. Dadurch nimmt das Personalmanagement (HR) eine
+  zentrale Rolle ein. Die Personalleiterin ist oft ein einflussreiches Mitglied
+  des Führungsteams und Beraterin des CEO. Sie leitet ein großes Team, das hohe
+  Investitionen in Prozesse wie Schulungen, Kulturinitiativen,
+  360-Grad-Feedback, Nachfolgeplanung und Moralumfragen orchestriert.\r
+
+
+  ##### Grüne Errungenschaft Nr. 3: Perspektive mehrerer Stakeholder
+
+
+  Grüne Organisationen bestehen darauf, dass Unternehmen nicht nur eine
+  Verantwortung gegenüber Investoren haben, sondern auch gegenüber dem
+  Management, den Mitarbeitenden, der Kundschaft, den Lieferanten, den lokalen
+  Gemeinschaften, der Gesellschaft insgesamt und der Umwelt. Die Rolle der
+  Führung besteht darin, die richtigen Kompromisse zu finden, damit alle
+  Anspruchsgruppen erfolgreich sein können.\r
+
+  \r
+
+
+  Dies steht im Gegensatz zur orangen Sichtweise, wonach gewinnorientierte
+  Unternehmen aus der Sicht der Aktionäre agieren sollten und die oberste
+  Pflicht des Managements in der Gewinnmaximierung für die Investoren besteht.
+  Mit Hilfe der „unsichtbaren Hand\" von Adam Smith wird gerne erklärt, wie dies
+  langfristig allen Anspruchsgruppen zugutekommt.\r
+
+  \r
+
+
+  Während viele große Unternehmen heute Berichte über ihre soziale
+  Verantwortung veröffentlichen müssen, betrachten grüne Organisationen diese
+  nicht als nebensächliche Verpflichtung, sondern als integralen Bestandteil
+  ihrer Geschäftstätigkeit. \r
+
+  \r
+
+
+  Die soziale Verantwortung motiviert sie, zu innovieren und bessere
+  Unternehmensbürger zu werden. Sie arbeiten mit Zulieferern in
+  Entwicklungsländern zusammen, um Arbeitsbedingungen zu verbessern und
+  Kinderarbeit zu verhindern. Sie verringern ihren CO2-Fußabdruck und ihren
+  Wasserverbrauch, recyceln Produkte und reduzieren Verpackungen.\r
+
+  \r
+
+
+  Die Führung grüner Organisationen vertritt die Ansicht, dass die
+  Stakeholder-Perspektive zwar kurzfristig höhere Kosten verursachen kann,
+  langfristig aber für alle von Vorteil ist - auch für die Aktionäre.\r
+
+  \r
 
 
-  In industrialized countries, in the late 18th and 19th centuries, a small circle operating from Green championed the abolition of slavery, women’s liberation and democracy. Ken Wilber puts it this way:
+  ##### Familie als Leitmetapher
 
 
-  *With the shift to reason and worldcentric morality, we see the rise of the modern liberation movements…what is fair and right and just for all humans, regardless of race, sex, or creed.*
-
-
-  *…In a mere hundred-year period..,from 1788 to 1888, slavery was outlawed…from every rational-industrial society. In (earlier paradigms) slavery is perfectly acceptable, because equal dignity and worth are not extended to all humans, but merely to those of your tribe.*
-
-
-  *For almost identical reasons, we would see the rise of feminism and the women’s movement on a culture-wide scale…Democracy, too, was radically novel… Let us remember that in the Greek “democracies,” one out of three people were slaves, and women and children virtually so.*^\[Often in history we find ideas, like democracy in ancient Greece, ahead of their times, meaning ahead of the developmental center of gravity of people at that moment in time. To flourish, these ideas have to wait for evolution to catch up with them, to provide the right “cultural womb” as the American philosopher Richard Tarnas calls it: A big question here is why did the Copernican Revolution happen in the sixteenth century, with Copernicus himself, and in the early seventeenth century, with Kepler and Galileo? Why did it take until then, when a number of people prior to Copernicus had hypothesized the heliocentric universe and a planetary earth? There’s evidence of this being proposed among the ancient Greeks and in India and Islamic cultures during the European Middle Ages. I think this question shows the extent to which a major paradigm shift depends on more than just some additional empirical data and more than just a brilliant new theory using a new concept. It really depends on a much larger context so that the seed of a potentially powerful idea falls on a whole different soil, out of which this organism, this new conceptual framework, can grow—literally a “conception” in a new cultural and historical womb or matrix. Richard Tarnas and Dean Radin, “The Timing of Paradigm Shifts,” Noetic Now, January 2012.]
-
-
-  So, In the late 18th and 19th centuries, a small elite profoundly shaped Western thinking. In the 20th century, the numbers grew. While Orange is predominant today in business and politics, Green is very present in academic thinking, nonprofits, social work and community activity.
-
-
-  From this perspective, relationships are valued above outcomes. Rather than make decisions from top-down, Green favours collaborative, bottom-up processes, and trying to bring opposing points of view to consensus. Orange glorifies decisiveness. Green requires leaders to be in service of those they lead. This stance is noble, generous, and empathic. In light of continuing inequality and discrimination, there must be more to life than the self-centered pursuit of career and success.
-
-
-  Yet this stage has its contradictions. It tries to treat all perspectives equally and gets stuck when others abuse its tolerance to intolerant ideas. Red egocentricity, Amber certainty, and Orange see this as Green idealism. Green’s relationship to rules is ambiguous: on the one hand, rules are arbitrary and unfair, but doing away with them proves impractical. Green is powerful as a paradigm for breaking down old structures, but often less effective at formulating practical alternatives.
-
-
-  #### Breakthroughs and characteristics of Green organizations
-
-
-  Green is uneasy with power and hierarchy. If it means that those at the top rule over those at the bottom, then let’s abolish hierarchy. Let’s give everybody the same power. Let workers own the company in equal shares and make decisions by consensus.
-
-
-  Some have tried to create a future along these lines; like the cooperative movement in the late 19th and early 20th centuries; or in the communes in the 1960s. In hindsight, these extreme forms of egalitarianism proved not to be successful, on scale and over time.^\[In the corporate sector, worker cooperatives have failed to achieve any meaningful traction. The ones that prevail are often run on practices that are a combination of Orange and Green. One often-cited success story is Mondragon, a conglomerate of cooperatives based in a Basque town of the same name in Spain (around 250 companies, employing roughly 100,000 people, with a turnover of around €15 billion). All the cooperatives are fully employee-owned. Bosses are elected; wage differentials are smaller than elsewhere (but still significant, at up to 9:1 or more); temporary workers have no voting rights, creating a two-tiered community where some are more equal than others. In the educational sector, there have been several models of schools with no authority structures from adults over children, most notably the Summerhill School, a British boarding school founded in the 1920s. It practices a radical form of democracy, where students and adults have the same voting power, and lessons are not compulsory, among other differences. In the institutional sphere, many supranational bodies―the United Nations, European Union, and World Trade Organization, and others―have decision-making mechanisms at the highest level that are, at least partially, molded along Green principles such as democratic or unanimous voting of the different member countries and rotating chairmanship. These Green decision-making principles are difficult to uphold, and richer or more powerful countries demand and often end up receiving more voting powers (often even implicit if not explicit veto powers). The staff departments of these institutions are most often run as Amber Organizations.] Gaining consensus in large groups is inherently difficult.
-
-
-  Yet Green has come up with its own organizational model, via three breakthroughs. Some of the most celebrated and successful companies of recent times―Starbucks, Southwest Airlines, Ben & Jerry’s, The Container Store, to name a few—run on Green practices and culture.
-
-
-  ##### Green breakthrough 1: Empowerment
-
-
-  Green Organizations retain the meritocratic hierarchical structure of Orange, but push as many decisions as possible down to frontline workers. They can make far-reaching decisions without management approval.
-
-
-  They are directly in touch with the many, smaller, day-to-day problems. They are trusted to devise better solutions than experts from far away. Ground teams at Southwest Airlines, for example, are empowered to seek creative solutions to passenger problems: their colleagues at most other airlines must follow the rule book.
-
-
-  Making decentralization and empowerment work on a large scale is not easy. Managers are effectively asked to share power and control. To make it work, companies must clearly spell out the kind of leadership that they expect from senior and middle managers. Green leaders should not merely be dispassionate problem solvers (like in Orange); they should be servant leaders. They should listen to subordinates, empower them, motivate them, and develop them. Time and effort is invested in developing servant leaders:
-
-
-  * Candidates for management are screened on their mindset and behavior: Are they ready to share power? Will they lead with humility? 
-
-  * Green Organizations often invest large amounts in courses for newly promoted managers, to teach them the mindset and skills of servant leaders.
-
-  * Managers are evaluated based on 360-degree feedback, to make bosses accountable to their subordinates.
-
-  * In some companies, managers are not appointed from above, but from below: subordinates choose their boss, after interviewing prospective candidates.
-
-
-  ##### Green breakthrough 2: Values-driven culture and inspirational purpose
-
-
-  A strong, shared culture is the glue that keeps empowered organizations from falling apart. Frontline employees are trusted to make decisions, guided by shared values rather than by a thick book of policies.
-
-
-  Some people become disillusioned with this, and scoff at the notion of shared values. This is because Orange Organizations increasingly feel obliged to follow the fad: they define a set of values, post them on walls and on-line, and then ignore them if that is more convenient for the bottom line. But where leadership genuinely plays by shared values, you encounter incredibly vibrant cultures in which employees feel appreciated and empowered. Results are often spectacular. Research suggests values-driven organizations can outperform peers by wide margins.^\[The first major study dates from 1992, when Harvard Business School professors John Kotter and James Heskett investigated this link in their book Corporate Culture and Performance. They established that companies with strong business cultures and empowered managers/employees outperformed other companies on revenue growth (by a factor of four), stock price increase (by a factor of eight) and increase in net income (by a factor of more than 700) during the 11 years considered in the research. A more recent study by Raj Sisodia, Jagh Sheth, and David B. Wolfe, in what is arguably a defining book for the Green organizational model―Firms of Endearment: How World-Class Companies Profit from Passion and Purpose―came to similar conclusions in 2007. The “firms of endearment” studied by the authors obtained a cumulative return to shareholders of 1,025 percent over the 10 years leading up to the research, as compared to 122 percent for the S&P 500. From a methodological point of view, these results should be taken with a grain of salt. There is an obvious selection bias, as only exceptional companies that one would expect to outperform their peers were handpicked into the sample. The benchmark of the S&P 500 wasn’t adjusted for industry, size, or other criteria. Furthermore, criteria other than the organization model, such as patents, innovative business models, and asset utilizations that could explain the superior result, were not filtered out. Raj Sisodia’s latest book, written with John Mackey, has a whole chapter with references of similar studies to which interested readers can refer. Any research trying to make such general claims as the superior outcome of one organizational model over another is bound to hit methodological discussions (and on a principled level, one could question shareholder return or growth as the primary metric to gauge success, as most of these studies do). Perhaps direct experience ultimately matters more than academic claims. Anyone who spends time in organizations such as Southwest Airlines or The Container Store will return convinced that empowered workers in values-driven companies will on average outperform their peers in more traditional settings.]
-
-
-  Green Organizations may put inspirational purpose at the heart of what they do. Southwest doesn’t consider itself merely in the transportation business; it insists it is in the business of “freedom,” helping customers to go to places they couldn’t without Southwest’s low fares. Ben & Jerry’s is not just about ice cream, it’s about the earth and the environment too.
-
-
-  In Orange Organizations, strategy and its execution are prime. In Green Organizations, culture is paramount. CEOs of Green Organizations claim that promoting culture and shared values is their primary task. This focus elevates human resources (HR) to a central role. The HR director is often an influential member of the senior team, and a counselor to the CEO. She heads a large staff orchestrating big investments into processes like training, culture initiatives, 360-degree feedback, succession planning and morale surveys.
-
-
-  ##### Green breakthrough 3: Multiple stakeholder perspective
-
-
-  Green Organizations insist that businesses have a responsibility not only to investors, but also to management, employees, customers, suppliers, local communities, society at large, and the environment. The role of leadership is to make the right trade-offs so that all stakeholders can thrive.
-
-
-  This is in contrast with the Orange perspective that for-profit companies should operate with a shareholder perspective and that management’s primary obligation is to maximize profits for investors. Adam Smith’s “invisible hand” is often invoked to explain how this benefits all stakeholders in the long run.
-
-
-  While many large organizations today are required to publish a social responsibility report, Green Organizations consider social responsibility integral to how they do business. It is not a distracting obligation.
-
-
-  Social responsibility provides the motivation to innovate and to become better corporate citizens. They work with suppliers in developing countries to improve working conditions and prevent child labor; they reduce their carbon footprint and use of water; they may recycle products and reduce packaging.
-
-
-  Leaders in Green Organizations maintain that while the “stakeholder perspective” might mean higher costs in the short term, it will deliver benefits for all in the long run—including shareholders.
-
-
-  ##### Family as the guiding metaphor
-
-
-  The dominant metaphor in Green is the family. This contrasts with the ‘organization as a machine’ in Achievement Orange. When leaders of Green Organizations speak, you can’t fail to notice how frequently the metaphor comes up: employees are part of the same family, in it together, ready to help each other out, being there for one another.
-
-
-  At Southwest, one of eight injunctions is to display “a servant’s heart”. In the Southwest Way it is for employees to “Embrace the SWA family.”
-
-
-  DaVita, a leading operator of dialysis centers, that has implemented Green principles with great consistency.^\[The 2006 Stanford Business Case on DaVita is highly readable and a good resource for readers wanting to immerse themselves in a more detailed description of Green organizational principles and practices.]It uses another community metaphor, the Village, and calls its 41,000 employees citizens. Corporate headquarters is known as Casa DaVita, while Kent Thiry, the chairman and CEO is called Mayor of the Village. He is credited with having rescued the company from virtual bankruptcy in 1999 to its current success by virtue of the Green culture he brought about.
-
-
-  #### The Shadow of Green
-
-
-  Green is born from the movement away from Orange, in many ways specifically away from the shadow of Orange. At its peak, Green is communitarian, egalitarian and consensual.^\[Don Beck puts it this way: "Our science left us numb, without heart and soul, and with only the outer manifestations of success. The “good life” was measured only in materialistic terms. We discover that we have become alienated from ourselves, as well as from others. [...] the basic human being has been neglected. The focus shifts from personal achievement to group- and community-oriented goals and objectives—for GREEN, we are all one human family. GREEN begins by making peace with ourselves and then expands to looking at the dissonance and conflicts in society and wanting to make peace there, too, addressing the economic gaps and inequities created by ORANGE, and also by BLUE and by RED, to bring peace and brotherhood so we can all share equally. Gender roles are derigidified, glass ceilings opened, affirmative action plans are implemented, and social class distinctions blurred. Spirituality returns as a nondenominational, nonsectarian “unity.””]
-
-
-  The accomplishments of Green are significant and can probably not be overstated. In the short time of it’s existence humanity has seen major change in the direction of a more humane society: the civil rights movement, the women’s liberation movement, the global drive for environmental protection, heightened awareness for the need to protect our ecosystems, health care reforms, improved awareness of marginalization of minority groups in society, and more are all examples of progress that would never have emerged without it.
-
-
-  But as much as Green is a healthy counterbalance to Orange, and to some extent also the previous stages, it is also a stage that can rigidify too far into its own spectrum and display its very own shadow tendencies.
-
-
-  ##### Relativism without boundaries
-
-
-  Green is put in a dilemma when its benevolence and tolerance is abused by the same groups that Green wants to invite into equality on equal terms. Green shadow is forced to choose between accepting when non-tolerant Amber and Red abuses its tolerance or to acknowledge that not all worldviews have the same level of maturity and may need different levels of limitation.
-
-
-  ##### Non-rational is better
-
-
-  In an effort to distance itself from Orange (rational) views, Green shadow sees all non-rational value systems as preferable. Green has a romantic notion with ‘back to nature’. It often does not see how pre-rational worldviews are deeply limited and how different they are from post-rational Green worldviews.
-
-
-  ##### Accidental sameness as an externality of pluralistic identity
-
-
-  When Green’s strong inclusion drive becomes identity this causes a need for shared ideals as a prerequisite for group membership consideration.^\[The resulting attitude becomes protection of the unique sameness inside the organization. This couples with an implicit judgement and suspiciousness of outsiders as potential threats to the established culture. This typically does not manifest in explicit or outspoken criticism as Green often tries to avoid confrontation. Rather this is more often seen as a moral high ground of implicit “shoulds” and unspoken expectations of certain views and means of expressions that must be exhibited or agreed on for acceptance from insiders. Any lack of such views or expression is confirmation that non-acceptance is justified. Clare W Graves puts it this way: “Green brings into existence the sociocratic value system, in which emphasis is placed upon ‘getting along’, accepting the authority of the group or the majority, and seeking status from others. This ‘other directed’ individual believes he will find salvation in belonging and in participating with others in what they want him to do. While the individual has given up his dogmatism, he nevertheless rigidifies in a world of sociocentric thinking.”, for more see The Mean Green Hypothesis: Fact or Fiction, by Natasha Todorovic] When this “like me, like us” filter becomes more important to determine membership than if an individual is motivated and capable to contribute to the organization’s purpose this often causes three problems at the collective level: Limited choice of people, lack of diversity inside the organization and a limited ability to get things done.
-
-
-  ##### Power and structure is the obstacle to equality
-
-
-  Green shadow confuses power with structure. Nature is full of both structure and natural hierarchy. In an effort to eradicate ineaquality Green shadow often attempts to dismantle all hiearchy and structure. But removing all formal structure from an organization does not defuse power, it forces power underground into informal structures. When members of these informal structures are not elected by members of the whole group the individuals who have power don't need to answer to the whole group or organization. This reduces transparency about use of power and disjoints power from accountability.^\[The natural cause of differences of power and influence is rooted in the diversity in individual people. We all have different levels of abilities, experience, range of expression and when we use these they naturally result in exercise of our own personal power - which is genuinely different in strength and nature. Jo Freeman puts it this way: “The idea of ‘structurelessness’ does not prevent the formation of informal structures, but only formal ones. [...] Thus, ‘structurelessness’ becomes a way of masking power. An unstructured group always has an informal, or covert, structure. It is this informal structure, particularly in unstructured groups, which forms the basis for elites. An elite refers to a small group of people who have power over a larger group of which they are part, usually without direct responsibility to that larger group, and often without their knowledge or consent. Elites are not conspiracies.These friendship groups function as networks of communication outside any regular channels for such communication that may have been set up by a group. Because people are friends, usually sharing the same values and orientations, because they talk to each other socially and consult with each other when common decisions have to be made, the people involved in these networks have more power in the group than those who don’t. For everyone to have the opportunity to be involved in a given group and to participate in its activities there needs to be explicit structure. The rules of decision-making must be open and available to everyone, and this can only happen if they are formalised. A ‘Structurelessness’ organisation is impossible. We can only decide whether or not to have a formally or informally structured one. \[...] All groups create informal structures as a result of the interaction patterns among the members. Such informal structures can do very useful things. But only unstructured groups are totally governed by them. When informal elites are combined with a myth of ‘structurelessness’, there can be no attempt to put limits on the use of power. Consequences: a) people listen to others because they like them, not because they say significant things. b) informal structures have no obligation to be responsible to the group at large. Their power was not given to them; it cannot be taken away. Their influence is not based on what they do for the group; therefore they cannot be directly influenced by the group.”, see The Tyranny of Structurelessness, by Jo Freeman for more.]Power can’t simply be wished away. Like the Hydra, if you cut off its head, another will pop up somewhere else.
+  Die vorherrschende Metapher des grünen Paradigmas ist die Familie. Dies
+  steht im Gegensatz zur „Organisation als Maschine\" der orangen Sichtweise.
+  Wenn Führungskräfte grüner Organisationen sprechen, fällt auf, wie häufig die
+  Metapher auftaucht: Die Mitarbeitenden sind Teil einer zusammenhaltenden
+  Familie und bereit, sich gegenseitig zu helfen und füreinander da zu sein.\r
+
+  \r
+
+
+  Bei Southwest Airlines (SWA) lautet eine der acht Anweisungen, „ein
+  dienendes Herz\" zu zeigen. Das bedeutet für die Mitarbeitenden, „die
+  SWA-Familie zu umarmen\".\r
+
+  \r
+
+
+  DaVita, ein führender Betreiber von Dialysezentren, hat die grünen
+  Prinzipien konsequent umgesetzt.^\\[Der Stanford Business Case über DaVita aus
+  dem Jahr 2006 ist eine lesenswerte Quelle für alle, die tiefer in grüne
+  Organisationsprinzipien und -praktiken eintauchen möchten.] Das Unternehmen
+  verwendet als weitere Gemeinschaftsmetapher das Dorf und bezeichnet seine
+  41.000 Mitarbeitenden als Bürgerinnen und Bürger. Die Unternehmenszentrale
+  wird als Casa DaVita bezeichnet und Kent Thiry, Vorsitzender und CEO, als
+  Bürgermeister des Dorfes. Ihm wird zugeschrieben, dass er das Unternehmen dank
+  der von ihm eingeführten grünen Kultur aus dem Beinahe-Bankrott im Jahr 1999
+  gerettet und zu seinem heutigen Erfolg geführt hat.\r
+
+
+  #### Schattenseiten des grünen Paradigmas
+
+
+  Das grüne Paradigma ist eine Abkehr von der orangen Haltung – insbesondere
+  weg von deren Schattenseiten. Zugespitzt ist das grüne Paradigma
+  gemeinschaftlich, egalitär und konsensorientiert.^\\[Don Beck drückt es
+  folgendermaßen aus: „Unsere Wissenschaft hat uns gefühllos gemacht, ohne Herz
+  und Seele, und nur mit den äußeren Erscheinungsformen des Erfolgs. Das ‚gute
+  Leben‘ wurde lediglich in materialistischen Begriffen gemessen. Wir stellen
+  fest, dass wir uns sowohl von uns selbst als auch von anderen entfremdet
+  haben. (...) der Kern des Menschen wurde vernachlässigt. Der Schwerpunkt
+  verlagert sich von der persönlichen Leistung auf gruppen- und
+  gemeinschaftsorientierte Ziele - für GRÜN sind wir alle eine einzige
+  Menschheitsfamilie. GRÜN beginnt damit, Frieden mit sich selbst zu schließen,
+  und weitet sich dann darauf aus, die Dissonanzen und Konflikte in der
+  Gesellschaft zu betrachten und auch dort Frieden zu schaffen, indem es sich
+  mit den wirtschaftlichen Ungleichheiten und Ungerechtigkeiten befasst, die von
+  ORANGE, aber auch von BLAU und ROT kreiert wurden, um Frieden und
+  Brüderlichkeit zu schaffen, damit wir alle gleichberechtigt teilhaben können.
+  Die Geschlechterrollen werden entdifferenziert, gläserne Decken geöffnet,
+  Pläne für positive Maßnahmen umgesetzt und soziale Klassenunterschiede
+  verwischt. Die Spiritualität kehrt als konfessionslose, nicht-sektiererische
+  ‚Einheit‘ zurück.\"]
+
+
+  Die Errungenschaften des grünen Paradigmas sind signifikant und können nicht
+  hoch genug gewürdigt werden. In der kurzen Zeit ihres Bestehens hat die
+  Menschheit große Veränderungen in Richtung einer menschlicheren Gesellschaft
+  erlebt: Beispiele für Fortschritte, die es ohne sie nie gegeben hätte, sind
+  die Bürgerrechts- und Frauenbewegung, der weltweite Einsatz für den
+  Umweltschutz, das gesteigerte Bewusstsein für die Notwendigkeit des Schutzes
+  unserer Ökosysteme, Gesundheitsreformen, eine höhere Achtsamkeit bezüglich der
+  Ausgrenzung von Minderheiten in der Gesellschaft und vieles mehr.\r
+
+  \r
+
+
+  Doch so sehr das grüne Paradigma ein gesundes Gegengewicht zum orangen und
+  bis zu einem gewissen Grad auch zu den vorangegangenen Phasen darstellt, so
+  ist es auch ein Stadium, das zu sehr in seinem eigenen Spektrum erstarren und
+  seine ganz besonderen Nachteile aufweisen kann.\r
+
+
+  ##### Relativismus ohne Grenzen
+
+
+  Das grüne Paradigma gerät in ein Dilemma, wenn Wohlwollen und Toleranz von
+  denselben Gruppen missbraucht werden, die zur Gleichheit unter gleichen
+  Bedingungen eingeladen sind. Man ist gezwungen, es entweder zu akzeptieren,
+  wenn intolerante bernsteinfarbene oder rote Gruppen die Toleranz missbrauchen,
+  oder anzuerkennen, dass nicht alle Weltanschauungen den gleichen Reifegrad
+  haben und möglicherweise unterschiedliche Grenzen brauchen.
+
+
+  ##### Nicht-rational ist besser
+
+
+  Im Bemühen der Abgrenzung von orangen (rationalen) Ansichten sind im
+  Schatten des grünen Paradigmas alle nicht-rationalen Wertesysteme vorzuziehen.
+  Es hat eine romantische Vorstellung von „zurück zur Natur\" und sieht oftmals
+  nicht, wie eingeschränkt prärationale Weltanschauungen sind und wie sehr sie
+  sich von postrationalen grünen Weltanschauungen unterscheiden.
+
+
+  ##### Unbeabsichtigte Gleichheit als Auswirkung der pluralistischen
+  Identität
+
+
+  Wenn der starke Inklusionsdrang des grünen Paradigmas zur Identität wird,
+  führt dies zu einem Bedürfnis nach gemeinsamen Idealen als Voraussetzung für
+  die Erwägung einer Gruppenmitgliedschaft.^\\[Daraus ergibt sich eine Haltung
+  zum Schutz der einzigartigen Gleichheit innerhalb der Organisation. Dies geht
+  einher mit einer impliziten Bewertung und einem Misstrauen gegenüber
+  Außenstehenden als potenzielle Bedrohung der etablierten Kultur. Dies äußert
+  sich in der Regel nicht in expliziter oder unverblümter Kritik, da die grüne
+  Haltung häufig versucht, Konfrontationen zu vermeiden. Vielmehr wird dies eher
+  als moralische Überlegenheit impliziter „Soll\"-Vorstellungen und
+  unausgesprochener Erwartungen in Bezug auf bestimmte Ansichten und
+  Ausdrucksformen gesehen, die gezeigt oder vereinbart werden müssen, um von
+  Insidern akzeptiert zu werden. Jedes Fehlen solcher Ansichten oder
+  Ausdrucksformen ist eine Bestätigung dafür, dass die Nichtakzeptanz
+  gerechtfertigt ist. Clare W. Graves drückt es folgendermaßen aus: „Grün bringt
+  das soziokratische Wertesystem hervor, in dem der Schwerpunkt auf dem
+  ‚Miteinander auskommen‘, der Akzeptanz der Autorität der Gruppe oder der
+  Mehrheit und der Suche nach dem Status der anderen liegt. Dieses ‚anders
+  ausgerichtete‘ Individuum glaubt, dass es sein Heil darin findet,
+  dazuzugehören und mit anderen das zu tun, was sie von ihm verlangen. Obwohl
+  das Individuum seinen Dogmatismus aufgegeben hat, erstarrt es dennoch in einer
+  Welt des soziozentrischen Denkens.\" Mehr dazu in: The Mean Green Hypothesis:
+  Fakt oder Fiktion von Natasha Todorovic.] Wenn dieser Filter „wie ich, so
+  wir\" bei der Entscheidung über die Mitgliedschaft wichtiger wird als die
+  Frage, ob ein Einzelwesen motiviert und fähig ist, zum Zweck der Organisation
+  beizutragen, führt dies auf kollektiver Ebene häufig zu drei Problemen:
+  begrenzte Auswahl an Personen, mangelnde Vielfalt innerhalb der Organisation
+  und eine eingeschränkte Fähigkeit, Dinge zu erreichen.
+
+
+  ##### Macht und Struktur als Hindernis für Gleichheit
+
+
+  Im grünen Schatten wird Macht mit Struktur verwechselt. Die Natur ist voll
+  von Struktur und natürlicher Hierarchie. In dem Bemühen, Ungleichheit zu
+  beseitigen, versucht man im grünen Paradigma oft, alle Hierarchien und
+  Strukturen abzubauen. Aber die Beseitigung aller formalen Strukturen in einer
+  Organisation entschärft keine Macht, sondern zwingt sie in den Untergrund
+  informeller Strukturen. Wenn die Mitglieder dieser informellen Strukturen
+  nicht von der gesamten Gruppe gewählt werden, müssen die Personen mit Macht
+  dieser auch nicht Rechenschaft ablegen. Dies reduziert die Transparenz der
+  Machtausübung und entkoppelt Macht von der Rechenschaftspflicht.^\\[Die
+  natürliche Ursache für Unterschiede bei Macht und Einfluss ist in der Vielfalt
+  der einzelnen Menschen verankert. Wir alle verfügen über unterschiedliche
+  Fähigkeiten, Erfahrungen und Ausdrucksmöglichkeiten, und wenn wir diese
+  nutzen, führen sie ganz natürlich zur Ausübung unserer eigenen persönlichen
+  Macht, die in ihrer Stärke und Art unterschiedlich ist. Jo Freeman drückt es
+  folgendermaßen aus: „Die Idee der ‚Strukturlosigkeit' verhindert nicht die
+  Bildung informeller, sondern nur formaler Strukturen. [...] So wird die
+  ‚Strukturlosigkeit' zu einer Möglichkeit, Macht zu verschleiern. Eine
+  unstrukturierte Gruppe hat immer eine informelle oder verdeckte Struktur. Es
+  ist diese informelle Struktur, die insbesondere in unstrukturierten Gruppen
+  die Grundlage für Eliten bildet. Eine Elite ist eine kleine Gruppe von
+  Personen, die Macht ausübt über eine größere Gruppe, der sie angehört – in der
+  Regel ohne direkte Verantwortung gegenüber dieser größeren Gruppe und oft ohne
+  deren Wissen oder Zustimmung. Diese Freundschaftsgruppen funktionieren als
+  Kommunikationsnetze außerhalb der regulären, von einer Gruppe eingerichteten
+  Kanäle. Weil die Menschen befreundet sind und in der Regel dieselben Werte und
+  Orientierungen teilen, weil sie miteinander sprechen und sich beraten, wenn
+  gemeinsame Entscheidungen getroffen werden müssen, haben die an diesen
+  Netzwerken Beteiligten mehr Macht in der Gruppe als diejenigen, die nicht dazu
+  gehören. Damit jeder die Möglichkeit hat, sich in einer bestimmten Gruppe zu
+  engagieren und an ihren Aktivitäten teilzunehmen, muss es eine klare Struktur
+  geben. Die Regeln für Entscheidungsfindung müssen offen und für alle
+  zugänglich sein; das kann nur geschehen, wenn sie formalisiert sind. Eine
+  ‚strukturlose‘ Organisation ist unmöglich. Wir können nur entscheiden, ob wir
+  eine formell oder informell strukturierte Organisation haben wollen oder
+  nicht. [...] Alle Gruppen schaffen informelle Strukturen, die sich aus den
+  Interaktionsmustern zwischen den Mitgliedern ergeben. Solche informellen
+  Strukturen können sehr Nützliches tun. Aber nur unstrukturierte Gruppen werden
+  vollständig von ihnen beherrscht. Wenn informelle Eliten mit dem Mythos der
+  ‚Strukturlosigkeit‘ kombiniert werden, kann es keinen Versuch geben, der
+  Machtausübung Grenzen zu setzen. Die Folgen: a) Die Menschen hören auf andere,
+  weil sie sie mögen, und nicht, weil diese Wichtiges sagen. b) Die informellen
+  Strukturen sind der gesamten Gruppe gegenüber nicht zu Verantwortung
+  verpflichtet. Die Macht wurde ihnen nicht verliehen und kann ihnen daher nicht
+  entzogen werden. Ihr Einfluss basiert nicht auf dem, was sie für die Gruppe
+  tun; daher können sie nicht direkt von der Gruppe beeinflusst werden.\" Mehr
+  dazu in: The Tyranny of Structurelessness von Jo Freeman.] Macht kann nicht
+  einfach weggewünscht werden. Wenn man einer Hydra den Kopf abschlägt, entsteht
+  an anderer Stelle ein neuer."
 perspective: ""
 inPractice: ""
 ---
