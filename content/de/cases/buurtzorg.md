@@ -35,7 +35,7 @@ theory:
       die Tatsache, dass sich ältere Menschen bei Stürzen häufig die Hüfte
       brechen. Hüftoperationen sind Routineeingriffe, aber die Patienten
       erlangen nicht immer die gleiche Selbstständigkeit zurück. Könnte
-      Buurtzorg einen Beitrag dazu leisten, dass seine älteren Patienten nicht
+      Buurtzorg einen Beitrag dazu leisten, dass die älteren Patienten nicht
       stürzen? Die beiden Krankenschwestern experimentierten und schlossen eine
       Partnerschaft mit einem Physiotherapeuten und einem Ergotherapeuten aus
       ihrer Nachbarschaft. Sie berieten die Patienten über kleine Veränderungen,
@@ -45,75 +45,44 @@ theory:
       sich im ganzen Land verbreitet.
 
 
-      Die beiden Krankenschwestern erkannten einen Bedarf und setzten ihn mit der Kraft des Selbstmanagements um. Das Selbstmanagement trug dazu bei, die Idee zu verbreiten. Jedes Team, das sich für Buurtzorg + interessiert, kann sich für eine Schulungsveranstaltung anmelden, in der die Grundlagen des Konzepts vermittelt werden und erklärt wird, wie eine solche Partnerschaft in der eigenen Nachbarschaft aufgebaut werden kann.^[Übersetzt aus Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4396-4406). Nelson Parker. Kindle Edition:]
+      Die beiden Krankenschwestern erkannten einen Bedarf und setzten ihn mit der Kraft des Selbstmanagements um. Das Selbstmanagement trug dazu bei, die Idee zu verbreiten. Jedes Team, das sich für Buurtzorg + interessiert, kann sich für eine Schulungsveranstaltung anmelden, in der die Grundlagen des Konzepts vermittelt werden und erklärt wird, wie eine solche Partnerschaft in der eigenen Nachbarschaft aufgebaut werden kann.^\[Übersetzt aus Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4396-4406). Nelson Parker. Kindle Edition:]
   - topic: sales-marketing
-    title: Ist von 4 Mitarbeitern im Jahr 2007 auf 10.000 Mitarbeiter im Jahr 2016
-      angewachsen, ohne Marketing zu betreiben.
+    title: Buurtzorg ist von 4 Mitarbeitern im Jahr 2007 auf 10.000 Mitarbeiter im
+      Jahr 2016 angewachsen, ohne Marketing zu betreiben.
     content: >-
-      Bei [Buurtzorg] (https://www.buurtzorgnederland.com/), einer Organisation
-      mit 10.000 Mitarbeitern, arbeiten nur 45 Personen in der Zentrale und es
-      gibt keine Marketingabteilung. Tatsächlich hat die Organisation seit ihrer
-      Gründung im Jahr 2007 überhaupt kein herkömmliches Marketing betrieben.
-      Von Anfang an konzentrierte sich Buurtzorg auf die Patienten und auf die
-      Lösung von Problemen.
+      Bei Buurtzorg, einer Organisation mit 10.000 Mitarbeitern, arbeiten nur 45
+      Personen in der Zentrale und es gibt keine Marketingabteilung. Tatsächlich
+      hat die Organisation seit der Gründung im Jahr 2007 kein herkömmliches
+      Marketing betrieben. Von Anfang an konzentrierte sich Buurtzorg auf die
+      Patienten und auf die Lösung von Problemen.
 
 
-      "Wir glaubten, dass dies ein besseres Ergebnis bringen würde. Wir wollten kein Marketing betreiben und stattdessen kostenlose Werbung machen, wenn die Menschen mit unseren Dienstleistungen zufrieden waren", sagt Jos de Blok. Heute arbeitet Buurtzorg viel daran, enge und echte Beziehungen zu Patienten, verschiedenen Interessengruppen und anderen Menschen aufzubauen, die ein natürliches Interesse an ihren Dienstleistungen haben. Aufgrund des Erfolgs der Organisation gehört dazu auch die Kommunikation mit Medien und Zeitungen, um das Interesse zu wecken, das durch jahrelange gute Mundpropaganda entstanden ist. "Buurtzorg wird inzwischen mit etwas "Gutem" assoziiert, so dass es für uns heute einfacher ist", sagt Jos de Blok.
+      "Wir glaubten, dass dies ein besseres Ergebnis bringen würde. Wir wollten kein Marketing betreiben und stattdessen kostenlose Werbung machen, wenn die Menschen mit unseren Dienstleistungen zufrieden waren", sagt Jos de Blok. Heute arbeitet Buurtzorg viel daran, enge und echte Beziehungen zu Patienten, verschiedenen Interessengruppen und anderen Menschen aufzubauen, die ein natürliches Interesse an ihren Dienstleistungen haben. Aufgrund des Erfolgs der Organisation gehört dazu auch die Kommunikation mit Medien und Zeitungen, um das Interesse zu wecken, welches durch jahrelange gute Mundpropaganda entstanden ist. "Buurtzorg wird inzwischen mit etwas "Gutem" assoziiert, so dass es für uns heute einfacher ist", sagt Jos de Blok.
   - topic: Organizational Structure
     title: Buurtzorg verwendet eine geografisch parallele Teamstruktur und
       Teamcoaches.
-    content: "ei Buurtzorg, einer niederländischen Organisation für
+    content: >-
+      Bei Buurtzorg, einer niederländischen Organisation für
       Nachbarschaftspflege, arbeiten die Krankenschwestern und -pfleger in Teams
       von 10 bis 12 Personen, wobei jedes Team etwa 50 Patienten in einem
       kleinen, genau abgegrenzten Viertel betreut. Das Team ist für alle
       Aufgaben zuständig, die zuvor auf verschiedene Abteilungen aufgeteilt
-      waren.\r
+      waren.
 
-      \r
 
-      Jedes Team hat einen Coach. Der Coach hat keine
-      Entscheidungsbefugnis und arbeitet mit 40 bis 50 Teams gleichzeitig, um
-      sicherzustellen, dass kein Team zu sehr vom Coach abhängig wird. Die Rolle
-      des Coaches besteht darin, aufschlussreiche Fragen zu stellen, die den
-      Teams helfen, ihre eigenen Lösungen zu finden.\r
+      Jedes Team hat einen Coach. Der Coach hat keine Entscheidungsbefugnis und arbeitet mit 40 bis 50 Teams gleichzeitig, um sicherzustellen, dass kein Team zu sehr vom Coach abhängig wird. Die Rolle des Coaches besteht darin, aufschlussreiche Fragen zu stellen, die den Teams helfen, ihre eigenen Lösungen zu finden.
 
-      \r
 
-      Das Team ist für die Aufnahme, die Planung, die Urlaubsplanung und
-      die Verwaltung zuständig. Sie entscheiden sogar, wo sie ein Büro mieten
-      und wie sie es einrichten. Innerhalb des Teams gibt es keinen Leiter;
-      wichtige Entscheidungen werden gemeinsam getroffen.\r
+      Das Team ist für die Aufnahme, die Planung, die Urlaubsplanung und die Verwaltung zuständig. Sie entscheiden sogar, wo sie ein Büro mieten und wie sie es einrichten. Innerhalb des Teams gibt es keinen Leiter; wichtige Entscheidungen werden gemeinsam getroffen.
 
-      \r
 
-      Aus diesem Grund gedeiht eine Kultur der Problemlösung. Das
-      Pflegepersonal kann schwierige Entscheidungen nicht auf einen Chef
-      abwälzen, und wenn es zu Spannungen, Stress oder Unannehmlichkeiten kommt,
-      gibt es keinen Chef und keine Struktur, dem man die Schuld zuschieben
-      könnte. Das Team weiß, dass es die ganze Macht und den Spielraum hat,
-      seine eigenen Probleme zu lösen.\r
+      Aus diesem Grund gedeiht eine Kultur der Problemlösung. Das Pflegepersonal kann schwierige Entscheidungen nicht auf einen Chef abwälzen, und wenn es zu Spannungen, Stress oder Unannehmlichkeiten kommt, gibt es keinen Chef und keine Struktur, dem man die Schuld zuschieben könnte. Das Team weiß, dass es die ganze Macht und den Spielraum hat, seine eigenen Probleme zu lösen.
 
-      \r
 
-      Die Teams von Krankenschwestern und Krankenpflegern werden nicht
-      einfach durch ihre Hierarchie gestärkt. Sie sind wirklich mächtig, weil es
-      keine Hierarchie gibt, die die Entscheidungsgewalt über sie hat. Jedes
-      Team ist auch für seine eigene Einstellung verantwortlich. Da die
-      Teammitglieder die Einstellungsentscheidungen selbst treffen, sind sie
-      emotional daran beteiligt, dass die eingestellte Person erfolgreich ist.\r
+      Die Teams von Krankenschwestern und Krankenpflegern werden nicht einfach durch ihre Hierarchie gestärkt. Sie sind wirklich mächtig, weil es keine Hierarchie gibt, die die Entscheidungsgewalt über sie hat. Jedes Team ist auch für seine eigene Einstellung verantwortlich. Da die Teammitglieder die Einstellungsentscheidungen selbst treffen, sind sie emotional daran beteiligt, dass die eingestellte Person erfolgreich ist.
 
-      \r
 
-      Die von Buurtzorg erzielten Ergebnisse sprechen für sich. Eine
-      Studie von Ernst & Young aus dem Jahr 2009 ergab, dass Buurtzorg im
-      Durchschnitt fast 40 Prozent weniger Pflegestunden pro Klient benötigt als
-      andere Pflegeorganisationen. Und das, obwohl sich das Pflegepersonal bei
-      Buurtzorg Zeit für einen Kaffee und Gespräche mit den Patienten, ihren
-      Familien und Nachbarn nimmt, während andere Pflegeorganisationen die Zeit
-      für fast jede Dienstleistung eng eingrenzen. Bei Buurtzorg bleiben die
-      Patienten nur halb so lange in der Pflege, heilen schneller und werden
-      selbständiger. Bei Buurtzorg bleiben die Patienten nur halb so lange in
-      der Pflege, heilen schneller und werden selbständiger."
+      Die von Buurtzorg erzielten Ergebnisse sprechen für sich. Eine Studie von Ernst & Young aus dem Jahr 2009 ergab, dass Buurtzorg im Durchschnitt fast 40 Prozent weniger Pflegestunden pro Klient benötigt als andere Pflegeorganisationen. Und das, obwohl sich das Pflegepersonal bei Buurtzorg Zeit für einen Kaffee und Gespräche mit den Patienten, ihren Familien und Nachbarn nimmt, während andere Pflegeorganisationen die Zeit für fast jede Dienstleistung eng eingrenzen. Bei Buurtzorg bleiben die Patienten nur halb so lange in der Pflege, heilen schneller und werden selbständiger.
   - topic: Information Flow
     title: Nutzt die Informationsstruktur und Transparenz, um den Kunden den besten
       Service zu bieten
@@ -149,13 +118,7 @@ theory:
       #### Begrenzung der Treffen von Regionaltrainern auf "höherer Ebene"
 
 
-      In vielerlei Hinsicht wäre es sinnvoll, wenn Jos de Blok, CEO von Buurtzorg, sich regelmäßig mit den Regionalcoaches treffen würde: Sie haben einen guten Einblick in das Geschehen vor Ort. Gemeinsam könnten sie Probleme und Chancen erkennen und entsprechende Maßnahmen festlegen.
-
-
-      Aber dieser Prozess wäre nun wie ein Verwaltungsausschuss - das Gegenteil von dem, was sie wollen
-
-
-      Um dies zu vermeiden, beschränkt Jos de Block seine Treffen mit den Trainern auf vierteljährlich.
+      In vielerlei Hinsicht wäre es sinnvoll, wenn Jos de Blok, CEO von Buurtzorg, sich regelmäßig mit den Regionalcoaches treffen würde: Sie haben einen guten Einblick in das Geschehen vor Ort. Gemeinsam könnten sie Probleme und Chancen erkennen und entsprechende Maßnahmen festlegen. Aber dieser Prozess wäre nun wie ein Verwaltungsausschuss - das Gegenteil von dem, was sie wollen. Um dies zu vermeiden, beschränkt Jos de Block seine Treffen mit den Trainern auf vierteljährlich.
   - topic: Team and Community Building
     title: Bei Buurtzorg sind alle Krankenschwestern und Krankenpfleger in
       "Intervisie" geschult, einer Peer-Coaching-Technik, die ihren Ursprung in
@@ -168,7 +131,7 @@ theory:
   - topic: Coordination
     title: Bei Buurtzorg, wo 9000 Krankenschwestern und -pfleger über das ganze Land
       verstreut sind, spielt das interne soziale Netzwerk 'BuurtzorgWeb' eine
-      entscheidende Rolle beim Wissensaustausch
+      entscheidende Rolle beim Wissensaustausch.
     content: >-
       Bei [Buurtzorg](http://www.buurtzorgnederland.com/) spielt das
       unternehmensinterne soziale Netzwerk "BuurtzorgWeb" eine Schlüsselrolle
@@ -192,7 +155,7 @@ theory:
       zuständig, die in ähnlichen Organisationen auf verschiedene Abteilungen
       aufgeteilt sind. Die Buurtzorg-Einführungsschulung umfasst Techniken zur
       Konfliktlösung und [Gewaltfreie
-      Kommunikation].(https://de.wikipedia.org/wiki/Gewaltfreie_Kommunikation),
+      Kommunikation](https://de.wikipedia.org/wiki/Gewaltfreie_Kommunikation),
       die von Marshal Rosenberg entwickelt wurde. Konflikte werden
       gemeinschaftlich im Team gelöst. Wenn zum Beispiel eine Person das
       Vertrauen des Teams verloren hat, versucht das Team, eine einvernehmliche

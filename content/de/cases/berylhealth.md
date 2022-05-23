@@ -18,8 +18,7 @@ theory:
       [BerylHealth](http://www.berylhealth.com/) hat eine Variante der [ESBZ's
       ](http://www.ev-schule-zentrum.de/aktuell/)-Praxis entwickelt. Aber
       anstatt sich zu versammeln, wird am Freitagnachmittag eine
-      Massen-E-Mail-Kette ausgelöst. (Daher der Name, den die Praxis angenommen
-      hat: "Good Stuff Friday".).
+      Massen-E-Mail-Kette ausgelöst (daher der Name: "Good Stuff Friday").
 
 
       Ein Kollege schickt eine E-Mail an die gesamte Belegschaft, in der er einem anderen Kollegen oder einer anderen Abteilung für etwas dankt, das in dieser Woche geschehen ist, oder einfach nur, um gute Neuigkeiten mitzuteilen.
