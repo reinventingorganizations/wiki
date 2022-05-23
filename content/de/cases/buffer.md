@@ -1,68 +1,93 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
 name: Buffer
-introduction: Social media start up - Global - 40 people - For Profit.
+date: 2020-11-09
+introduction: Social Media Start-Up - weltweit - 40 Personen -profitorientiert.
 industry: M. Professional, scientific and technical activities
 geography: Global
 companySize: 1-100
 profit: Profit
 theory:
   - topic: Compensation and incentives
-    title: "Buffer practices radical transparency, and their process relies on
-      self-set salaries using the advice process. "
-    content: >-
-      #### Salary components
+    title: Buffer praktiziert radikale Transparenz, und der Prozess beruht auf
+      selbst festgelegten Gehältern im Rahmen des Beratungsprozesses.
+    content: "#### Gehaltsbestandteile
 
 
-      The process of setting one's salary at Buffer focuses on a formula with 5 components:
+      Das Verfahren zur Festsetzung des Gehalts bei Buffer basiert auf
+      einer Formel mit 5 Komponenten:
 
 
-      * **Base Component**: A general base level for each type role
+      * **Basiskomponente**: Eine allgemeine Basisstufe für jede Rollenart
 
-      * **Location**: Cost of living in each teammate’s city (they use Numbeo to help with this)
+      * **Standort**: Lebenshaltungskosten in der Stadt jedes
+      Teammitglieds (sie verwenden Numbeo, um dies zu ermitteln)
 
-      * **Family**: An allowance for kids, parents, partners or other dependents
+      * **Familie**: eine Zulage für Kinder, Eltern, Partner oder andere
+      abhängige Personen
 
-      * **Journey**: Journey correlates to expanded role, leadership, and how often the teammate is sought out for advice
+      * **Laufbahn**: Die Laufbahn korreliert mit der erweiterten Rolle,
+      der Führungsrolle und der Häufigkeit, mit der ein Teammitglied um Rat
+      gefragt wird.
 
-      * **Experience**: Putting a value to the growth of skills and knowledge that teammates accrue over time
-
-
-      \
-
-      ***Advice Process***
-
-
-      Each person has the ability to adjust each of these components to what feels fair for their case, using the formula as a general guideline. For example, for the location component, if you're in a C bracket but are traveling for several months through quite a few B cities, you might decide to go somewhere in between those two.
+      * **Erfahrung**: Wertschätzung des Zuwachses an Fähigkeiten und
+      Wissen, den die Teammitglieder im Laufe der Zeit erwerben
 
 
-      \
+      \\
 
-      ***Salary sounding board***
-
-
-      A key element of this process is the “Salary Sounding Board.” This is a rotating group of team members whose role is to assist in finding an equilibrium for salary adjustments from a position of higher perspective.
+      ***Beratungsprozess***
 
 
-      The Sounding Board helps each salary adjustment find its equilibrium through various methods, which could change depending on the situation. Some approaches could include:
+      Jede Person hat die Möglichkeit, jede dieser Komponenten so
+      anzupassen, wie es für sie angemessen erscheint, wobei die Formel als
+      allgemeine Richtlinie dient. Wenn Sie z. B. in der Kategorie C eingestuft
+      sind, aber mehrere Monate lang durch mehrere B-Städte reisen, können Sie
+      sich für einen Wert zwischen diesen beiden entscheiden.
 
 
-      * Suggesting team members who might provide a useful perspective on a salary adjustment and who might not have been sought for advice or been heard yet
+      \\
 
-      * Cultivating transparency through open discussions and advice
-
-      * Encouraging honesty in the advice process, even when it may be challenging (for example, if someone feels that a salary adjustment is too high)
-
-      * Sensing adjustments (or lack of adjustments) that feel out of equilibrium
+      ***Gehalts-Sondierungsgremium***
 
 
-      The Sounding Board pays attention to how salary adjustments are proceeding across the entire company, to help the process stay healthy and encouraging while also balancing all perspectives and the overall financial wellbeing of Buffer.
+      Ein Schlüsselelement dieses Prozesses ist das
+      \"Gehalts-Sondierungsgremium\". Dabei handelt es sich um eine rotierende
+      Gruppe von Teammitgliedern, deren Aufgabe es ist, bei der Suche nach einem
+      Gleichgewicht für Gehaltsanpassungen aus einer übergeordneten Perspektive
+      zu beraten.
 
 
-      #### Transparency
+      Das Sondierungsgremium hilft bei jeder Gehaltsanpassung, ein
+      Gleichgewicht zu finden, und zwar mit verschiedenen Methoden, die sich je
+      nach Situation ändern können. Einige Ansätze könnten sein:
 
 
-      The compensation of every colleague in Buffer is public, not only to colleagues themselves, but even to the [outside world](https://buffer.com/transparency). ^[Courtney Seiter, colleague at Buffer, May 2015]
+      * Vorschlagen von Teammitgliedern, die eine nützliche Perspektive
+      für eine Gehaltsanpassung bieten könnten und die vielleicht noch nicht um
+      Rat gefragt oder angehört worden sind\r
+
+      * Förderung von Transparenz durch offene Diskussionen und Beratung\r
+
+      * Ermutigung zur Ehrlichkeit im Beratungsprozess, auch wenn es
+      schwierig ist (z. B. wenn jemand eine Gehaltsanpassung für zu hoch hält)\r
+
+      * Wahrnehmung von Anpassungen (oder fehlenden Anpassungen), die sich
+      unausgewogen anfühlen
+
+
+      Das Sondierungsgremium achtet darauf, wie die Gehaltsanpassungen im
+      gesamten Unternehmen ablaufen, damit der Prozess gesund und ermutigend
+      bleibt und gleichzeitig ein Gleichgewicht zwischen allen Perspektiven und
+      dem finanziellen Wohlergehen von Buffer insgesamt hergestellt wird.
+
+
+      #### Transparenz
+
+
+      Die Vergütung eines jeden Kollegen bei Buffer ist öffentlich, nicht
+      nur für die Kollegen selbst, sondern auch für die
+      [Außenwelt](https://buffer.com/transparency). ^\\[Courtney Seiter,
+      colleague at Buffer, May 2015]"
 ---
