@@ -33,4 +33,5 @@ Please [let us know](https://reinventingorganizationswiki.com/en/pages/how-can-y
 
 ![](/media/flagbrazil.jpg) Portuguese Wiki <https://reinventingorganizationswiki.com/pt>
 
-![](/media/flagserbiamontenegro-petite.jpeg)
+![](/media/flagserbiamontenegro-petite.jpeg) Serbian Wiki
+<https://reinventingorganizationswiki.com/rs>
