@@ -156,7 +156,7 @@ faq:
       powerfully to why you believe this is important. Once in the group
       process, you can relax and become one voice among the many contributing to
       establish the ground rules. "
-    locale: FR
+    locale: fr
 relatedTheory:
   - wholeness
   - Team and Community Building
