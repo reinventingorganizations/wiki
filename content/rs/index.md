@@ -2,7 +2,7 @@
 layout: home
 name: Home
 tagline: A hearty welcome to the refreshed
-title: Reinventing Organizations Wiki
+title: Reinventing Organizations Wiki (Serbian)
 intro: >-
   This wiki is based on the book Reinventing Organizations by Frédéric Laloux.
   Its primary purpose is to serve as a practical guide for leaders who are
