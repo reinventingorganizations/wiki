@@ -1,4 +1,5 @@
 ---
+locale: FR
 layout: article
 tags: theory
 key: Creating Safe Space
@@ -20,7 +21,7 @@ perspective: >-
   leurs désirs les plus profonds. 
 
 
-  ### Red organizations
+  ### Organisations Rouges
 
 
   In [Red organizations](../red-organizations/), some safety is found in the order imposed by the boss. Show allegiance and follow the boss's wishes and commands, whatever they may be, and you know you are safe. Severe punishment, on the other hand, awaits the person who defies the boss.   
@@ -155,6 +156,7 @@ faq:
       powerfully to why you believe this is important. Once in the group
       process, you can relax and become one voice among the many contributing to
       establish the ground rules. "
+    locale: FR
 relatedTheory:
   - wholeness
   - Team and Community Building
