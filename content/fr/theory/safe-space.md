@@ -1,5 +1,5 @@
 ---
-locale: FR
+locale: fr
 layout: article
 tags: theory
 key: Creating Safe Space
