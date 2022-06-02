@@ -14,6 +14,8 @@
             lang = v1;
         else if (v2.length < 4 && v2 !== 'com')
             lang = v2;
+        if (typeof url === 'undefined')
+            url = "";
         url = domain + lang + url
         echo(`<meta http-equiv="refresh" content="0; URL="${url}" />`);
     </script>
@@ -32,6 +34,8 @@
             lang = v1;
         else if (v2.length < 4 && v2 !== 'com')
             lang = v2;
+        if (typeof url === 'undefined')
+            url = "";
         url = domain + lang + url
         window.location.replace(`${url}`);
         echo(`<p>Haven't been redirected? <a href="${url}">Follow this link</a></p>`);
