@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script>
+        const host = window.location.hostname;
+        var url = window.location.url;
+        var lang = 'en';
+        const vals = host.split('.');
+        const v1 = vals[0];
+        const v2 = vals[vals.length -1];
+
+        if (v1.length < 4)
+            lang = v1;
+        else if (v2.length < 4 && v2 !== 'com')
+            lang = v2;
+        url = domain + lang + url
+        echo(`<meta http-equiv="refresh" content="0; URL="${url}" />`);
+    </script>
+  </head>
+  <body>
+    <p>Haven't been redirected? <a href="https://reinventingorganizationswiki.com/en/">Follow this link</a></p>
+  </body>
+</html>
