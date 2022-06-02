@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script>
+        var domain = "https://reinventingorganizationswiki.com/"
+        var host = window.location.hostname;
+        var url = window.location.url;
+        var lang = 'en';
+        var vals = host.split('.');
+        var v1 = vals[0];
+        var v2 = vals[vals.length -1];
+
+        if (v1.length < 4)
+            lang = v1;
+        else if (v2.length < 4 && v2 !== 'com')
+            lang = v2;
+        if (typeof url === 'undefined')
+            url = "";
+        url = domain + lang + url
+        echo(`<meta http-equiv="refresh" content="0; URL="${url}" />`);
+    </script>
+  </head>
+  <body>
+    <script>
+        var domain = "https://reinventingorganizationswiki.com/"
+        var host = window.location.hostname;
+        var url = window.location.url;
+        var lang = 'en';
+        var vals = host.split('.');
+        var v1 = vals[0];
+        var v2 = vals[vals.length -1];
+
+        if (v1.length < 4)
+            lang = v1;
+        else if (v2.length < 4 && v2 !== 'com')
+            lang = v2;
+        if (typeof url === 'undefined')
+            url = "";
+        url = domain + lang + url
+        window.location.replace(`${url}`);
+        echo(`<p>Haven't been redirected? <a href="${url}">Follow this link</a></p>`);
+    </script>
+    <noscript>
+        <p>Haven't been redirected? <a href="https://reinventingorganizationswiki.com/en/">Follow this link</a></p>
+    </noscript>
+  </body>
+</html>
