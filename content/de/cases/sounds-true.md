@@ -1,180 +1,233 @@
 ---
+locale: x
 layout: case
 tags: cases
 name: Sounds True
 date: 2020-11-09
-introduction: "**Sounds True** is a multimedia publishing company founded in
-  1985 by Tami Simon, with the mission of disseminating spiritual wisdom. The
-  company is based in Louisville, Colorado, near Boulder, Colorado."
+introduction: "**Sounds True** ist ein Multimedia-Verlag, der 1985 von Tami
+  Simon mit der Mission gegründet wurde, spirituelle Weisheit zu verbreiten.
+  Sitz des Unternehmens ist Louisville (in der Nähe von Boulder) in Colorado."
 industry: S. Other service activities
 geography: USA
 companySize: 1-100
 profit: Profit
 theory:
   - topic: Listening to Purpose
-    content: "Tami Simon, the founder of Sounds True, has found that spiritual
-      practices have helped her develop her intuitive capacities, which she
-      believes serves her well in her business:\r
+    content: "Spirituelle Praktiken haben Tami Simon, der Gründerin von Sounds True,
+      geholfen, intuitive Fähigkeiten zu entwickeln. Sie ist überzeugt, dass
+      dies ihrem Geschäft zugutekommt:
 
-      \r
 
-      “Intuition is basically my entire existence,” Tami states. She
-      studies with a meditation teacher named Reggie Ray. Reggie’s teacher
-      taught him how to “read the signs” and Reggie passed these teachings on to
-      Tami. “It’s an art form and an indigenous survival skill. If you were on a
-      hunt, you would watch for the tracks. That’s how we pick projects. We read
-      the signs. How many people are talking about it? How many requests do we
-      get for a particular author? And what are our inner feelings about the
-      project? That’s very important, too.” The company “reads the signs” for
-      internal issues as well. … One exercise that Tami finds useful for tapping
-      into inspiration is a visualization exercise. She describes the process:
-      “You visualize yourself going into the center of the Earth to tap into
-      fresh waters and bring them to the surface. It’s weird; totally new ideas
-      just emerge. The visualization calms down the chatty mind and creates the
-      space for vision to come forward.”^[ Laloux, Frederic (2014-02-09).
-      Reinventing Organizations: A Guide to Creating Organizations Inspired by
-      the Next Stage of Human Consciousness (Kindle Locations 4413-4424). Nelson
-      Parker. Kindle Edition.]"
-    title: “Intuition is basically my entire existence”
+      „Intuition ist Grundlage meiner Existenz\", sagt Tami. Sie lernt bei
+      einem Meditationslehrer namens Reggie Ray. Reggies Lehrer hat ihm
+      beigebracht, wie man „Zeichen deutet\", und Reggie hat dieses Wissen an
+      Tami weitergegeben. „Es ist eine Kunstform und eine indigene Fähigkeit zum
+      Überleben. Wenn man auf der Jagd ist, achtet man auf Spuren. So wählen wir
+      Projekte aus. Wir deuten die Zeichen. Wie viele Leute sprechen darüber?
+      Wie viele Anfragen erhalten wir für eine bestimmte Autorin? Und was
+      empfinden wir im Inneren bei dem Projekt? Auch das ist sehr wichtig.\" Das
+      Unternehmen „deutet die Zeichen\" auch für interne Fragen. ... Um
+      Inspiration zu finden, ist Tamis Meinung nach eine Visualisierungsübung
+      nützlich. Sie beschreibt den Prozess folgendermaßen: „Man stellt sich vor,
+      ins Innere der Erde zu gehen, um frisches Wasser anzuzapfen und es an die
+      Oberfläche zu bringen. Es ist seltsam, völlig neue Ideen tauchen einfach
+      auf. Die Visualisierung beruhigt den geschwätzigen Verstand und schafft
+      einen Raum, in dem Visionen entstehen können.\"^[ Übersetzt aus: Laloux,
+      Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating
+      Organizations Inspired by the Next Stage of Human Consciousness (Kindle
+      Locations 4413-4424). Nelson Parker. Kindle Edition.]\r\n"
+    title: „Intuition ist Grundlage meiner Existenz."
   - topic: Team and Community Building
-    title: At Sounds True, a bell rings everyday at 8:30 a.m.
+    title: Bei Sounds True läutet jeden Tag um 8:30 Uhr eine Glocke.
     content: >-
-      **Example for Silence**
+      **Stille**
 
 
-      At [Sounds True](http://www.soundstrue.com/) mployees can join a 15-minute group meditation or simply sit in silence at their desk for those minutes.
+      Bei [Sounds True](http://www.soundstrue.com/) können die Mitarbeitenden an einer 15-minütigen Gruppenmeditation teilnehmen oder diese Minuten einfach schweigend an ihrem Schreibtisch sitzen.
   - topic: Mood Management
-    title: At Sounds True members of the organization came up with two ideas for
-      Wholeness Events. These promote a mood of fun, trust, wholeness and
-      excitement. The events called “Art Salon” and “Pajama Day”. They have
-      become annual events.
-    content: "Five years ago, a colleague at Sounds True took it upon herself to
-      organize an “Art Salon” on a Friday afternoon. Everyone was invited to
-      share an artistic passion with his or her colleagues. Walls throughout the
-      office were filled with photographs and paintings.\r
+    title: 'Bei Sounds True haben die Mitglieder der Organisation zwei Ideen für
+      Veranstaltungen zur Ganzheitlichkeit entwickelt, die Spaß, Vertrauen,
+      Ganzheitlichkeit und Spannung fördern: „Kunstsalon" und „Pyjama-Tag"
+      finden mittlerweile jährlich statt. '
+    content: "Vor fünf Jahren organisierte eine Mitarbeiterin bei Sounds True an
+      einem Freitagnachmittag einen „Kunstsalon\". Alle war eingeladen,
+      künstlerische Leidenschaften im Kollegenkreis zu teilen. Die Bürowände
+      wurden mit Fotos und Gemälden bestückt.\r
 
       \r
 
-      A small stage was erected for performance. Some chose to sing (some
-      songs about life in the company were particular hits), others juggled or
-      danced. It was so popular that the salon became an annual event. Tami
-      Simon, the company founder, wasn’t involved in setting up the first salon,
-      but she sees that it has become an important element in the company
-      culture: \"I realized these events are saying to people, “You get to be a
-      whole person. This part of you, it may not fit to do it as part of your
-      job every day. … But the fact that you can now juggle five balls is
-      actually cool. And one Friday afternoon, we want to sit back and have a
-      glass of wine and watch you do this and acknowledge this part of you.”\r
+
+      Für Darbietungen gab es eine kleine Bühne. Einige sangen (Lieder
+      über das Leben in der Firma waren besonders beliebt), andere jonglierten
+      oder tanzten. Das Event war so beliebt, dass der „Kunstsalon“ zu einer
+      jährlichen Veranstaltung wurde. Tami Simon, die Gründerin des
+      Unternehmens, war nicht an der Einrichtung des ersten Salons beteiligt,
+      sieht jedoch seine Bedeutung für die Unternehmenskultur: „Ich habe
+      erkannt, dass diese Veranstaltungen den Menschen sagen: ‚Du darfst ein
+      ganzer Mensch sein. Dieser Teil von dir passt vielleicht nicht zu dem, was
+      du jeden Tag in deinem Job machst. ... Aber die Tatsache, dass du jetzt
+      fünf Bälle jonglieren kannst, ist klasse. Und an einem Freitagnachmittag
+      wollen wir uns zurücklehnen, ein Glas Wein trinken, dir dabei zusehen und
+      diesen Teil von dir anerkennen‘.\"\r
 
       \r
 
-      For reasons by now half-forgotten, someone suggested \"Pajama Day\"
-      as a celebration of the arrival of spring.  Everyone who wanted to join
-      would share breakfast at the office … in pajamas. The handful that showed
-      up had so much fun during breakfast that they decided to keep their
-      pajamas on at work the rest of the day.\r
 
-      \r
+      Aus Gründen, die inzwischen halbwegs in Vergessenheit geraten sind,
+      schlug jemand den „Pyjama-Tag\" vor, um den Frühlingsanfang zu feiern.
+      Alle, die mitmachen wollten, sollten gemeinsam im Büro frühstücken ... im
+      Pyjama. Die wenigen im Schlafanzug hatten so viel Spaß dabei, dass sie
+      beschlossen, ihre Pyjamas für den Rest des Arbeitstages anzubehalten.\r
 
-      Since then, the event has taken place every year. Now 90 percent of
-      the employees show up in pajamas, and a prize is given for the best
-      outfit. (A matching set of pajamas for master and dog shared the prize
-      once.)\r
 
-      \r
+      Seitdem findet diese Veranstaltung jedes Jahr statt. Inzwischen
+      erscheinen 90 Prozent der Mitarbeitenden im Schlafanzug, und für das beste
+      Outfit wird ein Preis verliehen. (Einmal teilten sich Herrchen und Hund
+      den Preis für einen Partnerlook.)\r
 
-      It has become an event people look forward to and prepare for. In
-      its own quirky way, “Pajama Day” is a storytelling event―every pair of
-      pajamas represents a story waiting to say something about the person
-      wearing them: What made you choose that outfit?\r
 
-      \r
+      Der „Pyjama-Tag“ ist zu einem Ereignis geworden, auf das man sich
+      freut und vorbereitet. Er ist ein Event, bei dem Geschichten erzählt
+      werden. Jeder Pyjama steht für eine Geschichte, die etwas über die Person
+      sagt, die ihn trägt: Warum hast du dich für dieses Outfit entschieden?\r
 
-      Wearing a professional mask at work is decidedly more difficult when
-      everyone strolls around in funny sleepwear."
+
+      Bei der Arbeit eine professionelle Maske zu tragen, ist deutlich
+      schwieriger, wenn alle in lustiger Schlafbekleidung herumlaufen.\r"
   - topic: Recruitment
-    title: "Tami Simon, the founder of Sounds True, tells the following story about
-      its particular culture and how people may or may not fit in:"
-    content: >-
-      One of the things I’ve found out at [Sounds
-      True](https://www.soundstrue.com/) is in the first three months of
-      employment a lot of the people don’t stay. … Sounds True, people want to
-      get to know who you are, they want you to be real, they don’t want you to
-      wear forty masks to work. It’s like―will the real person please stand up?
-      There is this sense of authenticity; who we are when we are not at work is
-      who we are when we are at work. That’s the kind of environment that’s here
-      and of course we try to screen for this and let people know before they
-      take the job, and a lot of people go “Oh I’m totally ready for that.  I’m
-      interested in that, that’s what I want.”  But then they come in and may or
-      may not be comfortable actually working in that kind of environment where
-      people when they stop in the hallway and ask “How are you doing?” actually
-      mean it! "How 'are' you doing?". 
+    title: "Tami Simon, die Gründerin von Sounds True, erzählt folgende Geschichte
+      über die besondere Unternehmenskultur und darüber, ob und wie Menschen
+      dazu passen – oder auch nicht:"
+    content: "„Ich habe bei [Sounds True](https://www.soundstrue.com/)
+      herausgefunden, dass viele Leute nach den ersten drei Monaten wieder
+      gehen. ... Bei Sounds True wollen die Leute wissen, wer du bist. Sie
+      wollen, dass du echt bist, und nicht, dass du vierzig Masken bei der
+      Arbeit trägst. Es ist wie: Könnte die echte Person bitte aufstehen? Es
+      herrscht ein Gefühl der Authentizität; wir sind dieselbe Person im
+      Privaten wie bei der Arbeit. Das ist unser Umfeld, und natürlich versuchen
+      wir, die Leute daraufhin zu prüfen und sie darüber zu informieren, bevor
+      sie den Job annehmen, und viele sagen: ‚Oh, dafür bin ich bereit. Das
+      interessiert mich, das ist es, was ich will.‘ Aber dann kommen sie und
+      fühlen sich unwohl in einem Umfeld, wo man sie auf dem Flur fragt: ‚Wie
+      geht es dir?‘, und die Leute es auch wirklich wissen wollen. Wie ‚geht' es
+      dir?\".\r
 
 
-      Listen to the interview by clicking hereː [here](https://www.optimize.me/)
+      Hören Sie sich das [Interview](https://www.optimize.me/) an."
   - topic: Feedback and Performance Management
-    title: "Sounds True has a three step appraisal process that turns an appraisal
-      discussion into an experience of genuine inquiry and celebration. "
-    content: >-
-      [Sounds True](https://www.soundstrue.com/) has a three step appraisal
-      process:
+    title: "Sounds True hat einen dreistufigen Beurteilungsprozess, der das
+      Beurteilungsgespräch in eine Entdeckungsreise und -feier verwandelt. "
+    content: "Bei [Sounds True](https://www.soundstrue.com/) gibt es einen
+      dreistufigen Beurteilungsprozess:
 
 
-      * In phase 1, employees reflect on their performance and aspirations based on a list of questions to trigger thinking.
+      * In Phase 1 reflektieren die Mitarbeitenden ihre Leistungen und
+      Ziele anhand einer Liste mit Fragen, die zum Nachdenken anregen sollen.\r
 
-      * In phase 2, the practice starts with a minute of silence where colleagues are asked to hold the person receiving feedback in their hearts and try to let go of any form of judgement. Then, in turn, each person sits in front of their colleague and talks openly about what they most value in their colleague and reflect on one area where they think they could grow.
+      * In Phase 2 beginnt das Verfahren mit einer Schweigeminute, in der
+      die Kollegen gebeten werden, die Person, die das Feedback erhält, in ihr
+      Herz zu schließen und zu versuchen, jede Form der Wertung loszulassen.
+      Dann setzt sich jeder abwechselnd vor diese Person und spricht offen
+      darüber, was er an ihr am meisten schätzt, und überlegt sich, worin sie
+      wachsen könnte.\r
 
-      * Finally in phase 3, the employee and a colleague reflect on the feedback through a deeper conversation to learn and decide what happens next.
+      * In Phase 3 reflektieren die Person und ein Kollege das Feedback in
+      einem vertiefenden Gespräch, um daraus zu lernen und zu entscheiden, wie
+      es weitergeht.\r
 
 
-      Feedback about how individuals can improve is given in the natural course of events throughout the year and not saved up for the annual appraisal.^[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 183]
+      Feedback zur Verbesserung des Individuums wird im Verlauf des Jahres
+      gegeben und nicht für ein Jahresgespräch aufgespart.^[Übersetzt aus:
+      Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), Seite
+      183]\r"
   - topic: Ownership
-    title: An example of outside investors compatible with Teal
-    content: "Through careful selection of investors, Tami Simon has been able to
-      bring in outside equity capital without sacrificing the company’s
-      commitment to Teal practices and to multiple bottom lines. These investors
-      are considered to be one of its key stakeholders: “We are committed to
-      growing the long-term value of the business through careful planning and
-      re-investing our profits into innovation and
-      growth.”^[<http://www.soundstrue.com/store/about-us/core-values>]"
+    title: Ein Beispiel für externe Investoren, das mit dem Teal-Paradigma
+      kompatibel ist.
+    content: 'Durch eine sorgfältige Auswahl der Investoren ist es Tami Simon
+      gelungen, externes Beteiligungskapital zu beschaffen, ohne das Engagement
+      des Unternehmens für Teal-Praktiken und vielfältige Ziele zu
+      beeinträchtigen. Diese Investoren werden mit als wichtigste Stakeholder
+      des Unternehmens betrachtet: „Wir sind bestrebt, den langfristigen Wert
+      des Unternehmens durch sorgfältige Planung zu steigern und unsere Gewinne
+      in Innovation und Wachstum zu
+      reinvestieren."^[<http://www.soundstrue.com/store/about-us/core-values>]'
   - topic: wholeness
     content: >-
-      In the early days, Tami Simon, the founder and CEO of
-      <http://www.soundstrue.com> Sounds True, brought her dog along to the
-      office. When the business expanded and employees were hired, it didn’t
-      take long for some of them to ask if they too could bring their dogs to
-      work. Tami couldn’t think of a reason to refuse. Today it is not rare for
-      a meeting to take place with two or three dogs lying at people’s feet.
-      Something special happens within the presence of dogs, colleagues noticed.
-      Animals tend to ground us, to bring out the better sides of our nature.
-      The simple practice of petting a dog tends to soothe us, to reconnect us
-      to our body, and to calm down our spinning minds. And when it’s a
-      colleague’s dog we pet, or a colleague that pets ours, we subtly build
-      community. People found that the decision to open the company’s doors
-      didn’t only allow in dogs, but more human life as well.^\[Laloux, Frederic
-      (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations
-      Inspired by the Next Stage of Human Consciousness (Kindle Locations
-      3182-3190). Nelson Parker. Kindle Edition.]
+      In den Anfangstagen brachte Tami Simon, Gründerin und Geschäftsführerin
+      von [Sounds True](<http://www.soundstrue.com>), ihren Hund mit ins Büro.
+      Als das Unternehmen expandierte und weitere Mitarbeitende eingestellt
+      wurden, dauerte es nicht lange, bis einige von ihnen fragten, ob auch sie
+      ihre Hunde zur Arbeit mitnehmen könnten. Tami fiel kein Grund ein, dies
+      abzulehnen. Heute ist es keine Seltenheit, dass bei einer Besprechung zwei
+      oder drei Hunde den Teilnehmenden zu Füßen liegen. In der Gegenwart von
+      Hunden passiert etwas Besonderes, stellten die Mitarbeitenden fest. Tiere
+      erden uns und bringen die besseren Seiten unseres Wesens zum Vorschein.
+      Einen Hund zu streicheln, besänftigt uns, bringt uns mit unserem Körper in
+      Kontakt und beruhigt unsere ständig kreisenden Gedanken. Und wenn wir
+      gegenseitig unsere Hunde streicheln, bauen wir auf subtile Weise eine
+      Verbindung zum anderen auf. Man stellte fest, dass die Entscheidung, die
+      Türen des Unternehmens zu öffnen, nicht nur Hunde, sondern auch mehr
+      Menschlichkeit zuließ.^[Übersetzt aus: Laloux, Frederic (2014-02-09).
+      Reinventing Organizations: A Guide to Creating Organizations Inspired by
+      the Next Stage of Human Consciousness (Kindle Locations 3182-3190). Nelson
+      Parker. Kindle Edition.]
 
 
-      A number of years ago, a colleague at Sounds True took it upon herself to organize an “Art Salon” on a Friday afternoon. Everyone was invited to share some artistic passion with his or her colleagues. Walls throughout the office were filled with photographs and paintings. A small stage was erected for people to perform. Some colleagues chose to sing (some songs composed about life in the company were particular hits), others juggled or danced tango. People enjoyed themselves so much that the salon has turned into an annual event. Tami wasn’t involved in setting up the first salon, but she sees that it has become an important element in the company culture:
+      Vor einigen Jahren organisierte eine Mitarbeiterin bei Sounds True an einem Freitagnachmittag einen „Kunstsalon". Alle war eingeladen, künstlerische Leidenschaften im Kollegenkreis zu teilen. Die Bürowände wurden mit Fotos und Gemälden bestückt. Für Darbietungen gab es eine kleine Bühne. Einige sangen (Lieder über das Leben in der Firma waren besonders beliebt), andere jonglierten oder tanzten Tango. Das Event war so beliebt, dass der „Kunstsalon“ zu einer jährlichen Veranstaltung wurde. Tami war nicht an der Einrichtung des ersten Salons beteiligt, sieht jedoch seine Bedeutung für die Unternehmenskultur:
 
 
-      *I realized these events are saying to people, “You get to be a whole person. This part of you, it may not fit to do it as part of your job every day. … But the fact that you can now juggle five balls is actually cool. And on a Friday afternoon, we want to sit back and have a glass of wine and watch you do this and acknowledge this part of you.” That is part of what I think makes people feel \[that that] the wholeness of who they are is actually welcome. Because we do welcome it, we want to see it.*^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3544-3553). Nelson Parker. Kindle Edition.]
-    title: Dogs and Art Salons
+      *Ich habe erkannt, dass diese Veranstaltungen den Menschen sagen: ‚Du darfst ein ganzer Mensch sein. Dieser Teil von dir passt vielleicht nicht zu dem, was du jeden Tag in deinem Job machst. ... Aber die Tatsache, dass du jetzt fünf Bälle jonglieren kannst, ist klasse. Und an einem Freitagnachmittag wollen wir uns zurücklehnen, ein Glas Wein trinken, dir dabei zusehen und diesen Teil von dir anerkennen‘. Ich glaube, das gibt den Menschen das Gefühl, in ihrer Ganzheitlichkeit angenommen zu werden. Denn wir heißen diese willkommen, wir wollen sie sehen.*^[Übersetzt aus: Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 3544-3553). Nelson Parker. Kindle Edition.]
+    title: Hunde und Kunstsalons
   - topic: Evolutionary Purpose
-    content: >-
-      For Tami Simon, founder of Sounds True, purpose came before business:
+    content: "Für Tami Simon, die Gründerin von Sounds True, kommen Sinn und Zweck
+      vor dem Geschäft:
 
 
-      > *I’m kind of a strange person in a certain way. I dropped out of college because I didn’t feel like I actually could be myself in an academic environment. … I felt that in the academic environment I was being asked to pose as somebody who had answers to questions when instead I had experiences that I wanted to explore more deeply. … I went into a deep internal process where I prayed extremely hard and the prayer had to do with being of service. … The way I was thinking as a 20-, 21-year-old college dropout was, “Could I please be given the opportunity to take the talents that I have and all the gifts that I have been given by a very supporting and loving family and terrific opportunities for higher education … and give back in some way?” … The prayer was, “God, I’m willing to do your work. Please show me what it is. Please just show me what it is.”*
+      > *Ich bin in gewisser Weise ein seltsamer Mensch. Ich habe das
+      College abgebrochen, weil ich nicht das Gefühl hatte, dass ich in einem
+      akademischen Umfeld wirklich ich selbst sein kann. ... Ich hatte den
+      Eindruck, dass man von mir im akademischen Umfeld verlangte, dass ich mich
+      als jemand darstelle, der Antworten auf Fragen hat, während ich
+      stattdessen Erfahrungen machte, die ich weiter erforschen wollte. ... Ich
+      ging in einen tiefen inneren Prozess, in dem ich sehr intensiv betete, und
+      das Gebet hatte mit Dienen zu tun. ... Als 20-, 21-jährige
+      Studienabbrecherin dachte ich: „Könnte ich bitte die Möglichkeit erhalten,
+      meine Talente und all die Gaben, die mir seitens einer unterstützenden und
+      liebevollen Familie und durch großartige Chancen für eine höhere Bildung
+      gegeben wurden, zu nutzen ... und in irgendeiner Weise etwas
+      zurückzugeben?\" ... Das Gebet lautete: „Gott, ich bin bereit, deine
+      Arbeit zu tun. Bitte zeige mir, was es ist. Bitte zeige mir einfach, was
+      es ist.\"*\r
+
+      \r
 
       >
 
-      > *This phrase “willing to do your work” was very important to me because I didn’t want to be willful. I didn’t want to insist that it had to go my way. At the same time I didn’t want to be will-less where I was simply waiting in a coffee shop to be discovered. …*
+      > *Diese Formulierung „bereit, deine Arbeit zu tun\" war für mich
+      sehr wichtig, weil ich nicht eigenwillig sein wollte. Ich wollte nicht
+      darauf bestehen, dass alles so läuft, wie ich es will. Gleichzeitig wollte
+      ich nicht willenlos sein und einfach in einem Café darauf warten, entdeckt
+      zu werden. ...*\r
+
+      \r
 
       >
 
-      > *I feel like Sounds True, this business, came to me as a 21-, 22-year-old as a gift and as a kind of covenant with the universe, a kind of bond where I said, “I’ll serve you. I’ll work really hard,” and the other side of it was, “You’ll be supported, you’ll be shown, doors will open, you’ll meet the people, opportunities will happen.” It’s this sense of a cosmic agreement that … I could help distribute spiritual teachings from different wisdom traditions from around the world. And I could do it with sincerity and devotion. That was my outlook from the beginning. It was never really about me per se. I wanted to be myself, I wanted to be authentic, and I wanted to make a contribution.^\[Tami Simon, interviewed by Diederick Janse and Ewan Townhead, podcast series “Waking up the Workplace,” episode “Even Sages need a Business Plan,” April 14, 2011.]*
-    title: '"Purpose comes before business"'
+      > *Ich habe das Gefühl, dass das Unternehmen Sounds True im Alter
+      von 21 oder 22 Jahren zu mir kam als Geschenk und eine Verbindung mit dem
+      Universum, bei der ich sagte: „Ich werde dir dienen. Ich werde hart
+      arbeiten\", und die Antwort war: „Du wirst unterstützt, dir werden Wege
+      gezeigt, Türen werden sich öffnen, du wirst Leute treffen, Gelegenheiten
+      werden sich ergeben.\" Es ist dieses Gefühl der kosmischen Vereinbarung,
+      dass ... ich helfen könnte, spirituelle Lehren aus verschiedenen
+      Weisheitstraditionen aus der ganzen Welt zu verbreiten. Und ich könnte es
+      mit Aufrichtigkeit und Hingabe tun. Das war von Beginn an meine
+      Perspektive. Es ging nie um mich selbst. Ich wollte ich selbst sein, ich
+      wollte authentisch sein, und ich wollte einen Beitrag leisten.^[Tami Simon
+      im Interview mit Diederick Janse und Ewan Townhead, Podcast-Serie „Waking
+      up the Workplace\", Folge „Even Sages need a Business Plan\", 14. April
+      2011].*\r
+
+      \r"
+    title: „Sinn kommt vor dem Geschäft."
 ---
