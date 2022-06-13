@@ -1,44 +1,77 @@
 ---
+locale: x
 layout: case
-date: 2020-11-09
 tags: cases
-name: W.L.Gore
-introduction: Industrial conglomerate - Global - 10.000 associates - For Profit
+name: W.L. Gore
+date: 2020-11-09
+introduction: Industriekonglomerat - Global - 10.000 Mitarbeitende - gewinnorientiert
 industry: C. Manufacturing
 geography: Global
 companySize: "> 500"
 profit: Profit
 theory:
   - topic: Compensation and incentives
-    title: Gore uses a ranking system, calibrated by two panels, to decide on
-      salaries.
-    content: >-
-      ##### ***Contribution process***
+    title: W.L. Gore verwendet zur Gehaltsfindung ein Ranking-System, das von zwei
+      Gremien kalibriert wird.
+    content: "##### ***Leistungsbeurteilung***
 
 
-      Once a year, within each team (typically groups of 10 people in roughly the same function), everyone ranks the others from 1 to 9 (contrary to Holacracy, you don’t rank yourself in the list) based on their past and expected future contribution. The process has been automated, and on the forms, people can add a comment next to every person, and additionally assess if they are a “high culture fit" or "low culture fit”.
+      Einmal im Jahr stuft jeder Mitarbeitende in jedem Team
+      (typischerweise Gruppen von 10 Personen in ähnlichen Funktionen) die
+      anderen auf der Basis ihrer erbrachten und zu erwartenden Leistung in eine
+      Rangfolge von 1 bis 9 ein. (Im Gegensatz zu Holacracy stuft man sich hier
+      selbst nicht ein). Der Prozess wurde automatisiert. Auf den Formularen
+      kann man zu jeder Person einen Kommentar hinzufügen und zusätzlich
+      bewerten, ob sie gut oder weniger gut zur Kultur passt.\r
 
 
-      A small committee (typically the leader, another leader, and HR) reviews the aggregate results in great detail, and in their discussion they can change the order. Say John ends up number 2 on the aggregate list, but that feels too high, and the committee member suspect that it's really a loyalty vote. They can decide to move John down to number 4.
+      Ein kleines Gremium (in der Regel die eigene und eine weitere
+      Führungskraft sowie die Personalabteilung) prüft die Gesamtergebnisse im
+      Detail und kann in Absprache die Reihenfolge ändern. Angenommen, John
+      landet auf Platz 2 der Gesamtliste. Die Ausschussmitglieder finden das zu
+      hoch und vermuten dahinter eine Loyalitätsabstimmung. Sie können dann
+      beschließen, John auf Platz 4 zu setzen.\r
 
 
-      When the committee is done, each sponsor shares feedback with their person. Never the exact place in the rank. But “at the top”, “middle” and “bottom”. (If one person is at the bottom for a while, discussion will happen: other role that fits better? Need for training? Or exit the company?)
+      Anschließend erhalten die Mitarbeitenden von ihren jeweiligen
+      Sponsoren ein Feedback, jedoch keine Angabe zum Listenplatz, sondern
+      Aussagen wie „oben\", „mittig\" oder „unten\". (Wenn eine Person längere
+      Zeit unten auf der Liste steht, wird diskutiert: Passt eine andere Rolle
+      besser? Besteht Weiterbildungsbedarf? Wäre ein Ausstieg aus dem
+      Unternehmen die Lösung?)\r
 
 
-      ##### ***Compensation process***
+      ##### ***Vergütungsprozess***
 
 
-      A compensation committee follows in the footsteps of the contribution committee. It will plot the salary curve of the 10 people that were ranked and see if the salaries are in line with the contribution. If needed, the committee will make the appropriate changes.
+      Im Anschluss an die Leistungsbeurteilung nimmt ein
+      Vergütungsausschuss seine Arbeit auf. Er erstellt die Gehaltskurve der 10
+      Personen auf der Rangliste und prüft, ob Leistung und Vergütung
+      zusammenpassen. Falls erforderlich, werden entsprechende Änderungen
+      vorgenommen.
 
 
-      ##### ***Transparency***
+      ##### ***Transparenz***
 
 
-      There is no transparency on salaries at Gore. If a person in the committee is being discussed, he or she will not see the data that pertains to him or her.
+      Es gibt bei W.L. Gore keine Gehaltstransparenz. Wenn über eine
+      Person im Ausschuss diskutiert wird, kann diese die sie betreffenden Daten
+      nicht einsehen.
 
 
-      ##### ***Incentives and profit sharing***
+      ##### ***Leistungsanreize und Gewinnbeteiligung***
 
 
-      At Gore, there are no incentives or bonuses. Everybody gets shares in the company as part of profit sharing. For example, someone making £50K in salary in the UK could make an additional £5K in shares. The profit sharing is proportional to the base salary (it is calculated based on this year's salary and the salary over the last 3 years in some formula). So if your unit loses lots of money or makes lots of it, it doesn’t change profit sharing, to reinforce the “all in the same boat” mantra. ^[<http://www.managementexchange.com/story/innovation-democracy-wl-gores-original-management-model> and personal interview Frederic Laloux with Gore leader, April 2015]
+      Bei W.L. Gore gibt es keine Anreize oder Boni. Jeder erhält im
+      Rahmen der Gewinnbeteiligung Unternehmensanteile. Zum Beispiel könnte
+      jemand, der im Vereinigten Königreich 50.000 £ verdient, zusätzlich 5.000
+      £ in Aktien erhalten. Die Gewinnbeteiligung steht proportional zum
+      Grundgehalt. (Sie wird auf Basis des aktuellen Jahresgehalts und des
+      Gehalts der letzten drei Jahre nach einer bestimmten Formel berechnet.)
+      Wenn ein Geschäftsbereich also viel Geld verdient oder verliert, ändert
+      das nichts an der Gewinnbeteiligung – ganz im Sinne des Mantras „alle
+      sitzen im selben
+      Boot\".^[<http://www.managementexchange.com/story/innovation-democracy-wl\
+      -gores-original-management-model> und persönliches Interview durch
+      Frederic Laloux mit dem Leiter von W.L. Gore im April 2015]"
 ---
