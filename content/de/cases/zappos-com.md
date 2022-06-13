@@ -1,53 +1,54 @@
 ---
+locale: x
 layout: case
-date: 2020-11-09
 tags: cases
 name: Zappos.com
-introduction: Zappos.com is famous for its outstanding culture, offers its new
-  hires a $3,000 check if they have second thoughts and choose to quit during
-  the four- week orientation.
+date: 2020-11-09
+introduction: Zappos.com ist bekannt für seine besondere Unternehmenskultur. Man
+  zahlt neuen Mitarbeitenden 3.000 Dollar, wenn sie es sich anders überlegen und
+  während der vierwöchigen Einarbeitungszeit kündigen.
 industry: G. Wholesale and retail trade; repair of motor vehicles and motorcycles
 geography: USA
 companySize: "> 500"
 profit: Profit
 theory:
   - topic: Culture and Values
-    title: Zappos.com is famous for its outstanding culture, offers its new hires a
-      $3,000 check if they have second thoughts and choose to quit during the
-      four- week orientation.
-    content: Zappos.com is famous for its Green cultural practices described in the
-      bestseller Delivering Happiness , written by CEO Tony Hsieh. Zappos
-      culture is based on trust, love and respect. With values of "being open
-      and honest, passionate and humble, fun and a little weird", as mentioned
-      by Kevin Rose, founder of Digg.com. The idea of offering $3000 for people
-      that want to leave during onboarding phase is that everyone will be better
-      off not staying in a marriage that isn’t meant to be. The fit with the
-      culture must be perfect, and motivation at Zappos must not come from
-      money. It’s a tribute to Zappos’ outstanding culture that the percentage
-      of people taking the money and leaving is only around one or two percent.
-      Whenever the percentage of people taking the check draws too close to
-      zero, Zappos increases the amount (it started with $100, then raised it to
-      $200, and raised it again and again up to its current level). The
-      practice, in essence, boils down to a real- life barometer of the health
-      of the organization’s culture. The 1,500- employee company is currently
-      making the leap to Holacracy, which will make it the largest holacratic
-      organization to date.
+    title: Zappos.com ist bekannt für seine besondere Unternehmenskultur. Man zahlt
+      neuen Mitarbeitenden 3.000 Dollar, wenn sie es sich anders überlegen und
+      während der vierwöchigen Einarbeitungszeit kündigen.
+    content: Zappos.com ist bekannt für seine „grüne“ Organisationskultur, die im
+      Bestseller Delivering Happiness von CEO Tony Hsieh beschrieben wird. Diese
+      Kultur basiert auf Vertrauen, Liebe und Respekt. Mit Werten wie „offen und
+      ehrlich, leidenschaftlich und bescheiden, lustig und ein bisschen
+      verrückt", wie Kevin Rose, der Gründer von Digg.com, sagt. Menschen, die
+      das Unternehmen während der Einarbeitungszeit wieder verlassen wollen,
+      3.000 Dollar anzubieten, bedeutet vom Grundsatz her, dass es für alle
+      besser ist, nicht in einer unglücklichen Ehe zu bleiben. Die kulturelle
+      Passung muss perfekt, und die Motivation sollte nicht monetär getrieben
+      sein. Es ist der herausragenden Kultur von Zappos zuzuschreiben, dass nur
+      etwa ein oder zwei Prozent der neuen Mitarbeitenden das Geld annehmen und
+      gehen. Wenn sich dieser Prozentsatz gegen Null bewegt, erhöht Zappos den
+      Betrag. (Man begann mit 100 Dollar, erhöhte auf 200 Dollar und immer
+      weiter bis zum aktuellen Stand.) Dieses Verfahren ist im Grunde genommen
+      ein Kulturbarometer. Das Unternehmen mit 1.500 Mitarbeitenden entwickelt
+      sich derzeit in Richtung Holacracy und wird so zur bisher größten
+      holakratischen Organisation.
   - topic: Recruitment
-    title: Offers its new hires a $3,000 check if they have second thoughts and
-      choose to quit during the four-week orientation.
-    content: >-
-      The idea is that everyone will be better off not staying in a marriage
-      that isn’t meant to be. Three thousand dollars is a lot of money for
-      people working in call centers or moving boxes in fulfillment centers,
-      which is what most Zappos.com employees do. It’s a tribute to
-      [Zappos](https://www.zappos.com/)’ outstanding culture that the percentage
-      of people taking the money and leaving is only around one or two percent.
-      Whenever the percentage of people taking the check draws too close to
-      zero, Zappos increases the amount (it started with $100, then raised it to
-      $200, and raised it again and again up to its current level). The
-      practice, in essence, boils down to a real-life barometer of the health of
-      the organization’s culture.
+    title: Zappos.com bietet neuen Mitarbeitenden 3.000 Dollar, wenn sie es sich
+      anders überlegen und während der vierwöchigen Einarbeitungszeit kündigen.
+    content: "Das bedeutet vom Grundsatz her, dass es für alle besser ist, nicht in
+      einer unglücklichen Ehe zu bleiben. Das ist viel Geld für Leute, die in
+      Call Centern arbeiten oder Kisten schleppen – wie die meisten
+      Mitarbeitenden bei Zappos. Es ist der herausragenden Kultur von
+      [Zappos](https://www.zappos.com/) zuzuschreiben, dass nur etwa ein oder
+      zwei Prozent der neuen Mitarbeitenden das Geld annehmen und gehen. Wenn
+      sich dieser Prozentsatz gegen Null bewegt, erhöht Zappos den Betrag. (Man
+      begann mit 100 Dollar, erhöhte auf 200 Dollar und immer weiter bis zum
+      aktuellen Stand.)\r
 
 
-      Zappos.com is famous for its Green cultural practices described in the bestseller Delivering Happiness, written by CEO Tony Hsieh. The 1,500-employee company is currently making the leap to Holacracy.
+      Zappos.com ist bekannt für seine „grüne“ Organisationskultur, die im
+      Bestseller Delivering Happiness von CEO Tony Hsieh beschrieben werden. Das
+      Unternehmen mit seinen 1.500 Mitarbeitenden entwickelt sich derzeit in
+      Richtung Holacracy."
 ---
