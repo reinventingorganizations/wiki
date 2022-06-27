@@ -1,4 +1,5 @@
 ---
+locale: X
 layout: article
 tags: theory
 key: Job Titles and Job Descriptions
@@ -225,6 +226,7 @@ faq:
       Aufgaben weit verteilt statt konzentriert sind, kann man behaupten, dass
       in selbstorganisierten Unternehmen trotz oder gerade wegen des Fehlens von
       Vollzeitmanagern zu jeder Zeit mehr Management und Führung stattfindet.
+    locale: X
 relatedTheory:
   - Organizational Structure
   - Recruitment
