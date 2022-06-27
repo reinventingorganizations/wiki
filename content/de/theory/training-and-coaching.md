@@ -1,4 +1,5 @@
 ---
+locale: Training and Coaching
 layout: article
 tags: theory
 key: Training and Coaching
@@ -139,169 +140,74 @@ perspective: "#### Eine neue Sichtweise
   lernen und zugleich die alten zu verlernen.\r
 
   \n"
-inPractice: "##### ***Aus- und Weiterbildung***
+inPractice: >-
+  ##### ***Aus- und Weiterbildung***
 
 
-  \r
-
-  In einer Teal-Organisation gibt es keine Karriereentwicklungsprogramme.
-  Stattdessen konzentriert sich die Fortbildung auf die persönliche Entwicklung
-  und den Aufbau einer gemeinsamen Kultur. Weiterbildungsprogramme werden jedoch
-  nach wie vor benötigt und stehen allen bei Bedarf zur Verfügung. Sie werden
-  oft von Kolleginnen und nicht von externen Trainern geleitet, weil die
-  Weiterbildung dann [die Werte und die Kultur] (../culture-and-values/) des
-  Unternehmens tief durchdringt.\r
-
+  In einer Teal-Organisation gibt es keine Karriereentwicklungsprogramme. Stattdessen konzentriert sich die Fortbildung auf die persönliche Entwicklung und den Aufbau einer gemeinsamen Kultur. Weiterbildungsprogramme werden jedoch nach wie vor benötigt und stehen allen bei Bedarf zur Verfügung. Sie werden oft von Kolleginnen und nicht von externen Trainern geleitet, weil die Weiterbildung dann [die Werte und die Kultur](../culture-and-values/) des Unternehmens tief durchdringt.
 
 
   ##### ***Eigenverantwortung und Freiheit***
 
 
-  \r
-
-  Der größte Unterschied besteht darin, dass die Mitarbeitenden für ihr
-  eigenes Lernen verantwortlich sind. Sie entscheiden sich für eine
-  Weiterbildung, die ihrem persönlichen Wachstum dient und nicht der
-  Karriereentwicklung. Unter der Voraussetzung, dass die Mitarbeitenden sich
-  beraten lassen, können sie in der Regel jede benötigte Schulung selbst
-  organisieren. Einige Unternehmen haben dies vereinfacht, indem sie ihren
-  Mitarbeitenden gestatten, einen bestimmten Maximal-Betrag für Fortbildung
-  auszugeben, ohne den Beratungsprozess zu durchlaufen.\r
-
+  Der größte Unterschied besteht darin, dass die Mitarbeitenden für ihr eigenes Lernen verantwortlich sind. Sie entscheiden sich für eine Weiterbildung, die ihrem persönlichen Wachstum dient und nicht der Karriereentwicklung. Unter der Voraussetzung, dass die Mitarbeitenden sich beraten lassen, können sie in der Regel jede benötigte Schulung selbst organisieren. Einige Unternehmen haben dies vereinfacht, indem sie ihren Mitarbeitenden gestatten, einen bestimmten Maximal-Betrag für Fortbildung auszugeben, ohne den Beratungsprozess zu durchlaufen.
 
 
   ##### ***Unterschiedliche Kategorien der Fortbildung***
 
 
-  \r
-
-  In selbstgesteuerten Organisationen gibt es keine Schulungsprogramme für den
-  Aufstieg auf der Karriereleiter. Sie bieten jedoch Schulungen an, die in
-  traditionellen Organisationen selten zu finden sind: Schulungen zur Kultur und
-  kulturellen Prozessen (an denen alle teilnehmen) und Schulungen zur
-  persönlichen Entwicklung. Weiterbildungsprogramme gibt es nach wie vor bei
-  Bedarf. Diese werden oft von Kollegen und nicht von externen Trainern
-  geleitet, d.h. von Menschen, die die Werte und Kultur des Unternehmens
-  wirklich verstehen.\r
-
+  In selbstführenden Organisationen gibt es keine Schulungsprogramme für den Aufstieg auf der Karriereleiter. Sie bieten jedoch Schulungen an, die in traditionellen Organisationen selten zu finden sind: Schulungen zur Kultur und kulturellen Prozessen (an denen alle teilnehmen) und Schulungen zur persönlichen Entwicklung. Weiterbildungsprogramme gibt es nach wie vor bei Bedarf. Diese werden oft von Kollegen und nicht von externen Trainern geleitet, d.h. von Menschen, die die Werte und Kultur des Unternehmens wirklich verstehen.
 
 
   ##### ***Einarbeitung und Integration***
 
 
-  \r
-
-  Wenn jemand in eine Teal-Organisation eintritt, kann es eine Weile dauern,
-  bis er die spezifische Kultur und die unterstützenden Prozesse versteht. Aus
-  diesem Grunde investieren Teal-Organisationen in der Regel viel Zeit und
-  Energie in Einführungsveranstaltungen. Neue Mitarbeitende lernen die
-  verschiedenen Prozesse kennen und erhalten ausreichend Zeit, um mit
-  unterschiedlichen Menschen innerhalb des Unternehmens zu sprechen und zu
-  arbeiten. Sie werden möglicherweise auch in Themen wie aktives Zuhören,
-  Konfliktmanagement und Problemlösung geschult.\r
-
+  Wenn jemand in eine Teal-Organisation eintritt, kann es eine Weile dauern, bis er die spezifische Kultur und die unterstützenden Prozesse versteht. Aus diesem Grunde investieren Teal-Organisationen in der Regel viel Zeit und Energie in Einführungsveranstaltungen. Neue Mitarbeitende lernen die verschiedenen Prozesse kennen und erhalten ausreichend Zeit, um mit unterschiedlichen Menschen innerhalb des Unternehmens zu sprechen und zu arbeiten. Sie werden möglicherweise auch in Themen wie aktives Zuhören, Konfliktmanagement und Problemlösung geschult.
 
 
   ##### ***Fortgesetzte Schulungen für alle***
 
 
-  \r
-
-  Weiterbildung ist ein kontinuierlicher Prozess für alle Mitarbeitenden der
-  Organisation. Dies geschieht in der Regel durch einen Beratungsprozess und
-  Zeitinvestment in die Unterstützung der Unternehmenskultur.\r
+  Weiterbildung ist ein kontinuierlicher Prozess für alle Mitarbeitenden der Organisation. Dies geschieht in der Regel durch einen Beratungsprozess und Zeitinvestment in die Unterstützung der Unternehmenskultur.
 
 
-  Der Beratungsprozess ermöglicht es den Mitarbeitenden, mit verschiedenen
-  Personen zu sprechen und deren Rat einzuholen. Mit diesen wären sie in einer
-  konventionellen Organisation wahrscheinlich nie in Kontakt gekommen. Folglich
-  erfährt man vieles mehr aus einem breiten Spektrum an Themen. Die
-  Rollenvielfalt der Mitarbeitenden unterstützt diesen Prozess.\r
+  Der Beratungsprozess ermöglicht es den Mitarbeitenden, mit verschiedenen Personen zu sprechen und deren Rat einzuholen. Mit diesen wären sie in einer konventionellen Organisation wahrscheinlich nie in Kontakt gekommen. Folglich erfährt man vieles mehr aus einem breiten Spektrum an Themen. Die Rollenvielfalt der Mitarbeitenden unterstützt diesen Prozess.
 
 
-  Teal-Organisationen organisieren auch regelmäßig Veranstaltungen, um den
-  Aufbau und die Entwicklung der Kultur zu fördern. Dazu gehören solche, in
-  denen die Mitarbeitenden mit Unterstützung der Gruppe an ihrer eigenen
-  Entwicklung arbeiten können, oder auch Workshops, die sich mit dem Sinn und
-  Zweck der Organisation befassen. Bei [FAVI] (http://www.favi.com/) hielt
-  Jean-François Zobrist jeden Freitagmorgen eine Sitzung für alle ab, in der man
-  sich mit einem bestimmten kulturellen Thema befasste.\r
-
+  Teal-Organisationen organisieren auch regelmäßig Veranstaltungen, um den Aufbau und die Entwicklung der Kultur zu fördern. Dazu gehören solche, in denen die Mitarbeitenden mit Unterstützung der Gruppe an ihrer eigenen Entwicklung arbeiten können, oder auch Workshops, die sich mit dem Sinn und Zweck der Organisation befassen. Bei [FAVI](http://www.favi.com/) hielt Jean-François Zobrist jeden Freitagmorgen eine Sitzung für alle ab, in der man sich mit einem bestimmten kulturellen Thema befasste.
 
 
   ##### ***Mitarbeitende als Ausbildende***
 
 
-  \r
-
-  Es ist gängige Praxis, den Einsatz externer Trainer zu vermeiden (oder zu
-  reduzieren). Schulungen werden von Kolleginnen durchgeführt, die sich für ein
-  Thema begeistern und das Material auf die Sprache und Kultur des Unternehmens
-  abstimmen. Es ist nicht ungewöhnlich, dass Schulungen „von innen nach außen“
-  funktionieren. Sie starten beispielsweise damit, den Teilnehmenden dabei zu
-  helfen zu erkennen, wer sie selbst sind und dies auf authentische Weise
-  auszudrücken, während sie das Thema diskutieren. Es könnte für einen
-  Außenstehenden schwierig sein, eine solche Diskussion zu leiten. Der Einsatz
-  von Mitarbeitenden als Ausbildende spart Geld und stärkt die Moral, denn er
-  bietet diesen die Möglichkeit, Fachwissen weiterzugeben und Anerkennung zu
-  erlangen.\r
-
+  Es ist gängige Praxis, den Einsatz externer Trainer zu vermeiden (oder zu reduzieren). Schulungen werden von Kolleginnen durchgeführt, die sich für ein Thema begeistern und das Material auf die Sprache und Kultur des Unternehmens abstimmen. Es ist nicht ungewöhnlich, dass Schulungen „von innen nach außen“ funktionieren. Sie starten beispielsweise damit, den Teilnehmenden dabei zu helfen zu erkennen, wer sie selbst sind und dies auf authentische Weise auszudrücken, während sie das Thema diskutieren. Es könnte für einen Außenstehenden schwierig sein, eine solche Diskussion zu leiten. Der Einsatz von Mitarbeitenden als Ausbildende spart Geld und stärkt die Moral, denn er bietet diesen die Möglichkeit, Fachwissen weiterzugeben und Anerkennung zu erlangen.
 
 
   #### **Coaching**
 
 
-  Coaching-Methoden sind in der Regel in der Organisation verankert und für
-  alle zugänglich. Coaching findet in verschiedenen Formaten statt:
+  Coaching-Methoden sind in der Regel in der Organisation verankert und für alle zugänglich. Coaching findet in verschiedenen Formaten statt:
 
 
   ##### ***Team-Supervision***
 
 
-  \r
-
-  Die Arbeit in Teams bringt immer wieder Spannungen mit sich, die entweder
-  ignoriert oder aufgearbeitet werden können. Ein effektiver Umgang mit den
-  persönlichen und zugrundeliegenden Problemen ist immer eine Quelle für
-  signifikantes Wachstum, das durch Coaching unterstützt werden kann.\r
+  Die Arbeit in Teams bringt immer wieder Spannungen mit sich, die entweder ignoriert oder aufgearbeitet werden können. Ein effektiver Umgang mit den persönlichen und zugrundeliegenden Problemen ist immer eine Quelle für signifikantes Wachstum, das durch Coaching unterstützt werden kann.
 
 
-  [Heiligenfeld] (http://www.heiligenfeld.com/) hat eine einfache
-  Coaching-Praxis in der Teambetreuung. Das Unternehmen arbeitet mit vier
-  externen Coaches zusammen, die jeweils ein spezifisches Fachgebiet haben
-  (Beziehungen, Organisationsentwicklung, systemisches Denken und Führung).
-  Jeden Monat gibt es Termine mit diesen Coaches, zu denen sich die Teams
-  anmelden können. Für jedes Team wird mindestens eine Sitzung pro Jahr
-  empfohlen. Der Durchschnitt liegt bei zwei bis vier Veranstaltungen. Mit Hilfe
-  des Blicks von außen erkunden die Kolleginnen, was eine Spannung über sie
-  selbst verrät und wie sie sie lösen können.\r
+  [Heiligenfeld](http://www.heiligenfeld.com/) hat eine einfache Coaching-Praxis in der Teambetreuung. Das Unternehmen arbeitet mit vier externen Coaches zusammen, die jeweils ein spezifisches Fachgebiet haben (Beziehungen, Organisationsentwicklung, systemisches Denken und Führung). Jeden Monat gibt es Termine mit diesen Coaches, zu denen sich die Teams anmelden können. Für jedes Team wird mindestens eine Sitzung pro Jahr empfohlen. Der Durchschnitt liegt bei zwei bis vier Veranstaltungen. Mit Hilfe des Blicks von außen erkunden die Kolleginnen, was eine Spannung über sie selbst verrät und wie sie sie lösen können.
 
 
   ##### ***Peer-Coaching***
 
 
-  \r
-
-  Peer-Coaching ist eine Möglichkeit, die Teamstärke auf individueller Basis
-  zu nutzen. Buutzorg zum Beispiel hat einen Peer-Coaching-Prozess namens
-  \"Intervesie\". Dabei handelt es sich um einen strukturierten Prozess, der
-  einer Person dabei hilft, eine Frage oder ein Problem mit Unterstützung des
-  Teams anzugehen und zu lösen. Statt automatisch Ratschläge zu erteilen oder zu
-  beruhigen, ermöglicht der Prozess dem Individuum, selbst eine Lösung zu
-  finden. Der Prozess führt oft zu signifikantem Wachstum, da persönliche
-  Probleme erkannt und in einem geschützten Raum bearbeitet werden können.\r
+  Peer-Coaching ist eine Möglichkeit, die Teamstärke auf individueller Basis zu nutzen. Buutzorg zum Beispiel hat einen Peer-Coaching-Prozess namens "Intervesie". Dabei handelt es sich um einen strukturierten Prozess, der einer Person dabei hilft, eine Frage oder ein Problem mit Unterstützung des Teams anzugehen und zu lösen. Statt automatisch Ratschläge zu erteilen oder zu beruhigen, ermöglicht der Prozess dem Individuum, selbst eine Lösung zu finden. Der Prozess führt oft zu signifikantem Wachstum, da persönliche Probleme erkannt und in einem geschützten Raum bearbeitet werden können.
 
 
   ##### ***Individuelles Coaching***
 
 
-  \r
-
-  Einige Organisationen bieten allen ihren Mitgliedern ein kostenloses und
-  vertrauliches Einzelcoaching oder eine Einzelberatung an, und zwar sowohl für
-  die Mitarbeitenden selbst als auch für deren Familien bei Problemen außerhalb
-  des beruflichen Kontextes. Durch die Unterstützung bei allen Aspekten des
-  Lebens wird das Prinzip der Ganzheitlichkeit gestärkt.\r\n"
+  Einige Organisationen bieten allen ihren Mitgliedern ein kostenloses und vertrauliches Einzelcoaching oder eine Einzelberatung an, und zwar sowohl für die Mitarbeitenden selbst als auch für deren Familien bei Problemen außerhalb des beruflichen Kontextes. Durch die Unterstützung bei allen Aspekten des Lebens wird das Prinzip der Ganzheitlichkeit gestärkt.
 faq:
   - question: Wie kann eine Mitarbeiterin die richtigen Entscheidungen bezüglich
       ihrer Weiterbildung treffen, wenn sie nicht weiß, was sie nicht weiß?
@@ -314,6 +220,7 @@ faq:
       Personalabteilung, was und wie sie lernen soll. Schön, wenn diese
       Entscheidungen sinnvoll sind. Wenn nicht, dann sind Geld und Zeit
       verschwendet."
+    locale: Training and Coaching
 relatedTheory:
   - Onboarding
   - Culture and Values
