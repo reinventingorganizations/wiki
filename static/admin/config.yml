@@ -34,7 +34,7 @@ collections:
     identifier_field: name
     slug: "{{key}}"
     fields:
-      - { label: "Locale", name: "locale", default: "en"}
+      - { label: "Locale", name: "locale", default: "en", widget: "hidden" }
       - {
           label: "Layout",
           name: "layout",
@@ -70,9 +70,9 @@ collections:
         name: "faq"
         widget: "list"
         fields:
-          - { label: "Locale", name: "locale", default: "en"}
           - { label: Question, name: question, widget: string }
           - { label: Answer, name: answer, widget: markdown, minimal: true }
+          - { label: "Locale", name: "locale", default: "en", widget: "hidden"}
       - label: "Related Theory"
         name: "relatedTheory"
         widget: "relation"
@@ -89,7 +89,7 @@ collections:
     create: false
     identifier_field: name
     fields:
-      - { label: "Locale", name: "locale", default: "en"}
+      - { label: "Locale", name: "locale", default: "en", widget: "hidden"}
       - {
           label: "Tags",
           name: "tags",
@@ -108,7 +108,7 @@ collections:
     create: true
     identifier_field: name
     fields:
-      - { label: "Locale", name: "locale", default: "en"}
+      - { label: "Locale", name: "locale", default: "en", widget: "hidden"}
       - { label: "Layout", name: "layout", widget: "hidden", default: "case" }
       - {
           label: "Tags",
@@ -193,7 +193,7 @@ collections:
     identifier_field: name
     slug: "{{name}}"
     fields:
-      - { label: "Locale", name: "locale", default: "en"}
+      - { label: "Locale", name: "locale", default: "en", widget: "hidden"}
       - {
           label: "Layout",
           name: "layout",
@@ -209,7 +209,7 @@ collections:
         name: "texts"
         file: "content/en/en.json"
         fields:
-          - { label: Locale, name: locale}
+          - { label: Locale, name: locale, widget: "hidden"}
           - { label: Reinventing Organizations Wiki, name: Reinventing_Organizations_Wiki}
           - { label: Main Navigation, name: mainNavigation}
           - { label: Background articles, name: backgroundArticles}
@@ -268,7 +268,7 @@ collections:
     identifier_field: name
     slug: "{{key}}"
     fields:
-      - { label: "Locale", name: "locale", default: "fr"}
+      - { label: "Locale", name: "locale", default: "fr", widget: "hidden"}
       - {
           label: "Layout",
           name: "layout",
@@ -304,9 +304,9 @@ collections:
         name: "faq"
         widget: "list"
         fields:
-          - { label: "Locale", name: "locale", default: "fr"}
           - { label: Question, name: question, widget: string }
           - { label: Answer, name: answer, widget: markdown, minimal: true }
+          - { label: "Locale", name: "locale", default: "fr", widget: "hidden"}
       - label: "Related Theory"
         name: "relatedTheory"
         widget: "relation"
@@ -323,7 +323,7 @@ collections:
     create: false
     identifier_field: name
     fields:
-      - { label: "Locale", name: "locale", default: "fr"}
+      - { label: "Locale", name: "locale", default: "fr", widget: "hidden" }
       - {
           label: "Tags",
           name: "tags",
@@ -342,7 +342,7 @@ collections:
     create: true
     identifier_field: name
     fields:
-      - { label: "Locale", name: "locale", default: "fr"}
+      - { label: "Locale", name: "locale", default: "fr", widget: "hidden" }
       - { label: "Layout", name: "layout", widget: "hidden", default: "case" }
       - {
           label: "Tags",
@@ -427,7 +427,7 @@ collections:
     identifier_field: name
     slug: "{{name}}"
     fields:
-      - { label: "Locale", name: "locale", default: "fr"}
+      - { label: "Locale", name: "locale", default: "fr", widget: "hidden"}
       - {
           label: "Layout",
           name: "layout",
@@ -443,7 +443,7 @@ collections:
         name: "texts"
         file: "content/fr/fr.json"
         fields:
-          - { label: Locale, name: locale}
+          - { label: Locale, name: locale, widget: "hidden" }
           - { label: Reinventing Organizations Wiki, name: Reinventing_Organizations_Wiki}
           - { label: Main Navigation, name: mainNavigation}
           - { label: Background articles, name: backgroundArticles}
@@ -502,7 +502,7 @@ collections:
     identifier_field: name
     slug: "{{key}}"
     fields:
-      - { label: "Locale", name: "locale", default: "sp"}
+      - { label: "Locale", name: "locale", default: "sp", widget: "hidden"}
       - {
           label: "Layout",
           name: "layout",
@@ -538,9 +538,9 @@ collections:
         name: "faq"
         widget: "list"
         fields:
-          - { label: "Locale", name: "locale", default: "sp"}
           - { label: Question, name: question, widget: string }
           - { label: Answer, name: answer, widget: markdown, minimal: true }
+          - { label: "Locale", name: "locale", default: "sp", widget: "hidden"}
       - label: "Related Theory"
         name: "relatedTheory"
         widget: "relation"
@@ -557,7 +557,7 @@ collections:
     create: false
     identifier_field: name
     fields:
-      - { label: "Locale", name: "locale", default: "sp"}
+      - { label: "Locale", name: "locale", default: "sp", widget: "hidden" }
       - {
           label: "Tags",
           name: "tags",
@@ -576,7 +576,7 @@ collections:
     create: true
     identifier_field: name
     fields:
-      - { label: "Locale", name: "locale", default: "sp"}
+      - { label: "Locale", name: "locale", default: "sp", widget: "hidden" }
       - { label: "Layout", name: "layout", widget: "hidden", default: "case" }
       - {
           label: "Tags",
@@ -661,7 +661,7 @@ collections:
     identifier_field: name
     slug: "{{name}}"
     fields:
-      - { label: "Locale", name: "locale", default: "sp"}
+      - { label: "Locale", name: "locale", default: "sp", widget: "hidden" }
       - {
           label: "Layout",
           name: "layout",
@@ -677,7 +677,7 @@ collections:
         name: "texts"
         file: "content/sp/sp.json"
         fields:
-          - { label: Locale, name: locale}
+          - { label: Locale, name: locale, widget: "hidden" }
           - { label: Reinventing Organizations Wiki, name: Reinventing_Organizations_Wiki}
           - { label: Main Navigation, name: mainNavigation}
           - { label: Background articles, name: backgroundArticles}
@@ -736,7 +736,7 @@ collections:
     identifier_field: name
     slug: "{{key}}"
     fields:
-      - { label: "Locale", name: "locale", default: "de"}
+      - { label: "Locale", name: "locale", default: "de", widget: "hidden" }
       - {
           label: "Layout",
           name: "layout",
@@ -772,9 +772,9 @@ collections:
         name: "faq"
         widget: "list"
         fields:
-          - { label: "Locale", name: "locale", default: "de"}
           - { label: Question, name: question, widget: string }
           - { label: Answer, name: answer, widget: markdown, minimal: true }
+          - { label: "Locale", name: "locale", default: "de", widget: "hidden"}
       - label: "Related Theory"
         name: "relatedTheory"
         widget: "relation"
@@ -791,7 +791,7 @@ collections:
     create: false
     identifier_field: name
     fields:
-      - { label: "Locale", name: "locale", default: "de"}
+      - { label: "Locale", name: "locale", default: "de", widget: "hidden" }
       - {
           label: "Tags",
           name: "tags",
@@ -810,7 +810,7 @@ collections:
     create: true
     identifier_field: name
     fields:
-      - { label: "Locale", name: "locale", default: "de"}
+      - { label: "Locale", name: "locale", default: "de", widget: "hidden" }
       - { label: "Layout", name: "layout", widget: "hidden", default: "case" }
       - {
           label: "Tags",
@@ -895,7 +895,7 @@ collections:
     identifier_field: name
     slug: "{{name}}"
     fields:
-      - { label: "Locale", name: "locale", default: "de"}
+      - { label: "Locale", name: "locale", default: "de", widget: "hidden" }
       - {
           label: "Layout",
           name: "layout",
@@ -911,7 +911,7 @@ collections:
         name: "texts"
         file: "content/de/de.json"
         fields:
-          - { label: Locale, name: locale}
+          - { label: Locale, name: locale, widget: "hidden" }
           - { label: Reinventing Organizations Wiki, name: Reinventing_Organizations_Wiki}
           - { label: Main Navigation, name: mainNavigation}
           - { label: Background articles, name: backgroundArticles}
@@ -970,7 +970,7 @@ collections:
     identifier_field: name
     slug: "{{key}}"
     fields:
-      - { label: "Locale", name: "locale", default: "it"}
+      - { label: "Locale", name: "locale", default: "it", widget: "hidden" }
       - {
           label: "Layout",
           name: "layout",
@@ -1006,9 +1006,9 @@ collections:
         name: "faq"
         widget: "list"
         fields:
-          - { label: "Locale", name: "locale", default: "it"}
           - { label: Question, name: question, widget: string }
           - { label: Answer, name: answer, widget: markdown, minimal: true }
+          - { label: "Locale", name: "locale", default: "it", widget: "hidden"}
       - label: "Related Theory"
         name: "relatedTheory"
         widget: "relation"
@@ -1025,7 +1025,7 @@ collections:
     create: false
     identifier_field: name
     fields:
-      - { label: "Locale", name: "locale", default: "it"}
+      - { label: "Locale", name: "locale", default: "it", widget: "hidden" }
       - {
           label: "Tags",
           name: "tags",
@@ -1044,7 +1044,7 @@ collections:
     create: true
     identifier_field: name
     fields:
-      - { label: "Locale", name: "locale", default: "it"}
+      - { label: "Locale", name: "locale", default: "it", widget: "hidden" }
       - { label: "Layout", name: "layout", widget: "hidden", default: "case" }
       - {
           label: "Tags",
@@ -1129,7 +1129,7 @@ collections:
     identifier_field: name
     slug: "{{name}}"
     fields:
-      - { label: "Locale", name: "locale", default: "it"}
+      - { label: "Locale", name: "locale", default: "it", widget: "hidden" }
       - {
           label: "Layout",
           name: "layout",
@@ -1145,7 +1145,7 @@ collections:
         name: "texts"
         file: "content/it/it.json"
         fields:
-          - { label: Locale, name: locale}
+          - { label: Locale, name: locale, widget: "hidden" }
           - { label: Reinventing Organizations Wiki, name: Reinventing_Organizations_Wiki}
           - { label: Main Navigation, name: mainNavigation}
           - { label: Background articles, name: backgroundArticles}
@@ -1204,7 +1204,7 @@ collections:
     identifier_field: name
     slug: "{{key}}"
     fields:
-      - { label: "Locale", name: "locale", default: "br"}
+      - { label: "Locale", name: "locale", default: "br", widget: "hidden" }
       - {
           label: "Layout",
           name: "layout",
@@ -1240,9 +1240,9 @@ collections:
         name: "faq"
         widget: "list"
         fields:
-          - { label: "Locale", name: "locale", default: "br"}
           - { label: Question, name: question, widget: string }
           - { label: Answer, name: answer, widget: markdown, minimal: true }
+          - { label: "Locale", name: "locale", default: "br", widget: "hidden"}
       - label: "Related Theory"
         name: "relatedTheory"
         widget: "relation"
@@ -1259,7 +1259,7 @@ collections:
     create: false
     identifier_field: name
     fields:
-      - { label: "Locale", name: "locale", default: "br"}
+      - { label: "Locale", name: "locale", default: "br", widget: "hidden" }
       - {
           label: "Tags",
           name: "tags",
@@ -1278,7 +1278,7 @@ collections:
     create: true
     identifier_field: name
     fields:
-      - { label: "Locale", name: "locale", default: "br"}
+      - { label: "Locale", name: "locale", default: "br", widget: "hidden" }
       - { label: "Layout", name: "layout", widget: "hidden", default: "case" }
       - {
           label: "Tags",
@@ -1363,7 +1363,7 @@ collections:
     identifier_field: name
     slug: "{{name}}"
     fields:
-      - { label: "Locale", name: "locale", default: "br"}
+      - { label: "Locale", name: "locale", default: "br", widget: "hidden" }
       - {
           label: "Layout",
           name: "layout",
@@ -1379,7 +1379,7 @@ collections:
         name: "texts"
         file: "content/br/br.json"
         fields:
-          - { label: Locale, name: locale}
+          - { label: Locale, name: locale, widget: "hidden" }
           - { label: Reinventing Organizations Wiki, name: Reinventing_Organizations_Wiki}
           - { label: Main Navigation, name: mainNavigation}
           - { label: Background articles, name: backgroundArticles}
@@ -1438,7 +1438,7 @@ collections:
     identifier_field: name
     slug: "{{key}}"
     fields:
-      - { label: "Locale", name: "locale", default: "cn"}
+      - { label: "Locale", name: "locale", default: "cn", widget: "hidden" }
       - {
           label: "Layout",
           name: "layout",
@@ -1474,9 +1474,9 @@ collections:
         name: "faq"
         widget: "list"
         fields:
-          - { label: "Locale", name: "locale", default: "cn"}
           - { label: Question, name: question, widget: string }
           - { label: Answer, name: answer, widget: markdown, minimal: true }
+          - { label: "Locale", name: "locale", default: "cn", widget: "hidden"}
       - label: "Related Theory"
         name: "relatedTheory"
         widget: "relation"
@@ -1493,7 +1493,7 @@ collections:
     create: false
     identifier_field: name
     fields:
-      - { label: "Locale", name: "locale", default: "cn"}
+      - { label: "Locale", name: "locale", default: "cn", widget: "hidden" }
       - {
           label: "Tags",
           name: "tags",
@@ -1512,7 +1512,7 @@ collections:
     create: true
     identifier_field: name
     fields:
-      - { label: "Locale", name: "locale", default: "cn"}
+      - { label: "Locale", name: "locale", default: "cn", widget: "hidden" }
       - { label: "Layout", name: "layout", widget: "hidden", default: "case" }
       - {
           label: "Tags",
@@ -1597,7 +1597,7 @@ collections:
     identifier_field: name
     slug: "{{name}}"
     fields:
-      - { label: "Locale", name: "locale", default: "cn"}
+      - { label: "Locale", name: "locale", default: "cn", widget: "hidden" }
       - {
           label: "Layout",
           name: "layout",
@@ -1613,7 +1613,7 @@ collections:
         name: "texts"
         file: "content/cn/cn.json"
         fields:
-          - { label: Locale, name: locale}
+          - { label: Locale, name: locale, widget: "hidden" }
           - { label: Reinventing Organizations Wiki, name: Reinventing_Organizations_Wiki}
           - { label: Main Navigation, name: mainNavigation}
           - { label: Background articles, name: backgroundArticles}
@@ -1672,7 +1672,7 @@ collections:
     identifier_field: name
     slug: "{{key}}"
     fields:
-      - { label: "Locale", name: "locale", default: "pl"}
+      - { label: "Locale", name: "locale", default: "pl", widget: "hidden" }
       - {
           label: "Layout",
           name: "layout",
@@ -1708,9 +1708,9 @@ collections:
         name: "faq"
         widget: "list"
         fields:
-          - { label: "Locale", name: "locale", default: "pl"}
           - { label: Question, name: question, widget: string }
           - { label: Answer, name: answer, widget: markdown, minimal: true }
+          - { label: "Locale", name: "locale", default: "pl", widget: "hidden"}
       - label: "Related Theory"
         name: "relatedTheory"
         widget: "relation"
@@ -1727,7 +1727,7 @@ collections:
     create: false
     identifier_field: name
     fields:
-      - { label: "Locale", name: "locale", default: "pl"}
+      - { label: "Locale", name: "locale", default: "pl", widget: "hidden" }
       - {
           label: "Tags",
           name: "tags",
@@ -1746,7 +1746,7 @@ collections:
     create: true
     identifier_field: name
     fields:
-      - { label: "Locale", name: "locale", default: "cn"}
+      - { label: "Locale", name: "locale", default: "cn", widget: "hidden" }
       - { label: "Layout", name: "layout", widget: "hidden", default: "case" }
       - {
           label: "Tags",
@@ -1831,7 +1831,7 @@ collections:
     identifier_field: name
     slug: "{{name}}"
     fields:
-      - { label: "Locale", name: "locale", default: "pl"}
+      - { label: "Locale", name: "locale", default: "pl", widget: "hidden" }
       - {
           label: "Layout",
           name: "layout",
@@ -1847,7 +1847,7 @@ collections:
         name: "texs"
         file: "content/pl/pl.json"
         fields:
-          - { label: Locale, name: locale}
+          - { label: Locale, name: locale, widget: "hidden" }
           - { label: Reinventing Organizations Wiki, name: Reinventing_Organizations_Wiki}
           - { label: Main Navigation, name: mainNavigation}
           - { label: Background articles, name: backgroundArticles}
@@ -1906,7 +1906,7 @@ collections:
     identifier_field: name
     slug: "{{key}}"
     fields:
-      - { label: "Locale", name: "locale", default: "pt"}
+      - { label: "Locale", name: "locale", default: "pt", widget: "hidden" }
       - {
           label: "Layout",
           name: "layout",
@@ -1942,9 +1942,9 @@ collections:
         name: "faq"
         widget: "list"
         fields:
-          - { label: "Locale", name: "locale", default: "pt"}
           - { label: Question, name: question, widget: string }
           - { label: Answer, name: answer, widget: markdown, minimal: true }
+          - { label: "Locale", name: "locale", default: "pt", widget: "hidden"}
       - label: "Related Theory"
         name: "relatedTheory"
         widget: "relation"
@@ -1961,7 +1961,7 @@ collections:
     create: false
     identifier_field: name
     fields:
-      - { label: "Locale", name: "locale", default: "pt"}
+      - { label: "Locale", name: "locale", default: "pt", widget: "hidden" }
       - {
           label: "Tags",
           name: "tags",
@@ -1980,7 +1980,7 @@ collections:
     create: true
     identifier_field: name
     fields:
-      - { label: "Locale", name: "locale", default: "pt"}
+      - { label: "Locale", name: "locale", default: "pt", widget: "hidden" }
       - { label: "Layout", name: "layout", widget: "hidden", default: "case" }
       - {
           label: "Tags",
@@ -2065,7 +2065,7 @@ collections:
     identifier_field: name
     slug: "{{name}}"
     fields:
-      - { label: "Locale", name: "locale", default: "pt"}
+      - { label: "Locale", name: "locale", default: "pt", widget: "hidden" }
       - {
           label: "Layout",
           name: "layout",
@@ -2081,7 +2081,7 @@ collections:
         name: "texts"
         file: "content/pt/pt.json"
         fields:
-          - { label: Locale, name: locale}
+          - { label: Locale, name: locale, widget: "hidden" }
           - { label: Reinventing Organizations Wiki, name: Reinventing_Organizations_Wiki}
           - { label: Main Navigation, name: mainNavigation}
           - { label: Background articles, name: backgroundArticles}
@@ -2140,7 +2140,7 @@ collections:
     identifier_field: name
     slug: "{{key}}"
     fields:
-      - { label: "Locale", name: "locale", default: "rs"}
+      - { label: "Locale", name: "locale", default: "rs", widget: "hidden" }
       - {
           label: "Layout",
           name: "layout",
@@ -2176,9 +2176,9 @@ collections:
         name: "faq"
         widget: "list"
         fields:
-          - { label: "Locale", name: "locale", default: "rs"}
           - { label: Question, name: question, widget: string }
           - { label: Answer, name: answer, widget: markdown, minimal: true }
+          - { label: "Locale", name: "locale", default: "rs", widget: "hidden"}
       - label: "Related Theory"
         name: "relatedTheory"
         widget: "relation"
@@ -2195,7 +2195,7 @@ collections:
     create: false
     identifier_field: name
     fields:
-      - { label: "Locale", name: "locale", default: "rs"}
+      - { label: "Locale", name: "locale", default: "rs", widget: "hidden" }
       - {
           label: "Tags",
           name: "tags",
@@ -2214,7 +2214,7 @@ collections:
     create: true
     identifier_field: name
     fields:
-      - { label: "Locale", name: "locale", default: "rs"}
+      - { label: "Locale", name: "locale", default: "rs", widget: "hidden" }
       - { label: "Layout", name: "layout", widget: "hidden", default: "case" }
       - {
           label: "Tags",
@@ -2299,7 +2299,7 @@ collections:
     identifier_field: name
     slug: "{{name}}"
     fields:
-      - { label: "Locale", name: "locale", default: "rs"}
+      - { label: "Locale", name: "locale", default: "rs", widget: "hidden" }
       - {
           label: "Layout",
           name: "layout",
@@ -2315,7 +2315,7 @@ collections:
         name: "texts"
         file: "content/rs/rs.json"
         fields:
-          - { label: Locale, name: locale}
+          - { label: Locale, name: locale, widget: "hidden" }
           - { label: Reinventing Organizations Wiki, name: Reinventing_Organizations_Wiki}
           - { label: Main Navigation, name: mainNavigation}
           - { label: Background articles, name: backgroundArticles}
@@ -2374,7 +2374,7 @@ collections:
     identifier_field: name
     slug: "{{key}}"
     fields:
-      - { label: "Locale", name: "locale", default: "ru"}
+      - { label: "Locale", name: "locale", default: "ru", widget: "hidden" }
       - {
           label: "Layout",
           name: "layout",
@@ -2410,9 +2410,9 @@ collections:
         name: "faq"
         widget: "list"
         fields:
-          - { label: "Locale", name: "locale", default: "ru"}
           - { label: Question, name: question, widget: string }
           - { label: Answer, name: answer, widget: markdown, minimal: true }
+          - { label: "Locale", name: "locale", default: "ru", widget: "hidden"}
       - label: "Related Theory"
         name: "relatedTheory"
         widget: "relation"
@@ -2429,7 +2429,7 @@ collections:
     create: false
     identifier_field: name
     fields:
-      - { label: "Locale", name: "locale", default: "ru"}
+      - { label: "Locale", name: "locale", default: "ru", widget: "hidden" }
       - {
           label: "Tags",
           name: "tags",
@@ -2448,7 +2448,7 @@ collections:
     create: true
     identifier_field: name
     fields:
-      - { label: "Locale", name: "locale", default: "ru"}
+      - { label: "Locale", name: "locale", default: "ru", widget: "hidden" }
       - { label: "Layout", name: "layout", widget: "hidden", default: "case" }
       - {
           label: "Tags",
@@ -2533,7 +2533,7 @@ collections:
     identifier_field: name
     slug: "{{name}}"
     fields:
-      - { label: "Locale", name: "locale", default: "ru"}
+      - { label: "Locale", name: "locale", default: "ru", widget: "hidden" }
       - {
           label: "Layout",
           name: "layout",
@@ -2549,7 +2549,7 @@ collections:
         name: "texts"
         file: "content/ru/ru.json"
         fields:
-          - { label: Locale, name: locale}
+          - { label: Locale, name: locale, widget: "hidden" }
           - { label: Reinventing Organizations Wiki, name: Reinventing_Organizations_Wiki}
           - { label: Main Navigation, name: mainNavigation}
           - { label: Background articles, name: backgroundArticles}
@@ -2608,7 +2608,7 @@ collections:
     identifier_field: name
     slug: "{{key}}"
     fields:
-      - { label: "Locale", name: "locale", default: "tr"}
+      - { label: "Locale", name: "locale", default: "tr", widget: "hidden" }
       - {
           label: "Layout",
           name: "layout",
@@ -2644,9 +2644,9 @@ collections:
         name: "faq"
         widget: "list"
         fields:
-          - { label: "Locale", name: "locale", default: "ru"}
           - { label: Question, name: question, widget: string }
           - { label: Answer, name: answer, widget: markdown, minimal: true }
+          - { label: "Locale", name: "locale", default: "tr", widget: "hidden"}
       - label: "Related Theory"
         name: "relatedTheory"
         widget: "relation"
@@ -2663,7 +2663,7 @@ collections:
     create: false
     identifier_field: name
     fields:
-      - { label: "Locale", name: "locale", default: "tr"}
+      - { label: "Locale", name: "locale", default: "tr", widget: "hidden" }
       - {
           label: "Tags",
           name: "tags",
@@ -2682,7 +2682,7 @@ collections:
     create: true
     identifier_field: name
     fields:
-      - { label: "Locale", name: "locale", default: "ru"}
+      - { label: "Locale", name: "locale", default: "ru", widget: "hidden" }
       - { label: "Layout", name: "layout", widget: "hidden", default: "case" }
       - {
           label: "Tags",
@@ -2767,7 +2767,7 @@ collections:
     identifier_field: name
     slug: "{{name}}"
     fields:
-      - { label: "Locale", name: "locale", default: "ru"}
+      - { label: "Locale", name: "locale", default: "ru", widget: "hidden" }
       - {
           label: "Layout",
           name: "layout",
@@ -2783,7 +2783,7 @@ collections:
         name: "texts"
         file: "content/tr/tr.json"
         fields:
-          - { label: Locale, name: locale}
+          - { label: Locale, name: locale, widget: "hidden" }
           - { label: Reinventing Organizations Wiki, name: Reinventing_Organizations_Wiki}
           - { label: Main Navigation, name: mainNavigation}
           - { label: Background articles, name: backgroundArticles}
