@@ -2,116 +2,169 @@
 layout: article
 tags: theory
 key: Crisis Management
-name: Crisis Management
+name: Krisenmanagement
 sortOrder: 8
 category: Important Processes
-intro: >-
-  The topic of Crisis Management addresses the organizational process of making
-  swift or particularly challenging decisions at times of crisis, and how this
-  may differ from regular [decision making](../decision-making/) processes.
+intro: "Beim Thema Krisenmanagement geht es um den organisatorischen Ablauf
+  schneller oder besonders schwieriger Entscheidungen in Krisenzeiten im
+  Unterschied zu normalen [Entscheidungsprozessen](../decision-making/).\r
+
+  \r
 
 
-  ![](/media/crisis.jpg)
+
+  ![](/media/crisis.jpg)"
 perspective: >-
-  In a Teal organization, everyone is involved in decision making to allow the
-  best response to emerge from collective intelligence. 
-
-  Every historical stage has given birth to a distinct perspective on Crisis Management, and to very different practices:
-
-
-  #### Red Organizations
+  In einer Teal-Organisation sind alle an der Entscheidungsfindung beteiligt, so
+  dass die kollektive Intelligenz die bestmögliche Reaktion hervorbringen kann.
+  Jede historische Phase hat eine andere Perspektive auf das Krisenmanagement
+  und sehr unterschiedliche Praktiken entwickelt:
 
 
-  In the [Red paradigm](../red-organizations/), the organization's short term planning horizon and its reactive nature makes it familiar with crises. Decisions can be made on a whim and are passed down to employees from above by using the Red breakthrough of command authority.
+
+  #### Rote Organisationen
 
 
-  #### Amber Organizations
+  Im [roten Paradigma](../red-organizations/) ist die Organisation aufgrund ihres kurzfristigen Planungshorizonts und ihres reaktiven Charakters mit Krisen vertraut. Entscheidungen können aus einer Laune heraus getroffen und mit Befehlsgewalt bei den Mitarbeitenden durchgesetzt werden.
 
 
-  In the [Amber paradigm](../amber-paradigm-and-organizations/), the organization is more stable and predictable.  Processes and procedures define the way things are done. It is assumed that workers need direction.  In the unpredictable realm of crisis, the CEO and highest management make decisions which are then translated into orders for those further down the hierarchy. They are expected to follow without question.
+  #### Bernsteinfarbene Organisationen
 
 
-  #### Orange Organizations
+  Im [bernsteinfarbenen Paradigma](../amber-paradigm-and-organizations/) ist die Organisation stabiler und berechenbarer. Prozesse und Verfahrensweisen bestimmen die Art der Aufgabenerledigung. Es wird davon ausgegangen, dass Mitarbeitende Anleitung brauchen. Bei unberechenbaren Krisen treffen der CEO und die oberste Führungsebene Entscheidungen, aus denen Anordnungen für die Mitarbeitenden entlang der Hierarchie werden. Von ihnen wird erwartet, diese zu befolgen und nicht in Frage zu stellen.
 
 
-  In the [Orange paradigm](../orange-paradigm-and-organizations/), decision making is based on effectiveness, measured by impact on measures like profit and market share. Decision-making in Orange is based more on expertise than on hierarchy. In crisis a task force of select advisors might meet confidentially to advise the CEO and board. Top management will be under pressure to regain control and as a consequence decision making may be centralized in the hands of the senior executives . Decisions are typically communicated after they are made and then expected to be implemented swiftly.
+  #### Orange Organisationen
 
 
-  #### Green Organizations
+  Im [orangen Paradigma](../orange-paradigm-and-organizations/) basiert die Entscheidungsfindung auf Effektivität – gemessen an den Auswirkungen auf Kennzahlen wie Gewinn und Marktanteil – sowie eher auf Fachwissen als auf Hierarchie. In einer Krise kann ein Stab ausgewählter Consultants zu einer vertraulichen Besprechung zusammenkommen und den CEO und Vorstand beraten. Das Top-Management steht unter dem Druck, die Kontrolle wiederzuerlangen. Infolgedessen kann die Entscheidungsfindung bei leitenden Angestellten zentralisiert werden. Die einmal getroffenen Entscheidungen werden kommuniziert mit der Erwartung einer schnellen Umsetzung.
 
 
-  In values-driven, purpose-led [Green organizations](../green-paradigm-and-organizations/), decentralization and empowerment help to push day-to-day decision making down to frontline workers who can make them without management approval. For far-reaching decisions, consensus is valued, and sought, by senior management before they act. Crises challenge these practices. For highly contentious and time-sensitive decisions, it may be that the CEO steps in, suspends the consensus model, and makes a top down determination.
+  #### Grüne Organisationen
 
 
-  #### Teal Organizations
+  In wertegeleiteten, zweckorientierten [grünen Organisationen](../green-paradigm-and-organizations/) tragen Dezentralisierung und Befähigung dazu bei, dass alltägliche Entscheidungen von der Belegschaft an der Basis ohne Zustimmung des Managements getroffen werden können. Selbst bei weitreichenden Entscheidungen wird vor einer Handlung der Konsens seitens der Geschäftsleitung gesucht und geschätzt. In Krisen wird diese Vorgehensweise zur Herausforderung. Bei sehr umstrittenen und zeitkritischen Entscheidungen kann es sein, dass der CEO eingreift, das Konsensmodell außer Kraft setzt und selbst eine Entscheidung trifft.
 
 
-  In the Teal paradigm, everyone is involved in decision making to allow the best response to emerge from collective intelligence. If the advice process needs to be suspended, the scope and time of this suspension are limited.
-inPractice: >-
-  #### Upholding the advice process
+  #### Teal-Organisationen
 
 
-  The regular [decision making](../decision-making/) model adopted by Teal organizations is the advice process, which distributes decision-making. This remains the preferred approach to deal with crisis situations.
+  Im Teal-Paradigma ist jeder an der Entscheidungsfindung beteiligt, damit die kollektive Intelligenz für eine optimale Reaktion genutzt werden kann. Wenn der Beratungsprozess außer Kraft gesetzt werden muss, sind Umfang und Dauer dieser Unterbrechung begrenzt.
+inPractice: "#### Beibehaltung des Beratungsprozesses
 
 
-  ##### *Trusting the process*
+  Das reguläre Modell zur Entscheidungsfindung bei Teal-Organisationen ist der
+  [Beratungsprozess](../decision-making/) mit der verteilten
+  Entscheidungsfindung. Dies ist auch der bevorzugte Ansatz zur Bewältigung von
+  Krisensituationen.
 
 
-  Crisis Management via the advice process is an ultimate demonstration of \[Self-Management Self Management]. In crises, sensitive and urgent decisions may have negative implications for employees and the organization as a whole: for example, loss of jobs, or selling off parts of the business.
+  ##### *Vertrauen in den Prozess*
 
 
-  It is natural, given the earlier organization models, to question the capacity of staff to be included in making decisions in such sensitive circumstances.
+  Krisenmanagement mittels Beratungsprozess ist die ultimative Demonstration
+  von Selbstmanagement. In Krisensituationen können heikle und dringende
+  Entscheidungen negative Auswirkungen auf Belegschaft und Organisation haben,
+  z.B. der Verlust von Arbeitsplätzen oder der Verkauf von Unternehmensteilen.
 
 
-  A leader of a Teal organization is challenged to trust in the advice process anyway. They risk the unknown reaction of the employees, and the potential for things to descend into chaos or adversarial exchanges. However, when the advice process is not used, there is a risk of losing the trust of the employees by doubting their ability to resolve the situation. When employees are fully engaged with the advice process in a crisis, they are asked to share responsibility for difficult decisions and trusted to make a contribution. This is empowering and helps the organization to grow.
+  Angesichts früherer Organisationsmodelle stellt sich natürlich die Frage, ob
+  die Mitarbeitenden in solch heiklen Situationen überhaupt in die
+  Entscheidungsfindung einbezogen werden können.
 
 
-  See [FAVI](http://www.favi.com/) and [Buurtzorg](http://www.buurtzorgnederland.com/) below.
+  Führungskräfte in Teal-Organisationen stehen jedoch vor der Herausforderung,
+  sich auf den Beratungsprozess verlassen zu müssen. Sie riskieren eine
+  unerwartete Mitarbeiterreaktion und die Möglichkeit, dass die Dinge im Chaos
+  oder in kontroversen Diskussionen enden. Wenn der Beratungsprozess jedoch
+  nicht genutzt wird, besteht die Gefahr, das Vertrauen der Belegschaft zu
+  verlieren durch Zweifel an ihrer Fähigkeit, die Situation lösen zu können.
+  Wenn Mitarbeitende in einer Krise voll und ganz in den Beratungsprozess
+  einbezogen werden, sind sie auch aufgefordert, die Verantwortung für
+  schwierige Entscheidungen mit zu übernehmen, und ihnen wird zugetraut, einen
+  Beitrag leisten zu können. Das stärkt das Selbstvertrauen und hilft der
+  Organisation zu wachsen.\ 
 
 
-  #### Suspending the advice process
+
+  Siehe unten: [FAVI](http://www.favi.com/) und
+  [Buurtzorg](http://www.buurtzorgnederland.com/)
 
 
-  Occasionally a crisis may require the advice process to be suspended because of the scale or urgency of the situation. Under these circumstances the leader may choose to suspend the advice process temporarily. This can be acceptable providing:
+  #### Suspendierung des Beratungsprozesses
 
 
-  * the reasons for the suspension are fully disclosed
-
-  * the limitations (time period, areas of decision making etc) are explained
-
-  * Decision making is passed to a capable person rather than the leader
-
-
-  See [AES](http://www.aes.com/) below.
+  Gelegentlich erfordert eine Krise aufgrund des Ausmaßes oder der
+  Dringlichkeit der Situation eine Suspendierung des Beratungsprozesses. Unter
+  diesen Umständen kann die Leitung beschließen, den Beratungsprozess
+  vorübergehend auszusetzen.
 
 
-  #### Self-management
+  Dies mag dann akzeptabel sein, wenn\r
+
+  * die Gründe für die Aussetzung vollständig offengelegt werden;\r
+
+  * die Einschränkungen (Zeitraum, Bereiche der Entscheidungsfindung usw.)
+  erläutert werden;\r
+
+  * die Entscheidungsbefugnis an eine fähige Person und nicht an die Leitung
+  übertragen wird.\r
 
 
-  Dealing with a crisis via the advice process is a key test of self management. Leaders are asked to suspend any desire to take charge and trust the workforce to deliver effective solutions. There is an underlying belief that employees are responsible, committed and capable.
+  Siehe unten: [AES](http://www.aes.com/)
 
 
-  #### Wholeness
+  #### Selbstmanagement
 
 
-  By upholding the advice process, even in crisis situations, leader(s) are forced to face a fear that losing control could imperil the organization, cause chaos, and risk the interests of stakeholders. Crisis situations provide an opportunity for leaders to demonstrate their wholeness by being transparent, potentially vulnerable and genuinely supportive of their colleagues' participation. Employees in turn are invited to take responsibility for their own feelings in situations that may have unwelcome outcomes.
+  Die Bewältigung einer Krise im Rahmen des Beratungsprozesses stellt das
+  Selbstmanagement auf die Probe. Die Führungskräfte müssen ihren Wunsch nach
+  Verantwortungsübernahme zurückstellen und darauf vertrauen, dass die
+  Belegschaft wirksame Lösungen liefert. Es herrscht die Überzeugung, dass die
+  Mitarbeitenden verantwortlich, engagiert und kompetent genug sind.
 
 
-  A crisis situation offers an opportunity for an organization to come together as a whole to find solutions. This often leads to more powerful solutions than those created by a leader or a group of advisors in isolation. When these situations are successfully addressed, the organization collectively experiences a growth into \[Wholeness wholeness].
+  #### Ganzheitlichkeit
 
 
-  #### Evolutionary purpose
+  Durch die Beibehaltung des Beratungsprozesses selbst in Krisensituationen
+  sind die Führungskräfte gezwungen, mit der Furcht zu leben, dass ein
+  Kontrollverlust die Organisation gefährden, Chaos verursachen und die
+  Interessen der Anspruchsgruppen aufs Spiel setzen könnte. Krisensituationen
+  ermöglichen Führungskräften, Ganzheitlichkeit zu demonstrieren, indem sie
+  transparent und möglicherweise verletzlich sind und die Beteiligung ihrer
+  Kollegen aufrichtig unterstützen. Die Mitarbeitenden wiederum sind
+  aufgefordert, Verantwortung für ihre eigenen Gefühle in Situationen zu
+  übernehmen, die unerwünschte Folgen haben könnten.\r
 
 
-  When employees are engaged in the advice process in a crisis, they are invited to understand what is unfolding and participate actively in the decisions that need to be taken. Deciding what to do asks everyone to re-connect with the purpose of the organization. Serving the needs of the evolutionary purpose becomes an important factor in deciding what to do. Without this reference point, decision making can easily be dominated by self interest and survival needs.
+  Krisensituationen bieten einer Organisation die Möglichkeit, gemeinsam nach
+  Lösungen zu suchen. Dies führt oft zu wirkungsvolleren Ergebnissen als von
+  einer Führungskraft oder einer Beratergruppe im stillen Kämmerlein
+  ausgearbeitete Lösungsansätze. Wenn eine Krise erfolgreich bewältigt wird,
+  erfährt die Organisation als Ganzes einen Wachstumsschub zu mehr
+  Ganzheitlichkeit.\r
+
+
+
+  #### Evolutionärer Zweck
+
+
+  Wenn Mitarbeitende in einer Krise in den Beratungsprozess einbezogen werden,
+  sind sie aufgefordert, die Vorgänge zu verstehen und sich aktiv an der
+  Entscheidungsfindung zu beteiligen. Entscheiden, was zu tun ist, erfordert
+  eine (erneute) Verbindung mit dem Zweck der Organisation. Die Erfüllung des
+  evolutionären Zwecks wird zu einem wichtigen Faktor bei der
+  Entscheidungsfindung. Ohne diesen Bezugspunkt wird diese leicht von
+  Eigeninteressen und -bedürfnissen dominiert."
 faq:
-  - question: No matter what is theoretically attractive, there must be occasions
-      when 'the buck stops here'?
-    answer: "'The buck stops here' is part of our inheritance of 'heroic
-      management'. Theoretically, it sounds unarguable. Perhaps the best answers
-      are what can happen in practice. Three examples of crisis management below
-      (Favi, Buurtzorg, AES) show how three Teal organizations have handled
-      crises constructively. "
+  - question: "Egal, was theoretisch wünschenswert ist: Hat nicht auch
+      Verantwortlichkeit ihre Grenzen?"
+    answer: Die Auffassung "Verantwortung liegt bei uns" ist ein Erbteil des
+      "heroischen Managements". Theoretisch klingt das unbestreitbar.
+      Möglicherweise kommen die besten Antworten aus der Praxis. Die Beispiele
+      für Krisenmanagement bei Favi, Buurtzorg und AES zeigen, wie diese
+      Teal-Organisationen konstruktiv mit Krisen umgegangen sind.
 relatedTheory:
   - Listening to Purpose
   - Self-Management
