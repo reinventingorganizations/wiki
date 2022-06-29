@@ -1,4 +1,5 @@
 ---
+locale: fr
 layout: content
 name: Translations
 ---
@@ -23,4 +24,18 @@ Veuillez [nous faire savoir](https://reinventingorganizationswiki.com/pages/how-
 ![](/media/flagfrance.png)      Français <https://reinventingorganizationswiki.com/fr>
 
 ![](/media/flagrussia.jpg)      Russe [https://reinventingorganizationswiki.com/ru](<https://reinventingorganizationswiki.com/ru>)
+
+![](/media/flagitalysmall.jpg)      Italien <https://reinventingorganizationswiki.com/it>
+
+![](/media/flagturkey.jpg)      Turc 
+<https://reinventingorganizationswiki.com/tr>
+
+![](/media/flaggermany.jpg)      Allemand
+<https://reinventingorganizationswiki.com/de>
+
+![](/media/flagbrazil.jpg) Portugais 
+<https://reinventingorganizationswiki.com/pt>
+
+![](/media/flagserbiamontenegro-petite.jpeg) Serbe
+<https://reinventingorganizationswiki.com/rs>
 
