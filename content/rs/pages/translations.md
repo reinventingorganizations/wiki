@@ -1,4 +1,5 @@
 ---
+locale: rs
 layout: content
 name: Translations
 ---
@@ -31,3 +32,6 @@ Please [let us know](how-can-you-contribute/) if you feel an impulse to start tr
 ![](/media/flaggermany.jpg)      German Wiki <https://reinventingorganizationswiki.com/de>
 
 ![](/media/flagbrazil.jpg) Portuguese Wiki <https://reinventingorganizationswiki.com/pt>
+
+![](/media/flagserbiamontenegro-petite.jpeg) Serbian Wiki
+<https://reinventingorganizationswiki.com/rs>
