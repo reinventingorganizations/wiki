@@ -1,4 +1,5 @@
 ---
+locale: tr
 layout: content
 name: Translations
 ---
@@ -26,3 +27,12 @@ Please [let us know](https://reinventingorganizationswiki.com/pages/how-can-you-
 ![](/media/flagrussia.jpg)      Russian Wiki <https://ru.reinventingorganizationswiki.com/>
 
 ![](/media/flagitalysmall.jpg)      Italian Wiki <https://it.reinventingorganizationswiki.com/>
+
+![](/media/flagturkey.jpg)      Turkish Wiki <https://reinventingorganizationswiki.com/tr>
+
+![](/media/flaggermany.jpg)      German Wiki <https://reinventingorganizationswiki.com/de>
+
+![](/media/flagbrazil.jpg) Portuguese Wiki <https://reinventingorganizationswiki.com/pt>
+
+![](/media/flagserbiamontenegro-petite.jpeg) Serbian Wiki
+<https://reinventingorganizationswiki.com/rs>
