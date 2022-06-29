@@ -1,4 +1,5 @@
 ---
+locale: cn
 layout: content
 name: Translations
 ---
@@ -25,4 +26,15 @@ name: Translations
 ![](/media/flagfrance.png)      French Wiki <https://fr.reinventingorganizationswiki.com/>
 
 ![](https://reinventingorganizations-wiki.netlify.app/media/flagrussia.jpg)      Russian Wiki <https://ru.reinventingorganizationswiki.com/>
+
+![](/media/flagitalysmall.jpg)      Italian Wiki <https://reinventingorganizationswiki.com/it>
+
+![](/media/flagturkey.jpg)      Turkish Wiki <https://reinventingorganizationswiki.com/tr>
+
+![](/media/flaggermany.jpg)      German Wiki <https://reinventingorganizationswiki.com/de>
+
+![](/media/flagbrazil.jpg) Portuguese Wiki <https://reinventingorganizationswiki.com/pt>
+
+![](/media/flagserbiamontenegro-petite.jpeg) Serbian Wiki
+<https://reinventingorganizationswiki.com/rs>
 
