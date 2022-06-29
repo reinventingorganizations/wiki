@@ -2,43 +2,44 @@
 layout: article
 tags: theory
 key: Red Organizations
-name: Red Paradigm and Organizations
+name: Rotes Paradigma und Organsationen
 sortOrder: 2
 category: history
-intro: >-
-  Red organizations are molded on the Red stage of consciousness, which sees the
-  world through a crude lens of power. Power is exercised constantly by ‘Chiefs’
-  to keep foot soldiers in line. Fear and unpredictability hold the organization
-  together. Red organizations tend to be highly reactive with a short-term
-  focus. This makes them well-suited to thrive in chaotic environments. Wolf
-  packs are a good metaphor for Red organizations.
+intro: >
+  Rote Organisationen entstehen auf einer Stufe des Bewusstseins, auf der die
+  Welt schlicht und ergreifend durch die Brille der Macht gesehen wird. Diese
+  Macht üben „Häuptlinge" regelmäßig aus, um das „Fußvolk“ bei der Stange zu
+  halten. Furcht und Unvorhersehbarkeit halten rote Organisationen zusammen. Sie
+  neigen dazu, sehr reaktiv und kurzfristig orientiert zu sein. Dadurch gedeihen
+  sie gut in chaotischen Umgebungen. Wolfsrudel sind eine passende Metapher für
+  rote Organisationen.
 
 
   ![](/media/red.jpg)
 
 
-  ### Red stage of consciousness
+  ### Rote Stufe des Bewusstseins
 
 
-  Historically, the Red stage consciousness seems to have emerged about 10,000 years ago, bringing forth the first chiefdoms and proto-empires. The first forms of organization emerged at this time. 
+  Historisch betrachtet scheint die „rote Bewusstseinsstufe“ vor etwa 10.000 Jahren entstanden zu sein und die ersten Stammesfürstentümer und Ur-Reiche hervorgebracht zu haben. Zu dieser Zeit bildeten sich auch erste Organisationsformen.
 
 
-  People have a strong sense of self and see themselves entirely separate from others and from the world. This realization is frightening and death is real. *If I’m just a small part, separate from the whole, I might suffer or die.* The world is seen as a dangerous place where one’s needs being met depends on being strong and tough. The currency of the world is power. *If I’m more powerful than you, I can demand that my needs are met; if you are more powerful than me, I’ll submit in the hope you will take care of me.* The emotional spectrum is rather crude, and people often express their needs through tantrums and violence. Even if leaders are aware of other people’s feelings, they are not important . Orientation is mostly in the present―*I want it, and I want it now*―but this impulsiveness can extend into the future with the use of simple power, manipulation, or submission strategies. Simple causal relationships such as rewards and punishments are understood. Thinking is shaped by polar opposites, which makes for a black and white worldview―for example, strong/weak, my way/your way.
+  Menschen haben ein starkes Bewusstsein ihrer selbst und sehen sich völlig separat von anderen und von der Welt. Diese Erkenntnis ist beängstigend und der Tod real. *Wenn ich nur ein kleiner Teil bin, getrennt vom Ganzen, könnte ich leiden oder sterben.* Die Welt wird als gefährlicher Ort wahrgenommen, an dem die Erfüllung der eigenen Bedürfnisse davon abhängt, dass man stark und zäh ist. Die Währung der Welt ist Macht. *Wenn ich mächtiger bin als du, kann ich verlangen, dass meine Bedürfnisse befriedigt werden. Wenn du mächtiger bist als ich, werde ich mich unterwerfen in der Hoffnung, dass du dich um mich kümmerst.* Das emotionale Spektrum ist eher einfach gestrickt, und Menschen drücken ihre Bedürfnisse vor allem durch Wutanfälle und Gewalt aus. Selbst wenn sich Führungspersönlichkeiten der Gefühle anderer Menschen bewusst sind, so sind diese nicht wichtig. Die Orientierung ist meistens auf die Gegenwart ausgerichtet (*ich will es, und zwar jetzt*), aber diese Impulsivität kann sich durch einfache Macht-, Manipulations- oder Unterwerfungsstrategien in die Zukunft ausdehnen. Einfache kausale Beziehungen wie Belohnungen und Bestrafungen werden verstanden. Das Denken ist von polaren Gegensätzen geprägt, was zu einer schwarz-weißen Weltsicht führt (z.B. stark/schwach, mein Weg/dein Weg).
 
 
-  Role differentiation becomes viable― or in other words, there is a meaningful division of labor. There is a chief and there are foot soldiers. Slavery emerges on a large scale, now that tasks can be isolated and given to enemies from neighboring tribes that have been defeated and put into bondage. Historically, this has led to chiefdoms ruling  hundreds and even thousands of people. Red functioning can still be found in adults in many tribal societies in the world today and in underprivileged areas amidst developed societies. Every paradigm has its sweet spot, a context in which it is most appropriate. Red is highly suitable for hostile environments: combat zones, civil wars, failed states, prisons, or violent inner-city neighborhoods.
+  Rollendifferenzierung ist machbar oder - anders ausgedrückt - es gibt eine sinnvolle Arbeitsteilung. Auf der einen Seite der Häuptling, auf der anderen die Soldaten. Sklaverei entsteht in großem Umfang, da nun einzelne Aufgaben an Feinde benachbarter Stämme vergeben werden können, die besiegt und gefangen genommen wurden. Historisch gesehen hat dies zu Stammesfürstentümern mit einer Herrschaft über Hunderte oder sogar Tausende von Menschen geführt. Rote Funktionsweisen finden sich auch heute noch bei Erwachsenen in vielen Stammesgesellschaften der Welt und in unterprivilegierten Gebieten inmitten entwickelter Gesellschaften. Jedes Paradigma hat einen Kontext, in den es am besten passt. So eignet sich das rote Paradigma hervorragend für feindliche Umgebungen: Kampfgebiete, Bürgerkriege, gescheiterte Staaten, Gefängnisse oder gewalttätige Stadtviertel.
 
 
-  ### Characteristics of Red organizations
+  ### Merkmale roter Organisationen
 
 
-  Organizations molded in Red consciousness first appeared in the form of small conquering armies, when the more powerful chiefdoms grew into proto-empires. They can still be found today in the form of street gangs and mafias. Today’s Red Organizations borrow tools and ideas from modernity―think about organized crime’s use of weaponry and information technology. But their structures and practices are for the most part still molded in the Red paradigm.
+  Vom „roten Bewusstsein“ geprägte Organisationen traten zuerst in Form kleiner, erobernder Armeen auf, als die mächtigeren Stammesfürstentümer zu Ur-Imperien heranwuchsen. Sie sind auch heute noch in Form von Straßenbanden und Mafias zu finden. Die heutigen roten Organisationen übernehmen Werkzeuge und Ideen aus der Moderne. Man denke nur an den Einsatz von Waffen und Informationstechnologie durch das organisierte Verbrechen. Aber ihre Strukturen und Praktiken basieren größtenteils immer noch auf dem roten Paradigma.
 
 
-  Their ‘glue’ is the continuous exercise of power in interpersonal relationships. Wolf packs provide a good metaphor: rather like the “alpha wolf” uses power when needed to maintain his status within the pack, the chief of a Red Organization must demonstrate overwhelming power and bend others to his will to stay in position. The minute his power is in doubt, someone else will attempt to topple him. To provide some stability, the chief surrounds himself with family members (who tend to be more loyal) and buys their allegiance by sharing the spoils. Each member of his close guard in turn looks after his own people and keeps them in line. Overall, there is no formal hierarchy and there are no job titles. Red Organizations don’t scale well for those reasons―they rarely manage to keep in line people who are separated from the chief by more than three or four degrees. While Red Organizations can be extremely powerful (especially in hostile environments where later stages of organizations tend to break down), they are inherently fragile, due to the impulsive nature of people’s way of operating (*I want it so I take it*). The chief must regularly resort to public displays of cruelty and punishment, as only fear and submission keep the organization from disintegrating. Mythical stories about his absolute power frequently make the rounds, to keep foot soldiers from vying for a higher prize.
+  Ihr "Klebstoff" ist die kontinuierliche Ausübung von Macht in zwischenmenschlichen Beziehungen. Wolfsrudel sind eine gute Metapher: Ähnlich wie der Leitwolf bei Bedarf Macht ausübt, um seinen Status innerhalb des Rudels zu sichern, muss das Oberhaupt einer roten Organisation überwältigende Macht demonstrieren und andere seinem Willen unterwerfen, um seine Position zu halten. Sobald diese Macht in Frage gestellt wird, wagt jemand anderes den Umsturz. Um ein gewisses Maß an Stabilität zu gewährleisten, umgibt sich die Anführerin mit in der Regel loyaleren Familienmitgliedern und erkauft sich deren Treue durch Teilung der Beute. Jedes Mitglied der engen Garde kümmert sich wiederum um die eigenen Leute und hält sie bei der Stange. Es gibt keine formale Hierarchie oder Titel. Aus diesen Gründen lassen sich rote Organisationen kaum skalieren. Sie schaffen es selten, Leute in der Reihe zu halten, die mehr als drei oder vier Grade vom Oberhaupt entfernt sind. Rote Organisationen können zwar extrem mächtig sein (vor allem in feindseligen Umgebungen, in denen nachfolgende Organisationsformen zusammenbrechen würden), sie sind jedoch an sich fragil aufgrund des impulsiven Wesens der Menschen (*ich will es, also nehme ich es*). Das Oberhaupt muss regelmäßig öffentlich bestrafen und Grausamkeit demonstrieren, da nur Angst und Unterwerfung die Organisation vor dem Zerfall bewahren. Mythische Geschichten über seine absolute Macht halten das Fußvolk davon ab, nach Höherem zu streben.
 
 
-  Present-centeredness makes Red Organizations poor at planning and strategizing but highly reactive to new threats and opportunities that they can pursue ruthlessly. They are therefore well adapted to chaotic environments (in civil wars or in failed states) but are ill-suited to achieve complex outcomes in stable environments where planning and strategizing are possible.
+  Aufgrund ihrer Gegenwartsbezogenheit sind rote Organisationen kaum in der Lage, zu planen und Strategien zu entwickeln; sie reagieren jedoch sehr schnell auf neue Bedrohungen und Chancen, die sie rücksichtslos verfolgen. Sie eignen sich daher gut für chaotische Umgebungen (Bürgerkriege oder gescheiterte Staaten), können jedoch in stabilen Umgebungen, wo Planung und Strategie möglich sind, kaum komplexe Ergebnisse erzielen.
 perspective: ""
 inPractice: ""
 ---

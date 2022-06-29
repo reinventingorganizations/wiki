@@ -2,116 +2,190 @@
 layout: article
 tags: theory
 key: Staff Functions
-name: Staff Functions
+name: Stabsfunktionen
 sortOrder: 2
 category: Structure of an organization
-intro: |-
-  This article addresses how staff functions are handled in Teal organizations.
+intro: >-
+  In diesem Abschnitt geht es um die Frage des Umgangs mit Stabsfunktionen in
+  Teal-Organisationen. 
+
 
   ![](/media/staff-functions.jpg)
-perspective: "In the last decades, we have witnessed, especially in large
-  organizations, a proliferation of staff functions: human resources (HR),
-  strategic planning, legal affairs, finance, internal communications, risk
-  management, internal audit, investor relations, training, public affairs,
-  environmental control, engineering services, quality control, knowledge
-  management and so on.\r
-
-  \r
-
-  Staff roles were developed to support the establishment and adherence to
-  processes and planning of Amber organizations. They were further expanded to
-  facilitate the efficiencies sought by the Orange paradigm and to satisfy its
-  desire for expertise and accountability. While Green organizations tend to
-  place more emphasis on using staff roles to support the frontline (often
-  ironically, resulting in an increased HR staff), it is only under Teal that
-  the trend of increasing use of staff functions is reversed. In Teal, tasks
-  typically performed by support functions are, whenever possible, done by
-  frontline teams themselves. Those staff roles that do exist typically cannot
-  impose their rules or decisions on the organization."
-inPractice: >-
-  Centralized staff functions in most organizations create rules, policies and
-  processes for others to follow. There is a natural tendency for people in such
-  staff functions, often with the best of intentions, to prove their worth by
-  finding ways to “add value” by devising rules and procedures, building up
-  expertise, finding new problems to solve.
+perspective: "In den letzten Jahrzehnten hat die Anzahl an Stabsfunktionen vor
+  allem in großen Organisationen zugenommen: Personalmanagement (HR),
+  strategische Planung, Recht, Finanzen, interne Kommunikation,
+  Risikomanagement, Innenrevision, Investor Relations, Aus- und Weiterbildung,
+  öffentliche Angelegenheiten, Umweltmanagement, technische Dienste,
+  Qualitätskontrolle, Wissensmanagement und so weiter.\r
 
 
-  Ultimately, this process concentrates power and decision-making away from the operational frontline. People there often end up feeling disempowered: they have to follow rules that often make sense only in principle but cannot accommodate the complexity of the concrete situations faced in practice.
+  Es wurden spezifische Rollen etabliert, um die Einrichtung und Einhaltung
+  von Prozessen und Plänen der bernsteinfarbenen Organisationen zu unterstützen.
+  Sie wurden ausgebaut, um die vom orangefarbenen Paradigma angestrebten
+  Effizienzsteigerungen zu ermöglichen und den Wunsch nach Fachwissen und
+  Verantwortlichkeit zu erfüllen. Während grüne Organisationen dazu neigen, den
+  Schwerpunkt auf den Einsatz von Stabsfunktionen zur Unterstützung der
+  Mitarbeitenden an vorderster Front zu legen (was ironischerweise oft zu einer
+  Aufstockung der Belegschaft führt), kehrt sich der Trend der zunehmenden
+  Nutzung von Stabsfunktionen erst im Teal-Paradigma um. Hier werden Aufgaben,
+  die normalerweise von Unterstützungsfunktionen wahrgenommen werden, wann immer
+  möglich von den Frontline-Teams selbst erledigt. Existierende Stabsfunktionen
+  können ihre Vorgehensweisen oder Entscheidungen der Organisation nicht
+  aufzwingen.\r\n"
+inPractice: "In den meisten Organisationen erstellen zentralisierte Funktionen
+  Regeln, Richtlinien und Prozesse, die andere befolgen müssen. Menschen in
+  solchen Funktionen wollen tendenziell und oft mit den besten Absichten ihre
+  Existenzberechtigung sichern, indem sie nach Wegen suchen, einen \"Mehrwert\"
+  zu schaffen. So erarbeiten sie Regeln und Verfahren, bauen Fachwissen auf und
+  finden neue Problemlösungen.\r
 
 
-  For these reasons, Teal organizations keep staff functions to a bare minimum. They understand that the economies of scale and skill resulting from staff functions are often outweighed by the diseconomies of motivation produced. As a result, there are very few people working in staff functions in Teal Organizations. And those that do typically have no decision-making authority. They can provide guidelines but cannot impose a rule or a decision.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 1630-1636). Nelson Parker. Kindle Edition.]
+  Letztlich führt dieser Prozess zu einer Konzentration von Macht und
+  Entscheidungsbefugnis weg von der operativen Linie. Die Menschen dort fühlen
+  sich vielfach entmachtet: Sie müssen Regeln befolgen, die prinzipiell sinnvoll
+  sind, aber der Komplexität konkreter Situationen in der Praxis nicht gerecht
+  werden.\r
 
 
-  #### The need for expertise
+  Aus diesen Gründen beschränken Teal-Organisationen Stabsfunktionen auf ein
+  Minimum. Sie wissen, dass sich aus diesen ergebende Größen- und
+  Kompetenzvorteile häufig durch Motivationsnachteile aufgewogen werden.
+  Infolgedessen arbeiten in Teal-Organisationen nur sehr wenige Menschen in
+  Stabsfunktionen – und das in der Regel ohne Entscheidungsbefugnis. Sie können
+  Richtlinien vorgeben, aber keine Regeln oder Entscheidungen
+  durchsetzen.^[Übersetzt aus: Laloux, Frederic (2014-02-09). Reinventing
+  Organizations: A Guide to Creating Organizations Inspired by the Next Stage of
+  Human Consciousness (Kindle Locations 1630-1636). Nelson Parker. Kindle
+  Edition.]\r
 
 
-  In every organization there is a natural tension between the need for expertise and the need to let frontline people make decisions. When a need for expertise arises, the first instinct of most organizations is to create a central pool of experts. The risk, of course, is that over time two castes emerge within the organization: a prestigious (often highly paid) group of central experts, and a disempowered group of people performing operational work in the field.
+  #### Bedarf an Fachwissen
 
 
-  Instead, Teal organizations allow expertise to develop in a distributed fashion. Over time, colleagues in frontline teams build up a lot of specialized knowledge. A machine operator might know all about the use of a certain lubricant, a home-care nurse all about a certain arcane medical condition, or an engineer all about how to create a complex financial tool to calculate a new machine's return on investment. Rather than establishing staff roles for these experts, Teal organizations aim to help team members identify colleagues with the right expertise. It can be highly motivating for people to be sought out by colleagues for advice and expertise. Special systems for sharing information are common, such as internal social networks and knowledge platforms.
+  In jeder Organisation besteht ein natürliches Spannungsverhältnis zwischen
+  dem Bedarf an Fachwissen und dem Bedürfnis, Mitarbeitende an der Basis
+  Entscheidungen treffen zu lassen. Wenn der Bedarf an Fachwissen entsteht, ist
+  der erste Impuls in den meisten Organisationen, einen zentralen Experten-Pool
+  einzurichten. Mit dem Risiko, dass sich im Laufe der Zeit zwei Kasten bilden:
+  eine angesehene (oft hoch bezahlte) Expertentruppe und eine entmachtete,
+  operativ arbeitende Mitarbeiterschar.
 
 
-  In many cases, volunteer [task forces ](../project-teams-and-task-forces/)can be set up to codify and disseminate knowledge in specific areas (through central knowledge repositories, training, etc.).
+  Teal-Organisationen hingegen ermöglichen die Entwicklung von Fachwissen in
+  verteilter Form. Mit der Zeit bauen die Teammitglieder an der Front eine Menge
+  Spezialwissen auf. Eine Maschinenbedienerin weiß alles über die Verwendung
+  eines bestimmten Schmiermittels, ein Krankenpfleger kennt ein bestimmtes
+  medizinisches Problem oder eine Ingenieurin weiß genau, wie man ein komplexes
+  Finanzinstrument zur Berechnung der Rentabilität einer neuen Maschine
+  erstellt. Teal-Organisationen legen keine Stabsrollen für diese Experten fest,
+  sondern helfen den Teammitgliedern, Kolleginnen mit dem passenden Fachwissen
+  zu finden. Von anderen um Rat gefragt zu werden, kann sehr motivierend sein.
+  Spezielle Systeme für den Informationsaustausch sind weit verbreitet, z.B.
+  interne soziale Netzwerke und Wissensplattformen.
 
 
-  Finally, expertise in certain areas (say about labor law in Human Resources) can be contracted from the outside. Rather than hiring an expert into a staff role, a freelancer or consultant can be used as an advisor when needed by members of frontline teams.
+  Oft bilden sich freiwillige
+  [Arbeitsgruppen](../project-teams-and-task-forces/), um Spezialwissen zu
+  kodifizieren und zu verbreiten (durch Wissensdatenbanken, Schulungen usw.).\r
 
 
-  #### Economies of scale
+  Schließlich kann Fachwissen in bestimmten Bereichen (z.B. im Arbeitsrecht)
+  von außen zugekauft werden. Statt eine Expertin fest einzustellen, werden bei
+  Bedarf Freiberufler oder Beraterinnen eingesetzt.\r
 
 
-  Staff functions are also often put in place based on the rationale that they will provide economies of scale. These economies are easy to estimate in principle and provide a ready justification for the centralization of certain tasks. Yet this overlooks the other real costs in the form of diseconomies of motivation and disconnection from frontline realities.
+  #### Größenvorteile
 
 
-  Teal organizations will pursue economies of scale without creating staff functions in the traditional sense. Say different teams in a factory or across a number of factories all buy a certain material, and pooling their purchases makes sense . One team might simply step up and become the lead purchaser for that product (asking other teams, at a fixed frequency, for their orders). In this way, different teams step up to lead certain efforts for other teams in a decentralized way.
+  Stabsfunktionen werden häufig mit der Begründung errichtet, dass sie
+  Größenvorteile bringen. Diese Einsparungen lassen sich prinzipiell leicht
+  abschätzen und bieten eine gute Rechtfertigungsgrundlage für die
+  Zentralisierung bestimmter Aufgaben. Dabei werden jedoch Kosten durch
+  Motivationsverluste und die Abkopplung von der Realität im operativen Bereich
+  übersehen.\r
 
 
-  In other cases, it might make sense for colleagues to create a role to handle certain functions. For instance, in certain countries, labor laws might imply a lot of administrative work to manage payroll. Teams could decide to delegate this work to a central staff role that they created. In Teal however, the central staff role works on behalf of the teams, and cannot impose top-down decisions. A frontline team that decides not to use the services of the central support staff is free to do so.
+  Teal-Organisationen streben Größenvorteile an, ohne Stäbe im herkömmlichen
+  Sinne zu schaffen. Angenommen, verschiedene Teams in einem Werk oder in einer
+  Reihe von Fabriken kaufen alle ein bestimmtes Material, und eine Bündelung
+  ihrer Einkäufe wäre sinnvoll. Ein Team könnte einfach die Federführung für
+  dieses Produkt übernehmen und die anderen in festgelegtem Rhythmus um ihre
+  Bestellungen bitten. Auf diese Weise übernehmen verschiedene Teams bestimmte
+  Aufgaben dezentral für andere Teams.\r
 
 
-  #### Setting standards
+  In anderen Fällen kann es sinnvoll sein, dass Mitarbeitende eine Rolle
+  schaffen, die bestimmte Funktionen übernimmt. In manchen Ländern
+  beispielsweise ist die Lohn- und Gehaltsabrechnung aufgrund der
+  arbeitsrechtlichen Vorschriften sehr aufwändig. Die Teams könnten beschließen,
+  die Abrechnung an eine von ihnen eingerichtete zentrale Rolle zu delegieren.
+  Im Teal-Paradigma arbeitet diese jedoch im Namen der Teams und kann keine
+  Entscheidungen von oben nach unten durchdrücken. Ein Team an der Front kann
+  auch beschließen, zentrale Unterstützungsdienste nicht in Anspruch zu
+  nehmen.\r
 
 
-  Similarly, in many cases, it makes sense to set common standards for the entire organization, for instance in human resources (e.g., let's make sure everyone gets the same experience, whatever team they are hired into), marketing (e.g., let's use common templates and design elements), finance (e.g., let's make numbers comparable), IT (e.g., let's buy equipment that is compatible), etc. In traditional organizations, rules, policies and procedures are set up by central staff functions, who then also enforce compliance.
+  #### Festlegung von Standards
 
 
-  In Teal, such standards can easily be decided upon by one person taking the lead, using the advice process. Alternatively, people with similar roles in different units (say people involved with on-boarding new colleagues) can create a voluntary task force and jointly devise standards and guidelines. AES, a large energy provider, when it operated on self-managing principles, worked with an 80/20 rule: all colleagues were expected to spend 20% of their time in a voluntary task force (or temporary project team) next to the 80% on their primary roles.
+  In vielen Fällen ist es sinnvoll, gemeinsame Standards für die gesamte
+  Organisation festzulegen wie etwa im Personalwesen (z.B. Sicherstellung der
+  Gleichbehandlung unabhängig von der Teamzugehörigkeit), im Marketing (z.B.
+  Verwendung gemeinsamer Vorlagen und Designelemente), im Bereich Finanzen (z.B.
+  Vergleichbarkeit der Zahlen) oder in der IT (z.B. Anschaffung kompatibler
+  Geräte). In traditionellen Organisationen werden Regeln, Richtlinien und
+  Verfahrensweisen von zentralen Funktionen erlassen, die dann auch für deren
+  Einhaltung sorgen.\r
+
+
+  Im Teal-Paradigma werden solche Standards einfach von einer Person
+  beschlossen, die die Führung übernimmt und den Beratungsprozess nutzt.
+  Alternativ können Mitarbeitende mit ähnlichen Aufgaben (z.B. Onboarding neuer
+  Kollegen) in verschiedenen Abteilungen eine freiwillige Arbeitsgruppe bilden
+  und gemeinsam Standards und Richtlinien ausarbeiten. Als AES, ein großer
+  Energieversorger, nach den Grundsätzen der Selbstorganisation arbeitete,
+  wandte man die 80/20-Regel an: Von allen Mitarbeitenden wurde erwartet, dass
+  sie 20 % ihrer Zeit in freiwilligen Arbeitsgruppen oder zeitlich begrenzten
+  Projekten verbrachten und 80 % mit ihren Hauptaufgaben.\r"
 faq:
-  - question: What about highly regulated businesses?
+  - question: Was ist mit stark regulierten Unternehmen?
     answer: >-
-      In some industries, the risks for non-compliance with certain procedures
-      are especially high. Regulators might even go so far as to require someone
-      to sign on behalf of the organization, typically a “C-Suite” executive
-      ―the CFO for the accounts, the Chief Risk Officer for topics related to
-      risk, etc. Because this individual risks personal consequences for the
-      organization’s non-compliance including legal actions imposed by outside
-      regulators, he or she would naturally want to protect him or herself from
-      risk by mandating strict rules and enforcing their compliance. How can
-      self-managing organizations address this issue?
+      In einigen Branchen sind die Risiken bei Nichtbeachtung bestimmter
+      Verfahren besonders hoch. Die Aufsichtsbehörden können sogar so weit
+      gehen, dass sie von einer Person verlangen, im Namen des Unternehmens zu
+      unterschreiben. Dies ist in der Regel eine Führungskraft der sogenannten
+      "C-Suite": CFO für die Buchhaltung, Chief Risk Officer für risikorelevante
+      Themen usw. Da diese Führungskraft persönliche Konsequenzen für die
+      Nichteinhaltung der Vorschriften durch die Organisation riskiert
+      (einschließlich rechtlicher Schritte durch externe Aufsichtsbehörden),
+      möchte sie sich natürlich selbst vor Risiken schützen, indem sie strenge
+      Regeln vorschreibt und deren Einhaltung durchsetzt. Wie können
+      selbstorganisierte Unternehmen dieses Problem angehen?
 
 
-      One way to deal with this is through voluntary task forces. A risk task force for instance, composed of people with roles related to risk in their respective units, could commonly decide on standards and policies to ensure risks are mitigated in ways that align with the regulator's request. In terms of who then signs on behalf of the organization (or interfaces with the regulator), members of the task force might take turns with each member taking on that responsibility for a one-year period. The task force can also decide to organize cross-audits where a member of one unit audits another unit. Organizations like AES who have used this method report that there is more, not less, control. Voluntary task forces know much better than a central staff function far away in headquarters where the risks are, what guidelines are appropriate, where and what to look for in cross-audits. And voluntary task forces breed a sense of solidarity and responsibility. If one unit fails, it will be "one of us" who has to bear the brunt of repercussions from the regulator. Compare this to traditional staff roles, where the Head of Risk in headquarters edicts rules that are often hard to apply on the ground, enticing people to find workarounds.
+      Eine Möglichkeit ist der Einsatz freiwilliger Arbeitsgruppen. Eine Risiko-Taskforce beispielsweise aus Personen, die in ihren jeweiligen Abteilungen mit Risiken zu tun haben, könnte gemeinsam über Standards und Richtlinien entscheiden, um Risikominimierung gemäß den Anforderungen der Aufsichtsbehörde zu gewährleisten. Bei der Frage, wer im Namen der Organisation unterzeichnet (oder als Schnittstelle zur Aufsichtsbehörde fungiert), könnten sich die Gruppenmitglieder im Jahresturnus abwechseln. Die Gruppe kann auch beschließen, Cross-Audits zu organisieren, bei denen ein Mitglied einer Einheit eine andere Einheit prüft. Organisationen wie AES, die diese Methode angewandt haben, berichten, dass es dadurch mehr und nicht weniger Kontrolle gibt. Freiwillige Arbeitsgruppen wissen viel besser als ein weit entfernter Stab in der Zentrale, wo die Risiken liegen, welche Richtlinien angemessen sind und worauf bei gegenseitigen Prüfungen zu achten ist. Zudem schaffen sie ein Gefühl der Solidarität und Verantwortung. Wenn eine Einheit versagt, ist es "einer von uns", der die aufsichtsbehördlichen Konsequenzen zu tragen hat. Vergleichen Sie dies mit traditionellen Stabsfunktionen, wo der Leiter der Risikoabteilung in der Zentrale Regeln erlässt, die in der Praxis nur schwer anzuwenden sind und gerne umgangen werden.
 
 
-      The case of [AES ](http://www.aes.com/)(see more on AES below) which has operated in the highly regulated electricity generation and distribution markets, gives at least an indication that the existence of strong regulation can be dealt with by self-managing structures.
-  - question: How do these practices link with the three Teal breakthroughs?
+      Das Beispiel von [AES](http://www.aes.com/) (siehe unten) mit Tätigkeit auf den stark regulierten Strommärkten ist zumindest ein Hinweis darauf, dass dies auch in selbstorganisierten Strukturen bewältigt werden kann.
+  - question: Wie hängen diese Verfahrensweisen mit den drei bahnbrechenden
+      Teal-Elementen zusammen?
     answer: >-
-      #### Self-management
+      #### Selbstorganisation
 
 
-      Central staff functions, as they are used today in many large organizations, concentrate power away from their operational colleagues. Eliminating or drastically reducing the influence of centralized staff returns autonomy to the rest of the organization and is a key element of the Teal breakthrough of self-management.
+      Zentrale Funktionen, wie sie heute in vielen großen Organisationen eingesetzt werden, konzentrieren die Macht weg von ihren operativen Kollegen. Die Abschaffung oder drastische Verringerung ihres Einflusses verleiht dem Rest der Organisation Autonomie und ist ein Schlüsselelement des Teal-Selbstmanagements.
 
 
-      #### Wholeness
+      #### Ganzheitlichkeit
 
 
-      In many organizations, the relationship of central staff functions with people in operating units is based on mistrust: without staff policing them, operations cannot be relied on to act in ways that benefit the organization as a whole. With Teal, people are trusted to take into account the needs of the whole organization and are freed to pursue their passions and interests.
+      In vielen Organisationen basiert die Beziehung zwischen zentralen Stäben und den Mitarbeitenden in den operativen Einheiten auf Misstrauen: Ohne die Kontrolle durch zentrale Funktionen kann man sich nicht darauf verlassen, dass die operativen Einheiten im Sinne der Organisation als Ganzes handeln. Im Teal-Paradigma wird darauf vertraut, dass Mitarbeitende die Bedürfnisse der gesamten Organisation berücksichtigen und zugleich ihren Leidenschaften und Interessen nachgehen können.
 
 
-      #### Evolutionary purpose
+      #### Evolutionärer Zweck
 
 
-      Central staff functions tend to make the organization more static and prevent innovations from happening freely at the margins, thereby slowing down the unfolding of the organization's purpose. Dealing in decentralized ways with the need for expertise, economies of scale and joint standards increases an organization's agility, and thereby its potential to pursue its evolutionary purpose.
+      Zentrale Funktionen machen Organisationen tendenziell statischer und verhindern, dass sich Innovationen auch in Randbereichen frei entwickeln können. Dadurch wiederum verlangsamt sich die Entfaltung des Organisationszwecks. Ein dezentralisierter Umgang mit dem Bedarf an Fachwissen, Größenvorteilen und gemeinsamen Standards erhöht die Agilität einer Organisation und damit ihr Potenzial, ihren evolutionären Zweck zu verfolgen.
 relatedTheory:
   - Project teams and task forces
   - Organizational Structure

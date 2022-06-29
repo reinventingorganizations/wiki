@@ -2,175 +2,278 @@
 layout: article
 tags: theory
 key: Environmental and Social Management
-name: Environmental and Social Management
+name: Umwelt- und Sozialmanagement
 sortOrder: 6
 category: Important Processes
-intro: "Environmental and Social Management refers to the approach organizations
-  take regarding their environmental and social impact. \r
+intro: "Umwelt- und Sozialmanagement bezieht sich auf den Ansatz von
+  Organisationen, den sie im Zusammenhang mit den ökologischen und sozialen
+  Auswirkungen ihres Geschäftsbetriebs verfolgen.\r
 
-  \r
 
-  Nowadays many companies are including corporate social responsibility,
-  strategic shared value, and standardized reporting in their main processes.
-  Some of them consider sustainability and the Sustainable Development Goals
-  agenda part of their strategy. "
-perspective: >-
-  Teal principles will reinforce the organization to sustainability, because
-  social and environmental impacts will be part of the daily life. From an
-  Evolutionary-Teal perspective, it all starts with inner rightness.
+  Heutzutage schließen viele Unternehmen soziale Verantwortung (CSR =
+  Corporate Social Responsibility), strategische Wertaufteilung und
+  standardisierte Berichterstattung in ihre Hauptprozesse ein. Einige von ihnen
+  betrachten Nachhaltigkeit und nachhaltige Entwicklungsziele als Teil ihrer
+  Strategie.\r\n"
+perspective: "Die Teal-Prinzipien stärken die Organisation in Richtung
+  Nachhaltigkeit, da soziale und ökologische Auswirkungen Teil des täglichen
+  Lebens sind. Aus der evolutionären Perspektive beginnt alles mit von innen
+  heraus motivierter Rechtschaffenheit.\r
 
 
-  As employees, we may have genuine concerns about the environment and the communities we work in. In Teal Organizations, power is decentralized; therefore, environmental and social initiatives can be initiated by passionate people joining forces from any place in the organization.
+  Als Mitarbeitende machen wir uns vielleicht Sorgen um die Umwelt und die
+  Gemeinschaften, in denen wir arbeiten. In Teal-Organisationen ist die Macht
+  dezentralisiert; daher können Umwelt- und Sozialinitiativen von
+  leidenschaftlichen Menschen initiiert werden, die ihre Kräfte an jeder Stelle
+  der Organisation bündeln.\r
 
 
-  When we come from a place of wholeness, we feel compelled to do our share to heal our broken relationship with life in all its forms.
+  Von Ganzheitlichkeit ausgehend, fühlen wir uns verpflichtet, unseren Teil
+  zur Heilung unserer gestörten Beziehung zum Leben in all seinen Formen
+  beizutragen.\r
 
 
-  Teal tends to zero waste, zero toxicity, and zero impact on ecosystems
+  Das Teal-Paradigma strebt die große „Null“ an: kein Abfall, kein Gift und
+  keine negativen Auswirkungen auf Ökosysteme.\r
 
 
-  For now, initiatives such as B-Corps and Holacracy’s constitution provide interesting avenues for teal leadership.
+  Derzeit bieten Initiativen wie B-Corps und die Verfassung von Holacracy
+  interessante Wege für die Führung in Teal-Organisationen.\r
 
 
-  Approaches to Environmental and Social Management have evolved over time from how can a resource be used or exploited to how can it be served.
+  Die Ansätze für Umwelt- und Sozialmanagement haben sich im Laufe der Zeit
+  entwickelt: von der Frage der Nutzung oder Ausbeutung einer Ressource hin zur
+  Frage, wie ihr gedient werden kann.\r
 
 
-  **Red organizations**
+  **Rote Organisationen**
 
 
-  The [Red paradigm](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/red-organizations) is based on social management via power. The organization is subject to nature and the environment, which might dictate tribal rhythms. Red sees the environment through the filter of the potential for use. What in the environment is open to be had, so that we may increase our ability to survive and prosper?
+  Das [rote
+  Paradigma](https://reinventingorganizations-wiki.netlify.app/admin/#/collecti\
+  ons/theory/entries/red-organizations) basiert auf sozialem Management durch
+  Macht. Die Organisation ist der Natur und der Umwelt unterworfen, die den
+  Stammesrhythmus diktieren können. Sie betrachtet die Umwelt durch den Filter
+  des Nutzungspotenzials: Was steht uns zur Verfügung, damit wir unsere
+  Fähigkeit zu überleben und zu gedeihen steigern können?
 
 
-  **Amber organizations**
+  **Bernsteinfarbene Organisationen**
 
 
-  In the [Amber paradigm](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/amber-paradigm-and-organizations), organizations tend to be self-contained, standing apart from the outside world, and run by a hierarchy. Social priorities favor those with status based on birth, education, and gender. The environment is viewed as predictable and organisations seek ways to control it for their benefit, for example in irrigation projects.
+  Im [bernsteinfarbenen
+  Paradigma](https://reinventingorganizations-wiki.netlify.app/admin/#/collecti\
+  ons/theory/entries/amber-paradigm-and-organizations) sind Organisationen in
+  der Regel in sich geschlossen, von der Außenwelt abgeschottet und von einer
+  Hierarchie geleitet. Soziale Prioritäten bevorzugen diejenigen, deren Status
+  auf Geburt, Bildung und Geschlecht beruht. Die Umwelt wird als berechenbar
+  angesehen, und die Organisationen suchen nach Möglichkeiten, sie zu ihrem
+  Vorteil zu kontrollieren (z.B. bei Bewässerungsprojekten).\r
 
 
-  With Amber, the first high cultures in the world emerged. The stable structures and long-term processes introduced brought unprecedented change to social structure and their potential.
+  Unter diesem Paradigma entstanden die ersten Hochkulturen der Welt. Die
+  stabilen Strukturen und langfristigen Prozesse, die eingeführt wurden, führten
+  zu einer beispiellosen Veränderung der sozialen Struktur und ihres
+  Potenzials.\r
 
 
-  **Orange organizations**
+  **Orange Organisationen**
 
 
-  The goal-oriented organization of the [Orange paradigm](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/orange-paradigm-and-organizations) is focused on solving tangible problems. Growth is a consequence of successfully reaching your objectives, with a surplus of resources (profit). Not reaching objectives will over time, result in the organization dying. Thereis a belief that the strongest and best organizations will survive.
+  Die zielorientierte Organisation des [orangen
+  Paradigmas](https://reinventingorganizations-wiki.netlify.app/admin/#/collect\
+  ions/theory/entries/orange-paradigm-and-organizations) ist auf die Lösung
+  konkreter Probleme ausgerichtet. Wachstum ist eine Konsequenz erfolgreicher
+  Zielerreichung mit einem Überschuss an Ressourcen (Gewinn). Werden die Ziele
+  nicht erreicht, löst sich die Organisation mit der Zeit auf. So ist man
+  überzeugt, dass die stärksten und besten Organisationen bestehen bleiben
+  werden.
 
 
-  In Orange organizations, social and environmental efforts are usually focused on ensuring that legal obligations are met. This does not necessarily imply that Orange dismisses the value of these causes. It is rather that these organizations can only justify taking actions which benefit society and environment if these actions also contribute to the objectives of the organization. To Orange, such initiatives would otherwise need their own organization, with objectives that include those goals.
+  In orangen Organisationen konzentrieren sich soziale und ökologische
+  Bemühungen in der Regel auf die Einhaltung gesetzlicher Verpflichtungen. Das
+  bedeutet nicht zwangsläufig, dass im orangen Paradigma der Wert dieser
+  Anliegen missachtet wird. Vielmehr können Organisationen Maßnahmen, die der
+  Gesellschaft und Umwelt zugutekommen, nur dann rechtfertigen, wenn diese auch
+  zu den Zielen der Organisation beitragen. Solche Initiativen würden
+  andernfalls eigene Organisationen erforderlich machen, deren Ziele diese
+  Maßnahmen einschlössen.
 
 
-  Some Orange organizations have embraced practices of [Corporate Social Responsibility ](https://en.wikipedia.org/wiki/Corporate_social_responsibility)constructively. Some contributions have been remarkable. Orange organizations frequently use their CSR initiatives to support their brand image through marketing.  
+  Einige orange Organisationen haben die Methoden der sozialen Verantwortung
+  [(Corporate Social
+  Responsibility)](https://en.wikipedia.org/wiki/Corporate_social_responsibilit\
+  y) konstruktiv aufgenommen. Einige Beiträge waren bemerkenswert. Orange
+  Organisationen nutzen ihre CSR-Initiativen häufig im Marketing, um ihr
+  Markenimage aufzupolieren.
 
 
-  **Green organizations**
+  **Grüne Organisationen**
 
 
-  The[ Green paradigm](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/green-paradigm-and-organizations) considers the community (and by extension, the environment) as a stakeholder in the business. The pluralistic drive in Green means that it is important not only to be successful as an organization, but also to lift others up so that they also can be more successful.
+  Das [grüne
+  Paradigma](https://reinventingorganizations-wiki.netlify.app/admin/#/collecti\
+  ons/theory/entries/green-paradigm-and-organizations) betrachtet die
+  Gemeinschaft (und damit auch die Umwelt) als Anspruchsgruppe des Unternehmens.
+  Der grüne pluralistische Ansatz bedeutet, dass es nicht nur wichtig ist, als
+  Unternehmen erfolgreich zu sein, sondern auch andere darin zu unterstützen,
+  ebenfalls erfolgreich sein zu können.\r
 
 
-  Dialogue with stakeholders is part of green organizations and, at the time, one of the core issues in CSR strategies
+  Der Dialog mit den Anspruchsgruppen ist Teil grüner Organisationen und eines
+  der Kernthemen der CSR-Strategien.\r
 
 
-  The organization's mission is likely to include [social responsibility](https://en.wikipedia.org/wiki/Social_responsibility). For example, [Green organizations](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/green-paradigm-and-organizations)  might work with suppliers in developing countries to maintain humane working conditions. They may focus on their [carbon foot-print](https://en.wikipedia.org/wiki/Carbon_footprint) or strive to make products and packaging recyclable.
+  Der Auftrag der Organisation umfasst [soziale
+  Verantwortung](https://en.wikipedia.org/wiki/Social_responsibility). [Grüne
+  Organisationen](https://reinventingorganizations-wiki.netlify.app/admin/#/col\
+  lections/theory/entries/green-paradigm-and-organizations) arbeiten
+  beispielsweise mit Zulieferern in Entwicklungsländern zusammen, um
+  menschenwürdige Arbeitsbedingungen zu gewährleisten. Sie achten auf ihren
+  [ökologischen Fußabdruck](https://en.wikipedia.org/wiki/Carbon_footprint) oder
+  bemühen sich, Produkte und Verpackungen recycelbar zu machen.\r
 
 
-  **Teal organizations**
+  **Teal-Organisationen**
 
 
-  [Teal organizations](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/teal-paradigm-and-organizations) see themselves as part of a living system. That includes not only the organization itself but also the environment around it. Therefore, Teal organizations often take action to improve also their surroundings:
+  [Teal-Organisationen](https://reinventingorganizations-wiki.netlify.app/adm\
+  in/#/collections/theory/entries/teal-paradigm-and-organizations) verstehen
+  sich als Teil eines lebenden Systems. Das schließt nicht nur die Organisation
+  selbst ein, sondern auch seine Umgebung. Daher ergreifen Teal-Organisationen
+  häufig Maßnahmen zur Verbesserung ihres Umfeldes:
 
 
-  * Social and environmental responsibility arises from what is sensed to be “the right thing to do,” based on [organizational values](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/culture-and-values).
+  * Soziale und ökologische Verantwortung ergibt sich aus dem, was auf Basis
+  der
+  [Unternehmenswerte](https://reinventingorganizations-wiki.netlify.app/admin/#\
+  /collections/theory/entries/culture-and-values) als \"richtig\" empfunden
+  wird.\r
 
-  * Significant steps are taken to reduce waste, toxicity, and other impacts on the biosphere.
+  * Es wird einiges unternommen, um Abfälle, Gifte und andere Auswirkungen auf
+  die Biosphäre zu reduzieren.\r
 
-  * New practices may spring from anywhere in the organization.
+  * Neue Aktivitäten können überall in der Organisation gestartet werden.\r
 
-  * Cost need not be the prime determining factor. 
+  * Die Kosten sind nicht der entscheidende Faktor.\r
 
 
-  As society as a whole shifts toward the Evolutionary-Teal paradigm, we may see more legal experiments along the line of Holacracy’s constitution and B-Corps. In the final chapter of his book, Laloux speculates about an even more profound change: Perhaps in a Teal society, we would no longer think in terms of ownership, but in terms of stewardship? Such a shift would have profound implications in terms of legal ownership of organizations. Only time will tell if and how such a scenario will play out.
-inPractice: >-
-  #### How environmental and social practices arise
+  Da sich die Gesellschaft als Ganzes in Richtung des evolutionären
+  Teal-Paradigmas bewegt, werden wir sicherlich mehr rechtliche Experimente nach
+  dem Vorbild der Verfassung von Holacracy und B-Corps sehen. Im letzten Kapitel
+  seines Buches spekuliert Laloux über einen noch tiefgreifenderen Wandel:
+  Vielleicht denken wir in einer Teal-Gesellschaft nicht mehr in Begriffen des
+  Besitzes, sondern in Begriffen der Verwaltung? Ein solcher Wandel hätte
+  tiefgreifende Auswirkungen auf die rechtlichen Eigentumsverhältnisse von
+  Organisationen. Es bleibt abzuwarten, ob und wie sich ein solches Szenario
+  entwickeln wird."
+inPractice: "#### Entstehung ökologischer und sozialer Praktiken
 
 
-  Environmental and social practices arise from a sense of personal and corporate integrity.
+  Ökologische und soziale Praktiken entstehen aus einem Gefühl der
+  persönlichen und unternehmerischen Integrität heraus. Die Leitfrage lautet:
+  Was ist richtig? Initiative ist in der gesamten Organisation verteilt. Jeder
+  kann spüren, was nötig ist, und es ansprechen.
 
 
-  The guiding question is: What is the right thing to do?
+  #### Werte vor Profit
 
 
-  Initiative is distributed throughout the organization. Anyone can sense what is needed, and raise it.
+  Teal-Organisationen bemühen sich um Vorrang ökologischer und sozialer Themen
+  vor dem Gewinn. So sagte [AES](http://www.aes.com/) in einer öffentlichen
+  Anhörung: \"Wenn das Unternehmen einen Konflikt zwischen (...) Werten und
+  Gewinnen sieht, wird es versuchen, an seinen Werten festzuhalten - auch wenn
+  dies zu niedrigeren Gewinnen oder verpassten Chancen führen könnte.\"
 
 
-  #### Values before profit
+  #### Abhängigkeit von Organisation und Umwelt
 
 
-  Teal organizations strive to manage environmental and social practices ahead of profits. As [AES ](http://www.aes.com/)said in a public hearing: “If the company perceives a conflict between ... values and profits, it will try to adhere to its values - even if doing so might result in diminished profits or foregone opportunities”.
+  Die Metapher von der Teal-Organisation als lebendem Organismus mit eigenem
+  Sinn und eigener Absicht lässt sich auf die Umwelt übertragen. Sowohl die
+  Organisation als auch ihr Umfeld werden als Teil eines lebenden Systems
+  betrachtet. Als solches ist die Organisation von ihrer Umwelt und den sozialen
+  Strukturen, die sie beeinflussen, abhängig. Das heißt, die Organisation kann
+  ohne ein gesundes Umfeld nicht gedeihen.\r
 
 
-  #### Organization and environment are interdependent
+  Teal-Organisationen verfolgen daher häufig einen systemischen Ansatz, um das
+  Umfeld oder die sozialen Strukturen, in denen die Organisation tätig ist, zu
+  verbessern – insbesondere, wenn dieses Umfeld für den Sinn der Organisation
+  notwendig ist.\r
 
 
-  The metaphor of a Teal organization as a living organism, with its own purpose and intent, extends to the environment. Both organization and the environment it lives in are considered to be part of a living system. As such, the organization is dependent on its environment and the social structures that affect it. That is, the organization cannot thrive without a healthy environment.
+  #### Nachhaltigkeit vor kurzfristigen Gewinnen
 
 
-  Teal organizations therefore often take a systemic approach to improve the environment or social structures in which the organization is active, especially when that environment is necessary to achieve the purpose of the organization.
+  Das Thema der Nachhaltigkeit als Teil anderer Teal-Praktiken hat auch im
+  Bereich des Umwelt- und Sozialmanagements große Bedeutung. Das Teal-Paradigma
+  verlangt einen langfristigen, nachhaltigen Ansatz zur Schaffung von Werten.
+  Einer der Gründe dafür ist, dass die Ausbeutung des Lebens selbst für
+  kurzfristige finanzielle Gewinne als unmoralisch angesehen wird. Die
+  Gefährdung des Zukunftspotenzials gilt als rücksichtslos und falsch.\r
 
 
-  #### Sustainability before short term gains
+  Im Teal-Paradigma werden oft proaktive Maßnahmen ergriffen, um die Umwelt
+  und soziale Aspekte langfristig zu verbessern und die Nachhaltigkeit des
+  Zwecks zu erhöhen, auch wenn sich dies vielleicht nicht sofort auszahlt.\r
 
 
-  The theme of sustainability which is common in other Teal practices is also prominent in the area of environmental and social management. Teal insists on a long-term sustainable approach to delivering value. One of the reasons is that Teal feels that exploitation of life itself for short-term financial gain is immoral. Putting future potential of purpose at risk is considered reckless and the wrong thing to do.
+  #### Dezentralisierte Initiativen
 
 
-  Teal often takes proactive measures to improve the environment and social aspects of its surroundings for the long term - in order to increase sustainability of purpose ― even if there may not be payoffs in the immediate term.
+  Macht ist dezentralisiert: Engagierte Menschen können von jedem Punkt der
+  Organisation aus Aktivitäten starten.\r
 
 
-  #### Distributed initiatives
+  Als [Patagonia](https://eu.patagonia.com/hu/en/home/) sein Lager nach Reno
+  verlegte, bemerkten vier Mitarbeitende, dass der größte Teil des Landes in
+  Nevada keine geschützte Wildnis war. Sie setzten eine Initiative in Gang, die
+  dazu führte, dass 1,2 Millionen Hektar Wildnis geschützt wurden.\r
 
 
-  Power is decentralized: passionate people can initiate activity from anywhere in the organization.
+  #### Integration ins Unternehmen
 
 
-  When [Patagonia](https://eu.patagonia.com/hu/en/home/) moved its warehouse to Reno, four employees noticed that most of Nevada’s wild land was not protected wilderness. They sparked an initiative that resulted in 1.2 million acres of wilderness being protected.
-
-
-  #### Integrated into the business
-
-
-  [Teal organizations](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/teal-paradigm-and-organizations) do not (normally) have separate units for Corporate Social Responsibility. [Buurtzorg ](https://www.buurtzorgnederland.com/)adds new services in response to emerging social needs sensed by nurses, e.g. to help Alzheimer’s patients handle domestic chores.
+  [Teal-Organisationen](https://reinventingorganizations-wiki.netlify.app/adm\
+  in/#/collections/theory/entries/teal-paradigm-and-organizations) haben
+  (normalerweise) keine eigene CSR-Abteilung.
+  [Buurtzorg](https://www.buurtzorgnederland.com/) fügt neue Dienstleistungen
+  hinzu, um auf entstehende soziale Bedürfnisse zu reagieren, die von
+  Krankenschwestern wahrgenommen werden (z.B. Haushaltshilfe für
+  Alzheimer-Patienten)."
 faq:
-  - question: I want my organization to do more to benefit society and the
-      environment. Where do I start?
-    answer: Encourage conversations that allow employees to raise their concerns.
-      Create an environment that champions new practices. Social and
-      environmental initiatives emerge when these [values
-      ](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/culture-and-values)are
-      aligned with the purpose of the organization.
-  - question: How do we prioritize (between) environmental and social initiatives?
-    answer: Via the [advice process](../decision-making/), initiatives can be
-      assessed for fit with values and [evolutionary
-      purpose](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/evolutionary-purpose)
-      first. Other criteria might include impact, urgency and affordability.
-  - question: Do we need to assess the affordability of environmental and social
-      initiatives?
-    answer: "[Self-management](https://reinventingorganizations-wiki.netlify.app/ad\
-      min/#/collections/theory/entries/self-management) works to balance
-      spending in line with
-      [values](https://reinventingorganizations-wiki.netlify.app/admin/#/collec\
-      tions/theory/entries/culture-and-values) and
-      [purpose](https://reinventingorganizations-wiki.netlify.app/admin/#/colle\
-      ctions/theory/entries/listening-to-purpose). Employees’ own integrity and
-      sense of self-censorship work together to ensure that spending is in
-      alignment. Just as [Teal
-      organizations](https://reinventingorganizations-wiki.netlify.app/admin/#/\
-      collections/theory/entries/teal-paradigm-and-organizations) do not measure
-      accountability according to multiple bottom lines, self-management guides
-      spending within business capacity. [Teal
-      organizations](https://reinventingorganizations-wiki.netlify.app/admin/#/\
-      collections/theory/entries/teal-paradigm-and-organizations) sense and
-      respond. Budgets are used to make decisions; not to control variances."
+  - question: Ich möchte, dass meine Organisation mehr für Gesellschaft und Umwelt
+      tut. Wo soll ich anfangen?
+    answer: Regen Sie Gespräche an, die es Mitarbeitenden ermöglichen, ihre Anliegen
+      vorzubringen. Schaffen Sie ein Umfeld, das neue Aktivitäten fördert.
+      Soziale und ökologische Initiativen entstehen, wenn diese
+      [Werte](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/culture-and-values)
+      mit dem Sinn der Organisation in Einklang gebracht werden.
+  - question: Wie setzen wir Prioritäten bei ökologischen und sozialen Initiativen?
+    answer: Im [Beratungsprozess](../decision-making/) sollten Initiativen zunächst
+      auf ihre Übereinstimmung mit den Werten und dem [evolutionären
+      Zweck](https://reinventingorganizations-wiki.netlify.app/admin/#/collections/theory/entries/evolutionary-purpose)
+      geprüft werden. Weitere Kriterien könnten Auswirkungen, Dringlichkeit und
+      Erschwinglichkeit sein.
+  - question: Müssen wir die Erschwinglichkeit von Umwelt- und Sozialinitiativen
+      bewerten?
+    answer: "[Selbstorganisation](https://reinventingorganizations-wiki.netlify.app\
+      /admin/#/collections/theory/entries/self-management) sorgt dafür, dass
+      Ausgaben im Einklang mit
+      [Sinn](https://reinventingorganizations-wiki.netlify.app/admin/#/collecti\
+      ons/theory/entries/listening-to-purpose) und
+      [Werten](https://reinventingorganizations-wiki.netlify.app/admin/#/collec\
+      tions/theory/entries/culture-and-values) stehen. Die Integrität und der
+      Sinn für Selbstzensur der Mitarbeitenden sorgen mit dafür. So wie
+      [Teal-Organisationen](https://reinventingorganizations-wiki.netlify.app/a\
+      dmin/#/collections/theory/entries/teal-paradigm-and-organizations) ihre
+      Rechenschaftspflicht nicht an mehreren Zielen messen, steuert das
+      Selbstmanagement die Ausgaben im Rahmen der Geschäftskapazität.
+      [Teal-Organisationen](https://reinventingorganizations-wiki.netlify.app/a\
+      dmin/#/collections/theory/entries/teal-paradigm-and-organizations) spüren
+      und reagieren. Budgets werden verwendet, um Entscheidungen zu treffen,
+      nicht um Abweichungen zu kontrollieren."
 relatedTheory:
   - Culture and Values
   - Self-Management
