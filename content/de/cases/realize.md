@@ -1,28 +1,62 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
 name: Realize!
-introduction: Consulting - Netherlands - 4 partners - For Profit
+date: 2020-11-09
+introduction: Consulting - Niederlande - 4 Partner - Gewinnorientiert
 industry: M. Professional, scientific and technical activities
 geography: Netherlands
 companySize: 1-100
 profit: Profit
 theory:
   - topic: Compensation and incentives
-    title: Beautiful in-person conversation among partners to set their compensation.
-    content: >-
-      In small organizations, the process to set salaries and get advice can
-      involve everyone. All colleagues can come together for a meeting to
-      discuss and honor their contribution and decide on the appropriate salary
-      levels for every person in turn.
+    title: Persönliches Gespräch zwischen den Partnern zur Bestimmung ihrer Vergütung
+    content: "In kleinen Organisationen können alle Mitarbeitenden in den Prozess
+      der Gehaltsbestimmung und -beratung einbezogen werden. Bei einem
+      gemeinsamen Treffen besprechen und würdigen sie Beiträge und entscheiden
+      über ein angemessenes Gehalt für jede einzelne Person.\r
+
+      \r
 
 
-      Realize!, a four-person partnership in the field of organizational development consulting based in Amsterdam, the Netherlands, sets salaries in this way. (Note: since this writing, Realize has changed structure and this process although it remains relevant and inspirational). Each quarter, the four partners come together for a much-anticipated discussion.
+      Realize!, eine vierköpfige Partnerschaft und
+      Organisationsentwicklungsberatung mit Sitz in Amsterdam, Niederlande, legt
+      die Gehälter auf diese Weise fest. (Anmerkung: Seit der Erstellung dieses
+      Artikels hat Realize! seine Struktur und diesen Prozess geändert, wobei er
+      weiterhin relevant und inspirierend ist.) Jedes Quartal treffen sich die
+      vier Partner zu einer mit Spannung erwarteten Diskussion.\r
+
+      \r
 
 
-      The meeting starts with a traditional business update―discussing client activity, prominent events, and key figures for the last quarter. Then comes the beautiful (and sensitive) part: each partner in turn shares his perspective on his contribution during the last quarter, including work he has done, projects he has led, and support he has given to others. While one partner speaks, the others can chime in to add any unreported contributions, offer praise, or ask a critical question. When the group is done and feels that everyone’s contribution has been heard and honored, each person pauses to reflect in silence about compensation. How could the earnings from the last quarter be shared among the partners in a way that reflects everyone’s contribution?
+      Die Sitzung beginnt mit dem traditionellen Geschäftsbericht und der
+      Besprechung der Kundenaktivitäten, der wichtigen Ereignisse und Zahlen des
+      letzten Quartals. Dann kommt der schöne (und zugleich heikle) Teil: Jeder
+      Partner berichtet über seinen Beitrag im letzten Quartal; dazu gehören die
+      geleistete Arbeit, die geleiteten Projekte und die Unterstützung anderer
+      Personen. Während ein Partner spricht, können die anderen sich
+      einschalten, um noch nicht Berichtetes hinzuzufügen, Lob auszusprechen
+      oder Fragen zu stellen. Wenn die Gruppe fertig ist und das Gefühl hat,
+      dass der Beitrag jedes Einzelnen gehört und gewürdigt wurde, macht jeder
+      eine Pause, um in Ruhe über die Vergütung nachzudenken. Wie könnten die
+      Einnahmen aus dem letzten Quartal so unter den Partnern aufgeteilt werden,
+      dass der Beitrag aller berücksichtigt wird?\r
 
 
-      At some point, one partner breaks the silence with a proposal. Sometimes, the proposal feels just right and gets accepted on the spot. More often, it is a basis for a discussion: *I feel my contribution here or your contribution there deserves a higher recognition*. How exactly the cash will be split, the partners acknowledge, is ultimately not what this conversation is about. The discussion serves a higher purpose: making sure everybody feels his or her contribution is fully valued, that the inner and outer perspectives (what I know and what others perceive) are in sync. It is an exercise in openness, trust, and vulnerability. The four partners report that invariably they go into the discussion with some nervousness and leave the meeting with a deep sense of gratitude (and spontaneous collegial hugs) for being part of a partnership that operates from such deep levels of listening and trust.^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), page 130.]
+      Irgendwann bricht einer der Partner das Schweigen mit einem
+      Vorschlag. Manchmal fühlt sich der Vorschlag genau richtig an und wird auf
+      der Stelle angenommen. Meistens bildet er die Grundlage für eine
+      Diskussion: *Ich finde, dass mein Beitrag hier oder dein Beitrag dort eine
+      höhere Anerkennung verdient.* Die Partner räumen ein, dass es letztlich
+      nicht das Thema dieses Gesprächs ist, wie genau das Geld aufgeteilt werden
+      soll. Die Diskussion dient einem höheren Zweck: Jeder soll das Gefühl
+      haben, dass sein Beitrag voll und ganz gewürdigt wird und dass Innen- und
+      Außenperspektive übereinstimmen (was ich weiß und was andere wahrnehmen).
+      Es ist eine Übung in Sachen Offenheit, Vertrauen und Verletzlichkeit. Die
+      vier Partner berichten, dass sie alle mit einer gewissen Nervosität in die
+      Diskussion gehen und das Treffen mit einem tiefen Gefühl der Dankbarkeit
+      (und spontanen kollegialen Umarmungen) dafür beenden, dass sie Teil einer
+      Partnerschaft sind, die auf einer solchen Ebene des Zuhörens und
+      Vertrauens funktioniert.^\\[übersetzt aus: Laloux, Frederic. Reinventing
+      Organizations. Nelson Parker (2014), Seite 130]"
 ---
