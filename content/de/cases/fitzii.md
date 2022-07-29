@@ -1,170 +1,276 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
 name: Fitzii
+date: 2020-11-09
 introduction: >-
-  Hiring software and services provider - Canada - 10 employees – For profit
+  Anbieter von Software und Dienstleistungen für die Personalbeschaffung -
+  Kanada - 10 Mitarbeitende - gewinnorientiert
 
 
-  [Fitzii ](https://fitzii.com/go/about/)is a Ian Martin Group company (hiring support)
+  [Fitzii ](https://fitzii.com/go/about/)ist ein Unternehmen der Ian Martin Group (Unterstützung bei der Personalbeschaffung).
 industry: J. Information and communication
 geography: Canada
 companySize: 1-100
 profit: Profit
 theory:
   - topic: Organizational Structure
-    content: "Fitzii is organized in three parallel teams along functional lines –
-      product & development, sales & marketing, and hiring success. Each has a
-      senior person who plays a strategy and planning role but has no authority
-      over other team members (Fitzii uses the advice process and other
-      peer-based processes for decision making).\r
+    content: "Fitzii ist in drei Teams unterteilt, die nach funktionalen
+      Gesichtspunkten organisiert sind: Produkt und Entwicklung, Vertrieb und
+      Marketing sowie Einstellungserfolg. Jedes Team hat eine Führungskraft, die
+      eine strategische und planerische Rolle spielt, aber keine Macht über die
+      anderen Teammitglieder ausübt (Fitzii nutzt den Beratungsprozess und
+      andere Peer-basierte Prozesse für die Entscheidungsfindung).\r
 
-      \r
 
-      Fitzii maintains a Venn diagram to show the relationship between its
-      three teams. Each team is responsible for its own plans; every combination
-      of two teams has shared plans where their work overlaps; and finally,
-      certain topics rest in the center of the Venn where any changes require
-      input from all three teams. “Center of the Venn” topics include Fitzii’s
-      evolutionary purpose, strategy and thematic goals, product and service
-      changes that could significantly affect customers, and people and culture
-      practices such as self-management."
-    title: Fitzii is organized in three parallel teams and uses a Venn diagram to
-      illustrate where teams overlap and share decision making
+      Fitzii stellt die Beziehungen zwischen den drei Teams mit Hilfe
+      eines Venn-Diagramms dar. Jedes Team ist für seine eigenen Pläne
+      verantwortlich. Jede Team-Kombination hat gemeinsame Pläne, wo sich ihre
+      Arbeit überschneidet. Bestimmte Themen befinden sich in der Mitte des
+      Diagramms; hier erfordert jede Änderung den Input aller drei Teams. Dazu
+      gehören der evolutionäre Zweck von Fitzii, die Strategie und die
+      thematischen Ziele, Produkt- und Serviceänderungen, die weitreichende
+      Folgen für die Kundschaft haben könnten, sowie Verfahrensweisen zu
+      Belegschaft und Kultur wie beispielsweise Selbstmanagement.\r"
+    title: Fitzii ist in drei Teams organisiert und veranschaulicht anhand eines
+      Venn-Diagramms, wo sich Teams überschneiden und Entscheidungen gemeinsam
+      treffen.
   - topic: Meetings
-    title: Fitzii uses a variety of regular meetings and traditional and innovative
-      meeting practices to encourage team-building, information-sharing, and
-      decision-making.
-    content: >-
-      In addition to as-needed meetings, [Fitzii ](http://www.fitzii.com/)uses
-      regular meeting practices.
+    title: Fitzii nutzt eine Vielzahl regelmäßiger Besprechungen sowie traditionelle
+      und innovative Besprechungsmethoden, um Teambildung, Informationsaustausch
+      und Entscheidungsfindung zu fördern.
+    content: "Neben Meetings nach Bedarf gibt es bei [Fitzii
+      ](http://www.fitzii.com/) regelmäßige Besprechungen.\r
 
 
-      Monthly whole team meetings – all regular Fitzii coworkers attend a monthly meeting that alternates between its two offices. For a team who work from two locations and often telework, this ensures one predictable occasion to meet together face-to-face. The agenda regularly includes wholeness activities such as a getting-to-know one coworker activity, as well as financial review to increase the financial awareness of every team member and promote ownership thinking. Other topics are added, to a shared document (no one person controls the agenda), by anyone who wants the whole team’s input on any topic.
+      Monatliche Treffen der gesamten Belegschaft: Alle festen
+      Mitarbeitenden von Fitzii nehmen an einer monatlichen Besprechung teil,
+      die abwechselnd in einem der beiden Büros stattfindet. Für ein Team, das
+      an zwei Standorten arbeitet und häufig Telearbeit leistet, bietet dies
+      eine planbare Gelegenheit, sich persönlich zu begegnen. Auf der
+      Tagesordnung stehen regelmäßig Aktivitäten zur Förderung der
+      Ganzheitlichkeit, wie z.B. das Kennenlernen eines Mitarbeitenden, sowie
+      ein Finanzbericht, um das Bewusstsein aller dafür zu schärfen und
+      Eigenverantwortung zu fördern. Andere Themen werden von jedem, der den
+      Beitrag des gesamten Teams dazu wünscht, in einem gemeinsamen Dokument
+      aufgenommen. Niemand kontrolliert die Tagesordnung.\r
 
 
-      One-on-one meetings – traditional manager-employee one-on-one meetings have been replaced with rotating one-on-one meetings between random pairings of individuals. These meetings, called “Teal Dates”, serve to strengthen bonds, increase understanding of other roles, and provide a predictable first point of contact for the advice process. Each Teal Date pairing lasts three months.
+      Einzelgespräche: Die traditionellen Mitarbeitergespräche wurden
+      durch rotierende Einzelgespräche zwischen zufälligen zusammengestellten
+      Personenpaaren ersetzt. Diese „Teal Dates\" dienen dazu, die Verbindungen
+      zu stärken, das Verständnis für andere Rollen zu verbessern und einen
+      planbaren ersten Kontaktpunkt für den Beratungsprozess zu schaffen. Jede
+      „Teal Date“-Paarung dauert drei Monate.\r
 
 
-      Generally, sound meeting practices and facilitation are highly valued, ex. De Bono techniques, task-based learning techniques, and the company’s own Doozy of a Question (DOAQ) meeting style are examples.
+      Generell schätzt man bewährte Meeting- und Moderationsmethoden, z.B.
+      De-Bono-Techniken, aufgabenbasierte Lernverfahren und den firmeneigenen
+      „Doozy of a Question“ (DOAQ) Sitzungsstil.\r"
   - topic: Coordination
-    title: Key to Fitzii’s coordination is a weekly update on the company’s social
-      network
-    content: >-
-      At [Fitzii](https://www.fitzii.com/go/about/), weekly updates take place
-      in an enterprise social network, called Yammer, which is key for sharing
-      information and receiving advice. Every core team member writes a weekly
-      update of her/his work activities, advice processes, and concerns.
+    title: Der Schlüssel zur Koordination bei Fitzii ist ein wöchentliches Update im
+      sozialen Netzwerk des Unternehmens.
+    content: "Bei [Fitzii](https://www.fitzii.com/go/about/) finden wöchentliche
+      Updates im internen sozialen Netzwerk (Yammer) statt, das für den
+      Informationsaustausch und den Erhalt von Ratschlägen von zentraler
+      Bedeutung ist. Jedes Mitglied des Kernteams schreibt ein wöchentliches
+      Update zu Arbeitsaktivitäten, Beratungsprozessen und Anliegen.\r
 
 
-      Fitzii’s weekly updates are essential to its communication. Weekly updates ensure every team member has regular access to a wide variety of information about the business – everything from financial performance to customer concerns and the personal engagement of the individual – resulting in increased alignment and engagement of Fitzii team members. Fitzii’s ownership and advisory board are also members of the Yammer group, and they occasionally add comments of encouragement or raise difficult questions within the weekly updates or at advisory board meetings.
+      Die wöchentlichen Updates von Fitzii sind für die Kommunikation von
+      entscheidender Bedeutung. Sie stellen sicher, dass jedes Teammitglied
+      regelmäßig Zugang zu einer Vielzahl von Informationen über das Unternehmen
+      hat: von der finanziellen Leistung bis hin zu Kundenanliegen und dem
+      persönlichen Engagement des Einzelnen. Das führt zu einem besseren
+      Abgleich und einem größeren Engagement der Fitzii-Teammitglieder. Die
+      Eigentümer und der Beirat von Fitzii sind ebenfalls Mitglieder der
+      Yammer-Gruppe und fügen gelegentlich ermutigende Kommentare hinzu oder
+      stellen schwierige Fragen im Rahmen der wöchentlichen Updates oder bei
+      Beiratssitzungen.\r"
   - topic: Recruitment
-    title: Hiring software and services provider - Canada - 10 employees – For
-      profit  Each team does its own hiring and members of other teams
-      participate in panel interviews; fit is evaluated using why/how/what
-      framework.
-    content: >-
-      [Fitzii](http://www.fitzii.com/), a recruitment company, follows rigorous
-      processes to evaluate new hires’ potential for success – including
-      psychometric testing and in-depth panel interviews. Hiring decisions rest
-      with the team doing the hiring, with representatives of every other team
-      involved in panel interviews. Focus is on ensuring the new hire will
-      experience meaningful work and be supported by the Fitzii team.
+    title: Jedes Team stellt neue Leute selbst ein. Mitglieder anderer Teams nehmen
+      an Vorstellungsgesprächen teil. Eignung und Passung werden anhand des
+      „WARUM/WIE/WAS“-Rahmens bewertet.
+    content: "[Fitzii](http://www.fitzii.com/), ein Personaldienstleister, wendet
+      strenge Verfahren an, um das Erfolgspotenzial neuer Mitarbeitender zu
+      bewerten - einschließlich psychometrischer Tests und tiefgehender
+      Panel-Interviews. Die Entscheidungen liegen bei dem Team, das die
+      Einstellung vornimmt, wobei Vertreterinnen aller anderen Teams an den
+      Vorstellungsgesprächen teilnehmen. Hauptsache ist sicherzustellen, dass
+      der Neuzugang eine sinnvolle Tätigkeit ausübt und vom Fitzii-Team
+      unterstützt wird.\r
 
 
-      When hiring core team members, three essential types of fit are evaluated: • Why – alignment with Fitzii’s evolutionary purpose is evaluated in conversation during preliminary and panel interviews; there is a strong desire to find roles for people with clear purpose alignment • How – an individual’s behavioural traits, evaluated by psychometric testing within the Fitzii software • What – knowledge, skills, abilities related to the main role(s) the new hire will play, evaluated by the relevant functional team
+      Bei der Einstellung von Mitgliedern des Kernteams werden drei
+      wesentliche Arten der Übereinstimmung bewertet. WARUM: Die Übereinstimmung
+      mit dem evolutionären Zweck von Fitzii wird in Vorgesprächen und
+      Panel-Interviews bewertet. Es besteht ein starker Wunsch, Rollen für
+      Personen mit klarer Zweckausrichtung zu finden. WIE: Die
+      Verhaltensmerkmale einer Person werden mit Hilfe psychometrischer Tests
+      der Fitzii-Software bewertet. WAS: Hier geht es um Kenntnisse und
+      Fähigkeiten in Bezug auf die Hauptrolle(n), die der Neuzugang spielen
+      wird. Die Bewertung erfolgt durch das entsprechende Funktionsteam.\r
 
 
-      These may or may not be equally important in every hire. For example, hiring a programmer requires a high level of knowledge, skill, and ability (what) whereas hiring a senior person who will set strategy requires a high level of purpose alignment (why).
+      Diese Kriterien können, müssen aber nicht bei jeder Einstellung
+      gleich wichtig sein. Die Einstellung einer Programmiererin erfordert
+      beispielsweise ein hohes Maß an Wissen, Fähigkeiten und Fertigkeiten
+      (WAS), während die Einstellung einer leitenden Person für die Festlegung
+      der Strategie eine hohe Ziel- und Zweckorientierung verlangt (WARUM).\r"
   - topic: Commitment, Working Hours and Flexibility
-    title: At Fitzii, coworkers have freedom to work anywhere there is internet
-      connection and responsibility to achieve the benefits of in-person
-      connections.
-    content: In considering working hours and location,
-      [Fitzii](https://www.fitzii.com/go) “manages a polarity” between freedom
-      and responsibility. Coworkers can work anywhere there is internet
-      connection (freedom). Flexibility is greatly enjoyed by individuals who
-      are productive working from home or have occasional needs, ex. one
-      coworker spent a week working in Miami in order to visit a sick relative.
-      In practice, coworkers work primarily from two offices – one in Oakville,
-      Ontario and the other in Toronto, Ontario. In an effort to spend time
-      together in person – the CEO is often heard saying “you can’t build
-      community unless you waste time together” – coworkers make every effort to
-      work from Oakville on Tuesdays and from Toronto on Thursdays
-      (responsibility). Monthly in-person team meetings rotate between the two
-      locations; an annual in-person team retreat provides quality structured
-      and unstructured interaction.
+    title: Bei Fitzii haben die Mitarbeitenden die Freiheit, überall zu arbeiten, wo
+      es eine Internetverbindung gibt, und die Verantwortung, die Vorteile der
+      persönlichen Kontakte zu nutzen.
+    content: 'Bei Arbeitszeiten und -orten schafft
+      [Fitzii](https://www.fitzii.com/go) eine „Polarität" zwischen Freiheit und
+      Verantwortung. Die Mitarbeitenden können überall arbeiten, wo es eine
+      Internetverbindung gibt (Freiheit). Die Flexibilität wird von Personen
+      sehr geschätzt, die zu Hause produktiv arbeiten können oder gelegentlichen
+      Anforderungen gerecht werden müssen. Ein Mitarbeiter arbeitete
+      beispielsweise eine Woche lang in Miami, um einen kranken Verwandten
+      besuchen zu können. Normalerweise arbeiten die Leute hauptsächlich von
+      zwei Büros aus (Oakville und Toronto in Ontario). Der CEO sagt oft: „Man
+      kann keine Gemeinschaft aufbauen, wenn man keine Zeit miteinander
+      verbringt." Um also persönlich zusammenzukommen, bemühen sich die
+      Mitarbeitenden, dienstags von Oakville und donnerstags von Toronto aus zu
+      arbeiten (Verantwortung). Monatliche Teambesprechungen finden abwechselnd
+      an einem der beiden Standorte statt. Eine jährliche Teamklausur sorgt für
+      intensive strukturierte und unstrukturierte Interaktion.'
   - topic: Job Titles and Job Descriptions
-    title: Fitzii has no set job descriptions; coworkers perform one or more roles
-      based on their interests, talents, and the needs of the organization. A
-      standard job title practice gives both guidance and flexibility when a
-      title is useful.
-    content: >-
-      [Fitzii](https://www.fitzii.com/go) has no set job descriptions; coworkers
-      perform one or more roles based on their interests, talents, and the needs
-      of the organization.
+    title: Bei Fitzii gibt es keine festen Stellenbeschreibungen. Die Mitarbeitenden
+      üben eine oder mehrere Rollen aus – je nach ihren Interessen, Talenten und
+      den Bedürfnissen der Organisation. Eine Standard-Stellenbezeichnung bietet
+      sowohl Orientierung als auch Flexibilität, wenn eine Bezeichnung sinnvoll
+      ist.
+    content: "[Fitzii](https://www.fitzii.com/go) hat keine festgelegten
+      Stellenbeschreibungen. Die Mitarbeitenden übernehmen eine oder mehrere
+      Rollen – je nach ihren Interessen, Talenten und den Bedürfnissen der
+      Organisation.\r
 
 
-      Coworkers have one core role. Based on that core role, they are members of one of three functional teams – product & development, sales & marketing, and hiring success. Coworkers also have other roles not related to their core role. For convenience, simple lists of these roles exist in the company social network. They are as simple as “Hiring practice - Luz” so that it’s easy to identify the person currently playing a role.
+      Die Mitarbeitenden haben immer eine Kernrolle. Demnach sind sie
+      Mitglieder eines der drei funktionalen Teams - Produkt und Entwicklung,
+      Vertrieb und Marketing, Einstellungserfolg. Neben der Kernrolle haben sie
+      weitere Rollen. Der Übersicht halber gibt es im sozialen Netzwerk des
+      Unternehmens einfache Listen mit diesen Rollen. Sie lauten beispielsweise
+      \"Einstellungspraxis - Luz\", so dass es recht simpel ist, die Person zu
+      identifizieren, die gerade eine bestimmte Rolle spielt.\r
 
 
-      Otherwise, roles are not described per se; but if the goal of a traditional job description is to make clear what each person should be doing, the equivalent source of guidance is each team’s goals and plans document, which makes clear the current priorities of that team. In that sense, a coworker’s job description is to make progress on Fitzii’s purpose, specifically by achieving the goals and plans her functional team has committed to.
+      Andernfalls werden die Rollen nicht per se beschrieben. Aber wenn
+      das Ziel einer traditionellen Stellenbeschreibung ist zu verdeutlichen,
+      was jede Person tun sollte, gibt das Dokument der Ziele und Pläne jedes
+      Teams mit seinen aktuellen Prioritäten eine ähnliche Orientierung. In
+      diesem Sinne besteht die Stellenbeschreibung eines Mitarbeitenden darin,
+      das Ziel von Fitzii voranzubringen, insbesondere durch die Verwirklichung
+      der Ziele und Pläne, zu denen sich sein funktionales Team verpflichtet
+      hat.\r
 
 
-      Regarding job titles, it is common practice to use one’s team name as a title. For example – introducing oneself as “Carla from hiring success” or signing an email: Carla, Hiring Success, Fitzii. At the same time, in situations when it is more practical to use a conventional title, each person has freedom to do so. For example, it might be practical for a member of the sales & marketing team to identify himself as Fitzii’s marketing manager when addressing marketing services vendors. There is either enough peer pressure or good sense to avoid fancier ego-driven titles!
+      Bezüglich der Jobtitel ist es üblich, stattdessen den Namen des
+      eigenen Teams zu verwenden. Man stellt sich zum Beispiel vor als „Carla
+      von Hiring Success\" oder unterschreibt eine E-Mail mit „Carla,
+      Einstellungserfolg, Fitzii“. Gleichzeitig steht es jeder Person frei, in
+      bestimmten Situationen einen herkömmlichen Titel zu verwenden. Zum
+      Beispiel könnte es für ein Mitglied des Vertriebs- und Marketingteams
+      nützlich sein, sich als Marketingmanager von Fitzii zu bezeichnen, wenn es
+      sich an Anbieter von Marketingdienstleistungen wendet. So gibt es entweder
+      sozialen Druck oder gesunden Menschenverstand, um ausgefallene,
+      ego-getriebene Titel zu vermeiden!\r"
   - topic: Feedback and Performance Management
-    title: Fitzii coworkers cite an annual, structured, self and peer review process
-      as a highlight of their work and relationships.
-    content: >-
-      At [Fitzii](http://www.fitzii.com/), feedback of all kinds is frequently
-      sought and given.
+    title: Die Mitarbeitenden von Fitzii sehen im jährlichen, strukturierten Prozess
+      der Selbst- und Fremdeinschätzung ein Highlight ihrer Arbeit und
+      Beziehungen.
+    content: "Bei [Fitzii](http://www.fitzii.com/) wird häufig Feedback jeglicher
+      Art eingeholt und gegeben.\ 
 
 
-      Annually, every Fitzii coworker completes a self-assessment, answering these two questions (in an online performance management tool):
+      Jedes Jahr macht jeder Mitarbeitender eine Selbsteinschätzung und
+      beantwortet diese beiden Fragen (in einem
+      Online-Performance-Management-Tool):\r
 
 
-      * Assess your past year in terms of your accomplishments, important learning, and even mistakes that led to growth. Then tell us what areas of your performance you'd particularly like to get feedback about.
+      * Bewerte dein vergangenes Jahr im Hinblick auf deine Leistungen,
+      wichtige Erkenntnisse und sogar Fehler, die zu Wachstum geführt haben.\r
+
+      * Teile uns dann mit, zu welchen Bereichen deiner Leistung du gerne
+      Feedback erhalten würdest.\r
 
 
-      Self-assessments are then shared with every other member of the Fitzii team, who review the content before responding with answers to these two questions:
+      Die Selbsteinschätzungen werden dann mit allen anderen
+      Teammitgliedern geteilt, die den Inhalt überprüfen, bevor sie Antworten
+      auf diese beiden Fragen geben:\r
 
 
-      * What did NAME do well? Be sure to include the one thing you most value about working with NAME.
+      * Was hat Person X gut gemacht? Nenne das, was du an der
+      Zusammenarbeit mit Person X am meisten schätzt.\r
+
+      * Wenn du bedenkst, wie Person X auf dich gewirkt hat und was sie
+      gerne erfahren möchte: Welches Feedback würdest du ihr gerne geben, damit
+      sie sich weiterentwickeln oder verbessern kann?\r
 
 
-      * Considering how you have been affected by NAME, and what areas she's interested in hearing about, what is the feedback you would like to give that could best help her grow or improve?
+      Die Peers werden ermutigt, in der ersten Person zu schreiben und
+      mitzuteilen, inwieweit sie von den Beiträgen der anderen Person
+      inspiriert, berührt, verletzt usw. wurden. Das Feedback wird nicht als
+      objektive Wahrheit dargestellt. Es werden keine numerischen Bewertungen
+      oder Ranglisten verwendet.\r
 
 
-      Peers are encouraged to write in “I” language and to share how they have been inspired, touch, hurt, etc. by the other person’s contributions. Feedback is not presented as objective truth. No numerical ratings or rankings are used.
-
-
-      Each coworker then receives and reviews the feedback and prepares to attend a whole-team discussion in which every person shares new insights from the feedback process, as well as actions he or she wishes to take in response.
+      Jeder Mitarbeitende erhält dann das Feedback, prüft es und bereitet
+      sich auf eine Diskussion im gesamten Team vor, in der jeder neue
+      Erkenntnisse aus dem Feedbackprozess teilt und Maßnahmen vorschlägt, die
+      er oder sie daraufhin ergreifen möchte.\r"
   - topic: board
-    title: Board meetings are transparent and use a real-time agenda.
-    content: >-
-      [Fitzii ](http://www.fitzii.com/)is owned by a [B
-      Corp](http://www.bcorporation.net/), The Ian Martin Group, whose CEO and
-      senior leaders act as an advisory board. Monthly meetings between the two
-      groups focus on surfacing conflict and seeking advice.
+    title: Die Vorstandssitzungen sind transparent und basieren auf einer
+      Echtzeit-Agenda.
+    content: "[Fitzii ](http://www.fitzii.com/) gehört zu einer [B
+      Corp](http://www.bcorporation.net/), der Ian Martin Group, deren CEO und
+      leitende Angestellte als Beirat fungieren. Bei den monatlichen Treffen
+      zwischen den beiden Gruppen geht es vor allem darum, Konflikte zu
+      besprechen und Rat einzuholen.\r
 
 
-      The meeting agenda is created in “real time” at the beginning of every meeting. This reduces bureaucracy and any politicking for topics that may not interest the whole group, or have urgency. Each team head and board member shares four items: what s/he is a) focused on, b) excited about, c) concerned about, and d) tasks that need immediate attention. Urgent topics, and those of broad interest, are discussed, and others deferred. Meeting notes are accessible to all Fitzii team members.
+      Die Tagesordnung wird zu Beginn jeder Sitzung in „Echtzeit\"
+      erstellt. Dies verringert den bürokratischen Aufwand und die politische
+      Einflussnahme auf Themen, die nicht für die gesamte Gruppe von Interesse
+      oder dringlich sind. Jede Teamleitung und jedes Vorstandsmitglied teilt
+      vier Punkte mit: a) worauf er/sie sich konzentriert, b) worüber er/sie
+      sich freut, c) worüber er/sie besorgt ist, und d) Aufgaben, die sofortige
+      Aufmerksamkeit erfordern. Dringende Themen und solche von allgemeinem
+      Interesse werden diskutiert, andere zurückgestellt. Die Sitzungsnotizen
+      sind für die gesamte Belegschaft zugänglich.\r"
   - topic: Staff Functions
-    title: Fitzii has no dedicated staff functions. Individuals from functional
-      teams volunteer to act as stewards of various staff functions, as needed.
-    content: >-
-      Fitzii is organized in three parallel teams along functional lines –
-      product & development, sales & marketing, and hiring success. Every Fitzii
-      employee is a member of one of these teams, depending on his or her core
-      role.
+    title: Fitzii hat keine speziellen Stabsfunktionen. Einzelpersonen aus den
+      Funktionsteams stellen sich freiwillig zur Verfügung, um je nach Bedarf
+      verschiedene Stabsfunktionen zu übernehmen.
+    content: "Fitzii ist nach funktionalen Gesichtspunkten in drei Teams
+      organisiert: Produkt und Entwicklung, Vertrieb und Marketing,
+      Einstellungserfolg. Jeder ist – je nach Hauptaufgabe – Mitglied eines
+      dieser Teams.\r
 
 
-      In addition, Fitzii team members volunteer to steward various staff roles such as finances, purchasing, and human resources. The individual steward accumulates expertise and moves decisions, actions, and projects forward. These allocations are based on individual interest and the team’s overall needs.
+      Zudem engagieren sich Fitzii-Teammitglieder freiwillig als Steward
+      für verschiedene Stäbe wie Finanzen, Einkauf und Personalwesen. Man
+      sammelt so Fachwissen und treibt Entscheidungen, Maßnahmen und Projekte
+      voran. Die Zuweisungen erfolgen gemäß individuellen Interessen und
+      allgemeinen Bedürfnissen des Teams.\r
 
 
-      A practical example: when Fitzii developed a peer-based 360-degree feedback process, various team members were interested in contributing. Initially, development of the new feedback process lagged as no one was clearly responsible for moving it forward. When the team noticed this, one coworker from the product & development team took the role of steward of the feedback process. He collected advice and opinions from other interested coworkers, proposed a process based on their advice, and took over practical implementation of the new practice. In that sense, the role is less about authority over a particular staff function and more about serving the team’s practical needs.
+      Ein praktisches Beispiel: Als Fitzii einen Peer-basierten
+      360-Grad-Feedback-Prozess entwickelte, waren verschiedene Teammitglieder
+      an einer Mitarbeit interessiert. Anfänglich verzögerte sich die
+      Entwicklung des neuen Feedbackprozesses, da niemand eindeutig dafür
+      verantwortlich war, ihn voranzutreiben. Als das Team dies bemerkte,
+      übernahm ein Mitarbeiter aus dem Produkt- und Entwicklungsteam die Rolle
+      des Stewards. Er holte Ratschläge und Meinungen von anderen interessierten
+      Mitarbeitenden ein, schlug daraufhin einen Prozess vor und übernahm die
+      praktische Umsetzung. In diesem Sinne geht es bei der Rolle weniger um
+      Autorität über eine bestimmte Stabsfunktion als vielmehr um die Erfüllung
+      der praktischen Bedürfnisse des Teams.\r
 
 
-      Additionally, the team has regular access to subject matter experts from its parent company, the [Ian Martin Group,](http://ianmartin.com/) as well as external experts, such as legal counsel.
+      Darüber hinaus hat das Team regelmäßig Zugang zu Fachleuten der
+      Muttergesellschaft, der [Ian Martin Group](http://ianmartin.com/), sowie
+      zu externen Experten (z.B. Rechtsberater).\r"
 ---
