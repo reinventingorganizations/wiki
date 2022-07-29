@@ -5,7 +5,7 @@ name: Key organizational structures and practices
 ## Prácticas y Estructuras Organizativas Clave
 
 * [Estructura Organizativa](../organizational-structure/)
-* [Funciones Staff](../theory/staff-functions/)
+* [Funciones Staff](../../staff-functions/)
 * [Coordinación](../theory/coordination/)
 * [Equipos de Proyecto y Grupos de Tarea](../theory/project-teams-and-task-forces/)
 * [El Consejo de Administración](../theory/board/)
