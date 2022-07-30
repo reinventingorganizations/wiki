@@ -1,39 +1,59 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
 name: Ozvision
-introduction: Ozvision has experimented with innovative approaches. One is the
-  morning meeting called 'good or new'.
+date: 2020-11-09
+introduction: Ozvision hat mit innovativen Ansätzen experimentiert. Einer davon
+  ist das Morgen-Meeting mit dem Motto „Gut oder Neu".
 industry: R. Arts, entertainment and recreation
 geography: Japan
 companySize: 1-100
 profit: Profit
 theory:
   - topic: Meetings
-    title: Ozvision has experimented with innovative approaches. One is the morning
-      meeting called 'good or new'.
+    title: Ozvision hat mit innovativen Ansätzen experimentiert. Einer davon ist das
+      Morgen-Meeting mit dem Motto „Gut oder Neu".
     content: >-
-      **Morning meeting:**
+      **Morgen-Meeting:**
 
 
-      Every morning people gather their teams for ‘good or new’--a sort of check-in for the day. A doll is passed around, like a talking stick. The holder can share either something new (news from work, the papers, or their private lives), or something good, or simply a story they want their colleagues to know about, work-related or not.
+      Jeden Morgen versammeln sich die Teams zu „Gut oder Neu" - eine Art Check-in für den Tag. Eine Puppe wird wie ein Rede-Stab herumgereicht. Die sie haltende Person kann entweder etwas Neues (von der Arbeit, aus der Zeitung oder dem Privatleben), etwas Gutes oder einfach eine Geschichte im Kollegenkreis erzählen – egal, ob sie mit der Arbeit zu tun hat oder nicht.
   - topic: Mood Management
-    title: This internet company has experimented a lot with innovative approaches
-      on mood management. Two such practices involve story-telling.
-    content: >-
-      In the first, teams gather each morning for a quick meeting called “good
-      or new”. It's a kind of check-in for the day. A doll is passed round, like
-      a talking stick, and whoever has it shares either something new (news from
-      work, the press, or their private lives), or something good (simply a
-      story they want their colleagues to know about, work-related or not).
+    title: "Diese Internet-Firma hat viel mit innovativen Ansätzen zum
+      Stimmungsmanagement experimentiert. Zwei dieser Praktiken beinhalten das
+      Erzählen von Geschichten. "
+    content: "Bei der ersten versammeln sich die Teams jeden Morgen zu einer kurzen
+      Besprechung mit dem Titel „Gut oder Neu\". Es handelt sich dabei um eine
+      Art Check-in für den Tag. Eine Puppe wird wie ein Rede-Stab herumgereicht.
+      Die sie haltende Person erzählt entweder etwas Neues (von der Arbeit, aus
+      der Presse oder dem Privatleben) oder etwas Gutes (einfach eine
+      Geschichte, die der Kollegenkreis kennen sollte, ob sie nun mit der Arbeit
+      zu tun hat oder nicht).\r
+
+      \r
 
 
-      Thus each day starts with a brief, joyful moment: a sort of ritual that says, “Let’s acknowledge that we are all here, as colleagues and as human beings.”
+      So beginnt jeder Tag mit einem kurzen, netten Moment: eine Art
+      Ritual, das besagt: „Lasst uns anerkennen, dass wir alle hier sind – als
+      Mitarbeitende und als Menschen.\"\r
+
+      \r
 
 
-      The second story-telling practice is based on the right of everyone to take an extra day off each year. It's called a "day of thanking". The employee gets $200 from company funds to spend in any way she wants, as long as it is to thank someone special. It might be a colleague, parent, friend, neighbor, or long-lost but not-forgotten school teacher. The only rule is that once she returns to work, she must share the story of what she gave and to whom and how the gift was received.
+      Die zweite Praxis des Geschichtenerzählens basiert auf dem Recht für
+      alle, jedes Jahr einen zusätzlichen Tag frei zu nehmen. Man nennt ihn den
+      „Tag des Dankes\". Der oder die Mitarbeitende erhält 200 Dollar aus
+      Firmenmitteln, die nach Belieben ausgegeben werden können - solange damit
+      einer besonderen Person gedankt wird. Das kann ein Kollege, ein
+      Elternteil, eine Freundin, ein Nachbar oder eine vor langer Zeit
+      verlorene, aber nie vergessene Lehrerin sein. Die einzige Auflage ist,
+      dass nach der Rückkehr zur Arbeit erzählt wird, was das Geschenk war, an
+      wen es ging und wie es angekommen ist.\r
 
 
-      At [Ozvision](http://ozvision.com/), with 40 employees, colleagues there hear three or four such stories every month. These are often deeply personal stories where colleagues are willing to share three steps in their experience―when the seed for gratitude was planted, how the person was thanked, and how their gift was received.
+      Bei [Ozvision](http://ozvision.com/) mit seinen 40 Mitarbeitenden
+      hört man jeden Monat drei oder vier solcher Geschichten. Dabei handelt es
+      sich oft um sehr persönliche Erzählungen mit drei Erfahrungsschritten:
+      wann die Saat der Dankbarkeit gesäht, wie der Person gedankt und wie das
+      Geschenk aufgenommen wurde."
 ---

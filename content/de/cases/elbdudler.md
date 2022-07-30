@@ -1,29 +1,42 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
 name: Elbdudler
-introduction: Social media consulting - Germany - 34 people - For Profit.
+date: 2020-11-09
+introduction: Beratung Soziale Medien - Deutschland - 34 Mitarbeitende - gewinnorientiert.
 industry: M. Professional, scientific and technical activities
 geography: Germany
 companySize: 1-100
 profit: Profit
 theory:
   - topic: Compensation and incentives
-    title: People self-set their salaries based on 4 simple questions
-    content: >-
-      At Elbdudler, colleagues self-set their salaries using the 4 following
-      questions to trigger reflection and self-calibrate:
+    title: Die Mitarbeitenden legen ihre Gehälter anhand von vier einfachen Fragen
+      selbst fest.
+    content: "Bei Elbdudler bestimmen die Mitarbeitenden ihre eigenen Gehälter mit
+      Hilfe der folgenden vier Fragen zur Reflexion und Selbsteinschätzung:
+
+      \r
 
 
-      * What do I need?
+      - Was brauche ich?\r
 
-      * What's my market value outside of Elbdudler?
+      - Was ist mein Marktwert außerhalb von Elbdudler?\r
 
-      * How much do my colleagues earn?
+      - Wie viel verdienen meine Kolleginnen und Kollegen?\r
 
-      * What can the company afford to pay?
+      - Was kann sich das Unternehmen leisten?\r
 
 
-      All salary choices are public. So far, no one has ever made an outrageous choice. If someone asks for a very high salary, colleagues can ask him or her to make a proposal how the company could earn more money. It's up to that person to make the plan happen ^[[http://www.mopo.de/geld/deutschlands-coolster-chef-er-laesst-mitarbeiter-selbst--ueber-ihr-gehalt-bestimmen,5066776,29007608.html](https://www.mopo.de/news/politik-wirtschaft/geld/deutschlands-coolster-chef-er-laesst-mitarbeiter-selbst--ueber-ihr-gehalt-bestimmen-282620)]
+      \r
+
+      Alle Gehaltsentscheidungen sind transparent. Bis jetzt hat noch
+      niemand unverschämt überzogen. Falls jemand ein relativ hohes Gehalt
+      verlangt, kann der Kollegenkreis ihn oder sie um einen Vorschlag bitten,
+      wie das Unternehmen mehr Geld verdienen könnte. Es liegt dann an dieser
+      Person, den Plan in die Tat umzusetzen.
+
+      ^[[http://www.mopo.de/geld/deutschlands-coolster-chef-er-laesst-mit\
+      arbeiter-selbst--ueber-ihr-gehalt-bestimmen,5066776,29007608.html](https:\
+      //www.mopo.de/news/politik-wirtschaft/geld/deutschlands-coolster-chef-er-\
+      laesst-mitarbeiter-selbst--ueber-ihr-gehalt-bestimmen-282620)]"
 ---

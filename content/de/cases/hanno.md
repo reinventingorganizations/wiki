@@ -3,57 +3,92 @@ layout: case
 tags: cases
 name: Hanno
 date: 2020-11-17T14:57:05.017Z
-introduction: Digital design agency - Worldwide - 8 'shipmates' - For Profit.
+introduction: Agentur für digitales Design - weltweit - 8 Mitarbeitende - gewinnorientiert.
 industry: M. Professional, scientific and technical activities
 geography: Global
 companySize: 1-100
 profit: Profit
 theory:
   - topic: Compensation and incentives
-    title: Evolution of open salary setting from algorithm to advice process.
-    content: >-
-      #### **Summary**
+    title: Entwicklung der transparenten Gehaltsfestlegung vom Algorithmus zum
+      Beratungsprozess.
+    content: "#### **Zusammenfassung**
 
 
-      In September 2014, Hanno made the information about all team members' salaries openly available to the rest of the team.
+      Im September 2014 machte Hanno Gehaltsinformationen aller
+      Teammitglieder für den Rest des Teams offen zugänglich.\ 
 
 
-      After trialling an algorithm-based model, as of June 2015 Hanno has implemented a self-set salary model, with an advice process. In the words of founder Jon Lay: "As long as we have total financial transparency, respect for the individual, peer review and self-discipline in our process of setting salaries, employees can be trusted to set a salary which works for them and also their team." ^[[https://logbook.hanno.co/choose-your-own-salary/](https://hanno.co/blog/choose-your-own-salary/)]
+      Nach der Erprobung eines Modells auf der Basis eines Algorithmus hat
+      Hanno im Juni 2015 ein Gehaltsmodell mit Selbstbestimmung und
+      Beratungsprozess eingeführt. Gründer Jon Lay sagt: „Solange wir völlige
+      finanzielle Transparenz, Respekt für das Individuum, Peer-Review und
+      Selbstdisziplin bei der Festlegung von Gehältern haben, können wir den
+      Mitarbeitenden ver- und zutrauen, dass sie ein Gehalt festlegen, das für
+      sie und ihr Team stimmig
+      ist.\"^[[https://logbook.hanno.co/choose-your-own-salary/](https://hanno.\
+      co/blog/choose-your-own-salary/)]
 
 
-      #### **Process for self-setting salaries at Hanno**
+      #### **Gehaltsfindungsprozess**
 
 
-      It works roughly like this:
+      Das läuft ungefähr so:\r
+
+      * Um finanzielle Transparenz zu gewährleisten, werden alle Gehälter
+      für das Team (auch „Schiffskameraden\" genannt) veröffentlicht.\r
+
+      * Alle drei bis sechs Monate findet ein offenes Briefing über den
+      Finanzstatus von Hanno statt, in dem die „Schiffskameraden\" über die
+      Gehaltsentwicklung für den kommenden Zeitraum informiert werden - wobei es
+      ihnen freisteht, diese Informationen zu hinterfragen oder zu ignorieren.\r
+
+      * Es folgen Feedback- und Diskussionsrunden, bevor jeder
+      „Schiffskamerad\" seinen Gehaltsvorschlag für die nächsten 3-6 Monate in
+      den Beratungsprozess gibt.\r
+
+      * Nach weiteren Rückmeldungen und Diskussionen kann jeder
+      „Schiffskamerad\" seinen ursprünglichen Vorschlag anpassen (oder auch
+      nicht).\r
+
+      * Die neuen Gehälter werden dann dem gesamten Team bekannt
+      gegeben.\r
+
+      * Ein Gehaltsvorschlag kann nur dann abgelehnt werden, wenn ein
+      echtes Risiko besteht, dass er den Interessen des Unternehmens schadet.\r
 
 
-      * To ensure financial transparency, all salaries are published to the team (aka 'shipmates').
-
-      * There is an open briefing every 3-6 months on Hanno's financial status, which advises 'shipmates' on salary direction for the coming period - advice they are at liberty to challenge or ignore.
-
-      * This is followed by rounds of feedback and discussion, before each 'shipmate' submits their proposed salary for the next 3-6 months to an Advisory Process.
-
-      * After further feedback and discussion, each 'shipmate' may adjust (or not) their original proposal.
-
-      * The new salaries are then also published to the whole team.
-
-      * A salary proposal can only be rejected if it is felt there is a genuine risk that it will harm the interests of the company.
+      #### **Nachteile des Algorithmus-Modells**
 
 
-      #### **Drawbacks of the algorithm model at Hanno**
+      Das vorherige Algorithmus-System (basierend auf dem Puffermodell)
+      verwendete Additions-/Multiplikationsfaktoren unter Einbeziehung von
+      Rolle, Expertise und Standort sowie eine Gründerkomponente. Man stellte
+      bald fest, dass dieses Modell entweder schwierig anzuwenden war oder zu
+      Ergebnissen führte, die den Zielen des Unternehmens entgegenstanden.\r
 
 
-      The previous algorithm-based system (based on the Buffer model) used addition/multiplication factors based on Role, Expertise, and Location, as well as a Founder component. Hanno soon found that this model was often either tricky to apply, or produced results that seemed to work against their goals.
+      Besonders schwierig war es, die Gewichtung so anzupassen, dass die
+      „Schiffskameraden\" sowohl für Investitionen in persönliches Wachstum
+      (neue Fähigkeiten/Expertise) als auch für die Erbringung von strategischem
+      Geschäftswert (z.B. Networking, Geschäftsentwicklung) angemessen belohnt
+      wurden. Zudem erwies es sich als schwierig, in einem derart starren Modell
+      Faktoren wie unterschiedliche Elemente des Standorts zu berücksichtigen
+      und sicherzustellen, dass das Unternehmen für „Schiffskameraden\" mit
+      Familienangehörigen ausreichend attraktiv blieb.\r
 
 
-      It was particularly difficult to adjust the weighting so that 'shipmates' were appropriately rewarded for both investing in personal growth (new skills/expertise) and delivering strategic business value (e.g. networking, business development). In addition, it proved difficult - in such a rigid model - to account for factors such as differing elements of Location, and to ensure that the company remained sufficiently attractive to 'shipmates' with dependents.
+      Darüber hinaus wurde der Faktor „Gründer\" als ungerecht empfunden
+      (sogar vom Gründer selbst), zumal diese Rolle Einfluss auf die
+      Gehaltsformel selbst hatte und daher in gewisser Weise immun gegen
+      Kontrollen und Ausgleiche war.\r
 
 
-      In addition, the Founder factor was considered unfair (even by the founder himself), especially as this role had power over the salary formula itself and was therefore somewhat immune from checks and balances.
+      #### **Weitere Informationen**
 
 
-      #### **Further information**
-
-
-      Details of this journey and its further evolution are documented in Hanno's online logbook.^[Source: https://logbook.hanno.co/choose-your-own-salary/]
+      Einzelheiten zu dieser Entwicklung und dem weiteren Verlauf sind in
+      Hannos Online-Logbuch
+      dokumentiert.^[[https://logbook.hanno.co/choose-your-own-salary/](https:/\
+      /logbook.hanno.co/choose-your-own-salary/)]"
 ---
