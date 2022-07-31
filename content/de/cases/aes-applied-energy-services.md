@@ -108,7 +108,7 @@ theory:
 
       AES fand heraus, dass der Einsatz von freiwilligen Arbeitsgruppen anstelle von festen Personalfunktionen mehrere Vorteile hat. Die Mitarbeiter finden Möglichkeiten, ihre Talente und Begabungen zum Ausdruck zu bringen, die sie in ihrer primären Funktion vielleicht nicht brauchen. Sie entwickeln ein echtes Gefühl der Eigenverantwortung, wenn sie sehen, dass sie wirklich die Macht haben, ihr Unternehmen zu gestalten. Der Gründer Dennis Bakke betont noch einen weiteren Punkt: Diese Task Forces sind beeindruckende Lerneinrichtungen. Zu jedem beliebigen Zeitpunkt würden Tausende von Menschen in den Task Forces mitarbeiten und von erfahreneren Kollegen technische Fähigkeiten und Führungsqualitäten erlernen. Es handelt sich um eine moderne Form der Berufsausbildung, die ein riesiges Ausmaß annimmt. Keine Ausbildung im Klassenzimmer könnte jemals das Ausmaß des Lernens bieten, das tagtäglich in den freiwilligen Task Forces stattfand.^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), Seite 88 und folgende]
   - topic: Crisis Management
-    title: AES unterbricht den Beratungsprozess so behutsam wie möglich
+    title: AES unterbricht den Beratungsprozess so behutsam wie möglich.
     content: "Im Herbst 2001, nach den Terroranschlägen und dem Zusammenbruch von
       Enron, stürzte der Aktienkurs von AES ab. Das Unternehmen benötigte Zugang
       zu den Kapitalmärkten, um seine hohe Verschuldung zu bedienen, fand diese
@@ -160,70 +160,48 @@ theory:
       die Selbstverwaltung als logische Vorgehensweise ansieht. Das
       traditionelle Glaubenssystem wurde zusammen mit den Kollegen explizit
       gemacht, was es sehr mächtig und konfrontativ machte."
-    content: "Here is how Dennis Bakke (CEO of AES at that time) summarizes the
-      assumptions workers feel bosses have about them:
-
-
+    content: >-
       Im Folgenden fasst Dennis Bakke (damaliger CEO von AES) die Annahmen
       zusammen, von denen die Arbeitnehmer glauben, dass ihre Chefs sie über sie
       haben:
 
 
-      * Arbeiter sind faul. Wenn sie nicht beobachtet werden, werden sie
-      nicht fleißig arbeiten.\r
+      * Arbeiter sind faul. Wenn sie nicht beobachtet werden, werden sie nicht fleißig arbeiten.
 
-      * Arbeiter arbeiten in erster Linie für Geld. Sie werden alles tun,
-      um so viel Geld wie möglich zu verdienen.\r
+      * Arbeiter arbeiten in erster Linie für Geld. Sie werden alles tun, um so viel Geld wie möglich zu verdienen.
 
-      * Arbeitnehmer stellen ihre eigenen Interessen über das, was für das
-      Unternehmen am besten ist. Sie sind egoistisch.\r
+      * Arbeitnehmer stellen ihre eigenen Interessen über das, was für das Unternehmen am besten ist. Sie sind egoistisch.
 
-      * Arbeitnehmer erbringen die besten Leistungen und sind am
-      effektivsten, wenn sie eine einfache, wiederholbare Aufgabe zu erledigen
-      haben.\r
+      * Arbeitnehmer erbringen die besten Leistungen und sind am effektivsten, wenn sie eine einfache, wiederholbare Aufgabe zu erledigen haben.
 
-      * Arbeiter sind nicht in der Lage, gute Entscheidungen über wichtige
-      Angelegenheiten zu treffen, die die wirtschaftliche Leistung des
-      Unternehmens beeinflussen. Chefs sind gut im Treffen von Entscheidungen.\r
+      * Arbeiter sind nicht in der Lage, gute Entscheidungen über wichtige Angelegenheiten zu treffen, die die wirtschaftliche Leistung des Unternehmens beeinflussen. Chefs sind gut im Treffen von Entscheidungen.
 
-      * Die Arbeitnehmer wollen nicht für ihre Handlungen oder für
-      Entscheidungen, die sich auf die Leistung des Unternehmens auswirken,
-      verantwortlich sein.\r
+      * Die Arbeitnehmer wollen nicht für ihre Handlungen oder für Entscheidungen, die sich auf die Leistung des Unternehmens auswirken, verantwortlich sein.
 
-      * Arbeitnehmer brauchen Fürsorge und Schutz, so wie Kinder die
-      Fürsorge ihrer Eltern brauchen.\r
+      * Arbeitnehmer brauchen Fürsorge und Schutz, so wie Kinder die Fürsorge ihrer Eltern brauchen.
 
-      * Die Arbeitnehmer sollten nach Stunden oder nach der Anzahl der
-      produzierten \"Stücke\" entlohnt werden. Die Chefs sollten ein Gehalt und
-      eventuell Prämien und Aktien erhalten.\r
+      * Die Arbeitnehmer sollten nach Stunden oder nach der Anzahl der produzierten "Stücke" entlohnt werden. Die Chefs sollten ein Gehalt und eventuell Prämien und Aktien erhalten.
 
-      * Arbeiter sind wie austauschbare Teile von Maschinen. Ein \"guter\"
-      Arbeiter ist so ziemlich das Gleiche wie ein anderer \"guter\" Arbeiter.\r
+      * Arbeiter sind wie austauschbare Teile von Maschinen. Ein "guter" Arbeiter ist so ziemlich das Gleiche wie ein anderer "guter" Arbeiter.
 
-      * Den Arbeitnehmern muss gesagt werden, was sie zu tun haben, wann
-      sie es tun sollen und wie sie es tun sollen. Die Vorgesetzten müssen sie
-      zur Verantwortung ziehen.
+      * Den Arbeitnehmern muss gesagt werden, was sie zu tun haben, wann sie es tun sollen und wie sie es tun sollen. Die Vorgesetzten müssen sie zur Verantwortung ziehen.
 
 
-      Und hier sind die neuen Annahmen:\r
+      Und hier sind die neuen Annahmen:
 
-      \r
 
       AES-Leute:
 
 
-      * Sie sind kreative, nachdenkliche, vertrauenswürdige Erwachsene,
-      die in der Lage sind, wichtige Entscheidungen zu treffen;\r
+      * Sie sind kreative, nachdenkliche, vertrauenswürdige Erwachsene, die in der Lage sind, wichtige Entscheidungen zu treffen;
 
-      * Sie sind rechenschaftspflichtig und verantwortlich für ihre
-      Entscheidungen und Handlungen;\r
+      * Sie sind rechenschaftspflichtig und verantwortlich für ihre Entscheidungen und Handlungen;
 
-      * sind fehlbar. Wir machen Fehler, manchmal absichtlich;\r
+      * sind fehlbar. Wir machen Fehler, manchmal absichtlich;
 
-      * sind einzigartig und\r
+      * sind einzigartig und
 
-      * wollen ihre Talente und Fähigkeiten einsetzen, um einen positiven
-      Beitrag für die Organisation und die Welt zu leisten."
+      * wollen ihre Talente und Fähigkeiten einsetzen, um einen positiven Beitrag für die Organisation und die Welt zu leisten.
   - topic: Ownership
     title: Ein börsennotiertes Unternehmen kehrt in schwierigen Zeiten seinen Weg um.
     content: "AES, ein führendes Unternehmen in der Energieerzeugung und
