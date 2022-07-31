@@ -11,11 +11,11 @@ Veuillez [nous faire savoir](https://reinventingorganizationswiki.com/pages/how-
 
 ### Voici les traductions de ce Wiki qui sont disponibles …
 
-![](/media/flagGreatBritainXXS.png)      Anglais [](https://reinventingorganizationswiki.netlify.app/)<https://reinventingorganizationswiki.com/>
+![](/media/flagGreatBritainXXS.png)      Anglais [](https://reinventingorganizationswiki.netlify.app/)<https://reinventingorganizationswiki.com/en>
 
 ![](/media/flaghungary.jpg)      Hongrois <https://reinventingorganizationswiki.hu/>
 
-![](/media/flagspain.jpg)      Espagnol <https://reinventingorganizationswiki.com/es>
+![](/media/flagspain.jpg)      Espagnol <https://reinventingorganizationswiki.com/sp>
 
 ![](/media/flagchina.jpg)       Chinois <https://reinventingorganizationswiki.com/cn>
 
