@@ -25,7 +25,7 @@ theory:
   - topic: Recruitment
     title: Bei der AES werden die Bewerber während des Einstellungsverfahrens zu
       Diskussionen über die Werte und Praktiken des Unternehmens eingeladen.
-    content: 'Ein Mitarbeiter der [AES](https://www.ase.com/Home.aspx) erklärte:
+    content: 'Ein Mitarbeiter der [AeS](https://www.ase.com/Home.aspx) erklärte:
       Eine "schlechte Einstellung" ist jemand, der sich ständig beschwert, der
       nicht zufrieden ist, der anderen die Schuld gibt, der keine Verantwortung
       übernimmt, der nicht ehrlich ist, der anderen Menschen nicht vertraut.
