@@ -193,9 +193,9 @@ theory:
       AES-Leute:
 
 
-      * Sie sind kreative, nachdenkliche, vertrauenswürdige Erwachsene, die in der Lage sind, wichtige Entscheidungen zu treffen;
+      * sind kreative, nachdenkliche, vertrauenswürdige Erwachsene, die in der Lage sind, wichtige Entscheidungen zu treffen;
 
-      * Sie sind rechenschaftspflichtig und verantwortlich für ihre Entscheidungen und Handlungen;
+      * sind rechenschaftspflichtig und verantwortlich für ihre Entscheidungen und Handlungen;
 
       * sind fehlbar. Wir machen Fehler, manchmal absichtlich;
 
@@ -204,68 +204,36 @@ theory:
       * wollen ihre Talente und Fähigkeiten einsetzen, um einen positiven Beitrag für die Organisation und die Welt zu leisten.
   - topic: Ownership
     title: Ein börsennotiertes Unternehmen kehrt in schwierigen Zeiten seinen Weg um.
-    content: "AES, ein führendes Unternehmen in der Energieerzeugung und
-      -verteilung, wurde 1982 von Roger Sant und Dennis Bakke gegründet. Unter
-      Sants Führung als CEO bis 1994 und dann mit Bakke an der Spitze wuchs das
-      Unternehmen von einem Zwei-Personen-Unternehmen zu einem globalen
-      Energieerzeuger mit 40.000 Mitarbeitern in Anlagen in mehr als 30 Ländern
-      auf der ganzen Welt.\r
+    content: >-
+      AES, ein führendes Unternehmen in der Energieerzeugung und -verteilung,
+      wurde 1982 von Roger Sant und Dennis Bakke gegründet. Unter Sants Führung
+      als CEO bis 1994 und dann mit Bakke an der Spitze wuchs das Unternehmen
+      von einem Zwei-Personen-Unternehmen zu einem globalen Energieerzeuger mit
+      40.000 Mitarbeitenden in Anlagen in mehr als 30 Ländern auf der ganzen
+      Welt.
 
-      \r
 
-      Nach seinem Börsengang im Jahr 1991 wurde AES zum Liebling der Wall
-      Street. Jahrelang, während das Unternehmen von Erfolg zu Erfolg eilte,
-      unterstützten die Vorstandsmitglieder die radikal dezentralisierte und
-      vertrauensbasierte Entscheidungsfindung von AES. Und doch, so Bakke,
-      \"liebten die meisten Vorstandsmitglieder den Ansatz von AES vor allem
-      deshalb, weil sie glaubten, dass er den Aktienkurs in die Höhe trieb, und
-      nicht, weil es der 'richtige' Weg war, ein Unternehmen zu führen.\"
+      Nach seinem Börsengang im Jahr 1991 wurde AES zum Liebling der Wall Street. Jahrelang, während das Unternehmen von Erfolg zu Erfolg eilte, unterstützten die Vorstandsmitglieder die radikal dezentralisierte und vertrauensbasierte Entscheidungsfindung von AES. Und doch, so Bakke, "liebten die meisten Vorstandsmitglieder den Ansatz von AES vor allem deshalb, weil sie glaubten, dass er den Aktienkurs in die Höhe trieb, und nicht, weil es der 'richtige' Weg war, ein Unternehmen zu führen."
 
-      \r
 
-      \r
-
-      Anfang der 2000er Jahre wendete sich das Blatt für AES. Nach dem
-      Platzen der Dotcom-Blase, den Terroranschlägen vom 11. September 2001 und
-      dem Konkurs von Enron, der unter den Anlegern im Energiesektor fast eine
-      Panik auslöste, sank der Aktienkurs von AES, der seinen Höchststand bei 70
-      $ erreicht hatte, auf bis zu 5 $. Die früheren Entscheidungen von AES, in
-      \"Handelskraftwerke\" zu investieren, die Strom auf dem Spotmarkt und
-      nicht im Rahmen langfristiger Verträge verkauften, und einen Großteil des
-      Wachstums mit Schulden zu finanzieren, trugen zweifellos zu den
-      Schwierigkeiten des Unternehmens bei. Diese Entscheidungen konnten jedoch
-      nicht allein auf die dezentrale Struktur des Unternehmens zurückgeführt
-      werden, da sie bis hinauf zur Vorstandsebene diskutiert und beschlossen
-      worden waren. Nichtsdestotrotz machte sich unter den Vorstandsmitgliedern
-      Angst breit, und sie verhängten eine stark erhöhte Aufsicht,
-      einschließlich der Einstellung von Anwälten und Beratern sowie eines
-      Co-CEO, dessen Weisungen Bakke ausführen sollte. Nach neun frustrierenden
-      Monaten verließ Bakke das Unternehmen, was dem Vorstand die Möglichkeit
-      gab, die Umstellung von AES auf traditionelle Managementpraktiken zu
-      steuern.^[Übersetzt aus: Laloux, Frederic. Reinventing Organizations.
-      Nelson Parker (2014), Seiten 253-254]"
+      Anfang der 2000er Jahre wendete sich das Blatt für AES. Nach dem Platzen der Dotcom-Blase, den Terroranschlägen vom 11. September 2001 und dem Konkurs von Enron, der unter den Anlegern im Energiesektor fast eine Panik auslöste, sank der Aktienkurs von AES, der seinen Höchststand bei 70 $ erreicht hatte, auf bis zu 5 $. Die früheren Entscheidungen von AES, in "Handelskraftwerke" zu investieren, die Strom auf dem Spotmarkt und nicht im Rahmen langfristiger Verträge verkauften, und einen Großteil des Wachstums mit Schulden zu finanzieren, trugen zweifellos zu den Schwierigkeiten des Unternehmens bei. Diese Entscheidungen konnten jedoch nicht allein auf die dezentrale Struktur des Unternehmens zurückgeführt werden, da sie bis hinauf zur Vorstandsebene diskutiert und beschlossen worden waren. Nichtsdestotrotz machte sich unter den Vorstandsmitgliedern Angst breit, und sie verhängten eine stark erhöhte Aufsicht, einschließlich der Einstellung von Anwälten und Beratern sowie eines Co-CEO, dessen Weisungen Bakke ausführen sollte. Nach neun frustrierenden Monaten verließ Bakke das Unternehmen, was dem Vorstand die Möglichkeit gab, die Umstellung von AES auf traditionelle Managementpraktiken zu steuern.^\[Übersetzt aus: Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), Seiten 253-254]
   - topic: Project teams and task forces
     title: Die AES ersetzte das Personal durch Task Forces und wies ihnen Zeit zu.
-    content: "Mit 40.000 Mitarbeitern weltweit, aber nur etwa 100 Mitarbeitern in
+    content: >-
+      Mit 40.000 Mitarbeitenden weltweit, aber nur etwa 100 Mitarbeitenden in
       der Zentrale in Arlington, Virginia, hatte
       [AES](https://www.aes.com/home/default.aspx) keine zentralen Wartungs-
       oder Sicherheitsabteilungen, keinen Einkauf, keine Personalabteilung und
-      keine interne Revision. Das Unternehmen entwickelte die \"80-20-Regel\":
-      Von jeder Person, die bei AES arbeitete, vom Reinigungspersonal bis zum
+      keine interne Revision. Das Unternehmen entwickelte die "80-20-Regel": Von
+      jeder Person, die bei AES arbeitete, vom Reinigungspersonal bis zum
       Ingenieur, wurde erwartet, dass sie durchschnittlich 80 Prozent ihrer Zeit
       mit ihrer Hauptaufgabe verbrachte und sich für die anderen 20 Prozent in
       einer oder mehreren der vielen Aufgabengruppen zur Verfügung stellte, die
-      es im Unternehmen gab.^[Übersetzt aus: Laloux, Frederic. Reinventing
+      es im Unternehmen gab.^\[Übersetzt aus: Laloux, Frederic. Reinventing
       Organizations. Nelson Parker (2014), Seite 89].
 
 
-      \r
-
-      \r
-
-      Man beachte, dass AES im Jahr 2001 an ein neues Management übergeben
-      wurde, das beschloss, zu konventionelleren Managementansätzen
-      zurückzukehren."
+      Man beachte, dass AES im Jahr 2001 an ein neues Management übergeben wurde, das beschloss, zu konventionelleren Managementansätzen zurückzukehren.
   - topic: Dismissal
     title: AES führte ein großzügiges Abfindungsprogramm und einen Darlehensfonds
       ein, um Entlassungen nach einer Übernahme weitgehend freiwillig und
@@ -280,7 +248,7 @@ theory:
       Thema:
 
 
-      *Die richtige Größe einer Belegschaft entspricht der Anzahl der Personen, die erforderlich sind, damit der Arbeitsplatz Spaß macht. Zu viele Mitarbeiter demoralisieren die Kollegen und führen zu Revierkämpfen. Ein sehr kluger AES-Werksleiter in Nordirland sagte mir, dass Auseinandersetzungen um Revierkämpfe ein guter Indikator dafür sind, dass der Betrieb zu viele Mitarbeiter hat. Niemand kümmert sich darum, wer was macht, wenn es genug Arbeit für alle gibt. Wenn ich der Meinung bin, dass ein Unternehmen keine überflüssigen Mitarbeiter beschäftigen sollte, heißt das nicht, dass man sie entlassen und vor die Tür setzen sollte. Ausscheidende Mitarbeiter brauchen Zeit, um sich auf eine neue Aufgabe einzustellen. Die Unternehmen sollten bei Abfindungsregelungen großzügig sein. Wir sind fast bei jeder Akquisition auf Personalüberhang gestoßen. Eines der ersten Dinge, die wir nach der Übernahme eines Unternehmens taten, war, ein großzügiges und freiwilliges Abfindungsprogramm einzurichten. Nur selten wurden einzelne Mitarbeiter aufgefordert zu gehen. In Panama richtete AES einen Darlehensfonds für Mitarbeiter ein, die das Abfindungspaket annahmen. Ein Jahr später reiste ich zu einem Festessen mit ehemaligen Mitarbeitern, die das Unternehmen verlassen hatten. Einundsiebzig neue Unternehmen waren von diesen ehemaligen Mitarbeitern gegründet worden, von denen die meisten den AES-Kreditfonds in Anspruch genommen hatten. Selbst bei großzügigen freiwilligen Abfindungsregelungen kann der Wechsel von einem Unternehmen, das man kennt, zu einem Unternehmen, das man nicht kennt, traumatisch sein. Ich bin der festen Überzeugung, dass diese schwierigen Übergänge ein notwendiges Übel sind, das Arbeitnehmer und Unternehmen zwingt, sich an eine dynamische Welt anzupassen. Ein Teil der Freude an der Arbeit besteht darin, neue Rollen zu lernen und neue Aufgaben zu übernehmen. Arbeitsplatzsicherheit ist eine attraktive Geschenkverpackung, aber selten ist etwas von bleibendem Wert darin enthalten [Übersetzt aus: Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), Seiten 187-188]
+      \**Die richtige Größe einer Belegschaft entspricht der Anzahl der Personen, die erforderlich sind, damit der Arbeitsplatz Spaß macht. Zu viele Mitarbeiter demoralisieren die Kollegen und führen zu Revierkämpfen. Ein sehr kluger AES-Werksleiter in Nordirland sagte mir, dass Auseinandersetzungen um Revierkämpfe ein guter Indikator dafür sind, dass der Betrieb zu viele Mitarbeiter hat. Niemand kümmert sich darum, wer was macht, wenn es genug Arbeit für alle gibt. Wenn ich der Meinung bin, dass ein Unternehmen keine überflüssigen Mitarbeiter beschäftigen sollte, heißt das nicht, dass man sie entlassen und vor die Tür setzen sollte. Ausscheidende Mitarbeiter brauchen Zeit, um sich auf eine neue Aufgabe einzustellen. Die Unternehmen sollten bei Abfindungsregelungen großzügig sein. Wir sind fast bei jeder Akquisition auf Personalüberhang gestoßen. Eines der ersten Dinge, die wir nach der Übernahme eines Unternehmens taten, war, ein großzügiges und freiwilliges Abfindungsprogramm einzurichten. Nur selten wurden einzelne Mitarbeiter aufgefordert zu gehen. In Panama richtete AES einen Darlehensfonds für Mitarbeiter ein, die das Abfindungspaket annahmen. Ein Jahr später reiste ich zu einem Festessen mit ehemaligen Mitarbeitern, die das Unternehmen verlassen hatten. Einundsiebzig neue Unternehmen waren von diesen ehemaligen Mitarbeitern gegründet worden, von denen die meisten den AES-Kreditfonds in Anspruch genommen hatten. Selbst bei großzügigen freiwilligen Abfindungsregelungen kann der Wechsel von einem Unternehmen, das man kennt, zu einem Unternehmen, das man nicht kennt, traumatisch sein. Ich bin der festen Überzeugung, dass diese schwierigen Übergänge ein notwendiges Übel sind, das Arbeitnehmer und Unternehmen zwingt, sich an eine dynamische Welt anzupassen. Ein Teil der Freude an der Arbeit besteht darin, neue Rollen zu lernen und neue Aufgaben zu übernehmen. Arbeitsplatzsicherheit ist eine attraktive Geschenkverpackung, aber selten ist etwas von bleibendem Wert darin enthalten \[Übersetzt aus: Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), Seiten 187-188]*
   - topic: Staff Functions
     title: In einer stark regulierten Branche leistete die AES Pionierarbeit mit dem
       Einsatz von freiwilligen 80/20-Taskforces zur Bewältigung typischer
