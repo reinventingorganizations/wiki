@@ -20,12 +20,12 @@ theory:
       [AES](http://www.aes.com/) zum Beispiel hat eine Arbeitsgruppe von
       Freiwilligen jedes Jahr einen neuen Satz von Fragen ausgearbeitet und an
       die gesamte Organisation verschickt. Jede Einheit war verpflichtet - dies
-      war eine der Grundregeln -, die Ergebnisse der Umfrage in einem Format zu
+      war eine der Grundregeln - die Ergebnisse der Umfrage in einem Format zu
       diskutieren, das sie für nützlich hielt."
   - topic: Recruitment
     title: Bei der AES werden die Bewerber während des Einstellungsverfahrens zu
       Diskussionen über die Werte und Praktiken des Unternehmens eingeladen.
-    content: 'Ein Mitarbeiter der [AES] (https://www.ase.com/Home.aspx) erklärte:
+    content: 'Ein Mitarbeiter der [AES ](https://www.ase.com/Home.aspx)erklärte:
       Eine "schlechte Einstellung" ist jemand, der sich ständig beschwert, der
       nicht zufrieden ist, der anderen die Schuld gibt, der keine Verantwortung
       übernimmt, der nicht ehrlich ist, der anderen Menschen nicht vertraut.
