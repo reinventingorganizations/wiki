@@ -254,7 +254,7 @@ theory:
       Einsatz von freiwilligen 80/20-Taskforces zur Bewältigung typischer
       Personalaufgaben.
     content: >-
-      AES mit seinen 40.000 Mitarbeitern arbeitete in der Zeit, in der Teal
+      AES mit seinen 40.000 Mitarbeitenden arbeitete in der Zeit, in der Teal
       eingesetzt wurde, in selbstverwalteten Teams von 15 bis 20 Personen. In
       der Überzeugung, dass schlechte Dinge passieren, wenn ein Standort zu groß
       wird, versuchte AES auch, die Zahl der Mitarbeiter in einem Standort auf
@@ -294,5 +294,5 @@ theory:
       Interne Audits wurden auf dieselbe Art und Weise durchgeführt, nämlich durch freiwillige Task Forces: Jeder Betrieb wurde von Kollegen aus anderen Betrieben auditiert. Es wurden Arbeitsgruppen für so unterschiedliche Themen wie Vergütung, gemeinnützige Arbeit, Umweltarbeit und Unternehmenswerte eingerichtet.
 
 
-      Die AES hat herausgefunden, dass der Einsatz von freiwilligen Arbeitsgruppen anstelle von festen Personalfunktionen mehrere Vorteile hat. Die Mitarbeiter finden Möglichkeiten, ihre Talente und Begabungen zum Ausdruck zu bringen, die sie in ihrer primären Funktion vielleicht nicht brauchen. Sie entwickeln ein echtes Gefühl der Eigenverantwortung, wenn sie sehen, dass sie wirklich die Macht haben, ihr Unternehmen zu gestalten. Dennis Bakke weist auf einen weiteren Punkt hin: Diese Task Forces sind hervorragende Lerneinrichtungen. Zu jedem beliebigen Zeitpunkt würden Tausende von Menschen in Task Forces mitarbeiten und von erfahreneren Kollegen Fach- und Führungskompetenzen erlernen. Es handelt sich um eine moderne Form der Berufsausbildung, die ein riesiges Ausmaß annimmt. Keine Ausbildung im Klassenzimmer könnte jemals das Ausmaß des Lernens erreichen, das tagtäglich in den freiwilligen Task Forces stattfand.^[Übersetzt aus: Alex Markels, "Blank Check", The Wall Street Journal, 9. April 1998].
+      Die AES hat herausgefunden, dass der Einsatz von freiwilligen Arbeitsgruppen anstelle von festen Personalfunktionen mehrere Vorteile hat. Die Mitarbeiter finden Möglichkeiten, ihre Talente und Begabungen zum Ausdruck zu bringen, die sie in ihrer primären Funktion vielleicht nicht brauchen. Sie entwickeln ein echtes Gefühl der Eigenverantwortung, wenn sie sehen, dass sie wirklich die Macht haben, ihr Unternehmen zu gestalten. Dennis Bakke weist auf einen weiteren Punkt hin: Diese Task Forces sind hervorragende Lerneinrichtungen. Zu jedem beliebigen Zeitpunkt würden Tausende von Menschen in Task Forces mitarbeiten und von erfahreneren Kollegen Fach- und Führungskompetenzen erlernen. Es handelt sich um eine moderne Form der Berufsausbildung, die ein riesiges Ausmaß annimmt. Keine Ausbildung im Klassenzimmer könnte jemals das Ausmaß des Lernens erreichen, das tagtäglich in den freiwilligen Task Forces stattfand.^\[Übersetzt aus: Alex Markels, "Blank Check", The Wall Street Journal, 9. April 1998].
 ---
