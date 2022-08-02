@@ -1,149 +1,164 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
 name: Heiligenfeld
-introduction: Heiligenfeld have weekly, large group reflective meetings.
+date: 2020-11-09
+introduction: Bei Heiligenfeld gibt es wöchentliche Reflexionsrunden in Großgruppen.
 industry: Q. Human health and social work activities
 geography: Germany
 companySize: "> 500"
 profit: non-profit
 theory:
   - topic: Meetings
-    title: Heiligenfeld have weekly, large group reflective meetings.
-    content: >-
-      **Large group reflective meetings:**
+    title: Bei Heiligenfeld gibt es wöchentliche Reflexionsrunden in Großgruppen.
+    content: "**Reflexionsrunden in Großgruppen**
 
 
-      Every Tuesday morning 350 employees come together to engage in joint reflection. (Some colleagues need to stay with patients.)
+      Jeden Dienstagmorgen kommen 350 Mitarbeitende zu einer gemeinsamen
+      Reflexion zusammen. (Einige bleiben natürlich bei den Patienten.) Jede
+      Woche steht ein neues, relevantes Thema auf der Tagesordnung. Dazu
+      gehörten bislang Themen wie [Konfliktlösung](../conflict-resolution/),
+      Umgang mit Misserfolgen, [Werte](../culture-and-values/) und ähnliches.\r
 
 
-      Every week a new, relevant topic is put on the agenda. Topics have included: [conflict resolution](../conflict-resolution/), dealing with failure, [values](../culture-and-values/), and similar.
+      Das Treffen beginnt mit einer Präsentation, die den Rahmen vorgibt.
+      Das Herzstück ist die Selbstreflexion in Kleingruppen. So zum Beispiel
+      beim Thema „Umgang mit Misserfolg\": Es werden Möglichkeiten präsentiert,
+      wie man mit Misserfolgen souverän umgehen kann, wie sich neue Wege ebnen,
+      wenn wir aufhören, über unsere Misserfolge zu urteilen, usw. Dann werden
+      die Stühle umgestellt und Gruppen von 6 bis 10 Personen gebildet. Sie
+      reflektieren über das Thema unter Moderation durch eine selbst bestimmte
+      Person. Irgendwann geht ein Mikrofon durch den Raum und die Teilnehmenden
+      erzählen, was in der Gruppendiskussion zur Sprache kam. Für diese Treffen
+      werden keine Ergebnisse oder Endprodukte erwartet. Neben individuellen
+      Lerneffekten gibt es auch kollektive Einsichten. Initiativen werden
+      umgesetzt, wenn die Teilnehmenden an ihre Arbeitsplätze zurückkehren.\r
 
 
-      The meeting kicks off with a presentation to frame the subject matter.
-
-
-      The heart of the meeting is when small groups engage in self-reflection. As for instance, the topic ‘dealing with failure’: A short presentation introduces ways to deal gracefully with failure – how new possibilities open up when we stop being judgmental about our failures, etc.
-
-
-      Then people shuffle chairs around to create groups of 6 to 10 people. They reflect on the topic, guided by a facilitator they elect.  
-
-
-      At some point, a microphone goes around the room and people can share what came up in the discussion.
-
-
-      There is no scripted outcome to these meetings: no expected end product. As well as personal learning, collective insights emerge. Initiatives are then carried out when people go back to work.
-
-
-      It’s a time-consuming practice, but people at [Heiligenfeld](http://www.heiligenfeld.de/) say the benefits far outweigh the costs. These meetings are like a company-wide training program on steroids.  
-
-
-      The common experience also fosters community and a common language. To approving chuckles in the room, an employee of Heiligenfeld once stood up at the end of one such meeting and said ‘ You know, I wish I could have more Heiligenfeld at home.
+      Es ist ein zeitaufwändiges Verfahren, aber die Mitarbeitenden von
+      [Heiligenfeld](http://www.heiligenfeld.de/) sagen, dass die Vorteile die
+      Kosten bei weitem überwiegen. Diese Treffen wirken wie ein beschleunigtes,
+      unternehmensweites Schulungsprogramm. Die Erfahrung fördert zudem das
+      Gemeinschaftsgefühl und eine gemeinsame Sprache. Unter zustimmendem
+      Gelächter im Raum stand ein Mitarbeiter von Heiligenfeld einmal am Ende
+      eines solchen Treffens auf und sagte: „Wissen Sie, ich wünschte, ich hätte
+      mehr Heiligenfeld zu Hause.“\r"
   - topic: Team and Community Building
-    title: Heiligenfeld uses innovative management practices to create a supportive
-      work culture that fosters trust, empathy, and compassion while decreasing
-      conflict.
+    title: Heiligenfeld setzt innovative Managementpraktiken ein, um eine
+      unterstützende Arbeitskultur zu schaffen, die Vertrauen, Empathie und
+      Mitgefühl fördert und gleichzeitig Konflikte verringert.
     content: >-
-      **Example for Reflective Practice**
+      **Beispiel für Reflexion**
 
 
-      At [Heiligenfeld](http://www.heiligenfeld.de/), every Tuesday morning, 350 employees come together for an hour and a quarter to engage in joint reflection. Every week, a new topic that is relevant at the moment and conducive to self-reflection is put on the agenda. Recent meetings have reflected on subjects as diverse as conflict resolution, dealing with failure, company values, interpersonal communication, bureaucracy, IT innovations, risk management, personal health, and mindfulness. The meeting always kicks off with a short presentation to frame the subject matter, followed by self-reflection in small groups. Every group elects a facilitator who enforces a few ground rules to create a space where it’s safe to explore, to be authentic and vulnerable. In the confines of the small group, helped by their colleagues’ listening, people dare to dig deep and gain new insights about themselves and others. Colleagues are exposed every week to a space made safe by ground rules that invites them to truly be themselves. They learn to see each other in the light of their deep humanity, in the beauty of their strengths and vulnerability. The trust, empathy, and compassion that build up in the meeting expand well beyond the confines of the meeting room. These feelings start to permeate the whole organization.
+      Bei [Heiligenfeld](http://www.heiligenfeld.de/) kommen jeden Dienstagmorgen 350 Mitarbeiter für eineinviertel Stunden zu einer gemeinsamen Reflexion zusammen. Jede Woche steht ein neues Thema, das gerade aktuell ist und zur Selbstreflexion anregt, auf der Agenda. In den letzten Sitzungen wurden so unterschiedliche Themen behandelt wie Konfliktlösung, Umgang mit Misserfolgen, Unternehmenswerte, zwischenmenschliche Kommunikation, Bürokratie, IT-Innovationen, Risikomanagement, persönliche Gesundheit und Achtsamkeit. Das Treffen beginnt immer mit einer kurzen Präsentation, um das Thema einzugrenzen, gefolgt von einer Selbstreflexion in Kleingruppen. Jede Gruppe wählt einen Moderator, der mit Hilfe einiger Grundregeln einen sicheren Raum schafft, um erkunden, authentisch und verletzlich sein zu können. In der kleinen Gruppe und unterstützt durch den zuhörenden Kollegenkreis, trauen sich die Teilnehmenden, in die Tiefe zu gehen und neue Erkenntnisse über sich selbst und andere zu gewinnen. Die Leute haben so jede Woche die Möglichkeit, in einem abgesicherten Raum sie selbst zu sein. Sie lernen, sich gegenseitig im Licht ihrer tiefen Menschlichkeit zu sehen, in der Schönheit ihrer Stärken und ihrer Verletzlichkeit. Vertrauen, Empathie und Mitgefühl – aufgebaut im Meeting – gehen weit über die Grenzen des Sitzungsraums hinaus. Diese Gefühle durchdringen die gesamte Organisation.
   - topic: Team and Community Building
-    title: Heiligenfeld uses innovative management practices to create a supportive
-      work culture that fosters trust, empathy, and compassion while decreasing
-      conflict.
+    title: Heiligenfeld setzt innovative Managementpraktiken ein, um eine
+      unterstützende Arbeitskultur zu schaffen, die Vertrauen, Empathie und
+      Mitgefühl fördert und gleichzeitig Konflikte verringert.
     content: >-
-      **Example for Team supervision**
+      **Beispiel für Teamsupervision**
 
 
-      [Heiligenfeld ](http://www.heiligenfeld.de/)has developed a simple practice of team supervision. The company works with four external coaches who each have their domain of expertise (relationships, organizational development, system thinking, leadership). There are a number of time slots with the coaches every month that teams can sign up for. The recommendation is for every team to hold at least one session a year; on average teams hold two to four. In the discussion, with the help of the outside supervisor, colleagues can explore what a tension reveals about themselves and how they can grow to resolve it.
+      [Heiligenfeld ](http://www.heiligenfeld.de/) hat eine einfache Methode der Teamsupervision entwickelt. Das Unternehmen arbeitet mit vier externen Coaches zusammen, die jeweils in einem bestimmten Fachgebiet zuhause sind (Beziehungen, Organisationsentwicklung, Systemdenken, Führung). Jeden Monat gibt es eine Reihe von Terminen mit den Coaches, zu denen sich die Teams anmelden können. Es wird empfohlen, dass jedes Team mindestens eine Sitzung pro Jahr abhält; im Schnitt sind es zwei bis vier Sitzungen. In der Diskussion können die Teilnehmenden mit Hilfe des externen Coachings herausfinden, was eine Spannung über sie selbst aussagt, wie sie daran wachsen und sie lösen können.
   - topic: Conflict resolution
-    title: Innovative management practices are used to create a supportive work
-      culture that fosters trust, empathy and compassion, while decreasing
-      conflict.
-    content: At Heiligenfeld every Tuesday morning, all 350 employees come together
-      for an hour and a quarter to engage in joint reflection. Every week, a new
-      topic that is current and conducive to self-reflection is put on the
-      agenda. Recent meetings have reflected on subjects as diverse as conflict
-      resolution, dealing with failure, company values, interpersonal
-      communication, bureaucracy, IT innovations, risk management, personal
-      health and mindfulness. The meeting always kicks off with a short
-      presentation to frame the subject matter, followed by self-reflection in
-      small groups. Every group elects a facilitator who enforces ground rules
-      that create a space where it’s safe to explore, to be authentic and
-      vulnerable. In the confines of the small group, helped by their
-      colleagues’ listening, people dare to dig deep and gain new insights about
-      themselves and others. Colleagues are exposed every week to a space made
-      safe by ground rules that invites them to truly be themselves. They learn
-      to see each other in the light of their deep humanity, in the beauty of
-      their strengths and vulnerability. The trust, empathy and compassion that
-      develop in these meetings expand to permeate the whole organization
+    title: Innovative Managementpraktiken helfen, eine unterstützende Arbeitskultur
+      zu schaffen, die Vertrauen, Empathie und Mitgefühl fördert und
+      gleichzeitig Konflikte verringert.
+    content: Bei Heiligenfeld kommen jeden Dienstagmorgen 350 Mitarbeitende für
+      eineinviertel Stunden zu einer gemeinsamen Reflexion zusammen. Jede Woche
+      steht ein neues Thema, das gerade aktuell ist und zur Selbstreflexion
+      anregt, auf der Agenda. In den letzten Sitzungen wurden so
+      unterschiedliche Themen behandelt wie Konfliktlösung, Umgang mit
+      Misserfolgen, Unternehmenswerte, zwischenmenschliche Kommunikation,
+      Bürokratie, IT-Innovationen, Risikomanagement, persönliche Gesundheit und
+      Achtsamkeit. Das Treffen beginnt immer mit einer kurzen Präsentation, um
+      das Thema einzugrenzen, gefolgt von einer Selbstreflexion in Kleingruppen.
+      Jede Gruppe wählt einen Moderator, der mit Hilfe einiger Grundregeln einen
+      sicheren Raum schafft, um erkunden, authentisch und verletzlich sein zu
+      können. In der kleinen Gruppe und unterstützt durch den zuhörenden
+      Kollegenkreis, trauen sich die Teilnehmenden, in die Tiefe zu gehen und
+      neue Erkenntnisse über sich selbst und andere zu gewinnen. Die Leute haben
+      so jede Woche die Möglichkeit, in einem abgesicherten Raum sie selbst zu
+      sein. Sie lernen, sich gegenseitig im Licht ihrer tiefen Menschlichkeit zu
+      sehen, in der Schönheit ihrer Stärken und ihrer Verletzlichkeit.
+      Vertrauen, Empathie und Mitgefühl – aufgebaut im Meeting – gehen weit über
+      die Grenzen des Sitzungsraums hinaus. Diese Gefühle durchdringen die
+      gesamte Organisation.
   - topic: Strategy
-    title: Strategy is developed through sensing rather than forecasting.
-    content: "Heiligenfeld uses large group meetings at regular intervals to sense
-      into its future. From one such session, the vision emerged of bringing
-      Heiligenfeld’s holistic approach to mental illness to families with
-      children and adolescents. Wouldn’t it be wonderful if patients could be
-      treated together with their close family members, in a way that would
-      specifically address and honor the family ties in the therapy? A year
-      later, they opened, a new mental health hospital specifically dedicated to
-      therapy for families.^[Laloux, Frederic (2014-02-09). Reinventing
-      Organizations: A Guide to Creating Organizations Inspired by the Next
-      Stage of Human Consciousness (Kindle Locations 4460-4463). Nelson Parker.
-      Kindle Edition.]"
+    title: Eine Strategie wird eher durch Erspüren als durch Voraussagen entwickelt.
+    content: "Heiligenfeld nutzt in regelmäßigen Abständen Großgruppensitzungen, um
+      seine Zukunft zu „erspüren“. In einer dieser Sitzungen entstand die
+      Vision, Heiligenfelds ganzheitlichen Ansatz für psychische Erkrankungen
+      auf Familien mit Kindern und Jugendlichen zu übertragen. Wäre es nicht
+      wunderbar, wenn Patienten gemeinsam mit ihren engsten Familienmitgliedern
+      behandelt werden könnten, und zwar auf eine Art und Weise, die die
+      familiären Bindungen in der Therapie besonders berücksichtigt und würdigt?
+      Ein Jahr später eröffnete das Unternehmen eine neue psychiatrische Klinik,
+      die sich speziell der Therapie von Familien widmet.^[übersetzt aus:
+      Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to
+      Creating Organizations Inspired by the Next Stage of Human Consciousness
+      (Kindle Locations 4460-4463). Nelson Parker. Kindle Edition.]"
   - topic: wholeness
-    title: Company-wide reflection
-    content: "Among the great number of innovative management practices Heiligenfeld
-      has introduced over the years, employees often credit one practice in
-      particular for making the company an outstanding workplace. Every Tuesday
-      morning, 350 or so employees come together for an hour and a quarter to
-      engage in joint reflection (as many as don’t need to be with patients and
-      as the size of the room will allow). Each week, a new topic that is
-      relevant at the moment and conducive to self-reflection is put on the
-      agenda - subjects as diverse as conflict resolution, dealing with failure,
-      company values, interpersonal communication, bureaucracy, IT innovations,
-      risk management, personal health, and mindfulness.\r
+    title: Unternehmensweite Reflexion
+    content: "Unter den zahlreichen innovativen Managementpraktiken, die
+      Heiligenfeld im Laufe der Jahre eingeführt hat, wird eine von den
+      Mitarbeitenden besonders hervorgehoben, die das Unternehmen zu einem
+      hervorragenden Arbeitsplatz macht. Jeden Dienstagmorgen kommen etwa 350
+      Mitarbeitende für eineinviertel Stunden zwecks gemeinsamer Reflexion
+      zusammen (d.h. alle, die gerade nicht bei Patienten sein müssen und in den
+      Raum passen). Jede Woche steht ein neues, aktuelles und zur
+      Selbstreflexion anregendes Thema auf der Tagesordnung. Es sind so
+      unterschiedliche Themen wie Konfliktlösung, Umgang mit Misserfolg,
+      Unternehmenswerte, zwischenmenschliche Kommunikation, Bürokratie,
+      IT-Innovationen, Risikomanagement, persönliche Gesundheit und
+      Achtsamkeit.\r
 
       \r
 
-      The meeting always kicks off with a short presentation to frame the
-      subject matter. But the heart of the meeting happens in small groups
-      engaged in self-reflection. Let’s take the example of the topic “dealing
-      with failure” to illustrate how this event plays out at Heiligenfeld. The
-      short plenary presentation introduces ways to deal gracefully with
-      failure— how new possibilities open up when we stop being judgmental about
-      our failures; how from a higher place of consciousness we can view failure
-      as life’s invitation to expand our skills and awareness and grow into more
-      of who we are.\r
+
+      Das Treffen beginnt immer mit einer kurzen Präsentation, um das
+      Thema abzustecken. Das Wesentliche findet jedoch in Kleingruppen und ihrer
+      Selbstreflexion statt. Nehmen wir das Beispiel „Umgang mit Misserfolg\",
+      um zu veranschaulichen, wie diese Veranstaltung bei Heiligenfeld abläuft.
+      Der kurze Plenarvortrag zeigt Wege auf, wie man mit Misserfolgen souverän
+      umgehen kann, wie sich neue Möglichkeiten eröffnen, wenn wir aufhören,
+      über unsere Misserfolge zu urteilen, wie wir von einer höheren
+      Bewusstseinsebene aus Misserfolge als eine Einladung des Lebens betrachten
+      können, unsere Fähigkeiten und Erkenntnisse zu erweitern und mehr zu denen
+      zu werden, die wir sind.\r
 
       \r
 
-      After this short introduction, people shuffle their chairs around to
-      create groups of six to ten people. In the groups, people are asked to
-      reflect on the topic— how they deal with failure in their lives, at work
-      and at home, individually and collectively. Every group elects a
-      facilitator who enforces a few ground rules to create a space where it’s
-      safe to explore, to be authentic and vulnerable. In the confines of the
-      small group, helped by their colleagues’ listening, people dare to dig
-      deep and gain new insights about themselves and others. At some point, a
-      microphone goes around the room and people who feel inclined to do so
-      share what came up for them in the discussion. There is no scripted
-      outcome to these meetings, no expected end product; everyone comes out of
-      the meeting with his or her own personal learning. Often, collective
-      insights emerge, as well as decisions and initiatives that are then
-      carried out when people go back to work.\r
+
+      Nach dieser kurzen Einführung werden die Stühle umgestellt und
+      Gruppen von sechs bis zehn Personen gebildet. In den Gruppen werden die
+      Teilnehmenden gebeten, über das Thema nachzudenken: wie sie in ihrem
+      Leben, bei der Arbeit und zu Hause, individuell und kollektiv mit
+      Scheitern umgehen. Jede Gruppe bestimmt eine Moderation, die mit Hilfe
+      einiger Grundregeln einen sicheren Raum schafft, um erkunden, authentisch
+      und verletzlich sein zu können. In der kleinen Gruppe und unterstützt
+      durch den zuhörenden Kollegenkreis, trauen sich die Teilnehmenden, in die
+      Tiefe zu gehen und neue Erkenntnisse über sich selbst und andere zu
+      gewinnen. Irgendwann wird ein Mikrofon im Raum herumgereicht, und wer dazu
+      bereit ist, teilt mit, was in der Diskussion aufgefallen ist. Für diese
+      Treffen werden keine Ergebnisse oder Endprodukte erwartet. Jede Person
+      geht mit individuellen Erkenntnissen aus dem Meeting heraus. Oft ergeben
+      sich kollektive Einsichten sowie Entscheidungen und Initiativen, die dann
+      umgesetzt werden, wenn die Teilnehmenden an ihre Arbeitsplätze
+      zurückkehren.\r
 
       \r
 
-      It’s a time-consuming practice for sure - 75 minutes every week for
-      more than half of the company. But people at Heiligenfeld say the benefits
-      far outweigh the costs. These large group meetings are like a company-wide
-      training program on steroids; the whole organization grows its way through
-      one topic after another, week after week.[Laloux, Frederic (2014-02-09).
-      Reinventing Organizations: A Guide to Creating Organizations Inspired by
-      the Next Stage of Human Consciousness (Kindle Locations 3409-3430). Nelson
-      Parker. Kindle Edition.]\r
 
-      \r\n"
+      Es ist sicherlich eine zeitaufwändige Methode mit 75 Minuten pro
+      Woche für mehr als die Hälfte der Belegschaft. Aber die Mitarbeitenden bei
+      Heiligenfeld sagen, dass die Vorteile die Kosten bei weitem überwiegen.
+      Diese Großgruppentreffen wirken wie ein beschleunigtes, unternehmensweites
+      Schulungsprogramm. Die gesamte Organisation wächst Woche für Woche an
+      einem Thema nach dem anderen.^[übersetzt aus: Laloux, Frederic
+      (2014-02-09). Reinventing Organizations: Ein Leitfaden zur Schaffung von
+      Organisationen, die von der nächsten Stufe des menschlichen Bewusstseins
+      inspiriert sind (Kindle Locations 3409-3430). Nelson Parker. Kindle
+      Edition.]\r"
 ---
