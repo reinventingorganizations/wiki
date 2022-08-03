@@ -8,12 +8,12 @@ name: Key organizational structures and practices
 
 ### Structure
 
-* [Organizational Structure](../theory/organizational-structure/)
-* [Staff Functions](../theory/staff-functions/)
-* [Coordination](../theory/coordination/)
-* [Project teams and task forces](../theory/project-teams-and-task-forces/)
-* [Board](../theory/board/)
-* [Ownership](../theory/ownership/)
+* [Organizational Structure](https://reinventingorganizationswiki.com/fr/theory/organizational-structure/)
+* [Staff Functions](https://reinventingorganizationswiki.com/fr/theory/staff-functions/)
+* [Coordination](https://reinventingorganizationswiki.com/fr/theory/coordination/)
+* [Project teams and task forces](https://reinventingorganizationswiki.com/fr/theory/project-teams-and-task-forces/)
+* [Board](https://reinventingorganizationswiki.com/fr/theory/board/)
+* [Ownership](https://reinventingorganizationswiki.com/fr/theory/ownership/)
 
   \--------------------------------------
 
@@ -21,14 +21,14 @@ name: Key organizational structures and practices
 
 ### Key business processes
 
-* [Strategy](../theory/strategy/)
-* [Innovation and Product Development](../theory/innovation-and-product-development/)
-* [Sales and Marketing](../theory/sales-marketing/)
-* [Purchasing and Investments](../theory/purchasing-and-investments/)
-* [Budgeting and Controlling](../theory/budgeting-and-controlling/)
-* [Environmental and Social Management](../theory/environmental-and-social-management/)
-* [Change Management](../theory/change-management/)
-* [Crisis Management](../theory/crisis-management/)
+* [Strategy](https://reinventingorganizationswiki.com/fr/theory/strategy/)
+* [Innovation and Product Development](https://reinventingorganizationswiki.com/fr/theory/innovation-and-product-development/)
+* [Sales and Marketing](https://reinventingorganizationswiki.com/fr/theory/sales-marketing/)
+* [Purchasing and Investments](https://reinventingorganizationswiki.com/fr/theory/purchasing-and-investments/)
+* [Budgeting and Controlling](https://reinventingorganizationswiki.com/fr/theory/budgeting-and-controlling/)
+* [Environmental and Social Management](https://reinventingorganizationswiki.com/fr/theory/environmental-and-social-management/)
+* [Change Management](https://reinventingorganizationswiki.com/fr/theory/change-management/)
+* [Crisis Management](https://reinventingorganizationswiki.com/fr/theory/crisis-management/)
 
   \--------------------------------------
 
@@ -36,16 +36,16 @@ name: Key organizational structures and practices
 
 ### People practices
 
-* [Recruitment](../theory/recruitment/)
-* [Onboarding](../theory/onboarding/)
-* [Training and Coaching](../theory/training-and-coaching/)
-* [Commitment, Working Hours and Flexibility](../theory/commitment-working-hours-and-flexibility/)
-* [Job Titles and Job Descriptions](../theory/job-titles-and-job-descriptions/)
-* [Objectives and Target Setting](../theory/objectives-and-target-setting/)
-* [Feedback and Performance Management](../theory/feedback-and-performance-management/)
-* [Compensation and incentives](../theory/compensation-and-incentives/)
-* [Role Definition and Allocation](../theory/role-definition-and-allocation/)
-* [Dismissal](../theory/dismissal/)
+* [Recruitment](https://reinventingorganizationswiki.com/fr/theory/recruitment/)
+* [Onboarding](https://reinventingorganizationswiki.com/fr/theory/onboarding/)
+* [Training and Coaching](https://reinventingorganizationswiki.com/fr/theory/training-and-coaching/)
+* [Commitment, Working Hours and Flexibility](https://reinventingorganizationswiki.com/fr/theory/commitment-working-hours-and-flexibility/)
+* [Job Titles and Job Descriptions](https://reinventingorganizationswiki.com/fr/theory/job-titles-and-job-descriptions/)
+* [Objectives and Target Setting](https://reinventingorganizationswiki.com/fr/theory/objectives-and-target-setting/)
+* [Feedback and Performance Management](https://reinventingorganizationswiki.com/fr/theory/feedback-and-performance-management/)
+* [Compensation and incentives](https://reinventingorganizationswiki.com/fr/theory/compensation-and-incentives/)
+* [Role Definition and Allocation](https://reinventingorganizationswiki.com/fr/theory/role-definition-and-allocation/)
+* [Dismissal](https://reinventingorganizationswiki.com/fr/theory/dismissal/)
 
   \--------------------------------------
 
@@ -53,16 +53,16 @@ name: Key organizational structures and practices
 
 ### Daily organizational practices
 
-* [Fundamental Assumptions](../theory/fundamental-assumptions/)
-* [Meetings](../theory/meetings/)
-* [Decision Making](../theory/decision-making/)
-* [Conflict resolution](../theory/conflict-resolution/)
-* [Information Flow](../theory/information-flow/)
-* [Culture and Values](../theory/culture-and-values/)
-* [Creating Safe Space](../theory/safe-space/)
-* [Team and Community Building](../theory/team-and-community-building/)
-* [Mood Management](../theory/mood-management/)
-* [Listening to Purpose](../theory/listening-to-purpose/)
+* [Fundamental Assumptions](https://reinventingorganizationswiki.com/fr/theory/fundamental-assumptions/)
+* [Meetings](https://reinventingorganizationswiki.com/fr/theory/meetings/)
+* [Decision Making](https://reinventingorganizationswiki.com/fr/theory/decision-making/)
+* [Conflict resolution](https://reinventingorganizationswiki.com/fr/theory/conflict-resolution/)
+* [Information Flow](https://reinventingorganizationswiki.com/fr/theory/information-flow/)
+* [Culture and Values](https://reinventingorganizationswiki.com/fr/theory/culture-and-values/)
+* [Creating Safe Space](https://reinventingorganizationswiki.com/fr/theory/safe-space/)
+* [Team and Community Building](https://reinventingorganizationswiki.com/fr/theory/team-and-community-building/)
+* [Mood Management](https://reinventingorganizationswiki.com/fr/theory/mood-management/)
+* [Listening to Purpose](https://reinventingorganizationswiki.com/fr/theory/listening-to-purpose/)
 
   \--------------------------------------
 
@@ -70,9 +70,9 @@ name: Key organizational structures and practices
 
 ## History of Organizational Development
 
-* [Developmental Perspective on Organizations](../theory/developmental-perspective-on-organizations/)
-* [Red Paradigm and Organizations](../theory/red-organizations/)
-* [Amber Paradigm and Organizations](../theory/amber-paradigm-and-organizations/)
-* [Orange Paradigm and Organizations](../theory/orange-paradigm-and-organizations/)
-* [Green Paradigm and Organizations](../theory/green-paradigm-and-organizations/)
-* [Teal Paradigm and Organizations](../theory/teal-paradigm-and-organizations/)
+* [Developmental Perspective on Organizations](https://reinventingorganizationswiki.com/fr/theory/developmental-perspective-on-organizations/)
+* [Red Paradigm and Organizations](https://reinventingorganizationswiki.com/fr/theory/red-organizations/)
+* [Amber Paradigm and Organizations](https://reinventingorganizationswiki.com/fr/theory/amber-paradigm-and-organizations/)
+* [Orange Paradigm and Organizations](https://reinventingorganizationswiki.com/fr/theory/orange-paradigm-and-organizations/)
+* [Green Paradigm and Organizations](https://reinventingorganizationswiki.com/fr/theory/green-paradigm-and-organizations/)
+* [Teal Paradigm and Organizations](https://reinventingorganizationswiki.com/fr/theory/teal-paradigm-and-organizations/)
