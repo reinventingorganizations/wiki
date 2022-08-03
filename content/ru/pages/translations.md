@@ -15,7 +15,7 @@ Please [let us know](https://reinventingorganizationswiki.com/ru/pages/how-can-y
 
 ![](/media/flaghungary.jpg)      Hungarian Wiki <https://reinventingorganizationswiki.hu/>
 
-![](/media/flagspain.jpg)      Spanish Wiki <http://einventingorganizationswiki.com/sp>
+![](/media/flagspain.jpg)      Spanish Wiki <http://reinventingorganizationswiki.com/sp>
 
 ![](/media/flagchina.jpg)       Chinese Wiki <https://reinventingorganizationswiki.com/cn>
 

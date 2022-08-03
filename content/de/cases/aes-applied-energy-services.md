@@ -20,24 +20,24 @@ theory:
       [AES](http://www.aes.com/) zum Beispiel hat eine Arbeitsgruppe von
       Freiwilligen jedes Jahr einen neuen Satz von Fragen ausgearbeitet und an
       die gesamte Organisation verschickt. Jede Einheit war verpflichtet - dies
-      war eine der Grundregeln -, die Ergebnisse der Umfrage in einem Format zu
+      war eine der Grundregeln - die Ergebnisse der Umfrage in einem Format zu
       diskutieren, das sie für nützlich hielt."
   - topic: Recruitment
     title: Bei der AES werden die Bewerber während des Einstellungsverfahrens zu
       Diskussionen über die Werte und Praktiken des Unternehmens eingeladen.
-    content: 'Ein Mitarbeiter der [AES] (https://www.ase.com/Home.aspx) erklärte:
+    content: 'Ein Mitarbeiter der [AES](https://www.ase.com/Home.aspx) erklärte:
       Eine "schlechte Einstellung" ist jemand, der sich ständig beschwert, der
       nicht zufrieden ist, der anderen die Schuld gibt, der keine Verantwortung
       übernimmt, der nicht ehrlich ist, der anderen Menschen nicht vertraut.
       Eine schlechte Einstellung wäre jemand, der genaue Anweisungen braucht und
       darauf wartet, dass man ihm sagt, was er tun soll. Eine schlechte
       Einstellung wäre jemand, der nicht flexibel ist und sagt: "Das ist nicht
-      meine Aufgabe."'
+      meine Aufgabe.".'
   - topic: Environmental and Social Management
     title: Im Rahmen des Beratungsprozesses initiieren die Mitarbeiter von AES
       ökologische und soziale Initiativen.
     content: >-
-      Für [AES] (http://www.aes.com/) beginnen Umwelt- und Sozialinitiativen mit
+      Für [AES](http://www.aes.com/) beginnen Umwelt- und Sozialinitiativen mit
       innerer Rechtschaffenheit. So drückte es AES in einer öffentlichen
       Einreichung bei der US-Börsenaufsichtsbehörde aus, als das Unternehmen der
       Öffentlichkeit Aktien anbot: "Ein wichtiges Element von AES ist die
@@ -48,7 +48,7 @@ theory:
       festzuhalten - auch wenn dies zu geringeren Gewinnen oder entgangenen
       Chancen führen könnte. Darüber hinaus versucht das Unternehmen, an diesen
       Werten festzuhalten, nicht um wirtschaftlichen Erfolg zu erzielen, sondern
-      weil das Festhalten an diesen Werten ein lohnendes Ziel an sich ist."
+      weil das Festhalten an diesen Werten ein lohnendes Ziel an sich ist.".
 
 
       AES pflanzte Millionen von Bäumen, um die Kohlenstoffemissionen auszugleichen. Diese Idee kam von einem Mitarbeiter in Los Angeles, nicht von der Geschäftsleitung. Ursprünglich gab es dafür kein Budget. Mit Hilfe des Beratungsprozesses gewann sie die Unterstützung für das Geld, das AES in die Baumpflanzung stecken sollte. ^\[Übersetzt aus Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), S. 160-172]
@@ -100,15 +100,15 @@ theory:
 
       \
 
-      *MONTVILLE, Connor - Jeff Hatch, dessen Hände noch immer von der Kohle geschwärzt sind, die er gerade von einem Lastkahn abgeladen hat, nimmt den Hörer ab und ruft seinen Lieblingsmakler an. "Welchen Zinssatz können Sie mir für 10 Millionen Dollar mit einer Laufzeit von 30 Tagen geben?", fragt er den Makler, der mit Schatzwechseln handelt. "Nur 6,09? Aber ich habe gerade ein Angebot von Chase zu 6,13 bekommen." In einem anderen Raum arbeitet Joe Oddo an J.P. Morgan & Co. "6,15 in 30 Tagen?" bestätigt Herr Oddo, ein Wartungstechniker im Kraftwerk der AES Corp. hier. "Ich melde mich gleich wieder bei Ihnen." Als Mitglieder eines Ad-hoc-Teams, das einen 33-Millionen-Dollar-Investitionsfonds für Kraftwerke verwaltet, beraten sich die Herren Oddo und Hatch schnell mit ihren Mitarbeitern und schließen dann das Geschäft ab. ... Das klingt nach "Empowerment" auf Teufel komm raus. Den Mitarbeitern mehr Autonomie in ihrem Fachgebiet geben? Sicher. Die Bücher für die Einsicht der Mitarbeiter öffnen? Vielleicht. Aber was kann schon Gutes dabei herauskommen, wenn man die Aufgaben der Unternehmensfinanzierung Arbeitnehmern überträgt, deren kollektive Erfahrung mit der Kreditaufnahme sich auf eine Hypothek, zwei Autokredite und einige abbezahlte Kreditkartenschulden beläuft? Sehr viel Gutes, meint die AES. ... "Je mehr man die Verantwortung des Einzelnen stärkt, desto größer sind die Chancen für schrittweise Verbesserungen im Betrieb", argumentiert Dennis W. Bakke, der Geschäftsführer und einer der Gründer des Unternehmens. ... "Und was noch wichtiger ist", sagt er, "die Arbeit macht dadurch viel mehr Spaß." Ist es riskant, den Kohlehändlern die Verantwortung für Investitionen zu übertragen? Herr Bakke glaubt nicht. Er weist darauf hin, dass das Freiwilligenteam in Montville einen Finanzberater hat, und sie arbeiten innerhalb einer engen Bandbreite von Anlagemöglichkeiten. Sie kaufen nicht gerade Derivate. Was dem Vorstandsvorsitzenden an diesem Arrangement gefällt, ist, dass "sie durch diese Erfahrung zu anderen Menschen geworden sind. Sie haben so viel über den Gesamtaspekt des Geschäfts gelernt, dass sie nie wieder dieselben sein werden. "* ^[Übersetzt aus: Alex Markels, "Blank Check", The Wall Street Journal, 9. April 1998)]
+      *MONTVILLE, Connor - Jeff Hatch, dessen Hände noch immer von der Kohle geschwärzt sind, die er gerade von einem Lastkahn abgeladen hat, nimmt den Hörer ab und ruft seinen Lieblingsmakler an. "Welchen Zinssatz können Sie mir für 10 Millionen Dollar mit einer Laufzeit von 30 Tagen geben?", fragt er den Makler, der mit Schatzwechseln handelt. "Nur 6,09? Aber ich habe gerade ein Angebot von Chase zu 6,13 bekommen." In einem anderen Raum arbeitet Joe Oddo an J.P. Morgan & Co. "6,15 in 30 Tagen?" bestätigt Herr Oddo, ein Wartungstechniker im Kraftwerk der AES Corp. hier. "Ich melde mich gleich wieder bei Ihnen." Als Mitglieder eines Ad-hoc-Teams, das einen 33-Millionen-Dollar-Investitionsfonds für Kraftwerke verwaltet, beraten sich die Herren Oddo und Hatch schnell mit ihren Mitarbeitern und schließen dann das Geschäft ab. ... Das klingt nach "Empowerment" auf Teufel komm raus. Den Mitarbeitern mehr Autonomie in ihrem Fachgebiet geben? Sicher. Die Bücher für die Einsicht der Mitarbeiter öffnen? Vielleicht. Aber was kann schon Gutes dabei herauskommen, wenn man die Aufgaben der Unternehmensfinanzierung Arbeitnehmern überträgt, deren kollektive Erfahrung mit der Kreditaufnahme sich auf eine Hypothek, zwei Autokredite und einige abbezahlte Kreditkartenschulden beläuft? Sehr viel Gutes, meint die AES. ... "Je mehr man die Verantwortung des Einzelnen stärkt, desto größer sind die Chancen für schrittweise Verbesserungen im Betrieb", argumentiert Dennis W. Bakke, der Geschäftsführer und einer der Gründer des Unternehmens. ... "Und was noch wichtiger ist", sagt er, "die Arbeit macht dadurch viel mehr Spaß." Ist es riskant, den Kohlehändlern die Verantwortung für Investitionen zu übertragen? Herr Bakke glaubt nicht. Er weist darauf hin, dass das Freiwilligenteam in Montville einen Finanzberater hat, und sie arbeiten innerhalb einer engen Bandbreite von Anlagemöglichkeiten. Sie kaufen nicht gerade Derivate. Was dem Vorstandsvorsitzenden an diesem Arrangement gefällt, ist, dass "sie durch diese Erfahrung zu anderen Menschen geworden sind. Sie haben so viel über den Gesamtaspekt des Geschäfts gelernt, dass sie nie wieder dieselben sein werden."* ^\[Übersetzt aus: Alex Markels, "Blank Check", The Wall Street Journal, 9. April 1998)]
 
 
       Bei AES legte jedes Team einmal im Jahr sein Investitionsbudget fest. Die Budgets wurden auf Werksebene addiert und beliefen sich manchmal auf bis zu 300 Mio. USD pro Jahr. Wenn die Teams mit dem konsolidierten Budget für das Werk zufrieden waren, wurde es zusammen mit den Budgets aller anderen Werke von einer Budget-Taskforce überprüft, die mögliche Änderungen und Verbesserungen vorschlug (aber nicht befugt war, Änderungen durchzusetzen). Diese Task Force bestand aus einigen wenigen Mitarbeitern der Zentrale mit einschlägigem Fachwissen, überwiegend jedoch aus Mitarbeitern der lokalen Einheiten mit den unterschiedlichsten Hintergründen - ein Wachmann konnte neben einem Techniker und einem Ingenieur sitzen. Interne Audits wurden auf die gleiche Weise durchgeführt, nämlich von freiwilligen Task Forces: Jede Anlage wurde von Kollegen aus anderen Anlagen geprüft.
 
 
-      AES fand heraus, dass der Einsatz von freiwilligen Arbeitsgruppen anstelle von festen Personalfunktionen mehrere Vorteile hat. Die Mitarbeiter finden Möglichkeiten, ihre Talente und Begabungen zum Ausdruck zu bringen, die sie in ihrer primären Funktion vielleicht nicht brauchen. Sie entwickeln ein echtes Gefühl der Eigenverantwortung, wenn sie sehen, dass sie wirklich die Macht haben, ihr Unternehmen zu gestalten. Der Gründer Dennis Bakke betont noch einen weiteren Punkt: Diese Task Forces sind beeindruckende Lerneinrichtungen. Zu jedem beliebigen Zeitpunkt würden Tausende von Menschen in den Task Forces mitarbeiten und von erfahreneren Kollegen technische Fähigkeiten und Führungsqualitäten erlernen. Es handelt sich um eine moderne Form der Berufsausbildung, die ein riesiges Ausmaß annimmt. Keine Ausbildung im Klassenzimmer könnte jemals das Ausmaß des Lernens bieten, das tagtäglich in den freiwilligen Task Forces stattfand.^[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), Seite 88 und folgende]
+      AES fand heraus, dass der Einsatz von freiwilligen Arbeitsgruppen anstelle von festen Personalfunktionen mehrere Vorteile hat. Die Mitarbeiter finden Möglichkeiten, ihre Talente und Begabungen zum Ausdruck zu bringen, die sie in ihrer primären Funktion vielleicht nicht brauchen. Sie entwickeln ein echtes Gefühl der Eigenverantwortung, wenn sie sehen, dass sie wirklich die Macht haben, ihr Unternehmen zu gestalten. Der Gründer Dennis Bakke betont noch einen weiteren Punkt: Diese Task Forces sind beeindruckende Lerneinrichtungen. Zu jedem beliebigen Zeitpunkt würden Tausende von Menschen in den Task Forces mitarbeiten und von erfahreneren Kollegen technische Fähigkeiten und Führungsqualitäten erlernen. Es handelt sich um eine moderne Form der Berufsausbildung, die ein riesiges Ausmaß annimmt. Keine Ausbildung im Klassenzimmer könnte jemals das Ausmaß des Lernens bieten, das tagtäglich in den freiwilligen Task Forces stattfand.^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), Seite 88 und folgende]
   - topic: Crisis Management
-    title: AES unterbricht den Beratungsprozess so behutsam wie möglich
+    title: AES unterbricht den Beratungsprozess so behutsam wie möglich.
     content: "Im Herbst 2001, nach den Terroranschlägen und dem Zusammenbruch von
       Enron, stürzte der Aktienkurs von AES ab. Das Unternehmen benötigte Zugang
       zu den Kapitalmärkten, um seine hohe Verschuldung zu bedienen, fand diese
@@ -160,134 +160,80 @@ theory:
       die Selbstverwaltung als logische Vorgehensweise ansieht. Das
       traditionelle Glaubenssystem wurde zusammen mit den Kollegen explizit
       gemacht, was es sehr mächtig und konfrontativ machte."
-    content: "Here is how Dennis Bakke (CEO of AES at that time) summarizes the
-      assumptions workers feel bosses have about them:
-
-
+    content: >-
       Im Folgenden fasst Dennis Bakke (damaliger CEO von AES) die Annahmen
       zusammen, von denen die Arbeitnehmer glauben, dass ihre Chefs sie über sie
       haben:
 
 
-      * Arbeiter sind faul. Wenn sie nicht beobachtet werden, werden sie
-      nicht fleißig arbeiten.\r
+      * Arbeiter sind faul. Wenn sie nicht beobachtet werden, werden sie nicht fleißig arbeiten.
 
-      * Arbeiter arbeiten in erster Linie für Geld. Sie werden alles tun,
-      um so viel Geld wie möglich zu verdienen.\r
+      * Arbeiter arbeiten in erster Linie für Geld. Sie werden alles tun, um so viel Geld wie möglich zu verdienen.
 
-      * Arbeitnehmer stellen ihre eigenen Interessen über das, was für das
-      Unternehmen am besten ist. Sie sind egoistisch.\r
+      * Arbeitnehmer stellen ihre eigenen Interessen über das, was für das Unternehmen am besten ist. Sie sind egoistisch.
 
-      * Arbeitnehmer erbringen die besten Leistungen und sind am
-      effektivsten, wenn sie eine einfache, wiederholbare Aufgabe zu erledigen
-      haben.\r
+      * Arbeitnehmer erbringen die besten Leistungen und sind am effektivsten, wenn sie eine einfache, wiederholbare Aufgabe zu erledigen haben.
 
-      * Arbeiter sind nicht in der Lage, gute Entscheidungen über wichtige
-      Angelegenheiten zu treffen, die die wirtschaftliche Leistung des
-      Unternehmens beeinflussen. Chefs sind gut im Treffen von Entscheidungen.\r
+      * Arbeiter sind nicht in der Lage, gute Entscheidungen über wichtige Angelegenheiten zu treffen, die die wirtschaftliche Leistung des Unternehmens beeinflussen. Chefs sind gut im Treffen von Entscheidungen.
 
-      * Die Arbeitnehmer wollen nicht für ihre Handlungen oder für
-      Entscheidungen, die sich auf die Leistung des Unternehmens auswirken,
-      verantwortlich sein.\r
+      * Die Arbeitnehmer wollen nicht für ihre Handlungen oder für Entscheidungen, die sich auf die Leistung des Unternehmens auswirken, verantwortlich sein.
 
-      * Arbeitnehmer brauchen Fürsorge und Schutz, so wie Kinder die
-      Fürsorge ihrer Eltern brauchen.\r
+      * Arbeitnehmer brauchen Fürsorge und Schutz, so wie Kinder die Fürsorge ihrer Eltern brauchen.
 
-      * Die Arbeitnehmer sollten nach Stunden oder nach der Anzahl der
-      produzierten \"Stücke\" entlohnt werden. Die Chefs sollten ein Gehalt und
-      eventuell Prämien und Aktien erhalten.\r
+      * Die Arbeitnehmer sollten nach Stunden oder nach der Anzahl der produzierten "Stücke" entlohnt werden. Die Chefs sollten ein Gehalt und eventuell Prämien und Aktien erhalten.
 
-      * Arbeiter sind wie austauschbare Teile von Maschinen. Ein \"guter\"
-      Arbeiter ist so ziemlich das Gleiche wie ein anderer \"guter\" Arbeiter.\r
+      * Arbeiter sind wie austauschbare Teile von Maschinen. Ein "guter" Arbeiter ist so ziemlich das Gleiche wie ein anderer "guter" Arbeiter.
 
-      * Den Arbeitnehmern muss gesagt werden, was sie zu tun haben, wann
-      sie es tun sollen und wie sie es tun sollen. Die Vorgesetzten müssen sie
-      zur Verantwortung ziehen.
+      * Den Arbeitnehmern muss gesagt werden, was sie zu tun haben, wann sie es tun sollen und wie sie es tun sollen. Die Vorgesetzten müssen sie zur Verantwortung ziehen.
 
 
-      Und hier sind die neuen Annahmen:\r
+      Und hier sind die neuen Annahmen:
 
-      \r
 
       AES-Leute:
 
 
-      * Sie sind kreative, nachdenkliche, vertrauenswürdige Erwachsene,
-      die in der Lage sind, wichtige Entscheidungen zu treffen;\r
+      * sind kreative, nachdenkliche, vertrauenswürdige Erwachsene, die in der Lage sind, wichtige Entscheidungen zu treffen;
 
-      * Sie sind rechenschaftspflichtig und verantwortlich für ihre
-      Entscheidungen und Handlungen;\r
+      * sind rechenschaftspflichtig und verantwortlich für ihre Entscheidungen und Handlungen;
 
-      * sind fehlbar. Wir machen Fehler, manchmal absichtlich;\r
+      * sind fehlbar. Wir machen Fehler, manchmal absichtlich;
 
-      * sind einzigartig und\r
+      * sind einzigartig und
 
-      * wollen ihre Talente und Fähigkeiten einsetzen, um einen positiven
-      Beitrag für die Organisation und die Welt zu leisten."
+      * wollen ihre Talente und Fähigkeiten einsetzen, um einen positiven Beitrag für die Organisation und die Welt zu leisten.
   - topic: Ownership
     title: Ein börsennotiertes Unternehmen kehrt in schwierigen Zeiten seinen Weg um.
-    content: "AES, ein führendes Unternehmen in der Energieerzeugung und
-      -verteilung, wurde 1982 von Roger Sant und Dennis Bakke gegründet. Unter
-      Sants Führung als CEO bis 1994 und dann mit Bakke an der Spitze wuchs das
-      Unternehmen von einem Zwei-Personen-Unternehmen zu einem globalen
-      Energieerzeuger mit 40.000 Mitarbeitern in Anlagen in mehr als 30 Ländern
-      auf der ganzen Welt.\r
+    content: >-
+      AES, ein führendes Unternehmen in der Energieerzeugung und -verteilung,
+      wurde 1982 von Roger Sant und Dennis Bakke gegründet. Unter Sants Führung
+      als CEO bis 1994 und dann mit Bakke an der Spitze wuchs das Unternehmen
+      von einem Zwei-Personen-Unternehmen zu einem globalen Energieerzeuger mit
+      40.000 Mitarbeitenden in Anlagen in mehr als 30 Ländern auf der ganzen
+      Welt.
 
-      \r
 
-      Nach seinem Börsengang im Jahr 1991 wurde AES zum Liebling der Wall
-      Street. Jahrelang, während das Unternehmen von Erfolg zu Erfolg eilte,
-      unterstützten die Vorstandsmitglieder die radikal dezentralisierte und
-      vertrauensbasierte Entscheidungsfindung von AES. Und doch, so Bakke,
-      \"liebten die meisten Vorstandsmitglieder den Ansatz von AES vor allem
-      deshalb, weil sie glaubten, dass er den Aktienkurs in die Höhe trieb, und
-      nicht, weil es der 'richtige' Weg war, ein Unternehmen zu führen.\"
+      Nach seinem Börsengang im Jahr 1991 wurde AES zum Liebling der Wall Street. Jahrelang, während das Unternehmen von Erfolg zu Erfolg eilte, unterstützten die Vorstandsmitglieder die radikal dezentralisierte und vertrauensbasierte Entscheidungsfindung von AES. Und doch, so Bakke, "liebten die meisten Vorstandsmitglieder den Ansatz von AES vor allem deshalb, weil sie glaubten, dass er den Aktienkurs in die Höhe trieb, und nicht, weil es der 'richtige' Weg war, ein Unternehmen zu führen."
 
-      \r
 
-      \r
-
-      Anfang der 2000er Jahre wendete sich das Blatt für AES. Nach dem
-      Platzen der Dotcom-Blase, den Terroranschlägen vom 11. September 2001 und
-      dem Konkurs von Enron, der unter den Anlegern im Energiesektor fast eine
-      Panik auslöste, sank der Aktienkurs von AES, der seinen Höchststand bei 70
-      $ erreicht hatte, auf bis zu 5 $. Die früheren Entscheidungen von AES, in
-      \"Handelskraftwerke\" zu investieren, die Strom auf dem Spotmarkt und
-      nicht im Rahmen langfristiger Verträge verkauften, und einen Großteil des
-      Wachstums mit Schulden zu finanzieren, trugen zweifellos zu den
-      Schwierigkeiten des Unternehmens bei. Diese Entscheidungen konnten jedoch
-      nicht allein auf die dezentrale Struktur des Unternehmens zurückgeführt
-      werden, da sie bis hinauf zur Vorstandsebene diskutiert und beschlossen
-      worden waren. Nichtsdestotrotz machte sich unter den Vorstandsmitgliedern
-      Angst breit, und sie verhängten eine stark erhöhte Aufsicht,
-      einschließlich der Einstellung von Anwälten und Beratern sowie eines
-      Co-CEO, dessen Weisungen Bakke ausführen sollte. Nach neun frustrierenden
-      Monaten verließ Bakke das Unternehmen, was dem Vorstand die Möglichkeit
-      gab, die Umstellung von AES auf traditionelle Managementpraktiken zu
-      steuern.^[Übersetzt aus: Laloux, Frederic. Reinventing Organizations.
-      Nelson Parker (2014), Seiten 253-254]"
+      Anfang der 2000er Jahre wendete sich das Blatt für AES. Nach dem Platzen der Dotcom-Blase, den Terroranschlägen vom 11. September 2001 und dem Konkurs von Enron, der unter den Anlegern im Energiesektor fast eine Panik auslöste, sank der Aktienkurs von AES, der seinen Höchststand bei 70 $ erreicht hatte, auf bis zu 5 $. Die früheren Entscheidungen von AES, in "Handelskraftwerke" zu investieren, die Strom auf dem Spotmarkt und nicht im Rahmen langfristiger Verträge verkauften, und einen Großteil des Wachstums mit Schulden zu finanzieren, trugen zweifellos zu den Schwierigkeiten des Unternehmens bei. Diese Entscheidungen konnten jedoch nicht allein auf die dezentrale Struktur des Unternehmens zurückgeführt werden, da sie bis hinauf zur Vorstandsebene diskutiert und beschlossen worden waren. Nichtsdestotrotz machte sich unter den Vorstandsmitgliedern Angst breit, und sie verhängten eine stark erhöhte Aufsicht, einschließlich der Einstellung von Anwälten und Beratern sowie eines Co-CEO, dessen Weisungen Bakke ausführen sollte. Nach neun frustrierenden Monaten verließ Bakke das Unternehmen, was dem Vorstand die Möglichkeit gab, die Umstellung von AES auf traditionelle Managementpraktiken zu steuern.^\[Übersetzt aus: Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), Seiten 253-254]
   - topic: Project teams and task forces
     title: Die AES ersetzte das Personal durch Task Forces und wies ihnen Zeit zu.
-    content: "Mit 40.000 Mitarbeitern weltweit, aber nur etwa 100 Mitarbeitern in
+    content: >-
+      Mit 40.000 Mitarbeitenden weltweit, aber nur etwa 100 Mitarbeitenden in
       der Zentrale in Arlington, Virginia, hatte
       [AES](https://www.aes.com/home/default.aspx) keine zentralen Wartungs-
       oder Sicherheitsabteilungen, keinen Einkauf, keine Personalabteilung und
-      keine interne Revision. Das Unternehmen entwickelte die \"80-20-Regel\":
-      Von jeder Person, die bei AES arbeitete, vom Reinigungspersonal bis zum
+      keine interne Revision. Das Unternehmen entwickelte die "80-20-Regel": Von
+      jeder Person, die bei AES arbeitete, vom Reinigungspersonal bis zum
       Ingenieur, wurde erwartet, dass sie durchschnittlich 80 Prozent ihrer Zeit
       mit ihrer Hauptaufgabe verbrachte und sich für die anderen 20 Prozent in
       einer oder mehreren der vielen Aufgabengruppen zur Verfügung stellte, die
-      es im Unternehmen gab.^[Übersetzt aus: Laloux, Frederic. Reinventing
+      es im Unternehmen gab.^\[Übersetzt aus: Laloux, Frederic. Reinventing
       Organizations. Nelson Parker (2014), Seite 89].
 
 
-      \r
-
-      \r
-
-      Man beachte, dass AES im Jahr 2001 an ein neues Management übergeben
-      wurde, das beschloss, zu konventionelleren Managementansätzen
-      zurückzukehren."
+      Man beachte, dass AES im Jahr 2001 an ein neues Management übergeben wurde, das beschloss, zu konventionelleren Managementansätzen zurückzukehren.
   - topic: Dismissal
     title: AES führte ein großzügiges Abfindungsprogramm und einen Darlehensfonds
       ein, um Entlassungen nach einer Übernahme weitgehend freiwillig und
@@ -302,13 +248,13 @@ theory:
       Thema:
 
 
-      *Die richtige Größe einer Belegschaft entspricht der Anzahl der Personen, die erforderlich sind, damit der Arbeitsplatz Spaß macht. Zu viele Mitarbeiter demoralisieren die Kollegen und führen zu Revierkämpfen. Ein sehr kluger AES-Werksleiter in Nordirland sagte mir, dass Auseinandersetzungen um Revierkämpfe ein guter Indikator dafür sind, dass der Betrieb zu viele Mitarbeiter hat. Niemand kümmert sich darum, wer was macht, wenn es genug Arbeit für alle gibt. Wenn ich der Meinung bin, dass ein Unternehmen keine überflüssigen Mitarbeiter beschäftigen sollte, heißt das nicht, dass man sie entlassen und vor die Tür setzen sollte. Ausscheidende Mitarbeiter brauchen Zeit, um sich auf eine neue Aufgabe einzustellen. Die Unternehmen sollten bei Abfindungsregelungen großzügig sein. Wir sind fast bei jeder Akquisition auf Personalüberhang gestoßen. Eines der ersten Dinge, die wir nach der Übernahme eines Unternehmens taten, war, ein großzügiges und freiwilliges Abfindungsprogramm einzurichten. Nur selten wurden einzelne Mitarbeiter aufgefordert zu gehen. In Panama richtete AES einen Darlehensfonds für Mitarbeiter ein, die das Abfindungspaket annahmen. Ein Jahr später reiste ich zu einem Festessen mit ehemaligen Mitarbeitern, die das Unternehmen verlassen hatten. Einundsiebzig neue Unternehmen waren von diesen ehemaligen Mitarbeitern gegründet worden, von denen die meisten den AES-Kreditfonds in Anspruch genommen hatten. Selbst bei großzügigen freiwilligen Abfindungsregelungen kann der Wechsel von einem Unternehmen, das man kennt, zu einem Unternehmen, das man nicht kennt, traumatisch sein. Ich bin der festen Überzeugung, dass diese schwierigen Übergänge ein notwendiges Übel sind, das Arbeitnehmer und Unternehmen zwingt, sich an eine dynamische Welt anzupassen. Ein Teil der Freude an der Arbeit besteht darin, neue Rollen zu lernen und neue Aufgaben zu übernehmen. Arbeitsplatzsicherheit ist eine attraktive Geschenkverpackung, aber selten ist etwas von bleibendem Wert darin enthalten [Übersetzt aus: Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), Seiten 187-188]
+      \**Die richtige Größe einer Belegschaft entspricht der Anzahl der Personen, die erforderlich sind, damit der Arbeitsplatz Spaß macht. Zu viele Mitarbeiter demoralisieren die Kollegen und führen zu Revierkämpfen. Ein sehr kluger AES-Werksleiter in Nordirland sagte mir, dass Auseinandersetzungen um Revierkämpfe ein guter Indikator dafür sind, dass der Betrieb zu viele Mitarbeiter hat. Niemand kümmert sich darum, wer was macht, wenn es genug Arbeit für alle gibt. Wenn ich der Meinung bin, dass ein Unternehmen keine überflüssigen Mitarbeiter beschäftigen sollte, heißt das nicht, dass man sie entlassen und vor die Tür setzen sollte. Ausscheidende Mitarbeiter brauchen Zeit, um sich auf eine neue Aufgabe einzustellen. Die Unternehmen sollten bei Abfindungsregelungen großzügig sein. Wir sind fast bei jeder Akquisition auf Personalüberhang gestoßen. Eines der ersten Dinge, die wir nach der Übernahme eines Unternehmens taten, war, ein großzügiges und freiwilliges Abfindungsprogramm einzurichten. Nur selten wurden einzelne Mitarbeiter aufgefordert zu gehen. In Panama richtete AES einen Darlehensfonds für Mitarbeiter ein, die das Abfindungspaket annahmen. Ein Jahr später reiste ich zu einem Festessen mit ehemaligen Mitarbeitern, die das Unternehmen verlassen hatten. Einundsiebzig neue Unternehmen waren von diesen ehemaligen Mitarbeitern gegründet worden, von denen die meisten den AES-Kreditfonds in Anspruch genommen hatten. Selbst bei großzügigen freiwilligen Abfindungsregelungen kann der Wechsel von einem Unternehmen, das man kennt, zu einem Unternehmen, das man nicht kennt, traumatisch sein. Ich bin der festen Überzeugung, dass diese schwierigen Übergänge ein notwendiges Übel sind, das Arbeitnehmer und Unternehmen zwingt, sich an eine dynamische Welt anzupassen. Ein Teil der Freude an der Arbeit besteht darin, neue Rollen zu lernen und neue Aufgaben zu übernehmen. Arbeitsplatzsicherheit ist eine attraktive Geschenkverpackung, aber selten ist etwas von bleibendem Wert darin enthalten ^\[Übersetzt aus: Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), Seiten 187-188]*
   - topic: Staff Functions
     title: In einer stark regulierten Branche leistete die AES Pionierarbeit mit dem
       Einsatz von freiwilligen 80/20-Taskforces zur Bewältigung typischer
       Personalaufgaben.
     content: >-
-      AES mit seinen 40.000 Mitarbeitern arbeitete in der Zeit, in der Teal
+      AES mit seinen 40.000 Mitarbeitenden arbeitete in der Zeit, in der Teal
       eingesetzt wurde, in selbstverwalteten Teams von 15 bis 20 Personen. In
       der Überzeugung, dass schlechte Dinge passieren, wenn ein Standort zu groß
       wird, versuchte AES auch, die Zahl der Mitarbeiter in einem Standort auf
@@ -348,5 +294,5 @@ theory:
       Interne Audits wurden auf dieselbe Art und Weise durchgeführt, nämlich durch freiwillige Task Forces: Jeder Betrieb wurde von Kollegen aus anderen Betrieben auditiert. Es wurden Arbeitsgruppen für so unterschiedliche Themen wie Vergütung, gemeinnützige Arbeit, Umweltarbeit und Unternehmenswerte eingerichtet.
 
 
-      Die AES hat herausgefunden, dass der Einsatz von freiwilligen Arbeitsgruppen anstelle von festen Personalfunktionen mehrere Vorteile hat. Die Mitarbeiter finden Möglichkeiten, ihre Talente und Begabungen zum Ausdruck zu bringen, die sie in ihrer primären Funktion vielleicht nicht brauchen. Sie entwickeln ein echtes Gefühl der Eigenverantwortung, wenn sie sehen, dass sie wirklich die Macht haben, ihr Unternehmen zu gestalten. Dennis Bakke weist auf einen weiteren Punkt hin: Diese Task Forces sind hervorragende Lerneinrichtungen. Zu jedem beliebigen Zeitpunkt würden Tausende von Menschen in Task Forces mitarbeiten und von erfahreneren Kollegen Fach- und Führungskompetenzen erlernen. Es handelt sich um eine moderne Form der Berufsausbildung, die ein riesiges Ausmaß annimmt. Keine Ausbildung im Klassenzimmer könnte jemals das Ausmaß des Lernens erreichen, das tagtäglich in den freiwilligen Task Forces stattfand.^[Übersetzt aus: Alex Markels, "Blank Check", The Wall Street Journal, 9. April 1998].
+      Die AES hat herausgefunden, dass der Einsatz von freiwilligen Arbeitsgruppen anstelle von festen Personalfunktionen mehrere Vorteile hat. Die Mitarbeiter finden Möglichkeiten, ihre Talente und Begabungen zum Ausdruck zu bringen, die sie in ihrer primären Funktion vielleicht nicht brauchen. Sie entwickeln ein echtes Gefühl der Eigenverantwortung, wenn sie sehen, dass sie wirklich die Macht haben, ihr Unternehmen zu gestalten. Dennis Bakke weist auf einen weiteren Punkt hin: Diese Task Forces sind hervorragende Lerneinrichtungen. Zu jedem beliebigen Zeitpunkt würden Tausende von Menschen in Task Forces mitarbeiten und von erfahreneren Kollegen Fach- und Führungskompetenzen erlernen. Es handelt sich um eine moderne Form der Berufsausbildung, die ein riesiges Ausmaß annimmt. Keine Ausbildung im Klassenzimmer könnte jemals das Ausmaß des Lernens erreichen, das tagtäglich in den freiwilligen Task Forces stattfand.^\[Übersetzt aus: Alex Markels, "Blank Check", The Wall Street Journal, 9. April 1998].
 ---
