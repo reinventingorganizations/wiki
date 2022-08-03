@@ -85,7 +85,7 @@ theory:
     content: >-
       Wie ihre Kollegen bei [FAVI](http://www.favi.com/) und [Sun
       Hydraulics](http://www.sunhydraulics/) waren auch die Teams bei
-      [AES](http://www.ase.com/) für Entscheidungen im Zusammenhang mit allen
+      [AES](http://www.aes.com/) für Entscheidungen im Zusammenhang mit allen
       Aspekten des Tagesgeschäfts verantwortlich, einschließlich
       investitionsbezogener Budgetierung, Einstellung, Schulung, Evaluierung,
       Vergütung, Investitionsausgaben und Einkauf sowie langfristiger Strategie
