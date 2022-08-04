@@ -4,297 +4,402 @@ tags: cases
 name: Morning Star
 date: 2020-11-09
 introduction: >-
-  The [Morning Star Company ](https://www.morningstarco.com/)is a
-  California-based agribusiness and food processing company. Morning Star
-  processes 25% of the California processing tomato production, and supplies
-  approximately 40% of the U.S. industrial tomato paste and diced tomato
-  markets. 
+  Die [Morning Star Company](https://www.morningstarco.com/) ist ein in
+  Kalifornien ansässiges Unternehmen der Agrarindustrie und
+  Lebensmittelverarbeitung. Morning Star verarbeitet 25% der kalifornischen
+  Tomaten und hat in der industriellen Fertigung von Tomatenmark und -würfeln
+  einen Marktanteil von ca. 40%.
 
 
   ![](/media/morning-star.jpg)
 
 
-  Wikipedia article : <https://en.wikipedia.org/wiki/The_Morning_Star_Company>
+  Wikipedia Artikel: <https://en.wikipedia.org/wiki/The_Morning_Star_Company>
 industry: C. Manufacturing
 geography: USA
 companySize: 201-500
 profit: Profit
 theory:
   - topic: Culture and Values
-    title: At Morning Star, every management practice is inspired by two basic
-      social values.
-    content: "The founding principles for [Morning
-      Star](http://www.morningstarco.com/)'s way of operating were set early in
-      its history. When the first tomato processing factory was built, Chris
-      Rufer and the company’s first employees met to define how they wanted to
-      work together. They decided that two principles, two basic social values,
-      should inspire every management practice at Morning Star: individuals
-      should never use force against other people and they should honor their
-      commitments . These principles are at the heart of the company’s conflict
-      resolution mechanism, a process that is described in great detail in the
-      “Colleague Principles,” a core document outlining Morning Star’s self-
-      managing practices."
+    title: Bei Morning Star basiert jede Managementpraxis auf zwei grundlegenden
+      sozialen Werten.
+    content: "Die Grundprinzipien für die Arbeitsweise von [Morning
+      Star](http://www.morningstarco.com/) wurden schon früh in der
+      Unternehmensgeschichte festgelegt. Als die erste Tomatenfabrik gebaut
+      wurde, trafen sich Chris Rufer und die ersten Mitarbeitenden des
+      Unternehmens, um ihre Art der Zusammenarbeit zu definieren. Sie
+      beschlossen, dass zwei grundlegende Prinzipien und soziale Werte jede
+      Managementpraxis bei Morning Star bestimmen: Menschen sollten zum einen
+      niemals Gewalt gegen andere ausüben und zum anderen ihren Verpflichtungen
+      nachkommen. Diese Grundsätze sind der Kern des Konfliktlösungsprozesses im
+      Unternehmen. Dieser wird in den Mitarbeiterprinzipien (Colleague
+      Principles), einem zentralen Dokument der Selbstorganisation bei Morning
+      Star, detailliert beschrieben."
   - topic: Coordination
-    title: At Morning Star, colleagues coordinate both ad hoc and through written
-      annual agreements.
-    content: >-
-      Colleagues at Morningstar noticed that lots of people were buying
-      threadlocker (an adhesive that prevents nuts and bolts from accidentally
-      loosening) in dozens of different formats and from different vendors. They
-      were not only losing out on volume discounts, but the uncoordinated
-      purchasing also generated unnecessary bureaucracy because regulations in
-      the food industry required workers to track every format in a Material
-      Safety Data Sheet. A worker suggested that he could walk around the plant
-      once a quarter to coordinate orders. A similar solution emerged for
-      purchasing packaging materials where volume discounts can quickly add
-      up.^\[Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to
-      Creating Organizations Inspired by the Next Stage of Human Consciousness
-      (Kindle Locations 2394-2395). Nelson Parker. Kindle Edition.]
+    title: Bei Morning Star koordiniert man sowohl ad hoc als auch mit Hilfe
+      schriftlicher Jahresvereinbarungen.
+    content: "Mitarbeitenden bei Morning Star fiel auf, dass Gewindesicherung (ein
+      Klebstoff, der verhindert, dass sich Schrauben und Muttern versehentlich
+      lösen) in Dutzenden von verschiedenen Formaten und von unterschiedlichen
+      Anbietern gekauft wurde. Dadurch gingen nicht nur Mengenrabatte verloren.
+      Der unkoordinierte Einkauf verursachte auch unnötigen bürokratischen
+      Aufwand, da in der Lebensmittelindustrie vorgeschrieben ist, jedes Format
+      in einem Sicherheitsdatenblatt zu erfassen. Ein Mitarbeiter schlug vor,
+      dass er einmal im Quartal durch das Werk gehen könnte, um die Bestellungen
+      zu koordinieren. Eine ähnliche Lösung ergab sich für den Einkauf von
+      Verpackungsmaterial, wo sich Mengenrabatte schnell summieren
+      können.^[übersetzt aus: Laloux, Frederic (2014-02-09). Reinventing
+      Organizations: A Guide to Creating Organizations Inspired by the Next
+      Stage of Human Consciousness (Kindle Locations 2394-2395). Nelson Parker.
+      Kindle Edition.]\r
 
 
-      Another key mechanism for coordination at Morningstar is the Colleague Letter of Understanding (or simply CLOU). See “[Role Definition and Allocation](https://reinventingorganizationswiki.com/theory/role-definition-and-allocation/)" and then Concrete examples for inspiration”/”Morningstar”.
+      Ein weiterer wichtiger Mechanismus für die Koordination bei Morning
+      Star ist CLOU (Colleague Letter of Understanding). Siehe
+      „[Rollendefinition und -zuweisung]
+      (https://reinventingorganizationswiki.com/theory/role-definition-and-allo\
+      cation/)\" (Role Definition and Allocation) und dann „Konkrete Beispiele
+      zur Inspiration\"/\"Morning Star\" (Concrete examples for
+      inspiration”/”Morningstar”).\r"
   - topic: Role Definition and Allocation
-    title: A formal process for defining and allocating roles which takes place once
-      each year
-    content: >-
-      As a Morning Star colleague, you write a personal mission statement
-      (“Personal Commercial Mission” in Morning Star’s language) and spell out
-      all of the roles you commit to perform in a document called the Colleague
-      Letter of Understanding (or simply CLOU). Roles at Morning Star are
-      defined very specifically, so you might well hold 20 or 30 different roles
-      (one might be receiver of tomatoes at the unloading station, another might
-      be trainer of seasonal whole peel sorters). For each role, you specify;
+    title: Ein formeller Prozess zur Definition und Zuweisung von Rollen findet
+      einmal im Jahr statt.
+    content: "\r
+
+      Als Mitarbeitender bei Morning Star verfassen Sie eine persönliche
+      Aufgabenbeschreibung (Personal Commercial Mission) und legen alle Rollen,
+      zu deren Ausübung Sie sich verpflichten, in einem Dokument namens CLOU
+      (Colleague Letter of Understanding) fest. Die Rollen bei Morning Star sind
+      sehr spezifisch, so dass Sie durchaus 20 oder 30 verschiedene Rollen
+      innehaben können. Eine davon könnte „Empfänger von Tomaten an der
+      Entladestation“ sein, eine andere „Ausbilderin der saisonalen
+      Sortierer“).\r
+
+      Für jede Rolle geben Sie an:\r
+
+      - welche Aufgaben dazugehören,\r
+
+      - welche Befugnisse Sie Ihrer Meinung nach haben sollten (handeln,
+      empfehlen, entscheiden oder eine Kombination daraus),\r
+
+      - welche Indikatoren Ihnen helfen zu verstehen, ob Sie gute Arbeit
+      leisten, und\r
+
+      - welche Verbesserungen Sie bei diesen Indikatoren anstreben.\r
 
 
-      * what it does,
-
-      * what authority you believe you should have (act, recommend, decide, or a combination thereof),
-
-      * what indicators will help you understand if you are doing a good job, and
-
-      * what improvements you hope to make on those indicators.
-
-
-      In a continuous process like Morning Star’s, each person in the chain receives tomatoes or paste in some form from someone upstream and delivers them in another form to someone downstream. This might explain why colleagues at Morning Star chose to discuss the CLOUs, once written or updated, not in a team setting but in a series of one-on-one discussions with colleagues up and downstream. 
+      In einem kontinuierlichen Prozess wie dem von Morning Star erhält
+      jede Person in der Produktionskette Tomaten oder Tomatenmark in
+      irgendeiner Form von einer vorgelagerten Station bzw. Person und liefert
+      sie in einer anderen Form an eine nachgelagerte Station bzw. Person. Dies
+      könnte erklären, warum die Mitarbeitenden bei Morning Star die CLOUs,
+      sobald sie geschrieben oder aktualisiert sind, nicht im Team diskutieren,
+      sondern in Einzelgesprächen mit in der Kette vor- und nachgelagert
+      arbeitenden Kollegen.\r
 
 
-      Here is a [sample CLOU document](http://reinventingorganizationswiki.com/index.php?action=ajax&title=-&rs=SecureFileStore::getFile&f=/a/a9/MorningStar_Sample2011_CLOU.pdf) *(link to be fixed*). A more detailed discussions of CLOUs can be found [here](http://www.managementexchange.com/story/colleague-letter-understanding-replacing-jobs-commitments).^\[Source: http://www.managementexchange.com/story/colleague-letter-understanding-replacing-jobs-commitments]
+      Hier ist ein Beispiel für ein
+      [CLOU-Dokument](http://reinventingorganizationswiki.com/index.php?action=\
+      ajax&title=-&rs=SecureFileStore::getFile&f=/a/a9/MorningStar_Sample2011_C\
+      LOU.pdf) *(Link zu korrigieren)*.\ 
 
 
-      <https://corporate-rebels.com/morning-star/> article on Corporate rebels blog describes the conditions for the proper functioning of self-management at Morning Star
+      Eine ausführlichere Diskussion über CLOUs finden Sie
+      [hier](http://www.managementexchange.com/story/colleague-letter-understan\
+      ding-replacing-jobs-commitments).\r
+
+
+      Ein [Artikel auf dem Corporate Rebels
+      Blog](https://corporate-rebels.com/morning-star/) beschreibt die
+      Bedingungen für das reibungslose Funktionieren des Selbstmanagements bei
+      Morning Star. \r"
   - topic: Conflict resolution
-    title: Use a conflict resolution process called the “Direct Communication and
-      Gaining Agreement”, which supports parties in finding agreement. Mediators
-      may be called in for support, but they cannot impose a resolution from
-      above.
-    content: >-
-      Within Morning Star, there are 23 teams (called Business Units), but no
-      management positions and no HR department. Colleagues operate entirely on
-      self-managing principles that were established early in its history . When
-      the first tomato processing factory was built, Chris Rufer and the
-      company’s first employees met to define how they wanted to work together.
-      They decided that two basic social values should inspire every management
-      practice at Morning Star: individuals should never use force against other
-      people and they should honor their commitments. These values are at the
-      heart of the company’s conflict resolution process, which is described in
-      great detail in the “Colleague Principles”. This is a core document
-      outlining Morning Star’s self-managing practices. The conflict resolution
-      process (called “Direct Communication and Gaining Agreement”), applies to
-      any type of disagreement. This could be a difference of opinion about a
-      technical decision, an interpersonal conflict or a breach of values.
-      Specifically, it can be used in performance issues when one colleague
-      believes that another is not pulling his weight.
+    title: Bei Morning Star wird ein Konfliktlösungsverfahren namens „Direkte
+      Kommunikation und Einigung" angewendet, das die Parteien dabei
+      unterstützt, eine Einigung zu erzielen. Mediatoren können hinzugezogen
+      werden, aber keine Lösung aufzwingen.
+    content: "Bei Morning Star gibt es 23 Teams (Business Units), aber keine
+      Führungspositionen und keine Personalabteilung. Die Mitarbeitenden agieren
+      ausschließlich nach den Prinzipien der Selbstorganisation, die schon früh
+      in der Unternehmensgeschichte festgelegt wurden. Als die erste
+      Tomatenfabrik gebaut wurde, trafen sich Chris Rufer und die ersten
+      Mitarbeitenden des Unternehmens, um ihre Art der Zusammenarbeit zu
+      definieren. Sie beschlossen, dass zwei grundlegende Prinzipien und soziale
+      Werte jede Managementpraxis bei Morning Star bestimmen: Menschen sollten
+      zum einen niemals Gewalt gegen andere ausüben und zum anderen ihren
+      Verpflichtungen nachkommen. Diese Grundsätze sind der Kern des
+      Konfliktlösungsprozesses im Unternehmen. Dieser wird in den
+      Mitarbeiterprinzipien (Colleague Principles), einem zentralen Dokument der
+      Selbstorganisation bei Morning Star, detailliert beschrieben. Der
+      Konfliktlösungsprozess (Direct Communication and Gaining Agreement) gilt
+      für jede Form von Uneinigkeit. Dabei kann es sich um eine
+      Meinungsverschiedenheit über eine technische Entscheidung, einen
+      zwischenmenschlichen Konflikt oder einen Verstoß gegen die Werte handeln.
+      Insbesondere kann der Prozess bei Leistungsproblemen eingesetzt werden,
+      wenn jemand der Meinung ist, dass ein anderer seinen Beitrag nicht
+      liefert.\r
 
 
-      Whatever the topic, the process starts with one person asking another to gain agreement: In a first phase, they sit together and try to sort it out privately. The initiator has to make a clear request (not a judgment, not a demand), and the other person has to respond clearly to the request (with a “yes,” a “no,” or a counterproposal).
+      Unabhängig vom Thema beginnt der Prozess damit, dass eine Person
+      eine andere um Zustimmung bittet: In der ersten Phase setzen sie sich
+      zusammen und versuchen, die Angelegenheit unter vier Augen zu klären. Die
+      Initiatorin muss eine klare Bitte äußern (kein Urteil, keine Forderung),
+      und die andere Person muss klar auf die Bitte reagieren (mit Ja, Nein oder
+      einem Gegenvorschlag).\r
 
 
-      If they can’t find a solution agreeable to both of them, they nominate a colleague they both trust to act as a mediator. The colleague supports the parties in finding agreement but cannot impose a resolution.
+      Wenn sie keine für beide akzeptable Lösung finden, ernennen sie
+      einen Kollegen, dem sie vertrauen, zum Mediator. Dieser unterstützt die
+      Parteien bei der Einigung, kann jedoch keine Lösung aufzwingen.\r
 
 
-      If mediation fails, a panel of topic-relevant colleagues is convened. The panel’s role, again, is to listen and help shape agreement. It cannot force a decision, but usually carries enough moral weight for matters to come to a conclusion.
+      Scheitert die Mediation, wird ein Gremium aus Personen einberufen,
+      die mit dem Thema zu tun haben. Auch hier besteht die Aufgabe des Gremiums
+      darin, zuzuhören und zu einer Einigung beizutragen. Es kann keine
+      Entscheidung erzwingen, hat aber in der Regel ausreichend moralisches
+      Gewicht, um die Angelegenheit zu einem Abschluss zu bringen.\r
 
 
-      In an ultimate step, Chris Rufer, the founder and president, can be called into the panel, to further reinforce the panel’s moral weight. Since the disagreement is private, all parties are expected to respect confidentiality during and after the processes. Of course, this confidentiality also applies to the two persons at the heart of the conflict. They must resolve their disagreement between themselves and are discouraged from spreading the conflict by enlisting support and building rival factions.
+      In einem letzten Schritt wird Chris Rufer, der Gründer und
+      Präsident, vom Gremium einberufen, um dieses Gewicht zu verstärken. Da es
+      sich um eine nicht öffentliche Meinungsverschiedenheit handelt, wird von
+      allen Parteien erwartet, dass sie während und nach dem Verfahren
+      Vertraulichkeit wahren. Diese gilt natürlich auch für die beiden Personen,
+      die im Mittelpunkt des Konflikts stehen. Sie müssen ihre
+      Meinungsverschiedenheiten unter sich ausmachen und werden davon
+      abgehalten, den Konflikt durch das Anwerben von Unterstützung und die
+      Bildung rivalisierender Fraktionen auszuweiten.\r
 
 
-      See also Corporate Rebels article on Morning Star "Handle Conflicts with the Accountability Process" at <https://corporate-rebels.com/accountability-process/>
+      Siehe auch: Artikel von Corporate Rebels über Morning Star
+      [Konflikte mit dem Accountability Process
+      behandeln](https://corporate-rebels.com/accountability-process/).\r"
   - topic: Recruitment
-    title: Recruitment in Morning Star is a very demanding process, generally
-      including a multitude of interviews and a battery of diagnostics.
-    content: "Chris Rufer, the founder of Morning Star, estimates that, on average,
-      it takes a new associate a year or more to become fully functional in the
-      self-management environment. When the company was smaller, Chris Rufer
-      spent half a day interviewing every prospective employee, usually in the
-      candidate’s home. The bulk of the conversation focused on assessing the
-      fit between Morning Star’s philosophy and the applicant’s expectations.
-      Today every potential hire gets a two-hour introduction to self-
-      management and is interviewed by 10 to 12 Morning Star colleagues. Even
-      then, mistakes happen. Paul Green Jr., co-founder,  estimates that as many
-      as 50% of seasoned hires leave within two years because they have a hard
-      time adapting to the self management system. \r
+    title: Bei Morning Star ist Rekrutierung ein sehr anspruchsvoller Prozess, der
+      im Allgemeinen eine Vielzahl von Gesprächen und eine Reihe von Diagnosen
+      umfasst.
+    content: "Chris Rufer, der Gründer von Morning Star, schätzt, dass ein Neuling
+      im Schnitt ein Jahr oder länger braucht, um in der Selbstorganisation voll
+      funktionsfähig zu sein. Als das Unternehmen kleiner war, verbrachte Chris
+      Rufer einen halben Tag in Vorstellungsgesprächen mit jedem potenziellen
+      Mitarbeitenden – in der Regel bei ihnen zu Hause. Der größte Teil des
+      Gesprächs konzentrierte sich darauf, die Passung zwischen der Philosophie
+      von Morning Star und den Erwartungen des Kandidaten zu ermitteln. Heute
+      erhält jeder potenzielle Mitarbeitende eine zweistündige Einführung in
+      Selbstmanagement und wird von 10 bis 12 Personen aus dem Kollegenkreis
+      interviewt. Und selbst dann passieren Fehler. Paul Green Jr., Mitbegründer
+      des Unternehmens, schätzt, dass bis zu 50% der neu eingestellten
+      Mitarbeitenden innerhalb von zwei Jahren wieder gehen, weil ihnen die
+      Anpassung an das Selbstmanagementsystem schwerfällt.\r
 
-      \r
 
-      A colleague who wants to expand a Business Unit’s pay-roll must sell
-      the idea to his or her peers, who will ask for a job description and a
-      business case. If there’s a consensus to move ahead, the mechanics of
-      recruiting will get turned over to an in-house specialist.\r
+      Wer die Belegschaft eines Geschäftsbereichs erweitern möchte, muss
+      erst den Kollegenkreis von dieser Idee überzeugen. Dieser wird um eine
+      Stellenbeschreibung und einen Business Case bitten. Wenn es einen Konsens
+      gibt, wird eine interne Spezialistin mit der Personalbeschaffung
+      beauftragt.\r
 
-      \r
 
-      Emphasis is on fit for role and fit for the organization.  A major
-      point in fit for organization is passion for learning."
+      Der Schwerpunkt liegt auf der Eignung für die Rolle und für das
+      Unternehmen, wobei Lernleidenschaft besonders wichtig ist.\r"
   - topic: Commitment, Working Hours and Flexibility
-    title: Each colleague at Morning Star has a work schedule commitment.
-    content: The work schedule commitment captures how many hours a person can
-      commit to work during low and high season (when the tomatoes are harvested
-      and processed), providing a clear basis on which colleagues can discuss
-      and manage their time collectively whilst still fulfilling the
-      organization’s purpose. The work schedule commitment is captured in
-      [Morning Star](https://www.morningstarco.com/)’s colleague letter of
-      understanding or CLOU, which also includes a personal mission statement
-      and detailed information about the roles a person currently commits to, as
-      well as improvements they hope to make. This more formal way of capturing
-      commitment plays to Morning Star's need for continuous improvement to
-      increase efficiency as it is essentially a low-margin, commodity
-      business^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker
-      (2014), page 182-183].
+    title: Bei Morning Star hat jeder Mitarbeitende eine Arbeitszeitverpflichtung.
+    content: "Die Arbeitszeitverpflichtung legt fest, wie viele Stunden eine Person
+      in der Haupt- und Nebensaison (wenn die Tomaten geerntet und verarbeitet
+      werden) eingesetzt werden kann. Sie bietet eine klare Grundlage, auf der
+      die Mitarbeitenden ihre Zeit besprechen und verwalten können, während sie
+      gleichzeitig die Ziele der Organisation erfüllen. Die
+      Arbeitszeitverpflichtung wird im CLOU (Colleague Letter of Understanding)
+      festgehalten. Dieser enthält zudem ein persönliches Leitbild und
+      detaillierte Informationen über die Aufgaben, zu denen sich eine Person
+      verpflichtet, sowie über die Verbesserungen, die sie zu erreichen hofft.
+      Diese formellere Art der Erfassung des Engagements kommt dem Bedürfnis von
+      Morning Star nach kontinuierlicher Verbesserung in Sachen
+      Effizienzsteigerung entgegen, da es sich im Wesentlichen um ein Geschäft
+      mit geringer Gewinnspanne handelt.^[übersetzt aus: Laloux, Frederic.
+      Reinventing Organizations. Nelson Parker (2014), S. 182f.]"
   - topic: Objectives and Target Setting
-    title: In Morning Star, colleagues give each other an undertaking to deliver
-      certain volumes, since each section is dependent on the output of the
-      preceding section to deliver its output.
-    content: >-
-      As a [Morning Star](http://www.morningstarco.com/) colleague, you write a
-      personal mission statement (“Personal Commercial Mission” in Morning
-      Star’s language) and spell out all of the roles you commit to in a
-      document called Colleague Letter of Understanding (or simply CLOU). Roles
-      at Morning Star are defined very specifically, so you might well hold 20
-      or 30 different roles (one might be receiver of tomatoes at the unloading
-      station, another might be trainer of seasonal whole peel sorters). For
-      each role, you specify what it does, what authority you believe you should
-      have (act, recommend, decide, or a combination thereof), what indicators
-      will help you understand if you are doing a good job, and what
-      improvements you hope to make on those indicators.
+    title: Bei Morning Star verpflichten sich die Mitarbeitenden gegenseitig,
+      bestimmte Mengen zu liefern, da jeder Bereich bezüglich der eigenen
+      Leistung von der des vorgehenden Bereichs abhängig ist.
+    content: "Als Mitarbeitender bei [Morning Star](http://www.morningstarco.com/)
+      verfassen Sie eine persönliche Aufgabenbeschreibung (Personal Commercial
+      Mission) und legen alle Rollen, zu deren Ausübung Sie sich verpflichten,
+      in einem Dokument namens CLOU (Colleague Letter of Understanding) fest.
+      Die Rollen bei Morning Star sind sehr spezifisch, so dass Sie durchaus 20
+      oder 30 verschiedene Rollen innehaben können. Eine davon könnte „Empfänger
+      von Tomaten an der Entladestation“ sein, eine andere „Ausbilderin der
+      saisonalen Sortierer“).\r Für jede Rolle geben Sie an, welche Aufgaben
+      dazugehören, welche Befugnisse Sie Ihrer Meinung nach haben sollten
+      (handeln, empfehlen, entscheiden oder eine Kombination daraus), welche
+      Indikatoren Ihnen helfen zu verstehen, ob Sie gute Arbeit leisten, und
+      welche Verbesserungen Sie bei diesen Indikatoren anstreben.\r
 
 
-      Why this level of formality and granularity? In a continuous process like Morning Star’s, each person in the chain receives tomatoes or paste in some form from someone upstream and delivers them in another form to someone downstream. Therefore, colleagues at Morning Star chose to discuss the CLOUs, once written or updated, not in a team setting (which most self-managing organizations do), but in a series of one-on-one discussions with the handful of colleagues up and down-stream that people interact with most. People discuss and negotiate what’s written in each other’s CLOU documents very seriously— they want to make sure that people upstream commit to supplying them with the right input, so that they can in turn deliver to people downstream what they committed to.
+      Warum dieser Grad an Formalität und Detailtiefe? In einem
+      kontinuierlichen Prozess wie dem von Morning Star erhält jede Person in
+      der Produktionskette Tomaten oder Tomatenmark in irgendeiner Form von
+      einer vorgelagerten Station bzw. Person und liefert sie in einer anderen
+      Form an eine nachgelagerte Station bzw. Person. \rDeshalb haben die
+      Mitarbeitenden bei Morning Star entschieden, die CLOUs, sobald sie
+      geschrieben oder aktualisiert sind, nicht im Team zu diskutieren (wie es
+      in den meisten selbstorganisierten Unternehmen üblich ist), sondern in
+      Einzelgesprächen mit denjenigen, mit denen die betreffende Person am
+      meisten zu tun hat. Man diskutiert und verhandelt sehr intensiv, was in
+      den CLOU-Dokumenten der anderen steht und will sichergehen, dass die
+      vorgelagerten Personen sich verpflichten, den richtigen Input zu liefern,
+      damit man selbst den nachgelagerten Personen das liefern kann, wozu man
+      sich verpflichtet hat.\r
 
 
-      Colleagues at Morning Star set themselves targets for their part of the process, to stimulate continuous improvement. They measure indicators, compare them to the self-set targets, analyze root causes, and experiment with new ideas. These targets are mostly set at a local level, for one machine or one process step, where the outcomes can be predicted with some certainty.
+      Die Mitarbeitenden bei Morning Star setzen sich selbst Ziele für
+      ihren Teil des Prozesses, um eine kontinuierliche Verbesserung anzuregen.
+      Sie messen Indikatoren, vergleichen sie mit den selbst gesetzten Zielen,
+      analysieren die Ursachen und experimentieren mit neuen Ideen. Diese Ziele
+      werden meist auf lokaler Ebene für eine Maschine oder einen Prozessschritt
+      festgelegt, bei dem die Ergebnisse mit gewisser Sicherheit vorhergesagt
+      werden können.\r"
   - topic: Feedback and Performance Management
-    title: Morning Star has developed a team based feedback process for when the
-      work carried out can't be compared easily.
-    content: "[Morning Star ](http://www.morningstarco.com/)Teams that do very
-      different work (for example, tomato sorting, steam generation and
-      packaging) don’t share metrics to get feedback on their performance.
-      Instead, each team makes an annual self-evaluation presentation to a group
-      of their colleagues. The group includes Chris Rufer, the President and
-      anyone else who wants to join in. They are expected to talk openly about
-      what went well, what didn’t, how well they have used company resources and
-      what their plans are for the coming year. Each presentation lasts several
-      hours and is carefully prepared. They expect tough questions from their
-      colleagues and receive much input. This enables them to review what they
-      have done and refine their plans^\\[Laloux, Frederic. Reinventing
-      Organizations. Nelson Parker (2014), page 124, 125]."
+    title: Morning Star hat ein teambasiertes Feedback-Verfahren für den Fall
+      entwickelt, dass die geleistete Arbeit nicht ohne Weiteres verglichen
+      werden kann.
+    content: "[Morning Star](http://www.morningstarco.com/) Teams, die sehr
+      unterschiedliche Arbeiten verrichten (z. B. Tomatensortierung,
+      Dampferzeugung und Verpackung), tauschen keine Messdaten aus, um ein
+      Feedback zu ihrer Leistung zu erhalten. Stattdessen präsentiert jedes Team
+      eine jährliche Selbstbewertung in einer Kollegengruppe. Zu dieser gehören
+      Chris Rufer, der Präsident, und alle, die sich beteiligen möchten. Es wird
+      erwartet, dass ein Team offen darüber spricht, was gut gelaufen ist und
+      was nicht, wie gut sie die Unternehmensressourcen genutzt und welche Pläne
+      sie für das kommende Jahr haben. Jede Präsentation dauert mehrere Stunden
+      und wird sorgfältig vorbereitet. Die Teams erwarten unbequeme Fragen aus
+      dem Kollegenkreis und erhalten viele Anregungen. So können sie überprüfen,
+      was sie getan haben, und ihre Pläne verfeinern.^\\[übersetzt aus: Laloux,
+      Frederic. Reinventing Organizations. Nelson Parker (2014), S. 124f.]"
   - topic: Compensation and incentives
-    title: Salaries are self-initiated, calibrated by the advice given by an elected
-      salary committee, and if needed, using the conflict resolution process.
-    content: >-
-      If you work at Morning Star, then once a year, along with all your
-      colleagues, you write a letter stating the raise in salary you believe to
-      be fair for yourself and why. In an uneventful year, you are likely to
-      stick with a cost-of-living adjustment. But if you feel you have taken on
-      more challenging roles or made special contributions, you can choose a
-      higher percentage. You back up the letter with the peer-based feedback you
-      received from your CLOU colleagues (the people with whom you concluded
-      one-on-one contracts a year earlier) and any relevant data on performance
-      indicators you are responsible for.
+    title: Gehälter werden auf eigene Initiative festgelegt und mit Hilfe eines
+      Gehaltsausschusses (und falls erforderlich im Rahmen eines
+      Konfliktlösungsverfahrens) angepasst.
+    content: "Wenn Sie bei Morning Star arbeiten, schreiben Sie einmal im Jahr
+      zusammen mit allen anderen einen Brief, in dem Sie die eigene, aus Ihrer
+      Sicht angemessene Gehaltserhöhung angeben und begründen. In einem
+      ereignislosen Jahr werden Sie wahrscheinlich eine Anpassung an die
+      Lebenshaltungskosten wählen. Wenn Sie jedoch der Meinung sind, dass Sie
+      anspruchsvollere Aufgaben übernommen oder einen besonderen Beitrag
+      geleistet haben, können Sie einen höheren Prozentsatz bestimmen. Sie
+      untermauern das Schreiben mit dem Feedback Ihrer CLOU-Kollegen (d.h. den
+      Personen, mit denen Sie ein Jahr zuvor Einzelvereinbarungen getroffen
+      haben) sowie mit allen relevanten Daten zu den Leistungsindikatoren in
+      Ihrer Verantwortung.\r
 
 
-      You then share your letter with a handful of colleagues that were elected into a compensation committee (there is one such committee in each of the company’s four locations). The committee’s job is to review all the letters it receives, calibrate them, and provide feedback. It might tell you that you’ve been too humble about your accomplishments and that you should consider going for a bigger raise. Or it might tell you that, in comparison to your peers, the salary increase you granted yourself seems on the high side. The committee has only advisory power and cannot impose its decision, but the process to set salaries is understood to be part of Morning Star's "Gaining Agreement" process. If you choose to ignore the committee's advice for you to lower your salary raise, the committee can choose to enter into the Gaining Agreement process (a [conflict resolution process](../conflict-resolution/)) with you to create a space and time to explore in more depth where your and the committee’s assessments diverge and to help you and the committee reach agreement.
+      Anschließend senden Sie Ihr Schreiben an den Vergütungsausschuss. An
+      jedem der vier Standorte des Unternehmens gibt es einen solchen Ausschuss.
+      Seine Aufgabe besteht darin, alle Schreiben zu prüfen, zu bewerten und zu
+      kommentieren. Der Ausschuss könnte zu dem Schluss kommen, dass Sie zu
+      bescheiden mit Ihren Leistungen waren und eine höhere Gehaltsanpassung in
+      Betracht ziehen sollten. Oder er sagt Ihnen, dass die selbst gewählte
+      Gehaltserhöhung im Vergleich mit anderen zu hoch erscheint. Der Ausschuss
+      hat nur beratende Funktion und kann keine Entscheidung erzwingen, aber das
+      Verfahren zur Gehaltsfindung wird als Teil des Morning Star Prozesses zum
+      Erlangen von Einvernehmen (Gaining Agreement) verstanden. Wenn Sie den Rat
+      des Ausschusses, Ihre Gehaltsvorstellung zu senken, ignorieren, kann der
+      Ausschuss beschließen, mit Ihnen den Gaining Agreement Prozess zwecks
+      [Konfliktlösung](../conflict-resolution/) zu starten mit Raum und Zeit für
+      eine eingehendere Untersuchung, wo die Einschätzungen voneinander
+      abweichen, und mit dem Ziel einer Einigung.\r
 
 
-      Morning Star’s experience is that people prove to be remarkably skillful at assessing a fair compensation for themselves. In any given year, roughly a quarter of people choose salary increases above the cost-of-living adjustment. Only a handful of people throughout the company receive feedback that they might have aimed too high. ^[Gary Hamel, “First, Let’s Fire All the Managers,” Harvard Business Review, December 2011, [http://hbr.org/2011/12/first-lets-fire-all-the-managers](https://hbr.org/2011/12/first-lets-fire-all-the-managers). and interviews Frederic Laloux at Morning Star Self-Management Institute.]
+      Morning Star hat die Erfahrung gemacht, dass Menschen bemerkenswert
+      geschickt darin sind, eine faire Vergütung für sich selbst zu finden.
+      Jedes Jahr entscheidet sich etwa ein Viertel der Mitarbeitenden für eine
+      Gehaltserhöhung, die über dem Teuerungsausgleich liegt. Nur wenige Leute
+      erhalten die Rückmeldung, dass sie möglicherweise zu hoch gegriffen haben.
+      ^[Gary Hamel, \"First, Let's Fire All the Managers\", Harvard Business
+      Review, Dezember 2011,
+      [http://hbr.org/2011/12/first-lets-fire-all-the-managers](https://hbr.org\
+      /2011/12/first-lets-fire-all-the-managers) und Interviews mit Frederic
+      Laloux beim Morning Star Self-Management Institute.]\r
 
 
-      Corporate Rebels article on self-set salaries describes the compensation committee at Morning Star <https://corporate-rebels.com/self-set-salaries/>
+      Der Artikel von Corporate Rebels über selbstbestimmte Gehälter
+      beschreibt den Vergütungsausschuss bei Morning Star:
+      <https://corporate-rebels.com/self-set-salaries/>\r"
   - topic: Purchasing and Investments
-    title: Morning Star implemented a strong performance evaluation process, which
-      includes a view on the effectiveness of using company resources and an
-      annual presentation of investment plans to a panel of peers.
-    content: At [Morningstar](https://www.morningstarco.com/), every year in
-      January, teams present a self-evaluation to a group of colleagues, which
-      inludes Chris Rufer (the founder and president) and anyone else who cares
-      to join. They are expected to talk candidly about what went well during
-      the past year and what didn’t, how effectively they used company
-      resources, and what they plan to do in the next year. It’s not a
-      superficial effort; each presentation lasts for a few hours, and teams can
-      expect challenging, sometimes grilling questions from their colleagues. In
-      the course of a month, all teams make presentations; teams that haven’t
-      performed well have received much input from their peers and know they
-      have homework to do ^[Laloux, Frederic. Reinventing Organizations. Nelson
-      Parker (2014), page 125]
+    title: Morning Star hat einen strengen Leistungsbewertungsprozess eingeführt,
+      der einen Blick auf die Effektivität der Nutzung von
+      Unternehmensressourcen und eine jährliche Präsentation der
+      Investitionspläne vor einem Kollegengremium umfasst.
+    content: "Bei [Morning Star](https://www.morningstarco.com/) präsentieren die
+      Teams jedes Jahr im Januar einer Gruppe von Kollegen und Chris Rufer
+      (Gründer und Präsident) eine Selbsteinschätzung. Von den Teams wird
+      erwartet, dass sie offen darüber sprechen, was im vergangenen Jahr gut
+      gelaufen ist und was nicht, wie effektiv sie Unternehmensressourcen
+      genutzt haben und was sie im nächsten Jahr zu tun gedenken. Das ist kein
+      Spaziergang. Jede Präsentation dauert einige Stunden, und die Teams müssen
+      mit herausfordernden, manchmal bohrenden Fragen ihrer Kolleginnen rechnen.
+      Im Laufe eines Monats halten alle Teams solche Präsentationen. Teams, die
+      nicht so gut abgeschnitten haben, erhalten viel Input und kennen ihre
+      Hausaufgaben.^[übersetzt aus: Laloux, Frederic. Reinventing Organizations.
+      Nelson Parker (2014), S. 125]"
   - topic: Fundamental Assumptions
-    title: Two core beliefs about workers and responsibilities.
-    content: |-
-      1. Individuals shall work with no use of force or coercion.
-      2. Individuals shall keep commitments.
+    title: Bei Morning Star gibt es zwei Grundüberzeugungen über Arbeitnehmende und
+      Verantwortlichkeiten.
+    content: "1.\tIndividuen sollen ohne Anwendung von Gewalt oder Zwang arbeiten.\r
+
+      2.\tIndividuen sollen ihren Verpflichtungen nachkommen.\r"
   - topic: Ownership
-    title: A privately held company grows without diluting its ownership.
-    content: Chris Rufer founded Morningstar in 1970 and to this day owns 100% of
-      the company and is its sole board member. Recognizing the potential
-      hazards of having partners who might not unconditionally support his
-      pursuit of self-management, he has foregone taking in new investors but
-      rather has relied on loans to fund his growth. Growing in this way from a
-      single truck operation to the world’s largest tomato processor (a
-      traditionally low margin as well as capital intensive business) is
-      extraordinary, but perhaps Chris would argue, essential to its
-      success.^\[Laloux, Frederic. Reinventing Organizations. Nelson Parker
-      (2014), page 289].
+    title: Ein Unternehmen in Privatbesitz wächst, ohne die Eigentumsverhältnisse zu
+      verwässern.
+    content: "Chris Rufer gründete Morningstar 1970, besitzt bis heute 100% des
+      Unternehmens und ist der einzige Vorstand. Er erkannte die potenziellen
+      Gefahren durch Partner, die sein Streben nach Selbstorganisation nicht
+      bedingungslos unterstützen würden. Daher hat er auf weitere Investoren
+      verzichtet und stattdessen zwecks Finanzierung des Wachstums auf Kredite
+      gesetzt. Es ist ungewöhnlich, auf diese Weise von einem Ein-Lkw-Betrieb
+      zum weltgrößten Tomatenverarbeiter zu werden (ein traditionell
+      margenschwaches und kapitalintensives Geschäft). Chris würde jedoch
+      vermutlich behaupten, dass dies für seinen Erfolg unerlässlich
+      ist.^\\[übersetzt aus: Laloux, Frederic. Reinventing Organizations. Nelson
+      Parker (2014), S. 289]"
   - topic: Decision Making
-    title: "Morning Star uses the advice process. Here is an example: it was used
-      when a new strategy was proposed that would affect all employees. "
-    content: A few years ago, before the advent of internal social networks, Chris
-      Rufer, the founder, owner and CEO of [Morning
-      Star](http://www.morningstarco.com/), felt the need for a new strategic
-      direction at Morning Star. He wrote a memo that he sent to all colleagues,
-      with an invitation to a company-wide meeting (the different locations
-      joined by videoconference). He shared his idea, and the reasons for it. He
-      asked everyone to contact him personally after the meeting with any
-      questions, concerns, comments, and advice on his plans.
+    title: "Morning Star nutzt den Beratungsprozess. Dieser wurde beispielsweise
+      durchlaufen, als eine neue Strategie vorgeschlagen wurde, die alle
+      Mitarbeitenden betraf. "
+    content: Vor einigen Jahren, noch vor dem Aufkommen interner sozialer Netzwerke,
+      sah Chris Rufer (Gründer, Eigentümer und CEO von [Morning
+      Star](http://www.morningstarco.com/)), dass eine neue strategische
+      Ausrichtung bei Morning Star nötig war. Er verfasste ein Memo an die
+      gesamte Belegschaft mit einer Einladung zu einem unternehmensweiten
+      Meeting. Die verschiedenen Standorte waren per Videokonferenz
+      zugeschaltet. Er teilte seine Idee und die Gründe dafür mit. Er bat alle,
+      ihn nach dem Treffen persönlich zu kontaktieren, wenn sie Fragen,
+      Bedenken, Kommentare oder Ratschläge zu seinen Plänen hätten.
   - topic: Dismissal
-    title: Dismissals can be initiated by any individual, using the conflict
-      resolution process if needed.
+    title: Entlassungen können von jeder Person initiiert werden (gegebenenfalls
+      unter Einsatz des Konfliktlösungsverfahrens).
     content: >-
-      At [Morning Star](http://www.morningstarco.com/), the process is almost
-      identical to the one used at
-      [Buurtzorg](http://www.buurtzorgnederland.com/), except that it is
-      initiated by an individual rather than a team. Morning Star views a
-      dismissal as the final step in a conflict and therefore uses its [conflict
-      resolution](../conflict-resolution/) mechanism to deal with the situation.
-      The process starts when one person asks another to leave the organization.
-      Suppose that someone finds that a colleague has fundamentally breached a
-      company value (perhaps the person made an important decision without
-      requesting [advice ](../decision-making/)from colleagues) or that a
-      colleague is failing time after time to live up to his
-      [commitments](../commitment-working-hours-and-flexibility/), despite a
-      number of previous attempts to improve the situation. She can initiate a
-      conflict resolution process, asking her colleague to resign. If the person
-      asked to leave does not agree, a four-stage conflict resolution process
-      begins:
+      Bei [Morning Star](http://www.morningstarco.com/) ist das Verfahren fast
+      identisch mit dem von [Buurtzorg](http://www.buurtzorgnederland.com/), nur
+      dass es von einer Einzelperson und nicht von einem Team eingeleitet wird.
+      Morning Star betrachtet eine Kündigung als letzten Schritt in einem
+      Konflikt und nutzt daher zur Bewältigung seinen
+      [Konfliktlösungsprozess](../conflict-resolution/). Dieser beginnt, wenn
+      eine Person eine andere bittet, die Organisation zu verlassen. Angenommen,
+      jemand stellt fest, dass ein Kollege fundamental gegen einen
+      Unternehmenswert verstoßen hat. Vielleicht hat die Person eine wichtige
+      Entscheidung getroffen, ohne die anderen um [Rat](../decision-making/) zu
+      fragen. Oder eine Kollegin kommt trotz mehrfacher Versuche, die Situation
+      zu verbessern, ihren
+      [Verpflichtungen](../commitment-working-hours-and-flexibility/) immer
+      wieder nicht nach. Der Initiator kann einen Konfliktlösungsprozess
+      einleiten und die Kollegin auffordern zu gehen. Wenn die Person, die zum
+      Rücktritt aufgefordert wird, nicht einverstanden ist, beginnt ein
+      vierstufiges Konfliktlösungsverfahren:
 
 
-      In a first phase, they sit together and try to sort it out. In the discussion, the person asked to leave can suggest ways to restore trust. Or perhaps he will come to see that he has irrevocably lost the trust of his colleagues and that he is better off looking for work elsewhere.
-
-      If they can’t agree on an outcome, another colleague is called in as a mediator.
-
-      If necessary, in a third step, a panel of colleagues is asked to mediate.
-
-      As a last resort, Chris Rufer, the founder and president, is asked to join the panel.
-
-      People asked to mediate or sit on a panel take their role very seriously. Morning Star’s principle of not using force against anyone is at stake. They are not a jury, passing a verdict on a colleague. Their role is to explore every possible way to restore trust in the relationship. The process can take a long time if needed. Only when the person who has been asked to leave sees that colleagues genuinely tried to find a solution and that none could be found, will he come to accept that resignation is the reasonable outcome. Therein lies the power and legitimacy of the process.
+      In einer ersten Phase setzen sich die beiden Parteien zusammen und versuchen, den Konflikt zu lösen. In der Diskussion kann die zur Kündigung aufgeforderte Person Vorschläge machen, wie das Vertrauen wiederhergestellt werden könnte. Vielleicht erkennt sie aber auch, dass das Vertrauen im Kollegenkreis unwiderruflich verloren und es besser ist, sich eine andere Arbeit zu suchen. Wenn sie sich nicht einigen können, wird das Gespräch unter Mediation durch eine weitere Person fortgesetzt. Falls erforderlich, wird in einem dritten Schritt ein Gremium mehrerer Kollegen um Vermittlung gebeten. Als letzter Ausweg wird Chris Rufer, der Gründer und Präsident, gebeten, dem Gremium beizutreten. Die Personen, die um Vermittlung oder Mitarbeit im Gremium gebeten werden, nehmen ihre Rolle sehr ernst. Der Grundsatz von Morning Star, gegen niemanden Gewalt anzuwenden, steht auf dem Spiel. Das Gremium ist kein Gericht, das ein Urteil über jemanden fällt. Seine Aufgabe ist es, alle Möglichkeiten auszuloten, um das Vertrauen in die Beziehung wiederherzustellen. Dieser Prozess kann bei Bedarf sehr lange dauern. Erst wenn die zum Gehen aufgeforderte Person sieht, dass die Kollegen alles versucht haben, um eine Lösung zu finden, und es keine gibt, wird sie akzeptieren, dass die Kündigung der einzig vernünftige Schritt ist. Darin liegen die Stärke und die Legitimität des Prozesses.
 
 
-      Because Morning Star views a dismissal as a private conflict between two persons, everyone is under the understanding of full confidentiality (as is always the case with the conflict resolution mechanism). As a result, no data exist of how often this happens. . Some more senior employees report that they have been part of a handful of panels over the years. They are advocates for the method. The panel discussions are never easy they report, but they do help people reach fair and reasonable outcomes^[Source: Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), pages 128-129].
+      Da Morning Star eine Kündigung als einen nicht öffentlichen Konflikt zwischen zwei Personen betrachtet, gilt für alle Beteiligten höchste Vertraulichkeitsstufe (wie immer bei einer Konfliktlösung). Folglich gibt es keine Daten darüber, wie oft dies geschieht. Einige Führungskräfte berichten, dass sie im Laufe der Jahre Teil einiger weniger Gremien waren. Sie befürworten die Vorgehensweise. Die Diskussionen sind nie einfach, berichten sie, aber sie helfen den Menschen, faire und vernünftige Ergebnisse zu erzielen.^[übersetzt aus: Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), S. 128f.]
 ---
