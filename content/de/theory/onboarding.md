@@ -51,7 +51,7 @@ inPractice: >-
   Unternehmenskultur**
 
 
-  [Teal-Organisationen](../teal-paradigm-and-organizations/) investieren viel Zeit und Energie in die Einführung neuer Kollegen. Die ersten Tage und Wochen sind entscheidend, um ihnen zu helfen, einen neuen und oft sehr unterschiedlichen Arbeitsplatz zu verstehen. Im Mittelpunkt des Onboarding-Prozesses steht eine Form der Schulung, die den Kollegen hilft, die neue Umgebung, in die sie eingetreten sind, zu verstehen und sich darin zurechtzufinden.
+  [Teal-Organisationen](../teal-paradigm-and-organizations/) investieren viel Zeit und Energie in die Einführung neuer Kollegen. Die ersten Tage und Wochen sind entscheidend, um ihnen zu helfen, einen neuen und oft sehr anderen Arbeitsplatz zu verstehen. Im Mittelpunkt des Onboarding-Prozesses steht eine Form der Schulung, die den Kollegen hilft, die neue Umgebung, in die sie eingetreten sind, zu verstehen und sich darin zurechtzufinden.
 
 
   Bei [Buurtzorg](http://www.buurtzorgusa.org/) werden zum Beispiel alle neuen Teammitglieder in Problemlösungs- und Besprechungspraktiken geschult, damit sie in einem Team ohne eine Chefin arbeiten können. Alle neuen Mitarbeiter bei [Heiligenfeld](http://www.heiligenfeld.com/) durchlaufen sechs Schulungsmodule, die Themen wie "Selbstführung" und "Umgang mit Misserfolgen" beinhalten. Alle neuen Mitarbeiter bei [Morning Star](http://www.morningstarco.com/) nehmen an einem Seminar über die Grundlagen der [Selbstführung](../Selbstführung/) teil.
@@ -81,7 +81,7 @@ inPractice: >-
   #### **Sinn**
 
 
-  Ein Dialog darüber, wie der Sinn der Organisation mit der persönlichen Berufung der neuen Kollegen übereinstimmt, kann eine großartige gegenseitige Einführung sein. [Teal-Organisationen](../teal-paradigm-and-organizations/) werden als etwas angesehen, das ein eigenes Leben und einen eigenen Sinn für die Richtung hat. Anstatt zu versuchen, die Zukunft vorherzusagen und zu kontrollieren, werden die Mitglieder der Organisation eingeladen, zuzuhören und zu verstehen, was die Organisation werden will. Indem sie den evolutionären Sinn verstehen, können sie erkennen, wie sie dazu beitragen und gleichzeitig ihre eigene persönliche Berufung erfüllen können.
+  Ein Dialog darüber, wie der Sinn der Organisation mit der persönlichen Berufung der neuen Kollegen übereinstimmt, kann eine großartige Einführung sein. [Teal-Organisationen](../teal-paradigm-and-organizations/) werden als etwas angesehen, das ein eigenes Leben und einen eigenen Sinn hat. Anstatt zu versuchen, die Zukunft vorherzusagen und zu kontrollieren, werden die Mitglieder der Organisation eingeladen, zuzuhören und zu verstehen, was die Organisation werden will. Indem sie den evolutionären Sinn verstehen, können sie erkennen, wie sie dazu beitragen und gleichzeitig ihre eigene persönliche Berufung erfüllen können.
 
 
   Einige Gründer und CEOs - wie Jos de Blok bei [Buurtzorg](http://www.buurtzorgusa.org/) und Yvon Chouinard bei [Patagonia](http://eu.patagonia.com/enGB/home) - halten dieses Modul für so wichtig, dass sie sich dazu entscheiden, an jeder Onboarding-Sitzung teilnehmen.
