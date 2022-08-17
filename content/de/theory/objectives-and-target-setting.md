@@ -64,133 +64,58 @@ perspective: >-
 
 
   Ausgerichtet auf den Sinn der Organisation basiert die Planung auf dem Prinzip "Erkennen und Reagieren", wobei der Schwerpunkt auf einem agilen Ansatz liegt, um praktikable Lösungen zu finden. Dieser anpassungsfähige Prozess ähnelt den Prinzipien von Lean Start-up und [Softwareentwicklung](https://en.wikipedia.org/wiki/Agile_software_development%7Cagile). Die Entscheidungsfindung erfolgt innerhalb eines Rahmens von organisationsweiten Werten und wird durch einen [Beratungsprozess](../Entscheidungsfindung/) abgestimmt. Die Strategie ergibt sich organisch aus der Interaktion der Mitarbeiter mit dem organisatorischen Umfeld von Teal. Mitarbeiter, die sich selbst führen, können sich selbst Ziele setzen, oder ein Team kann sich auf ein Ziel einigen, z. B. eine schnellere Durchlaufzeit, aber es gibt keine Umsatz-, Effizienz- oder andere Ziele. Durch die Einholung von Ratschlägen von Kollegen und Fachleuten, bevor ein Projekt oder eine Veränderung in Angriff genommen wird, wird sichergestellt, dass alle Aspekte, einschließlich der finanziellen Aspekte, in Betracht gezogen werden. Teil des Wertesystems ist, dass kein einzelnes Mitglied oder eine Gruppe von Mitgliedern die Organisation durch unüberlegte oder eigennützige Aktionen oder Projekte gefährden darf.
-inPractice: "#### **Das Problem mit den Zielen**
+inPractice: >-
+  #### **Das Problem mit den Zielen**
 
 
-  \r
-
-  \r
-
-  Im orangen Zielerreichungsparadigma sind Ziele und Zielvorgaben die
-  wichtigsten Erfolgsfaktoren. Sie sind der Klebstoff, der die Organisation
-  zusammenhält und ihrer Existenz einen Sinn verleiht. Im Paradigma der
-  Teal-Evolution treiben [Sinn ](../listening-to-purpose/) und [Werte
-  ](..culture-and-values/) die Organisation an. Das Ziel besteht darin, den Sinn
-  der Organisation zum Leben zu erwecken. Es gibt keine formalen Systeme oder
-  Top-down-Prozesse für die Festlegung von Zielen und Vorgaben. Alle
-  Managementfunktionen (Planung, Organisation, Richtungsvorgabe, Investitionen,
-  Budgetierung usw.) werden von den Menschen ausgeführt, die die Arbeit machen.
-  Im Allgemeinen neigen Organisationen der Teal-Evolution dazu, keine
-  Zielsetzungen oder Vorgaben zu machen.
+  Im orangen Zielerreichungsparadigma sind Ziele und Zielvorgaben die wichtigsten Erfolgsfaktoren. Sie sind der Klebstoff, der die Organisation zusammenhält und ihrer Existenz einen Sinn verleiht. Im Paradigma der Teal-Evolution treiben [Sinn ](../listening-to-purpose/) und [Werte ](..culture-and-values/) die Organisation an. Das Ziel besteht darin, den Sinn der Organisation zum Leben zu erwecken. Es gibt keine formalen Systeme oder Top-down-Prozesse für die Festlegung von Zielen und Vorgaben. Alle Managementfunktionen (Planung, Organisation, Richtungsvorgabe, Investitionen, Budgetierung usw.) werden von den Menschen ausgeführt, die die Arbeit machen. Im Allgemeinen neigen Organisationen der Teal-Evolution dazu, keine Zielsetzungen oder Vorgaben zu machen.
 
 
-  Aus der Sicht von Teal-Evolution sind Ziele und Vorgaben problematisch:\r
-
-  \r
-
-  * Sie beruhen auf der Annahme, dass wir die Zukunft vorhersagen können,\r
-
-  * Sie verlagern das Verhalten von intrinsischer zu extrinsischer
-  Motivation,\r
-
-  * Sie schränken die Fähigkeit ein, neue Möglichkeiten wahrzunehmen,\r
-
-  * Sie lenken die Aufmerksamkeit darauf die Ziele statt den Sinn der
-  Organisation zu erfüllen,\r
-
-  * In der orangen Welt der Zielerreichung implizieren sie immer Wachstum, was
-  nicht immer ein inhärentes Element des Sinns der Teal-Organisationen ist.
+  Aus der Sicht von Teal-Evolution sind Ziele und Vorgaben problematisch:
 
 
-  #### **Wahrnehmen und Reagieren - Ein neuer Weg, Ziele und Strategien
-  festzulegen**
+  * Sie beruhen auf der Annahme, dass wir die Zukunft vorhersagen können,
+
+  * Sie verlagern das Verhalten von intrinsischer zu extrinsischer Motivation,
+
+  * Sie schränken die Fähigkeit ein, neue Möglichkeiten wahrzunehmen,
+
+  * Sie lenken die Aufmerksamkeit darauf die Ziele statt den Sinn der Organisation zu erfüllen,
+
+  * In der orangen Welt der Zielerreichung implizieren sie immer Wachstum, was nicht immer ein inhärentes Element des Sinns der Teal-Organisationen ist.
 
 
-  \r
-
-  \r
-
-  Anstatt zu versuchen, etwas vorherzusagen und zu kontrollieren (das
-  implizite Ziel hinter Zielen und Vorgaben), erkennen und reagieren
-  Teal-Organisationen. Das heißt, dass alle Zielsetzungen auf lokaler Ebene
-  initiiert werden, wo sie \"wahrgenommen und beantwortet\" werden und sich dann
-  kaskadenförmig durch die Organisation als lebendiges System nach Bedarf
-  entwickeln.\r
+  #### **Wahrnehmen und Reagieren - Ein neuer Weg, Ziele und Strategien festzulegen**
 
 
-  Ein Beispiel ist das Buurtzorg Boardinghouse. Das Pflegepersonal bemerkte
-  oder spürte, dass die primären Betreuer ihrer Patienten eine Pause von den
-  ständigen Anforderungen der Pflege brauchten. Als Reaktion darauf richteten
-  sie eine Unterkunft mit Frühstück ein, in der die Patienten betreut werden
-  konnten und die den Betreuern eine Atempause verschaffte. Buurtzorg hatte
-  nicht das Ziel, eine Frühstückspension zu werden, aber die Krankenschwestern
-  spürten den Bedarf, und ihre Reaktion auf die Entlastungspflege führte sie auf
-  diesen Weg, von dem sowohl die Patienten als auch die Betreuer profitieren.
+  Anstatt zu versuchen, etwas vorherzusagen und zu kontrollieren (das implizite Ziel hinter Zielen und Vorgaben), erkennen und reagieren Teal-Organisationen. Das heißt, dass alle Zielsetzungen auf lokaler Ebene initiiert werden, wo sie "wahrgenommen und beantwortet" werden und sich dann kaskadenförmig durch die Organisation als lebendiges System nach Bedarf entwickeln.
 
 
-  Wir können nicht für eine Welt planen, die sich ständig verändert, und in
-  der wir keine Kontrolle über die Veränderungen haben. Teal-Evolutionäre
-  Organisationen arbeiten daher auf der Grundlage von Sinn und Reaktion,
-  anstelle von Vorhersage und Kontrolle.\r
+  Ein Beispiel ist das Buurtzorg Boardinghouse. Das Pflegepersonal bemerkte oder spürte, dass die primären Betreuer ihrer Patienten eine Pause von den ständigen Anforderungen der Pflege brauchten. Als Reaktion darauf richteten sie eine Unterkunft mit Frühstück ein, in der die Patienten betreut werden konnten und die den Betreuern eine Atempause verschaffte. Buurtzorg hatte nicht das Ziel, eine Frühstückspension zu werden, aber die Krankenschwestern spürten den Bedarf, und ihre Reaktion auf die Entlastungspflege führte sie auf diesen Weg, von dem sowohl die Patienten als auch die Betreuer profitieren.
+
+
+  Wir können nicht für eine Welt planen, die sich ständig verändert, und in der wir keine Kontrolle über die Veränderungen haben. Teal-Evolutionäre Organisationen arbeiten daher auf der Grundlage von Sinn und Reaktion, anstelle von Vorhersage und Kontrolle.
 
 
   #### **Investitionsprozess**
 
 
-  \r
-
-  \r
-
-  Am nächsten kommen Teal-Evolutionäre-Organisationen der Festlegung von
-  Zielen, wenn es um den Investitionsprozess geht. Die meisten Organisationen
-  haben einen jährlichen Investitionsprozess, bei dem jedes Team seine
-  Investitionspläne für das nächste Jahr aufstellt. Diese Pläne werden addiert,
-  und wenn sie die verfügbaren/zugänglichen Ressourcen übersteigen, müssen die
-  Teams ihre Pläne überprüfen und anpassen. Unabhängig davon, ob die
-  Investitionen Teil des Jahresplans sind oder ob es sich um situationsbedingte
-  Ad-hoc-Investitionen handelt, sind die Teams dafür verantwortlich, die
-  externen Mittel selbst zu beschaffen oder intern mit anderen Teams über Mittel
-  oder Ressourcen zu verhandeln.
+  Am nächsten kommen Teal-Evolutionäre-Organisationen der Festlegung von Zielen, wenn es um den Investitionsprozess geht. Die meisten Organisationen haben einen jährlichen Investitionsprozess, bei dem jedes Team seine Investitionspläne für das nächste Jahr aufstellt. Diese Pläne werden addiert, und wenn sie die verfügbaren/zugänglichen Ressourcen übersteigen, müssen die Teams ihre Pläne überprüfen und anpassen. Unabhängig davon, ob die Investitionen Teil des Jahresplans sind oder ob es sich um situationsbedingte Ad-hoc-Investitionen handelt, sind die Teams dafür verantwortlich, die externen Mittel selbst zu beschaffen oder intern mit anderen Teams über Mittel oder Ressourcen zu verhandeln.
 
 
-  Einige Teal-Evolutionäre-Organisationen haben organisationsweite Ziele oder
-  vielleicht Richtlinien. Die niederländische Gesundheitsorganisation
-  [Buurtzorg] (http://www.buurtzorgnederland.com/) hat beispielsweise ein Ziel
-  für die abrechenbaren Stunden in Höhe von 60 bis 65 % für ihre reifen Teams.\r
+  Einige Teal-Evolutionäre-Organisationen haben organisationsweite Ziele oder vielleicht Richtlinien. Die niederländische Gesundheitsorganisation [Buurtzorg](http://www.buurtzorgnederland.com/) hat beispielsweise ein Ziel für die abrechenbaren Stunden in Höhe von 60 bis 65 % für ihre reifen Teams.
 
-
-  \r
 
   #### **Im Team festgelegte Ziele**
 
 
-  \r
-
-  \r
-
-  Mitarbeiter und Teams können sich selbst Ziele oder Vorgaben setzen, die
-  ihnen Aufschluss darüber geben, wie gut sie den Sinn der Organisation
-  erfüllen. Maschinenführer können sich selbst Qualitäts- oder Leistungsziele
-  setzen. Teams können sich Ziele setzen, um ein neues Projekt zum Laufen zu
-  bringen, oder sie können sich Ziele für die Durchlaufzeiten setzen. Dies ist
-  einfach Teil der Selbstführung, im Gegensatz zu Zielen und Vorgaben, die von
-  oben (außerhalb des Teams oder des Einzelnen) vorgegeben werden. Es werden
-  Maßstäbe gewählt, die dem Team helfen, wichtige Veränderungen besser zu
-  erkennen und auf sie zu reagieren.
+  Mitarbeiter und Teams können sich selbst Ziele oder Vorgaben setzen, die ihnen Aufschluss darüber geben, wie gut sie den Sinn der Organisation erfüllen. Maschinenführer können sich selbst Qualitäts- oder Leistungsziele setzen. Teams können sich Ziele setzen, um ein neues Projekt zum Laufen zu bringen, oder sie können sich Ziele für die Durchlaufzeiten setzen. Dies ist einfach Teil der Selbstführung, im Gegensatz zu Zielen und Vorgaben, die von oben (außerhalb des Teams oder des Einzelnen) vorgegeben werden. Es werden Maßstäbe gewählt, die dem Team helfen, wichtige Veränderungen besser zu erkennen und auf sie zu reagieren.
 
 
   #### **Verteilte Verantwortung und gemeinsame Verantwortlichkeit**
 
 
-  \r
-
-  \r
-
-  Teal-Evolutionäre-Organisationen setzen keine Verkaufsziele. Allerdings sind
-  alle, auch die Vertriebsmitarbeiter, voll und ganz darüber informiert, was
-  nötig ist, um das Unternehmen am Laufen zu halten. Da die Vertriebsmitarbeiter
-  Teil der operativen Teams sind, wissen sie, wie viel Arbeit erforderlich ist,
-  um das Team am Laufen zu halten."
+  Teal-Organisationen setzen keine Verkaufsziele. Allerdings sind alle, auch die Vertriebsmitarbeiter, voll und ganz darüber informiert, was nötig ist, um das Unternehmen am Laufen zu halten. Da die Vertriebsmitarbeiter Teil der operativen Teams sind, wissen sie, wie viel Arbeit erforderlich ist, um das Team am Laufen zu halten.
 faq:
   - question: Wenn keine Verkaufsziele festgelegt werden, woher soll das Unternehmen
       dann wissen, wie viel es verkaufen muss, um sowohl den Break-Even als auch
