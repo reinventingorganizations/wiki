@@ -112,12 +112,12 @@ faq:
     answer: >-
       Die drei Teal-Durchbrüche stehen alle in direktem Zusammenhang mit der Art
       und Weise, wie Feedback gegeben und Leistung gesteuert wird.
-      Einzelpersonen und Teams werden durch den [evolutionären
+      Einzelpersonen und Teams werden durch den \[evolutionären
       Zweck](../evolutionären Zweck/)der Organisation geleitet und motiviert.
       Dies ermöglicht [Selbstmanagement](../Selbstmanagement/) anstelle von
       Top-down-Management. Feedback, das aus einer Haltung des Mitgefühls und
       der Fürsorge heraus gegeben wird, die die
-      [Ganzheitlichkeit](../Ganzheitlichkeit/)der Menschen anerkennt,
+      [Ganzheitlichkeit](../Ganzheitlichkeit/) der Menschen anerkennt,
       erleichtert eine offene Untersuchung und Diskussion, die wiederum ein
       höheres Leistungsniveau anregt.
 
@@ -140,7 +140,7 @@ faq:
       #### **Evolutionäres Ziel**
 
 
-      Ein ausgeprägtes Gefühl für den evolutionären Zweck ermöglicht es den Mitarbeitern, ihre Bemühungen auf den Zweck der Organisation auszurichten und so ihre eigene Leistung zu steuern. Sie leisten ihren Beitrag, weil sie es **wollen**, nicht weil sie es **müssen**. Wenn der [Zweck ](../Zweck hören/)klar und sinnvoll ist, kann leicht Feedback darüber gegeben werden, wie gut ein Beitrag oder eine Entscheidung mit der Richtung der Organisation übereinstimmt. Leistungsmanagement wird zu "Wie können wir auf das reagieren, was passiert?" und nicht zu "Wie gut bin ich im Vergleich zum Plan?". Ein sinnvoller evolutionärer Zweck leitet die nächsten Maßnahmen.
+      Ein ausgeprägtes Gefühl für den evolutionären Zweck ermöglicht es den Mitarbeitern, ihre Bemühungen auf den Zweck der Organisation auszurichten und so ihre eigene Leistung zu steuern. Sie leisten ihren Beitrag, weil sie es **wollen**, nicht weil sie es **müssen**. Wenn der \[Zweck ](../Zweck hören/) klar und sinnvoll ist, kann leicht Feedback darüber gegeben werden, wie gut ein Beitrag oder eine Entscheidung mit der Richtung der Organisation übereinstimmt. Leistungsmanagement wird zu "Wie können wir auf das reagieren, was passiert?" und nicht zu "Wie gut bin ich im Vergleich zum Plan?". Ein sinnvoller evolutionärer Zweck leitet die nächsten Maßnahmen.
 relatedTheory:
   - Objectives and Target Setting
   - Conflict resolution
