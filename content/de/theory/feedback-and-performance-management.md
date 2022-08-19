@@ -12,10 +12,10 @@ intro: >-
 
   ![](/media/feedback.jpg)
 perspective: >-
-  Die Transparenz, die Teal-Organisationen eigen ist, bedeutet, dass alle
-  Mitglieder der Organisation ständig Feedback erhalten, und zwar sowohl
-  implizit - Informationen über die Leistung der Organisation als Ganzes sind
-  frei verfügbar - als auch explizit - die Kollegen teilen einander offen ihre
+  Transparenz in Teal-Organisationen bedeutet, dass alle Mitglieder der
+  Organisation ständig Feedback erhalten, und zwar sowohl implizit -
+  Informationen über die Leistung der Organisation als Ganzes sind frei
+  verfügbar - als auch explizit - die Kollegen teilen einander offen ihre
   Gedanken und Gefühle über die Leistung des Einzelnen und des Teams mit.
 
 
@@ -52,7 +52,7 @@ perspective: >-
   #### **Grüne Organisationen**
 
 
-  In [grünen Organisationen](../green-paradigm-and-organizations/) geht es beim Leistungsmanagement sowohl um die Art und Weise, wie die Arbeit ausgeführt wird, als auch um das, was erreicht wird. Starke Werte, die mit einem inspirierenden Ziel verbunden sind, bieten den Mitarbeitern eine Anleitung zur Steuerung ihrer eigenen Leistung. Manager werden zu dienenden Führern und versuchen, diejenigen, die an vorderster Front arbeiten, zu befähigen und zu ermächtigen. Das Feedback erfolgt häufig im Rahmen eines [360-Grad-Feedback](https://en.wikipedia.org/wiki/360-degree_feedback)-Prozesses  und soll sowohl den Einzelnen in seiner Entwicklung als auch die Kultur des Unternehmens fördern und unterstützen.
+  In [grünen Organisationen](../green-paradigm-and-organizations/) geht es beim Leistungsmanagement sowohl um die Art und Weise, wie die Arbeit ausgeführt wird, als auch um das, was erreicht wird. Starke Werte, die mit einem inspirierenden Ziel verbunden sind, bieten den Mitarbeitern eine Anleitung zur Steuerung ihrer eigenen Leistung. Manager werden zu dienenden Führern und versuchen, diejenigen, die an vorderster Front arbeiten, zu befähigen und zu ermächtigen. Das Feedback erfolgt häufig im Rahmen eines [360-Grad-Feedback](https://en.wikipedia.org/wiki/360-degree_feedback)-Prozesses und soll sowohl den Einzelnen in seiner Entwicklung als auch die Kultur des Unternehmens fördern und unterstützen.
 inPractice: >
   #### **Leistungsmanagement**
 
