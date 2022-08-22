@@ -99,7 +99,9 @@ intro: >-
 
 
   Ironischerweise gibt es an der Basis einer Teal-Organisation in der Regel eine starke Führungspersönlichkeit, die das Potenzial erkennt und die Teilung der Macht einleitet: Jean-Francois Zobrist bei FAVI, Chris Rufer bei Morning Star und Jos de Blok bei Buurtzorg sind gute Beispiele dafür.
-   Sie stellten sich eine andere Art von Organisation und eine andere Art von Führung vor: eine Führung, die verteilt, emergent und unvorhersehbar ist. Jeder kann - vorbehaltlich eines Beratungsprozesses - führen, je nach Gelegenheit, Umständen und/oder Vorstellungskraft.
+
+  Sie stellten sich eine andere Art von Organisation und eine andere Art von Führung vor: eine Führung, die verteilt, emergent und unvorhersehbar ist. Jeder kann - vorbehaltlich eines Beratungsprozesses - führen, je nach Gelegenheit, Umständen und/oder Vorstellungskraft.
+
 
   Man könnte argumentieren, dass der Grund, warum "Führungskräfte" in den Teal-Organisationen bisher eine so wichtige Rolle gespielt haben, darin liegt, dass diese Organisationen (und wir als Zivilisation) einen Übergang von früheren Stadien vollziehen, die auf den traditionellen Typus der Führungskraft angewiesen waren. Vielleicht werden sich Teal-Organisationen in nicht allzu ferner Zukunft ganz und gar ohne die Hilfe eines einzelnen oder einer kleinen Gruppe erleuchteter Individuen entwickeln.
 perspective: ""
