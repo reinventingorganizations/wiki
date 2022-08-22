@@ -536,7 +536,7 @@ intro: "> ![](/media/adaptative-small.jpg)
   am Platz zu sein scheinen. Teal-Organisationen haben eine Reihe von Praktiken
   entwickelt, die dazu einladen, unsere innere Ganzheit zurückzufordern und uns
   so wie wir sind bei der Arbeit einzubringen. (Siehe auch:
-  [Wholeness](../wholeness/)).
+  [Ganzheitlichkeit](../wholeness/)).
 
 
   ##### Teal-Errungenschaft Nr. 3: Evolutionärer Zweck
@@ -548,7 +548,7 @@ intro: "> ![](/media/adaptative-small.jpg)
   zuzuhören und zu verstehen, was die Organisation werden will und welchem Zweck
   sie dienen soll.\ 
 
-  (Siehe auch: [Evolutionary Purpose](../evolutionary-purpose/)).
+  (Siehe auch: [Evolutionärer Zweck](../evolutionary-purpose/)).
 
 
   ##### Teal-Metapher: Organisationen als lebende Systeme
