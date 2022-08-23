@@ -8,9 +8,9 @@ name: Teal Concepts
 
 \[Short resume about the main teal concepts described in the book]
 
-* [Self-Management](../theory/self-management/)
-* [Wholeness](../theory/wholeness/)
-* [Evolutionary Purpose](../theory/evolutionary-purpose/)
+* [Self-Management](../../theory/self-management/)
+* [Wholeness](../../theory/wholeness/)
+* [Evolutionary Purpose](../../theory/evolutionary-purpose/)
 
 ## ... and you can also check
 
@@ -18,9 +18,9 @@ name: Teal Concepts
 
 ## History of Organizational Development
 
-* [Developmental Perspective on Organizations](../theory/developmental-perspective-on-organizations/)
-* [Red Paradigm and Organizations](../theory/red-organizations/)
-* [Amber Paradigm and Organizations](../theory/amber-paradigm-and-organizations/)
-* [Orange Paradigm and Organizations](../theory/orange-paradigm-and-organizations/)
-* [Green Paradigm and Organizations](../theory/green-paradigm-and-organizations/)
-* [Teal Paradigm and Organizations](../theory/teal-paradigm-and-organizations/)
+* [Developmental Perspective on Organizations](../../theory/developmental-perspective-on-organizations/)
+* [Red Paradigm and Organizations](../../theory/red-organizations/)
+* [Amber Paradigm and Organizations](../../theory/amber-paradigm-and-organizations/)
+* [Orange Paradigm and Organizations](../../theory/orange-paradigm-and-organizations/)
+* [Green Paradigm and Organizations](../../theory/green-paradigm-and-organizations/)
+* [Teal Paradigm and Organizations](../../theory/teal-paradigm-and-organizations/)
