@@ -8,9 +8,9 @@ name: Conceptos Teal
 
 Resumen corto sobre los principales conceptos mencionados en el libro.
 
-* [](../theory/self-management/)[Autogestión](<* [Self-Management](../theory/self-management/)>)
-* [Plenitud](https://sp.reinventingorganizationswiki.com/theory/wholeness/)
-* [Propósito Evolutivo](https://sp.reinventingorganizationswiki.com/theory/evolutionary-purpose/)
+* [Autogestión](../../theory/self-management/)
+* [Plenitud](../../theory/wholeness/)
+* [Propósito Evolutivo](../../theory/evolutionary-purpose/)
 
 ## ... puedes también ver
 
