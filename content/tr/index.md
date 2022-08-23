@@ -17,13 +17,13 @@ intro: >-
 topics:
   - title: Teal Concepts
     image: /media/home_reinvention-etienne-small.png
-    link: /pages/tealconcepts
+    link: tr/pages/tealconcepts
   - title: Key structures and practices
     image: /media/home_difference-etrienne-small.png
-    link: /pages/tealpractices
+    link: tr/pages/tealpractices
   - title: Concrete cases for inspiration
     image: /media/home_cases-etienne-small.png
-    link: /cases
+    link: tr/cases
 ---
 
 # Responsive Organisations Wiki
