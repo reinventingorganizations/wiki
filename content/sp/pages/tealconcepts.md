@@ -22,5 +22,5 @@ Resumen corto sobre los principales conceptos mencionados en el libro.
 * [El Paradigma Rojo y Las Organizaciones](../../theory/red-organizations/)
 * [El Paradigma Ámbar y Las Organizaciones](../../theory/theory/amber-paradigm-and-organizations/)
 * [El Paradigma Naranja y Las Organizaciones](../../theory/theory/orange-paradigm-and-organizations/)
-* [El Paradigma Verde y Las Organizaciones](../t../heory/theory/green-paradigm-and-organizations/)
+* [El Paradigma Verde y Las Organizaciones](../../heory/theory/green-paradigm-and-organizations/)
 * [El Paradigma Teal y Las Organizaciones](../../theory/theory/teal-paradigm-and-organizations/)
