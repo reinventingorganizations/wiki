@@ -25,14 +25,10 @@ theory:
   - topic: Recruitment
     title: Bei der AES werden die Bewerber während des Einstellungsverfahrens zu
       Diskussionen über die Werte und Praktiken des Unternehmens eingeladen.
-    content: 'Ein Mitarbeiter der [AES](https://www.ase.com/Home.aspx) erklärte:
-      Eine "schlechte Einstellung" ist jemand, der sich ständig beschwert, der
-      nicht zufrieden ist, der anderen die Schuld gibt, der keine Verantwortung
-      übernimmt, der nicht ehrlich ist, der anderen Menschen nicht vertraut.
-      Eine schlechte Einstellung wäre jemand, der genaue Anweisungen braucht und
-      darauf wartet, dass man ihm sagt, was er tun soll. Eine schlechte
-      Einstellung wäre jemand, der nicht flexibel ist und sagt: "Das ist nicht
-      meine Aufgabe.".'
+    content: >-
+      Ein Mitarbeiter der [AES](https://www.ase.com/Home.aspx) erklärte: 
+
+      Eine schlechte Wahl wäre jemand, der sich ständig beschwert, der nicht zufrieden ist, der anderen die Schuld gibt, der keine Verantwortung übernimmt, der nicht ehrlich ist, der anderen Menschen nicht vertraut. Eine schlechte Wahl wäre jemand, der genaue Anweisungen braucht und darauf wartet, dass man ihm sagt, was er tun soll. Eine schlechte Wahl wäre jemand, der nicht flexibel ist und sagt: "Das ist nicht meine Aufgabe.".
   - topic: Environmental and Social Management
     title: Im Rahmen des Beratungsprozesses initiieren die Mitarbeiter von AES
       ökologische und soziale Initiativen.
