@@ -30,31 +30,31 @@ perspective: >-
 
   **Organizaciones Rojas**\
 
-  En las [organizaciones Rojas](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_paradigma_Rojo_y_las_Organizaciones "El paradigma Rojo y las Organizaciones"), se encuentra cierta seguridad en la orden impuesta por el jefe. Mostrar lealtad y seguir los deseos y mandamientos del jefe, cualesquiera que sean, lo harán sentirse a salvo. Por el contrario cabe esperar un castigo severo, a la persona que desafía al jefe.\
+  En las [organizaciones Rojas](http://reinventingorganizationswiki.com/sp/index.php?title=El_paradigma_Rojo_y_las_Organizaciones "El paradigma Rojo y las Organizaciones"), se encuentra cierta seguridad en la orden impuesta por el jefe. Mostrar lealtad y seguir los deseos y mandamientos del jefe, cualesquiera que sean, lo harán sentirse a salvo. Por el contrario cabe esperar un castigo severo, a la persona que desafía al jefe.\
 
   \
 
   **Organizaciones Ámbar**\
 
-  En las [organizaciones Ámbar](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_%C3%81mbar_y_las_Organizaciones "El Paradigma Ámbar y las Organizaciones"), la seguridad proviene de seguir reglas y procesos establecidos (que son mucho más estables que los caprichos cambiantes de los jefes Rojos). En las organizaciones Ámbar, se piensa que el empleo es de por vida, y gran parte de la vida social de la gente gira en torno a la organización. El castigo ya no conlleva violencia física, pero puede conllevar deducciones salariales, una reducción de rango y privilegios o el despido. El despido, por lo tanto, viene con una doble amenaza: la de perder la propia identidad y la de ser expulsado del tejido social en el que está inmerso. Dejar una organización Ámbar es a menudo un proceso doloroso y aterrador, similar a abandonar una vieja vida conocida y segura, y tener que reinventar una nueva. (En resumen: la seguridad contra violencia).\
+  En las [organizaciones Ámbar](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_%C3%81mbar_y_las_Organizaciones "El Paradigma Ámbar y las Organizaciones"), la seguridad proviene de seguir reglas y procesos establecidos (que son mucho más estables que los caprichos cambiantes de los jefes Rojos). En las organizaciones Ámbar, se piensa que el empleo es de por vida, y gran parte de la vida social de la gente gira en torno a la organización. El castigo ya no conlleva violencia física, pero puede conllevar deducciones salariales, una reducción de rango y privilegios o el despido. El despido, por lo tanto, viene con una doble amenaza: la de perder la propia identidad y la de ser expulsado del tejido social en el que está inmerso. Dejar una organización Ámbar es a menudo un proceso doloroso y aterrador, similar a abandonar una vieja vida conocida y segura, y tener que reinventar una nueva. (En resumen: la seguridad contra violencia).\
 
   \
 
   **Organizaciones Naranja**\
 
-  En las [organizaciones Naranja](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Naranja_y_las_Organizaciones "El Paradigma Naranja y las Organizaciones"), la seguridad proviene del logro de los resultados esperados. La identidad de uno ya no está ligada a una organización específica, sino más ampliamente al progreso en una carrera. El fracaso y el despido son un golpe a la autoestima, pero ya no la expulsión del tejido social en el que uno está inmerso. Uno simplemente se mueve y busca trabajo en otra organización. (En resumen: la seguridad contra exclusión social).\
+  En las [organizaciones Naranja](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_Naranja_y_las_Organizaciones "El Paradigma Naranja y las Organizaciones"), la seguridad proviene del logro de los resultados esperados. La identidad de uno ya no está ligada a una organización específica, sino más ampliamente al progreso en una carrera. El fracaso y el despido son un golpe a la autoestima, pero ya no la expulsión del tejido social en el que uno está inmerso. Uno simplemente se mueve y busca trabajo en otra organización. (En resumen: la seguridad contra exclusión social).\
 
   \
 
   **Organizaciones Verdes**\
 
-  En las [organizaciones Verdes](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Verde_y_las_Organizaciones "El Paradigma Verde y las Organizaciones"), la seguridad proviene de un conjunto de valores compartidos y el conocimiento de que uno es considerado como una persona, no sólo como un "recurso humano". Cuando un individuo o la organización enfrenta una situación problemática, las personas confían en que los colegas se reunirán para ofrecer ayuda. (En resumen: seguridad emocional).\
+  En las [organizaciones Verdes](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_Verde_y_las_Organizaciones "El Paradigma Verde y las Organizaciones"), la seguridad proviene de un conjunto de valores compartidos y el conocimiento de que uno es considerado como una persona, no sólo como un "recurso humano". Cuando un individuo o la organización enfrenta una situación problemática, las personas confían en que los colegas se reunirán para ofrecer ayuda. (En resumen: seguridad emocional).\
 
   \
 
   **Organizaciones Teal**\
 
-  Las [organizaciones Teal](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones") tienen como objetivo establecer un espacio seguro donde el ego pueda relajar sus defensas, permitiendo que la gente aparezca completamente; Su yo masculino y femenino, su yo racional, emocional, intuitivo y espiritual y sus fortalezas y vulnerabilidad. (En resumen: seguridad para el alma)
+  Las [organizaciones Teal](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones") tienen como objetivo establecer un espacio seguro donde el ego pueda relajar sus defensas, permitiendo que la gente aparezca completamente; Su yo masculino y femenino, su yo racional, emocional, intuitivo y espiritual y sus fortalezas y vulnerabilidad. (En resumen: seguridad para el alma)
 
 
 
@@ -76,7 +76,7 @@ inPractice: >-
   Esa seguridad tiene un costo: nos despojamos de la riqueza de nuestra humanidad. En el lugar de trabajo, sentimos que necesitamos usar a menudo una mascara mental, racional, masculina, egocéntrica. Nos separamos de nuestras emociones, de nuestras intuiciones, de nuestro cuerpo, de nuestro lado femenino. No escuchamos nuestra voz interior, nuestros anhelos, nuestra vocación, nuestra alma. Negamos nuestra capacidad de conexión y compasión, de amor a nosotros mismos, a los demás y a toda la vida que nos rodea. Quizá podamos sentirnos seguros. Pero el costo es una vida que a menudo sentimos vacía y paradójicamente, sin vida.
 
 
-  Las [organizaciones Teal ](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones")se han dado cuenta de que cuando los empleados dejan fuera tanto de si mismos, también dejan fuera gran parte de su pasión, su creatividad y su energía. Ellas son conscientes de crear un entorno de seguridad-un espacio seguro-donde los colaboradores se sientan seguros para mostrar la totalidad de su ser, para mostrarse en toda su [plenitud](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Plenitud "Plenitud").\
+  Las [organizaciones Teal ](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones")se han dado cuenta de que cuando los empleados dejan fuera tanto de si mismos, también dejan fuera gran parte de su pasión, su creatividad y su energía. Ellas son conscientes de crear un entorno de seguridad-un espacio seguro-donde los colaboradores se sientan seguros para mostrar la totalidad de su ser, para mostrarse en toda su [plenitud](http://reinventingorganizationswiki.com/sp/index.php?title=Plenitud "Plenitud").\
 
   \
 

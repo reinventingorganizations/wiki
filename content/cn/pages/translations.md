@@ -17,7 +17,7 @@ name: Translations
 
 ![](/media/flaghungary.jpg)      Hungarian Wiki <https://reinventingorganizationswiki.hu/>
 
-![](/media/flagspain.jpg)      Spanish Wiki <http://www.reinventarlasorganizacioneswiki.com/>
+![](/media/flagspain.jpg)      Spanish Wiki <http://reinventingorganizationswiki.com/sp>
 
 ![](/media/flagchina.jpg)       中文简体 Wiki <https://cn.reinventingorganizationswiki.com/>
 

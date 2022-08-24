@@ -64,7 +64,7 @@ inPractice: >-
   **Espacios de reflexión**
 
 
-  Las tradiciones de sabiduría insisten en la necesidad de un silencio y una reflexión regular para calmar la mente y dejar que la verdad surja de una parte más profunda de nosotros mismos. Un número cada vez mayor de personas recogen prácticas contemplativas -meditación, oración, yoga, caminar en la naturaleza- y las integran en su vida cotidiana. Muchas organizaciones Teal han establecido una habitación tranquila en algún lugar de la oficina, y otros han puesto meditación y clases de yoga en su lugar. Esta práctica abre espacio para la reflexión individual y la atención plena en medio de días ocupados. Algunos de ellos van un paso más allá: también crean momentos colectivos para la autorreflexión a través de prácticas como el coaching grupal, la supervisión de equipo, las reflexiones de grupos grandes y los días de silencio. \[6] Ver [Entrenamiento y Coaching.](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Entrenamiento_y_Coaching "Entrenamiento y Coaching")
+  Las tradiciones de sabiduría insisten en la necesidad de un silencio y una reflexión regular para calmar la mente y dejar que la verdad surja de una parte más profunda de nosotros mismos. Un número cada vez mayor de personas recogen prácticas contemplativas -meditación, oración, yoga, caminar en la naturaleza- y las integran en su vida cotidiana. Muchas organizaciones Teal han establecido una habitación tranquila en algún lugar de la oficina, y otros han puesto meditación y clases de yoga en su lugar. Esta práctica abre espacio para la reflexión individual y la atención plena en medio de días ocupados. Algunos de ellos van un paso más allá: también crean momentos colectivos para la autorreflexión a través de prácticas como el coaching grupal, la supervisión de equipo, las reflexiones de grupos grandes y los días de silencio. \[6] Ver [Entrenamiento y Coaching.](http://reinventingorganizationswiki.com/sp/index.php?title=Entrenamiento_y_Coaching "Entrenamiento y Coaching")
 
 
   **Storytelling**
@@ -76,13 +76,13 @@ inPractice: >-
   **Reuniones**
 
 
-  Las organizaciones Teal típicamente han instituido prácticas específicas de reuniones para ayudar a los participantes a mantener sus egos bajo control e interactuar entre sí desde una posición de plenitud. Algunas son muy simples, mientras que otras mucho más elaboradas. En Sounds True, cada reunión comienza con un minuto de silencio para ayudar a las personas a situarse en el momento. Muchas compañías Teal comienzan reuniones con una ronda de check-in y terminan con una ronda de check-out. \[9] [Ver Reuniones.](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Reuniones "Reuniones")
+  Las organizaciones Teal típicamente han instituido prácticas específicas de reuniones para ayudar a los participantes a mantener sus egos bajo control e interactuar entre sí desde una posición de plenitud. Algunas son muy simples, mientras que otras mucho más elaboradas. En Sounds True, cada reunión comienza con un minuto de silencio para ayudar a las personas a situarse en el momento. Muchas compañías Teal comienzan reuniones con una ronda de check-in y terminan con una ronda de check-out. \[9] [Ver Reuniones.](http://reinventingorganizationswiki.com/sp/index.php?title=Reuniones "Reuniones")
 
 
   **Manejo de conflictos**
 
 
-  Es fácil en nuestras relaciones con colegas caer presos de nuestro deseo de agradar o de impresionar, ser querido, o dominar. Fácilmente invadimos a otros o dejamos que otros nos invadan. Nuestra alma conoce los límites correctos, y a veces nos dice que necesitamos un conflicto para poner las cosas en el lugar correcto. Sin conflicto, podemos ser demasiado complacientes o sobre protectores, y en ambos casos, dejamos de ser fieles a nosotros mismos al interactuar con nuestros colegas. Las organizaciones Teal han desarrollado prácticas específicas para identificar y resolver conflictos. \[10] Consulte [Resolución de conflictos.](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Resoluci%C3%B3n_de_Conflictos "Resolución de Conflictos")
+  Es fácil en nuestras relaciones con colegas caer presos de nuestro deseo de agradar o de impresionar, ser querido, o dominar. Fácilmente invadimos a otros o dejamos que otros nos invadan. Nuestra alma conoce los límites correctos, y a veces nos dice que necesitamos un conflicto para poner las cosas en el lugar correcto. Sin conflicto, podemos ser demasiado complacientes o sobre protectores, y en ambos casos, dejamos de ser fieles a nosotros mismos al interactuar con nuestros colegas. Las organizaciones Teal han desarrollado prácticas específicas para identificar y resolver conflictos. \[10] Consulte [Resolución de conflictos.](http://reinventingorganizationswiki.com/sp/index.php?title=Resoluci%C3%B3n_de_Conflictos "Resolución de Conflictos")
 
 
   **Espacios físicos**

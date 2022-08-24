@@ -23,25 +23,25 @@ perspective: >-
 
   **Organizaciones Rojas**\
 
-  En las [Organizaciones Rojas](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_paradigma_Rojo_y_las_Organizaciones "El paradigma Rojo y las Organizaciones") el manejo del humor se reduce a la sumisión al estado de ánimo del jefe (tribal) y a su "familia". Ellos supervisan a los soldados de a pie. El temor y la sumisión evitan que la organización se desintegre.\
+  En las [Organizaciones Rojas](http://reinventingorganizationswiki.com/sp/index.php?title=El_paradigma_Rojo_y_las_Organizaciones "El paradigma Rojo y las Organizaciones") el manejo del humor se reduce a la sumisión al estado de ánimo del jefe (tribal) y a su "familia". Ellos supervisan a los soldados de a pie. El temor y la sumisión evitan que la organización se desintegre.\
 
   \
 
   **Organizaciones Ámbar**\
 
-  En las [organizaciones Ámbar](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_%C3%81mbar_y_las_Organizaciones "El Paradigma Ámbar y las Organizaciones"), el más alto 'sabe' lo que es mejor para los más bajos en la jerarquía. Estas expectativas se gestionan a través de roles y reglas. Las recompensas son para aquellos que siguen las reglas, y los castigos para los que no lo hacen. La gente puede valorar este orden y esta previsibilidad.\
+  En las [organizaciones Ámbar](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_%C3%81mbar_y_las_Organizaciones "El Paradigma Ámbar y las Organizaciones"), el más alto 'sabe' lo que es mejor para los más bajos en la jerarquía. Estas expectativas se gestionan a través de roles y reglas. Las recompensas son para aquellos que siguen las reglas, y los castigos para los que no lo hacen. La gente puede valorar este orden y esta previsibilidad.\
 
   \
 
   **Organizaciones Naranja**\
 
-  En las [organizaciones Naranja](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Naranja_y_las_Organizaciones "El Paradigma Naranja y las Organizaciones") se trata de resultados planificados y eficientes. Los incentivos se usan comúnmente para lograr estos resultados organizacionales. Están diseñados para motivar / recompensar ciertos tipos de acción, pero no necesariamente los sentimientos, o estados de ánimo, que van con ellos.\
+  En las [organizaciones Naranja](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_Naranja_y_las_Organizaciones "El Paradigma Naranja y las Organizaciones") se trata de resultados planificados y eficientes. Los incentivos se usan comúnmente para lograr estos resultados organizacionales. Están diseñados para motivar / recompensar ciertos tipos de acción, pero no necesariamente los sentimientos, o estados de ánimo, que van con ellos.\
 
   \
 
   **Organizaciones Verdes**\
 
-  En las [organizaciones Verdes](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Verde_y_las_Organizaciones "El Paradigma Verde y las Organizaciones") se valora la armonía, la tolerancia y la igualdad. Los equipos y su salud son importantes. El propósito es estimular la motivación. Los recursos humanos pueden operar a través de procesos como iniciativas culturales, retroalimentación de 360 grados y encuestas de satisfacción de los empleados. Ahora hay un enfoque consciente en el estado de ánimo que prevalece. A menudo hay un esfuerzo para satisfacer todas las necesidades (o estados de ánimo) de las partes interesadas.\
+  En las [organizaciones Verdes](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_Verde_y_las_Organizaciones "El Paradigma Verde y las Organizaciones") se valora la armonía, la tolerancia y la igualdad. Los equipos y su salud son importantes. El propósito es estimular la motivación. Los recursos humanos pueden operar a través de procesos como iniciativas culturales, retroalimentación de 360 grados y encuestas de satisfacción de los empleados. Ahora hay un enfoque consciente en el estado de ánimo que prevalece. A menudo hay un esfuerzo para satisfacer todas las necesidades (o estados de ánimo) de las partes interesadas.\
 
   \
 
@@ -50,7 +50,7 @@ perspective: >-
   Gestión del estado de ánimo se considera integral y crucial para la creación de un espacio en el que los resultados previstos se puede lograr y se pueda servir al propósito de la organización.
 
 
-  * En las [organizaciones Teal](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones"), la combinación de un propósito que vale la pena, la autodirección y la colaboración contribuyen al estado de ánimo elevado.
+  * En las [organizaciones Teal](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones"), la combinación de un propósito que vale la pena, la autodirección y la colaboración contribuyen al estado de ánimo elevado.
 
   * No hay ninguna función de recursos humanos cargada de 'gestionar del estado de ánimo'. Depende de individuos y grupos desarrollar prácticas que les permitan trabajar en armonía.
 
@@ -70,10 +70,10 @@ inPractice: >-
 
   \
 
-  Las [organizaciones Teal](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones") reconocen que el estado de ánimo determina lo que es posible hacer; predispone ciertos cursos de acción y cierra otros. En las organizaciones [autogestionadas](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Autogesti%C3%B3n "Autogestión"), las personas valoran tanto la autonomía como la colaboración en la búsqueda del propósito. La práctica de los procesos compartidos apoya esto. El propósito y la práctica conspiran para producir un sentido de pertenencia compartida, alineación y potencia. Este sentido de potencia apoya la [innovación](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Innovaci%C3%B3n_y_Desarrollo_de_Productos "Innovación y Desarrollo de Productos"). Las personas tienen ideas, buscan el apoyo de sus colegas y, cuando trabajan, comparten el disfrute de su aceptación más amplia. Estos éxitos dan lugar a historias y prácticas. Estos, combinados con "eventos de plenitud” son dos factores que contribuyen al estado de ánimo en la organización.
+  Las [organizaciones Teal](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones") reconocen que el estado de ánimo determina lo que es posible hacer; predispone ciertos cursos de acción y cierra otros. En las organizaciones [autogestionadas](http://reinventingorganizationswiki.com/sp/index.php?title=Autogesti%C3%B3n "Autogestión"), las personas valoran tanto la autonomía como la colaboración en la búsqueda del propósito. La práctica de los procesos compartidos apoya esto. El propósito y la práctica conspiran para producir un sentido de pertenencia compartida, alineación y potencia. Este sentido de potencia apoya la [innovación](http://reinventingorganizationswiki.com/sp/index.php?title=Innovaci%C3%B3n_y_Desarrollo_de_Productos "Innovación y Desarrollo de Productos"). Las personas tienen ideas, buscan el apoyo de sus colegas y, cuando trabajan, comparten el disfrute de su aceptación más amplia. Estos éxitos dan lugar a historias y prácticas. Estos, combinados con "eventos de plenitud” son dos factores que contribuyen al estado de ánimo en la organización.
 
 
-  Ambos pueden ser utilizados también dentro de sistemas jerárquicos: no dependen de estructuras autogestionadas. Pero en las organizaciones Teal es más probable que surjan de la inspiración de sus miembros y sus [valores compartidos](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Cultura_y_Valores "Cultura y Valores"). Pueden surgir naturalmente, encontrar su lugar, ser atesorados y adoptados abiertamente.\
+  Ambos pueden ser utilizados también dentro de sistemas jerárquicos: no dependen de estructuras autogestionadas. Pero en las organizaciones Teal es más probable que surjan de la inspiración de sus miembros y sus [valores compartidos](http://reinventingorganizationswiki.com/sp/index.php?title=Cultura_y_Valores "Cultura y Valores"). Pueden surgir naturalmente, encontrar su lugar, ser atesorados y adoptados abiertamente.\
 
   \
 
@@ -86,7 +86,7 @@ inPractice: >-
   La gratitud es uno de los estados de ánimo más poderosos. Nos hace sentir satisfechos. Dejamos nuestra búsqueda de lograr más. En este momento, nos sentimos plenos. De esa plenitud, otras emociones emergen naturalmente. Experimentamos alegría y generosidad; Tratamos a otros con cuidado. Para nutrir esto conscientemente necesitamos descubrir y / o diseñar prácticas que evocan gratitud, o estados de ánimo relacionados.
 
 
-  Podemos preguntarnos: ¿Qué historias podemos compartir que evocan el estado de ánimo que mejor nos sirve? De esta manera, las [organizaciones Teal](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones") pueden crear prácticas de narración de historias que apoyen y amplíen el estado de ánimo de aprecio, al tiempo que fortalecen la confianza entre los miembros.\
+  Podemos preguntarnos: ¿Qué historias podemos compartir que evocan el estado de ánimo que mejor nos sirve? De esta manera, las [organizaciones Teal](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones") pueden crear prácticas de narración de historias que apoyen y amplíen el estado de ánimo de aprecio, al tiempo que fortalecen la confianza entre los miembros.\
 
   Las prácticas de narración de historias toman muchas formas:
 
@@ -109,7 +109,7 @@ inPractice: >-
   Los estados de ánimo también son creados por experiencias compartidas: sobre todo si se llenan de risa, alegría, diversión, creatividad, sentimiento de confianza, autenticidad, pertenencia, aceptación y reconocimiento.
 
 
-  Las organizaciones tradicionales también pueden patrocinar eventos, por lo general por el departamento de Recursos Humanos o el CEO, para la construcción de equipos o similares. Sin embargo, en una [organización Teal](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones") suelen surgir de la propia organización. Cuando las personas se sienten lo suficientemente seguras como para tomar la iniciativa, parece que estos eventos auto-creados y organizados surgen espontáneamente. Deseamos, en el fondo, integrar toda nuestra humanidad: lo gracioso y lo peculiar, así como lo serio y lo responsable. Las conexiones humanas emergen de estos espacios.\
+  Las organizaciones tradicionales también pueden patrocinar eventos, por lo general por el departamento de Recursos Humanos o el CEO, para la construcción de equipos o similares. Sin embargo, en una [organización Teal](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones") suelen surgir de la propia organización. Cuando las personas se sienten lo suficientemente seguras como para tomar la iniciativa, parece que estos eventos auto-creados y organizados surgen espontáneamente. Deseamos, en el fondo, integrar toda nuestra humanidad: lo gracioso y lo peculiar, así como lo serio y lo responsable. Las conexiones humanas emergen de estos espacios.\
 
   Eventos para la plenitud de las personas pueden ser de todo tipo. por ejemplo:
 
@@ -134,7 +134,7 @@ faq:
 
       Muchos (especialmente los empleados más jóvenes) están desilusionados con lo que perciben como un enfoque excesivo en el dinero; Especialmente cuando se manifiesta como codicia. El resultado es una desconexión (no- involucración) generalizada evidente en las encuestas de Gallup y otros.\
 
-      Un ambiente de trabajo motivador fomenta el éxito financiero. Las [organizaciones Teal](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones") ofrecen esto a través de más autonomía y más comunidad en búsqueda de un propósito que vale la pena. Estos son motivadores claros. Elevan el "estado de ánimo"; Fomentan el compromiso; Que a su vez puede correlacionarse con la salud financiera.
+      Un ambiente de trabajo motivador fomenta el éxito financiero. Las [organizaciones Teal](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones") ofrecen esto a través de más autonomía y más comunidad en búsqueda de un propósito que vale la pena. Estos son motivadores claros. Elevan el "estado de ánimo"; Fomentan el compromiso; Que a su vez puede correlacionarse con la salud financiera.
 
 
       <!--EndFragment-->
@@ -147,7 +147,7 @@ faq:
       ‘Lidiar con' infiere 'a manejar a otros'. En algunos estilos de organización esto ha sido a través de programas iniciados por la alta dirección o HR.
 
 
-      En las [organizaciones Teal](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones"), las prácticas que apoyan el estado de ánimo elevado suelen ser iniciadas por los miembros y tienen una participación opcional. Si el personal puede "manejar" sus propias prácticas, entonces el riesgo de ser "demasiado personal" disminuye. Es justo decir, sin embargo, que el nuevo personal - especialmente los mayores - puede encontrar el movimiento a una organización sensible al estado de ánimo difícil. Esta es una elección que se debe explorar cuidadosamente durante las entrevistas de selección.
+      En las [organizaciones Teal](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones"), las prácticas que apoyan el estado de ánimo elevado suelen ser iniciadas por los miembros y tienen una participación opcional. Si el personal puede "manejar" sus propias prácticas, entonces el riesgo de ser "demasiado personal" disminuye. Es justo decir, sin embargo, que el nuevo personal - especialmente los mayores - puede encontrar el movimiento a una organización sensible al estado de ánimo difícil. Esta es una elección que se debe explorar cuidadosamente durante las entrevistas de selección.
 
 
       Si el 'estado de ánimo' determina las opciones que se abren a individuos, grupos y organizaciones, esta consideración ocupa un lugar muy importante.

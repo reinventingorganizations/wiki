@@ -89,7 +89,7 @@ faq:
       <!--StartFragment-->
 
 
-      Ver articulo relativo “[Estrategia](http://www.reinventarlasorganizacioneswiki.com/index.php?title=La_Estrategia "La Estrategia")” dentro de “Procesos Organizativos Mayores”
+      Ver articulo relativo “[Estrategia](http://reinventingorganizationswiki.com/sp/index.php?title=La_Estrategia "La Estrategia")” dentro de “Procesos Organizativos Mayores”
 
 
       <!--EndFragment-->

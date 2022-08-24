@@ -30,7 +30,7 @@ perspective: >-
 
   **Compromisos**\
 
-  Cuando los colegas trabajan en una cultura donde es normal y necesario compartir otros compromisos en sus vidas, la autenticidad y el ser entero en el trabajo son bienvenidos. La apertura sobre los compromisos personales puede desarrollar relaciones más fuertes entre colegas y resultar en una cultura donde los colegas se apoyan mutuamente. En épocas de necesidad o crisis, por ejemplo en temporada alta, es común en las [organizaciones Teal](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones") que los trabajadores, trabajen voluntariamente más horas para completar una tarea con motivación y orgullo, apoyando a sus colegas y trabajando hacia el propósito de la organización.\
+  Cuando los colegas trabajan en una cultura donde es normal y necesario compartir otros compromisos en sus vidas, la autenticidad y el ser entero en el trabajo son bienvenidos. La apertura sobre los compromisos personales puede desarrollar relaciones más fuertes entre colegas y resultar en una cultura donde los colegas se apoyan mutuamente. En épocas de necesidad o crisis, por ejemplo en temporada alta, es común en las [organizaciones Teal](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones") que los trabajadores, trabajen voluntariamente más horas para completar una tarea con motivación y orgullo, apoyando a sus colegas y trabajando hacia el propósito de la organización.\
 
   \
 
@@ -40,31 +40,31 @@ perspective: >-
 
   **Organizaciones Rojas**\
 
-  En las [organizaciones Rojas](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_paradigma_Rojo_y_las_Organizaciones "El paradigma Rojo y las Organizaciones"), el jefe determina las horas de trabajo para cada persona. No hay un proceso formal de establecimiento y / o monitoreo de horas de trabajo. Las personas pertenecen a la organización y se espera que estén disponibles cuando sea necesario.\
+  En las [organizaciones Rojas](http://reinventingorganizationswiki.com/sp/index.php?title=El_paradigma_Rojo_y_las_Organizaciones "El paradigma Rojo y las Organizaciones"), el jefe determina las horas de trabajo para cada persona. No hay un proceso formal de establecimiento y / o monitoreo de horas de trabajo. Las personas pertenecen a la organización y se espera que estén disponibles cuando sea necesario.\
 
   \
 
   **Organizaciones Ámbar**\
 
-  En [Organizaciones Ámbar](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_%C3%81mbar_y_las_Organizaciones "El Paradigma Ámbar y las Organizaciones") , las horas de trabajo son determinadas por altos líderes y especificadas en un contrato de trabajo. Ellos deciden qué trabajo se llevará a cabo y cómo se controlará el horario de trabajo.\
+  En [Organizaciones Ámbar](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_%C3%81mbar_y_las_Organizaciones "El Paradigma Ámbar y las Organizaciones") , las horas de trabajo son determinadas por altos líderes y especificadas en un contrato de trabajo. Ellos deciden qué trabajo se llevará a cabo y cómo se controlará el horario de trabajo.\
 
   \
 
   **Organizaciones Naranja**\
 
-  En las [Organizaciones Naranja](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Naranja_y_las_Organizaciones "El Paradigma Naranja y las Organizaciones"), la gente generalmente cae en uno de los dos campos. Hay aquellos (a menudo en roles manuales) que trabajan un conjunto fijo de horas de reloj y reloj, y aquellos (a menudo en puestos de gestión), que se espera que su trabajo realizado independientemente de las horas indicadas en su contrato.\
+  En las [Organizaciones Naranja](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_Naranja_y_las_Organizaciones "El Paradigma Naranja y las Organizaciones"), la gente generalmente cae en uno de los dos campos. Hay aquellos (a menudo en roles manuales) que trabajan un conjunto fijo de horas de reloj y reloj, y aquellos (a menudo en puestos de gestión), que se espera que su trabajo realizado independientemente de las horas indicadas en su contrato.\
 
   \
 
   **Organizaciones Verdes**\
 
-  En las [organizaciones Verdes](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Verde_y_las_Organizaciones "El Paradigma Verde y las Organizaciones"), normalmente existe una cultura de cooperación en la que las personas tienen el poder de trabajar las horas que escogen, aunque dentro de una estructura definida. Flex-tiempo se utiliza a menudo para los trabajadores de nivel inferior, a fin de permitir que las personas para encajar en el trabajo con el resto de su vida. Trabajar desde casa es una opción realista para aquellos cuyo papel lo permite.\
+  En las [organizaciones Verdes](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_Verde_y_las_Organizaciones "El Paradigma Verde y las Organizaciones"), normalmente existe una cultura de cooperación en la que las personas tienen el poder de trabajar las horas que escogen, aunque dentro de una estructura definida. Flex-tiempo se utiliza a menudo para los trabajadores de nivel inferior, a fin de permitir que las personas para encajar en el trabajo con el resto de su vida. Trabajar desde casa es una opción realista para aquellos cuyo papel lo permite.\
 
   \
 
   **Organizaciones Teal**\
 
-  En la superficie, las [organizaciones Teal](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones") pueden no parecer tan diferentes de las verdes en relación con el compromiso, las horas de trabajo y la flexibilidad. La diferencia está en la madurez y la coherencia. Mientras que una organización Verde podría poner los perfiles de prácticas arriba disponibles para poblaciones específicas, una organización Teal haría estas prácticas ampliamente disponibles como parte normal de su forma de operar.\
+  En la superficie, las [organizaciones Teal](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones") pueden no parecer tan diferentes de las verdes en relación con el compromiso, las horas de trabajo y la flexibilidad. La diferencia está en la madurez y la coherencia. Mientras que una organización Verde podría poner los perfiles de prácticas arriba disponibles para poblaciones específicas, una organización Teal haría estas prácticas ampliamente disponibles como parte normal de su forma de operar.\
 
   Las organizaciones Teal suelen presentar las siguientes medidas generales:
 
@@ -83,7 +83,7 @@ inPractice: >-
   <!--StartFragment-->
 
 
-  Las [organizaciones Teal](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones") parten de la premisa de que incluso para el trabajo de rutina, las personas tienen un sentido de orgullo y quieren hacer un buen trabajo. Las personas son sistemáticamente consideradas confiables, auto-motivadas, confiables e inteligentes.\
+  Las [organizaciones Teal](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones") parten de la premisa de que incluso para el trabajo de rutina, las personas tienen un sentido de orgullo y quieren hacer un buen trabajo. Las personas son sistemáticamente consideradas confiables, auto-motivadas, confiables e inteligentes.\
 
   \
 

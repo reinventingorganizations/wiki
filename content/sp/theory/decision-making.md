@@ -30,31 +30,31 @@ perspective: >-
 
   **Organizaciones Rojas**\
 
-  En el [paradigma Rojo](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_paradigma_Rojo_y_las_Organizaciones "El paradigma Rojo y las Organizaciones"), las decisiones de cualquier consecuencia son tomadas por el jefe / director. Los empleados deben solicitar su aprobación, o corren el riesgo de consecuencias graves. Las organizaciones Rojas pueden ser eficientes, pero el control, ejercido a través del miedo, limita la disposición de los miembros a tomar decisiones por si mismos.\
+  En el [paradigma Rojo](http://reinventingorganizationswiki.com/sp/index.php?title=El_paradigma_Rojo_y_las_Organizaciones "El paradigma Rojo y las Organizaciones"), las decisiones de cualquier consecuencia son tomadas por el jefe / director. Los empleados deben solicitar su aprobación, o corren el riesgo de consecuencias graves. Las organizaciones Rojas pueden ser eficientes, pero el control, ejercido a través del miedo, limita la disposición de los miembros a tomar decisiones por si mismos.\
 
   \
 
   **Organizaciones Ámbar**\
 
-  En el [paradigma Ámbar](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_%C3%81mbar_y_las_Organizaciones "El Paradigma Ámbar y las Organizaciones"), la autoridad de decisión está determinada por el estatus del individuo en la jerarquía. La innovación no es particularmente valorada; mientras que seguir los procedimientos operativos estándar si lo es. Una cadena de mando clara apoyada por procesos formales define quién puede hacer qué. Se espera que los individuos adopten estos procesos y tradiciones.\
+  En el [paradigma Ámbar](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_%C3%81mbar_y_las_Organizaciones "El Paradigma Ámbar y las Organizaciones"), la autoridad de decisión está determinada por el estatus del individuo en la jerarquía. La innovación no es particularmente valorada; mientras que seguir los procedimientos operativos estándar si lo es. Una cadena de mando clara apoyada por procesos formales define quién puede hacer qué. Se espera que los individuos adopten estos procesos y tradiciones.\
 
   \
 
   **Organizaciones Naranja**\
 
-  En el[paradigma Naranja](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Naranja_y_las_Organizaciones "El Paradigma Naranja y las Organizaciones"), las organizaciones son vistas como máquinas que necesitan ser "afinadas" para la eficiencia. La alta gerencia anuncia la dirección o la estrategia y luego los objetivos caen en cascada. Los gerentes elaboran planes para conseguir sus objetivos que deben ser aprobados. Estos planes guían la toma de decisiones hacia el logro de metas-por ejemplo, ganancias y cuota de mercado. Se invita a los miembros del equipo a sugerir iniciativas y participar en el proceso de toma de decisiones. Esto fomenta la innovación y el debate. Los objetivos primordiales son la previsibilidad y el control.\
+  En el[paradigma Naranja](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_Naranja_y_las_Organizaciones "El Paradigma Naranja y las Organizaciones"), las organizaciones son vistas como máquinas que necesitan ser "afinadas" para la eficiencia. La alta gerencia anuncia la dirección o la estrategia y luego los objetivos caen en cascada. Los gerentes elaboran planes para conseguir sus objetivos que deben ser aprobados. Estos planes guían la toma de decisiones hacia el logro de metas-por ejemplo, ganancias y cuota de mercado. Se invita a los miembros del equipo a sugerir iniciativas y participar en el proceso de toma de decisiones. Esto fomenta la innovación y el debate. Los objetivos primordiales son la previsibilidad y el control.\
 
   \
 
   **Organizaciones Verdes**\
 
-  Las [organizaciones Verdes](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Verde_y_las_Organizaciones "El Paradigma Verde y las Organizaciones") impulsadas por los valores y dirigidas por objetivos se esfuerzan por servir a múltiples partes interesadas (Stakeholders). A los empleados de primera línea, por ejemplo, a menudo se les anima a tomar decisiones importantes sin mayores aprobaciones en el interés de servir a los clientes y a la comunidad de interesados . Están en contacto con los problemas del día a día y confían en idear mejores soluciones que los 'expertos' que pueden estar lejos. El énfasis está en mantener una cultura fuerte, a menudo "familiar". El consenso es altamente valorado.\
+  Las [organizaciones Verdes](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_Verde_y_las_Organizaciones "El Paradigma Verde y las Organizaciones") impulsadas por los valores y dirigidas por objetivos se esfuerzan por servir a múltiples partes interesadas (Stakeholders). A los empleados de primera línea, por ejemplo, a menudo se les anima a tomar decisiones importantes sin mayores aprobaciones en el interés de servir a los clientes y a la comunidad de interesados . Están en contacto con los problemas del día a día y confían en idear mejores soluciones que los 'expertos' que pueden estar lejos. El énfasis está en mantener una cultura fuerte, a menudo "familiar". El consenso es altamente valorado.\
 
   \
 
   **Organizaciones Teal**\
 
-  En el [Teal - Evolutivo](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones"), hay un cambio de los criterios externos a los internos en la toma de decisiones. La gente ahora está preocupada con la cuestión de la rectitud interior: ¿esta decisión parece correcta? ¿Estoy siendo fiel a mí mismo? ¿Está en línea con quién siento que soy? ¿Estoy sirviendo al mundo? Con menos temores del ego, la gente es capaz de tomar decisiones que pueden parecer riesgosas. No todos los resultados posibles pueden haber sido sopesados, pero la decisión resuena con profundas convicciones internas. Las personas desarrollan una sensibilidad para situaciones que no sienten bien, y situaciones que exigen que hablen y actúen, incluso frente a la oposición o con probabilidades aparentemente bajas de éxito. Esto nace de un sentido de integridad y autenticidad.
+  En el [Teal - Evolutivo](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones"), hay un cambio de los criterios externos a los internos en la toma de decisiones. La gente ahora está preocupada con la cuestión de la rectitud interior: ¿esta decisión parece correcta? ¿Estoy siendo fiel a mí mismo? ¿Está en línea con quién siento que soy? ¿Estoy sirviendo al mundo? Con menos temores del ego, la gente es capaz de tomar decisiones que pueden parecer riesgosas. No todos los resultados posibles pueden haber sido sopesados, pero la decisión resuena con profundas convicciones internas. Las personas desarrollan una sensibilidad para situaciones que no sienten bien, y situaciones que exigen que hablen y actúen, incluso frente a la oposición o con probabilidades aparentemente bajas de éxito. Esto nace de un sentido de integridad y autenticidad.
 
 
   <!--EndFragment-->
@@ -65,7 +65,7 @@ inPractice: >-
   **El proceso de los consejos**
 
 
-  Casi todas las [organizaciones Teal](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones") utilizan, de una forma u otra, lo que una empresa pionera ([AES](http://www.aes.com/home/default.aspx)) llamó el "proceso de los consejos".\
+  Casi todas las [organizaciones Teal](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones") utilizan, de una forma u otra, lo que una empresa pionera ([AES](http://www.aes.com/home/default.aspx)) llamó el "proceso de los consejos".\
 
   Tiene muchas formas, pero la esencia es la misma: cualquier persona puede tomar cualquier decisión después de buscar el consejo de 1) todos los que serán afectados significativamente, y 2) las personas con experiencia en el asunto.
 
@@ -236,7 +236,7 @@ faq:
       <!--StartFragment-->
 
 
-      Los colegas saben que el uso del proceso de los consejos no es opcional. Una causa de [despido](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Despidos "Despidos") es ignorar las obligaciones mutuas del proceso de los consejos. Con un proceso de [resolución de conflictos](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Resoluci%C3%B3n_de_Conflictos "Resolución de Conflictos") (como en algunas organizaciones Teal) alguien que siente que el proceso de los consejos no se respeta puede llamar a cuentas a un colega.
+      Los colegas saben que el uso del proceso de los consejos no es opcional. Una causa de [despido](http://reinventingorganizationswiki.com/sp/index.php?title=Despidos "Despidos") es ignorar las obligaciones mutuas del proceso de los consejos. Con un proceso de [resolución de conflictos](http://reinventingorganizationswiki.com/sp/index.php?title=Resoluci%C3%B3n_de_Conflictos "Resolución de Conflictos") (como en algunas organizaciones Teal) alguien que siente que el proceso de los consejos no se respeta puede llamar a cuentas a un colega.
 
 
       Pero cuando la gente se acostumbra a ello, el respeto por la práctica crece. Esto porque la gente está en ambos lados de la ecuación. Cuando me pides mi consejo esta mañana, espero que lo tomes en serio. Si nuestros papeles están invertidos esta tarde, necesito tomarlo en serio, también. Debido a que el poder se distribuye, usted sabe que otros pueden tomar decisiones sobre cosas que le importan también, por lo que son capaces de tener en cuenta sus necesidades y puntos de vista.
@@ -273,7 +273,7 @@ faq:
 
       **La silla vacía**\
 
-      Una práctica para mantener el propósito primero es asignar una silla vacía en las reuniones para representar nuestro [propósito evolutivo](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Prop%C3%B3sito_Evolutivo "Propósito Evolutivo"). Cualquiera puede ocupar el asiento y representar la voz de la organización. Pueden surgir diferentes preguntas desde esta perspectiva: ¿Las discusiones y decisiones de hoy le han servido bien? ¿Qué resalta de la reunión de hoy? ¿Estamos siendo lo suficientemente audaces? ¿Demasiado audaz? ¿Hay algo más que necesita ser discutido?\
+      Una práctica para mantener el propósito primero es asignar una silla vacía en las reuniones para representar nuestro [propósito evolutivo](http://reinventingorganizationswiki.com/sp/index.php?title=Prop%C3%B3sito_Evolutivo "Propósito Evolutivo"). Cualquiera puede ocupar el asiento y representar la voz de la organización. Pueden surgir diferentes preguntas desde esta perspectiva: ¿Las discusiones y decisiones de hoy le han servido bien? ¿Qué resalta de la reunión de hoy? ¿Estamos siendo lo suficientemente audaces? ¿Demasiado audaz? ¿Hay algo más que necesita ser discutido?\
 
       \
 
