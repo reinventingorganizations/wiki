@@ -29,6 +29,6 @@ theory:
       Ähnlich läuft es ab, wenn jemand geht. Die Teammitglieder nehmen an
       einem gemeinsamen Essen mit der scheidenden Person teil. Jeder bereitet
       eine persönliche Geschichte über diese und das Unternehmen vor und feiert
-      sie damit. Auch diese Geschichten verraten mindestens genauso viel über
-      die Erzählenden.\r\n"
+      sie damit. Diese Geschichten verraten mindestens genauso viel über die
+      Erzählenden.\r\n"
 ---
