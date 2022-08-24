@@ -39,7 +39,7 @@ perspective: >-
 
   **Organizaciones Ámbar**\
 
-  Las [organizaciones Ámbar](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_%C3%81mbar_y_las_Organizaciones "El Paradigma Ámbar y las Organizaciones") valoran los procesos predecibles. Su existencia esta sostenida por el mantenimiento de roles, practicas y herramientas probadas. Las innovaciones se adoptan con mucha cautela, después del visto bueno de la alta gerencia.\
+  Las [organizaciones Ámbar](../amber-paradigm-and-organizations/) valoran los procesos predecibles. Su existencia esta sostenida por el mantenimiento de roles, practicas y herramientas probadas. Las innovaciones se adoptan con mucha cautela, después del visto bueno de la alta gerencia.\
 
   En comparación con el paradigma Rojo, el Ámbar eleva el techo de la excelencia de manera significativa ya que la excelencia en aprender y dominar diferentes habilidades puede ser transmitida a través de generaciones. Los agentes de cambio son a menudo como amenazas hacia el éxito del pasado y una innovación puede requerir de mucho tiempo antes de lograr la aceptación.
 
