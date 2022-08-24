@@ -20,7 +20,7 @@ intro: >-
   <!--StartFragment-->
 
 
-  El paradigma Teal se refiere a la siguiente etapa en la evolución de la conciencia humana. \[1] Cuando se aplica a las organizaciones, este paradigma ve a la organización como una fuerza independiente con un propósito propio, y no meramente como un vehículo para alcanzar los objetivos de los directores. Las organizaciones Teal se caracterizan por la auto-organización y la autogestión. La pirámide jerárquica de "predicción y control" Naranja se sustituye por una estructura descentralizada que consiste en pequeños equipos que asumen la responsabilidad de su propia gobernanza y de cómo interactúan con otras partes de la organización. La asignación de posiciones y las descripciones de puestos se sustituyen por una multiplicidad de funciones, a menudo auto-seleccionadas y fluidas. Las acciones de las personas no son guiadas por órdenes de alguien que esté en la cadena de mando, sino a través de "escuchar" el propósito de la organización. A diferencia de la naturaleza altamente estática de las organizaciones [Ámbar](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_%C3%81mbar_y_las_Organizaciones "El Paradigma Ámbar y las Organizaciones"), [Naranja](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Naranja_y_las_Organizaciones "El Paradigma Naranja y las Organizaciones") y [Verde](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Verde_y_las_Organizaciones "El Paradigma Verde y las Organizaciones"), la estructura organizativa Teal se caracteriza por un rápido cambio y adaptación, a medida que se hacen ajustes continuamente para servir mejor al propósito de la organización.
+  El paradigma Teal se refiere a la siguiente etapa en la evolución de la conciencia humana. \[1] Cuando se aplica a las organizaciones, este paradigma ve a la organización como una fuerza independiente con un propósito propio, y no meramente como un vehículo para alcanzar los objetivos de los directores. Las organizaciones Teal se caracterizan por la auto-organización y la autogestión. La pirámide jerárquica de "predicción y control" Naranja se sustituye por una estructura descentralizada que consiste en pequeños equipos que asumen la responsabilidad de su propia gobernanza y de cómo interactúan con otras partes de la organización. La asignación de posiciones y las descripciones de puestos se sustituyen por una multiplicidad de funciones, a menudo auto-seleccionadas y fluidas. Las acciones de las personas no son guiadas por órdenes de alguien que esté en la cadena de mando, sino a través de "escuchar" el propósito de la organización. A diferencia de la naturaleza altamente estática de las organizaciones [Ámbar](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_%C3%81mbar_y_las_Organizaciones "El Paradigma Ámbar y las Organizaciones"), [Naranja](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_Naranja_y_las_Organizaciones "El Paradigma Naranja y las Organizaciones") y [Verde](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_Verde_y_las_Organizaciones "El Paradigma Verde y las Organizaciones"), la estructura organizativa Teal se caracteriza por un rápido cambio y adaptación, a medida que se hacen ajustes continuamente para servir mejor al propósito de la organización.
 
 
   <!--EndFragment-->
@@ -185,7 +185,7 @@ intro: >-
 
   \
 
-  Las organizaciones Teal han encontrado la clave para operar eficazmente, incluso a gran escala, con un sistema basado en las relaciones entre pares, sin necesidad de jerarquía ni de consenso. ([Ver Auto-Gestión](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Autogesti%C3%B3n "Autogestión")).\
+  Las organizaciones Teal han encontrado la clave para operar eficazmente, incluso a gran escala, con un sistema basado en las relaciones entre pares, sin necesidad de jerarquía ni de consenso. ([Ver Auto-Gestión](http://reinventingorganizationswiki.com/sp/index.php?title=Autogesti%C3%B3n "Autogestión")).\
 
   \
 
@@ -193,7 +193,7 @@ intro: >-
 
   \
 
-  Las organizaciones siempre han sido lugares que animan a la gente a presentarse con un yo "profesional" estrecho y a dejar otras partes del yo en la puerta. A menudo nos requieren mostrar una resolución masculina, mostrar determinación y fuerza, y ocultar dudas y vulnerabilidad. La racionalidad gobierna como reina, mientras que las partes emocional, intuitiva y espiritual de nosotros mismos a menudo nos sentimos incómodos, fuera de lugar. Las organizaciones Teal han desarrollado un conjunto consistente de prácticas que nos invitan a reclamar nuestra integridad interior y a traer todo lo que somos al trabajo. ([Ver plenitud](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Plenitud "Plenitud")).\
+  Las organizaciones siempre han sido lugares que animan a la gente a presentarse con un yo "profesional" estrecho y a dejar otras partes del yo en la puerta. A menudo nos requieren mostrar una resolución masculina, mostrar determinación y fuerza, y ocultar dudas y vulnerabilidad. La racionalidad gobierna como reina, mientras que las partes emocional, intuitiva y espiritual de nosotros mismos a menudo nos sentimos incómodos, fuera de lugar. Las organizaciones Teal han desarrollado un conjunto consistente de prácticas que nos invitan a reclamar nuestra integridad interior y a traer todo lo que somos al trabajo. ([Ver plenitud](http://reinventingorganizationswiki.com/sp/index.php?title=Plenitud "Plenitud")).\
 
   \
 
@@ -201,7 +201,7 @@ intro: >-
 
   \
 
-  La percepción de las organizaciones Teal es que poseen una vida y un sentido de orientación propio. En vez de a predecir y controlar el futuro, los miembros de la organización están invitados a escuchar y entender aquello en lo que la organización desea convertirse, el propósito al que quiere servir. ([ver Propósito evolutivo](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Prop%C3%B3sito_Evolutivo "Propósito Evolutivo")).
+  La percepción de las organizaciones Teal es que poseen una vida y un sentido de orientación propio. En vez de a predecir y controlar el futuro, los miembros de la organización están invitados a escuchar y entender aquello en lo que la organización desea convertirse, el propósito al que quiere servir. ([ver Propósito evolutivo](http://reinventingorganizationswiki.com/sp/index.php?title=Prop%C3%B3sito_Evolutivo "Propósito Evolutivo")).
 
 
   \

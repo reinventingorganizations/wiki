@@ -28,22 +28,22 @@ perspective: >-
 
   **Organizaciones Rojas**\
 
-  En las [organizaciones Rojas](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_paradigma_Rojo_y_las_Organizaciones "El paradigma Rojo y las Organizaciones") la coordinación sucede ad hoc y está intrínsecamente fusionada con el poder: la coordinación generalmente está limitada a la capacidad del jefe para hacerla cumplir.
+  En las [organizaciones Rojas](http://reinventingorganizationswiki.com/sp/index.php?title=El_paradigma_Rojo_y_las_Organizaciones "El paradigma Rojo y las Organizaciones") la coordinación sucede ad hoc y está intrínsecamente fusionada con el poder: la coordinación generalmente está limitada a la capacidad del jefe para hacerla cumplir.
 
 
   **Organizaciones Ámbar**\
 
-  Las [organizaciones Ámbar](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_%C3%81mbar_y_las_Organizaciones "El Paradigma Ámbar y las Organizaciones") se esfuerzan por el orden y la previsibilidad. La coordinación se realiza principalmente a través de procesos formalizados a los que todos se adhieren. La naturaleza estática de las organizaciones Ámbar significa que hay poca necesidad percibida de coordinar las acciones más allá de los procesos ya establecidos.
+  Las [organizaciones Ámbar](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_%C3%81mbar_y_las_Organizaciones "El Paradigma Ámbar y las Organizaciones") se esfuerzan por el orden y la previsibilidad. La coordinación se realiza principalmente a través de procesos formalizados a los que todos se adhieren. La naturaleza estática de las organizaciones Ámbar significa que hay poca necesidad percibida de coordinar las acciones más allá de los procesos ya establecidos.
 
 
   **Organizaciones Naranja**\
 
-  Las [organizaciones naranjas](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Naranja_y_las_Organizaciones "El Paradigma Naranja y las Organizaciones") dependen de la innovación y la optimización continuas para competir. Esto significa más necesidad de coordinación entre unidades. El principal medio de coordinación son las reuniones, una estructura de toma de decisiones jerárquica y la creación de funciones de personal. Las reuniones, en particular, tratan de aprovechar la inteligencia del grupo. Hay reuniones regulares, fijas - a menudo semanales - en todos los niveles de la organización, así como numerosas reuniones de proyectos y reuniones multifuncionales sobre iniciativas específicas.
+  Las [organizaciones naranjas](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_Naranja_y_las_Organizaciones "El Paradigma Naranja y las Organizaciones") dependen de la innovación y la optimización continuas para competir. Esto significa más necesidad de coordinación entre unidades. El principal medio de coordinación son las reuniones, una estructura de toma de decisiones jerárquica y la creación de funciones de personal. Las reuniones, en particular, tratan de aprovechar la inteligencia del grupo. Hay reuniones regulares, fijas - a menudo semanales - en todos los niveles de la organización, así como numerosas reuniones de proyectos y reuniones multifuncionales sobre iniciativas específicas.
 
 
   **Organizaciones Verdes**\
 
-  En las [organizaciones Verdes](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Verde_y_las_Organizaciones "El Paradigma Verde y las Organizaciones"), la coordinación suele consumir mucho tiempo ya que la cultura en estas organizaciones tiende a ser más sensible a los sentimientos de las personas. Se gasta mucho tiempo en plantear puntos de vista potencialmente opuestos al consenso. Este enfoque igualitario puede conducir a reuniones frustrantemente largas y a una falta de toma de decisiones efectiva. Como resultado, los colegas a veces sienten la necesidad de volver a los juegos de poder tras bambalinas para hacer que las cosas se muevan.
+  En las [organizaciones Verdes](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_Verde_y_las_Organizaciones "El Paradigma Verde y las Organizaciones"), la coordinación suele consumir mucho tiempo ya que la cultura en estas organizaciones tiende a ser más sensible a los sentimientos de las personas. Se gasta mucho tiempo en plantear puntos de vista potencialmente opuestos al consenso. Este enfoque igualitario puede conducir a reuniones frustrantemente largas y a una falta de toma de decisiones efectiva. Como resultado, los colegas a veces sienten la necesidad de volver a los juegos de poder tras bambalinas para hacer que las cosas se muevan.
 
 
   <!--EndFragment-->

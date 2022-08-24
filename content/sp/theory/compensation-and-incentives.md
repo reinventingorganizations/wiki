@@ -20,7 +20,7 @@ perspective: >-
   <!--StartFragment-->
 
 
-  En las [organizaciones Teal](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones"), la compensación se determina no sólo de manera diferente, sino que asume una naturaleza y un nivel de importancia fundamentalmente diferentes. Típicamente estas organizaciones exhiben las siguientes características generales con respecto a la compensación:
+  En las [organizaciones Teal](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones"), la compensación se determina no sólo de manera diferente, sino que asume una naturaleza y un nivel de importancia fundamentalmente diferentes. Típicamente estas organizaciones exhiben las siguientes características generales con respecto a la compensación:
 
 
   * La gente establece sus propios salarios, con la guía de sus compañeros.
@@ -38,25 +38,25 @@ perspective: >-
 
   **Organizaciones Rojas**\
 
-  En el [paradigma Rojo](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_paradigma_Rojo_y_las_Organizaciones "El paradigma Rojo y las Organizaciones"), la prerrogativa del jefe es libremente, por capricho, decidir aumentar o reducir la paga. No existen procesos formales para negociar sobre salarios, ni procesos formales de incentivos documentados.\
+  En el [paradigma Rojo](http://reinventingorganizationswiki.com/sp/index.php?title=El_paradigma_Rojo_y_las_Organizaciones "El paradigma Rojo y las Organizaciones"), la prerrogativa del jefe es libremente, por capricho, decidir aumentar o reducir la paga. No existen procesos formales para negociar sobre salarios, ni procesos formales de incentivos documentados.\
 
   \
 
   **Organizaciones Ámbar**\
 
-  En el [paradigma Ámbar](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_%C3%81mbar_y_las_Organizaciones "El Paradigma Ámbar y las Organizaciones"), la compensación es generalmente fijada y determinada por el nivel de una persona en la jerarquía (u otro marcador de estado fijo, como el tipo de título universitario de la persona). No hay negociaciones salariales individuales, no hay incentivos. Es "mismo trabajo, mismo sueldo".\
+  En el [paradigma Ámbar](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_%C3%81mbar_y_las_Organizaciones "El Paradigma Ámbar y las Organizaciones"), la compensación es generalmente fijada y determinada por el nivel de una persona en la jerarquía (u otro marcador de estado fijo, como el tipo de título universitario de la persona). No hay negociaciones salariales individuales, no hay incentivos. Es "mismo trabajo, mismo sueldo".\
 
   \
 
   **Organizaciones Naranja**\
 
-  En el [paradigma Naranja](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Naranja_y_las_Organizaciones "El Paradigma Naranja y las Organizaciones"), hay una negociación individual del salario base, y la gente generalmente cae en bandas salariales. Un jefe tiene cierta libertad para aumentar la paga de alguien dentro de esa banda de sueldos. La organización Naranja cree firmemente en objetivos e incentivos individuales. Si la gente llega a objetivos predeterminados (que idealmente pertenecen a un sistema en cascada de objetivos o presupuesto que se acumula hasta la creación fuerte de valor para los accionistas), recibirán un bono robusto. Se consideran perfectamente aceptables las fuertes diferencias de remuneración entre los asalariados superiores y los inferiores, ya que reflejan los méritos y las contribuciones de las personas.\
+  En el [paradigma Naranja](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_Naranja_y_las_Organizaciones "El Paradigma Naranja y las Organizaciones"), hay una negociación individual del salario base, y la gente generalmente cae en bandas salariales. Un jefe tiene cierta libertad para aumentar la paga de alguien dentro de esa banda de sueldos. La organización Naranja cree firmemente en objetivos e incentivos individuales. Si la gente llega a objetivos predeterminados (que idealmente pertenecen a un sistema en cascada de objetivos o presupuesto que se acumula hasta la creación fuerte de valor para los accionistas), recibirán un bono robusto. Se consideran perfectamente aceptables las fuertes diferencias de remuneración entre los asalariados superiores y los inferiores, ya que reflejan los méritos y las contribuciones de las personas.\
 
   \
 
   **Organizaciones Verdes**\
 
-  El [paradigma Verde](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Verde_y_las_Organizaciones "El Paradigma Verde y las Organizaciones") cree tanto en la cooperación como en la competencia; Los incentivos individuales comienzan a dar paso a los bonos de equipo. Se hacen intentos para reducir la diferencia entre los salarios más altos y más bajos en el lugar de trabajo, por ejemplo, a través de un múltiplo máximo entre el salario del CEO y el salario medio (o más bajo) de la organización.
+  El [paradigma Verde](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_Verde_y_las_Organizaciones "El Paradigma Verde y las Organizaciones") cree tanto en la cooperación como en la competencia; Los incentivos individuales comienzan a dar paso a los bonos de equipo. Se hacen intentos para reducir la diferencia entre los salarios más altos y más bajos en el lugar de trabajo, por ejemplo, a través de un múltiplo máximo entre el salario del CEO y el salario medio (o más bajo) de la organización.
 
 
   <!--EndFragment-->
@@ -88,7 +88,7 @@ inPractice: >-
 
   **Uso de incentivos**\
 
-  En el paradigma Teal, las personas valoran intrínsecamente a los motivadores extrínsecos. Una vez que la gente gana el dinero suficiente para cubrir sus necesidades básicas, lo que más importa es que el trabajo sea significativo y que puedan expresar sus talentos y vocaciones en el trabajo. En el libro Drive, Daniel Pink concluye de una gran cantidad de investigación sobre el tema de que en la compleja configuración de trabajo actual, los incentivos son en su mayoría contraproducentes, reduciendo en lugar de mejorar el rendimiento de las personas. La consecuencia es que las organizaciones Teal generalmente operan sin incentivos financieros explícitos a nivel individual y de equipo. Nadie, ni siquiera las personas de ventas, tiene objetivos o incentivos y rara vez hay bonos individuales o opciones sobre acciones. En cambio, al final de los años muy provechosos, parte de la ganancia será compartida con todos los empleados (en algunos casos todos reciben el mismo porcentaje fijo del salario base, en otros todos reciben la misma cantidad fija). Véase también [Propiedad](http://www.reinventarlasorganizacioneswiki.com/index.php?title=La_Propiedad "La Propiedad").
+  En el paradigma Teal, las personas valoran intrínsecamente a los motivadores extrínsecos. Una vez que la gente gana el dinero suficiente para cubrir sus necesidades básicas, lo que más importa es que el trabajo sea significativo y que puedan expresar sus talentos y vocaciones en el trabajo. En el libro Drive, Daniel Pink concluye de una gran cantidad de investigación sobre el tema de que en la compleja configuración de trabajo actual, los incentivos son en su mayoría contraproducentes, reduciendo en lugar de mejorar el rendimiento de las personas. La consecuencia es que las organizaciones Teal generalmente operan sin incentivos financieros explícitos a nivel individual y de equipo. Nadie, ni siquiera las personas de ventas, tiene objetivos o incentivos y rara vez hay bonos individuales o opciones sobre acciones. En cambio, al final de los años muy provechosos, parte de la ganancia será compartida con todos los empleados (en algunos casos todos reciben el mismo porcentaje fijo del salario base, en otros todos reciben la misma cantidad fija). Véase también [Propiedad](http://reinventingorganizationswiki.com/sp/index.php?title=La_Propiedad "La Propiedad").
 
 
   **Desigualdad en la compensación**\
@@ -129,7 +129,7 @@ faq:
       <!--StartFragment-->
 
 
-      Existen varios ejemplos documentados de organizaciones autogestionadas en las que los colegas han decidido voluntariamente reducir temporalmente sus salarios para hacer frente a un descenso, para evitar tener que despedir personal. En las organizaciones autogestionadas, toda la información [tiende a ser pública](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Flujo_de_la_Informaci%C3%B3n "Flujo de la Información") y generalmente hay un alto nivel de madurez y alfabetización cuando se trata de asuntos financieros. En una organización tradicional, cuando los ingresos son bajos y la organización se enfrenta a grandes pérdidas, los planes a menudo se hacen secretamente dentro de HR para los despidos. En las organizaciones autogestionadas, todos ven la tormenta. Alguien, en algún momento, llama a todos (o en una gran organización, puede invitar a una sección transversal de la organización) a una reunión para decir: ¿qué hacemos? Del grupo surgen soluciones que, en muchos casos, simplemente se reducen a que todos acuerden una reducción temporal de salarios (con los salarios más altos, a menudo, con un recorte de porcentaje más alto).\
+      Existen varios ejemplos documentados de organizaciones autogestionadas en las que los colegas han decidido voluntariamente reducir temporalmente sus salarios para hacer frente a un descenso, para evitar tener que despedir personal. En las organizaciones autogestionadas, toda la información [tiende a ser pública](http://reinventingorganizationswiki.com/sp/index.php?title=Flujo_de_la_Informaci%C3%B3n "Flujo de la Información") y generalmente hay un alto nivel de madurez y alfabetización cuando se trata de asuntos financieros. En una organización tradicional, cuando los ingresos son bajos y la organización se enfrenta a grandes pérdidas, los planes a menudo se hacen secretamente dentro de HR para los despidos. En las organizaciones autogestionadas, todos ven la tormenta. Alguien, en algún momento, llama a todos (o en una gran organización, puede invitar a una sección transversal de la organización) a una reunión para decir: ¿qué hacemos? Del grupo surgen soluciones que, en muchos casos, simplemente se reducen a que todos acuerden una reducción temporal de salarios (con los salarios más altos, a menudo, con un recorte de porcentaje más alto).\
 
       Semco, la firma brasileña que hizo famoso el best-seller de Ricardo Semler, *Maverick*, ha puesto en marcha un "programa de riesgo voluntario" para institucionalizar tales reducciones salariales para proteger la organización en tiempos de crisis (a los que Brasil ha estado expuesto en las últimas décadas). A los empleados se les ofrece la opción de un programa de salario de riesgo. Toman un recorte salarial del 25 por ciento y luego reciben un suplemento elevando su compensación al 125 por ciento si la compañía tiene un buen año. Si la empresa hace mal, sólo reciben el 75 por ciento de su salario. Como los buenos años superan a los malos, el acuerdo es favorable para los empleados dispuestos a asumir un riesgo.
 

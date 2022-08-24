@@ -47,7 +47,7 @@ inPractice: >-
 
   **Actividad impulsada por el propósito**\
 
-  En Teal, existe un equipo de proyecto o grupo de trabajo siempre y cuando apoye una parte específica del [propósito evolutivo](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Prop%C3%B3sito_Evolutivo "Propósito Evolutivo") de la organización. Según lo tenga o no, se marchita y muere, o se transforma en algo nuevo. Los miembros del equipo priorizan su participación dependiendo de lo que consideren más importante, más urgente o más divertido de hacer. Si el creador de un proyecto no puede motivar a la gente a contribuir, debe preguntarse: ¿Está mi proyecto alineado con el propósito de la organización? ¿Otro proyecto atrae a las personas que necesito? Si es así, ¿cómo pueden nuestros dos proyectos apoyarse mutuamente?
+  En Teal, existe un equipo de proyecto o grupo de trabajo siempre y cuando apoye una parte específica del [propósito evolutivo](http://reinventingorganizationswiki.com/sp/index.php?title=Prop%C3%B3sito_Evolutivo "Propósito Evolutivo") de la organización. Según lo tenga o no, se marchita y muere, o se transforma en algo nuevo. Los miembros del equipo priorizan su participación dependiendo de lo que consideren más importante, más urgente o más divertido de hacer. Si el creador de un proyecto no puede motivar a la gente a contribuir, debe preguntarse: ¿Está mi proyecto alineado con el propósito de la organización? ¿Otro proyecto atrae a las personas que necesito? Si es así, ¿cómo pueden nuestros dos proyectos apoyarse mutuamente?
 
 
   **Gestión de proyectos radicalmente simplificada**\
@@ -65,7 +65,7 @@ inPractice: >-
 
   Grupos de tarea en lugar de departamentos de staff formales\
 
-  En las compañías Teal, los grupos de trabajo voluntarios suelen usarse para realizar tareas típicamente llevadas a cabo por departamentos de staff tradicionales. Esto tiene múltiples beneficios: Los empleados pueden encontrar maneras de expresar talentos y dones que su rol principal podría no requerir. Pueden desarrollar áreas de experticia que luego pueden compartir con otros en la organización. Los grupos de trabajo también son formidables oportunidades de aprendizaje; Las personas recogen habilidades técnicas y de liderazgo de colegas más experimentados en una forma moderna de aprendizaje. \[3] Ver también [Funciones Staff](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Funciones_Staff "Funciones Staff")
+  En las compañías Teal, los grupos de trabajo voluntarios suelen usarse para realizar tareas típicamente llevadas a cabo por departamentos de staff tradicionales. Esto tiene múltiples beneficios: Los empleados pueden encontrar maneras de expresar talentos y dones que su rol principal podría no requerir. Pueden desarrollar áreas de experticia que luego pueden compartir con otros en la organización. Los grupos de trabajo también son formidables oportunidades de aprendizaje; Las personas recogen habilidades técnicas y de liderazgo de colegas más experimentados en una forma moderna de aprendizaje. \[3] Ver también [Funciones Staff](http://reinventingorganizationswiki.com/sp/index.php?title=Funciones_Staff "Funciones Staff")
 
 
   <!--EndFragment-->

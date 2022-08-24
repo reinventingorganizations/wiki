@@ -23,7 +23,7 @@ perspective: >-
   *Una de las sombras del Naranja es "la innovación se volvió loca". Una vez cubierta la mayor parte de nuestras necesidades básicas, las empresas intentan progresivamente crear necesidades, y alimentan la ilusión de que acceder a más cosas que no necesitamos (bienes, la última moda, un cuerpo más joven) nos hará felices y satisfechos. Cada vez resulta más evidente que gran parte de esta economía basada en necesidades fabricadas es Insostenible desde un punto de vista financiero y ecológico. Hemos llegado a un punto en el que buscamos el crecimiento por el crecimiento, lo que en terminología médica se llamaría lisa y llanamente cáncer.*(1)
 
 
-  Para las [organizaciones Teal](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones"), el ímpetu para la innovación se deriva del [propósito evolutivo](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Prop%C3%B3sito_Evolutivo "Propósito Evolutivo") de una organización. El concepto de innovación se expande más allá del beneficio para la organización y no se aborda a través de los lentes tradicionales de la ganancia y la competencia. Para evaluar si una innovación vale la pena, Teal utiliza una amplia gama de pruebas de belleza, creatividad y, en última instancia, el servir al propósito de la organización y por lo tanto a la sociedad.
+  Para las [organizaciones Teal](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones"), el ímpetu para la innovación se deriva del [propósito evolutivo](http://reinventingorganizationswiki.com/sp/index.php?title=Prop%C3%B3sito_Evolutivo "Propósito Evolutivo") de una organización. El concepto de innovación se expande más allá del beneficio para la organización y no se aborda a través de los lentes tradicionales de la ganancia y la competencia. Para evaluar si una innovación vale la pena, Teal utiliza una amplia gama de pruebas de belleza, creatividad y, en última instancia, el servir al propósito de la organización y por lo tanto a la sociedad.
 
 
   \
@@ -34,7 +34,7 @@ perspective: >-
 
   **Organizaciones Rojas**\
 
-  Las [organizaciones Rojas](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_paradigma_Rojo_y_las_Organizaciones "El paradigma Rojo y las Organizaciones") son oportunistas y adaptativas en respuesta a sus circunstancias, pero sin estar organizadas específicamente para la innovación.
+  Las [organizaciones Rojas](http://reinventingorganizationswiki.com/sp/index.php?title=El_paradigma_Rojo_y_las_Organizaciones "El paradigma Rojo y las Organizaciones") son oportunistas y adaptativas en respuesta a sus circunstancias, pero sin estar organizadas específicamente para la innovación.
 
 
   **Organizaciones Ámbar**\
@@ -46,7 +46,7 @@ perspective: >-
 
   **Organizaciones Naranja**\
 
-  Con el[paradigma Naranja,](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Naranja_y_las_Organizaciones "El Paradigma Naranja y las Organizaciones") la innovación es vista por primera vez como un componente organizativo de primera clase. El paradigma Naranja es capaz de enfrentar y eliminar las malas prácticas que forman parte de las maneras convencionales de realizar un trabajo. El Naranja entiende la innovación como un proceso en gran parte de la izquierda del cerebro y da poder a los que son respetados innovadores. "Si podemos medir que algo nuevo funciona y es objetivamente mejor que lo que existía anteriormente, entonces es innovador".
+  Con el[paradigma Naranja,](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_Naranja_y_las_Organizaciones "El Paradigma Naranja y las Organizaciones") la innovación es vista por primera vez como un componente organizativo de primera clase. El paradigma Naranja es capaz de enfrentar y eliminar las malas prácticas que forman parte de las maneras convencionales de realizar un trabajo. El Naranja entiende la innovación como un proceso en gran parte de la izquierda del cerebro y da poder a los que son respetados innovadores. "Si podemos medir que algo nuevo funciona y es objetivamente mejor que lo que existía anteriormente, entonces es innovador".
 
 
   El Naranja abraza la innovación para mantenerse por delante de la competencia. Al hacerlo, las organizaciones Naranja generalmente emplean un mecanismo de control con medidas cuantificables que las innovaciones deben pasar para obtener la aprobación jerarquía y seguir adelante.
@@ -54,7 +54,7 @@ perspective: >-
 
   **Organizaciones Verdes**\
 
-  Las [organizaciones Verdes](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Verde_y_las_Organizaciones "El Paradigma Verde y las Organizaciones") están basadas en valores. Su manera de ver la innovación esta coloreada por los valores. Se trata, sobretodo, de servir a un gran propósito y no sólo de ganar dinero. No es raro que el desarrollo de productos verdes también sea impulsado por un deseo genuino de hacer un mundo mejor más allá de alcanzar su cuota de mercado. Las preocupaciones pluralistas como el impacto ambiental o las condiciones de trabajo equitativas y de no explotación suelen ser factores desencadenantes importantes de la innovación en Verde. A diferencia del Naranja, el Verde es más abierto al exterior cuando se toman decisiones de productos y puede co-crear productos con los clientes teniendo en consideración a todos los interesados. Mientras Naranja busca controlar la innovación a través de procesos de aprobación jerárquicos, el Verde pone su confianza en sus trabajadores de primera línea. Los equipos empoderados toman más decisiones en materia de innovación siempre centrada en el cliente. Aunque la organización Verde es más horizontal, la pirámide todavía existe, haciendo que las grandes las innovaciones o mejorar que afectan a distintas áreas todavía tengan que ser confirmadas por la Alta Gerencia.
+  Las [organizaciones Verdes](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_Verde_y_las_Organizaciones "El Paradigma Verde y las Organizaciones") están basadas en valores. Su manera de ver la innovación esta coloreada por los valores. Se trata, sobretodo, de servir a un gran propósito y no sólo de ganar dinero. No es raro que el desarrollo de productos verdes también sea impulsado por un deseo genuino de hacer un mundo mejor más allá de alcanzar su cuota de mercado. Las preocupaciones pluralistas como el impacto ambiental o las condiciones de trabajo equitativas y de no explotación suelen ser factores desencadenantes importantes de la innovación en Verde. A diferencia del Naranja, el Verde es más abierto al exterior cuando se toman decisiones de productos y puede co-crear productos con los clientes teniendo en consideración a todos los interesados. Mientras Naranja busca controlar la innovación a través de procesos de aprobación jerárquicos, el Verde pone su confianza en sus trabajadores de primera línea. Los equipos empoderados toman más decisiones en materia de innovación siempre centrada en el cliente. Aunque la organización Verde es más horizontal, la pirámide todavía existe, haciendo que las grandes las innovaciones o mejorar que afectan a distintas áreas todavía tengan que ser confirmadas por la Alta Gerencia.
 
 
   <!--EndFragment-->
@@ -119,19 +119,19 @@ faq:
 
       **Autogestión**\
 
-      La [autogestión](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Autogesti%C3%B3n "Autogestión") permite a cualquier persona innovar y desarrollar mejoras en productos y servicios con el menor retraso posible. La comprensión empática que el personal de primera línea tiene hacia sus clientes se puede utilizar para actuar sobre las necesidades observadas.\
+      La [autogestión](http://reinventingorganizationswiki.com/sp/index.php?title=Autogesti%C3%B3n "Autogestión") permite a cualquier persona innovar y desarrollar mejoras en productos y servicios con el menor retraso posible. La comprensión empática que el personal de primera línea tiene hacia sus clientes se puede utilizar para actuar sobre las necesidades observadas.\
 
       \
 
       **Plenitud**\
 
-      La [plenitud](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Plenitud "Plenitud") se integra en el proceso de diseño y desarrollo de productos, a través de un enfoque de “cerebro entero”. La innovación en las organizaciones Teal se diseña tomando en cuenta aspectos como la belleza y el verdadero beneficio. La innovación se basa en la auto confianza en donde todos los aspectos de la plenitud (Wholeness) se consideran como criterios para el diseño y la definición de éxito de los productos y servicios.\
+      La [plenitud](http://reinventingorganizationswiki.com/sp/index.php?title=Plenitud "Plenitud") se integra en el proceso de diseño y desarrollo de productos, a través de un enfoque de “cerebro entero”. La innovación en las organizaciones Teal se diseña tomando en cuenta aspectos como la belleza y el verdadero beneficio. La innovación se basa en la auto confianza en donde todos los aspectos de la plenitud (Wholeness) se consideran como criterios para el diseño y la definición de éxito de los productos y servicios.\
 
       \
 
       **Propósito evolutivo**\
 
-      Las organizaciones Teal los productos son seleccionados primero y sobretodo en base a su afinidad/encaje con el [propósito evolutivo](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Prop%C3%B3sito_Evolutivo "Propósito Evolutivo") de la organización, aún más, la innovación juega un papel fundamental en la evolución de dicho proposito.
+      Las organizaciones Teal los productos son seleccionados primero y sobretodo en base a su afinidad/encaje con el [propósito evolutivo](http://reinventingorganizationswiki.com/sp/index.php?title=Prop%C3%B3sito_Evolutivo "Propósito Evolutivo") de la organización, aún más, la innovación juega un papel fundamental en la evolución de dicho proposito.
 
 
       <!--EndFragment-->

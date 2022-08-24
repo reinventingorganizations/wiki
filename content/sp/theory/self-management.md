@@ -44,7 +44,7 @@ inPractice: >-
 
   \
 
-  La estructura más común de las organizaciones Teal son redes interdependientes de equipos pequeños y autónomos. La naturaleza de estas redes tendrá una variedad de formas, dependiendo de las características de su industria y el medio ambiente, pero todos consisten principalmente en equipos, por lo general 10-20 personas, que se auto-organizan y no están bajo la autoridad de nadie fuera del equipo . Ningún jefe ni organigrama No hay jerarquías fijas de autoridad en las organizaciones Teal. No hay jefes dentro o fuera de los equipos. La primacía de la relación jefe-subordinado se sustituye por los compromisos mutuos hechos con los pares. Cualquier persona que tenga la experiencia, el interés o la voluntad de intervenir y contribuir a una situación tiene el poder y el derecho a decidir. Las jerarquías fluidas y naturales reemplazan a las jerarquías de poder fijas de la pirámide tradicional, dejando a la organización sin un organigrama. Véase también [Estructura organizativa](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Estructura_Organizativa "Estructura Organizativa").\
+  La estructura más común de las organizaciones Teal son redes interdependientes de equipos pequeños y autónomos. La naturaleza de estas redes tendrá una variedad de formas, dependiendo de las características de su industria y el medio ambiente, pero todos consisten principalmente en equipos, por lo general 10-20 personas, que se auto-organizan y no están bajo la autoridad de nadie fuera del equipo . Ningún jefe ni organigrama No hay jerarquías fijas de autoridad en las organizaciones Teal. No hay jefes dentro o fuera de los equipos. La primacía de la relación jefe-subordinado se sustituye por los compromisos mutuos hechos con los pares. Cualquier persona que tenga la experiencia, el interés o la voluntad de intervenir y contribuir a una situación tiene el poder y el derecho a decidir. Las jerarquías fluidas y naturales reemplazan a las jerarquías de poder fijas de la pirámide tradicional, dejando a la organización sin un organigrama. Véase también [Estructura organizativa](http://reinventingorganizationswiki.com/sp/index.php?title=Estructura_Organizativa "Estructura Organizativa").\
 
   \
 
@@ -52,7 +52,7 @@ inPractice: >-
 
   \
 
-  Normalmente no hay descripciones de puestos o títulos de trabajo en las organizaciones Teal. Más bien cada individuo tiene una serie de funciones que él / ella ha aceptado y se ha comprometido a cumplir. Cuando alguien percibe un problema o una oportunidad que pide un nuevo papel, alguien simplemente avanza y se ofrece a asumir ese papel. Véase también [Títulos de trabajo y descripciones de trabajo](http://www.reinventarlasorganizacioneswiki.com/index.php?title=T%C3%ADtulos_de_trabajo_y_Descripciones_de_Puesto "Títulos de trabajo y Descripciones de Puesto") y [Definición y Asignación de funciones](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Definici%C3%B3n_y_Asignaci%C3%B3n_de_funciones "Definición y Asignación de funciones").\
+  Normalmente no hay descripciones de puestos o títulos de trabajo en las organizaciones Teal. Más bien cada individuo tiene una serie de funciones que él / ella ha aceptado y se ha comprometido a cumplir. Cuando alguien percibe un problema o una oportunidad que pide un nuevo papel, alguien simplemente avanza y se ofrece a asumir ese papel. Véase también [Títulos de trabajo y descripciones de trabajo](http://reinventingorganizationswiki.com/sp/index.php?title=T%C3%ADtulos_de_trabajo_y_Descripciones_de_Puesto "Títulos de trabajo y Descripciones de Puesto") y [Definición y Asignación de funciones](http://reinventingorganizationswiki.com/sp/index.php?title=Definici%C3%B3n_y_Asignaci%C3%B3n_de_funciones "Definición y Asignación de funciones").\
 
   \
 
@@ -60,7 +60,7 @@ inPractice: >-
 
   \
 
-  La toma de decisiones está altamente distribuida. Las decisiones no necesitan ser validadas por la jerarquía ni por consenso de la comunidad. Cualquier persona puede tomar cualquier decisión después de buscar consejo de 1) todos los que serán afectados significativamente, y 2) personas con experiencia en el asunto. Ver también [Toma de decisiones.](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Toma_de_Decisiones "Toma de Decisiones")\
+  La toma de decisiones está altamente distribuida. Las decisiones no necesitan ser validadas por la jerarquía ni por consenso de la comunidad. Cualquier persona puede tomar cualquier decisión después de buscar consejo de 1) todos los que serán afectados significativamente, y 2) personas con experiencia en el asunto. Ver también [Toma de decisiones.](http://reinventingorganizationswiki.com/sp/index.php?title=Toma_de_Decisiones "Toma de Decisiones")\
 
   \
 
@@ -68,7 +68,7 @@ inPractice: >-
 
   \
 
-  Todo el mundo tiene acceso a toda la información al mismo tiempo. Véase también [Flujo de información.](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Flujo_de_la_Informaci%C3%B3n "Flujo de la Información")\
+  Todo el mundo tiene acceso a toda la información al mismo tiempo. Véase también [Flujo de información.](http://reinventingorganizationswiki.com/sp/index.php?title=Flujo_de_la_Informaci%C3%B3n "Flujo de la Información")\
 
   \
 
@@ -76,7 +76,7 @@ inPractice: >-
 
   \
 
-  Los desacuerdos se resuelven entre pares usando un proceso de resolución de conflictos bien definido. Los pares se responsabilizan mutuamente de sus compromisos mutuos. Véase también [Resolución de Conflictos.](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Resoluci%C3%B3n_de_Conflictos "Resolución de Conflictos")
+  Los desacuerdos se resuelven entre pares usando un proceso de resolución de conflictos bien definido. Los pares se responsabilizan mutuamente de sus compromisos mutuos. Véase también [Resolución de Conflictos.](http://reinventingorganizationswiki.com/sp/index.php?title=Resoluci%C3%B3n_de_Conflictos "Resolución de Conflictos")
 
 
   <!--EndFragment-->

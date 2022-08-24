@@ -17,7 +17,7 @@ perspective: >-
   <!--StartFragment-->
 
 
-  Las organizaciones Teal son autogestionadas y pueden proporcionar oportunidades de aprendizaje excepcionales. Se anima a todos a desarrollar sus roles y, cuanto más abrazan las oportunidades, más aprenden. La diferencia clave es que las personas asumen la responsabilidad de su propio desarrollo. No hay departamento de RR.HH. que ejecute cursos de capacitación para llenar roles en la organización. Sin embargo, es común que las [organizaciones Teal ](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones")ofrezcan un entrenamiento significativo en la [incorporación](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Incorporaci%C3%B3n "Incorporación") de los colaboradores a la organización.\
+  Las organizaciones Teal son autogestionadas y pueden proporcionar oportunidades de aprendizaje excepcionales. Se anima a todos a desarrollar sus roles y, cuanto más abrazan las oportunidades, más aprenden. La diferencia clave es que las personas asumen la responsabilidad de su propio desarrollo. No hay departamento de RR.HH. que ejecute cursos de capacitación para llenar roles en la organización. Sin embargo, es común que las [organizaciones Teal ](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones")ofrezcan un entrenamiento significativo en la [incorporación](http://reinventingorganizationswiki.com/sp/index.php?title=Incorporaci%C3%B3n "Incorporación") de los colaboradores a la organización.\
 
   Cada etapa histórica ha traído un acercamiento distintivo al entrenamiento y al entrenamiento.\
 
@@ -25,19 +25,19 @@ perspective: >-
 
   **Organizaciones Rojas**\
 
-  En las [organizaciones Rojas](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_paradigma_Rojo_y_las_Organizaciones "El paradigma Rojo y las Organizaciones") es importante aprender sobre el poder: cómo se adquiere y cómo se usa. Este aprendizaje viene observando y escuchando. Puede haber ritos de "iniciación". Puede haber entrenamiento en las herramientas del comercio. Más allá de eso, la mayor parte del conocimiento se adquiere observando y escuchando a medida que uno obtiene más y más antigüedad, como un aprendizaje informal.\
+  En las [organizaciones Rojas](http://reinventingorganizationswiki.com/sp/index.php?title=El_paradigma_Rojo_y_las_Organizaciones "El paradigma Rojo y las Organizaciones") es importante aprender sobre el poder: cómo se adquiere y cómo se usa. Este aprendizaje viene observando y escuchando. Puede haber ritos de "iniciación". Puede haber entrenamiento en las herramientas del comercio. Más allá de eso, la mayor parte del conocimiento se adquiere observando y escuchando a medida que uno obtiene más y más antigüedad, como un aprendizaje informal.\
 
   \
 
   **Organizaciones Ámbar**\
 
-  En el [paradigma Ámbar](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_%C3%81mbar_y_las_Organizaciones "El Paradigma Ámbar y las Organizaciones"), las funciones son claramente divididas y específicas. Se imparte capacitación para que los funcionarios de cada nivel de la organización puedan cumplir eficazmente sus funciones y responsabilidades (por ejemplo, formación de oficiales en el ejército). Para algunos, la formación profesional es ofrecida por instituciones independientes (escuelas profesionales o universidades). La calificación puede ser específica para una profesión en particular. La formación continua a menudo se lleva a cabo en el trabajo, permitiendo que el mejor en cada nivel de ser considerado para la promoción.\
+  En el [paradigma Ámbar](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_%C3%81mbar_y_las_Organizaciones "El Paradigma Ámbar y las Organizaciones"), las funciones son claramente divididas y específicas. Se imparte capacitación para que los funcionarios de cada nivel de la organización puedan cumplir eficazmente sus funciones y responsabilidades (por ejemplo, formación de oficiales en el ejército). Para algunos, la formación profesional es ofrecida por instituciones independientes (escuelas profesionales o universidades). La calificación puede ser específica para una profesión en particular. La formación continua a menudo se lleva a cabo en el trabajo, permitiendo que el mejor en cada nivel de ser considerado para la promoción.\
 
   \
 
   **Organizaciones Naranja**\
 
-  Las [organizaciones Naranja](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Naranja_y_las_Organizaciones "El Paradigma Naranja y las Organizaciones") han adoptado la premisa revolucionaria de la meritocracia. En principio, cualquiera puede subir la escalera. El chico de la sala de correo puede convertirse en el CEO - incluso si es una mujer y no un chico o si pertenece a una minoría. Este progreso es apoyado por un Departamento de Capacitación, a menudo una sub-sección de Recursos Humanos. No es inusual tener listas de competencias requeridas para cada rol en la organización (vendedores, técnicos, nuevos gerentes, gerentes emergentes, gerentes senior, etc.). El pensamiento omnipresente es que el talento debe ser desarrollado para llenar las cajas presente y futuro en el organigrama. Este avance en la imparcialidad social da a las personas las opciones, al menos en principio, de perseguir el camino que mejor se adapte a sus talentos.\
+  Las [organizaciones Naranja](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_Naranja_y_las_Organizaciones "El Paradigma Naranja y las Organizaciones") han adoptado la premisa revolucionaria de la meritocracia. En principio, cualquiera puede subir la escalera. El chico de la sala de correo puede convertirse en el CEO - incluso si es una mujer y no un chico o si pertenece a una minoría. Este progreso es apoyado por un Departamento de Capacitación, a menudo una sub-sección de Recursos Humanos. No es inusual tener listas de competencias requeridas para cada rol en la organización (vendedores, técnicos, nuevos gerentes, gerentes emergentes, gerentes senior, etc.). El pensamiento omnipresente es que el talento debe ser desarrollado para llenar las cajas presente y futuro en el organigrama. Este avance en la imparcialidad social da a las personas las opciones, al menos en principio, de perseguir el camino que mejor se adapte a sus talentos.\
 
   \
 
@@ -47,7 +47,7 @@ perspective: >-
 
   **Organizaciones Verdes**\
 
-  Las [organizaciones Verdes ](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Verde_y_las_Organizaciones "El Paradigma Verde y las Organizaciones")se basan en las prácticas de las organizaciones Naranja añadiendo un giro al desarrollo de la gestión. Se espera que los gerentes estén al servicio de aquellos a quienes dirigen, apoyan y sirven. Los candidatos a puestos directivos suelen ser examinados para determinar la mentalidad y el comportamiento para evaluar:
+  Las [organizaciones Verdes ](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_Verde_y_las_Organizaciones "El Paradigma Verde y las Organizaciones")se basan en las prácticas de las organizaciones Naranja añadiendo un giro al desarrollo de la gestión. Se espera que los gerentes estén al servicio de aquellos a quienes dirigen, apoyan y sirven. Los candidatos a puestos directivos suelen ser examinados para determinar la mentalidad y el comportamiento para evaluar:
 
 
   * Si ¿están dispuestos a compartir el poder?
@@ -65,7 +65,7 @@ perspective: >-
 
   **Organizaciones Teal**\
 
-  Las [organizaciones Teal ](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones")no tienen una función de recursos humanos. Sin embargo, debido a que son autogestionados, pueden proporcionar oportunidades de aprendizaje excepcionales. Se anima a todos a desarrollar sus roles y probar cosas nuevas. Cuanto más abrazan las oportunidades, más aprenden - ya sea de sus colegas o de la formación adoptada para desarrollar nuevas habilidades. La diferencia clave es que las personas asumen la responsabilidad de su propio desarrollo. No hay departamento de RR.HH. que ejecute cursos de capacitación para llenar roles en la organización. Las organizaciones Teal aún invierten en capacitación de habilidades. Pero esto es a menudo entregado por colegas. Es común que las organizaciones Teal ofrezcan una capacitación significativa en el embarque. Es difícil transferir de una organización tradicional sin aprender las nuevas reglas, y desaprender las viejas.
+  Las [organizaciones Teal ](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones")no tienen una función de recursos humanos. Sin embargo, debido a que son autogestionados, pueden proporcionar oportunidades de aprendizaje excepcionales. Se anima a todos a desarrollar sus roles y probar cosas nuevas. Cuanto más abrazan las oportunidades, más aprenden - ya sea de sus colegas o de la formación adoptada para desarrollar nuevas habilidades. La diferencia clave es que las personas asumen la responsabilidad de su propio desarrollo. No hay departamento de RR.HH. que ejecute cursos de capacitación para llenar roles en la organización. Las organizaciones Teal aún invierten en capacitación de habilidades. Pero esto es a menudo entregado por colegas. Es común que las organizaciones Teal ofrezcan una capacitación significativa en el embarque. Es difícil transferir de una organización tradicional sin aprender las nuevas reglas, y desaprender las viejas.
 
 
   <!--EndFragment-->

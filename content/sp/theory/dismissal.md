@@ -32,13 +32,13 @@ perspective: >-
 
   **Organizaciones Rojas**\
 
-  En el [paradigma Rojo](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_paradigma_Rojo_y_las_Organizaciones "El paradigma Rojo y las Organizaciones"), corresponde al jefe / líder decidir quién disparar o mantener. Los procesos formales no son necesarios. Las salidas voluntarias pueden ser vistas como traición.\
+  En el [paradigma Rojo](http://reinventingorganizationswiki.com/sp/index.php?title=El_paradigma_Rojo_y_las_Organizaciones "El paradigma Rojo y las Organizaciones"), corresponde al jefe / líder decidir quién disparar o mantener. Los procesos formales no son necesarios. Las salidas voluntarias pueden ser vistas como traición.\
 
   \
 
   **Organizaciones Ámbar**\
 
-  En las [organizaciones Ámbar,](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_%C3%81mbar_y_las_Organizaciones "El Paradigma Ámbar y las Organizaciones") los despidos siguen a menudo un lapso de la disciplina, o una violación de las reglas. Las consecuencias pueden estar bien definidas. Por ejemplo, una primera ofensa (tal vez llegar tarde) podría significar suspensión por un día. Un delito repetido puede resultar en un despido.\
+  En las [organizaciones Ámbar,](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_%C3%81mbar_y_las_Organizaciones "El Paradigma Ámbar y las Organizaciones") los despidos siguen a menudo un lapso de la disciplina, o una violación de las reglas. Las consecuencias pueden estar bien definidas. Por ejemplo, una primera ofensa (tal vez llegar tarde) podría significar suspensión por un día. Un delito repetido puede resultar en un despido.\
 
   En las versiones actuales de Ámbar - algunas agencias gubernamentales, organizaciones religiosas, escuelas públicas, militares, etc. - el empleo extendido (incluso de por vida) es la norma. Estas relaciones largas pueden extenderse a los círculos sociales. La posibilidad de despido lleva consigo la amenaza, no sólo de la pérdida de un empleo, sino también del tejido social asociado. Aquellos que se sienten insatisfechos en una organización Ámbar se enfrentan a una dolorosa elección.\
 
@@ -46,7 +46,7 @@ perspective: >-
 
   **Organizaciones Naranja**\
 
-  Las [organizaciones Naranja](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Naranja_y_las_Organizaciones "El Paradigma Naranja y las Organizaciones") tienen una amplia gama de prácticas para los despidos. Autoridad comúnmente miente con el jefe (tal vez después de la aprobación o consejería de recursos humanos). Las causas suelen ser el rendimiento o la organización de reducción de costos / redirección estratégica. Rara vez hay una comprensión implícita o contractual de que el empleo está garantizado.\
+  Las [organizaciones Naranja](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_Naranja_y_las_Organizaciones "El Paradigma Naranja y las Organizaciones") tienen una amplia gama de prácticas para los despidos. Autoridad comúnmente miente con el jefe (tal vez después de la aprobación o consejería de recursos humanos). Las causas suelen ser el rendimiento o la organización de reducción de costos / redirección estratégica. Rara vez hay una comprensión implícita o contractual de que el empleo está garantizado.\
 
   Es común tener sistemas elaborados de gestión del rendimiento. A continuación, el despido puede seguir cuando los intentos de elevar el rendimiento por debajo del par han fracasado.\
 
@@ -56,7 +56,7 @@ perspective: >-
 
   **Organizaciones Verdes**\
 
-  Las [organizaciones Verdes ](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Verde_y_las_Organizaciones "El Paradigma Verde y las Organizaciones")tienen una alta tolerancia para las diferencias individuales y son más probables buscar una alternativa a dejar ir a la gente. Las personas que no se ajustan a las reglas y valores de la comunidad pueden sentirse marginadas y dejarlas como resultado. De lo contrario, las prácticas de despido son similares al paradigma Naranja.
+  Las [organizaciones Verdes ](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_Verde_y_las_Organizaciones "El Paradigma Verde y las Organizaciones")tienen una alta tolerancia para las diferencias individuales y son más probables buscar una alternativa a dejar ir a la gente. Las personas que no se ajustan a las reglas y valores de la comunidad pueden sentirse marginadas y dejarlas como resultado. De lo contrario, las prácticas de despido son similares al paradigma Naranja.
 
 
   <!--EndFragment-->
@@ -112,7 +112,7 @@ faq:
 
       **Autogestión**\
 
-      En las [organizaciones Teal](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones"), la decisión sobre si una persona permanecerá con la organización corresponde a esa persona y / o su equipo. Los despidos forzosos son infrecuentes porque a las personas se les dan indicaciones claras y si no embonan pueden optar por abandonar voluntariamente. En muchos casos, una separación de los caminos sucede por consentimiento mutuo en el proceso de resolución de conflictos autogestionados. Sólo cuando todo lo demás falla, los fundadores de la organización despiden a la gente, pero esto también es iniciado por el equipo o un panel de mediación de conflictos.\
+      En las [organizaciones Teal](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones"), la decisión sobre si una persona permanecerá con la organización corresponde a esa persona y / o su equipo. Los despidos forzosos son infrecuentes porque a las personas se les dan indicaciones claras y si no embonan pueden optar por abandonar voluntariamente. En muchos casos, una separación de los caminos sucede por consentimiento mutuo en el proceso de resolución de conflictos autogestionados. Sólo cuando todo lo demás falla, los fundadores de la organización despiden a la gente, pero esto también es iniciado por el equipo o un panel de mediación de conflictos.\
 
       \
 
@@ -124,7 +124,7 @@ faq:
 
       **Propósito evolutivo**\
 
-      Dar a la gente la oportunidad y alentarlos a encontrar activamente un nuevo papel en la empresa cuando no están funcionando bien o cuando su papel actual ya no es necesario contribuye a la capacidad de la organización para escuchar y entender lo que está tratando de convertirse, para cumplir con su [propósito evolutivo](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Prop%C3%B3sito_Evolutivo "Propósito Evolutivo").
+      Dar a la gente la oportunidad y alentarlos a encontrar activamente un nuevo papel en la empresa cuando no están funcionando bien o cuando su papel actual ya no es necesario contribuye a la capacidad de la organización para escuchar y entender lo que está tratando de convertirse, para cumplir con su [propósito evolutivo](http://reinventingorganizationswiki.com/sp/index.php?title=Prop%C3%B3sito_Evolutivo "Propósito Evolutivo").
 
 
       <!--EndFragment-->

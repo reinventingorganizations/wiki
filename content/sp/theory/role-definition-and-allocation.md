@@ -140,7 +140,7 @@ inPractice: >-
 
   **Alcance de la responsabilidad**\
 
-  En las Organizaciones Teal, mientras que las personas tienen roles y responsabilidades claras, sus preocupaciones no deben limitarse a estas. Han de tomar en serio el bienestar de toda la organización. A continuación, a través del [proceso de los consejos](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Toma_de_Decisiones "Toma de Decisiones"), cualquier persona puede tomar medidas si percibe un problema. Como no hay jefes, no hay nadie que diga: "Eso no es asunto tuyo".\
+  En las Organizaciones Teal, mientras que las personas tienen roles y responsabilidades claras, sus preocupaciones no deben limitarse a estas. Han de tomar en serio el bienestar de toda la organización. A continuación, a través del [proceso de los consejos](http://reinventingorganizationswiki.com/sp/index.php?title=Toma_de_Decisiones "Toma de Decisiones"), cualquier persona puede tomar medidas si percibe un problema. Como no hay jefes, no hay nadie que diga: "Eso no es asunto tuyo".\
 
   \
 

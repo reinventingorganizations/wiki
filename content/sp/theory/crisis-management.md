@@ -30,31 +30,31 @@ perspective: >-
 
   **Organizaciones Rojas**\
 
-  En el [paradigma Rojo](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_paradigma_Rojo_y_las_Organizaciones "El paradigma Rojo y las Organizaciones"), el horizonte de planificación a corto plazo de la organización y su naturaleza reactiva lo hacen que este familiarizado con las crisis. Las decisiones se pueden tomar por capricho y se transmiten a los empleados de arriba usando el paradigma Rojo del mando autoritario.\
+  En el [paradigma Rojo](http://reinventingorganizationswiki.com/sp/index.php?title=El_paradigma_Rojo_y_las_Organizaciones "El paradigma Rojo y las Organizaciones"), el horizonte de planificación a corto plazo de la organización y su naturaleza reactiva lo hacen que este familiarizado con las crisis. Las decisiones se pueden tomar por capricho y se transmiten a los empleados de arriba usando el paradigma Rojo del mando autoritario.\
 
   \
 
   **Organizaciones Ámbar**\
 
-  En el [paradigma Ámbar](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_%C3%81mbar_y_las_Organizaciones "El Paradigma Ámbar y las Organizaciones"), la organización es más estable y predecible. Los procesos y procedimientos definen la forma en que se hacen las cosas. Se supone que los trabajadores necesitan dirección. En el impredecible reino de la crisis, el CEO y la alta gerencia toman decisiones que luego se traducen en órdenes para los que están más abajo en la jerarquía. Se espera que sigan sin chistar.\
+  En el [paradigma Ámbar](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_%C3%81mbar_y_las_Organizaciones "El Paradigma Ámbar y las Organizaciones"), la organización es más estable y predecible. Los procesos y procedimientos definen la forma en que se hacen las cosas. Se supone que los trabajadores necesitan dirección. En el impredecible reino de la crisis, el CEO y la alta gerencia toman decisiones que luego se traducen en órdenes para los que están más abajo en la jerarquía. Se espera que sigan sin chistar.\
 
   \
 
   **Organizaciones Naranja**\
 
-  En el [paradigma Naranja](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Naranja_y_las_Organizaciones "El Paradigma Naranja y las Organizaciones"), la toma de decisiones se basa en la efectividad, medida por el impacto en medidas como la utilidad y la cuota de mercado. La toma de decisiones en Naranja se basa más en la experiencia que en la jerarquía. En crisis, un grupo de trabajo de asesores selectos podría reunirse confidencialmente para asesorar al director general y al consejo. La alta dirección estará bajo presión para recuperar el control y como consecuencia la toma de decisiones puede estar centralizada en manos de los altos ejecutivos. Las decisiones se comunican típicamente después de que se hicieron y después se espera que sean implementadas inmediatamente.\
+  En el [paradigma Naranja](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_Naranja_y_las_Organizaciones "El Paradigma Naranja y las Organizaciones"), la toma de decisiones se basa en la efectividad, medida por el impacto en medidas como la utilidad y la cuota de mercado. La toma de decisiones en Naranja se basa más en la experiencia que en la jerarquía. En crisis, un grupo de trabajo de asesores selectos podría reunirse confidencialmente para asesorar al director general y al consejo. La alta dirección estará bajo presión para recuperar el control y como consecuencia la toma de decisiones puede estar centralizada en manos de los altos ejecutivos. Las decisiones se comunican típicamente después de que se hicieron y después se espera que sean implementadas inmediatamente.\
 
   \
 
   **Organizaciones Verdes**\
 
-  En las [organizaciones Verdes](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Verde_y_las_Organizaciones "El Paradigma Verde y las Organizaciones") dirigidas por los valores, la descentralización y el empoderamiento ayudan a llevar la toma de decisiones cotidiana a los trabajadores de primera línea que pueden hacerlos sin la aprobación de la gerencia. Para decisiones de largo alcance, el consenso es valorado y buscado por la alta gerencia antes de actuar. Las crisis desafían estas prácticas. Para las decisiones altamente contenciosas y sensibles al tiempo, es posible que el CEO intervenga, suspenda el modelo de consenso y haga una determinación de arriba hacia abajo.\
+  En las [organizaciones Verdes](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_Verde_y_las_Organizaciones "El Paradigma Verde y las Organizaciones") dirigidas por los valores, la descentralización y el empoderamiento ayudan a llevar la toma de decisiones cotidiana a los trabajadores de primera línea que pueden hacerlos sin la aprobación de la gerencia. Para decisiones de largo alcance, el consenso es valorado y buscado por la alta gerencia antes de actuar. Las crisis desafían estas prácticas. Para las decisiones altamente contenciosas y sensibles al tiempo, es posible que el CEO intervenga, suspenda el modelo de consenso y haga una determinación de arriba hacia abajo.\
 
   \
 
   **Organizaciones Teal**\
 
-  En el [paradigma Teal](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones"), todos participan en la toma de decisiones para permitir que la mejor respuesta surja de la inteligencia colectiva. Si el proceso de los consejos necesita ser suspendido, el alcance y el tiempo de esta suspensión son limitados.
+  En el [paradigma Teal](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones"), todos participan en la toma de decisiones para permitir que la mejor respuesta surja de la inteligencia colectiva. Si el proceso de los consejos necesita ser suspendido, el alcance y el tiempo de esta suspensión son limitados.
 
 
   <!--EndFragment-->
@@ -65,7 +65,7 @@ inPractice: >-
   **Mantener el proceso de los consejos**
 
 
-  El modelo regular de [toma de decisiones](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Toma_de_Decisiones "Toma de Decisiones") adoptado por las organizaciones Teal es el proceso de los consejos, que distribuye la toma de decisiones. Este sigue siendo el enfoque preferido para hacer frente a las situaciones de crisis.\
+  El modelo regular de [toma de decisiones](http://reinventingorganizationswiki.com/sp/index.php?title=Toma_de_Decisiones "Toma de Decisiones") adoptado por las organizaciones Teal es el proceso de los consejos, que distribuye la toma de decisiones. Este sigue siendo el enfoque preferido para hacer frente a las situaciones de crisis.\
 
   \
 

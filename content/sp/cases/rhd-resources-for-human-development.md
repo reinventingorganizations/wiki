@@ -130,7 +130,7 @@ theory:
       unidades, como estos equipos son llamados dentro de RHD, son alentados a
       desarrollar su propio sentido de propósito, orgullo e identidad. Dentro de
       las unidades, no hay [descripciones de
-      trabajo](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Definici%C3%B3n_y_Asignaci%C3%B3n_de_funciones
+      trabajo](http://reinventingorganizationswiki.com/sp/index.php?title=Definici%C3%B3n_y_Asignaci%C3%B3n_de_funciones
       "Definición y Asignación de funciones"). Las unidades son responsables de
       toda su operación, desde la definición de una estrategia hasta el
       reclutamiento y la compra, desde la definición del presupuesto hasta el
