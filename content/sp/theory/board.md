@@ -31,22 +31,22 @@ perspective: >-
 
   **Organizaciones Rojas**\
 
-  En la [organizaciones Rojas](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_paradigma_Rojo_y_las_Organizaciones "El paradigma Rojo y las Organizaciones"), mientras el CEO / jefe puede confiar en colegas de confianza o en la familia, el poder real es ejercido por una sola persona. En estas circunstancias una "junta de supervisión" no es bienvenida ni apropiada.
+  En la [organizaciones Rojas](http://reinventingorganizationswiki.com/sp/index.php?title=El_paradigma_Rojo_y_las_Organizaciones "El paradigma Rojo y las Organizaciones"), mientras el CEO / jefe puede confiar en colegas de confianza o en la familia, el poder real es ejercido por una sola persona. En estas circunstancias una "junta de supervisión" no es bienvenida ni apropiada.
 
 
   **Organizaciones Ámbar**\
 
-  En la [organización Ámbar](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_%C3%81mbar_y_las_Organizaciones "El Paradigma Ámbar y las Organizaciones"), el consejo típico es una pequeña clase social en la parte superior de una jerarquía rígida. Puede haber criterios formales para la inclusión, o un proceso de calificación. La junta desempeña el papel de "guardián": garantiza que se respeten las tradiciones, las reglas y los procesos.
+  En la [organización Ámbar](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_%C3%81mbar_y_las_Organizaciones "El Paradigma Ámbar y las Organizaciones"), el consejo típico es una pequeña clase social en la parte superior de una jerarquía rígida. Puede haber criterios formales para la inclusión, o un proceso de calificación. La junta desempeña el papel de "guardián": garantiza que se respeten las tradiciones, las reglas y los procesos.
 
 
   **Organizaciones Naranja**\
 
-  En el [paradigma Naranja](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Naranja_y_las_Organizaciones "El Paradigma Naranja y las Organizaciones"), el consejo existe para que la administración sea responsable en nombre de los accionistas / dueños o en el caso de una organización sin fines de lucro en nombre de sus financiadores. Se centra en objetivos, resultados, estrategias, controles y sucesión. Es responsable de nombrar y, si es necesario, despedir al CEO.
+  En el [paradigma Naranja](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_Naranja_y_las_Organizaciones "El Paradigma Naranja y las Organizaciones"), el consejo existe para que la administración sea responsable en nombre de los accionistas / dueños o en el caso de una organización sin fines de lucro en nombre de sus financiadores. Se centra en objetivos, resultados, estrategias, controles y sucesión. Es responsable de nombrar y, si es necesario, despedir al CEO.
 
 
   **Organizaciones Verdes**\
 
-  En las [organizaciones Verdes](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Verde_y_las_Organizaciones "El Paradigma Verde y las Organizaciones"), las responsabilidades del consejo son similares a las Naranja, pero es más probable que incluyan actuar como guardianes del propósito / valores de la organización y de los intereses de múltiples actores. En las organizaciones con fines de lucro verdes, a menudo los accionistas son vistos como uno de los grupos de interés, y los miembros individuales del consejo pueden ser designados específicamente para representar el interés de otras partes interesadas, como los empleados.
+  En las [organizaciones Verdes](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_Verde_y_las_Organizaciones "El Paradigma Verde y las Organizaciones"), las responsabilidades del consejo son similares a las Naranja, pero es más probable que incluyan actuar como guardianes del propósito / valores de la organización y de los intereses de múltiples actores. En las organizaciones con fines de lucro verdes, a menudo los accionistas son vistos como uno de los grupos de interés, y los miembros individuales del consejo pueden ser designados específicamente para representar el interés de otras partes interesadas, como los empleados.
 
 
   <!--EndFragment-->
@@ -99,9 +99,9 @@ faq:
       1. Un Consejo puede ser un requisito legal, pero lo más importante es que
       puede actuar como un protector de las prácticas Teal. Esto obviamente
       requiere que los miembros del consejo compartan los [supuestos
-      fundamentales](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Supuestos_Fundamentales
+      fundamentales](http://reinventingorganizationswiki.com/sp/index.php?title=Supuestos_Fundamentales
       "Supuestos Fundamentales") y
-      los [valores ](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Cultura_y_Valores
+      los [valores ](http://reinventingorganizationswiki.com/sp/index.php?title=Cultura_y_Valores
       "Cultura y Valores")Teal que sustentan.
 
       2. Puede agregar perspectiva, diversidad y experiencia en decisiones importantes a través del proceso de los consejos.
@@ -114,7 +114,7 @@ faq:
     answer: >-
       
 
-      El proceso de [resolución de conflictos ](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Resoluci%C3%B3n_de_Conflictos "Resolución de Conflictos")se ocupa de esto y puede ser iniciado por cualquier persona que se sienta que un titular de rol (incluido el de CEO) debe ser cambiado. Observe que en una compañía Teal, el papel del "CEO" puede ser diferente. El "CEO" es un empleado con los mismos derechos y deberes que cualquier otro. En Favi, cuando Zobrist se convirtió en CEO, prometió que su posición sería sometida a votación cada 5 años. En Buurtzorg, el consejo no nombra al CEO. Esto viene de dentro de la organización misma.
+      El proceso de [resolución de conflictos ](http://reinventingorganizationswiki.com/sp/index.php?title=Resoluci%C3%B3n_de_Conflictos "Resolución de Conflictos")se ocupa de esto y puede ser iniciado por cualquier persona que se sienta que un titular de rol (incluido el de CEO) debe ser cambiado. Observe que en una compañía Teal, el papel del "CEO" puede ser diferente. El "CEO" es un empleado con los mismos derechos y deberes que cualquier otro. En Favi, cuando Zobrist se convirtió en CEO, prometió que su posición sería sometida a votación cada 5 años. En Buurtzorg, el consejo no nombra al CEO. Esto viene de dentro de la organización misma.
   - question: ¿Quién debe formar parte del consejo?
     answer: >-
       Personas adecuadas que:\
@@ -166,11 +166,11 @@ faq:
 
         **Temas relacionados**
 
-        * [Estrategia](http://www.reinventarlasorganizacioneswiki.com/index.php?title=La_Estrategia "La Estrategia")
-        * [Estructura organizativa](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Estructura_Organizativa "Estructura Organizativa")
-        * [Propiedad](http://www.reinventarlasorganizacioneswiki.com/index.php?title=La_Propiedad "La Propiedad")
-        * [Funciones del Staff](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Funciones_Staff "Funciones Staff")
-        * [Toma de decisiones](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Toma_de_Decisiones "Toma de Decisiones")
+        * [Estrategia](http://reinventingorganizationswiki.com/sp/index.php?title=La_Estrategia "La Estrategia")
+        * [Estructura organizativa](http://reinventingorganizationswiki.com/sp/index.php?title=Estructura_Organizativa "Estructura Organizativa")
+        * [Propiedad](http://reinventingorganizationswiki.com/sp/index.php?title=La_Propiedad "La Propiedad")
+        * [Funciones del Staff](http://reinventingorganizationswiki.com/sp/index.php?title=Funciones_Staff "Funciones Staff")
+        * [Toma de decisiones](http://reinventingorganizationswiki.com/sp/index.php?title=Toma_de_Decisiones "Toma de Decisiones")
 
         **Notas y referencias**
 

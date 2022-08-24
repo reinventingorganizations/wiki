@@ -30,19 +30,19 @@ perspective: >-
   **Organizaciones Rojas**
 
 
-  En el paradigma [Rojo](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_paradigma_Rojo_y_las_Organizaciones "El paradigma Rojo y las Organizaciones"), las organizaciones están estructuradas alrededor de un líder fuerte que, en gran parte a través del miedo, ejerce el poder sobre otros. Hay poca jerarquía formal, y las organizaciones Rojas dependen en gran medida de la capacidad del jefe para mantener a todos sus miembros en línea, más bien como lobos en una manada alrededor del macho alfa.
+  En el paradigma [Rojo](http://reinventingorganizationswiki.com/sp/index.php?title=El_paradigma_Rojo_y_las_Organizaciones "El paradigma Rojo y las Organizaciones"), las organizaciones están estructuradas alrededor de un líder fuerte que, en gran parte a través del miedo, ejerce el poder sobre otros. Hay poca jerarquía formal, y las organizaciones Rojas dependen en gran medida de la capacidad del jefe para mantener a todos sus miembros en línea, más bien como lobos en una manada alrededor del macho alfa.
 
 
   **Organizaciones Ámbar**
 
 
-  En el paradigma [Ámbar](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_%C3%81mbar_y_las_Organizaciones "El Paradigma Ámbar y las Organizaciones"), aparece el organigrama con líneas de reporte, generando una pirámide jerárquica y una cadena de mando clara. Las personas se identifican con los títulos, descripciones de funciones y su lugar en la jerarquía. Las decisiones se toman en los niveles superiores de la jerarquía mientras que los niveles inferiores simplemente acatan órdenes.
+  En el paradigma [Ámbar](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_%C3%81mbar_y_las_Organizaciones "El Paradigma Ámbar y las Organizaciones"), aparece el organigrama con líneas de reporte, generando una pirámide jerárquica y una cadena de mando clara. Las personas se identifican con los títulos, descripciones de funciones y su lugar en la jerarquía. Las decisiones se toman en los niveles superiores de la jerarquía mientras que los niveles inferiores simplemente acatan órdenes.
 
 
   **Organizaciones Naranjas**
 
 
-  En las organizaciones [Naranjas](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Naranja_y_las_Organizaciones "El Paradigma Naranja y las Organizaciones"), la pirámide sigue siendo la estructura fundamental, aunque se da una libertad adicional. Se crean grupos de proyectos, equipos virtuales, iniciativas multifuncionales, funciones de expertos y consultores internos que perforan los rígidos límites funcionales y jerárquicos a fin de acelerar la comunicación y fomentar la innovación.
+  En las organizaciones [Naranjas](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_Naranja_y_las_Organizaciones "El Paradigma Naranja y las Organizaciones"), la pirámide sigue siendo la estructura fundamental, aunque se da una libertad adicional. Se crean grupos de proyectos, equipos virtuales, iniciativas multifuncionales, funciones de expertos y consultores internos que perforan los rígidos límites funcionales y jerárquicos a fin de acelerar la comunicación y fomentar la innovación.
 
 
   \
@@ -50,7 +50,7 @@ perspective: >-
   **Organizaciones Verdes**
 
 
-  Las organizaciones [Verdes](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Verde_y_las_Organizaciones "El Paradigma Verde y las Organizaciones") siguen operando en una estructura piramidad y con fuertes funciones de staff, pero hay más empoderamiento de los empleados de la línea del frente. A los gerentes superiores se les pide compartir el control: dejar de hacer todo, y ser los solucionadores de problemas y pasar a ser "líderes de servicio". Esto es a menudo simbolizado por una "pirámide invertida", donde el CEO en la parte inferior apoya altos y mandos medios que a su vez apoyan a los empleados de la primera línea.
+  Las organizaciones [Verdes](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_Verde_y_las_Organizaciones "El Paradigma Verde y las Organizaciones") siguen operando en una estructura piramidad y con fuertes funciones de staff, pero hay más empoderamiento de los empleados de la línea del frente. A los gerentes superiores se les pide compartir el control: dejar de hacer todo, y ser los solucionadores de problemas y pasar a ser "líderes de servicio". Esto es a menudo simbolizado por una "pirámide invertida", donde el CEO en la parte inferior apoya altos y mandos medios que a su vez apoyan a los empleados de la primera línea.
 
 
   <!--EndFragment-->

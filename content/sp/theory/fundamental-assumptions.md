@@ -26,7 +26,7 @@ perspective: >-
 
   **Organizaciones Rojas**\
 
-  Los supuestos fundamentales desde una [perspectiva roja](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_paradigma_Rojo_y_las_Organizaciones "El paradigma Rojo y las Organizaciones") son:
+  Los supuestos fundamentales desde una [perspectiva roja](http://reinventingorganizationswiki.com/sp/index.php?title=El_paradigma_Rojo_y_las_Organizaciones "El paradigma Rojo y las Organizaciones") son:
 
 
   * El mundo tiene infinitos recursos que pueden ser explotados. También la gente fuera de la organización / tribu puede ser explotada.
@@ -50,7 +50,7 @@ perspective: >-
 
   **Organizaciones Ámbar**\
 
-  Los supuestos fundamentales desde una [perspectiva Ámbar son](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_%C3%81mbar_y_las_Organizaciones "El Paradigma Ámbar y las Organizaciones"):
+  Los supuestos fundamentales desde una [perspectiva Ámbar son](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_%C3%81mbar_y_las_Organizaciones "El Paradigma Ámbar y las Organizaciones"):
 
 
   * El mundo es (o debería ser) inmutable, comprensible y controlable. Lo que funcionó en el pasado funcionará en el futuro. La **estabilidad (seguridad) y la lealtad** son esenciales. El cambio debe ser visto con sospecha. Salir de la organización es la última opción.
@@ -73,7 +73,7 @@ perspective: >-
   **Organizaciones Naranja**
 
 
-  Los supuestos fundamentales desde una [perspectiva Naranja](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Naranja_y_las_Organizaciones "El Paradigma Naranja y las Organizaciones") son:
+  Los supuestos fundamentales desde una [perspectiva Naranja](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_Naranja_y_las_Organizaciones "El Paradigma Naranja y las Organizaciones") son:
 
 
   * El mundo está lleno de posibilidades y desafíos que esperan ser descubiertos y tomados. Si uno es inteligente y trabaja lo suficientemente duro, puedes conseguir todos los beneficios y alto estatus. Si uno no lo hace, es culpa de uno mismo.
@@ -100,7 +100,7 @@ perspective: >-
   **Organizaciones Verdes**
 
 
-  Los supuestos fundamentales desde una [perspectiva Verde](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Verde_y_las_Organizaciones "El Paradigma Verde y las Organizaciones") son:
+  Los supuestos fundamentales desde una [perspectiva Verde](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_Verde_y_las_Organizaciones "El Paradigma Verde y las Organizaciones") son:
 
 
   * La obsesión materialista, la desigualdad social y la pérdida de comunidad son malas. Las relaciones son más importantes que los resultados. Lo esencial es la **pertenencia y la armonía**.
@@ -123,7 +123,7 @@ perspective: >-
 
   **Organizaciones Teal**\
 
-  Los supuestos fundamentales desde una [perspectiva Teal](http://www.reinventarlasorganizacioneswiki.com/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones") son
+  Los supuestos fundamentales desde una [perspectiva Teal](http://reinventingorganizationswiki.com/sp/index.php?title=El_Paradigma_Teal_y_las_organizaciones "El Paradigma Teal y las organizaciones") son
 
 
   * Los seres humanos y las organizaciones como sistemas vivientes están llenos de potenciales en espera para desarrollarse. Construir sobre las fortalezas es más importante que centrarse en las debilidades.
@@ -147,7 +147,7 @@ inPractice: >-
 
   **Comprobar los supuestos fundamentales en los procesos cotidianos**\
 
-  Los colegas en las organizaciones Teal rutinariamente comprueban la forma en que las prácticas diarias ([reuniones](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Reuniones "Reuniones"), [solución de Conflictos](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Resoluci%C3%B3n_de_Conflictos "Resolución de Conflictos"), [equipo ](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Equipos_de_Proyecto_y_Grupos_de_Tarea "Equipos de Proyecto y Grupos de Tarea")/ [construcción del equipo/comunidad](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Construcci%C3%B3n_del_Equipo_/_la_Comunidad "Construcción del Equipo / la Comunidad"), la [toma de Decisiones](http://www.reinventarlasorganizacioneswiki.com/index.php?title=Toma_de_Decisiones "Toma de Decisiones")) se llevan a cabo - y los resultados que ellos generan con los valores y los supuestos fundamentales subyacentes.
+  Los colegas en las organizaciones Teal rutinariamente comprueban la forma en que las prácticas diarias ([reuniones](http://reinventingorganizationswiki.com/sp/index.php?title=Reuniones "Reuniones"), [solución de Conflictos](http://reinventingorganizationswiki.com/sp/index.php?title=Resoluci%C3%B3n_de_Conflictos "Resolución de Conflictos"), [equipo ](http://reinventingorganizationswiki.com/sp/index.php?title=Equipos_de_Proyecto_y_Grupos_de_Tarea "Equipos de Proyecto y Grupos de Tarea")/ [construcción del equipo/comunidad](http://reinventingorganizationswiki.com/sp/index.php?title=Construcci%C3%B3n_del_Equipo_/_la_Comunidad "Construcción del Equipo / la Comunidad"), la [toma de Decisiones](http://reinventingorganizationswiki.com/sp/index.php?title=Toma_de_Decisiones "Toma de Decisiones")) se llevan a cabo - y los resultados que ellos generan con los valores y los supuestos fundamentales subyacentes.
 
 
   **Articular los dos conjuntos de supuestos cuando transformamos una organización existente**\
