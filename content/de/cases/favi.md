@@ -296,7 +296,8 @@ theory:
     title: FAVI hat eine Bottom-up-Planung eingeführt im Vertrauen darauf, dass die
       Teams realistische Budgetanträge selbst stellen können. Im Konfliktfall
       lösen Vertretende der einzelnen Teams die Probleme untereinander.
-    content: "Einmal im Jahr legt jedes Team bei [FAVI](http://www.favi.com/) das
+    content: >-
+      Einmal im Jahr legt jedes Team bei [FAVI](http://www.favi.com/) das
       Investitionsbudget für das nächste Jahr fest (neue Maschinen, Werkzeuge
       usw.). In den meisten Unternehmen stellt die Finanzabteilung diese Anträge
       in Frage. Letztlich entscheidet der Vorstand oder der CEO
@@ -306,37 +307,13 @@ theory:
       Management ist die Höhe des Budgets oft ein Maßstab ihres Status. Sie
       versuchen so gut wie möglich, über alle ihnen zur Verfügung stehenden
       formellen und informellen Kanäle Einfluss auf die Entscheidungsträger in
-      der Geschäftsleitung zu nehmen.\r
+      der Geschäftsleitung zu nehmen.
 
 
-      Bei FAVI gibt es kein mittleres Management, das sich um Budgets
-      streitet, und der Vorstandsvorsitzende Jean-Francois Zobrist weigert sich,
-      die Rolle des Vaters zu spielen, der entscheidet, wie er die Süßigkeiten
-      unter seinen Kindern aufteilt. Die Teams wissen, dass es kein Feilschen
-      geben wird, also nennen sie nicht von vorneherein überhöhte Zahlen,
-      sondern stellen realistische Anträge auf der Grundlage realistischer
-      Bedürfnisse. Wenn die Team-Budgets addiert werden, ergibt sich in den
-      meisten Jahren ein vernünftiges Ergebnis, und alle Pläne erhalten grünes
-      Licht, ohne dass es zu Diskussionen oder Nachfragen kommt. Den Teams wird
-      vertraut, dass sie das Richtige tun. Wenn ein Team sich vergoldete
-      Maschinen besorgte, würden die anderen Teams das schnell merken, und der
-      Gruppendruck würde das Problem von selbst beseitigen. In den Jahren, in
-      denen alle Projekte zusammen das vernünftige Maß überschreiten, bittet der
-      CEO die Teams einfach, sich zusammenzusetzen und ihm einen überarbeiteten
-      Plan vorzulegen. Team-Vertretende kommen zusammen und legen alle Pläne auf
-      den Tisch. Sie sehen sich an, was am wichtigsten ist und was
-      zurückgestellt werden könnte. In ein oder zwei Sitzungen ist das Problem
-      stets geklärt.\r
+      Bei FAVI gibt es kein mittleres Management, das sich um Budgets streitet, und der Vorstandsvorsitzende Jean-Francois Zobrist weigert sich, die Rolle des Vaters zu spielen, der entscheidet, wie er die Süßigkeiten unter seinen Kindern aufteilt. Die Teams wissen, dass es kein Feilschen geben wird, also nennen sie nicht von vorneherein überhöhte Zahlen, sondern stellen realistische Anträge auf der Grundlage realistischer Bedürfnisse. Wenn die Team-Budgets addiert werden, ergibt sich in den meisten Jahren ein vernünftiges Ergebnis, und alle Pläne erhalten grünes Licht, ohne dass es zu Diskussionen oder Nachfragen kommt. Den Teams wird vertraut, dass sie das Richtige tun. Wenn ein Team sich vergoldete Maschinen besorgte, würden die anderen Teams das schnell merken, und der Gruppendruck würde das Problem von selbst beseitigen. In den Jahren, in denen alle Projekte zusammen das vernünftige Maß überschreiten, bittet der CEO die Teams einfach, sich zusammenzusetzen und ihm einen überarbeiteten Plan vorzulegen. Team-Vertretende kommen zusammen und legen alle Pläne auf den Tisch. Sie sehen sich an, was am wichtigsten ist und was zurückgestellt werden könnte. In ein oder zwei Sitzungen ist das Problem stets geklärt.
 
 
-      Wie bei anderen Rollen auch, werden die traditionellen Aufgaben
-      einer Führungskraft im Bereich Einkauf und Investitionen (Budgetierung,
-      Planung, Kontrolle) auf verschiedene Mitglieder eines Teams verteilt. Ein
-      Mitarbeitender bei FAVI könnte verschiedene Maschinen bedienen, für die
-      Materialbestellung zuständig sein, eine Reihe von Maßnahmen zur
-      kontinuierlichen Verbesserung leiten und für die Einstellung neuer Leute
-      verantwortlich sein.^[übersetzt aus: Laloux, Frederic. Reinventing
-      Organizations. Nelson Parker (2014), Seite 77ff.]\r"
+      Wie bei anderen Rollen auch, werden die traditionellen Aufgaben einer Führungskraft im Bereich Einkauf und Investitionen (Budgetierung, Planung, Kontrolle) auf verschiedene Mitglieder eines Teams verteilt. Ein Mitarbeitender bei FAVI könnte verschiedene Maschinen bedienen, für die Materialbestellung zuständig sein, eine Reihe von Maßnahmen zur kontinuierlichen Verbesserung leiten und für die Einstellung neuer Leute verantwortlich sein.^\[Übersetzt aus: Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), Seite 77ff.]
   - topic: Budgeting and Controlling
     title: FAVI hat eine Bottom-up-Planung eingeführt im Vertrauen darauf, dass die
       Teams realistische Budgetanträge stellen können. Im Konfliktfall lösen
