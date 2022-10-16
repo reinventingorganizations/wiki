@@ -1,6 +1,6 @@
 {
   "Get_to_know_how_this_organisation_manages_other_teal_practices": "Erfahren Sie, wie diese Organisation andere Praktiken handhabt",
-  "Frequently_Asked_Questions": "Frequently Asked Questions",
+  "Frequently_Asked_Questions": "Häufig gestellte Fragen",
   "backgroundArticles": "Hintergrundartikel",
   "Discover_Teal_Practices": "Entdecken Sie Teal Praktiken",
   "mainNavigation": "Hauptmenü",
@@ -14,7 +14,7 @@
   "New_and_updated_organizations": "Neue und aktualisierte Organisationen",
   "In_Practice": "In der Praxis",
   "See_all_organizations": "Alle Organisationen anzeigen",
-  "Cases_for_inspiration": "Cases for inspiration",
+  "Cases_for_inspiration": "Fallstudien zur Inspiration",
   "Related_Topics": "Verwandte Themen",
   "Reinventing_Organizations_Wiki": "Reinventing Organizations Wiki",
   "Brought_to_you_by": "Mit Unterstützung von",
@@ -23,39 +23,39 @@
   "Concrete_cases_for_inspiration": "Konkrete Fälle als Inspiration",
   "footerLinks": [
     {
-      "title": "Donate",
+      "title": "Spenden Sie",
       "link": "https://opencollective.com/tealwiki"
     },
     {
-      "title": "Give feedback",
+      "title": "Geben Sie Feedback",
       "link": "https://surveyheart.com/form/5fb7b793ef396770afbeb29e"
     },
     {
-      "title": "Contribute",
+      "title": "Beitragen",
       "link": "https://reinventingorganizationswiki.com/de/how-can-you-contribute/"
     },
     {
       "link": "https://discourse.reinventingorganizations.com/",
-      "title": "Discourse forum"
+      "title": "Diskussionsforum"
     },
     {
-      "title": "The book & other resources",
+      "title": "Das Buch und andere Ressourcen",
       "link": "https://www.reinventingorganizations.com/"
     },
     {
-      "title": "Watch videos (Insights for the Journey)",
+      "title": "Videos ansehen (Einblicke für die Reise)",
       "link": "https://thejourney.reinventingorganizations.com/videos.html"
     },
     {
       "link": "https://reinventingorganizationswiki.com/de/pages/about/",
-      "title": "About"
+      "title": "Informationen über"
     },
     {
-      "title": "Map of this site",
+      "title": "Karte dieser Seite",
       "link": "https://drive.google.com/file/d/1OMs1ES9ZzD7BhTWOvnEl_PVSlkwAF69g/view?usp=sharing"
     },
     {
-      "title": "Code of Conduct",
+      "title": "Verhaltenskodex",
       "link": "https://reinventingorganizationswiki.com/de/pages/code-of-conduct/"
     }
   ],
