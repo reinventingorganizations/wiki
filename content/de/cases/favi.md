@@ -451,8 +451,9 @@ theory:
       Kindle Edition.]'
   - topic: Listening to Purpose
     title: Eine Gewissensprüfung, die durch eine vorgeschlagene Verordnung ausgelöst
-      wurde, die wiederum aus heiterem Himmel kam..
-    content: "Zu Beginn seiner Amtszeit als CEO lud Jean-François Zobrist alle
+      wurde, die wiederum aus heiterem Himmel kam.
+    content: >-
+      Zu Beginn seiner Amtszeit als CEO lud Jean-François Zobrist alle
       Mitarbeitenden des Werks zu einer Sitzung ein, um die Daseinsberechtigung
       des Unternehmens zu klären. Auslöser war ein Auftrag, der aus heiterem
       Himmel von einem französischen Automobilhersteller kam. Könnten sie
@@ -466,34 +467,15 @@ theory:
       Tagesordnung und Ablauf. Er vertraute darauf, dass seine Leute sich in
       diesen Sitzungen selbst organisieren würden, indem sie bei Bedarf jeden
       Freitag erneut zusammenkamen, bis sie die grundlegende Frage beantwortet
-      hatten: Was ist unser Zweck?\r
+      hatten: Was ist unser Zweck?
 
 
-      Nach vielen Diskussionen und als die naheliegenden, aber
-      oberflächlichen Ideen verworfen worden waren, war die Antwort klar und
-      deutlich. FAVI hat zwei Daseinsberechtigungen und grundsätzliche Ziele. \r
+      Nach vielen Diskussionen und als die naheliegenden, aber oberflächlichen Ideen verworfen worden waren, war die Antwort klar und deutlich. FAVI hat zwei Daseinsberechtigungen und grundsätzliche Ziele. 
 
-      Erstens: sinnvolle Arbeit in der Region Hallencourt anbieten, einer
-      ländlichen Gegend in Nordfrankreich, wo es nur wenige gute
-      Arbeitsmöglichkeiten gibt. Zweitens: im Verhältnis zu den Kunden Liebe
-      geben und nehmen.\r
+      Erstens: sinnvolle Arbeit in der Region Hallencourt anbieten, einer ländlichen Gegend in Nordfrankreich, wo es nur wenige gute Arbeitsmöglichkeiten gibt. Zweitens: im Verhältnis zu den Kunden Liebe geben und nehmen.
 
 
-      Bei FAVI hat das Wort Liebe, das man in der Geschäftswelt selten
-      hört, eine echte Bedeutung erlangt. Die Mitarbeitenden schicken nicht
-      einfach nur Produkte an ihre Kunden, sondern solche mit Herzblut. Vor
-      einigen Jahren, um die Weihnachtszeit herum, formte ein Mitarbeiter von
-      FAVI aus überschüssigem Messing ein paar kleine Weihnachtsmänner und
-      Rentiere. Er legte die Figuren in die Schachteln mit den fertigen
-      Produkten – so wie Kinder eine Nachricht in eine Flasche stecken, die sie
-      ins Meer werfen, in der Hoffnung, dass irgendjemand sie irgendwo findet.
-      Andere Mitarbeitende haben die Idee inzwischen aufgegriffen und legen
-      ihren Sendungen zu beliebigen Zeiten im Jahr Messingfiguren bei als kleine
-      „Liebesbeweise“ für die Menschen an den Fließbändern bei Volkswagen oder
-      Volvo, die die Figuren beim Auspacken der Kartons finden.^[übersetzt aus:
-      Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to
-      Creating Organizations Inspired by the Next Stage of Human Consciousness
-      (Kindle Locations 4363-4378). Nelson Parker. Kindle Edition.]\r"
+      Bei FAVI hat das Wort Liebe, das man in der Geschäftswelt selten hört, eine echte Bedeutung erlangt. Die Mitarbeitenden schicken nicht einfach nur Produkte an ihre Kunden, sondern solche mit Herzblut. Vor einigen Jahren, um die Weihnachtszeit herum, formte ein Mitarbeiter von FAVI aus überschüssigem Messing ein paar kleine Weihnachtsmänner und Rentiere. Er legte die Figuren in die Schachteln mit den fertigen Produkten – so wie Kinder eine Nachricht in eine Flasche stecken, die sie ins Meer werfen, in der Hoffnung, dass irgendjemand sie irgendwo findet. Andere Mitarbeitende haben die Idee inzwischen aufgegriffen und legen ihren Sendungen zu beliebigen Zeiten im Jahr Messingfiguren bei als kleine „Liebesbeweise“ für die Menschen an den Fließbändern bei Volkswagen oder Volvo, die die Figuren beim Auspacken der Kartons finden.^\[Übersetzt aus: Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness (Kindle Locations 4363-4378). Nelson Parker. Kindle Edition.]
   - topic: Dismissal
     title: Eine Alternative zu Entlassungen in Krisenzeiten.
     content: "Wenn CEO Jean-François Zobrist vor kritischen Entscheidungen stand,
