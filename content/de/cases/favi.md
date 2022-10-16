@@ -80,7 +80,7 @@ theory:
       Schichten wechseln. Die Person aus dem Audi-Team könnte zum Beispiel
       fragen, wer bereit wäre, einen Tag im Volvo-Team zu arbeiten. Dies
       geschieht organisch und auf freiwilliger Basis. Niemand wird von einer
-      höheren Instanz einem anderen Team zugewiesen.^[übersetzt aus: Laloux,
+      höheren Instanz einem anderen Team zugewiesen.^\\[Übersetzt aus: Laloux,
       Frederic (2014-02-09). Reinventing Organizations: A Guide to Creating
       Organizations Inspired by the Next Stage of Human Consciousness (Kindle
       Locations 1766-1772). Nelson Parker. Kindle Edition.]"
