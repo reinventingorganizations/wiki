@@ -261,27 +261,18 @@ theory:
       eigenen Vorgaben.\r"
   - topic: Innovation and Product Development
     title: FAVI erfindet das erste Verfahren zum Gießen von 100% reinem Kupfer.
-    content: "In den 1990er Jahren waren CEO Zobrist und einige Mitarbeitende bei
+    content: >-
+      In den 1990er Jahren waren CEO Zobrist und einige Mitarbeitende bei
       [FAVI](http://www.favi.com/) von der folgenden Idee fasziniert: Gießereien
       stellen immer Legierungen her, weil reines Kupfer nicht geformt werden
       kann. Was wäre, wenn FAVI das Unmögliche möglich machte und industrielle
-      Produkte aus 100% reinem Kupfer formen könnte? Man begann zu tüfteln.\r
+      Produkte aus 100% reinem Kupfer formen könnte? Man begann zu tüfteln.
 
 
-      Würde es einen Markt für solche Produkte geben? Man hatte keine
-      Ahnung und gab dennoch keine Marktstudie in Auftrag. Reines Kupfer hat
-      einige Eigenschaften wie z.B. elektrische Leitfähigkeit, die Legierungen
-      nicht haben. Eine solche Eigenschaft muss also einen Zweck haben. Was die
-      Mitarbeitenden wirklich begeisterte, war nicht der sich möglicherweise
-      eröffnende Markt. Sie waren begeistert von der Schönheit des scheinbar
-      Unmöglichen: reines Kupfer zu formen.\r
+      Würde es einen Markt für solche Produkte geben? Man hatte keine Ahnung und gab dennoch keine Marktstudie in Auftrag. Reines Kupfer hat einige Eigenschaften wie z.B. elektrische Leitfähigkeit, die Legierungen nicht haben. Eine solche Eigenschaft muss also einen Zweck haben. Was die Mitarbeitenden wirklich begeisterte, war nicht der sich möglicherweise eröffnende Markt. Sie waren begeistert von der Schönheit des scheinbar Unmöglichen: reines Kupfer zu formen.
 
 
-      Nach zwei Jahren der Tüftelei gelang es ihnen. Und wie man es sich
-      vorgestellt hatte, öffnete sich ein Markt von selbst. Rotoren aus reinem
-      Kupfer haben in Elektromotoren interessante Eigenschaften. Dies ist heute
-      ein wichtiges Geschäft für FAVI.^\\[übersetzt aus: Laloux, Frederic.
-      Reinventing Organizations. Nelson Parker (2014), S. 208]\r"
+      Nach zwei Jahren der Tüftelei gelang es ihnen. Und wie man es sich vorgestellt hatte, öffnete sich ein Markt von selbst. Rotoren aus reinem Kupfer haben in Elektromotoren interessante Eigenschaften. Dies ist heute ein wichtiges Geschäft für FAVI.^\[Übersetzt aus: Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), S. 208]
   - topic: Innovation and Product Development
     title: FAVI erfindet eine neue antiseptische Kupferlegierung für Krankenhäuser.
     content: "Metallurgen wissen schon lange, dass Kupfer antiseptische
