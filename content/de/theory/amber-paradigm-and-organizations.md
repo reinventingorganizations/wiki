@@ -174,15 +174,18 @@ intro: "Die bernsteinfarbene Stufe des Bewusstseins^\\[diese Stufe entspricht
   Bernstein-Organisationen können daher Jahrhunderte überleben.
 
 
-  At an individual level, people operating from a Amber paradigm strive for
-  order and predictability; change is viewed with suspicion. The same holds true
-  for Amber organizations, which are exceptionally well-suited for a stable
-  world where the future can be planned based on past experience. They operate
-  on the hidden assumption that there is one right way of doing things and that
-  the world is (or should be) absolute. What has worked in the past will work in
-  the future. Amber organizations find it hard to accept the need for change.
-  The idea that there is one right way makes them uncomfortable with
-  competition. Historically, they have striven for dominance and monopoly.
+  Auf individueller Ebene streben Menschen, die nach dem Bernstein-Paradigma
+  arbeiten, nach Ordnung und Vorhersehbarkeit; Veränderungen werden mit
+  Misstrauen betrachtet. Das Gleiche gilt für Bernstein-Organisationen, die
+  außerordentlich gut für eine stabile Welt geeignet sind, in der die Zukunft
+  auf der Grundlage vergangener Erfahrungen geplant werden kann. Sie gehen von
+  der verborgenen Annahme aus, dass es nur eine richtige Vorgehensweise gibt und
+  dass die Welt absolut ist (oder sein sollte). Was in der Vergangenheit
+  funktioniert hat, wird auch in der Zukunft funktionieren. Bernsteinfarbene
+  Organisationen tun sich schwer damit, die Notwendigkeit von Veränderungen zu
+  akzeptieren. Die Vorstellung, dass es nur einen richtigen Weg gibt, macht sie
+  unzufrieden mit dem Wettbewerb. Historisch gesehen streben sie nach
+  Vorherrschaft und Monopolstellung.
 
 
   ##### Amber breakthrough 2: Size and stability (formal hierarchies)
