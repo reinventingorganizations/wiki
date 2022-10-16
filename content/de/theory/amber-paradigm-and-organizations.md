@@ -215,22 +215,24 @@ intro: "Die bernsteinfarbene Stufe des Bewusstseins^\\[diese Stufe entspricht
   nicht daran halten, disziplinieren.
 
 
-  The underlying worldview is that workers are mostly lazy, dishonest, and in
-  need of direction. They must be supervised and told what is expected of them.
-  Participatory management seems foolish from an Amber perspective; management
-  must rely on command and control to achieve results. Jobs at the frontlines
-  are specific and often routine. Innovation, critical thinking, and
-  self-expression are not asked for (and are often discouraged). Information is
-  shared on an as-needed basis. People are effectively interchangeable
-  resources.
+  Die zugrundeliegende Weltanschauung ist, dass Arbeitnehmende meist faul,
+  unehrlich und orientierungsbedürftig sind. Sie müssen beaufsichtigt werden und
+  man muss ihnen sagen, was von ihnen erwartet wird. Partizipatives Management
+  erscheint aus der Sicht des Bernsteins unsinnig; das Management muss sich auf
+  Befehl und Kontrolle verlassen, um Ergebnisse zu erzielen. Die Aufgaben an der
+  Front sind spezifisch und oft Routine. Innovation, kritisches Denken und
+  Selbstdarstellung sind nicht gefragt (und werden oft entmutigt). Informationen
+  werden nur bei Bedarf weitergegeben. Menschen sind effektiv austauschbare
+  Ressourcen.
 
 
-  From the vantage point of later stages, this might sound severely limiting.
-  But as a step up from Red, it is major progress. Even people at the bottom of
-  the organization feel that the predictability of routine work is liberating
-  compared to the constant vigilance required in Red organization.. We no longer
-  need to watch out for threats and danger that might come unexpectedly from any
-  direction. We just need to follow the rules.
+  Aus der Sicht späterer Stadien mag das sehr einschränkend klingen. Aber als
+  ein Schritt nach oben von Rot ist es ein großer Fortschritt. Sogar Leute an
+  der Basis der Organisation empfinden die Vorhersehbarkeit der Routinearbeit
+  als befreiend im Vergleich zu der ständigen Wachsamkeit, die in der roten
+  Organisation erforderlich ist. Wir müssen uns nicht mehr vor Bedrohungen und
+  Gefahren in Acht nehmen, die unerwartet aus allen Richtungen kommen können.
+  Wir müssen nur noch die Regeln befolgen.
 
 
   ##### Amber shadow: the social mask
