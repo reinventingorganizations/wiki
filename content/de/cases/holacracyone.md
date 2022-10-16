@@ -87,22 +87,24 @@ theory:
       besetzt sind. Der Marktplatz hilft also Menschen, die Rollen abgeben oder
       übernehmen wollen."
   - topic: Recruitment
-    title: Team members qualify candidates based on fit for organization, purpose
-      and role.
-    content: >-
-      [HolacracyOne](http://www.holacracyone.com/) is a training, consulting,
-      and research company dedicated to spreading a new organizational model,
-      “holcacray”, originally developed by Brian Robertson and his team at
-      Ternary Software, a Philadelphia-based start-up. After transferring
-      Ternary to new leadership, Robertson co-founded HolacracyOne.
+    title: Die Teammitglieder qualifizieren die Kandidaten anhand ihrer Eignung für
+      das Unternehmen, den Zweck und die Rolle.
+    content: "[HolacracyOne] (http://www.holacracyone.com/) ist ein Ausbildungs-,
+      Beratungs- und Forschungsunternehmen, das sich der Verbreitung eines neuen
+      Organisationsmodells, \"holcacray\", widmet, das ursprünglich von Brian
+      Robertson und seinem Team bei Ternary Software, einem in Philadelphia
+      ansässigen Start-up, entwickelt wurde. Nach der Übergabe von Ternary an
+      eine neue Führung war Robertson Mitbegründer von HolacracyOne.
 
 
-      During the recruitment process, teammates check if
+      Während des Einstellungsverfahrens prüfen die Teammitglieder, ob
 
 
-      * the person is “fit for organization” i.e. Is this person in resonance and energized by the evolutionary purpose, intrinsically motivated and comfortable with complex ever changing environment.
+      * Ist die Person \"fit für die Organisation\", d. h. ist sie in
+      Resonanz mit dem evolutionären Sinn, intrinsisch motiviert und kommt sie
+      mit dem komplexen, sich ständig verändernden Umfeld zurecht?\r
 
-      * If yes, they check if the candidate is “fit for role”.
+      * Wenn ja, wird geprüft, ob der Kandidat \"fit für die Rolle\" ist."
   - topic: Role Definition and Allocation
     title: An internal "Role Market place" to help in trading roles
     content: >-
