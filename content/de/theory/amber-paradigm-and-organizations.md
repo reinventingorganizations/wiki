@@ -96,32 +96,38 @@ intro: "Die bernsteinfarbene Stufe des Bewusstseins^\\[diese Stufe entspricht
   ##### Selbst-Disziplin und Authorität
 
 
-  In Amber, the formerly impulsive Red self is now able to exercise
-  self-discipline and self-control, not only in public but also in private.
-  Amber societies have simple morals based on one accepted, right way of doing
-  things. The Amber worldview is static: there are immutable laws that make for
-  a just world, where things are either right or wrong. Do what’s right and you
-  will be rewarded, in this life or the next. Do or say the wrong things, and
-  you will be punished or even rejected from the group―and possibly suffer in
-  the hereafter. People internalize the rules and morality and feel guilt and
-  shame when they go astray. Authority to define what is right and wrong is now
-  linked to a role, rather than to a powerful personality (as was the case in
-  Red); it’s the priest’s robe, whoever wears it, that defines authority.
+  In Bernstein ist das ehemals impulsive rote Ich nun in der Lage,
+  Selbstdisziplin und Selbstbeherrschung zu üben, nicht nur in der
+  Öffentlichkeit, sondern auch im Privaten. bernsteinfarbene Gesellschaften
+  haben eine einfache Moral, die auf einer akzeptierten, richtigen Art und Weise
+  beruht, Dinge zu tun. Die bernsteinfarbene Weltanschauung ist statisch: Es
+  gibt unveränderliche Gesetze, die für eine gerechte Welt sorgen, in der die
+  Dinge entweder richtig oder falsch sind. Tu das Richtige und du wirst belohnt,
+  in diesem oder im nächsten Leben. Wenn man das Falsche tut oder sagt, wird man
+  bestraft oder sogar aus der Gruppe ausgeschlossen - und muss möglicherweise im
+  Jenseits leiden. Die Menschen verinnerlichen die Regeln und die Moral und
+  empfinden Schuld und Scham, wenn sie in die Irre gehen. Die Autorität, zu
+  definieren, was richtig und falsch ist, ist nun an eine Rolle gebunden und
+  nicht mehr an eine mächtige Persönlichkeit (wie es in Rot der Fall war); es
+  ist das Priestergewand, wer auch immer es trägt, das die Autorität definiert.
 
 
-  Amber societies tend to be highly stratified, with social classes or caste
-  systems and rigid gender differences as defining features. A lottery at birth
-  defines what caste you are born into. From there, everything is mapped out for
-  you―how you are to behave, think, dress, eat, and marry is in accordance with
-  your caste.
+  Bernsteinfarbene Gesellschaften sind in der Regel stark stratifiziert, mit
+  sozialen Klassen oder Kastensystemen und starren Geschlechterunterschieden als
+  bestimmende Merkmale. Eine Lotterie bei der Geburt bestimmt, in welche Kaste
+  man hineingeboren wird. Von da an ist alles für Sie festgelegt - wie Sie sich
+  zu verhalten, zu denken, zu kleiden, zu essen und zu heiraten haben, richtet
+  sich nach Ihrer Kaste.
 
 
-  With so much in flux in the world today, some find Amber certainties an
-  appealing refuge and call for a return to a fixed set of moral values. To take
-  that perspective is to ignore the massive inequality of traditional societies
-  that set strict social and sexual norms. It can be unpleasant, to say the
-  least, to be a woman, a homosexual, an untouchable, or a free thinker in an
-  Amber society.
+  Angesichts der Tatsache, dass sich in der Welt von heute so vieles im Wandel
+  befindet, empfinden manche die bernsteinfarbenen Gewissheiten als verlockende
+  Zuflucht und fordern eine Rückkehr zu einem festen Satz moralischer Werte.
+  Eine solche Sichtweise würde die massive Ungleichheit traditioneller
+  Gesellschaften ignorieren, die strenge soziale und sexuelle Normen festlegen.
+  Es kann, gelinde gesagt, unangenehm sein, in einer bernsteinfarbenen
+  Gesellschaft eine Frau, ein Homosexueller, ein Unberührbarer oder ein
+  Freidenkerin zu sein.
 
 
   #### Breakthroughs and characteristics of Amber organizations
