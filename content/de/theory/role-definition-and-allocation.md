@@ -316,24 +316,52 @@ faq:
 
       Der Beratungsprozess bildet die Grundlage für die
       Entscheidungsfindung in diesen Rollen."
-  - question: How do these practices link with the three Teal breakthroughs?
-    answer: >-
-      #### Self-management
+  - question: Wie hängen diese Praktiken mit den drei Teal-Durchbrüchen zusammen?
+    answer: "#### Selbstmanagement
 
 
-      The ability to craft a role that caters to one’s strengths not only has the potential to strengthen the organization, it is a clear example of managing one’s self. There are no managers or bosses in Teal organizations that decide roles, Rather roles are self-determined with the consent of peers.
+      \r
+
+      \r
+
+      Die Fähigkeit, eine Rolle zu gestalten, die den eigenen Stärken
+      entspricht, hat nicht nur das Potenzial, die Organisation zu stärken,
+      sondern ist auch ein klares Beispiel für Selbstmanagement. In
+      Teal-Organisationen gibt es keine Manager oder Chefs, die über Rollen
+      entscheiden, vielmehr werden die Rollen mit der Zustimmung des Kollegiums
+      selbst bestimmt.
 
 
-      #### Wholeness
+      \r
+
+      \r
+
+      #### Ganzheitlichkeit
 
 
-      Equally, it is evident that the better the match between a person’s strengths/interests and their role, the more likely it is they can express themselves fully and freely via work.
+      \r
+
+      \r
+
+      Je besser die Stärken/Interessen einer Person mit ihrer Rolle
+      übereinstimmen, desto wahrscheinlicher ist es, dass sie sich bei der
+      Arbeit vollständig und frei entfalten kann.
 
 
-      #### Evolutionary purpose
+      \r
+
+      \r
+
+      #### Evolutionäres Ziel
 
 
-      When processes and a culture exists that help roles evolve continuously, it helps the organization adapt and support its evolving purpose.
+      \r
+
+      \r
+
+      Wenn es Prozesse und eine Kultur gibt, die es ermöglichen, dass sich
+      Rollen kontinuierlich weiterentwickeln, hilft dies der Organisation, sich
+      anzupassen und ihren sich entwickelnden Sinn zu unterstützen."
 relatedTheory:
   - Organizational Structure
   - Job Titles and Job Descriptions
