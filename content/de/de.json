@@ -1,63 +1,63 @@
 {
-    "locale": "de",
-    "Reinventing_Organizations_Wiki": "Reinventing Organizations Wiki",
-    "mainNavigation": "Main Navigation",
-    "backgroundArticles": "Background articles",
-    "practicesArticles": "Teal structures and practices",
-    "casesTitle": "Cases",
-    "siteTitle": "Reinventing Organizations Wiki",
-    "Discover_Teal_Practices": "Discover Teal Practices",
-    "A_new_paradigm_in_Practice": "A new paradigm in Practice",
-    "New_and_updated_organizations": "New and updated organizations",
-    "See_all_organizations": "See all organizations",
-    "Donate": "Donate",
-    "Teal_Practices": "Teal Practices",
-    "Notes_and_references": "Notes and references",
-    "Brought_to_you_by": "Brought to you by",
-    "A_New_Perspective": "A New Perspective",
-    "In_Practice": "In Practice",
-    "Concrete_cases_for_inspiration": "Concrete cases for inspiration",
-    "Get_to_know_how_this_organisation_manages_other_teal_practices": "Get to know how this organisation manages other teal practices",
-    "Related_Topics": "Related Topics",
-    "Cases_for_inspiration":"Cases for inspiration",
-    "Frequently_Asked_Questions":"Frequently Asked Questions",
-    "Key_organizational_structures_and_practices":"Key organizational structures and practices",
-    "footerLinks": [
-        {
-          "title": "Donate",
-          "link": "https://opencollective.com/tealwiki"
-        },
-        {
-          "title": "Give feedback",
-          "link": "https://surveyheart.com/form/5fb7b793ef396770afbeb29e"
-        },
-        {
-          "title": "Contribute",
-          "link": "https://reinventingorganizationswiki.com/de/how-can-you-contribute/"
-        },
-        {
-          "link": "https://discourse.reinventingorganizations.com/",
-          "title": "Discourse forum"
-        },
-        {
-          "title": "The book & other resources",
-          "link": "https://www.reinventingorganizations.com/"
-        },
-        {
-          "title": "Watch videos (Insights for the Journey)",
-          "link": "https://thejourney.reinventingorganizations.com/videos.html"
-        },
-        {
-          "link": "https://reinventingorganizationswiki.com/de/pages/about/",
-          "title": "About"
-        },
-        {
-          "title": "Map of this site",
-          "link": "https://drive.google.com/file/d/1OMs1ES9ZzD7BhTWOvnEl_PVSlkwAF69g/view?usp=sharing"
-        },
-        {
-          "title": "Code of Conduct",
-          "link": "https://reinventingorganizationswiki.com/de/pages/code-of-conduct/"
-        }
-      ]
+  "Get_to_know_how_this_organisation_manages_other_teal_practices": "Erfahren Sie, wie diese Organisation andere Praktiken handhabt",
+  "Frequently_Asked_Questions": "Frequently Asked Questions",
+  "backgroundArticles": "Hintergrundartikel",
+  "Discover_Teal_Practices": "Entdecken Sie Teal Praktiken",
+  "mainNavigation": "Hauptmenü",
+  "Notes_and_references": "Anmerkungen und Referenzen",
+  "Donate": "Spenden Sie",
+  "siteTitle": "Reinventing Organizations Wiki",
+  "Key_organizational_structures_and_practices": "Key organizational structures and practices",
+  "Teal_Practices": "Teal Praktiken",
+  "casesTitle": "Fallstudien",
+  "practicesArticles": "Teal Strukturen und Praktiken",
+  "New_and_updated_organizations": "Neue und aktualisierte Organisationen",
+  "In_Practice": "In der Praxis",
+  "See_all_organizations": "Alle Organisationen anzeigen",
+  "Cases_for_inspiration": "Cases for inspiration",
+  "Related_Topics": "Verwandte Themen",
+  "Reinventing_Organizations_Wiki": "Reinventing Organizations Wiki",
+  "Brought_to_you_by": "Mit Unterstützung von",
+  "locale": "de",
+  "A_new_paradigm_in_Practice": "Ein neues Paradigma in der Praxis",
+  "Concrete_cases_for_inspiration": "Konkrete Fälle als Inspiration",
+  "footerLinks": [
+    {
+      "title": "Donate",
+      "link": "https://opencollective.com/tealwiki"
+    },
+    {
+      "title": "Give feedback",
+      "link": "https://surveyheart.com/form/5fb7b793ef396770afbeb29e"
+    },
+    {
+      "title": "Contribute",
+      "link": "https://reinventingorganizationswiki.com/de/how-can-you-contribute/"
+    },
+    {
+      "link": "https://discourse.reinventingorganizations.com/",
+      "title": "Discourse forum"
+    },
+    {
+      "title": "The book & other resources",
+      "link": "https://www.reinventingorganizations.com/"
+    },
+    {
+      "title": "Watch videos (Insights for the Journey)",
+      "link": "https://thejourney.reinventingorganizations.com/videos.html"
+    },
+    {
+      "link": "https://reinventingorganizationswiki.com/de/pages/about/",
+      "title": "About"
+    },
+    {
+      "title": "Map of this site",
+      "link": "https://drive.google.com/file/d/1OMs1ES9ZzD7BhTWOvnEl_PVSlkwAF69g/view?usp=sharing"
+    },
+    {
+      "title": "Code of Conduct",
+      "link": "https://reinventingorganizationswiki.com/de/pages/code-of-conduct/"
+    }
+  ],
+  "A_New_Perspective": "Eine neue Perspektive"
 }
