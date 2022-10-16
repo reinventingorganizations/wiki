@@ -74,80 +74,163 @@ perspective: >-
 
 
   ﻿[Grüne Organisationen](../green-paradigm-and-organizations/) sind in Bezug auf die Rollen ähnlich wie Orange. Die Betonung des "Managements" anderer wird jedoch durch die Ermutigung zu einer dienenden Führungsrolle abgemildert. In einigen Unternehmen können die Untergebenen die Person auswählen, die die Rolle ihrer Führungskraft übernimmt.
-inPractice: >-
-  #### Rollen statt Stellen
+inPractice: "#### Rollen statt Stellen
 
 
-  In selbstverwalteten Organisationen gibt es keine Stellen, keine "Kästchen" in einem Organigramm, keine hierarchischen Führungsebenen und somit auch keine formellen Beförderungen in eines dieser "Kästchen".  Stattdessen hat jeder Kollege eine Reihe von Rollen, die er/sie übernommen hat und zu deren Erfüllung er/sie sich verpflichtet hat. Die traditionellen Aufgaben eines Managers (Antizipation, Planung, Überwachung, Rekrutierung, Einarbeitung, Coaching usw.) werden in der Regel auf verschiedene Teammitglieder aufgeteilt.  Mit zunehmender Erfahrung übernehmen die Mitarbeiter Aufgaben mit größerer Verantwortung und geben einfachere Aufgaben an neue Mitarbeiter oder jüngere Kollegen ab.
+  In selbstverwalteten Organisationen gibt es keine Stellen, keine
+  \"Kästchen\" in einem Organigramm, keine hierarchischen Führungsebenen und
+  somit auch keine formellen Beförderungen in eines dieser
+  \"Kästchen\".  Stattdessen hat jeder Kollege eine Reihe von Rollen, die er/sie
+  übernommen hat und zu deren Erfüllung er/sie sich verpflichtet hat. Die
+  traditionellen Aufgaben eines Managers (Antizipation, Planung, Überwachung,
+  Rekrutierung, Einarbeitung, Coaching usw.) werden in der Regel auf
+  verschiedene Teammitglieder aufgeteilt.  Mit zunehmender Erfahrung übernehmen
+  die Mitarbeiter Aufgaben mit größerer Verantwortung und geben einfachere
+  Aufgaben an neue Mitarbeiter oder jüngere Kollegen ab.
 
 
   #### Wie Rollen definiert werden
 
 
-  Einige Organisationen verwenden hauptsächlich informelle Verfahren zur Festlegung von Rollen. Andere haben formellere Verfahren eingeführt.
+  Einige Organisationen verwenden hauptsächlich informelle Verfahren zur
+  Festlegung von Rollen. Andere haben formellere Verfahren eingeführt.
 
 
   ##### Informelle Rollendefinition
 
 
-  Wenn in eine Teal-Unternehmen jemand die Notwendigkeit sieht, eine Rolle neu zu schaffen, zu ändern oder zu streichen, tritt er vor, berät sich im Rahmen des Beratungsprozesses mit den zuständigen Personen und trifft dann eine Entscheidung.
+  Wenn in eine Teal-Unternehmen jemand die Notwendigkeit sieht, eine Rolle neu
+  zu schaffen, zu ändern oder zu streichen, tritt er vor, berät sich im Rahmen
+  des Beratungsprozesses mit den zuständigen Personen und trifft dann eine
+  Entscheidung.
 
 
-  Wenn die Organisation in Teams strukturiert ist, ist eine Teamsitzung der natürliche Ort für dieses Gespräch. Wenn die Rolle über das Team hinausgeht, kann der Initiator eine Sitzung einberufen, mehrere Einzelgespräche führen oder den Vorschlag im internen sozialen Netzwerk teilen.
+  Wenn die Organisation in Teams strukturiert ist, ist eine Teamsitzung der
+  natürliche Ort für dieses Gespräch. Wenn die Rolle über das Team hinausgeht,
+  kann der Initiator eine Sitzung einberufen, mehrere Einzelgespräche führen
+  oder den Vorschlag im internen sozialen Netzwerk teilen.
 
 
-  ##### Formal role definition
+  ##### Formale Rollendefinition
 
 
-  Other companies have formal processes for defining roles. Here are two: the first involving a team-based conversation, the other, one-to-one exchanges:
+  In anderen Unternehmen gibt es formale Verfahren zur Festlegung von Rollen.
+  Hier sind zwei: Das erste beinhaltet ein Gespräch im Team, das andere einen
+  Austausch unter vier Augen:
 
 
-  *Team-based conversation*: Holacracy is an organizational "operating system", that uses specific "Governance meetings" dedicated to the creation, modification and cessation of roles. Usually these are held monthly. Every voice is heard and no one can dominate decision-making. Organizations using Holacracy find that every month a team will typically adapt, clarify, create, or discard roles. (Note: A person has multiple roles.)
+  \r
+
+  *Team-basierte Konversation*: Holacracy ist ein organisatorisches
+  \"Betriebssystem\", das spezifische \"Governance-Sitzungen\" verwendet, die
+  der Schaffung, Änderung und Beendigung von Rollen gewidmet sind. Diese finden
+  in der Regel monatlich statt. Jede Stimme wird gehört und niemand kann die
+  Entscheidungsfindung dominieren. Organisationen, die Holacracy einsetzen,
+  stellen fest, dass ein Team typischerweise jeden Monat Rollen anpasst, klärt,
+  schafft oder verwirft. (Anmerkung: Eine Person hat mehrere Rollen.)
 
 
-  *One-on-one conversations*: Morning Star uses a formal, one-on-one contracting system. Each colleague completes a document for every working relationship. Because Morning Star operates a highly efficient, non-stop process (in which each stage relies on the one before and after), precision is necessary. It would be inefficient to stop the line for a colleague conference. The document that describes these mutual commitments is called a Colleague Letter of Understanding. When summed, these detail all roles and commitments. In effect, these are "contracts", negotiated with the handful or two of colleagues they work with most closely. They are refined and agreed directly, one-on-one. Because minor improvements can have significant impacts, it makes sense to define roles with great granularity, and to track indicators closely.
+  \r
+
+  *Eins-zu-eins-Gespräche*: Morning Star verwendet ein formelles, persönliches
+  Vertragssystem. Jeder Mitarbeiter füllt ein Dokument für jede Arbeitsbeziehung
+  aus. Da Morning Star ein hocheffizientes, ununterbrochenes Verfahren anwendet
+  (bei dem jede Phase auf der vorhergehenden und nachfolgenden aufbaut), ist
+  Präzision erforderlich. Es wäre ineffizient, die Linie für eine
+  Kollegenkonferenz anzuhalten. Das Dokument, in dem diese gegenseitigen
+  Verpflichtungen beschrieben werden, nennt sich \"Colleague Letter of
+  Understanding\". Darin werden alle Rollen und Verpflichtungen im Einzelnen
+  aufgeführt. Es handelt sich dabei um \"Verträge\", die mit den ein oder zwei
+  Kollegen ausgehandelt werden, mit denen sie am engsten zusammenarbeiten. Sie
+  werden direkt unter vier Augen verfeinert und vereinbart. Da kleine
+  Verbesserungen große Auswirkungen haben können, ist es sinnvoll, die Rollen
+  sehr genau zu definieren und die Indikatoren genau zu verfolgen.
 
 
-  #### How roles get allocated
+  #### Wie Rollen zugewiesen werden
 
 
-  There can be various degrees of formality in the process of how roles are allocated to colleagues, but they all essentially involve peer consultation and agreement. Roles with more responsibility and scope (which typically are rewarded with higher compensation) tend to be given to colleagues who have built up a reputation to be capable, helpful and trustworthy.
+  Die Zuweisung von Aufgaben an Kollegen kann unterschiedlich formalisiert
+  sein, aber im Wesentlichen handelt es sich immer um eine Konsultation und
+  Vereinbarung unter dem Kollegium. Rollen mit größerer Verantwortung und
+  größerem Handlungsspielraum (die in der Regel mit einer höheren Vergütung
+  belohnt werden) werden in der Regel an Kolleginnen vergeben, die sich den Ruf
+  erworben haben, fähig, hilfreich und vertrauenswürdig zu sein.
+
+
+  There can be various degrees of formality in the process of how roles are
+  allocated to colleagues, but they all essentially involve peer consultation
+  and agreement. Roles with more responsibility and scope (which typically are
+  rewarded with higher compensation) tend to be given to colleagues who have
+  built up a reputation to be capable, helpful and trustworthy.
 
 
   ##### Informal role allocation
 
 
-  When a new role is created, in many cases there is a obvious candidate that emerges naturally. It might be the person who sensed the need for the new role, or another team member that everyone sees as the natural person to fill the role. Often, very little discussion is needed. A simple question in a team meeting ("Who feels like taking on this role?" or "I feel Catherine would be the be the natural person to take on this role, what do you think?") is all that is needed.
+  When a new role is created, in many cases there is a obvious candidate that
+  emerges naturally. It might be the person who sensed the need for the new
+  role, or another team member that everyone sees as the natural person to fill
+  the role. Often, very little discussion is needed. A simple question in a team
+  meeting (\"Who feels like taking on this role?\" or \"I feel Catherine would
+  be the be the natural person to take on this role, what do you think?\") is
+  all that is needed.
 
 
   ##### Formal role allocation
 
 
-  In some cases, several candidates express heavy interest in the same role and a more formal process might be called for: 
+  In some cases, several candidates express heavy interest in the same role
+  and a more formal process might be called for:\ 
 
 
-  * *Interviews*: Candidates may be interviewed by those who will work closely with them.  Interviewers can choose to decide on the winning candidate using a number of [decision making](../decision-making/) mechanisms, such as consensus, majority vote or the advice process. 
+  * *Interviews*: Candidates may be interviewed by those who will work closely
+  with them.  Interviewers can choose to decide on the winning candidate using a
+  number of [decision making](../decision-making/) mechanisms, such as
+  consensus, majority vote or the advice process.\ 
 
-  * *Elections*: [Sociocracy ](https://en.wikipedia.org/wiki/Sociocracy)and [Holacracy ](http://www.holacracy.org/)use a consent-based election process for certain roles. Colleagues nominate their preferred candidates. A facilitator then helps the group to decide.
+  * *Elections*: [Sociocracy ](https://en.wikipedia.org/wiki/Sociocracy)and
+  [Holacracy ](http://www.holacracy.org/)use a consent-based election process
+  for certain roles. Colleagues nominate their preferred candidates. A
+  facilitator then helps the group to decide.
 
-  * *Advice Process*: One person (for instance, the person who sensed the need for the new role, or someone others trust to lead this process well) steps forward and seeks advice for who would be the best person to fill a new role before making a decision.
+  * *Advice Process*: One person (for instance, the person who sensed the need
+  for the new role, or someone others trust to lead this process well) steps
+  forward and seeks advice for who would be the best person to fill a new role
+  before making a decision.
 
-  * *Designated Authority*: Allocating roles can be a role itself: in Holacracy, the "Lead Link" is a role that comes, among other, with the authority to allocate operational roles. 
+  * *Designated Authority*: Allocating roles can be a role itself: in
+  Holacracy, the \"Lead Link\" is a role that comes, among other, with the
+  authority to allocate operational roles.\ 
 
 
   #### Trading roles
 
 
-  Because roles are granular, it is easy to trade roles within a team. A person who is overly busy can ask someone to pick up one of his or her roles, either temporarily or permanently. Someone who wants to acquire a new skill can ask a colleague to trade a role. HolacracyOne has a "role market place" to facilitate this process.
+  Because roles are granular, it is easy to trade roles within a team. A
+  person who is overly busy can ask someone to pick up one of his or her roles,
+  either temporarily or permanently. Someone who wants to acquire a new skill
+  can ask a colleague to trade a role. HolacracyOne has a \"role market place\"
+  to facilitate this process.
 
 
   #### Scope of responsibility
 
 
-  In Teal Organizations, while people have clear roles and responsibilities, their concerns need not be limited to these. They can take the well-being of the whole organization to heart. Then, via the [advice process](../decision-making/), anyone can take action if they sense an issue. As there are no bosses, there is no one to say, “That is none of your business.”
+  In Teal Organizations, while people have clear roles and responsibilities,
+  their concerns need not be limited to these. They can take the well-being of
+  the whole organization to heart. Then, via the [advice
+  process](../decision-making/), anyone can take action if they sense an issue.
+  As there are no bosses, there is no one to say, “That is none of your
+  business.”
 
 
-  [Morning Star](http://morningstarco.com/) talks about "total responsibility”. All colleagues are obliged to do something when they sense an issue, even if it’s outside the scope of their roles. That usually means talking about the problem or opportunity with a colleague whose role does relate to the topic. It’s considered unacceptable to say: “Somebody should do something about this problem”, and leave it at that.
+  [Morning Star](http://morningstarco.com/) talks about \"total
+  responsibility”. All colleagues are obliged to do something when they sense an
+  issue, even if it’s outside the scope of their roles. That usually means
+  talking about the problem or opportunity with a colleague whose role does
+  relate to the topic. It’s considered unacceptable to say: “Somebody should do
+  something about this problem”, and leave it at that."
 faq:
   - question: Why do we need roles? Can't we work without formalizing any roles?
     answer: "By the very nature of the division of labor in organizations, people
