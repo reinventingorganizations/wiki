@@ -235,39 +235,44 @@ intro: "Die bernsteinfarbene Stufe des Bewusstseins^\\[diese Stufe entspricht
   Wir müssen nur noch die Regeln befolgen.
 
 
-  ##### Amber shadow: the social mask
+  ##### Bernsteinfarbener Schatten: die soziale Maske
 
 
-  Size and stability become possible because people in Amber are content to
-  stay in their place in return for safety and predictability. People operating
-  from this stage closely identify with their role and position. Amber
-  organizations have invented and generalized the use of titles, ranks, and
-  uniforms to bolster role identification. A bishop’s robe signals that inside
-  is no mere priest. A general’s uniform can hardly be confused with a
-  lieutenant’s or a private’s, even from far away. In factories, the owner, the
-  engineer, the accountant, the foreman, and the machine operator tend to dress
-  differently, even to this day. When we put on our ‘uniform’, we also put on a
-  distinct identity, a social mask. We internalize behaviors that are expected
-  of people with our rank and in our line of work. As a worker, it’s not only
-  that I wear a different clothes to the engineer. I eat in the workers’ mess;
-  he eats in the factory restaurant. And in these places, the subjects of
-  conversation, the jokes, and the type of self-disclosure are vastly different.
-  Social stability comes at the price of wearing a mask, of learning to distance
-  ourselves from our unique nature, from our personal desires, needs, and
-  feelings; instead, we embrace a socially acceptable self.
+  Größe und Stabilität werden möglich, weil die Menschen in Bernstein sich
+  damit zufrieden geben, an ihrem Platz zu bleiben, um Sicherheit und
+  Vorhersehbarkeit zu erhalten. Menschen, die in diesem Stadium arbeiten,
+  identifizieren sich eng mit ihrer Rolle und Position. Bernstein-Organisationen
+  haben die Verwendung von Titeln, Rängen und Uniformen erfunden und
+  verallgemeinert, um die Rollenidentifikation zu stärken. Das Gewand eines
+  Bischofs signalisiert, dass er kein einfacher Priester ist. Die Uniform eines
+  Generals ist selbst aus der Ferne kaum mit der eines Leutnants oder eines
+  Gefreiten zu verwechseln. In den Fabriken kleiden sich der Besitzer, der
+  Ingenieur, der Buchhalter, der Vorarbeiter und der Maschinenführer
+  unterschiedlich, und das ist auch heute noch so. Wenn wir unsere \"Uniform\"
+  anziehen, legen wir auch eine bestimmte Identität, eine soziale Maske an. Wir
+  verinnerlichen Verhaltensweisen, die von Menschen mit unserem Rang und in
+  unserer Branche erwartet werden. Als Arbeiterin trage ich nicht nur eine
+  andere Kleidung als der Ingenieur. Ich esse in der Arbeiterkantine, er isst im
+  Betriebsrestaurant. Und an diesen Orten sind die Gesprächsthemen, die Witze
+  und die Art der Selbstentblößung ganz anders. Soziale Stabilität hat den
+  Preis, dass wir eine Maske tragen, dass wir lernen, uns von unserer
+  Einzigartigkeit, unseren persönlichen Wünschen, Bedürfnissen und Gefühlen zu
+  distanzieren und stattdessen ein gesellschaftlich akzeptiertes Selbst zu
+  umarmen.
 
 
-  Historically, this hierarchical stratification in organizations paralleled
-  social stratification: The roles you could aspire to depended on your families
-  position in society. It was often very difficult to ‘break the mold’.
-  Fortunately, that rigid social stratification has disappeared in modern
-  societies. Today’s Amber organizations still tend to reinforce hierarchy,
-  albeit in more subtle ways. Promotion is often based on experience and service
-  and sometimes the most qualified do not get the job because they haven’t
-  ticked all the right boxes.
+  Historisch gesehen entsprach diese hierarchische Schichtung in
+  Organisationen der sozialen Schichtung: Die Rollen, die man anstreben konnte,
+  hingen von der Stellung der Familie in der Gesellschaft ab. Es war oft sehr
+  schwierig, \"aus der Reihe zu tanzen\". Glücklicherweise ist diese starre
+  soziale Schichtung in modernen Gesellschaften verschwunden. Die heutigen
+  Bernstein-Organisationen neigen immer noch dazu, die Hierarchie zu verstärken,
+  wenn auch auf subtilere Weise. Beförderungen beruhen oft auf Erfahrung und
+  Leistung, und manchmal bekommen die am besten Qualifizierten die Stelle nicht,
+  weil sie nicht alle Kriterien erfüllen.
 
 
-  ##### Amber shadow: Us versus them
+  ##### Bernsteinfarbener Schatten: Wir gegen sie
 
 
   Social belonging is paramount in the Amber paradigm. You are part of the
