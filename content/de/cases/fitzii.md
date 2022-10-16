@@ -39,8 +39,8 @@ theory:
     title: Fitzii nutzt eine Vielzahl regelmäßiger Besprechungen sowie traditionelle
       und innovative Besprechungsmethoden, um Teambildung, Informationsaustausch
       und Entscheidungsfindung zu fördern.
-    content: "Neben Meetings nach Bedarf gibt es bei [Fitzii
-      ](http://www.fitzii.com/) regelmäßige Besprechungen.\r
+    content: "Neben Meetings nach Bedarf gibt es bei
+      [Fitzii](http://www.fitzii.com/) regelmäßige Besprechungen.\r
 
 
       Monatliche Treffen der gesamten Belegschaft: Alle festen
