@@ -130,26 +130,28 @@ intro: "Die bernsteinfarbene Stufe des Bewusstseins^\\[diese Stufe entspricht
   Freidenkerin zu sein.
 
 
-  #### Breakthroughs and characteristics of Amber organizations
+  #### Durchbrüche und Merkmale von Bernstein-Organisationen
 
 
-  The advent of Amber organizations brought about two major breakthroughs:
-  organizations can now plan for the medium and long term, and they can create
-  organizational structures that are stable and can scale. Combine these two
-  breakthroughs, and you get organizations able to achieve unprecedented
-  outcomes, beyond anything Red organizations could have even contemplated.
-  Historically, Amber organizations are the ones that have built irrigation
-  systems, pyramids, and the Great Wall of China. Amber organizations ran the
-  ships, the trading posts, and the plantations of the Colonial world. The
-  Catholic Church is built on this paradigm―arguably it has been the defining
-  Amber organization for the Western world. The first large corporations of the
-  Industrial Revolution were run on this template. Amber organizations are still
-  very present today: most government agencies, public schools, religious
-  institutions, and the military are run based on Amber principles and
-  practices.
+  Das Aufkommen von Bernstein-Organisationen brachte zwei große Durchbrüche
+  mit sich: Unternehmen können nun mittel- und langfristig planen und sie können
+  Organisationsstrukturen schaffen, die stabil und skalierbar sind. Kombiniert
+  man diese beiden Errungenschaften, können Organisationen noch nie dagewesene
+  Ergebnisse erzielen, die über alles hinausgehen, was rote Organisationen auch
+  nur in Erwägung ziehen könnten. Historisch gesehen waren es
+  Bernstein-Organisationen, die Bewässerungssysteme, Pyramiden und die
+  Chinesische Mauer gebaut haben. Bernstein-Organisationen betrieben die
+  Schiffe, die Handelsposten und die Plantagen in der Kolonialwelt. Die
+  katholische Kirche ist auf diesem Paradigma aufgebaut - sie war zweifellos die
+  bestimmende Bernstein-Organisation in der westlichen Welt. Die ersten großen
+  Konzerne der industriellen Revolution wurden nach diesem Muster geführt.
+  Bernstein-Organisationen sind auch heute noch sehr präsent: Die meisten
+  Regierungsbehörden, öffentlichen Schulen, religiösen Einrichtungen und das
+  Militär werden nach den Prinzipien und Praktiken des Bernsteins geführt.
 
 
-  ##### Amber breakthrough 1: Long-term perspective (stable processes)
+  ##### Bernsteinfarbener Durchbruch 1: Langfristige Perspektive (stabile
+  Prozesse)
 
 
   Red organizations tend to be opportunistic; they don’t generally think more
