@@ -445,10 +445,10 @@ theory:
       Vertriebssupport). Jedes Team organisiert sich selbst. Es gibt kein
       mittleres Management und praktisch keine Regeln oder
       Verfahrensvorschriften außer denen, die die Teams selbst
-      festlegen.^[übersetzt aus: Laloux, Frederic (2014-02-09). Reinventing
+      festlegen.^\[Übersetzt aus: Laloux, Frederic (2014-02-09). Reinventing
       Organizations: A Guide to Creating Organizations Inspired by the Next
       Stage of Human Consciousness (Kindle Locations 1704-1708). Nelson Parker.
-      Kindle Edition.] '
+      Kindle Edition.]'
   - topic: Listening to Purpose
     title: Eine Gewissensprüfung, die durch eine vorgeschlagene Verordnung ausgelöst
       wurde, die wiederum aus heiterem Himmel kam..
