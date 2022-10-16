@@ -200,33 +200,35 @@ inPractice: "#### Rollen statt Stellen
   Autorität ausgestattet ist, operative Rollen zuzuweisen.\ 
 
 
-  #### Trading roles
+  #### Rollen Handeln
 
 
-  Because roles are granular, it is easy to trade roles within a team. A
-  person who is overly busy can ask someone to pick up one of his or her roles,
-  either temporarily or permanently. Someone who wants to acquire a new skill
-  can ask a colleague to trade a role. HolacracyOne has a \"role market place\"
-  to facilitate this process.
+  Da Rollen granular sind, ist es einfach, Rollen innerhalb eines Teams zu
+  tauschen. Eine Person, die übermäßig beschäftigt ist, kann jemanden bitten,
+  eine ihrer Rollen zu übernehmen, entweder vorübergehend oder dauerhaft.
+  Jemand, der eine neue Fähigkeit erwerben möchte, kann eine Kollegin bitten,
+  eine Rolle zu tauschen. HolacracyOne hat einen \"Rollenmarktplatz\", um diesen
+  Prozess zu erleichtern.
 
 
-  #### Scope of responsibility
+  #### Verantwortungsbereich
 
 
-  In Teal Organizations, while people have clear roles and responsibilities,
-  their concerns need not be limited to these. They can take the well-being of
-  the whole organization to heart. Then, via the [advice
-  process](../decision-making/), anyone can take action if they sense an issue.
-  As there are no bosses, there is no one to say, “That is none of your
-  business.”
+  In Teal-Organisationen haben die Mitarbeitenden zwar klare Rollen und
+  Zuständigkeiten, aber ihre Anliegen müssen sich nicht auf diese beschränken.
+  Sie können sich das Wohlergehen der gesamten Organisation zu Herzen nehmen.
+  Über den [Beratungsprozess] (../decision-making/) kann dann jeder tätig
+  werden, wenn er ein Problem wahrnimmt. Da es keine Chefs gibt, gibt es auch
+  niemanden, der sagt: \"Das geht dich nichts an\".
 
 
-  [Morning Star](http://morningstarco.com/) talks about \"total
-  responsibility”. All colleagues are obliged to do something when they sense an
-  issue, even if it’s outside the scope of their roles. That usually means
-  talking about the problem or opportunity with a colleague whose role does
-  relate to the topic. It’s considered unacceptable to say: “Somebody should do
-  something about this problem”, and leave it at that."
+  [Morning Star](http://morningstarco.com/) spricht von \"totaler
+  Verantwortung\". Alle Kollegen sind verpflichtet, etwas zu tun, wenn sie ein
+  Problem wahrnehmen, auch wenn es nicht in ihren Aufgabenbereich fällt. Das
+  bedeutet in der Regel, dass sie über das Problem oder die Gelegenheit mit
+  einem Kollegen sprechen, dessen Rolle mit dem Thema zu tun hat. Es wird als
+  inakzeptabel angesehen, zu sagen: \"Jemand sollte etwas gegen dieses Problem
+  unternehmen\", und es dabei zu belassen."
 faq:
   - question: Why do we need roles? Can't we work without formalizing any roles?
     answer: "By the very nature of the division of labor in organizations, people
