@@ -230,21 +230,27 @@ inPractice: "#### Rollen statt Stellen
   inakzeptabel angesehen, zu sagen: \"Jemand sollte etwas gegen dieses Problem
   unternehmen\", und es dabei zu belassen."
 faq:
-  - question: Why do we need roles? Can't we work without formalizing any roles?
-    answer: "By the very nature of the division of labor in organizations, people
-      end up taking up certain roles. Colleagues often feel a need for clarity
-      around these roles, for example \"I need help with X: who can I talk
-      to?\", \"I have an idea to change something in this domain: who would be
-      the natural person to make that happen?\", \"We agreed to do something
-      that didn't get done: who was the person that committed to this?\". \r
+  - question: Warum brauchen wir Rollen? Können wir nicht arbeiten, ohne
+      irgendwelche Rollen zu formalisieren?
+    answer: "\r
+
+      Es liegt in der Natur der Arbeitsteilung in Organisationen, dass die
+      Menschen bestimmte Rollen einnehmen. Die Kollegen haben oft das Bedürfnis
+      nach Klarheit über diese Rollen, z. B. \"Ich brauche Hilfe bei X: Mit wem
+      kann ich sprechen?\", \"Ich habe eine Idee, etwas in diesem Bereich zu
+      ändern: Wer wäre die natürliche Person, um das umzusetzen?\", \"Wir haben
+      etwas vereinbart, das nicht umgesetzt wurde: Wer war die Person, die sich
+      dazu verpflichtet hat?\". \r
 
       \r
 
-      There is value, therefore, in creating clarity on roles and
-      commitments.  Some people can be allergic to any formality or clarity, as
-      it reminds them of traditional, static hierarchies, job titles and job
-      definitions.  Remember, roles can be fluidly created, modified, exchanged
-      and scrapped, using peer-based rather than top-down processes. "
+      Es ist also sinnvoll, Klarheit über Rollen und Verpflichtungen zu
+      schaffen.  Manche Menschen reagieren allergisch auf jegliche Formalität
+      oder Klarheit, da sie dadurch an traditionelle, statische Hierarchien,
+      Berufsbezeichnungen und Berufsdefinitionen erinnert werden.  Denken Sie
+      daran, dass Rollen fließend geschaffen, geändert, ausgetauscht und
+      abgeschafft werden können, und zwar durch kollegiale statt von oben nach
+      unten gesteuerte Prozesse. "
   - question: What kind of "management" roles can be given to team members?
     answer: >-
       In traditional organizations, managers act on behalf of those below them.
