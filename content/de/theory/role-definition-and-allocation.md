@@ -75,25 +75,25 @@ perspective: >-
 
   ﻿[Grüne Organisationen](../green-paradigm-and-organizations/) sind in Bezug auf die Rollen ähnlich wie Orange. Die Betonung des "Managements" anderer wird jedoch durch die Ermutigung zu einer dienenden Führungsrolle abgemildert. In einigen Unternehmen können die Untergebenen die Person auswählen, die die Rolle ihrer Führungskraft übernimmt.
 inPractice: >-
-  #### Roles instead of jobs
+  #### Rollen statt Stellen
 
 
-  In self-managing organizations, there are no jobs, no "boxes" on an organization chart, no hierarchical layers of management, and thus no formal promotions to any of these "boxes".  Instead, every colleague has a number of roles that he/she has agreed and committed to fulfill. The traditional tasks of a manager (anticipating, planning, monitoring, recruiting, on-boarding, coaching, etc.) are typically scattered among various members of the team.  As people grow in experience, they take on roles with larger responsibilities and offload simpler ones to new recruits or more junior colleagues.
+  In selbstverwalteten Organisationen gibt es keine Stellen, keine "Kästchen" in einem Organigramm, keine hierarchischen Führungsebenen und somit auch keine formellen Beförderungen in eines dieser "Kästchen".  Stattdessen hat jeder Kollege eine Reihe von Rollen, die er/sie übernommen hat und zu deren Erfüllung er/sie sich verpflichtet hat. Die traditionellen Aufgaben eines Managers (Antizipation, Planung, Überwachung, Rekrutierung, Einarbeitung, Coaching usw.) werden in der Regel auf verschiedene Teammitglieder aufgeteilt.  Mit zunehmender Erfahrung übernehmen die Mitarbeiter Aufgaben mit größerer Verantwortung und geben einfachere Aufgaben an neue Mitarbeiter oder jüngere Kollegen ab.
 
 
-  #### How roles get defined
+  #### Wie Rollen definiert werden
 
 
-  Some organizations use mostly informal processes to define roles. Others have put in place more formal processes.
+  Einige Organisationen verwenden hauptsächlich informelle Verfahren zur Festlegung von Rollen. Andere haben formellere Verfahren eingeführt.
 
 
-  ##### Informal role definition
+  ##### Informelle Rollendefinition
 
 
-  In some Teal companies, when someone senses the need to create, modify or scrap a role, they step forward, use the advice process to consult with relevant people, and make a decision.
+  Wenn in eine Teal-Unternehmen jemand die Notwendigkeit sieht, eine Rolle neu zu schaffen, zu ändern oder zu streichen, tritt er vor, berät sich im Rahmen des Beratungsprozesses mit den zuständigen Personen und trifft dann eine Entscheidung.
 
 
-  If the organization is structured around teams, a team meeting is the natural place to have this conversation. If the role extends beyond the team, the initiator can call a meeting, have several one-on-one conversations, or share the suggestion on the internal social network.
+  Wenn die Organisation in Teams strukturiert ist, ist eine Teamsitzung der natürliche Ort für dieses Gespräch. Wenn die Rolle über das Team hinausgeht, kann der Initiator eine Sitzung einberufen, mehrere Einzelgespräche führen oder den Vorschlag im internen sozialen Netzwerk teilen.
 
 
   ##### Formal role definition
