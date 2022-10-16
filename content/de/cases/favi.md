@@ -60,7 +60,7 @@ theory:
       In der alten Struktur planten Angestellte in Büros mit Blick auf die
       Werkshalle im Detail, was die Arbeiter zu tun hatten, bis wann und wie.
       Jetzt machen diese das selbst und erhalten keine Anweisungen mehr von
-      oben.^[übersetzt aus: Laloux, Frederic (2014-02-09). Reinventing
+      oben.^\[Übersetzt aus: Laloux, Frederic (2014-02-09). Reinventing
       Organizations: A Guide to Creating Organizations Inspired by the Next
       Stage of Human Consciousness (Kindle Locations 1704-1715). Nelson Parker.
       Kindle Edition.]'
