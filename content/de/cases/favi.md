@@ -275,38 +275,23 @@ theory:
       Nach zwei Jahren der Tüftelei gelang es ihnen. Und wie man es sich vorgestellt hatte, öffnete sich ein Markt von selbst. Rotoren aus reinem Kupfer haben in Elektromotoren interessante Eigenschaften. Dies ist heute ein wichtiges Geschäft für FAVI.^\[Übersetzt aus: Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), S. 208]
   - topic: Innovation and Product Development
     title: FAVI erfindet eine neue antiseptische Kupferlegierung für Krankenhäuser.
-    content: "Metallurgen wissen schon lange, dass Kupfer antiseptische
-      Eigenschaften hat. *Schade nur*, dachte man sich bei
-      [FAVI](http://www.favi.com/), *dass diese Eigenschaft nicht in Produkten
-      genutzt wird.* Ein Team begann, an antimikrobiellen Kupfergeräten für
-      Krankenhäuser zu tüfteln. Ein Prototyp zeigte bald vielversprechende
-      Ergebnisse, aber CEO Zobrist störte die Farbe. Die rötliche Farbe des
-      Kupfers erinnerte an Sanatorien aus dem 19. Jahrhundert.\r
+    content: >-
+      Metallurgen wissen schon lange, dass Kupfer antiseptische Eigenschaften
+      hat. *Schade nur*, dachte man sich bei [FAVI](http://www.favi.com/), *dass
+      diese Eigenschaft nicht in Produkten genutzt wird.* Ein Team begann, an
+      antimikrobiellen Kupfergeräten für Krankenhäuser zu tüfteln. Ein Prototyp
+      zeigte bald vielversprechende Ergebnisse, aber CEO Zobrist störte die
+      Farbe. Die rötliche Farbe des Kupfers erinnerte an Sanatorien aus dem 19.
+      Jahrhundert.
 
 
-      Zobrist fragte das Projektteam, ob sie einen Prototyp mit einer
-      silberfarbenen Legierung herstellen könnten, um ihm den Glanz von
-      rostfreiem Stahl zu verleihen, der mit modernen Geräten verbunden wird.
-      Das Team spottete: Das hatte einfach keinen Sinn. Durch das zusätzliche
-      Material für die Legierung würde das Kupfer seine antiseptischen
-      Eigenschaften verlieren. Zobrist wusste also, dass er keinen guten Grund
-      hatte, darauf zu bestehen. Aber er war von einem tiefen ästhetischen und
-      intuitiven Gespür besessen, dass es sich lohnen würde, die Idee
-      weiterzuverfolgen. Es gelang ihm, das Team zu überzeugen, es auf einen
-      Versuch ankommen zu lassen.\r
+      Zobrist fragte das Projektteam, ob sie einen Prototyp mit einer silberfarbenen Legierung herstellen könnten, um ihm den Glanz von rostfreiem Stahl zu verleihen, der mit modernen Geräten verbunden wird. Das Team spottete: Das hatte einfach keinen Sinn. Durch das zusätzliche Material für die Legierung würde das Kupfer seine antiseptischen Eigenschaften verlieren. Zobrist wusste also, dass er keinen guten Grund hatte, darauf zu bestehen. Aber er war von einem tiefen ästhetischen und intuitiven Gespür besessen, dass es sich lohnen würde, die Idee weiterzuverfolgen. Es gelang ihm, das Team zu überzeugen, es auf einen Versuch ankommen zu lassen.
 
 
-      Zur allgemeinen Überraschung und aus bis heute ungeklärten Gründen
-      behielt die silberfarbene Legierung die antiseptischen Eigenschaften des
-      Kupfers nicht nur bei, sondern verstärkte sie sogar. Für FAVI öffnete sich
-      ein neuer Markt.\r
+      Zur allgemeinen Überraschung und aus bis heute ungeklärten Gründen behielt die silberfarbene Legierung die antiseptischen Eigenschaften des Kupfers nicht nur bei, sondern verstärkte sie sogar. Für FAVI öffnete sich ein neuer Markt.
 
 
-      Das Produktentwicklungsverfahren, mit dem FAVI diesen Durchbruch
-      erzielte, wurde mit dem japanischen Professor Shoji Shiba erarbeitet. Es
-      handelt sich um einen Designprozess, der ausdrücklich Emotion, Schönheit
-      und Intuition mit berücksichtigt^[übersetzt aus: Laloux, Frederic.
-      Reinventing Organizations. Nelson Parker (2014), S. 209]\r"
+      Das Produktentwicklungsverfahren, mit dem FAVI diesen Durchbruch erzielte, wurde mit dem japanischen Professor Shoji Shiba erarbeitet. Es handelt sich um einen Designprozess, der ausdrücklich Emotion, Schönheit und Intuition mit berücksichtigt^\[Übersetzt aus: Laloux, Frederic. Reinventing Organizations. Nelson Parker (2014), S. 209]
   - topic: Purchasing and Investments
     title: FAVI hat eine Bottom-up-Planung eingeführt im Vertrauen darauf, dass die
       Teams realistische Budgetanträge selbst stellen können. Im Konfliktfall
