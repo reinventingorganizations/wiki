@@ -523,38 +523,20 @@ theory:
   - topic: Staff Functions
     title: Bei FAVI wurden fast alle Stabsfunktionen als solche aufgelöst und in die
       „Minifabriken“ integriert.
-    content: "Im Werk von FAVI sind mehr als 500 Mitarbeitende tätig, die in 21
-      Teams, den so genannten „Minifabriken\" mit jeweils 15 bis 35 Leuten,
-      organisiert sind. Die meisten Teams sind einem bestimmten Kunden oder
-      Kundentypus zugeordnet (Volkswagen-, Audi-, Volvo-Team usw.). Es gibt
-      einige vorgelagerte Produktionsteams (Gießerei, Formenreparatur, Wartung)
-      und Unterstützungsteams (Technik, Qualität, Labor, Verwaltung,
+    content: >-
+      Im Werk von FAVI sind mehr als 500 Mitarbeitende tätig, die in 21 Teams,
+      den so genannten „Minifabriken" mit jeweils 15 bis 35 Leuten, organisiert
+      sind. Die meisten Teams sind einem bestimmten Kunden oder Kundentypus
+      zugeordnet (Volkswagen-, Audi-, Volvo-Team usw.). Es gibt einige
+      vorgelagerte Produktionsteams (Gießerei, Formenreparatur, Wartung) und
+      Unterstützungsteams (Technik, Qualität, Labor, Verwaltung,
       Vertriebssupport). Jedes Team organisiert sich selbst. Es gibt kein
       mittleres Management und praktisch keine Regeln oder
-      Verfahrensvorschriften außer denen, die die Teams selbst festlegen.\r
+      Verfahrensvorschriften außer denen, die die Teams selbst festlegen.
 
 
-      Die Stabsfunktionen sind fast alle verschwunden. Die früheren
-      Abteilungen für Personalwesen, Planung, Disposition, Technik, Produktion,
-      IT und Einkauf wurden alle aufgelöst. Ihre Aufgaben wurden von den Teams
-      übernommen, die selbst einstellen, einkaufen, planen und terminieren.\r
+      Die Stabsfunktionen sind fast alle verschwunden. Die früheren Abteilungen für Personalwesen, Planung, Disposition, Technik, Produktion, IT und Einkauf wurden alle aufgelöst. Ihre Aufgaben wurden von den Teams übernommen, die selbst einstellen, einkaufen, planen und terminieren.
 
 
-      Wenn sich Möglichkeiten ergeben, die die Grenzen mehrerer Teams
-      überschreiten, gründen die FAVI-Mitarbeitenden selbst ein Projektteam.
-      Manchmal wird eine Person mit der Aufgabe betraut, die teamübergreifende
-      Koordination zu übernehmen, aber sie hat keine Entscheidungsbefugnis. Da
-      ist zum Beispiel Denis, ein Ingenieur, dessen Aufgabe darin besteht, den
-      Teams beim Austausch von Erkenntnissen und bewährten Verfahrensweisen zu
-      helfen. Er verbringt seine Zeit damit, Maschinenbediener zu ermutigen,
-      sich anzusehen, was andere Teams entwickelt haben. Er kann ein Team nicht
-      dazu zwingen, die Ideen eines anderen Teams zu übernehmen. Er muss
-      Interesse wecken und begeistern. Wenn ihm das nicht gelingt und die Teams
-      in seiner Arbeit keinen Mehrwert sehen, dann verschwindet seine Rolle
-      natürlich, und Denis muss sich eine neue Aufgabe suchen. Er hat im
-      wahrsten Sinne des Wortes eine unterstützende Funktion. Dies ist im
-      Produktionsumfeld höchst ungewöhnlich - ein Ingenieur, der im Dienst
-      weniger hoch gebildeter aber qualifizierter Arbeiter steht, ihnen jedoch
-      nicht vorgesetzt ist.^[übersetzt aus: Laloux, Frederic. Reinventing
-      Organizations. Nelson Parker, Brüssel, Belgien (2014)]\r"
+      Wenn sich Möglichkeiten ergeben, die die Grenzen mehrerer Teams überschreiten, gründen die FAVI-Mitarbeitenden selbst ein Projektteam. Manchmal wird eine Person mit der Aufgabe betraut, die teamübergreifende Koordination zu übernehmen, aber sie hat keine Entscheidungsbefugnis. Da ist zum Beispiel Denis, ein Ingenieur, dessen Aufgabe darin besteht, den Teams beim Austausch von Erkenntnissen und bewährten Verfahrensweisen zu helfen. Er verbringt seine Zeit damit, Maschinenbediener zu ermutigen, sich anzusehen, was andere Teams entwickelt haben. Er kann ein Team nicht dazu zwingen, die Ideen eines anderen Teams zu übernehmen. Er muss Interesse wecken und begeistern. Wenn ihm das nicht gelingt und die Teams in seiner Arbeit keinen Mehrwert sehen, dann verschwindet seine Rolle natürlich, und Denis muss sich eine neue Aufgabe suchen. Er hat im wahrsten Sinne des Wortes eine unterstützende Funktion. Dies ist im Produktionsumfeld höchst ungewöhnlich - ein Ingenieur, der im Dienst weniger hoch gebildeter aber qualifizierter Arbeiter steht, ihnen jedoch nicht vorgesetzt ist.^\[Übersetzt aus: Laloux, Frederic. Reinventing Organizations. Nelson Parker, Brüssel, Belgien (2014)]
 ---
