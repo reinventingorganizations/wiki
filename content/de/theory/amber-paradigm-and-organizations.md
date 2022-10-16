@@ -275,28 +275,33 @@ intro: "Die bernsteinfarbene Stufe des Bewusstseins^\\[diese Stufe entspricht
   ##### Bernsteinfarbener Schatten: Wir gegen sie
 
 
-  Social belonging is paramount in the Amber paradigm. You are part of the
-  group, or you are not―it is “us” versus “them.” This dividing line can be
-  found throughout Amber organizations―nurses versus doctors versus
-  administrators, line versus staff, frontline versus headquarters etc. Amber
-  organizations have definitive silos, and groups eye each other with suspicion
-  across them. Co-operation and trust is enabled through procedures and rules
-  that people have to abide by.
+  Soziale Zugehörigkeit ist im Bernstein-Paradigma von größter Bedeutung. Man
+  ist Teil der Gruppe oder man ist es nicht - es ist \"wir\" gegen \"sie\".
+  Diese Trennlinie ist in allen Bernstein-Organisationen zu finden:
+  Krankenschwestern und -pfleger, Ärzte und Verwaltungsangestellte, Vorgesetzte
+  und Mitarbeiterinnen, Mitarbeiter an der Front und in der Zentrale usw.
+  Bernstein-Organisationen haben eindeutige Silos, und die Gruppen beäugen sich
+  gegenseitig mit Misstrauen. Zusammenarbeit und Vertrauen werden durch
+  Verfahren und Regeln ermöglicht, an die sich die Menschen halten müssen.
 
 
-  If there are barriers inside the organization, there is a moat between the
-  organization and the outside world. Amber organizations try wherever possible
-  to be self-contained and autonomous. Early car factories had their own rubber
-  plantations and steel mills, operated their own bakeries, and provided social
-  housing. Employees also “belong” to the organization: employment is assumed to
-  be lifelong, and much of people’s social life revolves around the
-  organization. The possibility of dismissal therefore carries a double threat:
-  employees risk losing both the identity the work gives them as well as the
-  social fabric they are embedded in. Someone who decides to leave the
-  organization is often met with bewilderment, if not accused of betrayal. Many
-  of today’s Amber organizations still have lifetime employment as an underlying
-  norm. For those who decide to leave, the process is often painful―akin to
-  shedding an old life and having to reinvent a new one."
+  Wenn es innerhalb der Organisation Barrieren gibt, besteht ein Graben
+  zwischen der Organisation und der Außenwelt. Bernstein-Organisationen
+  versuchen, wo immer möglich, in sich geschlossen und autonom zu sein. Frühe
+  Autofabriken hatten ihre eigenen Kautschukplantagen und Stahlwerke, betrieben
+  ihre eigenen Bäckereien und stellten Sozialwohnungen zur Verfügung. Auch die
+  Beschäftigten \"gehören\" zum Unternehmen: Es wird davon ausgegangen, dass sie
+  ein lebenslanges Arbeitsverhältnis haben, und ein Großteil des sozialen Lebens
+  der Menschen dreht sich um das Unternehmen. Die Möglichkeit der Entlassung
+  birgt daher eine doppelte Bedrohung: Die Beschäftigten laufen Gefahr, sowohl
+  die Identität zu verlieren, die ihnen die Arbeit verleiht, als auch das
+  soziale Gefüge, in das sie eingebettet sind. Jemand, der beschließt, die
+  Organisation zu verlassen, wird oft mit Verwunderung betrachtet, wenn nicht
+  sogar des Verrats bezichtigt. In vielen der heutigen Bernstein-Organisationen
+  ist die lebenslange Beschäftigung immer noch die grundlegende Norm. Für
+  diejenigen, die sich entschließen, die Organisation zu verlassen, ist der
+  Prozess oft schmerzhaft - ähnlich wie wenn man ein altes Leben aufgibt und ein
+  neues Leben beginnen muss."
 perspective: ""
 inPractice: ""
 ---
