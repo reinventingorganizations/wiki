@@ -158,30 +158,24 @@ inPractice: "#### Rollen statt Stellen
   erworben haben, fähig, hilfreich und vertrauenswürdig zu sein.
 
 
-  There can be various degrees of formality in the process of how roles are
-  allocated to colleagues, but they all essentially involve peer consultation
-  and agreement. Roles with more responsibility and scope (which typically are
-  rewarded with higher compensation) tend to be given to colleagues who have
-  built up a reputation to be capable, helpful and trustworthy.
+  ##### Informelle Rollenverteilung
 
 
-  ##### Informal role allocation
+  Wenn eine neue Rolle geschaffen wird, gibt es in vielen Fällen einen
+  offensichtlichen Kandidaten, der sich von selbst ergibt. Das kann die Person
+  sein, die den Bedarf für die neue Rolle erkannt hat, oder ein anderes
+  Teammitglied, das von allen als die natürliche Person für diese Rolle
+  angesehen wird. Oft ist nur eine kleine Diskussion erforderlich. Eine einfache
+  Frage in einer Teamsitzung (\"Wer hat Lust, diese Rolle zu übernehmen?\" oder
+  \"Ich glaube, Catherine wäre die natürliche Person für diese Rolle, was meinen
+  Sie?\") reicht aus.
 
 
-  When a new role is created, in many cases there is a obvious candidate that
-  emerges naturally. It might be the person who sensed the need for the new
-  role, or another team member that everyone sees as the natural person to fill
-  the role. Often, very little discussion is needed. A simple question in a team
-  meeting (\"Who feels like taking on this role?\" or \"I feel Catherine would
-  be the be the natural person to take on this role, what do you think?\") is
-  all that is needed.
+  ##### Formale Rollenverteilung
 
 
-  ##### Formal role allocation
-
-
-  In some cases, several candidates express heavy interest in the same role
-  and a more formal process might be called for:\ 
+  In manchen Fällen bekunden mehrere Bewerber großes Interesse an derselben
+  Stelle, so dass ein förmlicheres Verfahren erforderlich sein kann:\ 
 
 
   * *Interviews*: Candidates may be interviewed by those who will work closely
