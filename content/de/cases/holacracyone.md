@@ -106,23 +106,27 @@ theory:
 
       * Wenn ja, wird geprüft, ob der Kandidat \"fit für die Rolle\" ist."
   - topic: Role Definition and Allocation
-    title: An internal "Role Market place" to help in trading roles
-    content: >-
-      HolacracyOne has set up a company-wide Role Market Place in order to make
-      trading roles easy (in holacratic language, this is an “app;” it’s not
-      part of the basic operating system). On the company’s intranet is a file
-      where colleagues can “rate” every role they currently fill, using a scale
-      of -3 to +3:
+    title: Ein interner "Rollenmarktplatz" zur Unterstützung des Rollenhandels
+    content: "[HolacracyOne ](https://www.holacracy.org/holacracyone/about)hat einen
+      unternehmensweiten Rollenmarktplatz eingerichtet, um den Rollentausch zu
+      erleichtern. Im Intranet des Unternehmens gibt es eine Datei, in der
+      Kollegen jede Rolle, die sie derzeit ausfüllen, auf einer Skala von -3 bis
+      +3 \"bewerten\" können:
 
 
-      * If they find the role energizing (+) or draining (-).
+      * Ob sie die Rolle anregend (+) oder belastend (-) finden. \r
 
-      * If they find their talents aligned (+) or not (-) with this role.
+      * Ob sie ihre Talente mit dieser Rolle in Einklang bringen (+) oder
+      nicht (-). \r
 
-      * If they find their current skills and knowledge conducive to (+) or limiting in (-) this role.
+      * Ob sie ihre derzeitigen Fähigkeiten und Kenntnisse als förderlich
+      (+) oder einschränkend (-) für diese Rolle empfinden.
 
 
-      Using the same scale of -3 to +3, people can also signal their interest in roles currently filled by other people. The market place helps people wanting to offload or pick up roles.
+      Auf der gleichen Skala von -3 bis +3 können Personen auch ihr
+      Interesse an Rollen signalisieren, die derzeit von anderen Personen
+      besetzt sind. Der Marktplatz hilft also Menschen, die Rollen abgeben oder
+      übernehmen wollen."
   - topic: Commitment, Working Hours and Flexibility
     title: HolacracyOne uses a regular meeting practice for colleagues to share and
       discuss commitment.
