@@ -1,69 +1,91 @@
 ---
 layout: case
-date: 2020-11-09
 tags: cases
 name: HolacracyOne
-introduction: Founded in 2007 by Brian Robertson and Tom Thomison, HolacracyOne
-  is the company spearheading the development of the Holacracy framework.
+date: 2020-11-09
+introduction: HolacracyOne wurde 2007 von Brian Robertson und Tom Thomison
+  gegründet und ist das Unternehmen, das an der Spitze der Entwicklung des
+  Holacracy-Frameworks steht.
 industry: S. Other service activities
 geography: USA
 companySize: 1-100
 profit: Profit
 theory:
   - topic: Meetings
-    title: HolacracyOne has created an effective set of meetings serving a specific
-      purpose
-    content: >-
-      In Holacracy there are 4 meeting types:
+    title: HolacracyOne hat eine effektive Reihe von Treffen geschaffen, die einem
+      bestimmten Zweck dienen
+    content: "In Holacracy gibt es 4 Arten von Meetings:\r
+
+      Alle Sitzungen beginnen mit einem \"Check-in\" und enden mit einem
+      \"Check-out\".
 
 
-      All meetings start with a 'check-in" and close with a 'check-out'.
+      Taktische Besprechungen:  Diese kurzen täglichen oder wöchentlichen
+      Treffen dienen dem operativen Prozess. Hier wird die Arbeit koordiniert.
+      Operative Prozesse werden angesprochen, Maßnahmen beschlossen und Dinge
+      erledigt.\ 
 
 
-      Tactical meetings:  These short daily or weekly meetings serve the operational process. Here work is coordinated. Operational processes are addressed, actions decided, and things get done. 
+      Strategische Sitzungen:  Diese seltenen Treffen haben keine
+      spezifische Form und sind ein Prozess, bei dem darüber nachgedacht wird,
+      wie man dem [evolutionären Sinn] am besten dienen
+      kann.(../evolutionary-purpose/)
 
 
-      Strategic meetings:  These rare meetings have no specific form and process thinking about how to best serve the [evolutionary purpose.](../evolutionary-purpose/)
+      Sitzungen zu besonderen Themen:   Sie finden statt, wenn ein Thema
+      besondere Aufmerksamkeit erfordert. Auch diese Sitzungen haben keine
+      besondere Form.
 
 
-      Special topic meetings:   Held when a topic calls for special attention. These meetings also have no specific form.
+      Governance-Sitzungen:  Diese Besprechungen beschränken sich auf die
+      Rollenverteilung und die Zusammenarbeit, nicht auf das raue Treiben bei
+      der Erledigung der Arbeit. Letztere sind für taktische Sitzungen
+      gedacht.  Governance-Sitzungen finden in der Regel jeden Monat statt. Sie
+      folgen einem strikten Verfahren, um sicherzustellen, dass jeder zu Wort
+      kommt und niemand die Entscheidungsfindung dominieren
+      kann.(../decision-making/). Eine Moderatorin leitet das Verfahren durch
+      den folgenden Prozess:
 
 
-      Governance meetings:  These meetings are restricted to roles, and collaboration; not the rough and tumble of getting work done. The latter are for tactical meetings.  Governance meetings are held generally every month. They follow strict process to ensure everybone’s voice is heard and that no one can dominate [decision-making](../decision-making/). A facilitator guides the proceeding via the following process:
+      1. Vorschlag präsentieren\r
 
+      2. Klärende Fragen\r
 
-      1. Present proposal
+      3. Reaktionsrunde\r
 
-      2. Clarifying questions
+      4. Ändern und klären\r
 
-      3. Reaction round
-
-      4. Amend and clarify
-
-      5. Objection round
+      5. Einspruchsrunde\r
 
       6. Integration
 
 
-      The process might sound formal and needs to get used to, but people who use it report they find it deeply liberating and dramatically efficient.
+      Das Verfahren mag formell und gewöhnungsbedürftig klingen, aber
+      Menschen, die es anwenden, berichten, dass sie es als sehr befreiend und
+      äußerst effizient empfinden."
   - topic: Coordination
-    title: HolocracyOne has set-up a company-wide Role Market Place to help
-      coordinate workload
-    content: >-
-      [HolacracyOne ](https://www.holacracy.org/holacracyone/about)has set up a
-      company-wide Role Marketplace in order to make trading roles easy. On the
-      company’s intranet is a file where colleagues can “rate” every role they
-      currently fill, using a scale of -3 to +3:
+    title: HolocracyOne hat einen unternehmensweiten Rollenmarktplatz eingerichtet,
+      um die Arbeitsbelastung zu koordinieren
+    content: "[HolacracyOne ](https://www.holacracy.org/holacracyone/about)hat einen
+      unternehmensweiten Rollenmarktplatz eingerichtet, um den Rollentausch zu
+      erleichtern. Im Intranet des Unternehmens gibt es eine Datei, in der
+      Kollegen jede Rolle, die sie derzeit ausfüllen, auf einer Skala von -3 bis
+      +3 \"bewerten\" können:
 
 
-      * If they find the role energizing (+) or draining (-). 
+      * Ob sie die Rolle anregend (+) oder belastend (-) finden. \r
 
-      * If they find their talents aligned (+) or not (-) with this role. 
+      * Ob sie ihre Talente mit dieser Rolle in Einklang bringen (+) oder
+      nicht (-). \r
 
-      * If they find their current skills and knowledge conducive to (+) or limiting in (-) this role.
+      * Ob sie ihre derzeitigen Fähigkeiten und Kenntnisse als förderlich
+      (+) oder einschränkend (-) für diese Rolle empfinden.
 
 
-      Using the same scale of -3 to +3, people can also signal their interest in roles currently filled by other people. The marketplace thus helps people wanting to offload or pick up roles.
+      Auf der gleichen Skala von -3 bis +3 können Personen auch ihr
+      Interesse an Rollen signalisieren, die derzeit von anderen Personen
+      besetzt sind. Der Marktplatz hilft also Menschen, die Rollen abgeben oder
+      übernehmen wollen."
   - topic: Recruitment
     title: Team members qualify candidates based on fit for organization, purpose
       and role.
