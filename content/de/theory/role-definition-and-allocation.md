@@ -178,24 +178,26 @@ inPractice: "#### Rollen statt Stellen
   Stelle, so dass ein förmlicheres Verfahren erforderlich sein kann:\ 
 
 
-  * *Interviews*: Candidates may be interviewed by those who will work closely
-  with them.  Interviewers can choose to decide on the winning candidate using a
-  number of [decision making](../decision-making/) mechanisms, such as
-  consensus, majority vote or the advice process.\ 
+  * Vorstellungsgespräche*: Die Bewerberinnen können von denjenigen befragt
+  werden, die eng mit ihnen zusammenarbeiten werden.  Die Interviewer können die
+  Entscheidung über den siegreichen Kandidaten mit Hilfe einer Reihe von
+  [Entscheidungsfindungs-](../decision-making/) Mechanismen treffen, wie z.B.
+  Konsens, Mehrheitsabstimmung oder das Beratungsverfahren. \r
 
-  * *Elections*: [Sociocracy ](https://en.wikipedia.org/wiki/Sociocracy)and
-  [Holacracy ](http://www.holacracy.org/)use a consent-based election process
-  for certain roles. Colleagues nominate their preferred candidates. A
-  facilitator then helps the group to decide.
+  * *Wahlen*: [Soziokratie ](https://en.wikipedia.org/wiki/Sociocracy)und
+  [Holacracy ](http://www.holacracy.org/)verwenden ein auf Zustimmung
+  basierendes Wahlverfahren für bestimmte Rollen. Die Kollegen nominieren ihre
+  bevorzugten Kandidaten. Ein Moderator hilft dann der Gruppe bei der
+  Entscheidung.\r
 
-  * *Advice Process*: One person (for instance, the person who sensed the need
-  for the new role, or someone others trust to lead this process well) steps
-  forward and seeks advice for who would be the best person to fill a new role
-  before making a decision.
+  *Beratungsprozess*: Eine Person (z. B. die Person, die den Bedarf für die
+  neue Rolle erkannt hat, oder jemand, dem andere vertrauen, dass er diesen
+  Prozess gut leitet) tritt vor und holt Rat ein, wer die beste Person für die
+  Besetzung einer neuen Rolle wäre, bevor eine Entscheidung getroffen wird.\r
 
-  * *Designated Authority*: Allocating roles can be a role itself: in
-  Holacracy, the \"Lead Link\" is a role that comes, among other, with the
-  authority to allocate operational roles.\ 
+  *Benannte Autorität*: Die Zuweisung von Rollen kann selbst eine Rolle sein:
+  in Holacracy ist der \"Lead Link\" eine Rolle, die unter anderem mit der
+  Autorität ausgestattet ist, operative Rollen zuzuweisen.\ 
 
 
   #### Trading roles
