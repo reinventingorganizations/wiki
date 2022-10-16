@@ -188,27 +188,31 @@ intro: "Die bernsteinfarbene Stufe des Bewusstseins^\\[diese Stufe entspricht
   Vorherrschaft und Monopolstellung.
 
 
-  ##### Amber breakthrough 2: Size and stability (formal hierarchies)
+  ##### Bernsteinfarbener Durchbruch 2: Größe und Stabilität (formale
+  Hierarchien)
 
 
-  In Red organizations, power structures are in constant flux as personalities
-  jockey for influence. Amber organizations bring stability to power, with
-  formal titles, fixed hierarchies, and organization charts. The overall
-  structure settles into a well defined hierarchy. The plant manager is in
-  charge of the department heads, who in turn oversee unit managers, line
-  managers, foremen, and operators. Personal allegiance to the chief is no
-  longer needed because everyone knows where they fit in the hierarchy. Much
-  larger organizations become possible, spanning not hundreds but thousands of
-  workers, and they can operate across vast distances. Mankind’s first global
-  organizations―from the Catholic Church to the East India Company―were built on
-  a Amber template.
+  In roten Organisationen sind die Machtstrukturen in ständigem Wandel
+  begriffen, da Persönlichkeiten um Einfluss ringen. Bernsteinfarbene
+  Organisationen bringen Stabilität in die Macht, mit formalen Titeln, festen
+  Hierarchien und Organigrammen. Die Gesamtstruktur ist in einer klar
+  definierten Hierarchie verankert. Der Betriebsleiter ist den Abteilungsleitern
+  unterstellt, die wiederum die Abteilungsleiter, Linienleiter, Vorarbeiter und
+  Bediener beaufsichtigen. Persönliche Loyalität gegenüber dem Chef ist nicht
+  mehr erforderlich, da jeder weiß, wo er in der Hierarchie steht. Viel größere
+  Organisationen werden möglich, die nicht nur Hunderte, sondern Tausende von
+  Mitarbeitern umfassen und über große Entfernungen hinweg arbeiten können. Die
+  ersten globalen Organisationen der Menschheit - von der katholischen Kirche
+  bis zur East India Company - wurden nach dem Vorbild von Amber aufgebaut.
 
 
-  Planning and execution are strictly separated: the thinking happens at the
-  top, the doing at the bottom. Decisions made at the top get handed down
-  through successive layers of management. Control is maintained through
-  compliance with rules and procedures. Leaders at all levels are given
-  responsibility for compliance and can discipline those found wanting..
+  Planung und Ausführung sind strikt voneinander getrennt: Das Denken erfolgt
+  an der Spitze, das Handeln an der Basis. Entscheidungen, die an der Spitze
+  getroffen werden, werden durch aufeinander folgende Managementebenen
+  weitergegeben. Die Kontrolle wird durch die Einhaltung von Regeln und
+  Verfahren aufrechterhalten. Führungskräfte auf allen Ebenen sind für die
+  Einhaltung der Vorschriften verantwortlich und können diejenigen, die sich
+  nicht daran halten, disziplinieren.
 
 
   The underlying worldview is that workers are mostly lazy, dishonest, and in
