@@ -154,22 +154,24 @@ intro: "Die bernsteinfarbene Stufe des Bewusstseins^\\[diese Stufe entspricht
   Prozesse)
 
 
-  Red organizations tend to be opportunistic; they don’t generally think more
-  than a few weeks ahead. Amber organizations can take on long-term
-  projects―constructing cathedrals that might take two centuries to complete or
-  creating networks of colonial trading posts thousands of miles away to
-  facilitate commerce.
+  Rote Organisationen neigen dazu, opportunistisch zu sein; sie denken im
+  Allgemeinen nicht mehr als ein paar Wochen im Voraus. Bernsteinfarbene
+  Organisationen können langfristige Projekte in Angriff nehmen - den Bau von
+  Kathedralen, deren Fertigstellung zwei Jahrhunderte dauern kann, oder die
+  Schaffung von Netzwerken kolonialer Handelsposten, die Tausende von Meilen
+  entfernt sind, um den Handel zu erleichtern.
 
 
-  This breakthrough is very much linked to the invention of processes. With
-  processes, we can replicate past experience into the future. Last year’s
-  harvest will be our template for this year’s; next year’s classroom will be
-  run with the same lesson plan as this year’s. With processes, critical
-  knowledge no longer depends on a particular person; it is embedded in the
-  organization and can be transmitted across generations. Any person can be
-  replaced by another that takes over the same role in the process. Even the
-  chief is replaceable, in an orderly succession, and Amber organizations can
-  therefore survive for centuries.
+  Dieser Durchbruch steht in engem Zusammenhang mit der Erfindung von
+  Prozessen. Mit Prozessen können wir vergangene Erfahrungen in die Zukunft
+  übertragen. Die Ernte des letzten Jahres wird unsere Vorlage für die
+  diesjährige sein; der Unterricht im nächsten Jahr wird nach demselben Lehrplan
+  wie in diesem Jahr durchgeführt. Mit Prozessen hängt kritisches Wissen nicht
+  mehr von einer bestimmten Person ab; es ist in der Organisation verankert und
+  kann über Generationen hinweg weitergegeben werden. Jede Person kann durch
+  eine andere ersetzt werden, die die gleiche Rolle im Prozess übernimmt. Sogar
+  der Chef ist ersetzbar, in einer geordneten Abfolge, und
+  Bernstein-Organisationen können daher Jahrhunderte überleben.
 
 
   At an individual level, people operating from a Amber paradigm strive for
