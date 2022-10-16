@@ -128,18 +128,19 @@ theory:
       besetzt sind. Der Marktplatz hilft also Menschen, die Rollen abgeben oder
       übernehmen wollen."
   - topic: Commitment, Working Hours and Flexibility
-    title: HolacracyOne uses a regular meeting practice for colleagues to share and
-      discuss commitment.
-    content: During these meetings, colleagues discuss how much time and energy, at
-      that moment in their lives, they want to commit to the organization’s
-      purpose. The rationale behind this regular meeting is for each person to
-      make a conscious choice about how much time and energy they are willing to
-      commit. At the same time, the meeting practice gives all colleagues a
-      conscious way of holding and recognizing that as humans, everyone has
-      multiple endeavors that interest and enliven them, and that each person is
-      choosing how much time and energy they want to give to any particular
-      purpose^[Laloux, Frederic. Reinventing Organizations. Nelson Parker
-      (2014), page 182].
+    title: HolacracyOne nutzt eine regelmäßige Versammlungspraxis für Kollegen, um
+      Verpflichtungen zu teilen und zu diskutieren.
+    content: "Bei diesen Treffen bpricht das Kollegium darüber, wie viel Zeit und
+      Energie es zu diesem Zeitpunkt in seinem Leben für den Zweck der
+      Organisation aufwenden möchte. Der Grundgedanke hinter diesen regelmäßigen
+      Treffen ist, dass jeder Einzelne eine bewusste Entscheidung darüber
+      treffen kann, wie viel Zeit und Energie er bereit ist zu investieren.
+      Gleichzeitig gibt die Besprechungspraxis allen Kolleginnen und Kollegen
+      die Möglichkeit, sich bewusst zu machen und anzuerkennen, dass jeder
+      Mensch mehrere Beschäftigungen hat, die ihn interessieren und beleben, und
+      dass jede Person selbst entscheidet, wie viel Zeit und Energie sie einem
+      bestimmten Zweck widmen möchte^[Übersetzt aus: Laloux, Frederic.
+      Reinventing Organizations. Nelson Parker (2014), Seite 182]."
   - topic: Compensation and incentives
     title: "HolacracyOne, the small consultancy/training company behind Holacracy,
       uses a ranking mechanism, which feeds an algorithm that allocates
