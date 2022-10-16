@@ -210,7 +210,7 @@ theory:
       ob ein Kollege bereit wäre, für einen Zeitraum von vier Monaten die
       Schicht zu tauschen. Es wurde schnell eine Lösung gefunden, ohne dass ein
       formeller HR-Genehmigungsprozess oder die Zustimmung des Managements
-      erforderlich war.^\\[übersetzt aus: Laloux, Frederic. Reinventing
+      erforderlich war.^\\[Übersetzt aus: Laloux, Frederic. Reinventing
       Organizations. Nelson Parker (2014), S. 183]"
   - topic: Job Titles and Job Descriptions
     title: Ein Mitarbeitender bei FAVI kann verschiedene Maschinen bedienen,
