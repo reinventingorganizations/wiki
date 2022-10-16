@@ -251,44 +251,71 @@ faq:
       daran, dass Rollen fließend geschaffen, geändert, ausgetauscht und
       abgeschafft werden können, und zwar durch kollegiale statt von oben nach
       unten gesteuerte Prozesse. "
-  - question: What kind of "management" roles can be given to team members?
-    answer: >-
-      In traditional organizations, managers act on behalf of those below them.
-      Many such ‘management’ tasks disappear in self-managing organizations.
-      Those that are still needed can be distributed among team members. For
-      example:
+  - question: Welche Art von "Management"-Rollen können den Teammitgliedern
+      zugewiesen werden?
+    answer: "In traditionellen Organisationen handeln die Führungskräfte im Namen
+      der ihnen unterstellten Mitarbeitenden. In selbstverwalteten
+      Organisationen fallen viele dieser \"Management\"-Aufgaben weg.
+      Diejenigen, die noch benötigt werden, können auf die Teammitglieder
+      verteilt werden. Zum Beispiel:\r
 
+      \r
 
-      * *Anticipating*: Everyone can anticipate the future, but some teams might find it useful to have one person dedicate time to anticipate the need for long term changes.
+      * *Vorhersehen*: Jeder kann die Zukunft vorhersehen, aber einige
+      Teams könnten es als nützlich erachten, wenn eine Person Zeit aufwendet,
+      um die Notwendigkeit langfristiger Veränderungen vorherzusehen.\r
 
-      * *Planning*: This can be further broken down, for instance into shift planning, raw material planning, etc. 
-        Setting objectives: Individuals and teams can set objectives to spur themselves on. One person can take the lead using the advice process. 
-      * *Monitoring performance indicators*: Compiling data into easy to understand insights to share with the team.
+      * *Planen*: Dies kann weiter untergliedert werden, z. B. in
+      Schichtplanung, Rohstoffplanung usw. \r
 
-      * *Recruiting*: Taking the lead in the recruitment process of new team members.
+      * *Ziele setzen*: Einzelpersonen und Teams können sich Ziele setzen,
+      um sich anzuspornen. Eine Person kann im Rahmen des Beratungsprozesses die
+      Führung übernehmen. \r
 
-      * *On-boarding:* Taking the lead in organizing the on-boarding of new team members.
+      * *Überwachung von Leistungsindikatoren*: Zusammenstellung von Daten
+      zu leicht verständlichen Erkenntnissen, die mit dem Team geteilt werden
+      können.\r
 
-      * *Coaching*: Coaching junior team members, or anyone asking for coaching.
+      * *Rekrutierung*: Übernahme der Federführung beim
+      Einstellungsprozess neuer Teammitglieder.\r
 
-      * *Mediating*: Mediating conflicts.
+      * *Onboarding*: Übernahme der Federführung bei der Organisation des
+      Onboarding neuer Teammitglieder.\r
 
-      * *Facilitating*: Facilitating team meetings and decision making processes.
+      * *Coaching*: Coaching von jüngeren Teammitgliedern oder von
+      Personen, die um ein Coaching bitten.\r
 
-      * *Scribe*: Documenting important conversations and decisions of the team.
+      * *Mediation*: Schlichten von Konflikten.\r
 
-      * *Knowledge management*: Capturing and codifying  insights.
+      * *Moderieren*: Moderation von Teamsitzungen und
+      Entscheidungsfindungsprozessen.\r
 
-      * *Continuous improvement*: Taking the lead in maintaining processes for continuous improvement.
+      * *Schreiben*: Dokumentieren von wichtigen Gesprächen und
+      Entscheidungen des Teams.\r
 
-      * *Coordinating with outside parties*: Being the contact person for certain constituencies outside of the team ("I'm coordinating with the marketing team") or outside the organization ("I'm coordinating with hospitals, you are liaising with pharmacies"). 
+      * *Wissensmanagement*: Erfassen und Kodifizieren von
+      Erkenntnissen.\r
 
-      * *Sensing team mood*: Sensing how the team as a whole and persons within the team feel, and initiate conversations when needed.
+      * *Kontinuierliche Verbesserung*: Die Führung bei der
+      Aufrechterhaltung von Prozessen zur kontinuierlichen Verbesserung
+      übernehmen.\r
 
-      * *Organizing social events*: Creating events that build community feeling.
+      * *Koordinierung mit externen Parteien*: Ansprechpartner für
+      bestimmte Kreise außerhalb des Teams (\"Ich koordiniere mit dem
+      Marketingteam\") oder außerhalb der Organisation (\"Ich koordiniere mit
+      den Krankenhäusern, Sie mit den Apotheken\") sein. \r
 
+      * *Erkennen der Stimmung im Team*: Wahrnehmen, wie sich das Team als
+      Ganzes und die Personen innerhalb des Teams fühlen, und bei Bedarf
+      Gespräche initiieren.\r
 
-      The advice process is the basis for which to make decision in these roles.
+      * *Organisieren von gesellschaftlichen Ereignissen*: Veranstaltungen
+      schaffen, die das Gemeinschaftsgefühl fördern.\r
+
+      \r
+
+      Der Beratungsprozess bildet die Grundlage für die
+      Entscheidungsfindung in diesen Rollen."
   - question: How do these practices link with the three Teal breakthroughs?
     answer: >-
       #### Self-management
