@@ -34,7 +34,7 @@ theory:
       Andere Mitarbeitende haben die Idee inzwischen aufgegriffen und legen
       ihren Sendungen zu beliebigen Zeiten im Jahr Messingfiguren bei als kleine
       „Liebesbeweise“ für die Menschen an den Fließbändern bei Volkswagen oder
-      Volvo, die die Figuren beim Auspacken der Kartons finden.^\\[übersetzt
+      Volvo, die die Figuren beim Auspacken der Kartons finden.^\\[Übersetzt
       aus: Laloux, Frederic (2014-02-09). Reinventing Organizations: A Guide to
       Creating Organizations Inspired by the Next Stage of Human Consciousness
       (Kindle Locations 4371-4378). Nelson Parker. Kindle Edition.]"
