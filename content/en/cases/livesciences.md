@@ -197,4 +197,44 @@ theory:
 
 
       *Status of August 2022*
+  - topic: Information Flow
+    title: LIVEsciences believes that information transparency is a key element of a
+      healthy culture and the basis for efficient and effective decision-making.
+    content: >-
+      LIVEsciences believes that information transparency is a key element of a
+      healthy culture and 
+
+      the basis for efficient and effective decision-making. Every employee has access to all 
+
+      business information to be able to sense and make the best decisions in serving the company. Those decisions include strategic company decisions, governance decisions, hiring decisions, 
+
+      or employee training records. individual decisions.
+
+
+      On **Google Drive**, general information like cashflow forecast, CRM, project pipeline, and recruitment information are accessible for each employee. Individual information is transparent e.g. salary information, utilization rate, capacity planning, or vacation planning. Other platforms reveal information on booked hours, expense claims, and credit card billing. More detailed information on the financial situation of LIVEsciences is always available from the finance role holders.
+
+
+
+      It lies in each employee's accountability to update all information so that LIVEsciences employees have an up-to-date overview of the key data.
+
+
+
+      LIVEsciences employees mostly use **Slack** for their day-to-day communication. In Slack all  levels of communication from 1:1, client project teams, governance information, or whole team communication take place. Slack is used for sharing knowledge, announcing decisions taken, asking for urgent support within the team, and sharing fun information.
+
+
+      Within the **standing meetings**, (see “Meetings”) LIVEsciences employees have some
+
+      focused time to exchange information. For example, in the Weekly meeting,day-to-day
+
+      information is shared in the Orange Meeting key metrics are shared, and in the Governance Meeting, governance proposals are decided on. Employees can follow up on these meetings by recordings, Miro boards, or information exchanged on Slack.
+
+
+      LIVEsciences also believes that everyone is able to handle **difficult and sensitive news**. Therefore, financially critical phases are shared with all employees to take advantage of the collective intelligence to find solutions and make the right decisions for the company.
+
+
+      The current structure and role holder of LIVEsciences are displayed and publicly accessible in **Holaspirit** (https://app.holaspirit.com/public/livesciences-ag). This makes it especially easy for employees to reach out to the right role owner and hold others accountable.
+
+
+
+      *Status of August 2022*
 ---
