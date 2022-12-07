@@ -16,7 +16,7 @@ geography: Switzerland
 companySize: 1-100
 profit: Profit
 theory:
-  - topic: Coordination
+  - topic: Meetings
     title: "Meetings: LIVEsciences has implemented several meetings to support its
       structure."
     content: >-
