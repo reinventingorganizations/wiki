@@ -19,9 +19,6 @@ theory:
   - topic: Meetings
     title: LIVEsciences has implemented several meetings to support its structure.
     content: >-
-      LIVEsciences has implemented several meetings to support its structure.
-
-
       **Weekly**
 
 
@@ -86,9 +83,6 @@ theory:
   - topic: Decision Making
     title: At LIVEsciences, there are three types of decision making.
     content: >-
-      At LIVEsciences, there are three types of decision making.
-
-
       * Single decision making with advice
 
       * Consent
@@ -165,8 +159,6 @@ theory:
     title: LIVEsciences believes that information transparency is a key element of a
       healthy culture and the basis for efficient and effective decision-making.
     content: >-
-      LIVEsciences believes that information transparency is a key element of a
-      healthy culture and the basis for efficient and effective decision-making.
       Every employee has access to all business information to be able to sense
       and make the best decisions in serving the company. Those decisions
       include strategic company decisions, governance decisions, hiring
@@ -203,9 +195,8 @@ theory:
     title: "LIVEsciences has self-set salaries following a process that was adapted
       over the years. "
     content: >-
-      LIVEsciences has self-set salaries following a process that was adapted
-      over the years. Every employee sets their salary for one year without
-      ranges, levels, or limitations.
+      Every employee sets their salary for one year without ranges, levels, or
+      limitations.
 
 
       While this process is evolving, LIVEsciences followed these steps in its most recent compensation cycle:
