@@ -175,4 +175,26 @@ theory:
 
 
       *Status of August 2022*
+  - topic: Conflict resolution
+    title: Conflicts and Dismissal
+    content: >-
+      LIVEsciences believes that conflicts are born in personal subjective
+      emotions and tensions and that ignoring tensions causes them to escalate
+      into serious conflict. To avoid this, the following steps are followed to
+      address and resolve specifically interpersonal tensions:
+
+
+      1. The affected colleagues sit together and try to sort the tension out privately or process it in a dedicated meeting.
+
+      2. If they can’t find a solution agreeable to everyone, they nominate a colleague they trust to act as a mediator or call an external mediator. The mediator doesn’t impose a decision. Rather, he or she supports the participants in coming to their own solution.
+
+      3. If a tension cannot be resolved with the first two steps, the person with the tension can make a proposal for dismissal in Consent Decision Mode, where everybody can object except the person who is proposed to be dismissed. When there is no objection, the responsible person owning this accountability (currently Admin/Legal) is asked to formally give notice on behalf of the consent decision taken before.
+
+
+
+      LIVEsciences also processes tensions within the system in a dedicated Tension Meeting and tensions on the system in the Governance Meeting (see “Meetings” for further information).
+
+
+
+      *Status of August 2022*
 ---
