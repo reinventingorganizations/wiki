@@ -24,7 +24,7 @@ theory:
 
       The LIVEsciences team comes together once a week for 2 hours. The first part of the Weekly
 
-      meeting follows the Holacracy Tactical Meetings format to focus on operational work and operational tensions. The second part is focused on exchange and connection. In this part, they focus on bringing their culture and values (captured in the LIVEline *https://livesciences.com/liveline/) to life and reflecting on it. Team members then share how their week was in general e.g. on project work or upskilling. Further team members can share their stress level, learnings, praise, and success of the week.
+      meeting follows the Holacracy Tactical Meetings format to focus on operational work and operational tensions. The second part is focused on exchange and connection. In this part, they focus on bringing their culture and values (captured in the LIVEline* https://livesciences.com/liveline/) to life and reflecting on it. Team members then share how their week was in general e.g. on project work or upskilling. Further team members can share their stress level, learnings, praise, and success of the week.
 
 
       **Tension meeting**
@@ -83,6 +83,8 @@ theory:
   - topic: Decision Making
     title: At LIVEsciences, there are three types of decision making.
     content: >-
+      
+
       * Single decision making with advice
 
       * Consent
