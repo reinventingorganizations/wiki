@@ -283,4 +283,10 @@ theory:
 
 
       *Status of August 2022*
+  - topic: Recruitment
+    title: -title-
+    content: \-content-
+  - topic: Meetings
+    title: -title-
+    content: \-content
 ---
