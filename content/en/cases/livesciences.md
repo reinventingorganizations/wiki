@@ -17,25 +17,17 @@ companySize: 1-100
 profit: Profit
 theory:
   - topic: Meetings
-    title: "Meetings: LIVEsciences has implemented several meetings to support its
-      structure."
+    title: LIVEsciences has implemented several meetings to support its structure.
     content: >-
+      LIVEsciences has implemented several meetings to support its structure.
+
+
       **Weekly**
 
 
       The LIVEsciences team comes together once a week for 2 hours. The first part of the Weekly
 
-      meeting follows the Holacracy Tactical Meetings format to focus on operational work and
-
-      operational tensions. The second part is focused on exchange and connection. In this part,
-
-      they focus on bringing their culture and values (captured in the LIVEline*
-
-      https://livesciences.com/liveline/) to life and reflecting on it. Team members then share how
-
-      their week was in general e.g. on project work or upskilling. Further team members can share
-
-      their stress level, learnings, praise, and success of the week.
+      meeting follows the Holacracy Tactical Meetings format to focus on operational work and operational tensions. The second part is focused on exchange and connection. In this part, they focus on bringing their culture and values (captured in the LIVEline *https://livesciences.com/liveline/) to life and reflecting on it. Team members then share how their week was in general e.g. on project work or upskilling. Further team members can share their stress level, learnings, praise, and success of the week.
 
 
       **Tension meeting**
@@ -43,11 +35,7 @@ theory:
 
       The one-hour tension meeting takes place every two weeks to process all emotional
 
-      tribe-related tensions (tensions in the system). A template is used which follows the structure
-
-      of non-violent communication. Tensions might be solved by being shared and discussed,
-
-      specific actions to be taken, or they might be revisited again later. 
+      tribe-related tensions (tensions in the system). A template is used which follows the structure of non-violent communication. Tensions might be solved by being shared and discussed, specific actions to be taken, or they might be revisited again later. 
 
 
       * Tension Description  (*Observation/ My emotion with it/ My need/ My wish*)
@@ -70,60 +58,38 @@ theory:
 
       The governance meeting takes place every month for 90 minutes. Within this meeting,
 
-      governance changes are processed by using the consent decision-making after a proposal is
-
-      raised. Further tensions directed towards any governance topic are processed (tensions on
-
-      the system). Proposals follow the structure of describing the tension, proposal and next steps
-
-      to be taken. Once the proposal follows the consent decision process the governance decision
-
-      will be implemented.
+      governance changes are processed by using the consent decision-making after a proposal is raised. Further tensions directed towards any governance topic are processed (tensions on the system). Proposals follow the structure of describing the tension, proposal and next steps to be taken. Once the proposal follows the consent decision process the governance decision will be implemented.
 
 
       **Orange Week Kick-Off**
 
 
-      Every second-week LIVEsciences has a 1-hour meeting focusing on several financial metrics.
-
-      Even though all numbers and metrics are transparent, this meeting ensures that information is
-
-      understood by everyone. Furthermore, it gives room to ask questions and discuss.
+      Every second-week LIVEsciences has a 1-hour meeting focusing on several financial metrics. Even though all numbers and metrics are transparent, this meeting ensures that information is understood by everyone. Furthermore, it gives room to ask questions and discuss.
 
 
       **Coffee machine meeting**
 
 
-      Once a week a virtual coffee machine meeting takes place for 15 minutes for anyone that
-
-      would like to connect with others.
+      Once a week a virtual coffee machine meeting takes place for 15 minutes for anyone that would like to connect with others.
 
 
       **Offsite**
 
 
-      Every 4-6 weeks the LIVEsciences team meets for 2-3 days face-to-face to create belonging,
-
-      trust, and connection within the team. This time is also used for some efficient face-to-face
-
-      working, upskilling, or team development.
+      Every 4-6 weeks the LIVEsciences team meets for 2-3 days face-to-face to create belonging, trust, and connection within the team. This time is also used for some efficient face-to-face working, upskilling, or team development.
 
 
-      **\*LIVEline:** The LIVEline gives an impression of the character of LIVEsciences. It summarises
-
-      who they are and what they think is the right way of working together. For example, it includes
-
-      values, principles, and behaviors the team is striving for and triggers passionate discussions
-
-      on different situations in their day-to-day work life (https://livesciences.com/liveline/).
+      **\*LIVEline:** The LIVEline gives an impression of the character of LIVEsciences. It summarises who they are and what they think is the right way of working together. For example, it includes values, principles, and behaviors the team is striving for and triggers passionate discussions on different situations in their day-to-day work life (https://livesciences.com/liveline/).
 
 
       *Status of August 2022*
   - topic: Decision Making
     title: At LIVEsciences, there are three types of decision making.
     content: >-
-      Single decision making with advice
+      At LIVEsciences, there are three types of decision making.
 
+
+      * Single decision making with advice
 
       * Consent
 
@@ -184,16 +150,14 @@ theory:
       address and resolve specifically interpersonal tensions:
 
 
-      1. The affected colleagues sit together and try to sort the tension out privately or process it in a dedicated meeting.
+      1. The affected colleagues **sit together** and try to sort the tension out privately or process it in a dedicated meeting.
 
-      2. If they can’t find a solution agreeable to everyone, they nominate a colleague they trust to act as a mediator or call an external mediator. The mediator doesn’t impose a decision. Rather, he or she supports the participants in coming to their own solution.
+      2. If they can’t find a solution agreeable to everyone, they **nominate a colleague** they trust **to act as a mediator** or **call an external mediator**. The mediator doesn’t impose a decision. Rather, he or she supports the participants in coming to their own solution.
 
-      3. If a tension cannot be resolved with the first two steps, the person with the tension can make a proposal for dismissal in Consent Decision Mode, where everybody can object except the person who is proposed to be dismissed. When there is no objection, the responsible person owning this accountability (currently Admin/Legal) is asked to formally give notice on behalf of the consent decision taken before.
-
+      3. If a tension cannot be resolved with the first two steps, the person with the tension can make a **proposal for dismissal** in Consent Decision Mode, where everybody can object except the person who is proposed to be dismissed. When there is no objection, the responsible person owning this accountability (currently Admin/Legal) is asked to formally give notice on behalf of the consent decision taken before.
 
 
       LIVEsciences also processes tensions within the system in a dedicated Tension Meeting and tensions on the system in the Governance Meeting (see “Meetings” for further information).
-
 
 
       *Status of August 2022*
@@ -202,13 +166,11 @@ theory:
       healthy culture and the basis for efficient and effective decision-making.
     content: >-
       LIVEsciences believes that information transparency is a key element of a
-      healthy culture and 
-
-      the basis for efficient and effective decision-making. Every employee has access to all 
-
-      business information to be able to sense and make the best decisions in serving the company. Those decisions include strategic company decisions, governance decisions, hiring decisions, 
-
-      or employee training records. individual decisions.
+      healthy culture and the basis for efficient and effective decision-making.
+      Every employee has access to all business information to be able to sense
+      and make the best decisions in serving the company. Those decisions
+      include strategic company decisions, governance decisions, hiring
+      decisions, or employee training records. individual decisions.
 
 
       On **Google Drive**, general information like cashflow forecast, CRM, project pipeline, and recruitment information are accessible for each employee. Individual information is transparent e.g. salary information, utilization rate, capacity planning, or vacation planning. Other platforms reveal information on booked hours, expense claims, and credit card billing. More detailed information on the financial situation of LIVEsciences is always available from the finance role holders.
@@ -238,14 +200,12 @@ theory:
 
       *Status of August 2022*
   - topic: Compensation and incentives
-    title: LIVEsciences has self-set salaries following a process that was adapted
-      over the years. Every employee sets their salary for one year without
-      ranges, levels, or limitations.
+    title: "LIVEsciences has self-set salaries following a process that was adapted
+      over the years. "
     content: >-
       LIVEsciences has self-set salaries following a process that was adapted
-      over the years. Every 
-
-      employee sets their salary for one year without ranges, levels, or limitations.
+      over the years. Every employee sets their salary for one year without
+      ranges, levels, or limitations.
 
 
       While this process is evolving, LIVEsciences followed these steps in its most recent compensation cycle:
@@ -306,7 +266,4 @@ theory:
 
 
       *Status of August 2022*
-  - topic: Meetings
-    title: -title-
-    content: \-content
 ---
