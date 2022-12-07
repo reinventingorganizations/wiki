@@ -237,4 +237,50 @@ theory:
 
 
       *Status of August 2022*
+  - topic: Compensation and incentives
+    title: LIVEsciences has self-set salaries following a process that was adapted
+      over the years. Every employee sets their salary for one year without
+      ranges, levels, or limitations.
+    content: >-
+      LIVEsciences has self-set salaries following a process that was adapted
+      over the years. Every 
+
+      employee sets their salary for one year without ranges, levels, or limitations.
+
+
+      While this process is evolving, LIVEsciences followed these steps in its most recent compensation cycle:
+
+
+      1. The individual collects financial & other inputs and reflects on money, self-worth, and value.
+
+      2. Every employee receives input from everyone else on what they think he/she should earn (one CHF-figure) in line with the advice process. This information is captured in a datasheet.
+
+      3. Everyone meets via Speed Dating with explanations for the figures and criteria people used for their advice.
+
+      4. The individual decides on their salary and communicates it.
+
+      5. Tensions get addressed and (sometimes) resolved.
+
+      6. The Finance Role has a veto right if the total salary amount (not per individual) might lead to financial distress for the company.
+
+
+      The salary process aims to fulfill the purpose to support the people to take a decision for their own salary for the following calendar year which is:
+
+
+      * Subjectively fair and reflective by self and others in the team
+
+      * In line with the entrepreneurial spirit
+
+      * Fulfills LIVEsciences need for efficient and lean approach and
+
+      * Fulfills the company need for financial sustainability
+
+
+      Besides the fixed annual salary LIVEsciences employees have the possibility to invest part of their salary in the LIVEpot supporting LIVEscienes keeping the structural cost low over the year. At the end of the year, a certain proportion of the profit is allocated to the LIVEpot contributions, applying a factor similar to an interest rate on the money invested. Reflecting the entrepreneurial risk, the factor is not always above 1, hence employees might have made an investment with their salary in the future of the company.
+
+
+      The compensation and the LIVEpot contribution are transparent to all employees.
+
+
+      *Status of August 2022*
 ---
