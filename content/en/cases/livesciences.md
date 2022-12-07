@@ -284,8 +284,28 @@ theory:
 
       *Status of August 2022*
   - topic: Recruitment
-    title: -title-
-    content: \-content-
+    title: "There are two roles engaged in the recruiting process: the Talent scout
+      and the Panel Lead."
+    content: >-
+      The **Talent Scout** identifies and attracts new hires with the best fit
+      to the LIVEline* (character)and customer needs (expertise). He or she
+      facilitates the recruiting process mainly by initiating self-assignment of
+      catalysts to form a balanced panel for the interviews. 
+
+
+      The Talent Scout enables continuous reflection on their sourcing tactics e.g. demand, location, and profile, and ensures an alignment between panels ongoing in parallel.
+
+
+      The interview process is driven by the **Panel Lead** who enrolls 2 further panel members forming a 3-person panel. During the interview process, the Panel Lead is the point of contact for the candidate answering his or her questions about compensation, benefits etc.
+
+
+      As recruiting decisions have a higher criticality to their business, hiring decisions are made by consensus amongst the 3 panel members.
+
+
+      \*LIVEline: The LIVEline gives an impression of the character of LIVEsciences. It summarises who they are and what they think is the right way of working together. For example, it includes values, principles, and behaviors the team is striving for and triggers passionate discussions on different situations in their day2day work life (https://livesciences.com/liveline/).
+
+
+      *Status of August 2022*
   - topic: Meetings
     title: -title-
     content: \-content
