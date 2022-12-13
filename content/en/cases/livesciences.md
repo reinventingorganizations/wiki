@@ -4,13 +4,13 @@ layout: case
 tags: cases
 name: LIVEsciences
 date: 2022-12-07T06:31:56.255Z
-introduction: "LIVEsciences was founded in 2016 with a strong belief to make the
-  corporate world a better\r
+introduction: >-
+  LIVEsciences (https://livesciences.com/) was founded in 2016 with a strong
+  belief to make the corporate world a better
 
-  one. Today LIVEsciences has grown to a team of curious, passionate, and
-  experienced\r
+  one. Today LIVEsciences has grown to a team of curious, passionate, and experienced
 
-  catalysts engaging with clients to bring teal practices to life."
+  catalysts engaging with clients to bring teal practices to life.
 industry: S. Other service activities
 geography: Switzerland
 companySize: 1-100
