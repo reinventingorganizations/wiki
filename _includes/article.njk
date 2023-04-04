@@ -70,7 +70,7 @@ templateEngineOverride: njk,md
 <h2 class="c-title c-title--section">{{ Concrete_cases_for_inspiration }}</h2>
 
 {% for case in cases %}
-    {% if case.data.locale == locale %}
+    {% if case.case.data.locale == locale %}
     <div class="c-collapsible">
         <h3 class="c-collapsible__title" data-component="toggler">
             <button class="c-collapsible__button">
