@@ -1,6 +1,6 @@
 ---
 key: teal-concepts
-name: Teal concepts
+name: Concetti Teal
 tags: backgroundTheoryCategories
 locale: it
 ---

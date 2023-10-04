@@ -1,6 +1,6 @@
 ---
 tags: practicesTheoryCategories
 key: People practices
-name: People practices ("HR")
+name: Risorse umane
 locale: it
 ---

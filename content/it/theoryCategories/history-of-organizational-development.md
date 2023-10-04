@@ -1,6 +1,6 @@
 ---
 tags: backgroundTheoryCategories
 key: history
-name: History of organizational evolution
+name: Storia dell'evoluzione delle organizzazioni
 locale: it
 ---

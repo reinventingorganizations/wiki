@@ -1,28 +1,28 @@
 ---
 layout: home
 name: Home
-tagline: A hearty welcome to the refreshed
-title: Reinventing Organizations Wiki
+tagline: Un caloroso benvenuto alla
+title: Wiki di Reinventare le Organizzazioni 
 intro: >-
   ![](/media/flagitaly.jpg)
 
 
-  This wiki is based on the book Reinventing Organizations by Frédéric Laloux. Its primary purpose is to serve as a practical guide for leaders who are reinventing their organization and are looking for inspiration as they upgrade specific management practices in their organization.
+  Questa wiki è basata sul libro Reinventing Organizations di Frédéric Laloux. Il suo scopo primario è di servire come guida pratica per i leader che stanno reinvendando le loro organizzazioni e sono alla ricerca di ispirazione per aggiornare le pratiche di management specifiche della loro organizzazione.
 
 
-  It is a labor of love, the work of a joyful community, dedicated to soulful organizations everywhere coming to life. We  invite you to[ join us and contribute](https://reinventingorganizationswiki.com/it/pages/how-can-you-contribute)  to add cases and insights to this wiki.
+  È un lavoro d'amore, l'opera di una comunità gioiosa, dedicata a organizzazioni animate che stanno prendendo vita in tutto il mondo. Ti invitiamo a [aiutarci e contribuire](https://reinventingorganizationswiki.com/it/pages/how-can-you-contribute) per aggiungere casi e approfondimenti a questa wiki.
 
 
-  ![](/media/flagGreatBritainXXS.png)    [Click here ](https://reinventingorganizationswiki.com/it/pages/translations) for accessing translations of this Wiki (Hungarian, Chinese and Spanish are available today - Polish, Russian and French are in progress)
+  ![](/media/flagGreatBritainXXS.png)    [Clicca qui](https://reinventingorganizationswiki.com/it/pages/translations) per accedere alle traduzioni di questa Wiki (Ungherese, Cinese e Spagnolo sono disponibili ad oggi - stiamo lavorando a Polacco, Russo e Francese)
   
 topics:
-  - title: Teal Concepts
+  - title: Concetti Teal
     image: /media/home_reinvention-etienne-small.png
     link: it/pages/tealconcepts
-  - title: Key structures and practices
+  - title: Strutture e pratiche chiave
     image: /media/home_difference-etrienne-small.png
     link: it/pages/tealpractices
-  - title: Concrete cases for inspiration
+  - title: Casi concreti a cui ispirarsi
     image: /media/home_cases-etienne-small.png
     link: it/cases
 ---
